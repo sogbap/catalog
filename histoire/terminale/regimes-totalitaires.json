@@ -1,0 +1,482 @@
+{
+  "id": "histoire-terminale-regimes-totalitaires",
+  "title": "Les régimes totalitaires",
+  "emoji": "👁️",
+  "subject": "history",
+  "courseDescription": "Histoire · Terminale — Thème 1, chapitre 2 : les régimes totalitaires soviétique, fasciste et nazi dans l'entre-deux-guerres.",
+  "lesson": "<style>\n  /* Styles propres aux illustrations SVG : s'adaptent au thème via\n     currentColor (texte) et var(--accent) (couleur de la matière). */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Les régimes totalitaires</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau :</b> Terminale générale — Histoire (tronc commun)<br>\n  <b>Thème 1 :</b> Fragilités des démocraties, totalitarismes et Seconde Guerre mondiale (1929-1945)<br>\n  <b>Chapitre 2</b> · environ 5 heures\n</div>\n\n<blockquote>\n  <p><b>Problématique.</b> Comment des régimes nés de la guerre et de la crise ont-ils prétendu contrôler totalement les individus, au point de menacer toutes les démocraties&nbsp;?</p>\n</blockquote>\n\n<p>Au sortir de la Première Guerre mondiale, puis avec la crise de 1929, la démocratie libérale semble incapable de répondre au chaos économique et social. Dans ce climat de peur et de colère surgissent des régimes d'un type <strong>nouveau</strong> : ni de simples dictatures, ni des monarchies, mais des États qui veulent encadrer la vie tout entière — le travail, l'école, les loisirs, jusqu'aux pensées. On les appelle les <strong>régimes totalitaires</strong>. Trois d'entre eux dominent l'entre-deux-guerres : l'URSS de Staline, l'Italie de Mussolini et l'Allemagne de Hitler.</p>\n\n<h2>1 · Qu'est-ce qu'un régime totalitaire&nbsp;?</h2>\n\n<p>Le mot « totalitaire » naît en <strong>Italie</strong> dans les années 1920, d'abord dans la bouche des opposants à Mussolini, avant d'être revendiqué par les fascistes : « tout dans l'État, rien hors de l'État ». Un régime totalitaire ne se contente pas d'interdire l'opposition (ce que fait un simple régime <em>autoritaire</em>) : il veut <strong>fabriquer un « homme nouveau »</strong> entièrement dévoué au régime.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Totalitarisme</strong><br>\n  Système politique dans lequel un parti unique cherche à contrôler <b>totalement</b> la société, l'économie et les esprits, en supprimant toute liberté individuelle au nom d'une idéologie.\n</div>\n\n<p>Malgré leurs différences, les trois régimes partagent les mêmes <strong>piliers</strong> :</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 360\" role=\"img\" aria-label=\"Les cinq piliers communs aux régimes totalitaires\">\n  <defs>\n    <marker id=\"ar-pl\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- Bloc central -->\n  <rect x=\"64\" y=\"8\" width=\"212\" height=\"44\" rx=\"12\" style=\"fill:var(--accent)\"/>\n  <text x=\"170\" y=\"35\" text-anchor=\"middle\" style=\"fill:#ffffff\" font-size=\"14.5\" font-weight=\"800\">RÉGIME TOTALITAIRE</text>\n  <path d=\"M170,52 L170,66\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-pl)\"/>\n  <!-- Piliers -->\n  <g>\n    <rect x=\"14\" y=\"68\" width=\"312\" height=\"48\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <circle cx=\"40\" cy=\"92\" r=\"13\" style=\"fill:var(--accent)\"/>\n    <text x=\"40\" y=\"97\" text-anchor=\"middle\" style=\"fill:#ffffff\" font-size=\"13\" font-weight=\"800\">1</text>\n    <text x=\"62\" y=\"88\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">Parti unique</text>\n    <text x=\"62\" y=\"105\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">le parti se confond avec l'État</text>\n  </g>\n  <g>\n    <rect x=\"14\" y=\"124\" width=\"312\" height=\"48\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <circle cx=\"40\" cy=\"148\" r=\"13\" style=\"fill:var(--accent)\"/>\n    <text x=\"40\" y=\"153\" text-anchor=\"middle\" style=\"fill:#ffffff\" font-size=\"13\" font-weight=\"800\">2</text>\n    <text x=\"62\" y=\"144\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">Idéologie unique</text>\n    <text x=\"62\" y=\"161\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">une vérité officielle imposée à tous</text>\n  </g>\n  <g>\n    <rect x=\"14\" y=\"180\" width=\"312\" height=\"48\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <circle cx=\"40\" cy=\"204\" r=\"13\" style=\"fill:var(--accent)\"/>\n    <text x=\"40\" y=\"209\" text-anchor=\"middle\" style=\"fill:#ffffff\" font-size=\"13\" font-weight=\"800\">3</text>\n    <text x=\"62\" y=\"200\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">Culte du chef</text>\n    <text x=\"62\" y=\"217\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">un guide présenté comme infaillible</text>\n  </g>\n  <g>\n    <rect x=\"14\" y=\"236\" width=\"312\" height=\"48\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <circle cx=\"40\" cy=\"260\" r=\"13\" style=\"fill:var(--accent)\"/>\n    <text x=\"40\" y=\"265\" text-anchor=\"middle\" style=\"fill:#ffffff\" font-size=\"13\" font-weight=\"800\">4</text>\n    <text x=\"62\" y=\"256\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">Propagande &amp; embrigadement</text>\n    <text x=\"62\" y=\"273\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">esprits, jeunesse et loisirs encadrés</text>\n  </g>\n  <g>\n    <rect x=\"14\" y=\"292\" width=\"312\" height=\"48\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n    <circle cx=\"40\" cy=\"316\" r=\"13\" style=\"fill:var(--accent)\"/>\n    <text x=\"40\" y=\"321\" text-anchor=\"middle\" style=\"fill:#ffffff\" font-size=\"13\" font-weight=\"800\">5</text>\n    <text x=\"62\" y=\"312\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">Terreur</text>\n    <text x=\"62\" y=\"329\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">police politique, camps, répression</text>\n  </g>\n</svg>\n<figcaption>Les cinq piliers communs des régimes totalitaires.</figcaption>\n</figure>\n\n<h2>2 · L'URSS de Staline : un totalitarisme communiste</h2>\n\n<p>Après la mort de Lénine (1924), <strong>Joseph Staline</strong> écarte ses rivaux, dont Trotski, et impose un pouvoir personnel absolu. Au nom du communisme, il veut bâtir une société sans classes — par la contrainte la plus brutale.</p>\n\n<h3>Une économie sous contrôle de l'État</h3>\n\n<p>L'État planifie toute l'économie (plans quinquennaux, <em>Gosplan</em>). Dans les campagnes, la <strong>collectivisation</strong> regroupe de force les paysans dans des fermes collectives (kolkhozes). Les paysans aisés, les « koulaks », sont déportés ou exécutés. La désorganisation provoque de terribles famines : l'<strong>Holodomor</strong> fait des millions de morts en Ukraine (1932-1933).</p>\n\n<h3>La terreur de masse</h3>\n\n<p>La police politique (le <strong>NKVD</strong>) surveille, arrête et déporte dans le <strong>Goulag</strong>, l'immense réseau de camps de travail forcé. En 1937-1938, la <strong>Grande Terreur</strong> culmine : lors des « procès de Moscou », de vieux bolcheviks et des cadres de l'Armée rouge sont éliminés. Partout, le <em>culte de Staline</em> — le « Petit Père des peuples » — sature l'espace public.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Goulag</strong><br>\n  Réseau soviétique de camps de travail forcé où sont enfermés opposants réels ou supposés. Symbole de la terreur d'État, il a coûté la vie à des millions de personnes.\n</div>\n\n<blockquote>\n  <p><strong>Point de passage et d'ouverture</strong><br>1937-1938 : la « Grande Terreur » en URSS.</p>\n</blockquote>\n\n<h2>3 · L'Italie fasciste de Mussolini : le premier totalitarisme</h2>\n\n<p>En octobre 1922, profitant du désordre social, <strong>Benito Mussolini</strong> et ses « chemises noires » organisent la <strong>Marche sur Rome</strong>. Le roi Victor-Emmanuel III le nomme alors chef du gouvernement. En quelques années, Mussolini — le <strong>Duce</strong> (« le guide ») — supprime les libertés, interdit les partis et installe la dictature du Parti national fasciste.</p>\n\n<p>Le régime encadre la société dès l'enfance (les jeunes « Balilla »), impose sa propagande et réprime par la police politique (l'<strong>OVRA</strong>). Le fascisme reste toutefois souvent qualifié de totalitarisme <em>inachevé</em> : le roi conserve son trône et l'Église catholique garde son influence (accords du Latran, 1929).</p>\n\n<div class=\"callout\">\n  <strong>Notion · Fascisme</strong><br>\n  Régime fondé par Mussolini en Italie : parti unique, culte du chef, exaltation de la nation et de la violence, encadrement de la société et rejet de la démocratie.\n</div>\n\n<h2>4 · L'Allemagne nazie de Hitler : un totalitarisme raciste</h2>\n\n<p>Le <strong>30 janvier 1933</strong>, dans une Allemagne ravagée par la crise, <strong>Adolf Hitler</strong> est nommé chancelier <em>légalement</em>. Il instaure aussitôt une dictature : après l'incendie du Reichstag, il obtient les pleins pouvoirs et supprime toute opposition. Hitler devient le <strong>Führer</strong> (« le guide »), chef absolu du IIIᵉ Reich.</p>\n\n<p>L'idéologie nazie, exposée dans <em>Mein Kampf</em>, repose sur le <strong>racisme</strong> et l'<strong>antisémitisme</strong> : elle proclame la supériorité de la prétendue « race aryenne » et la conquête d'un « espace vital » (<em>Lebensraum</em>) à l'Est. La société est embrigadée (Jeunesses hitlériennes), surveillée par la <strong>Gestapo</strong> et les SS, et abreuvée de propagande (Goebbels). Dès 1933 s'ouvrent les premiers <strong>camps de concentration</strong> (Dachau).</p>\n\n<blockquote>\n  <p><strong>Point de passage et d'ouverture</strong><br>30 janvier 1933 : Hitler, chancelier.</p>\n</blockquote>\n\n<p>L'antisémitisme devient une politique d'État : les <strong>lois de Nuremberg</strong> (1935) excluent les Juifs de la communauté nationale, et la <em>Nuit de Cristal</em> (1938) marque un pogrom de grande ampleur. Cette logique d'exclusion prépare les crimes de masse de la Seconde Guerre mondiale.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Nazisme</strong><br>\n  Idéologie et régime de Hitler reposant sur le racisme, l'antisémitisme, le culte du chef (le Führer) et la volonté de conquête. Forme la plus radicale et la plus meurtrière des totalitarismes.\n</div>\n\n<h2>5 · Points communs et différences</h2>\n\n<p>Les trois régimes se ressemblent par leurs <strong>méthodes</strong> : parti unique, culte du chef, propagande, terreur policière et encadrement de la société. Mais leurs <strong>idéologies</strong> diffèrent profondément.</p>\n\n<table>\n  <tr><th>&nbsp;</th><th>URSS</th><th>Italie</th><th>Allemagne</th></tr>\n  <tr><td>Chef</td><td>Staline</td><td>Mussolini (Duce)</td><td>Hitler (Führer)</td></tr>\n  <tr><td>Arrivée au pouvoir</td><td>1924-1929</td><td>1922</td><td>1933</td></tr>\n  <tr><td>Police politique</td><td>NKVD</td><td>OVRA</td><td>Gestapo / SS</td></tr>\n  <tr><td>Fondement</td><td>la classe</td><td>la nation</td><td>la race</td></tr>\n</table>\n\n<p>Le communisme soviétique se veut <strong>universaliste</strong> (l'égalité par la lutte des classes) ; le nazisme, à l'inverse, fonde tout sur l'<strong>inégalité des races</strong> et porte un projet d'extermination. C'est pourquoi le concept même de « totalitarisme », popularisé par la philosophe <strong>Hannah Arendt</strong> (<em>Les Origines du totalitarisme</em>, 1951), reste discuté : il éclaire les ressemblances, mais ne doit pas effacer ces différences fondamentales.</p>\n\n<blockquote>\n  <p>Régimes de masse et de terreur, les totalitarismes rejettent la démocratie et préparent, par leur volonté de conquête, le déclenchement de la <strong>Seconde Guerre mondiale</strong> — l'objet du chapitre 3.</p>\n</blockquote>\n\n<h2>L'essentiel</h2>\n\n<h3>Frise chronologique</h3>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 366\" role=\"img\" aria-label=\"Frise chronologique des régimes totalitaires, de 1922 à 1938\">\n  <line x1=\"74\" y1=\"22\" x2=\"74\" y2=\"348\" style=\"stroke:var(--accent);stroke-width:3;stroke-linecap:round\"/>\n  <!-- 1922 -->\n  <circle cx=\"74\" cy=\"40\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"45\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1922</text>\n  <text x=\"90\" y=\"45\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13.5\">Marche sur Rome (Mussolini)</text>\n  <!-- 1924 -->\n  <circle cx=\"74\" cy=\"101\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"106\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1924</text>\n  <text x=\"90\" y=\"106\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13.5\">Mort de Lénine ; Staline s'impose</text>\n  <!-- 1933 -->\n  <circle cx=\"74\" cy=\"162\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"167\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1933</text>\n  <text x=\"90\" y=\"167\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13.5\">Hitler chancelier (30 janvier)</text>\n  <!-- 1935 -->\n  <circle cx=\"74\" cy=\"223\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"228\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1935</text>\n  <text x=\"90\" y=\"228\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13.5\">Lois de Nuremberg</text>\n  <!-- 1937 -->\n  <circle cx=\"74\" cy=\"284\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"289\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1937</text>\n  <text x=\"90\" y=\"289\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13.5\">« Grande Terreur » en URSS</text>\n  <!-- 1938 -->\n  <circle cx=\"74\" cy=\"345\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"350\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1938</text>\n  <text x=\"90\" y=\"350\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13.5\">Nuit de Cristal (Allemagne)</text>\n</svg>\n</figure>\n\n<h3>Dates clés</h3>\n\n<table>\n  <tr><th>Date</th><th>Événement</th></tr>\n  <tr><td>1922</td><td>Marche sur Rome : Mussolini au pouvoir</td></tr>\n  <tr><td>1924</td><td>Mort de Lénine ; Staline s'impose en URSS</td></tr>\n  <tr><td>30 janv. 1933</td><td>Hitler nommé chancelier d'Allemagne</td></tr>\n  <tr><td>1935</td><td>Lois de Nuremberg (antisémitisme d'État)</td></tr>\n  <tr><td>1937-1938</td><td>« Grande Terreur » et procès de Moscou (URSS)</td></tr>\n  <tr><td>1938</td><td>Nuit de Cristal : pogrom en Allemagne</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition</th></tr>\n  <tr><td>Totalitarisme</td><td>Contrôle total de la société par un parti unique.</td></tr>\n  <tr><td>Parti unique</td><td>Un seul parti, confondu avec l'État.</td></tr>\n  <tr><td>Culte du chef</td><td>Propagande érigeant le dirigeant en guide infaillible.</td></tr>\n  <tr><td>Goulag</td><td>Système concentrationnaire soviétique.</td></tr>\n  <tr><td>Antisémitisme</td><td>Haine et persécution des Juifs (cœur de l'idéologie nazie).</td></tr>\n  <tr><td>Propagande</td><td>Manipulation des esprits au service de l'idéologie.</td></tr>\n</table>\n\n<h3>Les acteurs</h3>\n\n<table>\n  <tr><th>Acteur</th><th>Rôle</th></tr>\n  <tr><td>Staline</td><td>Dirigeant de l'URSS : planification et terreur de masse.</td></tr>\n  <tr><td>Mussolini</td><td>« Duce », fondateur du fascisme italien (1922).</td></tr>\n  <tr><td>Hitler</td><td>« Führer » du IIIᵉ Reich, idéologie raciste et antisémite.</td></tr>\n  <tr><td>Hannah Arendt</td><td>Philosophe, théoricienne du totalitarisme (1951).</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Ne confondez pas <b>autoritaire</b> et <b>totalitaire</b> : un régime autoritaire muselle l'opposition ; un régime totalitaire veut encadrer <em>toute</em> la société. Et si les trois régimes partagent des méthodes communes, leurs idéologies diffèrent profondément (la <b>classe</b>, la <b>nation</b>, la <b>race</b>).\n</div>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Fragilités des démocraties, totalitarismes et Seconde Guerre mondiale (1929-1945)",
+  "cards": [
+    {
+      "recto": "Quel type de régime cherche à soumettre TOTALEMENT la société, l'économie et les consciences à un parti unique ?",
+      "verso": "Un régime totalitaire",
+      "explanation": "Le totalitarisme ne se contente pas d'interdire l'opposition (régime autoritaire) : il veut façonner un « homme nouveau » et contrôler tous les aspects de la vie.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Une démocratie",
+          "Une république",
+          "Une monarchie constitutionnelle"
+        ],
+        "medium": [
+          "Un régime parlementaire",
+          "Une fédération",
+          "Une théocratie"
+        ],
+        "hard": [
+          "Un régime autoritaire",
+          "Une dictature militaire classique",
+          "Un régime oligarchique"
+        ]
+      }
+    },
+    {
+      "recto": "Dans quel pays le mot « totalitaire » apparaît-il dans les années 1920 ?",
+      "verso": "L'Italie",
+      "explanation": "« Totalitario » est d'abord employé par les opposants à Mussolini, avant d'être revendiqué par les fascistes eux-mêmes (« tout dans l'État, rien hors de l'État »).",
+      "tags": [
+        "notion",
+        "Italie"
+      ],
+      "distractors": {
+        "easy": [
+          "Les États-Unis",
+          "La France",
+          "Le Royaume-Uni"
+        ],
+        "medium": [
+          "L'Allemagne",
+          "L'URSS",
+          "L'Espagne"
+        ],
+        "hard": [
+          "La Russie",
+          "Le Japon",
+          "L'Autriche"
+        ]
+      }
+    },
+    {
+      "recto": "Qui dirige l'URSS à partir de la fin des années 1920 ?",
+      "verso": "Staline",
+      "explanation": "Joseph Staline écarte ses rivaux (dont Trotski) après la mort de Lénine (1924) et impose un pouvoir personnel. À ne pas confondre avec Lénine, fondateur de l'URSS.",
+      "tags": [
+        "acteur",
+        "URSS"
+      ],
+      "distractors": {
+        "easy": [
+          "Napoléon",
+          "Karl Marx",
+          "Mao Zedong"
+        ],
+        "medium": [
+          "Nikita Khrouchtchev",
+          "Léon Trotski",
+          "Mikhaïl Gorbatchev"
+        ],
+        "hard": [
+          "Lénine",
+          "Nikolaï Boukharine",
+          "Félix Dzerjinski"
+        ]
+      }
+    },
+    {
+      "recto": "Comment nomme-t-on le réseau de camps de travail forcé de l'URSS ?",
+      "verso": "Le Goulag",
+      "explanation": "Le Goulag enferme opposants réels ou supposés dans des conditions effroyables. Les « camps de concentration » nazis en sont l'équivalent allemand : ne pas confondre les deux systèmes.",
+      "tags": [
+        "notion",
+        "URSS"
+      ],
+      "distractors": {
+        "easy": [
+          "Le Kremlin",
+          "Le Bolchoï",
+          "Le Panthéon"
+        ],
+        "medium": [
+          "Le Komintern",
+          "Le Politburo",
+          "Le kolkhoze"
+        ],
+        "hard": [
+          "Le NKVD",
+          "Le Gosplan",
+          "L'Okhrana"
+        ]
+      }
+    },
+    {
+      "recto": "Comment appelle-t-on la vague de répression et de procès qui frappe l'URSS en 1937-1938 ?",
+      "verso": "La Grande Terreur",
+      "explanation": "Lors des « procès de Moscou », Staline élimine de vieux bolcheviks et des cadres de l'Armée rouge. Des centaines de milliers de personnes sont exécutées.",
+      "tags": [
+        "dates",
+        "URSS"
+      ],
+      "distractors": {
+        "easy": [
+          "La Renaissance",
+          "Les Lumières",
+          "La Belle Époque"
+        ],
+        "medium": [
+          "La Révolution d'Octobre",
+          "La NEP",
+          "La guerre civile russe"
+        ],
+        "hard": [
+          "La dékoulakisation",
+          "Le Holodomor",
+          "La déstalinisation"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle politique agricole Staline impose-t-il en regroupant de force les terres et les paysans ?",
+      "verso": "La collectivisation",
+      "explanation": "Les paysans sont enrôlés dans des fermes collectives (kolkhozes). La résistance des « koulaks » est écrasée ; la désorganisation provoque de terribles famines (Holodomor en Ukraine, 1932-1933).",
+      "tags": [
+        "notion",
+        "URSS"
+      ],
+      "distractors": {
+        "easy": [
+          "La privatisation",
+          "La mondialisation",
+          "La décolonisation"
+        ],
+        "medium": [
+          "La nationalisation des banques",
+          "Le protectionnisme",
+          "La réforme agraire libérale"
+        ],
+        "hard": [
+          "La NEP",
+          "La dékoulakisation",
+          "La planification industrielle"
+        ]
+      }
+    },
+    {
+      "recto": "Qui dirige l'Italie fasciste, surnommé « le Duce » ?",
+      "verso": "Mussolini",
+      "explanation": "Benito Mussolini, fondateur du fascisme, dirige l'Italie de 1922 à 1943. « Duce » signifie « le guide » en italien.",
+      "tags": [
+        "acteur",
+        "Italie"
+      ],
+      "distractors": {
+        "easy": [
+          "Jules César",
+          "Garibaldi",
+          "Marco Polo"
+        ],
+        "medium": [
+          "Francisco Franco",
+          "Adolf Hitler",
+          "Philippe Pétain"
+        ],
+        "hard": [
+          "Victor-Emmanuel III",
+          "Galeazzo Ciano",
+          "Antonio Gramsci"
+        ]
+      }
+    },
+    {
+      "recto": "Quel coup de force porte Mussolini au pouvoir en 1922 ?",
+      "verso": "La Marche sur Rome",
+      "explanation": "En octobre 1922, les « chemises noires » fascistes marchent sur la capitale ; le roi Victor-Emmanuel III nomme alors Mussolini chef du gouvernement.",
+      "tags": [
+        "dates",
+        "Italie"
+      ],
+      "distractors": {
+        "easy": [
+          "La prise de la Bastille",
+          "Le débarquement de Sicile",
+          "Le sac de Rome"
+        ],
+        "medium": [
+          "Le putsch de la Brasserie",
+          "La Longue Marche",
+          "La Marche sur Versailles"
+        ],
+        "hard": [
+          "La Marche sur Naples",
+          "L'incendie du Reichstag",
+          "Les Accords du Latran"
+        ]
+      }
+    },
+    {
+      "recto": "En quelle année Hitler devient-il chancelier d'Allemagne ?",
+      "verso": "1933",
+      "explanation": "Le 30 janvier 1933, Hitler est nommé chancelier légalement. Il établit ensuite très vite une dictature (incendie du Reichstag, pleins pouvoirs).",
+      "tags": [
+        "dates",
+        "Allemagne"
+      ],
+      "distractors": {
+        "easy": [
+          "1789",
+          "1945",
+          "1914"
+        ],
+        "medium": [
+          "1923",
+          "1939",
+          "1929"
+        ],
+        "hard": [
+          "1932",
+          "1934",
+          "1936"
+        ]
+      }
+    },
+    {
+      "recto": "Quel titre porte Hitler, chef tout-puissant du IIIᵉ Reich ?",
+      "verso": "Le Führer",
+      "explanation": "« Führer » signifie « le guide ». Le principe du Führer (Führerprinzip) concentre toute l'autorité entre ses mains. C'est l'équivalent allemand du « Duce » italien.",
+      "tags": [
+        "notion",
+        "Allemagne"
+      ],
+      "distractors": {
+        "easy": [
+          "Le roi",
+          "Le pape",
+          "L'empereur"
+        ],
+        "medium": [
+          "Le Duce",
+          "Le Caudillo",
+          "Le tsar"
+        ],
+        "hard": [
+          "Le chancelier",
+          "Le Kaiser",
+          "Le Reichsführer"
+        ]
+      }
+    },
+    {
+      "recto": "Dans quel ouvrage Hitler expose-t-il son idéologie raciste et antisémite ?",
+      "verso": "Mein Kampf",
+      "explanation": "« Mein Kampf » (« Mon combat »), écrit en 1924, expose l'antisémitisme, le racisme et la conquête d'un « espace vital ». À ne pas confondre avec « Le Capital » de Karl Marx.",
+      "tags": [
+        "acteur",
+        "Allemagne"
+      ],
+      "distractors": {
+        "easy": [
+          "La Bible",
+          "L'Odyssée",
+          "Les Misérables"
+        ],
+        "medium": [
+          "Le Prince",
+          "Le Contrat social",
+          "L'Encyclopédie"
+        ],
+        "hard": [
+          "Le Capital",
+          "Le Manifeste du Parti communiste",
+          "Que faire ?"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles lois de 1935 privent les Juifs de la citoyenneté allemande ?",
+      "verso": "Les lois de Nuremberg",
+      "explanation": "Les lois de Nuremberg (1935) institutionnalisent l'antisémitisme d'État : interdiction des mariages mixtes, exclusion de la communauté nationale. Elles préparent les persécutions à venir.",
+      "tags": [
+        "dates",
+        "Allemagne"
+      ],
+      "distractors": {
+        "easy": [
+          "Les Dix Commandements",
+          "Le Code de la route",
+          "La Grande Charte"
+        ],
+        "medium": [
+          "Les lois de Vichy",
+          "Le Code Napoléon",
+          "Les lois Ferry"
+        ],
+        "hard": [
+          "La Constitution de Weimar",
+          "Les accords de Munich",
+          "Le pacte germano-soviétique"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle police politique traque les opposants dans l'Allemagne nazie ?",
+      "verso": "La Gestapo",
+      "explanation": "La Gestapo (police secrète d'État) et les SS répriment toute opposition. Son équivalent soviétique est le NKVD, son équivalent fasciste italien l'OVRA.",
+      "tags": [
+        "notion",
+        "Allemagne"
+      ],
+      "distractors": {
+        "easy": [
+          "La gendarmerie",
+          "Les pompiers",
+          "La police municipale"
+        ],
+        "medium": [
+          "Le NKVD",
+          "L'OVRA",
+          "La CIA"
+        ],
+        "hard": [
+          "La Wehrmacht",
+          "La Luftwaffe",
+          "L'Abwehr"
+        ]
+      }
+    },
+    {
+      "recto": "Quel terme désigne l'« espace vital » que l'Allemagne nazie veut conquérir à l'Est ?",
+      "verso": "Le Lebensraum",
+      "explanation": "Le « Lebensraum » (espace vital) justifie l'expansion territoriale aux dépens des peuples slaves, jugés « inférieurs » par l'idéologie raciale nazie.",
+      "tags": [
+        "notion",
+        "Allemagne"
+      ],
+      "distractors": {
+        "easy": [
+          "Le Far West",
+          "La Terre promise",
+          "L'Eldorado"
+        ],
+        "medium": [
+          "Le Blitzkrieg",
+          "L'Anschluss",
+          "Le Diktat"
+        ],
+        "hard": [
+          "Le Troisième Reich",
+          "La ligne Siegfried",
+          "Le mur de l'Atlantique"
+        ]
+      }
+    },
+    {
+      "recto": "Quel trait politique est commun aux régimes soviétique, fasciste et nazi ?",
+      "verso": "Le parti unique",
+      "explanation": "Un seul parti, confondu avec l'État, monopolise le pouvoir. C'est l'un des piliers du totalitarisme, avec le culte du chef, la terreur et la propagande.",
+      "tags": [
+        "comparaison",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le multipartisme",
+          "La liberté de la presse",
+          "Des élections libres"
+        ],
+        "medium": [
+          "La séparation des pouvoirs",
+          "Le suffrage universel",
+          "L'alternance politique"
+        ],
+        "hard": [
+          "Le fédéralisme",
+          "Le parlementarisme",
+          "Le pluralisme syndical"
+        ]
+      }
+    },
+    {
+      "recto": "Qui a théorisé le totalitarisme dans « Les Origines du totalitarisme » (1951) ?",
+      "verso": "Hannah Arendt",
+      "explanation": "Hannah Arendt rapproche nazisme et stalinisme autour de l'idéologie, du parti unique et de la terreur de masse. Le concept reste discuté : certains historiens insistent sur les différences profondes entre les régimes.",
+      "tags": [
+        "notion",
+        "acteur"
+      ],
+      "distractors": {
+        "easy": [
+          "Marie Curie",
+          "Cléopâtre",
+          "Jeanne d'Arc"
+        ],
+        "medium": [
+          "Simone de Beauvoir",
+          "Albert Camus",
+          "Jean-Paul Sartre"
+        ],
+        "hard": [
+          "Raymond Aron",
+          "Karl Popper",
+          "George Orwell"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qui distingue un régime TOTALITAIRE d'un simple régime autoritaire ?",
+      "verso": "Il veut contrôler TOUTE la société, pas seulement l'opposition",
+      "explanation": "Un régime autoritaire muselle l'opposition mais laisse des espaces de liberté privée. Le totalitarisme, lui, embrigade tout (école, loisirs, économie, pensée) pour créer un « homme nouveau ».",
+      "tags": [
+        "piege",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Il organise des élections libres",
+          "Il respecte la liberté de la presse",
+          "Il limite les pouvoirs du chef"
+        ],
+        "medium": [
+          "Il se contente d'interdire les partis",
+          "Il dure toujours moins longtemps",
+          "Il n'utilise jamais la violence"
+        ],
+        "hard": [
+          "Il tolère une presse d'opposition",
+          "Il sépare l'État et le parti unique",
+          "Il laisse l'économie totalement libre"
+        ]
+      }
+    },
+    {
+      "recto": "Sur quoi repose l'idéologie nazie, à la différence du communisme soviétique ?",
+      "verso": "Le racisme et l'antisémitisme",
+      "explanation": "Le nazisme fonde tout sur la « race » (hiérarchie raciale, antisémitisme), tandis que le communisme soviétique se réclame de la lutte des classes et d'un projet universaliste. C'est une différence majeure entre les deux régimes.",
+      "tags": [
+        "comparaison",
+        "Allemagne"
+      ],
+      "distractors": {
+        "easy": [
+          "L'égalité de tous les peuples",
+          "La défense des démocraties",
+          "La paix universelle"
+        ],
+        "medium": [
+          "La lutte des classes",
+          "L'abolition de la propriété privée",
+          "L'internationalisme ouvrier"
+        ],
+        "hard": [
+          "La collectivisation des terres",
+          "La dictature du prolétariat",
+          "L'émancipation des colonies"
+        ]
+      }
+    }
+  ]
+}
