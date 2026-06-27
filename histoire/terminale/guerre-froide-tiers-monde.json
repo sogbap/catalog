@@ -1,0 +1,532 @@
+{
+  "id": "histoire-terminale-guerre-froide-tiers-monde",
+  "title": "Guerre froide et tiers-monde",
+  "emoji": "🌏",
+  "subject": "history",
+  "courseDescription": "Histoire · Terminale — Thème 2, chapitre 2 : la bipolarisation du monde et l'émergence du tiers-monde (années 1940-1970) — crises de la Guerre froide (Berlin, Corée, Cuba), décolonisation et non-alignement.",
+  "lesson": "<style>\n  /* Styles propres aux illustrations SVG : s'adaptent au thème via\n     currentColor (texte) et var(--accent) (couleur de la matière). */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>La bipolarisation du monde et l'émergence du tiers-monde</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau :</b> Terminale générale — Histoire (tronc commun)<br>\n  <b>Thème 2 :</b> La multiplication des acteurs internationaux dans un monde bipolaire (de 1945 au début des années 1970)<br>\n  <b>Chapitre 2</b> · environ 7 heures\n</div>\n\n<blockquote>\n  <p><b>Problématique.</b> Comment, dans un monde dominé par l'affrontement des deux Grands, de nouveaux acteurs parviennent-ils à exister&nbsp;?</p>\n</blockquote>\n\n<p>À partir de 1947, le monde est coupé en deux blocs rivaux&nbsp;: c'est la <strong>bipolarisation</strong>. Les États-Unis et l'URSS s'affrontent partout — sans jamais se faire directement la guerre, par peur de l'arme nucléaire. Pendant ce temps, la <strong>décolonisation</strong> fait surgir des dizaines de nouveaux États qui, refusant de choisir un camp, forment le <strong>tiers-monde</strong>. Le face-à-face à deux laisse place à un monde plus complexe.</p>\n\n<h2>1 · Un affrontement planétaire sous la menace nucléaire</h2>\n\n<p>Les deux superpuissances rivalisent dans tous les domaines&nbsp;: idéologie, économie, sport, conquête de l'espace. Mais c'est surtout la <strong>course aux armements</strong> qui les définit. Dès 1949, l'URSS possède à son tour la bombe atomique&nbsp;; les deux camps accumulent ensuite un arsenal capable de détruire la planète plusieurs fois.</p>\n\n<p>Cette surenchère débouche sur une situation paradoxale&nbsp;: l'<strong>équilibre de la terreur</strong>. Comme une attaque entraînerait une riposte anéantissant l'agresseur lui-même, aucun des deux Grands n'ose la déclencher. La peur réciproque devient une étrange garantie de paix entre eux.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Équilibre de la terreur</strong><br>\n  Situation où deux adversaires possèdent assez d'armes nucléaires pour <b>se détruire mutuellement</b>. La certitude d'une riposte dévastatrice les <b>dissuade</b> de s'attaquer directement.\n</div>\n\n<h2>2 · Les grandes crises de la Guerre froide</h2>\n\n<p>L'affrontement reste « froid » entre les deux Grands, mais il devient « chaud » à leurs marges. En Asie, la <strong>guerre de Corée</strong> (1950-1953) oppose, par États interposés, le Nord communiste au Sud soutenu par les États-Unis&nbsp;: c'est le premier grand conflit armé de la Guerre froide.</p>\n\n<p>En Europe, la question allemande reste explosive. Pour stopper la fuite de sa population vers l'Ouest, la RDA érige en 1961 le <strong>mur de Berlin</strong>, qui devient le symbole le plus visible de la coupure du monde. Un an plus tard, la <strong>crise de Cuba</strong> (octobre 1962) marque l'apogée de la tension&nbsp;: la découverte de missiles soviétiques à Cuba provoque un face-à-face de treize jours entre Kennedy et Khrouchtchev. Le recul soviétique évite de justesse la guerre nucléaire.</p>\n\n<blockquote>\n  <p><strong>Point de passage et d'ouverture</strong><br>1961-1962&nbsp;: Berlin et Cuba, deux crises majeures de la Guerre froide.</p>\n</blockquote>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 326\" role=\"img\" aria-label=\"L'escalade des crises de la Guerre froide, de la Corée à Cuba\">\n  <defs>\n    <marker id=\"ar-cr\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- Phase 1 -->\n  <g>\n    <rect x=\"14\" y=\"8\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"40\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">1950-1953 · La guerre de Corée</text>\n    <text x=\"30\" y=\"65\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">Premier affrontement par États interposés</text>\n  </g>\n  <path d=\"M170,88 L170,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-cr)\"/>\n  <!-- Phase 2 -->\n  <g>\n    <rect x=\"14\" y=\"110\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"142\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">1961 · Le mur de Berlin</text>\n    <text x=\"30\" y=\"167\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">Berlin et l'Allemagne coupées en deux</text>\n  </g>\n  <path d=\"M170,190 L170,210\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-cr)\"/>\n  <!-- Phase 3 -->\n  <g>\n    <rect x=\"14\" y=\"212\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"244\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">1962 · La crise de Cuba</text>\n    <text x=\"30\" y=\"269\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">Le monde au bord de la guerre nucléaire</text>\n  </g>\n</svg>\n<figcaption>Une tension croissante, jusqu'à l'apogée de 1962.</figcaption>\n</figure>\n\n<h2>3 · De la coexistence pacifique à la Détente</h2>\n\n<p>La mort de Staline, en 1953, ouvre une nouvelle phase. Son successeur, <strong>Khrouchtchev</strong>, dénonce ses crimes (déstalinisation) et défend la <strong>coexistence pacifique</strong>&nbsp;: les deux systèmes peuvent rivaliser sans s'affronter militairement. Attention&nbsp;: ce n'est pas la fin de la Guerre froide, mais une autre manière de la mener.</p>\n\n<p>Après la peur de 1962, les deux Grands cherchent à mieux maîtriser leur rivalité. C'est la <strong>Détente</strong>&nbsp;: installation d'un « téléphone rouge » entre Washington et Moscou, premiers accords de limitation des armes nucléaires (SALT). Les tensions demeurent, mais on tente désormais de les contrôler.</p>\n\n<blockquote>\n  <p><strong>Point de passage et d'ouverture</strong><br>1956&nbsp;: Khrouchtchev, le rapport secret et la déstalinisation.</p>\n</blockquote>\n\n<h2>4 · La décolonisation et la naissance du tiers-monde</h2>\n\n<p>Affaiblies par la guerre et contestées par de puissants mouvements nationalistes, les puissances coloniales européennes doivent céder. C'est la <strong>décolonisation</strong>. Elle suit deux grandes voies&nbsp;: la <em>négociation</em>, comme pour l'<strong>Inde</strong> indépendante en 1947 (sous l'impulsion de Gandhi et Nehru), ou la <em>guerre</em>, comme en Indochine et en Algérie. En 1960, l'« <strong>année de l'Afrique</strong> » voit dix-sept États africains accéder d'un coup à l'indépendance.</p>\n\n<p>Ces nouveaux pays, souvent pauvres, n'appartiennent ni au bloc de l'Ouest ni à celui de l'Est. En 1952, le démographe Alfred Sauvy les baptise le <strong>tiers-monde</strong>, par analogie avec le « tiers état » de 1789&nbsp;: un ensemble longtemps ignoré, mais qui veut désormais compter.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Tiers-monde</strong><br>\n  Ensemble des pays pauvres, souvent issus de la décolonisation, qui n'appartiennent à <b>aucun des deux blocs</b>. Le terme est d'abord une <b>revendication politique</b>, et pas seulement une catégorie économique.\n</div>\n\n<h2>5 · Bandung et le non-alignement</h2>\n\n<p>Le tiers-monde entre sur la scène internationale en 1955, à la <strong>conférence de Bandung</strong>, en Indonésie&nbsp;: vingt-neuf États d'Asie et d'Afrique y condamnent le colonialisme et affirment leur solidarité. C'est l'acte de naissance politique du tiers-monde comme acteur des relations internationales.</p>\n\n<p>De cet élan naît le <strong>non-alignement</strong>, officialisé à la conférence de <strong>Belgrade</strong> en 1961. Conduits par <strong>Nehru</strong> (Inde), <strong>Nasser</strong> (Égypte) et <strong>Tito</strong> (Yougoslavie), ces pays refusent de se ranger derrière l'un ou l'autre des Grands et veulent peser comme une « troisième force ».</p>\n\n<div class=\"callout\">\n  <strong>Notion · Non-alignement</strong><br>\n  Position des pays qui <b>refusent de se ranger</b> derrière l'un des deux blocs pour exister de façon autonome. Le mouvement des non-alignés prolonge l'esprit de Bandung.\n</div>\n\n<blockquote>\n  <p><strong>Point de passage et d'ouverture</strong><br>1955&nbsp;: la conférence afro-asiatique de Bandung.</p>\n</blockquote>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Un monde à trois pôles : l'Ouest, l'Est et le tiers-monde\">\n  <!-- Ouest -->\n  <rect x=\"8\" y=\"8\" width=\"100\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">Ouest</text>\n  <text x=\"58\" y=\"58\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">États-Unis</text>\n  <text x=\"58\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">capitalisme</text>\n  <text x=\"58\" y=\"116\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">démocratie</text>\n  <text x=\"58\" y=\"142\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">OTAN (1949)</text>\n  <!-- Est -->\n  <rect x=\"120\" y=\"8\" width=\"100\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">Est</text>\n  <text x=\"170\" y=\"58\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">URSS</text>\n  <text x=\"170\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">communisme</text>\n  <text x=\"170\" y=\"116\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">parti unique</text>\n  <text x=\"170\" y=\"142\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">Varsovie (1955)</text>\n  <!-- Tiers-monde -->\n  <rect x=\"232\" y=\"8\" width=\"100\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.06;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5;stroke-dasharray:4 4\"/>\n  <text x=\"282\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">Tiers-monde</text>\n  <text x=\"282\" y=\"58\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11\" font-weight=\"700\">non-alignés</text>\n  <text x=\"282\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">décolonisation</text>\n  <text x=\"282\" y=\"116\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">Bandung 1955</text>\n  <text x=\"282\" y=\"142\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">Belgrade 1961</text>\n</svg>\n<figcaption>Face aux deux blocs, le tiers-monde s'affirme comme un troisième acteur.</figcaption>\n</figure>\n\n<blockquote>\n  <p>Dans ce monde bipolaire et traversé par la décolonisation, une puissance moyenne comme la France cherche elle aussi sa place&nbsp;: c'est l'objet du chapitre suivant.</p>\n</blockquote>\n\n<h2>L'essentiel</h2>\n\n<h3>Frise chronologique</h3>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 366\" role=\"img\" aria-label=\"Frise chronologique de la Guerre froide et de la décolonisation, de 1947 à 1962\">\n  <line x1=\"74\" y1=\"22\" x2=\"74\" y2=\"348\" style=\"stroke:var(--accent);stroke-width:3;stroke-linecap:round\"/>\n  <!-- 1947 -->\n  <circle cx=\"74\" cy=\"40\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"45\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1947</text>\n  <text x=\"90\" y=\"45\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Indépendance de l'Inde</text>\n  <!-- 1950 -->\n  <circle cx=\"74\" cy=\"101\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"106\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1950</text>\n  <text x=\"90\" y=\"106\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Début de la guerre de Corée</text>\n  <!-- 1955 -->\n  <circle cx=\"74\" cy=\"162\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"167\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1955</text>\n  <text x=\"90\" y=\"167\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Conférence de Bandung</text>\n  <!-- 1960 -->\n  <circle cx=\"74\" cy=\"223\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"228\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1960</text>\n  <text x=\"90\" y=\"228\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">« Année de l'Afrique »</text>\n  <!-- 1961 -->\n  <circle cx=\"74\" cy=\"284\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"289\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1961</text>\n  <text x=\"90\" y=\"289\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Mur de Berlin ; Belgrade</text>\n  <!-- 1962 -->\n  <circle cx=\"74\" cy=\"345\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"350\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1962</text>\n  <text x=\"90\" y=\"350\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Crise des missiles de Cuba</text>\n</svg>\n</figure>\n\n<h3>Dates clés</h3>\n\n<table>\n  <tr><th>Date</th><th>Événement</th></tr>\n  <tr><td>1947</td><td>Indépendance de l'Inde (Gandhi, Nehru)</td></tr>\n  <tr><td>1949</td><td>L'URSS obtient la bombe atomique</td></tr>\n  <tr><td>1950-1953</td><td>Guerre de Corée</td></tr>\n  <tr><td>1955</td><td>Conférence de Bandung</td></tr>\n  <tr><td>1956</td><td>Rapport Khrouchtchev : la déstalinisation</td></tr>\n  <tr><td>1960</td><td>« Année de l'Afrique » (17 États indépendants)</td></tr>\n  <tr><td>1961</td><td>Mur de Berlin ; conférence de Belgrade</td></tr>\n  <tr><td>1962</td><td>Crise des missiles de Cuba</td></tr>\n  <tr><td>années 1960-70</td><td>Guerre du Vietnam ; Détente</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition</th></tr>\n  <tr><td>Course aux armements</td><td>Compétition pour l'arsenal le plus puissant.</td></tr>\n  <tr><td>Équilibre de la terreur</td><td>Dissuasion réciproque par l'arme nucléaire.</td></tr>\n  <tr><td>Coexistence pacifique</td><td>Rivalité sans affrontement direct (Khrouchtchev).</td></tr>\n  <tr><td>Détente</td><td>Apaisement relatif et contrôle des armements.</td></tr>\n  <tr><td>Décolonisation</td><td>Accession des colonies à l'indépendance.</td></tr>\n  <tr><td>Tiers-monde</td><td>Pays pauvres, ni à l'Est ni à l'Ouest (Sauvy, 1952).</td></tr>\n  <tr><td>Non-alignement</td><td>Refus de se ranger derrière un bloc (Belgrade, 1961).</td></tr>\n</table>\n\n<h3>Les acteurs</h3>\n\n<table>\n  <tr><th>Acteur</th><th>Rôle</th></tr>\n  <tr><td>Khrouchtchev</td><td>Dirigeant de l'URSS : déstalinisation et coexistence pacifique.</td></tr>\n  <tr><td>Kennedy</td><td>Président des États-Unis lors de la crise de Cuba (1962).</td></tr>\n  <tr><td>Nehru</td><td>Premier ministre de l'Inde, figure du non-alignement.</td></tr>\n  <tr><td>Nasser</td><td>Dirigeant de l'Égypte, leader du tiers-monde.</td></tr>\n  <tr><td>Tito</td><td>Dirigeant de la Yougoslavie, hôte de la conférence de Belgrade.</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  La «&nbsp;coexistence pacifique&nbsp;» <b>n'est pas la fin</b> de la Guerre froide&nbsp;: la rivalité continue, sans choc direct entre les Grands. Et le «&nbsp;tiers-monde&nbsp;» n'est pas qu'une affaire de pauvreté&nbsp;: c'est d'abord une <b>notion politique</b>. Enfin, si la guerre est dite «&nbsp;froide&nbsp;», c'est parce que les deux Grands ne s'affrontent jamais directement — mais les conflits «&nbsp;périphériques&nbsp;» (Corée, Vietnam) sont, eux, bien meurtriers.\n</div>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "La multiplication des acteurs internationaux dans un monde bipolaire (de 1945 au début des années 1970)",
+  "cards": [
+    {
+      "recto": "Comment nomme-t-on la compétition entre les États-Unis et l'URSS pour posséder les armes les plus nombreuses et les plus puissantes, notamment nucléaires ?",
+      "verso": "La course aux armements",
+      "explanation": "Dès 1949, l'URSS se dote à son tour de la bombe atomique. Les deux Grands accumulent alors un arsenal nucléaire colossal, chacun cherchant à ne jamais être dépassé par l'autre.",
+      "tags": [
+        "notion",
+        "Guerre froide"
+      ],
+      "distractors": {
+        "easy": [
+          "La course à l'espace",
+          "La ruée vers l'or",
+          "La révolution industrielle"
+        ],
+        "medium": [
+          "La course aux colonies",
+          "Le désarmement",
+          "La mondialisation"
+        ],
+        "hard": [
+          "La prolifération nucléaire",
+          "La dissuasion du faible au fort",
+          "La guerre des étoiles"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle expression désigne la situation où États-Unis et URSS possèdent assez d'armes nucléaires pour se détruire mutuellement, ce qui les dissuade de s'attaquer ?",
+      "verso": "L'équilibre de la terreur",
+      "explanation": "Comme une attaque entraînerait des représailles capables d'anéantir les deux camps, aucun n'ose franchir le pas. La peur réciproque devient paradoxalement une garantie de paix entre les Grands.",
+      "tags": [
+        "notion",
+        "Guerre froide"
+      ],
+      "distractors": {
+        "easy": [
+          "L'âge d'or",
+          "La paix universelle",
+          "La terreur révolutionnaire"
+        ],
+        "medium": [
+          "La coexistence pacifique",
+          "La sécurité collective",
+          "La détente"
+        ],
+        "hard": [
+          "La destruction mutuelle assurée",
+          "La dissuasion graduée",
+          "La parité stratégique"
+        ]
+      }
+    },
+    {
+      "recto": "Quel conflit de 1950-1953 oppose, par États interposés, le bloc communiste et le bloc occidental autour d'une péninsule d'Asie divisée en deux ?",
+      "verso": "La guerre de Corée (1950-1953)",
+      "explanation": "La Corée du Nord communiste envahit la Corée du Sud, soutenue par les États-Unis sous mandat de l'ONU. Le conflit s'achève sur un statu quo : la frontière reste fixée près du 38ᵉ parallèle.",
+      "tags": [
+        "dates",
+        "Guerre froide"
+      ],
+      "distractors": {
+        "easy": [
+          "La guerre de Cent Ans",
+          "La guerre de Sécession",
+          "La guerre des Boers"
+        ],
+        "medium": [
+          "La guerre du Vietnam",
+          "La guerre d'Algérie",
+          "La guerre du Golfe"
+        ],
+        "hard": [
+          "La guerre d'Indochine",
+          "La guerre des Six Jours",
+          "La guerre civile chinoise"
+        ]
+      }
+    },
+    {
+      "recto": "Quel mur, construit en 1961, coupe l'ancienne capitale allemande en deux et devient le symbole de la division du monde en deux blocs ?",
+      "verso": "Le mur de Berlin (1961)",
+      "explanation": "Pour stopper la fuite massive des Allemands de l'Est vers l'Ouest, la RDA érige un mur en août 1961. Il deviendra le symbole le plus visible du « rideau de fer », jusqu'à sa chute en 1989.",
+      "tags": [
+        "dates",
+        "Berlin"
+      ],
+      "distractors": {
+        "easy": [
+          "La Grande Muraille",
+          "Le mur des Lamentations",
+          "Le mur d'Hadrien"
+        ],
+        "medium": [
+          "Le blocus de Berlin",
+          "Le rideau de fer",
+          "La ligne Maginot"
+        ],
+        "hard": [
+          "Le mur de l'Atlantique",
+          "Le « Mur de la honte » de Belfast",
+          "La ligne Oder-Neisse"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle crise de 1962 met le monde au bord de la guerre nucléaire lorsque l'URSS installe des missiles sur une île proche des États-Unis ?",
+      "verso": "La crise de Cuba (crise des missiles)",
+      "explanation": "En octobre 1962, la découverte de missiles soviétiques à Cuba provoque un face-à-face de treize jours entre Kennedy et Khrouchtchev. Le recul soviétique évite la guerre : c'est l'apogée de la tension.",
+      "tags": [
+        "dates",
+        "Guerre froide"
+      ],
+      "distractors": {
+        "easy": [
+          "La crise de 1929",
+          "La crise des subprimes",
+          "La crise pétrolière"
+        ],
+        "medium": [
+          "La crise de Suez",
+          "Le blocus de Berlin",
+          "La guerre de Corée"
+        ],
+        "hard": [
+          "La crise de Berlin de 1961",
+          "La baie des Cochons",
+          "Le printemps de Prague"
+        ]
+      }
+    },
+    {
+      "recto": "Comment nomme-t-on la politique amorcée par Khrouchtchev après 1953, qui admet une compétition pacifique entre les deux blocs plutôt qu'une guerre directe ?",
+      "verso": "La coexistence pacifique",
+      "explanation": "Après la mort de Staline (1953), Khrouchtchev estime que les deux systèmes peuvent coexister et rivaliser sans s'affronter militairement. La rivalité demeure, mais le dialogue redevient possible.",
+      "tags": [
+        "notion",
+        "Guerre froide"
+      ],
+      "distractors": {
+        "easy": [
+          "La guerre totale",
+          "La conquête de l'Ouest",
+          "La cohabitation"
+        ],
+        "medium": [
+          "La détente",
+          "L'endiguement",
+          "Le non-alignement"
+        ],
+        "hard": [
+          "La déstalinisation",
+          "La doctrine Brejnev",
+          "La perestroïka"
+        ]
+      }
+    },
+    {
+      "recto": "Comment appelle-t-on la période d'apaisement relatif des relations Est-Ouest qui s'amorce dans les années 1960-1970, marquée par des accords de limitation des armements ?",
+      "verso": "La Détente",
+      "explanation": "Après la peur de 1962, les deux Grands engagent le dialogue : « téléphone rouge », accords sur les armes nucléaires (SALT). Les tensions persistent, mais on cherche désormais à les contrôler.",
+      "tags": [
+        "notion",
+        "Guerre froide"
+      ],
+      "distractors": {
+        "easy": [
+          "La Terreur",
+          "La Libération",
+          "La Renaissance"
+        ],
+        "medium": [
+          "La coexistence pacifique",
+          "La bipolarisation",
+          "L'escalade"
+        ],
+        "hard": [
+          "La guerre fraîche",
+          "La Glasnost",
+          "L'Ostpolitik"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi qualifie-t-on cet affrontement de Guerre « froide » alors qu'il fait des millions de morts en Corée ou au Vietnam ?",
+      "verso": "Parce qu'il n'y a jamais d'affrontement militaire direct entre les deux Grands : ils se combattent par pays interposés",
+      "explanation": "États-Unis et URSS ne se font jamais directement la guerre, par peur du nucléaire. Mais ils s'affrontent indirectement en soutenant des camps opposés dans des conflits « périphériques » très meurtriers.",
+      "tags": [
+        "piege",
+        "Guerre froide"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'elle se déroule surtout dans les régions polaires",
+          "Parce qu'elle a lieu uniquement en hiver",
+          "Parce qu'elle n'a fait aucune victime"
+        ],
+        "medium": [
+          "Parce qu'elle reste limitée à l'Europe",
+          "Parce qu'elle ne dure que quelques mois",
+          "Parce qu'aucune arme n'y est jamais employée"
+        ],
+        "hard": [
+          "Parce que les combats sont seulement économiques",
+          "Parce que les deux camps refusent toute idéologie",
+          "Parce qu'elle se limite à l'espionnage"
+        ]
+      }
+    },
+    {
+      "recto": "Comment nomme-t-on le processus par lequel les colonies d'Asie et d'Afrique accèdent à l'indépendance après 1945 ?",
+      "verso": "La décolonisation",
+      "explanation": "Affaiblies par la guerre et contestées par des mouvements nationalistes, les puissances coloniales européennes doivent céder. En quelques décennies, des dizaines de nouveaux États indépendants apparaissent.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La colonisation",
+          "La mondialisation",
+          "La Reconquista"
+        ],
+        "medium": [
+          "L'impérialisme",
+          "Le protectorat",
+          "La bipolarisation"
+        ],
+        "hard": [
+          "Le néocolonialisme",
+          "L'émancipation",
+          "Le panafricanisme"
+        ]
+      }
+    },
+    {
+      "recto": "Quel immense pays d'Asie, mené par Gandhi puis Nehru, accède à l'indépendance en 1947 au terme d'une lutte largement non violente ?",
+      "verso": "L'Inde (indépendante en 1947)",
+      "explanation": "Colonie britannique, l'Inde obtient son indépendance en 1947 grâce à la pression du mouvement de Gandhi (non-violence). Mais elle s'accompagne d'une partition douloureuse avec le Pakistan.",
+      "tags": [
+        "dates",
+        "acteur"
+      ],
+      "distractors": {
+        "easy": [
+          "Le Japon",
+          "La Chine",
+          "L'Australie"
+        ],
+        "medium": [
+          "L'Indochine",
+          "L'Indonésie",
+          "Le Pakistan seul"
+        ],
+        "hard": [
+          "Le Ceylan (Sri Lanka)",
+          "La Birmanie",
+          "Le Bangladesh"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles sont les deux grandes voies suivies par les colonies pour accéder à l'indépendance ?",
+      "verso": "La voie négociée (ex. : l'Inde) et la voie de la guerre (ex. : l'Indochine, l'Algérie)",
+      "explanation": "Certaines indépendances sont obtenues par la négociation entre colonisateur et colonisés ; d'autres au prix de guerres longues et meurtrières, comme en Indochine (1946-1954) ou en Algérie (1954-1962).",
+      "tags": [
+        "comparaison"
+      ],
+      "distractors": {
+        "easy": [
+          "La voie maritime et la voie terrestre",
+          "La voie lactée et la voie romaine",
+          "La voie rapide et la voie lente"
+        ],
+        "medium": [
+          "La voie économique et la voie culturelle",
+          "La voie royale et la voie populaire",
+          "L'achat et l'héritage"
+        ],
+        "hard": [
+          "La voie démocratique et la voie monarchique",
+          "La voie fédérale et la voie unitaire",
+          "La sécession et l'annexion"
+        ]
+      }
+    },
+    {
+      "recto": "Quel terme, forgé par le démographe Alfred Sauvy en 1952, désigne l'ensemble des pays pauvres, souvent issus de la décolonisation, qui n'appartiennent à aucun des deux blocs ?",
+      "verso": "Le tiers-monde",
+      "explanation": "Par analogie avec le « tiers état » de 1789, Sauvy nomme « tiers-monde » ce troisième ensemble, ni à l'Est ni à l'Ouest, qui aspire lui aussi à compter dans les affaires du monde.",
+      "tags": [
+        "notion",
+        "tiers-monde"
+      ],
+      "distractors": {
+        "easy": [
+          "Le Nouveau Monde",
+          "Le monde libre",
+          "L'Ancien Monde"
+        ],
+        "medium": [
+          "Le bloc de l'Est",
+          "Les pays développés",
+          "Le monde occidental"
+        ],
+        "hard": [
+          "Le Sud global",
+          "Les pays émergents",
+          "Le quart-monde"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle conférence de 1955, réunie en Indonésie, marque l'entrée des pays décolonisés d'Asie et d'Afrique sur la scène internationale ?",
+      "verso": "La conférence de Bandung (1955)",
+      "explanation": "À Bandung, 29 États d'Asie et d'Afrique condamnent le colonialisme et affirment leur solidarité. C'est l'acte de naissance politique du tiers-monde comme acteur des relations internationales.",
+      "tags": [
+        "dates",
+        "tiers-monde"
+      ],
+      "distractors": {
+        "easy": [
+          "La conférence de Yalta",
+          "La conférence de Potsdam",
+          "Le congrès de Vienne"
+        ],
+        "medium": [
+          "La conférence de San Francisco",
+          "La conférence de Belgrade",
+          "La conférence d'Évian"
+        ],
+        "hard": [
+          "La conférence de Brazzaville",
+          "La conférence du Caire",
+          "La conférence de Genève"
+        ]
+      }
+    },
+    {
+      "recto": "Comment nomme-t-on le mouvement, officialisé à Belgrade en 1961, par lequel des pays du tiers-monde refusent de se ranger derrière l'un ou l'autre des deux blocs ?",
+      "verso": "Le non-alignement",
+      "explanation": "Réunis à Belgrade en 1961, ces pays refusent d'entrer dans la logique des blocs et veulent peser comme une « troisième force ». Le mouvement des non-alignés prolonge l'esprit de Bandung.",
+      "tags": [
+        "notion",
+        "tiers-monde"
+      ],
+      "distractors": {
+        "easy": [
+          "L'alignement",
+          "La neutralité armée",
+          "L'isolationnisme"
+        ],
+        "medium": [
+          "La coexistence pacifique",
+          "La bipolarisation",
+          "La décolonisation"
+        ],
+        "hard": [
+          "Le panarabisme",
+          "Le multilatéralisme",
+          "Le tiers-mondisme"
+        ]
+      }
+    },
+    {
+      "recto": "Citez trois grandes figures du non-alignement et du tiers-monde dans les années 1950-1960.",
+      "verso": "Nehru (Inde), Nasser (Égypte) et Tito (Yougoslavie)",
+      "explanation": "Nehru pour l'Inde, Nasser pour l'Égypte et Tito pour la Yougoslavie incarnent ce refus des blocs. Ils sont les principaux artisans de la conférence de Belgrade de 1961.",
+      "tags": [
+        "acteur",
+        "tiers-monde"
+      ],
+      "distractors": {
+        "easy": [
+          "Truman, Staline et Churchill",
+          "Roosevelt, de Gaulle et Mao",
+          "Napoléon, Bismarck et Lincoln"
+        ],
+        "medium": [
+          "Kennedy, Khrouchtchev et Castro",
+          "Gandhi, Mandela et Senghor",
+          "Mao, Hô Chi Minh et Castro"
+        ],
+        "hard": [
+          "Nkrumah, Lumumba et Bourguiba",
+          "Soekarno, Nehru et Eisenhower",
+          "Nasser, Tito et Brejnev"
+        ]
+      }
+    },
+    {
+      "recto": "Comment surnomme-t-on l'année 1960, durant laquelle dix-sept colonies africaines, surtout françaises, accèdent à l'indépendance ?",
+      "verso": "L'« année de l'Afrique » (1960)",
+      "explanation": "En 1960, dix-sept États africains deviennent indépendants la même année. C'est l'accélération spectaculaire de la décolonisation du continent, qui change la composition de l'ONU.",
+      "tags": [
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "L'« année de l'Europe »",
+          "L'« année lumière »",
+          "L'« année sainte »"
+        ],
+        "medium": [
+          "L'« année de Bandung »",
+          "L'« année des non-alignés »",
+          "L'« année zéro »"
+        ],
+        "hard": [
+          "L'« année des indépendances asiatiques »",
+          "L'« année de la négritude »",
+          "L'« année du panafricanisme »"
+        ]
+      }
+    },
+    {
+      "recto": "Vrai ou faux ? Le « tiers-monde » désigne simplement les pays les plus pauvres de la planète.",
+      "verso": "Faux : c'est d'abord une notion politique (par analogie avec le « tiers état »), un troisième ensemble ni à l'Est ni à l'Ouest",
+      "explanation": "Sauvy ne pensait pas seulement à la pauvreté : comme le tiers état en 1789, le tiers-monde est « ignoré » et veut « être quelque chose ». C'est une revendication politique, pas une simple catégorie économique.",
+      "tags": [
+        "piege",
+        "tiers-monde"
+      ],
+      "distractors": {
+        "easy": [
+          "Vrai : le mot ne désigne que la richesse des États",
+          "Vrai : il s'agit uniquement d'un classement bancaire",
+          "Vrai : il désigne les pays les plus froids"
+        ],
+        "medium": [
+          "Vrai : c'est un synonyme exact de « pays développés »",
+          "Vrai : il désigne les seuls pays du bloc de l'Est",
+          "Vrai : il regroupe les membres permanents de l'ONU"
+        ],
+        "hard": [
+          "Vrai : il ne recouvre que des critères de PIB",
+          "Vrai : c'est une notion purement géographique",
+          "Vrai : il désigne les anciennes puissances coloniales"
+        ]
+      }
+    },
+    {
+      "recto": "Vrai ou faux ? La « coexistence pacifique » signifie que la Guerre froide est terminée.",
+      "verso": "Faux : la rivalité Est-Ouest continue, mais sans affrontement direct entre les Grands",
+      "explanation": "La coexistence pacifique n'est pas la paix : la compétition idéologique, économique et militaire se poursuit (course aux armements, conflits périphériques). C'est une manière de rivaliser sans se détruire.",
+      "tags": [
+        "piege",
+        "Guerre froide"
+      ],
+      "distractors": {
+        "easy": [
+          "Vrai : les deux blocs fusionnent en 1953",
+          "Vrai : l'URSS disparaît à ce moment-là",
+          "Vrai : les États-Unis et l'URSS deviennent alliés"
+        ],
+        "medium": [
+          "Vrai : la course aux armements s'arrête aussitôt",
+          "Vrai : le mur de Berlin est aussitôt détruit",
+          "Vrai : tous les conflits cessent dans le tiers-monde"
+        ],
+        "hard": [
+          "Vrai : elle marque la fin officielle de la bipolarisation",
+          "Vrai : elle dissout les deux alliances militaires",
+          "Vrai : elle signe la réunification de l'Allemagne"
+        ]
+      }
+    },
+    {
+      "recto": "Quels sont les deux grands modèles idéologiques que se disputent les blocs pendant la Guerre froide ?",
+      "verso": "Le modèle libéral et capitaliste (États-Unis) et le modèle communiste (URSS)",
+      "explanation": "L'Ouest défend la démocratie libérale et l'économie de marché ; l'Est, le parti unique et l'économie planifiée. Chaque bloc présente son modèle comme universel et cherche à l'étendre.",
+      "tags": [
+        "comparaison",
+        "Guerre froide"
+      ],
+      "distractors": {
+        "easy": [
+          "La monarchie et la république",
+          "Le catholicisme et le protestantisme",
+          "Le Nord et le Sud"
+        ],
+        "medium": [
+          "Le fascisme et le nazisme",
+          "Le libéralisme et l'anarchisme",
+          "La social-démocratie et le centrisme"
+        ],
+        "hard": [
+          "Le capitalisme et le socialisme de marché",
+          "Le keynésianisme et le monétarisme",
+          "Le collectivisme et le corporatisme"
+        ]
+      }
+    },
+    {
+      "recto": "Quel long conflit d'Asie du Sud-Est (années 1960-1975) voit les États-Unis s'enliser face à un mouvement communiste soutenu par l'URSS et la Chine ?",
+      "verso": "La guerre du Vietnam",
+      "explanation": "Engagés massivement aux côtés du Sud-Vietnam, les États-Unis ne parviennent pas à vaincre la guérilla communiste. Leur retrait en 1973, puis la victoire du Nord en 1975, marquent un échec retentissant.",
+      "tags": [
+        "dates",
+        "Guerre froide"
+      ],
+      "distractors": {
+        "easy": [
+          "La guerre de Troie",
+          "La guerre des Gaules",
+          "La guerre de Crimée"
+        ],
+        "medium": [
+          "La guerre de Corée",
+          "La guerre d'Algérie",
+          "La guerre du Golfe"
+        ],
+        "hard": [
+          "La guerre d'Indochine",
+          "La guerre d'Afghanistan",
+          "La guerre de Sécession"
+        ]
+      }
+    }
+  ]
+}
