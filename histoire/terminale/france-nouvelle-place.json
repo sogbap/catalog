@@ -1,0 +1,521 @@
+{
+  "id": "histoire-terminale-france-nouvelle-place",
+  "title": "La France : une nouvelle place dans le monde",
+  "emoji": "🇫🇷",
+  "subject": "history",
+  "courseDescription": "Histoire · Terminale — Thème 2, chapitre 3 : la France et le monde de 1945 au début des années 1970 — décolonisation (Indochine, Algérie), fondation de la Ve République, politique d'indépendance de De Gaulle et construction européenne.",
+  "lesson": "<style>\n  /* Styles propres aux illustrations SVG : s'adaptent au thème via\n     currentColor (texte) et var(--accent) (couleur de la matière). */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>La France : une nouvelle place dans le monde</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau :</b> Terminale générale — Histoire (tronc commun)<br>\n  <b>Thème 2 :</b> La multiplication des acteurs internationaux dans un monde bipolaire (de 1945 au début des années 1970)<br>\n  <b>Chapitre 3</b> · environ 7 heures\n</div>\n\n<blockquote>\n  <p><b>Problématique.</b> Comment la France, affaiblie et privée de son empire, retrouve-t-elle un rang dans un monde dominé par les deux Grands&nbsp;?</p>\n</blockquote>\n\n<p>Au sortir de la guerre, la France est diminuée&nbsp;: ruinée, instable, et bientôt privée de son empire colonial. Pourtant, en moins de vingt ans, elle se dote d'institutions solides avec la <strong>Ve République</strong>, d'une <strong>force de frappe</strong> nucléaire et d'un rôle moteur dans la <strong>construction européenne</strong>. De Gaulle entend ainsi rendre à la France sa «&nbsp;grandeur&nbsp;» et une voix autonome.</p>\n\n<h2>1 · La IVe République et la fin de l'empire</h2>\n\n<p>De 1946 à 1958, la <strong>IVe République</strong> est un régime parlementaire instable&nbsp;: les gouvernements se succèdent sans durer. Surtout, elle doit affronter la <strong>décolonisation</strong>. En Asie, la <strong>guerre d'Indochine</strong> (1946-1954) s'achève par la défaite de <em>Diên Biên Phu</em> et le départ de la France.</p>\n\n<p>À peine l'Indochine perdue, la <strong>guerre d'Algérie</strong> éclate (1954). Plus douloureuse encore — l'Algérie est peuplée de nombreux Français —, elle divise profondément le pays. Incapable de la résoudre, la IVe République s'effondre en 1958.</p>\n\n<h2>2 · 1958-1962 : la Ve République et la fin de la guerre d'Algérie</h2>\n\n<p>En mai 1958, la crise algérienne ramène <strong>Charles de Gaulle</strong> au pouvoir. Il fait adopter une nouvelle Constitution qui fonde la <strong>Ve République</strong>, dotée d'un exécutif fort. En 1962, un référendum décide que le président sera désormais élu au <strong>suffrage universel direct</strong>&nbsp;: il tient sa légitimité du peuple.</p>\n\n<p>De Gaulle règle aussi la question algérienne. Après des négociations difficiles, les <strong>accords d'Évian</strong> (mars 1962) mettent fin à la guerre, et l'Algérie devient indépendante&nbsp;: c'est la fin de 132 ans de présence française.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Ve République</strong><br>\n  Régime fondé en 1958, caractérisé par un <b>pouvoir exécutif fort</b> autour du président. Depuis 1962, celui-ci est élu au <b>suffrage universel direct</b>.\n</div>\n\n<blockquote>\n  <p><strong>Point de passage et d'ouverture</strong><br>1962&nbsp;: la fin de la guerre d'Algérie (accords d'Évian).</p>\n</blockquote>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 326\" role=\"img\" aria-label=\"De la IVe République instable à la Ve République et à la fin de la guerre d'Algérie\">\n  <defs>\n    <marker id=\"ar-fr\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- Phase 1 -->\n  <g>\n    <rect x=\"14\" y=\"8\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"40\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">1946-1958 · La IVe République</text>\n    <text x=\"30\" y=\"65\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">Un régime parlementaire instable</text>\n  </g>\n  <path d=\"M170,88 L170,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-fr)\"/>\n  <!-- Phase 2 -->\n  <g>\n    <rect x=\"14\" y=\"110\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"142\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">1958 · La Ve République</text>\n    <text x=\"30\" y=\"167\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">De Gaulle fonde un exécutif fort</text>\n  </g>\n  <path d=\"M170,190 L170,210\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-fr)\"/>\n  <!-- Phase 3 -->\n  <g>\n    <rect x=\"14\" y=\"212\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"244\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">1962 · L'indépendance de l'Algérie</text>\n    <text x=\"30\" y=\"269\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">Les accords d'Évian tournent la page</text>\n  </g>\n</svg>\n<figcaption>Quatre années qui refondent la France (1958-1962).</figcaption>\n</figure>\n\n<h2>3 · La politique d'indépendance nationale</h2>\n\n<p>De Gaulle veut une France libre de ses choix, ni soumise aux États-Unis ni à l'URSS&nbsp;: c'est la politique d'<strong>indépendance nationale</strong>, ou de «&nbsp;grandeur&nbsp;». Pour assurer seule sa défense, la France se dote d'une <strong>force de frappe</strong> nucléaire&nbsp;: sa première bombe atomique explose en 1960.</p>\n\n<p>Les gestes d'autonomie se multiplient&nbsp;: en 1964, la France <strong>reconnaît la Chine communiste</strong> que les États-Unis rejettent&nbsp;; en 1966, elle se retire du <strong>commandement militaire intégré de l'OTAN</strong> — sans pour autant quitter l'Alliance ni le camp occidental.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Indépendance nationale</strong><br>\n  Politique étrangère visant à garantir l'<b>autonomie</b> de décision de la France face aux deux Grands&nbsp;: dissuasion nucléaire propre, diplomatie libre, refus de l'alignement — mais maintien dans le camp occidental.\n</div>\n\n<blockquote>\n  <p><strong>Point de passage et d'ouverture</strong><br>1960&nbsp;: la force de frappe et la défense indépendante de la France.</p>\n</blockquote>\n\n<h2>4 · La France et la construction européenne</h2>\n\n<p>L'autre grand chantier est l'<strong>Europe</strong>. Pour rendre la guerre impossible entre voisins, six pays (dont la France et la RFA) créent dès 1951 la <strong>CECA</strong>, qui met en commun le charbon et l'acier. En 1957, le <strong>traité de Rome</strong> institue la <strong>CEE</strong> et un vaste «&nbsp;marché commun&nbsp;».</p>\n\n<p>La France y trouve de grands avantages, notamment grâce à la <strong>politique agricole commune (PAC)</strong>, qui soutient son agriculture. L'intégration économique progresse, mais De Gaulle reste attaché à la souveraineté des États.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Construction européenne</strong><br>\n  Processus de rapprochement des États européens, d'abord économique (CECA en 1951, CEE en 1957). Objectif&nbsp;: garantir la <b>paix</b> et la <b>prospérité</b> en liant durablement d'anciens ennemis.\n</div>\n\n<h2>5 · Le couple franco-allemand et les limites de l'Europe gaullienne</h2>\n\n<p>Le moteur de cette Europe est le rapprochement entre Paris et Bonn. En 1963, <strong>De Gaulle</strong> et le chancelier <strong>Adenauer</strong> signent le <strong>traité de l'Élysée</strong>, qui scelle la réconciliation franco-allemande&nbsp;: deux ennemis des guerres mondiales deviennent partenaires.</p>\n\n<p>Mais De Gaulle veut une «&nbsp;Europe des nations&nbsp;», non un super-État. En 1965, opposé à un transfert de souveraineté, il pratique la <strong>«&nbsp;politique de la chaise vide&nbsp;»</strong> en retirant la France des instances européennes. L'Europe avancera, mais à son rythme.</p>\n\n<blockquote>\n  <p><strong>Point de passage et d'ouverture</strong><br>1963&nbsp;: le traité de l'Élysée et le couple franco-allemand.</p>\n</blockquote>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Les deux piliers de la politique extérieure de De Gaulle : l'indépendance et l'Europe\">\n  <!-- Pilier 1 : indépendance -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">Indépendance</text>\n  <text x=\"87\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12.5\" font-weight=\"700\">« la grandeur »</text>\n  <text x=\"26\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Force de frappe · 1960</text>\n  <text x=\"26\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Hors cmdt. OTAN · 1966</text>\n  <text x=\"26\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Chine reconnue · 1964</text>\n  <!-- Pilier 2 : Europe -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">Europe</text>\n  <text x=\"253\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12.5\" font-weight=\"700\">l'Europe des Six</text>\n  <text x=\"192\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">CECA · 1951</text>\n  <text x=\"192\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Marché commun · 1957</text>\n  <text x=\"192\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Traité de l'Élysée · 1963</text>\n</svg>\n<figcaption>Les deux piliers de la politique extérieure du général de Gaulle.</figcaption>\n</figure>\n\n<blockquote>\n  <p>À partir des années 1970, les chocs pétroliers et de nouvelles tensions vont bouleverser ce monde et ses équilibres&nbsp;: c'est l'objet du thème suivant.</p>\n</blockquote>\n\n<h2>L'essentiel</h2>\n\n<h3>Frise chronologique</h3>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 366\" role=\"img\" aria-label=\"Frise chronologique de la France de 1951 à 1963\">\n  <line x1=\"74\" y1=\"22\" x2=\"74\" y2=\"348\" style=\"stroke:var(--accent);stroke-width:3;stroke-linecap:round\"/>\n  <!-- 1951 -->\n  <circle cx=\"74\" cy=\"40\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"45\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1951</text>\n  <text x=\"90\" y=\"45\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">CECA : charbon et acier</text>\n  <!-- 1954 -->\n  <circle cx=\"74\" cy=\"101\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"106\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1954</text>\n  <text x=\"90\" y=\"106\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Diên Biên Phu (Indochine)</text>\n  <!-- 1957 -->\n  <circle cx=\"74\" cy=\"162\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"167\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1957</text>\n  <text x=\"90\" y=\"167\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Traité de Rome (CEE)</text>\n  <!-- 1958 -->\n  <circle cx=\"74\" cy=\"223\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"228\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1958</text>\n  <text x=\"90\" y=\"228\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Naissance de la Ve République</text>\n  <!-- 1962 -->\n  <circle cx=\"74\" cy=\"284\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"289\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1962</text>\n  <text x=\"90\" y=\"289\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Indépendance de l'Algérie</text>\n  <!-- 1963 -->\n  <circle cx=\"74\" cy=\"345\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"350\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1963</text>\n  <text x=\"90\" y=\"350\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Traité de l'Élysée</text>\n</svg>\n</figure>\n\n<h3>Dates clés</h3>\n\n<table>\n  <tr><th>Date</th><th>Événement</th></tr>\n  <tr><td>1946-1958</td><td>La IVe République</td></tr>\n  <tr><td>1946-1954</td><td>Guerre d'Indochine (Diên Biên Phu, 1954)</td></tr>\n  <tr><td>1951</td><td>Création de la CECA</td></tr>\n  <tr><td>1954-1962</td><td>Guerre d'Algérie</td></tr>\n  <tr><td>1957</td><td>Traité de Rome : la CEE</td></tr>\n  <tr><td>1958</td><td>Retour de De Gaulle ; Ve République</td></tr>\n  <tr><td>1960</td><td>Première bombe atomique française</td></tr>\n  <tr><td>1962</td><td>Accords d'Évian ; président élu au suffrage universel</td></tr>\n  <tr><td>1963</td><td>Traité de l'Élysée (couple franco-allemand)</td></tr>\n  <tr><td>1964 / 1966</td><td>Reconnaissance de la Chine ; retrait du commandement de l'OTAN</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition</th></tr>\n  <tr><td>IVe République</td><td>Régime parlementaire instable (1946-1958).</td></tr>\n  <tr><td>Ve République</td><td>Régime à exécutif fort fondé en 1958.</td></tr>\n  <tr><td>Décolonisation</td><td>Accession des colonies à l'indépendance.</td></tr>\n  <tr><td>Indépendance nationale</td><td>Politique de « grandeur » et d'autonomie de De Gaulle.</td></tr>\n  <tr><td>Force de frappe</td><td>Armement nucléaire autonome de la France (1960).</td></tr>\n  <tr><td>Construction européenne</td><td>Rapprochement des États (CECA, CEE).</td></tr>\n</table>\n\n<h3>Les acteurs</h3>\n\n<table>\n  <tr><th>Acteur</th><th>Rôle</th></tr>\n  <tr><td>Charles de Gaulle</td><td>Fondateur de la Ve République ; politique d'indépendance.</td></tr>\n  <tr><td>Konrad Adenauer</td><td>Chancelier ouest-allemand, traité de l'Élysée (1963).</td></tr>\n  <tr><td>Robert Schuman</td><td>Inspirateur de la CECA (1951).</td></tr>\n  <tr><td>Jean Monnet</td><td>« Père de l'Europe », artisan de la CECA.</td></tr>\n  <tr><td>Pierre Mendès France</td><td>Met fin à la guerre d'Indochine (1954).</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  En 1966, la France <b>ne quitte pas l'OTAN</b>&nbsp;: elle sort seulement de son <b>commandement militaire intégré</b> et reste dans le camp occidental. Ne confondez pas non plus la <b>CECA</b> (1951), la <b>CEE</b> (traité de Rome, 1957) et l'Union européenne (bien plus tardive). Enfin, distinguez la <b>IVe</b> République (instable) de la <b>Ve</b> (exécutif fort, à partir de 1958).\n</div>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "La multiplication des acteurs internationaux dans un monde bipolaire (de 1945 au début des années 1970)",
+  "cards": [
+    {
+      "recto": "Comment s'appelle le régime politique de la France de 1946 à 1958, marqué par une grande instabilité gouvernementale ?",
+      "verso": "La IVe République",
+      "explanation": "Régime parlementaire où le gouvernement dépend d'une Assemblée très divisée, la IVe République connaît des crises ministérielles à répétition. Affaiblie par la guerre d'Algérie, elle s'effondre en 1958.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La monarchie de Juillet",
+          "Le Premier Empire",
+          "La Restauration"
+        ],
+        "medium": [
+          "La IIIe République",
+          "La Ve République",
+          "Le régime de Vichy"
+        ],
+        "hard": [
+          "Le Second Empire",
+          "La IIe République",
+          "Le gouvernement provisoire"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle guerre de décolonisation, perdue par la France après la défaite de Diên Biên Phu en 1954, met fin à sa présence en Asie du Sud-Est ?",
+      "verso": "La guerre d'Indochine (1946-1954)",
+      "explanation": "Face au Viêt-minh communiste de Hô Chi Minh, la France s'enlise puis subit la défaite de Diên Biên Phu (1954). Les accords de Genève mettent fin au conflit et à l'Indochine française.",
+      "tags": [
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "La guerre de Cent Ans",
+          "La guerre franco-prussienne",
+          "La guerre de Crimée"
+        ],
+        "medium": [
+          "La guerre d'Algérie",
+          "La guerre de Corée",
+          "La guerre du Vietnam"
+        ],
+        "hard": [
+          "La guerre du Golfe",
+          "La crise de Suez",
+          "L'insurrection de Madagascar"
+        ]
+      }
+    },
+    {
+      "recto": "Quel conflit, commencé en 1954, oppose la France aux nationalistes algériens et provoque la chute de la IVe République ?",
+      "verso": "La guerre d'Algérie (1954-1962)",
+      "explanation": "Déclenchée par le FLN en novembre 1954, la guerre d'Algérie déchire la France. Son enlisement entraîne le retour de De Gaulle en 1958, puis l'indépendance de l'Algérie en 1962.",
+      "tags": [
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "La guerre de Sécession",
+          "La guerre de Vendée",
+          "La guerre des Gaules"
+        ],
+        "medium": [
+          "La guerre d'Indochine",
+          "La guerre du Rif",
+          "La crise de Suez"
+        ],
+        "hard": [
+          "La guerre de Tunisie",
+          "La guerre du Maroc",
+          "La guerre des Six Jours"
+        ]
+      }
+    },
+    {
+      "recto": "Quel homme politique revient au pouvoir en 1958, à la faveur de la crise algérienne, et fonde un nouveau régime ?",
+      "verso": "Charles de Gaulle",
+      "explanation": "Rappelé en mai 1958 pour résoudre la crise algérienne, De Gaulle obtient les pleins pouvoirs et fait adopter une nouvelle Constitution : c'est la naissance de la Ve République.",
+      "tags": [
+        "acteur",
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "Napoléon Bonaparte",
+          "Louis XIV",
+          "Jules Ferry"
+        ],
+        "medium": [
+          "Georges Pompidou",
+          "Pierre Mendès France",
+          "Léon Blum"
+        ],
+        "hard": [
+          "Vincent Auriol",
+          "René Coty",
+          "Guy Mollet"
+        ]
+      }
+    },
+    {
+      "recto": "Quels accords, signés en 1962, mettent fin à la guerre d'Algérie et ouvrent la voie à son indépendance ?",
+      "verso": "Les accords d'Évian (1962)",
+      "explanation": "Signés en mars 1962, les accords d'Évian organisent un cessez-le-feu puis l'indépendance de l'Algérie, approuvée par référendum. Ils mettent fin à 132 ans de présence française.",
+      "tags": [
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "Les accords de Munich",
+          "Le traité de Versailles",
+          "Les accords de Yalta"
+        ],
+        "medium": [
+          "Les accords de Genève",
+          "Le traité de Rome",
+          "Les accords de Bretton Woods"
+        ],
+        "hard": [
+          "Les accords de Matignon",
+          "Les accords de Grenelle",
+          "Le traité de l'Élysée"
+        ]
+      }
+    },
+    {
+      "recto": "Quel régime, fondé en 1958, renforce fortement le pouvoir du président de la République ?",
+      "verso": "La Ve République",
+      "explanation": "La Constitution de 1958 instaure un exécutif puissant autour du président. À partir de 1962, celui-ci est élu au suffrage universel direct, ce qui renforce encore sa légitimité.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La IIIe République",
+          "La monarchie absolue",
+          "L'Empire romain"
+        ],
+        "medium": [
+          "La IVe République",
+          "Le régime de Vichy",
+          "La IIe République"
+        ],
+        "hard": [
+          "Le Consulat",
+          "Le Directoire",
+          "La monarchie constitutionnelle"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle réforme majeure, adoptée par référendum en 1962, change le mode d'élection du président de la République ?",
+      "verso": "L'élection du président au suffrage universel direct",
+      "explanation": "En 1962, De Gaulle fait approuver par référendum l'élection du président au suffrage universel direct. Le chef de l'État tient désormais sa légitimité directement du peuple.",
+      "tags": [
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "L'abolition de la peine de mort",
+          "Le droit de vote des femmes",
+          "La semaine de 35 heures"
+        ],
+        "medium": [
+          "Le quinquennat",
+          "L'élection du président par le Parlement",
+          "La création du Sénat"
+        ],
+        "hard": [
+          "Le référendum d'initiative partagée",
+          "La représentation proportionnelle",
+          "La motion de censure"
+        ]
+      }
+    },
+    {
+      "recto": "Comment nomme-t-on la politique étrangère de De Gaulle, qui veut affirmer l'autonomie de la France face aux deux Grands ?",
+      "verso": "La politique d'indépendance nationale (la « grandeur »)",
+      "explanation": "De Gaulle refuse l'alignement sur les États-Unis comme sur l'URSS. Il veut rendre à la France une voix autonome dans le monde : c'est la politique de « grandeur » ou d'indépendance nationale.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La politique de la terre brûlée",
+          "Le protectionnisme",
+          "La conquête coloniale"
+        ],
+        "medium": [
+          "L'alignement atlantique",
+          "L'isolationnisme",
+          "La realpolitik"
+        ],
+        "hard": [
+          "Le non-alignement",
+          "La coexistence pacifique",
+          "La détente"
+        ]
+      }
+    },
+    {
+      "recto": "Quel choix militaire, concrétisé par une première bombe atomique en 1960, doit garantir l'indépendance de la défense française ?",
+      "verso": "La force de frappe (la dissuasion nucléaire française)",
+      "explanation": "En 1960, la France fait exploser sa première bombe atomique, au Sahara. Cette « force de frappe » doit lui permettre de se défendre seule, sans dépendre de la protection des États-Unis.",
+      "tags": [
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "La Grande Armée",
+          "La ligne Maginot",
+          "La Garde nationale"
+        ],
+        "medium": [
+          "Le service militaire obligatoire",
+          "La force d'intervention rapide",
+          "La défense civile"
+        ],
+        "hard": [
+          "La Communauté européenne de défense",
+          "La dissuasion conventionnelle",
+          "Le bouclier antimissile"
+        ]
+      }
+    },
+    {
+      "recto": "En 1966, De Gaulle prend une décision spectaculaire vis-à-vis de l'OTAN. Laquelle, exactement ?",
+      "verso": "Il retire la France du commandement militaire intégré, sans quitter l'Alliance",
+      "explanation": "Attention au piège : la France ne quitte pas l'OTAN, mais seulement son commandement militaire intégré, dirigé par les Américains. Elle reste alliée de l'Ouest, tout en gardant les mains libres.",
+      "tags": [
+        "piege",
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "Il fait entrer la France dans le pacte de Varsovie",
+          "Il dissout l'OTAN",
+          "Il déclare la guerre aux États-Unis"
+        ],
+        "medium": [
+          "Il quitte totalement et définitivement l'OTAN",
+          "Il prend la tête de l'OTAN",
+          "Il installe le siège de l'OTAN à Paris"
+        ],
+        "hard": [
+          "Il place la force de frappe sous commandement de l'OTAN",
+          "Il rejoint le commandement intégré tout en quittant l'Alliance",
+          "Il interdit l'arme nucléaire américaine en restant dans le commandement"
+        ]
+      }
+    },
+    {
+      "recto": "Quel geste diplomatique de 1964 illustre l'indépendance de De Gaulle vis-à-vis des États-Unis, en pleine Guerre froide ?",
+      "verso": "La reconnaissance de la Chine populaire (communiste)",
+      "explanation": "En 1964, la France est l'une des premières puissances occidentales à reconnaître la Chine communiste de Mao, que les États-Unis rejettent encore. C'est un symbole fort d'indépendance.",
+      "tags": [
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "La reconnaissance des États-Unis",
+          "La reconnaissance du Royaume-Uni",
+          "La reconnaissance de l'Italie"
+        ],
+        "medium": [
+          "La reconnaissance de la RDA",
+          "La reconnaissance de Cuba",
+          "L'entrée de la France à l'ONU"
+        ],
+        "hard": [
+          "La reconnaissance de la Corée du Nord",
+          "La reconnaissance du Viêt-nam du Nord",
+          "La reconnaissance de Taïwan"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle première communauté européenne, créée en 1951, met en commun le charbon et l'acier de six pays ?",
+      "verso": "La CECA (Communauté européenne du charbon et de l'acier)",
+      "explanation": "Fondée en 1951 sur une idée de Robert Schuman et Jean Monnet, la CECA réunit six pays (dont la France et la RFA). En unissant des industries clés de la guerre, elle veut rendre celle-ci impossible.",
+      "tags": [
+        "dates",
+        "économie"
+      ],
+      "distractors": {
+        "easy": [
+          "L'OTAN",
+          "L'ONU",
+          "Le FMI"
+        ],
+        "medium": [
+          "La CEE",
+          "L'Union européenne",
+          "L'espace Schengen"
+        ],
+        "hard": [
+          "L'Euratom",
+          "Le Benelux",
+          "L'AELE"
+        ]
+      }
+    },
+    {
+      "recto": "Quel traité, signé en 1957, crée la Communauté économique européenne (CEE) et un marché commun entre six pays ?",
+      "verso": "Le traité de Rome (1957)",
+      "explanation": "Le traité de Rome institue la CEE en 1957 : les six pays fondateurs créent un « marché commun » fondé sur la libre circulation des marchandises. C'est une étape décisive de la construction européenne.",
+      "tags": [
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "Le traité de Versailles",
+          "Le traité de Tordesillas",
+          "Le traité de Westphalie"
+        ],
+        "medium": [
+          "Le traité de Maastricht",
+          "Le traité de l'Élysée",
+          "Le traité de Lisbonne"
+        ],
+        "hard": [
+          "Le traité de Paris instituant la CECA",
+          "L'Acte unique européen",
+          "La convention de Schengen"
+        ]
+      }
+    },
+    {
+      "recto": "Comment s'appelle la politique européenne, mise en place dans les années 1960, qui soutient et modernise l'agriculture des États membres ?",
+      "verso": "La PAC (politique agricole commune)",
+      "explanation": "Lancée dans les années 1960, la PAC garantit des prix et soutient les revenus agricoles. La France, grand pays agricole, en est l'une des principales bénéficiaires.",
+      "tags": [
+        "notion",
+        "économie"
+      ],
+      "distractors": {
+        "easy": [
+          "Le New Deal",
+          "Le plan Marshall",
+          "La collectivisation"
+        ],
+        "medium": [
+          "Le marché commun",
+          "La politique monétaire commune",
+          "Le libre-échange"
+        ],
+        "hard": [
+          "Le FEDER",
+          "La politique de cohésion",
+          "Le fonds social européen"
+        ]
+      }
+    },
+    {
+      "recto": "Quel traité de 1963 scelle la réconciliation et l'amitié entre la France de De Gaulle et l'Allemagne d'Adenauer ?",
+      "verso": "Le traité de l'Élysée (1963)",
+      "explanation": "Signé en 1963 par De Gaulle et le chancelier Adenauer, le traité de l'Élysée organise la réconciliation franco-allemande et une coopération étroite. Le « couple franco-allemand » devient le moteur de l'Europe.",
+      "tags": [
+        "dates",
+        "acteur"
+      ],
+      "distractors": {
+        "easy": [
+          "Le traité de Versailles",
+          "Le traité de Tilsit",
+          "Le traité de Francfort"
+        ],
+        "medium": [
+          "Le traité de Rome",
+          "Le traité de Maastricht",
+          "Les accords d'Évian"
+        ],
+        "hard": [
+          "Le traité de Paris",
+          "Le traité d'Aix-la-Chapelle",
+          "Le pacte de l'Atlantique Nord"
+        ]
+      }
+    },
+    {
+      "recto": "Comment nomme-t-on la stratégie par laquelle De Gaulle, en 1965, paralyse les institutions européennes en refusant d'y siéger ?",
+      "verso": "La politique de la « chaise vide »",
+      "explanation": "En 1965, hostile à un transfert de souveraineté, De Gaulle retire les représentants français des instances européennes. Cette « politique de la chaise vide » montre qu'il veut une Europe des nations, pas un super-État.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La politique de la porte ouverte",
+          "La politique du pire",
+          "La politique de la main tendue"
+        ],
+        "medium": [
+          "La politique du veto",
+          "Le boycott diplomatique",
+          "La non-intervention"
+        ],
+        "hard": [
+          "La politique de la table rase",
+          "La rupture des relations diplomatiques",
+          "La motion de censure"
+        ]
+      }
+    },
+    {
+      "recto": "Quels deux dirigeants incarnent la réconciliation franco-allemande au début des années 1960 ?",
+      "verso": "Charles de Gaulle et Konrad Adenauer",
+      "explanation": "Le président français De Gaulle et le chancelier ouest-allemand Adenauer scellent en 1963 (traité de l'Élysée) une amitié durable entre deux pays ennemis lors des deux guerres mondiales.",
+      "tags": [
+        "acteur"
+      ],
+      "distractors": {
+        "easy": [
+          "Napoléon et Bismarck",
+          "Louis XIV et Guillaume II",
+          "Clemenceau et Guillaume II"
+        ],
+        "medium": [
+          "De Gaulle et Churchill",
+          "Pompidou et Brandt",
+          "Mitterrand et Kohl"
+        ],
+        "hard": [
+          "Schuman et Adenauer",
+          "De Gaulle et Erhard",
+          "Giscard d'Estaing et Schmidt"
+        ]
+      }
+    },
+    {
+      "recto": "Vrai ou faux ? En menant une politique d'« indépendance nationale », la France de De Gaulle quitte le camp occidental et devient neutre.",
+      "verso": "Faux : la France reste dans le camp occidental, elle veut seulement y être plus autonome",
+      "explanation": "Le piège classique : malgré ses gestes d'indépendance (force de frappe, retrait du commandement de l'OTAN, reconnaissance de la Chine), la France reste fermement dans le camp occidental. Elle veut de l'autonomie, pas la neutralité.",
+      "tags": [
+        "piege"
+      ],
+      "distractors": {
+        "easy": [
+          "Vrai : elle rejoint le bloc de l'Est",
+          "Vrai : elle devient communiste",
+          "Vrai : elle s'allie à l'URSS"
+        ],
+        "medium": [
+          "Vrai : elle adhère au mouvement des non-alignés",
+          "Vrai : elle rompt avec les États-Unis",
+          "Vrai : elle quitte toutes ses alliances"
+        ],
+        "hard": [
+          "Vrai : elle se déclare neutre comme la Suisse",
+          "Vrai : elle quitte la CEE pour rester indépendante",
+          "Vrai : elle renonce à l'arme nucléaire"
+        ]
+      }
+    },
+    {
+      "recto": "La décolonisation française a suivi deux voies très différentes. Lesquelles ?",
+      "verso": "Des guerres (Indochine, Algérie) et des indépendances négociées (Afrique noire, 1960)",
+      "explanation": "La France a connu des décolonisations violentes (Indochine 1946-1954, Algérie 1954-1962) et, à l'inverse, des indépendances largement négociées, comme celles de ses colonies d'Afrique noire en 1960.",
+      "tags": [
+        "comparaison"
+      ],
+      "distractors": {
+        "easy": [
+          "La voie maritime et la voie terrestre",
+          "La voie du Nord et la voie du Sud",
+          "La paix et la prospérité"
+        ],
+        "medium": [
+          "L'achat et la vente des colonies",
+          "La voie monarchique et la voie républicaine",
+          "La colonisation et la recolonisation"
+        ],
+        "hard": [
+          "L'annexion et la fédération",
+          "Le protectorat et le mandat",
+          "La départementalisation et la sécession"
+        ]
+      }
+    },
+    {
+      "recto": "Au début des années 1970, quel est le nouveau statut de la France sur la scène internationale ?",
+      "verso": "Une puissance moyenne, mais influente et indépendante",
+      "explanation": "La France n'est plus l'empire colonial d'autrefois, ni une superpuissance. Mais, dotée de l'arme nucléaire, membre permanent du Conseil de sécurité et moteur de l'Europe, elle reste une puissance moyenne écoutée.",
+      "tags": [
+        "notion",
+        "bilan"
+      ],
+      "distractors": {
+        "easy": [
+          "La première puissance mondiale",
+          "Une colonie américaine",
+          "Un pays du tiers-monde"
+        ],
+        "medium": [
+          "Une superpuissance à l'égal des États-Unis",
+          "Un État neutre et sans influence",
+          "Un satellite de l'URSS"
+        ],
+        "hard": [
+          "La principale puissance militaire d'Europe de l'Est",
+          "Une puissance sans armée ni diplomatie",
+          "Le chef de file officiel des non-alignés"
+        ]
+      }
+    }
+  ]
+}
