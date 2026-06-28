@@ -169,6 +169,19 @@
       "path": "geographie/terminale/mers-appropriation-protection.json",
       "level": "Terminale",
       "theme": "Mers et océans : au cœur de la mondialisation"
+    },
+    {
+      "id": "geographie-terminale-metropolisation-flux",
+      "title": "Métropolisation, littoralisation des espaces productifs et accroissement des flux",
+      "emoji": "🌆",
+      "subject": "geography",
+      "language": "fr",
+      "courseDescription": "Géographie · Terminale — Thème 2, chapitre 1 : comment la mondialisation recompose les territoires. La métropolisation concentre hommes, activités et fonctions de commandement dans les métropoles et les villes mondiales (archipel mégalopolitain mondial) ; la littoralisation déplace les espaces productifs vers les façades maritimes ; les flux, matériels et immatériels, explosent. Des dynamiques qui creusent les inégalités entre territoires.",
+      "cardCount": 20,
+      "version": 1,
+      "path": "geographie/terminale/metropolisation-flux.json",
+      "level": "Terminale",
+      "theme": "Dynamiques territoriales, coopérations et tensions dans la mondialisation"
     }
   ]
 }
