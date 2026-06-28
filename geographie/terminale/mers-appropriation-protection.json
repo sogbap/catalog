@@ -1,0 +1,519 @@
+{
+  "id": "geographie-terminale-mers-appropriation-protection",
+  "title": "Mers et océans : entre appropriation, protection et liberté de circulation",
+  "emoji": "⚓",
+  "subject": "geography",
+  "courseDescription": "Géographie · Terminale — Thème 1 (Mers et océans), chapitre 2 : comment les États se partagent les mers (droit de la mer, ZEE, eaux territoriales, haute mer), sécurisent la liberté de circulation face à la piraterie, s'affrontent (mer de Chine méridionale, Arctique) et tentent de protéger des océans menacés (pollution, surpêche, aires marines protégées). La France, 2e ZEE mondiale.",
+  "lesson": "<style>\n  /* Styles propres aux illustrations SVG : s'adaptent au thème via\n     currentColor (texte) et var(--accent) (couleur de la matière). */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Mers et océans : entre appropriation, protection et liberté de circulation</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau :</b> Terminale générale — Géographie (tronc commun)<br>\n  <b>Thème 1 :</b> Mers et océans&nbsp;: au cœur de la mondialisation<br>\n  <b>Chapitre 2</b> · environ 6 heures\n</div>\n\n<blockquote>\n  <p><b>Problématique.</b> Comment les États se partagent-ils les mers, tout en garantissant la liberté de circulation et en protégeant des espaces de plus en plus menacés&nbsp;?</p>\n</blockquote>\n\n<p>Espaces de plus en plus convoités, les mers et les océans sont aujourd'hui <strong>partagés</strong> entre les États. Un cadre juridique, le <strong>droit de la mer</strong>, attribue à chacun des zones où il exerce des droits, tout en préservant la <strong>liberté de circulation</strong> au large. Mais cette <strong>appropriation</strong> nourrit des tensions et menace des milieux fragiles&nbsp;: la <strong>protection</strong> des océans est devenue un enjeu planétaire.</p>\n\n<h2>1 · Le partage des mers&nbsp;: le droit de la mer</h2>\n\n<p>Longtemps régies par le principe de la «&nbsp;liberté des mers&nbsp;», les eaux ont été progressivement partagées. La <strong>Convention de Montego Bay</strong> (1982), entrée en vigueur en <strong>1994</strong>, fixe le <strong>droit de la mer</strong>&nbsp;: elle découpe l'espace maritime en zones où l'État côtier détient des droits croissants à mesure que l'on se rapproche de ses côtes.</p>\n\n<p>Près du rivage, les <strong>eaux territoriales</strong> (jusqu'à 12 milles marins) relèvent de la <strong>pleine souveraineté</strong> de l'État. Au-delà, la <strong>zone économique exclusive</strong> (ZEE) s'étend jusqu'à 200 milles&nbsp;: l'État y détient des <strong>droits exclusifs</strong> sur les ressources (pêche, hydrocarbures), mais la navigation y reste libre. Plus loin commence la <strong>haute mer</strong>, libre et inappropriable.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Zone économique exclusive (ZEE)</strong><br>\n  Zone maritime s'étendant jusqu'à <b>200 milles marins</b> des côtes, où l'État côtier détient des <b>droits exclusifs sur les ressources</b> (pêche, hydrocarbures, énergies). La navigation y demeure libre&nbsp;: ce n'est pas une pleine souveraineté.\n</div>\n\n<blockquote>\n  <p><strong>Point de passage et d'ouverture</strong><br>La Convention de Montego Bay (1982), naissance du droit de la mer.</p>\n</blockquote>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 326\" role=\"img\" aria-label=\"Du rivage à la haute mer : eaux territoriales, ZEE et haute mer\">\n  <defs>\n    <marker id=\"ar-ap\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- Zone 1 -->\n  <g>\n    <rect x=\"14\" y=\"8\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"40\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">Eaux territoriales</text>\n    <text x=\"30\" y=\"65\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">Jusqu'à 12 milles · pleine souveraineté</text>\n  </g>\n  <path d=\"M170,88 L170,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ap)\"/>\n  <!-- Zone 2 -->\n  <g>\n    <rect x=\"14\" y=\"110\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"142\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">Zone économique exclusive</text>\n    <text x=\"30\" y=\"167\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">Jusqu'à 200 milles · droits sur les ressources</text>\n  </g>\n  <path d=\"M170,190 L170,210\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ap)\"/>\n  <!-- Zone 3 -->\n  <g>\n    <rect x=\"14\" y=\"212\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"244\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">Haute mer</text>\n    <text x=\"30\" y=\"269\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">Au-delà · libre, patrimoine commun</text>\n  </g>\n</svg>\n<figcaption>Du rivage au large&nbsp;: des eaux souveraines à la haute mer libre.</figcaption>\n</figure>\n\n<h2>2 · Garantir la liberté de circulation&nbsp;: la lutte contre la piraterie</h2>\n\n<p>Le partage des mers ne suffit pas&nbsp;: encore faut-il y garantir la sécurité de la navigation. Or la <strong>piraterie maritime</strong> — l'attaque de navires pour les piller, les détourner ou obtenir une rançon — menace les routes commerciales, surtout près des passages stratégiques et le long de côtes mal surveillées.</p>\n\n<p>Deux foyers majeurs persistent&nbsp;: la <strong>corne de l'Afrique</strong> (au large de la Somalie) et le <strong>golfe de Guinée</strong>. Pour sécuriser ces eaux, les États coopèrent&nbsp;: l'Union européenne a lancé en <strong>2008</strong> l'<strong>opération Atalante</strong> au large de la Somalie. La liberté de circulation, indispensable au commerce mondial, suppose donc une <strong>action collective</strong>.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Piraterie maritime</strong><br>\n  Attaque de navires en mer à des fins de <b>vol, de rançon ou de détournement</b>. Elle prospère près des <b>passages très fréquentés</b> et des côtes mal surveillées, et appelle une coopération internationale pour sécuriser les routes.\n</div>\n\n<blockquote>\n  <p><strong>Point de passage et d'ouverture</strong><br>La piraterie contemporaine, du golfe de Guinée à la corne de l'Afrique.</p>\n</blockquote>\n\n<h2>3 · Des espaces de plus en plus disputés</h2>\n\n<p>L'appropriation des mers nourrit de vives rivalités. En <strong>mer de Chine méridionale</strong>, la Chine revendique presque tout l'espace (la «&nbsp;langue de bœuf&nbsp;»), militarise des <strong>îlots artificiels</strong> et conteste les ZEE de ses voisins (Vietnam, Philippines). En <strong>2016</strong>, la Cour permanente d'arbitrage de La Haye a jugé ces revendications sans fondement — sentence rejetée par Pékin.</p>\n\n<p>De nouveaux fronts s'ouvrent. Dans l'<strong>Arctique</strong>, la fonte des glaces libère des routes maritimes et l'accès à des ressources (hydrocarbures, pêche)&nbsp;: les États riverains (Russie, Canada, États-Unis, Norvège) y rivalisent. Partout, le droit de la mer se heurte aux <strong>rapports de force</strong>.</p>\n\n<blockquote>\n  <p><strong>Point de passage et d'ouverture</strong><br>La mer de Chine méridionale, une zone de tensions majeures.</p>\n</blockquote>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Deux foyers de tensions maritimes : mer de Chine méridionale et Arctique\">\n  <!-- Colonne 1 : mer de Chine -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">Mer de Chine</text>\n  <text x=\"87\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12.5\" font-weight=\"700\">Tensions vives</text>\n  <text x=\"26\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Langue de bœuf</text>\n  <text x=\"26\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Îlots artificiels</text>\n  <text x=\"26\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Sentence 2016</text>\n  <!-- Colonne 2 : Arctique -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">Arctique</text>\n  <text x=\"253\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12.5\" font-weight=\"700\">Océan qui s'ouvre</text>\n  <text x=\"192\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Fonte des glaces</text>\n  <text x=\"192\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Routes nouvelles</text>\n  <text x=\"192\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Ressources</text>\n</svg>\n<figcaption>Deux grands foyers de tensions maritimes.</figcaption>\n</figure>\n\n<h2>4 · Protéger des océans menacés</h2>\n\n<p>Surexploités et pollués, les océans sont fragilisés. La <strong>surpêche</strong> épuise les stocks, les marées noires et le «&nbsp;7e continent&nbsp;» de plastique dégradent les milieux, tandis que le <strong>réchauffement</strong> provoque acidification et montée des eaux. Protéger les mers est devenu un <strong>enjeu mondial</strong>.</p>\n\n<p>Les États multiplient les <strong>aires marines protégées</strong> (AMP), où les activités humaines sont réglementées. À l'échelle internationale, l'<strong>accord BBNJ</strong> de <strong>2023</strong> permet, pour la première fois, de créer des aires protégées en <strong>haute mer</strong>, espace qui échappait jusque-là à toute protection d'ensemble.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Aire marine protégée (AMP)</strong><br>\n  Espace maritime délimité où les activités humaines (pêche, tourisme, extraction) sont <b>réglementées</b> afin de préserver les <b>écosystèmes</b>. Leur multiplication, jusqu'en haute mer avec l'accord BBNJ, est un outil majeur de protection des océans.\n</div>\n\n<h2>5 · La France, une puissance maritime</h2>\n\n<p>Grâce à ses territoires d'<strong>outre-mer</strong> présents sur tous les océans, la France possède la <strong>2e zone économique exclusive du monde</strong> (environ 10,2 millions de km², derrière les États-Unis). Cette vaste ZEE lui confère des ressources, une présence mondiale et un rôle de premier plan.</p>\n\n<p>Mais cette puissance impose des devoirs&nbsp;: surveiller des espaces immenses, lutter contre la pêche illégale, protéger la biodiversité. La France illustre ainsi tous les enjeux du chapitre&nbsp;: <strong>appropriation, circulation et protection</strong>.</p>\n\n<blockquote>\n  <p>Espaces partagés, sécurisés et protégés, les mers concentrent les enjeux de la mondialisation. Reste à comprendre comment, sur les terres, cette mondialisation recompose les territoires&nbsp;: c'est l'objet du thème suivant.</p>\n</blockquote>\n\n<h2>L'essentiel</h2>\n\n<h3>Frise chronologique</h3>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 366\" role=\"img\" aria-label=\"Frise des grandes étapes du droit de la mer, de 1958 à 2023\">\n  <line x1=\"74\" y1=\"22\" x2=\"74\" y2=\"348\" style=\"stroke:var(--accent);stroke-width:3;stroke-linecap:round\"/>\n  <!-- 1958 -->\n  <circle cx=\"74\" cy=\"40\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"45\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1958</text>\n  <text x=\"90\" y=\"45\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Conventions de Genève</text>\n  <!-- 1982 -->\n  <circle cx=\"74\" cy=\"101\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"106\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1982</text>\n  <text x=\"90\" y=\"106\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Convention de Montego Bay</text>\n  <!-- 1994 -->\n  <circle cx=\"74\" cy=\"162\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"167\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1994</text>\n  <text x=\"90\" y=\"167\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Droit de la mer en vigueur</text>\n  <!-- 2008 -->\n  <circle cx=\"74\" cy=\"223\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"228\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">2008</text>\n  <text x=\"90\" y=\"228\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Opération Atalante</text>\n  <!-- 2016 -->\n  <circle cx=\"74\" cy=\"284\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"289\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">2016</text>\n  <text x=\"90\" y=\"289\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Sentence de La Haye</text>\n  <!-- 2023 -->\n  <circle cx=\"74\" cy=\"345\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"350\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">2023</text>\n  <text x=\"90\" y=\"350\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Accord BBNJ (haute mer)</text>\n</svg>\n</figure>\n\n<h3>Dates clés</h3>\n\n<table>\n  <tr><th>Date</th><th>Repère</th></tr>\n  <tr><td>1982</td><td>Signature de la Convention de Montego Bay (droit de la mer)</td></tr>\n  <tr><td>1994</td><td>Entrée en vigueur du droit de la mer</td></tr>\n  <tr><td>2008</td><td>Lancement de l'opération Atalante (anti-piraterie)</td></tr>\n  <tr><td>2016</td><td>Sentence de La Haye sur la mer de Chine méridionale</td></tr>\n  <tr><td>2023</td><td>Adoption de l'accord BBNJ sur la haute mer</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition</th></tr>\n  <tr><td>Droit de la mer</td><td>Cadre juridique fixant les zones maritimes (Montego Bay, 1982).</td></tr>\n  <tr><td>Eaux territoriales</td><td>Bande des 12 milles sous pleine souveraineté de l'État.</td></tr>\n  <tr><td>ZEE</td><td>Zone des 200 milles aux droits économiques exclusifs.</td></tr>\n  <tr><td>Haute mer</td><td>Eaux libres au-delà des ZEE, patrimoine commun.</td></tr>\n  <tr><td>Piraterie</td><td>Attaque de navires à des fins de vol ou de rançon.</td></tr>\n  <tr><td>Aire marine protégée</td><td>Espace maritime réglementé pour préserver les écosystèmes.</td></tr>\n</table>\n\n<h3>Lieux et acteurs clés</h3>\n\n<table>\n  <tr><th>Lieu / acteur</th><th>Rôle</th></tr>\n  <tr><td>Mer de Chine méridionale</td><td>Principal foyer de tensions (revendications chinoises).</td></tr>\n  <tr><td>Golfe de Guinée et Somalie</td><td>Grandes zones de piraterie contemporaine.</td></tr>\n  <tr><td>Arctique</td><td>Océan convoité que la fonte des glaces ouvre.</td></tr>\n  <tr><td>ONU</td><td>Cadre du droit de la mer et de l'accord BBNJ.</td></tr>\n  <tr><td>La France</td><td>2e ZEE mondiale grâce à son outre-mer.</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Ne pas confondre <b>eaux territoriales</b> (souveraineté pleine, 12 milles) et <b>ZEE</b> (droits économiques seulement, 200 milles). La <b>haute mer</b> est libre, mais ce n'est pas une zone de non-droit&nbsp;: nul ne peut se l'approprier (patrimoine commun) et des accords la protègent. Distinguer enfin l'<b>appropriation</b> (partage, droits) de la <b>protection</b> (préservation des écosystèmes).\n</div>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Mers et océans : au cœur de la mondialisation",
+  "cards": [
+    {
+      "recto": "Quelle convention internationale, signée en 1982, fixe le « droit de la mer » et délimite les zones maritimes des États ?",
+      "verso": "La Convention de Montego Bay (1982)",
+      "explanation": "Signée en 1982 à Montego Bay (Jamaïque) et entrée en vigueur en 1994, la Convention des Nations unies sur le droit de la mer (CNUDM) définit les zones maritimes (eaux territoriales, ZEE, haute mer) et les droits des États. C'est le cadre juridique de référence.",
+      "tags": [
+        "notion",
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "Le traité de Rome",
+          "Les accords de Schengen",
+          "La convention de Genève sur les réfugiés"
+        ],
+        "medium": [
+          "Le protocole de Kyoto",
+          "Les accords de Paris sur le climat",
+          "La convention de Ramsar"
+        ],
+        "hard": [
+          "La convention MARPOL",
+          "La convention de Barcelone",
+          "L'accord de Londres de 1972"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que la ZEE (zone économique exclusive) ?",
+      "verso": "Une zone maritime, jusqu'à 200 milles marins des côtes, où l'État côtier détient des droits exclusifs sur les ressources",
+      "explanation": "La ZEE s'étend jusqu'à 200 milles marins (environ 370 km) depuis la côte. L'État côtier n'y exerce pas une souveraineté pleine, mais y détient des droits exclusifs d'exploitation des ressources : pêche, hydrocarbures, énergies marines.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Une zone interdite à toute navigation",
+          "Une réserve naturelle mondiale",
+          "Une zone de pêche libre pour tous les pays"
+        ],
+        "medium": [
+          "La bande des 12 milles sous pleine souveraineté",
+          "Les eaux internationales libres",
+          "Un port franc exonéré de taxes"
+        ],
+        "hard": [
+          "Le plateau continental juridique",
+          "La zone contiguë de surveillance douanière",
+          "La mer territoriale élargie"
+        ]
+      }
+    },
+    {
+      "recto": "Jusqu'à quelle distance des côtes s'étend, au maximum, la zone économique exclusive (ZEE) d'un État ?",
+      "verso": "200 milles marins (environ 370 km)",
+      "explanation": "La ZEE peut s'étendre jusqu'à 200 milles marins (≈ 370 km) de la ligne de base côtière. Au-delà commence la haute mer. Un État peut parfois étendre ses droits sur le plateau continental jusqu'à 350 milles marins.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "12 km",
+          "50 km",
+          "1 000 km"
+        ],
+        "medium": [
+          "12 milles marins",
+          "100 milles marins",
+          "500 milles marins"
+        ],
+        "hard": [
+          "24 milles marins",
+          "150 milles marins",
+          "350 milles marins"
+        ]
+      }
+    },
+    {
+      "recto": "Comment nomme-t-on la bande maritime, jusqu'à 12 milles marins des côtes, placée sous la pleine souveraineté de l'État côtier ?",
+      "verso": "Les eaux territoriales (ou mer territoriale)",
+      "explanation": "Les eaux territoriales s'étendent jusqu'à 12 milles marins de la côte. L'État y exerce une souveraineté quasi complète, comme sur son territoire terrestre, sous réserve du droit de « passage inoffensif » des navires étrangers.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La haute mer",
+          "Le grand large",
+          "Les eaux glaciales"
+        ],
+        "medium": [
+          "La zone économique exclusive",
+          "Les eaux internationales",
+          "Le détroit international"
+        ],
+        "hard": [
+          "La zone contiguë",
+          "Le plateau continental",
+          "Les eaux archipélagiques"
+        ]
+      }
+    },
+    {
+      "recto": "Comment appelle-t-on les eaux situées au-delà des ZEE, libres de navigation et considérées comme « patrimoine commun de l'humanité » ?",
+      "verso": "La haute mer",
+      "explanation": "La haute mer désigne les eaux internationales au-delà des ZEE (environ 60 % de la surface des océans). Elle est libre (navigation, pêche, recherche) et ne peut être appropriée par aucun État : c'est un « patrimoine commun de l'humanité ».",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le port",
+          "Le lagon",
+          "L'estuaire"
+        ],
+        "medium": [
+          "Les eaux territoriales",
+          "La zone économique exclusive",
+          "Les eaux intérieures"
+        ],
+        "hard": [
+          "La zone contiguë",
+          "Le plateau continental",
+          "Les eaux archipélagiques"
+        ]
+      }
+    },
+    {
+      "recto": "En quelle année la Convention des Nations unies sur le droit de la mer (Montego Bay) est-elle entrée en vigueur ?",
+      "verso": "En 1994",
+      "explanation": "Signée en 1982, la Convention de Montego Bay n'est entrée en vigueur qu'en 1994, après un nombre suffisant de ratifications. Les États-Unis, notamment, ne l'ont jamais ratifiée.",
+      "tags": [
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "En 1789",
+          "En 1918",
+          "En 2001"
+        ],
+        "medium": [
+          "En 1945",
+          "En 1973",
+          "En 2010"
+        ],
+        "hard": [
+          "En 1982",
+          "En 1989",
+          "En 1996"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que la piraterie maritime ?",
+      "verso": "L'attaque de navires en mer à des fins de vol, de rançon ou de détournement",
+      "explanation": "La piraterie consiste à attaquer des navires (cargaisons, équipages) pour les piller, les détourner ou obtenir une rançon. Elle prospère près des passages stratégiques très fréquentés et le long de côtes mal surveillées.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La pêche traditionnelle",
+          "Le transport de passagers",
+          "La plaisance touristique"
+        ],
+        "medium": [
+          "La contrebande aux frontières terrestres",
+          "Le commerce maritime légal",
+          "Le sauvetage en mer"
+        ],
+        "hard": [
+          "La course autorisée par un État en guerre",
+          "La pêche illégale (pêche INN)",
+          "Le mouillage forcé"
+        ]
+      }
+    },
+    {
+      "recto": "Citez l'une des deux principales zones de piraterie maritime contemporaine.",
+      "verso": "Le golfe de Guinée (ou la corne de l'Afrique, au large de la Somalie)",
+      "explanation": "La piraterie se concentre aujourd'hui surtout dans le golfe de Guinée (Afrique de l'Ouest) et au large de la corne de l'Afrique (Somalie), ainsi que dans le détroit de Malacca. Ces zones jouxtent des routes commerciales très fréquentées.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La mer Baltique",
+          "Le lac Léman",
+          "La mer des Caraïbes touristique"
+        ],
+        "medium": [
+          "La Manche",
+          "La Méditerranée occidentale",
+          "La mer du Nord"
+        ],
+        "hard": [
+          "Le golfe du Saint-Laurent",
+          "La mer de Norvège",
+          "Le golfe de Gascogne"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle opération navale, lancée en 2008, lutte contre la piraterie au large de la Somalie ?",
+      "verso": "L'opération Atalante (Union européenne)",
+      "explanation": "Lancée en 2008, l'opération Atalante (EUNAVFOR) est une mission navale de l'Union européenne destinée à protéger les navires et à réprimer la piraterie au large de la corne de l'Afrique. Elle illustre la sécurisation collective des mers.",
+      "tags": [
+        "acteur",
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "Les Jeux olympiques",
+          "Le programme Erasmus",
+          "La mission Apollo"
+        ],
+        "medium": [
+          "L'opération Barkhane",
+          "L'opération Sentinelle",
+          "L'agence Frontex"
+        ],
+        "hard": [
+          "L'opération Sophia",
+          "La force Ocean Shield de l'OTAN",
+          "La mission Agénor dans le golfe Persique"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle mer d'Asie du Sud-Est est au cœur de fortes tensions entre la Chine et ses voisins (Vietnam, Philippines...) ?",
+      "verso": "La mer de Chine méridionale",
+      "explanation": "Traversée par des routes majeures et riche en ressources, la mer de Chine méridionale est revendiquée presque entièrement par la Chine (« langue de bœuf »), au mépris des ZEE de ses voisins. C'est l'un des principaux foyers de tension maritime.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La mer Morte",
+          "La mer Baltique",
+          "La mer Noire"
+        ],
+        "medium": [
+          "Le golfe Persique",
+          "La mer Méditerranée",
+          "La mer des Caraïbes"
+        ],
+        "hard": [
+          "La mer de Chine orientale",
+          "La mer Jaune",
+          "La mer d'Andaman"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la mer de Chine méridionale est-elle l'objet de vives rivalités ?",
+      "verso": "La Chine y revendique presque toute la zone et y construit des îlots artificiels militarisés, contre les revendications de ses voisins",
+      "explanation": "La Chine y trace une « langue de bœuf » englobant la quasi-totalité de la mer, militarise des îlots artificiels (récifs, atolls) pour asseoir sa présence et conteste les ZEE du Vietnam, des Philippines ou de la Malaisie. S'y ajoutent des ressources et des routes commerciales majeures.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'elle est totalement gelée toute l'année",
+          "Parce qu'aucun navire n'y circule",
+          "Parce qu'elle est dépourvue de ressources"
+        ],
+        "medium": [
+          "Parce qu'elle sépare l'Europe de l'Afrique",
+          "Parce que la pêche y est interdite par l'ONU",
+          "Parce qu'elle appartient officiellement au Japon"
+        ],
+        "hard": [
+          "Parce que les États-Unis en revendiquent la souveraineté",
+          "Parce qu'un canal interocéanique doit y être creusé",
+          "Parce qu'elle relève entièrement de la haute mer"
+        ]
+      }
+    },
+    {
+      "recto": "En 2016, quelle instance internationale a rejeté les revendications chinoises en mer de Chine méridionale ?",
+      "verso": "La Cour permanente d'arbitrage de La Haye (sentence de 2016)",
+      "explanation": "En 2016, saisie par les Philippines, la Cour permanente d'arbitrage de La Haye a jugé les revendications historiques chinoises (« langue de bœuf ») sans fondement. Pékin a rejeté la sentence, ce qui montre les limites du droit international face aux rapports de force.",
+      "tags": [
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "Le Comité international olympique",
+          "L'Organisation mondiale de la santé",
+          "Le Conseil de l'Europe"
+        ],
+        "medium": [
+          "Le Conseil de sécurité de l'ONU",
+          "L'Organisation mondiale du commerce",
+          "Le G20"
+        ],
+        "hard": [
+          "La Cour pénale internationale",
+          "La Cour internationale de justice",
+          "Le Tribunal international du droit de la mer"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi l'océan Arctique devient-il un espace de plus en plus convoité ?",
+      "verso": "La fonte des glaces ouvre de nouvelles routes maritimes et donne accès à des ressources (hydrocarbures, pêche)",
+      "explanation": "Le réchauffement fait fondre la banquise : de nouvelles routes (passage du Nord-Est, du Nord-Ouest) raccourcissent les trajets, et l'accès aux ressources (pétrole, gaz, minerais, pêche) s'élargit. Les États riverains (Russie, Canada, États-Unis, Norvège, Danemark) y rivalisent.",
+      "tags": [
+        "environnement"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'il devient une destination balnéaire",
+          "Parce qu'il se transforme en désert chaud",
+          "Parce qu'il n'y a plus d'eau du tout"
+        ],
+        "medium": [
+          "Parce qu'un canal y a été creusé en 1914",
+          "Parce qu'il relie l'Atlantique au golfe Persique",
+          "Parce qu'il est devenu totalement inhabitable"
+        ],
+        "hard": [
+          "Parce que la banquise s'épaissit et bloque tout passage",
+          "Parce qu'il relève entièrement de la souveraineté russe",
+          "Parce que le droit de la mer ne s'y applique pas"
+        ]
+      }
+    },
+    {
+      "recto": "Citez une menace environnementale majeure qui pèse sur les océans.",
+      "verso": "La pollution (plastique, marées noires), la surpêche ou le réchauffement et l'acidification des eaux",
+      "explanation": "Les océans sont fragilisés par la pollution (notamment plastique), les marées noires, la surpêche qui épuise les stocks, et par le changement climatique (réchauffement, acidification, montée du niveau marin). Les protéger est devenu un enjeu mondial.",
+      "tags": [
+        "environnement"
+      ],
+      "distractors": {
+        "easy": [
+          "L'excès d'aires marines protégées",
+          "La trop faible fréquentation des navires",
+          "L'abondance excessive de poissons"
+        ],
+        "medium": [
+          "La disparition totale du sel marin",
+          "L'arrêt des courants par les câbles sous-marins",
+          "Le gel permanent de tous les océans"
+        ],
+        "hard": [
+          "La baisse continue du niveau des mers",
+          "La désalinisation naturelle des océans",
+          "Le recul de l'effet de serre océanique"
+        ]
+      }
+    },
+    {
+      "recto": "Comment surnomme-t-on les vastes zones d'accumulation de déchets plastiques qui dérivent dans les océans ?",
+      "verso": "Le « 7e continent » de plastique",
+      "explanation": "Le « 7e continent » désigne d'immenses zones où les courants concentrent les déchets plastiques (la plus connue dans le Pacifique nord). Ces « plaques » illustrent l'ampleur de la pollution marine et menacent la faune et les chaînes alimentaires.",
+      "tags": [
+        "environnement"
+      ],
+      "distractors": {
+        "easy": [
+          "La banquise éternelle",
+          "Le grand récif de corail",
+          "L'île au trésor"
+        ],
+        "medium": [
+          "La dorsale médio-océanique",
+          "Le Gulf Stream",
+          "Le triangle des Bermudes"
+        ],
+        "hard": [
+          "Le continent submergé de Zealandia",
+          "La mer des Sargasses",
+          "Les zones d'upwelling du Pacifique"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une aire marine protégée (AMP) ?",
+      "verso": "Un espace maritime délimité où les activités humaines sont réglementées pour protéger les écosystèmes",
+      "explanation": "Une AMP est une portion de mer où l'on encadre ou limite la pêche, le tourisme ou l'extraction afin de préserver la biodiversité. Leur multiplication est l'un des principaux outils de protection des océans, encouragé par les accords internationaux.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Une zone de pêche industrielle intensive",
+          "Un port militaire fermé",
+          "Une plateforme pétrolière offshore"
+        ],
+        "medium": [
+          "Une zone économique exclusive",
+          "Un point de passage stratégique",
+          "Un hub portuaire"
+        ],
+        "hard": [
+          "Une zone contiguë douanière",
+          "Une réserve de quotas de pêche",
+          "Un sanctuaire de haute mer non réglementé"
+        ]
+      }
+    },
+    {
+      "recto": "Quel traité international, adopté en 2023, vise à protéger la biodiversité de la haute mer ?",
+      "verso": "L'accord BBNJ, dit « traité sur la haute mer » (2023)",
+      "explanation": "Adopté en 2023 sous l'égide de l'ONU, l'accord BBNJ (Biodiversity Beyond National Jurisdiction) permet notamment de créer des aires marines protégées en haute mer — espace qui échappait jusque-là à toute protection d'ensemble. Il complète la Convention de Montego Bay.",
+      "tags": [
+        "dates",
+        "environnement"
+      ],
+      "distractors": {
+        "easy": [
+          "Le traité de Versailles",
+          "Le traité de Maastricht",
+          "Le traité de l'Élysée"
+        ],
+        "medium": [
+          "Le protocole de Kyoto",
+          "Les accords de Paris sur le climat",
+          "Le traité de Montego Bay"
+        ],
+        "hard": [
+          "Le protocole de Carthagène",
+          "La convention CITES",
+          "Le protocole de Nagoya"
+        ]
+      }
+    },
+    {
+      "recto": "Quel pays possède la 2e plus vaste zone économique exclusive (ZEE) du monde, grâce à ses territoires d'outre-mer ?",
+      "verso": "La France (environ 10,2 millions de km²)",
+      "explanation": "Grâce à son outre-mer présent sur tous les océans, la France dispose de la 2e ZEE mondiale (≈ 10,2 millions de km², derrière les États-Unis). Cela en fait une véritable puissance maritime, avec des enjeux de surveillance, de ressources et d'influence.",
+      "tags": [
+        "acteur"
+      ],
+      "distractors": {
+        "easy": [
+          "Le Luxembourg",
+          "La Suisse",
+          "La Mongolie"
+        ],
+        "medium": [
+          "L'Allemagne",
+          "Le Brésil",
+          "L'Inde"
+        ],
+        "hard": [
+          "Le Royaume-Uni",
+          "L'Australie",
+          "Le Japon"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la différence entre les eaux territoriales et la zone économique exclusive (ZEE) ?",
+      "verso": "Dans les eaux territoriales (12 milles) l'État est pleinement souverain ; dans la ZEE (200 milles) il ne détient que des droits économiques exclusifs",
+      "explanation": "Distinction clé : sur les eaux territoriales (jusqu'à 12 milles), l'État exerce une souveraineté quasi totale. Sur la ZEE (jusqu'à 200 milles), il ne possède que des droits exclusifs d'exploitation des ressources — la navigation y reste libre pour les autres États.",
+      "tags": [
+        "comparaison"
+      ],
+      "distractors": {
+        "easy": [
+          "Il n'y a aucune différence entre les deux",
+          "Les eaux territoriales sont en haute mer, la ZEE près des côtes",
+          "La ZEE est plus petite que les eaux territoriales"
+        ],
+        "medium": [
+          "Dans la ZEE l'État est pleinement souverain, pas dans les eaux territoriales",
+          "Les eaux territoriales concernent la pêche, la ZEE le tourisme",
+          "La ZEE est réservée aux navires militaires"
+        ],
+        "hard": [
+          "Les eaux territoriales vont jusqu'à 200 milles, la ZEE jusqu'à 12 milles",
+          "Les deux relèvent de la haute mer internationale",
+          "La ZEE interdit toute navigation étrangère, pas les eaux territoriales"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi dire que la haute mer « n'appartient à personne et peut donc être exploitée librement » est-il trompeur ?",
+      "verso": "La haute mer est libre mais c'est un « patrimoine commun de l'humanité » : nul ne peut se l'approprier, et sa protection relève d'accords internationaux (comme le BBNJ)",
+      "explanation": "Piège classique : la « liberté » de la haute mer ne signifie pas absence de règles. Elle ne peut être appropriée par aucun État, et des accords (droit de la mer, BBNJ de 2023) encadrent son exploitation et sa protection. Ne pas confondre non plus eaux territoriales (souveraineté) et ZEE (droits économiques seulement).",
+      "tags": [
+        "piege",
+        "bilan"
+      ],
+      "distractors": {
+        "easy": [
+          "C'est exact : on peut tout y faire sans aucune règle",
+          "La haute mer appartient en réalité à un seul pays",
+          "La haute mer n'existe pas dans le droit international"
+        ],
+        "medium": [
+          "La haute mer est intégralement interdite à la navigation",
+          "La haute mer correspond aux eaux territoriales des États",
+          "La haute mer est entièrement couverte d'aires protégées obligatoires"
+        ],
+        "hard": [
+          "La haute mer relève de la ZEE de l'État le plus proche",
+          "La liberté de la haute mer a été supprimée en 1994",
+          "La haute mer est gérée par un gouvernement mondial unique"
+        ]
+      }
+    }
+  ]
+}

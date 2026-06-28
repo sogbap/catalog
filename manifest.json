@@ -156,6 +156,19 @@
       "path": "geographie/terminale/mers-oceans-mondialisation.json",
       "level": "Terminale",
       "theme": "Mers et océans : au cœur de la mondialisation"
+    },
+    {
+      "id": "geographie-terminale-mers-appropriation-protection",
+      "title": "Mers et océans : entre appropriation, protection et liberté de circulation",
+      "emoji": "⚓",
+      "subject": "geography",
+      "language": "fr",
+      "courseDescription": "Géographie · Terminale — Thème 1 (Mers et océans), chapitre 2 : comment les États se partagent les mers (droit de la mer, ZEE, eaux territoriales, haute mer), sécurisent la liberté de circulation face à la piraterie, s'affrontent (mer de Chine méridionale, Arctique) et tentent de protéger des océans menacés (pollution, surpêche, aires marines protégées). La France, 2e ZEE mondiale.",
+      "cardCount": 20,
+      "version": 1,
+      "path": "geographie/terminale/mers-appropriation-protection.json",
+      "level": "Terminale",
+      "theme": "Mers et océans : au cœur de la mondialisation"
     }
   ]
 }
