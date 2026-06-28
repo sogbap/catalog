@@ -143,6 +143,19 @@
       "path": "histoire/terminale/republique-societe.json",
       "level": "Terminale",
       "theme": "Le monde, l'Europe et la France depuis les années 1990, entre coopérations et conflits"
+    },
+    {
+      "id": "geographie-terminale-mers-oceans-mondialisation",
+      "title": "Mers et océans : des espaces au cœur de la mondialisation",
+      "emoji": "🌊",
+      "subject": "geography",
+      "language": "fr",
+      "courseDescription": "Géographie · Terminale — Thème 1 (Mers et océans), chapitre 1 : pourquoi les mers et les océans sont au cœur de la mondialisation — maritimisation, conteneurisation, routes et passages stratégiques (Suez, Panama, Malacca, Ormuz), façades et grands ports, ressources et câbles sous-marins.",
+      "cardCount": 20,
+      "version": 1,
+      "path": "geographie/terminale/mers-oceans-mondialisation.json",
+      "level": "Terminale",
+      "theme": "Mers et océans : au cœur de la mondialisation"
     }
   ]
 }
