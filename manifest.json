@@ -221,6 +221,19 @@
       "path": "geographie/terminale/ue-espace-ouvert-monde.json",
       "level": "Terminale",
       "theme": "L'Union européenne dans la mondialisation : des dynamiques complexes"
+    },
+    {
+      "id": "geographie-terminale-france-metropolisation",
+      "title": "La métropolisation et ses effets sur le territoire français",
+      "emoji": "🏙️",
+      "subject": "geography",
+      "language": "fr",
+      "courseDescription": "Géographie · Terminale — Thème conclusif, chapitre 1 : la métropolisation concentre populations, activités et fonctions de commandement dans les grandes villes. Paris, seule ville mondiale française, domine un réseau marqué par la macrocéphalie, devant des métropoles régionales dynamiques (Lyon, Marseille, Lille...). Mise en réseau (LGV, Roissy) et étalement périurbain transforment le territoire, mais la métropolisation creuse les inégalités, d'où les politiques d'aménagement (DATAR, décentralisation, loi MAPTAM).",
+      "cardCount": 20,
+      "version": 1,
+      "path": "geographie/terminale/france-metropolisation.json",
+      "level": "Terminale",
+      "theme": "La France et ses régions dans l'Union européenne et la mondialisation"
     }
   ]
 }
