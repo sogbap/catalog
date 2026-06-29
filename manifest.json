@@ -195,6 +195,19 @@
       "path": "geographie/terminale/territoires-integration.json",
       "level": "Terminale",
       "theme": "Dynamiques territoriales, coopérations et tensions dans la mondialisation"
+    },
+    {
+      "id": "geographie-terminale-ue-competitivite-cohesion",
+      "title": "Des politiques européennes entre compétitivité et cohésion des territoires",
+      "emoji": "🇪🇺",
+      "subject": "geography",
+      "language": "fr",
+      "courseDescription": "Géographie · Terminale — Thème 3, chapitre 1 : l'Union européenne mène des politiques territoriales partagées entre deux objectifs. La compétitivité (marché unique, métropoles, dorsale européenne) vise à s'imposer dans la mondialisation ; la cohésion (FEDER, fonds structurels) cherche à réduire les fortes disparités entre un centre riche et des périphéries en retard. Deux logiques en tension permanente.",
+      "cardCount": 20,
+      "version": 1,
+      "path": "geographie/terminale/ue-competitivite-cohesion.json",
+      "level": "Terminale",
+      "theme": "L'Union européenne dans la mondialisation : des dynamiques complexes"
     }
   ]
 }

@@ -1,0 +1,516 @@
+{
+  "id": "geographie-terminale-ue-competitivite-cohesion",
+  "title": "Des politiques européennes entre compétitivité et cohésion des territoires",
+  "emoji": "🇪🇺",
+  "subject": "geography",
+  "courseDescription": "Géographie · Terminale — Thème 3, chapitre 1 : l'Union européenne mène des politiques territoriales partagées entre deux objectifs. La compétitivité (marché unique, métropoles, dorsale européenne) vise à s'imposer dans la mondialisation ; la cohésion (FEDER, fonds structurels) cherche à réduire les fortes disparités entre un centre riche et des périphéries en retard. Deux logiques en tension permanente.",
+  "lesson": "<style>\n  /* Styles propres aux illustrations SVG : s'adaptent au thème via\n     currentColor (texte) et var(--accent) (couleur de la matière). */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Des politiques européennes entre compétitivité et cohésion des territoires</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau :</b> Terminale générale — Géographie (tronc commun)<br>\n  <b>Thème 3 :</b> L'Union européenne dans la mondialisation : des dynamiques complexes<br>\n  <b>Chapitre 1</b> · environ 7 heures\n</div>\n\n<blockquote>\n  <p><b>Problématique.</b> Comment l'Union européenne concilie-t-elle la recherche de la compétitivité dans la mondialisation et la cohésion de ses territoires&nbsp;?</p>\n</blockquote>\n\n<p>L'Union européenne est la forme d'intégration régionale la plus aboutie du monde. Mais derrière l'apparente unité, ses territoires restent profondément <strong>inégaux</strong>. L'UE mène donc des politiques tiraillées entre deux objectifs&nbsp;: renforcer la <strong>compétitivité</strong> de ses espaces les plus dynamiques pour rivaliser dans la mondialisation, et assurer la <strong>cohésion</strong> en aidant les régions en retard.</p>\n\n<h2>1 · L'Union européenne, une intégration unique au monde</h2>\n\n<p>Depuis le traité de Rome (<strong>1957</strong>), les États européens n'ont cessé d'approfondir leur union&nbsp;: union douanière, puis <strong>marché unique</strong>, monnaie commune (l'euro) et politiques communes. Aucune autre organisation régionale ne va aussi loin dans l'intégration.</p>\n\n<p>Cette intégration crée un vaste espace de libre circulation et d'échanges. Mais elle réunit des territoires très différents&nbsp;: un centre riche et puissant — la <strong>dorsale européenne</strong> — face à des périphéries souvent moins développées. L'UE est donc à la fois <strong>unie et inégale</strong>.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Intégration européenne</strong><br>\n  Processus de <b>rapprochement croissant</b> des économies et des politiques des États membres&nbsp;: union douanière, marché unique, monnaie commune, politiques communes. C'est l'intégration régionale <b>la plus poussée au monde</b>.\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 326\" role=\"img\" aria-label=\"Une Union européenne aux territoires très inégaux\">\n  <defs>\n    <marker id=\"ar-ue\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- Niveau 1 : la dorsale (mise en valeur) -->\n  <g>\n    <rect x=\"14\" y=\"8\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"40\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">La dorsale européenne</text>\n    <text x=\"30\" y=\"65\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">« Banane bleue » : cœur riche</text>\n  </g>\n  <path d=\"M170,88 L170,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ue)\"/>\n  <!-- Niveau 2 : périphéries dynamiques -->\n  <g>\n    <rect x=\"14\" y=\"110\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"142\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">Les périphéries dynamiques</text>\n    <text x=\"30\" y=\"167\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">Métropoles et littoraux actifs</text>\n  </g>\n  <path d=\"M170,190 L170,210\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ue)\"/>\n  <!-- Niveau 3 : périphéries en retard -->\n  <g>\n    <rect x=\"14\" y=\"212\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"244\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">Les périphéries en retard</text>\n    <text x=\"30\" y=\"269\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">Est et sud : régions aidées</text>\n  </g>\n</svg>\n<figcaption>Une Union européenne aux territoires très inégaux.</figcaption>\n</figure>\n\n<h2>2 · La recherche de la compétitivité : le marché unique</h2>\n\n<p>Pour peser dans la mondialisation, l'UE a bâti un <strong>marché unique</strong>&nbsp;: marchandises, services, capitaux et personnes y circulent librement (les «&nbsp;quatre libertés&nbsp;»). En supprimant les barrières internes, l'Union renforce la <strong>compétitivité</strong> de ses entreprises face aux États-Unis et à l'Asie.</p>\n\n<p>Cette compétitivité s'appuie d'abord sur les grandes <strong>métropoles</strong> (Paris, Francfort, Amsterdam) et sur la dorsale européenne, qui concentrent finance, innovation et connexions mondiales. Ces territoires sont les véritables <strong>moteurs</strong> de l'économie européenne.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Marché unique</strong><br>\n  Espace de <b>libre circulation des marchandises, des services, des capitaux et des personnes</b> entre États membres. Réalisé en 1993, il supprime les frontières économiques et constitue le <b>cœur de l'intégration</b>.\n</div>\n\n<blockquote>\n  <p><strong>Point de passage et d'ouverture</strong><br>Une grande métropole européenne (Paris ou Francfort), vitrine de l'intégration et de la compétitivité.</p>\n</blockquote>\n\n<h2>3 · Une UE marquée par de fortes disparités territoriales</h2>\n\n<p>L'intégration ne profite pas également à tous. Les écarts de richesse restent forts&nbsp;: la dorsale et les métropoles dominent, tandis que de nombreuses régions de l'est et du sud, plus rurales ou marquées par un déclin industriel, accusent un <strong>retard de développement</strong>.</p>\n\n<p>Les élargissements successifs, notamment à l'Est (<strong>2004</strong>, 2007), ont accentué ces disparités en intégrant des pays au niveau de vie plus faible. Plus l'Union s'étend, plus la question de la <strong>réduction des écarts</strong> devient cruciale.</p>\n\n<h2>4 · La politique de cohésion : réduire les écarts</h2>\n\n<p>Face à ces inégalités, l'UE mène une <strong>politique de cohésion</strong> (ou politique régionale), l'un des premiers postes de son budget. Elle redistribue des moyens vers les régions en retard grâce à des <strong>fonds structurels</strong> comme le <strong>FEDER</strong>, en ciblant celles dont le PIB par habitant est inférieur à la moyenne européenne.</p>\n\n<p>La cohésion soutient aussi des espaces particuliers&nbsp;: les <strong>régions ultrapériphériques</strong> (RUP), très éloignées du continent, et les <strong>régions transfrontalières</strong>, où des programmes comme Interreg encouragent la coopération entre États voisins.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Politique de cohésion</strong><br>\n  Politique qui vise à <b>réduire les écarts de développement</b> entre les régions de l'UE, grâce à des fonds européens (FEDER, fonds structurels) ciblant les territoires en retard. C'est l'un des <b>premiers postes du budget</b>.\n</div>\n\n<blockquote>\n  <p><strong>Point de passage et d'ouverture</strong><br>Une région transfrontalière au sein de l'UE, espace de coopération entre États voisins.</p>\n</blockquote>\n\n<h2>5 · Compétitivité ou cohésion : une tension permanente</h2>\n\n<p>Les deux objectifs entrent souvent en <strong>tension</strong>. Soutenir la compétitivité, c'est miser sur les territoires déjà performants — au risque de creuser les écarts. Soutenir la cohésion, c'est aider les régions fragiles — au risque de ralentir les plus dynamiques. L'UE doit sans cesse <strong>arbitrer</strong> entre les deux.</p>\n\n<p>Cette tension se lit jusque dans les territoires les plus éloignés, comme les <strong>régions ultrapériphériques</strong>, qui cherchent à concilier rattrapage et insertion dans la mondialisation. Compétitivité et cohésion ne s'excluent pas, mais leur équilibre reste un <strong>défi permanent</strong>.</p>\n\n<blockquote>\n  <p><strong>Point de passage et d'ouverture</strong><br>Une région ultrapériphérique (un outre-mer européen) et son intégration à la mondialisation.</p>\n</blockquote>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Deux objectifs en tension : compétitivité et cohésion\">\n  <!-- Colonne 1 : compétitivité -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">Compétitivité</text>\n  <text x=\"87\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12.5\" font-weight=\"700\">Attirer, innover</text>\n  <text x=\"26\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Marché unique</text>\n  <text x=\"26\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Métropoles</text>\n  <text x=\"26\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Recherche</text>\n  <!-- Colonne 2 : cohésion -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">Cohésion</text>\n  <text x=\"253\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12.5\" font-weight=\"700\">Réduire les écarts</text>\n  <text x=\"192\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">FEDER</text>\n  <text x=\"192\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Fonds structurels</text>\n  <text x=\"192\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Régions aidées</text>\n</svg>\n<figcaption>Deux objectifs en tension&nbsp;: compétitivité et cohésion.</figcaption>\n</figure>\n\n<h2>L'essentiel</h2>\n\n<h3>Frise chronologique</h3>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 366\" role=\"img\" aria-label=\"Frise des grandes étapes de l'intégration européenne\">\n  <line x1=\"74\" y1=\"22\" x2=\"74\" y2=\"348\" style=\"stroke:var(--accent);stroke-width:3;stroke-linecap:round\"/>\n  <!-- 1957 -->\n  <circle cx=\"74\" cy=\"40\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"45\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1957</text>\n  <text x=\"90\" y=\"45\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Traité de Rome (CEE)</text>\n  <!-- 1986 -->\n  <circle cx=\"74\" cy=\"101\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"106\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1986</text>\n  <text x=\"90\" y=\"106\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Acte unique européen</text>\n  <!-- 1992 -->\n  <circle cx=\"74\" cy=\"162\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"167\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1992</text>\n  <text x=\"90\" y=\"167\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Traité de Maastricht</text>\n  <!-- 1993 -->\n  <circle cx=\"74\" cy=\"223\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"228\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1993</text>\n  <text x=\"90\" y=\"228\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Marché unique en vigueur</text>\n  <!-- 2002 -->\n  <circle cx=\"74\" cy=\"284\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"289\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">2002</text>\n  <text x=\"90\" y=\"289\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Passage à l'euro</text>\n  <!-- 2004 -->\n  <circle cx=\"74\" cy=\"345\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"350\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">2004</text>\n  <text x=\"90\" y=\"350\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Grand élargissement (Est)</text>\n</svg>\n</figure>\n\n<h3>Dates clés</h3>\n\n<table>\n  <tr><th>Date</th><th>Repère</th></tr>\n  <tr><td>1957</td><td>Traité de Rome : naissance de la CEE</td></tr>\n  <tr><td>1986</td><td>Acte unique européen : lancement du marché unique</td></tr>\n  <tr><td>1992</td><td>Traité de Maastricht : création de l'Union européenne</td></tr>\n  <tr><td>1993</td><td>Entrée en vigueur du marché unique</td></tr>\n  <tr><td>2002</td><td>Mise en circulation de l'euro</td></tr>\n  <tr><td>2004</td><td>Grand élargissement à l'Est (dix nouveaux États)</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition</th></tr>\n  <tr><td>Intégration européenne</td><td>Rapprochement croissant des économies et politiques des États membres.</td></tr>\n  <tr><td>Marché unique</td><td>Libre circulation des marchandises, services, capitaux et personnes.</td></tr>\n  <tr><td>Compétitivité</td><td>Capacité d'un territoire à attirer activités et à s'imposer dans la concurrence mondiale.</td></tr>\n  <tr><td>Cohésion territoriale</td><td>Réduction des écarts de développement entre les régions de l'UE.</td></tr>\n  <tr><td>Dorsale européenne</td><td>Axe le plus riche et urbanisé de l'UE (« Banane bleue »).</td></tr>\n  <tr><td>RUP</td><td>Régions ultrapériphériques : territoires de l'UE éloignés du continent.</td></tr>\n</table>\n\n<h3>Lieux et acteurs clés</h3>\n\n<table>\n  <tr><th>Lieu / acteur</th><th>Rôle</th></tr>\n  <tr><td>La dorsale européenne</td><td>Cœur économique de l'UE (de Londres à l'Italie du Nord).</td></tr>\n  <tr><td>Métropoles (Paris, Francfort…)</td><td>Vitrines de l'intégration et de la compétitivité.</td></tr>\n  <tr><td>Le FEDER</td><td>Principal fonds de la politique de cohésion.</td></tr>\n  <tr><td>Régions de l'Est et du Sud</td><td>Principales bénéficiaires des aides régionales.</td></tr>\n  <tr><td>Les RUP (outre-mer)</td><td>Territoires éloignés bénéficiant d'aides spécifiques.</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Ne pas confondre <b>compétitivité</b> (s'imposer dans la mondialisation) et <b>cohésion</b> (réduire les écarts internes)&nbsp;: deux objectifs distincts, parfois opposés. Ne pas confondre non plus <b>zone euro</b> (monnaie unique) et <b>espace Schengen</b> (libre circulation des personnes), qui ne regroupent pas les mêmes pays. Enfin, l'intégration <b>n'efface pas les inégalités</b>&nbsp;: elle profite surtout aux territoires déjà forts.\n</div>\n\n<blockquote>\n  <p>Espace intégré mais inégal, l'Union européenne est aussi l'une des premières puissances de la mondialisation. Comment s'ouvre-t-elle sur le monde et pèse-t-elle dans les échanges mondiaux&nbsp;? C'est l'objet du chapitre suivant.</p>\n</blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "L'Union européenne dans la mondialisation : des dynamiques complexes",
+  "cards": [
+    {
+      "recto": "Qu'est-ce que le marché unique européen ?",
+      "verso": "Un espace où marchandises, services, capitaux et personnes circulent librement entre les États membres",
+      "explanation": "Le marché unique (ou marché intérieur), réalisé en 1993, supprime les frontières économiques entre États membres : c'est la libre circulation des marchandises, des services, des capitaux et des personnes (les « quatre libertés »). Il est le cœur de l'intégration européenne.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Un grand magasin situé à Bruxelles",
+          "Le marché aux fleurs d'Amsterdam",
+          "Une foire commerciale annuelle"
+        ],
+        "medium": [
+          "Un espace où chaque pays garde toutes ses barrières douanières",
+          "Une zone réservée aux seuls échanges agricoles",
+          "Un marché ouvert uniquement aux pays les plus riches"
+        ],
+        "hard": [
+          "Une union douanière limitée aux seules marchandises",
+          "Un accord de libre-échange mondial géré par l'OMC",
+          "Une monnaie commune à tous les États membres"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles sont les « quatre libertés » de circulation du marché unique ?",
+      "verso": "La libre circulation des marchandises, des services, des capitaux et des personnes",
+      "explanation": "Le marché unique repose sur quatre libertés fondamentales de circulation : les marchandises, les services, les capitaux et les personnes. Elles abolissent les obstacles aux échanges entre États membres et fondent l'intégration économique.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La presse, la religion, la réunion et l'opinion",
+          "L'air, l'eau, le feu et la terre",
+          "Le travail, le repos, les loisirs et la retraite"
+        ],
+        "medium": [
+          "Marchandises, armées, lois et impôts",
+          "Personnes, langues, drapeaux et hymnes",
+          "Capitaux, frontières, douanes et visas"
+        ],
+        "hard": [
+          "Marchandises, énergie, données et brevets",
+          "Services, agriculture, pêche et industrie",
+          "Personnes, marchandises, monnaie et défense"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on l'intégration européenne ?",
+      "verso": "Le processus par lequel les États européens unissent progressivement leurs économies et leurs politiques",
+      "explanation": "L'intégration européenne est le rapprochement croissant des États membres : union douanière, marché unique, monnaie commune, politiques communes. C'est la forme d'intégration régionale la plus poussée au monde.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La conquête militaire de l'Europe par un seul pays",
+          "La séparation des pays européens en petits États",
+          "L'arrivée de touristes en Europe"
+        ],
+        "medium": [
+          "Le retrait progressif des États de toute coopération",
+          "La mise en concurrence totale et sans règle des États",
+          "La fermeture des frontières entre pays européens"
+        ],
+        "hard": [
+          "Une simple zone de libre-échange sans institutions communes",
+          "L'intégration de l'Europe dans un État fédéral mondial",
+          "L'alignement de l'Europe sur les seules normes américaines"
+        ]
+      }
+    },
+    {
+      "recto": "Que permet l'espace Schengen ?",
+      "verso": "La libre circulation des personnes, sans contrôle aux frontières intérieures entre pays membres",
+      "explanation": "L'espace Schengen supprime les contrôles aux frontières intérieures : on circule librement d'un pays membre à l'autre. Il ne regroupe pas exactement les mêmes États que l'UE (certains pays hors UE y participent, d'autres de l'UE non).",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La libre circulation des trains de marchandises uniquement",
+          "L'accès gratuit aux musées européens",
+          "Le droit de voter dans tous les pays"
+        ],
+        "medium": [
+          "Le contrôle renforcé à chaque frontière intérieure",
+          "La création d'une armée européenne commune",
+          "L'usage d'une seule langue officielle"
+        ],
+        "hard": [
+          "L'union monétaire des pays participants",
+          "L'harmonisation complète des systèmes fiscaux",
+          "La libre circulation limitée aux seuls travailleurs"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que la zone euro ?",
+      "verso": "L'ensemble des États membres de l'UE ayant adopté l'euro comme monnaie unique",
+      "explanation": "La zone euro réunit les pays de l'UE qui ont adopté l'euro (en circulation depuis 2002). Tous les membres de l'UE n'en font pas partie. La monnaie unique approfondit l'intégration mais impose une discipline économique commune.",
+      "tags": [
+        "notion",
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "La zone touristique autour de Bruxelles",
+          "Le quartier européen de Strasbourg",
+          "Une grande région agricole de l'UE"
+        ],
+        "medium": [
+          "L'ensemble des pays utilisant le dollar en Europe",
+          "Tous les pays du continent européen sans exception",
+          "La zone de libre circulation des personnes"
+        ],
+        "hard": [
+          "Tous les membres de l'UE sans exception",
+          "L'espace Schengen de libre circulation",
+          "Les seuls pays fondateurs de la CEE"
+        ]
+      }
+    },
+    {
+      "recto": "Que désigne la compétitivité d'un territoire ?",
+      "verso": "Sa capacité à attirer activités, entreprises et investissements et à s'imposer dans la concurrence mondiale",
+      "explanation": "La compétitivité est l'aptitude d'un territoire à attirer et retenir entreprises, capitaux et talents, et à exporter dans un monde concurrentiel. L'UE cherche à renforcer la compétitivité de ses territoires face aux États-Unis et à l'Asie.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Sa capacité à organiser des compétitions sportives",
+          "Le nombre de ses habitants",
+          "Sa superficie totale en kilomètres carrés"
+        ],
+        "medium": [
+          "Sa capacité à fermer ses frontières aux échanges",
+          "Le montant des aides qu'il reçoit chaque année",
+          "Son ancienneté dans l'Union européenne"
+        ],
+        "hard": [
+          "Sa capacité à réduire seul ses inégalités internes",
+          "Le degré d'uniformité de sa population",
+          "Sa distance par rapport à la mer"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que la « dorsale européenne » (ou « Banane bleue ») ?",
+      "verso": "L'axe le plus riche et le plus urbanisé de l'UE, de Londres à l'Italie du Nord",
+      "explanation": "La dorsale européenne, surnommée « Banane bleue », est un corridor urbain et industriel allant du sud-est de l'Angleterre à l'Italie du Nord, en passant par le Benelux et la vallée du Rhin. C'est le cœur économique de l'UE.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Une chaîne de montagnes du sud de l'Europe",
+          "Un fruit cultivé dans toute l'Union",
+          "Un grand fleuve européen"
+        ],
+        "medium": [
+          "La frontière orientale de l'Union européenne",
+          "Une région agricole de l'Est européen",
+          "Le réseau ferroviaire à grande vitesse de l'UE"
+        ],
+        "hard": [
+          "L'arc méditerranéen, de l'Espagne à la Grèce",
+          "La périphérie la plus pauvre de l'Union",
+          "L'ensemble des régions ultrapériphériques"
+        ]
+      }
+    },
+    {
+      "recto": "Comment se caractérisent les disparités territoriales au sein de l'UE ?",
+      "verso": "Un centre riche (la dorsale) s'oppose à des périphéries souvent moins développées (est, sud)",
+      "explanation": "L'UE est marquée par de fortes inégalités : un centre dynamique et riche (la dorsale européenne, les grandes métropoles) contraste avec des périphéries moins développées, notamment à l'est et au sud. Ces écarts justifient une politique de cohésion.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Tous les territoires de l'UE ont exactement le même niveau de vie",
+          "Seules les îles sont moins développées",
+          "Il n'existe aucune inégalité dans l'UE"
+        ],
+        "medium": [
+          "Le centre est pauvre et les périphéries sont riches",
+          "Les disparités ne concernent que l'agriculture",
+          "Les écarts se limitent aux différences de langue"
+        ],
+        "hard": [
+          "Les disparités ont totalement disparu avec l'euro",
+          "Le niveau de vie dépend uniquement du climat",
+          "Les régions de l'Est sont les plus riches de l'UE"
+        ]
+      }
+    },
+    {
+      "recto": "Quel effet les élargissements à l'Est (2004, 2007) ont-ils eu sur les disparités de l'UE ?",
+      "verso": "Ils les ont accentuées, en intégrant des pays au niveau de vie plus faible",
+      "explanation": "L'entrée des pays d'Europe centrale et orientale (2004, 2007), moins développés, a creusé les écarts internes de l'UE. La politique de cohésion a alors été renforcée pour aider ces nouvelles régions à rattraper leur retard.",
+      "tags": [
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "Ils ont supprimé toutes les inégalités d'un coup",
+          "Ils ont réduit le nombre de pays membres",
+          "Ils n'ont rien changé du tout"
+        ],
+        "medium": [
+          "Ils ont rendu tous les pays également riches",
+          "Ils ont fait sortir les pays pauvres de l'Union",
+          "Ils ont concerné uniquement des pays très riches"
+        ],
+        "hard": [
+          "Ils ont déplacé le centre économique vers l'Est",
+          "Ils ont supprimé la politique de cohésion devenue inutile",
+          "Ils ont aligné instantanément les niveaux de vie"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi consiste la politique de cohésion de l'UE ?",
+      "verso": "À réduire les écarts de développement entre les régions européennes par des aides ciblées",
+      "explanation": "La politique de cohésion (ou politique régionale) vise à réduire les inégalités entre territoires de l'UE. Grâce à des fonds européens, elle aide les régions en retard à se développer (infrastructures, emploi, formation). C'est l'un des principaux postes du budget de l'UE.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "À organiser des fêtes communes à toute l'Europe",
+          "À imposer la même langue partout",
+          "À construire une armée européenne"
+        ],
+        "medium": [
+          "À renforcer uniquement les régions déjà les plus riches",
+          "À supprimer les aides aux régions pauvres",
+          "À fermer les frontières entre régions"
+        ],
+        "hard": [
+          "À aligner la fiscalité de tous les États membres",
+          "À privatiser les services publics régionaux",
+          "À concentrer les moyens sur la seule dorsale européenne"
+        ]
+      }
+    },
+    {
+      "recto": "Que finance le FEDER (Fonds européen de développement régional) ?",
+      "verso": "Des projets régionaux (infrastructures, entreprises, innovation) pour réduire les écarts de développement",
+      "explanation": "Le FEDER est le principal fonds de la politique de cohésion. Il cofinance des projets dans les régions : transports, soutien aux entreprises, recherche, transition écologique, en visant en priorité les régions les moins développées.",
+      "tags": [
+        "acteur"
+      ],
+      "distractors": {
+        "easy": [
+          "Les vacances des fonctionnaires européens",
+          "Les salaires des députés européens",
+          "L'entretien du Parlement de Strasbourg"
+        ],
+        "medium": [
+          "Uniquement la défense militaire de l'UE",
+          "Seulement les dépenses agricoles",
+          "Les aides aux pays extérieurs à l'UE"
+        ],
+        "hard": [
+          "La politique monétaire de la zone euro",
+          "Le remboursement de la dette des États",
+          "Les programmes spatiaux européens uniquement"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on les « fonds structurels » européens ?",
+      "verso": "Les fonds (comme le FEDER et le FSE) servant à financer la politique de cohésion",
+      "explanation": "Les fonds structurels et d'investissement européens (FEDER, Fonds social européen…) financent la politique de cohésion. Ils transfèrent des moyens vers les régions et les publics en difficulté pour réduire les inégalités au sein de l'UE.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Les économies personnelles des Européens",
+          "Les fonds marins de l'Union européenne",
+          "Les réserves d'or des banques centrales"
+        ],
+        "medium": [
+          "Les impôts payés directement à l'OMC",
+          "Les fonds destinés à la seule défense",
+          "Les budgets des clubs sportifs européens"
+        ],
+        "hard": [
+          "Les fonds gérés exclusivement par le FMI",
+          "Les recettes de la politique commerciale commune",
+          "Les fonds réservés aux régions les plus riches"
+        ]
+      }
+    },
+    {
+      "recto": "Quel critère principal détermine si une région reçoit les aides de la cohésion ?",
+      "verso": "Son PIB par habitant comparé à la moyenne de l'UE",
+      "explanation": "Les aides de la politique de cohésion ciblent en priorité les régions dont le PIB par habitant est nettement inférieur à la moyenne européenne. Ce critère permet de concentrer les moyens là où le retard de développement est le plus marqué.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La superficie de la région en kilomètres carrés",
+          "Le nombre de châteaux historiques",
+          "La couleur de son drapeau régional"
+        ],
+        "medium": [
+          "L'ancienneté de la région dans l'UE",
+          "Le nombre de langues parlées",
+          "La distance par rapport à Bruxelles"
+        ],
+        "hard": [
+          "Le taux de fréquentation touristique",
+          "Le nombre d'eurodéputés de la région",
+          "Le montant des exportations agricoles uniquement"
+        ]
+      }
+    },
+    {
+      "recto": "Que sont les régions ultrapériphériques (RUP) de l'UE ?",
+      "verso": "Des territoires de l'UE très éloignés du continent européen (ex. : les outre-mer français)",
+      "explanation": "Les RUP sont des territoires membres de l'UE mais géographiquement très éloignés de l'Europe continentale, comme les outre-mer français (Guadeloupe, Réunion…), les Açores ou les Canaries. Elles bénéficient d'aides spécifiques pour compenser leur éloignement.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Les capitales des grands pays européens",
+          "Les régions situées au centre de l'Europe",
+          "Les plus grandes villes de l'UE"
+        ],
+        "medium": [
+          "Les régions frontalières de la Russie",
+          "Les régions les plus riches de la dorsale",
+          "Les pays candidats à l'entrée dans l'UE"
+        ],
+        "hard": [
+          "Les régions transfrontalières du cœur de l'UE",
+          "Les métropoles mondiales européennes",
+          "Les régions situées sur la Banane bleue"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une région transfrontalière dans l'UE ?",
+      "verso": "Une région à cheval sur une frontière intérieure, où la coopération entre États est encouragée",
+      "explanation": "Les régions transfrontalières (ou eurorégions) s'organisent de part et d'autre d'une frontière intérieure de l'UE. Grâce à des programmes comme Interreg, l'Union y encourage la coopération (transports, emploi, services), faisant des frontières des espaces de lien plutôt que de séparation.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Une région située en plein océan",
+          "Une région du centre d'un pays",
+          "Une région sans aucun voisin"
+        ],
+        "medium": [
+          "Une région fermée à toute coopération",
+          "Une région réservée au tourisme",
+          "Une région extérieure à l'UE"
+        ],
+        "hard": [
+          "Une région ultrapériphérique isolée",
+          "Une zone interdite aux échanges",
+          "Une région exclue du marché unique"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi les grandes métropoles européennes sont-elles des « vitrines » de l'intégration ?",
+      "verso": "Parce qu'elles concentrent richesses, pouvoir et connexions mondiales, illustrant la réussite de l'UE",
+      "explanation": "Les grandes métropoles (Paris, Francfort, Amsterdam…) concentrent fonctions de commandement, sièges, finance et connexions mondiales. Très bien intégrées au marché unique et à la mondialisation, elles incarnent la compétitivité de l'UE — mais accentuent aussi les écarts avec les régions en retard.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'elles sont les plus anciennes villes du monde",
+          "Parce qu'elles n'ont aucune activité économique",
+          "Parce qu'elles sont totalement isolées"
+        ],
+        "medium": [
+          "Parce qu'elles sont les plus pauvres de l'UE",
+          "Parce qu'elles refusent les échanges mondiaux",
+          "Parce qu'elles sont situées hors de l'UE"
+        ],
+        "hard": [
+          "Parce qu'elles reçoivent le plus d'aides de la cohésion",
+          "Parce qu'elles sont à l'écart des flux mondiaux",
+          "Parce qu'elles sont des régions ultrapériphériques"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle grande tension traverse les politiques territoriales de l'UE ?",
+      "verso": "La tension entre la recherche de la compétitivité et l'objectif de cohésion des territoires",
+      "explanation": "L'UE poursuit deux objectifs parfois contradictoires : renforcer la compétitivité (soutenir les territoires les plus performants pour rivaliser à l'échelle mondiale) et assurer la cohésion (aider les régions en retard). Favoriser l'une peut creuser les écarts que l'autre cherche à réduire.",
+      "tags": [
+        "bilan"
+      ],
+      "distractors": {
+        "easy": [
+          "La tension entre l'été et l'hiver",
+          "Le choix entre deux drapeaux",
+          "Le conflit entre deux langues officielles"
+        ],
+        "medium": [
+          "La tension entre agriculture et pêche uniquement",
+          "Le choix entre deux capitales européennes",
+          "L'opposition entre tourisme et industrie"
+        ],
+        "hard": [
+          "La tension entre politique monétaire et défense",
+          "L'opposition entre élargissement et approfondissement seulement",
+          "Le conflit entre Schengen et la zone euro"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la différence entre les objectifs de compétitivité et de cohésion ?",
+      "verso": "La compétitivité soutient les territoires forts face au monde ; la cohésion aide les régions en retard à rattraper",
+      "explanation": "Distinction clé : la compétitivité cherche à rendre l'UE performante dans la mondialisation, en s'appuyant souvent sur ses métropoles et régions les plus dynamiques ; la cohésion vise au contraire à réduire les écarts en soutenant les territoires les plus fragiles. Les deux logiques peuvent s'opposer.",
+      "tags": [
+        "comparaison"
+      ],
+      "distractors": {
+        "easy": [
+          "Il n'y a aucune différence entre les deux",
+          "La compétitivité aide les pauvres, la cohésion les riches",
+          "Les deux visent uniquement l'agriculture"
+        ],
+        "medium": [
+          "La compétitivité ferme les frontières, la cohésion les ouvre",
+          "La cohésion concerne le monde, la compétitivité l'UE seule",
+          "Les deux objectifs sont strictement identiques"
+        ],
+        "hard": [
+          "La compétitivité réduit les écarts, la cohésion les creuse",
+          "La cohésion vise l'export mondial, la compétitivité l'égalité",
+          "La compétitivité finance les RUP, la cohésion les métropoles"
+        ]
+      }
+    },
+    {
+      "recto": "Quels sont les deux principaux postes du budget de l'Union européenne ?",
+      "verso": "La politique agricole commune (PAC) et la politique de cohésion (régionale)",
+      "explanation": "Le budget de l'UE est dominé par deux grands postes : la politique agricole commune (PAC), qui soutient les agriculteurs, et la politique de cohésion, qui aide les régions à réduire leurs écarts. Ensemble, elles structurent l'action territoriale de l'Union.",
+      "tags": [
+        "acteur"
+      ],
+      "distractors": {
+        "easy": [
+          "Le sport et la culture",
+          "Le tourisme et la gastronomie",
+          "Les fêtes et les cérémonies officielles"
+        ],
+        "medium": [
+          "La défense et la conquête spatiale",
+          "La santé et l'éducation uniquement",
+          "Le remboursement de la dette mondiale"
+        ],
+        "hard": [
+          "La politique monétaire et la diplomatie",
+          "La recherche militaire et le renseignement",
+          "Les seules aides aux pays extérieurs à l'UE"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi est-il faux de croire que « l'intégration européenne a effacé les inégalités entre territoires » ?",
+      "verso": "Parce que de fortes disparités demeurent : l'intégration profite surtout aux territoires déjà compétitifs",
+      "explanation": "Piège classique : malgré le marché unique, l'euro et la politique de cohésion, l'UE reste très inégalitaire. L'intégration et la mondialisation profitent d'abord aux métropoles et à la dorsale, tandis que des périphéries peinent à rattraper leur retard. La cohésion atténue les écarts sans les supprimer.",
+      "tags": [
+        "piege"
+      ],
+      "distractors": {
+        "easy": [
+          "C'est vrai : toutes les régions sont désormais identiques",
+          "Parce que l'UE n'a aucune politique régionale",
+          "Parce que l'UE ne compte qu'un seul pays riche"
+        ],
+        "medium": [
+          "Parce que la cohésion a supprimé tous les écarts",
+          "Parce que les métropoles sont devenues les plus pauvres",
+          "Parce que l'euro a égalisé tous les niveaux de vie"
+        ],
+        "hard": [
+          "Parce que l'intégration profite surtout aux régions en retard",
+          "Parce que les disparités ont disparu après 2004",
+          "Parce que la dorsale européenne est la zone la plus aidée"
+        ]
+      }
+    }
+  ]
+}
