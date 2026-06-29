@@ -208,6 +208,19 @@
       "path": "geographie/terminale/ue-competitivite-cohesion.json",
       "level": "Terminale",
       "theme": "L'Union européenne dans la mondialisation : des dynamiques complexes"
+    },
+    {
+      "id": "geographie-terminale-ue-espace-ouvert-monde",
+      "title": "L'Union européenne, un espace ouvert sur le monde",
+      "emoji": "🌍",
+      "subject": "geography",
+      "language": "fr",
+      "courseDescription": "Géographie · Terminale — Thème 3, chapitre 2 : l'Union européenne, géant économique et commercial, est profondément ouverte sur le monde. Premier pôle commercial, dotée de l'euro et d'un fort soft power normatif, elle pèse dans la mondialisation. Mais sa puissance reste déséquilibrée — « géant économique, nain politique » — et son ouverture (dépendance énergétique, concurrence, Brexit) suscite des débats.",
+      "cardCount": 20,
+      "version": 1,
+      "path": "geographie/terminale/ue-espace-ouvert-monde.json",
+      "level": "Terminale",
+      "theme": "L'Union européenne dans la mondialisation : des dynamiques complexes"
     }
   ]
 }
