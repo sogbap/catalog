@@ -247,6 +247,19 @@
       "path": "geographie/terminale/france-espaces-productifs.json",
       "level": "Terminale",
       "theme": "La France et ses régions dans l'Union européenne et la mondialisation"
+    },
+    {
+      "id": "geographie-terminale-france-espaces-ruraux",
+      "title": "Les espaces ruraux : multifonctionnalité ou fragmentation ?",
+      "emoji": "🌾",
+      "subject": "geography",
+      "language": "fr",
+      "courseDescription": "Géographie · Terminale — Thème conclusif, chapitre 3 : les espaces ruraux français ne sont plus seulement agricoles. Devenus multifonctionnels (productifs, résidentiels, récréatifs, environnementaux), ils sont transformés par la périurbanisation et l'arrivée de néo-ruraux. Mais ils se fragmentent : campagnes dynamiques (périurbaines, touristiques) face aux espaces en déprise de la diagonale des faibles densités. Entre multifonctionnalité et fragmentation, l'aménagement cherche à réduire les inégalités.",
+      "cardCount": 20,
+      "version": 1,
+      "path": "geographie/terminale/france-espaces-ruraux.json",
+      "level": "Terminale",
+      "theme": "La France et ses régions dans l'Union européenne et la mondialisation"
     }
   ]
 }
