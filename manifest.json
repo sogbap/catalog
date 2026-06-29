@@ -234,6 +234,19 @@
       "path": "geographie/terminale/france-metropolisation.json",
       "level": "Terminale",
       "theme": "La France et ses régions dans l'Union européenne et la mondialisation"
+    },
+    {
+      "id": "geographie-terminale-france-espaces-productifs",
+      "title": "Les espaces productifs français dans la mondialisation",
+      "emoji": "🏭",
+      "subject": "geography",
+      "language": "fr",
+      "courseDescription": "Géographie · Terminale — Thème conclusif, chapitre 2 : sous l'effet de la mondialisation, les espaces productifs français se recomposent. L'industrie se désindustrialise puis se métropolise et se concentre dans les technopôles (Toulouse, pôles de compétitivité) ; l'agriculture, productiviste et soutenue par la PAC, reste exportatrice ; les services et le tourisme (1re destination mondiale) dominent. Métropolisation et littoralisation creusent l'écart entre espaces gagnants et territoires fragilisés.",
+      "cardCount": 20,
+      "version": 1,
+      "path": "geographie/terminale/france-espaces-productifs.json",
+      "level": "Terminale",
+      "theme": "La France et ses régions dans l'Union européenne et la mondialisation"
     }
   ]
 }
