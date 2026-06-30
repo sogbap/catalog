@@ -273,6 +273,19 @@
       "path": "geographie/terminale/france-territoires-ultramarins.json",
       "level": "Terminale",
       "theme": "La France et ses régions dans l'Union européenne et la mondialisation"
+    },
+    {
+      "id": "hggsp-terminale-espaces-conquete",
+      "title": "De nouveaux espaces de conquête",
+      "emoji": "🚀",
+      "subject": "hggsp",
+      "language": "fr",
+      "courseDescription": "Océans et espace : explorer, maîtriser, exploiter de nouveaux espaces, entre rivalités de puissance et coopération internationale.",
+      "cardCount": 20,
+      "version": 1,
+      "path": "hggsp/terminale/espaces-conquete.json",
+      "level": "Terminale",
+      "theme": "De nouveaux espaces de conquête"
     }
   ]
 }
