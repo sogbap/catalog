@@ -286,6 +286,19 @@
       "path": "hggsp/terminale/espaces-conquete.json",
       "level": "Terminale",
       "theme": "De nouveaux espaces de conquête"
+    },
+    {
+      "id": "hggsp-terminale-guerre-paix",
+      "title": "Faire la guerre, faire la paix",
+      "emoji": "⚔️",
+      "subject": "hggsp",
+      "language": "fr",
+      "courseDescription": "Des guerres interétatiques aux conflits asymétriques, et la construction de la paix : traités, sécurité collective et cas du Moyen-Orient.",
+      "cardCount": 20,
+      "version": 1,
+      "path": "hggsp/terminale/guerre-paix.json",
+      "level": "Terminale",
+      "theme": "Faire la guerre, faire la paix : formes de conflits et modes de résolution"
     }
   ]
 }

@@ -1,0 +1,529 @@
+{
+  "id": "hggsp-terminale-guerre-paix",
+  "title": "Faire la guerre, faire la paix",
+  "emoji": "⚔️",
+  "subject": "hggsp",
+  "courseDescription": "Des guerres interétatiques aux conflits asymétriques, et la construction de la paix : traités, sécurité collective et cas du Moyen-Orient.",
+  "lesson": "<style>\n  /* Styles propres aux illustrations SVG : s'adaptent au thème via\n     currentColor (texte) et var(--accent) (couleur de la matière). */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Faire la guerre, faire la paix</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau :</b> Terminale — Spécialité HGGSP<br>\n  <b>Thème 2 :</b> Faire la guerre, faire la paix : formes de conflits et modes de résolution<br>\n  <b>Axe 1 · Axe 2 · Objet de travail conclusif</b> · environ 24 heures\n</div>\n\n<blockquote>\n  <p><b>Problématique.</b> Comment les formes de la guerre évoluent-elles, et par quels moyens les sociétés tentent-elles de construire la paix&nbsp;?</p>\n</blockquote>\n\n<p>La guerre est un fait politique aussi ancien que les sociétés. Mais ses <strong>formes</strong> changent&nbsp;: aux affrontements entre États s'ajoutent des conflits <strong>irréguliers</strong> et <strong>transnationaux</strong>. Face à la violence, les hommes cherchent à <strong>faire la paix</strong>, par les <strong>traités</strong> puis par la <strong>sécurité collective</strong>. Le Moyen-Orient illustre cette tension entre guerre et paix.</p>\n\n<h2>1 · Qu'est-ce que «&nbsp;faire la guerre&nbsp;»&nbsp;?</h2>\n\n<p>Pour le théoricien prussien <strong>Clausewitz</strong> (<i>De la guerre</i>, 1832), «&nbsp;la guerre est la continuation de la politique par d'autres moyens&nbsp;». Elle est donc un <strong>acte politique</strong>, conduit par un État pour atteindre un but, et non une simple explosion de violence.</p>\n\n<p>On distingue la guerre <strong>interétatique</strong> (entre États, armées régulières) des conflits <strong>irréguliers</strong> (guérillas, terrorisme) et <strong>asymétriques</strong>, où s'affrontent des adversaires de nature très inégale.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Guerre</strong><br>\n  Pour Clausewitz, <b>acte politique</b> visant à contraindre l'adversaire par la force. Elle suppose un objectif, des moyens et une volonté&nbsp;: «&nbsp;la continuation de la politique par d'autres moyens&nbsp;».\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 326\" role=\"img\" aria-label=\"Trois grandes formes de conflits\">\n  <defs>\n    <marker id=\"ar-gp\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- Niveau 1 : guerre interétatique (mise en valeur) -->\n  <g>\n    <rect x=\"14\" y=\"8\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"40\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">Guerre interétatique</text>\n    <text x=\"30\" y=\"65\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">Armées régulières (modèle de Clausewitz)</text>\n  </g>\n  <path d=\"M170,88 L170,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gp)\"/>\n  <!-- Niveau 2 : guerres irrégulières -->\n  <g>\n    <rect x=\"14\" y=\"110\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"142\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">Guerres irrégulières</text>\n    <text x=\"30\" y=\"167\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">Guérilla, asymétrie des forces</text>\n  </g>\n  <path d=\"M170,190 L170,210\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gp)\"/>\n  <!-- Niveau 3 : conflits transnationaux -->\n  <g>\n    <rect x=\"14\" y=\"212\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"244\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">Conflits transnationaux</text>\n    <text x=\"30\" y=\"269\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">Terrorisme, cyberguerre, acteurs non étatiques</text>\n  </g>\n</svg>\n<figcaption>Des formes de conflits de plus en plus diverses, au-delà du modèle interétatique.</figcaption>\n</figure>\n\n<h2>2 · Axe 1 — La guerre interétatique : le modèle de Clausewitz</h2>\n\n<p>Du XVIIe au XIXe&nbsp;siècle s'impose la <strong>guerre interétatique</strong>&nbsp;: des États souverains, dotés d'<strong>armées régulières</strong>, s'affrontent selon des règles. Clausewitz en est le grand théoricien&nbsp;: la guerre est <strong>maîtrisée par le politique</strong> et vise un objectif clair.</p>\n\n<p>Ce modèle culmine avec les <strong>guerres napoléoniennes</strong> et les conflits du XXe&nbsp;siècle, mais il est aujourd'hui <strong>concurrencé</strong> par d'autres formes de guerre où l'État n'est plus le seul acteur.</p>\n\n<blockquote>\n  <p><strong>Jalon</strong><br>Le modèle de la guerre interétatique (XVIIe-XIXe&nbsp;siècles) théorisé par Clausewitz&nbsp;: la guerre, acte politique conduit par des États.</p>\n</blockquote>\n\n<h2>3 · Des conflits irréguliers et asymétriques</h2>\n\n<p>Depuis 1945, et surtout depuis la fin de la guerre froide, dominent les <strong>guerres irrégulières</strong>&nbsp;: guérillas, guerres civiles, <strong>terrorisme</strong>. Elles sont souvent <strong>asymétriques</strong>&nbsp;: une armée puissante affronte des combattants insaisissables (Viêtnam, Afghanistan).</p>\n\n<p>Les <strong>attentats du 11 septembre 2001</strong> révèlent la puissance d'acteurs <strong>transnationaux</strong> (Al-Qaïda) face aux États. La «&nbsp;guerre contre le terrorisme&nbsp;» brouille la frontière entre guerre et paix.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Guerre asymétrique</strong><br>\n  Conflit opposant des adversaires de <b>nature et de puissance très inégales</b> (armée régulière contre guérilla ou groupe terroriste). Le plus faible compense par le harcèlement et le refus de la bataille frontale.\n</div>\n\n<blockquote>\n  <p><strong>Jalon</strong><br>Le modèle de Clausewitz à l'épreuve des guerres irrégulières et du terrorisme transnational (du Viêtnam au 11&nbsp;septembre 2001).</p>\n</blockquote>\n\n<h2>4 · Axe 2 — Construire la paix : des traités à la sécurité collective</h2>\n\n<p>Faire la paix, c'est d'abord la régler par des <strong>traités</strong>&nbsp;: les <strong>traités de Westphalie</strong> (1648) fondent l'ordre des États souverains&nbsp;; le <strong>traité de Versailles</strong> (1919) met fin à la Première Guerre mondiale et crée la <strong>SDN</strong>, premier essai de paix organisée.</p>\n\n<p>Après l'échec de la SDN, l'<strong>ONU</strong> (1945) institue la <strong>sécurité collective</strong>&nbsp;: les États s'engagent à répondre ensemble à une agression. Les <strong>Casques bleus</strong> incarnent ce maintien de la paix, malgré ses limites.</p>\n\n<blockquote>\n  <p><strong>Jalon</strong><br>Faire la paix par le droit&nbsp;: des traités de Westphalie (1648) à la sécurité collective de la SDN (1919) puis de l'ONU (1945).</p>\n</blockquote>\n\n<h2>5 · Objet de travail conclusif — Le Moyen-Orient, conflits et paix</h2>\n\n<p>Depuis la création d'<strong>Israël</strong> (1948), le Moyen-Orient enchaîne <strong>guerres israélo-arabes</strong>, conflits du <strong>Golfe</strong> et guerres civiles (Liban, Syrie). Les rivalités y mêlent enjeux <strong>territoriaux</strong>, <strong>religieux</strong>, <strong>pétroliers</strong> et d'<strong>influence</strong>.</p>\n\n<p>De nombreux <strong>acteurs internationaux</strong> interviennent&nbsp;: États-Unis, URSS puis Russie, ONU. Les tentatives de paix (accords de <strong>Camp David</strong> 1978, d'<strong>Oslo</strong> 1993) montrent à la fois l'espoir et la fragilité de toute résolution.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Sécurité collective</strong><br>\n  Principe selon lequel les États s'engagent à <b>réagir ensemble contre toute agression</b>. Au cœur de la SDN puis de l'ONU, elle se heurte au droit de veto et au manque de moyens contraignants.\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Deux manières de construire la paix\">\n  <!-- Colonne 1 : paix par les traités -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">Par les traités</text>\n  <text x=\"87\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12.5\" font-weight=\"700\">Accords entre États</text>\n  <text x=\"26\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Westphalie (1648)</text>\n  <text x=\"26\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Versailles (1919)</text>\n  <text x=\"26\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Paix négociée</text>\n  <!-- Colonne 2 : sécurité collective (mise en valeur) -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">Sécurité collective</text>\n  <text x=\"253\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12.5\" font-weight=\"700\">Réponse commune</text>\n  <text x=\"192\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">SDN (1919)</text>\n  <text x=\"192\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">ONU (1945)</text>\n  <text x=\"192\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Casques bleus</text>\n</svg>\n<figcaption>Deux grandes voies pour faire la paix : les traités et la sécurité collective.</figcaption>\n</figure>\n\n<h2>L'essentiel</h2>\n\n<h3>Frise chronologique</h3>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 366\" role=\"img\" aria-label=\"Frise des conflits et des tentatives de paix\">\n  <line x1=\"74\" y1=\"22\" x2=\"74\" y2=\"348\" style=\"stroke:var(--accent);stroke-width:3;stroke-linecap:round\"/>\n  <!-- 1648 -->\n  <circle cx=\"74\" cy=\"40\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"45\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1648</text>\n  <text x=\"90\" y=\"45\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Traités de Westphalie</text>\n  <!-- 1919 -->\n  <circle cx=\"74\" cy=\"101\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"106\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1919</text>\n  <text x=\"90\" y=\"106\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Traité de Versailles, création de la SDN</text>\n  <!-- 1945 -->\n  <circle cx=\"74\" cy=\"162\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"167\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1945</text>\n  <text x=\"90\" y=\"167\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Création de l'ONU</text>\n  <!-- 1948 -->\n  <circle cx=\"74\" cy=\"223\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"228\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1948</text>\n  <text x=\"90\" y=\"228\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Création d'Israël : conflits au Moyen-Orient</text>\n  <!-- 2001 -->\n  <circle cx=\"74\" cy=\"284\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"289\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">2001</text>\n  <text x=\"90\" y=\"289\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Attentats du 11 septembre</text>\n  <!-- 2003 -->\n  <circle cx=\"74\" cy=\"345\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"350\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">2003</text>\n  <text x=\"90\" y=\"350\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Guerre d'Irak</text>\n</svg>\n</figure>\n\n<h3>Dates clés</h3>\n\n<table>\n  <tr><th>Date</th><th>Repère</th></tr>\n  <tr><td>1648</td><td>Traités de Westphalie : naissance de l'ordre des États souverains</td></tr>\n  <tr><td>1832</td><td>Clausewitz, <i>De la guerre</i> : la guerre, continuation de la politique</td></tr>\n  <tr><td>1919</td><td>Traité de Versailles et création de la SDN</td></tr>\n  <tr><td>1945</td><td>Création de l'ONU : sécurité collective</td></tr>\n  <tr><td>1948</td><td>Création d'Israël : début des conflits israélo-arabes</td></tr>\n  <tr><td>2001</td><td>Attentats du 11 septembre : terrorisme transnational</td></tr>\n  <tr><td>2003</td><td>Guerre d'Irak menée par les États-Unis</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition</th></tr>\n  <tr><td>Guerre</td><td>Acte politique de contrainte par la force (Clausewitz).</td></tr>\n  <tr><td>Guerre interétatique</td><td>Conflit entre États dotés d'armées régulières.</td></tr>\n  <tr><td>Guerre asymétrique</td><td>Conflit entre adversaires de puissance très inégale.</td></tr>\n  <tr><td>Terrorisme</td><td>Violence d'acteurs non étatiques visant à terroriser.</td></tr>\n  <tr><td>Sécurité collective</td><td>Engagement des États à répondre ensemble à une agression.</td></tr>\n  <tr><td>Maintien de la paix</td><td>Action de l'ONU (Casques bleus) pour stabiliser un conflit.</td></tr>\n</table>\n\n<h3>Lieux et acteurs clés</h3>\n\n<table>\n  <tr><th>Lieu / acteur</th><th>Rôle</th></tr>\n  <tr><td>Clausewitz</td><td>Théoricien de la guerre interétatique (<i>De la guerre</i>, 1832).</td></tr>\n  <tr><td>La SDN</td><td>Première organisation de sécurité collective (1919), un échec.</td></tr>\n  <tr><td>L'ONU</td><td>Sécurité collective mondiale et maintien de la paix (1945).</td></tr>\n  <tr><td>Le Moyen-Orient</td><td>Foyer de conflits depuis 1948, terrain des grandes puissances.</td></tr>\n  <tr><td>Al-Qaïda</td><td>Acteur terroriste transnational (11 septembre 2001).</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Ne pas croire que la guerre interétatique a <b>disparu</b>&nbsp;: elle recule mais reste possible (guerre en Ukraine). Et attention&nbsp;: faire la paix ne se résume pas à signer un traité — sans <b>sécurité collective</b> ni respect des engagements, une paix peut n'être qu'une trêve, comme l'a montré l'échec de la SDN.\n</div>\n\n<blockquote>\n  <p>Les guerres laissent des blessures qui ne disparaissent pas avec les traités. Comment les sociétés <strong>se souviennent-elles</strong> de leur passé conflictuel&nbsp;? Quels rapports entre <strong>histoire</strong> et <strong>mémoires</strong>&nbsp;? C'est l'objet du thème suivant.</p>\n</blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Faire la guerre, faire la paix : formes de conflits et modes de résolution",
+  "cards": [
+    {
+      "recto": "Selon Clausewitz, qu'est-ce que la guerre ?",
+      "verso": "La continuation de la politique par d'autres moyens",
+      "explanation": "Pour Clausewitz, la guerre est un acte politique rationnel, conduit par un État pour atteindre un objectif : elle n'est pas une simple explosion de violence.",
+      "tags": [
+        "notion",
+        "auteurs"
+      ],
+      "distractors": {
+        "easy": [
+          "Une catastrophe naturelle inévitable",
+          "Une simple explosion de violence sans but",
+          "Un châtiment divin"
+        ],
+        "medium": [
+          "Un affrontement purement économique",
+          "Le contraire absolu de la politique",
+          "Un phénomène uniquement religieux"
+        ],
+        "hard": [
+          "La victoire du droit sur la force",
+          "Une parenthèse irrationnelle de l'histoire",
+          "La négation de tout objectif politique"
+        ]
+      }
+    },
+    {
+      "recto": "En quelle année paraît « De la guerre » de Clausewitz ?",
+      "verso": "1832",
+      "explanation": "Publié à titre posthume en 1832, l'ouvrage théorise la guerre interétatique au cœur du modèle classique.",
+      "tags": [
+        "dates",
+        "auteurs"
+      ],
+      "distractors": {
+        "easy": [
+          "1914",
+          "1648",
+          "1789"
+        ],
+        "medium": [
+          "1919",
+          "1871",
+          "1945"
+        ],
+        "hard": [
+          "1815",
+          "1848",
+          "1804"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une guerre interétatique ?",
+      "verso": "Un conflit entre États dotés d'armées régulières",
+      "explanation": "C'est le modèle classique théorisé par Clausewitz, dominant du XVIIe au XXe siècle, aujourd'hui concurrencé par d'autres formes de guerre.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Une guerre civile à l'intérieur d'un pays",
+          "Un attentat terroriste isolé",
+          "Une émeute urbaine"
+        ],
+        "medium": [
+          "Un conflit entre groupes armés non étatiques",
+          "Une guérilla contre un occupant",
+          "Un conflit commercial entre firmes"
+        ],
+        "hard": [
+          "Un affrontement entre un État et un groupe terroriste",
+          "Une guerre de libération coloniale",
+          "Un conflit interne entre milices"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une guerre asymétrique ?",
+      "verso": "Un conflit entre adversaires de puissance très inégale",
+      "explanation": "Le plus faible (guérilla, groupe terroriste) compense son infériorité par le harcèlement et le refus de la bataille frontale (Viêtnam, Afghanistan).",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Une guerre entre deux puissances égales",
+          "Une guerre sans aucune victime",
+          "Une guerre purement défensive"
+        ],
+        "medium": [
+          "Un conflit entre deux armées régulières comparables",
+          "Une guerre limitée à la mer",
+          "Une guerre déclarée puis aussitôt arrêtée"
+        ],
+        "hard": [
+          "Un affrontement entre alliances militaires équivalentes",
+          "Une guerre menée uniquement par drones",
+          "Un conflit gelé sans combats"
+        ]
+      }
+    },
+    {
+      "recto": "Que révèlent les attentats du 11 septembre 2001 ?",
+      "verso": "La puissance d'acteurs terroristes transnationaux face aux États",
+      "explanation": "Al-Qaïda frappe la première puissance mondiale : la guerre n'oppose plus seulement des États, et la frontière guerre/paix se brouille.",
+      "tags": [
+        "dates",
+        "terrorisme"
+      ],
+      "distractors": {
+        "easy": [
+          "La fin de toutes les guerres",
+          "Le retour de la guerre interétatique classique",
+          "La victoire définitive de l'ONU"
+        ],
+        "medium": [
+          "La supériorité totale des États sur le terrorisme",
+          "La disparition immédiate d'Al-Qaïda",
+          "Le début de la guerre froide"
+        ],
+        "hard": [
+          "L'effacement des acteurs non étatiques",
+          "La fin du terrorisme international",
+          "Le triomphe de la sécurité collective"
+        ]
+      }
+    },
+    {
+      "recto": "Que fondent les traités de Westphalie (1648) ?",
+      "verso": "L'ordre des États souverains",
+      "explanation": "En mettant fin à la guerre de Trente Ans, Westphalie pose le principe de souveraineté : la base du système interétatique moderne.",
+      "tags": [
+        "dates",
+        "droit"
+      ],
+      "distractors": {
+        "easy": [
+          "L'Union européenne",
+          "L'ONU",
+          "L'Empire romain"
+        ],
+        "medium": [
+          "La Société des Nations",
+          "La sécurité collective mondiale",
+          "Le marché commun européen"
+        ],
+        "hard": [
+          "Le concert européen du XIXe siècle",
+          "Le système des mandats coloniaux",
+          "L'équilibre de la terreur nucléaire"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle organisation le traité de Versailles (1919) crée-t-il ?",
+      "verso": "La Société des Nations (SDN)",
+      "explanation": "Premier essai de paix organisée et de sécurité collective, la SDN se révélera incapable d'empêcher la Seconde Guerre mondiale.",
+      "tags": [
+        "dates",
+        "organisations"
+      ],
+      "distractors": {
+        "easy": [
+          "L'ONU",
+          "L'OTAN",
+          "L'Union européenne"
+        ],
+        "medium": [
+          "Le FMI",
+          "La Croix-Rouge",
+          "Le Conseil de l'Europe"
+        ],
+        "hard": [
+          "La Cour pénale internationale",
+          "Le Pacte de Varsovie",
+          "La Ligue arabe"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la SDN est-elle considérée comme un échec ?",
+      "verso": "Elle n'a pu empêcher ni les agressions ni la Seconde Guerre mondiale",
+      "explanation": "Sans armée ni moyens contraignants, et affaiblie par l'absence des États-Unis, la SDN illustre les limites de la sécurité collective.",
+      "tags": [
+        "organisations",
+        "droit"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle n'a jamais réellement existé",
+          "Elle a elle-même déclenché la guerre",
+          "Elle a été dissoute dès 1920"
+        ],
+        "medium": [
+          "Elle comptait trop de membres puissants",
+          "Elle disposait d'une armée trop forte",
+          "Les États-Unis la dirigeaient seuls"
+        ],
+        "hard": [
+          "Elle a fusionné avec l'ONU en 1939",
+          "Elle a interdit tout traité de paix",
+          "Elle a imposé la sécurité collective avec succès"
+        ]
+      }
+    },
+    {
+      "recto": "Quel principe l'ONU institue-t-elle en 1945 ?",
+      "verso": "La sécurité collective",
+      "explanation": "Tirant les leçons de la SDN, l'ONU dote la sécurité collective d'un Conseil de sécurité et de forces de maintien de la paix.",
+      "tags": [
+        "dates",
+        "organisations"
+      ],
+      "distractors": {
+        "easy": [
+          "Le libre-échange mondial",
+          "La décolonisation immédiate",
+          "La guerre préventive"
+        ],
+        "medium": [
+          "L'équilibre de la terreur",
+          "La neutralité armée",
+          "La souveraineté absolue des États"
+        ],
+        "hard": [
+          "Le droit d'ingérence humanitaire généralisé",
+          "La suppression du droit de veto",
+          "Le désarmement nucléaire mondial"
+        ]
+      }
+    },
+    {
+      "recto": "Que sont les Casques bleus ?",
+      "verso": "Les soldats de l'ONU chargés du maintien de la paix",
+      "explanation": "Déployés sur les théâtres de conflit, ils incarnent l'action concrète — et les limites — de la sécurité collective onusienne.",
+      "tags": [
+        "organisations",
+        "paix"
+      ],
+      "distractors": {
+        "easy": [
+          "Les soldats de l'OTAN",
+          "Une ONG humanitaire privée",
+          "Les troupes américaines"
+        ],
+        "medium": [
+          "Les forces armées de l'Union européenne",
+          "Les médiateurs de la SDN",
+          "Les diplomates du Conseil de sécurité"
+        ],
+        "hard": [
+          "Les observateurs de la Croix-Rouge",
+          "Les troupes coloniales françaises",
+          "Les forces spéciales de l'ONU contre le terrorisme"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que la sécurité collective ?",
+      "verso": "L'engagement des États à répondre ensemble à une agression",
+      "explanation": "Au cœur de la SDN puis de l'ONU, elle se heurte au droit de veto et au manque de moyens vraiment contraignants.",
+      "tags": [
+        "notion",
+        "paix"
+      ],
+      "distractors": {
+        "easy": [
+          "La défense de chaque État par lui-même",
+          "Le libre commerce entre nations",
+          "La neutralité de tous les États"
+        ],
+        "medium": [
+          "Une alliance militaire entre deux blocs",
+          "La course aux armements",
+          "Le repli de chaque pays sur ses frontières"
+        ],
+        "hard": [
+          "La dissuasion nucléaire entre puissances",
+          "L'équilibre des forces régionales",
+          "Le seul droit de veto au Conseil de sécurité"
+        ]
+      }
+    },
+    {
+      "recto": "Quel événement de 1948 ouvre le cycle des conflits au Moyen-Orient ?",
+      "verso": "La création de l'État d'Israël",
+      "explanation": "La proclamation d'Israël en 1948 déclenche la première guerre israélo-arabe et inaugure des décennies de conflits régionaux.",
+      "tags": [
+        "dates",
+        "moyen-orient"
+      ],
+      "distractors": {
+        "easy": [
+          "La guerre du Golfe",
+          "La révolution iranienne",
+          "Les attentats du 11 septembre"
+        ],
+        "medium": [
+          "La crise de Suez",
+          "La guerre des Six Jours",
+          "La guerre d'Irak"
+        ],
+        "hard": [
+          "Les accords d'Oslo",
+          "La guerre du Kippour",
+          "La signature des accords de Camp David"
+        ]
+      }
+    },
+    {
+      "recto": "Quels acteurs internationaux interviennent dans les conflits du Moyen-Orient ?",
+      "verso": "Les États-Unis, l'URSS puis la Russie, et l'ONU",
+      "explanation": "Le Moyen-Orient est un terrain d'affrontement et de médiation des grandes puissances, du temps de la guerre froide à aujourd'hui.",
+      "tags": [
+        "moyen-orient",
+        "acteurs"
+      ],
+      "distractors": {
+        "easy": [
+          "Seulement les pays africains",
+          "Uniquement la Chine",
+          "Aucun acteur extérieur"
+        ],
+        "medium": [
+          "L'Union européenne uniquement",
+          "Seulement les pays d'Amérique latine",
+          "La SDN seule"
+        ],
+        "hard": [
+          "L'OTAN exclusivement",
+          "Seules les puissances asiatiques",
+          "Uniquement des firmes privées"
+        ]
+      }
+    },
+    {
+      "recto": "Quels accords de 1993 tentent une paix israélo-palestinienne ?",
+      "verso": "Les accords d'Oslo",
+      "explanation": "Les accords d'Oslo (1993) instaurent une reconnaissance mutuelle et une autonomie palestinienne, mais la paix durable échouera.",
+      "tags": [
+        "dates",
+        "moyen-orient"
+      ],
+      "distractors": {
+        "easy": [
+          "Les accords de Yalta",
+          "Le traité de Versailles",
+          "Les accords de Munich"
+        ],
+        "medium": [
+          "Les accords de Camp David (1978)",
+          "Le traité de Maastricht",
+          "Les accords d'Évian"
+        ],
+        "hard": [
+          "Les accords de Dayton",
+          "Le plan de partage de 1947",
+          "Les accords d'Abraham"
+        ]
+      }
+    },
+    {
+      "recto": "Quels sont les principaux enjeux des conflits du Moyen-Orient ?",
+      "verso": "Des enjeux territoriaux, religieux, pétroliers et d'influence",
+      "explanation": "La superposition de ces enjeux explique la complexité et la durée des conflits régionaux.",
+      "tags": [
+        "moyen-orient"
+      ],
+      "distractors": {
+        "easy": [
+          "Uniquement des enjeux sportifs",
+          "Seulement des questions linguistiques",
+          "Aucun enjeu particulier"
+        ],
+        "medium": [
+          "Seulement des enjeux commerciaux",
+          "Uniquement des rivalités dynastiques",
+          "Seulement la question des frontières maritimes"
+        ],
+        "hard": [
+          "Exclusivement des enjeux religieux",
+          "Seulement le contrôle des câbles sous-marins",
+          "Uniquement des rivalités spatiales"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi parle-t-on de guerres « par procuration » pendant la guerre froide ?",
+      "verso": "Les deux Grands s'affrontent indirectement via des conflits périphériques (Viêtnam, Afghanistan)",
+      "explanation": "Faute de s'affronter directement (risque nucléaire), URSS et États-Unis soutiennent des camps adverses dans des conflits locaux.",
+      "tags": [
+        "guerre-froide"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'ils combattaient directement sur leur sol",
+          "Parce qu'il n'y avait aucun conflit",
+          "Parce que la guerre était purement économique"
+        ],
+        "medium": [
+          "Parce que l'ONU menait toutes les guerres",
+          "Parce que seules des firmes privées combattaient",
+          "Parce que les guerres se limitaient à l'espace"
+        ],
+        "hard": [
+          "Parce que les blocs avaient fusionné leurs armées",
+          "Parce que les conflits étaient uniquement nucléaires",
+          "Parce que la SDN arbitrait chaque conflit"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que le terrorisme ?",
+      "verso": "La violence d'acteurs souvent non étatiques visant à semer la terreur pour un but politique",
+      "explanation": "Le terrorisme cherche un effet psychologique massif avec des moyens limités : c'est une arme du faible au cœur des conflits asymétriques.",
+      "tags": [
+        "notion",
+        "terrorisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Une guerre déclarée entre deux États",
+          "Une opération de maintien de la paix",
+          "Une négociation diplomatique"
+        ],
+        "medium": [
+          "Une bataille rangée entre armées régulières",
+          "Un blocus économique",
+          "Une médiation de l'ONU"
+        ],
+        "hard": [
+          "Une guerre interétatique limitée",
+          "Une forme de sécurité collective",
+          "Une opération humanitaire armée"
+        ]
+      }
+    },
+    {
+      "recto": "Quel conflit les États-Unis déclenchent-ils en 2003 ?",
+      "verso": "La guerre d'Irak",
+      "explanation": "Menée sans mandat clair de l'ONU, la guerre d'Irak illustre la tentation unilatérale et les limites de la sécurité collective.",
+      "tags": [
+        "dates",
+        "moyen-orient"
+      ],
+      "distractors": {
+        "easy": [
+          "La guerre du Viêtnam",
+          "La guerre de Corée",
+          "La Première Guerre mondiale"
+        ],
+        "medium": [
+          "La guerre du Golfe (1991)",
+          "La guerre d'Afghanistan (2001)",
+          "La guerre du Kosovo"
+        ],
+        "hard": [
+          "La guerre des Six Jours",
+          "La guerre de Syrie",
+          "La guerre du Liban"
+        ]
+      }
+    },
+    {
+      "recto": "Vrai ou faux : la guerre interétatique a totalement disparu aujourd'hui.",
+      "verso": "Faux : elle recule mais demeure, comme le montre la guerre en Ukraine",
+      "explanation": "Le piège est de croire le modèle interétatique périmé : les guerres irrégulières dominent, mais les affrontements d'États restent possibles.",
+      "tags": [
+        "piege"
+      ],
+      "distractors": {
+        "easy": [
+          "Vrai : il n'y a plus aucune guerre",
+          "Vrai : seuls les attentats existent désormais",
+          "Vrai : l'ONU a aboli la guerre"
+        ],
+        "medium": [
+          "Vrai : les États ne s'affrontent plus jamais",
+          "Vrai : seules subsistent les guerres civiles",
+          "Vrai : la dissuasion nucléaire l'a supprimée"
+        ],
+        "hard": [
+          "Vrai : elle a été remplacée par la seule cyberguerre",
+          "Vrai : les traités l'ont rendue impossible",
+          "Vrai : elle n'existe plus depuis 1945"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle différence majeure sépare la SDN de l'ONU ?",
+      "verso": "L'ONU dispose d'un Conseil de sécurité et de Casques bleus, là où la SDN, impuissante, a échoué",
+      "explanation": "Comparaison clé : les deux relèvent de la sécurité collective, mais l'ONU s'est dotée de moyens d'action que la SDN n'avait pas.",
+      "tags": [
+        "comparaison"
+      ],
+      "distractors": {
+        "easy": [
+          "Aucune : ce sont les mêmes organisations",
+          "La SDN existe encore, pas l'ONU",
+          "La SDN était mondiale, l'ONU régionale"
+        ],
+        "medium": [
+          "La SDN avait une armée, pas l'ONU",
+          "L'ONU refuse la sécurité collective",
+          "La SDN a remplacé l'ONU en 1945"
+        ],
+        "hard": [
+          "L'ONU n'a aucun moyen d'action",
+          "La SDN disposait du droit de veto, pas l'ONU",
+          "L'ONU interdit le maintien de la paix"
+        ]
+      }
+    }
+  ]
+}
