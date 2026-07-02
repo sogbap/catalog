@@ -312,6 +312,19 @@
       "path": "hggsp/terminale/histoire-memoires.json",
       "level": "Terminale",
       "theme": "Histoire et mémoires"
+    },
+    {
+      "id": "hggsp-terminale-patrimoine",
+      "title": "Identifier, protéger et valoriser le patrimoine",
+      "emoji": "🏛️",
+      "subject": "hggsp",
+      "language": "fr",
+      "courseDescription": "Comprendre comment les sociétés identifient, protègent et valorisent leur patrimoine, du patrimoine national au patrimoine mondial de l'UNESCO, et les tensions géopolitiques qu'il suscite.",
+      "cardCount": 20,
+      "version": 1,
+      "path": "hggsp/terminale/patrimoine.json",
+      "level": "Terminale",
+      "theme": "Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques"
     }
   ]
 }

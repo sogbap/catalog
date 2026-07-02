@@ -1,0 +1,519 @@
+{
+  "id": "hggsp-terminale-patrimoine",
+  "title": "Identifier, protéger et valoriser le patrimoine",
+  "emoji": "🏛️",
+  "subject": "hggsp",
+  "courseDescription": "Comprendre comment les sociétés identifient, protègent et valorisent leur patrimoine, du patrimoine national au patrimoine mondial de l'UNESCO, et les tensions géopolitiques qu'il suscite.",
+  "lesson": "<style>\n  /* Styles propres aux illustrations SVG : s'adaptent au thème via\n     currentColor (texte) et var(--accent) (couleur de la matière). */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Identifier, protéger et valoriser le patrimoine</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau :</b> Terminale — Spécialité HGGSP<br>\n  <b>Thème 4 :</b> Identifier, protéger et valoriser le patrimoine — enjeux géopolitiques<br>\n  <b>Axe 1 · Axe 2 · Objet de travail conclusif</b> · environ 24 heures\n</div>\n\n<blockquote>\n  <p><b>Problématique.</b> Comment les sociétés identifient-elles, protègent-elles et valorisent-elles leur patrimoine, et pourquoi celui-ci est-il devenu un enjeu géopolitique&nbsp;?</p>\n</blockquote>\n\n<p>Le <strong>patrimoine</strong> désigne l'ensemble des biens hérités du passé qu'une société choisit de <strong>conserver</strong> et de <strong>transmettre</strong>. D'abord local, puis national, il est aujourd'hui reconnu à l'échelle <strong>mondiale</strong> par l'UNESCO. L'identifier, le protéger et le valoriser soulève des enjeux <strong>identitaires</strong>, <strong>économiques</strong> et <strong>géopolitiques</strong>&nbsp;: source de fierté et de rayonnement, il est aussi objet de convoitises, de tensions et parfois de destructions.</p>\n\n<h2>1 · Qu'est-ce que le patrimoine&nbsp;?</h2>\n\n<p>Le patrimoine est l'ensemble des <strong>biens</strong> (monuments, œuvres, paysages, savoir-faire) hérités du passé qu'un groupe décide de conserver. On distingue le patrimoine <strong>matériel</strong> (bâti, objets) et <strong>immatériel</strong> (langues, fêtes, savoir-faire).</p>\n\n<p>La notion s'est <strong>élargie</strong>&nbsp;: d'abord religieux et royal, le patrimoine devient <strong>national</strong> à la Révolution, puis <strong>mondial</strong> au XXe&nbsp;siècle. <strong>Patrimonialiser</strong>, c'est choisir ce qui mérite d'être transmis&nbsp;: un acte toujours culturel et politique.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Patrimoine</strong><br>\n  Ensemble des biens matériels et immatériels hérités du passé qu'une société <b>identifie</b>, <b>protège</b> et <b>transmet</b>. Sa reconnaissance est un choix, jamais neutre.\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 326\" role=\"img\" aria-label=\"Du patrimoine local au patrimoine mondial\">\n  <defs>\n    <marker id=\"ar-pa\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- Niveau 1 : le patrimoine local -->\n  <g>\n    <rect x=\"14\" y=\"8\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"40\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">Patrimoine local</text>\n    <text x=\"30\" y=\"65\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">Monuments et traditions d'un territoire</text>\n  </g>\n  <path d=\"M170,88 L170,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-pa)\"/>\n  <!-- Niveau 2 : le patrimoine national -->\n  <g>\n    <rect x=\"14\" y=\"110\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"142\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">Patrimoine national</text>\n    <text x=\"30\" y=\"167\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">Symbole de l'identité d'une nation</text>\n  </g>\n  <path d=\"M170,190 L170,210\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-pa)\"/>\n  <!-- Niveau 3 : le patrimoine mondial (mise en valeur) -->\n  <g>\n    <rect x=\"14\" y=\"212\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"244\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">Patrimoine mondial (UNESCO)</text>\n    <text x=\"30\" y=\"269\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">Valeur universelle, humanité entière</text>\n  </g>\n</svg>\n<figcaption>Une reconnaissance à échelle croissante : du territoire local à l'humanité tout entière.</figcaption>\n</figure>\n\n<h2>2 · Axe 1 — Usages sociaux et politiques du patrimoine</h2>\n\n<p>À la <strong>Révolution française</strong>, les biens du clergé et de la noblesse sont nationalisés. Pour éviter leur destruction (le «&nbsp;vandalisme&nbsp;»), l'État les protège&nbsp;: le patrimoine devient un <strong>bien commun de la Nation</strong>. Le musée du <strong>Louvre</strong> ouvre au public en 1793.</p>\n\n<p>Au XIXe&nbsp;siècle, l'État se dote d'outils&nbsp;: la <strong>Commission des monuments historiques</strong> (1837), portée par Prosper Mérimée. Au XXe&nbsp;siècle, <strong>André Malraux</strong>, premier ministre des Affaires culturelles (1959), crée les secteurs sauvegardés. Le patrimoine sert alors l'<strong>affirmation identitaire</strong> et la cohésion nationale.</p>\n\n<blockquote>\n  <p><strong>Jalon</strong><br>La construction du patrimoine national français&nbsp;: de la Révolution à Malraux, un patrimoine mis au service de l'identité de la Nation.</p>\n</blockquote>\n\n<h2>3 · La construction du patrimoine mondial de l'humanité</h2>\n\n<p>Après 1945, l'idée d'un patrimoine appartenant à <strong>toute l'humanité</strong> émerge. L'UNESCO adopte en <strong>1972</strong> la <strong>Convention du patrimoine mondial</strong>&nbsp;: les sites d'une «&nbsp;valeur universelle exceptionnelle&nbsp;» sont inscrits sur une <strong>liste</strong> et bénéficient d'une protection.</p>\n\n<p>Le classement apporte <strong>prestige</strong> et <strong>tourisme</strong>&nbsp;; aussi les États se livrent-ils une <strong>concurrence</strong> pour faire inscrire leurs sites. Le patrimoine devient un instrument de <strong>soft power</strong> et de rayonnement international.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Patrimoine mondial de l'humanité</strong><br>\n  Ensemble des sites d'une <b>valeur universelle exceptionnelle</b> inscrits par l'UNESCO (Convention de 1972). Ils sont réputés appartenir à l'humanité entière et méritent une protection partagée.\n</div>\n\n<blockquote>\n  <p><strong>Jalon</strong><br>La construction du patrimoine mondial de l'humanité&nbsp;: la Convention de l'UNESCO (1972) et la liste du patrimoine mondial.</p>\n</blockquote>\n\n<h2>4 · Axe 2 — Le patrimoine entre tensions et concurrences</h2>\n\n<p>Valoriser le patrimoine crée un <strong>paradoxe</strong>&nbsp;: le <strong>tourisme de masse</strong> qui le fait vivre finit par le menacer. <strong>Venise</strong>, submergée par les visiteurs, illustre ce <strong>surtourisme</strong> qui dégrade les sites et chasse les habitants.</p>\n\n<p>Le patrimoine est aussi une <strong>cible</strong> en temps de guerre&nbsp;: détruire le patrimoine de l'adversaire, c'est nier son identité. En <strong>2015</strong>, l'organisation État islamique (Daech) détruit les temples antiques de <strong>Palmyre</strong>. Face à cela, la communauté internationale protège (Convention de La Haye, 1954) et reconstruit.</p>\n\n<blockquote>\n  <p><strong>Jalon</strong><br>Le patrimoine entre valorisation et menaces&nbsp;: du tourisme de masse (Venise) aux destructions de guerre (Palmyre, 2015).</p>\n</blockquote>\n\n<h2>5 · Objet de travail conclusif — La France et le patrimoine</h2>\n\n<p>La France est l'un des pays comptant le plus de sites inscrits au patrimoine mondial (Mont-Saint-Michel, rives de la Seine, châteaux de la Loire…). Le patrimoine y est un puissant levier de <strong>tourisme</strong> — la France est la première destination mondiale — et de <strong>soft power</strong>.</p>\n\n<p>L'État arbitre en permanence entre <strong>valoriser</strong> (ouvrir, faire connaître, financer) et <strong>protéger</strong> (restaurer, limiter les flux). L'incendie de <strong>Notre-Dame de Paris</strong> (2019) et l'élan de sa reconstruction ont montré l'attachement collectif au patrimoine.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Soft power</strong><br>\n  Capacité d'un État à <b>séduire et influencer</b> par sa culture et son image plutôt que par la force. Le patrimoine, très visible et prestigieux, en est un instrument majeur.\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Valoriser et protéger : deux exigences du patrimoine\">\n  <!-- Colonne 1 : valoriser -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">Valoriser</text>\n  <text x=\"87\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12.5\" font-weight=\"700\">Faire vivre</text>\n  <text x=\"26\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Tourisme, économie</text>\n  <text x=\"26\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Rayonnement, image</text>\n  <text x=\"26\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Ouvrir au public</text>\n  <!-- Colonne 2 : protéger (mise en valeur) -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">Protéger</text>\n  <text x=\"253\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12.5\" font-weight=\"700\">Faire durer</text>\n  <text x=\"192\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Conserver, restaurer</text>\n  <text x=\"192\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Limiter les dégradations</text>\n  <text x=\"192\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Transmettre demain</text>\n</svg>\n<figcaption>La mise en valeur du patrimoine oscille en permanence entre exploitation et protection.</figcaption>\n</figure>\n\n<h2>L'essentiel</h2>\n\n<h3>Frise chronologique</h3>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 366\" role=\"img\" aria-label=\"Frise de la construction du patrimoine\">\n  <line x1=\"74\" y1=\"22\" x2=\"74\" y2=\"348\" style=\"stroke:var(--accent);stroke-width:3;stroke-linecap:round\"/>\n  <!-- 1793 -->\n  <circle cx=\"74\" cy=\"40\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"45\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1793</text>\n  <text x=\"90\" y=\"45\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Ouverture du musée du Louvre</text>\n  <!-- 1837 -->\n  <circle cx=\"74\" cy=\"101\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"106\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1837</text>\n  <text x=\"90\" y=\"106\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Commission des monuments historiques</text>\n  <!-- 1954 -->\n  <circle cx=\"74\" cy=\"162\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"167\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1954</text>\n  <text x=\"90\" y=\"167\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Convention de La Haye (biens culturels)</text>\n  <!-- 1959 -->\n  <circle cx=\"74\" cy=\"223\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"228\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1959</text>\n  <text x=\"90\" y=\"228\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Ministère des Affaires culturelles (Malraux)</text>\n  <!-- 1972 -->\n  <circle cx=\"74\" cy=\"284\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"289\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1972</text>\n  <text x=\"90\" y=\"289\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Convention UNESCO du patrimoine mondial</text>\n  <!-- 2015 -->\n  <circle cx=\"74\" cy=\"345\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"350\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">2015</text>\n  <text x=\"90\" y=\"350\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Destruction de Palmyre par Daech</text>\n</svg>\n</figure>\n\n<h3>Dates clés</h3>\n\n<table>\n  <tr><th>Date</th><th>Repère</th></tr>\n  <tr><td>1793</td><td>Ouverture du musée du Louvre : le patrimoine devient bien public</td></tr>\n  <tr><td>1837</td><td>Création de la Commission des monuments historiques</td></tr>\n  <tr><td>1954</td><td>Convention de La Haye : protection des biens culturels en guerre</td></tr>\n  <tr><td>1959</td><td>Malraux, premier ministre des Affaires culturelles</td></tr>\n  <tr><td>1972</td><td>Convention de l'UNESCO sur le patrimoine mondial</td></tr>\n  <tr><td>2015</td><td>Destruction des temples de Palmyre par Daech</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition</th></tr>\n  <tr><td>Patrimoine</td><td>Biens hérités du passé qu'une société choisit de transmettre.</td></tr>\n  <tr><td>Patrimoine matériel / immatériel</td><td>Bâti et objets ; ou langues, fêtes et savoir-faire.</td></tr>\n  <tr><td>Patrimoine mondial</td><td>Sites d'une valeur universelle inscrits par l'UNESCO (1972).</td></tr>\n  <tr><td>Patrimonialisation</td><td>Processus par lequel un bien devient patrimoine à protéger.</td></tr>\n  <tr><td>Soft power</td><td>Influence exercée par la culture et l'image plutôt que la force.</td></tr>\n  <tr><td>Surtourisme</td><td>Fréquentation excessive qui dégrade un site et ses habitants.</td></tr>\n</table>\n\n<h3>Lieux et acteurs clés</h3>\n\n<table>\n  <tr><th>Lieu / acteur</th><th>Rôle</th></tr>\n  <tr><td>L'UNESCO</td><td>Établit la liste du patrimoine mondial (Convention de 1972).</td></tr>\n  <tr><td>André Malraux</td><td>Premier ministre des Affaires culturelles, protège le patrimoine.</td></tr>\n  <tr><td>Venise</td><td>Symbole du surtourisme menaçant un site patrimonial.</td></tr>\n  <tr><td>Palmyre (Syrie)</td><td>Site antique détruit par Daech en 2015.</td></tr>\n  <tr><td>La France</td><td>Grande puissance patrimoniale et touristique (soft power).</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Ne pas croire que le patrimoine est une donnée «&nbsp;naturelle&nbsp;» et figée&nbsp;: <b>patrimonialiser est toujours un choix</b>, culturel et politique, qui évolue (patrimoine immatériel, industriel…). Et attention&nbsp;: classer un site à l'UNESCO ne garantit pas sa protection — le label peut même accélérer le surtourisme.\n</div>\n\n<blockquote>\n  <p>Protéger le patrimoine bâti rejoint un autre défi planétaire&nbsp;: préserver la <strong>nature</strong> elle-même. Comment concilier l'<strong>exploitation</strong> et la <strong>protection</strong> de l'environnement&nbsp;? C'est l'objet du thème suivant.</p>\n</blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques",
+  "cards": [
+    {
+      "recto": "Qu'est-ce que le patrimoine ?",
+      "verso": "L'ensemble des biens hérités du passé qu'une société choisit de conserver et transmettre",
+      "explanation": "Le patrimoine regroupe monuments, œuvres, paysages et savoir-faire jugés dignes d'être transmis aux générations futures.",
+      "tags": [
+        "notion",
+        "definition"
+      ],
+      "distractors": {
+        "easy": [
+          "L'ensemble des richesses financières d'un État",
+          "Les ressources naturelles d'un territoire",
+          "La population active d'un pays"
+        ],
+        "medium": [
+          "Les biens produits uniquement à l'époque contemporaine",
+          "L'ensemble des lois en vigueur dans un pays",
+          "Les frontières héritées de l'histoire"
+        ],
+        "hard": [
+          "Les seuls monuments religieux d'une nation",
+          "Les biens exclusivement immatériels d'un groupe",
+          "Les collections privées non transmissibles"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la différence entre patrimoine matériel et immatériel ?",
+      "verso": "Le matériel est bâti ou objet, l'immatériel regroupe langues, fêtes et savoir-faire",
+      "explanation": "Le patrimoine matériel est tangible (monuments, tableaux) ; l'immatériel rassemble les pratiques vivantes (traditions, langues, gastronomie).",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le matériel est récent, l'immatériel est ancien",
+          "Le matériel est public, l'immatériel est privé",
+          "Le matériel est national, l'immatériel est local"
+        ],
+        "medium": [
+          "Le matériel est protégé, l'immatériel ne l'est jamais",
+          "Le matériel est gratuit, l'immatériel est payant",
+          "Le matériel est mondial, l'immatériel est régional"
+        ],
+        "hard": [
+          "Le matériel relève de l'État, l'immatériel de l'UNESCO seule",
+          "Le matériel est naturel, l'immatériel est culturel",
+          "Le matériel est classé, l'immatériel est toujours détruit"
+        ]
+      }
+    },
+    {
+      "recto": "Que signifie patrimonialiser un bien ?",
+      "verso": "Décider qu'un bien mérite d'être protégé et transmis comme patrimoine",
+      "explanation": "La patrimonialisation est un choix culturel et politique : une société sélectionne ce qui devient patrimoine, ce qui varie selon les époques.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Vendre un bien à un collectionneur privé",
+          "Détruire un monument jugé dépassé",
+          "Construire un nouveau bâtiment public"
+        ],
+        "medium": [
+          "Transformer un site en zone commerciale",
+          "Interdire définitivement l'accès à un lieu",
+          "Nationaliser une entreprise privée"
+        ],
+        "hard": [
+          "Inscrire automatiquement tout bien ancien à l'UNESCO",
+          "Restituer un bien à son pays d'origine",
+          "Fixer le prix d'entrée d'un musée"
+        ]
+      }
+    },
+    {
+      "recto": "À quel moment naît la notion de patrimoine national en France ?",
+      "verso": "Pendant la Révolution française",
+      "explanation": "La Révolution nationalise les biens du clergé et de la noblesse ; pour éviter le vandalisme, l'État les protège comme biens communs de la Nation.",
+      "tags": [
+        "fait",
+        "histoire"
+      ],
+      "distractors": {
+        "easy": [
+          "Sous Louis XIV",
+          "Pendant la Première Guerre mondiale",
+          "Au Moyen Âge"
+        ],
+        "medium": [
+          "Sous le Second Empire",
+          "Pendant la Renaissance",
+          "Après 1945"
+        ],
+        "hard": [
+          "Lors de la création de l'UNESCO",
+          "Sous la monarchie de Juillet uniquement",
+          "Pendant la IIIe République"
+        ]
+      }
+    },
+    {
+      "recto": "Que se passe-t-il en 1793 pour le patrimoine français ?",
+      "verso": "L'ouverture du musée du Louvre au public",
+      "explanation": "En 1793, le palais du Louvre devient un musée ouvert à tous : le patrimoine artistique devient un bien public national.",
+      "tags": [
+        "date"
+      ],
+      "distractors": {
+        "easy": [
+          "La destruction de la Bastille",
+          "La création de l'UNESCO",
+          "L'ouverture du château de Versailles"
+        ],
+        "medium": [
+          "La création des monuments historiques",
+          "Le classement de Notre-Dame",
+          "La fondation du Panthéon"
+        ],
+        "hard": [
+          "La première Convention du patrimoine mondial",
+          "La création du ministère de la Culture",
+          "L'inauguration du musée d'Orsay"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle institution est créée en 1837 pour protéger le patrimoine bâti ?",
+      "verso": "La Commission des monuments historiques",
+      "explanation": "Créée en 1837 et associée à Prosper Mérimée, elle recense et protège les monuments jugés remarquables.",
+      "tags": [
+        "date"
+      ],
+      "distractors": {
+        "easy": [
+          "L'UNESCO",
+          "Le ministère de la Culture",
+          "Le musée du Louvre"
+        ],
+        "medium": [
+          "La Commission européenne du patrimoine",
+          "L'Institut de France",
+          "Le Conseil des monuments mondiaux"
+        ],
+        "hard": [
+          "Les Bâtiments de France",
+          "Le Centre des monuments nationaux",
+          "La Fondation du patrimoine"
+        ]
+      }
+    },
+    {
+      "recto": "Qui devient en 1959 le premier ministre des Affaires culturelles ?",
+      "verso": "André Malraux",
+      "explanation": "André Malraux structure la politique patrimoniale française et crée notamment les secteurs sauvegardés.",
+      "tags": [
+        "acteur",
+        "date"
+      ],
+      "distractors": {
+        "easy": [
+          "Charles de Gaulle",
+          "Victor Hugo",
+          "Prosper Mérimée"
+        ],
+        "medium": [
+          "Jules Ferry",
+          "Jacques Chirac",
+          "Jean Zay"
+        ],
+        "hard": [
+          "Jack Lang",
+          "Georges Pompidou",
+          "Léon Blum"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle organisation établit la liste du patrimoine mondial ?",
+      "verso": "L'UNESCO",
+      "explanation": "L'UNESCO, agence de l'ONU pour l'éducation, la science et la culture, inscrit et suit les sites du patrimoine mondial.",
+      "tags": [
+        "acteur"
+      ],
+      "distractors": {
+        "easy": [
+          "L'OTAN",
+          "L'OMC",
+          "Le FMI"
+        ],
+        "medium": [
+          "Le Conseil de l'Europe",
+          "L'OMS",
+          "L'Union européenne"
+        ],
+        "hard": [
+          "L'ICOMOS seul",
+          "La Cour pénale internationale",
+          "L'Organisation mondiale du tourisme"
+        ]
+      }
+    },
+    {
+      "recto": "En quelle année l'UNESCO adopte-t-elle la Convention du patrimoine mondial ?",
+      "verso": "1972",
+      "explanation": "La Convention de 1972 crée la liste du patrimoine mondial et engage les États à protéger les sites d'une valeur universelle exceptionnelle.",
+      "tags": [
+        "date"
+      ],
+      "distractors": {
+        "easy": [
+          "1945",
+          "2001",
+          "1789"
+        ],
+        "medium": [
+          "1954",
+          "1989",
+          "2003"
+        ],
+        "hard": [
+          "1959",
+          "1976",
+          "1992"
+        ]
+      }
+    },
+    {
+      "recto": "Quel critère justifie l'inscription d'un site au patrimoine mondial ?",
+      "verso": "Une valeur universelle exceptionnelle",
+      "explanation": "Un site inscrit doit présenter un intérêt jugé exceptionnel pour l'humanité entière, au-delà de sa seule nation.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Une grande ancienneté",
+          "Une valeur financière élevée",
+          "Une grande taille"
+        ],
+        "medium": [
+          "Un intérêt strictement national",
+          "Une origine uniquement religieuse",
+          "Une localisation en Europe"
+        ],
+        "hard": [
+          "Une valeur commerciale reconnue",
+          "Une valeur uniquement esthétique",
+          "Une utilité militaire"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi le patrimoine est-il un instrument de soft power ?",
+      "verso": "Il permet à un État de séduire et d'influencer par sa culture et son image",
+      "explanation": "Le soft power repose sur l'attractivité culturelle : un patrimoine prestigieux renforce le rayonnement et l'influence d'un pays.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Il fournit des armes à l'État",
+          "Il augmente la population",
+          "Il agrandit le territoire"
+        ],
+        "medium": [
+          "Il impose des sanctions économiques",
+          "Il finance l'armée nationale",
+          "Il ferme les frontières"
+        ],
+        "hard": [
+          "Il relève exclusivement du hard power",
+          "Il remplace la diplomatie officielle",
+          "Il supprime toute concurrence entre États"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle ville illustre le surtourisme menaçant le patrimoine ?",
+      "verso": "Venise",
+      "explanation": "Venise, submergée par les visiteurs et les paquebots, voit son patrimoine se dégrader et ses habitants partir : c'est le paradoxe de la valorisation.",
+      "tags": [
+        "lieu"
+      ],
+      "distractors": {
+        "easy": [
+          "Paris",
+          "Rome",
+          "Londres"
+        ],
+        "medium": [
+          "Athènes",
+          "Madrid",
+          "Florence"
+        ],
+        "hard": [
+          "Dubrovnik",
+          "Bruges",
+          "Amsterdam"
+        ]
+      }
+    },
+    {
+      "recto": "Quel site antique l'organisation État islamique détruit-elle en 2015 ?",
+      "verso": "Palmyre",
+      "explanation": "En 2015, Daech détruit les temples de Palmyre (Syrie) : détruire le patrimoine de l'autre, c'est nier son identité.",
+      "tags": [
+        "lieu",
+        "date"
+      ],
+      "distractors": {
+        "easy": [
+          "Rome",
+          "Athènes",
+          "Le Caire"
+        ],
+        "medium": [
+          "Babylone",
+          "Pétra",
+          "Carthage"
+        ],
+        "hard": [
+          "Alep",
+          "Mossoul",
+          "Ninive"
+        ]
+      }
+    },
+    {
+      "recto": "Quel texte de 1954 protège les biens culturels en cas de guerre ?",
+      "verso": "La Convention de La Haye",
+      "explanation": "Adoptée en 1954, elle engage les États à protéger le patrimoine culturel lors des conflits armés.",
+      "tags": [
+        "date"
+      ],
+      "distractors": {
+        "easy": [
+          "La Convention de Genève",
+          "La Convention de Vienne",
+          "La Convention de Paris"
+        ],
+        "medium": [
+          "La Convention de l'UNESCO",
+          "Le Traité de Rome",
+          "La Charte de l'ONU"
+        ],
+        "hard": [
+          "Le Statut de Rome",
+          "La Convention de Montego Bay",
+          "La Convention de Ramsar"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la France est-elle une grande puissance patrimoniale ?",
+      "verso": "Elle compte de nombreux sites classés et est la première destination touristique mondiale",
+      "explanation": "Mont-Saint-Michel, rives de la Seine, châteaux de la Loire… : le patrimoine français nourrit tourisme et soft power.",
+      "tags": [
+        "fait"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle n'a aucun site inscrit à l'UNESCO",
+          "Elle interdit le tourisme sur ses sites",
+          "Elle possède le plus petit patrimoine d'Europe"
+        ],
+        "medium": [
+          "Elle est la dernière destination touristique mondiale",
+          "Elle refuse toute inscription à l'UNESCO",
+          "Elle limite son patrimoine à la ville de Paris"
+        ],
+        "hard": [
+          "Elle possède le plus grand nombre de sites au monde",
+          "Elle a quitté la Convention de 1972",
+          "Elle ne protège que le patrimoine immatériel"
+        ]
+      }
+    },
+    {
+      "recto": "Quel événement de 2019 a révélé l'attachement des Français au patrimoine ?",
+      "verso": "L'incendie de Notre-Dame de Paris",
+      "explanation": "L'incendie de 2019 et l'élan mondial pour sa reconstruction ont montré la valeur symbolique du patrimoine.",
+      "tags": [
+        "date"
+      ],
+      "distractors": {
+        "easy": [
+          "L'inondation du Louvre",
+          "L'effondrement du Mont-Saint-Michel",
+          "L'incendie du château de Versailles"
+        ],
+        "medium": [
+          "La destruction de la tour Eiffel",
+          "L'incendie du château de Chambord",
+          "L'effondrement du pont du Gard"
+        ],
+        "hard": [
+          "L'incendie de la cathédrale de Reims",
+          "L'incendie du palais de l'Élysée",
+          "L'effondrement de la basilique de Saint-Denis"
+        ]
+      }
+    },
+    {
+      "recto": "Quel paradoxe pose la valorisation touristique du patrimoine ?",
+      "verso": "Le tourisme qui le fait vivre finit par le menacer",
+      "explanation": "La fréquentation apporte des revenus mais dégrade les sites : valoriser et protéger entrent en tension.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le patrimoine coûte trop cher à construire",
+          "Le patrimoine est trop récent pour être visité",
+          "Le patrimoine n'intéresse personne"
+        ],
+        "medium": [
+          "La protection empêche toute visite",
+          "Le classement supprime tout tourisme",
+          "Le patrimoine se vend toujours à l'étranger"
+        ],
+        "hard": [
+          "La restauration détruit toujours le site",
+          "Le tourisme n'a aucun effet sur le patrimoine",
+          "Le patrimoine mondial échappe à toute fréquentation"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi le patrimoine sert-il l'affirmation identitaire ?",
+      "verso": "Il incarne la mémoire et l'unité d'une nation ou d'un groupe",
+      "explanation": "Choisir et protéger un patrimoine, c'est affirmer une identité commune et une continuité historique.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Il sert uniquement à gagner de l'argent",
+          "Il remplace l'armée nationale",
+          "Il fixe les frontières d'un pays"
+        ],
+        "medium": [
+          "Il n'a aucun lien avec l'histoire d'un peuple",
+          "Il divise systématiquement les nations",
+          "Il appartient toujours à des propriétaires privés"
+        ],
+        "hard": [
+          "Il est neutre et dépourvu de sens politique",
+          "Il efface la mémoire collective",
+          "Il concerne seulement les États étrangers"
+        ]
+      }
+    },
+    {
+      "recto": "Le classement d'un site à l'UNESCO garantit-il sa protection ?",
+      "verso": "Non : le label peut même accélérer le surtourisme",
+      "explanation": "Le piège classique : l'inscription apporte prestige et visiteurs, mais sans gestion la fréquentation dégrade le site. Le label n'est pas une protection automatique.",
+      "tags": [
+        "piege"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, la protection est alors totale et définitive",
+          "Oui, l'UNESCO finance intégralement l'entretien",
+          "Oui, le site devient inaccessible au public"
+        ],
+        "medium": [
+          "Oui, tout risque de dégradation disparaît",
+          "Oui, l'État perd toute responsabilité sur le site",
+          "Oui, le tourisme y est automatiquement interdit"
+        ],
+        "hard": [
+          "Oui, le classement suffit à garantir la conservation",
+          "Non, car le label entraîne le déclassement des sites voisins",
+          "Oui, l'UNESCO gère directement chaque site inscrit"
+        ]
+      }
+    },
+    {
+      "recto": "Valoriser ou protéger le patrimoine : quelle différence ?",
+      "verso": "Valoriser, c'est le faire vivre (tourisme, image) ; protéger, c'est le faire durer (conserver, restaurer)",
+      "explanation": "Les deux logiques sont complémentaires mais en tension : l'État arbitre en permanence entre ouverture et conservation.",
+      "tags": [
+        "comparaison"
+      ],
+      "distractors": {
+        "easy": [
+          "Valoriser et protéger sont exactement la même chose",
+          "Valoriser, c'est détruire ; protéger, c'est vendre",
+          "Valoriser concerne l'État, protéger l'UNESCO"
+        ],
+        "medium": [
+          "Valoriser, c'est fermer le site ; protéger, c'est l'ouvrir",
+          "Valoriser, c'est restaurer ; protéger, c'est démolir",
+          "Valoriser vise le passé, protéger vise le futur uniquement"
+        ],
+        "hard": [
+          "Valoriser, c'est conserver ; protéger, c'est exploiter",
+          "Valoriser relève du privé, protéger du tourisme seul",
+          "Valoriser et protéger n'ont aucun rapport avec le patrimoine"
+        ]
+      }
+    }
+  ]
+}
