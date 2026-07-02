@@ -1,0 +1,533 @@
+{
+  "id": "jp-koukou-rekishi-sougou-meiji-ishin",
+  "title": "明治維新と日本の近代化",
+  "emoji": "🏯",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "開国から明治維新まで。ペリー来航、不平等条約、大政奉還、廃藩置県、富国強兵を通して日本の近代化を学ぶ。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>明治維新と日本の近代化</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・歴史総合<br>\n  <b>大項目B：</b>近代化と私たち<br>\n  <b>時期：</b>19世紀後半（幕末から明治初期）\n</div>\n\n<blockquote>\n  <p><b>問い</b>　なぜ日本は、わずか数十年で近代国家へと生まれ変わることができたのだろうか。</p>\n</blockquote>\n\n<p>19世紀なかば、日本は長く続いた<strong>鎖国</strong>を終えて<strong>開国</strong>した。欧米列強の圧力のなかで<strong>江戸幕府</strong>はたおれ、<strong>天皇</strong>を中心とする新政府が生まれる。これが<strong>明治維新</strong>である。新政府は<strong>富国強兵</strong>をかかげ、わずか数十年で日本を<strong>近代国家</strong>へと変えていった。</p>\n\n<h2>1・開国とペリー来航</h2>\n\n<p>1853年、アメリカの<strong>ペリー</strong>が艦隊を率いて<strong>浦賀</strong>に来航し、開国を迫った。翌1854年、幕府は<strong>日米和親条約</strong>を結び、下田と箱館を開いて<strong>鎖国</strong>を終える。</p>\n\n<p>さらに1858年、大老<strong>井伊直弼</strong>は<strong>日米修好通商条約</strong>を結んだ。これは<strong>領事裁判権</strong>を認め、<strong>関税自主権</strong>をもたない<strong>不平等条約</strong>であり、のちの外交の重い課題となった。</p>\n\n<div class=\"callout\">\n  <strong>用語・開国</strong><br>\n  鎖国をやめ、外国と条約を結んで貿易や交流を始めること。1854年の日米和親条約がその出発点となった。\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 326\" role=\"img\" aria-label=\"開国から倒幕、そして明治維新への流れ\">\n  <defs>\n    <marker id=\"ar-mi\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 段階1：開国 -->\n  <g>\n    <rect x=\"14\" y=\"8\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"40\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">開国</text>\n    <text x=\"30\" y=\"65\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">欧米と条約を結ぶ（1854・58）</text>\n  </g>\n  <path d=\"M170,88 L170,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-mi)\"/>\n  <!-- 段階2：倒幕 -->\n  <g>\n    <rect x=\"14\" y=\"110\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"142\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">倒幕</text>\n    <text x=\"30\" y=\"167\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">江戸幕府がたおれる（1867）</text>\n  </g>\n  <path d=\"M170,190 L170,210\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-mi)\"/>\n  <!-- 段階3：明治維新（強調） -->\n  <g>\n    <rect x=\"14\" y=\"212\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"244\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">明治維新</text>\n    <text x=\"30\" y=\"269\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">天皇中心の近代国家へ</text>\n  </g>\n</svg>\n<figcaption>開国から倒幕へ、そして天皇中心の近代国家づくりへと進んだ。</figcaption>\n</figure>\n\n<h2>2・幕末の動乱と倒幕運動</h2>\n\n<p>開国後、物価の上昇や政治への不満から社会が動揺した。天皇を尊び外国を退ける<strong>尊王攘夷</strong>の運動が高まり、幕府の力は弱まっていく。</p>\n\n<p>やがて<strong>薩摩藩</strong>と<strong>長州藩</strong>が手を結ぶ（<strong>薩長同盟</strong>）。この同盟を仲介した<strong>坂本龍馬</strong>らの働きもあり、倒幕の動きは一気に強まった。</p>\n\n<h2>3・大政奉還と王政復古</h2>\n\n<p>1867年、15代将軍<strong>徳川慶喜</strong>は政権を朝廷に返した。これを<strong>大政奉還</strong>という。260年あまり続いた江戸幕府はここに幕を閉じる。</p>\n\n<p>同じ年、朝廷は<strong>王政復古の大号令</strong>を出し、天皇を中心とする新政府の樹立を宣言した。翌1868年には新政府の方針を示す<strong>五箇条の御誓文</strong>が出される。</p>\n\n<div class=\"callout\">\n  <strong>用語・明治維新</strong><br>\n  江戸幕府をたおし、天皇を中心とする近代国家をつくりあげた一連の改革。「上からの近代化」とも呼ばれる。\n</div>\n\n<h2>4・明治維新の三大改革</h2>\n\n<p>新政府はまず<strong>版籍奉還</strong>（藩の土地と人民を天皇に返させる）を行い、続いて1871年に<strong>廃藩置県</strong>を断行した。藩を廃止して県を置き、政府が全国を直接治める<strong>中央集権</strong>のしくみを整えたのである。</p>\n\n<p>さらに、江戸時代の<strong>身分制度</strong>を改めて<strong>四民平等</strong>とし、1873年には<strong>地租改正</strong>（土地に課税し現金で納めさせる）と<strong>徴兵令</strong>（国民に兵役を課す）を実施した。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"江戸時代と明治時代のしくみの比較\">\n  <!-- 左：江戸時代 -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">江戸時代</text>\n  <text x=\"87\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">幕藩体制</text>\n  <text x=\"26\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">将軍と大名</text>\n  <text x=\"26\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">身分制度</text>\n  <text x=\"26\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">鎖国</text>\n  <!-- 右：明治時代（強調） -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">明治時代</text>\n  <text x=\"253\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">中央集権国家</text>\n  <text x=\"192\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">天皇の政府</text>\n  <text x=\"192\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">四民平等</text>\n  <text x=\"192\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">開国・文明開化</text>\n</svg>\n<figcaption>幕藩体制から、天皇を中心とする中央集権的な近代国家へと変わった。</figcaption>\n</figure>\n\n<h2>5・富国強兵と文明開化</h2>\n\n<p>明治政府は欧米に追いつくため、<strong>富国強兵</strong>と<strong>殖産興業</strong>をかかげた。<strong>官営工場</strong>（富岡製糸場など）を建て、鉄道や郵便の制度を整えて近代産業を育てた。</p>\n\n<p>都市では西洋の文化や生活様式が広まり、<strong>文明開化</strong>と呼ばれた。1872年の<strong>学制</strong>によって全国に学校がつくられ、教育の近代化も進んだ。</p>\n\n<div class=\"callout\">\n  <strong>用語・富国強兵</strong><br>\n  経済を発展させて国を豊かにし（富国）、強い軍隊をつくる（強兵）という明治政府の基本方針。\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 366\" role=\"img\" aria-label=\"明治維新をめぐる年表\">\n  <line x1=\"74\" y1=\"22\" x2=\"74\" y2=\"348\" style=\"stroke:var(--accent);stroke-width:3;stroke-linecap:round\"/>\n  <!-- 1853 -->\n  <circle cx=\"74\" cy=\"40\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"45\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1853</text>\n  <text x=\"90\" y=\"45\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">ペリーが浦賀に来航</text>\n  <!-- 1854 -->\n  <circle cx=\"74\" cy=\"101\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"106\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1854</text>\n  <text x=\"90\" y=\"106\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">日米和親条約（開国）</text>\n  <!-- 1858 -->\n  <circle cx=\"74\" cy=\"162\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"167\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1858</text>\n  <text x=\"90\" y=\"167\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">日米修好通商条約</text>\n  <!-- 1867 -->\n  <circle cx=\"74\" cy=\"223\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"228\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1867</text>\n  <text x=\"90\" y=\"228\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">大政奉還・王政復古</text>\n  <!-- 1871 -->\n  <circle cx=\"74\" cy=\"284\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"289\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1871</text>\n  <text x=\"90\" y=\"289\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">廃藩置県</text>\n  <!-- 1873 -->\n  <circle cx=\"74\" cy=\"345\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"350\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1873</text>\n  <text x=\"90\" y=\"350\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">地租改正・徴兵令</text>\n</svg>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>年</th><th>できごと</th></tr>\n  <tr><td>1853年</td><td>ペリーが浦賀に来航し、開国を迫る</td></tr>\n  <tr><td>1854年</td><td>日米和親条約（下田・箱館を開港）</td></tr>\n  <tr><td>1858年</td><td>日米修好通商条約（不平等条約）</td></tr>\n  <tr><td>1867年</td><td>大政奉還と王政復古の大号令</td></tr>\n  <tr><td>1868年</td><td>明治維新・五箇条の御誓文</td></tr>\n  <tr><td>1871年</td><td>廃藩置県（中央集権化）</td></tr>\n  <tr><td>1873年</td><td>地租改正・徴兵令</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>開国</td><td>鎖国をやめ、外国と条約を結んで交流を始めること</td></tr>\n  <tr><td>不平等条約</td><td>領事裁判権を認め、関税自主権をもたない条約</td></tr>\n  <tr><td>大政奉還</td><td>徳川慶喜が政権を朝廷に返したこと</td></tr>\n  <tr><td>王政復古</td><td>天皇中心の新政府の樹立を宣言したこと</td></tr>\n  <tr><td>廃藩置県</td><td>藩を廃止して県を置き、中央集権を進めた改革</td></tr>\n  <tr><td>富国強兵</td><td>国を豊かにし、軍事力を強める明治政府の方針</td></tr>\n</table>\n\n<h3>重要人物</h3>\n\n<table>\n  <tr><th>人物</th><th>役割</th></tr>\n  <tr><td>ペリー</td><td>アメリカの軍人。艦隊を率いて来航し、開国を迫った</td></tr>\n  <tr><td>井伊直弼</td><td>大老。日米修好通商条約を結び、安政の大獄を行った</td></tr>\n  <tr><td>徳川慶喜</td><td>最後の将軍。大政奉還を行った</td></tr>\n  <tr><td>坂本龍馬</td><td>薩長同盟を仲介し、倒幕を後押しした志士</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  <b>大政奉還</b>（政権を朝廷に返すこと）と<b>王政復古</b>（天皇中心の新政府樹立の宣言）を混同しないこと。また、<b>日米和親条約</b>（1854年・開国）と<b>日米修好通商条約</b>（1858年・貿易と不平等条項）は別の条約である。\n</div>\n\n<blockquote>\n  <p>開国から明治維新へ、日本は欧米の圧力を受けながらも、わずか数十年で<strong>身分制度</strong>を廃し、<strong>中央集権</strong>的な<strong>近代国家</strong>をつくりあげた。この急速な「上からの近代化」は、その後の日本とアジア・世界とのかかわりを大きく方向づけることになる。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "歴史総合 ― 近代化と私たち",
+  "cards": [
+    {
+      "recto": "1853年に艦隊を率いて浦賀に来航し、開国を迫ったアメリカの軍人は誰か。",
+      "verso": "ペリー",
+      "explanation": "1853年、ペリーが浦賀に来航して開国を要求し、翌年の日米和親条約につながった。",
+      "tags": [
+        "幕末",
+        "開国"
+      ],
+      "distractors": {
+        "easy": [
+          "ザビエル",
+          "リンカン",
+          "マルコ・ポーロ"
+        ],
+        "medium": [
+          "ハリス",
+          "モリソン",
+          "ラクスマン"
+        ],
+        "hard": [
+          "プチャーチン",
+          "パークス",
+          "ロッシュ"
+        ]
+      }
+    },
+    {
+      "recto": "1854年に幕府が結び、下田と箱館を開いて鎖国を終えた条約は何か。",
+      "verso": "日米和親条約",
+      "explanation": "1854年の日米和親条約で下田・箱館を開港し、日本は開国した。",
+      "tags": [
+        "開国",
+        "条約"
+      ],
+      "distractors": {
+        "easy": [
+          "ポツダム宣言",
+          "サンフランシスコ平和条約",
+          "五箇条の御誓文"
+        ],
+        "medium": [
+          "日米修好通商条約",
+          "日清修好条規",
+          "下関条約"
+        ],
+        "hard": [
+          "日露和親条約",
+          "神奈川条約の追加約定",
+          "安政の五カ国条約"
+        ]
+      }
+    },
+    {
+      "recto": "1858年に大老井伊直弼が結んだ、関税自主権のない不平等条約は何か。",
+      "verso": "日米修好通商条約",
+      "explanation": "1858年の日米修好通商条約は領事裁判権を認め、関税自主権がない不平等条約だった。",
+      "tags": [
+        "条約",
+        "不平等条約"
+      ],
+      "distractors": {
+        "easy": [
+          "日米和親条約",
+          "ベルサイユ条約",
+          "学制"
+        ],
+        "medium": [
+          "日米安全保障条約",
+          "日朝修好条規",
+          "天津条約"
+        ],
+        "hard": [
+          "日蘭和親条約",
+          "改税約書",
+          "安政の大獄協定"
+        ]
+      }
+    },
+    {
+      "recto": "外国人の犯罪をその国の領事が裁く、日本にとって不利な権利を何というか。",
+      "verso": "領事裁判権",
+      "explanation": "領事裁判権（治外法権）を認めたことは、不平等条約の代表的な内容の一つ。",
+      "tags": [
+        "不平等条約"
+      ],
+      "distractors": {
+        "easy": [
+          "参政権",
+          "選挙権",
+          "自由権"
+        ],
+        "medium": [
+          "関税自主権",
+          "最恵国待遇",
+          "治安維持権"
+        ],
+        "hard": [
+          "片務的最恵国待遇",
+          "居留地行政権",
+          "協定関税権"
+        ]
+      }
+    },
+    {
+      "recto": "輸入品にかける税率を自分で決められない、不平等条約のもう一つの内容は何の欠如か。",
+      "verso": "関税自主権",
+      "explanation": "関税自主権がないため、日本は輸入税率を自由に決められず、産業保護が難しかった。",
+      "tags": [
+        "不平等条約"
+      ],
+      "distractors": {
+        "easy": [
+          "投票権",
+          "所有権",
+          "領事裁判権"
+        ],
+        "medium": [
+          "自由貿易権",
+          "課税同意権",
+          "通商拒否権"
+        ],
+        "hard": [
+          "協定関税の改定権",
+          "内国関税権",
+          "貿易独占権"
+        ]
+      }
+    },
+    {
+      "recto": "天皇を尊び、外国勢力を追い払おうとする幕末の思想・運動を何というか。",
+      "verso": "尊王攘夷",
+      "explanation": "開国後、尊王攘夷運動が高まり、やがて倒幕へとつながっていった。",
+      "tags": [
+        "幕末",
+        "思想"
+      ],
+      "distractors": {
+        "easy": [
+          "文明開化",
+          "殖産興業",
+          "富国強兵"
+        ],
+        "medium": [
+          "公武合体",
+          "王政復古",
+          "自由民権"
+        ],
+        "hard": [
+          "佐幕開国",
+          "尊王開国",
+          "攘夷鎖国"
+        ]
+      }
+    },
+    {
+      "recto": "坂本龍馬らの仲介で1866年に結ばれた、薩摩藩と長州藩の同盟を何というか。",
+      "verso": "薩長同盟",
+      "explanation": "薩長同盟によって倒幕勢力が結集し、幕府打倒の動きが強まった。",
+      "tags": [
+        "幕末",
+        "倒幕"
+      ],
+      "distractors": {
+        "easy": [
+          "日米同盟",
+          "三国同盟",
+          "四国艦隊"
+        ],
+        "medium": [
+          "薩英同盟",
+          "薩土盟約",
+          "奥羽越列藩同盟"
+        ],
+        "hard": [
+          "薩長土肥連合",
+          "長州征討同盟",
+          "西南雄藩連合"
+        ]
+      }
+    },
+    {
+      "recto": "1867年、15代将軍徳川慶喜が政権を朝廷に返したできごとを何というか。",
+      "verso": "大政奉還",
+      "explanation": "1867年の大政奉還で徳川慶喜は政権を朝廷に返し、江戸幕府は終わった。",
+      "tags": [
+        "倒幕",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "廃藩置県",
+          "文明開化",
+          "地租改正"
+        ],
+        "medium": [
+          "王政復古",
+          "版籍奉還",
+          "五箇条の御誓文"
+        ],
+        "hard": [
+          "王政復古の大号令",
+          "禁門の変",
+          "戊辰の詔"
+        ]
+      }
+    },
+    {
+      "recto": "1867年、天皇中心の新政府の樹立を宣言したできごとを何というか。",
+      "verso": "王政復古の大号令",
+      "explanation": "王政復古の大号令により、天皇を中心とする新政府の樹立が宣言された。",
+      "tags": [
+        "明治維新",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "文明開化",
+          "殖産興業",
+          "廃藩置県"
+        ],
+        "medium": [
+          "大政奉還",
+          "版籍奉還",
+          "五箇条の御誓文"
+        ],
+        "hard": [
+          "尊王攘夷の詔",
+          "王政復古の議定書",
+          "維新の詔勅"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】「政権を朝廷に返すこと」と「天皇中心の新政府樹立を宣言すること」を、それぞれ何というか。",
+      "verso": "大政奉還と王政復古",
+      "explanation": "大政奉還は将軍が政権を返したこと、王政復古は新政府の樹立を宣言したこと。混同しやすいので注意。",
+      "tags": [
+        "piege",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "廃藩置県と地租改正",
+          "開国と鎖国",
+          "富国と強兵"
+        ],
+        "medium": [
+          "版籍奉還と廃藩置県",
+          "王政復古と大政奉還",
+          "五箇条の御誓文と学制"
+        ],
+        "hard": [
+          "大政奉還と版籍奉還",
+          "王政復古と廃藩置県",
+          "御誓文と大号令"
+        ]
+      }
+    },
+    {
+      "recto": "1868年に出された、新政府の政治の方針を示した文書は何か。",
+      "verso": "五箇条の御誓文",
+      "explanation": "1868年の五箇条の御誓文は、公議世論の尊重など新政府の基本方針を示した。",
+      "tags": [
+        "明治維新"
+      ],
+      "distractors": {
+        "easy": [
+          "日本国憲法",
+          "十七条の憲法",
+          "学制"
+        ],
+        "medium": [
+          "大日本帝国憲法",
+          "五榜の掲示",
+          "廃藩置県の詔"
+        ],
+        "hard": [
+          "政体書",
+          "王政復古の大号令",
+          "教育勅語"
+        ]
+      }
+    },
+    {
+      "recto": "1871年、藩を廃止して県を置き、中央集権を進めた改革を何というか。",
+      "verso": "廃藩置県",
+      "explanation": "1871年の廃藩置県により、政府が全国を直接治める中央集権のしくみが整った。",
+      "tags": [
+        "明治維新",
+        "改革"
+      ],
+      "distractors": {
+        "easy": [
+          "文明開化",
+          "参勤交代",
+          "鎖国"
+        ],
+        "medium": [
+          "版籍奉還",
+          "地租改正",
+          "大政奉還"
+        ],
+        "hard": [
+          "府県制",
+          "郡県制の詔",
+          "藩政改革"
+        ]
+      }
+    },
+    {
+      "recto": "廃藩置県に先立ち、藩の土地と人民を天皇に返させた1869年の改革を何というか。",
+      "verso": "版籍奉還",
+      "explanation": "版籍奉還は藩の土地（版）と人民（籍）を天皇に返させた改革で、廃藩置県の前段階。",
+      "tags": [
+        "明治維新",
+        "改革"
+      ],
+      "distractors": {
+        "easy": [
+          "文明開化",
+          "殖産興業",
+          "大政奉還"
+        ],
+        "medium": [
+          "廃藩置県",
+          "地租改正",
+          "王政復古"
+        ],
+        "hard": [
+          "奉還の詔",
+          "知藩事の任命",
+          "郡県奉還"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】藩の土地と人民を天皇に返させた改革と、藩そのものを廃止して県を置いた改革を、順にそれぞれ何というか。",
+      "verso": "版籍奉還と廃藩置県",
+      "explanation": "版籍奉還（1869）で土地と人民を返させ、次に廃藩置県（1871）で藩を廃止した。段階の違いに注意。",
+      "tags": [
+        "comparaison",
+        "改革"
+      ],
+      "distractors": {
+        "easy": [
+          "開国と鎖国",
+          "大政奉還と王政復古",
+          "富国と強兵"
+        ],
+        "medium": [
+          "廃藩置県と版籍奉還",
+          "地租改正と徴兵令",
+          "学制と徴兵令"
+        ],
+        "hard": [
+          "版籍奉還と地租改正",
+          "廃藩置県と府県制",
+          "大政奉還と廃藩置県"
+        ]
+      }
+    },
+    {
+      "recto": "江戸時代の身分制度を改め、すべての国民を平等とした明治政府の方針を何というか。",
+      "verso": "四民平等",
+      "explanation": "四民平等により士農工商の身分制度が改められ、国民は法的に平等とされた。",
+      "tags": [
+        "明治維新",
+        "改革"
+      ],
+      "distractors": {
+        "easy": [
+          "富国強兵",
+          "文明開化",
+          "鎖国"
+        ],
+        "medium": [
+          "殖産興業",
+          "王政復古",
+          "地租改正"
+        ],
+        "hard": [
+          "秩禄処分",
+          "身分解放令",
+          "士族授産"
+        ]
+      }
+    },
+    {
+      "recto": "1873年、土地に課税し、地価に応じて現金で納めさせた税制改革を何というか。",
+      "verso": "地租改正",
+      "explanation": "地租改正により、政府は安定した現金収入を得られるようになった。",
+      "tags": [
+        "改革",
+        "経済"
+      ],
+      "distractors": {
+        "easy": [
+          "文明開化",
+          "廃藩置県",
+          "版籍奉還"
+        ],
+        "medium": [
+          "徴兵令",
+          "殖産興業",
+          "秩禄処分"
+        ],
+        "hard": [
+          "地券制度",
+          "貢租改正",
+          "田畑永代売買令"
+        ]
+      }
+    },
+    {
+      "recto": "1873年に出された、国民に兵役の義務を課した法令を何というか。",
+      "verso": "徴兵令",
+      "explanation": "徴兵令により、身分に関係なく満20歳の男子に兵役の義務が課された。",
+      "tags": [
+        "改革",
+        "軍事"
+      ],
+      "distractors": {
+        "easy": [
+          "学制",
+          "地租改正",
+          "鎖国令"
+        ],
+        "medium": [
+          "廃刀令",
+          "秩禄処分",
+          "国民皆兵の詔"
+        ],
+        "hard": [
+          "徴兵告諭",
+          "壮丁令",
+          "軍役令"
+        ]
+      }
+    },
+    {
+      "recto": "国を豊かにし、強い軍隊をつくるという明治政府の基本方針を四字で何というか。",
+      "verso": "富国強兵",
+      "explanation": "富国強兵は、経済発展（富国）と軍備増強（強兵）を目指す明治政府の中心方針だった。",
+      "tags": [
+        "明治維新",
+        "方針"
+      ],
+      "distractors": {
+        "easy": [
+          "文明開化",
+          "鎖国攘夷",
+          "士農工商"
+        ],
+        "medium": [
+          "殖産興業",
+          "尊王攘夷",
+          "廃藩置県"
+        ],
+        "hard": [
+          "和魂洋才",
+          "脱亜入欧",
+          "興業殖産"
+        ]
+      }
+    },
+    {
+      "recto": "官営工場の建設などで近代産業を育てた、明治政府の経済政策を何というか。",
+      "verso": "殖産興業",
+      "explanation": "殖産興業のもと、富岡製糸場などの官営工場が建てられ、近代産業が育成された。",
+      "tags": [
+        "経済",
+        "近代化"
+      ],
+      "distractors": {
+        "easy": [
+          "文明開化",
+          "鎖国",
+          "四民平等"
+        ],
+        "medium": [
+          "富国強兵",
+          "地租改正",
+          "廃藩置県"
+        ],
+        "hard": [
+          "官業払下げ",
+          "工部省事業",
+          "勧業政策"
+        ]
+      }
+    },
+    {
+      "recto": "明治初期、都市を中心に西洋の文化や生活様式が広まった風潮を何というか。",
+      "verso": "文明開化",
+      "explanation": "文明開化により、洋服・ガス灯・太陽暦など西洋の文化が都市に広まった。",
+      "tags": [
+        "文化",
+        "近代化"
+      ],
+      "distractors": {
+        "easy": [
+          "富国強兵",
+          "尊王攘夷",
+          "鎖国"
+        ],
+        "medium": [
+          "殖産興業",
+          "王政復古",
+          "四民平等"
+        ],
+        "hard": [
+          "脱亜入欧",
+          "欧化政策",
+          "和洋折衷"
+        ]
+      }
+    }
+  ]
+}
