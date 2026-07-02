@@ -325,6 +325,19 @@
       "path": "hggsp/terminale/patrimoine.json",
       "level": "Terminale",
       "theme": "Identifier, protéger et valoriser le patrimoine : enjeux géopolitiques"
+    },
+    {
+      "id": "hggsp-terminale-environnement",
+      "title": "L'environnement, entre exploitation et protection",
+      "emoji": "🌍",
+      "subject": "hggsp",
+      "language": "fr",
+      "courseDescription": "Comprendre comment les sociétés passent de l'exploitation de la nature à sa protection : forêts, climat, développement durable, accords internationaux et le cas des États-Unis.",
+      "cardCount": 20,
+      "version": 1,
+      "path": "hggsp/terminale/environnement.json",
+      "level": "Terminale",
+      "theme": "L'environnement, entre exploitation et protection : un enjeu planétaire"
     }
   ]
 }

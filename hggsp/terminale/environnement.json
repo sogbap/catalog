@@ -1,0 +1,519 @@
+{
+  "id": "hggsp-terminale-environnement",
+  "title": "L'environnement, entre exploitation et protection",
+  "emoji": "🌍",
+  "subject": "hggsp",
+  "courseDescription": "Comprendre comment les sociétés passent de l'exploitation de la nature à sa protection : forêts, climat, développement durable, accords internationaux et le cas des États-Unis.",
+  "lesson": "<style>\n  /* Styles propres aux illustrations SVG : s'adaptent au thème via\n     currentColor (texte) et var(--accent) (couleur de la matière). */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>L'environnement, entre exploitation et protection</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau :</b> Terminale — Spécialité HGGSP<br>\n  <b>Thème 5 :</b> L'environnement, entre exploitation et protection — un enjeu planétaire<br>\n  <b>Axe 1 · Axe 2 · Objet de travail conclusif</b> · environ 24 heures\n</div>\n\n<blockquote>\n  <p><b>Problématique.</b> Comment les sociétés sont-elles passées de l'exploitation de la nature à sa protection, et pourquoi l'environnement est-il devenu un enjeu planétaire&nbsp;?</p>\n</blockquote>\n\n<p>L'<strong>environnement</strong> désigne le milieu dans lequel vivent les sociétés et l'ensemble des relations qu'elles entretiennent avec la <strong>nature</strong>. Longtemps perçu comme une simple <strong>ressource à exploiter</strong>, il est devenu, face aux dégâts et au <strong>dérèglement climatique</strong>, un patrimoine à <strong>protéger</strong> et parfois à <strong>réparer</strong>. Sa gestion est désormais un enjeu <strong>planétaire</strong> et <strong>géopolitique</strong> majeur.</p>\n\n<h2>1 · Qu'est-ce que l'environnement&nbsp;?</h2>\n\n<p>L'environnement est le <strong>cadre de vie</strong> des sociétés&nbsp;: sols, eaux, air, climat, êtres vivants, et les relations que les humains tissent avec eux. La façon de le percevoir a changé&nbsp;: d'une nature à <strong>dominer</strong>, on est passé à une nature à <strong>préserver</strong>.</p>\n\n<p>L'<strong>écologie</strong>, science des relations entre les êtres vivants et leur milieu, naît au XIXe&nbsp;siècle. Elle nourrit une prise de conscience&nbsp;: les activités humaines (industrie, agriculture intensive, énergies fossiles) dégradent l'environnement à l'échelle du globe.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Environnement</strong><br>\n  Milieu de vie d'une société et ensemble de ses relations avec la nature. Il est à la fois une <b>ressource</b> exploitée et un <b>patrimoine</b> à protéger.\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 326\" role=\"img\" aria-label=\"Trois rapports à la nature : exploiter, protéger, réparer\">\n  <defs>\n    <marker id=\"ar-en\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- Niveau 1 : exploiter -->\n  <g>\n    <rect x=\"14\" y=\"8\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"40\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">Exploiter</text>\n    <text x=\"30\" y=\"65\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">Utiliser les ressources naturelles</text>\n  </g>\n  <path d=\"M170,88 L170,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-en)\"/>\n  <!-- Niveau 2 : protéger -->\n  <g>\n    <rect x=\"14\" y=\"110\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"142\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">Protéger</text>\n    <text x=\"30\" y=\"167\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">Préserver les milieux menacés</text>\n  </g>\n  <path d=\"M170,190 L170,210\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-en)\"/>\n  <!-- Niveau 3 : réparer (mise en valeur) -->\n  <g>\n    <rect x=\"14\" y=\"212\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"244\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">Réparer</text>\n    <text x=\"30\" y=\"269\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">Restaurer ce qui est dégradé</text>\n  </g>\n</svg>\n<figcaption>Trois rapports à la nature qui se succèdent dans l'histoire : exploiter, protéger, réparer.</figcaption>\n</figure>\n\n<h2>2 · Axe 1 — Exploiter et protéger une ressource</h2>\n\n<p>Depuis le Néolithique, les sociétés <strong>exploitent</strong> la nature&nbsp;: défrichements, mise en culture, extraction. Mais la <strong>surexploitation</strong> menace les ressources. La <strong>forêt</strong> en est un exemple&nbsp;: bois de chauffage, de construction et de marine.</p>\n\n<p>En <strong>1669</strong>, l'ordonnance de <strong>Colbert</strong> réglemente l'exploitation des forêts royales pour garantir le bois nécessaire à la marine&nbsp;: c'est une gestion <strong>durable</strong> avant l'heure. Protéger une ressource, c'est aussi assurer sa disponibilité future.</p>\n\n<blockquote>\n  <p><strong>Jalon</strong><br>Exploiter et protéger une ressource&nbsp;: la forêt française depuis l'ordonnance de Colbert (1669), entre besoins et conservation.</p>\n</blockquote>\n\n<h2>3 · Axe 2 — Le climat : une approche historique</h2>\n\n<p>Le <strong>climat</strong> n'est pas fixe&nbsp;: il a toujours fluctué et influencé les sociétés. Entre le XIVe et le XIXe&nbsp;siècle, un «&nbsp;<strong>petit âge glaciaire</strong>&nbsp;» (refroidissement) provoque de mauvaises récoltes, des famines et des tensions.</p>\n\n<p>Étudier ces variations passées aide à comprendre le climat actuel. Mais le dérèglement contemporain est <strong>différent</strong>&nbsp;: rapide et surtout d'origine <strong>humaine</strong> (gaz à effet de serre). On parle d'<strong>anthropocène</strong>.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Anthropocène</strong><br>\n  Nouvelle ère géologique où l'<b>activité humaine</b> devient la principale force de transformation de la planète (climat, sols, biodiversité).\n</div>\n\n<blockquote>\n  <p><strong>Jalon</strong><br>Fluctuations climatiques et sociétés&nbsp;: le petit âge glaciaire (XIVe-XIXe&nbsp;siècle), une histoire du climat qui éclaire le présent.</p>\n</blockquote>\n\n<h2>4 · Le dérèglement climatique et la gouvernance mondiale</h2>\n\n<p>Depuis les années 1970, la dégradation de l'environnement devient un <strong>enjeu international</strong>. Le <strong>GIEC</strong> (créé en 1988) alerte sur un réchauffement d'origine humaine, aux conséquences planétaires (montée des eaux, événements extrêmes).</p>\n\n<p>Les États tentent de <strong>coopérer</strong>&nbsp;: Sommet de la Terre de <strong>Rio</strong> (1992) et développement durable, <strong>protocole de Kyoto</strong> (1997), <strong>Accord de Paris</strong> (2015, limiter le réchauffement sous 2&nbsp;°C). Mais les intérêts nationaux (croissance, énergie) freinent l'action commune.</p>\n\n<blockquote>\n  <p><strong>Jalon</strong><br>Le dérèglement climatique actuel&nbsp;: de Rio (1992) à l'Accord de Paris (2015), une gouvernance mondiale nécessaire mais difficile.</p>\n</blockquote>\n\n<h2>5 · Objet de travail conclusif — Les États-Unis et l'environnement</h2>\n\n<p>Les États-Unis ont <strong>inventé</strong> la protection de la nature&nbsp;: <strong>Yellowstone</strong>, premier parc national au monde (<strong>1872</strong>), symbole d'une conscience environnementale précoce et d'une «&nbsp;wilderness&nbsp;» à préserver.</p>\n\n<p>Mais ils sont aussi de gros <strong>émetteurs</strong> de gaz à effet de serre, aux positions <strong>contrastées</strong>&nbsp;: retrait de l'Accord de Paris en 2017, puis réintégration en 2021. Le <strong>fédéralisme</strong> laisse des États comme la Californie très volontaristes face à un pouvoir fédéral fluctuant.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Développement durable</strong><br>\n  Développement qui répond aux besoins du présent <b>sans compromettre</b> ceux des générations futures. Il concilie économie, société et environnement (concept popularisé à Rio, 1992).\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Exploiter et protéger : deux rapports à la nature\">\n  <!-- Colonne 1 : exploiter -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">Exploiter</text>\n  <text x=\"87\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12.5\" font-weight=\"700\">La nature-ressource</text>\n  <text x=\"26\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Agriculture, industrie</text>\n  <text x=\"26\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Énergie, matières premières</text>\n  <text x=\"26\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Croissance économique</text>\n  <!-- Colonne 2 : protéger (mise en valeur) -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">Protéger</text>\n  <text x=\"253\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12.5\" font-weight=\"700\">La nature-patrimoine</text>\n  <text x=\"192\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Parcs et réserves</text>\n  <text x=\"192\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Accords climatiques</text>\n  <text x=\"192\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Transmettre la planète</text>\n</svg>\n<figcaption>Deux rapports à la nature en tension permanente : l'usage des ressources et leur préservation.</figcaption>\n</figure>\n\n<h2>L'essentiel</h2>\n\n<h3>Frise chronologique</h3>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 366\" role=\"img\" aria-label=\"Frise de l'exploitation et de la protection de l'environnement\">\n  <line x1=\"74\" y1=\"22\" x2=\"74\" y2=\"348\" style=\"stroke:var(--accent);stroke-width:3;stroke-linecap:round\"/>\n  <!-- 1669 -->\n  <circle cx=\"74\" cy=\"40\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"45\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1669</text>\n  <text x=\"90\" y=\"45\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Ordonnance de Colbert sur les forêts</text>\n  <!-- 1872 -->\n  <circle cx=\"74\" cy=\"101\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"106\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1872</text>\n  <text x=\"90\" y=\"106\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Yellowstone, 1er parc national</text>\n  <!-- 1972 -->\n  <circle cx=\"74\" cy=\"162\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"167\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1972</text>\n  <text x=\"90\" y=\"167\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Sommet de Stockholm sur l'environnement</text>\n  <!-- 1992 -->\n  <circle cx=\"74\" cy=\"223\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"228\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1992</text>\n  <text x=\"90\" y=\"228\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Sommet de la Terre de Rio</text>\n  <!-- 1997 -->\n  <circle cx=\"74\" cy=\"284\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"289\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1997</text>\n  <text x=\"90\" y=\"289\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Protocole de Kyoto</text>\n  <!-- 2015 -->\n  <circle cx=\"74\" cy=\"345\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"350\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">2015</text>\n  <text x=\"90\" y=\"350\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Accord de Paris sur le climat (COP21)</text>\n</svg>\n</figure>\n\n<h3>Dates clés</h3>\n\n<table>\n  <tr><th>Date</th><th>Repère</th></tr>\n  <tr><td>1669</td><td>Ordonnance de Colbert : gestion durable des forêts royales</td></tr>\n  <tr><td>1872</td><td>Yellowstone, premier parc national au monde (États-Unis)</td></tr>\n  <tr><td>1972</td><td>Sommet de Stockholm : 1re conférence de l'ONU sur l'environnement</td></tr>\n  <tr><td>1992</td><td>Sommet de la Terre de Rio : le développement durable</td></tr>\n  <tr><td>1997</td><td>Protocole de Kyoto : réduire les gaz à effet de serre</td></tr>\n  <tr><td>2015</td><td>Accord de Paris : limiter le réchauffement sous 2 °C</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition</th></tr>\n  <tr><td>Environnement</td><td>Milieu de vie d'une société et ses relations avec la nature.</td></tr>\n  <tr><td>Écologie</td><td>Science des relations entre les êtres vivants et leur milieu.</td></tr>\n  <tr><td>Développement durable</td><td>Répondre aux besoins présents sans compromettre l'avenir.</td></tr>\n  <tr><td>Anthropocène</td><td>Ère où l'humain est la principale force qui transforme la planète.</td></tr>\n  <tr><td>Dérèglement climatique</td><td>Modification rapide du climat d'origine humaine.</td></tr>\n  <tr><td>Biodiversité</td><td>Diversité des espèces et des milieux vivants.</td></tr>\n</table>\n\n<h3>Lieux et acteurs clés</h3>\n\n<table>\n  <tr><th>Lieu / acteur</th><th>Rôle</th></tr>\n  <tr><td>Colbert</td><td>Réglemente les forêts françaises dès 1669.</td></tr>\n  <tr><td>Yellowstone</td><td>Premier parc national (1872), conscience environnementale.</td></tr>\n  <tr><td>Le GIEC</td><td>Expertise scientifique mondiale sur le climat (depuis 1988).</td></tr>\n  <tr><td>Rio, Kyoto, Paris</td><td>Grands rendez-vous de la gouvernance climatique.</td></tr>\n  <tr><td>Les États-Unis</td><td>Puissance aux positions contrastées sur le climat.</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Ne pas opposer naïvement «&nbsp;exploiter&nbsp;» et «&nbsp;protéger&nbsp;»&nbsp;: toutes les sociétés exploitent la nature pour vivre. L'enjeu n'est pas de tout arrêter, mais de rendre l'exploitation <b>durable</b>. Et attention&nbsp;: la protection n'est pas récente — Colbert (1669) et Yellowstone (1872) le montrent, elle a une longue histoire.\n</div>\n\n<blockquote>\n  <p>Comprendre l'environnement et agir suppose de produire, valider et partager des <strong>savoirs</strong>. Mais la connaissance est aussi un <strong>pouvoir</strong> et un enjeu de <strong>puissance</strong>&nbsp;: c'est l'objet du dernier thème.</p>\n</blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "L'environnement, entre exploitation et protection : un enjeu planétaire",
+  "cards": [
+    {
+      "recto": "Qu'est-ce que l'environnement ?",
+      "verso": "Le milieu de vie d'une société et l'ensemble de ses relations avec la nature",
+      "explanation": "L'environnement englobe sols, eaux, air, climat et êtres vivants, ainsi que les liens que les humains tissent avec eux.",
+      "tags": [
+        "notion",
+        "definition"
+      ],
+      "distractors": {
+        "easy": [
+          "L'ensemble des lois d'un pays",
+          "Le territoire d'un État uniquement",
+          "La population d'une région"
+        ],
+        "medium": [
+          "Les seules ressources minières d'un pays",
+          "Le climat pris isolément",
+          "L'économie verte d'un État"
+        ],
+        "hard": [
+          "Les espaces protégés exclusivement",
+          "La faune sauvage sans les milieux",
+          "Les zones urbaines uniquement"
+        ]
+      }
+    },
+    {
+      "recto": "Que désigne l'écologie en tant que science ?",
+      "verso": "La science des relations entre les êtres vivants et leur milieu",
+      "explanation": "Née au XIXe siècle, l'écologie étudie les interactions entre organismes et environnement ; elle nourrit la prise de conscience environnementale.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Un parti politique",
+          "Une religion de la nature",
+          "Une technique agricole"
+        ],
+        "medium": [
+          "La science du climat uniquement",
+          "L'étude des seuls animaux",
+          "La gestion des déchets"
+        ],
+        "hard": [
+          "La science des sols exclusivement",
+          "L'étude des énergies renouvelables",
+          "La géographie des villes"
+        ]
+      }
+    },
+    {
+      "recto": "Comment le rapport des sociétés à la nature a-t-il évolué ?",
+      "verso": "D'une nature à exploiter, on est passé à une nature à protéger, puis à réparer",
+      "explanation": "Longtemps ressource à dominer, la nature est devenue un patrimoine à préserver, et l'on cherche aujourd'hui à restaurer les milieux dégradés.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Il n'a jamais changé au cours de l'histoire",
+          "On est passé de la protection à la destruction",
+          "La nature a toujours été ignorée"
+        ],
+        "medium": [
+          "On exploite de moins en moins la nature depuis l'Antiquité",
+          "La protection a précédé toute exploitation",
+          "Les sociétés ont cessé toute exploitation"
+        ],
+        "hard": [
+          "Le rapport s'est limité à une exploitation constante",
+          "La réparation a précédé la protection",
+          "La nature n'est protégée que depuis 2015"
+        ]
+      }
+    },
+    {
+      "recto": "Que fait l'ordonnance de Colbert en 1669 ?",
+      "verso": "Elle réglemente l'exploitation des forêts royales pour préserver le bois",
+      "explanation": "Colbert encadre l'usage des forêts afin d'assurer le bois de marine : une gestion durable avant l'heure.",
+      "tags": [
+        "date"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle crée les premiers parcs nationaux",
+          "Elle interdit toute agriculture",
+          "Elle fonde l'UNESCO"
+        ],
+        "medium": [
+          "Elle instaure l'Accord de Paris",
+          "Elle protège les océans",
+          "Elle crée le GIEC"
+        ],
+        "hard": [
+          "Elle nationalise toutes les forêts privées",
+          "Elle interdit la chasse en France",
+          "Elle crée les réserves naturelles marines"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi réglementer l'exploitation d'une ressource comme la forêt ?",
+      "verso": "Pour éviter sa surexploitation et assurer sa disponibilité future",
+      "explanation": "Sans règles, la surexploitation épuise la ressource ; la gérer durablement garantit son renouvellement.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Pour augmenter immédiatement la production",
+          "Pour interdire tout usage du bois",
+          "Pour vendre la forêt à l'étranger"
+        ],
+        "medium": [
+          "Pour supprimer toute activité humaine",
+          "Pour transformer la forêt en ville",
+          "Pour réserver la forêt aux touristes"
+        ],
+        "hard": [
+          "Pour privatiser toutes les ressources",
+          "Pour empêcher tout reboisement",
+          "Pour taxer uniquement les agriculteurs"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on le « petit âge glaciaire » ?",
+      "verso": "Un refroidissement du climat entre le XIVe et le XIXe siècle",
+      "explanation": "Ce refroidissement a provoqué de mauvaises récoltes, des famines et des tensions : le climat a toujours influencé les sociétés.",
+      "tags": [
+        "notion",
+        "histoire"
+      ],
+      "distractors": {
+        "easy": [
+          "Le réchauffement actuel du climat",
+          "Une période de sécheresse au Sahara",
+          "L'ère des dinosaures"
+        ],
+        "medium": [
+          "Le dérèglement climatique du XXIe siècle",
+          "Une glaciation de l'ère préhistorique",
+          "Un réchauffement médiéval mondial"
+        ],
+        "hard": [
+          "Un refroidissement dû aux gaz à effet de serre",
+          "Une canicule du XVIIIe siècle",
+          "Le réchauffement de l'anthropocène"
+        ]
+      }
+    },
+    {
+      "recto": "Que désigne l'anthropocène ?",
+      "verso": "Une ère où l'activité humaine est la principale force qui transforme la planète",
+      "explanation": "Le terme souligne que les humains modifient désormais le climat, les sols et la biodiversité à l'échelle géologique.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Une ère sans présence humaine",
+          "Une période glaciaire naturelle",
+          "Un continent disparu"
+        ],
+        "medium": [
+          "Une ère dominée par les volcans",
+          "Une période où la nature domine l'humain",
+          "Une ère préhistorique"
+        ],
+        "hard": [
+          "Une ère définie par la seule tectonique",
+          "Une période antérieure à l'agriculture",
+          "Une ère où le climat est stable"
+        ]
+      }
+    },
+    {
+      "recto": "Quel organisme, créé en 1988, expertise le climat mondial ?",
+      "verso": "Le GIEC",
+      "explanation": "Le Groupe d'experts intergouvernemental sur l'évolution du climat compile les recherches et alerte sur le réchauffement d'origine humaine.",
+      "tags": [
+        "acteur",
+        "date"
+      ],
+      "distractors": {
+        "easy": [
+          "L'OTAN",
+          "Le FMI",
+          "L'OMC"
+        ],
+        "medium": [
+          "L'UNESCO",
+          "L'OMS",
+          "Le Conseil de sécurité"
+        ],
+        "hard": [
+          "Greenpeace",
+          "Le WWF",
+          "L'Agence internationale de l'énergie"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la principale cause du dérèglement climatique actuel ?",
+      "verso": "Les émissions humaines de gaz à effet de serre",
+      "explanation": "La combustion des énergies fossiles rejette du CO2 et d'autres gaz qui réchauffent l'atmosphère : le dérèglement est d'origine humaine.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "L'activité des volcans uniquement",
+          "La rotation de la Terre",
+          "Les marées océaniques"
+        ],
+        "medium": [
+          "Les variations naturelles du Soleil seules",
+          "La fonte naturelle des pôles",
+          "Les cycles glaciaires naturels"
+        ],
+        "hard": [
+          "Les seuls incendies naturels",
+          "La dérive des continents",
+          "Le champ magnétique terrestre"
+        ]
+      }
+    },
+    {
+      "recto": "Que retient-on du Sommet de la Terre de Rio (1992) ?",
+      "verso": "Il popularise le développement durable et lance la coopération climatique",
+      "explanation": "Rio marque une étape : les États reconnaissent l'urgence environnementale et adoptent le principe du développement durable.",
+      "tags": [
+        "date"
+      ],
+      "distractors": {
+        "easy": [
+          "Il interdit tout commerce international",
+          "Il crée l'ONU",
+          "Il supprime les frontières"
+        ],
+        "medium": [
+          "Il fonde l'Union européenne",
+          "Il crée le premier parc national",
+          "Il lance la conquête spatiale"
+        ],
+        "hard": [
+          "Il instaure immédiatement une taxe carbone mondiale",
+          "Il interdit les énergies fossiles",
+          "Il crée la Cour pénale internationale"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que le développement durable ?",
+      "verso": "Un développement qui répond aux besoins présents sans compromettre ceux des générations futures",
+      "explanation": "Il cherche à concilier trois piliers : l'économie, la société et l'environnement.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Une croissance économique sans limite",
+          "L'arrêt de toute activité industrielle",
+          "Le retour à une vie sans technologie"
+        ],
+        "medium": [
+          "Un développement réservé aux pays riches",
+          "Une croissance qui ignore l'environnement",
+          "Un développement uniquement urbain"
+        ],
+        "hard": [
+          "Un modèle qui privilégie l'économie seule",
+          "Une décroissance imposée à tous",
+          "Un développement sans dimension sociale"
+        ]
+      }
+    },
+    {
+      "recto": "Quel protocole de 1997 engage à réduire les gaz à effet de serre ?",
+      "verso": "Le protocole de Kyoto",
+      "explanation": "Kyoto fixe des objectifs chiffrés de réduction des émissions pour les pays développés.",
+      "tags": [
+        "date"
+      ],
+      "distractors": {
+        "easy": [
+          "L'Accord de Paris",
+          "La Convention de La Haye",
+          "Le Traité de Rome"
+        ],
+        "medium": [
+          "Le Sommet de Stockholm",
+          "Le protocole de Montréal",
+          "La Charte de l'ONU"
+        ],
+        "hard": [
+          "Le Sommet de la Terre de Rio",
+          "L'ordonnance de Colbert",
+          "La Convention de Montego Bay"
+        ]
+      }
+    },
+    {
+      "recto": "Quel est l'objectif de l'Accord de Paris (2015) ?",
+      "verso": "Limiter le réchauffement climatique bien en dessous de 2 °C",
+      "explanation": "Adopté à la COP21, il engage l'ensemble des pays à contenir le réchauffement, idéalement sous 1,5 °C.",
+      "tags": [
+        "date"
+      ],
+      "distractors": {
+        "easy": [
+          "Interdire tous les voyages en avion",
+          "Supprimer les frontières européennes",
+          "Créer une armée mondiale"
+        ],
+        "medium": [
+          "Réchauffer volontairement la planète",
+          "Doubler les émissions de CO2",
+          "Fermer tous les parcs nationaux"
+        ],
+        "hard": [
+          "Fixer le réchauffement à 5 °C maximum",
+          "Réserver l'effort aux seuls pays pauvres",
+          "Abandonner toute énergie renouvelable"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que Yellowstone, créé en 1872 ?",
+      "verso": "Le premier parc national au monde",
+      "explanation": "Aux États-Unis, Yellowstone incarne une conscience environnementale précoce et l'idée de préserver une nature « sauvage ».",
+      "tags": [
+        "date",
+        "lieu"
+      ],
+      "distractors": {
+        "easy": [
+          "La première ville industrielle",
+          "Le premier port américain",
+          "La première réserve d'or"
+        ],
+        "medium": [
+          "Le premier site classé par l'UNESCO",
+          "La première centrale nucléaire",
+          "Le premier barrage américain"
+        ],
+        "hard": [
+          "La première réserve marine mondiale",
+          "Le premier parc national français",
+          "La première forêt classée par Colbert"
+        ]
+      }
+    },
+    {
+      "recto": "Comment se caractérisent les positions américaines sur le climat ?",
+      "verso": "Elles sont contrastées : retrait de l'Accord de Paris en 2017, puis réintégration en 2021",
+      "explanation": "Gros émetteurs de CO2, les États-Unis oscillent selon les présidences entre engagement et retrait.",
+      "tags": [
+        "fait"
+      ],
+      "distractors": {
+        "easy": [
+          "Elles sont constamment favorables au climat",
+          "Ils n'ont jamais signé d'accord climatique",
+          "Ils imposent le climat au reste du monde"
+        ],
+        "medium": [
+          "Ils ont toujours refusé tout accord",
+          "Ils dirigent seuls le GIEC",
+          "Ils ont créé l'Accord de Paris"
+        ],
+        "hard": [
+          "Ils ont quitté définitivement toute coopération",
+          "Ils émettent très peu de gaz à effet de serre",
+          "Ils ont interdit les énergies fossiles en 2017"
+        ]
+      }
+    },
+    {
+      "recto": "Comment le fédéralisme influence-t-il la politique climatique américaine ?",
+      "verso": "Des États comme la Californie peuvent être très volontaristes malgré un pouvoir fédéral fluctuant",
+      "explanation": "Le partage des compétences permet à certains États de mener des politiques ambitieuses indépendamment de Washington.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Il interdit aux États toute politique propre",
+          "Il centralise toutes les décisions à Washington",
+          "Il supprime les États fédérés"
+        ],
+        "medium": [
+          "Il oblige tous les États à polluer davantage",
+          "Il confie le climat à la seule Californie",
+          "Il empêche toute action locale"
+        ],
+        "hard": [
+          "Il rend les États fédérés sans aucun pouvoir",
+          "Il impose une politique identique partout",
+          "Il réserve le climat au seul président"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que la biodiversité ?",
+      "verso": "La diversité des espèces vivantes et des milieux",
+      "explanation": "La biodiversité désigne la variété du vivant ; sa réduction est l'une des grandes menaces environnementales actuelles.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La quantité totale d'eau sur Terre",
+          "Le nombre d'habitants d'un pays",
+          "La diversité des langues humaines"
+        ],
+        "medium": [
+          "La variété des ressources minières",
+          "La diversité des climats uniquement",
+          "Le nombre de parcs nationaux"
+        ],
+        "hard": [
+          "La diversité des seules plantes cultivées",
+          "La variété des paysages urbains",
+          "Le nombre d'espèces domestiques uniquement"
+        ]
+      }
+    },
+    {
+      "recto": "Que représente le Sommet de Stockholm (1972) ?",
+      "verso": "La première conférence de l'ONU sur l'environnement",
+      "explanation": "Stockholm marque l'entrée de l'environnement dans l'agenda international.",
+      "tags": [
+        "date"
+      ],
+      "distractors": {
+        "easy": [
+          "Le premier parc national",
+          "La création de l'ONU",
+          "Le premier vol spatial"
+        ],
+        "medium": [
+          "Le premier accord climatique contraignant",
+          "La création du GIEC",
+          "Le Sommet de la Terre de Rio"
+        ],
+        "hard": [
+          "La signature du protocole de Kyoto",
+          "La création de l'UNESCO",
+          "L'ordonnance sur les forêts"
+        ]
+      }
+    },
+    {
+      "recto": "Faut-il opposer « exploiter » et « protéger » l'environnement ?",
+      "verso": "Non : toutes les sociétés exploitent la nature ; l'enjeu est de le faire durablement",
+      "explanation": "Le piège est de croire qu'il faut cesser toute exploitation. Vivre suppose d'exploiter la nature — l'objectif est une exploitation durable. De plus, la protection n'est pas récente (Colbert, Yellowstone).",
+      "tags": [
+        "piege"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, il faut cesser toute exploitation de la nature",
+          "Oui, protéger signifie ne rien utiliser",
+          "Oui, l'exploitation est toujours interdite"
+        ],
+        "medium": [
+          "Oui, exploiter et protéger n'ont aucun lien",
+          "Oui, la protection date seulement de 2015",
+          "Oui, seuls les pays riches exploitent la nature"
+        ],
+        "hard": [
+          "Oui, la protection est incompatible avec toute activité",
+          "Non, car protéger signifie exploiter davantage",
+          "Oui, la gestion durable est impossible"
+        ]
+      }
+    },
+    {
+      "recto": "Exploiter ou protéger l'environnement : quelle différence ?",
+      "verso": "Exploiter, c'est utiliser les ressources ; protéger, c'est préserver les milieux pour l'avenir",
+      "explanation": "Les deux logiques s'opposent en apparence mais doivent se concilier dans le développement durable.",
+      "tags": [
+        "comparaison"
+      ],
+      "distractors": {
+        "easy": [
+          "Exploiter et protéger sont exactement identiques",
+          "Exploiter, c'est préserver ; protéger, c'est détruire",
+          "Exploiter concerne l'eau, protéger l'air"
+        ],
+        "medium": [
+          "Exploiter vise l'avenir, protéger le passé",
+          "Exploiter, c'est reboiser ; protéger, c'est raser",
+          "Exploiter est mondial, protéger est local"
+        ],
+        "hard": [
+          "Exploiter, c'est conserver ; protéger, c'est consommer",
+          "Exploiter relève de l'ONU, protéger des États seuls",
+          "Exploiter et protéger ne concernent pas la nature"
+        ]
+      }
+    }
+  ]
+}
