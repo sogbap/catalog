@@ -338,6 +338,19 @@
       "path": "hggsp/terminale/environnement.json",
       "level": "Terminale",
       "theme": "L'environnement, entre exploitation et protection : un enjeu planétaire"
+    },
+    {
+      "id": "hggsp-terminale-connaissance",
+      "title": "L'enjeu de la connaissance",
+      "emoji": "💡",
+      "subject": "hggsp",
+      "language": "fr",
+      "courseDescription": "Comprendre pourquoi produire, diffuser et maîtriser la connaissance est un enjeu politique, social et géopolitique : de l'imprimerie au cyberespace, entre bien commun et arme de puissance.",
+      "cardCount": 20,
+      "version": 1,
+      "path": "hggsp/terminale/connaissance.json",
+      "level": "Terminale",
+      "theme": "L'enjeu de la connaissance : produire, diffuser et maîtriser le savoir"
     }
   ]
 }
