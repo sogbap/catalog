@@ -299,6 +299,19 @@
       "path": "hggsp/terminale/guerre-paix.json",
       "level": "Terminale",
       "theme": "Faire la guerre, faire la paix : formes de conflits et modes de résolution"
+    },
+    {
+      "id": "hggsp-terminale-histoire-memoires",
+      "title": "Histoire et mémoires",
+      "emoji": "🕯️",
+      "subject": "hggsp",
+      "language": "fr",
+      "courseDescription": "Distinguer histoire et mémoires, comprendre les mémoires plurielles des conflits, la justice internationale et le cas de la guerre d'Algérie.",
+      "cardCount": 20,
+      "version": 1,
+      "path": "hggsp/terminale/histoire-memoires.json",
+      "level": "Terminale",
+      "theme": "Histoire et mémoires"
     }
   ]
 }

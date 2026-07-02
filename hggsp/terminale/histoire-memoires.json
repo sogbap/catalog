@@ -1,0 +1,525 @@
+{
+  "id": "hggsp-terminale-histoire-memoires",
+  "title": "Histoire et mémoires",
+  "emoji": "🕯️",
+  "subject": "hggsp",
+  "courseDescription": "Distinguer histoire et mémoires, comprendre les mémoires plurielles des conflits, la justice internationale et le cas de la guerre d'Algérie.",
+  "lesson": "<style>\n  /* Styles propres aux illustrations SVG : s'adaptent au thème via\n     currentColor (texte) et var(--accent) (couleur de la matière). */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Histoire et mémoires</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau :</b> Terminale — Spécialité HGGSP<br>\n  <b>Thème 3 :</b> Histoire et mémoires<br>\n  <b>Axe 1 · Axe 2 · Objet de travail conclusif</b> · environ 24 heures\n</div>\n\n<blockquote>\n  <p><b>Problématique.</b> En quoi l'histoire se distingue-t-elle des mémoires, et comment leurs rapports nourrissent-ils la justice et le débat public&nbsp;?</p>\n</blockquote>\n\n<p>Face à un passé douloureux, les sociétés gardent des <strong>mémoires</strong> multiples, faites de souvenirs et d'émotions. L'<strong>histoire</strong>, elle, cherche à comprendre par une démarche <strong>critique</strong>. Mémoires et histoire dialoguent et parfois s'affrontent, notamment quand il s'agit de <strong>juger</strong> les crimes ou de reconnaître les victimes&nbsp;: la guerre d'Algérie en offre un exemple vif.</p>\n\n<h2>1 · Histoire et mémoire(s) : quelles différences&nbsp;?</h2>\n\n<p>La <strong>mémoire</strong> est le souvenir qu'un individu ou un groupe garde du passé&nbsp;: elle est <strong>subjective</strong>, <strong>affective</strong> et <strong>sélective</strong>. Il existe donc des mémoires <strong>plurielles</strong>, parfois concurrentes.</p>\n\n<p>L'<strong>histoire</strong> est une <strong>discipline scientifique</strong>&nbsp;: l'historien analyse des <strong>sources</strong> avec méthode et esprit critique pour comprendre et expliquer. Son rôle n'est ni de commémorer, ni de juger.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Mémoire</strong><br>\n  Ensemble des souvenirs qu'un groupe garde du passé. <b>Subjective et sélective</b>, elle exprime une identité et des émotions&nbsp;: il existe des mémoires plurielles d'un même événement.\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 326\" role=\"img\" aria-label=\"Du passé vécu à sa reconnaissance\">\n  <defs>\n    <marker id=\"ar-hm\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- Niveau 1 : les mémoires (mise en valeur) -->\n  <g>\n    <rect x=\"14\" y=\"8\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"40\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">Les mémoires</text>\n    <text x=\"30\" y=\"65\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">Témoins, émotions, récits pluriels</text>\n  </g>\n  <path d=\"M170,88 L170,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-hm)\"/>\n  <!-- Niveau 2 : l'histoire -->\n  <g>\n    <rect x=\"14\" y=\"110\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"142\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">L'histoire</text>\n    <text x=\"30\" y=\"167\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">L'historien analyse les sources avec méthode</text>\n  </g>\n  <path d=\"M170,190 L170,210\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-hm)\"/>\n  <!-- Niveau 3 : la justice et la reconnaissance -->\n  <g>\n    <rect x=\"14\" y=\"212\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"244\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">La justice et la reconnaissance</text>\n    <text x=\"30\" y=\"269\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">Juger les crimes, reconnaître les victimes</text>\n  </g>\n</svg>\n<figcaption>Du passé vécu (mémoires) à son explication (histoire) puis à sa reconnaissance (justice).</figcaption>\n</figure>\n\n<h2>2 · Axe 1 — Histoire et mémoires de la Seconde Guerre mondiale</h2>\n\n<p>Après 1945, la France cultive une mémoire <strong>résistancialiste</strong>&nbsp;: le mythe d'une nation massivement résistante, qui <strong>occulte</strong> la collaboration et le rôle de <strong>Vichy</strong>. Les mémoires des <strong>déportés juifs</strong> restent longtemps marginalisées.</p>\n\n<p>À partir des années 1970, le travail des <strong>historiens</strong> (notamment l'Américain <strong>Robert Paxton</strong>) brise ce mythe. En <strong>1995</strong>, Jacques Chirac reconnaît la <strong>responsabilité de l'État français</strong> dans la déportation des Juifs.</p>\n\n<blockquote>\n  <p><strong>Jalon</strong><br>Histoire et mémoires de la Seconde Guerre mondiale en France&nbsp;: du mythe résistancialiste à la reconnaissance de la responsabilité de Vichy (discours du Vél d'Hiv, 1995).</p>\n</blockquote>\n\n<h2>3 · Des mémoires plurielles et le rôle de l'historien</h2>\n\n<p>Un même événement engendre des <strong>mémoires concurrentes</strong>&nbsp;: résistants, déportés, victimes juives, prisonniers… chacun en garde un souvenir différent. Ces mémoires peuvent devenir des enjeux <strong>politiques</strong> et <strong>identitaires</strong>.</p>\n\n<p>L'<strong>historien</strong> intervient comme un <strong>tiers critique</strong>&nbsp;: il confronte les sources, replace les faits dans leur contexte et distingue le <strong>savoir</strong> de l'émotion. Henry Rousso a ainsi analysé le «&nbsp;<strong>syndrome de Vichy</strong>&nbsp;», c'est-à-dire l'évolution de la mémoire française.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Histoire</strong><br>\n  Discipline qui étudie le passé par une <b>démarche critique</b> à partir de sources. L'historien cherche à comprendre et expliquer&nbsp;; il ne commémore ni ne juge.\n</div>\n\n<blockquote>\n  <p><strong>Jalon</strong><br>Le travail de l'historien face aux mémoires plurielles et concurrentes&nbsp;: distinguer le savoir critique de la mémoire vécue (Paxton, Rousso).</p>\n</blockquote>\n\n<h2>4 · Axe 2 — Histoire, mémoire et justice : juger les crimes</h2>\n\n<p>Juger les crimes de masse fonde la <strong>justice internationale</strong>. Le procès de <strong>Nuremberg</strong> (1945-1946) crée la notion de <strong>crime contre l'humanité</strong>, jugé <strong>imprescriptible</strong>. Le procès <strong>Eichmann</strong> (1961) puis, en France, le procès <strong>Barbie</strong> (1987) prolongent cette exigence.</p>\n\n<p>Après les génocides des années 1990, des <strong>tribunaux pénaux internationaux</strong> (ex-Yougoslavie, Rwanda) sont créés, puis une <strong>Cour pénale internationale</strong> permanente (CPI, Statut de Rome, 1998). Juger, c'est aussi établir des faits qui nourrissent l'histoire et la mémoire.</p>\n\n<blockquote>\n  <p><strong>Jalon</strong><br>Juger les crimes contre l'humanité&nbsp;: de Nuremberg (1945) à la Cour pénale internationale (1998), une justice qui éclaire histoire et mémoires.</p>\n</blockquote>\n\n<h2>5 · Objet de travail conclusif — Histoire et mémoires de la guerre d'Algérie</h2>\n\n<p>La <strong>guerre d'Algérie</strong> (1954-1962) a longtemps été un <strong>tabou</strong> en France, désignée comme de simples «&nbsp;opérations de maintien de l'ordre&nbsp;» jusqu'en <strong>1999</strong>. Elle laisse des mémoires <strong>vives et opposées</strong>.</p>\n\n<p>Coexistent les mémoires des <strong>pieds-noirs</strong>, des <strong>harkis</strong>, des <strong>appelés</strong>, des <strong>immigrés algériens</strong> et des <strong>nationalistes du FLN</strong>. Le travail des historiens et l'ouverture des <strong>archives</strong> permettent peu à peu d'apaiser, sans effacer, ces blessures mémorielles.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Crime contre l'humanité</strong><br>\n  Atteinte grave et systématique commise contre des populations civiles (génocide, déportation…). Défini à Nuremberg, il est <b>imprescriptible</b>&nbsp;: il peut être jugé sans limite de temps.\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Mémoire et histoire : deux rapports au passé\">\n  <!-- Colonne 1 : mémoire -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">Mémoire</text>\n  <text x=\"87\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12.5\" font-weight=\"700\">Le passé vécu</text>\n  <text x=\"26\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Subjective, affective</text>\n  <text x=\"26\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Plurielle, sélective</text>\n  <text x=\"26\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Identité d'un groupe</text>\n  <!-- Colonne 2 : histoire (mise en valeur) -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">Histoire</text>\n  <text x=\"253\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12.5\" font-weight=\"700\">Le passé étudié</text>\n  <text x=\"192\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Critique, méthodique</text>\n  <text x=\"192\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Fondée sur les sources</text>\n  <text x=\"192\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Cherche à expliquer</text>\n</svg>\n<figcaption>Mémoire et histoire : deux rapports complémentaires mais distincts au passé.</figcaption>\n</figure>\n\n<h2>L'essentiel</h2>\n\n<h3>Frise chronologique</h3>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 366\" role=\"img\" aria-label=\"Frise de la justice et des mémoires\">\n  <line x1=\"74\" y1=\"22\" x2=\"74\" y2=\"348\" style=\"stroke:var(--accent);stroke-width:3;stroke-linecap:round\"/>\n  <!-- 1945 -->\n  <circle cx=\"74\" cy=\"40\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"45\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1945</text>\n  <text x=\"90\" y=\"45\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Procès de Nuremberg</text>\n  <!-- 1961 -->\n  <circle cx=\"74\" cy=\"101\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"106\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1961</text>\n  <text x=\"90\" y=\"106\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Procès Eichmann à Jérusalem</text>\n  <!-- 1987 -->\n  <circle cx=\"74\" cy=\"162\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"167\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1987</text>\n  <text x=\"90\" y=\"167\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Procès Barbie (1er en France)</text>\n  <!-- 1995 -->\n  <circle cx=\"74\" cy=\"223\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"228\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1995</text>\n  <text x=\"90\" y=\"228\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Discours du Vél d'Hiv (Chirac)</text>\n  <!-- 1998 -->\n  <circle cx=\"74\" cy=\"284\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"289\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1998</text>\n  <text x=\"90\" y=\"289\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">Statut de Rome : création de la CPI</text>\n  <!-- 1999 -->\n  <circle cx=\"74\" cy=\"345\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"350\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1999</text>\n  <text x=\"90\" y=\"350\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">La France reconnaît la « guerre d'Algérie »</text>\n</svg>\n</figure>\n\n<h3>Dates clés</h3>\n\n<table>\n  <tr><th>Date</th><th>Repère</th></tr>\n  <tr><td>1945-1946</td><td>Procès de Nuremberg : naissance du crime contre l'humanité</td></tr>\n  <tr><td>1954-1962</td><td>Guerre d'Algérie</td></tr>\n  <tr><td>1961</td><td>Procès Eichmann à Jérusalem</td></tr>\n  <tr><td>1987</td><td>Procès Barbie : 1er procès français pour crime contre l'humanité</td></tr>\n  <tr><td>1995</td><td>Chirac reconnaît la responsabilité de l'État français (Vél d'Hiv)</td></tr>\n  <tr><td>1998</td><td>Statut de Rome : création de la Cour pénale internationale</td></tr>\n  <tr><td>1999</td><td>La France reconnaît officiellement le terme « guerre d'Algérie »</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition</th></tr>\n  <tr><td>Mémoire</td><td>Souvenir subjectif et sélectif d'un groupe ; souvent pluriel.</td></tr>\n  <tr><td>Histoire</td><td>Étude critique et méthodique du passé à partir de sources.</td></tr>\n  <tr><td>Résistancialisme</td><td>Mythe d'une France massivement résistante après 1945.</td></tr>\n  <tr><td>Devoir de mémoire</td><td>Obligation morale de se souvenir des victimes.</td></tr>\n  <tr><td>Crime contre l'humanité</td><td>Atteinte grave et systématique aux civils, imprescriptible.</td></tr>\n  <tr><td>Mémoires concurrentes</td><td>Mémoires opposées d'un même événement (ex. guerre d'Algérie).</td></tr>\n</table>\n\n<h3>Lieux et acteurs clés</h3>\n\n<table>\n  <tr><th>Lieu / acteur</th><th>Rôle</th></tr>\n  <tr><td>Nuremberg</td><td>Procès fondateur de la justice pénale internationale (1945).</td></tr>\n  <tr><td>Robert Paxton</td><td>Historien qui révèle la réalité de la collaboration de Vichy.</td></tr>\n  <tr><td>Henry Rousso</td><td>Historien du « syndrome de Vichy ».</td></tr>\n  <tr><td>La CPI (La Haye)</td><td>Cour pénale internationale permanente (1998).</td></tr>\n  <tr><td>La guerre d'Algérie</td><td>Objet de mémoires concurrentes en France et en Algérie.</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Ne pas confondre <b>histoire</b> et <b>mémoire</b>&nbsp;: l'historien n'est ni un témoin, ni un juge, ni un gardien du «&nbsp;devoir de mémoire&nbsp;». Et attention&nbsp;: reconnaître des mémoires plurielles ne veut pas dire qu'elles se valent toutes face aux faits — l'histoire garde une exigence de <b>vérité documentée</b>.\n</div>\n\n<blockquote>\n  <p>Se souvenir, c'est aussi vouloir <strong>conserver</strong> les traces du passé. Comment les sociétés identifient-elles, protègent-elles et valorisent-elles leur <strong>patrimoine</strong>&nbsp;? Et pourquoi est-ce un enjeu géopolitique&nbsp;? C'est l'objet du thème suivant.</p>\n</blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Histoire et mémoires",
+  "cards": [
+    {
+      "recto": "Qu'est-ce que la mémoire d'un événement ?",
+      "verso": "Le souvenir vécu et subjectif qu'un groupe garde du passé",
+      "explanation": "La mémoire est affective et sélective : il existe donc des mémoires plurielles, parfois concurrentes, d'un même événement.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le récit scientifique et neutre du passé",
+          "La liste officielle des dates",
+          "Une invention sans aucun rapport au passé"
+        ],
+        "medium": [
+          "L'étude critique des archives",
+          "La reconstitution objective des faits",
+          "Le jugement des criminels de guerre"
+        ],
+        "hard": [
+          "La démarche méthodique de l'historien",
+          "La preuve documentée d'un fait",
+          "La vérité judiciaire établie par un tribunal"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que l'histoire comme discipline ?",
+      "verso": "L'étude critique et méthodique du passé à partir de sources",
+      "explanation": "L'historien analyse et explique ; il ne se confond ni avec le témoin, ni avec le juge, ni avec le gardien du devoir de mémoire.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le souvenir personnel d'un témoin",
+          "Une commémoration officielle",
+          "Une opinion politique sur le passé"
+        ],
+        "medium": [
+          "La mémoire collective d'un groupe",
+          "Le récit subjectif des survivants",
+          "Le devoir de se souvenir"
+        ],
+        "hard": [
+          "La reconnaissance officielle d'un crime",
+          "L'émotion partagée lors d'une commémoration",
+          "La vérité fixée par la loi"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la principale différence entre histoire et mémoire ?",
+      "verso": "L'histoire est une démarche critique ; la mémoire est subjective et sélective",
+      "explanation": "Les deux dialoguent, mais l'histoire vise un savoir documenté quand la mémoire exprime une identité et des émotions.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Aucune, ce sont des synonymes",
+          "L'histoire est fausse, la mémoire est vraie",
+          "La mémoire est enseignée, l'histoire non"
+        ],
+        "medium": [
+          "L'histoire est émotionnelle, la mémoire neutre",
+          "La mémoire est unique, l'histoire plurielle",
+          "L'histoire est orale, la mémoire écrite"
+        ],
+        "hard": [
+          "La mémoire est documentée, l'histoire affective",
+          "L'histoire est imposée par la loi, la mémoire libre",
+          "La mémoire vise la vérité, l'histoire la commémoration"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que le « résistancialisme » de l'après-1945 en France ?",
+      "verso": "Le mythe d'une France massivement résistante, qui occulte la collaboration",
+      "explanation": "Ce mythe, porté par les gaullistes et les communistes, marginalise longtemps la mémoire de Vichy et celle des déportés juifs.",
+      "tags": [
+        "memoire",
+        "france"
+      ],
+      "distractors": {
+        "easy": [
+          "L'idée que la France a collaboré en masse",
+          "Le refus de toute résistance",
+          "La mémoire du génocide juif"
+        ],
+        "medium": [
+          "La reconnaissance de la responsabilité de Vichy",
+          "La mémoire des déportés juifs",
+          "Le procès des collaborateurs"
+        ],
+        "hard": [
+          "L'étude critique du régime de Vichy par Paxton",
+          "La condamnation de la France à Nuremberg",
+          "La pluralité assumée des mémoires"
+        ]
+      }
+    },
+    {
+      "recto": "Quel historien a analysé le « syndrome de Vichy » ?",
+      "verso": "Henry Rousso",
+      "explanation": "Henry Rousso décrit l'évolution de la mémoire française de Vichy, du refoulement à l'obsession mémorielle.",
+      "tags": [
+        "historiens"
+      ],
+      "distractors": {
+        "easy": [
+          "Jules Ferry",
+          "Napoléon Bonaparte",
+          "Victor Hugo"
+        ],
+        "medium": [
+          "Fernand Braudel",
+          "Jules Michelet",
+          "Marc Bloch"
+        ],
+        "hard": [
+          "Pierre Nora",
+          "Robert Paxton",
+          "Raul Hilberg"
+        ]
+      }
+    },
+    {
+      "recto": "Quel historien américain a révélé la réalité de la collaboration de Vichy (1973) ?",
+      "verso": "Robert Paxton",
+      "explanation": "Dans « La France de Vichy », Paxton montre la collaboration active du régime, brisant le mythe résistancialiste.",
+      "tags": [
+        "historiens"
+      ],
+      "distractors": {
+        "easy": [
+          "George Washington",
+          "Christophe Colomb",
+          "Abraham Lincoln"
+        ],
+        "medium": [
+          "Henry Kissinger",
+          "Howard Zinn",
+          "John Keegan"
+        ],
+        "hard": [
+          "Henry Rousso",
+          "Pierre Nora",
+          "Annette Wieviorka"
+        ]
+      }
+    },
+    {
+      "recto": "Que reconnaît Jacques Chirac dans son discours du Vél d'Hiv (1995) ?",
+      "verso": "La responsabilité de l'État français dans la déportation des Juifs",
+      "explanation": "Pour la première fois, un président engage la responsabilité de l'État français, rompant avec le déni officiel.",
+      "tags": [
+        "dates",
+        "memoire"
+      ],
+      "distractors": {
+        "easy": [
+          "L'innocence totale de la France",
+          "La victoire de la Résistance",
+          "La fin de la guerre d'Algérie"
+        ],
+        "medium": [
+          "La seule responsabilité de l'Allemagne nazie",
+          "La responsabilité de la seule police allemande",
+          "Le refus de toute repentance"
+        ],
+        "hard": [
+          "La responsabilité des seuls collaborateurs individuels",
+          "La nature résistante du régime de Vichy",
+          "L'absence de déportation depuis la France"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi parle-t-on de mémoires « plurielles » de la Seconde Guerre mondiale ?",
+      "verso": "Différents groupes (résistants, déportés, Juifs…) en gardent des souvenirs distincts",
+      "explanation": "Chaque groupe porte une mémoire propre ; ces mémoires peuvent devenir des enjeux politiques et identitaires.",
+      "tags": [
+        "memoire"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'il n'existe qu'une seule mémoire officielle",
+          "Parce que personne ne s'en souvient",
+          "Parce que la mémoire est interdite"
+        ],
+        "medium": [
+          "Parce que l'histoire en donne une version unique",
+          "Parce que la loi fixe une mémoire commune",
+          "Parce que les archives ont disparu"
+        ],
+        "hard": [
+          "Parce que toutes les mémoires sont identiques",
+          "Parce que seuls les historiens s'en souviennent",
+          "Parce que la justice a unifié les mémoires"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on le « devoir de mémoire » ?",
+      "verso": "L'obligation morale de se souvenir des victimes, notamment des génocides",
+      "explanation": "Le devoir de mémoire entend transmettre et honorer ; il ne se confond pas avec le travail critique de l'historien.",
+      "tags": [
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le droit d'oublier le passé",
+          "L'interdiction de commémorer",
+          "Le devoir de juger les historiens"
+        ],
+        "medium": [
+          "L'obligation d'écrire l'histoire scientifique",
+          "Le devoir d'archiver tous les documents",
+          "L'obligation de pardonner les crimes"
+        ],
+        "hard": [
+          "Le monopole de l'État sur le récit historique",
+          "L'interdiction faite aux historiens de travailler",
+          "La transformation de la mémoire en preuve judiciaire"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un « crime contre l'humanité » ?",
+      "verso": "Une atteinte grave et systématique contre des populations civiles, imprescriptible",
+      "explanation": "Défini à Nuremberg, il peut être jugé sans limite de temps : c'est le sens de son imprescriptibilité.",
+      "tags": [
+        "notion",
+        "justice"
+      ],
+      "distractors": {
+        "easy": [
+          "Un simple délit ordinaire",
+          "Une infraction au code de la route",
+          "Un crime qui se prescrit en dix ans"
+        ],
+        "medium": [
+          "Un crime de guerre commis entre soldats",
+          "Une faute politique sans sanction",
+          "Un crime jugé par les seuls tribunaux nationaux"
+        ],
+        "hard": [
+          "Une violation prescriptible du droit",
+          "Un crime puni uniquement en temps de paix",
+          "Une infraction relevant du seul droit civil"
+        ]
+      }
+    },
+    {
+      "recto": "Quel procès juge les principaux dignitaires nazis en 1945-1946 ?",
+      "verso": "Le procès de Nuremberg",
+      "explanation": "Nuremberg crée la notion de crime contre l'humanité et fonde la justice pénale internationale.",
+      "tags": [
+        "dates",
+        "justice"
+      ],
+      "distractors": {
+        "easy": [
+          "Le procès Eichmann",
+          "Le procès Barbie",
+          "Le procès de Tokyo"
+        ],
+        "medium": [
+          "Le procès de Moscou",
+          "Le procès Pétain",
+          "Le procès de La Haye"
+        ],
+        "hard": [
+          "Le procès Papon",
+          "Le procès Touvier",
+          "Le procès de Leipzig"
+        ]
+      }
+    },
+    {
+      "recto": "Quel haut responsable nazi est jugé à Jérusalem en 1961 ?",
+      "verso": "Adolf Eichmann",
+      "explanation": "Organisateur de la déportation, Eichmann est jugé en Israël : son procès donne une voix mondiale à la mémoire de la Shoah.",
+      "tags": [
+        "dates",
+        "justice"
+      ],
+      "distractors": {
+        "easy": [
+          "Adolf Hitler",
+          "Benito Mussolini",
+          "Joseph Staline"
+        ],
+        "medium": [
+          "Hermann Göring",
+          "Heinrich Himmler",
+          "Rudolf Hess"
+        ],
+        "hard": [
+          "Klaus Barbie",
+          "Maurice Papon",
+          "Paul Touvier"
+        ]
+      }
+    },
+    {
+      "recto": "Quel est le premier procès pour crime contre l'humanité en France (1987) ?",
+      "verso": "Le procès de Klaus Barbie",
+      "explanation": "« Le boucher de Lyon » est le premier jugé en France pour crime contre l'humanité, avant Touvier (1994) et Papon (1998).",
+      "tags": [
+        "dates",
+        "justice"
+      ],
+      "distractors": {
+        "easy": [
+          "Le procès de Nuremberg",
+          "Le procès Eichmann",
+          "Le procès de Tokyo"
+        ],
+        "medium": [
+          "Le procès Pétain (1945)",
+          "Le procès Maurice Papon",
+          "Le procès Paul Touvier"
+        ],
+        "hard": [
+          "Le procès de René Bousquet",
+          "Le procès de Jean Moulin",
+          "Le procès de Pierre Laval"
+        ]
+      }
+    },
+    {
+      "recto": "Que sont les TPI (ex-Yougoslavie, Rwanda) créés dans les années 1990 ?",
+      "verso": "Des tribunaux pénaux internationaux ad hoc",
+      "explanation": "Créés pour juger des génocides précis, ces tribunaux temporaires préfigurent la Cour pénale internationale permanente.",
+      "tags": [
+        "justice"
+      ],
+      "distractors": {
+        "easy": [
+          "Des tribunaux français ordinaires",
+          "Des organisations humanitaires",
+          "Des accords commerciaux"
+        ],
+        "medium": [
+          "Des tribunaux permanents universels",
+          "Des cours d'appel nationales",
+          "Des commissions de réconciliation"
+        ],
+        "hard": [
+          "Les chambres internes de la CPI",
+          "Les tribunaux de Nuremberg réactivés",
+          "Des juridictions de la SDN"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle juridiction permanente le Statut de Rome (1998) crée-t-il ?",
+      "verso": "La Cour pénale internationale (CPI)",
+      "explanation": "Installée à La Haye, la CPI juge les individus pour génocide, crimes de guerre et crimes contre l'humanité.",
+      "tags": [
+        "dates",
+        "justice"
+      ],
+      "distractors": {
+        "easy": [
+          "La Société des Nations",
+          "L'ONU",
+          "L'OTAN"
+        ],
+        "medium": [
+          "La Cour internationale de justice",
+          "Le TPIY",
+          "La Cour européenne des droits de l'homme"
+        ],
+        "hard": [
+          "Le Tribunal militaire international",
+          "Les TPI ad hoc",
+          "La Cour de cassation française"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles sont les dates de la guerre d'Algérie ?",
+      "verso": "1954-1962",
+      "explanation": "Du déclenchement de l'insurrection (1954) aux accords d'Évian et à l'indépendance (1962).",
+      "tags": [
+        "dates",
+        "algerie"
+      ],
+      "distractors": {
+        "easy": [
+          "1914-1918",
+          "1939-1945",
+          "1870-1871"
+        ],
+        "medium": [
+          "1946-1954",
+          "1956-1962",
+          "1958-1962"
+        ],
+        "hard": [
+          "1954-1958",
+          "1830-1962",
+          "1962-1968"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi les mémoires de la guerre d'Algérie sont-elles « concurrentes » ?",
+      "verso": "Pieds-noirs, harkis, appelés, immigrés et nationalistes algériens en gardent des souvenirs opposés",
+      "explanation": "La multiplicité des acteurs et le tabou longtemps entretenu rendent ces mémoires particulièrement vives et conflictuelles.",
+      "tags": [
+        "memoire",
+        "algerie"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'une seule mémoire existe",
+          "Parce que personne ne s'en souvient",
+          "Parce que la guerre n'a pas eu lieu"
+        ],
+        "medium": [
+          "Parce que l'histoire en donne une version unique",
+          "Parce que tous les acteurs s'accordent",
+          "Parce que la France l'a totalement oubliée"
+        ],
+        "hard": [
+          "Parce que seuls les historiens s'en souviennent",
+          "Parce que la justice a unifié les récits",
+          "Parce que les archives n'existent pas"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'a reconnu officiellement la France en 1999 à propos de l'Algérie ?",
+      "verso": "L'emploi du terme « guerre d'Algérie », et non plus « opérations de maintien de l'ordre »",
+      "explanation": "Cette reconnaissance tardive du mot « guerre » illustre le lent travail de mémoire sur ce conflit longtemps tu.",
+      "tags": [
+        "dates",
+        "algerie"
+      ],
+      "distractors": {
+        "easy": [
+          "L'indépendance de l'Algérie",
+          "La fin de la Première Guerre mondiale",
+          "La responsabilité dans la Shoah"
+        ],
+        "medium": [
+          "L'existence des accords d'Évian",
+          "La création de l'Algérie française",
+          "Le rôle des Casques bleus"
+        ],
+        "hard": [
+          "La torture comme politique d'État",
+          "L'amnistie générale des combattants",
+          "La responsabilité du régime de Vichy"
+        ]
+      }
+    },
+    {
+      "recto": "Vrai ou faux : le rôle de l'historien est d'entretenir le devoir de mémoire.",
+      "verso": "Faux : l'historien analyse et explique le passé ; il ne se confond ni avec la mémoire ni avec le juge",
+      "explanation": "Le piège est de réduire l'histoire à la commémoration : l'historien garde une exigence critique, distincte de la mémoire et de la justice.",
+      "tags": [
+        "piege"
+      ],
+      "distractors": {
+        "easy": [
+          "Vrai : l'historien est un militant de la mémoire",
+          "Vrai : histoire et mémoire sont identiques",
+          "Vrai : l'historien doit juger les coupables"
+        ],
+        "medium": [
+          "Vrai : l'historien fixe la mémoire officielle",
+          "Vrai : l'historien commémore les victimes",
+          "Vrai : l'historien remplace le tribunal"
+        ],
+        "hard": [
+          "Vrai : l'historien défend une seule mémoire légitime",
+          "Vrai : l'historien transforme la mémoire en loi",
+          "Vrai : l'historien interdit les mémoires plurielles"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'oppose-t-on quand on compare mémoire et histoire ?",
+      "verso": "La mémoire, subjective, affective et plurielle, face à l'histoire, critique et documentée",
+      "explanation": "Comparaison clé : reconnaître des mémoires plurielles ne signifie pas qu'elles se valent toutes face aux faits établis par l'histoire.",
+      "tags": [
+        "comparaison"
+      ],
+      "distractors": {
+        "easy": [
+          "Deux mots strictement synonymes",
+          "Le passé et l'avenir",
+          "La loi et la religion"
+        ],
+        "medium": [
+          "Le récit oral et le récit écrit uniquement",
+          "L'émotion vraie et le savoir faux",
+          "La commémoration et le jugement pénal"
+        ],
+        "hard": [
+          "La mémoire documentée et l'histoire affective",
+          "La mémoire unique et l'histoire plurielle",
+          "La vérité judiciaire et la vérité politique"
+        ]
+      }
+    }
+  ]
+}
