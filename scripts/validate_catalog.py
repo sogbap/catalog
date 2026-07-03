@@ -8,13 +8,17 @@ Vérifie que chaque cours importable par D and R Learn est complet :
 - chaque carte a un recto (recto/question/front) et un verso (verso/answer/back) ;
 - chaque carte a des distracteurs : soit un objet {easy, medium, hard}
   (ou {facile, moyen, difficile}) avec au moins 3 chaînes non vides par niveau,
-  soit une liste plate d'au moins 3 chaînes non vides.
+  soit une liste plate d'au moins 3 chaînes non vides ;
+- qualité QCM : aucun distracteur identique à la bonne réponse, aucun doublon
+  de distracteur au sein d'une carte, aucun recto en double dans un cours
+  (comparaison insensible à la casse et à la normalisation Unicode).
 
 Sort avec le code 1 et la liste des erreurs si quelque chose ne va pas.
 """
 
 import json
 import sys
+import unicodedata
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -23,6 +27,10 @@ MIN_DISTRACTORS = 3
 FRONT_KEYS = {"recto", "question", "front"}
 BACK_KEYS = {"verso", "answer", "back"}
 LEVEL_KEY_SETS = ({"easy", "medium", "hard"}, {"facile", "moyen", "difficile"})
+
+
+def norm(value):
+    return unicodedata.normalize("NFKC", value).strip().lower()
 
 
 def non_empty_strings(values, minimum):
@@ -43,29 +51,48 @@ def check_card(rel, index, card, errors):
     if not (BACK_KEYS & card.keys()):
         errors.append(f"{where}: aucun champ verso/answer/back")
 
+    answer = next((card[k] for k in BACK_KEYS if isinstance(card.get(k), str)), None)
+
     distractors = card.get("distractors", card.get("distracteurs"))
     if distractors is None:
         errors.append(f"{where}: pas de distracteurs")
-    elif isinstance(distractors, dict):
+        return
+    if isinstance(distractors, dict):
         if not any(keys <= distractors.keys() for keys in LEVEL_KEY_SETS):
             errors.append(
                 f"{where}: clés de distracteurs inattendues {sorted(distractors)}"
                 " (attendu easy/medium/hard ou facile/moyen/difficile)"
             )
-        for level, values in distractors.items():
-            if not non_empty_strings(values, MIN_DISTRACTORS):
-                errors.append(
-                    f"{where}: distractors.{level} doit contenir au moins"
-                    f" {MIN_DISTRACTORS} chaînes non vides"
-                )
+        levels = distractors.items()
     elif isinstance(distractors, list):
-        if not non_empty_strings(distractors, MIN_DISTRACTORS):
-            errors.append(
-                f"{where}: la liste de distracteurs doit contenir au moins"
-                f" {MIN_DISTRACTORS} chaînes non vides"
-            )
+        levels = [(None, distractors)]
     else:
         errors.append(f"{where}: type de distracteurs invalide ({type(distractors).__name__})")
+        return
+
+    for level, values in levels:
+        label = f"distractors.{level}" if level else "la liste de distracteurs"
+        if not non_empty_strings(values, MIN_DISTRACTORS):
+            errors.append(
+                f"{where}: {label} doit contenir au moins"
+                f" {MIN_DISTRACTORS} chaînes non vides"
+            )
+
+    # Qualité QCM : un distracteur identique à la bonne réponse rendrait la
+    # question insoluble, un doublon réduit le choix réel proposé à l'élève.
+    seen = set()
+    for level, values in levels:
+        if not isinstance(values, list):
+            continue
+        for value in values:
+            if not isinstance(value, str):
+                continue
+            key = norm(value)
+            if answer is not None and key == norm(answer):
+                errors.append(f"{where}: distracteur identique à la bonne réponse : {value!r}")
+            if key in seen:
+                errors.append(f"{where}: distracteur en double : {value!r}")
+            seen.add(key)
 
 
 def main():
@@ -136,9 +163,19 @@ def main():
                 f"{rel}: cardCount du manifest ({expected}) ≠ nombre réel de cartes ({len(cards)})"
             )
 
+        seen_fronts = {}
         for index, card in enumerate(cards):
             check_card(rel, index, card, errors)
             checked_cards += 1
+            if isinstance(card, dict):
+                front = next((card[k] for k in FRONT_KEYS if isinstance(card.get(k), str)), None)
+                if front is not None:
+                    key = norm(front)
+                    if key in seen_fronts:
+                        errors.append(
+                            f"{rel}: cartes {seen_fronts[key]} et {index} ont le même recto : {front!r}"
+                        )
+                    seen_fronts.setdefault(key, index)
 
     if errors:
         print(f"{len(errors)} erreur(s) détectée(s) :", file=sys.stderr)
