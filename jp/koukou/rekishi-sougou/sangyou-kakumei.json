@@ -1,0 +1,535 @@
+{
+  "id": "jp-koukou-rekishi-sougou-sangyou-kakumei",
+  "title": "日本の産業革命と社会の変化",
+  "emoji": "🏭",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "紡績業・製糸業から八幡製鉄所まで。渋沢栄一、財閥、労働問題を通して日本の産業革命とその光と影を学ぶ。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>日本の産業革命と社会の変化</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・歴史総合<br>\n  <b>大項目B：</b>近代化と私たち<br>\n  <b>時期：</b>明治中期から後期（1880〜1910年代）\n</div>\n\n<blockquote>\n  <p><b>問い</b>　産業革命は人々のくらしをどのように変え、どのような光と影を生んだのだろうか。</p>\n</blockquote>\n\n<p>明治政府の<strong>殖産興業</strong>政策のもとで芽生えた近代産業は、1880年代後半から急速に発展し、日本は<strong>産業革命</strong>の時代をむかえた。<strong>軽工業</strong>から<strong>重工業</strong>へと工業化が進む一方で、厳しい労働条件や公害といった社会問題も生まれていった。</p>\n\n<h2>1・産業革命のはじまり</h2>\n\n<p>1880年代、大蔵卿<strong>松方正義</strong>は増税と緊縮財政によるデフレ政策を進め、1882年には中央銀行として<strong>日本銀行</strong>を設立した。貨幣の価値が安定すると、1880年代後半には鉄道や紡績を中心に会社設立ブーム（<strong>企業勃興</strong>）がおこった。</p>\n\n<p>こうして日本の産業革命は、繊維産業などの<strong>軽工業</strong>から始まった。一方でデフレは農村を直撃し、土地を手放して<strong>小作農</strong>になる農民が増えていった。</p>\n\n<div class=\"callout\">\n  <strong>用語・産業革命</strong><br>\n  機械の発明と工場での大量生産によって、経済や社会のしくみが大きく変わること。日本では19世紀末に軽工業から始まった。\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 326\" role=\"img\" aria-label=\"松方財政から企業勃興を経て産業革命に至る流れ\">\n  <defs>\n    <marker id=\"ar-sk1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 段階1：松方財政 -->\n  <g>\n    <rect x=\"14\" y=\"8\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"40\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">松方財政</text>\n    <text x=\"30\" y=\"65\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">日本銀行の設立・貨幣の安定（1882）</text>\n  </g>\n  <path d=\"M170,88 L170,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sk1)\"/>\n  <!-- 段階2：企業勃興 -->\n  <g>\n    <rect x=\"14\" y=\"110\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"142\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">企業勃興</text>\n    <text x=\"30\" y=\"167\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">鉄道・紡績の会社設立ブーム（1880年代後半）</text>\n  </g>\n  <path d=\"M170,190 L170,210\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sk1)\"/>\n  <!-- 段階3：産業革命（強調） -->\n  <g>\n    <rect x=\"14\" y=\"212\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"244\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">産業革命へ</text>\n    <text x=\"30\" y=\"269\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">軽工業（繊維）から工業化が始まる</text>\n  </g>\n</svg>\n<figcaption>通貨の安定が投資をうながし、繊維産業を先頭に産業革命が始まった。</figcaption>\n</figure>\n\n<h2>2・軽工業の発展 ― 紡績業と製糸業</h2>\n\n<p><strong>紡績業</strong>では、<strong>渋沢栄一</strong>らが設立した<strong>大阪紡績会社</strong>（1883年開業）が輸入機械と蒸気力による大規模経営に成功した。1897年には<strong>綿糸</strong>の輸出量が輸入量を上回り、中国・朝鮮向けの輸出産業に成長した。</p>\n\n<p><strong>製糸業</strong>は、まゆから<strong>生糸</strong>をつくる工業である。富岡製糸場などで導入された器械製糸が広まり、生糸はおもに<strong>アメリカ</strong>へ輸出される最大の外貨獲得源となった。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"紡績業と製糸業の比較。原料・製品・輸出先の違い\">\n  <!-- 左：紡績業 -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">紡績業</text>\n  <text x=\"87\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">綿花から綿糸へ</text>\n  <text x=\"26\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">原料：綿花（輸入）</text>\n  <text x=\"26\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">製品：綿糸</text>\n  <text x=\"26\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">輸出先：中国・朝鮮</text>\n  <!-- 右：製糸業 -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">製糸業</text>\n  <text x=\"253\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">まゆから生糸へ</text>\n  <text x=\"192\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">原料：まゆ（国産）</text>\n  <text x=\"192\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">製品：生糸</text>\n  <text x=\"192\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">輸出先：アメリカ</text>\n</svg>\n<figcaption>原料と製品の組み合わせを逆にしないこと。どちらも輸出で外貨をかせいだ。</figcaption>\n</figure>\n\n<h2>3・重工業への広がりと財閥</h2>\n\n<p>日清戦争の賠償金などをもとに、福岡県に官営の<strong>八幡製鉄所</strong>が建設され、1901年に操業を始めた。鉄鋼の国産化が進み、造船業とともに<strong>重工業</strong>が発達していく。1906年には<strong>鉄道国有法</strong>で主要な民営鉄道が国有化された。</p>\n\n<p>また、1880年代に政府が官営工場や鉱山を民間に売りわたした<strong>官営事業の払下げ</strong>を受けて、<strong>三井</strong>・<strong>三菱</strong>・<strong>住友</strong>・<strong>安田</strong>などの政商は、多くの産業を支配する<strong>財閥</strong>へと成長した。</p>\n\n<div class=\"callout\">\n  <strong>用語・財閥</strong><br>\n  金融・貿易・鉱工業など、さまざまな産業を一族で支配した大資本家のグループ。官営事業の払下げをきっかけに成長した。\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 240\" role=\"img\" aria-label=\"官営事業の払下げを受けて三井・三菱・住友・安田の四大財閥が成長したことを示す図\">\n  <defs>\n    <marker id=\"ar-sk2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 払下げ -->\n  <rect x=\"70\" y=\"8\" width=\"200\" height=\"60\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">官営事業の払下げ</text>\n  <text x=\"170\" y=\"56\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11\">政商が鉱山や工場を取得</text>\n  <!-- 矢印 -->\n  <path d=\"M170,68 L46,110\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sk2)\"/>\n  <path d=\"M170,68 L128,110\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sk2)\"/>\n  <path d=\"M170,68 L210,110\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sk2)\"/>\n  <path d=\"M170,68 L292,110\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sk2)\"/>\n  <!-- 三井 -->\n  <rect x=\"10\" y=\"118\" width=\"72\" height=\"100\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"46\" y=\"152\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">三井</text>\n  <text x=\"46\" y=\"180\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">銀行・物産</text>\n  <!-- 三菱 -->\n  <rect x=\"92\" y=\"118\" width=\"72\" height=\"100\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"128\" y=\"152\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">三菱</text>\n  <text x=\"128\" y=\"180\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">海運・造船</text>\n  <!-- 住友 -->\n  <rect x=\"174\" y=\"118\" width=\"72\" height=\"100\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"210\" y=\"152\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">住友</text>\n  <text x=\"210\" y=\"180\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">銅山・金属</text>\n  <!-- 安田 -->\n  <rect x=\"256\" y=\"118\" width=\"72\" height=\"100\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"292\" y=\"152\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">安田</text>\n  <text x=\"292\" y=\"180\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">銀行・保険</text>\n</svg>\n<figcaption>払下げを受けた政商は、多くの産業を支配する財閥へと成長した。</figcaption>\n</figure>\n\n<h2>4・産業革命の影 ― 労働問題と公害</h2>\n\n<p>紡績・製糸工場の労働を担ったのは、おもに農村出身の若い女性（<strong>工女</strong>）だった。低賃金で1日十数時間におよぶ労働も珍しくなく、横山源之助の<strong>『日本之下層社会』</strong>などがその実態を記録している。1897年には<strong>労働組合期成会</strong>が結成されて労働運動が始まったが、政府は1900年の<strong>治安警察法</strong>でこれを取りしまった。1911年にようやく最初の労働者保護法である<strong>工場法</strong>が制定されたが、施行は1916年まで遅れた。</p>\n\n<p>公害も発生した。栃木県の<strong>足尾銅山</strong>から出た鉱毒は渡良瀬川流域の農業や漁業に深刻な被害をあたえ（<strong>足尾銅山鉱毒事件</strong>）、衆議院議員の<strong>田中正造</strong>は議員辞職後に天皇への直訴を試みてまで解決を訴えた。また農村では、土地を集めた地主が小作料の収入で生活する<strong>寄生地主制</strong>が広がった。</p>\n\n<div class=\"callout\">\n  <strong>用語・寄生地主制</strong><br>\n  大地主がみずからは耕作せず、小作農に土地を貸して小作料の収入で生活するしくみ。松方財政のデフレで土地を手放す農民が増えて広がった。\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 366\" role=\"img\" aria-label=\"日本の産業革命をめぐる年表\">\n  <line x1=\"74\" y1=\"22\" x2=\"74\" y2=\"348\" style=\"stroke:var(--accent);stroke-width:3;stroke-linecap:round\"/>\n  <!-- 1882 -->\n  <circle cx=\"74\" cy=\"40\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"45\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1882</text>\n  <text x=\"90\" y=\"45\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">日本銀行の設立</text>\n  <!-- 1883 -->\n  <circle cx=\"74\" cy=\"101\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"106\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1883</text>\n  <text x=\"90\" y=\"106\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">大阪紡績会社の開業</text>\n  <!-- 1897 -->\n  <circle cx=\"74\" cy=\"162\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"167\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1897</text>\n  <text x=\"90\" y=\"167\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">綿糸の輸出が輸入をこえる</text>\n  <!-- 1900 -->\n  <circle cx=\"74\" cy=\"223\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"228\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1900</text>\n  <text x=\"90\" y=\"228\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">治安警察法</text>\n  <!-- 1901 -->\n  <circle cx=\"74\" cy=\"284\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"289\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1901</text>\n  <text x=\"90\" y=\"289\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">八幡製鉄所の操業開始</text>\n  <!-- 1911 -->\n  <circle cx=\"74\" cy=\"345\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"350\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1911</text>\n  <text x=\"90\" y=\"350\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">工場法の制定</text>\n</svg>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>年</th><th>できごと</th></tr>\n  <tr><td>1882年</td><td>日本銀行の設立（松方財政）</td></tr>\n  <tr><td>1883年</td><td>大阪紡績会社の開業</td></tr>\n  <tr><td>1897年</td><td>綿糸の輸出が輸入を上回る・労働組合期成会</td></tr>\n  <tr><td>1900年</td><td>治安警察法の制定</td></tr>\n  <tr><td>1901年</td><td>八幡製鉄所の操業開始・田中正造の直訴</td></tr>\n  <tr><td>1911年</td><td>工場法の制定（施行は1916年）</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>産業革命</td><td>機械と工場による大量生産で社会が変わること</td></tr>\n  <tr><td>紡績業</td><td>輸入した綿花から綿糸をつくる工業</td></tr>\n  <tr><td>製糸業</td><td>まゆから生糸をつくり、アメリカへ輸出した工業</td></tr>\n  <tr><td>財閥</td><td>多くの産業を支配した大資本家のグループ</td></tr>\n  <tr><td>寄生地主制</td><td>地主が小作料の収入で生活する農村のしくみ</td></tr>\n  <tr><td>工場法</td><td>1911年制定の最初の労働者保護法</td></tr>\n</table>\n\n<h3>重要人物</h3>\n\n<table>\n  <tr><th>人物</th><th>役割</th></tr>\n  <tr><td>渋沢栄一</td><td>大阪紡績会社などを設立した「日本資本主義の父」</td></tr>\n  <tr><td>松方正義</td><td>デフレ政策を進め、日本銀行を設立した大蔵卿</td></tr>\n  <tr><td>田中正造</td><td>足尾銅山鉱毒事件の解決を訴え続けた衆議院議員</td></tr>\n  <tr><td>片山潜</td><td>高野房太郎とともに労働組合期成会を結成した</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  <b>紡績業</b>（綿花から綿糸）と<b>製糸業</b>（まゆから生糸）を混同しないこと。また、八幡製鉄所の資金となった賠償金は<b>日清戦争</b>のもの。日露戦争のポーツマス条約では賠償金は得られていない。\n</div>\n\n<blockquote>\n  <p>産業革命は日本を工業国へと変えたが、その繁栄は<strong>工女</strong>の長時間労働や<strong>公害</strong>、農村の<strong>小作農</strong>の犠牲の上に成り立つものでもあった。経済発展の光と影をあわせて見ることが、この時代を理解するかぎとなる。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "歴史総合 ― 近代化と私たち",
+  "cards": [
+    {
+      "recto": "機械の発明と工場での大量生産によって、経済や社会のしくみが大きく変わることを何というか。",
+      "verso": "産業革命",
+      "explanation": "18世紀後半にイギリスで始まり、日本では19世紀末（明治中期）に軽工業から始まった。",
+      "tags": [
+        "産業革命",
+        "用語"
+      ],
+      "distractors": {
+        "easy": [
+          "文明開化",
+          "農地改革",
+          "情報革命"
+        ],
+        "medium": [
+          "殖産興業",
+          "資本主義",
+          "富国強兵"
+        ],
+        "hard": [
+          "工場制手工業",
+          "第二次産業革命",
+          "商業革命"
+        ]
+      }
+    },
+    {
+      "recto": "1872年に群馬県につくられ、フランスの技術で生糸を生産した官営模範工場は何か。",
+      "verso": "富岡製糸場",
+      "explanation": "殖産興業を代表する官営模範工場。生産したのは綿糸ではなく生糸である点に注意。",
+      "tags": [
+        "製糸業",
+        "工場"
+      ],
+      "distractors": {
+        "easy": [
+          "八幡製鉄所",
+          "造幣局",
+          "鹿鳴館"
+        ],
+        "medium": [
+          "大阪紡績会社",
+          "長崎造船所",
+          "深川セメント製造所"
+        ],
+        "hard": [
+          "新町紡績所",
+          "前橋製糸所",
+          "愛知紡績所"
+        ]
+      }
+    },
+    {
+      "recto": "渋沢栄一らが設立し、1883年に開業して大規模な機械紡績に成功した会社は何か。",
+      "verso": "大阪紡績会社",
+      "explanation": "輸入の紡績機械と蒸気力による大規模経営に成功し、日本の紡績業が発展するきっかけとなった。",
+      "tags": [
+        "紡績業",
+        "会社"
+      ],
+      "distractors": {
+        "easy": [
+          "富岡製糸場",
+          "日本銀行",
+          "三越呉服店"
+        ],
+        "medium": [
+          "鐘淵紡績会社",
+          "日本鉄道会社",
+          "王子製紙"
+        ],
+        "hard": [
+          "東洋紡績",
+          "摂津紡績",
+          "尼崎紡績"
+        ]
+      }
+    },
+    {
+      "recto": "第一国立銀行や大阪紡績会社など多くの企業の設立にかかわり、「日本資本主義の父」と呼ばれる人物は誰か。",
+      "verso": "渋沢栄一",
+      "explanation": "約500の企業の設立にかかわった実業家。2024年からは一万円札の肖像にもなっている。",
+      "tags": [
+        "人物",
+        "経済"
+      ],
+      "distractors": {
+        "easy": [
+          "福沢諭吉",
+          "夏目漱石",
+          "坂本龍馬"
+        ],
+        "medium": [
+          "岩崎弥太郎",
+          "安田善次郎",
+          "五代友厚"
+        ],
+        "hard": [
+          "豊田佐吉",
+          "古河市兵衛",
+          "益田孝"
+        ]
+      }
+    },
+    {
+      "recto": "輸入した綿花を原料に、綿糸をつくる工業を何というか。",
+      "verso": "紡績業",
+      "explanation": "原料の綿花を輸入し、綿糸を生産して中国などへ輸出した。まゆから生糸をつくる製糸業と混同しやすい。",
+      "tags": [
+        "紡績業",
+        "用語"
+      ],
+      "distractors": {
+        "easy": [
+          "農業",
+          "鉄鋼業",
+          "水産業"
+        ],
+        "medium": [
+          "製糸業",
+          "織物業",
+          "製紙業"
+        ],
+        "hard": [
+          "綿織物業",
+          "器械製糸業",
+          "絹織物業"
+        ]
+      }
+    },
+    {
+      "recto": "まゆから生糸をつくり、おもにアメリカへの輸出で外貨をかせいだ工業を何というか。",
+      "verso": "製糸業",
+      "explanation": "生糸は最大の輸出品として外貨獲得を支えた。綿花から綿糸をつくる紡績業と対で覚える。",
+      "tags": [
+        "製糸業",
+        "用語"
+      ],
+      "distractors": {
+        "easy": [
+          "鉄鋼業",
+          "造船業",
+          "漁業"
+        ],
+        "medium": [
+          "紡績業",
+          "絹織物業",
+          "養蚕業"
+        ],
+        "hard": [
+          "製紙業",
+          "撚糸業",
+          "綿織物業"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】輸入した綿花から綿糸をつくる工業と、まゆから生糸をつくる工業を、順にそれぞれ何というか。",
+      "verso": "紡績業と製糸業",
+      "explanation": "紡績業は綿花から綿糸、製糸業はまゆから生糸。原料と製品の組み合わせがよく問われる。",
+      "tags": [
+        "comparaison",
+        "用語"
+      ],
+      "distractors": {
+        "easy": [
+          "農業と工業",
+          "軽工業と重工業",
+          "手工業と機械工業"
+        ],
+        "medium": [
+          "製糸業と紡績業",
+          "紡績業と織物業",
+          "製糸業と養蚕業"
+        ],
+        "hard": [
+          "紡績業と製紙業",
+          "綿織物業と製糸業",
+          "紡績業と撚糸業"
+        ]
+      }
+    },
+    {
+      "recto": "1882年に設立された、日本の中央銀行を何というか。",
+      "verso": "日本銀行",
+      "explanation": "松方正義の財政改革のなかで設立され、紙幣の価値を安定させた。民間の国立銀行と混同しない。",
+      "tags": [
+        "金融"
+      ],
+      "distractors": {
+        "easy": [
+          "造幣局",
+          "大蔵省",
+          "東京証券取引所"
+        ],
+        "medium": [
+          "第一国立銀行",
+          "横浜正金銀行",
+          "日本勧業銀行"
+        ],
+        "hard": [
+          "国立銀行",
+          "日本興業銀行",
+          "台湾銀行"
+        ]
+      }
+    },
+    {
+      "recto": "1880年代に増税と緊縮財政でデフレを進め、日本銀行を設立した大蔵卿は誰か。",
+      "verso": "松方正義",
+      "explanation": "松方財政と呼ばれる。物価は安定したが、農村では土地を手放して小作農になる農民が増えた。",
+      "tags": [
+        "人物",
+        "経済"
+      ],
+      "distractors": {
+        "easy": [
+          "渋沢栄一",
+          "徳川吉宗",
+          "田中角栄"
+        ],
+        "medium": [
+          "大隈重信",
+          "井上馨",
+          "伊藤博文"
+        ],
+        "hard": [
+          "井上準之助",
+          "高橋是清",
+          "大久保利通"
+        ]
+      }
+    },
+    {
+      "recto": "日清戦争の賠償金などをもとに建設され、1901年に操業を始めた官営の製鉄所は何か。",
+      "verso": "八幡製鉄所",
+      "explanation": "福岡県につくられ、日本の重工業発展の出発点となった。軽工業より遅れて重工業が発達した。",
+      "tags": [
+        "重工業",
+        "工場"
+      ],
+      "distractors": {
+        "easy": [
+          "富岡製糸場",
+          "大阪紡績会社",
+          "日本銀行"
+        ],
+        "medium": [
+          "長崎造船所",
+          "横須賀製鉄所",
+          "呉海軍工廠"
+        ],
+        "hard": [
+          "釜石製鉄所",
+          "日本製鋼所",
+          "鞍山製鉄所"
+        ]
+      }
+    },
+    {
+      "recto": "三井・三菱・住友・安田のように、さまざまな産業を支配した大資本家の企業グループを何というか。",
+      "verso": "財閥",
+      "explanation": "官営事業の払下げなどで成長し、日本経済を支配した。第二次世界大戦後の財閥解体まで大きな力をもった。",
+      "tags": [
+        "経済",
+        "用語"
+      ],
+      "distractors": {
+        "easy": [
+          "労働組合",
+          "株式会社",
+          "商店街"
+        ],
+        "medium": [
+          "政商",
+          "独占企業",
+          "御用商人"
+        ],
+        "hard": [
+          "カルテル",
+          "トラスト",
+          "シンジケート"
+        ]
+      }
+    },
+    {
+      "recto": "1880年代、政府が官営工場や鉱山を民間の実業家に売りわたしたことを何というか。",
+      "verso": "官営事業の払下げ",
+      "explanation": "三井・三菱などの政商が払下げを受け、財閥へと成長するきっかけになった。",
+      "tags": [
+        "経済",
+        "政策"
+      ],
+      "distractors": {
+        "easy": [
+          "財閥解体",
+          "農地改革",
+          "楽市楽座"
+        ],
+        "medium": [
+          "殖産興業",
+          "地租改正",
+          "秩禄処分"
+        ],
+        "hard": [
+          "開拓使官有物払下げ事件",
+          "官営模範工場の設立",
+          "秩禄公債の交付"
+        ]
+      }
+    },
+    {
+      "recto": "紡績工場や製糸工場で、低賃金・長時間の労働を担った労働者の多くはどのような人々だったか。",
+      "verso": "農村出身の若い女性（工女）",
+      "explanation": "繊維産業の労働力の中心は女性だった。『日本之下層社会』などがその厳しい労働環境を記録している。",
+      "tags": [
+        "労働",
+        "社会"
+      ],
+      "distractors": {
+        "easy": [
+          "武士の子弟",
+          "外国人技師",
+          "都市の役人"
+        ],
+        "medium": [
+          "農村出身の成人男性",
+          "都市の商家の娘",
+          "小学校を出た都市の少年"
+        ],
+        "hard": [
+          "都市出身の若い女性",
+          "農村出身の若い男性",
+          "士族出身の若い女性"
+        ]
+      }
+    },
+    {
+      "recto": "1897年、高野房太郎や片山潜らが労働組合の結成をうながすためにつくった団体は何か。",
+      "verso": "労働組合期成会",
+      "explanation": "日本の労働運動の出発点。名前の似た国会期成同盟（1880年・自由民権運動）と混同しない。",
+      "tags": [
+        "労働",
+        "運動"
+      ],
+      "distractors": {
+        "easy": [
+          "国際連盟",
+          "帝国議会",
+          "青年団"
+        ],
+        "medium": [
+          "友愛会",
+          "日本労働総同盟",
+          "社会民主党"
+        ],
+        "hard": [
+          "国会期成同盟",
+          "鉄工組合",
+          "日本労働組合評議会"
+        ]
+      }
+    },
+    {
+      "recto": "1911年に制定された、日本で最初に労働者の保護を定めた法律は何か。",
+      "verso": "工場法",
+      "explanation": "12歳未満の就業禁止や労働時間の制限を定めたが、施行は1916年で内容も不十分だった。",
+      "tags": [
+        "労働",
+        "法律"
+      ],
+      "distractors": {
+        "easy": [
+          "労働基準法",
+          "学制",
+          "生活保護法"
+        ],
+        "medium": [
+          "治安警察法",
+          "労働組合法",
+          "健康保険法"
+        ],
+        "hard": [
+          "鉱業法",
+          "工業法",
+          "職工法"
+        ]
+      }
+    },
+    {
+      "recto": "1900年に制定され、労働運動や社会運動の取りしまりに使われた法律は何か。",
+      "verso": "治安警察法",
+      "explanation": "労働者保護の工場法とは目的が逆である。治安維持法（1925年）と名前が似ているので注意。",
+      "tags": [
+        "法律",
+        "労働"
+      ],
+      "distractors": {
+        "easy": [
+          "日本国憲法",
+          "教育基本法",
+          "独占禁止法"
+        ],
+        "medium": [
+          "保安条例",
+          "工場法",
+          "新聞紙条例"
+        ],
+        "hard": [
+          "治安維持法",
+          "集会条例",
+          "警察犯処罰令"
+        ]
+      }
+    },
+    {
+      "recto": "渡良瀬川流域の農業や漁業に深刻な被害をあたえた、日本最初の公害事件とされるできごとは何か。",
+      "verso": "足尾銅山鉱毒事件",
+      "explanation": "古河市兵衛が経営する足尾銅山から出た鉱毒が原因。田中正造が解決を訴え続けた。",
+      "tags": [
+        "公害",
+        "社会"
+      ],
+      "distractors": {
+        "easy": [
+          "水俣病",
+          "関東大震災",
+          "地球温暖化"
+        ],
+        "medium": [
+          "四日市ぜんそく",
+          "イタイイタイ病",
+          "新潟水俣病"
+        ],
+        "hard": [
+          "別子銅山煙害事件",
+          "日立鉱山煙害事件",
+          "小坂鉱山鉱毒事件"
+        ]
+      }
+    },
+    {
+      "recto": "足尾銅山鉱毒事件の解決を求め、衆議院議員の辞職後には天皇への直訴も試みた人物は誰か。",
+      "verso": "田中正造",
+      "explanation": "議会で鉱毒問題を追及し続け、「公害と闘った政治家」として記憶される。",
+      "tags": [
+        "人物",
+        "公害"
+      ],
+      "distractors": {
+        "easy": [
+          "渋沢栄一",
+          "夏目漱石",
+          "野口英世"
+        ],
+        "medium": [
+          "片山潜",
+          "幸徳秋水",
+          "高野房太郎"
+        ],
+        "hard": [
+          "古河市兵衛",
+          "島田三郎",
+          "河野広中"
+        ]
+      }
+    },
+    {
+      "recto": "明治後期の農村で広がった、土地を集めた地主が小作料の収入で生活し、みずからは耕作しないしくみを何というか。",
+      "verso": "寄生地主制",
+      "explanation": "松方財政のデフレで土地を手放す農民が増えて広がった。第二次世界大戦後の農地改革で解体される。",
+      "tags": [
+        "農村",
+        "用語"
+      ],
+      "distractors": {
+        "easy": [
+          "荘園制",
+          "班田収授法",
+          "楽市楽座"
+        ],
+        "medium": [
+          "秩禄処分",
+          "地租改正",
+          "士族授産"
+        ],
+        "hard": [
+          "小作争議",
+          "地主手作",
+          "豪農支配"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】八幡製鉄所の建設資金のもとになった賠償金は、どの戦争で得られたものか。",
+      "verso": "日清戦争",
+      "explanation": "下関条約の賠償金が使われた。日露戦争のポーツマス条約では賠償金が得られていない。",
+      "tags": [
+        "piege",
+        "重工業"
+      ],
+      "distractors": {
+        "easy": [
+          "太平洋戦争",
+          "第一次世界大戦",
+          "戊辰戦争"
+        ],
+        "medium": [
+          "日露戦争",
+          "西南戦争",
+          "日中戦争"
+        ],
+        "hard": [
+          "北清事変",
+          "台湾出兵",
+          "甲午農民戦争"
+        ]
+      }
+    }
+  ]
+}

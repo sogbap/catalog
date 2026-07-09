@@ -1,0 +1,532 @@
+{
+  "id": "jp-koukou-rekishi-sougou-koudo-keizai-seichou",
+  "title": "高度経済成長",
+  "emoji": "🚄",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "所得倍増計画から東京オリンピック、公害、沖縄返還、石油危機まで。経済大国への歩みとその代償を学ぶ。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>高度経済成長</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・歴史総合<br>\n  <b>大項目D：</b>グローバル化と私たち<br>\n  <b>時期：</b>1950年代なかば〜1973年\n</div>\n\n<blockquote>\n  <p><b>問い</b>　急速な経済成長は人々の生活をどう変え、何を代償としたのだろうか。</p>\n</blockquote>\n\n<p>1950年代なかばから、日本経済は年平均10％前後という驚異的な成長を続けた（<strong>高度経済成長</strong>）。<strong>所得倍増計画</strong>、<strong>東京オリンピック</strong>と<strong>新幹線</strong>、家電の普及——生活は一変した。しかしその裏では<strong>四大公害病</strong>が人々を苦しめ、農村では<strong>過疎</strong>が進んだ。成長の時代は1973年の<strong>石油危機</strong>で幕を閉じる。</p>\n\n<h2>1・経済の季節へ ― 安保闘争と所得倍増</h2>\n\n<p>1960年、岸信介内閣が日米新安全保障条約の批准を強行すると、国会を包囲する<strong>安保闘争</strong>がおこった。条約の成立後に岸内閣は退陣し、かわった<strong>池田勇人</strong>内閣は「10年で所得を2倍に」という<strong>所得倍増計画</strong>をかかげて、国民の関心を政治の対立から経済成長へと導いた。</p>\n\n<p>技術革新と設備投資、豊富な若い労働力、安価な石油が成長を支えた。1956年の経済白書はすでに「<strong>もはや戦後ではない</strong>」と宣言していた。</p>\n\n<div class=\"callout\">\n  <strong>用語・高度経済成長</strong><br>\n  1950年代なかばから1973年の石油危機まで、日本経済が年平均10％前後で成長を続けた時期。世界第2位の経済大国への歩みとなった。\n</div>\n\n<h2>2・生活革命 ― 三種の神器から3Cへ</h2>\n\n<p>家庭には家電が普及した。1950年代後半には<strong>三種の神器</strong>（白黒テレビ・電気洗濯機・電気冷蔵庫）、1960年代後半には<strong>3C</strong>（カラーテレビ・クーラー・自動車）が豊かさの象徴となり、「消費は美徳」といわれる大衆消費社会が生まれた。</p>\n\n<p>1964年には<strong>東京オリンピック</strong>がアジアで初めて開かれ、同年に<strong>東海道新幹線</strong>が開業。1970年の<strong>大阪万博</strong>には6400万人が訪れた。一方、農村から都市への人口移動で、都市の<strong>過密</strong>と農村の<strong>過疎</strong>が進んだ。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"三種の神器と3Cの比較\">\n  <!-- 左：三種の神器 -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">三種の神器</text>\n  <text x=\"87\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">1950年代後半</text>\n  <text x=\"26\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">白黒テレビ</text>\n  <text x=\"26\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">電気洗濯機</text>\n  <text x=\"26\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">電気冷蔵庫</text>\n  <!-- 右：3C -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">3C</text>\n  <text x=\"253\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">1960年代後半</text>\n  <text x=\"192\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">カラーテレビ</text>\n  <text x=\"192\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">クーラー</text>\n  <text x=\"192\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">自動車（カー）</text>\n</svg>\n<figcaption>消費の目標が一段上がった。テレビが白黒からカラーへ変わる点に注目。</figcaption>\n</figure>\n\n<h2>3・成長の代償 ― 公害</h2>\n\n<p>成長の裏で公害が深刻化した。熊本の<strong>水俣病</strong>、<strong>新潟水俣病</strong>、<strong>四日市ぜんそく</strong>、富山の<strong>イタイイタイ病</strong>は<strong>四大公害病</strong>と呼ばれ、いずれの裁判でも患者側が勝訴した。</p>\n\n<p>世論の高まりを受けて、1967年に<strong>公害対策基本法</strong>が制定され、1971年には<strong>環境庁</strong>が設置された。明治の足尾銅山鉱毒事件から続く「経済発展と人間の生命」という問いが、あらためて社会に突きつけられた。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 250\" role=\"img\" aria-label=\"四大公害病。水俣病、新潟水俣病、四日市ぜんそく、イタイイタイ病\">\n  <defs>\n    <marker id=\"ar-kk1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 四大公害病（強調） -->\n  <rect x=\"85\" y=\"8\" width=\"170\" height=\"56\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"33\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">四大公害病</text>\n  <text x=\"170\" y=\"53\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11\">すべて患者側が勝訴</text>\n  <!-- 矢印 -->\n  <path d=\"M170,70 L46,110\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-kk1)\"/>\n  <path d=\"M170,70 L128,110\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-kk1)\"/>\n  <path d=\"M170,70 L210,110\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-kk1)\"/>\n  <path d=\"M170,70 L292,110\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-kk1)\"/>\n  <!-- 水俣病 -->\n  <rect x=\"10\" y=\"118\" width=\"72\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"46\" y=\"146\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11.5\" font-weight=\"700\">水俣病</text>\n  <text x=\"46\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">熊本県</text>\n  <text x=\"46\" y=\"192\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">メチル水銀</text>\n  <!-- 新潟水俣病 -->\n  <rect x=\"92\" y=\"118\" width=\"72\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"128\" y=\"146\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">新潟水俣病</text>\n  <text x=\"128\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">新潟県</text>\n  <text x=\"128\" y=\"192\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">阿賀野川</text>\n  <!-- 四日市ぜんそく -->\n  <rect x=\"174\" y=\"118\" width=\"72\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"210\" y=\"146\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">四日市</text>\n  <text x=\"210\" y=\"162\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">ぜんそく</text>\n  <text x=\"210\" y=\"192\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">大気汚染</text>\n  <!-- イタイイタイ病 -->\n  <rect x=\"256\" y=\"118\" width=\"72\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"292\" y=\"146\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">イタイイタイ病</text>\n  <text x=\"292\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">富山県</text>\n  <text x=\"292\" y=\"192\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">カドミウム</text>\n</svg>\n<figcaption>場所と原因物質の組み合わせがよく問われる。</figcaption>\n</figure>\n\n<h2>4・外交の前進と成長の終わり</h2>\n\n<p>外交でも大きな動きが続いた。1965年の<strong>日韓基本条約</strong>で韓国と国交を樹立し、1972年には<strong>佐藤栄作</strong>内閣のもとで<strong>沖縄の本土復帰</strong>が実現した（「核抜き・本土並み」、<strong>非核三原則</strong>）。同じ1972年、<strong>田中角栄</strong>首相が<strong>日中共同声明</strong>に調印して中国との国交を正常化した。</p>\n\n<p>1973年、第四次中東戦争をきっかけに原油価格が急騰する<strong>石油危機</strong>がおこり、翌年日本は戦後初のマイナス成長となって、高度経済成長の時代は終わった。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 427\" role=\"img\" aria-label=\"高度経済成長をめぐる年表\">\n  <line x1=\"74\" y1=\"22\" x2=\"74\" y2=\"409\" style=\"stroke:var(--accent);stroke-width:3;stroke-linecap:round\"/>\n  <!-- 1956 -->\n  <circle cx=\"74\" cy=\"40\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"45\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1956</text>\n  <text x=\"90\" y=\"45\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">「もはや戦後ではない」</text>\n  <!-- 1960 -->\n  <circle cx=\"74\" cy=\"101\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"106\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1960</text>\n  <text x=\"90\" y=\"106\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">安保闘争・所得倍増計画</text>\n  <!-- 1964 -->\n  <circle cx=\"74\" cy=\"162\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"167\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1964</text>\n  <text x=\"90\" y=\"167\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">東京五輪・東海道新幹線</text>\n  <!-- 1965 -->\n  <circle cx=\"74\" cy=\"223\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"228\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1965</text>\n  <text x=\"90\" y=\"228\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">日韓基本条約</text>\n  <!-- 1967 -->\n  <circle cx=\"74\" cy=\"284\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"289\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1967</text>\n  <text x=\"90\" y=\"289\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">公害対策基本法</text>\n  <!-- 1972 -->\n  <circle cx=\"74\" cy=\"345\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"350\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1972</text>\n  <text x=\"90\" y=\"350\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">沖縄返還・日中共同声明</text>\n  <!-- 1973 -->\n  <circle cx=\"74\" cy=\"406\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"411\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1973</text>\n  <text x=\"90\" y=\"411\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">石油危機（成長の終わり）</text>\n</svg>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>年</th><th>できごと</th></tr>\n  <tr><td>1956年</td><td>「もはや戦後ではない」（経済白書）</td></tr>\n  <tr><td>1960年</td><td>安保闘争・池田内閣の所得倍増計画</td></tr>\n  <tr><td>1964年</td><td>東京オリンピック・東海道新幹線開業</td></tr>\n  <tr><td>1965年</td><td>日韓基本条約</td></tr>\n  <tr><td>1967年</td><td>公害対策基本法（71年に環境庁）</td></tr>\n  <tr><td>1970年</td><td>大阪万博</td></tr>\n  <tr><td>1972年</td><td>沖縄の本土復帰・日中共同声明</td></tr>\n  <tr><td>1973年</td><td>石油危機（高度成長の終わり）</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>所得倍増計画</td><td>池田内閣の経済優先政策（1960年）</td></tr>\n  <tr><td>三種の神器</td><td>白黒テレビ・電気洗濯機・電気冷蔵庫</td></tr>\n  <tr><td>3C</td><td>カラーテレビ・クーラー・自動車</td></tr>\n  <tr><td>四大公害病</td><td>水俣病・新潟水俣病・四日市ぜんそく・イタイイタイ病</td></tr>\n  <tr><td>非核三原則</td><td>核兵器を持たず・つくらず・持ちこませず</td></tr>\n  <tr><td>石油危機</td><td>1973年、原油高騰で高度成長が終わったこと</td></tr>\n</table>\n\n<h3>重要人物</h3>\n\n<table>\n  <tr><th>人物</th><th>役割</th></tr>\n  <tr><td>池田勇人</td><td>所得倍増計画で経済の時代を開いた首相</td></tr>\n  <tr><td>佐藤栄作</td><td>沖縄返還を実現。非核三原則でノーベル平和賞</td></tr>\n  <tr><td>田中角栄</td><td>日中共同声明で中国と国交正常化した首相</td></tr>\n  <tr><td>岸信介</td><td>新安保条約を成立させ、安保闘争で退陣した首相</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  <b>沖縄返還と日中国交正常化は同じ1972年</b>。また<b>日中共同声明</b>（1972年・国交正常化）と<b>日中平和友好条約</b>（1978年）は別物で、声明が先。<b>三種の神器</b>（白黒テレビ）と<b>3C</b>（カラーテレビ）のテレビの違いにも注意。\n</div>\n\n<blockquote>\n  <p>約20年で日本は世界第2位の経済大国になり、人々の暮らしは一変した。しかしその豊かさは、公害の犠牲者や過疎の農村、米軍基地が残る沖縄を伴うものだった。石油危機で成長の前提が崩れたとき、日本と世界はグローバル化という新しい局面に入っていく。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "歴史総合 ― グローバル化と私たち",
+  "cards": [
+    {
+      "recto": "1950年代なかばから1973年まで、日本経済が年平均10％前後の成長を続けた時期を何というか。",
+      "verso": "高度経済成長",
+      "explanation": "「もはや戦後ではない」（1956年）から石油危機（1973年）まで。生活は豊かになったが公害などの代償も生んだ。",
+      "tags": [
+        "経済",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "バブル経済",
+          "大戦景気",
+          "文明開化"
+        ],
+        "medium": [
+          "特需景気",
+          "戦後復興",
+          "安定成長"
+        ],
+        "hard": [
+          "いざなぎ景気",
+          "神武景気",
+          "岩戸景気"
+        ]
+      }
+    },
+    {
+      "recto": "1960年、「10年間で国民の所得を2倍にする」とかかげた池田勇人内閣の政策を何というか。",
+      "verso": "所得倍増計画",
+      "explanation": "安保闘争で退陣した岸内閣のあと、政治の対立から経済成長へと国民の関心を導いた。",
+      "tags": [
+        "政策",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "ニューディール",
+          "殖産興業",
+          "傾斜生産方式"
+        ],
+        "medium": [
+          "経済安定九原則",
+          "国民皆保険計画",
+          "全国総合開発計画"
+        ],
+        "hard": [
+          "月給二倍論",
+          "新長期経済計画",
+          "経済自立五カ年計画"
+        ]
+      }
+    },
+    {
+      "recto": "所得倍増計画をかかげ、「寛容と忍耐」を唱えた首相は誰か。",
+      "verso": "池田勇人",
+      "explanation": "経済優先の政治への転換を象徴する首相。沖縄返還の佐藤栄作と混同しない。",
+      "tags": [
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "吉田茂",
+          "原敬",
+          "東条英機"
+        ],
+        "medium": [
+          "佐藤栄作",
+          "岸信介",
+          "田中角栄"
+        ],
+        "hard": [
+          "石橋湛山",
+          "福田赳夫",
+          "大平正芳"
+        ]
+      }
+    },
+    {
+      "recto": "1960年、日米新安全保障条約の批准をめぐって国会を包囲する大規模なデモがおこった。この反対運動を何というか。",
+      "verso": "安保闘争",
+      "explanation": "岸信介内閣は条約の自然成立後に退陣した。戦後最大級の大衆運動とされる。",
+      "tags": [
+        "政治",
+        "運動"
+      ],
+      "distractors": {
+        "easy": [
+          "自由民権運動",
+          "米騒動",
+          "護憲運動"
+        ],
+        "medium": [
+          "ベトナム反戦運動",
+          "全共闘運動",
+          "砂川闘争"
+        ],
+        "hard": [
+          "60年反基地闘争",
+          "70年安保闘争",
+          "三池闘争"
+        ]
+      }
+    },
+    {
+      "recto": "1950年代後半に「三種の神器」と呼ばれた三つの家電製品は何か。",
+      "verso": "白黒テレビ・電気洗濯機・電気冷蔵庫",
+      "explanation": "家事労働を軽減し生活を大きく変えた。1960年代後半の3C（新三種の神器）と区別する。",
+      "tags": [
+        "生活",
+        "消費"
+      ],
+      "distractors": {
+        "easy": [
+          "スマートフォン・パソコン・ゲーム機",
+          "自動車・クーラー・カラーテレビ",
+          "ラジオ・蓄音機・ミシン"
+        ],
+        "medium": [
+          "カラーテレビ・クーラー・自動車",
+          "白黒テレビ・掃除機・冷蔵庫",
+          "洗濯機・炊飯器・テレビ"
+        ],
+        "hard": [
+          "白黒テレビ・電気釜・冷蔵庫",
+          "テレビ・洗濯機・扇風機",
+          "電気冷蔵庫・洗濯機・ステレオ"
+        ]
+      }
+    },
+    {
+      "recto": "1960年代後半に普及がめざされた「3C」と呼ばれる三つの耐久消費財は何か。",
+      "verso": "カラーテレビ・クーラー・自動車（カー）",
+      "explanation": "頭文字がすべてCなので3C。三種の神器（白黒テレビ・洗濯機・冷蔵庫）の次の段階として問われる。",
+      "tags": [
+        "生活",
+        "消費"
+      ],
+      "distractors": {
+        "easy": [
+          "パソコン・携帯電話・カメラ",
+          "白黒テレビ・洗濯機・冷蔵庫",
+          "ラジオ・自転車・ミシン"
+        ],
+        "medium": [
+          "カラーテレビ・冷蔵庫・自動車",
+          "クーラー・洗濯機・カメラ",
+          "カラーテレビ・クーラー・カメラ"
+        ],
+        "hard": [
+          "カー・クーラー・コンピュータ",
+          "カラーテレビ・カー・キッチン",
+          "クーラー・カー・カセット"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】1950年代後半の「三種の神器」と、1960年代後半の「3C」を、それぞれ何を指すか順に答えよ。",
+      "verso": "白黒テレビ・洗濯機・冷蔵庫と、カラーテレビ・クーラー・自動車",
+      "explanation": "消費の段階が上がったことを示す対比。テレビが白黒からカラーに変わる点が覚えるポイント。",
+      "tags": [
+        "comparaison",
+        "消費"
+      ],
+      "distractors": {
+        "easy": [
+          "ラジオ・ミシン・自転車と、テレビ・洗濯機・冷蔵庫",
+          "米・味噌・醤油と、パン・肉・牛乳",
+          "電話・電報・郵便と、テレビ・ラジオ・新聞"
+        ],
+        "medium": [
+          "カラーテレビ・クーラー・自動車と、白黒テレビ・洗濯機・冷蔵庫",
+          "白黒テレビ・洗濯機・冷蔵庫と、パソコン・携帯・カメラ",
+          "洗濯機・冷蔵庫・掃除機と、カラーテレビ・クーラー・自動車"
+        ],
+        "hard": [
+          "白黒テレビ・冷蔵庫・掃除機と、カラーテレビ・クーラー・自動車",
+          "白黒テレビ・洗濯機・冷蔵庫と、カラーテレビ・カー・コンピュータ",
+          "テレビ・洗濯機・炊飯器と、クーラー・カー・カラーテレビ"
+        ]
+      }
+    },
+    {
+      "recto": "1964年、アジアで初めて開かれたオリンピックの開催都市はどこか。",
+      "verso": "東京",
+      "explanation": "同年に東海道新幹線が開業し、高度成長の象徴となった。2回目の東京大会は2021年（2020大会）。",
+      "tags": [
+        "象徴",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "大阪",
+          "北京",
+          "ソウル"
+        ],
+        "medium": [
+          "札幌",
+          "長野",
+          "メルボルン"
+        ],
+        "hard": [
+          "名古屋",
+          "福岡",
+          "ヘルシンキ"
+        ]
+      }
+    },
+    {
+      "recto": "東京オリンピックの年に開業した、東京・新大阪間を結ぶ高速鉄道を何というか。",
+      "verso": "東海道新幹線",
+      "explanation": "1964年開業。「夢の超特急」と呼ばれ、高度経済成長の技術力を象徴した。",
+      "tags": [
+        "象徴",
+        "交通"
+      ],
+      "distractors": {
+        "easy": [
+          "リニア中央新幹線",
+          "山手線",
+          "青函トンネル"
+        ],
+        "medium": [
+          "山陽新幹線",
+          "東北新幹線",
+          "特急こだま（在来線）"
+        ],
+        "hard": [
+          "弾丸列車計画",
+          "東海道本線電化",
+          "名神高速道路"
+        ]
+      }
+    },
+    {
+      "recto": "1970年、「人類の進歩と調和」をテーマにアジアで初めて開かれた博覧会はどこで開催されたか。",
+      "verso": "大阪（日本万国博覧会）",
+      "explanation": "太陽の塔で知られる大阪万博。6400万人が訪れ、豊かさの時代の象徴となった。",
+      "tags": [
+        "象徴"
+      ],
+      "distractors": {
+        "easy": [
+          "東京",
+          "名古屋",
+          "パリ"
+        ],
+        "medium": [
+          "つくば",
+          "沖縄",
+          "愛知"
+        ],
+        "hard": [
+          "神戸",
+          "京都",
+          "横浜"
+        ]
+      }
+    },
+    {
+      "recto": "高度成長の裏で深刻化した、水俣病・新潟水俣病・四日市ぜんそく・イタイイタイ病をまとめて何と呼ぶか。",
+      "verso": "四大公害病",
+      "explanation": "いずれも裁判で患者側が勝訴した。明治の足尾銅山鉱毒事件から続く「成長の代償」の問題。",
+      "tags": [
+        "公害",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "生活習慣病",
+          "感染症",
+          "職業病"
+        ],
+        "medium": [
+          "風土病",
+          "産業災害",
+          "薬害"
+        ],
+        "hard": [
+          "四大鉱害",
+          "四大薬害",
+          "指定公害病"
+        ]
+      }
+    },
+    {
+      "recto": "熊本県の化学工場が海に流したメチル水銀が原因でおこった公害病を何というか。",
+      "verso": "水俣病",
+      "explanation": "チッソの工場排水が原因。新潟県の阿賀野川流域でも同様の新潟水俣病がおこった。",
+      "tags": [
+        "公害"
+      ],
+      "distractors": {
+        "easy": [
+          "インフルエンザ",
+          "結核",
+          "熱中症"
+        ],
+        "medium": [
+          "イタイイタイ病",
+          "四日市ぜんそく",
+          "新潟水俣病"
+        ],
+        "hard": [
+          "カネミ油症",
+          "森永ヒ素ミルク事件",
+          "土呂久砒素公害"
+        ]
+      }
+    },
+    {
+      "recto": "公害問題の深刻化を受けて1967年に制定された法律は何か。",
+      "verso": "公害対策基本法",
+      "explanation": "1971年には環境庁も設置された。現在は環境基本法（1993年）に引きつがれている。",
+      "tags": [
+        "公害",
+        "法律"
+      ],
+      "distractors": {
+        "easy": [
+          "日本国憲法",
+          "工場法",
+          "労働基準法"
+        ],
+        "medium": [
+          "環境基本法",
+          "大気汚染防止法",
+          "水質汚濁防止法"
+        ],
+        "hard": [
+          "自然環境保全法",
+          "公害健康被害補償法",
+          "典型七公害指定令"
+        ]
+      }
+    },
+    {
+      "recto": "1965年、日本が韓国と国交を樹立した条約を何というか。",
+      "verso": "日韓基本条約",
+      "explanation": "佐藤栄作内閣が締結。植民地支配をめぐる認識の違いは、その後も課題として残った。",
+      "tags": [
+        "外交"
+      ],
+      "distractors": {
+        "easy": [
+          "下関条約",
+          "日朝修好条規",
+          "サンフランシスコ平和条約"
+        ],
+        "medium": [
+          "日中共同声明",
+          "日韓協約",
+          "日朝平壌宣言"
+        ],
+        "hard": [
+          "日韓請求権協定",
+          "日韓漁業協定",
+          "日韓地位協定"
+        ]
+      }
+    },
+    {
+      "recto": "1972年、アメリカの統治下にあった沖縄が日本に復帰した。このときの首相は誰か。",
+      "verso": "佐藤栄作",
+      "explanation": "「核抜き・本土並み」をかかげ、非核三原則とあわせてノーベル平和賞を受賞した。",
+      "tags": [
+        "沖縄",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "吉田茂",
+          "マッカーサー",
+          "原敬"
+        ],
+        "medium": [
+          "池田勇人",
+          "田中角栄",
+          "岸信介"
+        ],
+        "hard": [
+          "三木武夫",
+          "福田赳夫",
+          "大平正芳"
+        ]
+      }
+    },
+    {
+      "recto": "「核兵器を持たず、つくらず、持ちこませず」という日本の方針を何というか。",
+      "verso": "非核三原則",
+      "explanation": "佐藤栄作内閣が表明し、国是とされてきた。沖縄返還・ノーベル平和賞とセットで問われる。",
+      "tags": [
+        "核",
+        "用語"
+      ],
+      "distractors": {
+        "easy": [
+          "平和五原則",
+          "武器輸出三原則",
+          "専守防衛"
+        ],
+        "medium": [
+          "核拡散防止条約",
+          "平和十原則",
+          "国是三原則"
+        ],
+        "hard": [
+          "非核二・五原則",
+          "核持ち込み密約",
+          "非核化宣言"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】沖縄の本土復帰と日中国交正常化は、ともに何年のできごとか。",
+      "verso": "1972年",
+      "explanation": "同じ1972年に沖縄返還（5月）と日中共同声明（9月・田中角栄）が続いた。年号の重なりがよく問われる。",
+      "tags": [
+        "piege",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "1945年",
+          "1956年",
+          "1989年"
+        ],
+        "medium": [
+          "1965年",
+          "1970年",
+          "1978年"
+        ],
+        "hard": [
+          "1971年",
+          "1973年",
+          "1969年"
+        ]
+      }
+    },
+    {
+      "recto": "1972年、田中角栄首相が調印して中華人民共和国との国交を正常化した文書を何というか。",
+      "verso": "日中共同声明",
+      "explanation": "1978年の日中平和友好条約と混同しやすい。声明（1972年・国交正常化）が先、条約（1978年）が後。",
+      "tags": [
+        "外交",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "下関条約",
+          "二十一カ条の要求",
+          "日ソ共同宣言"
+        ],
+        "medium": [
+          "日中平和友好条約",
+          "日華平和条約",
+          "日中貿易協定"
+        ],
+        "hard": [
+          "日中共同宣言",
+          "上海コミュニケ",
+          "日台交流基本協定"
+        ]
+      }
+    },
+    {
+      "recto": "1973年、第四次中東戦争をきっかけに原油価格が急騰し、高度経済成長が終わったできごとを何というか。",
+      "verso": "石油危機（オイル・ショック）",
+      "explanation": "トイレットペーパー買いだめ騒動もおこった。翌1974年、日本は戦後初のマイナス成長となった。",
+      "tags": [
+        "経済",
+        "転換点"
+      ],
+      "distractors": {
+        "easy": [
+          "世界恐慌",
+          "バブル崩壊",
+          "リーマン・ショック"
+        ],
+        "medium": [
+          "ニクソン・ショック",
+          "第二次石油危機",
+          "円高不況"
+        ],
+        "hard": [
+          "ドル・ショック",
+          "スタグフレーション",
+          "狂乱物価"
+        ]
+      }
+    },
+    {
+      "recto": "高度成長期、農村から都市への人口移動が進んだ結果、農村側で深刻になった問題を何というか。",
+      "verso": "過疎（化）",
+      "explanation": "都市側では過密が問題になった。集団就職列車が象徴するように、若者が大都市圏へ移動した。",
+      "tags": [
+        "社会",
+        "用語"
+      ],
+      "distractors": {
+        "easy": [
+          "過密",
+          "少子化",
+          "都市化"
+        ],
+        "medium": [
+          "高齢化",
+          "農地の荒廃",
+          "限界集落化"
+        ],
+        "hard": [
+          "挙家離村",
+          "出稼ぎの増加",
+          "三ちゃん農業"
+        ]
+      }
+    }
+  ]
+}

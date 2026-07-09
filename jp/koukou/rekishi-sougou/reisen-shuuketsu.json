@@ -1,0 +1,533 @@
+{
+  "id": "jp-koukou-rekishi-sougou-reisen-shuuketsu",
+  "title": "冷戦終結とグローバル化",
+  "emoji": "🌐",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "石油危機後の世界からベルリンの壁崩壊、ソ連解体、バブル経済、現代の課題まで。グローバル化の時代を学ぶ。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>冷戦終結とグローバル化</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・歴史総合<br>\n  <b>大項目D：</b>グローバル化と私たち<br>\n  <b>時期：</b>1970年代〜現代\n</div>\n\n<blockquote>\n  <p><b>問い</b>　冷戦の終わりとグローバル化は、世界と日本に何をもたらしたのだろうか。</p>\n</blockquote>\n\n<p>石油危機後の世界は、<strong>ニクソン・ショック</strong>と変動相場制、<strong>プラザ合意</strong>と円高を経て、経済の相互依存を深めていった。1989年の<strong>ベルリンの壁崩壊</strong>と<strong>マルタ会談</strong>、1991年の<strong>ソ連解体</strong>で冷戦は終わり、世界は<strong>グローバル化</strong>の時代に入る。日本では<strong>バブル経済</strong>とその崩壊、<strong>55年体制の崩壊</strong>が続き、震災やテロ、環境問題という新しい課題が現れた。</p>\n\n<h2>1・揺らぐ経済の土台 ― ドルと石油</h2>\n\n<p>ベトナム戦争の泥沼化で疲弊したアメリカは、1971年にドルと金の交換停止を発表した（<strong>ニクソン・ショック</strong>）。固定相場制は崩れ、円は<strong>変動相場制</strong>に移行する。1973年の<strong>石油危機</strong>とあわせて、戦後の経済成長を支えた「安いドルと安い石油」の時代が終わった。</p>\n\n<p>1985年の<strong>プラザ合意</strong>で急激な円高が進むと、日本では低金利を背景に地価と株価が異常に高騰する<strong>バブル経済</strong>が発生し、1991年ごろに崩壊して長い<strong>平成不況</strong>（失われた10年）が始まった。</p>\n\n<div class=\"callout\">\n  <strong>用語・グローバル化</strong><br>\n  ヒト・モノ・カネ・情報が国境をこえて移動し、世界の一体化が進むこと。冷戦の終結と情報技術の発達によって加速した。\n</div>\n\n<h2>2・冷戦の終結</h2>\n\n<p>1985年にソ連の指導者となった<strong>ゴルバチョフ</strong>は、<strong>ペレストロイカ</strong>（改革）と新思考外交を進めた。東欧で民主化革命が広がり、1989年11月に<strong>ベルリンの壁</strong>が崩壊。翌月の<strong>マルタ会談</strong>で米ソ首脳は<strong>冷戦の終結</strong>を宣言した。</p>\n\n<p>1990年に東西ドイツが統一され、1991年12月には<strong>ソ連が解体</strong>して、半世紀近く続いた東西対立は名実ともに終わった。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"ヤルタ会談とマルタ会談の比較。冷戦の始まりと終わり\">\n  <!-- 左：ヤルタ会談 -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">ヤルタ会談</text>\n  <text x=\"87\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">1945年</text>\n  <text x=\"26\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">米・英・ソの首脳</text>\n  <text x=\"26\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">戦後秩序の取り決め</text>\n  <text x=\"26\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">冷戦の出発点とされる</text>\n  <!-- 右：マルタ会談（強調） -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">マルタ会談</text>\n  <text x=\"253\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">1989年</text>\n  <text x=\"192\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">ブッシュとゴルバチョフ</text>\n  <text x=\"192\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">冷戦終結を宣言</text>\n  <text x=\"192\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">「ヤルタからマルタへ」</text>\n</svg>\n<figcaption>冷戦はヤルタに始まりマルタに終わる、と対で覚える。</figcaption>\n</figure>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 356\" role=\"img\" aria-label=\"ペレストロイカからベルリンの壁崩壊、マルタ会談、ソ連解体への流れ\">\n  <defs>\n    <marker id=\"ar-rs1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 段階1：ペレストロイカ -->\n  <g>\n    <rect x=\"14\" y=\"8\" width=\"312\" height=\"70\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"37\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">ペレストロイカ</text>\n    <text x=\"30\" y=\"60\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">ゴルバチョフのソ連改革（1985〜）</text>\n  </g>\n  <path d=\"M170,78 L170,96\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-rs1)\"/>\n  <!-- 段階2：壁の崩壊 -->\n  <g>\n    <rect x=\"14\" y=\"98\" width=\"312\" height=\"70\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"127\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">ベルリンの壁崩壊</text>\n    <text x=\"30\" y=\"150\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">東欧の民主化革命の頂点（1989.11）</text>\n  </g>\n  <path d=\"M170,168 L170,186\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-rs1)\"/>\n  <!-- 段階3：マルタ会談（強調） -->\n  <g>\n    <rect x=\"14\" y=\"188\" width=\"312\" height=\"70\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"217\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">マルタ会談</text>\n    <text x=\"30\" y=\"240\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">米ソ首脳が冷戦終結を宣言（1989.12）</text>\n  </g>\n  <path d=\"M170,258 L170,276\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-rs1)\"/>\n  <!-- 段階4：ソ連解体 -->\n  <g>\n    <rect x=\"14\" y=\"278\" width=\"312\" height=\"70\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"307\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">ソ連の解体</text>\n    <text x=\"30\" y=\"330\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">冷戦構造が名実ともに消滅（1991.12）</text>\n  </g>\n</svg>\n<figcaption>「ヤルタからマルタへ」。改革が連鎖して冷戦は終わった。</figcaption>\n</figure>\n\n<h2>3・冷戦後の日本 ― 湾岸戦争から55年体制の崩壊へ</h2>\n\n<p>1991年の<strong>湾岸戦争</strong>で、日本は多額の資金援助をしたが「カネだけ」と批判された。これを機に1992年に<strong>PKO協力法</strong>が成立し、自衛隊が国連平和維持活動としてカンボジアに派遣された。</p>\n\n<p>1993年には非自民の細川護熙連立内閣が成立し、<strong>55年体制</strong>が約38年で崩壊した。バブル崩壊後の経済低迷とあわせて、日本は政治・経済ともに転換期を迎えた。1995年の<strong>阪神・淡路大震災</strong>では多くのボランティアが活動し、「ボランティア元年」と呼ばれた。</p>\n\n<div class=\"callout\">\n  <strong>用語・PKO協力法</strong><br>\n  1992年に成立し、自衛隊の国連平和維持活動（PKO）への参加を可能にした法律。湾岸戦争での国際貢献をめぐる批判が背景にある。\n</div>\n\n<h2>4・グローバル化の光と影</h2>\n\n<p>ヨーロッパでは1993年に<strong>EU</strong>が発足し、共通通貨ユーロが導入された。世界の一体化は繁栄をもたらす一方、2001年の<strong>同時多発テロ</strong>は「対テロ戦争」の時代を開き、格差や地域紛争も世界化した。</p>\n\n<p>環境問題も国境をこえた課題となり、1997年の<strong>京都議定書</strong>、2015年のパリ協定へと国際的な取り組みが続く。2011年の<strong>東日本大震災</strong>と<strong>福島第一原子力発電所</strong>の事故は、エネルギーと科学技術のあり方を根本から問い直した。歴史総合の学びは、この「私たち」の課題へとつながっている。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 427\" role=\"img\" aria-label=\"冷戦終結とグローバル化をめぐる年表\">\n  <line x1=\"74\" y1=\"22\" x2=\"74\" y2=\"409\" style=\"stroke:var(--accent);stroke-width:3;stroke-linecap:round\"/>\n  <!-- 1971 -->\n  <circle cx=\"74\" cy=\"40\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"45\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1971</text>\n  <text x=\"90\" y=\"45\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">ニクソン・ショック</text>\n  <!-- 1985 -->\n  <circle cx=\"74\" cy=\"101\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"106\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1985</text>\n  <text x=\"90\" y=\"106\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">プラザ合意・ペレストロイカ</text>\n  <!-- 1989 -->\n  <circle cx=\"74\" cy=\"162\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"167\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1989</text>\n  <text x=\"90\" y=\"167\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">ベルリンの壁崩壊・マルタ会談</text>\n  <!-- 1991 -->\n  <circle cx=\"74\" cy=\"223\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"228\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1991</text>\n  <text x=\"90\" y=\"228\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">湾岸戦争・ソ連解体・バブル崩壊</text>\n  <!-- 1993 -->\n  <circle cx=\"74\" cy=\"284\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"289\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1993</text>\n  <text x=\"90\" y=\"289\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">55年体制の崩壊・EU発足</text>\n  <!-- 2001 -->\n  <circle cx=\"74\" cy=\"345\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"350\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">2001</text>\n  <text x=\"90\" y=\"350\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">同時多発テロ</text>\n  <!-- 2011 -->\n  <circle cx=\"74\" cy=\"406\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"411\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">2011</text>\n  <text x=\"90\" y=\"411\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">東日本大震災・原発事故</text>\n</svg>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>年</th><th>できごと</th></tr>\n  <tr><td>1971年</td><td>ニクソン・ショック（→変動相場制へ）</td></tr>\n  <tr><td>1985年</td><td>プラザ合意・ゴルバチョフのペレストロイカ</td></tr>\n  <tr><td>1989年</td><td>ベルリンの壁崩壊・マルタ会談（冷戦終結）</td></tr>\n  <tr><td>1991年</td><td>湾岸戦争・ソ連解体・バブル崩壊</td></tr>\n  <tr><td>1992年</td><td>PKO協力法（自衛隊カンボジア派遣）</td></tr>\n  <tr><td>1993年</td><td>55年体制の崩壊・EU発足</td></tr>\n  <tr><td>1995年</td><td>阪神・淡路大震災</td></tr>\n  <tr><td>2001年</td><td>同時多発テロ</td></tr>\n  <tr><td>2011年</td><td>東日本大震災・福島第一原発事故</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>グローバル化</td><td>ヒト・モノ・カネ・情報の国境をこえた一体化</td></tr>\n  <tr><td>ニクソン・ショック</td><td>ドルと金の交換停止（1971年）</td></tr>\n  <tr><td>プラザ合意</td><td>ドル高是正の合意。急激な円高を招いた</td></tr>\n  <tr><td>バブル経済</td><td>地価・株価が実態をこえて高騰した好景気</td></tr>\n  <tr><td>マルタ会談</td><td>1989年、米ソが冷戦終結を宣言した会談</td></tr>\n  <tr><td>PKO協力法</td><td>自衛隊の国連平和維持活動参加を可能にした法律</td></tr>\n</table>\n\n<h3>重要人物</h3>\n\n<table>\n  <tr><th>人物</th><th>役割</th></tr>\n  <tr><td>ゴルバチョフ</td><td>ペレストロイカを進め、冷戦終結に道を開いた</td></tr>\n  <tr><td>ブッシュ（父）</td><td>マルタ会談で冷戦終結を宣言した米大統領</td></tr>\n  <tr><td>ニクソン</td><td>金とドルの交換停止と訪中で世界を驚かせた</td></tr>\n  <tr><td>細川護熙</td><td>非自民連立内閣で55年体制を終わらせた首相</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  冷戦の終わりは<b>ベルリンの壁崩壊とマルタ会談が1989年、ソ連解体が1991年</b>という順序。また<b>ニクソン・ショック</b>（1971年・通貨）と<b>石油危機</b>（1973年・資源）、<b>ヤルタ会談</b>（1945年）と<b>マルタ会談</b>（1989年）をそれぞれ混同しないこと。\n</div>\n\n<blockquote>\n  <p>開国から約160年。日本は近代化・戦争・復興・成長をへて、グローバル化する世界の中に立っている。壁の崩壊が示したように、歴史は動き続ける。格差・環境・災害・平和——「歴史総合」が問いかけるのは、過去を手がかりに<strong>私たち</strong>がこれからの世界をどう生きるか、である。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "歴史総合 ― グローバル化と私たち",
+  "cards": [
+    {
+      "recto": "ヒト・モノ・カネ・情報が国境をこえて移動し、世界の一体化が進むことを何というか。",
+      "verso": "グローバル化",
+      "explanation": "冷戦終結と情報技術の発達で加速した。豊かさとともに、格差や環境問題などの課題も世界化した。",
+      "tags": [
+        "用語",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "鎖国",
+          "地産地消",
+          "ブロック経済"
+        ],
+        "medium": [
+          "国際化",
+          "自由貿易",
+          "情報化"
+        ],
+        "hard": [
+          "ボーダーレス化",
+          "多極化",
+          "地域統合"
+        ]
+      }
+    },
+    {
+      "recto": "1965年からアメリカが北爆を開始して本格化し、国際的な反戦運動を巻きおこした戦争を何というか。",
+      "verso": "ベトナム戦争",
+      "explanation": "アメリカは1973年に撤退し、1976年に南北ベトナムは社会主義国として統一された。冷戦下の代理戦争の代表例。",
+      "tags": [
+        "冷戦",
+        "戦争"
+      ],
+      "distractors": {
+        "easy": [
+          "朝鮮戦争",
+          "湾岸戦争",
+          "日露戦争"
+        ],
+        "medium": [
+          "インドシナ戦争",
+          "カンボジア内戦",
+          "中越戦争"
+        ],
+        "hard": [
+          "ラオス内戦",
+          "第一次インドシナ戦争",
+          "ベトナム独立戦争"
+        ]
+      }
+    },
+    {
+      "recto": "1971年、アメリカのニクソン大統領がドルと金の交換停止を発表して世界経済に衝撃をあたえたできごとを何というか。",
+      "verso": "ニクソン・ショック（ドル・ショック）",
+      "explanation": "固定相場制が崩れ、1973年から円は変動相場制に移行した。同年の訪中発表とあわせて二重の衝撃だった。",
+      "tags": [
+        "経済",
+        "転換点"
+      ],
+      "distractors": {
+        "easy": [
+          "世界恐慌",
+          "リーマン・ショック",
+          "石油危機"
+        ],
+        "medium": [
+          "プラザ合意",
+          "スミソニアン協定",
+          "ブレトン・ウッズ体制の成立"
+        ],
+        "hard": [
+          "金・ドル本位制の強化",
+          "キングストン合意",
+          "ルーブル合意"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】1971年にドルと金の交換が停止されたできごとと、1973年に原油価格が急騰したできごとを、順にそれぞれ何というか。",
+      "verso": "ニクソン・ショックと石油危機",
+      "explanation": "1970年代前半に世界経済を襲った二つの衝撃。通貨の危機（1971年）と資源の危機（1973年）を区別する。",
+      "tags": [
+        "piege",
+        "経済"
+      ],
+      "distractors": {
+        "easy": [
+          "世界恐慌とバブル崩壊",
+          "金解禁と昭和恐慌",
+          "大戦景気と戦後恐慌"
+        ],
+        "medium": [
+          "石油危機とニクソン・ショック",
+          "プラザ合意と石油危機",
+          "ニクソン・ショックと第二次石油危機"
+        ],
+        "hard": [
+          "スミソニアン合意と石油危機",
+          "ニクソン・ショックとプラザ合意",
+          "ドル危機と円高不況"
+        ]
+      }
+    },
+    {
+      "recto": "1985年、ドル高の是正で先進5か国が合意し、急激な円高のきっかけとなった取り決めを何というか。",
+      "verso": "プラザ合意",
+      "explanation": "円高不況への対策の低金利が、のちのバブル経済の一因となった。ニューヨークのプラザホテルで合意された。",
+      "tags": [
+        "経済"
+      ],
+      "distractors": {
+        "easy": [
+          "ポツダム宣言",
+          "ブレトン・ウッズ協定",
+          "日米安保条約"
+        ],
+        "medium": [
+          "ルーブル合意",
+          "スミソニアン協定",
+          "G7宣言"
+        ],
+        "hard": [
+          "ボルカー合意",
+          "東京サミット宣言",
+          "円ドル委員会合意"
+        ]
+      }
+    },
+    {
+      "recto": "1980年代後半、地価と株価が実態をこえて異常に高騰した日本の好景気を何というか。",
+      "verso": "バブル経済",
+      "explanation": "泡（バブル）のようにふくらんで1991年ごろ崩壊し、長い平成不況が始まった。",
+      "tags": [
+        "経済",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "高度経済成長",
+          "大戦景気",
+          "特需景気"
+        ],
+        "medium": [
+          "いざなぎ景気",
+          "円高景気",
+          "平成景気"
+        ],
+        "hard": [
+          "財テクブーム",
+          "地価狂乱",
+          "投機経済"
+        ]
+      }
+    },
+    {
+      "recto": "1985年にソ連の指導者となり、ペレストロイカ（改革）を進めた人物は誰か。",
+      "verso": "ゴルバチョフ",
+      "explanation": "グラスノスチ（情報公開）や新思考外交で冷戦終結に道を開いたが、ソ連の解体にもつながった。",
+      "tags": [
+        "人物",
+        "冷戦"
+      ],
+      "distractors": {
+        "easy": [
+          "レーニン",
+          "ナポレオン",
+          "毛沢東"
+        ],
+        "medium": [
+          "スターリン",
+          "フルシチョフ",
+          "ブレジネフ"
+        ],
+        "hard": [
+          "エリツィン",
+          "アンドロポフ",
+          "チェルネンコ"
+        ]
+      }
+    },
+    {
+      "recto": "1989年11月、東西冷戦の象徴だった建造物が市民によって壊された。これを何というか。",
+      "verso": "ベルリンの壁崩壊",
+      "explanation": "東欧の民主化革命の頂点となり、翌1990年に東西ドイツは統一された。1948年のベルリン封鎖と区別する。",
+      "tags": [
+        "冷戦",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "万里の長城の崩壊",
+          "バスチーユ襲撃",
+          "ベルリン封鎖"
+        ],
+        "medium": [
+          "プラハの春",
+          "ハンガリー動乱",
+          "東欧革命全体の呼び名"
+        ],
+        "hard": [
+          "ブランデンブルク門開放",
+          "チェックポイント・チャーリー事件",
+          "汎ヨーロッパ・ピクニック"
+        ]
+      }
+    },
+    {
+      "recto": "1989年12月、アメリカのブッシュ大統領とソ連のゴルバチョフ書記長が冷戦の終結を宣言した会談を何というか。",
+      "verso": "マルタ会談",
+      "explanation": "「ヤルタからマルタへ」と呼ばれた。ヤルタ会談（1945年・冷戦の出発点とされる）と対で覚える。",
+      "tags": [
+        "冷戦",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "ヤルタ会談",
+          "ポツダム会談",
+          "パリ講和会議"
+        ],
+        "medium": [
+          "レイキャビク会談",
+          "ジュネーブ会談",
+          "ウィーン会談"
+        ],
+        "hard": [
+          "モスクワ・サミット",
+          "ワシントン首脳会談",
+          "ヘルシンキ会議"
+        ]
+      }
+    },
+    {
+      "recto": "1991年12月、ゴルバチョフの辞任とともに解体した国はどこか。",
+      "verso": "ソ連（ソヴィエト連邦）",
+      "explanation": "ロシアなど各共和国が独立して独立国家共同体（CIS）を結成した。冷戦構造は名実ともに消滅した。",
+      "tags": [
+        "冷戦",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "アメリカ",
+          "中国",
+          "東ドイツ"
+        ],
+        "medium": [
+          "ユーゴスラビア",
+          "チェコスロバキア",
+          "ワルシャワ条約機構（組織）"
+        ],
+        "hard": [
+          "ロシア連邦",
+          "独立国家共同体",
+          "バルト三国"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】ベルリンの壁が崩壊した年と、ソ連が解体した年を、順にそれぞれ答えよ。",
+      "verso": "1989年と1991年",
+      "explanation": "壁の崩壊（1989年）→ドイツ統一（1990年）→ソ連解体（1991年）の順。冷戦終結の宣言（マルタ会談）も1989年。",
+      "tags": [
+        "comparaison",
+        "冷戦"
+      ],
+      "distractors": {
+        "easy": [
+          "1945年と1956年",
+          "1917年と1922年",
+          "2001年と2011年"
+        ],
+        "medium": [
+          "1991年と1989年",
+          "1989年と1990年",
+          "1990年と1991年"
+        ],
+        "hard": [
+          "1988年と1991年",
+          "1989年と1992年",
+          "1987年と1990年"
+        ]
+      }
+    },
+    {
+      "recto": "1991年、イラクのクウェート侵攻に対して多国籍軍が武力行使した戦争を何というか。",
+      "verso": "湾岸戦争",
+      "explanation": "日本は多額の資金援助をしたが国際的な評価は低く、自衛隊の海外派遣をめぐる議論のきっかけとなった。",
+      "tags": [
+        "世界",
+        "戦争"
+      ],
+      "distractors": {
+        "easy": [
+          "ベトナム戦争",
+          "朝鮮戦争",
+          "第一次世界大戦"
+        ],
+        "medium": [
+          "イラク戦争",
+          "イラン・イラク戦争",
+          "アフガニスタン紛争"
+        ],
+        "hard": [
+          "湾岸危機（侵攻段階）",
+          "砂漠の嵐作戦という作戦名",
+          "第二次湾岸戦争"
+        ]
+      }
+    },
+    {
+      "recto": "1992年に成立し、自衛隊の国連平和維持活動への参加を可能にした法律を何というか。",
+      "verso": "PKO協力法",
+      "explanation": "湾岸戦争での「カネだけ」批判が背景。最初の派遣先はカンボジアだった。",
+      "tags": [
+        "政治",
+        "法律"
+      ],
+      "distractors": {
+        "easy": [
+          "日本国憲法",
+          "自衛隊法",
+          "国家総動員法"
+        ],
+        "medium": [
+          "周辺事態法",
+          "テロ対策特別措置法",
+          "安全保障関連法"
+        ],
+        "hard": [
+          "国際平和支援法",
+          "海賊対処法",
+          "イラク復興支援特別措置法"
+        ]
+      }
+    },
+    {
+      "recto": "1993年、非自民の細川護熙連立内閣が成立して終わった、1955年以来の政治の枠組みを何というか。",
+      "verso": "55年体制",
+      "explanation": "自民党の長期政権と社会党の野党第一党という構図が約38年で崩れた。冷戦終結が背景にある。",
+      "tags": [
+        "政治",
+        "転換点"
+      ],
+      "distractors": {
+        "easy": [
+          "幕藩体制",
+          "戦時体制",
+          "大政翼賛体制"
+        ],
+        "medium": [
+          "憲政の常道",
+          "保守合同",
+          "二大政党制"
+        ],
+        "hard": [
+          "自社さ連立",
+          "国対政治",
+          "派閥政治"
+        ]
+      }
+    },
+    {
+      "recto": "1991年ごろのバブル崩壊後、日本経済が長く低迷した時期は何と呼ばれるか。",
+      "verso": "失われた10年（平成不況）",
+      "explanation": "金融機関の破綻が相次ぎ、デフレが続いた。低迷の長期化で「失われた20年・30年」とも呼ばれる。",
+      "tags": [
+        "経済"
+      ],
+      "distractors": {
+        "easy": [
+          "高度経済成長",
+          "大戦景気",
+          "岩戸景気"
+        ],
+        "medium": [
+          "昭和恐慌",
+          "円高不況",
+          "構造不況"
+        ],
+        "hard": [
+          "複合不況",
+          "デフレスパイラルという現象名",
+          "金融恐慌（1927年）"
+        ]
+      }
+    },
+    {
+      "recto": "1993年、マーストリヒト条約の発効によって発足したヨーロッパの地域統合組織を何というか。",
+      "verso": "EU（ヨーロッパ連合）",
+      "explanation": "共通通貨ユーロも導入された。前身のEC（ヨーロッパ共同体）から統合が深化した。",
+      "tags": [
+        "世界",
+        "統合"
+      ],
+      "distractors": {
+        "easy": [
+          "国際連合",
+          "NATO",
+          "ASEAN"
+        ],
+        "medium": [
+          "EC（ヨーロッパ共同体）",
+          "EFTA",
+          "欧州評議会"
+        ],
+        "hard": [
+          "EEC",
+          "ECSC",
+          "OSCE"
+        ]
+      }
+    },
+    {
+      "recto": "1995年1月17日、兵庫県南部を震源として神戸市などに甚大な被害を出した災害を何というか。",
+      "verso": "阪神・淡路大震災",
+      "explanation": "多くのボランティアが集まり「ボランティア元年」と呼ばれた。2011年の東日本大震災と区別する。",
+      "tags": [
+        "災害"
+      ],
+      "distractors": {
+        "easy": [
+          "関東大震災",
+          "伊勢湾台風",
+          "雲仙普賢岳噴火"
+        ],
+        "medium": [
+          "東日本大震災",
+          "新潟県中越地震",
+          "熊本地震"
+        ],
+        "hard": [
+          "北丹後地震",
+          "福井地震",
+          "鳥取県西部地震"
+        ]
+      }
+    },
+    {
+      "recto": "2001年9月11日、ハイジャックされた航空機がニューヨークの世界貿易センタービルなどに突入した事件を何というか。",
+      "verso": "同時多発テロ（9.11）",
+      "explanation": "アメリカは「対テロ戦争」としてアフガニスタン攻撃、のちイラク戦争へ向かった。21世紀の国際関係を変えた事件。",
+      "tags": [
+        "世界",
+        "事件"
+      ],
+      "distractors": {
+        "easy": [
+          "真珠湾攻撃",
+          "キューバ危機",
+          "ベルリン封鎖"
+        ],
+        "medium": [
+          "イラク戦争",
+          "アフガニスタン侵攻",
+          "オクラホマシティ爆破事件"
+        ],
+        "hard": [
+          "世界貿易センター爆破事件（1993年）",
+          "米大使館爆破事件",
+          "ロンドン同時爆破事件"
+        ]
+      }
+    },
+    {
+      "recto": "2011年3月11日の東日本大震災で、津波により重大な事故をおこした福島県の施設は何か。",
+      "verso": "福島第一原子力発電所",
+      "explanation": "チェルノブイリと並ぶ最悪レベルの原発事故となり、エネルギー政策の見直しを迫った。",
+      "tags": [
+        "災害",
+        "現代"
+      ],
+      "distractors": {
+        "easy": [
+          "八幡製鉄所",
+          "六本木ヒルズ",
+          "東京タワー"
+        ],
+        "medium": [
+          "福島第二原子力発電所",
+          "女川原子力発電所",
+          "東海第二発電所"
+        ],
+        "hard": [
+          "柏崎刈羽原子力発電所",
+          "もんじゅ",
+          "東海村JCO"
+        ]
+      }
+    },
+    {
+      "recto": "地球温暖化の防止のため、1997年に先進国の温室効果ガス削減目標を定めた取り決めを何というか。",
+      "verso": "京都議定書",
+      "explanation": "2015年には途上国も含む枠組みとしてパリ協定が結ばれた。環境問題のグローバル化を示す。",
+      "tags": [
+        "環境",
+        "現代"
+      ],
+      "distractors": {
+        "easy": [
+          "ポツダム宣言",
+          "国連憲章",
+          "サンフランシスコ平和条約"
+        ],
+        "medium": [
+          "パリ協定",
+          "気候変動枠組条約",
+          "モントリオール議定書"
+        ],
+        "hard": [
+          "ラムサール条約",
+          "バーゼル条約",
+          "名古屋議定書"
+        ]
+      }
+    }
+  ]
+}

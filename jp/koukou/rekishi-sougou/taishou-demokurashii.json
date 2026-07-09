@@ -1,0 +1,533 @@
+{
+  "id": "jp-koukou-rekishi-sougou-taishou-demokurashii",
+  "title": "大正デモクラシーと大衆社会",
+  "emoji": "🗳️",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "護憲運動から普通選挙法まで。米騒動、政党内閣、社会運動、大衆文化を通して大衆化の時代を学ぶ。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>大正デモクラシーと大衆社会</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・歴史総合<br>\n  <b>大項目C：</b>国際秩序の変化や大衆化と私たち<br>\n  <b>時期：</b>大正から昭和初期（1910〜20年代）\n</div>\n\n<blockquote>\n  <p><b>問い</b>　なぜこの時代に民衆の声が政治を動かすようになり、どこに限界があったのだろうか。</p>\n</blockquote>\n\n<p>第一次世界大戦の前後、日本では民主主義や政治的自由を求める<strong>大正デモクラシー</strong>の風潮が高まった。<strong>米騒動</strong>をきっかけに本格的な<strong>政党内閣</strong>が生まれ、1925年には<strong>普通選挙法</strong>が成立する。都市には<strong>大衆文化</strong>が花開き、社会の主役は「大衆」になっていった。</p>\n\n<h2>1・護憲運動と政党内閣</h2>\n\n<p>1912〜13年、「憲政擁護」をかかげる<strong>第一次護憲運動</strong>が藩閥の桂太郎内閣を退陣に追いこんだ。民衆の力が内閣を倒した最初のできごとである。政治学者の<strong>吉野作造</strong>は<strong>民本主義</strong>をとなえ、普通選挙と政党内閣の実現を説いた。憲法学者<strong>美濃部達吉</strong>の<strong>天皇機関説</strong>も、政党政治を支える理論となった。</p>\n\n<p>1918年、シベリア出兵を見こした米の買い占めから<strong>米騒動</strong>が全国に広がり、寺内内閣が倒れた。かわって立憲政友会の<strong>原敬</strong>が、初の本格的な<strong>政党内閣</strong>を組織した。華族でも藩閥でもない「<strong>平民宰相</strong>」の登場である。</p>\n\n<div class=\"callout\">\n  <strong>用語・民本主義</strong><br>\n  主権の所在を問わず、政治の目的を民衆の利益に置き、普通選挙と政党内閣を求める吉野作造の思想。天皇主権の憲法のもとで民主主義を実現する理論だった。\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 326\" role=\"img\" aria-label=\"米騒動から原敬内閣、普通選挙法への流れ\">\n  <defs>\n    <marker id=\"ar-td1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 段階1：米騒動 -->\n  <g>\n    <rect x=\"14\" y=\"8\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"40\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">米騒動</text>\n    <text x=\"30\" y=\"65\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">米価急騰への抗議が全国へ（1918）</text>\n  </g>\n  <path d=\"M170,88 L170,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-td1)\"/>\n  <!-- 段階2：原敬内閣 -->\n  <g>\n    <rect x=\"14\" y=\"110\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"142\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">原敬内閣</text>\n    <text x=\"30\" y=\"167\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">初の本格的な政党内閣（1918）</text>\n  </g>\n  <path d=\"M170,190 L170,210\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-td1)\"/>\n  <!-- 段階3：普通選挙法（強調） -->\n  <g>\n    <rect x=\"14\" y=\"212\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"244\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">普通選挙法</text>\n    <text x=\"30\" y=\"269\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">満25歳以上のすべての男子に選挙権（1925）</text>\n  </g>\n</svg>\n<figcaption>民衆の行動が内閣を動かし、普通選挙の実現へとつながった。</figcaption>\n</figure>\n\n<h2>2・普通選挙法と治安維持法</h2>\n\n<p>1924年の<strong>第二次護憲運動</strong>で成立した<strong>加藤高明</strong>の護憲三派内閣は、1925年に<strong>普通選挙法</strong>を制定した。納税額による制限が撤廃され、<strong>満25歳以上のすべての男子</strong>が選挙権をもち、有権者は約4倍に増えた。ただし<strong>女性の選挙権</strong>は認められなかった。</p>\n\n<p>同じ1925年、政府は<strong>治安維持法</strong>を制定し、社会主義運動を取りしまった。自由の拡大と統制の強化が同時に進んだこの組み合わせは「アメとムチ」と呼ばれる。以後、政党が交代で内閣を組織する「<strong>憲政の常道</strong>」の時代が続いた。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 230\" role=\"img\" aria-label=\"有権者数の全人口に対する割合の推移。1890年1.1パーセント、1902年2.2パーセント、1920年5.5パーセント、普通選挙法後の1928年は20.8パーセント\">\n  <!-- 目盛線 -->\n  <line x1=\"30\" y1=\"40\" x2=\"326\" y2=\"40\" style=\"stroke:currentColor;stroke-opacity:.15;stroke-width:1\"/>\n  <line x1=\"30\" y1=\"110\" x2=\"326\" y2=\"110\" style=\"stroke:currentColor;stroke-opacity:.15;stroke-width:1\"/>\n  <line x1=\"30\" y1=\"180\" x2=\"326\" y2=\"180\" style=\"stroke:currentColor;stroke-opacity:.35;stroke-width:1.5\"/>\n  <!-- 1890 -->\n  <rect x=\"42\" y=\"173\" width=\"50\" height=\"7\" rx=\"2\" style=\"fill:var(--accent);fill-opacity:.45\"/>\n  <text x=\"67\" y=\"165\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11\">1.1%</text>\n  <text x=\"67\" y=\"200\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\">1890</text>\n  <!-- 1902 -->\n  <rect x=\"114\" y=\"165\" width=\"50\" height=\"15\" rx=\"2\" style=\"fill:var(--accent);fill-opacity:.55\"/>\n  <text x=\"139\" y=\"157\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11\">2.2%</text>\n  <text x=\"139\" y=\"200\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\">1902</text>\n  <!-- 1920 -->\n  <rect x=\"186\" y=\"143\" width=\"50\" height=\"37\" rx=\"2\" style=\"fill:var(--accent);fill-opacity:.7\"/>\n  <text x=\"211\" y=\"135\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11\">5.5%</text>\n  <text x=\"211\" y=\"200\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\">1920</text>\n  <!-- 1928（強調） -->\n  <rect x=\"258\" y=\"40\" width=\"50\" height=\"140\" rx=\"2\" style=\"fill:var(--accent)\"/>\n  <text x=\"283\" y=\"32\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"800\">20.8%</text>\n  <text x=\"283\" y=\"200\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">1928</text>\n  <text x=\"170\" y=\"222\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">有権者が全人口に占める割合（総選挙の年）</text>\n</svg>\n<figcaption>普通選挙法後の1928年、有権者の割合は約20％に急増した。それでも女性は含まれていない。</figcaption>\n</figure>\n\n<h2>3・社会運動の高まり</h2>\n\n<p>デモクラシーの風潮のなか、さまざまな人々が声を上げた。労働運動では<strong>友愛会</strong>が発展して<strong>日本労働総同盟</strong>となり、農村では1922年に<strong>日本農民組合</strong>が結成されて小作争議を支えた。</p>\n\n<p>女性運動では、<strong>平塚らいてう</strong>が「元始、女性は太陽であった」と宣言した青鞜社に続き、1920年に市川房枝らと<strong>新婦人協会</strong>を設立して女性の政治参加を求めた。1922年には被差別部落の人々がみずから<strong>全国水平社</strong>を結成し、「人の世に熱あれ、人間に光あれ」とうたって差別からの解放を訴えた。</p>\n\n<div class=\"callout\">\n  <strong>用語・全国水平社</strong><br>\n  1922年、被差別部落の人々が差別からの解放を求めてみずから結成した団体。誰かに与えられるのではなく、当事者が立ち上がった点に意義がある。\n</div>\n\n<h2>4・大衆社会と関東大震災</h2>\n\n<p>都市ではサラリーマンや<strong>職業婦人</strong>が増え、新聞・雑誌・<strong>ラジオ放送</strong>（1925年開始）が広く普及して、多くの人々が担い手となる<strong>大衆文化</strong>が生まれた。1冊1円の<strong>円本</strong>や大衆雑誌『キング』がベストセラーとなった。</p>\n\n<p>1923年9月1日の<strong>関東大震災</strong>は東京・横浜に甚大な被害をもたらし、混乱のなかで朝鮮人などが殺傷される事件もおこった。震災からの復興は、近代都市・東京への改造を進めるきっかけともなった。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 427\" role=\"img\" aria-label=\"大正デモクラシーをめぐる年表\">\n  <line x1=\"74\" y1=\"22\" x2=\"74\" y2=\"409\" style=\"stroke:var(--accent);stroke-width:3;stroke-linecap:round\"/>\n  <!-- 1912 -->\n  <circle cx=\"74\" cy=\"40\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"45\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1912</text>\n  <text x=\"90\" y=\"45\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">第一次護憲運動（〜13）</text>\n  <!-- 1918 -->\n  <circle cx=\"74\" cy=\"101\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"106\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1918</text>\n  <text x=\"90\" y=\"106\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">米騒動・原敬内閣の成立</text>\n  <!-- 1920 -->\n  <circle cx=\"74\" cy=\"162\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"167\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1920</text>\n  <text x=\"90\" y=\"167\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">新婦人協会の設立</text>\n  <!-- 1922 -->\n  <circle cx=\"74\" cy=\"223\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"228\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1922</text>\n  <text x=\"90\" y=\"228\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">全国水平社・日本農民組合</text>\n  <!-- 1923 -->\n  <circle cx=\"74\" cy=\"284\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"289\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1923</text>\n  <text x=\"90\" y=\"289\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">関東大震災</text>\n  <!-- 1924 -->\n  <circle cx=\"74\" cy=\"345\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"350\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1924</text>\n  <text x=\"90\" y=\"350\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">第二次護憲運動</text>\n  <!-- 1925 -->\n  <circle cx=\"74\" cy=\"406\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"411\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1925</text>\n  <text x=\"90\" y=\"411\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">普通選挙法・治安維持法</text>\n</svg>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>年</th><th>できごと</th></tr>\n  <tr><td>1912〜13年</td><td>第一次護憲運動（桂内閣退陣）</td></tr>\n  <tr><td>1918年</td><td>米騒動・原敬の政党内閣成立</td></tr>\n  <tr><td>1920年</td><td>新婦人協会の設立</td></tr>\n  <tr><td>1922年</td><td>全国水平社・日本農民組合の結成</td></tr>\n  <tr><td>1923年</td><td>関東大震災</td></tr>\n  <tr><td>1924年</td><td>第二次護憲運動（加藤高明内閣へ）</td></tr>\n  <tr><td>1925年</td><td>普通選挙法・治安維持法・ラジオ放送開始</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>大正デモクラシー</td><td>民主主義や政治的自由の拡大を求めた風潮</td></tr>\n  <tr><td>民本主義</td><td>民衆本位の政治を求める吉野作造の思想</td></tr>\n  <tr><td>政党内閣</td><td>議会で多数を占める政党が組織する内閣</td></tr>\n  <tr><td>普通選挙法</td><td>満25歳以上のすべての男子に選挙権（1925年）</td></tr>\n  <tr><td>治安維持法</td><td>社会主義運動を取りしまった法律（1925年）</td></tr>\n  <tr><td>大衆文化</td><td>新聞・雑誌・ラジオが支えた多数の人々の文化</td></tr>\n</table>\n\n<h3>重要人物</h3>\n\n<table>\n  <tr><th>人物</th><th>役割</th></tr>\n  <tr><td>吉野作造</td><td>民本主義をとなえた政治学者</td></tr>\n  <tr><td>原敬</td><td>初の本格的な政党内閣を組織した「平民宰相」</td></tr>\n  <tr><td>加藤高明</td><td>護憲三派内閣の首相。普通選挙法を実現</td></tr>\n  <tr><td>平塚らいてう</td><td>青鞜社・新婦人協会で女性運動を主導した</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  1925年は<b>普通選挙法と治安維持法が同じ年</b>（アメとムチ）。また<b>治安警察法</b>（1900年）と<b>治安維持法</b>（1925年）は名前が似た別の法律。普通選挙といっても<b>女性の選挙権はまだない</b>ことに注意。\n</div>\n\n<blockquote>\n  <p>大正デモクラシーは、民衆・女性・被差別部落の人々など、それまで政治の外に置かれていた人々の声を社会に響かせた。しかし女性参政権は実現せず、治安維持法という統制の道具も生まれた。この光と影は、昭和恐慌と戦争の時代にどう試されるのだろうか。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "歴史総合 ― 国際秩序の変化や大衆化と私たち",
+  "cards": [
+    {
+      "recto": "大正時代、民主主義や政治的自由の拡大を求めて高まった風潮を何というか。",
+      "verso": "大正デモクラシー",
+      "explanation": "護憲運動や普通選挙運動、社会運動の高まりを総称する。第一次世界大戦後の世界的な民主主義の潮流と連動した。",
+      "tags": [
+        "大正",
+        "用語"
+      ],
+      "distractors": {
+        "easy": [
+          "文明開化",
+          "自由民権運動",
+          "高度経済成長"
+        ],
+        "medium": [
+          "昭和デモクラシー",
+          "民本主義",
+          "戦後民主主義"
+        ],
+        "hard": [
+          "大衆民主主義",
+          "普通選挙運動",
+          "護憲運動"
+        ]
+      }
+    },
+    {
+      "recto": "1912〜13年、「憲政擁護」をかかげて桂太郎内閣を退陣に追いこんだ運動を何というか。",
+      "verso": "第一次護憲運動",
+      "explanation": "尾崎行雄・犬養毅らが中心となり、藩閥内閣を倒した。1924年の第二次護憲運動と区別する。",
+      "tags": [
+        "護憲運動"
+      ],
+      "distractors": {
+        "easy": [
+          "自由民権運動",
+          "米騒動",
+          "安保闘争"
+        ],
+        "medium": [
+          "第二次護憲運動",
+          "普通選挙運動",
+          "大逆事件"
+        ],
+        "hard": [
+          "大正政変",
+          "憲政党運動",
+          "超然主義反対運動"
+        ]
+      }
+    },
+    {
+      "recto": "政治の目的を民衆の利益に置き、普通選挙と政党内閣を主張した吉野作造の思想を何というか。",
+      "verso": "民本主義",
+      "explanation": "主権の所在を問わず、天皇主権のもとでも民衆本位の政治は可能だと説いた。「民主主義」との用語の違いに注意。",
+      "tags": [
+        "思想",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "資本主義",
+          "帝国主義",
+          "尊王攘夷"
+        ],
+        "medium": [
+          "民主主義",
+          "自由主義",
+          "社会主義"
+        ],
+        "hard": [
+          "天皇機関説",
+          "国民主権論",
+          "民定主義"
+        ]
+      }
+    },
+    {
+      "recto": "民本主義をとなえて大正デモクラシーの理論的な支柱となった政治学者は誰か。",
+      "verso": "吉野作造",
+      "explanation": "雑誌『中央公論』で民本主義を説いた。天皇機関説の美濃部達吉と混同しない。",
+      "tags": [
+        "人物",
+        "思想"
+      ],
+      "distractors": {
+        "easy": [
+          "福沢諭吉",
+          "夏目漱石",
+          "伊藤博文"
+        ],
+        "medium": [
+          "美濃部達吉",
+          "河上肇",
+          "大山郁夫"
+        ],
+        "hard": [
+          "上杉慎吉",
+          "長谷川如是閑",
+          "石橋湛山"
+        ]
+      }
+    },
+    {
+      "recto": "天皇は国家の最高機関として憲法に従って統治するという、美濃部達吉の学説を何というか。",
+      "verso": "天皇機関説",
+      "explanation": "政党内閣を支える理論となったが、1935年に排撃された。吉野作造の民本主義と対で覚える。",
+      "tags": [
+        "思想"
+      ],
+      "distractors": {
+        "easy": [
+          "国民主権",
+          "王政復古",
+          "三権分立"
+        ],
+        "medium": [
+          "民本主義",
+          "天皇主権説",
+          "国体明徴"
+        ],
+        "hard": [
+          "天皇親政論",
+          "君主機関説",
+          "統帥権独立説"
+        ]
+      }
+    },
+    {
+      "recto": "1918年、シベリア出兵を見こした米の買い占めによる米価急騰に抗議して、富山県から全国に広がった騒動を何というか。",
+      "verso": "米騒動",
+      "explanation": "寺内正毅内閣が倒れ、原敬の政党内閣が成立するきっかけとなった。1918年＝シベリア出兵の年と結びつける。",
+      "tags": [
+        "社会",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "打ちこわし",
+          "秩父事件",
+          "オイルショック"
+        ],
+        "medium": [
+          "日比谷焼き打ち事件",
+          "小作争議",
+          "血のメーデー事件"
+        ],
+        "hard": [
+          "越中女一揆",
+          "食糧メーデー",
+          "廃娼運動"
+        ]
+      }
+    },
+    {
+      "recto": "1918年、立憲政友会の総裁として初の本格的な政党内閣を組織した「平民宰相」は誰か。",
+      "verso": "原敬",
+      "explanation": "華族でも藩閥出身でもない初の首相。ただし普通選挙には慎重で、1921年に暗殺された。",
+      "tags": [
+        "人物",
+        "政党内閣"
+      ],
+      "distractors": {
+        "easy": [
+          "伊藤博文",
+          "徳川慶喜",
+          "吉田茂"
+        ],
+        "medium": [
+          "加藤高明",
+          "犬養毅",
+          "大隈重信"
+        ],
+        "hard": [
+          "高橋是清",
+          "寺内正毅",
+          "清浦奎吾"
+        ]
+      }
+    },
+    {
+      "recto": "議会で多数を占める政党が組織する内閣を何というか。",
+      "verso": "政党内閣",
+      "explanation": "原敬内閣が初の本格的な政党内閣。藩閥や官僚による「超然内閣」と対になる用語。",
+      "tags": [
+        "政治",
+        "用語"
+      ],
+      "distractors": {
+        "easy": [
+          "幕府",
+          "連立政権",
+          "軍事政権"
+        ],
+        "medium": [
+          "超然内閣",
+          "挙国一致内閣",
+          "官僚内閣"
+        ],
+        "hard": [
+          "議院内閣制",
+          "責任内閣",
+          "元老内閣"
+        ]
+      }
+    },
+    {
+      "recto": "1924年の第二次護憲運動の結果成立し、翌年に普通選挙法を実現した護憲三派内閣の首相は誰か。",
+      "verso": "加藤高明",
+      "explanation": "憲政会・立憲政友会・革新倶楽部の護憲三派による内閣。以後「憲政の常道」と呼ばれる政党内閣の時代が続く。",
+      "tags": [
+        "人物",
+        "政党内閣"
+      ],
+      "distractors": {
+        "easy": [
+          "西郷隆盛",
+          "板垣退助",
+          "東条英機"
+        ],
+        "medium": [
+          "原敬",
+          "犬養毅",
+          "浜口雄幸"
+        ],
+        "hard": [
+          "清浦奎吾",
+          "若槻礼次郎",
+          "高橋是清"
+        ]
+      }
+    },
+    {
+      "recto": "1925年に成立した普通選挙法で、選挙権はどのような人々にあたえられたか。",
+      "verso": "満25歳以上のすべての男子",
+      "explanation": "納税額による制限が撤廃され、有権者は約4倍に増えた。ただし女性の選挙権は戦後（1945年）まで認められなかった。",
+      "tags": [
+        "選挙",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "すべての国民",
+          "満20歳以上の男女",
+          "華族の男子"
+        ],
+        "medium": [
+          "満20歳以上のすべての男子",
+          "満25歳以上の男女",
+          "直接国税3円以上を納める男子"
+        ],
+        "hard": [
+          "満25歳以上の納税男子",
+          "満30歳以上のすべての男子",
+          "満25歳以上の戸主"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】1925年、普通選挙法と同じ年に制定された、社会主義運動を取りしまる法律は何か。",
+      "verso": "治安維持法",
+      "explanation": "「アメとムチ」と呼ばれる組み合わせ。国体の変革や私有財産制度の否認を目的とする結社を禁じた。",
+      "tags": [
+        "piege",
+        "法律"
+      ],
+      "distractors": {
+        "easy": [
+          "日本国憲法",
+          "工場法",
+          "教育基本法"
+        ],
+        "medium": [
+          "治安警察法",
+          "保安条例",
+          "国家総動員法"
+        ],
+        "hard": [
+          "集会条例",
+          "思想犯保護観察法",
+          "破壊活動防止法"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】1900年に労働運動などを取りしまった法律と、1925年に社会主義を取りしまった法律を、順にそれぞれ何というか。",
+      "verso": "治安警察法と治安維持法",
+      "explanation": "治安警察法（1900年・第2次山県内閣）と治安維持法（1925年・加藤高明内閣）。名前が似ているので年代で区別する。",
+      "tags": [
+        "comparaison",
+        "法律"
+      ],
+      "distractors": {
+        "easy": [
+          "工場法と労働基準法",
+          "学制と教育基本法",
+          "徴兵令と国家総動員法"
+        ],
+        "medium": [
+          "治安維持法と治安警察法",
+          "保安条例と治安維持法",
+          "治安警察法と国家総動員法"
+        ],
+        "hard": [
+          "集会条例と治安警察法",
+          "治安警察法と思想犯保護観察法",
+          "保安条例と治安警察法"
+        ]
+      }
+    },
+    {
+      "recto": "1911年に青鞜社を結成し、「元始、女性は太陽であった」と宣言した人物は誰か。",
+      "verso": "平塚らいてう",
+      "explanation": "のちに市川房枝らと新婦人協会を設立し、女性の政治参加を求めた。",
+      "tags": [
+        "人物",
+        "女性運動"
+      ],
+      "distractors": {
+        "easy": [
+          "樋口一葉",
+          "紫式部",
+          "津田梅子"
+        ],
+        "medium": [
+          "市川房枝",
+          "与謝野晶子",
+          "山川菊栄"
+        ],
+        "hard": [
+          "伊藤野枝",
+          "奥むめお",
+          "景山英子"
+        ]
+      }
+    },
+    {
+      "recto": "1920年、平塚らいてうや市川房枝らが女性の政治参加を求めて設立した団体は何か。",
+      "verso": "新婦人協会",
+      "explanation": "治安警察法の改正（女性の政治集会参加の解禁）を実現した。雑誌『青鞜』の青鞜社と区別する。",
+      "tags": [
+        "女性運動"
+      ],
+      "distractors": {
+        "easy": [
+          "国会期成同盟",
+          "赤十字社",
+          "婦人会"
+        ],
+        "medium": [
+          "青鞜社",
+          "婦人参政権獲得期成同盟会",
+          "愛国婦人会"
+        ],
+        "hard": [
+          "赤瀾会",
+          "婦選獲得同盟",
+          "大日本婦人会"
+        ]
+      }
+    },
+    {
+      "recto": "1922年、被差別部落の人々が差別からの解放を求めてみずから結成した団体は何か。",
+      "verso": "全国水平社",
+      "explanation": "「人の世に熱あれ、人間に光あれ」の水平社宣言で知られる。差別される側みずからが立ち上がった点が重要。",
+      "tags": [
+        "社会運動",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "国際連盟",
+          "帝国議会",
+          "青年団"
+        ],
+        "medium": [
+          "日本農民組合",
+          "日本労働総同盟",
+          "新婦人協会"
+        ],
+        "hard": [
+          "部落解放同盟",
+          "融和会",
+          "同和奉公会"
+        ]
+      }
+    },
+    {
+      "recto": "1922年に結成された、小作料の引き下げなどを求める小作農の全国組織は何か。",
+      "verso": "日本農民組合",
+      "explanation": "小作争議が増えるなかで結成された。同年結成の全国水平社と混同しない。",
+      "tags": [
+        "社会運動",
+        "農村"
+      ],
+      "distractors": {
+        "easy": [
+          "農業協同組合",
+          "労働組合期成会",
+          "国会期成同盟"
+        ],
+        "medium": [
+          "日本労働総同盟",
+          "全国水平社",
+          "友愛会"
+        ],
+        "hard": [
+          "全国農民組合",
+          "帝国農会",
+          "産業組合"
+        ]
+      }
+    },
+    {
+      "recto": "1923年9月1日、東京・横浜を中心に甚大な被害を出した災害を何というか。",
+      "verso": "関東大震災",
+      "explanation": "混乱のなかで朝鮮人などが殺傷される事件もおこった。復興は東京の都市改造のきっかけにもなった。",
+      "tags": [
+        "災害",
+        "社会"
+      ],
+      "distractors": {
+        "easy": [
+          "東日本大震災",
+          "阪神・淡路大震災",
+          "伊勢湾台風"
+        ],
+        "medium": [
+          "濃尾地震",
+          "明治三陸地震",
+          "北但馬地震"
+        ],
+        "hard": [
+          "南海地震",
+          "福井地震",
+          "関東大水害"
+        ]
+      }
+    },
+    {
+      "recto": "大正から昭和初期、新聞・雑誌・ラジオなどの発達を背景に、都市の会社員など多くの人々が担い手となった文化を何というか。",
+      "verso": "大衆文化",
+      "explanation": "サラリーマンや職業婦人が増え、円本や雑誌『キング』が広く読まれた。一部の知識人の文化ではない点が特徴。",
+      "tags": [
+        "文化",
+        "用語"
+      ],
+      "distractors": {
+        "easy": [
+          "貴族文化",
+          "武家文化",
+          "国風文化"
+        ],
+        "medium": [
+          "市民文化",
+          "都市文化",
+          "消費文化"
+        ],
+        "hard": [
+          "元禄文化",
+          "化政文化",
+          "教養主義文化"
+        ]
+      }
+    },
+    {
+      "recto": "1925年に日本で始まった、大衆文化の広がりを支えた新しいメディアは何か。",
+      "verso": "ラジオ放送",
+      "explanation": "新聞・雑誌とならぶ大衆メディアとなり、のちに戦時の国民動員にも使われた。テレビ放送は戦後（1953年）。",
+      "tags": [
+        "文化",
+        "メディア"
+      ],
+      "distractors": {
+        "easy": [
+          "テレビ放送",
+          "インターネット",
+          "活版印刷"
+        ],
+        "medium": [
+          "映画（活動写真）",
+          "蓄音機",
+          "電話"
+        ],
+        "hard": [
+          "トーキー映画",
+          "ニュース映画",
+          "街頭テレビ"
+        ]
+      }
+    },
+    {
+      "recto": "1921年に結成され、日本労働総同盟と改称して労働運動の中心となった団体の前身は何か。",
+      "verso": "友愛会",
+      "explanation": "鈴木文治が1912年に設立した労資協調の団体から出発し、しだいに労働組合の全国組織へ発展した。",
+      "tags": [
+        "労働",
+        "社会運動"
+      ],
+      "distractors": {
+        "easy": [
+          "帝国議会",
+          "青年団",
+          "赤十字社"
+        ],
+        "medium": [
+          "労働組合期成会",
+          "全国水平社",
+          "日本農民組合"
+        ],
+        "hard": [
+          "鉄工組合",
+          "日本労働組合評議会",
+          "産業報国会"
+        ]
+      }
+    }
+  ]
+}

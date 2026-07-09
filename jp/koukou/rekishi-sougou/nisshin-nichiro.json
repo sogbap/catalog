@@ -1,0 +1,535 @@
+{
+  "id": "jp-koukou-rekishi-sougou-nisshin-nichiro",
+  "title": "帝国主義と日清・日露戦争",
+  "emoji": "🌏",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "条約改正から日清・日露戦争、韓国併合まで。帝国主義の時代に日本が歩んだ道とアジアへの影響を学ぶ。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>帝国主義と日清・日露戦争</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・歴史総合<br>\n  <b>大項目B：</b>近代化と私たち<br>\n  <b>時期：</b>明治中期から末期（1890〜1910年代）\n</div>\n\n<blockquote>\n  <p><b>問い</b>　日本はなぜ二つの対外戦争を戦い、それはアジアと世界に何をもたらしたのだろうか。</p>\n</blockquote>\n\n<p>19世紀末、世界は列強が植民地の獲得を競う<strong>帝国主義</strong>の時代に入った。近代化を進めた日本は<strong>条約改正</strong>を実現する一方、<strong>日清戦争</strong>・<strong>日露戦争</strong>という二つの戦争を戦って列強の一員となり、ついには<strong>韓国併合</strong>にいたる。この歩みを、アジアの人々の視点もあわせて見ていこう。</p>\n\n<h2>1・条約改正と帝国主義の時代</h2>\n\n<p>幕末以来の<strong>不平等条約</strong>の改正は、明治政府の悲願だった。鹿鳴館の欧化政策は批判を浴びて失敗したが、1894年、外務大臣<strong>陸奥宗光</strong>が日英通商航海条約を結んで<strong>領事裁判権の撤廃</strong>に成功する。残る<strong>関税自主権の回復</strong>は、1911年に外務大臣<strong>小村寿太郎</strong>が実現した。</p>\n\n<p>そのころ欧米列強は、軍事力を背景にアジア・アフリカへ勢力を広げていた。この<strong>帝国主義</strong>の波は東アジアにもおよび、日本もそのなかで進路を選ぶことになる。</p>\n\n<div class=\"callout\">\n  <strong>用語・帝国主義</strong><br>\n  軍事力を背景に、列強が植民地や勢力範囲を広げていった19世紀末からの動き。市場と資源の獲得が目的だった。\n</div>\n\n<h2>2・日清戦争と三国干渉</h2>\n\n<p>1894年、朝鮮で<strong>甲午農民戦争</strong>がおこると、鎮圧のために日本と清がともに出兵し、<strong>日清戦争</strong>が始まった。勝利した日本は1895年の<strong>下関条約</strong>で、清に朝鮮の独立を認めさせ、<strong>遼東半島</strong>・<strong>台湾</strong>・澎湖諸島と<strong>賠償金2億両</strong>を得た。</p>\n\n<p>しかし直後に、ロシア・フランス・ドイツが遼東半島の返還を求める<strong>三国干渉</strong>を行った。日本はやむなく応じ、国内では「<strong>臥薪嘗胆</strong>」を合言葉にロシアへの対抗心が高まった。</p>\n\n<div class=\"callout\">\n  <strong>用語・三国干渉</strong><br>\n  下関条約の直後、ロシア・フランス・ドイツが日本に遼東半島の返還を求めたできごと。日露対立の出発点となった。\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 356\" role=\"img\" aria-label=\"甲午農民戦争から日清戦争、下関条約、三国干渉への流れ\">\n  <defs>\n    <marker id=\"ar-nn1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 段階1：甲午農民戦争 -->\n  <g>\n    <rect x=\"14\" y=\"8\" width=\"312\" height=\"70\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"37\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">甲午農民戦争</text>\n    <text x=\"30\" y=\"60\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">朝鮮の農民反乱に日清が出兵（1894）</text>\n  </g>\n  <path d=\"M170,78 L170,96\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-nn1)\"/>\n  <!-- 段階2：日清戦争 -->\n  <g>\n    <rect x=\"14\" y=\"98\" width=\"312\" height=\"70\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"127\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">日清戦争</text>\n    <text x=\"30\" y=\"150\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">朝鮮をめぐり日本と清が開戦（1894〜95）</text>\n  </g>\n  <path d=\"M170,168 L170,186\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-nn1)\"/>\n  <!-- 段階3：下関条約 -->\n  <g>\n    <rect x=\"14\" y=\"188\" width=\"312\" height=\"70\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"217\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">下関条約</text>\n    <text x=\"30\" y=\"240\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">台湾・遼東半島・賠償金2億両（1895）</text>\n  </g>\n  <path d=\"M170,258 L170,276\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-nn1)\"/>\n  <!-- 段階4：三国干渉（強調） -->\n  <g>\n    <rect x=\"14\" y=\"278\" width=\"312\" height=\"70\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"307\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">三国干渉</text>\n    <text x=\"30\" y=\"330\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">露・仏・独が遼東半島の返還を要求</text>\n  </g>\n</svg>\n<figcaption>勝利の直後の三国干渉が、ロシアとの対立を決定づけた。</figcaption>\n</figure>\n\n<h2>3・日露戦争</h2>\n\n<p>1900年、中国で「扶清滅洋」をとなえる<strong>義和団事件</strong>がおこり、列強8か国が出兵して鎮圧した。その後もロシアが満洲にとどまったため、1902年、日本はイギリスと<strong>日英同盟</strong>を結んでこれに対抗し、1904年に<strong>日露戦争</strong>が始まった。</p>\n\n<p>戦争には多くの犠牲と増税がともない、<strong>幸徳秋水</strong>や<strong>内村鑑三</strong>は非戦論を説き、<strong>与謝野晶子</strong>は「<strong>君死にたまふこと勿れ</strong>」の詩で戦場の弟を思った。1905年、<strong>東郷平八郎</strong>の連合艦隊が<strong>日本海海戦</strong>でバルチック艦隊を破ると、アメリカの仲介で<strong>ポーツマス条約</strong>が結ばれた。</p>\n\n<p>日本は韓国への指導権や旅順・大連の租借権、樺太の南半分などを得たが、<strong>賠償金はなかった</strong>。不満を爆発させた民衆は<strong>日比谷焼き打ち事件</strong>をおこした。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"下関条約とポーツマス条約の比較。ポーツマス条約には賠償金がなかった\">\n  <!-- 左：下関条約 -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">下関条約</text>\n  <text x=\"87\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">日清戦争（1895）</text>\n  <text x=\"26\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">相手：清</text>\n  <text x=\"26\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">台湾・澎湖諸島など</text>\n  <text x=\"26\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">賠償金：2億両</text>\n  <!-- 右：ポーツマス条約（強調） -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">ポーツマス条約</text>\n  <text x=\"253\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">日露戦争（1905）</text>\n  <text x=\"192\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">相手：ロシア</text>\n  <text x=\"192\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">樺太の南半分など</text>\n  <text x=\"192\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">賠償金：なし</text>\n</svg>\n<figcaption>賠償金の有無が最大の違い。日比谷焼き打ち事件の背景となった。</figcaption>\n</figure>\n\n<h2>4・韓国併合と辛亥革命</h2>\n\n<p>日露戦争に勝った日本は、1905年に韓国を保護国とし、<strong>韓国統監府</strong>を設置した（初代統監・<strong>伊藤博文</strong>）。韓国では<strong>義兵運動</strong>などの抵抗が続き、1909年には独立運動家の<strong>安重根</strong>がハルビン駅で伊藤博文を暗殺した。翌1910年、日本は<strong>韓国併合</strong>を断行し、<strong>朝鮮総督府</strong>を置いて植民地支配を始めた。</p>\n\n<p>満洲では、1906年に半官半民の<strong>南満洲鉄道株式会社</strong>（満鉄）が設立され、大陸進出の拠点となった。一方、中国では1911年に<strong>孫文</strong>らを中心とする<strong>辛亥革命</strong>がおこり、翌年、アジア初の共和国である<strong>中華民国</strong>が成立して清はほろんだ。</p>\n\n<div class=\"callout\">\n  <strong>用語・韓国併合</strong><br>\n  1910年、日本が韓国を植民地としたこと。朝鮮総督府が置かれ、1945年まで植民地支配が続いた。1905年の保護国化（統監府）と区別する。\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 326\" role=\"img\" aria-label=\"韓国の保護国化から伊藤博文の暗殺、韓国併合への流れ\">\n  <defs>\n    <marker id=\"ar-nn2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 段階1：保護国化 -->\n  <g>\n    <rect x=\"14\" y=\"8\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"40\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">韓国の保護国化</text>\n    <text x=\"30\" y=\"65\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">韓国統監府の設置（1905・伊藤博文）</text>\n  </g>\n  <path d=\"M170,88 L170,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-nn2)\"/>\n  <!-- 段階2：抵抗と暗殺 -->\n  <g>\n    <rect x=\"14\" y=\"110\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"142\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">義兵運動と伊藤博文の暗殺</text>\n    <text x=\"30\" y=\"167\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">安重根がハルビン駅で暗殺（1909）</text>\n  </g>\n  <path d=\"M170,190 L170,210\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-nn2)\"/>\n  <!-- 段階3：韓国併合（強調） -->\n  <g>\n    <rect x=\"14\" y=\"212\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"244\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">韓国併合</text>\n    <text x=\"30\" y=\"269\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">朝鮮総督府による植民地支配（1910）</text>\n  </g>\n</svg>\n<figcaption>保護国化（統監府）から併合（総督府）へ。段階の違いに注意する。</figcaption>\n</figure>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 427\" role=\"img\" aria-label=\"日清・日露戦争をめぐる年表\">\n  <line x1=\"74\" y1=\"22\" x2=\"74\" y2=\"409\" style=\"stroke:var(--accent);stroke-width:3;stroke-linecap:round\"/>\n  <!-- 1894 -->\n  <circle cx=\"74\" cy=\"40\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"45\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1894</text>\n  <text x=\"90\" y=\"45\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">領事裁判権の撤廃・日清戦争</text>\n  <!-- 1895 -->\n  <circle cx=\"74\" cy=\"101\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"106\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1895</text>\n  <text x=\"90\" y=\"106\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">下関条約・三国干渉</text>\n  <!-- 1902 -->\n  <circle cx=\"74\" cy=\"162\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"167\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1902</text>\n  <text x=\"90\" y=\"167\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">日英同盟</text>\n  <!-- 1904 -->\n  <circle cx=\"74\" cy=\"223\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"228\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1904</text>\n  <text x=\"90\" y=\"228\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">日露戦争が始まる</text>\n  <!-- 1905 -->\n  <circle cx=\"74\" cy=\"284\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"289\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1905</text>\n  <text x=\"90\" y=\"289\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">ポーツマス条約</text>\n  <!-- 1910 -->\n  <circle cx=\"74\" cy=\"345\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"350\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1910</text>\n  <text x=\"90\" y=\"350\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">韓国併合</text>\n  <!-- 1911 -->\n  <circle cx=\"74\" cy=\"406\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"411\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1911</text>\n  <text x=\"90\" y=\"411\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">関税自主権の回復・辛亥革命</text>\n</svg>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>年</th><th>できごと</th></tr>\n  <tr><td>1894年</td><td>領事裁判権の撤廃・甲午農民戦争・日清戦争</td></tr>\n  <tr><td>1895年</td><td>下関条約・三国干渉</td></tr>\n  <tr><td>1900年</td><td>義和団事件</td></tr>\n  <tr><td>1902年</td><td>日英同盟</td></tr>\n  <tr><td>1904〜05年</td><td>日露戦争</td></tr>\n  <tr><td>1905年</td><td>ポーツマス条約・日比谷焼き打ち事件</td></tr>\n  <tr><td>1910年</td><td>韓国併合（朝鮮総督府）</td></tr>\n  <tr><td>1911年</td><td>関税自主権の回復・辛亥革命</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>帝国主義</td><td>列強が植民地や勢力範囲を広げた動き</td></tr>\n  <tr><td>下関条約</td><td>日清戦争の講和条約。台湾と賠償金2億両を獲得</td></tr>\n  <tr><td>三国干渉</td><td>露・仏・独が遼東半島の返還を求めたできごと</td></tr>\n  <tr><td>日英同盟</td><td>ロシアの南下に対抗した日本とイギリスの同盟</td></tr>\n  <tr><td>ポーツマス条約</td><td>日露戦争の講和条約。賠償金はなかった</td></tr>\n  <tr><td>韓国併合</td><td>1910年、日本が韓国を植民地としたこと</td></tr>\n</table>\n\n<h3>重要人物</h3>\n\n<table>\n  <tr><th>人物</th><th>役割</th></tr>\n  <tr><td>陸奥宗光</td><td>外務大臣として領事裁判権の撤廃を実現した</td></tr>\n  <tr><td>小村寿太郎</td><td>外務大臣として関税自主権の回復を実現した</td></tr>\n  <tr><td>与謝野晶子</td><td>「君死にたまふこと勿れ」で戦争への疑問をうたった</td></tr>\n  <tr><td>孫文</td><td>三民主義をとなえ、辛亥革命の中心となった</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  賠償金は<b>下関条約にはあり</b>（2億両）、<b>ポーツマス条約にはない</b>。条約改正は<b>陸奥宗光</b>（領事裁判権の撤廃・1894年）と<b>小村寿太郎</b>（関税自主権の回復・1911年）の分担を逆にしないこと。また<b>統監府</b>（1905年・保護国化）と<b>総督府</b>（1910年・併合）は別の機関である。\n</div>\n\n<blockquote>\n  <p>二つの戦争の勝利で、日本は不平等条約を克服し列強の一員となった。しかしその歩みは、朝鮮の植民地化や中国への進出と表裏一体であり、アジアの人々に大きな犠牲を強いるものでもあった。この構図は、次の第一次世界大戦の時代へと引きつがれていく。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "歴史総合 ― 近代化と私たち",
+  "cards": [
+    {
+      "recto": "19世紀末、軍事力を背景に列強が植民地や勢力範囲を広げていった動きを何というか。",
+      "verso": "帝国主義",
+      "explanation": "第二次産業革命で力をつけた列強が市場と資源を求めて対外進出した。日本もこの動きに加わっていく。",
+      "tags": [
+        "帝国主義",
+        "用語"
+      ],
+      "distractors": {
+        "easy": [
+          "文明開化",
+          "鎖国",
+          "民主主義"
+        ],
+        "medium": [
+          "資本主義",
+          "軍国主義",
+          "国家主義"
+        ],
+        "hard": [
+          "重商主義",
+          "覇権主義",
+          "排外主義"
+        ]
+      }
+    },
+    {
+      "recto": "1894年、日英通商航海条約を結んで領事裁判権の撤廃に成功した外務大臣は誰か。",
+      "verso": "陸奥宗光",
+      "explanation": "日清戦争の直前に達成された。関税自主権の回復（1911年・小村寿太郎）と混同しやすい。",
+      "tags": [
+        "条約改正",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "伊藤博文",
+          "坂本龍馬",
+          "福沢諭吉"
+        ],
+        "medium": [
+          "小村寿太郎",
+          "井上馨",
+          "大隈重信"
+        ],
+        "hard": [
+          "青木周蔵",
+          "榎本武揚",
+          "寺島宗則"
+        ]
+      }
+    },
+    {
+      "recto": "1911年、条約改正によって関税自主権の回復を実現した外務大臣は誰か。",
+      "verso": "小村寿太郎",
+      "explanation": "これで条約改正は完成した。領事裁判権の撤廃（1894年・陸奥宗光）との違いに注意。",
+      "tags": [
+        "条約改正",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "徳川慶喜",
+          "西郷隆盛",
+          "野口英世"
+        ],
+        "medium": [
+          "陸奥宗光",
+          "井上馨",
+          "加藤高明"
+        ],
+        "hard": [
+          "青木周蔵",
+          "林董",
+          "内田康哉"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】領事裁判権の撤廃（1894年）と関税自主権の回復（1911年）を実現した外務大臣は、順にそれぞれ誰か。",
+      "verso": "陸奥宗光と小村寿太郎",
+      "explanation": "陸奥宗光が領事裁判権の撤廃（日清戦争直前）、小村寿太郎が関税自主権の回復（1911年）。組み合わせと順序に注意。",
+      "tags": [
+        "comparaison",
+        "条約改正"
+      ],
+      "distractors": {
+        "easy": [
+          "伊藤博文と大隈重信",
+          "西郷隆盛と大久保利通",
+          "ペリーとハリス"
+        ],
+        "medium": [
+          "小村寿太郎と陸奥宗光",
+          "井上馨と陸奥宗光",
+          "陸奥宗光と青木周蔵"
+        ],
+        "hard": [
+          "青木周蔵と小村寿太郎",
+          "陸奥宗光と林董",
+          "井上馨と小村寿太郎"
+        ]
+      }
+    },
+    {
+      "recto": "1894年、朝鮮でおこった東学を信仰する農民らの大規模な反乱を何というか。",
+      "verso": "甲午農民戦争",
+      "explanation": "反乱の鎮圧をめぐって日本と清がともに出兵し、日清戦争のきっかけとなった。",
+      "tags": [
+        "朝鮮",
+        "きっかけ"
+      ],
+      "distractors": {
+        "easy": [
+          "太平天国の乱",
+          "応仁の乱",
+          "フランス革命"
+        ],
+        "medium": [
+          "義和団事件",
+          "江華島事件",
+          "壬午軍乱"
+        ],
+        "hard": [
+          "甲申事変",
+          "三・一独立運動",
+          "義兵運動"
+        ]
+      }
+    },
+    {
+      "recto": "1894〜95年、朝鮮の支配をめぐって日本と清が戦った戦争を何というか。",
+      "verso": "日清戦争",
+      "explanation": "近代化を進めた日本が勝利し、下関条約で講和した。約10年後の日露戦争と混同しない。",
+      "tags": [
+        "戦争",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "太平洋戦争",
+          "戊辰戦争",
+          "湾岸戦争"
+        ],
+        "medium": [
+          "日露戦争",
+          "日中戦争",
+          "アロー戦争"
+        ],
+        "hard": [
+          "北清事変",
+          "台湾出兵",
+          "江華島事件"
+        ]
+      }
+    },
+    {
+      "recto": "日清戦争の講和条約として1895年に結ばれ、台湾や賠償金などを日本が得た条約は何か。",
+      "verso": "下関条約",
+      "explanation": "清は朝鮮の独立を認め、遼東半島・台湾・澎湖諸島と賠償金2億両を日本にゆずった。",
+      "tags": [
+        "条約",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "日米和親条約",
+          "ベルサイユ条約",
+          "サンフランシスコ平和条約"
+        ],
+        "medium": [
+          "ポーツマス条約",
+          "天津条約",
+          "日朝修好条規"
+        ],
+        "hard": [
+          "北京議定書",
+          "日清修好条規",
+          "済物浦条約"
+        ]
+      }
+    },
+    {
+      "recto": "下関条約の直後、ロシア・フランス・ドイツが日本に遼東半島の返還を求めたできごとを何というか。",
+      "verso": "三国干渉",
+      "explanation": "日本は返還に応じ、国内では「臥薪嘗胆」を合言葉にロシアへの対抗心が高まった。",
+      "tags": [
+        "外交",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "三国同盟",
+          "鎖国",
+          "黒船来航"
+        ],
+        "medium": [
+          "三国協商",
+          "日英同盟",
+          "北清事変"
+        ],
+        "hard": [
+          "遼東還付条約",
+          "満韓交換",
+          "露仏同盟"
+        ]
+      }
+    },
+    {
+      "recto": "1900年、「扶清滅洋」をとなえて外国勢力の排除をめざした中国の民衆の運動を何というか。",
+      "verso": "義和団事件",
+      "explanation": "列強8か国が出兵して鎮圧した。この後もロシアが満洲にとどまり、日露の対立が深まった。",
+      "tags": [
+        "中国",
+        "きっかけ"
+      ],
+      "distractors": {
+        "easy": [
+          "フランス革命",
+          "米騒動",
+          "一揆"
+        ],
+        "medium": [
+          "太平天国の乱",
+          "甲午農民戦争",
+          "辛亥革命"
+        ],
+        "hard": [
+          "仇教運動",
+          "五・四運動",
+          "洋務運動"
+        ]
+      }
+    },
+    {
+      "recto": "1902年、ロシアの南下に対抗するために日本がイギリスと結んだ同盟を何というか。",
+      "verso": "日英同盟",
+      "explanation": "満洲・韓国をめぐるロシアとの対立を背景に結ばれ、日露戦争で日本の立場を支えた。",
+      "tags": [
+        "外交"
+      ],
+      "distractors": {
+        "easy": [
+          "三国同盟",
+          "国際連盟",
+          "日米安全保障条約"
+        ],
+        "medium": [
+          "日露協約",
+          "三国協商",
+          "日仏協約"
+        ],
+        "hard": [
+          "日英通商航海条約",
+          "第二次日英同盟",
+          "日英協商"
+        ]
+      }
+    },
+    {
+      "recto": "1904〜05年、満洲と韓国の支配をめぐって日本とロシアが戦った戦争を何というか。",
+      "verso": "日露戦争",
+      "explanation": "両国とも戦争の継続が困難になり、アメリカの仲介でポーツマス条約が結ばれた。",
+      "tags": [
+        "戦争",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "第一次世界大戦",
+          "太平洋戦争",
+          "クリミア戦争"
+        ],
+        "medium": [
+          "日清戦争",
+          "北清事変",
+          "シベリア出兵"
+        ],
+        "hard": [
+          "満洲事変",
+          "露土戦争",
+          "日ソ戦争"
+        ]
+      }
+    },
+    {
+      "recto": "1905年の日本海海戦で、ロシアのバルチック艦隊を破った連合艦隊司令長官は誰か。",
+      "verso": "東郷平八郎",
+      "explanation": "日本海海戦の勝利は講和への流れを決定づけた。陸軍の乃木希典（旅順攻略）と混同しない。",
+      "tags": [
+        "人物",
+        "戦争"
+      ],
+      "distractors": {
+        "easy": [
+          "西郷隆盛",
+          "ペリー",
+          "坂本龍馬"
+        ],
+        "medium": [
+          "乃木希典",
+          "大山巌",
+          "山本権兵衛"
+        ],
+        "hard": [
+          "秋山真之",
+          "上村彦之丞",
+          "伊東祐亨"
+        ]
+      }
+    },
+    {
+      "recto": "1905年、アメリカの仲介で結ばれた日露戦争の講和条約を何というか。",
+      "verso": "ポーツマス条約",
+      "explanation": "セオドア・ローズベルト大統領の仲介による。樺太の南半分などを得たが、賠償金はなかった。",
+      "tags": [
+        "条約",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "ベルサイユ条約",
+          "日米和親条約",
+          "国際連合憲章"
+        ],
+        "medium": [
+          "下関条約",
+          "北京議定書",
+          "日露協約"
+        ],
+        "hard": [
+          "樺太・千島交換条約",
+          "日露和親条約",
+          "桂・タフト協定"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】下関条約とは異なり、ポーツマス条約で日本が得られなかったものは何か。",
+      "verso": "賠償金",
+      "explanation": "賠償金がないことに国民の不満が爆発し、日比谷焼き打ち事件がおこった。下関条約では2億両を得ていた。",
+      "tags": [
+        "piege",
+        "条約"
+      ],
+      "distractors": {
+        "easy": [
+          "領土の割譲",
+          "鉄道の利権",
+          "講和の成立"
+        ],
+        "medium": [
+          "樺太の南半分",
+          "韓国に対する指導権",
+          "旅順・大連の租借権"
+        ],
+        "hard": [
+          "南満洲鉄道の利権",
+          "沿海州沿岸の漁業権",
+          "東清鉄道の南部支線"
+        ]
+      }
+    },
+    {
+      "recto": "ポーツマス条約で賠償金が得られないことに不満を爆発させた民衆が、1905年に東京でおこした暴動を何というか。",
+      "verso": "日比谷焼き打ち事件",
+      "explanation": "講和反対の国民大会をきっかけに交番や新聞社が襲われた。増税に耐えて戦争を支えた民衆の不満の爆発だった。",
+      "tags": [
+        "社会",
+        "事件"
+      ],
+      "distractors": {
+        "easy": [
+          "打ちこわし",
+          "大塩平八郎の乱",
+          "学生運動"
+        ],
+        "medium": [
+          "米騒動",
+          "秩父事件",
+          "大逆事件"
+        ],
+        "hard": [
+          "東京市電焼き打ち事件",
+          "憲政擁護運動",
+          "講和反対国民大会"
+        ]
+      }
+    },
+    {
+      "recto": "「君死にたまふこと勿れ」という詩で、日露戦争に出征した弟を思い、戦争への疑問をうたった歌人は誰か。",
+      "verso": "与謝野晶子",
+      "explanation": "雑誌『明星』に発表された。社会主義の立場から非戦論を説いた幸徳秋水らと区別する。",
+      "tags": [
+        "人物",
+        "文化"
+      ],
+      "distractors": {
+        "easy": [
+          "紫式部",
+          "樋口一葉",
+          "清少納言"
+        ],
+        "medium": [
+          "幸徳秋水",
+          "内村鑑三",
+          "石川啄木"
+        ],
+        "hard": [
+          "与謝野鉄幹",
+          "大塚楠緒子",
+          "平塚らいてう"
+        ]
+      }
+    },
+    {
+      "recto": "1910年、日本が韓国を植民地としたできごとを何というか。",
+      "verso": "韓国併合",
+      "explanation": "併合後は朝鮮総督府が置かれた。1905年の保護国化（韓国統監府の設置）と段階を区別する。",
+      "tags": [
+        "朝鮮",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "開国",
+          "廃藩置県",
+          "満洲事変"
+        ],
+        "medium": [
+          "韓国保護国化",
+          "第二次日韓協約",
+          "日韓議定書"
+        ],
+        "hard": [
+          "日韓基本条約",
+          "韓国統監府の設置",
+          "日朝修好条規"
+        ]
+      }
+    },
+    {
+      "recto": "1909年、ハルビン駅で伊藤博文を暗殺した韓国の独立運動家は誰か。",
+      "verso": "安重根",
+      "explanation": "伊藤博文は初代の韓国統監だった。暗殺の翌年、日本は韓国併合を断行した。",
+      "tags": [
+        "朝鮮",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "孫文",
+          "袁世凱",
+          "毛沢東"
+        ],
+        "medium": [
+          "金玉均",
+          "李完用",
+          "全琫準"
+        ],
+        "hard": [
+          "尹奉吉",
+          "李承晩",
+          "金九"
+        ]
+      }
+    },
+    {
+      "recto": "1906年に設立され、ポーツマス条約で得た鉄道の利権を経営した半官半民の会社を何というか。",
+      "verso": "南満洲鉄道株式会社（満鉄）",
+      "explanation": "大連に本社を置き、鉄道だけでなく炭鉱や製鉄所も経営して、日本の大陸進出の拠点となった。",
+      "tags": [
+        "満洲",
+        "経済"
+      ],
+      "distractors": {
+        "easy": [
+          "日本鉄道会社",
+          "東インド会社",
+          "日本郵船"
+        ],
+        "medium": [
+          "東清鉄道",
+          "京釜鉄道",
+          "台湾総督府鉄道"
+        ],
+        "hard": [
+          "満洲重工業開発会社",
+          "満洲拓殖会社",
+          "東洋拓殖会社"
+        ]
+      }
+    },
+    {
+      "recto": "1911年、孫文らを中心に清をたおして中華民国の成立につながった革命を何というか。",
+      "verso": "辛亥革命",
+      "explanation": "三民主義をとなえる孫文らを中心に清がたおされ、1912年にアジア初の共和国である中華民国が成立した。",
+      "tags": [
+        "中国",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "フランス革命",
+          "明治維新",
+          "ロシア革命"
+        ],
+        "medium": [
+          "義和団事件",
+          "太平天国の乱",
+          "戊戌の政変"
+        ],
+        "hard": [
+          "五・四運動",
+          "第二革命",
+          "洋務運動"
+        ]
+      }
+    }
+  ]
+}

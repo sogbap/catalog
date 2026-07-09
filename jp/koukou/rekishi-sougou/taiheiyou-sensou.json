@@ -1,0 +1,530 @@
+{
+  "id": "jp-koukou-rekishi-sougou-taiheiyou-sensou",
+  "title": "第二次世界大戦と日本",
+  "emoji": "🕊️",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "真珠湾攻撃から沖縄戦、原爆投下、敗戦まで。太平洋戦争の経過と国民・アジアの人々の犠牲を学ぶ。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>第二次世界大戦と日本</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・歴史総合<br>\n  <b>大項目C：</b>国際秩序の変化や大衆化と私たち<br>\n  <b>時期：</b>1939〜45年（太平洋戦争は1941〜45年）\n</div>\n\n<blockquote>\n  <p><b>問い</b>　この戦争は人々に何を強い、どのようにして終わったのだろうか。</p>\n</blockquote>\n\n<p>1939年にヨーロッパで<strong>第二次世界大戦</strong>が始まり、1941年12月8日、日本は<strong>真珠湾攻撃</strong>で<strong>太平洋戦争</strong>に突入した。緒戦の勝利もつかの間、<strong>ミッドウェー海戦</strong>で戦局は転換し、<strong>学徒出陣</strong>や<strong>学童疎開</strong>、<strong>空襲</strong>、<strong>沖縄戦</strong>、そして<strong>原爆投下</strong>と、戦争は国民一人ひとりの生活と生命をのみこんでいった。</p>\n\n<h2>1・第二次世界大戦と太平洋戦争の開始</h2>\n\n<p>1939年9月、ドイツが<strong>ポーランド</strong>に侵攻し、第二次世界大戦が始まった。アメリカとの交渉が行きづまった日本は、<strong>東条英機</strong>内閣のもと、1941年12月8日にハワイの<strong>真珠湾</strong>を奇襲し、同時にマレー半島に上陸して、アメリカ・イギリスとの戦争に突入した。</p>\n\n<p>日本は「<strong>大東亜共栄圏</strong>」の建設をかかげて東南アジアを占領したが、実際には資源と労働力の収奪が優先され、各地で抗日運動が広がった。</p>\n\n<div class=\"callout\">\n  <strong>用語・大東亜共栄圏</strong><br>\n  欧米の支配からアジアを解放し、共存共栄をはかるという日本の戦争スローガン。理念と、収奪という実態とのずれを史料で考えることが大切。\n</div>\n\n<h2>2・戦局の転換と総動員</h2>\n\n<p>1942年6月の<strong>ミッドウェー海戦</strong>で日本は空母4隻を失い、戦局は転換した。1944年に<strong>サイパン島</strong>が陥落すると、東条内閣は退陣し、B29による本土空襲が本格化する。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 356\" role=\"img\" aria-label=\"真珠湾攻撃からミッドウェー海戦、サイパン陥落、本土空襲への戦局の流れ\">\n  <defs>\n    <marker id=\"ar-tp2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 段階1：真珠湾攻撃 -->\n  <g>\n    <rect x=\"14\" y=\"8\" width=\"312\" height=\"70\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"37\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">真珠湾攻撃</text>\n    <text x=\"30\" y=\"60\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">太平洋戦争の開始（1941.12.8）</text>\n  </g>\n  <path d=\"M170,78 L170,96\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-tp2)\"/>\n  <!-- 段階2：ミッドウェー -->\n  <g>\n    <rect x=\"14\" y=\"98\" width=\"312\" height=\"70\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"127\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">ミッドウェー海戦</text>\n    <text x=\"30\" y=\"150\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">空母4隻を失い戦局が転換（1942.6）</text>\n  </g>\n  <path d=\"M170,168 L170,186\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-tp2)\"/>\n  <!-- 段階3：サイパン陥落 -->\n  <g>\n    <rect x=\"14\" y=\"188\" width=\"312\" height=\"70\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"217\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">サイパン陥落</text>\n    <text x=\"30\" y=\"240\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">絶対国防圏が破られる（1944.7）</text>\n  </g>\n  <path d=\"M170,258 L170,276\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-tp2)\"/>\n  <!-- 段階4：本土空襲（強調） -->\n  <g>\n    <rect x=\"14\" y=\"278\" width=\"312\" height=\"70\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"307\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">本土空襲の本格化</text>\n    <text x=\"30\" y=\"330\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">B29が都市を無差別爆撃</text>\n  </g>\n</svg>\n<figcaption>開戦から半年で戦局は転換し、戦火はやがて本土の市民に及んだ。</figcaption>\n</figure>\n\n<p>国内では動員が極限に達した。大学生が戦場に送られる<strong>学徒出陣</strong>、中学生や女学生までが軍需工場で働く<strong>勤労動員</strong>、都市の小学生が親元を離れる<strong>学童疎開</strong>。戦争末期には、航空機ごと敵艦に体当たりする<strong>特別攻撃隊（特攻隊）</strong>に多くの若者が送り出された。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 250\" role=\"img\" aria-label=\"戦争末期の動員。学生は学徒出陣、生徒は勤労動員、児童は学童疎開の対象となった\">\n  <defs>\n    <marker id=\"ar-tp1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 総動員（強調） -->\n  <rect x=\"95\" y=\"8\" width=\"150\" height=\"56\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"33\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">総動員の極限</text>\n  <text x=\"170\" y=\"53\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11\">子どもまでもが対象に</text>\n  <!-- 矢印 -->\n  <path d=\"M170,70 L60,110\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-tp1)\"/>\n  <path d=\"M170,70 L170,110\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-tp1)\"/>\n  <path d=\"M170,70 L280,110\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-tp1)\"/>\n  <!-- 学徒出陣 -->\n  <rect x=\"10\" y=\"118\" width=\"100\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">学徒出陣</text>\n  <text x=\"60\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">大学生が</text>\n  <text x=\"60\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">戦場へ</text>\n  <!-- 勤労動員 -->\n  <rect x=\"120\" y=\"118\" width=\"100\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">勤労動員</text>\n  <text x=\"170\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">中学生・女学生が</text>\n  <text x=\"170\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">軍需工場へ</text>\n  <!-- 学童疎開 -->\n  <rect x=\"230\" y=\"118\" width=\"100\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">学童疎開</text>\n  <text x=\"280\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">小学生が</text>\n  <text x=\"280\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">親元を離れ地方へ</text>\n</svg>\n<figcaption>大学生から小学生まで、世代ごとに戦争への動員が組織された。</figcaption>\n</figure>\n\n<h2>3・本土空襲から沖縄戦へ</h2>\n\n<p>1945年3月10日の<strong>東京大空襲</strong>では、一夜で約10万人が犠牲になったとされる。空襲は全国の都市に及び、多くの市民の命と暮らしを奪った。</p>\n\n<p>同年4月、アメリカ軍が沖縄本島に上陸し、日本国内で唯一の本格的な地上戦となる<strong>沖縄戦</strong>が始まった。ひめゆり学徒隊のように住民が戦闘に動員され、県民の約4分の1が犠牲になったとされる。</p>\n\n<h2>4・原爆投下と敗戦</h2>\n\n<p>1945年2月の<strong>ヤルタ会談</strong>でソ連の対日参戦が密約され、7月には<strong>ポツダム宣言</strong>が日本に無条件降伏を求めた。政府がこれを「黙殺」すると、アメリカは8月<strong>6日に広島</strong>、<strong>9日に長崎</strong>へ<strong>原子爆弾</strong>を投下し、その間の8日には<strong>ソ連</strong>が日ソ中立条約を破って参戦した。</p>\n\n<p>8月14日、日本はポツダム宣言の受諾を決定し、15日の<strong>玉音放送</strong>で国民に敗戦が伝えられた。降伏文書の調印は9月2日である。満洲などでは日本兵らがソ連軍に連行される<strong>シベリア抑留</strong>が始まり、戦争の犠牲は敗戦後も続いた。</p>\n\n<div class=\"callout\">\n  <strong>用語・ポツダム宣言</strong><br>\n  1945年7月、アメリカ・イギリス・中国の名で日本に無条件降伏を求めた宣言。軍国主義の除去や民主化を求め、戦後改革の出発点となった。\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 427\" role=\"img\" aria-label=\"1945年の終戦への道のり\">\n  <line x1=\"74\" y1=\"22\" x2=\"74\" y2=\"409\" style=\"stroke:var(--accent);stroke-width:3;stroke-linecap:round\"/>\n  <!-- 2月 -->\n  <circle cx=\"74\" cy=\"40\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"45\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">2月</text>\n  <text x=\"90\" y=\"45\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">ヤルタ会談（ソ連参戦の密約）</text>\n  <!-- 3月 -->\n  <circle cx=\"74\" cy=\"101\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"106\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">3月</text>\n  <text x=\"90\" y=\"106\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">東京大空襲</text>\n  <!-- 4月 -->\n  <circle cx=\"74\" cy=\"162\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"167\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">4月</text>\n  <text x=\"90\" y=\"167\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">沖縄戦（〜6月）</text>\n  <!-- 7月 -->\n  <circle cx=\"74\" cy=\"223\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"228\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">7月</text>\n  <text x=\"90\" y=\"228\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">ポツダム宣言</text>\n  <!-- 8/6 -->\n  <circle cx=\"74\" cy=\"284\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"289\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">8/6</text>\n  <text x=\"90\" y=\"289\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">広島に原爆投下</text>\n  <!-- 8/8-9 -->\n  <circle cx=\"74\" cy=\"345\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"350\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">8/8</text>\n  <text x=\"90\" y=\"350\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">ソ連参戦・9日長崎に原爆</text>\n  <!-- 8/15 -->\n  <circle cx=\"74\" cy=\"406\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"411\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">8/15</text>\n  <text x=\"90\" y=\"411\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">玉音放送（敗戦）</text>\n</svg>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>年</th><th>できごと</th></tr>\n  <tr><td>1939年</td><td>ドイツのポーランド侵攻・第二次世界大戦</td></tr>\n  <tr><td>1941年12月</td><td>真珠湾攻撃・太平洋戦争の開始</td></tr>\n  <tr><td>1942年6月</td><td>ミッドウェー海戦（戦局の転換）</td></tr>\n  <tr><td>1943年</td><td>学徒出陣</td></tr>\n  <tr><td>1944年</td><td>サイパン陥落・本土空襲の本格化・学童疎開</td></tr>\n  <tr><td>1945年3月</td><td>東京大空襲</td></tr>\n  <tr><td>1945年4〜6月</td><td>沖縄戦</td></tr>\n  <tr><td>1945年8月</td><td>広島（6日）・長崎（9日）に原爆、ソ連参戦（8日）、敗戦（15日）</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>真珠湾攻撃</td><td>1941年12月8日、太平洋戦争の始まり</td></tr>\n  <tr><td>大東亜共栄圏</td><td>アジア解放をかかげた戦争スローガン</td></tr>\n  <tr><td>ミッドウェー海戦</td><td>1942年6月、戦局が転換した海戦</td></tr>\n  <tr><td>学徒出陣</td><td>大学生らが戦場に動員されたこと</td></tr>\n  <tr><td>沖縄戦</td><td>国内唯一の本格的地上戦。県民に甚大な犠牲</td></tr>\n  <tr><td>ポツダム宣言</td><td>日本に無条件降伏を求めた宣言</td></tr>\n</table>\n\n<h3>重要人物</h3>\n\n<table>\n  <tr><th>人物</th><th>役割</th></tr>\n  <tr><td>東条英機</td><td>開戦時の首相。サイパン陥落で退陣</td></tr>\n  <tr><td>フランクリン・ローズベルト</td><td>ヤルタ会談までを主導した米大統領</td></tr>\n  <tr><td>トルーマン</td><td>原爆投下を決定した米大統領</td></tr>\n  <tr><td>鈴木貫太郎</td><td>ポツダム宣言受諾時の首相</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  原爆は<b>広島が8月6日、長崎が8月9日</b>で、その間の<b>8日にソ連が参戦</b>している。また<b>ヤルタ会談</b>（2月・米英ソの密約）と<b>ポツダム宣言</b>（7月・米英中の名の降伏勧告）を混同しないこと。<b>ミッドウェー海戦</b>（1942年）と<b>日本海海戦</b>（1905年）も別物。\n</div>\n\n<blockquote>\n  <p>アジア・太平洋の各地と日本の諸都市に、この戦争は膨大な犠牲を残した。空襲・沖縄戦・原爆・抑留——その体験は戦後日本の平和主義の原点となる。焼け跡の中から、占領と戦後改革の時代が始まる。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "歴史総合 ― 国際秩序の変化や大衆化と私たち",
+  "cards": [
+    {
+      "recto": "1939年9月、ドイツがある国に侵攻して第二次世界大戦が始まった。その国はどこか。",
+      "verso": "ポーランド",
+      "explanation": "直前に独ソ不可侵条約を結んだうえでの侵攻だった。英仏がドイツに宣戦して大戦となった。",
+      "tags": [
+        "世界",
+        "きっかけ"
+      ],
+      "distractors": {
+        "easy": [
+          "イギリス",
+          "アメリカ",
+          "日本"
+        ],
+        "medium": [
+          "チェコスロバキア",
+          "オーストリア",
+          "フランス"
+        ],
+        "hard": [
+          "ソ連",
+          "フィンランド",
+          "ベルギー"
+        ]
+      }
+    },
+    {
+      "recto": "1941年12月8日、日本軍がハワイのアメリカ軍基地を奇襲した攻撃を何というか。",
+      "verso": "真珠湾攻撃",
+      "explanation": "同時にマレー半島にも上陸し、太平洋戦争が始まった。宣戦布告が攻撃後になったことが対日感情を悪化させた。",
+      "tags": [
+        "開戦",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "ノルマンディー上陸作戦",
+          "サラエボ事件",
+          "盧溝橋事件"
+        ],
+        "medium": [
+          "ミッドウェー海戦",
+          "マレー沖海戦",
+          "フィリピン攻略戦"
+        ],
+        "hard": [
+          "ウェーク島攻略",
+          "ダーウィン空襲",
+          "セイロン沖海戦"
+        ]
+      }
+    },
+    {
+      "recto": "太平洋戦争の開戦時に首相を務めていた陸軍出身の人物は誰か。",
+      "verso": "東条英機",
+      "explanation": "日米交渉の行きづまりのなかで開戦を決定した。戦後、極東国際軍事裁判で死刑判決を受けた。",
+      "tags": [
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "伊藤博文",
+          "原敬",
+          "吉田茂"
+        ],
+        "medium": [
+          "近衛文麿",
+          "小磯国昭",
+          "鈴木貫太郎"
+        ],
+        "hard": [
+          "米内光政",
+          "阿部信行",
+          "平沼騏一郎"
+        ]
+      }
+    },
+    {
+      "recto": "日本が戦争を正当化するためにかかげた、欧米の支配からアジアを解放し共存共栄をはかるという構想を何というか。",
+      "verso": "大東亜共栄圏",
+      "explanation": "実際には資源と労働力の収奪が優先され、占領地では抗日運動が広がった。理念と実態のずれが問われる。",
+      "tags": [
+        "用語",
+        "占領地"
+      ],
+      "distractors": {
+        "easy": [
+          "文明開化",
+          "ブロック経済",
+          "国際連盟"
+        ],
+        "medium": [
+          "東亜新秩序",
+          "五族協和",
+          "八紘一宇"
+        ],
+        "hard": [
+          "アジア・モンロー主義",
+          "汎アジア主義",
+          "南方共栄圏"
+        ]
+      }
+    },
+    {
+      "recto": "1942年6月、日本の空母4隻が失われ、太平洋戦争の戦局が転換した海戦を何というか。",
+      "verso": "ミッドウェー海戦",
+      "explanation": "開戦から半年での大敗北で、以後日本は守勢に回った。日本海海戦（1905年・日露戦争）と混同しない。",
+      "tags": [
+        "戦局",
+        "転換点"
+      ],
+      "distractors": {
+        "easy": [
+          "日本海海戦",
+          "真珠湾攻撃",
+          "ノルマンディー上陸作戦"
+        ],
+        "medium": [
+          "ガダルカナルの戦い",
+          "珊瑚海海戦",
+          "レイテ沖海戦"
+        ],
+        "hard": [
+          "マリアナ沖海戦",
+          "南太平洋海戦",
+          "アッツ島の戦い"
+        ]
+      }
+    },
+    {
+      "recto": "1943年から、徴兵を猶予されていた文科系の大学生らが戦場に送られたことを何というか。",
+      "verso": "学徒出陣",
+      "explanation": "兵力不足を補うための動員。工場で働かされた勤労動員（学徒動員）と区別する。",
+      "tags": [
+        "動員"
+      ],
+      "distractors": {
+        "easy": [
+          "徴兵令",
+          "修学旅行",
+          "志願兵制度"
+        ],
+        "medium": [
+          "勤労動員",
+          "国民義勇隊",
+          "少年兵志願"
+        ],
+        "hard": [
+          "学徒動員",
+          "徴用",
+          "根こそぎ動員"
+        ]
+      }
+    },
+    {
+      "recto": "労働力不足を補うため、中学生や女学生までもが軍需工場などで働かされたことを何というか。",
+      "verso": "勤労動員",
+      "explanation": "女性は女子挺身隊にも組織された。学生が戦場に送られた学徒出陣と区別する。",
+      "tags": [
+        "動員"
+      ],
+      "distractors": {
+        "easy": [
+          "アルバイト",
+          "参勤交代",
+          "出稼ぎ"
+        ],
+        "medium": [
+          "学徒出陣",
+          "強制連行",
+          "隣組活動"
+        ],
+        "hard": [
+          "女子挺身隊",
+          "国民徴用",
+          "産業報国運動"
+        ]
+      }
+    },
+    {
+      "recto": "空襲が激しくなるなか、都市の小学生が親元を離れて地方に集団で移り住んだことを何というか。",
+      "verso": "学童疎開",
+      "explanation": "1944年から本格化した。子どもまでもが戦争の影響を直接受けたことを示すできごと。",
+      "tags": [
+        "生活"
+      ],
+      "distractors": {
+        "easy": [
+          "修学旅行",
+          "移民",
+          "参勤交代"
+        ],
+        "medium": [
+          "集団就職",
+          "建物疎開",
+          "縁故疎開"
+        ],
+        "hard": [
+          "工場疎開",
+          "強制疎開",
+          "学童動員"
+        ]
+      }
+    },
+    {
+      "recto": "1944年にアメリカ軍に占領され、日本本土への空襲の基地となった島はどこか。",
+      "verso": "サイパン島",
+      "explanation": "サイパン陥落で東条内閣は退陣し、B29による本土空襲が本格化した。防衛の「絶対国防圏」が破られた。",
+      "tags": [
+        "戦局",
+        "転換点"
+      ],
+      "distractors": {
+        "easy": [
+          "ハワイ",
+          "沖縄",
+          "台湾"
+        ],
+        "medium": [
+          "ガダルカナル島",
+          "硫黄島",
+          "レイテ島"
+        ],
+        "hard": [
+          "テニアン島",
+          "グアム島",
+          "ペリリュー島"
+        ]
+      }
+    },
+    {
+      "recto": "1945年3月10日、一夜で約10万人が犠牲になったとされる、アメリカ軍による焼夷弾攻撃を何というか。",
+      "verso": "東京大空襲",
+      "explanation": "木造家屋の密集地を狙った無差別爆撃だった。空襲は全国の都市に及び、多くの市民が犠牲になった。",
+      "tags": [
+        "空襲",
+        "被害"
+      ],
+      "distractors": {
+        "easy": [
+          "関東大震災",
+          "真珠湾攻撃",
+          "ドーリットル空襲"
+        ],
+        "medium": [
+          "大阪大空襲",
+          "名古屋大空襲",
+          "重慶爆撃"
+        ],
+        "hard": [
+          "下町空襲",
+          "山の手空襲",
+          "ゲルニカ爆撃"
+        ]
+      }
+    },
+    {
+      "recto": "1945年4月から6月にかけて、日本国内で唯一の本格的な地上戦が行われた場所はどこか。",
+      "verso": "沖縄",
+      "explanation": "県民の約4分の1が犠牲になったとされる。ひめゆり学徒隊など、住民が戦闘に巻きこまれた。",
+      "tags": [
+        "沖縄戦",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "北海道",
+          "東京",
+          "九州"
+        ],
+        "medium": [
+          "硫黄島",
+          "サイパン島",
+          "台湾"
+        ],
+        "hard": [
+          "奄美諸島",
+          "慶良間諸島",
+          "宮古島"
+        ]
+      }
+    },
+    {
+      "recto": "1945年2月、アメリカ・イギリス・ソ連の首脳が戦後処理とソ連の対日参戦を密約した会談を何というか。",
+      "verso": "ヤルタ会談",
+      "explanation": "ソ連の対日参戦と引きかえに南樺太・千島をソ連に渡すことが密約された。ポツダム宣言（7月）と区別する。",
+      "tags": [
+        "世界",
+        "会談"
+      ],
+      "distractors": {
+        "easy": [
+          "ウィーン会議",
+          "パリ講和会議",
+          "ワシントン会議"
+        ],
+        "medium": [
+          "ポツダム会談",
+          "カイロ会談",
+          "テヘラン会談"
+        ],
+        "hard": [
+          "カサブランカ会談",
+          "ケベック会談",
+          "ダンバートン・オークス会議"
+        ]
+      }
+    },
+    {
+      "recto": "1945年7月、アメリカ・イギリス・中国の名で日本に無条件降伏を求めた宣言を何というか。",
+      "verso": "ポツダム宣言",
+      "explanation": "日本政府は当初これを「黙殺」し、原爆投下とソ連参戦をへて受諾した。ヤルタ会談（2月・密約）と区別する。",
+      "tags": [
+        "終戦",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "ベルサイユ条約",
+          "国連憲章",
+          "五箇条の御誓文"
+        ],
+        "medium": [
+          "カイロ宣言",
+          "ヤルタ協定",
+          "大西洋憲章"
+        ],
+        "hard": [
+          "ポツダム協定",
+          "降伏文書",
+          "バーンズ回答"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】1945年2月にソ連の対日参戦が密約された会談と、同年7月に日本へ降伏を勧告した宣言を、順にそれぞれ何というか。",
+      "verso": "ヤルタ会談とポツダム宣言",
+      "explanation": "ヤルタ会談（2月・米英ソの密約）、ポツダム宣言（7月・米英中の名で降伏勧告）。時期と参加国の違いに注意。",
+      "tags": [
+        "comparaison",
+        "終戦"
+      ],
+      "distractors": {
+        "easy": [
+          "ウィーン会議とベルサイユ条約",
+          "カイロ会談と国連憲章",
+          "パリ講和会議とワシントン会議"
+        ],
+        "medium": [
+          "ポツダム宣言とヤルタ会談",
+          "カイロ宣言とポツダム宣言",
+          "テヘラン会談とヤルタ会談"
+        ],
+        "hard": [
+          "ヤルタ会談とカイロ宣言",
+          "ポツダム会談とヤルタ協定",
+          "テヘラン会談とポツダム宣言"
+        ]
+      }
+    },
+    {
+      "recto": "1945年8月6日に原子爆弾が投下された都市はどこか。",
+      "verso": "広島",
+      "explanation": "人類史上初の核攻撃で、その年のうちに約14万人が亡くなったとされる。8月9日の長崎と順序を混同しない。",
+      "tags": [
+        "原爆",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "東京",
+          "大阪",
+          "京都"
+        ],
+        "medium": [
+          "長崎",
+          "小倉",
+          "新潟"
+        ],
+        "hard": [
+          "呉",
+          "福岡",
+          "八幡"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】広島と長崎に原子爆弾が投下されたのは、それぞれ8月の何日か。",
+      "verso": "6日と9日",
+      "explanation": "広島が8月6日、長崎が8月9日。その間の8月8日にソ連が対日参戦している。日付の順序がよく問われる。",
+      "tags": [
+        "piege",
+        "原爆"
+      ],
+      "distractors": {
+        "easy": [
+          "1日と5日",
+          "15日と20日",
+          "3日と30日"
+        ],
+        "medium": [
+          "6日と8日",
+          "7日と10日",
+          "5日と9日"
+        ],
+        "hard": [
+          "9日と6日",
+          "6日と11日",
+          "8日と9日"
+        ]
+      }
+    },
+    {
+      "recto": "1945年8月8日、日ソ中立条約を破って日本に宣戦した国はどこか。",
+      "verso": "ソ連",
+      "explanation": "ヤルタ会談の密約にもとづく参戦。満洲や樺太では多くの犠牲者や抑留者（シベリア抑留）が出た。",
+      "tags": [
+        "終戦"
+      ],
+      "distractors": {
+        "easy": [
+          "アメリカ",
+          "イギリス",
+          "ドイツ"
+        ],
+        "medium": [
+          "中国",
+          "モンゴル",
+          "フランス"
+        ],
+        "hard": [
+          "オーストラリア",
+          "カナダ",
+          "オランダ"
+        ]
+      }
+    },
+    {
+      "recto": "1945年8月15日、天皇がラジオで国民に戦争の終結を告げた放送を何というか。",
+      "verso": "玉音放送",
+      "explanation": "前日にポツダム宣言の受諾が決まっていた。正式な降伏文書の調印は9月2日。",
+      "tags": [
+        "終戦"
+      ],
+      "distractors": {
+        "easy": [
+          "ニュース速報",
+          "大本営発表",
+          "教育勅語"
+        ],
+        "medium": [
+          "終戦の詔書",
+          "人間宣言",
+          "開戦の詔勅"
+        ],
+        "hard": [
+          "終戦告諭",
+          "聖断放送",
+          "詔勅放送"
+        ]
+      }
+    },
+    {
+      "recto": "戦争末期、爆弾を積んだ航空機で敵艦に体当たりする攻撃を行った部隊を何と呼ぶか。",
+      "verso": "特別攻撃隊（特攻隊）",
+      "explanation": "多くの若者が「志願」の形で送り出された。追いつめられた戦争指導の末路を示すものとされる。",
+      "tags": [
+        "戦局",
+        "動員"
+      ],
+      "distractors": {
+        "easy": [
+          "新選組",
+          "白虎隊",
+          "赤穂浪士"
+        ],
+        "medium": [
+          "回天部隊",
+          "義烈空挺隊",
+          "振武隊"
+        ],
+        "hard": [
+          "神風連",
+          "挺身隊",
+          "国民義勇戦闘隊"
+        ]
+      }
+    },
+    {
+      "recto": "敗戦後、ソ連軍によって満洲などの日本兵らが連行され、長期間の強制労働をさせられたことを何というか。",
+      "verso": "シベリア抑留",
+      "explanation": "約57万人が抑留され、多くが寒さと飢えで亡くなった。戦争の犠牲が敗戦後も続いたことを示す。",
+      "tags": [
+        "終戦",
+        "被害"
+      ],
+      "distractors": {
+        "easy": [
+          "シベリア出兵",
+          "島流し",
+          "学童疎開"
+        ],
+        "medium": [
+          "強制連行",
+          "引き揚げ",
+          "捕虜交換"
+        ],
+        "hard": [
+          "ラーゲリ移送",
+          "満洲開拓団",
+          "関東軍武装解除"
+        ]
+      }
+    }
+  ]
+}

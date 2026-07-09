@@ -1,0 +1,535 @@
+{
+  "id": "jp-koukou-rekishi-sougou-reisen-dokuritsu",
+  "title": "冷戦と日本の独立回復",
+  "emoji": "🗾",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "冷戦の始まりから朝鮮戦争、サンフランシスコ平和条約、55年体制、国連加盟まで。日本の国際社会復帰を学ぶ。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>冷戦と日本の独立回復</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・歴史総合<br>\n  <b>大項目D：</b>グローバル化と私たち<br>\n  <b>時期：</b>1945〜56年（占領後期から国連加盟まで）\n</div>\n\n<blockquote>\n  <p><b>問い</b>　冷戦は日本の独立のかたちをどのように決めたのだろうか。</p>\n</blockquote>\n\n<p>戦後の世界は、アメリカ中心の西側とソ連中心の東側が対立する<strong>冷戦</strong>の時代に入った。<strong>朝鮮戦争</strong>は日本に<strong>特需景気</strong>と<strong>再軍備</strong>をもたらし、1951年の<strong>サンフランシスコ平和条約</strong>と<strong>日米安全保障条約</strong>は、西側の一員としての独立という日本の進路を決めた。1956年、<strong>日ソ共同宣言</strong>をへて日本は<strong>国際連合</strong>に加盟する。</p>\n\n<h2>1・冷戦の始まり</h2>\n\n<p>米ソの対立は、1948年の<strong>ベルリン封鎖</strong>で決定的になった。1949年に西側は<strong>北大西洋条約機構（NATO）</strong>を結成し、東側は後にワルシャワ条約機構で対抗する。同じ1949年、中国では<strong>毛沢東</strong>の共産党が内戦に勝利して<strong>中華人民共和国</strong>が成立し、東アジアにも冷戦構造が広がった。</p>\n\n<p>一方、アジア・アフリカでは植民地の独立（<strong>脱植民地化</strong>）が進み、1955年の<strong>アジア・アフリカ会議（バンドン会議）</strong>は、東西どちらにも属さない第三勢力の登場を世界に示した。</p>\n\n<div class=\"callout\">\n  <strong>用語・冷戦</strong><br>\n  米ソ両陣営が直接には戦火を交えずに対立した状態。ただし朝鮮戦争やベトナム戦争のように、アジアでは実際の戦争（熱戦）となった。\n</div>\n\n<h2>2・朝鮮戦争と日本</h2>\n\n<p>1950年、北朝鮮が韓国に侵攻して<strong>朝鮮戦争</strong>が始まった。米軍中心の国連軍と中国人民義勇軍が参戦し、戦争は1953年の休戦まで続いた。同じ民族が南北に分断されて戦うという、冷戦の悲劇だった。</p>\n\n<p>日本では、出動した米軍のあなをうめるために<strong>警察予備隊</strong>が創設され（のちの<strong>自衛隊</strong>）、米軍向けの物資需要で<strong>特需景気</strong>がおこって復興が加速した。占領政策も非軍事化から経済復興・再軍備重視へと転換し、「<strong>逆コース</strong>」と呼ばれた。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 326\" role=\"img\" aria-label=\"朝鮮戦争が日本にもたらした変化。特需景気と警察予備隊、そして講和の加速\">\n  <defs>\n    <marker id=\"ar-rd1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 段階1：朝鮮戦争 -->\n  <g>\n    <rect x=\"14\" y=\"8\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"40\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">朝鮮戦争</text>\n    <text x=\"30\" y=\"65\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">冷戦がアジアで熱戦に（1950〜53）</text>\n  </g>\n  <path d=\"M170,88 L170,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-rd1)\"/>\n  <!-- 段階2：日本への影響 -->\n  <g>\n    <rect x=\"14\" y=\"110\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"142\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">特需景気と警察予備隊</text>\n    <text x=\"30\" y=\"167\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">復興の加速と再軍備の始まり</text>\n  </g>\n  <path d=\"M170,190 L170,210\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-rd1)\"/>\n  <!-- 段階3：講和へ（強調） -->\n  <g>\n    <rect x=\"14\" y=\"212\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"244\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">西側の一員として講和へ</text>\n    <text x=\"30\" y=\"269\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">アメリカが対日講和を急ぐ（1951）</text>\n  </g>\n</svg>\n<figcaption>朝鮮戦争は、日本の復興・再軍備・講和のすべてを加速させた。</figcaption>\n</figure>\n\n<h2>3・サンフランシスコ平和条約と安保条約</h2>\n\n<p>1951年9月8日、<strong>吉田茂</strong>首相は48か国と<strong>サンフランシスコ平和条約</strong>に調印し、日本は独立を回復した（発効1952年4月28日）。ただし<strong>ソ連は調印せず</strong>、中国は招かれず、国内では全交戦国との<strong>全面講和</strong>を求める声と対立した<strong>単独講和</strong>だった。<strong>沖縄</strong>と小笠原はアメリカの統治下に残された。</p>\n\n<p>平和条約と<strong>同じ日</strong>、<strong>日米安全保障条約</strong>が結ばれ、独立後も米軍の駐留が続くことになった。軽武装で経済復興を優先し、安全保障はアメリカに委ねるという「吉田路線」が、戦後日本の骨格となる。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"1951年9月8日に同日調印された二つの条約。サンフランシスコ平和条約と日米安全保障条約\">\n  <!-- 左：平和条約 -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">平和条約</text>\n  <text x=\"87\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">48か国と講和</text>\n  <text x=\"26\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">独立の回復</text>\n  <text x=\"26\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">ソ連は調印せず</text>\n  <text x=\"26\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">沖縄は米統治のまま</text>\n  <!-- 右：安保条約 -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">日米安保条約</text>\n  <text x=\"253\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">同じ日に調印</text>\n  <text x=\"192\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">米軍の駐留継続</text>\n  <text x=\"192\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">基地の提供</text>\n  <text x=\"192\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">西側陣営の一員に</text>\n</svg>\n<figcaption>独立と米軍駐留はセットだった。1951年9月8日の同日調印がよく問われる。</figcaption>\n</figure>\n\n<h2>4・55年体制と国際社会への復帰</h2>\n\n<p>1955年、保守合同で<strong>自由民主党</strong>が結成され、統一した日本社会党と向き合う<strong>55年体制</strong>が始まった。自民党が政権をにぎり社会党が野党第一党を占めるこの構図は、約38年間続くことになる。</p>\n\n<p>1956年、<strong>鳩山一郎</strong>首相は<strong>日ソ共同宣言</strong>に調印してソ連との国交を回復した。ソ連の反対がなくなったことで、同年12月、日本の<strong>国際連合への加盟</strong>が実現し、国際社会への復帰が果たされた。一方、1954年の<strong>第五福竜丸事件</strong>をきっかけに原水爆禁止運動が広がり、核の時代への問いも生まれていた。</p>\n\n<div class=\"callout\">\n  <strong>用語・55年体制</strong><br>\n  1955年から、自由民主党が政権をにぎり日本社会党が野党第一党を占め続けた政治のしくみ。1993年まで約38年間続いた。\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 427\" role=\"img\" aria-label=\"冷戦と日本の独立回復をめぐる年表\">\n  <line x1=\"74\" y1=\"22\" x2=\"74\" y2=\"409\" style=\"stroke:var(--accent);stroke-width:3;stroke-linecap:round\"/>\n  <!-- 1948 -->\n  <circle cx=\"74\" cy=\"40\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"45\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1948</text>\n  <text x=\"90\" y=\"45\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">ベルリン封鎖</text>\n  <!-- 1949 -->\n  <circle cx=\"74\" cy=\"101\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"106\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1949</text>\n  <text x=\"90\" y=\"106\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">NATO・中華人民共和国</text>\n  <!-- 1950 -->\n  <circle cx=\"74\" cy=\"162\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"167\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1950</text>\n  <text x=\"90\" y=\"167\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">朝鮮戦争・警察予備隊</text>\n  <!-- 1951 -->\n  <circle cx=\"74\" cy=\"223\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"228\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1951</text>\n  <text x=\"90\" y=\"228\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">平和条約・日米安保条約</text>\n  <!-- 1954 -->\n  <circle cx=\"74\" cy=\"284\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"289\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1954</text>\n  <text x=\"90\" y=\"289\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">自衛隊発足・第五福竜丸事件</text>\n  <!-- 1955 -->\n  <circle cx=\"74\" cy=\"345\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"350\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1955</text>\n  <text x=\"90\" y=\"350\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">55年体制・バンドン会議</text>\n  <!-- 1956 -->\n  <circle cx=\"74\" cy=\"406\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"411\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1956</text>\n  <text x=\"90\" y=\"411\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">日ソ共同宣言・国連加盟</text>\n</svg>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>年</th><th>できごと</th></tr>\n  <tr><td>1948年</td><td>ベルリン封鎖（冷戦の激化）</td></tr>\n  <tr><td>1949年</td><td>NATO結成・中華人民共和国の成立</td></tr>\n  <tr><td>1950年</td><td>朝鮮戦争（〜53年）・警察予備隊・特需景気</td></tr>\n  <tr><td>1951年</td><td>サンフランシスコ平和条約・日米安全保障条約（同日調印）</td></tr>\n  <tr><td>1954年</td><td>自衛隊の発足・第五福竜丸事件</td></tr>\n  <tr><td>1955年</td><td>55年体制の成立・アジア・アフリカ会議</td></tr>\n  <tr><td>1956年</td><td>日ソ共同宣言・国際連合加盟</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>冷戦</td><td>米ソ両陣営が直接戦わずに対立した状態</td></tr>\n  <tr><td>特需景気</td><td>朝鮮戦争の物資需要による好景気</td></tr>\n  <tr><td>警察予備隊</td><td>1950年創設。保安隊をへて自衛隊へ</td></tr>\n  <tr><td>単独講和</td><td>西側諸国とだけ講和したこと（対語：全面講和）</td></tr>\n  <tr><td>55年体制</td><td>自民党政権と社会党野党第一党が続く構図</td></tr>\n  <tr><td>日ソ共同宣言</td><td>1956年、ソ連との国交回復。国連加盟への道</td></tr>\n</table>\n\n<h3>重要人物</h3>\n\n<table>\n  <tr><th>人物</th><th>役割</th></tr>\n  <tr><td>吉田茂</td><td>平和条約・安保条約に調印。軽武装・経済優先路線</td></tr>\n  <tr><td>鳩山一郎</td><td>日ソ共同宣言を実現し、国連加盟を果たした</td></tr>\n  <tr><td>毛沢東</td><td>中華人民共和国を成立させた共産党の指導者</td></tr>\n  <tr><td>マッカーサー</td><td>朝鮮戦争中に国連軍を指揮し、のち解任された</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  <b>サンフランシスコ平和条約と日米安全保障条約は同じ日</b>（1951年9月8日）の調印。また日ソの国交回復は「平和条約」ではなく<b>日ソ共同宣言</b>であり、北方領土問題のため平和条約は今も結ばれていない。<b>国連加盟（1956年）は日ソ国交回復が前提</b>だった因果関係もよく問われる。\n</div>\n\n<blockquote>\n  <p>日本の独立は、冷戦という条件のもとで「西側の一員として」というかたちをとった。米軍基地と沖縄の分離という代償を残しつつ、日本は国際社会に復帰し、経済の時代へと向かう。次はいよいよ高度経済成長である。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "歴史総合 ― グローバル化と私たち",
+  "cards": [
+    {
+      "recto": "第二次世界大戦後、アメリカ中心の西側陣営とソ連中心の東側陣営が、直接には戦火を交えずに対立した状態を何というか。",
+      "verso": "冷戦",
+      "explanation": "「冷たい戦争」とも呼ばれる。直接戦争はしないが、朝鮮戦争など各地で代理戦争がおこった。",
+      "tags": [
+        "冷戦",
+        "用語"
+      ],
+      "distractors": {
+        "easy": [
+          "世界大戦",
+          "南北戦争",
+          "百年戦争"
+        ],
+        "medium": [
+          "代理戦争",
+          "軍拡競争",
+          "東西対立"
+        ],
+        "hard": [
+          "熱戦",
+          "デタント",
+          "封じ込め"
+        ]
+      }
+    },
+    {
+      "recto": "1949年、アメリカを中心とする西側諸国が結成した軍事同盟を何というか。",
+      "verso": "北大西洋条約機構（NATO）",
+      "explanation": "東側は1955年にワルシャワ条約機構で対抗した。冷戦の軍事的な枠組みを示す。",
+      "tags": [
+        "冷戦",
+        "世界"
+      ],
+      "distractors": {
+        "easy": [
+          "国際連合",
+          "三国同盟",
+          "EU"
+        ],
+        "medium": [
+          "ワルシャワ条約機構",
+          "東南アジア条約機構",
+          "米州機構"
+        ],
+        "hard": [
+          "中央条約機構",
+          "西ヨーロッパ連合",
+          "コミンフォルム"
+        ]
+      }
+    },
+    {
+      "recto": "1949年、毛沢東の指導する共産党が国民党との内戦に勝利して成立させた国を何というか。",
+      "verso": "中華人民共和国",
+      "explanation": "敗れた国民党の蔣介石は台湾に逃れた。東アジアの冷戦構造を決定づけたできごと。",
+      "tags": [
+        "中国",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "中華民国",
+          "大韓民国",
+          "モンゴル"
+        ],
+        "medium": [
+          "中華ソビエト共和国",
+          "満洲国",
+          "中華社会主義共和国"
+        ],
+        "hard": [
+          "中華人民民主国",
+          "華北人民政府",
+          "中原解放区政府"
+        ]
+      }
+    },
+    {
+      "recto": "1950年、北朝鮮が韓国に侵攻して始まった戦争を何というか。",
+      "verso": "朝鮮戦争",
+      "explanation": "米軍中心の国連軍と中国人民義勇軍が参戦し、1953年に休戦した。冷戦がアジアで熱戦になった例。",
+      "tags": [
+        "朝鮮",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "ベトナム戦争",
+          "日清戦争",
+          "湾岸戦争"
+        ],
+        "medium": [
+          "中国内戦",
+          "インドシナ戦争",
+          "台湾海峡危機"
+        ],
+        "hard": [
+          "韓国動乱",
+          "三十八度線紛争",
+          "仁川事変"
+        ]
+      }
+    },
+    {
+      "recto": "朝鮮戦争でアメリカ軍からの大量の物資需要により日本におこった好景気を何というか。",
+      "verso": "特需景気",
+      "explanation": "「朝鮮特需」とも呼ばれ、戦後復興を一気に加速させた。第一次世界大戦の大戦景気と混同しない。",
+      "tags": [
+        "経済"
+      ],
+      "distractors": {
+        "easy": [
+          "バブル経済",
+          "大戦景気",
+          "高度経済成長"
+        ],
+        "medium": [
+          "神武景気",
+          "岩戸景気",
+          "復興景気"
+        ],
+        "hard": [
+          "いざなぎ景気",
+          "ドッジ・ブーム",
+          "投資景気"
+        ]
+      }
+    },
+    {
+      "recto": "1950年、朝鮮戦争に出動した米軍のあなをうめるためにGHQの指令で創設された組織は何か。",
+      "verso": "警察予備隊",
+      "explanation": "保安隊をへて1954年に自衛隊となる。憲法9条との関係が問われ続ける再軍備の出発点。",
+      "tags": [
+        "再軍備",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "自衛隊",
+          "帝国陸軍",
+          "国連軍"
+        ],
+        "medium": [
+          "保安隊",
+          "海上警備隊",
+          "国家地方警察"
+        ],
+        "hard": [
+          "国警予備隊",
+          "警備隊",
+          "国土防衛隊"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】1950年に創設された組織と、それが1954年に改組されてできた組織を、順にそれぞれ何というか。",
+      "verso": "警察予備隊と自衛隊",
+      "explanation": "警察予備隊（1950年）→保安隊（1952年）→自衛隊（1954年）の順。再軍備の段階として問われる。",
+      "tags": [
+        "comparaison",
+        "再軍備"
+      ],
+      "distractors": {
+        "easy": [
+          "帝国陸軍と自衛隊",
+          "警察と消防",
+          "国連軍と多国籍軍"
+        ],
+        "medium": [
+          "自衛隊と警察予備隊",
+          "保安隊と警察予備隊",
+          "警察予備隊と保安隊"
+        ],
+        "hard": [
+          "警備隊と自衛隊",
+          "保安隊と海上自衛隊",
+          "警察予備隊と国防軍"
+        ]
+      }
+    },
+    {
+      "recto": "冷戦の激化とともに、占領政策が非軍事化から経済復興・再軍備へと転換したことを何と呼ぶか。",
+      "verso": "逆コース",
+      "explanation": "公職追放の解除やレッドパージが進んだ。冷戦がアメリカの対日政策を変えたことを示す言葉。",
+      "tags": [
+        "占領",
+        "用語"
+      ],
+      "distractors": {
+        "easy": [
+          "文明開化",
+          "戦後改革",
+          "民主化"
+        ],
+        "medium": [
+          "レッドパージ",
+          "ドッジ・ライン",
+          "経済安定九原則"
+        ],
+        "hard": [
+          "対日政策の転換声明",
+          "再軍備路線",
+          "巻き返し政策"
+        ]
+      }
+    },
+    {
+      "recto": "1951年、日本が48か国と結んで独立を回復した講和条約を何というか。",
+      "verso": "サンフランシスコ平和条約",
+      "explanation": "吉田茂首相が調印。ソ連は調印せず、中国は招かれなかった（単独講和）。発効は1952年4月28日。",
+      "tags": [
+        "条約",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "ポーツマス条約",
+          "ベルサイユ条約",
+          "下関条約"
+        ],
+        "medium": [
+          "日米安全保障条約",
+          "日ソ共同宣言",
+          "日華平和条約"
+        ],
+        "hard": [
+          "対日講和七原則",
+          "ダレス講和案",
+          "全面講和条約"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】サンフランシスコ平和条約と同じ日に結ばれ、独立後も米軍の駐留を認めた条約は何か。",
+      "verso": "日米安全保障条約",
+      "explanation": "1951年9月8日、平和条約と同日に調印された。独立と引きかえに米軍基地が残る構図が生まれた。",
+      "tags": [
+        "piege",
+        "条約"
+      ],
+      "distractors": {
+        "easy": [
+          "日英同盟",
+          "国連憲章",
+          "日米和親条約"
+        ],
+        "medium": [
+          "日米行政協定",
+          "MSA協定",
+          "日米地位協定"
+        ],
+        "hard": [
+          "新日米安全保障条約",
+          "日米防衛協力協定",
+          "極東条項協定"
+        ]
+      }
+    },
+    {
+      "recto": "サンフランシスコ平和条約に調印した日本の首相は誰か。",
+      "verso": "吉田茂",
+      "explanation": "経済復興を優先し軽武装・日米協調を選んだ。その路線は「吉田路線」と呼ばれ戦後日本の骨格となった。",
+      "tags": [
+        "人物",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "伊藤博文",
+          "東条英機",
+          "田中角栄"
+        ],
+        "medium": [
+          "鳩山一郎",
+          "岸信介",
+          "片山哲"
+        ],
+        "hard": [
+          "芦田均",
+          "重光葵",
+          "池田勇人"
+        ]
+      }
+    },
+    {
+      "recto": "講和をめぐり、ソ連や中国も含む全交戦国との講和を求める立場を何と呼んだか。",
+      "verso": "全面講和",
+      "explanation": "西側諸国とだけ講和する単独講和（多数講和）と対立した論争。冷戦が日本の進路の選択を迫った。",
+      "tags": [
+        "論争",
+        "用語"
+      ],
+      "distractors": {
+        "easy": [
+          "無条件降伏",
+          "単独講和",
+          "永世中立"
+        ],
+        "medium": [
+          "多数講和",
+          "部分講和",
+          "早期講和"
+        ],
+        "hard": [
+          "中立講和",
+          "四国講和",
+          "包括講和"
+        ]
+      }
+    },
+    {
+      "recto": "1955年に保守合同で結成され、以後長く政権をになった政党は何か。",
+      "verso": "自由民主党",
+      "explanation": "同年に統一した日本社会党と対抗する55年体制が成立した。結成には保守合同という言葉を使う。",
+      "tags": [
+        "政治",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "立憲政友会",
+          "大政翼賛会",
+          "自由党（板垣退助）"
+        ],
+        "medium": [
+          "日本社会党",
+          "日本民主党",
+          "自由党（戦後）"
+        ],
+        "hard": [
+          "民主自由党",
+          "国民民主党",
+          "改進党"
+        ]
+      }
+    },
+    {
+      "recto": "1955年から続いた、自由民主党が政権をにぎり日本社会党が野党第一党を占める政治のしくみを何というか。",
+      "verso": "55年体制",
+      "explanation": "保守と革新の対立構造が約38年間続き、1993年の細川連立内閣で崩壊した。",
+      "tags": [
+        "政治",
+        "用語"
+      ],
+      "distractors": {
+        "easy": [
+          "幕藩体制",
+          "戦時体制",
+          "憲政の常道"
+        ],
+        "medium": [
+          "二大政党制",
+          "保守合同体制",
+          "一党独裁制"
+        ],
+        "hard": [
+          "1と2分の1政党制",
+          "保革伯仲体制",
+          "自社さ体制"
+        ]
+      }
+    },
+    {
+      "recto": "1956年、鳩山一郎首相がモスクワで調印し、ソ連との国交を回復した文書を何というか。",
+      "verso": "日ソ共同宣言",
+      "explanation": "平和条約ではなく共同宣言である点に注意。北方領土問題が残ったため、平和条約は現在も結ばれていない。",
+      "tags": [
+        "外交",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "日ソ中立条約",
+          "ポーツマス条約",
+          "日ソ平和条約"
+        ],
+        "medium": [
+          "日中共同声明",
+          "日ソ基本条約",
+          "日ソ漁業条約"
+        ],
+        "hard": [
+          "日ソ国交回復協定",
+          "モスクワ宣言",
+          "日ソ善隣条約"
+        ]
+      }
+    },
+    {
+      "recto": "日ソ共同宣言の結果、1956年12月に実現した日本の国際的な復帰とは何か。",
+      "verso": "国際連合への加盟",
+      "explanation": "それまでソ連が拒否権で反対していた。国交回復により反対がなくなり、加盟が実現した。",
+      "tags": [
+        "外交",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "国際連盟への復帰",
+          "オリンピック開催",
+          "NATOへの加盟"
+        ],
+        "medium": [
+          "安全保障理事会入り",
+          "GATTへの加盟",
+          "IMFへの加盟"
+        ],
+        "hard": [
+          "国連総会オブザーバー資格",
+          "ユネスコ加盟",
+          "コロンボ・プラン参加"
+        ]
+      }
+    },
+    {
+      "recto": "サンフランシスコ平和条約の発効後もアメリカの統治下に残された地域はどこか。",
+      "verso": "沖縄（と小笠原諸島）",
+      "explanation": "沖縄の本土復帰は1972年。独立回復から復帰まで20年間、米軍統治が続いたことを忘れない。",
+      "tags": [
+        "沖縄",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "北海道",
+          "対馬",
+          "佐渡島"
+        ],
+        "medium": [
+          "奄美諸島のみ",
+          "千島列島",
+          "竹島"
+        ],
+        "hard": [
+          "北方四島",
+          "南西諸島全域と樺太",
+          "硫黄島のみ"
+        ]
+      }
+    },
+    {
+      "recto": "1954年、アメリカの水爆実験によって日本の漁船が被ばくした事件を何というか。",
+      "verso": "第五福竜丸事件",
+      "explanation": "ビキニ環礁での実験による被害。翌年から原水爆禁止運動が全国に広がるきっかけとなった。",
+      "tags": [
+        "核",
+        "事件"
+      ],
+      "distractors": {
+        "easy": [
+          "原爆投下",
+          "チェルノブイリ原発事故",
+          "水俣病"
+        ],
+        "medium": [
+          "ビキニ環礁実験そのもの",
+          "むつ放射線漏れ事件",
+          "東海村臨界事故"
+        ],
+        "hard": [
+          "久保山事件",
+          "第二福竜丸事件",
+          "ロンゲラップ被ばく事件"
+        ]
+      }
+    },
+    {
+      "recto": "1948年、ソ連が西ベルリンへの交通を遮断し、冷戦の緊張を象徴したできごとを何というか。",
+      "verso": "ベルリン封鎖",
+      "explanation": "西側は物資を空輸して対抗した。1961年に築かれたベルリンの壁と区別する。",
+      "tags": [
+        "冷戦",
+        "世界"
+      ],
+      "distractors": {
+        "easy": [
+          "ベルリンの壁の建設",
+          "真珠湾攻撃",
+          "ロシア革命"
+        ],
+        "medium": [
+          "キューバ危機",
+          "ハンガリー動乱",
+          "プラハの春"
+        ],
+        "hard": [
+          "ベルリン危機（1961年）",
+          "チェコ事件",
+          "ポーランド反ソ暴動"
+        ]
+      }
+    },
+    {
+      "recto": "第二次世界大戦後に植民地支配から独立した、インドネシアやインドなどアジア・アフリカの国々が1955年に開いた会議を何というか。",
+      "verso": "アジア・アフリカ会議（バンドン会議）",
+      "explanation": "平和十原則を採択し、東西どちらの陣営にも属さない第三勢力の結集を示した。脱植民地化の象徴。",
+      "tags": [
+        "世界",
+        "脱植民地化"
+      ],
+      "distractors": {
+        "easy": [
+          "国際連合総会",
+          "パリ講和会議",
+          "ワシントン会議"
+        ],
+        "medium": [
+          "非同盟諸国首脳会議",
+          "コロンボ会議",
+          "カイロ会議"
+        ],
+        "hard": [
+          "ベオグラード会議",
+          "ニューデリー会議",
+          "アフリカ統一機構首脳会議"
+        ]
+      }
+    }
+  ]
+}

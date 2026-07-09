@@ -1,0 +1,535 @@
+{
+  "id": "jp-koukou-rekishi-sougou-sengo-kaikaku",
+  "title": "占領と戦後改革",
+  "emoji": "🏛️",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "GHQの占領から五大改革、日本国憲法の制定まで。敗戦後の日本がどのようにつくり直されたかを学ぶ。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>占領と戦後改革</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・歴史総合<br>\n  <b>大項目D：</b>グローバル化と私たち<br>\n  <b>時期：</b>敗戦直後（1945〜47年）\n</div>\n\n<blockquote>\n  <p><b>問い</b>　敗戦後の日本は、何をどのように改め、どのような国として再出発したのだろうか。</p>\n</blockquote>\n\n<p>敗戦後の日本は、<strong>マッカーサー</strong>率いる<strong>GHQ</strong>の占領下に置かれた。<strong>五大改革</strong>で女性参政権・<strong>財閥解体</strong>・<strong>農地改革</strong>などが実現し、1946年には<strong>国民主権</strong>・<strong>基本的人権の尊重</strong>・<strong>平和主義</strong>をかかげる<strong>日本国憲法</strong>が公布される。明治以来の国家のかたちが、根本からつくり直された時代である。</p>\n\n<h2>1・占領の開始</h2>\n\n<p>1945年9月、日本は<strong>連合国軍最高司令官総司令部（GHQ）</strong>の占領下に入った。GHQが日本政府に指令を出して統治させる<strong>間接統治</strong>の方式がとられ、最高司令官<strong>マッカーサー</strong>が改革を主導した。</p>\n\n<p>1946年1月1日、昭和天皇はみずからの神格性を否定する詔書を出した（<strong>天皇の人間宣言</strong>）。東条英機ら戦争指導者は<strong>極東国際軍事裁判（東京裁判）</strong>で裁かれ、戦争協力者約21万人が<strong>公職追放</strong>となった。</p>\n\n<div class=\"callout\">\n  <strong>用語・間接統治</strong><br>\n  GHQが日本政府に指令を出し、政府に政治を行わせた占領のしくみ。連合国が直接統治したドイツと対照的だった。\n</div>\n\n<h2>2・五大改革 ― 民主化の徹底</h2>\n\n<p>マッカーサーは<strong>五大改革</strong>を指令した。選挙法の改正で<strong>満20歳以上の男女</strong>に選挙権があたえられ、1946年の総選挙では39人の女性議員が誕生した。労働者には<strong>労働組合法</strong>など労働三法が保障され、1947年の<strong>教育基本法</strong>は教育の目的を「人格の完成」と定めた。</p>\n\n<p>経済では<strong>財閥解体</strong>が進められ、<strong>農地改革</strong>によって明治以来の<strong>寄生地主制</strong>がついに解体されて、多くの<strong>自作農</strong>が生まれた。1947年の民法改正では、戸主が家族を統率する<strong>家制度</strong>も廃止された。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 250\" role=\"img\" aria-label=\"五大改革の内容。婦人解放、労働組合、教育の自由化、圧政的制度の廃止、経済の民主化\">\n  <defs>\n    <marker id=\"ar-sg1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 五大改革（強調） -->\n  <rect x=\"95\" y=\"8\" width=\"150\" height=\"56\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"33\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">五大改革指令</text>\n  <text x=\"170\" y=\"53\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11\">マッカーサーの指示（1945）</text>\n  <!-- 矢印 -->\n  <path d=\"M170,70 L60,110\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sg1)\"/>\n  <path d=\"M170,70 L170,110\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sg1)\"/>\n  <path d=\"M170,70 L280,110\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sg1)\"/>\n  <!-- 政治・社会 -->\n  <rect x=\"10\" y=\"118\" width=\"100\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">政治・社会</text>\n  <text x=\"60\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">女性参政権</text>\n  <text x=\"60\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">圧政的制度の廃止</text>\n  <!-- 労働・教育 -->\n  <rect x=\"120\" y=\"118\" width=\"100\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">労働・教育</text>\n  <text x=\"170\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">労働三法</text>\n  <text x=\"170\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">教育基本法</text>\n  <!-- 経済 -->\n  <rect x=\"230\" y=\"118\" width=\"100\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">経済</text>\n  <text x=\"280\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">財閥解体</text>\n  <text x=\"280\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">農地改革</text>\n</svg>\n<figcaption>政治・社会・労働・教育・経済のすべてにわたる民主化が進められた。</figcaption>\n</figure>\n\n<h2>3・日本国憲法の制定</h2>\n\n<p>政府の改正案が保守的だったため、GHQは自ら草案を作成した。これをもとに帝国議会で審議・修正され、<strong>日本国憲法</strong>が1946年<strong>11月3日に公布</strong>、1947年<strong>5月3日に施行</strong>された。</p>\n\n<p>新憲法は<strong>国民主権</strong>・<strong>基本的人権の尊重</strong>・<strong>平和主義</strong>を三大原則とする。天皇は統治者から<strong>日本国と日本国民統合の象徴</strong>となり（<strong>象徴天皇制</strong>）、<strong>第9条</strong>は戦争の放棄と戦力の不保持を定めた。</p>\n\n<div class=\"callout\">\n  <strong>用語・象徴天皇制</strong><br>\n  天皇を「日本国と日本国民統合の象徴」とし、政治的権能をもたず国事行為のみを行うとするしくみ。天皇主権からの根本的な転換だった。\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"大日本帝国憲法と日本国憲法の比較。主権者、天皇の地位、軍隊、人権の違い\">\n  <!-- 左：大日本帝国憲法 -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">大日本帝国憲法</text>\n  <text x=\"87\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">1889年・欽定</text>\n  <text x=\"26\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">主権者：天皇</text>\n  <text x=\"26\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">軍隊：天皇が統帥</text>\n  <text x=\"26\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">人権：法律の範囲内</text>\n  <!-- 右：日本国憲法（強調） -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">日本国憲法</text>\n  <text x=\"253\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">1946年公布</text>\n  <text x=\"192\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">主権者：国民</text>\n  <text x=\"192\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">戦争放棄（第9条）</text>\n  <text x=\"192\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">人権：永久の権利</text>\n</svg>\n<figcaption>天皇主権から国民主権へ。天皇は統治者から象徴になった。</figcaption>\n</figure>\n\n<h2>4・復興への模索</h2>\n\n<p>焼け跡の経済を立て直すため、政府は石炭や鉄鋼などの基幹産業に資材と資金を集中させる<strong>傾斜生産方式</strong>をとった。生産は回復に向かったが、通貨の増発で激しい<strong>インフレ</strong>もおこり、人々は買い出しや闇市でしのいだ。</p>\n\n<p>民主化と非軍事化を柱とした占領政策は、やがて<strong>冷戦</strong>の激化とともに、日本を西側陣営の一員として復興させる方向へと転換していくことになる。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 366\" role=\"img\" aria-label=\"占領と戦後改革をめぐる年表\">\n  <line x1=\"74\" y1=\"22\" x2=\"74\" y2=\"348\" style=\"stroke:var(--accent);stroke-width:3;stroke-linecap:round\"/>\n  <!-- 1945a -->\n  <circle cx=\"74\" cy=\"40\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"45\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1945</text>\n  <text x=\"90\" y=\"45\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">GHQの占領・五大改革指令</text>\n  <!-- 1945b -->\n  <circle cx=\"74\" cy=\"101\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"106\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1945</text>\n  <text x=\"90\" y=\"106\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">女性参政権・労働組合法</text>\n  <!-- 1946a -->\n  <circle cx=\"74\" cy=\"162\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"167\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1946</text>\n  <text x=\"90\" y=\"167\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">人間宣言・東京裁判開始</text>\n  <!-- 1946b -->\n  <circle cx=\"74\" cy=\"223\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"228\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1946</text>\n  <text x=\"90\" y=\"228\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">日本国憲法の公布（11.3）</text>\n  <!-- 1947a -->\n  <circle cx=\"74\" cy=\"284\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"289\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1947</text>\n  <text x=\"90\" y=\"289\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">日本国憲法の施行（5.3）</text>\n  <!-- 1947b -->\n  <circle cx=\"74\" cy=\"345\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"350\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1947</text>\n  <text x=\"90\" y=\"350\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">教育基本法・労働基準法</text>\n</svg>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>年</th><th>できごと</th></tr>\n  <tr><td>1945年</td><td>GHQ占領開始・五大改革指令・選挙法改正（女性参政権）</td></tr>\n  <tr><td>1946年</td><td>人間宣言・総選挙（女性議員39人）・農地改革・東京裁判・憲法公布</td></tr>\n  <tr><td>1947年</td><td>日本国憲法施行・教育基本法・労働基準法・民法改正</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>GHQ</td><td>マッカーサー率いる連合国軍の総司令部</td></tr>\n  <tr><td>間接統治</td><td>日本政府を通じて統治する占領方式</td></tr>\n  <tr><td>財閥解体</td><td>三井・三菱などの企業グループの解体</td></tr>\n  <tr><td>農地改革</td><td>寄生地主制を解体し自作農を生んだ改革</td></tr>\n  <tr><td>三大原則</td><td>国民主権・基本的人権の尊重・平和主義</td></tr>\n  <tr><td>象徴天皇制</td><td>天皇を国と国民統合の象徴とするしくみ</td></tr>\n</table>\n\n<h3>重要人物</h3>\n\n<table>\n  <tr><th>人物</th><th>役割</th></tr>\n  <tr><td>マッカーサー</td><td>GHQ最高司令官として占領改革を主導した</td></tr>\n  <tr><td>幣原喜重郎</td><td>五大改革指令を受けた首相</td></tr>\n  <tr><td>吉田茂</td><td>日本国憲法公布時の首相</td></tr>\n  <tr><td>東条英機</td><td>東京裁判で死刑判決を受けた開戦時の首相</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  日本国憲法は<b>公布が1946年11月3日</b>（文化の日）、<b>施行が1947年5月3日</b>（憲法記念日）で1年ずれではなく半年ずれ。また新憲法の主権者は<b>国民</b>であり、大日本帝国憲法の<b>天皇</b>主権と対比して問われる。\n</div>\n\n<blockquote>\n  <p>明治維新が「上からの近代化」だったとすれば、戦後改革は占領下という特殊な条件のもとでの再出発だった。憲法・農地・家族・教育——社会の土台が数年で塗りかえられた。この新生日本が国際社会に復帰する道すじは、冷戦のただなかで決まっていくことになる。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "歴史総合 ― グローバル化と私たち",
+  "cards": [
+    {
+      "recto": "敗戦後の日本を占領した連合国軍最高司令官総司令部の略称を何というか。",
+      "verso": "GHQ",
+      "explanation": "最高司令官はマッカーサー。日本政府に指令を出して統治させる間接統治の方式をとった。",
+      "tags": [
+        "占領",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "国際連合",
+          "NATO",
+          "CIA"
+        ],
+        "medium": [
+          "極東委員会",
+          "対日理事会",
+          "SCAP司令部"
+        ],
+        "hard": [
+          "極東国際軍事裁判所",
+          "米軍政庁",
+          "連合国管理理事会"
+        ]
+      }
+    },
+    {
+      "recto": "連合国軍最高司令官として日本の占領改革を指揮したアメリカの軍人は誰か。",
+      "verso": "マッカーサー",
+      "explanation": "五大改革の指令や憲法草案の作成を主導した。朝鮮戦争中の1951年に解任される。",
+      "tags": [
+        "人物",
+        "占領"
+      ],
+      "distractors": {
+        "easy": [
+          "ワシントン",
+          "ペリー",
+          "リンカン"
+        ],
+        "medium": [
+          "アイゼンハワー",
+          "ニミッツ",
+          "トルーマン"
+        ],
+        "hard": [
+          "リッジウェイ",
+          "ホイットニー",
+          "ウィロビー"
+        ]
+      }
+    },
+    {
+      "recto": "GHQが日本政府に指令を出し、政府が政治を行う占領のしくみを何というか。",
+      "verso": "間接統治",
+      "explanation": "ドイツが連合国により直接統治されたのと対照的。天皇制と政府の枠組みは残された。",
+      "tags": [
+        "占領",
+        "用語"
+      ],
+      "distractors": {
+        "easy": [
+          "植民地支配",
+          "鎖国",
+          "幕藩体制"
+        ],
+        "medium": [
+          "直接統治",
+          "軍政",
+          "信託統治"
+        ],
+        "hard": [
+          "分割統治",
+          "共同管理",
+          "保護国化"
+        ]
+      }
+    },
+    {
+      "recto": "1945年、マッカーサーが口頭で指示した、婦人参政権や労働組合の結成奨励などを含む改革の指令を何というか。",
+      "verso": "五大改革指令",
+      "explanation": "婦人解放・労働組合・教育の自由化・圧政的制度の廃止・経済の民主化の5つ。戦後改革の出発点。",
+      "tags": [
+        "改革",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "五箇条の御誓文",
+          "ポツダム宣言",
+          "十七条の憲法"
+        ],
+        "medium": [
+          "人権指令",
+          "神道指令",
+          "経済民主化指令"
+        ],
+        "hard": [
+          "初期対日方針",
+          "降伏後における米国の初期対日方針",
+          "民主化五原則"
+        ]
+      }
+    },
+    {
+      "recto": "1945年の選挙法改正で新たに選挙権を得たのは、どのような人々か。",
+      "verso": "満20歳以上の男女",
+      "explanation": "女性参政権がついに実現し、1946年の総選挙では39人の女性議員が誕生した。",
+      "tags": [
+        "改革",
+        "選挙"
+      ],
+      "distractors": {
+        "easy": [
+          "満25歳以上の男子のみ",
+          "納税者のみ",
+          "華族のみ"
+        ],
+        "medium": [
+          "満25歳以上の男女",
+          "満18歳以上の男女",
+          "満20歳以上の男子のみ"
+        ],
+        "hard": [
+          "満20歳以上の男女のうち有産者",
+          "満21歳以上の男女",
+          "満20歳以上の男女（沖縄を含む）"
+        ]
+      }
+    },
+    {
+      "recto": "三井・三菱などの大企業グループを解体させた経済民主化政策を何というか。",
+      "verso": "財閥解体",
+      "explanation": "持株会社が禁止され、独占禁止法も制定された。ただし冷戦の激化で改革は不徹底に終わった。",
+      "tags": [
+        "改革",
+        "経済"
+      ],
+      "distractors": {
+        "easy": [
+          "農地改革",
+          "廃藩置県",
+          "楽市楽座"
+        ],
+        "medium": [
+          "独占禁止法の制定",
+          "過度経済力集中排除",
+          "企業分割"
+        ],
+        "hard": [
+          "持株会社整理",
+          "集中排除法指定",
+          "官営事業払下げ"
+        ]
+      }
+    },
+    {
+      "recto": "地主の土地を小作農に安く売りわたし、多くの自作農を生み出した改革を何というか。",
+      "verso": "農地改革",
+      "explanation": "明治以来の寄生地主制がついに解体された。農村の民主化に最も成功した改革とされる。",
+      "tags": [
+        "改革",
+        "農村"
+      ],
+      "distractors": {
+        "easy": [
+          "財閥解体",
+          "地租改正",
+          "班田収授法"
+        ],
+        "medium": [
+          "農業協同組合の設立",
+          "食糧管理制度",
+          "開拓事業"
+        ],
+        "hard": [
+          "第一次農地改革",
+          "自作農創設特別措置法",
+          "小作料統制令"
+        ]
+      }
+    },
+    {
+      "recto": "1947年に制定された、教育勅語にかわって教育の目的を「人格の完成」と定めた法律は何か。",
+      "verso": "教育基本法",
+      "explanation": "同年の学校教育法で六・三・三・四制が始まった。教育勅語は1948年に国会で失効が確認された。",
+      "tags": [
+        "改革",
+        "教育"
+      ],
+      "distractors": {
+        "easy": [
+          "学制",
+          "教育勅語",
+          "治安維持法"
+        ],
+        "medium": [
+          "学校教育法",
+          "教育令",
+          "国民学校令"
+        ],
+        "hard": [
+          "教育二法",
+          "社会教育法",
+          "教育委員会法"
+        ]
+      }
+    },
+    {
+      "recto": "1945年に制定され、労働者の団結権や争議権を初めて本格的に保障した法律は何か。",
+      "verso": "労働組合法",
+      "explanation": "労働関係調整法（1946年）、労働基準法（1947年）とあわせて労働三法と呼ばれる。",
+      "tags": [
+        "改革",
+        "労働"
+      ],
+      "distractors": {
+        "easy": [
+          "工場法",
+          "治安警察法",
+          "国家総動員法"
+        ],
+        "medium": [
+          "労働基準法",
+          "労働関係調整法",
+          "職業安定法"
+        ],
+        "hard": [
+          "労働三法",
+          "労調法",
+          "労働争議調停法"
+        ]
+      }
+    },
+    {
+      "recto": "1946年1月1日、昭和天皇がみずからの神格性を否定した詔書を一般に何と呼ぶか。",
+      "verso": "天皇の人間宣言",
+      "explanation": "天皇を「現御神」とする考え方が公式に否定された。象徴天皇制への転換の一歩となった。",
+      "tags": [
+        "占領",
+        "天皇"
+      ],
+      "distractors": {
+        "easy": [
+          "玉音放送",
+          "五箇条の御誓文",
+          "王政復古の大号令"
+        ],
+        "medium": [
+          "終戦の詔書",
+          "即位の詔書",
+          "退位宣言"
+        ],
+        "hard": [
+          "神道指令",
+          "国体護持宣言",
+          "象徴天皇宣言"
+        ]
+      }
+    },
+    {
+      "recto": "東条英機ら戦争指導者が「平和に対する罪」などで裁かれた裁判を何というか。",
+      "verso": "極東国際軍事裁判（東京裁判）",
+      "explanation": "A級戦犯28人が起訴され、東条英機ら7人が死刑となった。ドイツのニュルンベルク裁判と対で覚える。",
+      "tags": [
+        "占領",
+        "裁判"
+      ],
+      "distractors": {
+        "easy": [
+          "大津事件の裁判",
+          "国際司法裁判",
+          "弾劾裁判"
+        ],
+        "medium": [
+          "ニュルンベルク裁判",
+          "BC級戦犯裁判",
+          "軍法会議"
+        ],
+        "hard": [
+          "横浜裁判",
+          "マニラ裁判",
+          "ハバロフスク裁判"
+        ]
+      }
+    },
+    {
+      "recto": "戦争協力者らが公職から排除されたGHQの政策を何というか。",
+      "verso": "公職追放",
+      "explanation": "政界・財界・言論界などから約21万人が追放された。冷戦の激化とともに解除が進んだ。",
+      "tags": [
+        "占領"
+      ],
+      "distractors": {
+        "easy": [
+          "財閥解体",
+          "農地改革",
+          "廃藩置県"
+        ],
+        "medium": [
+          "レッドパージ",
+          "教職追放",
+          "軍人恩給の停止"
+        ],
+        "hard": [
+          "神道指令",
+          "特高警察の廃止",
+          "戦犯指定"
+        ]
+      }
+    },
+    {
+      "recto": "1946年11月3日に公布された、日本の新しい憲法を何というか。",
+      "verso": "日本国憲法",
+      "explanation": "GHQ草案をもとに帝国議会で審議・修正された。公布は1946年11月3日、施行は1947年5月3日。",
+      "tags": [
+        "憲法",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "大日本帝国憲法",
+          "十七条の憲法",
+          "ヴァイマル憲法"
+        ],
+        "medium": [
+          "憲法改正草案要綱",
+          "マッカーサー草案",
+          "松本案"
+        ],
+        "hard": [
+          "憲法研究会案",
+          "GHQ民政局案",
+          "帝国憲法改正案"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】日本国憲法が公布された日と施行された日は、それぞれいつか。",
+      "verso": "1946年11月3日と1947年5月3日",
+      "explanation": "公布が1946年11月3日（文化の日）、施行が翌1947年5月3日（憲法記念日）。祝日と結びつけて覚える。",
+      "tags": [
+        "piege",
+        "憲法"
+      ],
+      "distractors": {
+        "easy": [
+          "1945年8月15日と9月2日",
+          "1889年2月11日と1890年11月29日",
+          "1951年9月8日と1952年4月28日"
+        ],
+        "medium": [
+          "1946年5月3日と1947年11月3日",
+          "1947年11月3日と1948年5月3日",
+          "1946年11月3日と1947年11月3日"
+        ],
+        "hard": [
+          "1946年11月3日と1947年5月1日",
+          "1946年10月3日と1947年5月3日",
+          "1947年5月3日と1946年11月3日"
+        ]
+      }
+    },
+    {
+      "recto": "日本国憲法の三大原則は何か。",
+      "verso": "国民主権・基本的人権の尊重・平和主義",
+      "explanation": "大日本帝国憲法の天皇主権から国民主権へ転換した。三つセットで確実に覚える。",
+      "tags": [
+        "憲法",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "富国強兵・殖産興業・文明開化",
+          "自由・平等・博愛",
+          "忠君・愛国・孝行"
+        ],
+        "medium": [
+          "国民主権・三権分立・法の支配",
+          "天皇主権・人権尊重・平和主義",
+          "国民主権・基本的人権の尊重・国際協調"
+        ],
+        "hard": [
+          "国民主権・自由権の保障・戦争放棄",
+          "主権在民・法の下の平等・非武装",
+          "国民主権・基本的人権の尊重・象徴天皇制"
+        ]
+      }
+    },
+    {
+      "recto": "日本国憲法で、天皇はどのような存在と定められたか。",
+      "verso": "日本国と日本国民統合の象徴",
+      "explanation": "統治権をもつ元首から、政治的権能をもたない象徴へと変わった。国事行為のみを行う。",
+      "tags": [
+        "憲法",
+        "天皇"
+      ],
+      "distractors": {
+        "easy": [
+          "国の主権者",
+          "政府の長",
+          "軍の統帥者"
+        ],
+        "medium": [
+          "国の元首",
+          "国民の代表",
+          "国権の最高機関"
+        ],
+        "hard": [
+          "立憲君主",
+          "国家の最高機関",
+          "祭祀の主宰者"
+        ]
+      }
+    },
+    {
+      "recto": "戦争の放棄と戦力の不保持を定めた日本国憲法の条文は第何条か。",
+      "verso": "第9条",
+      "explanation": "平和主義の中心条文。のちの再軍備や自衛隊をめぐる議論の焦点となり続けている。",
+      "tags": [
+        "憲法",
+        "平和主義"
+      ],
+      "distractors": {
+        "easy": [
+          "第1条",
+          "第100条",
+          "前文"
+        ],
+        "medium": [
+          "第11条",
+          "第25条",
+          "第13条"
+        ],
+        "hard": [
+          "第66条",
+          "第98条",
+          "第76条"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】大日本帝国憲法と日本国憲法の主権者を、順にそれぞれ答えよ。",
+      "verso": "天皇と国民",
+      "explanation": "天皇主権（欽定憲法）から国民主権（民定的な制定過程）へ。天皇は統治者から象徴になった。",
+      "tags": [
+        "comparaison",
+        "憲法"
+      ],
+      "distractors": {
+        "easy": [
+          "将軍と天皇",
+          "国民と天皇",
+          "貴族と平民"
+        ],
+        "medium": [
+          "天皇と内閣",
+          "元老と国民",
+          "天皇と帝国議会"
+        ],
+        "hard": [
+          "天皇と国会",
+          "国家と国民",
+          "天皇と人民"
+        ]
+      }
+    },
+    {
+      "recto": "1947年の民法改正で廃止された、戸主が家族を統率する明治以来の制度を何というか。",
+      "verso": "家制度",
+      "explanation": "個人の尊厳と両性の平等にもとづく家族制度に改められた。女性の地位向上の大きな一歩。",
+      "tags": [
+        "改革",
+        "社会"
+      ],
+      "distractors": {
+        "easy": [
+          "身分制度",
+          "士農工商",
+          "寄生地主制"
+        ],
+        "medium": [
+          "戸籍制度",
+          "隠居制度",
+          "本家分家制度"
+        ],
+        "hard": [
+          "家督相続制度",
+          "華族制度",
+          "家父長制"
+        ]
+      }
+    },
+    {
+      "recto": "石炭や鉄鋼などの基幹産業に資材と資金を集中させた、戦後復興の経済政策を何というか。",
+      "verso": "傾斜生産方式",
+      "explanation": "復興金融金庫の融資で生産回復をはかったが、通貨の増発でインフレも激しくなった。",
+      "tags": [
+        "経済",
+        "復興"
+      ],
+      "distractors": {
+        "easy": [
+          "殖産興業",
+          "所得倍増計画",
+          "ニューディール"
+        ],
+        "medium": [
+          "ドッジ・ライン",
+          "経済安定九原則",
+          "シャウプ勧告"
+        ],
+        "hard": [
+          "復金インフレ政策",
+          "集中生産方式",
+          "重点産業育成策"
+        ]
+      }
+    }
+  ]
+}

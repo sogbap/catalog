@@ -1,0 +1,532 @@
+{
+  "id": "jp-koukou-rekishi-sougou-nicchuu-sensou",
+  "title": "日中戦争と戦時体制",
+  "emoji": "🪖",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "盧溝橋事件から国家総動員体制、三国同盟まで。戦争の長期化が政治・経済・生活をのみこむ過程を学ぶ。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>日中戦争と戦時体制</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・歴史総合<br>\n  <b>大項目C：</b>国際秩序の変化や大衆化と私たち<br>\n  <b>時期：</b>昭和10年代（1937〜41年）\n</div>\n\n<blockquote>\n  <p><b>問い</b>　なぜ戦争は終わらせられなくなり、社会全体が戦争にのみこまれていったのだろうか。</p>\n</blockquote>\n\n<p>1937年の<strong>盧溝橋事件</strong>から始まった<strong>日中戦争</strong>は、和平の道を自ら閉ざしたまま長期化した。国内では<strong>国家総動員法</strong>と<strong>大政翼賛会</strong>によって政治・経済・生活のすべてが戦争に動員され、植民地では<strong>皇民化政策</strong>が強行される。そして<strong>日独伊三国同盟</strong>と<strong>仏印進駐</strong>が、日本をアメリカとの対決へと導いていく。</p>\n\n<h2>1・日中戦争のはじまりと長期化</h2>\n\n<p>1937年7月7日、北京郊外の<strong>盧溝橋</strong>で日中両軍が衝突した（<strong>盧溝橋事件</strong>）。戦火は上海へ広がり、宣戦布告のないまま全面戦争となった。同年12月、日本軍は首都南京を占領し、その際に捕虜や住民を含む多数の中国人を殺害した（<strong>南京事件</strong>）。</p>\n\n<p>中国では、前年の西安事件をへて国民党と共産党が<strong>第二次国共合作</strong>を成立させ、抗日民族統一戦線として抵抗を続けた。国民政府は<strong>重慶</strong>に拠点を移して抗戦し、1938年に近衛文麿首相が「<strong>国民政府を対手とせず</strong>」と声明したことで、和平交渉の道は閉ざされ、戦争は泥沼化した。</p>\n\n<div class=\"callout\">\n  <strong>用語・第二次国共合作</strong><br>\n  西安事件（1936年）をきっかけに、対立していた国民党と共産党が協力して日本に抵抗した体制。中国の長期抗戦を支えた。\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 326\" role=\"img\" aria-label=\"盧溝橋事件から全面戦争、戦争の長期化への流れ\">\n  <defs>\n    <marker id=\"ar-nc1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 段階1：盧溝橋事件 -->\n  <g>\n    <rect x=\"14\" y=\"8\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"40\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">盧溝橋事件</text>\n    <text x=\"30\" y=\"65\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">北京郊外で日中両軍が衝突（1937.7）</text>\n  </g>\n  <path d=\"M170,88 L170,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-nc1)\"/>\n  <!-- 段階2：全面戦争 -->\n  <g>\n    <rect x=\"14\" y=\"110\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"142\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">全面戦争へ</text>\n    <text x=\"30\" y=\"167\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">上海・南京へ戦火拡大、国共合作の抵抗</text>\n  </g>\n  <path d=\"M170,190 L170,210\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-nc1)\"/>\n  <!-- 段階3：長期化（強調） -->\n  <g>\n    <rect x=\"14\" y=\"212\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"244\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">戦争の長期化</text>\n    <text x=\"30\" y=\"269\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">「国民政府を対手とせず」で和平の道を閉ざす</text>\n  </g>\n</svg>\n<figcaption>交渉相手を自ら否定したことで、戦争は出口を失った。</figcaption>\n</figure>\n\n<h2>2・国家総動員体制</h2>\n\n<p>長期戦に対応するため、1938年に<strong>国家総動員法</strong>が制定された。政府は<strong>議会の承認なし</strong>に人や物資を動員できるようになり、議会の力は大きく弱まった。1940年にはすべての政党が解散して<strong>大政翼賛会</strong>に合流し、政党政治は名実ともに消滅した。</p>\n\n<p>国民生活も統制された。米や衣料は<strong>配給制</strong>・切符制となり、住民は約10戸ごとの<strong>隣組</strong>に組織されて、助け合いと同時に相互監視を担わされた。1941年には小学校が<strong>国民学校</strong>と改称され、教育も「少国民」の育成へと向かった。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 250\" role=\"img\" aria-label=\"戦時体制の全体像。政治は大政翼賛会、経済は国家総動員法、生活は配給制と隣組に統制された\">\n  <defs>\n    <marker id=\"ar-nc2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 戦時体制（強調） -->\n  <rect x=\"95\" y=\"8\" width=\"150\" height=\"56\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"33\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">戦時体制</text>\n  <text x=\"170\" y=\"53\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11\">総力戦のための統制</text>\n  <!-- 矢印 -->\n  <path d=\"M170,70 L60,110\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-nc2)\"/>\n  <path d=\"M170,70 L170,110\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-nc2)\"/>\n  <path d=\"M170,70 L280,110\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-nc2)\"/>\n  <!-- 政治 -->\n  <rect x=\"10\" y=\"118\" width=\"100\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">政治</text>\n  <text x=\"60\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">大政翼賛会</text>\n  <text x=\"60\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">政党の解散</text>\n  <!-- 経済 -->\n  <rect x=\"120\" y=\"118\" width=\"100\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">経済・人</text>\n  <text x=\"170\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">国家総動員法</text>\n  <text x=\"170\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">議会の承認不要</text>\n  <!-- 生活 -->\n  <rect x=\"230\" y=\"118\" width=\"100\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">生活</text>\n  <text x=\"280\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">配給制・隣組</text>\n  <text x=\"280\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">国民学校</text>\n</svg>\n<figcaption>政治・経済・生活のすべてが戦争のために組織された。</figcaption>\n</figure>\n\n<h2>3・植民地と占領地</h2>\n\n<p>朝鮮や台湾では、日本語の使用や神社参拝を強制し、人々を「天皇の民」につくりかえようとする<strong>皇民化政策</strong>が強行された。朝鮮では日本式の姓名を名のらせる<strong>創氏改名</strong>が行われ、名前という民族のアイデンティティが奪われた。</p>\n\n<p>労働力不足を補うため、朝鮮や中国の人々が鉱山や工場に動員される<strong>強制連行（強制動員）</strong>も行われ、多くの人々が過酷な労働を強いられた。戦時動員は、日本国民だけでなく植民地・占領地の人々にも重くのしかかった。</p>\n\n<div class=\"callout\">\n  <strong>用語・皇民化政策</strong><br>\n  植民地の人々に日本語や神社参拝、創氏改名などを強制した同化政策。志願兵制度や徴兵制もしかれ、戦争動員と一体で進められた。\n</div>\n\n<h2>4・三国同盟と日米対立</h2>\n\n<p>ヨーロッパで第二次世界大戦が始まると、日本は1940年に<strong>日独伊三国同盟</strong>を結び、アメリカとの対立を決定的にした。1941年4月には北方の安全を確保する<strong>日ソ中立条約</strong>を結び、資源を求めて<strong>仏印進駐</strong>を進めた。</p>\n\n<p>南部仏印への進駐に対し、アメリカは<strong>石油の対日輸出禁止</strong>で応じた。石油の大部分をアメリカに頼る日本では対米開戦論が強まり、日米交渉は行きづまっていく。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 427\" role=\"img\" aria-label=\"日中戦争と戦時体制をめぐる年表\">\n  <line x1=\"74\" y1=\"22\" x2=\"74\" y2=\"409\" style=\"stroke:var(--accent);stroke-width:3;stroke-linecap:round\"/>\n  <!-- 1936 -->\n  <circle cx=\"74\" cy=\"40\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"45\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1936</text>\n  <text x=\"90\" y=\"45\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">西安事件</text>\n  <!-- 1937 -->\n  <circle cx=\"74\" cy=\"101\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"106\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1937</text>\n  <text x=\"90\" y=\"106\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">盧溝橋事件・日中戦争</text>\n  <!-- 1938 -->\n  <circle cx=\"74\" cy=\"162\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"167\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1938</text>\n  <text x=\"90\" y=\"167\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">近衛声明・国家総動員法</text>\n  <!-- 1940a -->\n  <circle cx=\"74\" cy=\"223\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"228\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1940</text>\n  <text x=\"90\" y=\"228\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">大政翼賛会・三国同盟</text>\n  <!-- 1941a -->\n  <circle cx=\"74\" cy=\"284\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"289\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1941</text>\n  <text x=\"90\" y=\"289\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">日ソ中立条約・国民学校</text>\n  <!-- 1941b -->\n  <circle cx=\"74\" cy=\"345\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"350\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1941</text>\n  <text x=\"90\" y=\"350\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">南部仏印進駐</text>\n  <!-- 1941c -->\n  <circle cx=\"74\" cy=\"406\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"411\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1941</text>\n  <text x=\"90\" y=\"411\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">アメリカの対日石油禁輸</text>\n</svg>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>年</th><th>できごと</th></tr>\n  <tr><td>1936年</td><td>西安事件（国共合作へ）</td></tr>\n  <tr><td>1937年</td><td>盧溝橋事件・日中戦争の開始・南京事件</td></tr>\n  <tr><td>1938年</td><td>「国民政府を対手とせず」声明・国家総動員法</td></tr>\n  <tr><td>1940年</td><td>大政翼賛会の成立・日独伊三国同盟</td></tr>\n  <tr><td>1941年</td><td>日ソ中立条約・南部仏印進駐・対日石油禁輸</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>盧溝橋事件</td><td>1937年、日中戦争のきっかけとなった衝突</td></tr>\n  <tr><td>国家総動員法</td><td>議会の承認なしに人や物資を動員できる法律</td></tr>\n  <tr><td>大政翼賛会</td><td>政党が解散して合流した戦争協力組織</td></tr>\n  <tr><td>皇民化政策</td><td>植民地の人々への同化の強制（創氏改名など）</td></tr>\n  <tr><td>日独伊三国同盟</td><td>1940年、日米対立を決定的にした軍事同盟</td></tr>\n  <tr><td>仏印進駐</td><td>資源を求めたインドシナへの進駐。石油禁輸を招く</td></tr>\n</table>\n\n<h3>重要人物</h3>\n\n<table>\n  <tr><th>人物</th><th>役割</th></tr>\n  <tr><td>近衛文麿</td><td>「対手とせず」声明・国家総動員法・大政翼賛会の首相</td></tr>\n  <tr><td>蔣介石</td><td>重慶で抗戦を続けた国民政府の指導者</td></tr>\n  <tr><td>張学良</td><td>西安事件で国共合作のきっかけをつくった</td></tr>\n  <tr><td>毛沢東</td><td>共産党を率いて抗日戦を戦った</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  <b>柳条湖事件</b>（1931年・満洲事変）と<b>盧溝橋事件</b>（1937年・日中戦争）はきっかけの事件どうしで最も混同しやすい。また<b>国家総動員法</b>（1938年・動員の法律）と<b>大政翼賛会</b>（1940年・政治組織）の順序と性格を区別すること。\n</div>\n\n<blockquote>\n  <p>「対手とせず」の一言が示すように、戦争は引き返す機会を失ったまま社会全体をのみこんでいった。動員は国民だけでなく植民地の人々にも及び、その傷は戦後まで残ることになる。そして石油を断たれた日本は、さらに大きな戦争——太平洋戦争へと突入していく。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "歴史総合 ― 国際秩序の変化や大衆化と私たち",
+  "cards": [
+    {
+      "recto": "1937年7月7日、北京郊外で日中両軍が衝突し、日中戦争のきっかけとなった事件を何というか。",
+      "verso": "盧溝橋事件",
+      "explanation": "柳条湖事件（1931年・満洲事変のきっかけ）と混同しやすい。盧溝橋は北京郊外の橋の名前。",
+      "tags": [
+        "日中戦争",
+        "きっかけ"
+      ],
+      "distractors": {
+        "easy": [
+          "サラエボ事件",
+          "真珠湾攻撃",
+          "義和団事件"
+        ],
+        "medium": [
+          "柳条湖事件",
+          "上海事変",
+          "張作霖爆殺事件"
+        ],
+        "hard": [
+          "通州事件",
+          "第二次上海事変",
+          "済南事件"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】満洲事変のきっかけとなった事件と、日中戦争のきっかけとなった事件を、それぞれ何というか。",
+      "verso": "柳条湖事件と盧溝橋事件",
+      "explanation": "柳条湖事件（1931年・奉天郊外・関東軍の自作自演）と盧溝橋事件（1937年・北京郊外・偶発的衝突）。定番の混同ポイント。",
+      "tags": [
+        "piege",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "サラエボ事件と真珠湾攻撃",
+          "大政奉還と王政復古",
+          "甲午農民戦争と義和団事件"
+        ],
+        "medium": [
+          "盧溝橋事件と柳条湖事件",
+          "柳条湖事件と上海事変",
+          "張作霖爆殺事件と盧溝橋事件"
+        ],
+        "hard": [
+          "柳条湖事件と通州事件",
+          "中村大尉事件と盧溝橋事件",
+          "済南事件と柳条湖事件"
+        ]
+      }
+    },
+    {
+      "recto": "1937年から1945年まで、宣戦布告のないまま続いた日本と中国の全面戦争を何というか。",
+      "verso": "日中戦争",
+      "explanation": "当初「北支事変」「支那事変」と呼ばれ、宣戦布告のないまま長期化した。満洲事変（1931年）と区別する。",
+      "tags": [
+        "日中戦争",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "日清戦争",
+          "太平洋戦争",
+          "朝鮮戦争"
+        ],
+        "medium": [
+          "満洲事変",
+          "上海事変",
+          "北清事変"
+        ],
+        "hard": [
+          "支那事変",
+          "大東亜戦争",
+          "十五年戦争"
+        ]
+      }
+    },
+    {
+      "recto": "1936年の西安事件をへて成立した、国民党と共産党が協力して日本に抵抗する体制を何というか。",
+      "verso": "第二次国共合作",
+      "explanation": "張学良が蔣介石を監禁した西安事件がきっかけ。抗日民族統一戦線が結ばれ、中国の抗戦を支えた。",
+      "tags": [
+        "中国"
+      ],
+      "distractors": {
+        "easy": [
+          "三国協商",
+          "薩長同盟",
+          "日中共同声明"
+        ],
+        "medium": [
+          "第一次国共合作",
+          "抗日義勇軍",
+          "中ソ同盟"
+        ],
+        "hard": [
+          "国民革命",
+          "延安協定",
+          "重慶政府連合"
+        ]
+      }
+    },
+    {
+      "recto": "1937年12月、日本軍が中国の首都を占領した際に、捕虜や住民を含む多数の中国人を殺害したできごとを何というか。",
+      "verso": "南京事件",
+      "explanation": "国際的に強い非難を浴びた。犠牲者数には諸説があるが、多数の殺害があった事実は史料で裏づけられている。",
+      "tags": [
+        "日中戦争",
+        "事件"
+      ],
+      "distractors": {
+        "easy": [
+          "関東大震災",
+          "義和団事件",
+          "アヘン戦争"
+        ],
+        "medium": [
+          "通州事件",
+          "重慶爆撃",
+          "三光作戦"
+        ],
+        "hard": [
+          "平頂山事件",
+          "廠窖事件",
+          "上海事変"
+        ]
+      }
+    },
+    {
+      "recto": "首都南京を追われた蔣介石の国民政府が、最終的に拠点を移した都市はどこか。",
+      "verso": "重慶",
+      "explanation": "国民政府は武漢をへて奥地の重慶に移り、抗戦を続けた。日本軍は重慶への無差別爆撃を行った。",
+      "tags": [
+        "中国"
+      ],
+      "distractors": {
+        "easy": [
+          "北京",
+          "上海",
+          "香港"
+        ],
+        "medium": [
+          "武漢",
+          "広州",
+          "成都"
+        ],
+        "hard": [
+          "昆明",
+          "西安",
+          "延安"
+        ]
+      }
+    },
+    {
+      "recto": "1938年、「国民政府を対手とせず」と声明して和平交渉の道を閉ざした首相は誰か。",
+      "verso": "近衛文麿",
+      "explanation": "第一次近衛声明。交渉相手を否定したことで戦争は長期化した。国家総動員法も近衛内閣で成立した。",
+      "tags": [
+        "人物",
+        "政治"
+      ],
+      "distractors": {
+        "easy": [
+          "伊藤博文",
+          "原敬",
+          "吉田茂"
+        ],
+        "medium": [
+          "東条英機",
+          "広田弘毅",
+          "平沼騏一郎"
+        ],
+        "hard": [
+          "米内光政",
+          "阿部信行",
+          "林銑十郎"
+        ]
+      }
+    },
+    {
+      "recto": "1938年に制定された、政府が議会の承認なしに人や物資を戦争に動員できるようにした法律は何か。",
+      "verso": "国家総動員法",
+      "explanation": "議会の力は大きく弱まり、経済も生活も政府の統制下に置かれた。総力戦体制の法的な柱。",
+      "tags": [
+        "戦時体制",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "治安維持法",
+          "工場法",
+          "徴兵令"
+        ],
+        "medium": [
+          "国民徴用令",
+          "治安警察法",
+          "軍機保護法"
+        ],
+        "hard": [
+          "国民総動員法",
+          "戦時統制法",
+          "臨時資金調整法"
+        ]
+      }
+    },
+    {
+      "recto": "1940年、政党が解散して合流した、国民を戦争に協力させるための組織を何というか。",
+      "verso": "大政翼賛会",
+      "explanation": "政党政治は名実ともに消滅した。議会制の枠組みは残ったが、翼賛体制のもとで形骸化した。",
+      "tags": [
+        "戦時体制",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "帝国議会",
+          "国際連盟",
+          "自由民権運動"
+        ],
+        "medium": [
+          "産業報国会",
+          "隣組",
+          "翼賛政治会"
+        ],
+        "hard": [
+          "大日本政治会",
+          "国民精神総動員運動",
+          "皇政会"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】1938年に議会の承認なしの動員を可能にした法律と、1940年に政党を解散させて成立した組織を、順にそれぞれ何というか。",
+      "verso": "国家総動員法と大政翼賛会",
+      "explanation": "国家総動員法（1938年・経済と人の動員）、大政翼賛会（1940年・政治の一元化）。戦時体制の二本柱として順に覚える。",
+      "tags": [
+        "comparaison",
+        "戦時体制"
+      ],
+      "distractors": {
+        "easy": [
+          "治安維持法と帝国議会",
+          "徴兵令と内閣制度",
+          "工場法と労働組合"
+        ],
+        "medium": [
+          "大政翼賛会と国家総動員法",
+          "国家総動員法と産業報国会",
+          "国民徴用令と大政翼賛会"
+        ],
+        "hard": [
+          "国家総動員法と翼賛政治会",
+          "国民精神総動員運動と大政翼賛会",
+          "国家総動員法と大日本産業報国会"
+        ]
+      }
+    },
+    {
+      "recto": "戦時下で米や衣料などの生活必需品を、割り当てて支給したしくみを何というか。",
+      "verso": "配給制",
+      "explanation": "切符制とあわせて生活は統制された。「ぜいたくは敵だ」の標語のもと、消費は切りつめられた。",
+      "tags": [
+        "生活",
+        "戦時体制"
+      ],
+      "distractors": {
+        "easy": [
+          "楽市楽座",
+          "自由販売",
+          "株仲間"
+        ],
+        "medium": [
+          "切符制",
+          "供出制",
+          "専売制"
+        ],
+        "hard": [
+          "統制価格制",
+          "総合配給切符制",
+          "隣保班制"
+        ]
+      }
+    },
+    {
+      "recto": "戦時下の住民を約10戸ごとに組織し、配給や防空、相互監視の単位とされたしくみを何というか。",
+      "verso": "隣組",
+      "explanation": "住民どうしの助け合いと同時に、戦争協力を強制し合う監視の役割も果たした。",
+      "tags": [
+        "生活",
+        "戦時体制"
+      ],
+      "distractors": {
+        "easy": [
+          "自治会",
+          "五人組",
+          "青年団"
+        ],
+        "medium": [
+          "町内会",
+          "部落会",
+          "在郷軍人会"
+        ],
+        "hard": [
+          "国民義勇隊",
+          "警防団",
+          "翼賛壮年団"
+        ]
+      }
+    },
+    {
+      "recto": "1941年、小学校を改称し、「少国民」の育成をかかげた学校を何というか。",
+      "verso": "国民学校",
+      "explanation": "教育も戦時体制に組みこまれた。戦後の学制改革で小学校にもどる。",
+      "tags": [
+        "教育",
+        "戦時体制"
+      ],
+      "distractors": {
+        "easy": [
+          "寺子屋",
+          "藩校",
+          "中学校"
+        ],
+        "medium": [
+          "尋常小学校",
+          "高等小学校",
+          "青年学校"
+        ],
+        "hard": [
+          "皇民学校",
+          "国民塾",
+          "錬成学校"
+        ]
+      }
+    },
+    {
+      "recto": "朝鮮や台湾で、日本語の使用や神社参拝、創氏改名などを強制した政策を何というか。",
+      "verso": "皇民化政策",
+      "explanation": "植民地の人々を「天皇の民」につくりかえようとした同化政策。志願兵制度や徴兵制もしかれた。",
+      "tags": [
+        "植民地",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "文明開化",
+          "廃藩置県",
+          "農地改革"
+        ],
+        "medium": [
+          "同化政策",
+          "武断政治",
+          "文化政治"
+        ],
+        "hard": [
+          "内鮮一体運動",
+          "国語常用運動",
+          "興亜政策"
+        ]
+      }
+    },
+    {
+      "recto": "皇民化政策のもとで朝鮮の人々に日本式の姓名を名のらせた制度を何というか。",
+      "verso": "創氏改名",
+      "explanation": "名前という民族のアイデンティティにかかわる強制で、強い苦痛と抵抗を生んだ。",
+      "tags": [
+        "植民地"
+      ],
+      "distractors": {
+        "easy": [
+          "四民平等",
+          "廃刀令",
+          "戸籍法"
+        ],
+        "medium": [
+          "日本語常用",
+          "神社参拝の強制",
+          "宮城遥拝"
+        ],
+        "hard": [
+          "氏族改姓",
+          "皇民登録",
+          "改姓奉告"
+        ]
+      }
+    },
+    {
+      "recto": "1940年、日本がドイツ・イタリアと結んだ軍事同盟を何というか。",
+      "verso": "日独伊三国同盟",
+      "explanation": "アメリカを仮想敵とする同盟で、日米対立を決定的にした。1936年の日独防共協定から発展した。",
+      "tags": [
+        "外交",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "三国協商",
+          "日英同盟",
+          "三国干渉"
+        ],
+        "medium": [
+          "日独防共協定",
+          "三国防共協定",
+          "日ソ中立条約"
+        ],
+        "hard": [
+          "鋼鉄協約",
+          "独ソ不可侵条約",
+          "枢軸協定"
+        ]
+      }
+    },
+    {
+      "recto": "1941年4月、北方の安全を確保するために日本がソ連と結んだ条約を何というか。",
+      "verso": "日ソ中立条約",
+      "explanation": "南進政策を進めるための布石だった。1945年8月、ソ連はこの条約を破って対日参戦する。",
+      "tags": [
+        "外交"
+      ],
+      "distractors": {
+        "easy": [
+          "日英同盟",
+          "下関条約",
+          "日米安全保障条約"
+        ],
+        "medium": [
+          "日露協約",
+          "独ソ不可侵条約",
+          "日ソ共同宣言"
+        ],
+        "hard": [
+          "日ソ基本条約",
+          "日ソ不可侵条約",
+          "張鼓峰協定"
+        ]
+      }
+    },
+    {
+      "recto": "1940〜41年、日本が資源を求めてフランス領インドシナに軍を進めたことを何というか。",
+      "verso": "仏印進駐",
+      "explanation": "石油やゴムなどの資源と援蔣ルートの遮断がねらい。南部仏印進駐はアメリカの対日石油禁輸を招いた。",
+      "tags": [
+        "外交",
+        "転換点"
+      ],
+      "distractors": {
+        "easy": [
+          "シベリア出兵",
+          "台湾出兵",
+          "朝鮮出兵"
+        ],
+        "medium": [
+          "山東出兵",
+          "マレー半島上陸",
+          "南方作戦"
+        ],
+        "hard": [
+          "泰緬進駐",
+          "蘭印進駐",
+          "海南島占領"
+        ]
+      }
+    },
+    {
+      "recto": "1941年、南部仏印進駐への対抗としてアメリカが日本にとった経済制裁は何か。",
+      "verso": "石油の対日輸出禁止",
+      "explanation": "石油の大部分をアメリカに頼っていた日本には致命的で、対米開戦論を強める結果となった。",
+      "tags": [
+        "外交",
+        "転換点"
+      ],
+      "distractors": {
+        "easy": [
+          "宣戦布告",
+          "国交断絶",
+          "海上封鎖"
+        ],
+        "medium": [
+          "くず鉄の輸出禁止",
+          "在米日本資産の凍結",
+          "日米通商航海条約の破棄"
+        ],
+        "hard": [
+          "航空機用ガソリンの禁輸",
+          "工作機械の禁輸",
+          "ゴムの禁輸"
+        ]
+      }
+    },
+    {
+      "recto": "日中戦争の長期化のなか、労働力不足を補うために朝鮮や中国の人々を鉱山や工場で働かせたことを何と呼ぶか。",
+      "verso": "強制連行（強制動員）",
+      "explanation": "多くの人々が過酷な労働を強いられた。戦時動員が植民地・占領地の人々にも及んだことを示す。",
+      "tags": [
+        "植民地",
+        "労働"
+      ],
+      "distractors": {
+        "easy": [
+          "勤労奉仕",
+          "参勤交代",
+          "出稼ぎ"
+        ],
+        "medium": [
+          "徴用",
+          "勤労動員",
+          "学徒動員"
+        ],
+        "hard": [
+          "労務供出",
+          "産業報国運動",
+          "挺身隊勤労令"
+        ]
+      }
+    }
+  ]
+}

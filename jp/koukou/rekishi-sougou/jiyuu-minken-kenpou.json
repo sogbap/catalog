@@ -1,0 +1,530 @@
+{
+  "id": "jp-koukou-rekishi-sougou-jiyuu-minken-kenpou",
+  "title": "自由民権運動と大日本帝国憲法",
+  "emoji": "📜",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "自由民権運動から大日本帝国憲法の制定まで。板垣退助、伊藤博文、帝国議会を通して立憲国家の成立を学ぶ。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>自由民権運動と大日本帝国憲法</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・歴史総合<br>\n  <b>大項目B：</b>近代化と私たち<br>\n  <b>時期：</b>明治初期から中期（1870〜90年代）\n</div>\n\n<blockquote>\n  <p><b>問い</b>　なぜ人々は国会の開設を求め、日本はどのような憲法と議会をもつ国になったのだろうか。</p>\n</blockquote>\n\n<p>明治維新ののち、政府を去った<strong>板垣退助</strong>らは国会の開設を求める声を上げた。この<strong>自由民権運動</strong>は全国に広がり、政府もついに国会の開設を約束する。1889年の<strong>大日本帝国憲法</strong>の発布と翌年の<strong>帝国議会</strong>の開設によって、日本はアジアで最初の本格的な<strong>立憲国家</strong>となった。</p>\n\n<h2>1・士族の反乱から言論の運動へ</h2>\n\n<p>1873年、<strong>征韓論</strong>をめぐる対立に敗れた<strong>西郷隆盛</strong>や<strong>板垣退助</strong>らは政府を去った（<strong>明治六年の政変</strong>）。翌1874年、板垣らは<strong>民撰議院設立建白書</strong>を提出し、国会の開設を求めた。</p>\n\n<p>一方、特権をうばわれた士族の不満は各地の反乱となり、1877年の<strong>西南戦争</strong>で頂点に達した。この最大で最後の士族反乱が鎮圧されると、政府への批判は武力から<strong>言論</strong>へと移り、<strong>自由民権運動</strong>が全国に広がっていった。</p>\n\n<div class=\"callout\">\n  <strong>用語・自由民権運動</strong><br>\n  国会の開設や憲法の制定など、国民の政治参加を求めた運動。板垣退助らの民撰議院設立建白書（1874年）から始まった。\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 326\" role=\"img\" aria-label=\"明治六年の政変から自由民権運動の全国化への流れ\">\n  <defs>\n    <marker id=\"ar-jk1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 段階1：明治六年の政変 -->\n  <g>\n    <rect x=\"14\" y=\"8\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"40\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">明治六年の政変</text>\n    <text x=\"30\" y=\"65\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">板垣退助らが政府を去る（1873）</text>\n  </g>\n  <path d=\"M170,88 L170,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-jk1)\"/>\n  <!-- 段階2：建白書 -->\n  <g>\n    <rect x=\"14\" y=\"110\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"142\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">民撰議院設立建白書</text>\n    <text x=\"30\" y=\"167\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">国会の開設を要求（1874）</text>\n  </g>\n  <path d=\"M170,190 L170,210\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-jk1)\"/>\n  <!-- 段階3：運動の全国化（強調） -->\n  <g>\n    <rect x=\"14\" y=\"212\" width=\"312\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n    <text x=\"30\" y=\"244\" text-anchor=\"start\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">自由民権運動の全国化</text>\n    <text x=\"30\" y=\"269\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11.5\">士族から豪農・商工業者へ広がる</text>\n  </g>\n</svg>\n<figcaption>政府を去った板垣らの建白書をきっかけに、言論による運動が全国へ広がった。</figcaption>\n</figure>\n\n<h2>2・国会開設をめぐる攻防</h2>\n\n<p>1880年、各地の代表が大阪に集まって<strong>国会期成同盟</strong>を結成し、国会開設の請願を政府に提出した。民間では<strong>五日市憲法</strong>などのさまざまな憲法草案（<strong>私擬憲法</strong>）もつくられた。</p>\n\n<p>1881年、開拓使官有物払下げ事件で世論の批判が高まると、政府は<strong>国会開設の勅諭</strong>を出して10年後の国会開設を約束した。これを受けて、<strong>板垣退助</strong>は<strong>自由党</strong>を、<strong>大隈重信</strong>は<strong>立憲改進党</strong>を結成し、国会開設に備えた。</p>\n\n<p>しかしまもなく運動は分裂し、<strong>秩父事件</strong>（1884年）のような激化事件もおこって、運動はしだいに衰えていった。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"自由党と立憲改進党の比較\">\n  <!-- 左：自由党 -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">自由党</text>\n  <text x=\"87\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">板垣退助</text>\n  <text x=\"26\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">1881年結成</text>\n  <text x=\"26\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">フランス流</text>\n  <text x=\"26\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">急進的な自由主義</text>\n  <!-- 右：立憲改進党 -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">立憲改進党</text>\n  <text x=\"253\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">大隈重信</text>\n  <text x=\"192\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">1882年結成</text>\n  <text x=\"192\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">イギリス流</text>\n  <text x=\"192\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">穏健な議会政治</text>\n</svg>\n<figcaption>結成者と手本にした国の組み合わせがよく問われる。</figcaption>\n</figure>\n\n<h2>3・大日本帝国憲法の制定</h2>\n\n<p>政府では<strong>伊藤博文</strong>がヨーロッパに渡り、君主権の強い<strong>ドイツ（プロイセン）流</strong>の憲法を学んだ。帰国後の1885年には<strong>内閣制度</strong>がつくられ、伊藤が初代<strong>内閣総理大臣</strong>となった。</p>\n\n<p>1889年2月11日、<strong>大日本帝国憲法</strong>が発布された。天皇が定めて国民にあたえる<strong>欽定憲法</strong>であり、<strong>天皇</strong>が主権をもち、陸海軍の<strong>統帥権</strong>など広い権限を握った。国民は「<strong>臣民</strong>」とされ、言論・集会などの自由は<strong>法律の範囲内</strong>で認められた。</p>\n\n<div class=\"callout\">\n  <strong>用語・欽定憲法</strong><br>\n  君主が制定して国民にあたえる形式の憲法。国民が定める民定憲法（日本国憲法など）と対になる用語。\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 250\" role=\"img\" aria-label=\"大日本帝国憲法が定めた国家のしくみ。主権者である天皇のもとに帝国議会・内閣・裁判所が置かれた\">\n  <defs>\n    <marker id=\"ar-jk2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 天皇（強調） -->\n  <rect x=\"95\" y=\"8\" width=\"150\" height=\"56\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"33\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"14.5\" font-weight=\"700\">天皇</text>\n  <text x=\"170\" y=\"53\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11\">主権者・統帥権</text>\n  <!-- 三権への矢印 -->\n  <path d=\"M170,70 L60,110\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-jk2)\"/>\n  <path d=\"M170,70 L170,110\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-jk2)\"/>\n  <path d=\"M170,70 L280,110\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-jk2)\"/>\n  <!-- 帝国議会 -->\n  <rect x=\"10\" y=\"118\" width=\"100\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">帝国議会</text>\n  <text x=\"60\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">貴族院・衆議院</text>\n  <text x=\"60\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">立法に協賛</text>\n  <!-- 内閣 -->\n  <rect x=\"120\" y=\"118\" width=\"100\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">内閣</text>\n  <text x=\"170\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">国務大臣</text>\n  <text x=\"170\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">天皇を補佐</text>\n  <!-- 裁判所 -->\n  <rect x=\"230\" y=\"118\" width=\"100\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">裁判所</text>\n  <text x=\"280\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">天皇の名で</text>\n  <text x=\"280\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">裁判を行う</text>\n</svg>\n<figcaption>主権は天皇にあり、議会・内閣・裁判所はいずれも天皇を支える機関とされた。</figcaption>\n</figure>\n\n<h2>4・帝国議会の開設</h2>\n\n<p>1890年、第1回衆議院議員総選挙が行われた。選挙権をもつのは<strong>直接国税15円以上</strong>を納める<strong>満25歳以上の男子</strong>に限られ、有権者は全人口の約<strong>1.1％</strong>にすぎなかった。</p>\n\n<p>同年、<strong>貴族院</strong>と<strong>衆議院</strong>からなる<strong>帝国議会</strong>が開かれ、日本はアジアで最初の本格的な立憲国家となった。同じ年には<strong>教育勅語</strong>が出され、忠君愛国を柱とする国民道徳が学校教育を通じて広められた。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 427\" role=\"img\" aria-label=\"自由民権運動から帝国議会開設までの年表\">\n  <line x1=\"74\" y1=\"22\" x2=\"74\" y2=\"409\" style=\"stroke:var(--accent);stroke-width:3;stroke-linecap:round\"/>\n  <!-- 1874 -->\n  <circle cx=\"74\" cy=\"40\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"45\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1874</text>\n  <text x=\"90\" y=\"45\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">民撰議院設立建白書</text>\n  <!-- 1877 -->\n  <circle cx=\"74\" cy=\"101\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"106\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1877</text>\n  <text x=\"90\" y=\"106\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">西南戦争</text>\n  <!-- 1880 -->\n  <circle cx=\"74\" cy=\"162\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"167\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1880</text>\n  <text x=\"90\" y=\"167\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">国会期成同盟の結成</text>\n  <!-- 1881 -->\n  <circle cx=\"74\" cy=\"223\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"228\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1881</text>\n  <text x=\"90\" y=\"228\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">国会開設の勅諭</text>\n  <!-- 1885 -->\n  <circle cx=\"74\" cy=\"284\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"289\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1885</text>\n  <text x=\"90\" y=\"289\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">内閣制度の創設</text>\n  <!-- 1889 -->\n  <circle cx=\"74\" cy=\"345\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"350\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1889</text>\n  <text x=\"90\" y=\"350\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">大日本帝国憲法の発布</text>\n  <!-- 1890 -->\n  <circle cx=\"74\" cy=\"406\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"411\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"800\">1890</text>\n  <text x=\"90\" y=\"411\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"13\">帝国議会の開設</text>\n</svg>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>年</th><th>できごと</th></tr>\n  <tr><td>1873年</td><td>明治六年の政変（板垣退助らが下野）</td></tr>\n  <tr><td>1874年</td><td>民撰議院設立建白書</td></tr>\n  <tr><td>1877年</td><td>西南戦争（最後の士族反乱）</td></tr>\n  <tr><td>1880年</td><td>国会期成同盟の結成</td></tr>\n  <tr><td>1881年</td><td>国会開設の勅諭・自由党の結成</td></tr>\n  <tr><td>1885年</td><td>内閣制度の創設（初代・伊藤博文）</td></tr>\n  <tr><td>1889年</td><td>大日本帝国憲法の発布</td></tr>\n  <tr><td>1890年</td><td>第1回総選挙・帝国議会の開設・教育勅語</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>自由民権運動</td><td>国会開設など国民の政治参加を求めた運動</td></tr>\n  <tr><td>国会開設の勅諭</td><td>1881年、政府が10年後の国会開設を約束した文書</td></tr>\n  <tr><td>私擬憲法</td><td>民間の人々がつくった憲法草案の総称</td></tr>\n  <tr><td>欽定憲法</td><td>君主が制定して国民にあたえる形式の憲法</td></tr>\n  <tr><td>帝国議会</td><td>貴族院と衆議院からなる日本最初の議会</td></tr>\n  <tr><td>制限選挙</td><td>納税額などで選挙権を限定するしくみ</td></tr>\n</table>\n\n<h3>重要人物</h3>\n\n<table>\n  <tr><th>人物</th><th>役割</th></tr>\n  <tr><td>板垣退助</td><td>民撰議院設立建白書を提出し、自由党を結成した</td></tr>\n  <tr><td>大隈重信</td><td>立憲改進党を結成。イギリス流の議会政治を主張</td></tr>\n  <tr><td>伊藤博文</td><td>ドイツ流の憲法を学び、初代内閣総理大臣となった</td></tr>\n  <tr><td>西郷隆盛</td><td>征韓論に敗れて下野し、西南戦争の中心となった</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  <b>憲法の発布</b>（1889年）と<b>帝国議会の開設</b>（1890年）は1年ずれる。また、<b>自由党</b>（板垣退助・フランス流）と<b>立憲改進党</b>（大隈重信・イギリス流）の組み合わせを逆にしないこと。\n</div>\n\n<blockquote>\n  <p>藩閥政府への批判から始まった自由民権運動は、憲法と議会をもつ<strong>立憲国家</strong>という形で実を結んだ。ただし主権は天皇にあり、選挙権もごく一部の男子に限られていた。この立憲国家が国際社会でどう歩みだすのかは、次の日清・日露戦争の時代へとつながっていく。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "歴史総合 ― 近代化と私たち",
+  "cards": [
+    {
+      "recto": "1873年、征韓論をめぐる対立に敗れて西郷隆盛や板垣退助らが政府を去ったできごとを何というか。",
+      "verso": "明治六年の政変",
+      "explanation": "征韓論に敗れた西郷隆盛・板垣退助らが政府を去った。板垣はのちに言論で政府を批判する道を選んだ。",
+      "tags": [
+        "自由民権",
+        "政変"
+      ],
+      "distractors": {
+        "easy": [
+          "大政奉還",
+          "文明開化",
+          "桜田門外の変"
+        ],
+        "medium": [
+          "西南戦争",
+          "廃藩置県",
+          "版籍奉還"
+        ],
+        "hard": [
+          "明治十四年の政変",
+          "江華島事件",
+          "竹橋事件"
+        ]
+      }
+    },
+    {
+      "recto": "1874年に板垣退助らが政府に提出し、国会の開設を求めた意見書を何というか。",
+      "verso": "民撰議院設立建白書",
+      "explanation": "1874年に板垣退助らが提出し、自由民権運動の出発点となった。国会期成同盟（1880年）と混同しない。",
+      "tags": [
+        "自由民権",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "五箇条の御誓文",
+          "教育勅語",
+          "十七条の憲法"
+        ],
+        "medium": [
+          "国会開設の勅諭",
+          "政体書",
+          "五榜の掲示"
+        ],
+        "hard": [
+          "立志社建白",
+          "東洋大日本国国憲按",
+          "民権自由論"
+        ]
+      }
+    },
+    {
+      "recto": "国会の開設や憲法の制定など、国民の政治参加を求めた1870〜80年代の運動を何というか。",
+      "verso": "自由民権運動",
+      "explanation": "板垣退助らが始め、士族から豪農・商工業者へと広がった。武力ではなく言論による運動である点が特徴。",
+      "tags": [
+        "自由民権",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "文明開化",
+          "尊王攘夷",
+          "殖産興業"
+        ],
+        "medium": [
+          "大正デモクラシー",
+          "護憲運動",
+          "公武合体"
+        ],
+        "hard": [
+          "普通選挙運動",
+          "民本主義",
+          "民力休養運動"
+        ]
+      }
+    },
+    {
+      "recto": "1877年、鹿児島の士族らが西郷隆盛を中心におこした、最大で最後の士族反乱を何というか。",
+      "verso": "西南戦争",
+      "explanation": "西南戦争の鎮圧後、政府への批判は武力から言論へと移り、自由民権運動が本格化した。",
+      "tags": [
+        "士族反乱"
+      ],
+      "distractors": {
+        "easy": [
+          "戊辰戦争",
+          "日清戦争",
+          "応仁の乱"
+        ],
+        "medium": [
+          "佐賀の乱",
+          "萩の乱",
+          "秩父事件"
+        ],
+        "hard": [
+          "神風連の乱",
+          "秋月の乱",
+          "竹橋事件"
+        ]
+      }
+    },
+    {
+      "recto": "1880年、国会の開設を求める各地の代表が大阪に集まって結成した組織を何というか。",
+      "verso": "国会期成同盟",
+      "explanation": "愛国社を母体に結成され、国会開設の請願を政府に提出した。1874年の民撰議院設立建白書と混同しない。",
+      "tags": [
+        "自由民権"
+      ],
+      "distractors": {
+        "easy": [
+          "薩長同盟",
+          "帝国議会",
+          "五箇条の御誓文"
+        ],
+        "medium": [
+          "自由党",
+          "立憲改進党",
+          "愛国公党"
+        ],
+        "hard": [
+          "愛国社",
+          "立志社",
+          "労働組合期成会"
+        ]
+      }
+    },
+    {
+      "recto": "1881年、政府が10年後の国会開設を約束した文書を何というか。",
+      "verso": "国会開設の勅諭",
+      "explanation": "開拓使官有物払下げ事件への批判が高まるなか、政府は大隈重信を追放し（明治十四年の政変）、1890年の国会開設を約束した。",
+      "tags": [
+        "自由民権",
+        "転換点"
+      ],
+      "distractors": {
+        "easy": [
+          "五箇条の御誓文",
+          "大日本帝国憲法",
+          "ポツダム宣言"
+        ],
+        "medium": [
+          "民撰議院設立建白書",
+          "教育勅語",
+          "王政復古の大号令"
+        ],
+        "hard": [
+          "漸次立憲政体樹立の詔",
+          "軍人勅諭",
+          "戊申詔書"
+        ]
+      }
+    },
+    {
+      "recto": "1881年に板垣退助が結成した、フランス流の急進的な自由主義をとなえた政党は何か。",
+      "verso": "自由党",
+      "explanation": "板垣退助の自由党はフランス流の急進的自由主義を主張した。イギリス流の立憲改進党（大隈重信）と対で覚える。",
+      "tags": [
+        "政党"
+      ],
+      "distractors": {
+        "easy": [
+          "自由民主党",
+          "日本社会党",
+          "貴族院"
+        ],
+        "medium": [
+          "立憲改進党",
+          "立憲帝政党",
+          "立憲政友会"
+        ],
+        "hard": [
+          "愛国公党",
+          "憲政党",
+          "立志社"
+        ]
+      }
+    },
+    {
+      "recto": "1882年に大隈重信が結成した、イギリス流の議会政治を主張した政党は何か。",
+      "verso": "立憲改進党",
+      "explanation": "大隈重信の立憲改進党はイギリス流の穏健な議会政治を主張した。板垣退助の自由党と混同しやすい。",
+      "tags": [
+        "政党"
+      ],
+      "distractors": {
+        "easy": [
+          "自由民主党",
+          "立憲民主党",
+          "日本社会党"
+        ],
+        "medium": [
+          "自由党",
+          "立憲帝政党",
+          "立憲政友会"
+        ],
+        "hard": [
+          "立憲民政党",
+          "憲政本党",
+          "進歩党"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】1881年に板垣退助が結成した政党と、1882年に大隈重信が結成した政党を、順にそれぞれ何というか。",
+      "verso": "自由党と立憲改進党",
+      "explanation": "自由党（板垣・フランス流）と立憲改進党（大隈・イギリス流）。結成者と手本の国の組み合わせに注意。",
+      "tags": [
+        "comparaison",
+        "政党"
+      ],
+      "distractors": {
+        "easy": [
+          "幕府と朝廷",
+          "衆議院と貴族院",
+          "薩摩藩と長州藩"
+        ],
+        "medium": [
+          "立憲改進党と自由党",
+          "自由党と立憲政友会",
+          "立憲帝政党と立憲改進党"
+        ],
+        "hard": [
+          "自由党と立憲帝政党",
+          "愛国公党と立憲改進党",
+          "自由党と進歩党"
+        ]
+      }
+    },
+    {
+      "recto": "国会開設に備えて民間の人々が独自につくった憲法草案の総称を何というか。",
+      "verso": "私擬憲法",
+      "explanation": "五日市憲法や植木枝盛の「東洋大日本国国憲按」が代表例。政府だけでなく民間にも憲法構想があった。",
+      "tags": [
+        "憲法",
+        "自由民権"
+      ],
+      "distractors": {
+        "easy": [
+          "日本国憲法",
+          "十七条の憲法",
+          "大日本帝国憲法"
+        ],
+        "medium": [
+          "五日市憲法",
+          "東洋大日本国国憲按",
+          "憲法義解"
+        ],
+        "hard": [
+          "私案憲法",
+          "民定憲法草案",
+          "模擬憲法"
+        ]
+      }
+    },
+    {
+      "recto": "憲法制定の準備のためヨーロッパに派遣され、主にドイツ（プロイセン）流の憲法理論を学んだ人物は誰か。",
+      "verso": "伊藤博文",
+      "explanation": "君主権の強いドイツ流を手本に憲法草案を作成し、1885年には初代内閣総理大臣にも就任した。",
+      "tags": [
+        "憲法",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "西郷隆盛",
+          "徳川慶喜",
+          "坂本龍馬"
+        ],
+        "medium": [
+          "大隈重信",
+          "板垣退助",
+          "岩倉具視"
+        ],
+        "hard": [
+          "井上毅",
+          "山県有朋",
+          "黒田清隆"
+        ]
+      }
+    },
+    {
+      "recto": "1885年、太政官制にかわって創設された、内閣総理大臣が各大臣を率いるしくみを何というか。",
+      "verso": "内閣制度",
+      "explanation": "初代内閣総理大臣は伊藤博文。憲法発布（1889年）より先に内閣制度がつくられた点に注意。",
+      "tags": [
+        "憲法",
+        "制度"
+      ],
+      "distractors": {
+        "easy": [
+          "幕藩体制",
+          "摂関政治",
+          "律令制"
+        ],
+        "medium": [
+          "太政官制",
+          "枢密院",
+          "帝国議会"
+        ],
+        "hard": [
+          "議院内閣制",
+          "責任内閣制",
+          "元老院"
+        ]
+      }
+    },
+    {
+      "recto": "1889年2月11日に発布された、天皇が国民にあたえるという形式をとった憲法を何というか。",
+      "verso": "大日本帝国憲法",
+      "explanation": "ドイツ流の憲法を手本とした欽定憲法。発布は1889年、帝国議会の開設は翌1890年。",
+      "tags": [
+        "憲法",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "日本国憲法",
+          "十七条の憲法",
+          "武家諸法度"
+        ],
+        "medium": [
+          "五箇条の御誓文",
+          "教育勅語",
+          "皇室典範"
+        ],
+        "hard": [
+          "東洋大日本国国憲按",
+          "五日市憲法",
+          "憲法義解"
+        ]
+      }
+    },
+    {
+      "recto": "大日本帝国憲法のように、君主が制定して国民にあたえる形式の憲法を何というか。",
+      "verso": "欽定憲法",
+      "explanation": "天皇が定めて国民にあたえたので欽定憲法。国民が定める民定憲法（日本国憲法など）と対になる用語。",
+      "tags": [
+        "憲法",
+        "用語"
+      ],
+      "distractors": {
+        "easy": [
+          "平和憲法",
+          "不文憲法",
+          "慣習法"
+        ],
+        "medium": [
+          "協約憲法",
+          "軟性憲法",
+          "成文憲法"
+        ],
+        "hard": [
+          "民定憲法",
+          "民約憲法",
+          "勅令憲法"
+        ]
+      }
+    },
+    {
+      "recto": "大日本帝国憲法で主権をもち、陸海軍の統帥権など広い権限を認められたのは誰か。",
+      "verso": "天皇",
+      "explanation": "天皇は国の元首として統治権をもった。国民主権を定める日本国憲法との違いに注意。",
+      "tags": [
+        "憲法"
+      ],
+      "distractors": {
+        "easy": [
+          "国民",
+          "将軍",
+          "大統領"
+        ],
+        "medium": [
+          "内閣総理大臣",
+          "帝国議会",
+          "内閣"
+        ],
+        "hard": [
+          "枢密院",
+          "元老",
+          "貴族院"
+        ]
+      }
+    },
+    {
+      "recto": "大日本帝国憲法のもとで、臣民（国民）の言論や集会などの自由はどのような範囲で認められたか。",
+      "verso": "法律の範囲内",
+      "explanation": "自由は「法律ノ範囲内」で認められた。基本的人権を無条件に保障する日本国憲法とは異なる。",
+      "tags": [
+        "憲法",
+        "用語"
+      ],
+      "distractors": {
+        "easy": [
+          "無制限に認められた",
+          "まったく認められなかった",
+          "兵役とひきかえに認められた"
+        ],
+        "medium": [
+          "天皇の認める範囲内",
+          "条例の範囲内",
+          "納税額に応じて"
+        ],
+        "hard": [
+          "公共の福祉に反しない限り",
+          "勅令の範囲内",
+          "帝国議会の承認の範囲内"
+        ]
+      }
+    },
+    {
+      "recto": "1890年に開かれた、貴族院と衆議院の二院制をとる日本最初の議会を何というか。",
+      "verso": "帝国議会",
+      "explanation": "国民の選挙で選ばれるのは衆議院のみで、貴族院は皇族・華族などで構成された。開設は憲法発布の翌年。",
+      "tags": [
+        "議会",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "太政官",
+          "評定所",
+          "御前会議"
+        ],
+        "medium": [
+          "元老院",
+          "枢密院",
+          "大審院"
+        ],
+        "hard": [
+          "貴族院",
+          "衆議院",
+          "帝国会議"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】大日本帝国憲法の発布と、第1回帝国議会の開催は、それぞれ何年か。",
+      "verso": "1889年と1890年",
+      "explanation": "憲法発布が1889年2月11日、第1回帝国議会が1890年。1年ずれる点がよく問われる。",
+      "tags": [
+        "piege",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "1854年と1858年",
+          "1867年と1868年",
+          "1945年と1946年"
+        ],
+        "medium": [
+          "1885年と1889年",
+          "1881年と1890年",
+          "1889年と1894年"
+        ],
+        "hard": [
+          "1890年と1889年",
+          "1888年と1889年",
+          "1889年と1891年"
+        ]
+      }
+    },
+    {
+      "recto": "第1回衆議院議員総選挙で選挙権をあたえられたのは、どのような人々か。",
+      "verso": "直接国税15円以上を納める満25歳以上の男子",
+      "explanation": "有権者は全人口の約1.1％にすぎなかった。女性に選挙権はなく、納税額による制限選挙だった。",
+      "tags": [
+        "議会",
+        "選挙"
+      ],
+      "distractors": {
+        "easy": [
+          "すべての国民",
+          "満20歳以上の男女",
+          "華族と士族だけ"
+        ],
+        "medium": [
+          "満25歳以上のすべての男子",
+          "満20歳以上のすべての男子",
+          "一定の教育を受けた男子"
+        ],
+        "hard": [
+          "直接国税10円以上を納める満25歳以上の男子",
+          "直接国税3円以上を納める満25歳以上の男子",
+          "直接国税15円以上を納める満20歳以上の男子"
+        ]
+      }
+    },
+    {
+      "recto": "1890年に出された、忠君愛国を柱に国民道徳の基準を示した文書を何というか。",
+      "verso": "教育勅語",
+      "explanation": "学校教育を通じて国民に広められ、大きな影響をあたえた。学制（1872年・学校制度）と混同しないこと。",
+      "tags": [
+        "教育"
+      ],
+      "distractors": {
+        "easy": [
+          "学制",
+          "論語",
+          "日本国憲法"
+        ],
+        "medium": [
+          "五箇条の御誓文",
+          "学校令",
+          "国会開設の勅諭"
+        ],
+        "hard": [
+          "軍人勅諭",
+          "戊申詔書",
+          "教育基本法"
+        ]
+      }
+    }
+  ]
+}
