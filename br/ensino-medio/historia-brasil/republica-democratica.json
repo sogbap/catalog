@@ -1,0 +1,510 @@
+{
+  "id": "br-ensino-medio-historia-brasil-republica-democratica",
+  "title": "A República Democrática (1945-1964)",
+  "emoji": "🗳️",
+  "subject": "history",
+  "country": "br",
+  "courseDescription": "Da redemocratização de 1945 ao golpe de 1964. Populismo, desenvolvimentismo (JK), crise política e o fim da experiência democrática.",
+  "lesson": "<style>\n  /* Estilos dos gráficos (SVG). Usam currentColor (texto) e var(--accent)\n     (cor da matéria), adaptando-se ao tema claro/escuro do app. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>A República Democrática (1945-1964)</h1>\n\n<div class=\"callout\">\n  <strong>Pontos de estudo</strong><br>\n  <b>Nível:</b> Ensino Médio<br>\n  <b>Área:</b> História do Brasil<br>\n  <b>Período:</b> 1945 — 1964\n</div>\n\n<blockquote>\n  <p><b>Questão central.</b> Por que a experiência democrática de 1945-1964 terminou num golpe militar?</p>\n</blockquote>\n\n<p>Após a queda de Vargas, o Brasil viveu quase 20 anos de <strong>democracia</strong>, sob a <strong>Constituição de 1946</strong>. Foi a era do <strong>populismo</strong> e do <strong>desenvolvimentismo</strong>: Vargas voltou eleito, <strong>JK</strong> construiu <strong>Brasília</strong>, mas a crise política e o medo do comunismo levaram ao <strong>golpe de 1964</strong>.</p>\n\n<h2>1 · A redemocratização e os primeiros governos</h2>\n\n<p>Com o fim do Estado Novo, a <strong>Constituição de 1946</strong> restaurou as liberdades e as eleições. O general <strong>Dutra</strong> (1946-1951) alinhou o Brasil aos <strong>EUA</strong> na Guerra Fria. Em 1951, <strong>Getúlio Vargas</strong> voltou ao poder — desta vez <strong>eleito pelo voto</strong>.</p>\n\n<div class=\"callout\">\n  <strong>Conceito · Populismo</strong><br>\n  Estilo político de líderes carismáticos (Vargas, JK, Jango) que buscavam o apoio direto das massas. Por isso o período é chamado de <b>República Populista</b>.\n</div>\n\n<h2>2 · Vargas e a Petrobras</h2>\n\n<p>No segundo governo, Vargas reforçou o <strong>nacionalismo econômico</strong> e criou a <strong>Petrobras</strong> (1953), sob o lema \"O petróleo é nosso\". Cercado por uma forte crise política, Vargas <strong>suicidou-se em 1954</strong>, deixando uma carta-testamento.</p>\n\n<h2>3 · JK e os \"50 anos em 5\"</h2>\n\n<p><strong>Juscelino Kubitschek</strong> (1956-1961) prometeu <strong>\"50 anos em 5\"</strong>. Seu <strong>Plano de Metas</strong> priorizou energia, transportes e indústria, atraindo <strong>montadoras estrangeiras</strong>. Sua grande obra foi a nova capital: <strong>Brasília</strong>, inaugurada em 1960.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 150\" role=\"img\" aria-label=\"O desenvolvimentismo de Juscelino Kubitschek: Plano de Metas, indústria automobilística e Brasília\">\n  <defs>\n    <marker id=\"ar-brd1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"95\" y=\"8\" width=\"150\" height=\"42\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"28\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11.5\" font-weight=\"700\">Plano de Metas</text>\n  <text x=\"170\" y=\"44\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">\"50 anos em 5\"</text>\n  <path d=\"M150,50 L75,86\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-brd1)\"/>\n  <path d=\"M170,50 L170,86\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-brd1)\"/>\n  <path d=\"M190,50 L265,86\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-brd1)\"/>\n  <rect x=\"12\" y=\"90\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"112\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Energia e</text>\n  <text x=\"60\" y=\"126\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">transportes</text>\n  <rect x=\"122\" y=\"90\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"112\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Montadoras</text>\n  <text x=\"170\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">capital estrangeiro</text>\n  <rect x=\"232\" y=\"90\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"112\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">Brasília</text>\n  <text x=\"280\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">nova capital (1960)</text>\n</svg>\n<figcaption>O desenvolvimentismo de JK: acelerar o país abrindo-o ao capital estrangeiro.</figcaption>\n</figure>\n\n<h2>4 · A crise e o golpe de 1964</h2>\n\n<p><strong>Jânio Quadros</strong>, eleito em 1960, <strong>renunciou</strong> em 1961. Seu vice, <strong>João Goulart (Jango)</strong>, só assumiu sob um <strong>parlamentarismo</strong> temporário. Suas <strong>Reformas de Base</strong> (agrária, urbana) assustaram a elite e os militares. No clima da <strong>Guerra Fria</strong>, os militares deram o <strong>golpe de 1964</strong>, encerrando a democracia.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"A crise política que levou ao golpe de 1964: renúncia de Jânio, governo Jango e reação militar\">\n  <defs>\n    <marker id=\"ar-brd2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"40\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Jânio renuncia</text>\n  <text x=\"54\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">1961</text>\n  <path d=\"M100,66 L118,66\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-brd2)\"/>\n  <rect x=\"122\" y=\"40\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Jango e as</text>\n  <text x=\"170\" y=\"72\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Reformas de Base</text>\n  <text x=\"170\" y=\"86\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">1961-1964</text>\n  <path d=\"M218,66 L236,66\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-brd2)\"/>\n  <rect x=\"240\" y=\"40\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">Golpe militar</text>\n  <text x=\"286\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">1964</text>\n  <text x=\"170\" y=\"22\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">a democracia mergulha na crise</text>\n</svg>\n<figcaption>Da renúncia de Jânio ao golpe: a instabilidade abriu caminho para os militares.</figcaption>\n</figure>\n\n<h2>O essencial</h2>\n\n<h3>Linha do tempo</h3>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 270\" role=\"img\" aria-label=\"Linha do tempo da República Democrática, de 1946 a 1964\">\n  <line x1=\"26\" y1=\"16\" x2=\"26\" y2=\"256\" style=\"stroke:var(--accent);stroke-opacity:.4;stroke-width:2\"/>\n  <circle cx=\"26\" cy=\"24\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"21\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1946</text>\n  <text x=\"40\" y=\"34\" class=\"s-muted\" font-size=\"10\">Constituição democrática · governo Dutra</text>\n  <circle cx=\"26\" cy=\"60\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"57\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1951</text>\n  <text x=\"40\" y=\"70\" class=\"s-muted\" font-size=\"10\">Vargas volta, eleito presidente</text>\n  <circle cx=\"26\" cy=\"96\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"93\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1954</text>\n  <text x=\"40\" y=\"106\" class=\"s-muted\" font-size=\"10\">Suicídio de Vargas</text>\n  <circle cx=\"26\" cy=\"132\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"129\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1960</text>\n  <text x=\"40\" y=\"142\" class=\"s-muted\" font-size=\"10\">Inauguração de Brasília (JK)</text>\n  <circle cx=\"26\" cy=\"168\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"165\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1961</text>\n  <text x=\"40\" y=\"178\" class=\"s-muted\" font-size=\"10\">Renúncia de Jânio · posse de Jango</text>\n  <circle cx=\"26\" cy=\"204\" r=\"5\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"201\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1964</text>\n  <text x=\"40\" y=\"214\" class=\"s-muted\" font-size=\"10\">Golpe militar (fim da democracia)</text>\n</svg>\n<figcaption>Quase 20 anos de democracia, do otimismo de JK à ruptura de 1964.</figcaption>\n</figure>\n\n<table>\n  <tr><th>Data</th><th>Acontecimento</th></tr>\n  <tr><td>1946</td><td>Constituição democrática · governo Dutra</td></tr>\n  <tr><td>1951</td><td>Vargas volta, eleito presidente</td></tr>\n  <tr><td>1953</td><td>Criação da Petrobras</td></tr>\n  <tr><td>1954</td><td>Suicídio de Vargas</td></tr>\n  <tr><td>1956-61</td><td>Governo JK · Plano de Metas</td></tr>\n  <tr><td>1960</td><td>Inauguração de Brasília</td></tr>\n  <tr><td>1961</td><td>Renúncia de Jânio · posse de Jango</td></tr>\n  <tr><td>1964</td><td>Golpe militar (fim da democracia)</td></tr>\n</table>\n\n<h3>Termos-chave</h3>\n\n<table>\n  <tr><th>Termo</th><th>Significado</th></tr>\n  <tr><td>Populismo</td><td>Apelo direto às massas por líderes carismáticos</td></tr>\n  <tr><td>Plano de Metas</td><td>Programa desenvolvimentista de JK</td></tr>\n  <tr><td>Reformas de Base</td><td>Reformas de Jango (agrária, urbana...)</td></tr>\n  <tr><td>Parlamentarismo</td><td>Sistema adotado em 1961 para a posse de Jango</td></tr>\n  <tr><td>Petrobras</td><td>Estatal do petróleo criada em 1953</td></tr>\n</table>\n\n<h3>Presidentes e marcos</h3>\n\n<table>\n  <tr><th>Nome</th><th>Papel</th></tr>\n  <tr><td>Eurico Dutra</td><td>Primeiro presidente (1946-1951)</td></tr>\n  <tr><td>Getúlio Vargas</td><td>Volta eleito; suicídio em 1954</td></tr>\n  <tr><td>Juscelino Kubitschek</td><td>\"50 anos em 5\"; construiu Brasília</td></tr>\n  <tr><td>João Goulart (Jango)</td><td>Deposto pelo golpe de 1964</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  Vargas, em 1954, <b>não foi deposto</b>: ele <b>suicidou-se</b>. E lembre da diferença de método: <b>Vargas</b> industrializou pelo <b>Estado</b> (estatais), enquanto <b>JK</b> abriu ao <b>capital estrangeiro</b> (montadoras).\n</div>\n\n<blockquote>\n  <p>O golpe de 1964 encerrou quase 20 anos de democracia e inaugurou 21 anos de regime militar. É o nosso próximo tema: a Ditadura Militar.</p>\n</blockquote>\n",
+  "questionLang": "pt",
+  "answerLang": "pt",
+  "version": 1,
+  "level": "Ensino Médio",
+  "theme": "História do Brasil",
+  "cards": [
+    {
+      "recto": "Que período político o Brasil viveu entre 1945 e 1964?",
+      "verso": "A República Democrática (ou República Populista)",
+      "explanation": "Período de eleições livres e Constituição de 1946, marcado pelo populismo. Terminou com o golpe militar de 1964.",
+      "tags": [
+        "republica-democratica",
+        "periodo"
+      ],
+      "distractors": {
+        "easy": [
+          "A República Velha",
+          "O Estado Novo",
+          "O Império"
+        ],
+        "medium": [
+          "A Ditadura Militar",
+          "A Nova República",
+          "O Governo Provisório"
+        ],
+        "hard": [
+          "A República da Espada",
+          "A Segunda República Velha",
+          "O Parlamentarismo imperial"
+        ]
+      }
+    },
+    {
+      "recto": "Qual Constituição, de caráter democrático, organizou o Brasil após a queda do Estado Novo?",
+      "verso": "A Constituição de 1946",
+      "explanation": "Restaurou as liberdades, a separação dos poderes e as eleições diretas. Rompia com a autoritária Polaca de 1937.",
+      "tags": [
+        "republica-democratica",
+        "documento"
+      ],
+      "distractors": {
+        "easy": [
+          "A Constituição de 1988",
+          "A Constituição de 1824",
+          "A Lei Áurea"
+        ],
+        "medium": [
+          "A Constituição de 1937",
+          "A Constituição de 1934",
+          "A Constituição de 1967"
+        ],
+        "hard": [
+          "A Constituição de 1891",
+          "A Emenda de 1961",
+          "A Polaca revisada"
+        ]
+      }
+    },
+    {
+      "recto": "General eleito em 1945, primeiro presidente da República Democrática.",
+      "verso": "Eurico Gaspar Dutra",
+      "explanation": "Governou de 1946 a 1951. Alinhou o Brasil aos EUA na Guerra Fria e colocou o Partido Comunista na ilegalidade.",
+      "tags": [
+        "republica-democratica",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Getúlio Vargas",
+          "Dom Pedro II",
+          "Juscelino Kubitschek"
+        ],
+        "medium": [
+          "Jânio Quadros",
+          "João Goulart",
+          "Café Filho"
+        ],
+        "hard": [
+          "Nereu Ramos",
+          "Ranieri Mazzilli",
+          "Cristiano Machado"
+        ]
+      }
+    },
+    {
+      "recto": "Como Getúlio Vargas voltou ao poder em 1951, poucos anos após ser deposto?",
+      "verso": "Eleito presidente pelo voto popular",
+      "explanation": "Vargas retornou democraticamente, com o lema \"ele voltará\". Mostra sua força política e a permanência do trabalhismo.",
+      "tags": [
+        "republica-democratica",
+        "1951"
+      ],
+      "distractors": {
+        "easy": [
+          "Por um golpe militar",
+          "Por herança",
+          "Nomeado pelos EUA"
+        ],
+        "medium": [
+          "Indicado pelo Congresso",
+          "Por plebiscito",
+          "Como primeiro-ministro"
+        ],
+        "hard": [
+          "Por acordo com Dutra",
+          "Como vice que assumiu",
+          "Por nomeação de Café Filho"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] Como terminou o segundo governo de Getúlio Vargas, em 1954?",
+      "verso": "Com o suicídio de Vargas",
+      "explanation": "Erro comum é achar que Vargas foi deposto de novo. Cercado por uma crise política, ele se matou em agosto de 1954, deixando uma carta-testamento.",
+      "tags": [
+        "piege",
+        "republica-democratica"
+      ],
+      "distractors": {
+        "easy": [
+          "Com um golpe militar",
+          "Com sua reeleição",
+          "Com seu exílio"
+        ],
+        "medium": [
+          "Com sua renúncia",
+          "Com sua prisão",
+          "Com o fim do mandato normal"
+        ],
+        "hard": [
+          "Com um impeachment",
+          "Com sua morte natural",
+          "Com a cassação pelo Congresso"
+        ]
+      }
+    },
+    {
+      "recto": "Empresa estatal do petróleo criada em 1953, sob o lema \"O petróleo é nosso\".",
+      "verso": "Petrobras",
+      "explanation": "Criada no segundo governo Vargas, simboliza o nacionalismo econômico da época. O Estado assumiu o monopólio do petróleo.",
+      "tags": [
+        "republica-democratica",
+        "economia"
+      ],
+      "distractors": {
+        "easy": [
+          "Companhia Siderúrgica Nacional",
+          "Vale do Rio Doce",
+          "Banco do Brasil"
+        ],
+        "medium": [
+          "Eletrobras",
+          "Petrolândia",
+          "Petrosul"
+        ],
+        "hard": [
+          "Petrobrás Distribuidora apenas",
+          "Refinaria Nacional",
+          "Companhia do Petróleo Brasileiro"
+        ]
+      }
+    },
+    {
+      "recto": "Presidente eleito em 1955, conhecido pelo lema \"50 anos em 5\".",
+      "verso": "Juscelino Kubitschek (JK)",
+      "explanation": "Governou de 1956 a 1961. Prometeu acelerar o desenvolvimento do país com seu Plano de Metas e construiu Brasília.",
+      "tags": [
+        "republica-democratica",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Getúlio Vargas",
+          "Eurico Dutra",
+          "Marechal Deodoro"
+        ],
+        "medium": [
+          "Jânio Quadros",
+          "João Goulart",
+          "Café Filho"
+        ],
+        "hard": [
+          "Juarez Távora",
+          "Henrique Teixeira Lott",
+          "Adhemar de Barros"
+        ]
+      }
+    },
+    {
+      "recto": "Programa de desenvolvimento de JK que priorizava energia, transportes e indústria.",
+      "verso": "Plano de Metas",
+      "explanation": "Resumido no lema \"50 anos em 5\", atraiu indústrias estrangeiras (como as montadoras de automóveis) e acelerou a industrialização.",
+      "tags": [
+        "republica-democratica",
+        "economia"
+      ],
+      "distractors": {
+        "easy": [
+          "Plano Real",
+          "Plano Cruzado",
+          "Estatuto da Terra"
+        ],
+        "medium": [
+          "Milagre econômico",
+          "Plano de Ação Econômica",
+          "Plano Trienal"
+        ],
+        "hard": [
+          "Plano SALTE",
+          "Programa de Metas e Bases",
+          "Plano Nacional de Desenvolvimento"
+        ]
+      }
+    },
+    {
+      "recto": "Grande obra de JK: nova capital do Brasil, inaugurada em 1960.",
+      "verso": "Brasília",
+      "explanation": "Construída no Planalto Central para interiorizar o desenvolvimento. Projetada por Oscar Niemeyer e Lúcio Costa. Substituiu o Rio de Janeiro como capital.",
+      "tags": [
+        "republica-democratica",
+        "marco"
+      ],
+      "distractors": {
+        "easy": [
+          "Rio de Janeiro",
+          "São Paulo",
+          "Salvador"
+        ],
+        "medium": [
+          "Goiânia",
+          "Belo Horizonte",
+          "Brasília de Minas"
+        ],
+        "hard": [
+          "Palmas",
+          "Anápolis",
+          "Planaltina"
+        ]
+      }
+    },
+    {
+      "recto": "Que setor industrial se instalou fortemente no Brasil durante o governo JK?",
+      "verso": "A indústria automobilística (montadoras)",
+      "explanation": "JK atraiu montadoras estrangeiras para o ABC paulista. O automóvel virou símbolo do desenvolvimentismo dos anos 1950.",
+      "tags": [
+        "republica-democratica",
+        "industria"
+      ],
+      "distractors": {
+        "easy": [
+          "A indústria têxtil colonial",
+          "A mineração de ouro",
+          "A pesca artesanal"
+        ],
+        "medium": [
+          "A indústria naval apenas",
+          "A siderurgia apenas",
+          "A indústria aeronáutica"
+        ],
+        "hard": [
+          "A petroquímica apenas",
+          "A indústria de software",
+          "A indústria farmacêutica"
+        ]
+      }
+    },
+    {
+      "recto": "Presidente eleito em 1960 que renunciou ao cargo após poucos meses, em 1961.",
+      "verso": "Jânio Quadros",
+      "explanation": "Eleito com a vassoura como símbolo de combate à corrupção, renunciou surpreendentemente em agosto de 1961, abrindo uma grave crise política.",
+      "tags": [
+        "republica-democratica",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Juscelino Kubitschek",
+          "Getúlio Vargas",
+          "Eurico Dutra"
+        ],
+        "medium": [
+          "João Goulart",
+          "Café Filho",
+          "Ranieri Mazzilli"
+        ],
+        "hard": [
+          "Carlos Lacerda",
+          "Adhemar de Barros",
+          "Henrique Lott"
+        ]
+      }
+    },
+    {
+      "recto": "Vice que assumiu a presidência após a renúncia de Jânio, apesar da resistência militar.",
+      "verso": "João Goulart (Jango)",
+      "explanation": "Ligado ao trabalhismo de Vargas, era visto com desconfiança pelos militares. Para que assumisse, adotou-se temporariamente o parlamentarismo (1961).",
+      "tags": [
+        "republica-democratica",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Jânio Quadros",
+          "Juscelino Kubitschek",
+          "Dom Pedro II"
+        ],
+        "medium": [
+          "Eurico Dutra",
+          "Café Filho",
+          "Tancredo Neves"
+        ],
+        "hard": [
+          "Ranieri Mazzilli",
+          "Carlos Lacerda",
+          "Auro de Moura Andrade"
+        ]
+      }
+    },
+    {
+      "recto": "Sistema de governo adotado em 1961 para permitir a posse de Jango, e depois revogado por plebiscito.",
+      "verso": "Parlamentarismo",
+      "explanation": "Solução de compromisso que limitava os poderes de Jango. Em 1963, um plebiscito devolveu-lhe os plenos poderes presidenciais (presidencialismo).",
+      "tags": [
+        "republica-democratica",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "Monarquia",
+          "Ditadura",
+          "Federalismo"
+        ],
+        "medium": [
+          "Presidencialismo",
+          "República da Espada",
+          "Estado Novo"
+        ],
+        "hard": [
+          "Semipresidencialismo",
+          "Regime militar",
+          "Parlamentarismo monárquico"
+        ]
+      }
+    },
+    {
+      "recto": "Conjunto de mudanças propostas por Jango (agrária, urbana, educacional) que assustou a elite e os militares.",
+      "verso": "As Reformas de Base",
+      "explanation": "Incluíam reforma agrária e maior papel do Estado. Vistas como \"comunistas\" pelos setores conservadores, ajudaram a provocar o golpe de 1964.",
+      "tags": [
+        "republica-democratica",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "O Plano de Metas",
+          "O Milagre econômico",
+          "O Plano Real"
+        ],
+        "medium": [
+          "As Diretas Já",
+          "O Plano Trienal apenas",
+          "A Aliança para o Progresso"
+        ],
+        "hard": [
+          "As Reformas Pombalinas",
+          "O Programa de Metas e Bases",
+          "As Reformas Institucionais"
+        ]
+      }
+    },
+    {
+      "recto": "Acontecimento de março-abril de 1964 que encerrou a República Democrática.",
+      "verso": "O golpe militar de 1964",
+      "explanation": "Os militares depuseram João Goulart e tomaram o poder. Iniciava-se a Ditadura Militar, que duraria 21 anos (até 1985).",
+      "tags": [
+        "republica-democratica",
+        "1964"
+      ],
+      "distractors": {
+        "easy": [
+          "A Proclamação da República",
+          "A Revolução de 1930",
+          "A Independência"
+        ],
+        "medium": [
+          "A renúncia de Jânio",
+          "O suicídio de Vargas",
+          "A Revolução Constitucionalista"
+        ],
+        "hard": [
+          "A Intentona Comunista",
+          "O Plano Cohen",
+          "A Revolta da Chibata"
+        ]
+      }
+    },
+    {
+      "recto": "Estilo político dominante entre 1945 e 1964, baseado no apelo direto às massas por líderes carismáticos.",
+      "verso": "Populismo",
+      "explanation": "Vargas, JK e Jango buscavam apoio popular direto. Por isso o período também é chamado de \"República Populista\".",
+      "tags": [
+        "republica-democratica",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "Coronelismo",
+          "Feudalismo",
+          "Absolutismo"
+        ],
+        "medium": [
+          "Liberalismo puro",
+          "Anarquismo",
+          "Socialismo real"
+        ],
+        "hard": [
+          "Corporativismo apenas",
+          "Caudilhismo",
+          "Trabalhismo apenas"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] Getúlio Vargas e Juscelino Kubitschek marcaram a industrialização. Qual a diferença central de método?",
+      "verso": "Vargas: indústria de base pelo Estado; JK: abertura ao capital estrangeiro",
+      "explanation": "Vargas criou estatais (CSN, Petrobras). JK atraiu multinacionais (montadoras). Ambos industrializaram, mas por caminhos diferentes.",
+      "tags": [
+        "comparaison",
+        "republica-democratica"
+      ],
+      "distractors": {
+        "easy": [
+          "Vargas industrializou; JK não fez nada",
+          "Ambos privatizaram tudo",
+          "Nenhum dos dois industrializou"
+        ],
+        "medium": [
+          "Vargas abriu ao estrangeiro; JK criou estatais",
+          "Ambos recusaram o capital estrangeiro",
+          "Vargas fez reforma agrária; JK não"
+        ],
+        "hard": [
+          "Vargas construiu Brasília; JK criou a CSN",
+          "Ambos usaram só capital privado nacional",
+          "JK estatizou o petróleo; Vargas o privatizou"
+        ]
+      }
+    },
+    {
+      "recto": "Que empresa e política de JK aproximou o Brasil do capital estrangeiro, ao contrário do nacionalismo de Vargas?",
+      "verso": "A entrada de multinacionais (indústria automobilística)",
+      "explanation": "JK abriu a economia às montadoras estrangeiras, marcando um desenvolvimentismo associado ao capital externo, diferente do estatismo varguista.",
+      "tags": [
+        "republica-democratica",
+        "economia"
+      ],
+      "distractors": {
+        "easy": [
+          "A criação da Petrobras",
+          "A fundação da CSN",
+          "A abolição da escravidão"
+        ],
+        "medium": [
+          "A estatização do petróleo",
+          "A reforma agrária",
+          "A criação da Vale"
+        ],
+        "hard": [
+          "O monopólio estatal da indústria",
+          "A nacionalização dos bancos",
+          "A criação da Eletrobras apenas"
+        ]
+      }
+    },
+    {
+      "recto": "De modo geral, por que a República Democrática (1945-1964) entrou em crise no início dos anos 1960?",
+      "verso": "Pela radicalização política e o medo do comunismo, no contexto da Guerra Fria",
+      "explanation": "A polarização entre reformas de Jango e a reação conservadora, somada ao clima da Guerra Fria, levou os militares ao golpe de 1964.",
+      "tags": [
+        "republica-democratica",
+        "sintese"
+      ],
+      "distractors": {
+        "easy": [
+          "Por uma invasão estrangeira",
+          "Pelo fim do café",
+          "Por uma epidemia"
+        ],
+        "medium": [
+          "Pela volta da monarquia",
+          "Por uma guerra com a Argentina",
+          "Pelo fim do petróleo"
+        ],
+        "hard": [
+          "Pela abolição tardia",
+          "Por uma crise dinástica",
+          "Pela separação do Sul"
+        ]
+      }
+    }
+  ]
+}

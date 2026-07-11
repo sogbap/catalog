@@ -1,0 +1,533 @@
+{
+  "id": "jp-koukou-koukyou-rinri-seigi",
+  "title": "公共的な空間と倫理・正義",
+  "emoji": "⚖️",
+  "subject": "civics",
+  "country": "jp",
+  "courseDescription": "功利主義から義務論、ロールズの正義まで。社会で「何が正しいか」を考える倫理の枠組みを学ぶ。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>公共的な空間と倫理・正義</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・公共<br>\n  <b>大項目A：</b>公共の扉<br>\n  <b>内容：</b>功利主義・義務論・正義・合意形成\n</div>\n\n<blockquote>\n  <p><b>問い</b>　意見が対立するとき、「何が正しいか」をどう考えればよいのだろうか。</p>\n</blockquote>\n\n<p>社会には、答えが一つに決まらない問題が多い。そんなとき手がかりになるのが、倫理の考え方である。結果を重んじる<strong>功利主義</strong>、動機を重んじる<strong>義務論</strong>、そして公正を問う<strong>正義</strong>の理論。これらを道具に、<strong>公共的な空間</strong>で対話し、<strong>合意形成</strong>を進める力を養おう。</p>\n\n<h2>1・功利主義 ― 結果で判断する</h2>\n\n<p><strong>功利主義</strong>は、行為の善悪をその<strong>結果</strong>（生み出す幸福の大きさ）で判断する。<strong>ベンサム</strong>は「<strong>最大多数の最大幸福</strong>」を唱え、快楽を量として計算できるとした（量的功利主義）。</p>\n\n<p>これに対し<strong>ミル</strong>は、「満足した豚であるより、不満足な人間であるほうがよい」と述べ、快楽には<strong>質</strong>の差があるとした（質的功利主義）。同じ功利主義でも、快楽のとらえ方が異なる。</p>\n\n<h2>2・義務論 ― 動機で判断する</h2>\n\n<p><strong>カント</strong>の<strong>義務論</strong>は、結果ではなく行為の<strong>動機</strong>を重んじる。「〜したいなら〜せよ」という条件つきの命令ではなく、無条件に従うべき道徳法則<strong>定言命法</strong>にかなうかどうかを問う。</p>\n\n<p>カントはまた、人間を単なる手段ではなく、それ自体が目的である存在として扱う<strong>人格の尊重</strong>を説いた。この考えは、現代の人権思想にもつながっている。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"功利主義と義務論の比較。判断の基準が結果か動機か\">\n  <!-- 左：功利主義 -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">功利主義</text>\n  <text x=\"87\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">結果で判断</text>\n  <text x=\"26\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">幸福の大きさ</text>\n  <text x=\"26\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">ベンサム（量）</text>\n  <text x=\"26\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">ミル（質）</text>\n  <!-- 右：義務論 -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">義務論</text>\n  <text x=\"253\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">動機で判断</text>\n  <text x=\"192\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">義務に従うか</text>\n  <text x=\"192\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">カント</text>\n  <text x=\"192\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">定言命法・人格</text>\n</svg>\n<figcaption>判断の基準が「結果」か「動機」かが、両者を分ける最大の違い。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・定言命法</strong><br>\n  「〜したいなら〜せよ」という条件つきの命令（仮言命法）ではなく、「無条件に〜せよ」という道徳法則。カントは、これに従う動機こそが真の道徳だとした。\n</div>\n\n<h2>3・正義をめぐる考え方</h2>\n\n<p>現代の<strong>ロールズ</strong>は「公正としての正義」を説いた。社会のルールは、自分の性別・能力・立場を知らない<strong>無知のベール</strong>をかぶった状態で選ぶべきだとした。どの立場になるか分からなければ、誰もが納得できる公正なルールを選ぶはず、という思考実験である。</p>\n\n<p><strong>セン</strong>は、財の量だけでなく人が実際に「何ができるか」という<strong>潜在能力</strong>に注目した。一方、<strong>サンデル</strong>らの<strong>共同体主義</strong>は、共同体で共有される価値（共通善）を重んじ、ロールズを批判した。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 240\" role=\"img\" aria-label=\"現代の正義論。ロールズ、セン、サンデルの考え方\">\n  <defs>\n    <marker id=\"ar-ri1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 正義（強調） -->\n  <rect x=\"95\" y=\"8\" width=\"150\" height=\"56\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"33\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"14\" font-weight=\"700\">現代の正義論</text>\n  <text x=\"170\" y=\"53\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11\">公正とは何か</text>\n  <!-- 矢印 -->\n  <path d=\"M170,66 L60,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ri1)\"/>\n  <path d=\"M170,66 L170,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ri1)\"/>\n  <path d=\"M170,66 L280,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ri1)\"/>\n  <!-- ロールズ -->\n  <rect x=\"10\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">ロールズ</text>\n  <text x=\"60\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">公正としての正義</text>\n  <text x=\"60\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">無知のベール</text>\n  <!-- セン -->\n  <rect x=\"120\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">セン</text>\n  <text x=\"170\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">潜在能力</text>\n  <text x=\"170\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">何ができるか</text>\n  <!-- サンデル -->\n  <rect x=\"230\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">サンデル</text>\n  <text x=\"280\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">共同体主義</text>\n  <text x=\"280\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">共通善</text>\n</svg>\n<figcaption>正義とは何かをめぐって、現代でも多様な考え方が対話している。</figcaption>\n</figure>\n\n<h2>4・公共的な空間と合意形成</h2>\n\n<p>これらの倫理は、唯一の正解を出すためではなく、多様な立場をふまえて考え、対話するための道具である。人々が問題を議論する<strong>公共的な空間</strong>で、<strong>ハーバーマス</strong>は対等な話し合いによる<strong>合意形成</strong>を重んじた。</p>\n\n<p>ルールを考えるときは、むだのなさを問う<strong>効率</strong>と、かたよりのなさを問う<strong>公正</strong>の二つの視点が役立つ。両者が<strong>トレードオフ</strong>になることもあり、その調整こそが公共の課題である。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"効率と公正の2つの視点。むだのなさとかたよりのなさ\">\n  <!-- 左：効率 -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">効率</text>\n  <text x=\"87\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">むだがないか</text>\n  <text x=\"26\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">資源の有効活用</text>\n  <text x=\"26\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">最大限に使う</text>\n  <text x=\"26\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">全体の利益</text>\n  <!-- 右：公正 -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">公正</text>\n  <text x=\"253\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">かたよりがないか</text>\n  <text x=\"192\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">手続きの公平</text>\n  <text x=\"192\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">機会の平等</text>\n  <text x=\"192\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">分配の公平</text>\n</svg>\n<figcaption>ルールを考えるときの二つの視点。両立しないときは調整が必要になる。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・無知のベール</strong><br>\n  ロールズの思考実験。自分の性別・能力・立場を知らないと仮定して社会のルールを選べば、誰もが納得できる公正なルールが選ばれるはず、という考え方。\n</div>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>立場</th><th>判断の基準</th></tr>\n  <tr><td>功利主義</td><td>結果（幸福の大きさ）</td></tr>\n  <tr><td>義務論</td><td>動機（義務に従うか）</td></tr>\n  <tr><td>徳倫理</td><td>人柄（どんな人であるべきか）</td></tr>\n  <tr><td>正義論</td><td>公正（かたよりのなさ）</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>功利主義</td><td>結果で善悪を判断（ベンサム・ミル）</td></tr>\n  <tr><td>義務論</td><td>動機で善悪を判断（カント）</td></tr>\n  <tr><td>定言命法</td><td>無条件に従うべき道徳法則（カント）</td></tr>\n  <tr><td>無知のベール</td><td>公正なルールを選ぶための仮定（ロールズ）</td></tr>\n  <tr><td>効率と公正</td><td>むだのなさ／かたよりのなさの視点</td></tr>\n  <tr><td>合意形成</td><td>対話で納得できる結論をつくること</td></tr>\n</table>\n\n<h3>思想家とキーワード</h3>\n\n<table>\n  <tr><th>人物</th><th>キーワード</th></tr>\n  <tr><td>ベンサム</td><td>最大多数の最大幸福（量的功利主義）</td></tr>\n  <tr><td>ミル</td><td>快楽の質（質的功利主義）</td></tr>\n  <tr><td>カント</td><td>定言命法・人格の尊重</td></tr>\n  <tr><td>ロールズ</td><td>公正としての正義・無知のベール</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  <b>功利主義</b>（結果で判断・ベンサム／ミル）と<b>義務論</b>（動機で判断・カント）を混同しないこと。功利主義内部でも、<b>ベンサム</b>（量）と<b>ミル</b>（質）で快楽のとらえ方が異なる。\n</div>\n\n<blockquote>\n  <p>倫理の理論は、対立する意見のどれが「唯一の正解」かを決めるものではない。多様な立場をふまえて考え、対話し、合意を形づくるための道具である。この「公共の扉」をくぐったいま、私たちは具体的な社会——政治・経済のしくみへと踏み出していく。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "公共 ― 公共の扉",
+  "cards": [
+    {
+      "recto": "行為の善悪を、その行為が生む結果（幸福や快楽）の大きさで判断する立場を何というか。",
+      "verso": "功利主義",
+      "explanation": "結果を重視する考え方。ベンサムやミルが代表。行為の動機を重視する義務論（カント）と対をなす。",
+      "tags": [
+        "倫理",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "義務論",
+          "徳倫理",
+          "利己主義"
+        ],
+        "medium": [
+          "結果主義という上位概念",
+          "快楽主義",
+          "自由主義"
+        ],
+        "hard": [
+          "帰結主義",
+          "規則功利主義",
+          "選好功利主義"
+        ]
+      }
+    },
+    {
+      "recto": "「最大多数の最大幸福」を唱え、快楽を量として計算できると考えた功利主義の思想家は誰か。",
+      "verso": "ベンサム",
+      "explanation": "快楽の量を重んじる量的功利主義。幸福を計算できるとした。快楽の質を問うたミルと対で覚える。",
+      "tags": [
+        "倫理",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "カント",
+          "ソクラテス",
+          "アリストテレス"
+        ],
+        "medium": [
+          "ミル",
+          "ロールズ",
+          "デカルト"
+        ],
+        "hard": [
+          "シジウィック",
+          "ヒューム",
+          "アダム・スミス"
+        ]
+      }
+    },
+    {
+      "recto": "「満足した豚であるより、不満足な人間であるほうがよい」と述べ、快楽には質の差があると説いた思想家は誰か。",
+      "verso": "ミル",
+      "explanation": "快楽の質を重んじる質的功利主義。精神的な快楽を上位とした。量を重んじるベンサムと対比される。",
+      "tags": [
+        "倫理",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "カント",
+          "ベンサム以外だがベンサム",
+          "ソクラテス"
+        ],
+        "medium": [
+          "ベンサム",
+          "ロールズ",
+          "アリストテレス"
+        ],
+        "hard": [
+          "シジウィック",
+          "グリーン",
+          "ヒューム"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】快楽を量として計算できるとした功利主義者と、快楽の質の差を重んじた功利主義者を、順にそれぞれ何というか。",
+      "verso": "ベンサムとミル",
+      "explanation": "ベンサム＝量的功利主義（最大多数の最大幸福）、ミル＝質的功利主義（快楽の質）。どちらも功利主義だが快楽のとらえ方が違う。",
+      "tags": [
+        "comparaison",
+        "倫理"
+      ],
+      "distractors": {
+        "easy": [
+          "カントとミル",
+          "ソクラテスとプラトン",
+          "孟子と荀子"
+        ],
+        "medium": [
+          "ミルとベンサム",
+          "ベンサムとカント",
+          "ミルとロールズ"
+        ],
+        "hard": [
+          "ベンサムとシジウィック",
+          "カントとベンサム",
+          "ミルとサンデル"
+        ]
+      }
+    },
+    {
+      "recto": "行為の善悪を、結果ではなく、その行為の動機や、義務に従っているかどうかで判断する立場を何というか。",
+      "verso": "義務論",
+      "explanation": "カントが代表。「〜すべき」という義務に従う動機を重視する。結果を重視する功利主義と対をなす。",
+      "tags": [
+        "倫理",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "功利主義",
+          "利己主義",
+          "快楽主義"
+        ],
+        "medium": [
+          "結果主義",
+          "徳倫理",
+          "相対主義"
+        ],
+        "hard": [
+          "動機主義という別称",
+          "規則主義",
+          "契約主義"
+        ]
+      }
+    },
+    {
+      "recto": "「〜したいなら〜せよ」という条件つきの命令ではなく、「無条件に〜せよ」という道徳法則を、カントは何と呼んだか。",
+      "verso": "定言命法",
+      "explanation": "条件つきの「仮言命法」と対になる。カントは、無条件に従うべき道徳法則こそが真の道徳だとした。",
+      "tags": [
+        "倫理",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "仮言命法",
+          "最大多数の最大幸福",
+          "中庸"
+        ],
+        "medium": [
+          "黄金律",
+          "自然法",
+          "功利の原理"
+        ],
+        "hard": [
+          "格率",
+          "自律",
+          "実践理性"
+        ]
+      }
+    },
+    {
+      "recto": "カントが、人間を単なる手段としてではなく、それ自体が目的である存在として尊重すべきだとした考えを何というか。",
+      "verso": "人格の尊重",
+      "explanation": "「人間を目的として扱え」という考え。一人ひとりの人格の尊厳を重んじる。現代の人権思想にもつながる。",
+      "tags": [
+        "倫理",
+        "カント"
+      ],
+      "distractors": {
+        "easy": [
+          "最大多数の最大幸福",
+          "適者生存",
+          "自己実現"
+        ],
+        "medium": [
+          "人格の手段化",
+          "功利の原理",
+          "中庸"
+        ],
+        "hard": [
+          "目的の王国",
+          "自律",
+          "定言命法そのもの"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】行為の善悪を「結果（幸福の大きさ）」で判断する立場と、「動機（義務に従うか）」で判断する立場を、順にそれぞれ何というか。",
+      "verso": "功利主義と義務論",
+      "explanation": "功利主義＝結果を重視（ベンサム・ミル）、義務論＝動機を重視（カント）。判断の基準が「結果」か「動機」かを取りちがえない。",
+      "tags": [
+        "piege",
+        "倫理"
+      ],
+      "distractors": {
+        "easy": [
+          "自由と平等",
+          "善と悪",
+          "個人と社会"
+        ],
+        "medium": [
+          "義務論と功利主義",
+          "徳倫理と功利主義",
+          "功利主義と徳倫理"
+        ],
+        "hard": [
+          "結果主義と動機主義という別称",
+          "義務論と徳倫理",
+          "契約説と功利主義"
+        ]
+      }
+    },
+    {
+      "recto": "アリストテレスに由来し、正直や勇気などのすぐれた人柄（徳）を身につけることを重んじる倫理の立場を何というか。",
+      "verso": "徳倫理（徳倫理学）",
+      "explanation": "「どう行為すべきか」より「どんな人であるべきか」を問う。功利主義・義務論とならぶ第三の倫理の立場。",
+      "tags": [
+        "倫理"
+      ],
+      "distractors": {
+        "easy": [
+          "功利主義",
+          "義務論",
+          "利己主義"
+        ],
+        "medium": [
+          "結果主義",
+          "相対主義",
+          "契約主義"
+        ],
+        "hard": [
+          "ケアの倫理",
+          "共同体主義",
+          "規範倫理全般"
+        ]
+      }
+    },
+    {
+      "recto": "公正としての正義を説き、社会のルールを、自分の立場を知らない状態で選ぶべきだとした現代の哲学者は誰か。",
+      "verso": "ロールズ",
+      "explanation": "『正義論』で知られる。誰もが公正だと認められるルールを、立場を知らずに選ぶ思考実験を示した。",
+      "tags": [
+        "正義",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "カント",
+          "ベンサム",
+          "ソクラテス"
+        ],
+        "medium": [
+          "ミル",
+          "セン",
+          "サンデル"
+        ],
+        "hard": [
+          "ノージック",
+          "ハーバーマス",
+          "マッキンタイア"
+        ]
+      }
+    },
+    {
+      "recto": "ロールズが、公正なルールを選ぶために、自分の性別・能力・立場などを知らないと仮定した状態を何というか。",
+      "verso": "無知のベール",
+      "explanation": "自分がどの立場になるか分からなければ、誰もが納得できる公正なルールを選ぶはず、という思考実験。ロールズの中心概念。",
+      "tags": [
+        "正義",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "方法的懐疑",
+          "無知の知",
+          "洞窟の比喩"
+        ],
+        "medium": [
+          "原初状態そのもの",
+          "社会契約",
+          "定言命法"
+        ],
+        "hard": [
+          "格差原理",
+          "反照的均衡",
+          "重なり合う合意"
+        ]
+      }
+    },
+    {
+      "recto": "所得や富だけでなく、人が実際に「何ができるか」という潜在能力（ケイパビリティ）に注目して、福祉や正義を考えた経済学者は誰か。",
+      "verso": "セン",
+      "explanation": "アマルティア・センは、単なる財の量ではなく、人が生き方を選べる自由（潜在能力）を重視した。開発や貧困の見方を変えた。",
+      "tags": [
+        "正義",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "ベンサム",
+          "カント",
+          "アダム・スミス"
+        ],
+        "medium": [
+          "ロールズ",
+          "ミル",
+          "サンデル"
+        ],
+        "hard": [
+          "ヌスバウム",
+          "ノージック",
+          "ケインズ"
+        ]
+      }
+    },
+    {
+      "recto": "共同体で共有される価値や「共通善」を重んじ、ロールズの正義論を批判した立場を何というか。",
+      "verso": "共同体主義（コミュニタリアニズム）",
+      "explanation": "サンデルらが代表。個人を切りはなして考えるのではなく、共同体の価値の中で正義を考えるべきだとした。",
+      "tags": [
+        "正義"
+      ],
+      "distractors": {
+        "easy": [
+          "個人主義",
+          "功利主義",
+          "自由主義"
+        ],
+        "medium": [
+          "リベラリズム",
+          "リバタリアニズム",
+          "社会主義"
+        ],
+        "hard": [
+          "自由至上主義",
+          "多文化主義",
+          "共和主義"
+        ]
+      }
+    },
+    {
+      "recto": "多くの人々が、共通の問題について意見を出し合い、議論する開かれた場を何というか。公共の学びが重視する空間である。",
+      "verso": "公共的な空間",
+      "explanation": "対話や合意形成が行われる場。ハーバーマスは、対等な立場での話し合いによる合意を重視した。",
+      "tags": [
+        "公共",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "私的な空間",
+          "市場",
+          "家庭"
+        ],
+        "medium": [
+          "公共施設",
+          "行政",
+          "議会のみ"
+        ],
+        "hard": [
+          "公共圏",
+          "市民社会",
+          "コモンズ"
+        ]
+      }
+    },
+    {
+      "recto": "対等な立場で自由に話し合い、たがいに納得できる結論を導くことを重んじた、現代ドイツの哲学者は誰か。",
+      "verso": "ハーバーマス",
+      "explanation": "対話を通じた合意形成（対話的理性・コミュニケーション的合理性）を説いた。公共的な空間の理論的支柱。",
+      "tags": [
+        "公共",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "カント",
+          "ソクラテス",
+          "ベンサム"
+        ],
+        "medium": [
+          "ロールズ",
+          "サンデル",
+          "セン"
+        ],
+        "hard": [
+          "アーレント",
+          "ノージック",
+          "フーコー"
+        ]
+      }
+    },
+    {
+      "recto": "限られた資源やお金を、むだなく最大限に活用できているかという観点を何というか。",
+      "verso": "効率",
+      "explanation": "「むだがないか」を問う観点。分配が公平かを問う「公正」とともに、社会のルールを考えるときの二つの重要な視点。",
+      "tags": [
+        "公共",
+        "視点"
+      ],
+      "distractors": {
+        "easy": [
+          "公正",
+          "自由",
+          "平等"
+        ],
+        "medium": [
+          "合意",
+          "利益",
+          "生産性"
+        ],
+        "hard": [
+          "パレート最適",
+          "有効性",
+          "最適化"
+        ]
+      }
+    },
+    {
+      "recto": "手続きや機会、結果の分配が、かたよりなく公平であるかという観点を何というか。",
+      "verso": "公正",
+      "explanation": "「かたよりがないか」を問う観点。むだのなさを問う「効率」とともに、社会のルールづくりの基準となる。",
+      "tags": [
+        "公共",
+        "視点"
+      ],
+      "distractors": {
+        "easy": [
+          "効率",
+          "利益",
+          "自由"
+        ],
+        "medium": [
+          "生産性",
+          "合意",
+          "平等のみ"
+        ],
+        "hard": [
+          "衡平",
+          "手続き的正義",
+          "分配的正義"
+        ]
+      }
+    },
+    {
+      "recto": "対立する意見のなかから、みなが納得できる結論をつくり出していくことを何というか。",
+      "verso": "合意形成",
+      "explanation": "多数決だけでなく、対話を通じてたがいに納得点を探ることが重視される。公共的な空間で行われる営み。",
+      "tags": [
+        "公共"
+      ],
+      "distractors": {
+        "easy": [
+          "多数決のみ",
+          "命令",
+          "対立"
+        ],
+        "medium": [
+          "妥協",
+          "調停",
+          "採決"
+        ],
+        "hard": [
+          "コンセンサス",
+          "熟議",
+          "討議"
+        ]
+      }
+    },
+    {
+      "recto": "一つの選択が別の利益をあきらめさせるように、何かを得るために何かを犠牲にする関係を何というか。",
+      "verso": "トレードオフ",
+      "explanation": "「あちらを立てればこちらが立たず」の関係。効率と公正のように、両立が難しい価値の調整で問われる。",
+      "tags": [
+        "公共",
+        "経済的思考"
+      ],
+      "distractors": {
+        "easy": [
+          "両立",
+          "相乗効果",
+          "win-win"
+        ],
+        "medium": [
+          "機会費用",
+          "コスト",
+          "リスク"
+        ],
+        "hard": [
+          "サンクコスト",
+          "外部性",
+          "ジレンマ"
+        ]
+      }
+    },
+    {
+      "recto": "功利主義・義務論・正義論などの倫理の考え方は、私たちが社会の中で何をするために役立つか。",
+      "verso": "よりよい判断・合意形成をするため",
+      "explanation": "唯一の正解を出すためではなく、多様な立場をふまえて考え、対話し、合意を形づくるための道具となる。公共の学びの核心。",
+      "tags": [
+        "まとめ",
+        "公共"
+      ],
+      "distractors": {
+        "easy": [
+          "暗記するため",
+          "対立を深めるため",
+          "他人を論破するため"
+        ],
+        "medium": [
+          "利益を最大化するため",
+          "義務を課すため",
+          "多数派に従わせるため"
+        ],
+        "hard": [
+          "絶対的な正解を出すため",
+          "個人の主張を通すため",
+          "伝統を守るためのみ"
+        ]
+      }
+    }
+  ]
+}

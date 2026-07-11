@@ -1,0 +1,532 @@
+{
+  "id": "jp-koukou-koukyou-kokusai-keizai",
+  "title": "国際経済と貿易",
+  "emoji": "🌐",
+  "subject": "civics",
+  "country": "jp",
+  "courseDescription": "比較生産費説と為替から国際機関、グローバル化の課題まで。国際経済のしくみを学ぶ。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>国際経済と貿易</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・公共<br>\n  <b>大項目B：</b>自立した主体として社会に参画する私たち<br>\n  <b>内容：</b>比較生産費説・為替・国際機関・グローバル化\n</div>\n\n<blockquote>\n  <p><b>問い</b>　私たちの暮らしは、世界の経済とどのようにつながっているのだろうか。</p>\n</blockquote>\n\n<p>私たちが日々使うものの多くは輸入品である。国どうしは<strong>貿易</strong>で結びつき、<strong>為替相場</strong>を通じて影響し合う。<strong>WTO</strong>などが自由貿易を支える一方、<strong>南北問題</strong>や金融危機といった課題もある。国際経済のしくみと、そのなかでの私たちの役割を考えよう。</p>\n\n<h2>1・貿易のしくみ ― 比較生産費説</h2>\n\n<p>各国が、相対的に得意な財の生産に特化して交換し合うと、たがいに利益を得られる。これを<strong>比較生産費説</strong>という。<strong>リカード</strong>が唱えた、<strong>自由貿易</strong>の利益を説明する理論である。</p>\n\n<p>これに対し、自国の産業を守るために輸入を制限する<strong>保護貿易</strong>もある。発展途上国の幼い産業を守る場合などに主張される。自由貿易と保護貿易は、国際経済の基本的な対立軸である。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"自由貿易と保護貿易の比較\">\n  <!-- 左：自由貿易 -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">自由貿易</text>\n  <text x=\"87\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">関税を下げる</text>\n  <text x=\"26\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">比較生産費説</text>\n  <text x=\"26\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">リカード</text>\n  <text x=\"26\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">分業の利益</text>\n  <!-- 右：保護貿易 -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">保護貿易</text>\n  <text x=\"253\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">関税をかける</text>\n  <text x=\"192\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">自国産業を守る</text>\n  <text x=\"192\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">リスト</text>\n  <text x=\"192\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">幼い産業の保護</text>\n</svg>\n<figcaption>自由貿易（分業の利益）と保護貿易（自国産業の保護）は対立する考え方。</figcaption>\n</figure>\n\n<h2>2・為替相場 ― 円高と円安</h2>\n\n<p>通貨を交換する比率が<strong>為替相場</strong>である。円の価値が上がる<strong>円高</strong>（1ドル120円→100円）は、少ない円で外国のものを買えるので<strong>輸入に有利</strong>、輸出には不利。逆に円の価値が下がる<strong>円安</strong>（100円→120円）は<strong>輸出に有利</strong>である。</p>\n\n<p>数字と有利・不利の向きが逆に感じられるため、混同しやすい。「円高＝輸入有利、円安＝輸出有利」をおさえておこう。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"円高と円安の比較。輸出と輸入への影響\">\n  <!-- 左：円高 -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">円高</text>\n  <text x=\"87\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11.5\" font-weight=\"700\">120円→100円</text>\n  <text x=\"26\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">円の価値が上がる</text>\n  <text x=\"26\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">輸入に有利</text>\n  <text x=\"26\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">輸出に不利</text>\n  <!-- 右：円安 -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">円安</text>\n  <text x=\"253\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11.5\" font-weight=\"700\">100円→120円</text>\n  <text x=\"192\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">円の価値が下がる</text>\n  <text x=\"192\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">輸出に有利</text>\n  <text x=\"192\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">輸入に不利</text>\n</svg>\n<figcaption>数字の動きと有利・不利が逆に感じられるので、しっかり整理する。</figcaption>\n</figure>\n\n<h2>3・国際経済を支えるしくみと課題</h2>\n\n<p>自由貿易を推進するのが<strong>WTO（世界貿易機関）</strong>である。世界全体の自由化が進みにくいなか、国や地域の間で<strong>FTA</strong>・<strong>EPA</strong>も結ばれる。通貨の安定は<strong>IMF</strong>が支える。</p>\n\n<p>一方、課題も多い。先進国と途上国の格差である<strong>南北問題</strong>、国どうしの<strong>貿易摩擦</strong>、そして2008年の<strong>リーマン・ショック</strong>のように、一国の金融危機が瞬時に世界へ広がる<strong>グローバル化</strong>のリスクである。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"国際経済を支える機関。WTO・IMF・FTA/EPA\">\n  <defs>\n    <marker id=\"ar-kk2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 国際経済（強調） -->\n  <rect x=\"95\" y=\"8\" width=\"150\" height=\"48\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"30\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">国際経済を支える</text>\n  <text x=\"170\" y=\"48\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">自由貿易と安定</text>\n  <!-- 矢印 -->\n  <path d=\"M150,58 L65,92\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-kk2)\"/>\n  <path d=\"M170,58 L170,92\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-kk2)\"/>\n  <path d=\"M190,58 L275,92\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-kk2)\"/>\n  <!-- WTO -->\n  <rect x=\"10\" y=\"98\" width=\"100\" height=\"94\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"130\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">WTO</text>\n  <text x=\"60\" y=\"160\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">自由貿易を推進</text>\n  <!-- FTA/EPA -->\n  <rect x=\"120\" y=\"98\" width=\"100\" height=\"94\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"130\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11.5\" font-weight=\"700\">FTA・EPA</text>\n  <text x=\"170\" y=\"160\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">地域間の協定</text>\n  <!-- IMF -->\n  <rect x=\"230\" y=\"98\" width=\"100\" height=\"94\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"130\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">IMF</text>\n  <text x=\"280\" y=\"160\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">通貨を安定</text>\n</svg>\n<figcaption>貿易の自由化と通貨の安定を、国際機関が支えている。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・比較生産費説</strong><br>\n  各国が相対的に得意な財の生産に特化して貿易し合うと、たがいに利益を得られるとするリカードの理論。自由貿易の利益を説明する。\n</div>\n\n<h2>4・世界とつながる私たち</h2>\n\n<p>グローバル化の課題に対し、<strong>ODA（政府開発援助）</strong>や、途上国の生産者を支える<strong>フェアトレード</strong>などの国際協力が行われている。フェアトレード商品を選ぶことは、消費者としての私たちにもできる参加である。</p>\n\n<p>私たちの暮らしは、食料も衣類も<strong>世界経済</strong>と結びついている。消費者・生活者として、世界とのつながりを意識し、<strong>責任ある選択</strong>をすること——それが、公共の学びの総まとめとなる。</p>\n\n<div class=\"callout\">\n  <strong>用語・グローバル化</strong><br>\n  ヒト・モノ・カネ・情報が国境をこえて移動し、世界経済の一体化が進むこと。豊かさをもたらす一方、格差の拡大や金融危機の世界化などの課題も生む。\n</div>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>しくみ</th><th>内容</th></tr>\n  <tr><td>比較生産費説</td><td>自由貿易の利益（リカード）</td></tr>\n  <tr><td>為替相場</td><td>円高（輸入有利）・円安（輸出有利）</td></tr>\n  <tr><td>WTO・FTA・IMF</td><td>自由貿易と通貨の安定を支える</td></tr>\n  <tr><td>ODA・フェアトレード</td><td>南北問題への国際協力</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>比較生産費説</td><td>自由貿易の利益を説く理論（リカード）</td></tr>\n  <tr><td>円高／円安</td><td>円の価値が上がる／下がる</td></tr>\n  <tr><td>WTO</td><td>自由貿易を推進する国際機関</td></tr>\n  <tr><td>南北問題</td><td>先進国と途上国の経済格差</td></tr>\n  <tr><td>グローバル化</td><td>世界経済の一体化</td></tr>\n  <tr><td>フェアトレード</td><td>途上国の生産者を支える公正な貿易</td></tr>\n</table>\n\n<h3>円高・円安の影響</h3>\n\n<table>\n  <tr><th>状態</th><th>有利／不利</th></tr>\n  <tr><td>円高（円の価値が上がる）</td><td>輸入に有利・輸出に不利</td></tr>\n  <tr><td>円安（円の価値が下がる）</td><td>輸出に有利・輸入に不利</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  <b>円高</b>（円の価値が上がる・輸入に有利）と<b>円安</b>（円の価値が下がる・輸出に有利）を取りちがえないこと。数字（120円→100円が円高）と有利・不利の向きが逆に感じられるので注意する。\n</div>\n\n<blockquote>\n  <p>私たちの暮らしは、もはや一国のなかでは完結しない。世界とつながる経済のなかで、消費者としての一つの選択が、遠い国の生産者や地球環境に影響する。公共の学びが最後に問いかけるのは——過去と世界を手がかりに、「私たち」がこれからの社会をどうつくるか、である。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "公共 ― 自立した主体として社会に参画する私たち",
+  "cards": [
+    {
+      "recto": "各国が、相対的に得意な財の生産に特化して貿易し合うと、たがいに利益を得られるとする理論を何というか。",
+      "verso": "比較生産費説",
+      "explanation": "リカードが唱えた。自由貿易の利益を説明する理論。各国が比較優位をもつものに特化して交換すると全体が豊かになる。",
+      "tags": [
+        "貿易",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "重商主義",
+          "保護貿易論",
+          "労働価値説"
+        ],
+        "medium": [
+          "絶対生産費説",
+          "国際分業論",
+          "自由放任論"
+        ],
+        "hard": [
+          "ヘクシャー・オリーン理論",
+          "比較優位論という別称",
+          "貿易差額説"
+        ]
+      }
+    },
+    {
+      "recto": "比較生産費説を唱え、自由貿易の利益を説いたイギリスの経済学者は誰か。",
+      "verso": "リカード",
+      "explanation": "『経済学および課税の原理』で比較生産費説を示した。自由貿易の理論的な支柱。アダム・スミスに続く古典派経済学者。",
+      "tags": [
+        "貿易",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "アダム・スミス",
+          "ケインズ",
+          "マルクス"
+        ],
+        "medium": [
+          "リスト",
+          "マルサス",
+          "セー"
+        ],
+        "hard": [
+          "ミル",
+          "ヘクシャー",
+          "オリーン"
+        ]
+      }
+    },
+    {
+      "recto": "関税を下げ、輸入制限をなくして自由に貿易することを何というか。",
+      "verso": "自由貿易",
+      "explanation": "比較生産費説にもとづく。国際分業の利益を最大化する。自国産業を守る保護貿易と対立する考え方。",
+      "tags": [
+        "貿易",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "保護貿易",
+          "鎖国",
+          "自給自足"
+        ],
+        "medium": [
+          "管理貿易",
+          "中継貿易",
+          "ブロック経済"
+        ],
+        "hard": [
+          "重商主義",
+          "特恵貿易",
+          "垂直貿易"
+        ]
+      }
+    },
+    {
+      "recto": "自国の産業を守るために、輸入品に高い関税をかけるなどして貿易を制限することを何というか。",
+      "verso": "保護貿易",
+      "explanation": "発展途上国の幼い産業を守る場合などに主張される（リストが理論化）。自由化を進める自由貿易と対をなす。",
+      "tags": [
+        "貿易",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "自由貿易",
+          "国際協力",
+          "多文化共生"
+        ],
+        "medium": [
+          "管理貿易",
+          "中継貿易",
+          "加工貿易"
+        ],
+        "hard": [
+          "フェアトレード",
+          "特恵貿易",
+          "水平分業"
+        ]
+      }
+    },
+    {
+      "recto": "自国の通貨と外国の通貨を交換する比率を何というか。",
+      "verso": "為替相場（為替レート）",
+      "explanation": "円とドルの交換比率など。需要と供給で変動する（変動相場制）。円高・円安が貿易や暮らしに影響する。",
+      "tags": [
+        "為替",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "金利",
+          "物価",
+          "株価"
+        ],
+        "medium": [
+          "貿易収支",
+          "為替差益",
+          "購買力平価"
+        ],
+        "hard": [
+          "固定相場",
+          "実効為替レート",
+          "スワップレート"
+        ]
+      }
+    },
+    {
+      "recto": "外国通貨に対して円の価値が高くなること（例：1ドル120円→100円）を何というか。",
+      "verso": "円高",
+      "explanation": "少ない円でドルが買える状態。輸入に有利、輸出に不利。円の価値が下がる円安と対で覚える。",
+      "tags": [
+        "為替",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "円安",
+          "インフレ",
+          "デフレ"
+        ],
+        "medium": [
+          "ドル高",
+          "為替差損",
+          "平価切り下げ"
+        ],
+        "hard": [
+          "実質円高",
+          "名目円高",
+          "円建て"
+        ]
+      }
+    },
+    {
+      "recto": "外国通貨に対して円の価値が低くなること（例：1ドル100円→120円）を何というか。",
+      "verso": "円安",
+      "explanation": "多くの円が必要になる状態。輸出に有利、輸入に不利。円の価値が上がる円高と対をなす。",
+      "tags": [
+        "為替",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "円高",
+          "インフレ",
+          "デフレ"
+        ],
+        "medium": [
+          "ドル安",
+          "為替差益",
+          "平価切り上げ"
+        ],
+        "hard": [
+          "実質円安",
+          "名目円安",
+          "ドル建て"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】1ドル120円から100円になる変化と、100円から120円になる変化を、順にそれぞれ何というか。",
+      "verso": "円高と円安",
+      "explanation": "円高＝円の価値が上がる（少ない円でドルを買える・輸入有利）、円安＝円の価値が下がる（輸出有利）。数字と向きを取りちがえない。",
+      "tags": [
+        "comparaison",
+        "為替"
+      ],
+      "distractors": {
+        "easy": [
+          "インフレとデフレ",
+          "好況と不況",
+          "上昇と下落"
+        ],
+        "medium": [
+          "円安と円高",
+          "ドル高とドル安",
+          "輸出と輸入"
+        ],
+        "hard": [
+          "平価切り上げと切り下げ",
+          "実質為替と名目為替",
+          "円建てとドル建て"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】円高になると、輸出と輸入のどちらに有利になるか。",
+      "verso": "輸入に有利",
+      "explanation": "円高は少ない円で外国のものを買えるので輸入に有利、逆に輸出品は割高になり不利。円安はその逆。混同しやすい定番。",
+      "tags": [
+        "piege",
+        "為替"
+      ],
+      "distractors": {
+        "easy": [
+          "輸出に有利",
+          "どちらも有利",
+          "どちらも不利"
+        ],
+        "medium": [
+          "輸出産業が潤う",
+          "貿易黒字が増える",
+          "海外旅行が割高になる"
+        ],
+        "hard": [
+          "輸出も輸入も有利",
+          "国内生産に有利",
+          "為替に影響しない"
+        ]
+      }
+    },
+    {
+      "recto": "自由貿易を推進するために、1995年に発足した国際機関を何というか。",
+      "verso": "WTO（世界貿易機関）",
+      "explanation": "GATT（関税と貿易に関する一般協定）を発展させた組織。貿易のルールをつくり、紛争を処理する。自由貿易体制の中心。",
+      "tags": [
+        "国際機関",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "国際連合",
+          "EU",
+          "OPEC"
+        ],
+        "medium": [
+          "IMF",
+          "世界銀行",
+          "OECD"
+        ],
+        "hard": [
+          "GATT",
+          "UNCTAD",
+          "APEC"
+        ]
+      }
+    },
+    {
+      "recto": "特定の国や地域の間で、関税をなくすなどして貿易を自由化する協定を何というか。",
+      "verso": "FTA（自由貿易協定）",
+      "explanation": "WTOによる世界全体の自由化が進みにくいなか、二国間・地域間で結ばれる。より幅広いEPA（経済連携協定）へと発展する。",
+      "tags": [
+        "国際機関"
+      ],
+      "distractors": {
+        "easy": [
+          "WTO",
+          "GATT",
+          "国連憲章"
+        ],
+        "medium": [
+          "EPA",
+          "TPP",
+          "関税同盟"
+        ],
+        "hard": [
+          "MFN",
+          "RCEP",
+          "GSP"
+        ]
+      }
+    },
+    {
+      "recto": "国際的な資金の流れを安定させ、通貨危機の国を支援するために設けられた国際機関を何というか。",
+      "verso": "IMF（国際通貨基金）",
+      "explanation": "通貨の安定と国際収支の均衡をめざす。開発資金を貸す世界銀行とともに、戦後の国際経済体制（ブレトン・ウッズ体制）を支えた。",
+      "tags": [
+        "国際機関"
+      ],
+      "distractors": {
+        "easy": [
+          "WTO",
+          "国際連合",
+          "EU"
+        ],
+        "medium": [
+          "世界銀行",
+          "OECD",
+          "OPEC"
+        ],
+        "hard": [
+          "GATT",
+          "BIS",
+          "アジア開発銀行"
+        ]
+      }
+    },
+    {
+      "recto": "先進国（北）と発展途上国（南）の間の経済格差と、それにともなう諸問題を何というか。",
+      "verso": "南北問題",
+      "explanation": "国際経済の大きな課題。かつての植民地支配に根がある。途上国どうしの格差である南南問題と区別する。",
+      "tags": [
+        "格差",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "東西問題",
+          "冷戦",
+          "民族問題"
+        ],
+        "medium": [
+          "南南問題",
+          "人口問題",
+          "貿易摩擦"
+        ],
+        "hard": [
+          "内陸国問題",
+          "資源ナショナリズム",
+          "累積債務問題"
+        ]
+      }
+    },
+    {
+      "recto": "輸出入の不均衡などをめぐって、国と国の間で生じる経済的な対立を何というか。",
+      "verso": "貿易摩擦",
+      "explanation": "かつての日米貿易摩擦が代表例。自由貿易を進めつつ、こうした対立をどう調整するかが国際経済の課題となる。",
+      "tags": [
+        "貿易",
+        "課題"
+      ],
+      "distractors": {
+        "easy": [
+          "国際協力",
+          "自由貿易",
+          "為替相場"
+        ],
+        "medium": [
+          "南北問題",
+          "経済制裁",
+          "関税同盟"
+        ],
+        "hard": [
+          "セーフガード",
+          "ダンピング",
+          "非関税障壁"
+        ]
+      }
+    },
+    {
+      "recto": "ヒト・モノ・カネ・情報が国境をこえて移動し、世界経済の一体化が進むことを何というか。",
+      "verso": "グローバル化（グローバリゼーション）",
+      "explanation": "自由貿易や情報技術の発達で加速した。豊かさをもたらす一方、格差の拡大や金融危機の世界化などの課題も生む。",
+      "tags": [
+        "グローバル化",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "鎖国",
+          "地産地消",
+          "ブロック経済"
+        ],
+        "medium": [
+          "国際化",
+          "情報化",
+          "地域主義"
+        ],
+        "hard": [
+          "ボーダーレス化",
+          "多国籍化",
+          "リージョナリズム"
+        ]
+      }
+    },
+    {
+      "recto": "2008年、アメリカの投資銀行の破綻をきっかけに世界に広がった金融危機を何というか。",
+      "verso": "リーマン・ショック（世界金融危機）",
+      "explanation": "一国の金融危機が瞬時に世界へ波及した。グローバル化した経済のリスクを示すできごと。国際的な協調の必要性を高めた。",
+      "tags": [
+        "グローバル化",
+        "課題"
+      ],
+      "distractors": {
+        "easy": [
+          "世界恐慌",
+          "石油危機",
+          "バブル崩壊"
+        ],
+        "medium": [
+          "アジア通貨危機",
+          "ギリシャ危機",
+          "ドル・ショック"
+        ],
+        "hard": [
+          "サブプライム問題",
+          "欧州債務危機",
+          "ブラックマンデー"
+        ]
+      }
+    },
+    {
+      "recto": "発展途上国の生産者に、公正な価格で継続的に取引することで生活を支える貿易のしくみを何というか。",
+      "verso": "フェアトレード",
+      "explanation": "自由貿易の陰で不利になりがちな途上国の生産者を支える。消費者が商品を選ぶことで参加できる、国際協力の一つ。",
+      "tags": [
+        "貿易",
+        "国際協力"
+      ],
+      "distractors": {
+        "easy": [
+          "自由貿易",
+          "保護貿易",
+          "ブロック経済"
+        ],
+        "medium": [
+          "ODA",
+          "マイクロクレジット",
+          "地産地消"
+        ],
+        "hard": [
+          "フードマイレージ",
+          "エシカル消費",
+          "サプライチェーン"
+        ]
+      }
+    },
+    {
+      "recto": "先進国の政府が、発展途上国の開発を支援するために行う資金や技術の援助を何というか。",
+      "verso": "ODA（政府開発援助）",
+      "explanation": "南北問題の是正をめざす国際協力の柱。日本も主要な援助国の一つ。民間のフェアトレードなどと組み合わせて途上国を支える。",
+      "tags": [
+        "国際協力"
+      ],
+      "distractors": {
+        "easy": [
+          "GDP",
+          "WTO",
+          "IMF"
+        ],
+        "medium": [
+          "NGO",
+          "FTA",
+          "フェアトレード"
+        ],
+        "hard": [
+          "PKO",
+          "DAC",
+          "無償資金協力のみ"
+        ]
+      }
+    },
+    {
+      "recto": "私たちが日々買うものの多くは輸入品である。このことは、私たちの暮らしが何と結びついていることを示すか。",
+      "verso": "世界経済（グローバルな結び付き）",
+      "explanation": "食料も衣類も世界とつながっている。国際経済を学ぶことは、消費者としての選択が世界に影響することを知ることでもある。",
+      "tags": [
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "国内経済だけ",
+          "地域社会だけ",
+          "個人の家計だけ"
+        ],
+        "medium": [
+          "政府の財政",
+          "企業の利益",
+          "銀行の金融"
+        ],
+        "hard": [
+          "自給自足経済",
+          "計画経済",
+          "地産地消のみ"
+        ]
+      }
+    },
+    {
+      "recto": "国際経済のなかで、消費者・生活者としての私たちに求められる姿勢は何か。",
+      "verso": "世界とのつながりを意識し責任ある選択をすること",
+      "explanation": "フェアトレード商品を選ぶなど、消費が世界に与える影響を考える。公共の学びの総まとめとして、地球的視野をもつことが求められる。",
+      "tags": [
+        "まとめ",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "安さだけで選ぶ",
+          "国産だけを買う",
+          "何も考えない"
+        ],
+        "medium": [
+          "利益だけを追う",
+          "他国を無視する",
+          "自国第一に徹する"
+        ],
+        "hard": [
+          "市場に任せきる",
+          "政府に任せきる",
+          "消費を最小化する"
+        ]
+      }
+    }
+  ]
+}

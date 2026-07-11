@@ -1,0 +1,532 @@
+{
+  "id": "jp-koukou-koukyou-roudou-fukushi",
+  "title": "労働・社会保障と消費者",
+  "emoji": "🤝",
+  "subject": "civics",
+  "country": "jp",
+  "courseDescription": "労働三権と労働問題から社会保障、消費者の権利まで。働き支え合う社会のしくみを学ぶ。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>労働・社会保障と消費者</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・公共<br>\n  <b>大項目B：</b>自立した主体として社会に参画する私たち<br>\n  <b>内容：</b>労働三権・社会保障・消費者の権利\n</div>\n\n<blockquote>\n  <p><b>問い</b>　働き、支え合い、賢く消費する私たちを、社会はどう守っているのだろうか。</p>\n</blockquote>\n\n<p>私たちは、労働者・生活者・消費者として社会に関わる。立場の弱い労働者を守る<strong>労働三権</strong>、生活のリスクに備える<strong>社会保障</strong>、消費者を守るしくみ——これらは、<strong>生存権</strong>にもとづく「支え合い」の制度である。自立した主体として社会に参画するための土台を学ぼう。</p>\n\n<h2>1・働くことと労働三権</h2>\n\n<p>労働者は使用者に対して立場が弱い。そこで憲法は、労働組合をつくる<strong>団結権</strong>、使用者と交渉する<strong>団体交渉権</strong>、ストライキなどを行う<strong>団体行動権</strong>という<strong>労働三権</strong>を保障する。これを具体化するのが<strong>労働基準法</strong>など<strong>労働三法</strong>である。</p>\n\n<p>近年は<strong>非正規雇用</strong>の増加による格差、長時間労働、過労死などが課題となり、<strong>ワーク・ライフ・バランス</strong>や<strong>男女共同参画</strong>が求められている。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"労働三権。団結権・団体交渉権・団体行動権\">\n  <defs>\n    <marker id=\"ar-rf1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 労働三権（強調） -->\n  <rect x=\"95\" y=\"8\" width=\"150\" height=\"48\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"30\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">労働三権</text>\n  <text x=\"170\" y=\"48\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">使用者と対等に</text>\n  <!-- 矢印 -->\n  <path d=\"M150,58 L65,92\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-rf1)\"/>\n  <path d=\"M170,58 L170,92\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-rf1)\"/>\n  <path d=\"M190,58 L275,92\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-rf1)\"/>\n  <!-- 団結権 -->\n  <rect x=\"10\" y=\"98\" width=\"100\" height=\"94\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"130\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">団結権</text>\n  <text x=\"60\" y=\"160\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">組合をつくる</text>\n  <!-- 団体交渉権 -->\n  <rect x=\"120\" y=\"98\" width=\"100\" height=\"94\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"130\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">団体交渉権</text>\n  <text x=\"170\" y=\"160\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">交渉する</text>\n  <!-- 団体行動権 -->\n  <rect x=\"230\" y=\"98\" width=\"100\" height=\"94\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"130\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">団体行動権</text>\n  <text x=\"280\" y=\"160\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">ストライキ</text>\n</svg>\n<figcaption>3つの権利が、弱い立場の労働者を使用者と対等にする。</figcaption>\n</figure>\n\n<h2>2・社会保障のしくみ</h2>\n\n<p><strong>社会保障</strong>は、病気・失業・老齢・貧困などのリスクに社会全体で備えるしくみである。憲法25条の<strong>生存権</strong>にもとづく。<strong>社会保険</strong>・<strong>公的扶助</strong>・<strong>社会福祉</strong>・<strong>公衆衛生</strong>の4つの柱からなる。</p>\n\n<p>中心は、保険料を払っておく<strong>社会保険</strong>（医療・年金など）である。保険料なしで税を財源に困窮者を助ける<strong>公的扶助</strong>（生活保護）と、財源と対象が異なる。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"社会保険と公的扶助の比較。財源と対象の違い\">\n  <!-- 左：社会保険 -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">社会保険</text>\n  <text x=\"87\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11.5\" font-weight=\"700\">保険料を払う</text>\n  <text x=\"26\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">医療・年金・雇用</text>\n  <text x=\"26\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">労災・介護</text>\n  <text x=\"26\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">支え合うしくみ</text>\n  <!-- 右：公的扶助 -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">公的扶助</text>\n  <text x=\"253\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11.5\" font-weight=\"700\">保険料なし</text>\n  <text x=\"192\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">生活保護</text>\n  <text x=\"192\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">税が財源</text>\n  <text x=\"192\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">困窮者を助ける</text>\n</svg>\n<figcaption>保険料を払う社会保険と、税で困窮者を助ける公的扶助を区別する。</figcaption>\n</figure>\n\n<p>ただし<strong>少子高齢化</strong>により、支える現役世代が減り、支えられる高齢者が増えるため、社会保障の持続可能性が大きな課題となっている。</p>\n\n<h2>3・消費者を守るしくみ</h2>\n\n<p>私たちは消費者でもある。何を生産するかは消費者の選択で決まるべきだという<strong>消費者主権</strong>が基本だが、消費者は企業に比べて情報や交渉力が弱い。</p>\n\n<p>そこで消費者を守るしくみがある。一定期間内なら契約を解除できる<strong>クーリング・オフ</strong>、欠陥製品の被害を救済する<strong>製造物責任法（PL法）</strong>、不当な勧誘での契約を取り消せる<strong>消費者契約法</strong>などである。2009年には<strong>消費者庁</strong>も設置された。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 240\" role=\"img\" aria-label=\"消費者を守る3つのしくみ。クーリングオフ・PL法・消費者契約法\">\n  <defs>\n    <marker id=\"ar-rf2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 消費者保護（強調） -->\n  <rect x=\"85\" y=\"8\" width=\"170\" height=\"56\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"33\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">消費者を守る</text>\n  <text x=\"170\" y=\"53\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11\">弱い立場を支える</text>\n  <!-- 矢印 -->\n  <path d=\"M170,66 L60,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-rf2)\"/>\n  <path d=\"M170,66 L170,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-rf2)\"/>\n  <path d=\"M170,66 L280,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-rf2)\"/>\n  <!-- クーリングオフ -->\n  <rect x=\"10\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"142\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">クーリングオフ</text>\n  <text x=\"60\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">一定期間内に</text>\n  <text x=\"60\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">契約を解除</text>\n  <!-- PL法 -->\n  <rect x=\"120\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"142\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">PL法</text>\n  <text x=\"170\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">欠陥製品の</text>\n  <text x=\"170\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">被害を救済</text>\n  <!-- 消費者契約法 -->\n  <rect x=\"230\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"142\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">消費者契約法</text>\n  <text x=\"280\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">不当な勧誘を</text>\n  <text x=\"280\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">取り消せる</text>\n</svg>\n<figcaption>3つのしくみが、企業に比べて弱い立場の消費者を守る。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・クーリング・オフ</strong><br>\n  訪問販売などで契約したあと、一定期間内であれば無条件で契約を解除できる制度。消費者に冷静に考え直す期間を保障する、消費者保護の代表的なしくみ。\n</div>\n\n<h2>4・自立した主体として</h2>\n\n<p>労働三権・社会保障・消費者保護は、いずれも個人の努力だけでは対処できないリスクに、社会全体で備える「支え合い」のしくみである。その根拠にあるのが<strong>生存権</strong>である。</p>\n\n<p>私たちは、労働者・生活者・消費者として、権利を知り責任を果たす<strong>自立した主体</strong>となることが求められる。それが、社会に参画するということである。</p>\n\n<div class=\"callout\">\n  <strong>用語・社会保障</strong><br>\n  病気・失業・老齢・貧困などのとき、国が国民の生活を支えるしくみ。生存権にもとづき、社会保険・公的扶助・社会福祉・公衆衛生の4つの柱からなる。\n</div>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>領域</th><th>守るしくみ</th></tr>\n  <tr><td>労働</td><td>労働三権・労働三法</td></tr>\n  <tr><td>生活</td><td>社会保障（4つの柱）</td></tr>\n  <tr><td>消費</td><td>クーリング・オフ・PL法・消費者契約法</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>労働三権</td><td>団結権・団体交渉権・団体行動権</td></tr>\n  <tr><td>社会保険</td><td>保険料を払って備える（医療・年金など）</td></tr>\n  <tr><td>公的扶助</td><td>税を財源に困窮者を助ける（生活保護）</td></tr>\n  <tr><td>消費者主権</td><td>消費者の選択が生産を決めるべき</td></tr>\n  <tr><td>クーリング・オフ</td><td>一定期間内なら契約を解除できる制度</td></tr>\n  <tr><td>PL法</td><td>欠陥製品の被害を救済する法律</td></tr>\n</table>\n\n<h3>社会保障の4つの柱</h3>\n\n<table>\n  <tr><th>柱</th><th>内容</th></tr>\n  <tr><td>社会保険</td><td>保険料を払い備える（中心）</td></tr>\n  <tr><td>公的扶助</td><td>生活保護（税が財源）</td></tr>\n  <tr><td>社会福祉</td><td>高齢者・障がい者・子どもの支援</td></tr>\n  <tr><td>公衆衛生</td><td>感染症対策・環境衛生など</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  <b>社会保険</b>（保険料を払う）と<b>公的扶助</b>（税が財源・保険料なし）を取りちがえないこと。消費者保護でも、<b>PL法</b>（欠陥製品の被害救済）と<b>消費者契約法</b>（不当な勧誘の取り消し）は別の法律である。\n</div>\n\n<blockquote>\n  <p>働き、支え合い、賢く消費する——その一つひとつが、自立した主体として社会に参画することである。国内の暮らしを支えるしくみを学んだいま、最後に視野を世界へ広げ、国際経済と貿易のなかでの私たちの暮らしを考えよう。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "公共 ― 自立した主体として社会に参画する私たち",
+  "cards": [
+    {
+      "recto": "日本国憲法が労働者に保障する、団結権・団体交渉権・団体行動権の3つの権利をまとめて何というか。",
+      "verso": "労働三権（労働基本権）",
+      "explanation": "社会権の一つ。立場の弱い労働者が、使用者と対等に交渉できるようにするための権利。労働組合を支える。",
+      "tags": [
+        "労働",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "自由三権",
+          "参政三権",
+          "生存三権"
+        ],
+        "medium": [
+          "労働三法",
+          "社会三権",
+          "基本三権"
+        ],
+        "hard": [
+          "団結三権",
+          "勤労権",
+          "生存権のみ"
+        ]
+      }
+    },
+    {
+      "recto": "労働者が労働組合をつくり、それに加入する権利を何というか。労働三権の一つである。",
+      "verso": "団結権",
+      "explanation": "労働組合を結成する権利。団体交渉権（交渉する）、団体行動権（ストライキなど）とあわせて労働三権をなす。",
+      "tags": [
+        "労働"
+      ],
+      "distractors": {
+        "easy": [
+          "団体交渉権",
+          "団体行動権",
+          "参政権"
+        ],
+        "medium": [
+          "結社の自由",
+          "争議権",
+          "労働権"
+        ],
+        "hard": [
+          "組織強制権",
+          "ユニオンショップ",
+          "交渉権"
+        ]
+      }
+    },
+    {
+      "recto": "労働組合が、要求を通すためにストライキなどを行う権利を何というか。労働三権の一つである。",
+      "verso": "団体行動権（争議権）",
+      "explanation": "ストライキなどの争議行為を行う権利。正当な争議には刑事・民事の責任が問われない。団結権・団体交渉権とセット。",
+      "tags": [
+        "労働"
+      ],
+      "distractors": {
+        "easy": [
+          "団結権",
+          "団体交渉権",
+          "自由権"
+        ],
+        "medium": [
+          "罷業権",
+          "抵抗権",
+          "請願権"
+        ],
+        "hard": [
+          "ロックアウト権",
+          "組合活動権",
+          "交渉権"
+        ]
+      }
+    },
+    {
+      "recto": "労働条件の最低基準を定めた、労働三法の中心となる法律を何というか。",
+      "verso": "労働基準法",
+      "explanation": "労働時間・休日・賃金などの最低基準を定める。労働組合法・労働関係調整法とあわせて労働三法という。",
+      "tags": [
+        "労働",
+        "法律"
+      ],
+      "distractors": {
+        "easy": [
+          "労働組合法",
+          "労働関係調整法",
+          "最低賃金法"
+        ],
+        "medium": [
+          "労働契約法",
+          "労働安全衛生法",
+          "男女雇用機会均等法"
+        ],
+        "hard": [
+          "労働者派遣法",
+          "パートタイム労働法",
+          "育児介護休業法"
+        ]
+      }
+    },
+    {
+      "recto": "正社員（正規雇用）ではなく、パートやアルバイト、派遣などの働き方を何というか。",
+      "verso": "非正規雇用",
+      "explanation": "近年増加し、正規雇用との賃金・待遇の格差が問題となっている。「同一労働同一賃金」などの対応が求められている。",
+      "tags": [
+        "労働",
+        "課題"
+      ],
+      "distractors": {
+        "easy": [
+          "正規雇用",
+          "終身雇用",
+          "自営業"
+        ],
+        "medium": [
+          "フルタイム雇用",
+          "無期雇用",
+          "直接雇用"
+        ],
+        "hard": [
+          "有期雇用のみ",
+          "間接雇用",
+          "ギグワーク"
+        ]
+      }
+    },
+    {
+      "recto": "病気・失業・老齢・貧困などのとき、国が国民の生活を支えるしくみ全体を何というか。",
+      "verso": "社会保障（制度）",
+      "explanation": "「健康で文化的な最低限度の生活」（生存権）を保障するしくみ。社会保険・公的扶助・社会福祉・公衆衛生の4つの柱からなる。",
+      "tags": [
+        "社会保障",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "社会主義",
+          "社会契約",
+          "社会運動"
+        ],
+        "medium": [
+          "福祉国家",
+          "生活保護",
+          "年金"
+        ],
+        "hard": [
+          "セーフティネット",
+          "共助のしくみ",
+          "所得再分配"
+        ]
+      }
+    },
+    {
+      "recto": "あらかじめ保険料を払っておき、病気・失業・老齢などのときに給付を受ける、社会保障の中心的なしくみを何というか。",
+      "verso": "社会保険",
+      "explanation": "医療保険・年金保険・雇用保険・労災保険・介護保険の5つ。加入者が保険料を出し合って支え合う。社会保障の柱の中心。",
+      "tags": [
+        "社会保障",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "公的扶助",
+          "社会福祉",
+          "公衆衛生"
+        ],
+        "medium": [
+          "生活保護",
+          "民間保険",
+          "共済"
+        ],
+        "hard": [
+          "国民皆保険",
+          "積立方式",
+          "賦課方式"
+        ]
+      }
+    },
+    {
+      "recto": "生活に困っている人に、国が最低限度の生活費を支給する、生活保護を中心とした社会保障のしくみを何というか。",
+      "verso": "公的扶助",
+      "explanation": "保険料なしで、税を財源に給付する。社会保険（保険料を払う）と対比される。社会保障の4つの柱の一つ。",
+      "tags": [
+        "社会保障",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "社会保険",
+          "社会福祉",
+          "公衆衛生"
+        ],
+        "medium": [
+          "年金",
+          "医療保険",
+          "雇用保険"
+        ],
+        "hard": [
+          "生活困窮者自立支援",
+          "児童手当",
+          "共済制度"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】あらかじめ保険料を払って備えるしくみと、保険料なしで税を財源に困窮者を助けるしくみを、順にそれぞれ何というか。",
+      "verso": "社会保険と公的扶助",
+      "explanation": "社会保険＝保険料を払う（医療・年金など）、公的扶助＝税が財源で保険料不要（生活保護）。財源と対象を取りちがえない。",
+      "tags": [
+        "comparaison",
+        "社会保障"
+      ],
+      "distractors": {
+        "easy": [
+          "収入と支出",
+          "権利と義務",
+          "自助と公助"
+        ],
+        "medium": [
+          "公的扶助と社会保険",
+          "社会福祉と公衆衛生",
+          "社会保険と社会福祉"
+        ],
+        "hard": [
+          "積立方式と賦課方式",
+          "公的扶助と社会福祉",
+          "社会保険と民間保険"
+        ]
+      }
+    },
+    {
+      "recto": "高齢者・障がい者・子どもなど、社会的に弱い立場の人々を支援する、社会保障の柱の一つを何というか。",
+      "verso": "社会福祉",
+      "explanation": "施設やサービスで生活を支える。社会保険・公的扶助・公衆衛生とあわせて社会保障の4つの柱をなす。",
+      "tags": [
+        "社会保障"
+      ],
+      "distractors": {
+        "easy": [
+          "社会保険",
+          "公的扶助",
+          "公衆衛生"
+        ],
+        "medium": [
+          "生活保護",
+          "年金",
+          "介護保険"
+        ],
+        "hard": [
+          "児童福祉",
+          "障害者福祉",
+          "老人福祉のみ"
+        ]
+      }
+    },
+    {
+      "recto": "少子高齢化が進むと、年金や医療などの社会保障にどのような影響が出るか。",
+      "verso": "支える現役世代が減り、支えられる高齢者が増えて負担が重くなる",
+      "explanation": "現役世代が高齢者を支える賦課方式では、少子高齢化が財政を圧迫する。社会保障の持続可能性が大きな課題。",
+      "tags": [
+        "社会保障",
+        "課題"
+      ],
+      "distractors": {
+        "easy": [
+          "負担が軽くなる",
+          "影響はない",
+          "給付が増える"
+        ],
+        "medium": [
+          "財政が黒字になる",
+          "保険料が下がる",
+          "年金が増額される"
+        ],
+        "hard": [
+          "積立金だけで賄える",
+          "税収が自然に増える",
+          "現役世代が有利になる"
+        ]
+      }
+    },
+    {
+      "recto": "消費者が、生産者に対して主体的に商品を選び、市場のあり方を決める力をもつべきだという考え方を何というか。",
+      "verso": "消費者主権",
+      "explanation": "何をどれだけ生産するかは、最終的に消費者の選択によって決まるべきだという考え。消費者の権利保護の基礎となる。",
+      "tags": [
+        "消費者",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "生産者主権",
+          "国民主権",
+          "株主主権"
+        ],
+        "medium": [
+          "消費者保護",
+          "市場原理",
+          "自己責任"
+        ],
+        "hard": [
+          "消費者市民社会",
+          "顧客第一主義",
+          "需要者優位"
+        ]
+      }
+    },
+    {
+      "recto": "訪問販売などで契約したあと、一定期間内であれば無条件で契約を解除できる制度を何というか。",
+      "verso": "クーリング・オフ",
+      "explanation": "冷静に考え直す期間を消費者に保障する制度。訪問販売や電話勧誘などが対象。消費者を守るしくみの代表例。",
+      "tags": [
+        "消費者",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "キャンセル料",
+          "返品保証",
+          "保証期間"
+        ],
+        "medium": [
+          "契約解除権",
+          "解約手数料",
+          "リコール"
+        ],
+        "hard": [
+          "消費者契約の取消権",
+          "中途解約",
+          "撤回権"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】欠陥のある製品で消費者が被害を受けたとき、企業に過失がなくても賠償責任を負わせる法律を何というか。",
+      "verso": "製造物責任法（PL法）",
+      "explanation": "企業の過失を証明しなくても、製品の欠陥を示せば救済される。契約の取り消しを定める消費者契約法とは別の法律。混同しない。",
+      "tags": [
+        "piege",
+        "消費者"
+      ],
+      "distractors": {
+        "easy": [
+          "独占禁止法",
+          "労働基準法",
+          "会社法"
+        ],
+        "medium": [
+          "消費者契約法",
+          "特定商取引法",
+          "景品表示法"
+        ],
+        "hard": [
+          "消費者基本法",
+          "割賦販売法",
+          "食品衛生法"
+        ]
+      }
+    },
+    {
+      "recto": "うそや不当な勧誘による契約を取り消せることなどを定めた、消費者を守る法律を何というか。",
+      "verso": "消費者契約法",
+      "explanation": "不当な勧誘での契約を取り消せる。製品の欠陥被害を救済する製造物責任法（PL法）と区別する。",
+      "tags": [
+        "消費者",
+        "法律"
+      ],
+      "distractors": {
+        "easy": [
+          "独占禁止法",
+          "労働基準法",
+          "民法のみ"
+        ],
+        "medium": [
+          "製造物責任法",
+          "特定商取引法",
+          "消費者基本法"
+        ],
+        "hard": [
+          "割賦販売法",
+          "景品表示法",
+          "電子契約法"
+        ]
+      }
+    },
+    {
+      "recto": "2009年に、消費者行政を一元的に担うために設置された国の行政機関を何というか。",
+      "verso": "消費者庁",
+      "explanation": "消費者の視点で行政を進めるために設けられた。それまで各省庁に分かれていた消費者行政をまとめた。",
+      "tags": [
+        "消費者",
+        "制度"
+      ],
+      "distractors": {
+        "easy": [
+          "公正取引委員会",
+          "国民生活センター",
+          "経済産業省"
+        ],
+        "medium": [
+          "消費者委員会",
+          "金融庁",
+          "厚生労働省"
+        ],
+        "hard": [
+          "消費生活センター",
+          "国民生活局",
+          "公害等調整委員会"
+        ]
+      }
+    },
+    {
+      "recto": "労働時間を短縮したり、多様な働き方を認めたりして、仕事と生活の調和をはかることを何というか。",
+      "verso": "ワーク・ライフ・バランス",
+      "explanation": "長時間労働や過労死が問題となるなかで重視される。働き方改革の中心的な考え方。",
+      "tags": [
+        "労働",
+        "現代"
+      ],
+      "distractors": {
+        "easy": [
+          "終身雇用",
+          "年功序列",
+          "成果主義"
+        ],
+        "medium": [
+          "フレックスタイム",
+          "テレワーク",
+          "同一労働同一賃金"
+        ],
+        "hard": [
+          "ディーセントワーク",
+          "ワークシェアリング",
+          "裁量労働制"
+        ]
+      }
+    },
+    {
+      "recto": "男女が、性別にかかわりなく対等に社会に参画し、責任を分かち合う社会をめざす考え方を何というか。",
+      "verso": "男女共同参画",
+      "explanation": "男女雇用機会均等法や男女共同参画社会基本法が支える。労働や社会保障における男女の平等につながる。",
+      "tags": [
+        "労働",
+        "平等"
+      ],
+      "distractors": {
+        "easy": [
+          "男女平等のみ",
+          "女性優遇",
+          "性別分業"
+        ],
+        "medium": [
+          "ジェンダーフリー",
+          "ワークシェアリング",
+          "多文化共生"
+        ],
+        "hard": [
+          "ポジティブアクション",
+          "ジェンダー主流化",
+          "リプロダクティブ権"
+        ]
+      }
+    },
+    {
+      "recto": "社会保障や労働の保護は、個人の努力ではどうにもならないリスクに社会全体で備えるしくみである。この「支え合い」の考え方の根拠となる、憲法25条の権利は何か。",
+      "verso": "生存権",
+      "explanation": "「健康で文化的な最低限度の生活」を保障する生存権が、社会保障の根拠。個人の自助を、共助・公助が支えるしくみ。",
+      "tags": [
+        "社会保障",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "自由権",
+          "参政権",
+          "平等権"
+        ],
+        "medium": [
+          "請求権",
+          "幸福追求権",
+          "労働基本権"
+        ],
+        "hard": [
+          "社会権全般",
+          "勤労権",
+          "教育を受ける権利"
+        ]
+      }
+    },
+    {
+      "recto": "働くこと、支え合うこと、賢く消費することはいずれも、私たちが何として社会に関わることを意味するか。",
+      "verso": "自立した主体（社会の担い手）",
+      "explanation": "労働者・生活者・消費者として社会に参画する。権利を知り責任を果たす自立した主体となることが、公共の学びの目標。",
+      "tags": [
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "受け身の存在",
+          "傍観者",
+          "消費するだけの人"
+        ],
+        "medium": [
+          "国家に従う国民",
+          "利益を追う個人",
+          "保護される対象"
+        ],
+        "hard": [
+          "経済人のみ",
+          "納税者のみ",
+          "有権者のみ"
+        ]
+      }
+    }
+  ]
+}

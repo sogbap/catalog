@@ -1,0 +1,432 @@
+{
+  "id": "br-ensino-medio-geografia-geral-populacao-mundial",
+  "title": "População mundial e migrações",
+  "emoji": "👥",
+  "subject": "geography",
+  "country": "br",
+  "courseDescription": "Crescimento e estrutura da população mundial: taxas, transição demográfica, pirâmides etárias, teorias e os grandes fluxos migratórios.",
+  "lesson": "<style>\n  /* Estilos dos gráficos (SVG). Usam currentColor (texto) e var(--accent)\n     (cor da matéria), adaptando-se ao tema claro/escuro do app. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>População mundial e migrações</h1>\n\n<div class=\"callout\">\n  <strong>Pontos de estudo</strong><br>\n  <b>Nível:</b> Ensino Médio<br>\n  <b>Área:</b> Geografia Geral<br>\n  <b>Tema:</b> crescimento, estrutura e movimentos da população\n</div>\n\n<blockquote>\n  <p><b>Questão central.</b> A população mundial vai crescer para sempre — e por que uns países envelhecem enquanto outros são jovens?</p>\n</blockquote>\n\n<p>A população cresce pelo <strong>crescimento vegetativo</strong> (nascimentos menos mortes) e pelas <strong>migrações</strong>. Com o desenvolvimento, os países passam pela <strong>transição demográfica</strong> e mudam a forma de sua <strong>pirâmide etária</strong>. Ao longo da história, teóricos discutiram se somos \"gente demais\".</p>\n\n<h2>1 · Como medir a população</h2>\n\n<p>A <strong>natalidade</strong> menos a <strong>mortalidade</strong> dá o <strong>crescimento vegetativo</strong>. Somando o <strong>saldo migratório</strong>, chega-se ao crescimento total. Outras medidas: a <strong>fecundidade</strong> (filhos por mulher) e a <strong>densidade demográfica</strong> (hab/km²).</p>\n\n<div class=\"callout\">\n  <strong>Conceito · Transição demográfica</strong><br>\n  Com saúde e saneamento, primeiro cai a <b>mortalidade</b> (a população explode); depois cai a <b>natalidade</b> (o crescimento desacelera). Explica a passagem de países jovens a envelhecidos.\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"As fases da transição demográfica, da queda da mortalidade à queda da natalidade\">\n  <defs>\n    <marker id=\"ar-gpop1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"40\" width=\"92\" height=\"60\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Cai a</text>\n  <text x=\"54\" y=\"76\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">mortalidade</text>\n  <text x=\"54\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">população explode</text>\n  <path d=\"M100,70 L118,70\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gpop1)\"/>\n  <rect x=\"122\" y=\"40\" width=\"96\" height=\"60\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Cai a</text>\n  <text x=\"170\" y=\"76\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">natalidade</text>\n  <text x=\"170\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">desacelera</text>\n  <path d=\"M218,70 L236,70\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gpop1)\"/>\n  <rect x=\"240\" y=\"40\" width=\"92\" height=\"60\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"66\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Envelhece</text>\n  <text x=\"286\" y=\"84\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">poucos jovens</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">a transição demográfica</text>\n</svg>\n<figcaption>Primeiro despenca a mortalidade, depois a natalidade: a população cresce e depois envelhece.</figcaption>\n</figure>\n\n<h2>2 · A estrutura: pirâmides etárias</h2>\n\n<p>A <strong>pirâmide etária</strong> mostra a população por idade e sexo. Uma <strong>base larga</strong> revela muitos jovens (país em desenvolvimento); uma <strong>base estreita e topo largo</strong> revela envelhecimento (país desenvolvido).</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 150\" role=\"img\" aria-label=\"Comparação entre a pirâmide etária de um país jovem e de um país envelhecido\">\n  <text x=\"90\" y=\"16\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">País jovem</text>\n  <polygon points=\"90,28 128,132 52,132\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"90\" y=\"146\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">base larga = muitos jovens</text>\n  <text x=\"250\" y=\"16\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">País envelhecido</text>\n  <polygon points=\"222,28 278,28 268,80 260,132 240,132 232,80\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"250\" y=\"146\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">topo largo = muitos idosos</text>\n</svg>\n<figcaption>A forma da pirâmide revela se um país é jovem ou está envelhecendo.</figcaption>\n</figure>\n\n<h2>3 · As teorias demográficas</h2>\n\n<p><strong>Malthus</strong> previu fome porque a população cresceria mais rápido que os alimentos — previsão que falhou. Os <strong>neomalthusianos</strong> pregaram o controle de natalidade nos países pobres. Já os <strong>reformistas (marxistas)</strong> culpam a <strong>má distribuição de renda</strong>, não o número de pessoas.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"As três correntes de teorias demográficas: malthusiana, neomalthusiana e reformista\">\n  <rect x=\"8\" y=\"34\" width=\"100\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Malthus</text>\n  <text x=\"58\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">gente cresce mais</text>\n  <text x=\"58\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">que os alimentos</text>\n  <rect x=\"120\" y=\"34\" width=\"100\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Neomalthus.</text>\n  <text x=\"170\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">controlar a</text>\n  <text x=\"170\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">natalidade</text>\n  <rect x=\"232\" y=\"34\" width=\"100\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Reformistas</text>\n  <text x=\"282\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">o problema é a</text>\n  <text x=\"282\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">desigualdade</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">somos \"gente demais\"?</text>\n</svg>\n<figcaption>Três respostas para a mesma pergunta: o número de pessoas ou a distribuição de riqueza?</figcaption>\n</figure>\n\n<h2>4 · As migrações</h2>\n\n<p>As pessoas se deslocam: o <strong>êxodo rural</strong> (campo → cidade) alimentou a urbanização; a <strong>migração pendular</strong> é o vai-e-volta diário nas metrópoles; os <strong>refugiados</strong> fogem de guerras e perseguições, diferentes dos migrantes econômicos.</p>\n\n<h2>O essencial</h2>\n\n<h3>Fórmulas demográficas</h3>\n\n<table>\n  <tr><th>Medida</th><th>Cálculo</th></tr>\n  <tr><td>Crescimento vegetativo</td><td>Natalidade − mortalidade</td></tr>\n  <tr><td>Crescimento total</td><td>Vegetativo + saldo migratório</td></tr>\n  <tr><td>Saldo migratório</td><td>Imigrantes − emigrantes</td></tr>\n  <tr><td>Densidade</td><td>População ÷ área (hab/km²)</td></tr>\n</table>\n\n<h3>Termos-chave</h3>\n\n<table>\n  <tr><th>Termo</th><th>Significado</th></tr>\n  <tr><td>Transição demográfica</td><td>Passagem de altas a baixas taxas</td></tr>\n  <tr><td>Pirâmide etária</td><td>População por idade e sexo</td></tr>\n  <tr><td>Fecundidade</td><td>Filhos por mulher</td></tr>\n  <tr><td>Bônus demográfico</td><td>Muitos adultos ativos, poucos dependentes</td></tr>\n  <tr><td>Êxodo rural</td><td>Migração do campo para a cidade</td></tr>\n</table>\n\n<h3>Teorias</h3>\n\n<table>\n  <tr><th>Corrente</th><th>Ideia central</th></tr>\n  <tr><td>Malthusiana</td><td>População > alimentos → fome</td></tr>\n  <tr><td>Neomalthusiana</td><td>Controlar a natalidade dos pobres</td></tr>\n  <tr><td>Reformista</td><td>O problema é a má distribuição de renda</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  O <b>crescimento vegetativo</b> considera apenas nascimentos e mortes — <b>não</b> inclui as migrações (para isso, some o saldo migratório). E não confunda país <b>populoso</b> (muita gente no total) com país <b>povoado</b> (alta densidade).\n</div>\n\n<blockquote>\n  <p>A população mundial ainda cresce, mas cada vez mais devagar e mais velha. Entender essas dinâmicas é essencial para pensar cidades, empregos e políticas públicas do futuro.</p>\n</blockquote>\n",
+  "questionLang": "pt",
+  "answerLang": "pt",
+  "version": 1,
+  "level": "Ensino Médio",
+  "theme": "Geografia Geral",
+  "cards": [
+    {
+      "recto": "Diferença entre a taxa de natalidade e a taxa de mortalidade de uma população.",
+      "verso": "O crescimento vegetativo (ou natural)",
+      "explanation": "Se nascem mais pessoas do que morrem, o crescimento vegetativo é positivo. Não inclui as migrações — só nascimentos e mortes.",
+      "tags": [
+        "populacao-mundial",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "A densidade demográfica",
+          "A expectativa de vida",
+          "O êxodo rural"
+        ],
+        "medium": [
+          "O crescimento total",
+          "O saldo migratório",
+          "A taxa de fecundidade"
+        ],
+        "hard": [
+          "A taxa de urbanização",
+          "A mortalidade infantil",
+          "A razão de dependência"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] O crescimento vegetativo leva em conta as migrações?",
+      "verso": "Não; ele considera apenas nascimentos e mortes",
+      "explanation": "Erro comum. O crescimento vegetativo é natalidade menos mortalidade. Para o crescimento total (ou absoluto), é preciso somar também o saldo migratório.",
+      "tags": [
+        "piege",
+        "populacao-mundial"
+      ],
+      "distractors": {
+        "easy": [
+          "Sim, inclui as migrações",
+          "Sim, é o crescimento total",
+          "Sim, conta os imigrantes"
+        ],
+        "medium": [
+          "Sim, soma o saldo migratório",
+          "Sim, desconta os emigrantes",
+          "Não, mas inclui os refugiados"
+        ],
+        "hard": [
+          "Sim, junto com a fecundidade",
+          "Não, mas inclui o êxodo rural",
+          "Sim, apenas a imigração legal"
+        ]
+      }
+    },
+    {
+      "recto": "Número médio de filhos por mulher em uma população.",
+      "verso": "A taxa de fecundidade",
+      "explanation": "Quando fica abaixo de cerca de 2,1 filhos por mulher, a população tende a parar de crescer e a envelhecer. Está caindo no mundo todo.",
+      "tags": [
+        "populacao-mundial",
+        "taxas"
+      ],
+      "distractors": {
+        "easy": [
+          "A taxa de mortalidade",
+          "A densidade",
+          "A expectativa de vida"
+        ],
+        "medium": [
+          "A taxa de natalidade bruta",
+          "O crescimento vegetativo",
+          "A mortalidade infantil"
+        ],
+        "hard": [
+          "A razão de dependência",
+          "A taxa de urbanização",
+          "O saldo migratório"
+        ]
+      }
+    },
+    {
+      "recto": "Modelo que descreve a passagem de altas para baixas taxas de natalidade e mortalidade ao longo do desenvolvimento.",
+      "verso": "A transição demográfica",
+      "explanation": "Primeiro cai a mortalidade (com saúde e saneamento) e a população explode; depois cai a natalidade e o crescimento desacelera. Explica a mudança dos países.",
+      "tags": [
+        "populacao-mundial",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "O êxodo rural",
+          "A globalização",
+          "A urbanização"
+        ],
+        "medium": [
+          "A revolução verde",
+          "A explosão urbana",
+          "O bônus demográfico apenas"
+        ],
+        "hard": [
+          "A teoria malthusiana",
+          "A pirâmide etária",
+          "A razão de dependência"
+        ]
+      }
+    },
+    {
+      "recto": "Gráfico que mostra a população dividida por sexo e faixas de idade.",
+      "verso": "A pirâmide etária",
+      "explanation": "Uma base larga indica população jovem (país em desenvolvimento); uma base estreita e topo largo indica população envelhecida (país desenvolvido).",
+      "tags": [
+        "populacao-mundial",
+        "estrutura"
+      ],
+      "distractors": {
+        "easy": [
+          "O mapa demográfico",
+          "A curva de nível",
+          "O climograma"
+        ],
+        "medium": [
+          "O gráfico de fecundidade",
+          "A rosa dos ventos",
+          "O organograma"
+        ],
+        "hard": [
+          "O histograma de renda",
+          "A tábua de mortalidade",
+          "O diagrama de dispersão"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] Como diferem as pirâmides etárias de um país jovem e de um país envelhecido?",
+      "verso": "Jovem: base larga e topo estreito; envelhecido: base estreita e topo largo",
+      "explanation": "Muitos jovens (base larga) indicam alta natalidade, típica de países em desenvolvimento. Poucos jovens e muitos idosos indicam países desenvolvidos, que envelhecem.",
+      "tags": [
+        "comparaison",
+        "populacao-mundial"
+      ],
+      "distractors": {
+        "easy": [
+          "As duas são exatamente iguais",
+          "Jovem: topo largo; envelhecido: base larga",
+          "A idade não muda a pirâmide"
+        ],
+        "medium": [
+          "Jovem: base estreita; envelhecido: base larga",
+          "Ambas têm base larga",
+          "Ambas têm topo largo"
+        ],
+        "hard": [
+          "Jovem: sem base; envelhecido: sem topo",
+          "As duas têm forma retangular idêntica",
+          "Só muda a cor, não a forma"
+        ]
+      }
+    },
+    {
+      "recto": "Pensador do século XVIII que previu que a população cresceria mais rápido que os alimentos.",
+      "verso": "Thomas Malthus",
+      "explanation": "Dizia que a população crescia em progressão geométrica e os alimentos em aritmética, levando à fome. As previsões falharam com os avanços na produção.",
+      "tags": [
+        "populacao-mundial",
+        "teorias"
+      ],
+      "distractors": {
+        "easy": [
+          "Karl Marx",
+          "Charles Darwin",
+          "Adam Smith"
+        ],
+        "medium": [
+          "David Ricardo",
+          "Auguste Comte",
+          "Ester Boserup"
+        ],
+        "hard": [
+          "Paul Ehrlich",
+          "Alfred Sauvy",
+          "Josué de Castro"
+        ]
+      }
+    },
+    {
+      "recto": "Correntes que, ao contrário de Malthus, culpam a má distribuição de renda, e não o número de pessoas, pela fome.",
+      "verso": "As teorias reformistas (marxistas)",
+      "explanation": "Para elas, o problema não é o excesso de gente, mas a desigualdade na distribuição de riquezas e alimentos. Opõem-se ao pensamento malthusiano.",
+      "tags": [
+        "populacao-mundial",
+        "teorias"
+      ],
+      "distractors": {
+        "easy": [
+          "As teorias malthusianas",
+          "As teorias natalistas",
+          "As teorias racistas"
+        ],
+        "medium": [
+          "As teorias neomalthusianas",
+          "As teorias fisiocratas",
+          "As teorias mercantilistas"
+        ],
+        "hard": [
+          "As teorias eugenistas",
+          "As teorias liberais clássicas",
+          "As teorias monetaristas"
+        ]
+      }
+    },
+    {
+      "recto": "Correntes do século XX que defendiam o controle da natalidade nos países pobres para combater a pobreza.",
+      "verso": "As teorias neomalthusianas",
+      "explanation": "Retomaram Malthus após as guerras: culpavam o crescimento populacional dos países pobres pelo subdesenvolvimento e pregavam o controle de natalidade.",
+      "tags": [
+        "populacao-mundial",
+        "teorias"
+      ],
+      "distractors": {
+        "easy": [
+          "As teorias reformistas",
+          "As teorias marxistas",
+          "As teorias natalistas"
+        ],
+        "medium": [
+          "As teorias fisiocratas",
+          "As teorias mercantilistas",
+          "As teorias liberais"
+        ],
+        "hard": [
+          "As teorias eugenistas",
+          "As teorias keynesianas",
+          "As teorias populistas"
+        ]
+      }
+    },
+    {
+      "recto": "Deslocamento de pessoas do campo para as cidades.",
+      "verso": "O êxodo rural",
+      "explanation": "Migração interna causada pela mecanização do campo e pela busca de emprego urbano. Foi o motor da rápida urbanização nos países em desenvolvimento.",
+      "tags": [
+        "populacao-mundial",
+        "migracoes"
+      ],
+      "distractors": {
+        "easy": [
+          "O turismo",
+          "A globalização",
+          "A imigração internacional"
+        ],
+        "medium": [
+          "A migração pendular",
+          "A transumância",
+          "A migração de retorno"
+        ],
+        "hard": [
+          "O nomadismo",
+          "A migração sazonal apenas",
+          "A urbanização espontânea"
+        ]
+      }
+    },
+    {
+      "recto": "Pessoas obrigadas a deixar seu país por causa de guerras, perseguições ou desastres.",
+      "verso": "Os refugiados",
+      "explanation": "Diferentes dos migrantes econômicos, fogem de ameaças à vida. Têm proteção prevista no direito internacional. Sírios e venezuelanos são exemplos recentes.",
+      "tags": [
+        "populacao-mundial",
+        "migracoes"
+      ],
+      "distractors": {
+        "easy": [
+          "Os turistas",
+          "Os aposentados",
+          "Os estudantes de intercâmbio"
+        ],
+        "medium": [
+          "Os migrantes econômicos",
+          "Os expatriados",
+          "Os migrantes pendulares"
+        ],
+        "hard": [
+          "Os apátridas apenas",
+          "Os nômades",
+          "Os migrantes de retorno"
+        ]
+      }
+    },
+    {
+      "recto": "Saldo entre os que entram (imigrantes) e os que saem (emigrantes) de um lugar.",
+      "verso": "O saldo migratório",
+      "explanation": "Se entram mais do que saem, o saldo é positivo. Somado ao crescimento vegetativo, dá o crescimento total da população.",
+      "tags": [
+        "populacao-mundial",
+        "migracoes"
+      ],
+      "distractors": {
+        "easy": [
+          "O crescimento vegetativo",
+          "A densidade demográfica",
+          "A taxa de natalidade"
+        ],
+        "medium": [
+          "A taxa de fecundidade",
+          "A expectativa de vida",
+          "A razão de dependência"
+        ],
+        "hard": [
+          "A mortalidade infantil",
+          "A transição demográfica",
+          "O bônus demográfico"
+        ]
+      }
+    },
+    {
+      "recto": "Número de habitantes por unidade de área (por km²) de um território.",
+      "verso": "A densidade demográfica",
+      "explanation": "Mede o quanto uma área é povoada (hab/km²). Não confunda país populoso (muita gente no total) com país povoado (alta densidade).",
+      "tags": [
+        "populacao-mundial",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "A expectativa de vida",
+          "A taxa de natalidade",
+          "O saldo migratório"
+        ],
+        "medium": [
+          "A taxa de fecundidade",
+          "O crescimento vegetativo",
+          "A razão de dependência"
+        ],
+        "hard": [
+          "A população absoluta",
+          "A taxa de urbanização",
+          "A mortalidade infantil"
+        ]
+      }
+    },
+    {
+      "recto": "Período em que um país tem grande proporção de população em idade de trabalhar e poucos dependentes.",
+      "verso": "O bônus demográfico",
+      "explanation": "Ocorre durante a transição demográfica: muitos adultos ativos, poucas crianças e idosos. É uma janela de oportunidade econômica, se bem aproveitada.",
+      "tags": [
+        "populacao-mundial",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "O êxodo rural",
+          "A explosão demográfica",
+          "O envelhecimento"
+        ],
+        "medium": [
+          "A transição urbana",
+          "O inverno demográfico",
+          "A revolução verde"
+        ],
+        "hard": [
+          "A razão de dependência alta",
+          "O ônus demográfico",
+          "O bônus migratório"
+        ]
+      }
+    },
+    {
+      "recto": "De modo geral, para onde caminha a população dos países desenvolvidos?",
+      "verso": "Para o envelhecimento (baixa natalidade e alta expectativa de vida)",
+      "explanation": "Com poucos filhos e vida longa, países ricos envelhecem, o que pressiona a previdência e atrai imigrantes. Países pobres ainda têm população mais jovem.",
+      "tags": [
+        "populacao-mundial",
+        "sintese"
+      ],
+      "distractors": {
+        "easy": [
+          "Para a explosão de nascimentos",
+          "Para o rejuvenescimento",
+          "Para o fim da população"
+        ],
+        "medium": [
+          "Para altíssima natalidade",
+          "Para o êxodo rural acelerado",
+          "Para muitas crianças"
+        ],
+        "hard": [
+          "Para o bônus demográfico crescente",
+          "Para pirâmides de base larga",
+          "Para a alta fecundidade"
+        ]
+      }
+    },
+    {
+      "recto": "Movimento diário de pessoas entre a cidade onde moram e a cidade onde trabalham ou estudam.",
+      "verso": "A migração pendular",
+      "explanation": "Típica das metrópoles: a pessoa vai e volta no mesmo dia (mora numa cidade, trabalha em outra). Não é uma mudança definitiva de residência.",
+      "tags": [
+        "populacao-mundial",
+        "migracoes"
+      ],
+      "distractors": {
+        "easy": [
+          "O êxodo rural",
+          "A emigração",
+          "O refúgio"
+        ],
+        "medium": [
+          "A migração de retorno",
+          "A migração internacional",
+          "A transumância"
+        ],
+        "hard": [
+          "A migração sazonal",
+          "O nomadismo",
+          "A migração forçada"
+        ]
+      }
+    }
+  ]
+}

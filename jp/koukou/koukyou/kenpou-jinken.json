@@ -1,0 +1,527 @@
+{
+  "id": "jp-koukou-koukyou-kenpou-jinken",
+  "title": "日本国憲法と基本的人権",
+  "emoji": "📖",
+  "subject": "civics",
+  "country": "jp",
+  "courseDescription": "日本国憲法の三大原則から自由権・社会権・新しい人権まで。基本的人権の保障を学ぶ。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>日本国憲法と基本的人権</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・公共<br>\n  <b>大項目B：</b>自立した主体として社会に参画する私たち<br>\n  <b>内容：</b>三大原則・自由権・社会権・新しい人権\n</div>\n\n<blockquote>\n  <p><b>問い</b>　日本国憲法は、私たちのどのような権利を、どのように守っているのだろうか。</p>\n</blockquote>\n\n<p>日本国憲法は、<strong>国民主権</strong>・<strong>基本的人権の尊重</strong>・<strong>平和主義</strong>を三大原則とする。基本的人権は、<strong>自由権</strong>・<strong>平等権</strong>・<strong>社会権</strong>などに分かれ、社会の変化とともに<strong>新しい人権</strong>も主張されるようになった。私たちの権利を守る憲法のしくみを整理しよう。</p>\n\n<h2>1・日本国憲法の三大原則</h2>\n\n<p>日本国憲法は、<strong>国民主権</strong>（主権は国民にある）、<strong>基本的人権の尊重</strong>（侵すことのできない永久の権利）、<strong>平和主義</strong>（<strong>第9条</strong>の戦争放棄）を三大原則とする。大日本帝国憲法の天皇主権から国民主権へと転換した点が根本的な違いである。</p>\n\n<p>この憲法は、簡単には改正できない<strong>硬性憲法</strong>であり、改正には国会の発議と<strong>国民投票</strong>による過半数の賛成が必要である。人権保障を安定させるためのしくみである。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"日本国憲法の三大原則。国民主権・基本的人権の尊重・平和主義\">\n  <defs>\n    <marker id=\"ar-kj2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 日本国憲法（強調） -->\n  <rect x=\"95\" y=\"8\" width=\"150\" height=\"44\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"35\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">日本国憲法</text>\n  <!-- 矢印 -->\n  <path d=\"M150,54 L70,86\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-kj2)\"/>\n  <path d=\"M170,54 L170,86\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-kj2)\"/>\n  <path d=\"M190,54 L270,86\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-kj2)\"/>\n  <!-- 国民主権 -->\n  <rect x=\"8\" y=\"92\" width=\"104\" height=\"98\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"128\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">国民主権</text>\n  <text x=\"60\" y=\"158\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">主権は国民に</text>\n  <!-- 基本的人権 -->\n  <rect x=\"118\" y=\"92\" width=\"104\" height=\"98\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"122\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">基本的人権</text>\n  <text x=\"170\" y=\"140\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">の尊重</text>\n  <text x=\"170\" y=\"168\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">永久の権利</text>\n  <!-- 平和主義 -->\n  <rect x=\"228\" y=\"92\" width=\"104\" height=\"98\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"128\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">平和主義</text>\n  <text x=\"280\" y=\"158\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">戦争放棄（9条）</text>\n</svg>\n<figcaption>三大原則は確実にセットで覚える。大日本帝国憲法の天皇主権からの転換。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・基本的人権</strong><br>\n  人が生まれながらにもち、他者や国家がおかすことのできない権利。日本国憲法は「侵すことのできない永久の権利」として保障する。\n</div>\n\n<h2>2・自由権・平等権・社会権</h2>\n\n<p>基本的人権の中心は、「国家からの自由」である<strong>自由権</strong>（精神・身体・経済の自由）と、差別されない<strong>平等権</strong>（法の下の平等）である。</p>\n\n<p>20世紀には「国家による自由」である<strong>社会権</strong>が加わった。憲法25条の<strong>生存権</strong>（健康で文化的な最低限度の生活）を中心に、教育を受ける権利や労働基本権を含む。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"自由権と社会権の比較。国家からの自由と国家による自由\">\n  <!-- 左：自由権 -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">自由権</text>\n  <text x=\"87\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">国家からの自由</text>\n  <text x=\"26\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">干渉されない</text>\n  <text x=\"26\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">精神・身体・経済</text>\n  <text x=\"26\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">18〜19世紀に確立</text>\n  <!-- 右：社会権 -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">社会権</text>\n  <text x=\"253\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">国家による自由</text>\n  <text x=\"192\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">保障を求める</text>\n  <text x=\"192\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">生存権・教育・労働</text>\n  <text x=\"192\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">20世紀に登場</text>\n</svg>\n<figcaption>「国家からの自由」（自由権）と「国家による自由」（社会権）の違いをおさえる。</figcaption>\n</figure>\n\n<p>さらに、これらを確保するための<strong>参政権</strong>（政治に参加する）と<strong>請求権</strong>（救済を求める）がある。</p>\n\n<h2>3・新しい人権</h2>\n\n<p>社会の変化にともない、憲法に明文はないが主張されるようになった<strong>新しい人権</strong>がある。多くは憲法13条の<strong>幸福追求権</strong>を根拠とする。</p>\n\n<p>公害を背景とする<strong>環境権</strong>、私生活を守る<strong>プライバシー権</strong>、情報を求める<strong>知る権利</strong>、生き方を自分で決める<strong>自己決定権</strong>などである。時代とともに人権は広がっていく。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 240\" role=\"img\" aria-label=\"新しい人権。幸福追求権を根拠とする環境権・プライバシー権・知る権利など\">\n  <defs>\n    <marker id=\"ar-kj1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 幸福追求権（強調） -->\n  <rect x=\"85\" y=\"8\" width=\"170\" height=\"56\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"33\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">幸福追求権（13条）</text>\n  <text x=\"170\" y=\"53\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11\">新しい人権の根拠</text>\n  <!-- 矢印 -->\n  <path d=\"M170,66 L55,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-kj1)\"/>\n  <path d=\"M170,66 L128,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-kj1)\"/>\n  <path d=\"M170,66 L212,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-kj1)\"/>\n  <path d=\"M170,66 L285,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-kj1)\"/>\n  <!-- 環境権 -->\n  <rect x=\"10\" y=\"116\" width=\"72\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"46\" y=\"150\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11.5\" font-weight=\"700\">環境権</text>\n  <text x=\"46\" y=\"178\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">公害</text>\n  <text x=\"46\" y=\"198\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">日照権</text>\n  <!-- プライバシー権 -->\n  <rect x=\"92\" y=\"116\" width=\"72\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"128\" y=\"145\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">プライバシー権</text>\n  <text x=\"128\" y=\"178\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">私生活</text>\n  <text x=\"128\" y=\"198\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">個人情報</text>\n  <!-- 知る権利 -->\n  <rect x=\"174\" y=\"116\" width=\"72\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"210\" y=\"150\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">知る権利</text>\n  <text x=\"210\" y=\"178\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">情報公開</text>\n  <text x=\"210\" y=\"198\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">報道</text>\n  <!-- 自己決定権 -->\n  <rect x=\"256\" y=\"116\" width=\"72\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"292\" y=\"150\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">自己決定権</text>\n  <text x=\"292\" y=\"178\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">生き方</text>\n  <text x=\"292\" y=\"198\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">医療の同意</text>\n</svg>\n<figcaption>新しい人権の多くは、13条の幸福追求権を根拠に主張される。</figcaption>\n</figure>\n\n<h2>4・人権の制約と義務</h2>\n\n<p>人権は無制限ではない。他者の人権と衝突するとき、<strong>公共の福祉</strong>による調整を受けることがある。ただし、これを人権制限の安易な口実にしてはならないとされる。</p>\n\n<p>また憲法は、権利だけでなく国民の三大義務——教育を受けさせる義務・勤労の義務・<strong>納税の義務</strong>——も定めている。権利と義務は、社会をともに支える両輪である。</p>\n\n<div class=\"callout\">\n  <strong>用語・公共の福祉</strong><br>\n  人権と人権が衝突するときに、それを調整するための原理。社会全体の共通の利益を表す。人権を安易に制限する口実にしてはならないとされる。\n</div>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>原則</th><th>内容</th></tr>\n  <tr><td>国民主権</td><td>主権は国民にある</td></tr>\n  <tr><td>基本的人権の尊重</td><td>侵すことのできない永久の権利</td></tr>\n  <tr><td>平和主義</td><td>戦争放棄（第9条）</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>自由権</td><td>国家からの自由（精神・身体・経済）</td></tr>\n  <tr><td>社会権</td><td>国家による自由（生存権など）</td></tr>\n  <tr><td>生存権</td><td>健康で文化的な最低限度の生活（25条）</td></tr>\n  <tr><td>新しい人権</td><td>環境権・プライバシー権・知る権利など</td></tr>\n  <tr><td>幸福追求権</td><td>新しい人権の根拠（13条）</td></tr>\n  <tr><td>公共の福祉</td><td>人権を調整する原理</td></tr>\n</table>\n\n<h3>基本的人権の種類</h3>\n\n<table>\n  <tr><th>分類</th><th>内容</th></tr>\n  <tr><td>自由権</td><td>精神・身体・経済の自由</td></tr>\n  <tr><td>平等権</td><td>法の下の平等（14条）</td></tr>\n  <tr><td>社会権</td><td>生存権・教育・労働基本権</td></tr>\n  <tr><td>参政権・請求権</td><td>人権を確保するための権利</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  <b>自由権</b>（国家からの自由）と<b>社会権</b>（国家による自由）を混同しないこと。また新しい人権の根拠は13条の<b>幸福追求権</b>であり、社会権の中心である25条の<b>生存権</b>とは条文も性格も異なる。\n</div>\n\n<blockquote>\n  <p>憲法は、権力を縛り人権を守るための最高法規である。しかし、書かれた権利は自動的に守られるわけではない。それを実際に保障するのが、次に見る国会・内閣・裁判所という政治のしくみ——三権分立である。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "公共 ― 自立した主体として社会に参画する私たち",
+  "cards": [
+    {
+      "recto": "日本国憲法の三大原則を答えよ。",
+      "verso": "国民主権・基本的人権の尊重・平和主義",
+      "explanation": "大日本帝国憲法の天皇主権から国民主権へ転換した。この3つは確実にセットで覚える。",
+      "tags": [
+        "憲法",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "富国強兵・殖産興業・文明開化",
+          "自由・平等・博愛",
+          "立法・行政・司法"
+        ],
+        "medium": [
+          "国民主権・三権分立・法の支配",
+          "天皇主権・人権尊重・平和主義",
+          "国民主権・基本的人権・国際協調"
+        ],
+        "hard": [
+          "国民主権・基本的人権・象徴天皇制",
+          "主権在民・戦争放棄・法の下の平等",
+          "国民主権・自由権・戦力不保持"
+        ]
+      }
+    },
+    {
+      "recto": "日本国憲法で、国の政治のあり方を最終的に決める力（主権）は誰にあるとされているか。",
+      "verso": "国民",
+      "explanation": "国民主権。大日本帝国憲法の天皇主権からの根本的な転換。天皇は「象徴」となった。",
+      "tags": [
+        "憲法",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "天皇",
+          "首相",
+          "国会"
+        ],
+        "medium": [
+          "内閣",
+          "国家",
+          "議会"
+        ],
+        "hard": [
+          "主権者たる有権者のみ",
+          "国民の代表",
+          "最高裁判所"
+        ]
+      }
+    },
+    {
+      "recto": "国家からの干渉を受けずに、自由に考え行動できる権利を何というか。精神の自由・身体の自由・経済の自由からなる。",
+      "verso": "自由権",
+      "explanation": "「国家からの自由」。信教の自由や表現の自由（精神）、奴隷的拘束からの自由（身体）などを含む。社会権と対をなす。",
+      "tags": [
+        "人権",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "社会権",
+          "参政権",
+          "請求権"
+        ],
+        "medium": [
+          "平等権",
+          "自然権",
+          "新しい人権"
+        ],
+        "hard": [
+          "受益権",
+          "国務請求権",
+          "抵抗権"
+        ]
+      }
+    },
+    {
+      "recto": "人種・信条・性別・社会的身分などによって差別されない権利を何というか。",
+      "verso": "平等権",
+      "explanation": "憲法14条の「法の下の平等」が中心。自由権とならぶ基本的人権の柱。近年は男女共同参画などにもつながる。",
+      "tags": [
+        "人権"
+      ],
+      "distractors": {
+        "easy": [
+          "自由権",
+          "社会権",
+          "参政権"
+        ],
+        "medium": [
+          "請求権",
+          "生存権",
+          "幸福追求権"
+        ],
+        "hard": [
+          "受益権",
+          "国務請求権",
+          "平等原則のみ"
+        ]
+      }
+    },
+    {
+      "recto": "人間らしい生活を営むために、国家に積極的な保障を求める権利を何というか。生存権・教育を受ける権利・労働基本権からなる。",
+      "verso": "社会権",
+      "explanation": "「国家による自由」。20世紀に登場し、日本国憲法にも保障された。国家からの自由である自由権と対をなす。",
+      "tags": [
+        "人権",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "自由権",
+          "参政権",
+          "請求権"
+        ],
+        "medium": [
+          "平等権",
+          "自然権",
+          "新しい人権"
+        ],
+        "hard": [
+          "受益権",
+          "国務請求権",
+          "抵抗権"
+        ]
+      }
+    },
+    {
+      "recto": "憲法25条が保障する、「健康で文化的な最低限度の生活を営む権利」を何というか。",
+      "verso": "生存権",
+      "explanation": "社会権の中心となる権利。生活保護制度などの根拠となる。ワイマール憲法に始まる社会権の日本での具体化。",
+      "tags": [
+        "人権",
+        "社会権"
+      ],
+      "distractors": {
+        "easy": [
+          "自由権",
+          "参政権",
+          "平等権"
+        ],
+        "medium": [
+          "教育を受ける権利",
+          "労働基本権",
+          "幸福追求権"
+        ],
+        "hard": [
+          "環境権",
+          "プログラム規定説の混同",
+          "健康権"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】「国家からの自由」と呼ばれる基本的人権と、「国家による自由」と呼ばれる基本的人権を、順にそれぞれ何というか。",
+      "verso": "自由権と社会権",
+      "explanation": "自由権＝国家からの自由（干渉されない）、社会権＝国家による自由（人間らしい生活を保障させる）。両者の性格の違いを取りちがえない。",
+      "tags": [
+        "comparaison",
+        "人権"
+      ],
+      "distractors": {
+        "easy": [
+          "平等権と参政権",
+          "権利と義務",
+          "自由と平等"
+        ],
+        "medium": [
+          "社会権と自由権",
+          "自由権と平等権",
+          "参政権と社会権"
+        ],
+        "hard": [
+          "請求権と社会権",
+          "自由権と受益権",
+          "自然権と社会権"
+        ]
+      }
+    },
+    {
+      "recto": "選挙で投票したり、公務員になったりして、政治に参加する権利を何というか。",
+      "verso": "参政権",
+      "explanation": "国民主権を具体化する権利。選挙権・被選挙権などを含む。人権を確保するための権利という位置づけをもつ。",
+      "tags": [
+        "人権"
+      ],
+      "distractors": {
+        "easy": [
+          "自由権",
+          "社会権",
+          "平等権"
+        ],
+        "medium": [
+          "請求権",
+          "生存権",
+          "自然権"
+        ],
+        "hard": [
+          "受益権",
+          "国務請求権",
+          "抵抗権"
+        ]
+      }
+    },
+    {
+      "recto": "人権が侵害されたときに、国に救済を求める権利を何というか。裁判を受ける権利や請願権などを含む。",
+      "verso": "請求権（国務請求権）",
+      "explanation": "他の人権を確保するための権利。裁判を受ける権利、国家賠償請求権などがある。参政権とともに「人権を守る人権」。",
+      "tags": [
+        "人権"
+      ],
+      "distractors": {
+        "easy": [
+          "自由権",
+          "社会権",
+          "平等権"
+        ],
+        "medium": [
+          "参政権",
+          "生存権",
+          "自然権"
+        ],
+        "hard": [
+          "受益権",
+          "抵抗権",
+          "幸福追求権"
+        ]
+      }
+    },
+    {
+      "recto": "社会の変化にともない、憲法に明文の規定はないが、幸福追求権などを根拠に主張されるようになった権利をまとめて何というか。",
+      "verso": "新しい人権",
+      "explanation": "環境権・プライバシー権・知る権利・自己決定権など。憲法13条の幸福追求権が主な根拠。時代とともに広がる人権。",
+      "tags": [
+        "人権",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "自由権",
+          "社会権",
+          "参政権"
+        ],
+        "medium": [
+          "平等権",
+          "請求権",
+          "自然権"
+        ],
+        "hard": [
+          "古典的人権",
+          "受益権",
+          "抵抗権"
+        ]
+      }
+    },
+    {
+      "recto": "良好な環境のもとで生活する権利として、公害問題などを背景に主張されるようになった新しい人権を何というか。",
+      "verso": "環境権",
+      "explanation": "高度経済成長期の公害を背景に主張された。日照権などを含む。憲法に明文はなく、13条・25条を根拠とする。",
+      "tags": [
+        "新しい人権"
+      ],
+      "distractors": {
+        "easy": [
+          "自由権",
+          "生存権",
+          "参政権"
+        ],
+        "medium": [
+          "プライバシー権",
+          "知る権利",
+          "自己決定権"
+        ],
+        "hard": [
+          "日照権のみ",
+          "健康権",
+          "平和的生存権"
+        ]
+      }
+    },
+    {
+      "recto": "私生活をみだりに公開されない権利として主張され、近年は自分の情報を自分でコントロールする権利へと発展した新しい人権を何というか。",
+      "verso": "プライバシー権",
+      "explanation": "情報化の進展で重要性が増した。個人情報保護法の根拠ともなる。環境権・知る権利などとならぶ新しい人権。",
+      "tags": [
+        "新しい人権"
+      ],
+      "distractors": {
+        "easy": [
+          "自由権",
+          "参政権",
+          "生存権"
+        ],
+        "medium": [
+          "環境権",
+          "知る権利",
+          "自己決定権"
+        ],
+        "hard": [
+          "肖像権のみ",
+          "忘れられる権利",
+          "アクセス権"
+        ]
+      }
+    },
+    {
+      "recto": "国や地方公共団体がもつ情報を、国民が受け取ることを求める新しい人権を何というか。",
+      "verso": "知る権利",
+      "explanation": "情報公開制度の根拠となる。表現の自由（受け手の側）とも関わる。環境権・プライバシー権とならぶ新しい人権。",
+      "tags": [
+        "新しい人権"
+      ],
+      "distractors": {
+        "easy": [
+          "自由権",
+          "参政権",
+          "生存権"
+        ],
+        "medium": [
+          "プライバシー権",
+          "環境権",
+          "自己決定権"
+        ],
+        "hard": [
+          "アクセス権",
+          "報道の自由のみ",
+          "情報公開請求権"
+        ]
+      }
+    },
+    {
+      "recto": "人権は無制限ではなく、他者の人権との調整のために制約を受けることがある。この、社会全体の共通の利益を表す言葉を何というか。",
+      "verso": "公共の福祉",
+      "explanation": "人権と人権が衝突するときの調整原理。人権を安易に制限する口実にしてはならないとされる。憲法12・13条などに規定。",
+      "tags": [
+        "憲法",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "国益",
+          "公序良俗",
+          "国家の安全"
+        ],
+        "medium": [
+          "社会秩序",
+          "公共の利益",
+          "全体の奉仕"
+        ],
+        "hard": [
+          "一元的外在制約説",
+          "内在的制約",
+          "比例原則"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】新しい人権の多くが、その根拠としている日本国憲法第13条の権利を何というか。",
+      "verso": "幸福追求権",
+      "explanation": "13条の「生命・自由・幸福追求」の権利。環境権やプライバシー権など新しい人権の根拠となる。生存権（25条）と混同しない。",
+      "tags": [
+        "piege",
+        "憲法"
+      ],
+      "distractors": {
+        "easy": [
+          "生存権",
+          "参政権",
+          "平等権"
+        ],
+        "medium": [
+          "自由権",
+          "社会権",
+          "請求権"
+        ],
+        "hard": [
+          "法の下の平等",
+          "包括的基本権という別称",
+          "自己決定権"
+        ]
+      }
+    },
+    {
+      "recto": "戦争を放棄し、戦力を持たず、交戦権を認めないことを定めた、日本国憲法の平和主義の中心となる条文は第何条か。",
+      "verso": "第9条",
+      "explanation": "平和主義を具体化する条文。自衛隊や日米安保との関係が議論され続けている。三大原則の一つ平和主義の柱。",
+      "tags": [
+        "憲法",
+        "平和主義"
+      ],
+      "distractors": {
+        "easy": [
+          "第1条",
+          "第25条",
+          "前文"
+        ],
+        "medium": [
+          "第13条",
+          "第14条",
+          "第11条"
+        ],
+        "hard": [
+          "第96条",
+          "第98条",
+          "第66条"
+        ]
+      }
+    },
+    {
+      "recto": "自分の生き方や生命に関わることを、自分で決める権利として主張される新しい人権を何というか。",
+      "verso": "自己決定権",
+      "explanation": "医療における同意（インフォームド・コンセント）などに関わる。環境権・プライバシー権・知る権利とならぶ新しい人権。",
+      "tags": [
+        "新しい人権"
+      ],
+      "distractors": {
+        "easy": [
+          "自由権",
+          "参政権",
+          "生存権"
+        ],
+        "medium": [
+          "環境権",
+          "プライバシー権",
+          "知る権利"
+        ],
+        "hard": [
+          "幸福追求権のみ",
+          "尊厳死の権利",
+          "リプロダクティブ権"
+        ]
+      }
+    },
+    {
+      "recto": "日本国憲法が定める、国民の三大義務のうち、「教育」「勤労」とならぶもう一つの義務は何か。",
+      "verso": "納税の義務",
+      "explanation": "国民の三大義務は、教育を受けさせる義務・勤労の義務・納税の義務。権利だけでなく義務も定められている。",
+      "tags": [
+        "憲法"
+      ],
+      "distractors": {
+        "easy": [
+          "投票の義務",
+          "兵役の義務",
+          "貯蓄の義務"
+        ],
+        "medium": [
+          "遵法の義務",
+          "労働の義務",
+          "国防の義務"
+        ],
+        "hard": [
+          "憲法尊重擁護義務",
+          "社会保険料納付",
+          "公共の福祉への奉仕"
+        ]
+      }
+    },
+    {
+      "recto": "憲法を改正するには、各議院の総議員の3分の2以上の賛成で国会が発議し、その後どのような手続きが必要か。",
+      "verso": "国民投票で過半数の賛成",
+      "explanation": "憲法96条の手続き。国民主権を反映し、最終的に国民が決める。通常の法律改正より厳しい「硬性憲法」である。",
+      "tags": [
+        "憲法",
+        "改正"
+      ],
+      "distractors": {
+        "easy": [
+          "天皇の許可",
+          "内閣の承認",
+          "最高裁の審査"
+        ],
+        "medium": [
+          "衆議院の解散",
+          "国会の再議決",
+          "都道府県の同意"
+        ],
+        "hard": [
+          "国民投票で3分の2の賛成",
+          "参議院の特別多数",
+          "内閣総理大臣の署名"
+        ]
+      }
+    },
+    {
+      "recto": "日本国憲法が、簡単には改正できない厳しい手続きを定めていることから、このような憲法を何というか。",
+      "verso": "硬性憲法",
+      "explanation": "通常の法律より改正手続きが厳しい憲法。人権保障を安定させるためのしくみ。ゆるやかに改正できる軟性憲法と対になる。",
+      "tags": [
+        "憲法"
+      ],
+      "distractors": {
+        "easy": [
+          "軟性憲法",
+          "成文憲法",
+          "不文憲法"
+        ],
+        "medium": [
+          "欽定憲法",
+          "民定憲法",
+          "連邦憲法"
+        ],
+        "hard": [
+          "硬性成文憲法という別称",
+          "基本法",
+          "永久憲法"
+        ]
+      }
+    }
+  ]
+}

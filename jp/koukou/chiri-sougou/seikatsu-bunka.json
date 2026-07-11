@@ -1,0 +1,536 @@
+{
+  "id": "jp-koukou-chiri-sougou-seikatsu-bunka",
+  "title": "生活文化の多様性",
+  "emoji": "🌍",
+  "subject": "geography",
+  "country": "jp",
+  "courseDescription": "衣食住から言語・宗教まで。世界の生活文化が自然環境や歴史とどう結びつくかを学ぶ。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>生活文化の多様性</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・地理総合<br>\n  <b>大項目B：</b>国際理解と国際協力<br>\n  <b>内容：</b>衣食住・言語・宗教と自然環境\n</div>\n\n<blockquote>\n  <p><b>問い</b>　世界の人々の暮らし方は、なぜこれほど多様なのだろうか。</p>\n</blockquote>\n\n<p>世界の<strong>生活文化</strong>——<strong>衣・食・住</strong>や<strong>言語・宗教</strong>——は、その土地の<strong>自然環境</strong>や歴史と深く結びついて形づくられてきた。グローバル化で文化が似通う一方、それぞれの伝統を尊重する<strong>多文化共生</strong>が求められている。世界の暮らしの多様さと、その背景を読み解こう。</p>\n\n<h2>1・自然環境と住まい・食</h2>\n\n<p><strong>住居</strong>は気候をよく映す。寒冷なシベリアでは凍土を溶かさないよう<strong>高床</strong>にし、乾燥地域では樹木が少ないため<strong>日干しレンガ</strong>の厚い壁で暑さと寒さを防ぐ。モンゴルの遊牧民は移動に適した組み立て式の<strong>ゲル</strong>で暮らす。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"気候と住居の対応。寒冷は高床、乾燥は日干しレンガ、遊牧はゲル\">\n  <!-- 高床 -->\n  <rect x=\"8\" y=\"8\" width=\"104\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">高床</text>\n  <text x=\"60\" y=\"64\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11\" font-weight=\"700\">寒冷地</text>\n  <text x=\"60\" y=\"98\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">シベリア</text>\n  <text x=\"60\" y=\"122\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">凍土を</text>\n  <text x=\"60\" y=\"144\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">溶かさない</text>\n  <!-- 日干しレンガ -->\n  <rect x=\"118\" y=\"8\" width=\"104\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11.5\" font-weight=\"700\">日干しレンガ</text>\n  <text x=\"170\" y=\"64\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11\" font-weight=\"700\">乾燥地</text>\n  <text x=\"170\" y=\"98\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">西アジア</text>\n  <text x=\"170\" y=\"122\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">樹木が少ない</text>\n  <text x=\"170\" y=\"144\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">厚い壁</text>\n  <!-- ゲル -->\n  <rect x=\"228\" y=\"8\" width=\"104\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">ゲル</text>\n  <text x=\"280\" y=\"64\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11\" font-weight=\"700\">遊牧</text>\n  <text x=\"280\" y=\"98\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">モンゴル</text>\n  <text x=\"280\" y=\"122\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">組み立て式</text>\n  <text x=\"280\" y=\"144\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">移動に適す</text>\n</svg>\n<figcaption>住居のかたちは、その土地の気候と暮らし方を映している。</figcaption>\n</figure>\n\n<p><strong>食</strong>も環境に応じて異なる。高温多雨の<strong>モンスーンアジア</strong>では<strong>米</strong>、乾燥に強い<strong>小麦</strong>は西アジアやヨーロッパ、冷涼な地域では<strong>じゃがいも</strong>が主食となる。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 240\" role=\"img\" aria-label=\"自然環境と主食の対応。湿潤は米、乾燥は小麦、冷涼はじゃがいも\">\n  <defs>\n    <marker id=\"ar-sb1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 自然環境（強調） -->\n  <rect x=\"85\" y=\"8\" width=\"170\" height=\"56\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"33\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"14\" font-weight=\"700\">自然環境と主食</text>\n  <text x=\"170\" y=\"53\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11\">気候が食を決める</text>\n  <!-- 矢印 -->\n  <path d=\"M170,66 L60,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sb1)\"/>\n  <path d=\"M170,66 L170,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sb1)\"/>\n  <path d=\"M170,66 L280,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sb1)\"/>\n  <!-- 米 -->\n  <rect x=\"10\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">米</text>\n  <text x=\"60\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">高温多雨</text>\n  <text x=\"60\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">モンスーン</text>\n  <text x=\"60\" y=\"214\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">アジア</text>\n  <!-- 小麦 -->\n  <rect x=\"120\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">小麦</text>\n  <text x=\"170\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">乾燥に強い</text>\n  <text x=\"170\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">西アジア</text>\n  <text x=\"170\" y=\"214\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">ヨーロッパ</text>\n  <!-- じゃがいも -->\n  <rect x=\"230\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">じゃがいも</text>\n  <text x=\"280\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">冷涼な地域</text>\n  <text x=\"280\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">アンデス</text>\n  <text x=\"280\" y=\"214\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">北ヨーロッパ</text>\n</svg>\n<figcaption>主食は、その土地の気候に適した作物から選ばれてきた。</figcaption>\n</figure>\n\n<h2>2・世界の宗教</h2>\n\n<p>宗教は生活文化の中心の一つである。民族をこえて広がる<strong>世界宗教</strong>（<strong>キリスト教・イスラム教・仏教</strong>）と、特定の民族に結びつく<strong>民族宗教</strong>（<strong>ヒンドゥー教・ユダヤ教</strong>）に大別される。</p>\n\n<p>宗教は食にも影響する。<strong>イスラム教</strong>は<strong>豚肉と酒</strong>を禁じ、許された食品を<strong>ハラール</strong>と呼ぶ。<strong>ヒンドゥー教</strong>は<strong>牛</strong>を神聖視して牛肉を食べない。禁忌の対象を取りちがえないことが大切である。</p>\n\n<div class=\"callout\">\n  <strong>用語・世界宗教と民族宗教</strong><br>\n  世界宗教（キリスト教・イスラム教・仏教）は布教により民族をこえて広がる。民族宗教（ヒンドゥー教・ユダヤ教）は特定の民族と結びつく。\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"世界宗教と民族宗教の比較。広がり方と代表的な宗教\">\n  <!-- 左：世界宗教 -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">世界宗教</text>\n  <text x=\"87\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">民族をこえる</text>\n  <text x=\"26\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">キリスト教</text>\n  <text x=\"26\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">イスラム教</text>\n  <text x=\"26\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">仏教</text>\n  <!-- 右：民族宗教 -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">民族宗教</text>\n  <text x=\"253\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">特定の民族と</text>\n  <text x=\"192\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">ヒンドゥー教</text>\n  <text x=\"192\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">ユダヤ教</text>\n  <text x=\"192\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">（神道など）</text>\n</svg>\n<figcaption>広がり方による宗教の分類。代表的な宗教をセットで覚える。</figcaption>\n</figure>\n\n<h2>3・言語と文化圏</h2>\n\n<p><strong>言語</strong>も生活文化を映す。多くの国は公の場で使う<strong>公用語</strong>を定め、多民族国家では複数の公用語をもつこともある。植民地支配の歴史から、旧宗主国の言語（<strong>英語</strong>・フランス語・スペイン語など）が公用語となっている国も多い。</p>\n\n<p>とくに<strong>英語</strong>は、国際的な意思疎通の共通語（リンガフランカ）として世界に広がっている。言語や食文化もまた、グローバル化の影響を強く受けている。</p>\n\n<h2>4・グローバル化と多文化共生</h2>\n\n<p>交通・通信の発達で世界の文化は交流し、似通う面（<strong>画一化</strong>）が生まれた。一方で、それぞれの<strong>文化の多様性を尊重</strong>し、伝統を守り受けつぐことの大切さも意識されている。</p>\n\n<p>移民や外国人労働者の増加により、異なる文化をもつ人々がともに暮らす<strong>多文化共生</strong>が、日本をふくむ各地で重要な課題となっている。異文化を理解し尊重する姿勢が、国際協力の出発点となる。</p>\n\n<div class=\"callout\">\n  <strong>用語・多文化共生</strong><br>\n  異なる文化をもつ人々が、たがいの違いを認め合いながら地域社会でともに暮らすこと。異文化理解を前提とし、グローバル化の時代に欠かせない考え方。\n</div>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>要素</th><th>環境との結びつき</th></tr>\n  <tr><td>高床の住居</td><td>寒冷地（凍土を溶かさない）</td></tr>\n  <tr><td>日干しレンガの家</td><td>乾燥地（樹木が少ない・暑さ対策）</td></tr>\n  <tr><td>ゲル</td><td>遊牧（移動に適する）</td></tr>\n  <tr><td>米・小麦・じゃがいも</td><td>湿潤・乾燥・冷涼</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>生活文化</td><td>自然環境に適応した衣食住・言語・宗教</td></tr>\n  <tr><td>世界宗教</td><td>キリスト教・イスラム教・仏教</td></tr>\n  <tr><td>民族宗教</td><td>ヒンドゥー教・ユダヤ教など</td></tr>\n  <tr><td>ハラール</td><td>イスラム教で許された食品・認証</td></tr>\n  <tr><td>公用語</td><td>国や地域が公の場で用いる言語</td></tr>\n  <tr><td>多文化共生</td><td>異文化の人々がともに暮らすこと</td></tr>\n</table>\n\n<h3>宗教と食の戒律</h3>\n\n<table>\n  <tr><th>宗教</th><th>食のきまり</th></tr>\n  <tr><td>イスラム教</td><td>豚肉と酒を口にしない（ハラール）</td></tr>\n  <tr><td>ヒンドゥー教</td><td>牛を神聖視し牛肉を食べない</td></tr>\n  <tr><td>仏教（一部）</td><td>肉食をさけることがある</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  食の戒律で、<b>豚肉と酒を禁じるのはイスラム教</b>、<b>牛を神聖視するのはヒンドゥー教</b>。取りちがえないこと。また<b>世界宗教</b>（キリスト教・イスラム教・仏教）と<b>民族宗教</b>（ヒンドゥー教・ユダヤ教）の分類も逆にしない。\n</div>\n\n<blockquote>\n  <p>暮らしの多様さは、人々が自然環境や歴史とどう向き合ってきたかの記録である。その違いを「遅れ」ではなく「多様性」として尊重すること——それが、地球的な課題を人々が協力して解いていくための第一歩となる。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "地理総合 ― 国際理解と国際協力",
+  "cards": [
+    {
+      "recto": "その土地の気候や地形などの自然環境に適応して形づくられた、暮らし方や習慣を何というか。",
+      "verso": "生活文化",
+      "explanation": "衣・食・住や言語・宗教などをふくむ。自然環境や歴史・宗教と結びついて地域ごとに多様化する。",
+      "tags": [
+        "文化",
+        "基礎"
+      ],
+      "distractors": {
+        "easy": [
+          "グローバル化",
+          "産業革命",
+          "国際協力"
+        ],
+        "medium": [
+          "伝統芸能",
+          "地域主義",
+          "文化遺産"
+        ],
+        "hard": [
+          "生活様式",
+          "民族性",
+          "文化圏"
+        ]
+      }
+    },
+    {
+      "recto": "寒帯や冷帯の地域で、凍った土が家の熱で溶けて建物が傾くのを防ぐため、地面から離してつくる住居の工夫を何というか。",
+      "verso": "高床（の住居）",
+      "explanation": "永久凍土やシベリアの住居に見られる。熱帯の高床（湿気や洪水対策）とは目的が異なる点に注意。",
+      "tags": [
+        "住",
+        "気候"
+      ],
+      "distractors": {
+        "easy": [
+          "石造りの家",
+          "地下室",
+          "テント"
+        ],
+        "medium": [
+          "日干しレンガの家",
+          "移動式住居",
+          "半地下住居"
+        ],
+        "hard": [
+          "丸太組みの家",
+          "パオ",
+          "イグルー"
+        ]
+      }
+    },
+    {
+      "recto": "乾燥地域で樹木が少ないため、粘土を乾かしてつくった建材で家を建てる。この建材を何というか。",
+      "verso": "日干しレンガ",
+      "explanation": "西アジアや北アフリカの乾燥地域に多い。厚い壁は日中の暑さや夜の寒さを防ぐ。木造が多い湿潤地域と対比する。",
+      "tags": [
+        "住",
+        "気候"
+      ],
+      "distractors": {
+        "easy": [
+          "木材",
+          "鉄骨",
+          "ガラス"
+        ],
+        "medium": [
+          "石材",
+          "コンクリート",
+          "竹"
+        ],
+        "hard": [
+          "焼きレンガ",
+          "サンゴ石",
+          "泥炭"
+        ]
+      }
+    },
+    {
+      "recto": "モンゴルの遊牧民が使う、移動に適した組み立て式のテント状の住居を何というか。",
+      "verso": "ゲル（パオ）",
+      "explanation": "羊などの家畜を追って移動する遊牧の暮らしに適する。組み立てと解体が簡単なつくりが特徴。",
+      "tags": [
+        "住",
+        "遊牧"
+      ],
+      "distractors": {
+        "easy": [
+          "マンション",
+          "高床の家",
+          "イグルー"
+        ],
+        "medium": [
+          "日干しレンガの家",
+          "石の家",
+          "丸太小屋"
+        ],
+        "hard": [
+          "ティピー",
+          "サーミの小屋",
+          "ヤオトン"
+        ]
+      }
+    },
+    {
+      "recto": "アジアの湿潤な地域で広く主食とされ、水田で栽培される作物は何か。",
+      "verso": "米",
+      "explanation": "モンスーンアジアの高温多雨に適する。乾燥に強い小麦、寒冷地の主食となるじゃがいもなどと対比する。",
+      "tags": [
+        "食",
+        "農業"
+      ],
+      "distractors": {
+        "easy": [
+          "小麦",
+          "とうもろこし",
+          "じゃがいも"
+        ],
+        "medium": [
+          "大豆",
+          "大麦",
+          "そば"
+        ],
+        "hard": [
+          "キャッサバ",
+          "タロいも",
+          "モロコシ"
+        ]
+      }
+    },
+    {
+      "recto": "西アジアやヨーロッパで主食とされ、パンやパスタの原料となる、比較的乾燥に強い作物は何か。",
+      "verso": "小麦",
+      "explanation": "地中海性気候の冬雨を利用して栽培される。米（湿潤）、じゃがいも（冷涼）と主食を対比して覚える。",
+      "tags": [
+        "食",
+        "農業"
+      ],
+      "distractors": {
+        "easy": [
+          "米",
+          "バナナ",
+          "タロいも"
+        ],
+        "medium": [
+          "とうもろこし",
+          "キャッサバ",
+          "大豆"
+        ],
+        "hard": [
+          "ライ麦",
+          "モロコシ",
+          "アワ"
+        ]
+      }
+    },
+    {
+      "recto": "衣服の素材のうち、暑く乾燥した地域で強い日ざしや砂ぼこりから身を守るために着られる、ゆったりした長い衣服の例は何か。",
+      "verso": "民族衣装（長い上着・ターバンなど）",
+      "explanation": "肌の露出を抑え、通気性を保つ工夫。寒帯の毛皮の衣服や、熱帯の薄い衣服と対比して考える。",
+      "tags": [
+        "衣",
+        "気候"
+      ],
+      "distractors": {
+        "easy": [
+          "毛皮のコート",
+          "水着",
+          "半そでシャツ"
+        ],
+        "medium": [
+          "ダウンジャケット",
+          "スーツ",
+          "レインコート"
+        ],
+        "hard": [
+          "アノラック",
+          "ポンチョ",
+          "サリー"
+        ]
+      }
+    },
+    {
+      "recto": "特定の民族の枠をこえ、世界の広い地域に信者をもつ宗教を何というか。",
+      "verso": "世界宗教",
+      "explanation": "キリスト教・イスラム教・仏教が三大世界宗教。特定の民族と結びつく民族宗教と対になる。",
+      "tags": [
+        "宗教",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "国教",
+          "新興宗教",
+          "神話"
+        ],
+        "medium": [
+          "民族宗教",
+          "多神教",
+          "一神教"
+        ],
+        "hard": [
+          "原始宗教",
+          "土着信仰",
+          "普遍宗教という別称の混同"
+        ]
+      }
+    },
+    {
+      "recto": "特定の民族や地域と強く結びついた宗教を何というか。ヒンドゥー教やユダヤ教が例である。",
+      "verso": "民族宗教",
+      "explanation": "布教により広がる世界宗教と異なり、特定の民族に信仰がとどまる。ヒンドゥー教・ユダヤ教が代表例。",
+      "tags": [
+        "宗教",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "世界宗教",
+          "無宗教",
+          "国際宗教"
+        ],
+        "medium": [
+          "一神教",
+          "多神教",
+          "普遍宗教"
+        ],
+        "hard": [
+          "新宗教",
+          "習合宗教",
+          "自然宗教"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】キリスト教・イスラム教・仏教のような宗教と、ヒンドゥー教・ユダヤ教のような宗教を、それぞれまとめて何というか。",
+      "verso": "世界宗教と民族宗教",
+      "explanation": "世界宗教（キリスト教・イスラム教・仏教）は民族をこえて広がり、民族宗教（ヒンドゥー教・ユダヤ教）は特定の民族と結びつく。分類を逆にしない。",
+      "tags": [
+        "comparaison",
+        "宗教"
+      ],
+      "distractors": {
+        "easy": [
+          "一神教と多神教",
+          "旧教と新教",
+          "東洋と西洋"
+        ],
+        "medium": [
+          "民族宗教と世界宗教",
+          "多神教と一神教",
+          "国教と民間信仰"
+        ],
+        "hard": [
+          "普遍宗教と土着宗教",
+          "啓典宗教と自然宗教",
+          "創唱宗教と自然宗教"
+        ]
+      }
+    },
+    {
+      "recto": "世界で最も信者が多く、ヨーロッパ・南北アメリカに広く分布する宗教は何か。",
+      "verso": "キリスト教",
+      "explanation": "カトリック・プロテスタント・正教会などに分かれる。信者数が世界最多の世界宗教。",
+      "tags": [
+        "宗教",
+        "分布"
+      ],
+      "distractors": {
+        "easy": [
+          "神道",
+          "ヒンドゥー教",
+          "道教"
+        ],
+        "medium": [
+          "イスラム教",
+          "仏教",
+          "ユダヤ教"
+        ],
+        "hard": [
+          "ゾロアスター教",
+          "ジャイナ教",
+          "シク教"
+        ]
+      }
+    },
+    {
+      "recto": "西アジアから北アフリカ、東南アジアにかけて広がり、1日5回の礼拝や豚肉・酒を口にしない戒律をもつ宗教は何か。",
+      "verso": "イスラム教",
+      "explanation": "唯一神アッラーを信仰し、聖典はコーラン。断食月（ラマダーン）やメッカへの巡礼も知られる。",
+      "tags": [
+        "宗教",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "キリスト教",
+          "神道",
+          "仏教"
+        ],
+        "medium": [
+          "ヒンドゥー教",
+          "ユダヤ教",
+          "道教"
+        ],
+        "hard": [
+          "シク教",
+          "バハーイー教",
+          "ゾロアスター教"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】牛を神聖な動物として大切にし、牛肉を食べないことで知られる宗教は何か。",
+      "verso": "ヒンドゥー教",
+      "explanation": "牛を神聖視するのはヒンドゥー教（インド）。豚肉と酒を禁じるのはイスラム教。禁忌の対象を取りちがえないこと。",
+      "tags": [
+        "piege",
+        "宗教"
+      ],
+      "distractors": {
+        "easy": [
+          "キリスト教",
+          "神道",
+          "仏教"
+        ],
+        "medium": [
+          "イスラム教",
+          "ユダヤ教",
+          "道教"
+        ],
+        "hard": [
+          "ジャイナ教",
+          "シク教",
+          "ゾロアスター教"
+        ]
+      }
+    },
+    {
+      "recto": "インドで生まれ、東アジアや東南アジアに広がった、慈悲や悟りを説く世界宗教は何か。",
+      "verso": "仏教",
+      "explanation": "上座部仏教（東南アジア）と大乗仏教（東アジア）に大別される。開祖はシャカ（ガウタマ＝シッダールタ）。",
+      "tags": [
+        "宗教",
+        "分布"
+      ],
+      "distractors": {
+        "easy": [
+          "キリスト教",
+          "神道",
+          "道教"
+        ],
+        "medium": [
+          "ヒンドゥー教",
+          "イスラム教",
+          "ユダヤ教"
+        ],
+        "hard": [
+          "ジャイナ教",
+          "シク教",
+          "儒教"
+        ]
+      }
+    },
+    {
+      "recto": "イスラム教で食べることが許された食品や、その認証を示す言葉を何というか。",
+      "verso": "ハラール",
+      "explanation": "戒律にかなった食品・製品を指す。ムスリムの旅行者・移民の増加で、日本でもハラール対応が広がっている。",
+      "tags": [
+        "宗教",
+        "食"
+      ],
+      "distractors": {
+        "easy": [
+          "オーガニック",
+          "ヴィーガン",
+          "フェアトレード"
+        ],
+        "medium": [
+          "コーシャ",
+          "ベジタリアン",
+          "断食"
+        ],
+        "hard": [
+          "ハラーム",
+          "スンナ",
+          "ザカート"
+        ]
+      }
+    },
+    {
+      "recto": "国や地域で公の場や教育に使われ、意思疎通の共通の基盤となる言語を何というか。",
+      "verso": "公用語",
+      "explanation": "多民族国家では複数の公用語をもつことも多い（スイス・インドなど）。植民地支配の名残で旧宗主国の言語が使われることもある。",
+      "tags": [
+        "言語",
+        "基礎"
+      ],
+      "distractors": {
+        "easy": [
+          "方言",
+          "母語",
+          "外国語"
+        ],
+        "medium": [
+          "国語",
+          "共通語",
+          "母国語"
+        ],
+        "hard": [
+          "リンガフランカ",
+          "標準語",
+          "現地語"
+        ]
+      }
+    },
+    {
+      "recto": "植民地支配などを背景に、国際的な意思疎通の共通語として広く使われている言語の代表は何か。",
+      "verso": "英語",
+      "explanation": "旧イギリス領を中心に世界に広がり、国際共通語（リンガフランカ）として使われる。言語もグローバル化の影響を受ける例。",
+      "tags": [
+        "言語",
+        "グローバル化"
+      ],
+      "distractors": {
+        "easy": [
+          "日本語",
+          "韓国語",
+          "タイ語"
+        ],
+        "medium": [
+          "フランス語",
+          "スペイン語",
+          "アラビア語"
+        ],
+        "hard": [
+          "スワヒリ語",
+          "ヒンディー語",
+          "ポルトガル語"
+        ]
+      }
+    },
+    {
+      "recto": "グローバル化のなかで、世界の生活文化が似通っていく動きに対し、各地の伝統的な文化を守り受けつごうとする考え方が求められている。この多様な文化を尊重する考え方を何というか。",
+      "verso": "文化の多様性の尊重",
+      "explanation": "画一化に対し、それぞれの文化を対等に尊重する姿勢。異文化理解と国際協力の基礎となる。",
+      "tags": [
+        "文化",
+        "国際理解"
+      ],
+      "distractors": {
+        "easy": [
+          "自国第一主義",
+          "文化の画一化",
+          "同化政策"
+        ],
+        "medium": [
+          "文化相対主義",
+          "多文化共生",
+          "自民族中心主義"
+        ],
+        "hard": [
+          "文化帝国主義",
+          "エスノセントリズム",
+          "オリエンタリズム"
+        ]
+      }
+    },
+    {
+      "recto": "異なる文化をもつ人々が、たがいの違いを認め合いながら地域社会でともに暮らすことを何というか。",
+      "verso": "多文化共生",
+      "explanation": "移民や外国人労働者の増加で、日本でも重要な課題となっている。異文化理解が前提となる。",
+      "tags": [
+        "文化",
+        "国際理解"
+      ],
+      "distractors": {
+        "easy": [
+          "鎖国",
+          "植民地化",
+          "文化の統一"
+        ],
+        "medium": [
+          "同化",
+          "分離政策",
+          "国際分業"
+        ],
+        "hard": [
+          "文化変容",
+          "民族浄化",
+          "文化摩擦"
+        ]
+      }
+    },
+    {
+      "recto": "地中海沿岸で、夏の乾燥に強いオリーブやぶどう、冬の降雨を利用した小麦を栽培する農業を何というか。",
+      "verso": "地中海式農業",
+      "explanation": "地中海性気候（夏乾燥・冬湿潤）に適応した農業で、食文化にも影響する。自然環境と生活文化の結びつきの好例。",
+      "tags": [
+        "食",
+        "気候"
+      ],
+      "distractors": {
+        "easy": [
+          "焼畑農業",
+          "遊牧",
+          "稲作"
+        ],
+        "medium": [
+          "混合農業",
+          "酪農",
+          "プランテーション農業"
+        ],
+        "hard": [
+          "園芸農業",
+          "オアシス農業",
+          "企業的穀物農業"
+        ]
+      }
+    }
+  ]
+}

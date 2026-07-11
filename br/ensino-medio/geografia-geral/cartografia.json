@@ -1,0 +1,458 @@
+{
+  "id": "br-ensino-medio-geografia-geral-cartografia",
+  "title": "Cartografia e geotecnologias",
+  "emoji": "🗺️",
+  "subject": "geography",
+  "country": "br",
+  "courseDescription": "Ler e interpretar mapas: escala, projeções, coordenadas geográficas, fusos horários e as geotecnologias (GPS, SIG, sensoriamento remoto).",
+  "lesson": "<style>\n  /* Estilos dos gráficos (SVG). Usam currentColor (texto) e var(--accent)\n     (cor da matéria), adaptando-se ao tema claro/escuro do app. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Cartografia e geotecnologias</h1>\n\n<div class=\"callout\">\n  <strong>Pontos de estudo</strong><br>\n  <b>Nível:</b> Ensino Médio<br>\n  <b>Área:</b> Geografia Geral<br>\n  <b>Tema:</b> ler e produzir mapas\n</div>\n\n<blockquote>\n  <p><b>Questão central.</b> Por que nenhum mapa-múndi consegue representar a Terra sem distorções?</p>\n</blockquote>\n\n<p>A <strong>cartografia</strong> representa a Terra em mapas. Para localizar lugares, usa as <strong>coordenadas geográficas</strong> (latitude e longitude); para caber num plano, usa <strong>projeções</strong> — que sempre deformam algo. Hoje, as <strong>geotecnologias</strong> (GPS, SIG, sensoriamento remoto) transformaram a forma de mapear o mundo.</p>\n\n<h2>1 · Localizar: coordenadas geográficas</h2>\n\n<p>Qualquer ponto da Terra é localizado por dois valores: a <strong>latitude</strong> (distância ao <strong>Equador</strong>, medida pelos <strong>paralelos</strong>) e a <strong>longitude</strong> (distância a <strong>Greenwich</strong>, medida pelos <strong>meridianos</strong>).</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Rede de paralelos e meridianos na Terra: latitude e longitude\">\n  <circle cx=\"170\" cy=\"95\" r=\"80\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <line x1=\"90\" y1=\"95\" x2=\"250\" y2=\"95\" style=\"stroke:var(--accent);stroke-width:2\"/>\n  <text x=\"256\" y=\"99\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Equador</text>\n  <ellipse cx=\"170\" cy=\"95\" rx=\"30\" ry=\"80\" style=\"fill:none;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.2\"/>\n  <line x1=\"170\" y1=\"15\" x2=\"170\" y2=\"175\" style=\"stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5;stroke-dasharray:3 3\"/>\n  <text x=\"174\" y=\"26\" class=\"s-muted\" font-size=\"9\">Greenwich (0°)</text>\n  <path d=\"M90,65 Q170,55 250,65\" style=\"fill:none;stroke:currentColor;stroke-opacity:.4;stroke-width:1\"/>\n  <path d=\"M90,125 Q170,135 250,125\" style=\"fill:none;stroke:currentColor;stroke-opacity:.4;stroke-width:1\"/>\n  <text x=\"20\" y=\"70\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">paralelos</text>\n  <text x=\"20\" y=\"82\" class=\"s-muted\" font-size=\"8.5\">(latitude)</text>\n  <text x=\"278\" y=\"150\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">meridianos</text>\n  <text x=\"286\" y=\"162\" class=\"s-muted\" font-size=\"8.5\">(longitude)</text>\n</svg>\n<figcaption>Paralelos e meridianos formam a rede que localiza qualquer ponto do globo.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Conceito · Escala</strong><br>\n  Relação entre a distância no mapa e a real. Em <b>1:100 000</b>, 1 cm no mapa = 1 km real. Escala <b>grande</b> (denominador pequeno) mostra <b>mais detalhe</b> de uma área menor.\n</div>\n\n<h2>2 · Representar: as projeções</h2>\n\n<p>Como a Terra é esférica, não cabe num plano sem deformação. Cada <strong>projeção</strong> escolhe o que preservar. A de <strong>Mercator</strong> conserva as formas (boa para navegar), mas <strong>exagera as áreas</strong> perto dos polos. A de <strong>Peters</strong> preserva as áreas reais, valorizando os países do Sul.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 150\" role=\"img\" aria-label=\"Comparação entre a projeção de Mercator e a projeção de Peters\">\n  <rect x=\"12\" y=\"30\" width=\"150\" height=\"108\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"22\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">Mercator</text>\n  <text x=\"87\" y=\"62\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">conserva formas</text>\n  <text x=\"87\" y=\"82\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">(ângulos)</text>\n  <text x=\"87\" y=\"106\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">distorce áreas</text>\n  <text x=\"87\" y=\"124\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">nos polos</text>\n  <rect x=\"178\" y=\"30\" width=\"150\" height=\"108\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"22\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">Peters</text>\n  <text x=\"253\" y=\"62\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">conserva áreas</text>\n  <text x=\"253\" y=\"82\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">(proporções)</text>\n  <text x=\"253\" y=\"106\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">distorce as</text>\n  <text x=\"253\" y=\"124\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">formas</text>\n</svg>\n<figcaption>Toda projeção é uma escolha: preservar formas (Mercator) ou áreas (Peters).</figcaption>\n</figure>\n\n<h2>3 · Medir o tempo: fusos horários</h2>\n\n<p>A Terra gira 360° em 24 horas — 15° por hora. Por isso ela é dividida em <strong>24 fusos horários</strong> de 15° de longitude cada. Lugares a <strong>leste</strong> têm horas adiantadas; a <strong>oeste</strong>, atrasadas. O Brasil tem mais de um fuso.</p>\n\n<h2>4 · As geotecnologias</h2>\n\n<p>A cartografia moderna é digital. O <strong>GPS</strong> dá a posição por satélites; o <strong>SIG</strong> cruza camadas de dados espaciais para análises; o <strong>sensoriamento remoto</strong> capta imagens da Terra à distância, monitorando desmatamento, clima e cidades.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"As três geotecnologias: GPS, SIG e sensoriamento remoto\">\n  <defs>\n    <marker id=\"ar-gca1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"170\" y=\"18\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">mapear o mundo hoje</text>\n  <rect x=\"8\" y=\"34\" width=\"100\" height=\"72\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">GPS</text>\n  <text x=\"58\" y=\"82\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">posição por</text>\n  <text x=\"58\" y=\"95\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">satélite</text>\n  <rect x=\"120\" y=\"34\" width=\"100\" height=\"72\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">SIG</text>\n  <text x=\"170\" y=\"82\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">camadas de</text>\n  <text x=\"170\" y=\"95\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">dados</text>\n  <rect x=\"232\" y=\"34\" width=\"100\" height=\"72\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Sensor.</text>\n  <text x=\"282\" y=\"70\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">remoto</text>\n  <text x=\"282\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">imagens de</text>\n  <text x=\"282\" y=\"102\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">satélite</text>\n</svg>\n<figcaption>GPS, SIG e sensoriamento remoto: o tripé das geotecnologias.</figcaption>\n</figure>\n\n<h2>O essencial</h2>\n\n<h3>Números-chave</h3>\n\n<table>\n  <tr><th>Elemento</th><th>Valor</th></tr>\n  <tr><td>Fusos horários</td><td>24 faixas de 15°</td></tr>\n  <tr><td>Rotação da Terra</td><td>360° em 24 h (15°/hora)</td></tr>\n  <tr><td>Latitude</td><td>0° (Equador) a 90° (polos)</td></tr>\n  <tr><td>Longitude</td><td>0° (Greenwich) a 180°</td></tr>\n</table>\n\n<h3>Termos-chave</h3>\n\n<table>\n  <tr><th>Termo</th><th>Significado</th></tr>\n  <tr><td>Escala</td><td>Distância no mapa ÷ distância real</td></tr>\n  <tr><td>Projeção</td><td>Passar a esfera para o plano (deforma algo)</td></tr>\n  <tr><td>Paralelos</td><td>Linhas da latitude</td></tr>\n  <tr><td>Meridianos</td><td>Linhas da longitude</td></tr>\n  <tr><td>SIG</td><td>Sistema de Informações Geográficas</td></tr>\n</table>\n\n<h3>Projeções e usos</h3>\n\n<table>\n  <tr><th>Projeção</th><th>Preserva / uso</th></tr>\n  <tr><td>Mercator</td><td>Formas e ângulos · navegação</td></tr>\n  <tr><td>Peters</td><td>Áreas reais · visão do Sul</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  Em <b>Mercator</b>, a Groenlândia parece do tamanho da África, mas é cerca de <b>14 vezes menor</b>: a projeção exagera as áreas polares. E lembre: <b>escala grande</b> = mais detalhe de área <b>menor</b> (não o contrário).\n</div>\n\n<blockquote>\n  <p>Todo mapa é uma escolha: nenhuma projeção é neutra. Saber ler suas distorções é o primeiro passo para entender como representamos — e enxergamos — o mundo.</p>\n</blockquote>\n",
+  "questionLang": "pt",
+  "answerLang": "pt",
+  "version": 1,
+  "level": "Ensino Médio",
+  "theme": "Geografia Geral",
+  "cards": [
+    {
+      "recto": "Ciência e técnica de representar a superfície da Terra em mapas.",
+      "verso": "Cartografia",
+      "explanation": "Estuda a elaboração e a leitura de mapas. Como a Terra é esférica e o mapa é plano, toda representação tem alguma distorção.",
+      "tags": [
+        "cartografia",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "Geologia",
+          "Astronomia",
+          "Demografia"
+        ],
+        "medium": [
+          "Topologia",
+          "Geodésia apenas",
+          "Cartomancia"
+        ],
+        "hard": [
+          "Corografia",
+          "Hipsometria",
+          "Cartografia social apenas"
+        ]
+      }
+    },
+    {
+      "recto": "Relação entre a distância no mapa e a distância real no terreno.",
+      "verso": "Escala",
+      "explanation": "Ex.: 1:100 000 significa que 1 cm no mapa equivale a 100 000 cm (1 km) reais. Permite calcular distâncias verdadeiras.",
+      "tags": [
+        "cartografia",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "Legenda",
+          "Latitude",
+          "Altitude"
+        ],
+        "medium": [
+          "Projeção",
+          "Fuso horário",
+          "Coordenada"
+        ],
+        "hard": [
+          "Curva de nível",
+          "Convenção",
+          "Orientação"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] Qual mostra mais detalhes: uma escala grande (1:1 000) ou uma escala pequena (1:1 000 000)?",
+      "verso": "A escala grande (1:1 000) mostra mais detalhes, de uma área menor",
+      "explanation": "Quanto maior o denominador, menor a escala e menos detalhes (área maior). Escala grande = menos território, mais detalhe. Confusão clássica.",
+      "tags": [
+        "comparaison",
+        "cartografia"
+      ],
+      "distractors": {
+        "easy": [
+          "A escala pequena mostra mais detalhes",
+          "As duas mostram o mesmo",
+          "Nenhuma mostra detalhes"
+        ],
+        "medium": [
+          "A escala pequena, de uma área menor",
+          "A escala grande, de uma área maior",
+          "Depende só das cores"
+        ],
+        "hard": [
+          "A escala pequena (1:1 000 000), com mais detalhe",
+          "A grande, cobrindo o mundo todo",
+          "Ambas cobrem a mesma área"
+        ]
+      }
+    },
+    {
+      "recto": "Sistema de linhas imaginárias que permite localizar qualquer ponto na Terra.",
+      "verso": "As coordenadas geográficas (latitude e longitude)",
+      "explanation": "A latitude mede a distância ao Equador; a longitude, ao Meridiano de Greenwich. Juntas dão a posição exata de um lugar.",
+      "tags": [
+        "cartografia",
+        "localizacao"
+      ],
+      "distractors": {
+        "easy": [
+          "As curvas de nível",
+          "As cores do mapa",
+          "A escala gráfica"
+        ],
+        "medium": [
+          "Os fusos horários",
+          "As projeções",
+          "As legendas"
+        ],
+        "hard": [
+          "Os paralelos apenas",
+          "A rosa dos ventos",
+          "Os pontos cardeais apenas"
+        ]
+      }
+    },
+    {
+      "recto": "Linhas imaginárias paralelas ao Equador, que medem a distância em graus ao norte ou ao sul.",
+      "verso": "Os paralelos (latitude)",
+      "explanation": "Variam de 0° (Equador) a 90° (polos). O Equador é o paralelo de referência. Definem a latitude Norte ou Sul.",
+      "tags": [
+        "cartografia",
+        "localizacao"
+      ],
+      "distractors": {
+        "easy": [
+          "Os meridianos (longitude)",
+          "As curvas de nível",
+          "As isóbaras"
+        ],
+        "medium": [
+          "Os fusos horários",
+          "As isoietas",
+          "As hipsométricas"
+        ],
+        "hard": [
+          "Os trópicos apenas",
+          "As isotermas",
+          "Os círculos polares apenas"
+        ]
+      }
+    },
+    {
+      "recto": "Linhas imaginárias que ligam os polos e medem a distância a leste ou a oeste de Greenwich.",
+      "verso": "Os meridianos (longitude)",
+      "explanation": "O Meridiano de Greenwich é o de referência (0°). Variam até 180°. Definem a longitude Leste ou Oeste e servem de base aos fusos horários.",
+      "tags": [
+        "cartografia",
+        "localizacao"
+      ],
+      "distractors": {
+        "easy": [
+          "Os paralelos (latitude)",
+          "As curvas de nível",
+          "As legendas"
+        ],
+        "medium": [
+          "Os trópicos",
+          "As isoietas",
+          "As hipsométricas"
+        ],
+        "hard": [
+          "Os círculos polares",
+          "As isóbaras",
+          "O Equador apenas"
+        ]
+      }
+    },
+    {
+      "recto": "Forma de transferir a superfície curva da Terra para o plano do mapa.",
+      "verso": "Projeção cartográfica",
+      "explanation": "Como não é possível achatar a esfera sem deformar, toda projeção distorce áreas, formas ou distâncias. Cada uma prioriza uma qualidade.",
+      "tags": [
+        "cartografia",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "Escala",
+          "Legenda",
+          "Coordenada"
+        ],
+        "medium": [
+          "Curva de nível",
+          "Fuso horário",
+          "Altitude"
+        ],
+        "hard": [
+          "Triangulação",
+          "Hipsometria",
+          "Aerofotogrametria"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] Na projeção de Mercator, a Groenlândia parece do tamanho da África. Isso é verdade?",
+      "verso": "Não; a Groenlândia é cerca de 14 vezes menor que a África",
+      "explanation": "Erro clássico. Mercator conserva formas e ângulos, mas exagera muito as áreas perto dos polos. A Groenlândia parece enorme, mas é bem pequena.",
+      "tags": [
+        "piege",
+        "cartografia"
+      ],
+      "distractors": {
+        "easy": [
+          "Sim, têm o mesmo tamanho",
+          "Sim, a Groenlândia é maior",
+          "Sim, são idênticas"
+        ],
+        "medium": [
+          "Sim, a diferença é pequena",
+          "Sim, a África é que é menor",
+          "Não, mas são quase iguais"
+        ],
+        "hard": [
+          "Não, a Groenlândia é 2 vezes menor",
+          "Sim, na realidade também",
+          "Não, mas Mercator preserva áreas"
+        ]
+      }
+    },
+    {
+      "recto": "Projeção que conserva as formas e os ângulos, muito usada na navegação, mas que distorce as áreas.",
+      "verso": "Projeção de Mercator",
+      "explanation": "Conforme (preserva ângulos), ideal para navegar. Mas amplia as áreas nas altas latitudes, dando uma visão eurocêntrica do mundo.",
+      "tags": [
+        "cartografia",
+        "projecoes"
+      ],
+      "distractors": {
+        "easy": [
+          "Projeção de Peters",
+          "Projeção do Google",
+          "Projeção solar"
+        ],
+        "medium": [
+          "Projeção de Robinson",
+          "Projeção de Mollweide",
+          "Projeção azimutal"
+        ],
+        "hard": [
+          "Projeção de Peters-Gall",
+          "Projeção cônica de Lambert",
+          "Projeção de Winkel"
+        ]
+      }
+    },
+    {
+      "recto": "Projeção que preserva as proporções de área entre os continentes, valorizando os países do Sul.",
+      "verso": "Projeção de Peters",
+      "explanation": "Equivalente (mantém as áreas reais), embora distorça as formas. Foi defendida por dar visibilidade mais justa aos países subdesenvolvidos.",
+      "tags": [
+        "cartografia",
+        "projecoes"
+      ],
+      "distractors": {
+        "easy": [
+          "Projeção de Mercator",
+          "Projeção do GPS",
+          "Projeção lunar"
+        ],
+        "medium": [
+          "Projeção cilíndrica de navegação",
+          "Projeção conforme",
+          "Projeção estelar"
+        ],
+        "hard": [
+          "Projeção de Lambert conforme",
+          "Projeção azimutal polar",
+          "Projeção gnomônica"
+        ]
+      }
+    },
+    {
+      "recto": "Divisões da Terra em 24 faixas para organizar as horas ao redor do planeta.",
+      "verso": "Os fusos horários",
+      "explanation": "A Terra gira 360° em 24 horas, ou 15° por hora. Cada fuso tem 15° de longitude. Por isso países a leste têm horas adiantadas.",
+      "tags": [
+        "cartografia",
+        "tempo"
+      ],
+      "distractors": {
+        "easy": [
+          "Os paralelos",
+          "As estações do ano",
+          "As curvas de nível"
+        ],
+        "medium": [
+          "As latitudes",
+          "Os trópicos",
+          "Os meridianos apenas"
+        ],
+        "hard": [
+          "As linhas isócronas apenas",
+          "Os círculos polares",
+          "As isoietas"
+        ]
+      }
+    },
+    {
+      "recto": "Sistema de satélites que permite determinar a posição exata de um ponto na Terra.",
+      "verso": "GPS (Sistema de Posicionamento Global)",
+      "explanation": "Usa satélites para dar coordenadas em tempo real. É uma das geotecnologias que revolucionaram a navegação e os mapas digitais.",
+      "tags": [
+        "cartografia",
+        "geotecnologia"
+      ],
+      "distractors": {
+        "easy": [
+          "A bússola",
+          "O astrolábio",
+          "O sextante"
+        ],
+        "medium": [
+          "O radar",
+          "O sonar",
+          "O GIS apenas"
+        ],
+        "hard": [
+          "O sensoriamento remoto apenas",
+          "A triangulação terrestre",
+          "O teodolito"
+        ]
+      }
+    },
+    {
+      "recto": "Tecnologia que integra e analisa dados espaciais em camadas, muito usada em planejamento.",
+      "verso": "SIG (Sistema de Informações Geográficas)",
+      "explanation": "Também chamado GIS. Sobrepõe camadas de informação (relevo, população, vias) para análises. Ferramenta central da cartografia digital.",
+      "tags": [
+        "cartografia",
+        "geotecnologia"
+      ],
+      "distractors": {
+        "easy": [
+          "O GPS apenas",
+          "A bússola",
+          "O mapa de papel"
+        ],
+        "medium": [
+          "O sensoriamento remoto apenas",
+          "A cartografia manual",
+          "O radar"
+        ],
+        "hard": [
+          "A fotogrametria apenas",
+          "O sistema GNSS",
+          "A geodésia clássica"
+        ]
+      }
+    },
+    {
+      "recto": "Obtenção de imagens da Terra à distância, por satélites ou aviões, sem contato direto.",
+      "verso": "Sensoriamento remoto",
+      "explanation": "Satélites captam imagens usadas para monitorar desmatamento, clima e uso do solo. Complementa o SIG e a cartografia moderna.",
+      "tags": [
+        "cartografia",
+        "geotecnologia"
+      ],
+      "distractors": {
+        "easy": [
+          "A trena",
+          "O trabalho de campo apenas",
+          "A bússola"
+        ],
+        "medium": [
+          "O GPS apenas",
+          "A triangulação",
+          "O nivelamento"
+        ],
+        "hard": [
+          "A aerofotogrametria manual",
+          "A geodésia terrestre",
+          "O levantamento topográfico a pé"
+        ]
+      }
+    },
+    {
+      "recto": "Elemento do mapa que explica o significado das cores e dos símbolos usados.",
+      "verso": "A legenda",
+      "explanation": "Sem legenda, os símbolos e cores não fazem sentido. É um dos elementos essenciais de qualquer mapa, ao lado de título, escala e orientação.",
+      "tags": [
+        "cartografia",
+        "elementos"
+      ],
+      "distractors": {
+        "easy": [
+          "A escala",
+          "A latitude",
+          "O fuso horário"
+        ],
+        "medium": [
+          "A projeção",
+          "A coordenada",
+          "A curva de nível"
+        ],
+        "hard": [
+          "A rosa dos ventos",
+          "O datum",
+          "A hipsometria"
+        ]
+      }
+    },
+    {
+      "recto": "Linhas de um mapa que unem pontos de mesma altitude, mostrando o relevo.",
+      "verso": "Curvas de nível",
+      "explanation": "Quanto mais próximas as curvas, mais íngreme o terreno. Permitem representar o relevo (altitudes) num mapa plano.",
+      "tags": [
+        "cartografia",
+        "relevo"
+      ],
+      "distractors": {
+        "easy": [
+          "Os meridianos",
+          "Os paralelos",
+          "As legendas"
+        ],
+        "medium": [
+          "As isoietas (chuva)",
+          "As isotermas (temperatura)",
+          "As isóbaras (pressão)"
+        ],
+        "hard": [
+          "As isóbatas (profundidade)",
+          "As isócronas (tempo)",
+          "As isolinhas de população"
+        ]
+      }
+    },
+    {
+      "recto": "De modo geral, por que todo mapa-múndi plano contém alguma distorção?",
+      "verso": "Porque é impossível representar a Terra esférica num plano sem deformar",
+      "explanation": "A esfera não se achata sem deformar áreas, formas ou distâncias. Por isso cada projeção escolhe o que preservar e o que sacrificar.",
+      "tags": [
+        "cartografia",
+        "sintese"
+      ],
+      "distractors": {
+        "easy": [
+          "Porque os mapas são antigos",
+          "Porque falta tinta",
+          "Porque a Terra é plana"
+        ],
+        "medium": [
+          "Porque os satélites erram",
+          "Porque a escala é sempre errada",
+          "Porque falta tecnologia"
+        ],
+        "hard": [
+          "Porque o GPS é impreciso",
+          "Porque a longitude não existe",
+          "Porque a legenda distorce"
+        ]
+      }
+    }
+  ]
+}

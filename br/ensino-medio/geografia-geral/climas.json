@@ -1,0 +1,432 @@
+{
+  "id": "br-ensino-medio-geografia-geral-climas",
+  "title": "Climas e domínios climáticos",
+  "emoji": "🌦️",
+  "subject": "geography",
+  "country": "br",
+  "courseDescription": "A diferença entre tempo e clima, os fatores e elementos do clima, os grandes tipos climáticos do mundo e as mudanças climáticas.",
+  "lesson": "<style>\n  /* Estilos dos gráficos (SVG). Usam currentColor (texto) e var(--accent)\n     (cor da matéria), adaptando-se ao tema claro/escuro do app. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Climas e domínios climáticos</h1>\n\n<div class=\"callout\">\n  <strong>Pontos de estudo</strong><br>\n  <b>Nível:</b> Ensino Médio<br>\n  <b>Área:</b> Geografia Geral<br>\n  <b>Tema:</b> fatores, tipos de clima e mudanças\n</div>\n\n<blockquote>\n  <p><b>Questão central.</b> Por que faz calor no Equador e frio nos polos — e o que faz o clima mudar?</p>\n</blockquote>\n\n<p>O <strong>clima</strong> é o padrão médio da atmosfera ao longo dos anos (diferente do <strong>tempo</strong>, do momento). Ele varia segundo os <strong>fatores climáticos</strong> (latitude, altitude, maritimidade), criando grandes <strong>tipos de clima</strong>. Hoje, as ações humanas provocam o <strong>aquecimento global</strong>.</p>\n\n<h2>1 · Tempo × clima</h2>\n\n<p>O <strong>tempo</strong> é o estado da atmosfera num instante (hoje chove); o <strong>clima</strong> é a média desses estados por décadas. A previsão do tempo é para amanhã; o clima define se uma região é tropical ou polar.</p>\n\n<div class=\"callout\">\n  <strong>Conceito · Fatores climáticos</strong><br>\n  São as causas que determinam o clima: <b>latitude</b> (distância ao Equador), <b>altitude</b> (quanto mais alto, mais frio), <b>maritimidade</b> (o mar ameniza) e as correntes marítimas.\n</div>\n\n<h2>2 · Os fatores do clima</h2>\n\n<p>O principal é a <strong>latitude</strong>: perto do Equador o Sol incide direto (calor); perto dos polos, inclinado (frio). A <strong>altitude</strong> resfria (−6°C a cada 1000 m); a <strong>maritimidade</strong> suaviza o litoral, enquanto o interior tem maior amplitude térmica.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 170\" role=\"img\" aria-label=\"A latitude e as zonas térmicas da Terra: quente no Equador, fria nos polos\">\n  <line x1=\"60\" y1=\"20\" x2=\"60\" y2=\"150\" style=\"stroke:currentColor;stroke-opacity:.4;stroke-width:1.5\"/>\n  <rect x=\"60\" y=\"20\" width=\"230\" height=\"26\" style=\"fill:var(--accent);fill-opacity:.08\"/>\n  <text x=\"66\" y=\"37\" class=\"s-muted\" font-size=\"9.5\">Zona polar (frio) — alta latitude</text>\n  <rect x=\"60\" y=\"52\" width=\"230\" height=\"26\" style=\"fill:var(--accent);fill-opacity:.13\"/>\n  <text x=\"66\" y=\"69\" class=\"s-muted\" font-size=\"9.5\">Zona temperada — 4 estações</text>\n  <rect x=\"60\" y=\"84\" width=\"230\" height=\"34\" style=\"fill:var(--accent);fill-opacity:.20\"/>\n  <text x=\"66\" y=\"105\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Zona tropical (quente) — Equador</text>\n  <rect x=\"60\" y=\"124\" width=\"230\" height=\"26\" style=\"fill:var(--accent);fill-opacity:.13\"/>\n  <text x=\"66\" y=\"141\" class=\"s-muted\" font-size=\"9.5\">Zona temperada — 4 estações</text>\n  <text x=\"30\" y=\"105\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">0°</text>\n  <text x=\"30\" y=\"37\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">90°</text>\n  <text x=\"30\" y=\"145\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">90°</text>\n</svg>\n<figcaption>A latitude organiza as zonas térmicas: mais quente no Equador, mais frio nos polos.</figcaption>\n</figure>\n\n<h2>3 · Os grandes tipos de clima</h2>\n\n<p>Da linha do Equador aos polos: <strong>equatorial</strong> (quente e úmido o ano todo), <strong>tropical</strong> (verão chuvoso, inverno seco), <strong>árido</strong> (desértico, seco), <strong>temperado</strong> (quatro estações) e <strong>polar</strong> (frio extremo). Cada um sustenta vegetações típicas.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 140\" role=\"img\" aria-label=\"Gradiente dos tipos de clima do Equador aos polos\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">do Equador (quente) aos polos (frio)</text>\n  <rect x=\"10\" y=\"30\" width=\"60\" height=\"60\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.22;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.2\"/>\n  <text x=\"40\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">Equatorial</text>\n  <text x=\"40\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">quente úmido</text>\n  <rect x=\"74\" y=\"30\" width=\"60\" height=\"60\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"104\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Tropical</text>\n  <text x=\"104\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">seco/chuvoso</text>\n  <rect x=\"138\" y=\"30\" width=\"60\" height=\"60\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"168\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Árido</text>\n  <text x=\"168\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">deserto</text>\n  <rect x=\"202\" y=\"30\" width=\"60\" height=\"60\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.2\"/>\n  <text x=\"232\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">Temperado</text>\n  <text x=\"232\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">4 estações</text>\n  <rect x=\"266\" y=\"30\" width=\"60\" height=\"60\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.07;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.2\"/>\n  <text x=\"296\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Polar</text>\n  <text x=\"296\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">frio extremo</text>\n  <text x=\"40\" y=\"112\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">mais quente</text>\n  <text x=\"296\" y=\"112\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">mais frio</text>\n</svg>\n<figcaption>Os grandes domínios climáticos, do calor equatorial ao frio polar.</figcaption>\n</figure>\n\n<h2>4 · As mudanças climáticas</h2>\n\n<p>O <strong>efeito estufa</strong> é natural e mantém a Terra habitável. Mas a queima de combustíveis fósseis aumenta o <strong>CO₂</strong>, intensificando-o: é o <strong>aquecimento global</strong>, com derretimento de geleiras e eventos extremos. Fenômenos como o <strong>El Niño</strong> também desregulam as chuvas.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 140\" role=\"img\" aria-label=\"Do efeito estufa natural ao aquecimento global provocado pelo excesso de CO2\">\n  <defs>\n    <marker id=\"ar-gcli1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"10\" y=\"40\" width=\"96\" height=\"60\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"64\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Efeito estufa</text>\n  <text x=\"58\" y=\"84\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">natural (habitável)</text>\n  <path d=\"M106,70 L136,70\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gcli1)\"/>\n  <text x=\"170\" y=\"60\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">excesso de CO₂</text>\n  <text x=\"170\" y=\"84\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">(fósseis)</text>\n  <rect x=\"204\" y=\"40\" width=\"126\" height=\"60\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"267\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Aquecimento global</text>\n  <text x=\"267\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">geleiras derretem,</text>\n  <text x=\"267\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">eventos extremos</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">quando o natural vira problema</text>\n</svg>\n<figcaption>O efeito estufa é natural; seu excesso, provocado pelo homem, gera o aquecimento global.</figcaption>\n</figure>\n\n<h2>O essencial</h2>\n\n<h3>Tipos de clima</h3>\n\n<table>\n  <tr><th>Clima</th><th>Característica</th></tr>\n  <tr><td>Equatorial</td><td>Quente e úmido o ano todo</td></tr>\n  <tr><td>Tropical</td><td>Verão chuvoso, inverno seco</td></tr>\n  <tr><td>Árido</td><td>Seco, grande amplitude térmica</td></tr>\n  <tr><td>Temperado</td><td>Quatro estações marcadas</td></tr>\n  <tr><td>Polar</td><td>Frio extremo o ano todo</td></tr>\n</table>\n\n<h3>Termos-chave</h3>\n\n<table>\n  <tr><th>Termo</th><th>Significado</th></tr>\n  <tr><td>Tempo</td><td>Estado da atmosfera num momento</td></tr>\n  <tr><td>Clima</td><td>Padrão médio por muitos anos</td></tr>\n  <tr><td>Latitude</td><td>Principal fator climático</td></tr>\n  <tr><td>Efeito estufa</td><td>Retenção natural de calor</td></tr>\n  <tr><td>Aquecimento global</td><td>Aumento da temperatura pelo excesso de CO₂</td></tr>\n</table>\n\n<h3>Fatores climáticos</h3>\n\n<table>\n  <tr><th>Fator</th><th>Efeito</th></tr>\n  <tr><td>Latitude</td><td>Equador quente, polos frios</td></tr>\n  <tr><td>Altitude</td><td>Mais alto, mais frio</td></tr>\n  <tr><td>Maritimidade</td><td>O mar ameniza o clima</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  Não confunda <b>tempo</b> (o dia de hoje) com <b>clima</b> (a média de anos). E o <b>aquecimento global</b> (excesso de CO₂) <b>não</b> é o mesmo que o <b>buraco na camada de ozônio</b> (gases CFC): são dois problemas ambientais distintos.\n</div>\n\n<blockquote>\n  <p>O clima molda a vegetação, a agricultura e a vida das populações. Entender seus fatores é também entender por que as mudanças climáticas de hoje preocupam o mundo inteiro.</p>\n</blockquote>\n",
+  "questionLang": "pt",
+  "answerLang": "pt",
+  "version": 1,
+  "level": "Ensino Médio",
+  "theme": "Geografia Geral",
+  "cards": [
+    {
+      "recto": "[Compare] Qual a diferença entre tempo e clima?",
+      "verso": "Tempo é o estado da atmosfera num momento; clima é o padrão médio ao longo de muitos anos",
+      "explanation": "O tempo muda de um dia para o outro (hoje chove, amanhã faz sol). O clima é a média desses estados por décadas. Confusão clássica.",
+      "tags": [
+        "comparaison",
+        "climas"
+      ],
+      "distractors": {
+        "easy": [
+          "São exatamente a mesma coisa",
+          "Tempo é a média; clima é o momento",
+          "Clima é só a temperatura"
+        ],
+        "medium": [
+          "Tempo dura anos; clima dura horas",
+          "Clima muda a cada dia; tempo é fixo",
+          "Tempo é o clima do inverno apenas"
+        ],
+        "hard": [
+          "Tempo é o clima regional; clima é o local",
+          "Clima é a previsão; tempo é a média histórica",
+          "Tempo mede só a chuva; clima só o vento"
+        ]
+      }
+    },
+    {
+      "recto": "Condições da atmosfera (chuva, sol, temperatura) num lugar e momento específicos.",
+      "verso": "O tempo (meteorológico)",
+      "explanation": "É o que a previsão do tempo anuncia para hoje ou amanhã. Muda rapidamente, ao contrário do clima, que é a média de longo prazo.",
+      "tags": [
+        "climas",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "O clima",
+          "A estação do ano",
+          "O relevo"
+        ],
+        "medium": [
+          "A latitude",
+          "A altitude",
+          "A maritimidade"
+        ],
+        "hard": [
+          "A amplitude térmica",
+          "O microclima permanente",
+          "A zona climática"
+        ]
+      }
+    },
+    {
+      "recto": "Comportamento médio da atmosfera de um lugar ao longo de muitos anos.",
+      "verso": "O clima",
+      "explanation": "Resulta da média de temperatura, chuvas e ventos por décadas. Define se uma região é, por exemplo, tropical, árida ou polar.",
+      "tags": [
+        "climas",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "O tempo",
+          "A previsão do dia",
+          "A nuvem"
+        ],
+        "medium": [
+          "A frente fria",
+          "A tempestade",
+          "O microtempo"
+        ],
+        "hard": [
+          "A massa de ar diária",
+          "A instabilidade momentânea",
+          "O boletim meteorológico"
+        ]
+      }
+    },
+    {
+      "recto": "Fator climático que faz as regiões perto do Equador serem mais quentes que as próximas dos polos.",
+      "verso": "A latitude",
+      "explanation": "Quanto mais perto do Equador (baixa latitude), mais direta a luz solar e mais quente. Quanto mais perto dos polos, mais frio. É o principal fator climático.",
+      "tags": [
+        "climas",
+        "fatores"
+      ],
+      "distractors": {
+        "easy": [
+          "A longitude",
+          "A cor do solo",
+          "O fuso horário"
+        ],
+        "medium": [
+          "A altitude",
+          "A maritimidade",
+          "A vegetação"
+        ],
+        "hard": [
+          "A continentalidade",
+          "a maré",
+          "a pressão atmosférica apenas"
+        ]
+      }
+    },
+    {
+      "recto": "Fator climático pelo qual, quanto mais alto o lugar, mais fria é a temperatura.",
+      "verso": "A altitude",
+      "explanation": "A cada 1000 m de subida, a temperatura cai cerca de 6°C. Por isso há neve em montanhas mesmo em regiões tropicais, como nos Andes.",
+      "tags": [
+        "climas",
+        "fatores"
+      ],
+      "distractors": {
+        "easy": [
+          "A latitude",
+          "A longitude",
+          "A hora do dia"
+        ],
+        "medium": [
+          "A maritimidade",
+          "A vegetação",
+          "A cor do solo"
+        ],
+        "hard": [
+          "A continentalidade",
+          "A amplitude térmica",
+          "A insolação horizontal"
+        ]
+      }
+    },
+    {
+      "recto": "Fator climático: a proximidade do mar torna o clima mais ameno e úmido.",
+      "verso": "A maritimidade",
+      "explanation": "O mar aquece e esfria lentamente, suavizando as temperaturas do litoral. Já o interior (continentalidade) tem maior amplitude térmica.",
+      "tags": [
+        "climas",
+        "fatores"
+      ],
+      "distractors": {
+        "easy": [
+          "A latitude",
+          "A altitude",
+          "O fuso horário"
+        ],
+        "medium": [
+          "A continentalidade",
+          "A vegetação",
+          "A longitude"
+        ],
+        "hard": [
+          "A insolação",
+          "A pressão de altitude",
+          "A radiação polar"
+        ]
+      }
+    },
+    {
+      "recto": "Clima quente e úmido, sem estações muito marcadas, típico das regiões próximas ao Equador.",
+      "verso": "O clima equatorial",
+      "explanation": "Alta temperatura o ano todo e muita chuva. Domina a Amazônia e o Congo, onde crescem as florestas tropicais úmidas.",
+      "tags": [
+        "climas",
+        "tipos"
+      ],
+      "distractors": {
+        "easy": [
+          "O clima polar",
+          "O clima desértico",
+          "O clima frio"
+        ],
+        "medium": [
+          "O clima temperado",
+          "O clima mediterrâneo",
+          "O clima semiárido"
+        ],
+        "hard": [
+          "O clima subtropical",
+          "O clima tropical de altitude",
+          "O clima de monções"
+        ]
+      }
+    },
+    {
+      "recto": "Clima quente com duas estações bem definidas: uma chuvosa (verão) e uma seca (inverno).",
+      "verso": "O clima tropical",
+      "explanation": "Domina grande parte do Brasil. Alterna verão chuvoso e inverno seco. Associa-se a vegetações como o cerrado e a savana.",
+      "tags": [
+        "climas",
+        "tipos"
+      ],
+      "distractors": {
+        "easy": [
+          "O clima polar",
+          "O clima glacial",
+          "O clima frio de montanha"
+        ],
+        "medium": [
+          "O clima equatorial",
+          "O clima temperado",
+          "O clima mediterrâneo"
+        ],
+        "hard": [
+          "O clima subtropical úmido",
+          "O clima oceânico",
+          "O clima continental"
+        ]
+      }
+    },
+    {
+      "recto": "Clima seco, com chuvas escassas e grande variação de temperatura, típico dos desertos.",
+      "verso": "O clima árido (desértico)",
+      "explanation": "Chuvas raras e forte amplitude térmica (dias quentes, noites frias). Domina o Saara e o Atacama. No Brasil, o semiárido é uma versão mais branda.",
+      "tags": [
+        "climas",
+        "tipos"
+      ],
+      "distractors": {
+        "easy": [
+          "O clima equatorial",
+          "O clima polar",
+          "O clima úmido"
+        ],
+        "medium": [
+          "O clima temperado",
+          "O clima tropical úmido",
+          "O clima oceânico"
+        ],
+        "hard": [
+          "O clima subtropical",
+          "O clima de monções",
+          "O clima mediterrâneo úmido"
+        ]
+      }
+    },
+    {
+      "recto": "Clima das zonas de latitude média, com quatro estações bem marcadas.",
+      "verso": "O clima temperado",
+      "explanation": "Tem verão, outono, inverno e primavera bem distintos. Domina grande parte da Europa, dos EUA e do sul da América do Sul.",
+      "tags": [
+        "climas",
+        "tipos"
+      ],
+      "distractors": {
+        "easy": [
+          "O clima equatorial",
+          "O clima desértico",
+          "O clima polar"
+        ],
+        "medium": [
+          "O clima tropical",
+          "O clima semiárido",
+          "O clima de savana"
+        ],
+        "hard": [
+          "O clima subártico",
+          "O clima de tundra",
+          "O clima equatorial de altitude"
+        ]
+      }
+    },
+    {
+      "recto": "Clima muito frio, com temperaturas negativas na maior parte do ano, típico das altas latitudes.",
+      "verso": "O clima polar",
+      "explanation": "Frio extremo e pouca vegetação (tundra ou gelo). Domina o Ártico e a Antártida. Está ligado à alta latitude, longe do Equador.",
+      "tags": [
+        "climas",
+        "tipos"
+      ],
+      "distractors": {
+        "easy": [
+          "O clima tropical",
+          "O clima equatorial",
+          "O clima desértico quente"
+        ],
+        "medium": [
+          "O clima temperado",
+          "O clima subtropical",
+          "O clima mediterrâneo"
+        ],
+        "hard": [
+          "O clima oceânico",
+          "O clima de monções",
+          "O clima continental ameno"
+        ]
+      }
+    },
+    {
+      "recto": "Camada da atmosfera que retém parte do calor e mantém a Terra aquecida naturalmente.",
+      "verso": "O efeito estufa",
+      "explanation": "Gases como o CO₂ retêm calor, tornando a Terra habitável. O problema é seu aumento por ações humanas, que intensifica o aquecimento.",
+      "tags": [
+        "climas",
+        "mudancas"
+      ],
+      "distractors": {
+        "easy": [
+          "A camada de gelo",
+          "A chuva ácida",
+          "O buraco na camada de ozônio"
+        ],
+        "medium": [
+          "A inversão térmica",
+          "As ilhas de calor",
+          "O El Niño"
+        ],
+        "hard": [
+          "A troposfera fria",
+          "A convecção polar",
+          "O albedo terrestre"
+        ]
+      }
+    },
+    {
+      "recto": "Aumento da temperatura média do planeta, ligado à emissão de gases pela atividade humana.",
+      "verso": "O aquecimento global",
+      "explanation": "A queima de combustíveis fósseis aumenta o CO₂ e intensifica o efeito estufa. Provoca derretimento de geleiras e eventos climáticos extremos.",
+      "tags": [
+        "climas",
+        "mudancas"
+      ],
+      "distractors": {
+        "easy": [
+          "O resfriamento global",
+          "A era glacial",
+          "O efeito lunar"
+        ],
+        "medium": [
+          "A chuva ácida",
+          "O buraco de ozônio",
+          "A inversão térmica"
+        ],
+        "hard": [
+          "O El Niño permanente",
+          "O albedo crescente",
+          "A deriva térmica polar"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] O aquecimento global e o buraco na camada de ozônio são o mesmo problema?",
+      "verso": "Não; são problemas ambientais diferentes",
+      "explanation": "Erro muito comum. O aquecimento vem do excesso de gases-estufa (CO₂); o buraco de ozônio vem de gases CFC que destroem o ozônio. Causas e efeitos distintos.",
+      "tags": [
+        "piege",
+        "climas"
+      ],
+      "distractors": {
+        "easy": [
+          "Sim, são idênticos",
+          "Sim, têm a mesma causa",
+          "Sim, é só um nome diferente"
+        ],
+        "medium": [
+          "Sim, ambos vêm do CO₂",
+          "Sim, ambos vêm dos CFCs",
+          "Não, mas têm a mesma causa"
+        ],
+        "hard": [
+          "Não, mas o ozônio causa o aquecimento",
+          "Sim, o ozônio aquece a Terra",
+          "Não, mas ambos vêm do desmatamento"
+        ]
+      }
+    },
+    {
+      "recto": "Fenômeno de aquecimento anormal das águas do Pacífico que altera o clima em várias regiões.",
+      "verso": "O El Niño",
+      "explanation": "Aquece o Pacífico e desregula chuvas no mundo todo: seca no Nordeste, enchentes no Sul do Brasil. Seu oposto (águas frias) é a La Niña.",
+      "tags": [
+        "climas",
+        "fenomenos"
+      ],
+      "distractors": {
+        "easy": [
+          "O efeito estufa",
+          "O aquecimento global",
+          "A chuva ácida"
+        ],
+        "medium": [
+          "A La Niña",
+          "A inversão térmica",
+          "As monções"
+        ],
+        "hard": [
+          "A Oscilação do Atlântico",
+          "O El Niño costeiro apenas",
+          "A corrente do Golfo"
+        ]
+      }
+    },
+    {
+      "recto": "De modo geral, por que os climas variam tanto pela superfície da Terra?",
+      "verso": "Por causa dos fatores climáticos (latitude, altitude, maritimidade...)",
+      "explanation": "A combinação de latitude, altitude, proximidade do mar e correntes marítimas define cada clima. É isso que cria os grandes domínios climáticos.",
+      "tags": [
+        "climas",
+        "sintese"
+      ],
+      "distractors": {
+        "easy": [
+          "Porque a Terra é plana",
+          "Por acaso",
+          "Só por causa da chuva"
+        ],
+        "medium": [
+          "Só por causa da longitude",
+          "Só pela cor do solo",
+          "Apenas pela ação humana"
+        ],
+        "hard": [
+          "Só pela rotação da Terra",
+          "Apenas pelos fusos horários",
+          "Somente pela vegetação"
+        ]
+      }
+    }
+  ]
+}

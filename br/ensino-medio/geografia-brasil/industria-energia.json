@@ -1,0 +1,432 @@
+{
+  "id": "br-ensino-medio-geografia-brasil-industria-energia",
+  "title": "Indústria e matriz energética",
+  "emoji": "⚡",
+  "subject": "geography",
+  "country": "br",
+  "courseDescription": "A industrialização brasileira, sua concentração e desconcentração no território, e a matriz energética do país, marcada pelas hidrelétricas.",
+  "lesson": "<style>\n  /* Estilos dos gráficos (SVG). Usam currentColor (texto) e var(--accent)\n     (cor da matéria), adaptando-se ao tema claro/escuro do app. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Indústria e matriz energética</h1>\n\n<div class=\"callout\">\n  <strong>Pontos de estudo</strong><br>\n  <b>Nível:</b> Ensino Médio<br>\n  <b>Área:</b> Geografia do Brasil<br>\n  <b>Tema:</b> industrialização, território e energia\n</div>\n\n<blockquote>\n  <p><b>Questão central.</b> Como o Brasil se industrializou tarde e por que sua energia é mais limpa que a do resto do mundo?</p>\n</blockquote>\n\n<p>O Brasil se industrializou <strong>tardiamente</strong>, a partir de <strong>1930</strong>, por <strong>substituição de importações</strong> e com forte papel do <strong>Estado</strong>. A indústria concentrou-se no <strong>Sudeste</strong> e hoje se <strong>desconcentra</strong>. Sua <strong>matriz energética</strong> é bastante renovável, graças às <strong>hidrelétricas</strong>.</p>\n\n<h2>1 · A industrialização tardia</h2>\n\n<p>Enquanto a Europa se industrializou no século XVIII-XIX, o Brasil só o fez a partir de <strong>Vargas</strong> (1930), pela <strong>substituição de importações</strong>. <strong>JK</strong> acelerou o processo com as montadoras. Criaram-se estatais como a <strong>CSN</strong> e a <strong>Petrobras</strong>.</p>\n\n<div class=\"callout\">\n  <strong>Conceito · Substituição de importações</strong><br>\n  Modelo em que o Estado protege a indústria nacional para <b>produzir internamente</b> o que antes era importado. Foi a base da industrialização brasileira, de Vargas a JK.\n</div>\n\n<h2>2 · Concentração e desconcentração</h2>\n\n<p>A indústria concentrou-se no <strong>Sudeste</strong> (sobretudo São Paulo), por causa do capital do café, do mercado e da infraestrutura. Hoje, com a <strong>guerra fiscal</strong> (incentivos dos estados), ocorre a <strong>desconcentração industrial</strong> para o Sul, o Nordeste e o Centro-Oeste.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"A desconcentração industrial: da concentração no Sudeste ao espalhamento pelo país\">\n  <defs>\n    <marker id=\"ar-bind1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"14\" y=\"40\" width=\"120\" height=\"44\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"74\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Concentração</text>\n  <text x=\"74\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Sudeste (São Paulo)</text>\n  <path d=\"M134,62 L172,62\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bind1)\"/>\n  <text x=\"153\" y=\"54\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">guerra fiscal</text>\n  <rect x=\"176\" y=\"40\" width=\"150\" height=\"44\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"251\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Desconcentração</text>\n  <text x=\"251\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Sul, Nordeste, Centro-Oeste</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">a indústria se espalha</text>\n</svg>\n<figcaption>Incentivos fiscais atraíram fábricas para fora do Sudeste.</figcaption>\n</figure>\n\n<h2>3 · A matriz energética</h2>\n\n<p>A eletricidade brasileira vem sobretudo de <strong>hidrelétricas</strong> (Itaipu, Belo Monte) — fonte renovável. Crescem a <strong>eólica</strong> e a <strong>solar</strong> no Nordeste, e o <strong>etanol</strong> da cana move os carros. Por isso, a matriz elétrica é mais <strong>limpa</strong> que a mundial, dominada por fósseis.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Comparação entre a matriz energética brasileira, mais renovável, e a mundial, mais fóssil\">\n  <rect x=\"12\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Brasil</text>\n  <text x=\"87\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">+ renovável</text>\n  <text x=\"87\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">hidrelétrica,</text>\n  <text x=\"87\" y=\"107\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">biomassa, eólica</text>\n  <rect x=\"178\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Mundo</text>\n  <text x=\"253\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">+ fóssil</text>\n  <text x=\"253\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">petróleo, carvão,</text>\n  <text x=\"253\" y=\"107\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">gás natural</text>\n</svg>\n<figcaption>A matriz elétrica brasileira é mais limpa que a média mundial.</figcaption>\n</figure>\n\n<h2>4 · Petróleo e mineração</h2>\n\n<p>Apesar da eletricidade limpa, o <strong>petróleo</strong> segue essencial (transportes). A <strong>Petrobras</strong> explora o <strong>pré-sal</strong>, que ampliou as reservas. Na mineração, a <strong>Vale</strong> é gigante do minério de ferro — um dos pilares das exportações.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"As principais fontes de energia do Brasil, renováveis e fósseis\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">as fontes de energia no Brasil</text>\n  <rect x=\"10\" y=\"26\" width=\"100\" height=\"40\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.2\"/>\n  <text x=\"60\" y=\"44\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Hidrelétrica</text>\n  <text x=\"60\" y=\"58\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">principal (renovável)</text>\n  <rect x=\"119\" y=\"26\" width=\"100\" height=\"40\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"169\" y=\"44\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Etanol / biomassa</text>\n  <text x=\"169\" y=\"58\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">cana (renovável)</text>\n  <rect x=\"228\" y=\"26\" width=\"102\" height=\"40\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"279\" y=\"44\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Eólica / solar</text>\n  <text x=\"279\" y=\"58\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">crescendo (Nordeste)</text>\n  <rect x=\"64\" y=\"76\" width=\"100\" height=\"40\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.2\"/>\n  <text x=\"114\" y=\"94\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Petróleo</text>\n  <text x=\"114\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">transportes (pré-sal)</text>\n  <rect x=\"174\" y=\"76\" width=\"100\" height=\"40\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.2\"/>\n  <text x=\"224\" y=\"94\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Termelétrica</text>\n  <text x=\"224\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">gás, carvão</text>\n</svg>\n<figcaption>Uma matriz diversa, com forte peso das fontes renováveis.</figcaption>\n</figure>\n\n<h2>O essencial</h2>\n\n<h3>Energia em números</h3>\n\n<table>\n  <tr><th>Fonte</th><th>Papel no Brasil</th></tr>\n  <tr><td>Hidrelétrica</td><td>Principal fonte de eletricidade</td></tr>\n  <tr><td>Petróleo</td><td>Essencial nos transportes (pré-sal)</td></tr>\n  <tr><td>Etanol</td><td>Biocombustível da cana (carros flex)</td></tr>\n  <tr><td>Eólica e solar</td><td>Em forte crescimento (Nordeste)</td></tr>\n</table>\n\n<h3>Termos-chave</h3>\n\n<table>\n  <tr><th>Termo</th><th>Significado</th></tr>\n  <tr><td>Substituição de importações</td><td>Produzir o que era importado</td></tr>\n  <tr><td>Desconcentração industrial</td><td>Indústria sai do Sudeste</td></tr>\n  <tr><td>Guerra fiscal</td><td>Estados dão incentivos para atrair fábricas</td></tr>\n  <tr><td>Matriz energética</td><td>Conjunto das fontes de energia</td></tr>\n  <tr><td>Pré-sal</td><td>Petróleo abaixo da camada de sal</td></tr>\n</table>\n\n<h3>Empresas e usinas</h3>\n\n<table>\n  <tr><th>Nome</th><th>Setor</th></tr>\n  <tr><td>Petrobras</td><td>Petróleo (pré-sal)</td></tr>\n  <tr><td>Vale</td><td>Mineração (minério de ferro)</td></tr>\n  <tr><td>Itaipu</td><td>Hidrelétrica (Brasil-Paraguai)</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  A matriz <b>elétrica</b> brasileira é muito renovável (hidrelétrica), mas o <b>petróleo</b> continua essencial na matriz <b>energética</b> total, sobretudo nos transportes. Não confunda energia elétrica com energia em geral.\n</div>\n\n<blockquote>\n  <p>Industrializado tarde, mas com uma das energias mais limpas do mundo, o Brasil enfrenta o desafio de crescer, diversificar sua indústria e manter sua vantagem energética renovável.</p>\n</blockquote>\n",
+  "questionLang": "pt",
+  "answerLang": "pt",
+  "version": 1,
+  "level": "Ensino Médio",
+  "theme": "Geografia do Brasil",
+  "cards": [
+    {
+      "recto": "Quando, de modo geral, o Brasil se industrializou de fato?",
+      "verso": "Tardiamente, sobretudo a partir de 1930 (Era Vargas)",
+      "explanation": "Ao contrário dos países ricos (século XVIII-XIX), o Brasil se industrializou tarde, a partir do governo Vargas, com forte papel do Estado.",
+      "tags": [
+        "industria-energia",
+        "historia"
+      ],
+      "distractors": {
+        "easy": [
+          "No século XVI, na colônia",
+          "na Idade Média",
+          "antes do descobrimento"
+        ],
+        "medium": [
+          "No século XVIII, com a Inglaterra",
+          "em 1500",
+          "no Império, com Dom Pedro I"
+        ],
+        "hard": [
+          "No século XVII, com o açúcar",
+          "logo após a independência",
+          "durante a mineração colonial"
+        ]
+      }
+    },
+    {
+      "recto": "Modelo de industrialização que buscava produzir internamente o que antes era importado.",
+      "verso": "A industrialização por substituição de importações",
+      "explanation": "O Estado protegia a indústria nacional para substituir produtos importados. Foi a base da industrialização de Vargas a JK, com estatais e capital estrangeiro.",
+      "tags": [
+        "industria-energia",
+        "modelo"
+      ],
+      "distractors": {
+        "easy": [
+          "A desindustrialização",
+          "o extrativismo colonial",
+          "a agricultura de exportação"
+        ],
+        "medium": [
+          "A industrialização exportadora apenas",
+          "o livre mercado puro",
+          "a Revolução Verde"
+        ],
+        "hard": [
+          "A substituição de exportações",
+          "a plataforma de exportação",
+          "a industrialização clássica europeia"
+        ]
+      }
+    },
+    {
+      "recto": "Presidente que acelerou a industrialização atraindo montadoras estrangeiras (\"50 anos em 5\").",
+      "verso": "Juscelino Kubitschek (JK)",
+      "explanation": "Seu Plano de Metas (1956-1961) trouxe a indústria automobilística e aprofundou a industrialização, sobretudo no Sudeste (ABC paulista).",
+      "tags": [
+        "industria-energia",
+        "historia"
+      ],
+      "distractors": {
+        "easy": [
+          "Dom Pedro II",
+          "Marechal Deodoro",
+          "Tiradentes"
+        ],
+        "medium": [
+          "Getúlio Vargas",
+          "Jânio Quadros",
+          "João Goulart"
+        ],
+        "hard": [
+          "Eurico Dutra",
+          "José Sarney",
+          "Washington Luís"
+        ]
+      }
+    },
+    {
+      "recto": "Em que região do Brasil a indústria historicamente se concentrou?",
+      "verso": "No Sudeste (sobretudo São Paulo)",
+      "explanation": "Capital do café, mercado consumidor, mão de obra e infraestrutura fizeram do Sudeste, especialmente São Paulo, o coração industrial do país.",
+      "tags": [
+        "industria-energia",
+        "localizacao"
+      ],
+      "distractors": {
+        "easy": [
+          "No Norte (Amazônia)",
+          "no Centro-Oeste",
+          "no semiárido"
+        ],
+        "medium": [
+          "No Nordeste",
+          "no Sul apenas",
+          "na fronteira oeste"
+        ],
+        "hard": [
+          "No extremo Norte",
+          "no Pantanal",
+          "uniformemente em todo o país"
+        ]
+      }
+    },
+    {
+      "recto": "Movimento recente de espalhamento das indústrias para fora do Sudeste, em busca de incentivos.",
+      "verso": "A desconcentração industrial",
+      "explanation": "Estados oferecem incentivos fiscais (a \"guerra fiscal\") para atrair fábricas. Assim, a indústria passou a se espalhar para o Sul, Nordeste e Centro-Oeste.",
+      "tags": [
+        "industria-energia",
+        "territorio"
+      ],
+      "distractors": {
+        "easy": [
+          "A concentração total no Rio",
+          "o fim da indústria",
+          "a volta ao campo"
+        ],
+        "medium": [
+          "A reconcentração no Sudeste",
+          "a desindustrialização completa",
+          "a estatização geral"
+        ],
+        "hard": [
+          "A litoralização industrial apenas",
+          "a metropolização exclusiva",
+          "a nacionalização das fábricas"
+        ]
+      }
+    },
+    {
+      "recto": "Disputa entre estados que oferecem vantagens fiscais para atrair indústrias.",
+      "verso": "A guerra fiscal",
+      "explanation": "Estados reduzem impostos (ICMS) para atrair fábricas, o que ajuda a desconcentrar a indústria, mas gera perdas de arrecadação e conflitos federativos.",
+      "tags": [
+        "industria-energia",
+        "territorio"
+      ],
+      "distractors": {
+        "easy": [
+          "A guerra mundial",
+          "a Guerra Fria",
+          "a guerra civil"
+        ],
+        "medium": [
+          "A guerra comercial internacional",
+          "a reforma agrária",
+          "a guerra tarifária externa"
+        ],
+        "hard": [
+          "A guerra cambial",
+          "a disputa aduaneira externa",
+          "a guerra dos preços do café"
+        ]
+      }
+    },
+    {
+      "recto": "Principal fonte de geração de energia elétrica no Brasil.",
+      "verso": "As hidrelétricas (usinas hidrelétricas)",
+      "explanation": "Aproveitando os grandes rios, o Brasil gera a maior parte de sua eletricidade em hidrelétricas, como Itaipu e Belo Monte. É uma fonte renovável.",
+      "tags": [
+        "industria-energia",
+        "energia"
+      ],
+      "distractors": {
+        "easy": [
+          "O carvão mineral",
+          "a energia nuclear",
+          "a lenha"
+        ],
+        "medium": [
+          "As termelétricas a gás",
+          "o petróleo",
+          "a energia solar"
+        ],
+        "hard": [
+          "As usinas eólicas apenas",
+          "a energia geotérmica",
+          "a biomassa da cana apenas"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] Como se diferencia a matriz energética brasileira da matriz mundial?",
+      "verso": "A brasileira tem mais fontes renováveis (hidrelétrica, biomassa); a mundial depende mais de combustíveis fósseis",
+      "explanation": "Enquanto o mundo depende de petróleo, carvão e gás, o Brasil tem forte peso de hidrelétricas e biomassa. Sua matriz é mais limpa que a média mundial.",
+      "tags": [
+        "comparaison",
+        "industria-energia"
+      ],
+      "distractors": {
+        "easy": [
+          "São exatamente iguais",
+          "A brasileira é 100% fóssil",
+          "A mundial é toda renovável"
+        ],
+        "medium": [
+          "A brasileira é mais fóssil; a mundial mais renovável",
+          "As duas são só de carvão",
+          "A brasileira só usa petróleo"
+        ],
+        "hard": [
+          "A brasileira é toda nuclear; a mundial hídrica",
+          "As duas dependem só do vento",
+          "A mundial é mais limpa que a brasileira"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] Como a matriz energética brasileira é bem renovável, o petróleo é pouco importante no país?",
+      "verso": "Não; o petróleo ainda é essencial, sobretudo nos transportes",
+      "explanation": "Erro comum. A matriz elétrica é muito renovável (hidrelétrica), mas na matriz energética total o petróleo pesa muito, principalmente para os transportes. São coisas diferentes.",
+      "tags": [
+        "piege",
+        "industria-energia"
+      ],
+      "distractors": {
+        "easy": [
+          "Sim, o petróleo não é usado",
+          "Sim, o Brasil não consome petróleo",
+          "Sim, tudo é hidrelétrico"
+        ],
+        "medium": [
+          "Sim, o petróleo foi abolido",
+          "Sim, os transportes são elétricos",
+          "Não, mas o petróleo é irrelevante"
+        ],
+        "hard": [
+          "Sim, o pré-sal não é explorado",
+          "Sim, o petróleo só é exportado",
+          "Não, mas só se usa na indústria"
+        ]
+      }
+    },
+    {
+      "recto": "Empresa estatal brasileira responsável pela exploração de petróleo.",
+      "verso": "A Petrobras",
+      "explanation": "Criada em 1953, comanda a exploração, refino e distribuição do petróleo nacional. A descoberta do pré-sal ampliou muito as reservas do país.",
+      "tags": [
+        "industria-energia",
+        "energia"
+      ],
+      "distractors": {
+        "easy": [
+          "A Vale",
+          "o Banco do Brasil",
+          "os Correios"
+        ],
+        "medium": [
+          "A Eletrobras",
+          "a CSN",
+          "a Embraer"
+        ],
+        "hard": [
+          "A Petrobras Distribuidora apenas",
+          "a Braskem",
+          "a Ultrapar"
+        ]
+      }
+    },
+    {
+      "recto": "Grande reserva de petróleo descoberta no litoral brasileiro, sob uma camada de sal.",
+      "verso": "O pré-sal",
+      "explanation": "Petróleo localizado a milhares de metros de profundidade, abaixo de uma camada de sal. Descoberto nos anos 2000, tornou o Brasil grande produtor de petróleo.",
+      "tags": [
+        "industria-energia",
+        "energia"
+      ],
+      "distractors": {
+        "easy": [
+          "O carvão amazônico",
+          "o urânio do sertão",
+          "o gás dos Andes"
+        ],
+        "medium": [
+          "O xisto betuminoso",
+          "o pós-sal apenas",
+          "as areias betuminosas"
+        ],
+        "hard": [
+          "O petróleo do Recôncavo apenas",
+          "o gás de folhelho",
+          "o querogênio continental"
+        ]
+      }
+    },
+    {
+      "recto": "Combustível renovável feito a partir da cana-de-açúcar, no qual o Brasil é referência mundial.",
+      "verso": "O etanol (álcool combustível)",
+      "explanation": "Produzido da cana, é usado em veículos flex. O Brasil é pioneiro nos biocombustíveis (Programa Proálcool), o que ajuda a limpar sua matriz energética.",
+      "tags": [
+        "industria-energia",
+        "energia"
+      ],
+      "distractors": {
+        "easy": [
+          "O carvão",
+          "a gasolina fóssil",
+          "o querosene"
+        ],
+        "medium": [
+          "O gás natural",
+          "o diesel comum",
+          "o óleo pesado"
+        ],
+        "hard": [
+          "O biodiesel de soja apenas",
+          "o metanol de carvão",
+          "o GLP"
+        ]
+      }
+    },
+    {
+      "recto": "Fontes de energia que mais crescem no Nordeste brasileiro, aproveitando ventos e sol.",
+      "verso": "As energias eólica e solar",
+      "explanation": "O Nordeste, com ventos constantes e muito sol, tornou-se polo de energia eólica e solar. São fontes renováveis que diversificam a matriz elétrica.",
+      "tags": [
+        "industria-energia",
+        "energia"
+      ],
+      "distractors": {
+        "easy": [
+          "O carvão e o petróleo",
+          "a lenha e o carvão vegetal",
+          "o urânio e o gás"
+        ],
+        "medium": [
+          "A energia nuclear e o diesel",
+          "o gás natural e o carvão",
+          "a biomassa e o petróleo"
+        ],
+        "hard": [
+          "A geotérmica e a maremotriz",
+          "o xisto e o gás de folhelho",
+          "a nuclear e a hidráulica apenas"
+        ]
+      }
+    },
+    {
+      "recto": "Usina hidrelétrica binacional (Brasil e Paraguai), uma das maiores do mundo.",
+      "verso": "Itaipu",
+      "explanation": "No rio Paraná, foi por muito tempo a maior hidrelétrica do mundo em geração. Símbolo do peso das hidrelétricas na eletricidade brasileira.",
+      "tags": [
+        "industria-energia",
+        "energia"
+      ],
+      "distractors": {
+        "easy": [
+          "A usina de Fukushima",
+          "a represa Hoover",
+          "a usina de Chernobyl"
+        ],
+        "medium": [
+          "Belo Monte",
+          "Tucuruí",
+          "a usina de Angra"
+        ],
+        "hard": [
+          "Sobradinho",
+          "Jirau",
+          "Santo Antônio"
+        ]
+      }
+    },
+    {
+      "recto": "De modo geral, qual é uma vantagem ambiental da matriz elétrica brasileira?",
+      "verso": "É bastante renovável e limpa, graças ao peso das hidrelétricas e da biomassa",
+      "explanation": "Comparada à mundial, a matriz elétrica brasileira emite menos carbono, por depender de fontes renováveis. Ainda assim, depende do petróleo nos transportes.",
+      "tags": [
+        "industria-energia",
+        "sintese"
+      ],
+      "distractors": {
+        "easy": [
+          "É totalmente movida a carvão",
+          "depende só de petróleo",
+          "é 100% nuclear"
+        ],
+        "medium": [
+          "É a mais poluente do mundo",
+          "usa só combustíveis fósseis",
+          "não gera nenhuma energia limpa"
+        ],
+        "hard": [
+          "Emite mais carbono que a média mundial",
+          "baseia-se no carvão importado",
+          "depende apenas de termelétricas"
+        ]
+      }
+    },
+    {
+      "recto": "Grande empresa mineradora brasileira, uma das maiores exportadoras de minério de ferro do mundo.",
+      "verso": "A Vale",
+      "explanation": "Antiga Companhia Vale do Rio Doce, é gigante na exportação de minério de ferro. Mostra o peso da mineração na indústria e nas exportações brasileiras.",
+      "tags": [
+        "industria-energia",
+        "mineracao"
+      ],
+      "distractors": {
+        "easy": [
+          "A Petrobras",
+          "o Google",
+          "a Coca-Cola"
+        ],
+        "medium": [
+          "A Eletrobras",
+          "a Embraer",
+          "a Gerdau apenas"
+        ],
+        "hard": [
+          "A CSN apenas",
+          "a Usiminas",
+          "a Samarco apenas"
+        ]
+      }
+    }
+  ]
+}

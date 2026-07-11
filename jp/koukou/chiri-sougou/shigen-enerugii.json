@@ -1,0 +1,535 @@
+{
+  "id": "jp-koukou-chiri-sougou-shigen-enerugii",
+  "title": "地球的課題②：資源・エネルギー問題",
+  "emoji": "⚡",
+  "subject": "geography",
+  "country": "jp",
+  "courseDescription": "化石燃料の偏在から再生可能エネルギー、レアメタルまで。資源とエネルギーをめぐる地球的課題を学ぶ。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>地球的課題②：資源・エネルギー問題</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・地理総合<br>\n  <b>大項目B：</b>国際理解と国際協力<br>\n  <b>内容：</b>化石燃料・再生可能エネルギー・レアメタル\n</div>\n\n<blockquote>\n  <p><b>問い</b>　限りある資源に頼る社会は、これからどう変わっていくべきなのだろうか。</p>\n</blockquote>\n\n<p>現代の暮らしは<strong>化石燃料</strong>に支えられているが、資源には限りがあり、特定の地域に<strong>偏在</strong>している。燃やせば地球温暖化の原因にもなる。そこで<strong>再生可能エネルギー</strong>への転換や<strong>省エネルギー</strong>、資源の<strong>循環</strong>が求められている。資源とエネルギーの課題と、その解決の方向を考えよう。</p>\n\n<h2>1・化石燃料と資源の偏在</h2>\n\n<p>エネルギーの中心である<strong>化石燃料</strong>（石炭・石油・天然ガス）は、埋蔵量に限りがあり、特定の地域に<strong>偏在</strong>している。とくに石油は西アジアのペルシア湾岸に集中する。</p>\n\n<p>20世紀なかばの<strong>エネルギー革命</strong>で石炭から石油へと中心が移ると、産油国は<strong>OPEC</strong>を結成し、<strong>資源ナショナリズム</strong>を強めた。1973年の<strong>石油危機</strong>は、石油に依存した日本経済を直撃し、資源の偏在がもつ重みを示した。</p>\n\n<div class=\"callout\">\n  <strong>用語・資源ナショナリズム</strong><br>\n  自国の資源を自国の利益のために活用しようとする資源保有国の考え方。OPECの結成や資源の国有化がその表れで、石油危機の背景となった。\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"エネルギーをめぐる流れ。エネルギー革命から資源ナショナリズム、石油危機へ\">\n  <defs>\n    <marker id=\"ar-se2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"40\" width=\"94\" height=\"50\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"55\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11.5\" font-weight=\"700\">エネルギー革命</text>\n  <text x=\"55\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">石炭→石油</text>\n  <path d=\"M104,65 L120,65\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-se2)\"/>\n  <rect x=\"123\" y=\"40\" width=\"94\" height=\"50\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">資源ナショナリズム</text>\n  <text x=\"170\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">OPECの台頭</text>\n  <path d=\"M219,65 L235,65\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-se2)\"/>\n  <rect x=\"238\" y=\"40\" width=\"94\" height=\"50\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"285\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">石油危機</text>\n  <text x=\"285\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">1973年</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">石油依存が生んだ危機</text>\n</svg>\n<figcaption>石油への依存が、資源国の発言力と石油危機の衝撃を生んだ。</figcaption>\n</figure>\n\n<h2>2・化石燃料から再生可能エネルギーへ</h2>\n\n<p>化石燃料には二つの限界がある。<strong>枯渇</strong>することと、燃やすと<strong>CO₂</strong>を出して地球温暖化を招くことである。そこで、枯渇せずCO₂をほとんど出さない<strong>再生可能エネルギー</strong>（<strong>太陽光・風力・地熱・水力・バイオマス</strong>）への転換が進められている。</p>\n\n<p>火山国の日本は<strong>地熱</strong>に恵まれるが、開発地が温泉地や国立公園と重なる課題がある。再生可能エネルギーは天候に左右されやすく、安定供給が課題となる。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"化石燃料と再生可能エネルギーの比較。枯渇性とCO2排出の違い\">\n  <!-- 左：化石燃料 -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">化石燃料</text>\n  <text x=\"87\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11\" font-weight=\"700\">石炭・石油・ガス</text>\n  <text x=\"26\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">枯渇する</text>\n  <text x=\"26\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">CO₂を出す</text>\n  <text x=\"26\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">特定地域に偏在</text>\n  <!-- 右：再生可能エネルギー -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11.5\" font-weight=\"700\">再生可能エネルギー</text>\n  <text x=\"253\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11\" font-weight=\"700\">太陽光・風力・地熱</text>\n  <text x=\"192\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">枯渇しない</text>\n  <text x=\"192\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">CO₂をほぼ出さない</text>\n  <text x=\"192\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">供給が不安定</text>\n</svg>\n<figcaption>枯渇性とCO₂排出の有無が、両者を分ける最大の違い。</figcaption>\n</figure>\n\n<h2>3・レアメタルと新しい資源</h2>\n\n<p>先端産業には<strong>レアメタル（希少金属）</strong>が欠かせない。スマートフォンや電気自動車に使われるリチウムやコバルトは産出量が少なく、特定の国に偏在するため、供給の安定確保が課題となっている。</p>\n\n<p>資源に乏しい日本では、廃棄された電子機器から金属を回収する<strong>都市鉱山</strong>や、日本近海に眠る<strong>メタンハイドレート</strong>、燃やしても水しか出さない<strong>水素</strong>など、新しい資源への取り組みが進んでいる。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 240\" role=\"img\" aria-label=\"資源に乏しい日本の取り組み。都市鉱山、メタンハイドレート、水素エネルギー\">\n  <defs>\n    <marker id=\"ar-se1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 資源小国・日本（強調） -->\n  <rect x=\"85\" y=\"8\" width=\"170\" height=\"56\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"33\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">資源に乏しい日本</text>\n  <text x=\"170\" y=\"53\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11\">新しい資源を探す</text>\n  <!-- 矢印 -->\n  <path d=\"M170,66 L60,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-se1)\"/>\n  <path d=\"M170,66 L170,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-se1)\"/>\n  <path d=\"M170,66 L280,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-se1)\"/>\n  <!-- 都市鉱山 -->\n  <rect x=\"10\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">都市鉱山</text>\n  <text x=\"60\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">廃電子機器から</text>\n  <text x=\"60\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">レアメタル回収</text>\n  <!-- メタンハイドレート -->\n  <rect x=\"120\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"140\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">メタン</text>\n  <text x=\"170\" y=\"155\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">ハイドレート</text>\n  <text x=\"170\" y=\"182\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">近海の海底</text>\n  <text x=\"170\" y=\"204\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">燃える氷</text>\n  <!-- 水素 -->\n  <rect x=\"230\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">水素</text>\n  <text x=\"280\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">燃えても水だけ</text>\n  <text x=\"280\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">脱炭素の鍵</text>\n</svg>\n<figcaption>資源小国だからこそ、回収・国産化・脱炭素の新資源に力を入れている。</figcaption>\n</figure>\n\n<h2>4・持続可能なエネルギー社会へ</h2>\n\n<p>供給を増やすだけでなく、消費を減らす<strong>省エネルギー</strong>も重要である。日本は石油危機を機に省エネを進めてきた。複数の電源を組み合わせてリスクを分散する<strong>エネルギーミックス</strong>や、CO₂排出を実質ゼロにする<strong>カーボンニュートラル</strong>の目標も掲げられている。</p>\n\n<p>資源そのものをくり返し使う<strong>循環型社会</strong>（3R）への転換が、資源の枯渇と環境負荷の両方に応える道となる。</p>\n\n<div class=\"callout\">\n  <strong>用語・カーボンニュートラル</strong><br>\n  二酸化炭素の排出量と吸収・除去量を均衡させ、実質ゼロにすること。地球温暖化対策として、再生可能エネルギーへの転換を後押しする脱炭素社会の目標。\n</div>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>できごと</th><th>内容</th></tr>\n  <tr><td>エネルギー革命</td><td>20世紀なかば、石炭から石油へ</td></tr>\n  <tr><td>OPEC結成</td><td>産油国が価格・生産を調整</td></tr>\n  <tr><td>石油危機（1973年）</td><td>原油高騰、高度成長の終わり</td></tr>\n  <tr><td>脱炭素へ</td><td>再生可能エネルギー・カーボンニュートラル</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>化石燃料</td><td>石炭・石油・天然ガス。枯渇性・CO₂排出</td></tr>\n  <tr><td>再生可能エネルギー</td><td>太陽光・風力・地熱など。枯渇しない</td></tr>\n  <tr><td>資源ナショナリズム</td><td>自国の資源を自国のために活用する考え</td></tr>\n  <tr><td>レアメタル</td><td>希少で偏在する金属（リチウムなど）</td></tr>\n  <tr><td>都市鉱山</td><td>廃電子機器から金属を回収する資源</td></tr>\n  <tr><td>エネルギーミックス</td><td>複数の電源を組み合わせる考え方</td></tr>\n</table>\n\n<h3>持続可能な取り組み</h3>\n\n<table>\n  <tr><th>課題</th><th>取り組み</th></tr>\n  <tr><td>資源の枯渇</td><td>循環型社会（3R）・都市鉱山</td></tr>\n  <tr><td>消費量が多い</td><td>省エネルギー</td></tr>\n  <tr><td>CO₂の排出</td><td>再生可能エネルギー・カーボンニュートラル</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  <b>化石燃料</b>（枯渇する・CO₂を出す）と<b>再生可能エネルギー</b>（枯渇しない・CO₂をほぼ出さない）の性質を逆にしないこと。<b>原子力</b>はCO₂を出さないが化石燃料でも再生可能でもなく、事故や廃棄物のリスクをもつ点も区別する。\n</div>\n\n<blockquote>\n  <p>資源は「あるから使う」時代から、「限りがあるから工夫して使う」時代へと移っている。エネルギーの選択は、次に見る地球環境問題と表裏一体である。私たちの暮らしと地球の未来をどう両立させるか——それが問われている。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "地理総合 ― 国際理解と国際協力",
+  "cards": [
+    {
+      "recto": "石炭・石油・天然ガスのように、大昔の生物の遺骸が変化してできた燃料をまとめて何というか。",
+      "verso": "化石燃料",
+      "explanation": "現在のエネルギーの中心だが、埋蔵量に限りがあり、燃やすとCO₂を出す。再生可能エネルギーと対になる。",
+      "tags": [
+        "資源",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "再生可能エネルギー",
+          "電気",
+          "原子力"
+        ],
+        "medium": [
+          "バイオマス",
+          "核燃料",
+          "水素"
+        ],
+        "hard": [
+          "一次エネルギー",
+          "二次エネルギー",
+          "シェールガス"
+        ]
+      }
+    },
+    {
+      "recto": "石油や鉱産資源が特定の国や地域にかたよって存在することを何というか。",
+      "verso": "偏在",
+      "explanation": "石油は西アジア（ペルシア湾岸）に集中する。資源の偏在は、資源国と非資源国の関係や紛争の原因となる。",
+      "tags": [
+        "資源",
+        "基礎"
+      ],
+      "distractors": {
+        "easy": [
+          "均等",
+          "分散",
+          "枯渇"
+        ],
+        "medium": [
+          "集積",
+          "遍在",
+          "偏西"
+        ],
+        "hard": [
+          "局在",
+          "遍在性",
+          "資源分布"
+        ]
+      }
+    },
+    {
+      "recto": "西アジアや南米などの主要な産油国が、原油の価格や生産量を調整するためにつくった組織を何というか。",
+      "verso": "OPEC（石油輸出国機構）",
+      "explanation": "資源を武器に発言力を高める資源ナショナリズムの代表例。石油危機のときに大きな影響力を示した。",
+      "tags": [
+        "資源",
+        "組織"
+      ],
+      "distractors": {
+        "easy": [
+          "国際連合",
+          "EU",
+          "ASEAN"
+        ],
+        "medium": [
+          "OECD",
+          "WTO",
+          "IEA"
+        ],
+        "hard": [
+          "OAPEC",
+          "IAEA",
+          "NIEs"
+        ]
+      }
+    },
+    {
+      "recto": "自国の資源を自国の利益のために活用しようとする、資源保有国の考え方を何というか。",
+      "verso": "資源ナショナリズム",
+      "explanation": "OPECの結成や資源の国有化がその表れ。かつての垂直分業のもとで不利だった資源国が発言力を高めた。",
+      "tags": [
+        "資源",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "自由貿易",
+          "グローバル化",
+          "国際協力"
+        ],
+        "medium": [
+          "保護貿易",
+          "資源開発",
+          "南南協力"
+        ],
+        "hard": [
+          "資源メジャー",
+          "資源外交",
+          "モノカルチャー"
+        ]
+      }
+    },
+    {
+      "recto": "太陽光・風力・地熱・水力・バイオマスのように、くり返し利用でき枯渇しないエネルギーをまとめて何というか。",
+      "verso": "再生可能エネルギー",
+      "explanation": "温室効果ガスをほとんど出さない。枯渇し、CO₂を出す化石燃料に代わるものとして期待される。",
+      "tags": [
+        "エネルギー",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "化石燃料",
+          "核燃料",
+          "石油"
+        ],
+        "medium": [
+          "原子力",
+          "シェールガス",
+          "天然ガス"
+        ],
+        "hard": [
+          "一次エネルギー",
+          "クリーンコール",
+          "メタンハイドレート"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】枯渇し燃やすとCO₂を出すエネルギーと、枯渇せずCO₂をほとんど出さないエネルギーを、順にそれぞれ何というか。",
+      "verso": "化石燃料と再生可能エネルギー",
+      "explanation": "化石燃料＝枯渇性・CO₂を出す、再生可能エネルギー＝枯渇せず・CO₂をほとんど出さない。性質を逆にしない。",
+      "tags": [
+        "comparaison",
+        "エネルギー"
+      ],
+      "distractors": {
+        "easy": [
+          "電気とガス",
+          "火力と水力",
+          "石炭と石油"
+        ],
+        "medium": [
+          "再生可能エネルギーと化石燃料",
+          "原子力と火力",
+          "一次と二次エネルギー"
+        ],
+        "hard": [
+          "核燃料と再生可能エネルギー",
+          "化石燃料とバイオマス",
+          "枯渇性資源と原子力"
+        ]
+      }
+    },
+    {
+      "recto": "太陽の光を電気に変える再生可能エネルギーを何というか。",
+      "verso": "太陽光発電",
+      "explanation": "設置場所を選ばないが、天候に左右され安定供給が課題。風力・地熱とならぶ代表的な再生可能エネルギー。",
+      "tags": [
+        "エネルギー",
+        "再生可能"
+      ],
+      "distractors": {
+        "easy": [
+          "火力発電",
+          "原子力発電",
+          "水力発電"
+        ],
+        "medium": [
+          "風力発電",
+          "地熱発電",
+          "潮力発電"
+        ],
+        "hard": [
+          "太陽熱発電",
+          "波力発電",
+          "バイオマス発電"
+        ]
+      }
+    },
+    {
+      "recto": "火山活動による地下の熱を利用して電気をつくる、日本に適した再生可能エネルギーを何というか。",
+      "verso": "地熱発電",
+      "explanation": "火山国の日本は世界有数の地熱資源をもつ。安定して発電できるが、開発地が温泉地や国立公園と重なる課題がある。",
+      "tags": [
+        "エネルギー",
+        "再生可能"
+      ],
+      "distractors": {
+        "easy": [
+          "火力発電",
+          "原子力発電",
+          "太陽光発電"
+        ],
+        "medium": [
+          "水力発電",
+          "風力発電",
+          "潮力発電"
+        ],
+        "hard": [
+          "温泉発電",
+          "バイナリー発電",
+          "地中熱利用"
+        ]
+      }
+    },
+    {
+      "recto": "20世紀のなかごろ、エネルギーの中心が石炭から石油へと移り変わったことを何というか。",
+      "verso": "エネルギー革命",
+      "explanation": "安価で扱いやすい石油が中心となった。この石油依存が、のちの石油危機で日本経済を直撃した。",
+      "tags": [
+        "エネルギー",
+        "歴史"
+      ],
+      "distractors": {
+        "easy": [
+          "産業革命",
+          "情報革命",
+          "緑の革命"
+        ],
+        "medium": [
+          "石油危機",
+          "エネルギー転換",
+          "電力自由化"
+        ],
+        "hard": [
+          "シェール革命",
+          "第二次産業革命",
+          "脱炭素化"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】1973年、第四次中東戦争をきっかけに原油価格が急騰し、日本の高度経済成長を終わらせたできごとを何というか。",
+      "verso": "石油危機（オイル・ショック）",
+      "explanation": "エネルギー革命で石油に依存していたため打撃は大きかった。資源の偏在とOPECの影響力を示すできごと。",
+      "tags": [
+        "piege",
+        "エネルギー"
+      ],
+      "distractors": {
+        "easy": [
+          "世界恐慌",
+          "バブル崩壊",
+          "リーマン・ショック"
+        ],
+        "medium": [
+          "エネルギー革命",
+          "ニクソン・ショック",
+          "第二次石油危機"
+        ],
+        "hard": [
+          "資源ナショナリズム",
+          "シェール革命",
+          "OPEC結成"
+        ]
+      }
+    },
+    {
+      "recto": "ウランの核分裂を利用して大量の電気を得る発電を何というか。",
+      "verso": "原子力発電",
+      "explanation": "発電時にCO₂を出さないが、放射性廃棄物や事故のリスクがある。福島第一原発事故後、各国が見直しを迫られた。",
+      "tags": [
+        "エネルギー"
+      ],
+      "distractors": {
+        "easy": [
+          "火力発電",
+          "水力発電",
+          "風力発電"
+        ],
+        "medium": [
+          "太陽光発電",
+          "地熱発電",
+          "バイオマス発電"
+        ],
+        "hard": [
+          "核融合発電",
+          "揚水発電",
+          "高速増殖炉"
+        ]
+      }
+    },
+    {
+      "recto": "スマートフォンや電気自動車に不可欠だが、産出量が少なく特定の国にかたよる希少な金属を何というか。",
+      "verso": "レアメタル（希少金属）",
+      "explanation": "リチウムやコバルトなど。中国など特定国に偏在し、供給の安定確保が課題。都市鉱山からの回収も進む。",
+      "tags": [
+        "資源",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "鉄",
+          "アルミニウム",
+          "石炭"
+        ],
+        "medium": [
+          "貴金属",
+          "ベースメタル",
+          "非鉄金属"
+        ],
+        "hard": [
+          "レアアース",
+          "合金鉄",
+          "コモンメタル"
+        ]
+      }
+    },
+    {
+      "recto": "使わなくなった電子機器などに含まれる金属を再利用する取り組みで、都市にたまった資源を何と呼ぶか。",
+      "verso": "都市鉱山",
+      "explanation": "廃棄されたスマホなどからレアメタルを回収する。資源に乏しい日本にとって重要な資源の一つとされる。",
+      "tags": [
+        "資源",
+        "取り組み"
+      ],
+      "distractors": {
+        "easy": [
+          "炭鉱",
+          "油田",
+          "鉱山"
+        ],
+        "medium": [
+          "リサイクル",
+          "産業廃棄物",
+          "廃鉱"
+        ],
+        "hard": [
+          "都市油田",
+          "静脈産業",
+          "アーバンマイン"
+        ]
+      }
+    },
+    {
+      "recto": "エネルギーをむだなく効率的に使い、消費量そのものを減らす取り組みを何というか。",
+      "verso": "省エネルギー",
+      "explanation": "石油危機を機に日本で進んだ。供給を増やすだけでなく需要を減らすことが、持続可能なエネルギー利用の鍵。",
+      "tags": [
+        "エネルギー",
+        "取り組み"
+      ],
+      "distractors": {
+        "easy": [
+          "大量消費",
+          "エネルギー革命",
+          "自由化"
+        ],
+        "medium": [
+          "再生可能エネルギー",
+          "節電",
+          "電力自由化"
+        ],
+        "hard": [
+          "エネルギーミックス",
+          "コージェネレーション",
+          "デマンドレスポンス"
+        ]
+      }
+    },
+    {
+      "recto": "化石燃料・原子力・再生可能エネルギーなどを、リスクを分散しながら組み合わせて利用する考え方を何というか。",
+      "verso": "エネルギーミックス",
+      "explanation": "一つの資源に依存すると供給が不安定になる。複数の電源を組み合わせて安定と環境の両立をめざす。",
+      "tags": [
+        "エネルギー",
+        "政策"
+      ],
+      "distractors": {
+        "easy": [
+          "エネルギー革命",
+          "省エネルギー",
+          "自給自足"
+        ],
+        "medium": [
+          "再生可能エネルギー",
+          "脱原発",
+          "電力自由化"
+        ],
+        "hard": [
+          "ベストミックス",
+          "分散型電源",
+          "スマートグリッド"
+        ]
+      }
+    },
+    {
+      "recto": "動植物などの生物資源を燃料として利用する再生可能エネルギーを何というか。",
+      "verso": "バイオマス",
+      "explanation": "間伐材や家畜のふん尿、サトウキビなどを利用する。燃やしてもCO₂の増加につながりにくいとされる。",
+      "tags": [
+        "エネルギー",
+        "再生可能"
+      ],
+      "distractors": {
+        "easy": [
+          "石炭",
+          "石油",
+          "天然ガス"
+        ],
+        "medium": [
+          "原子力",
+          "シェールガス",
+          "地熱"
+        ],
+        "hard": [
+          "メタンハイドレート",
+          "バイオエタノールのみ",
+          "水素エネルギー"
+        ]
+      }
+    },
+    {
+      "recto": "日本近海の海底に眠り、次世代の国産エネルギー資源として期待される、メタンを含む氷状の物質を何というか。",
+      "verso": "メタンハイドレート",
+      "explanation": "「燃える氷」と呼ばれる。実用化には技術やコストの課題が残る。資源に乏しい日本の期待を集める。",
+      "tags": [
+        "資源",
+        "新資源"
+      ],
+      "distractors": {
+        "easy": [
+          "石炭",
+          "レアメタル",
+          "ウラン"
+        ],
+        "medium": [
+          "シェールガス",
+          "天然ガス",
+          "バイオマス"
+        ],
+        "hard": [
+          "オイルサンド",
+          "シェールオイル",
+          "コールベッドメタン"
+        ]
+      }
+    },
+    {
+      "recto": "二酸化炭素の排出を実質ゼロにすることをめざす、脱炭素社会の目標を何というか。",
+      "verso": "カーボンニュートラル",
+      "explanation": "排出量と吸収・除去量を均衡させる考え方。地球温暖化対策として、再生可能エネルギーへの転換を後押しする。",
+      "tags": [
+        "エネルギー",
+        "環境"
+      ],
+      "distractors": {
+        "easy": [
+          "エネルギー革命",
+          "省エネルギー",
+          "リサイクル"
+        ],
+        "medium": [
+          "カーボンオフセット",
+          "脱化石燃料",
+          "排出量取引"
+        ],
+        "hard": [
+          "カーボンフットプリント",
+          "ネットゼロの別概念",
+          "炭素税"
+        ]
+      }
+    },
+    {
+      "recto": "資源をくり返し利用し、廃棄物を最小限にして資源を循環させる社会を何というか。",
+      "verso": "循環型社会",
+      "explanation": "3R（リデュース・リユース・リサイクル）を柱とする。資源の枯渇と環境負荷の両方に対応する考え方。",
+      "tags": [
+        "資源",
+        "社会"
+      ],
+      "distractors": {
+        "easy": [
+          "大量消費社会",
+          "情報社会",
+          "産業社会"
+        ],
+        "medium": [
+          "持続可能な社会",
+          "脱炭素社会",
+          "リサイクル社会"
+        ],
+        "hard": [
+          "静脈経済",
+          "サーキュラーエコノミー",
+          "ゼロエミッション社会"
+        ]
+      }
+    },
+    {
+      "recto": "石油や石炭にかわって注目される、燃やしても水しか出さない次世代のエネルギーは何か。",
+      "verso": "水素（エネルギー）",
+      "explanation": "燃焼してもCO₂を出さない。燃料電池や燃料電池車に利用され、脱炭素社会の鍵の一つとされる。",
+      "tags": [
+        "エネルギー",
+        "新資源"
+      ],
+      "distractors": {
+        "easy": [
+          "石炭",
+          "石油",
+          "ウラン"
+        ],
+        "medium": [
+          "天然ガス",
+          "バイオマス",
+          "シェールガス"
+        ],
+        "hard": [
+          "メタンハイドレート",
+          "アンモニア燃料",
+          "合成燃料"
+        ]
+      }
+    }
+  ]
+}

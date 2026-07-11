@@ -1,0 +1,509 @@
+{
+  "id": "jp-koukou-koukyou-shijou-keizai",
+  "title": "市場経済のしくみ",
+  "emoji": "📈",
+  "subject": "civics",
+  "country": "jp",
+  "courseDescription": "希少性と価格のしくみから市場の失敗、企業まで。市場経済のはたらきと限界を学ぶ。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>市場経済のしくみ</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・公共<br>\n  <b>大項目B：</b>自立した主体として社会に参画する私たち<br>\n  <b>内容：</b>希少性・価格・市場の失敗・企業\n</div>\n\n<blockquote>\n  <p><b>問い</b>　限られた資源は、どのようにして必要なところへ配分されるのだろうか。</p>\n</blockquote>\n\n<p>経済は<strong>希少性</strong>——資源が限られていること——から始まる。だからこそ「何をどれだけつくるか」の選択が必要になる。<strong>市場</strong>では<strong>価格</strong>がこの調整を担う。しかし市場は万能ではなく、<strong>市場の失敗</strong>も起こる。市場経済のはたらきと限界を整理しよう。</p>\n\n<h2>1・希少性と選択</h2>\n\n<p>人々の欲求に対して資源は限られている（<strong>希少性</strong>）。そのため、何かを選べば何かをあきらめることになる。あきらめた選択肢から得られたはずの利益を<strong>機会費用</strong>という。合理的な選択の指標となる考え方である。</p>\n\n<div class=\"callout\">\n  <strong>用語・機会費用</strong><br>\n  あるものを選んだとき、あきらめた選択肢から得られたはずの最大の利益。希少な資源を使う以上、選択には必ず機会費用がともなう。\n</div>\n\n<h2>2・市場と価格のはたらき</h2>\n\n<p><strong>市場</strong>では、買い手の<strong>需要</strong>と売り手の<strong>供給</strong>が出会う。価格が上がると需要は減り供給は増える。両者が一致する<strong>均衡価格</strong>で取引が成立する。</p>\n\n<p>価格の変動によって需要と供給が自動的に調整されるこの働きを、<strong>アダム・スミス</strong>は「<strong>（神の）見えざる手</strong>」と表現した。各人が自分の利益を追求すると、結果的に資源配分が調整されるという考えである。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 210\" role=\"img\" aria-label=\"需要曲線と供給曲線。交わる点で均衡価格が決まる\">\n  <!-- 軸 -->\n  <line x1=\"50\" y1=\"30\" x2=\"50\" y2=\"175\" style=\"stroke:currentColor;stroke-opacity:.4;stroke-width:1.5\"/>\n  <line x1=\"50\" y1=\"175\" x2=\"310\" y2=\"175\" style=\"stroke:currentColor;stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"40\" y=\"28\" text-anchor=\"end\" class=\"s-muted\" font-size=\"10\">価格</text>\n  <text x=\"310\" y=\"192\" text-anchor=\"end\" class=\"s-muted\" font-size=\"10\">数量</text>\n  <!-- 需要曲線（右下がり） -->\n  <line x1=\"70\" y1=\"40\" x2=\"290\" y2=\"165\" style=\"stroke:var(--accent);stroke-width:2.5\"/>\n  <text x=\"286\" y=\"158\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">需要</text>\n  <!-- 供給曲線（右上がり） -->\n  <line x1=\"70\" y1=\"165\" x2=\"290\" y2=\"40\" style=\"stroke:var(--accent);stroke-width:2.5;stroke-dasharray:5 3\"/>\n  <text x=\"286\" y=\"48\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">供給</text>\n  <!-- 均衡点 -->\n  <circle cx=\"180\" cy=\"102\" r=\"6\" style=\"fill:var(--accent)\"/>\n  <text x=\"180\" y=\"94\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">均衡価格</text>\n</svg>\n<figcaption>右下がりの需要と右上がりの供給が交わる点で、価格と数量が決まる。</figcaption>\n</figure>\n\n<h2>3・市場の失敗</h2>\n\n<p>市場は万能ではない。うまく資源を配分できない<strong>市場の失敗</strong>が起こる。競争がなくなる<strong>独占</strong>・寡占、公害のような<strong>外部性（外部不経済）</strong>、市場では供給されにくい<strong>公共財</strong>、売り手と買い手の情報の差（情報の非対称性）などである。</p>\n\n<p>これらには政府の対応が必要となる。独占には<strong>独占禁止法</strong>（公正取引委員会）、公害には規制、公共財には政府による供給が行われる。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 240\" role=\"img\" aria-label=\"市場の失敗のおもな例。独占・寡占、外部性、公共財\">\n  <defs>\n    <marker id=\"ar-sj1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 市場の失敗（強調） -->\n  <rect x=\"85\" y=\"8\" width=\"170\" height=\"56\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"33\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">市場の失敗</text>\n  <text x=\"170\" y=\"53\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11\">政府の対応が必要</text>\n  <!-- 矢印 -->\n  <path d=\"M170,66 L60,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sj1)\"/>\n  <path d=\"M170,66 L170,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sj1)\"/>\n  <path d=\"M170,66 L280,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sj1)\"/>\n  <!-- 独占・寡占 -->\n  <rect x=\"10\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">独占・寡占</text>\n  <text x=\"60\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">競争が弱まる</text>\n  <text x=\"60\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">独占禁止法</text>\n  <!-- 外部性 -->\n  <rect x=\"120\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">外部性</text>\n  <text x=\"170\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">公害など</text>\n  <text x=\"170\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">規制が必要</text>\n  <!-- 公共財 -->\n  <rect x=\"230\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">公共財</text>\n  <text x=\"280\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">道路・警察</text>\n  <text x=\"280\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">政府が供給</text>\n</svg>\n<figcaption>市場が万能でないからこそ、政府の役割が必要になる。</figcaption>\n</figure>\n\n<h2>4・企業のはたらき</h2>\n\n<p>市場で生産を担うのが<strong>企業</strong>である。家計・政府とともに経済の三主体をなす。代表的な形態が<strong>株式会社</strong>で、株式を発行して多くの人（<strong>株主</strong>）から資金を集める。株主は出資額の範囲でのみ責任を負う（有限責任）。</p>\n\n<p>現代の企業は、利益の追求だけでなく、環境保護や地域貢献といった<strong>企業の社会的責任（CSR）</strong>も問われる。私有と市場を基礎とする<strong>資本主義経済</strong>のなかで、企業は社会の一員としての役割も担っている。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 180\" role=\"img\" aria-label=\"経済の三主体。家計・企業・政府がたがいに結びついて経済を動かす\">\n  <!-- 家計 -->\n  <rect x=\"120\" y=\"10\" width=\"100\" height=\"44\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"30\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">家計</text>\n  <text x=\"170\" y=\"47\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">消費・労働</text>\n  <!-- 企業 -->\n  <rect x=\"14\" y=\"120\" width=\"100\" height=\"44\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"64\" y=\"140\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">企業</text>\n  <text x=\"64\" y=\"157\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">生産</text>\n  <!-- 政府 -->\n  <rect x=\"226\" y=\"120\" width=\"100\" height=\"44\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"276\" y=\"140\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">政府</text>\n  <text x=\"276\" y=\"157\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">財政</text>\n  <!-- 相互の線 -->\n  <line x1=\"135\" y1=\"54\" x2=\"80\" y2=\"118\" style=\"stroke:var(--accent);stroke-width:1.5;stroke-opacity:.6\"/>\n  <line x1=\"205\" y1=\"54\" x2=\"260\" y2=\"118\" style=\"stroke:var(--accent);stroke-width:1.5;stroke-opacity:.6\"/>\n  <line x1=\"114\" y1=\"142\" x2=\"226\" y2=\"142\" style=\"stroke:var(--accent);stroke-width:1.5;stroke-opacity:.6\"/>\n  <text x=\"90\" y=\"94\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">労働・消費</text>\n  <text x=\"252\" y=\"94\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">税・公共サービス</text>\n  <text x=\"170\" y=\"135\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">税・規制</text>\n</svg>\n<figcaption>家計・企業・政府の三主体が結びついて、経済は動いている。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・市場の失敗</strong><br>\n  市場のしくみだけでは資源が適切に配分されない状態。独占・外部性（公害）・公共財・情報の非対称性などが原因で、政府の役割が必要となる。\n</div>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>概念</th><th>内容</th></tr>\n  <tr><td>希少性</td><td>資源が限られていること</td></tr>\n  <tr><td>機会費用</td><td>あきらめた選択肢の価値</td></tr>\n  <tr><td>見えざる手</td><td>価格による市場の自動調整（スミス）</td></tr>\n  <tr><td>市場の失敗</td><td>市場だけではうまくいかない状態</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>需要／供給</td><td>買い手の量／売り手の量</td></tr>\n  <tr><td>均衡価格</td><td>需要と供給が一致する価格</td></tr>\n  <tr><td>見えざる手</td><td>市場の自動調整機能（アダム・スミス）</td></tr>\n  <tr><td>市場の失敗</td><td>独占・外部性・公共財など</td></tr>\n  <tr><td>株式会社</td><td>株式で資金を集める企業形態</td></tr>\n  <tr><td>CSR</td><td>企業の社会的責任</td></tr>\n</table>\n\n<h3>市場の失敗の例</h3>\n\n<table>\n  <tr><th>例</th><th>対応</th></tr>\n  <tr><td>独占・寡占</td><td>独占禁止法（公正取引委員会）</td></tr>\n  <tr><td>外部性（公害）</td><td>政府の規制</td></tr>\n  <tr><td>公共財</td><td>政府による供給</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  <b>需要</b>（買い手・価格が上がると減る）と<b>供給</b>（売り手・価格が上がると増える）を取りちがえないこと。また市場は「見えざる手」で調整されるが万能ではなく、<b>市場の失敗</b>には政府の対応が必要になる。\n</div>\n\n<blockquote>\n  <p>市場は、価格を通じて資源を効率よく配分するすぐれたしくみである。しかし独占や公害、公共財の問題では、市場だけでは解決できない。そこで政府が登場する。次は、その政府が担う財政と金融のしくみを見ていこう。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "公共 ― 自立した主体として社会に参画する私たち",
+  "cards": [
+    {
+      "recto": "人々の欲求に対して、資源やモノ・サービスの量が限られていることを何というか。経済の出発点となる考え方である。",
+      "verso": "希少性",
+      "explanation": "資源が限られるからこそ、何をどれだけつくるかを選ぶ必要が生じる。この選択の問題が経済の根本にある。",
+      "tags": [
+        "市場",
+        "基礎"
+      ],
+      "distractors": {
+        "easy": [
+          "豊富さ",
+          "無限性",
+          "平等性"
+        ],
+        "medium": [
+          "効率性",
+          "希少価値",
+          "有限性のみ"
+        ],
+        "hard": [
+          "トレードオフ",
+          "機会費用",
+          "限界効用"
+        ]
+      }
+    },
+    {
+      "recto": "あるものを選んだとき、あきらめた選択肢から得られたはずの利益を何というか。",
+      "verso": "機会費用",
+      "explanation": "希少な資源を使う以上、何かを選べば何かをあきらめる。その「あきらめた最大の価値」が機会費用。合理的な選択の指標。",
+      "tags": [
+        "市場",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "生産費",
+          "固定費",
+          "人件費"
+        ],
+        "medium": [
+          "サンクコスト",
+          "限界費用",
+          "可変費用"
+        ],
+        "hard": [
+          "埋没費用",
+          "取引費用",
+          "外部費用"
+        ]
+      }
+    },
+    {
+      "recto": "モノやサービスが売り手と買い手の間で自由に取引される場を何というか。",
+      "verso": "市場",
+      "explanation": "需要と供給が出会う場。価格を通じて資源が配分される。市場を中心とする経済を市場経済という。",
+      "tags": [
+        "市場",
+        "基礎"
+      ],
+      "distractors": {
+        "easy": [
+          "工場",
+          "会社",
+          "銀行"
+        ],
+        "medium": [
+          "商店街",
+          "取引所",
+          "流通"
+        ],
+        "hard": [
+          "計画経済",
+          "統制経済",
+          "混合経済"
+        ]
+      }
+    },
+    {
+      "recto": "ある価格のもとで、買い手が買おうとする量を何というか。価格が上がると減る関係にある。",
+      "verso": "需要",
+      "explanation": "買い手の側の量。価格が上がると需要は減る（需要曲線は右下がり）。売り手の側の供給と対になる。",
+      "tags": [
+        "市場",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "供給",
+          "生産",
+          "在庫"
+        ],
+        "medium": [
+          "消費",
+          "販売",
+          "取引量"
+        ],
+        "hard": [
+          "需要弾力性",
+          "限界効用",
+          "有効需要"
+        ]
+      }
+    },
+    {
+      "recto": "ある価格のもとで、売り手が売ろうとする量を何というか。価格が上がると増える関係にある。",
+      "verso": "供給",
+      "explanation": "売り手の側の量。価格が上がると供給は増える（供給曲線は右上がり）。買い手の側の需要と対になる。",
+      "tags": [
+        "市場",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "需要",
+          "消費",
+          "購入"
+        ],
+        "medium": [
+          "生産量のみ",
+          "販売",
+          "在庫"
+        ],
+        "hard": [
+          "供給弾力性",
+          "限界費用",
+          "総供給"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】買い手が買おうとする量と、売り手が売ろうとする量を、それぞれ何というか。",
+      "verso": "需要と供給",
+      "explanation": "需要＝買い手（価格が上がると減る）、供給＝売り手（価格が上がると増る）。両者が一致する点で価格が決まる。取りちがえない。",
+      "tags": [
+        "comparaison",
+        "市場"
+      ],
+      "distractors": {
+        "easy": [
+          "生産と消費",
+          "輸入と輸出",
+          "収入と支出"
+        ],
+        "medium": [
+          "供給と需要",
+          "需要と価格",
+          "供給と価格"
+        ],
+        "hard": [
+          "有効需要と総供給",
+          "需要曲線と価格弾力性",
+          "限界効用と限界費用"
+        ]
+      }
+    },
+    {
+      "recto": "需要と供給が一致し、市場で自然に決まる価格を何というか。",
+      "verso": "均衡価格",
+      "explanation": "需要量と供給量が等しくなる価格。価格が高すぎれば売れ残り、安すぎれば品不足となり、自動的に均衡へ向かう。",
+      "tags": [
+        "市場",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "定価",
+          "原価",
+          "希望価格"
+        ],
+        "medium": [
+          "市場価格",
+          "独占価格",
+          "統制価格"
+        ],
+        "hard": [
+          "管理価格",
+          "公定価格",
+          "生産者価格"
+        ]
+      }
+    },
+    {
+      "recto": "市場では、価格が変動することで需要と供給が自動的に調整される。この働きを、アダム・スミスは何と表現したか。",
+      "verso": "（神の）見えざる手",
+      "explanation": "各人が自分の利益を追求すると、結果的に社会全体の資源配分が調整されるとした。市場の自動調整機能を示す有名な言葉。",
+      "tags": [
+        "市場",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "神の意志",
+          "王の手",
+          "運命"
+        ],
+        "medium": [
+          "市場の失敗",
+          "計画の手",
+          "政府の介入"
+        ],
+        "hard": [
+          "予定調和",
+          "自然の摂理",
+          "レッセフェール"
+        ]
+      }
+    },
+    {
+      "recto": "『国富論』を著し、自由な市場を重んじて「見えざる手」を説いた経済学者は誰か。",
+      "verso": "アダム・スミス",
+      "explanation": "「経済学の父」と呼ばれる。自由放任（レッセフェール）を主張した。政府の役割を重んじたケインズと対比される。",
+      "tags": [
+        "市場",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "マルクス",
+          "ケインズ",
+          "リカード"
+        ],
+        "medium": [
+          "マルサス",
+          "フリードマン",
+          "セー"
+        ],
+        "hard": [
+          "ミル",
+          "シュンペーター",
+          "ワルラス"
+        ]
+      }
+    },
+    {
+      "recto": "市場のしくみだけでは資源が適切に配分されず、うまくいかない状態を何というか。",
+      "verso": "市場の失敗",
+      "explanation": "独占・外部性・公共財・情報の非対称性などが原因。市場が万能でないことを示す。政府の役割が必要となる場面。",
+      "tags": [
+        "市場",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "市場の成功",
+          "見えざる手",
+          "均衡"
+        ],
+        "medium": [
+          "景気変動",
+          "インフレ",
+          "恐慌"
+        ],
+        "hard": [
+          "政府の失敗",
+          "外部不経済のみ",
+          "資源配分"
+        ]
+      }
+    },
+    {
+      "recto": "少数の企業が市場を支配し、価格競争が弱まる状態のうち、1社が支配する状態を何というか。",
+      "verso": "独占",
+      "explanation": "競争がなくなると価格が高止まりしやすい（市場の失敗）。少数の企業が支配する寡占と区別する。独占禁止法で規制される。",
+      "tags": [
+        "市場",
+        "市場の失敗"
+      ],
+      "distractors": {
+        "easy": [
+          "競争",
+          "自由化",
+          "均衡"
+        ],
+        "medium": [
+          "寡占",
+          "独占禁止",
+          "カルテル"
+        ],
+        "hard": [
+          "複占",
+          "トラスト",
+          "コンツェルン"
+        ]
+      }
+    },
+    {
+      "recto": "ある経済活動が、市場を通さずに第三者に影響を与えることを何というか。公害は悪い例（外部不経済）である。",
+      "verso": "外部性（外部効果）",
+      "explanation": "公害（外部不経済）のように、代金のやり取りなしに他者へ悪影響が及ぶ。市場の失敗の一つで、政府の規制が必要となる。",
+      "tags": [
+        "市場",
+        "市場の失敗"
+      ],
+      "distractors": {
+        "easy": [
+          "希少性",
+          "機会費用",
+          "均衡"
+        ],
+        "medium": [
+          "市場の失敗全般",
+          "情報の非対称性",
+          "公共財"
+        ],
+        "hard": [
+          "外部不経済のみ",
+          "スピルオーバー",
+          "コモンズの悲劇"
+        ]
+      }
+    },
+    {
+      "recto": "道路や公園、警察・消防のように、多くの人が同時に利用でき、対価を払わない人も排除しにくい財を何というか。",
+      "verso": "公共財",
+      "explanation": "市場では十分に供給されにくいため、政府が提供する（市場の失敗の一つ）。利益を目的とする民間企業では供給が難しい。",
+      "tags": [
+        "市場",
+        "市場の失敗"
+      ],
+      "distractors": {
+        "easy": [
+          "私的財",
+          "商品",
+          "サービス"
+        ],
+        "medium": [
+          "公有財産",
+          "共有財",
+          "無料サービス"
+        ],
+        "hard": [
+          "準公共財",
+          "クラブ財",
+          "コモンプール財"
+        ]
+      }
+    },
+    {
+      "recto": "独占や不公正な取引を防ぎ、公正で自由な競争を守るために、日本で制定されている法律を何というか。",
+      "verso": "独占禁止法",
+      "explanation": "運用を担うのが公正取引委員会。カルテルや不公正な取引を禁じ、市場の失敗（独占）に対応する。",
+      "tags": [
+        "市場",
+        "法律"
+      ],
+      "distractors": {
+        "easy": [
+          "消費者契約法",
+          "労働基準法",
+          "会社法"
+        ],
+        "medium": [
+          "製造物責任法",
+          "公正取引法という別称",
+          "景品表示法"
+        ],
+        "hard": [
+          "下請法",
+          "不正競争防止法",
+          "特定商取引法"
+        ]
+      }
+    },
+    {
+      "recto": "利益を目的に、財やサービスを生産する経済の主体を何というか。家計・政府とならぶ経済の三主体の一つ。",
+      "verso": "企業",
+      "explanation": "生産の中心的な担い手。家計（消費）、政府（財政）とともに経済を動かす。株式会社が代表的な形態。",
+      "tags": [
+        "経済主体",
+        "基礎"
+      ],
+      "distractors": {
+        "easy": [
+          "政府",
+          "家計",
+          "銀行"
+        ],
+        "medium": [
+          "市場",
+          "労働組合",
+          "組合"
+        ],
+        "hard": [
+          "公企業のみ",
+          "NPO",
+          "協同組合"
+        ]
+      }
+    },
+    {
+      "recto": "株式を発行して多くの人から資金を集める、代表的な企業の形態を何というか。",
+      "verso": "株式会社",
+      "explanation": "出資者（株主）は出資額の範囲でのみ責任を負う（有限責任）。大きな資金を集めやすく、近代の経済発展を支えた。",
+      "tags": [
+        "企業",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "個人商店",
+          "国営企業",
+          "協同組合"
+        ],
+        "medium": [
+          "合名会社",
+          "合資会社",
+          "合同会社"
+        ],
+        "hard": [
+          "有限会社",
+          "相互会社",
+          "公私合同企業"
+        ]
+      }
+    },
+    {
+      "recto": "株式会社に出資し、株主総会で議決権をもち、利益の一部を配当として受け取る人を何というか。",
+      "verso": "株主",
+      "explanation": "会社の実質的な所有者。株主総会が最高意思決定機関。会社は株主の利益だけでなく社会的責任（CSR）も問われる。",
+      "tags": [
+        "企業"
+      ],
+      "distractors": {
+        "easy": [
+          "社員",
+          "顧客",
+          "経営者"
+        ],
+        "medium": [
+          "従業員",
+          "取締役",
+          "債権者"
+        ],
+        "hard": [
+          "ステークホルダー",
+          "機関投資家",
+          "オーナー経営者"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】企業が、利益の追求だけでなく、環境保護や地域貢献など社会に対して果たすべき責任を何というか。",
+      "verso": "企業の社会的責任（CSR）",
+      "explanation": "Corporate Social Responsibility の略。利益最大化だけを目的とする考えとは異なり、社会の一員としての責任を重んじる。",
+      "tags": [
+        "piege",
+        "企業"
+      ],
+      "distractors": {
+        "easy": [
+          "利益の最大化",
+          "コスト削減",
+          "株価の上昇"
+        ],
+        "medium": [
+          "コンプライアンス",
+          "ディスクロージャー",
+          "メセナ"
+        ],
+        "hard": [
+          "ESG投資",
+          "コーポレートガバナンス",
+          "フィランソロピー"
+        ]
+      }
+    },
+    {
+      "recto": "生産手段を私有し、市場での自由な競争を通じて利益を追求する経済のしくみを何というか。",
+      "verso": "資本主義経済",
+      "explanation": "私有財産と市場を基礎とする。生産手段を社会全体で所有する社会主義経済と対比される。現代の多くは修正資本主義。",
+      "tags": [
+        "経済体制",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "社会主義経済",
+          "封建制",
+          "自給自足"
+        ],
+        "medium": [
+          "計画経済",
+          "統制経済",
+          "共産主義"
+        ],
+        "hard": [
+          "修正資本主義",
+          "混合経済",
+          "重商主義"
+        ]
+      }
+    }
+  ]
+}

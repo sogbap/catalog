@@ -1,0 +1,432 @@
+{
+  "id": "br-ensino-medio-geografia-brasil-questoes-ambientais",
+  "title": "Questões ambientais no Brasil",
+  "emoji": "🔥",
+  "subject": "geography",
+  "country": "br",
+  "courseDescription": "Os grandes desafios ambientais do país: desmatamento, queimadas, crise hídrica, mineração e o caminho do desenvolvimento sustentável.",
+  "lesson": "<style>\n  /* Estilos dos gráficos (SVG). Usam currentColor (texto) e var(--accent)\n     (cor da matéria), adaptando-se ao tema claro/escuro do app. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Questões ambientais no Brasil</h1>\n\n<div class=\"callout\">\n  <strong>Pontos de estudo</strong><br>\n  <b>Nível:</b> Ensino Médio<br>\n  <b>Área:</b> Geografia do Brasil<br>\n  <b>Tema:</b> desmatamento, água, mineração e sustentabilidade\n</div>\n\n<blockquote>\n  <p><b>Questão central.</b> Como o Brasil pode crescer sem destruir suas florestas e suas águas?</p>\n</blockquote>\n\n<p>O Brasil enfrenta grandes desafios ambientais: o <strong>desmatamento</strong> e as <strong>queimadas</strong> na Amazônia e no Cerrado, a <strong>crise hídrica</strong>, os desastres da <strong>mineração</strong> e a <strong>poluição</strong> urbana. A resposta buscada é o <strong>desenvolvimento sustentável</strong>: crescer preservando.</p>\n\n<h2>1 · Desmatamento e queimadas</h2>\n\n<p>O <strong>desmatamento</strong> avança pelo <strong>arco do desmatamento</strong>, nas bordas da Amazônia. Sua principal causa é a <strong>pecuária e a agricultura</strong> (não só a madeira). As <strong>queimadas</strong> abrem terreno, mas poluem o ar e agravam o efeito estufa.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 140\" role=\"img\" aria-label=\"As causas e os efeitos do desmatamento da Amazônia\">\n  <defs>\n    <marker id=\"ar-bamb1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"60\" y=\"16\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Causas</text>\n  <rect x=\"10\" y=\"24\" width=\"100\" height=\"34\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.2\"/>\n  <text x=\"60\" y=\"45\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">pecuária (gado)</text>\n  <rect x=\"10\" y=\"62\" width=\"100\" height=\"34\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"60\" y=\"83\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">agricultura (soja)</text>\n  <rect x=\"10\" y=\"100\" width=\"100\" height=\"34\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.2\"/>\n  <text x=\"60\" y=\"121\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">madeira, garimpo</text>\n  <path d=\"M110,79 L150,79\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bamb1)\"/>\n  <rect x=\"154\" y=\"46\" width=\"176\" height=\"66\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"242\" y=\"68\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Efeitos</text>\n  <text x=\"242\" y=\"86\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">perda de biodiversidade,</text>\n  <text x=\"242\" y=\"100\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">mais carbono, menos chuva</text>\n</svg>\n<figcaption>A floresta cai sobretudo para virar pasto e lavoura — com pesados efeitos climáticos.</figcaption>\n</figure>\n\n<h2>2 · Água, solo e mineração</h2>\n\n<p>Apesar da abundância de água, o país sofre <strong>crises hídricas</strong> (desmatamento, poluição, desperdício). A retirada da <strong>mata ciliar</strong> causa erosão e <strong>assoreamento</strong> dos rios. No semiárido, há risco de <strong>desertificação</strong>. E a <strong>mineração</strong> provocou desastres como <strong>Mariana</strong> (2015) e <strong>Brumadinho</strong> (2019).</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Os problemas ambientais da água, do solo e da mineração no Brasil\">\n  <rect x=\"8\" y=\"34\" width=\"100\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Água</text>\n  <text x=\"58\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">crise hídrica,</text>\n  <text x=\"58\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">assoreamento</text>\n  <rect x=\"120\" y=\"34\" width=\"100\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Solo</text>\n  <text x=\"170\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">erosão,</text>\n  <text x=\"170\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">desertificação</text>\n  <rect x=\"232\" y=\"34\" width=\"100\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Mineração</text>\n  <text x=\"282\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">barragens:</text>\n  <text x=\"282\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Mariana, Brumadinho</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">problemas de água, solo e mineração</text>\n</svg>\n<figcaption>Além do desmatamento, água, solo e mineração concentram graves impactos.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Conceito · Desenvolvimento sustentável</strong><br>\n  Atender às necessidades do presente <b>sem comprometer as gerações futuras</b>. Concilia crescimento econômico, justiça social e preservação ambiental.\n</div>\n\n<h2>3 · Conservar: as unidades de conservação</h2>\n\n<p>A principal ferramenta de proteção são as <strong>unidades de conservação</strong>. As de <strong>proteção integral</strong> (parques) permitem só uso indireto (visita, pesquisa); as de <strong>uso sustentável</strong> (reservas extrativistas) permitem uso direto controlado dos recursos.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Os dois tipos de unidade de conservação: proteção integral e uso sustentável\">\n  <rect x=\"12\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Proteção integral</text>\n  <text x=\"87\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">só uso indireto</text>\n  <text x=\"87\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">visita, pesquisa</text>\n  <text x=\"87\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">ex.: parques nacionais</text>\n  <rect x=\"178\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Uso sustentável</text>\n  <text x=\"253\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">uso direto controlado</text>\n  <text x=\"253\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">extrativismo</text>\n  <text x=\"253\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">ex.: reservas extrativistas</text>\n</svg>\n<figcaption>Duas formas de proteger: preservar totalmente ou usar de modo sustentável.</figcaption>\n</figure>\n\n<h2>4 · A Amazônia e o clima</h2>\n\n<p>A floresta amazônica guarda enorme quantidade de <strong>carbono</strong> e libera umidade que alimenta chuvas em outras regiões (os <strong>\"rios voadores\"</strong>). Desmatá-la agrava o <strong>aquecimento global</strong>. O <strong>IBAMA</strong> é o órgão federal que fiscaliza o meio ambiente.</p>\n\n<h2>O essencial</h2>\n\n<h3>Problemas e causas</h3>\n\n<table>\n  <tr><th>Problema</th><th>Causa principal</th></tr>\n  <tr><td>Desmatamento</td><td>Pecuária e agricultura</td></tr>\n  <tr><td>Queimadas</td><td>Abertura de pasto e lavoura</td></tr>\n  <tr><td>Assoreamento</td><td>Erosão (falta de mata ciliar)</td></tr>\n  <tr><td>Desastres de barragem</td><td>Mineração (Mariana, Brumadinho)</td></tr>\n</table>\n\n<h3>Termos-chave</h3>\n\n<table>\n  <tr><th>Termo</th><th>Significado</th></tr>\n  <tr><td>Arco do desmatamento</td><td>Faixa de avanço sobre a Amazônia</td></tr>\n  <tr><td>Desenvolvimento sustentável</td><td>Crescer sem comprometer o futuro</td></tr>\n  <tr><td>Unidade de conservação</td><td>Área protegida por lei</td></tr>\n  <tr><td>Mata ciliar</td><td>Vegetação das margens dos rios</td></tr>\n  <tr><td>Rios voadores</td><td>Umidade da Amazônia que vira chuva</td></tr>\n</table>\n\n<h3>Instituições e conceitos</h3>\n\n<table>\n  <tr><th>Item</th><th>Papel</th></tr>\n  <tr><td>IBAMA</td><td>Fiscaliza e protege o meio ambiente</td></tr>\n  <tr><td>Proteção integral</td><td>Só uso indireto (parques)</td></tr>\n  <tr><td>Uso sustentável</td><td>Uso direto controlado</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  A principal causa do desmatamento amazônico <b>não é só a madeira</b>: é a expansão da <b>pecuária e da agricultura</b>. E não confunda <b>proteção integral</b> (só visita e pesquisa) com <b>uso sustentável</b> (uso direto controlado dos recursos).\n</div>\n\n<blockquote>\n  <p>O Brasil detém alguns dos maiores tesouros naturais do planeta — e, com eles, a responsabilidade de mostrar que é possível desenvolver-se sem destruir. Esse é o desafio do nosso século.</p>\n</blockquote>\n",
+  "questionLang": "pt",
+  "answerLang": "pt",
+  "version": 1,
+  "level": "Ensino Médio",
+  "theme": "Geografia do Brasil",
+  "cards": [
+    {
+      "recto": "Principal problema ambiental da Amazônia, ligado à derrubada da floresta.",
+      "verso": "O desmatamento",
+      "explanation": "A retirada da floresta ameaça a biodiversidade e o clima. O chamado \"arco do desmatamento\" avança pelas bordas sul e leste da Amazônia.",
+      "tags": [
+        "questoes-ambientais",
+        "desmatamento"
+      ],
+      "distractors": {
+        "easy": [
+          "O congelamento",
+          "a urbanização total",
+          "a mineração de gelo"
+        ],
+        "medium": [
+          "A salinização",
+          "a erosão glacial",
+          "a acidificação dos oceanos"
+        ],
+        "hard": [
+          "A desertificação apenas",
+          "o assoreamento apenas",
+          "a eutrofização"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] A principal causa do desmatamento da Amazônia é a extração de madeira?",
+      "verso": "Não; a principal causa é a expansão da pecuária e da agricultura",
+      "explanation": "Erro comum. A madeira contribui, mas a maior parte do desmatamento abre espaço para pastagens (gado) e lavouras. A pecuária é o motor principal.",
+      "tags": [
+        "piege",
+        "questoes-ambientais"
+      ],
+      "distractors": {
+        "easy": [
+          "Sim, é só a madeira",
+          "Sim, é o turismo",
+          "Sim, é a mineração de ouro"
+        ],
+        "medium": [
+          "Sim, é a extração de madeira nobre",
+          "Sim, é a urbanização das cidades",
+          "Não, é a construção de hidrelétricas apenas"
+        ],
+        "hard": [
+          "Sim, é a coleta de castanhas",
+          "Não, é apenas a mineração",
+          "Sim, é o extrativismo vegetal sustentável"
+        ]
+      }
+    },
+    {
+      "recto": "Uso do fogo para limpar o terreno, que causa incêndios e libera gases na atmosfera.",
+      "verso": "As queimadas",
+      "explanation": "Muito usadas para abrir pasto e lavoura, poluem o ar, destroem a biodiversidade e agravam o efeito estufa. São comuns na Amazônia e no Cerrado.",
+      "tags": [
+        "questoes-ambientais",
+        "desmatamento"
+      ],
+      "distractors": {
+        "easy": [
+          "As nevascas",
+          "as geadas",
+          "as inundações glaciais"
+        ],
+        "medium": [
+          "A erosão eólica",
+          "o assoreamento",
+          "a salinização"
+        ],
+        "hard": [
+          "A eutrofização",
+          "a acidificação",
+          "a subsidência"
+        ]
+      }
+    },
+    {
+      "recto": "Faixa de avanço do desmatamento nas bordas da floresta amazônica, ligada ao agronegócio.",
+      "verso": "O arco do desmatamento",
+      "explanation": "Vai do Maranhão a Rondônia/Acre, nas bordas sul e leste da Amazônia. Ali a floresta é substituída por pastos e lavouras, sobretudo a soja.",
+      "tags": [
+        "questoes-ambientais",
+        "desmatamento"
+      ],
+      "distractors": {
+        "easy": [
+          "O arco-íris amazônico",
+          "o cinturão verde",
+          "a zona de mata intacta"
+        ],
+        "medium": [
+          "O corredor ecológico",
+          "a reserva legal",
+          "a zona de amortecimento"
+        ],
+        "hard": [
+          "O arco de conservação",
+          "o cinturão de araucárias",
+          "a faixa de manguezais"
+        ]
+      }
+    },
+    {
+      "recto": "Áreas protegidas por lei para conservar a natureza, como parques nacionais e reservas.",
+      "verso": "As unidades de conservação",
+      "explanation": "Podem ser de proteção integral (só uso indireto, como parques) ou de uso sustentável (uso direto controlado). São a principal ferramenta de conservação no Brasil.",
+      "tags": [
+        "questoes-ambientais",
+        "conservacao"
+      ],
+      "distractors": {
+        "easy": [
+          "As zonas industriais",
+          "os condomínios",
+          "as áreas de mineração"
+        ],
+        "medium": [
+          "Os assentamentos rurais",
+          "os distritos agrícolas",
+          "as zonas francas"
+        ],
+        "hard": [
+          "As áreas de expansão urbana",
+          "os polos agropecuários",
+          "as reservas de petróleo"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] Qual a diferença entre unidades de proteção integral e de uso sustentável?",
+      "verso": "Proteção integral: só uso indireto (visita, pesquisa); uso sustentável: uso direto controlado dos recursos",
+      "explanation": "Nos parques (proteção integral), não se pode explorar recursos, só visitar e pesquisar. Nas de uso sustentável (como reservas extrativistas), permite-se uso controlado.",
+      "tags": [
+        "comparaison",
+        "questoes-ambientais"
+      ],
+      "distractors": {
+        "easy": [
+          "Não há diferença entre elas",
+          "As duas permitem tudo",
+          "As duas proíbem qualquer uso"
+        ],
+        "medium": [
+          "Integral: uso direto; sustentável: nenhum uso",
+          "As duas são zonas industriais",
+          "Integral permite mineração; sustentável não"
+        ],
+        "hard": [
+          "Integral: uso controlado; sustentável: uso proibido",
+          "As duas liberam a agropecuária",
+          "Integral é urbana; sustentável é rural"
+        ]
+      }
+    },
+    {
+      "recto": "Modelo de desenvolvimento que atende às necessidades atuais sem comprometer as gerações futuras.",
+      "verso": "O desenvolvimento sustentável",
+      "explanation": "Busca conciliar crescimento econômico, justiça social e preservação ambiental. É a resposta proposta aos problemas ambientais do país e do mundo.",
+      "tags": [
+        "questoes-ambientais",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "O desmatamento acelerado",
+          "o extrativismo predatório",
+          "a industrialização a qualquer custo"
+        ],
+        "medium": [
+          "O crescimento ilimitado",
+          "a exploração máxima de recursos",
+          "o consumo sem limites"
+        ],
+        "hard": [
+          "O desenvolvimentismo clássico",
+          "a autarquia econômica",
+          "o crescimento zero absoluto"
+        ]
+      }
+    },
+    {
+      "recto": "Desastres de Mariana (2015) e Brumadinho (2019) estão ligados a qual atividade?",
+      "verso": "A mineração (rompimento de barragens de rejeitos)",
+      "explanation": "O rompimento de barragens de rejeitos de minério matou pessoas e poluiu rios inteiros. Mostram os riscos ambientais da mineração em Minas Gerais.",
+      "tags": [
+        "questoes-ambientais",
+        "mineracao"
+      ],
+      "distractors": {
+        "easy": [
+          "O turismo",
+          "a pesca artesanal",
+          "a agricultura orgânica"
+        ],
+        "medium": [
+          "A construção de hidrelétricas",
+          "a urbanização",
+          "o desmatamento apenas"
+        ],
+        "hard": [
+          "A extração de petróleo",
+          "a irrigação agrícola",
+          "a pecuária extensiva"
+        ]
+      }
+    },
+    {
+      "recto": "Processo de degradação do solo em áreas secas, que ameaça parte do semiárido nordestino.",
+      "verso": "A desertificação",
+      "explanation": "O uso inadequado do solo em clima semiárido pode transformá-lo em terreno estéril. Atinge áreas do sertão nordestino (núcleos de desertificação).",
+      "tags": [
+        "questoes-ambientais",
+        "solo"
+      ],
+      "distractors": {
+        "easy": [
+          "O congelamento do solo",
+          "o alagamento permanente",
+          "a floresta espontânea"
+        ],
+        "medium": [
+          "A salinização apenas",
+          "o assoreamento",
+          "a eutrofização"
+        ],
+        "hard": [
+          "A laterização apenas",
+          "a podzolização",
+          "a lixiviação apenas"
+        ]
+      }
+    },
+    {
+      "recto": "Problema urbano brasileiro em que rios e o ar das grandes cidades ficam contaminados.",
+      "verso": "A poluição (da água e do ar)",
+      "explanation": "Esgotos sem tratamento poluem os rios; veículos e indústrias poluem o ar das metrópoles. É um dos grandes problemas ambientais urbanos do país.",
+      "tags": [
+        "questoes-ambientais",
+        "poluicao"
+      ],
+      "distractors": {
+        "easy": [
+          "A pureza total",
+          "a floresta urbana",
+          "o ar limpo"
+        ],
+        "medium": [
+          "A desertificação urbana",
+          "o congelamento dos rios",
+          "a salinização do ar"
+        ],
+        "hard": [
+          "A eutrofização apenas",
+          "a acidificação marinha",
+          "a inversão térmica apenas"
+        ]
+      }
+    },
+    {
+      "recto": "Crise que afeta o abastecimento de água em metrópoles e regiões, agravada por desmatamento e má gestão.",
+      "verso": "A crise hídrica (falta de água)",
+      "explanation": "Apesar de o Brasil ter muita água, o desmatamento, a poluição e o desperdício geram crises de abastecimento, como a de São Paulo em 2014-2015.",
+      "tags": [
+        "questoes-ambientais",
+        "agua"
+      ],
+      "distractors": {
+        "easy": [
+          "O excesso permanente de água",
+          "a abundância sem limites",
+          "a ausência de rios"
+        ],
+        "medium": [
+          "A crise do petróleo",
+          "a crise do carvão",
+          "a crise energética apenas"
+        ],
+        "hard": [
+          "A crise de minérios",
+          "a crise do solo apenas",
+          "a crise atmosférica"
+        ]
+      }
+    },
+    {
+      "recto": "Assoreamento é o entupimento de rios por qual causa principal?",
+      "verso": "O acúmulo de sedimentos por causa da erosão (falta de mata ciliar)",
+      "explanation": "Sem a vegetação nas margens (mata ciliar), a erosão leva terra para os rios, que ficam rasos. Prejudica a navegação, a fauna e o abastecimento.",
+      "tags": [
+        "questoes-ambientais",
+        "agua"
+      ],
+      "distractors": {
+        "easy": [
+          "O excesso de peixes",
+          "o congelamento",
+          "a chuva ácida apenas"
+        ],
+        "medium": [
+          "A salinização",
+          "a evaporação total",
+          "a poluição do ar"
+        ],
+        "hard": [
+          "A eutrofização apenas",
+          "a subsidência",
+          "a laterização"
+        ]
+      }
+    },
+    {
+      "recto": "Órgão federal brasileiro responsável pela fiscalização e proteção do meio ambiente.",
+      "verso": "O IBAMA",
+      "explanation": "Instituto ligado ao Ministério do Meio Ambiente, fiscaliza o desmatamento, aplica multas e licencia atividades. É central na política ambiental do país.",
+      "tags": [
+        "questoes-ambientais",
+        "instituicoes"
+      ],
+      "distractors": {
+        "easy": [
+          "O IBGE",
+          "o INSS",
+          "a Petrobras"
+        ],
+        "medium": [
+          "A ANA apenas",
+          "o INCRA",
+          "a Embrapa"
+        ],
+        "hard": [
+          "O ICMBio apenas",
+          "a Funai",
+          "a Aneel"
+        ]
+      }
+    },
+    {
+      "recto": "Por que a Amazônia é importante para o clima do Brasil e do mundo?",
+      "verso": "Armazena carbono e umidade, influenciando as chuvas (os \"rios voadores\")",
+      "explanation": "A floresta libera vapor que alimenta chuvas em outras regiões (rios voadores) e guarda enorme quantidade de carbono. Desmatá-la agrava o aquecimento global.",
+      "tags": [
+        "questoes-ambientais",
+        "clima"
+      ],
+      "distractors": {
+        "easy": [
+          "Porque produz petróleo",
+          "porque esfria os polos",
+          "porque não tem influência"
+        ],
+        "medium": [
+          "Porque gera neve",
+          "porque seca as chuvas",
+          "porque só afeta a Europa"
+        ],
+        "hard": [
+          "Porque emite mais carbono do que absorve naturalmente",
+          "porque bloqueia todos os ventos",
+          "porque impede as chuvas no Sul"
+        ]
+      }
+    },
+    {
+      "recto": "De modo geral, qual é o grande desafio ambiental do Brasil?",
+      "verso": "Conciliar o desenvolvimento econômico com a preservação de seus biomas",
+      "explanation": "O país precisa crescer sem destruir suas florestas e águas. Equilibrar agronegócio, mineração e conservação é o cerne do desenvolvimento sustentável brasileiro.",
+      "tags": [
+        "questoes-ambientais",
+        "sintese"
+      ],
+      "distractors": {
+        "easy": [
+          "Acabar com toda a economia",
+          "desmatar tudo rapidamente",
+          "ignorar o meio ambiente"
+        ],
+        "medium": [
+          "Parar completamente de produzir",
+          "importar todos os alimentos",
+          "urbanizar toda a floresta"
+        ],
+        "hard": [
+          "Abandonar o agronegócio por completo",
+          "proibir qualquer atividade econômica",
+          "esvaziar todas as cidades"
+        ]
+      }
+    },
+    {
+      "recto": "Vegetação das margens dos rios que, quando preservada, evita a erosão e o assoreamento.",
+      "verso": "A mata ciliar",
+      "explanation": "Protege as margens, filtra a água e sustenta a fauna. Sua retirada, proibida por lei (Código Florestal), causa erosão e assoreamento dos rios.",
+      "tags": [
+        "questoes-ambientais",
+        "conservacao"
+      ],
+      "distractors": {
+        "easy": [
+          "O asfalto",
+          "a plantação de soja",
+          "o pasto"
+        ],
+        "medium": [
+          "A vegetação de altitude",
+          "a caatinga",
+          "o manguezal apenas"
+        ],
+        "hard": [
+          "A mata de galeria apenas",
+          "o cerradão",
+          "a restinga"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "id": "br-ensino-medio-geografia-geral-globalizacao",
+  "title": "Globalização, DIT e blocos econômicos",
+  "emoji": "🌐",
+  "subject": "geography",
+  "country": "br",
+  "courseDescription": "A integração da economia mundial: divisão internacional do trabalho, empresas transnacionais, blocos econômicos e as desigualdades da globalização.",
+  "lesson": "<style>\n  /* Estilos dos gráficos (SVG). Usam currentColor (texto) e var(--accent)\n     (cor da matéria), adaptando-se ao tema claro/escuro do app. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Globalização, DIT e blocos econômicos</h1>\n\n<div class=\"callout\">\n  <strong>Pontos de estudo</strong><br>\n  <b>Nível:</b> Ensino Médio<br>\n  <b>Área:</b> Geografia Geral<br>\n  <b>Tema:</b> integração e desigualdades da economia mundial\n</div>\n\n<blockquote>\n  <p><b>Questão central.</b> Se a globalização conecta o mundo todo, por que as desigualdades entre países só aumentam?</p>\n</blockquote>\n\n<p>A <strong>globalização</strong> integra as economias do planeta. Cada país tem um papel na <strong>Divisão Internacional do Trabalho (DIT)</strong>; as <strong>empresas transnacionais</strong> espalham a produção; e os <strong>blocos econômicos</strong> aproximam mercados. Mas essa integração é <strong>seletiva</strong>: aprofunda a divisão <strong>Norte-Sul</strong>.</p>\n\n<h2>1 · O que é globalização</h2>\n\n<p>Intensificada após a Guerra Fria, a globalização acelerou os fluxos de mercadorias, capitais e informações. Sua base técnica é a <strong>internet</strong> e o transporte rápido, que \"comprimiram\" o tempo e o espaço. Instituições como a <strong>OMC</strong> organizam o comércio mundial.</p>\n\n<div class=\"callout\">\n  <strong>Conceito · Divisão Internacional do Trabalho (DIT)</strong><br>\n  A especialização de cada país no comércio mundial. Na <b>antiga DIT</b>, o Sul exportava matéria-prima e o Norte, manufaturas; na <b>nova DIT</b>, as indústrias se espalham por países emergentes.\n</div>\n\n<h2>2 · Os atores: transnacionais e a nova DIT</h2>\n\n<p>As <strong>empresas transnacionais</strong> têm sede em um país e produção em muitos outros, buscando <strong>mão de obra barata</strong> e mercados. Elas reorganizaram a <strong>DIT</strong>: hoje muitas fábricas ficam em países emergentes, embora o comando e a tecnologia sigam no Norte.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 140\" role=\"img\" aria-label=\"A mudança da antiga para a nova Divisão Internacional do Trabalho\">\n  <rect x=\"12\" y=\"30\" width=\"150\" height=\"104\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"22\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Antiga DIT</text>\n  <text x=\"87\" y=\"58\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Sul: matéria-prima</text>\n  <text x=\"87\" y=\"82\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Norte: manufatura</text>\n  <text x=\"87\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">indústria só no Norte</text>\n  <rect x=\"178\" y=\"30\" width=\"150\" height=\"104\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"22\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Nova DIT</text>\n  <text x=\"253\" y=\"58\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">fábricas em</text>\n  <text x=\"253\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">emergentes</text>\n  <text x=\"253\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">comando no Norte</text>\n</svg>\n<figcaption>As transnacionais reorganizaram a divisão do trabalho no mundo.</figcaption>\n</figure>\n\n<h2>3 · Os blocos econômicos</h2>\n\n<p>Os países se associam em <strong>blocos</strong> para facilitar o comércio. Há níveis crescentes de integração: <strong>zona de livre comércio</strong> → <strong>união aduaneira</strong> → <strong>mercado comum</strong> → <strong>união econômica e monetária</strong>. A <strong>União Europeia</strong> é a mais integrada; o <strong>Mercosul</strong> (do Brasil) é uma união aduaneira.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 150\" role=\"img\" aria-label=\"Os níveis crescentes de integração dos blocos econômicos\">\n  <defs>\n    <marker id=\"ar-gglo1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"40\" y=\"8\" width=\"260\" height=\"26\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.08;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.2\"/>\n  <text x=\"170\" y=\"25\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Zona de livre comércio (sem tarifas internas)</text>\n  <path d=\"M170,34 L170,42\" style=\"fill:none;stroke:var(--accent);stroke-width:1.8\" marker-end=\"url(#ar-gglo1)\"/>\n  <rect x=\"40\" y=\"44\" width=\"260\" height=\"26\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"170\" y=\"61\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">União aduaneira (+ tarifa externa comum) — Mercosul</text>\n  <path d=\"M170,70 L170,78\" style=\"fill:none;stroke:var(--accent);stroke-width:1.8\" marker-end=\"url(#ar-gglo1)\"/>\n  <rect x=\"40\" y=\"80\" width=\"260\" height=\"26\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.16;stroke:var(--accent);stroke-opacity:.55;stroke-width:1.2\"/>\n  <text x=\"170\" y=\"97\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Mercado comum (+ livre circulação de pessoas)</text>\n  <path d=\"M170,106 L170,114\" style=\"fill:none;stroke:var(--accent);stroke-width:1.8\" marker-end=\"url(#ar-gglo1)\"/>\n  <rect x=\"40\" y=\"116\" width=\"260\" height=\"26\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.20;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.2\"/>\n  <text x=\"170\" y=\"133\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">União econômica e monetária — União Europeia</text>\n</svg>\n<figcaption>Quanto mais alto o nível, maior a integração entre os países do bloco.</figcaption>\n</figure>\n\n<h2>4 · Um mundo desigual</h2>\n\n<p>A globalização não integra todos por igual: conecta pontos privilegiados e exclui regiões inteiras. Mantém-se a divisão <strong>Norte-Sul</strong> entre ricos e pobres, embora <strong>emergentes</strong> como os <strong>BRICS</strong> (Brasil, Rússia, Índia, China, África do Sul) ganhem peso.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"A divisão Norte-Sul entre países ricos e países em desenvolvimento\">\n  <line x1=\"20\" y1=\"65\" x2=\"320\" y2=\"65\" style=\"stroke:var(--accent);stroke-width:1.5;stroke-dasharray:5 4\"/>\n  <text x=\"326\" y=\"68\" style=\"fill:var(--accent)\" font-size=\"8\" font-weight=\"700\" text-anchor=\"end\">linha Norte-Sul</text>\n  <rect x=\"40\" y=\"14\" width=\"260\" height=\"40\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"32\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">Norte (ricos, industrializados)</text>\n  <text x=\"170\" y=\"47\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">concentra riqueza, tecnologia e comando</text>\n  <rect x=\"40\" y=\"76\" width=\"260\" height=\"40\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"94\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">Sul (em desenvolvimento)</text>\n  <text x=\"170\" y=\"109\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">emergentes ganham peso (BRICS)</text>\n</svg>\n<figcaption>A globalização não apagou a divisão entre um Norte rico e um Sul dependente.</figcaption>\n</figure>\n\n<h2>O essencial</h2>\n\n<h3>Níveis de integração</h3>\n\n<table>\n  <tr><th>Nível</th><th>Característica</th></tr>\n  <tr><td>Zona de livre comércio</td><td>Sem tarifas internas</td></tr>\n  <tr><td>União aduaneira</td><td>+ tarifa externa comum (Mercosul)</td></tr>\n  <tr><td>Mercado comum</td><td>+ livre circulação de pessoas e capitais</td></tr>\n  <tr><td>União monetária</td><td>+ moeda única (União Europeia)</td></tr>\n</table>\n\n<h3>Termos-chave</h3>\n\n<table>\n  <tr><th>Termo</th><th>Significado</th></tr>\n  <tr><td>Globalização</td><td>Integração da economia mundial</td></tr>\n  <tr><td>DIT</td><td>Papel de cada país no comércio</td></tr>\n  <tr><td>Transnacionais</td><td>Empresas que atuam em vários países</td></tr>\n  <tr><td>Norte-Sul</td><td>Divisão entre ricos e pobres</td></tr>\n  <tr><td>BRICS</td><td>Grandes economias emergentes</td></tr>\n</table>\n\n<h3>Blocos e instituições</h3>\n\n<table>\n  <tr><th>Sigla</th><th>O que é</th></tr>\n  <tr><td>União Europeia</td><td>Bloco mais integrado (euro)</td></tr>\n  <tr><td>Mercosul</td><td>Bloco do Brasil (união aduaneira)</td></tr>\n  <tr><td>OMC</td><td>Regula o comércio mundial</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  A globalização <b>não</b> integra tudo por igual: é <b>seletiva</b> e exclui regiões e populações — amplia a riqueza e a desigualdade ao mesmo tempo. E não confunda os níveis de bloco: a <b>zona de livre comércio</b> é o mais simples; o <b>mercado comum</b> permite a livre circulação de pessoas.\n</div>\n\n<blockquote>\n  <p>A globalização aproximou o mundo como nunca, mas não o tornou mais justo. Compreender seus mecanismos é entender por que integração e exclusão caminham lado a lado.</p>\n</blockquote>\n",
+  "questionLang": "pt",
+  "answerLang": "pt",
+  "version": 1,
+  "level": "Ensino Médio",
+  "theme": "Geografia Geral",
+  "cards": [
+    {
+      "recto": "Processo de integração econômica, cultural e política que interliga os países do mundo.",
+      "verso": "A globalização",
+      "explanation": "Intensificou-se após a Guerra Fria, com o avanço dos transportes, das comunicações e do comércio. Aproxima mercados, mas também aprofunda desigualdades.",
+      "tags": [
+        "globalizacao",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "A urbanização",
+          "O êxodo rural",
+          "A industrialização apenas"
+        ],
+        "medium": [
+          "A descolonização",
+          "A Guerra Fria",
+          "A transição demográfica"
+        ],
+        "hard": [
+          "A regionalização apenas",
+          "O protecionismo",
+          "A autarquia econômica"
+        ]
+      }
+    },
+    {
+      "recto": "Especialização dos países na produção de diferentes bens dentro da economia mundial.",
+      "verso": "A Divisão Internacional do Trabalho (DIT)",
+      "explanation": "Define o papel de cada país no comércio mundial. Historicamente, os pobres exportavam matérias-primas e os ricos, manufaturas.",
+      "tags": [
+        "globalizacao",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "A globalização cultural",
+          "O êxodo rural",
+          "A urbanização"
+        ],
+        "medium": [
+          "A divisão social do trabalho",
+          "A transição demográfica",
+          "A regionalização"
+        ],
+        "hard": [
+          "A divisão territorial do trabalho apenas",
+          "A DIT interna",
+          "A especialização setorial"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] Como difere a antiga Divisão Internacional do Trabalho da nova DIT?",
+      "verso": "Antiga: pobres exportam matéria-prima, ricos exportam manufatura; nova: indústrias se espalham por países emergentes",
+      "explanation": "Na antiga DIT, o Sul só fornecia matéria-prima. Na nova, as transnacionais instalam fábricas em países emergentes (mão de obra barata), mudando os fluxos.",
+      "tags": [
+        "comparaison",
+        "globalizacao"
+      ],
+      "distractors": {
+        "easy": [
+          "Não há diferença entre elas",
+          "Antiga e nova são iguais",
+          "As duas proíbem o comércio"
+        ],
+        "medium": [
+          "Antiga: indústria no Sul; nova: matéria-prima no Norte",
+          "Nas duas, só o Norte produz tudo",
+          "Nas duas, o Sul só exporta manufatura"
+        ],
+        "hard": [
+          "Antiga: transnacionais no Sul; nova: só no Norte",
+          "Nova: fim de todo comércio",
+          "Antiga: emergentes industrializados"
+        ]
+      }
+    },
+    {
+      "recto": "Grandes empresas que atuam em vários países, símbolo econômico da globalização.",
+      "verso": "As empresas transnacionais (multinacionais)",
+      "explanation": "Têm sede em um país e produção em muitos outros, buscando mão de obra barata e mercados. Comandam boa parte do comércio e da produção mundial.",
+      "tags": [
+        "globalizacao",
+        "atores"
+      ],
+      "distractors": {
+        "easy": [
+          "As pequenas empresas locais",
+          "As cooperativas rurais",
+          "as estatais nacionais apenas"
+        ],
+        "medium": [
+          "As ONGs",
+          "os sindicatos",
+          "as microempresas"
+        ],
+        "hard": [
+          "As empresas de economia solidária",
+          "os consórcios municipais",
+          "as autarquias públicas"
+        ]
+      }
+    },
+    {
+      "recto": "Associações de países que reduzem barreiras comerciais entre si para integrar suas economias.",
+      "verso": "Os blocos econômicos",
+      "explanation": "Facilitam o comércio entre os membros, com menos tarifas e mais integração. União Europeia e Mercosul são exemplos. São uma face regional da globalização.",
+      "tags": [
+        "globalizacao",
+        "blocos"
+      ],
+      "distractors": {
+        "easy": [
+          "As colônias",
+          "os impérios",
+          "as federações religiosas"
+        ],
+        "medium": [
+          "As alianças militares",
+          "as ONGs internacionais",
+          "os fusos horários"
+        ],
+        "hard": [
+          "As zonas francas isoladas",
+          "os protetorados",
+          "as uniões monetárias apenas"
+        ]
+      }
+    },
+    {
+      "recto": "Bloco econômico europeu com moeda única (o euro) e livre circulação de pessoas e mercadorias.",
+      "verso": "A União Europeia (UE)",
+      "explanation": "O bloco mais integrado do mundo: tem mercado comum, moeda única e instituições supranacionais. Vai muito além de uma simples área de livre comércio.",
+      "tags": [
+        "globalizacao",
+        "blocos"
+      ],
+      "distractors": {
+        "easy": [
+          "O Mercosul",
+          "A OTAN",
+          "A ONU"
+        ],
+        "medium": [
+          "O NAFTA (USMCA)",
+          "a ASEAN",
+          "o BRICS"
+        ],
+        "hard": [
+          "A APEC",
+          "o Pacto Andino",
+          "a União Africana"
+        ]
+      }
+    },
+    {
+      "recto": "Bloco econômico do qual o Brasil faz parte, junto com Argentina, Uruguai e Paraguai.",
+      "verso": "O Mercosul",
+      "explanation": "Mercado Comum do Sul, criado em 1991. Busca integrar as economias sul-americanas, mas é menos integrado que a União Europeia.",
+      "tags": [
+        "globalizacao",
+        "blocos"
+      ],
+      "distractors": {
+        "easy": [
+          "A União Europeia",
+          "a OTAN",
+          "a ONU"
+        ],
+        "medium": [
+          "O NAFTA (USMCA)",
+          "a ASEAN",
+          "a APEC"
+        ],
+        "hard": [
+          "O Pacto Andino",
+          "a ALCA",
+          "a Unasul apenas"
+        ]
+      }
+    },
+    {
+      "recto": "Tipo mais simples de bloco, em que os países apenas reduzem as tarifas entre si.",
+      "verso": "A zona (área) de livre comércio",
+      "explanation": "É o primeiro nível de integração: fim das tarifas internas, mas cada país mantém sua política externa. Depois vêm união aduaneira, mercado comum e união econômica.",
+      "tags": [
+        "globalizacao",
+        "blocos"
+      ],
+      "distractors": {
+        "easy": [
+          "A união monetária",
+          "o império",
+          "a colônia"
+        ],
+        "medium": [
+          "O mercado comum",
+          "a união aduaneira",
+          "a união econômica"
+        ],
+        "hard": [
+          "A união política total",
+          "a zona franca isolada",
+          "a autarquia"
+        ]
+      }
+    },
+    {
+      "recto": "Nível de integração em que há livre circulação de bens, serviços, capitais e pessoas entre os países.",
+      "verso": "O mercado comum",
+      "explanation": "Mais avançado que a união aduaneira: além de tarifas comuns, permite a livre circulação de pessoas e capitais. A União Europeia alcançou esse nível e o superou.",
+      "tags": [
+        "globalizacao",
+        "blocos"
+      ],
+      "distractors": {
+        "easy": [
+          "A zona de livre comércio",
+          "a colônia",
+          "o feudo"
+        ],
+        "medium": [
+          "A união aduaneira",
+          "a área de preferência tarifária",
+          "a autarquia"
+        ],
+        "hard": [
+          "A união monetária apenas",
+          "a zona franca",
+          "a área de livre trânsito militar"
+        ]
+      }
+    },
+    {
+      "recto": "Grupo de grandes economias emergentes que inclui Brasil, Rússia, Índia, China e África do Sul.",
+      "verso": "Os BRICS",
+      "explanation": "Reúne países emergentes de peso crescente na economia mundial. Questionam a ordem dominada pelos países ricos do Norte.",
+      "tags": [
+        "globalizacao",
+        "atores"
+      ],
+      "distractors": {
+        "easy": [
+          "O G7",
+          "a OTAN",
+          "a União Europeia"
+        ],
+        "medium": [
+          "Os Tigres Asiáticos",
+          "o G20 apenas",
+          "a OPEP"
+        ],
+        "hard": [
+          "Os PIGS",
+          "os Next Eleven",
+          "os países da tríade"
+        ]
+      }
+    },
+    {
+      "recto": "Divisão do mundo entre países ricos e industrializados e países mais pobres e dependentes.",
+      "verso": "A divisão Norte-Sul",
+      "explanation": "Uma leitura socioeconômica (não literalmente geográfica): o \"Norte\" desenvolvido e o \"Sul\" em desenvolvimento. A globalização não eliminou essa desigualdade.",
+      "tags": [
+        "globalizacao",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "A divisão Leste-Oeste",
+          "os hemisférios magnéticos",
+          "os fusos horários"
+        ],
+        "medium": [
+          "A cortina de ferro",
+          "a divisão climática",
+          "a divisão religiosa"
+        ],
+        "hard": [
+          "A divisão Ocidente-Oriente apenas",
+          "a linha de Wallace",
+          "a divisão continental"
+        ]
+      }
+    },
+    {
+      "recto": "Tecnologia que acelerou enormemente os fluxos de informação e o comércio na globalização.",
+      "verso": "A internet (tecnologias de comunicação)",
+      "explanation": "Junto com os transportes rápidos, comprimiu o tempo e o espaço, permitindo conectar mercados em tempo real. É a base técnica da globalização atual.",
+      "tags": [
+        "globalizacao",
+        "tecnologia"
+      ],
+      "distractors": {
+        "easy": [
+          "A máquina a vapor",
+          "o telégrafo apenas",
+          "a caravela"
+        ],
+        "medium": [
+          "A ferrovia apenas",
+          "o rádio apenas",
+          "a eletricidade apenas"
+        ],
+        "hard": [
+          "O motor a combustão apenas",
+          "a imprensa de Gutenberg",
+          "o telefone fixo apenas"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] A globalização integra todos os lugares e pessoas de forma igual?",
+      "verso": "Não; ela é seletiva e exclui regiões e populações",
+      "explanation": "Erro comum. A globalização conecta pontos privilegiados (um \"arquipélago\") e deixa de fora áreas inteiras. Amplia a riqueza, mas também as desigualdades.",
+      "tags": [
+        "piege",
+        "globalizacao"
+      ],
+      "distractors": {
+        "easy": [
+          "Sim, integra tudo igualmente",
+          "Sim, acaba com a desigualdade",
+          "Sim, todos ganham por igual"
+        ],
+        "medium": [
+          "Sim, une o mundo homogeneamente",
+          "Sim, elimina as fronteiras sociais",
+          "Não, mas trata todos igualmente"
+        ],
+        "hard": [
+          "Sim, dissolve o Norte e o Sul",
+          "Sim, mas só exclui os países ricos",
+          "Não, mas beneficia apenas o Sul"
+        ]
+      }
+    },
+    {
+      "recto": "Órgão internacional que regula o comércio mundial e busca reduzir barreiras entre os países.",
+      "verso": "A OMC (Organização Mundial do Comércio)",
+      "explanation": "Criada em 1995, estabelece regras para o comércio global e media conflitos comerciais. É uma das instituições que organizam a globalização econômica.",
+      "tags": [
+        "globalizacao",
+        "instituicoes"
+      ],
+      "distractors": {
+        "easy": [
+          "A OTAN",
+          "a Cruz Vermelha",
+          "a FIFA"
+        ],
+        "medium": [
+          "O FMI",
+          "o Banco Mundial",
+          "a OIT"
+        ],
+        "hard": [
+          "O antigo GATT apenas",
+          "a Unctad",
+          "a OCDE"
+        ]
+      }
+    },
+    {
+      "recto": "De modo geral, qual é a grande contradição da globalização?",
+      "verso": "Integra a economia mundial, mas aprofunda as desigualdades entre e dentro dos países",
+      "explanation": "Ao mesmo tempo em que conecta mercados e gera riqueza, concentra os ganhos e exclui regiões e populações. Integração e exclusão andam juntas.",
+      "tags": [
+        "globalizacao",
+        "sintese"
+      ],
+      "distractors": {
+        "easy": [
+          "Ela iguala todos os países",
+          "Ela isola as economias",
+          "Ela acaba com o comércio"
+        ],
+        "medium": [
+          "Ela elimina as transnacionais",
+          "Ela reduz o comércio mundial",
+          "Ela impede os blocos econômicos"
+        ],
+        "hard": [
+          "Ela dissolve a divisão Norte-Sul",
+          "Ela enfraquece as multinacionais",
+          "Ela encerra a DIT"
+        ]
+      }
+    },
+    {
+      "recto": "Nível de integração em que os países adotam uma tarifa externa comum contra terceiros.",
+      "verso": "A união aduaneira",
+      "explanation": "Vai além da zona de livre comércio: além de zerar tarifas internas, os membros adotam uma tarifa comum para produtos de fora. O Mercosul é uma união aduaneira.",
+      "tags": [
+        "globalizacao",
+        "blocos"
+      ],
+      "distractors": {
+        "easy": [
+          "A colônia",
+          "o feudo",
+          "o império"
+        ],
+        "medium": [
+          "A zona de livre comércio",
+          "a área de preferência tarifária",
+          "a autarquia"
+        ],
+        "hard": [
+          "O mercado comum",
+          "a união monetária",
+          "a união política"
+        ]
+      }
+    }
+  ]
+}

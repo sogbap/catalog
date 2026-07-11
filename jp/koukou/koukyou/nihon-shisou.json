@@ -1,0 +1,535 @@
+{
+  "id": "jp-koukou-koukyou-nihon-shisou",
+  "title": "日本と東洋の思想",
+  "emoji": "⛩️",
+  "subject": "civics",
+  "country": "jp",
+  "courseDescription": "儒教・仏教・老荘思想から日本の神道・鎌倉仏教・国学まで。東洋と日本の思想の流れを学ぶ。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>日本と東洋の思想</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・公共<br>\n  <b>大項目A：</b>公共の扉<br>\n  <b>内容：</b>儒教・仏教・老荘思想と日本の思想\n</div>\n\n<blockquote>\n  <p><b>問い</b>　東洋と日本は、人と人、人と自然のかかわりをどうとらえてきたのだろうか。</p>\n</blockquote>\n\n<p>西洋が個人の理性を軸に思想を育てたのに対し、東洋と日本は、<strong>共同体</strong>や<strong>自然</strong>とのかかわりのなかで人を考えてきた。中国の<strong>儒教</strong>・<strong>老荘思想</strong>、インドの<strong>仏教</strong>、そして日本の<strong>神道</strong>や<strong>鎌倉仏教</strong>・<strong>国学</strong>——外来の思想を受け入れ融合させてきた歩みをたどろう。</p>\n\n<h2>1・中国の思想 ― 儒教と老荘思想</h2>\n\n<p>古代中国では、<strong>孔子</strong>が<strong>儒教</strong>を説いた。人を思いやる心<strong>仁</strong>と、社会の秩序<strong>礼</strong>を柱とする。孔子を受けつぐ<strong>孟子</strong>は人の本性を善とする<strong>性善説</strong>を、<strong>荀子</strong>は悪とする<strong>性悪説</strong>を唱えた。</p>\n\n<p>一方、<strong>老子・荘子</strong>は、作為をなくしてあるがままの自然に従う<strong>無為自然</strong>を理想とした（老荘思想）。人為の礼を重んじる儒教とは対照的な立場である。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"性善説と性悪説の比較。孟子と荀子の人間観\">\n  <!-- 左：性善説 -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">性善説</text>\n  <text x=\"87\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">孟子</text>\n  <text x=\"26\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">生まれつき善</text>\n  <text x=\"26\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">善の芽（四端）</text>\n  <text x=\"26\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">徳を育てる</text>\n  <!-- 右：性悪説 -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">性悪説</text>\n  <text x=\"253\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">荀子</text>\n  <text x=\"192\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">生まれつき利己的</text>\n  <text x=\"192\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">礼で正す</text>\n  <text x=\"192\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">教育を重視</text>\n</svg>\n<figcaption>同じ儒家でも人間観は正反対。名前と説を取りちがえない。</figcaption>\n</figure>\n\n<h2>2・仏教の教え</h2>\n\n<p>インドで<strong>ブッダ</strong>が説いた<strong>仏教</strong>は、この世のすべてが互いに関係し合って成り立つとする<strong>縁起</strong>を根本とする。固定した実体はなく、執着を捨てることで苦から解放されると説いた。</p>\n\n<p>そして、生きとし生けるものへの深い思いやりである<strong>慈悲</strong>を重んじた。キリスト教の<strong>アガペー</strong>、儒教の<strong>仁</strong>とならぶ、他者への愛のかたちである。</p>\n\n<div class=\"callout\">\n  <strong>用語・縁起</strong><br>\n  この世のすべては、原因と条件（縁）によって互いに関係し合って生じており、独立した固定的な実体はないとするブッダの根本の教え。\n</div>\n\n<h2>3・日本の思想 ― 受容と融合</h2>\n\n<p>日本には古来、自然のあらゆるものに神が宿るとする<strong>神道</strong>（<strong>八百万の神</strong>）があった。そこへ仏教が伝わると、両者が結びつく<strong>神仏習合</strong>が生まれた。日本思想の特徴は、外来の思想を対立させず受け入れ融合させる点にある。</p>\n\n<p>鎌倉時代には、念仏の<strong>法然</strong>・親鸞、座禅の<strong>道元</strong>、題目の日蓮らが庶民に広まる仏教を開いた。江戸時代の<strong>本居宣長</strong>は<strong>国学</strong>を大成し、ありのままに感じる心<strong>もののあはれ</strong>を日本古来の精神とした。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"日本思想の受容と融合。神道に儒教・仏教・西洋思想を取り入れてきた\">\n  <defs>\n    <marker id=\"ar-ns1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 外来思想 3つ -->\n  <rect x=\"14\" y=\"14\" width=\"96\" height=\"40\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"62\" y=\"39\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11\">儒教（中国）</text>\n  <rect x=\"14\" y=\"80\" width=\"96\" height=\"40\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"62\" y=\"105\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11\">仏教（インド）</text>\n  <rect x=\"14\" y=\"146\" width=\"96\" height=\"40\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"62\" y=\"171\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11\">西洋思想</text>\n  <!-- 矢印 -->\n  <path d=\"M112,34 L206,88\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ns1)\"/>\n  <path d=\"M112,100 L206,100\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ns1)\"/>\n  <path d=\"M112,166 L206,112\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ns1)\"/>\n  <!-- 日本（強調） -->\n  <rect x=\"212\" y=\"66\" width=\"114\" height=\"68\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"269\" y=\"94\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">日本の思想</text>\n  <text x=\"269\" y=\"116\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">神道を土台に融合</text>\n</svg>\n<figcaption>神道を土台に、外来思想を受け入れ独自に作りかえてきた。</figcaption>\n</figure>\n\n<h2>4・近代日本の思想</h2>\n\n<p>明治になると西洋思想が本格的に流入した。<strong>福沢諭吉</strong>は『学問のすゝめ』で「天は人の上に人を造らず」と説き、生まれつきの権利を認める<strong>天賦人権</strong>の思想を広めた。</p>\n\n<p>のちに<strong>和辻哲郎</strong>は、人間を孤立した個人ではなく、人と人との関係（間柄）のなかで生きる<strong>間柄的存在</strong>ととらえた。西洋の個人主義とは異なる、関係のなかで人をとらえる日本的な人間観である。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"他者への愛の比較。儒教の仁、仏教の慈悲、キリスト教のアガペー\">\n  <!-- 儒教 -->\n  <rect x=\"8\" y=\"20\" width=\"104\" height=\"150\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">儒教</text>\n  <text x=\"60\" y=\"82\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"13\" font-weight=\"700\">仁</text>\n  <text x=\"60\" y=\"120\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">人への</text>\n  <text x=\"60\" y=\"140\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">思いやり</text>\n  <!-- 仏教 -->\n  <rect x=\"118\" y=\"20\" width=\"104\" height=\"150\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">仏教</text>\n  <text x=\"170\" y=\"82\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"13\" font-weight=\"700\">慈悲</text>\n  <text x=\"170\" y=\"120\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">すべての</text>\n  <text x=\"170\" y=\"140\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">生き物へ</text>\n  <!-- キリスト教 -->\n  <rect x=\"228\" y=\"20\" width=\"104\" height=\"150\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11.5\" font-weight=\"700\">キリスト教</text>\n  <text x=\"280\" y=\"82\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">アガペー</text>\n  <text x=\"280\" y=\"120\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">無償・無差別</text>\n  <text x=\"280\" y=\"140\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">の神の愛</text>\n</svg>\n<figcaption>それぞれの思想が、他者への愛のかたちを説いている。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・神仏習合</strong><br>\n  日本古来の神道の神と、外来の仏教の仏とが結びついて共存した、日本独特の宗教のあり方。外来思想を柔軟に融合させる日本思想の特徴を示す。\n</div>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>地域・時代</th><th>思想</th></tr>\n  <tr><td>中国</td><td>儒教（孔子・孟子・荀子）・老荘思想</td></tr>\n  <tr><td>インド</td><td>仏教（ブッダ・縁起・慈悲）</td></tr>\n  <tr><td>日本古来</td><td>神道（八百万の神）・神仏習合</td></tr>\n  <tr><td>鎌倉〜江戸</td><td>鎌倉仏教・国学（本居宣長）</td></tr>\n  <tr><td>近代</td><td>福沢諭吉・和辻哲郎</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>仁</td><td>人を思いやる心（儒教・孔子）</td></tr>\n  <tr><td>性善説／性悪説</td><td>人の本性を善／悪とする説（孟子／荀子）</td></tr>\n  <tr><td>無為自然</td><td>あるがままに従う理想（老荘思想）</td></tr>\n  <tr><td>縁起／慈悲</td><td>すべては関係し合う／すべてへの思いやり（仏教）</td></tr>\n  <tr><td>神仏習合</td><td>神道と仏教が結びついた日本の信仰</td></tr>\n  <tr><td>もののあはれ</td><td>ありのままに感じる心（本居宣長）</td></tr>\n</table>\n\n<h3>他者への愛の比較</h3>\n\n<table>\n  <tr><th>思想</th><th>愛のかたち</th></tr>\n  <tr><td>儒教</td><td>仁（人への思いやり）</td></tr>\n  <tr><td>仏教</td><td>慈悲（すべての生き物へ）</td></tr>\n  <tr><td>キリスト教</td><td>アガペー（無償・無差別の愛）</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  <b>性善説（孟子）</b>と<b>性悪説（荀子）</b>を取りちがえないこと。また<b>天賦人権</b>（西洋由来・生まれつきの権利）と、国学の<b>もののあはれ</b>（日本古来の心情）は別系統の思想である。\n</div>\n\n<blockquote>\n  <p>東洋と日本の思想は、人を関係と自然のなかでとらえてきた。西洋の理性と個人、東洋の共同体と自然——どちらも「よく生きる」への答えである。この二つの知恵をふまえ、次はいよいよ、社会の中で「何が正しいか」を判断する倫理と正義の考え方へ進もう。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "公共 ― 公共の扉",
+  "cards": [
+    {
+      "recto": "古代中国で孔子が説き、人を思いやる心「仁」と、社会の秩序「礼」を重んじた思想を何というか。",
+      "verso": "儒教（儒学）",
+      "explanation": "孔子が始めた東アジアの代表的思想。仁（人を愛する心）と礼（社会の規範）を柱とし、日本にも大きな影響を与えた。",
+      "tags": [
+        "東洋",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "仏教",
+          "神道",
+          "キリスト教"
+        ],
+        "medium": [
+          "道教",
+          "老荘思想",
+          "陰陽道"
+        ],
+        "hard": [
+          "墨家",
+          "法家",
+          "諸子百家全般"
+        ]
+      }
+    },
+    {
+      "recto": "儒教で、人を思いやり、いつくしむ心を何というか。孔子が最も重んじた徳である。",
+      "verso": "仁",
+      "explanation": "他者への思いやりの心。それが行動や態度として表れたものが「礼」。孔子の思想の中心概念。",
+      "tags": [
+        "東洋",
+        "儒教"
+      ],
+      "distractors": {
+        "easy": [
+          "礼",
+          "義",
+          "信"
+        ],
+        "medium": [
+          "徳",
+          "孝",
+          "忠"
+        ],
+        "hard": [
+          "恕",
+          "誠",
+          "中庸"
+        ]
+      }
+    },
+    {
+      "recto": "人は生まれつき善の心をもつと説いた、孔子の教えを受けつぐ思想家は誰か。",
+      "verso": "孟子",
+      "explanation": "人には生まれつき善の芽（四端）があるとする「性善説」を唱えた。人は悪だとする荀子の性悪説と対をなす。",
+      "tags": [
+        "東洋",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "孔子",
+          "老子",
+          "ブッダ"
+        ],
+        "medium": [
+          "荀子",
+          "荘子",
+          "墨子"
+        ],
+        "hard": [
+          "朱子",
+          "王陽明",
+          "韓非子"
+        ]
+      }
+    },
+    {
+      "recto": "人は生まれつき利己的な性質をもち、礼によって正すべきだと説いた思想家は誰か。",
+      "verso": "荀子",
+      "explanation": "人の本性は悪だとする「性悪説」を唱えた。生まれつき善だとする孟子の性善説と対で覚える。",
+      "tags": [
+        "東洋",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "孔子",
+          "老子",
+          "ブッダ"
+        ],
+        "medium": [
+          "孟子",
+          "荘子",
+          "墨子"
+        ],
+        "hard": [
+          "韓非子",
+          "朱子",
+          "王陽明"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】人は生まれつき善だとする説と、生まれつき悪だとする説を、それぞれ唱えた思想家は誰か。",
+      "verso": "孟子（性善説）と荀子（性悪説）",
+      "explanation": "孟子＝性善説、荀子＝性悪説。どちらも儒家だが人間観が正反対。名前と説を取りちがえない。",
+      "tags": [
+        "comparaison",
+        "東洋"
+      ],
+      "distractors": {
+        "easy": [
+          "孔子と老子",
+          "ブッダと孔子",
+          "朱子と王陽明"
+        ],
+        "medium": [
+          "荀子（性善説）と孟子（性悪説）",
+          "孟子（性悪説）と荀子（性善説）",
+          "孔子（性善説）と荀子（性悪説）"
+        ],
+        "hard": [
+          "王陽明と朱子",
+          "墨子と孟子",
+          "荘子と荀子"
+        ]
+      }
+    },
+    {
+      "recto": "あるがままの自然に従い、作為をなくして生きることを理想とした、老子・荘子の思想を何というか。",
+      "verso": "無為自然",
+      "explanation": "儒教が人為的な礼を重んじたのに対し、老荘思想は自然のままを説いた。道教の源流となった。",
+      "tags": [
+        "東洋",
+        "老荘"
+      ],
+      "distractors": {
+        "easy": [
+          "仁",
+          "礼",
+          "無知の知"
+        ],
+        "medium": [
+          "中庸",
+          "慈悲",
+          "縁起"
+        ],
+        "hard": [
+          "兼愛",
+          "知行合一",
+          "格物致知"
+        ]
+      }
+    },
+    {
+      "recto": "この世のすべては互いに関係し合って成り立ち、独立した固定的な実体はないとする、仏教の根本の考えを何というか。",
+      "verso": "縁起",
+      "explanation": "ブッダの教えの核心。すべては原因と条件（縁）によって生じるとする。執着を捨てる教えにつながる。",
+      "tags": [
+        "仏教",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "仁",
+          "無為自然",
+          "アガペー"
+        ],
+        "medium": [
+          "慈悲",
+          "中庸",
+          "涅槃"
+        ],
+        "hard": [
+          "諸行無常",
+          "空",
+          "四諦"
+        ]
+      }
+    },
+    {
+      "recto": "仏教で、生きとし生けるものに楽をあたえ苦を取り除こうとする、深い思いやりの心を何というか。",
+      "verso": "慈悲",
+      "explanation": "ブッダが説いた、すべての生き物へのあわれみといつくしみ。キリスト教のアガペー、儒教の仁と対比される。",
+      "tags": [
+        "仏教"
+      ],
+      "distractors": {
+        "easy": [
+          "仁",
+          "礼",
+          "無為自然"
+        ],
+        "medium": [
+          "アガペー",
+          "縁起",
+          "涅槃"
+        ],
+        "hard": [
+          "布施",
+          "菩提",
+          "解脱"
+        ]
+      }
+    },
+    {
+      "recto": "自然界のあらゆるものに神が宿るとする、日本古来の信仰を何というか。「八百万の神」の考え方をもつ。",
+      "verso": "神道",
+      "explanation": "山・川・木などに神を見る多神教的な信仰。外来の仏教と融合（神仏習合）しながら受けつがれた。",
+      "tags": [
+        "日本",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "仏教",
+          "儒教",
+          "キリスト教"
+        ],
+        "medium": [
+          "道教",
+          "陰陽道",
+          "修験道"
+        ],
+        "hard": [
+          "古神道",
+          "国家神道",
+          "アニミズム全般"
+        ]
+      }
+    },
+    {
+      "recto": "山や川、木や岩など、自然界のさまざまなものに宿るとされた、数多くの神々を日本では何と呼ぶか。",
+      "verso": "八百万の神",
+      "explanation": "「やおよろず」と読む。数えきれないほど多くの神々の意味。日本の多神教的な自然観・神道を象徴する言葉。",
+      "tags": [
+        "日本",
+        "神道"
+      ],
+      "distractors": {
+        "easy": [
+          "唯一神",
+          "仏",
+          "天帝"
+        ],
+        "medium": [
+          "天照大神のみ",
+          "氏神のみ",
+          "祖霊"
+        ],
+        "hard": [
+          "産土神",
+          "国津神",
+          "天津神"
+        ]
+      }
+    },
+    {
+      "recto": "ひたすら念仏（南無阿弥陀仏）を唱えれば、だれもが救われると説いて浄土宗を開いた、鎌倉時代の僧は誰か。",
+      "verso": "法然",
+      "explanation": "「専修念仏」を説いた。弟子の親鸞（浄土真宗）とともに、庶民に広まった鎌倉仏教の代表。",
+      "tags": [
+        "日本",
+        "鎌倉仏教"
+      ],
+      "distractors": {
+        "easy": [
+          "空海",
+          "最澄",
+          "聖徳太子"
+        ],
+        "medium": [
+          "親鸞",
+          "道元",
+          "日蓮"
+        ],
+        "hard": [
+          "一遍",
+          "栄西",
+          "重源"
+        ]
+      }
+    },
+    {
+      "recto": "座禅にひたすら打ちこむこと（只管打坐）で悟りに至ると説き、曹洞宗を開いた鎌倉時代の僧は誰か。",
+      "verso": "道元",
+      "explanation": "禅宗の一つ、曹洞宗の祖。座禅そのものが悟りだとした。念仏の法然・親鸞、題目の日蓮と区別する。",
+      "tags": [
+        "日本",
+        "鎌倉仏教"
+      ],
+      "distractors": {
+        "easy": [
+          "空海",
+          "最澄",
+          "行基"
+        ],
+        "medium": [
+          "法然",
+          "親鸞",
+          "日蓮"
+        ],
+        "hard": [
+          "栄西",
+          "一遍",
+          "隠元"
+        ]
+      }
+    },
+    {
+      "recto": "『古事記』などの研究を通じて、儒教や仏教が入る前の日本古来の心を明らかにしようとした、江戸時代の国学者は誰か。",
+      "verso": "本居宣長",
+      "explanation": "国学を大成した。ありのままにものに感じる心「もののあはれ」を日本古来の精神とした。",
+      "tags": [
+        "日本",
+        "江戸"
+      ],
+      "distractors": {
+        "easy": [
+          "福沢諭吉",
+          "聖徳太子",
+          "空海"
+        ],
+        "medium": [
+          "荻生徂徠",
+          "賀茂真淵",
+          "平田篤胤"
+        ],
+        "hard": [
+          "契沖",
+          "石田梅岩",
+          "二宮尊徳"
+        ]
+      }
+    },
+    {
+      "recto": "本居宣長が、日本古来の精神として重んじた、ものごとにふれてしみじみと心が動くありさまを何というか。",
+      "verso": "もののあはれ",
+      "explanation": "『源氏物語』などに見られる、ありのままに感じる心。理屈より情を重んじる日本の美意識・心情を表す言葉。",
+      "tags": [
+        "日本",
+        "美意識"
+      ],
+      "distractors": {
+        "easy": [
+          "わび・さび",
+          "仁",
+          "無為自然"
+        ],
+        "medium": [
+          "もののけ",
+          "いき",
+          "幽玄"
+        ],
+        "hard": [
+          "まこと（誠）",
+          "からごころ",
+          "やまとごころ"
+        ]
+      }
+    },
+    {
+      "recto": "明治初期、『学問のすゝめ』で「天は人の上に人を造らず」と説き、西洋の思想を紹介した思想家は誰か。",
+      "verso": "福沢諭吉",
+      "explanation": "天賦人権の考えを広めた。西洋の学問と独立自尊の精神を説き、近代日本の啓蒙思想を代表する人物。",
+      "tags": [
+        "日本",
+        "近代"
+      ],
+      "distractors": {
+        "easy": [
+          "本居宣長",
+          "空海",
+          "聖徳太子"
+        ],
+        "medium": [
+          "中江兆民",
+          "西周",
+          "内村鑑三"
+        ],
+        "hard": [
+          "新渡戸稲造",
+          "植木枝盛",
+          "森有礼"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】人は生まれながらに自由・平等の権利をもつという、福沢諭吉らが広めた西洋由来の考え方を何というか。",
+      "verso": "天賦人権（の思想）",
+      "explanation": "「天が人にあたえた権利」の意味。国家が与えるのではなく生まれつきの権利とする点が重要。国学の思想とは別系統。",
+      "tags": [
+        "piege",
+        "近代"
+      ],
+      "distractors": {
+        "easy": [
+          "もののあはれ",
+          "無為自然",
+          "八百万の神"
+        ],
+        "medium": [
+          "性善説",
+          "王権神授説",
+          "社会契約説"
+        ],
+        "hard": [
+          "自然法思想",
+          "抵抗権",
+          "国民主権"
+        ]
+      }
+    },
+    {
+      "recto": "日本古来の信仰と、外来の仏教とが結びついて共存した、日本独特の宗教のあり方を何というか。",
+      "verso": "神仏習合",
+      "explanation": "神道の神と仏を一体とみなす考え。日本が外来思想を柔軟に受け入れ、独自に融合させてきたことを示す。",
+      "tags": [
+        "日本",
+        "宗教"
+      ],
+      "distractors": {
+        "easy": [
+          "政教分離",
+          "廃仏毀釈",
+          "国家神道"
+        ],
+        "medium": [
+          "神仏分離",
+          "本地垂迹説のみ",
+          "習合宗教"
+        ],
+        "hard": [
+          "修験道",
+          "両部神道",
+          "山王神道"
+        ]
+      }
+    },
+    {
+      "recto": "人間を、孤立した個人ではなく、人と人との関係（間柄）のなかで生きる存在ととらえた、日本の倫理学者は誰か。",
+      "verso": "和辻哲郎",
+      "explanation": "人間を「間柄的存在」とした。西洋の個人主義に対し、関係のなかで人をとらえる日本的な人間観を示した。",
+      "tags": [
+        "日本",
+        "近代"
+      ],
+      "distractors": {
+        "easy": [
+          "福沢諭吉",
+          "本居宣長",
+          "空海"
+        ],
+        "medium": [
+          "西田幾多郎",
+          "丸山真男",
+          "夏目漱石"
+        ],
+        "hard": [
+          "三木清",
+          "九鬼周造",
+          "柳田国男"
+        ]
+      }
+    },
+    {
+      "recto": "儒教・仏教・老荘思想などを、日本が古くから柔軟に受け入れ、独自に作りかえてきたことは、日本の思想のどのような特徴を示すか。",
+      "verso": "外来思想の受容と融合",
+      "explanation": "神仏習合や国学、近代の西洋思想の受容がその例。異なる思想を対立させず、とりこんでいく点が日本思想の特徴とされる。",
+      "tags": [
+        "日本",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "鎖国的な排他性",
+          "唯一神への信仰",
+          "思想の統一"
+        ],
+        "medium": [
+          "原理主義",
+          "西洋一辺倒",
+          "伝統の固守"
+        ],
+        "hard": [
+          "文化相対主義",
+          "折衷主義のみ",
+          "習合主義"
+        ]
+      }
+    },
+    {
+      "recto": "仏教・儒教・老荘思想が生まれ、日本の思想に大きな影響を与えた地域はどこか。",
+      "verso": "インドと中国（東洋）",
+      "explanation": "仏教はインド、儒教・老荘思想は中国で生まれ、朝鮮半島などを経て日本へ伝わった。東洋思想の大きな流れ。",
+      "tags": [
+        "東洋",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "ヨーロッパ",
+          "アメリカ",
+          "アフリカ"
+        ],
+        "medium": [
+          "ギリシアとローマ",
+          "西アジア",
+          "日本のみ"
+        ],
+        "hard": [
+          "中央アジア",
+          "東南アジア",
+          "朝鮮半島のみ"
+        ]
+      }
+    }
+  ]
+}

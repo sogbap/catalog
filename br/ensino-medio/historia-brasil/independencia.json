@@ -1,0 +1,510 @@
+{
+  "id": "br-ensino-medio-historia-brasil-independencia",
+  "title": "Independência e Primeiro Reinado",
+  "emoji": "🇧🇷",
+  "subject": "history",
+  "country": "br",
+  "courseDescription": "Da vinda da família real à independência de 1822 e ao Primeiro Reinado de Dom Pedro I.",
+  "lesson": "<style>\n  /* Estilos dos gráficos (SVG). Usam currentColor (texto) e var(--accent)\n     (cor da matéria), adaptando-se ao tema claro/escuro do app. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Independência e Primeiro Reinado</h1>\n\n<div class=\"callout\">\n  <strong>Pontos de estudo</strong><br>\n  <b>Nível:</b> Ensino Médio<br>\n  <b>Área:</b> História do Brasil<br>\n  <b>Período:</b> 1808 — 1831\n</div>\n\n<blockquote>\n  <p><b>Questão central.</b> Como o Brasil se tornou independente sem mudar sua estrutura social?</p>\n</blockquote>\n\n<p>A independência começou com um evento inesperado: a vinda da <strong>família real</strong> em <strong>1808</strong>. Elevado a Reino, o Brasil resistiu à recolonização e proclamou a <strong>Independência em 1822</strong>, com <strong>Dom Pedro I</strong>. Mas foi uma ruptura conservadora: manteve a <strong>escravidão</strong> e o poder da elite agrária.</p>\n\n<h2>1 · A vinda da família real (1808)</h2>\n\n<p>Fugindo de <strong>Napoleão</strong>, a <strong>família real portuguesa</strong> transferiu-se para o Rio de Janeiro em <strong>1808</strong>. D. João logo decretou a <strong>abertura dos portos</strong>, rompendo o pacto colonial. Em 1815, o Brasil foi elevado a <strong>Reino Unido a Portugal</strong>.</p>\n\n<div class=\"callout\">\n  <strong>Conceito · Abertura dos portos (1808)</strong><br>\n  Medida de D. João que permitiu ao Brasil comerciar diretamente com outras nações (sobretudo a Inglaterra), quebrando o monopólio comercial de Portugal.\n</div>\n\n<h2>2 · O caminho da Independência</h2>\n\n<p>A <strong>Revolução do Porto</strong> (1820) exigia recolonizar o Brasil. Diante disso, D. Pedro recusou-se a partir no <strong>Dia do Fico</strong> (janeiro de 1822) e, em <strong>7 de setembro de 1822</strong>, proclamou a <strong>Independência</strong> (grito do Ipiranga). <strong>José Bonifácio</strong> foi seu principal articulador.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Etapas rumo à Independência: 1808, Reino Unido, Independência de 1822\">\n  <defs>\n    <marker id=\"ar-bbi1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"94\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"55\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1808</text>\n  <text x=\"55\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">vinda da Corte</text>\n  <path d=\"M104,68 L120,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bbi1)\"/>\n  <rect x=\"123\" y=\"42\" width=\"94\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1815</text>\n  <text x=\"170\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Reino Unido</text>\n  <path d=\"M219,68 L235,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bbi1)\"/>\n  <rect x=\"238\" y=\"42\" width=\"94\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"285\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1822</text>\n  <text x=\"285\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Independência</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">1808 e 1822 são datas diferentes</text>\n</svg>\n<figcaption>Da chegada da Corte (1808) à Independência (1822), passando pelo Reino Unido (1815).</figcaption>\n</figure>\n\n<h2>3 · O Primeiro Reinado</h2>\n\n<p>Como imperador, <strong>Dom Pedro I</strong> impôs a <strong>Constituição de 1824</strong> (<strong>outorgada</strong>), que criou o <strong>Poder Moderador</strong> — um quarto poder nas mãos do imperador — e o voto censitário. O autoritarismo gerou revoltas, como a <strong>Confederação do Equador</strong> (1824), republicana, em Pernambuco.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Comparação entre Constituição outorgada e promulgada\">\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">Outorgada</text>\n  <text x=\"87\" y=\"58\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11.5\" font-weight=\"700\">imposta</text>\n  <text x=\"26\" y=\"92\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Pelo governante</text>\n  <text x=\"26\" y=\"118\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Sem assembleia</text>\n  <text x=\"26\" y=\"144\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Ex.: 1824 (D. Pedro I)</text>\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">Promulgada</text>\n  <text x=\"253\" y=\"58\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11.5\" font-weight=\"700\">votada</text>\n  <text x=\"192\" y=\"92\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Por assembleia eleita</text>\n  <text x=\"192\" y=\"118\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Representantes do povo</text>\n  <text x=\"192\" y=\"144\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Ex.: 1988</text>\n</svg>\n<figcaption>A de 1824 foi outorgada (imposta); a de 1988 seria promulgada (votada).</figcaption>\n</figure>\n\n<h2>4 · A crise e a abdicação (1831)</h2>\n\n<p>A derrota na <strong>Guerra da Cisplatina</strong> (que criou o <strong>Uruguai</strong>), os conflitos com o Legislativo e a impopularidade levaram D. Pedro I à <strong>abdicação</strong> em <strong>1831</strong>. Como seu herdeiro tinha apenas 5 anos, iniciou-se o <strong>Período Regencial</strong>.</p>\n\n<p>A independência mudou a política, mas <strong>manteve a escravidão, o latifúndio e a economia de exportação</strong>. Foi uma independência conduzida \\\"de cima\\\", pela elite e pelo imperador.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"A independência mudou a política mas manteve as estruturas coloniais\">\n  <defs>\n    <marker id=\"ar-bbi2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"95\" y=\"8\" width=\"150\" height=\"44\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"30\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">Independência 1822</text>\n  <text x=\"170\" y=\"46\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">mudança conservadora</text>\n  <path d=\"M150,52 L90,86\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bbi2)\"/>\n  <path d=\"M190,52 L250,86\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bbi2)\"/>\n  <rect x=\"14\" y=\"92\" width=\"150\" height=\"94\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"89\" y=\"122\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11.5\" font-weight=\"700\">Mudou</text>\n  <text x=\"89\" y=\"150\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">independência política</text>\n  <text x=\"89\" y=\"170\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">Império / Constituição</text>\n  <rect x=\"176\" y=\"92\" width=\"150\" height=\"94\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"251\" y=\"122\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11.5\" font-weight=\"700\">Manteve</text>\n  <text x=\"251\" y=\"150\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">escravidão e latifúndio</text>\n  <text x=\"251\" y=\"170\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">economia de exportação</text>\n</svg>\n<figcaption>Uma independência que mudou o governo, mas não a estrutura social.</figcaption>\n</figure>\n\n<h2>O essencial</h2>\n\n<h3>Linha do tempo</h3>\n\n<table>\n  <tr><th>Data</th><th>Acontecimento</th></tr>\n  <tr><td>1808</td><td>Vinda da família real · abertura dos portos</td></tr>\n  <tr><td>1815</td><td>Brasil elevado a Reino Unido</td></tr>\n  <tr><td>1822</td><td>Dia do Fico · Independência (7 de setembro)</td></tr>\n  <tr><td>1824</td><td>Constituição outorgada · Confederação do Equador</td></tr>\n  <tr><td>1831</td><td>Abdicação de Dom Pedro I</td></tr>\n</table>\n\n<h3>Termos-chave</h3>\n\n<table>\n  <tr><th>Termo</th><th>Significado</th></tr>\n  <tr><td>Abertura dos portos</td><td>Fim do monopólio comercial (1808)</td></tr>\n  <tr><td>Dia do Fico</td><td>D. Pedro recusa voltar a Portugal (1822)</td></tr>\n  <tr><td>Constituição outorgada</td><td>Imposta pelo imperador (1824)</td></tr>\n  <tr><td>Poder Moderador</td><td>Quarto poder, do imperador</td></tr>\n  <tr><td>Abdicação</td><td>D. Pedro I deixa o trono (1831)</td></tr>\n</table>\n\n<h3>Personagens</h3>\n\n<table>\n  <tr><th>Nome</th><th>Papel</th></tr>\n  <tr><td>Dom João VI</td><td>Trouxe a Corte e abriu os portos</td></tr>\n  <tr><td>Dom Pedro I</td><td>Proclamou a Independência; 1º imperador</td></tr>\n  <tr><td>José Bonifácio</td><td>\\\"Patriarca da Independência\\\"</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  A vinda da família real (<b>1808</b>) e a Independência (<b>1822</b>) são datas diferentes. E não confunda <b>Constituição outorgada</b> (imposta, como a de 1824) com <b>promulgada</b> (votada por assembleia).\n</div>\n\n<blockquote>\n  <p>Independente, mas escravista e agrário: o Brasil de 1822 mudou de dono sem mudar de estrutura. Com D. Pedro I fora, começa o turbulento Período Regencial e, depois, o longo Segundo Reinado — quando o café e a abolição transformariam o país. É o nosso próximo tema.</p>\n</blockquote>\n",
+  "questionLang": "pt",
+  "answerLang": "pt",
+  "version": 1,
+  "level": "Ensino Médio",
+  "theme": "História do Brasil",
+  "cards": [
+    {
+      "recto": "Em 1808, fugindo de Napoleão, quem transferiu sua sede para o Brasil, mudando a história da colônia?",
+      "verso": "A família real portuguesa (a Corte)",
+      "explanation": "D. João VI e a Corte fugiram para o Rio de Janeiro. Pela primeira vez, uma metrópole europeia era governada a partir de sua colônia.",
+      "tags": [
+        "independencia",
+        "1808"
+      ],
+      "distractors": {
+        "easy": [
+          "Napoleão",
+          "O rei da Espanha",
+          "Dom Pedro II"
+        ],
+        "medium": [
+          "A rainha da Inglaterra",
+          "O papa",
+          "Tiradentes"
+        ],
+        "hard": [
+          "A Corte espanhola",
+          "O imperador austríaco",
+          "A família Bragança apenas após 1822"
+        ]
+      }
+    },
+    {
+      "recto": "Primeira grande medida de D. João no Brasil, em 1808, que rompeu na prática o pacto colonial.",
+      "verso": "Abertura dos portos às nações amigas",
+      "explanation": "Permitiu o comércio direto com outros países (sobretudo a Inglaterra), acabando com o monopólio comercial de Portugal.",
+      "tags": [
+        "independencia",
+        "economia"
+      ],
+      "distractors": {
+        "easy": [
+          "A abolição da escravidão",
+          "A Proclamação da República",
+          "A independência"
+        ],
+        "medium": [
+          "A criação do Governo-Geral",
+          "A Lei de Terras",
+          "A Constituição de 1824"
+        ],
+        "hard": [
+          "O Tratado de Methuen",
+          "A elevação a Reino Unido",
+          "O Banco do Brasil apenas"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] A vinda da família real ao Brasil e a Independência ocorreram no mesmo ano?",
+      "verso": "Não; a família real veio em 1808 e a Independência foi em 1822",
+      "explanation": "Erro comum: 1808 (chegada da Corte) e 1822 (independência) são datas diferentes. Entre elas, o Brasil deixou de ser colônia e virou sede do Reino.",
+      "tags": [
+        "piege",
+        "independencia"
+      ],
+      "distractors": {
+        "easy": [
+          "Sim, ambos em 1822",
+          "Sim, ambos em 1808",
+          "Sim, ambos em 1500"
+        ],
+        "medium": [
+          "Sim, ambos em 1824",
+          "Sim, ambos em 1889",
+          "Sim, ambos em 1815"
+        ],
+        "hard": [
+          "Sim, ambos em 1820",
+          "Sim, ambos em 1821",
+          "Sim, ambos em 1831"
+        ]
+      }
+    },
+    {
+      "recto": "Em 1815, o Brasil deixou de ser uma simples colônia e foi elevado a que condição, em igualdade com Portugal?",
+      "verso": "Reino Unido a Portugal e Algarves",
+      "explanation": "O Brasil tornou-se um reino em pé de igualdade com Portugal. Isso dificultava um retorno à condição de colônia — o que levaria à independência.",
+      "tags": [
+        "independencia",
+        "1815"
+      ],
+      "distractors": {
+        "easy": [
+          "República independente",
+          "Vice-Reino",
+          "Império do Brasil"
+        ],
+        "medium": [
+          "Estado livre",
+          "Província unida",
+          "Capitania real"
+        ],
+        "hard": [
+          "Principado do Brasil",
+          "Domínio ultramarino",
+          "Reino associado"
+        ]
+      }
+    },
+    {
+      "recto": "Revolução ocorrida em Portugal, em 1820, que exigia o retorno de D. João VI e recolonizar o Brasil.",
+      "verso": "Revolução do Porto",
+      "explanation": "As Cortes portuguesas queriam que o Brasil voltasse a ser colônia. A pressão para recolonizar acelerou o processo de independência.",
+      "tags": [
+        "independencia",
+        "1820"
+      ],
+      "distractors": {
+        "easy": [
+          "Revolução Francesa",
+          "Inconfidência Mineira",
+          "Revolução de 1930"
+        ],
+        "medium": [
+          "Revolução Pernambucana",
+          "Revolução Liberal apenas",
+          "Revolta da Vacina"
+        ],
+        "hard": [
+          "Vintismo apenas",
+          "Revolução de Setembro",
+          "Sinédrio"
+        ]
+      }
+    },
+    {
+      "recto": "Dia de 1822 em que Dom Pedro se recusou a voltar a Portugal, atendendo às Cortes, e decidiu permanecer no Brasil.",
+      "verso": "Dia do Fico (9 de janeiro de 1822)",
+      "explanation": "Ao dizer \"fico\", D. Pedro rompeu com as ordens das Cortes portuguesas. Foi um passo decisivo rumo à independência.",
+      "tags": [
+        "independencia",
+        "1822"
+      ],
+      "distractors": {
+        "easy": [
+          "Dia da Bastilha",
+          "Grito do Ipiranga",
+          "Dia da República"
+        ],
+        "medium": [
+          "Dia da Abdicação",
+          "Noite da Agonia",
+          "Dia do Sim"
+        ],
+        "hard": [
+          "Dia das Cortes",
+          "Manifesto de 1º de agosto",
+          "Dia da Aclamação"
+        ]
+      }
+    },
+    {
+      "recto": "Em que data Dom Pedro proclamou a Independência do Brasil, com o famoso \"grito do Ipiranga\"?",
+      "verso": "7 de setembro de 1822",
+      "explanation": "Às margens do riacho Ipiranga, em São Paulo, D. Pedro rompeu definitivamente com Portugal. É a data da Independência do Brasil.",
+      "tags": [
+        "independencia",
+        "data"
+      ],
+      "distractors": {
+        "easy": [
+          "15 de novembro de 1889",
+          "7 de setembro de 1500",
+          "1º de janeiro de 1822"
+        ],
+        "medium": [
+          "21 de abril de 1792",
+          "13 de maio de 1888",
+          "9 de janeiro de 1822"
+        ],
+        "hard": [
+          "12 de outubro de 1822",
+          "1º de dezembro de 1822",
+          "2 de julho de 1823"
+        ]
+      }
+    },
+    {
+      "recto": "Príncipe português que proclamou a independência e se tornou o primeiro imperador do Brasil.",
+      "verso": "Dom Pedro I",
+      "explanation": "Filho de D. João VI, tornou-se imperador do Brasil independente. Não confundir com seu filho, Dom Pedro II, do Segundo Reinado.",
+      "tags": [
+        "independencia",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Dom Pedro II",
+          "Tiradentes",
+          "Getúlio Vargas"
+        ],
+        "medium": [
+          "Dom João VI",
+          "José Bonifácio",
+          "Marechal Deodoro"
+        ],
+        "hard": [
+          "Dom Pedro III",
+          "Duque de Caxias",
+          "Feijó"
+        ]
+      }
+    },
+    {
+      "recto": "Conselheiro considerado o \"Patriarca da Independência\", que teve papel central no processo de 1822.",
+      "verso": "José Bonifácio",
+      "explanation": "José Bonifácio de Andrada e Silva foi o principal articulador político da independência ao lado de D. Pedro I. Depois, entrou em conflito com o imperador.",
+      "tags": [
+        "independencia",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Tiradentes",
+          "Zumbi",
+          "Dom Pedro II"
+        ],
+        "medium": [
+          "Frei Caneca",
+          "Duque de Caxias",
+          "Marquês de Pombal"
+        ],
+        "hard": [
+          "Bento Gonçalves",
+          "Diogo Feijó",
+          "Evaristo da Veiga"
+        ]
+      }
+    },
+    {
+      "recto": "Primeira Constituição do Brasil, de 1824, imposta por Dom Pedro I sem aprovação de uma assembleia.",
+      "verso": "Constituição de 1824 (outorgada)",
+      "explanation": "Foi outorgada (imposta) pelo imperador, não votada. Criou o voto censitário e um quarto poder, o Moderador. Vigorou por todo o Império.",
+      "tags": [
+        "primeiro-reinado",
+        "documento"
+      ],
+      "distractors": {
+        "easy": [
+          "Constituição de 1988",
+          "Constituição de 1891",
+          "Constituição de 1946"
+        ],
+        "medium": [
+          "Constituição de 1934",
+          "Constituição de 1937",
+          "Constituição de 1967"
+        ],
+        "hard": [
+          "Constituição do Império promulgada",
+          "Carta de 1823",
+          "Bases da Constituição"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] Uma Constituição imposta pelo governante e uma votada por uma assembleia eleita chamam-se, respectivamente?",
+      "verso": "Constituição outorgada e Constituição promulgada",
+      "explanation": "Outorgada = imposta (como a de 1824, por D. Pedro I); promulgada = votada por assembleia (como a de 1988). Distinção importante.",
+      "tags": [
+        "comparaison",
+        "primeiro-reinado"
+      ],
+      "distractors": {
+        "easy": [
+          "Lei e decreto",
+          "Império e república",
+          "Voto e censo"
+        ],
+        "medium": [
+          "Constituição promulgada e outorgada",
+          "Emenda e lei",
+          "Carta e código"
+        ],
+        "hard": [
+          "Constituição rígida e flexível",
+          "Norma e princípio",
+          "Constituição semântica e nominal"
+        ]
+      }
+    },
+    {
+      "recto": "Poder criado pela Constituição de 1824, exclusivo do imperador, que o colocava acima dos outros três poderes.",
+      "verso": "Poder Moderador",
+      "explanation": "Além de Executivo, Legislativo e Judiciário, havia o Moderador, nas mãos do imperador. Concentrava enorme poder na figura do monarca.",
+      "tags": [
+        "primeiro-reinado",
+        "politica"
+      ],
+      "distractors": {
+        "easy": [
+          "Poder Executivo",
+          "Poder Legislativo",
+          "Poder Judiciário"
+        ],
+        "medium": [
+          "Poder Militar",
+          "Poder Constituinte",
+          "Poder do Senado"
+        ],
+        "hard": [
+          "Poder Real",
+          "Poder Supremo",
+          "Poder Tutelar"
+        ]
+      }
+    },
+    {
+      "recto": "Revolta de 1824 em Pernambuco, de caráter republicano, contra o autoritarismo de Dom Pedro I.",
+      "verso": "Confederação do Equador",
+      "explanation": "Movimento republicano e separatista no Nordeste, reprimido com violência. Frei Caneca foi um de seus líderes executados.",
+      "tags": [
+        "primeiro-reinado",
+        "revolta"
+      ],
+      "distractors": {
+        "easy": [
+          "Inconfidência Mineira",
+          "Proclamação da República",
+          "Revolução Farroupilha"
+        ],
+        "medium": [
+          "Cabanagem",
+          "Sabinada",
+          "Balaiada"
+        ],
+        "hard": [
+          "Revolução Pernambucana de 1817",
+          "Guerra dos Cabanos",
+          "Praieira"
+        ]
+      }
+    },
+    {
+      "recto": "Guerra com um país vizinho que, em 1828, resultou na perda da Província Cisplatina e no surgimento de que país?",
+      "verso": "Uruguai",
+      "explanation": "A Guerra da Cisplatina levou à independência do Uruguai. O desgaste militar e político enfraqueceu D. Pedro I.",
+      "tags": [
+        "primeiro-reinado",
+        "guerra"
+      ],
+      "distractors": {
+        "easy": [
+          "Argentina",
+          "Paraguai",
+          "Chile"
+        ],
+        "medium": [
+          "Bolívia",
+          "Peru",
+          "Venezuela"
+        ],
+        "hard": [
+          "Guiana",
+          "Colômbia",
+          "Equador"
+        ]
+      }
+    },
+    {
+      "recto": "Ato de Dom Pedro I em 1831, diante da crise política, pelo qual deixou o trono do Brasil em favor de seu filho.",
+      "verso": "Abdicação",
+      "explanation": "Impopular, D. Pedro I abdicou em favor de seu filho de 5 anos (futuro D. Pedro II) e voltou a Portugal. Encerra o Primeiro Reinado.",
+      "tags": [
+        "primeiro-reinado",
+        "1831"
+      ],
+      "distractors": {
+        "easy": [
+          "Golpe",
+          "Coroação",
+          "Exílio forçado"
+        ],
+        "medium": [
+          "Renúncia à independência",
+          "Proclamação da República",
+          "Deposição"
+        ],
+        "hard": [
+          "Regência",
+          "Aclamação",
+          "Restauração"
+        ]
+      }
+    },
+    {
+      "recto": "Após a abdicação de 1831, como o filho de Dom Pedro I era muito jovem, quem governou o Brasil?",
+      "verso": "Os regentes (Período Regencial)",
+      "explanation": "Como o herdeiro tinha 5 anos, regentes governaram até 1840. Foi um período agitado, com muitas revoltas provinciais.",
+      "tags": [
+        "primeiro-reinado",
+        "consequencia"
+      ],
+      "distractors": {
+        "easy": [
+          "O próprio Dom Pedro II",
+          "O rei de Portugal",
+          "Um presidente"
+        ],
+        "medium": [
+          "Uma junta militar",
+          "O Senado sozinho",
+          "Dom Pedro I à distância"
+        ],
+        "hard": [
+          "Um conselho de ministros apenas",
+          "A Assembleia Constituinte",
+          "O Poder Moderador vago"
+        ]
+      }
+    },
+    {
+      "recto": "Apesar da independência política, a economia do Brasil recém-independente continuou baseada em quê?",
+      "verso": "Na agricultura de exportação e no trabalho escravo",
+      "explanation": "A independência mudou a política, mas manteve as estruturas coloniais: latifúndio, monocultura de exportação e escravidão. Foi uma independência conservadora.",
+      "tags": [
+        "independencia",
+        "sintese"
+      ],
+      "distractors": {
+        "easy": [
+          "Na indústria moderna",
+          "No trabalho assalariado livre",
+          "No comércio interno"
+        ],
+        "medium": [
+          "Na mineração de ouro",
+          "Na pequena propriedade",
+          "Na agricultura familiar"
+        ],
+        "hard": [
+          "No mercado interno amplo",
+          "No trabalho imigrante livre",
+          "Na economia de subsistência"
+        ]
+      }
+    },
+    {
+      "recto": "Qual país reconheceu a independência do Brasil em troca de vantagens comerciais e de uma indenização a Portugal?",
+      "verso": "Inglaterra",
+      "explanation": "A Inglaterra intermediou o reconhecimento, obtendo vantagens comerciais. O Brasil ainda pagou uma indenização a Portugal. Mostra a dependência externa.",
+      "tags": [
+        "independencia",
+        "diplomacia"
+      ],
+      "distractors": {
+        "easy": [
+          "Espanha",
+          "França",
+          "Estados Unidos"
+        ],
+        "medium": [
+          "Argentina",
+          "Holanda",
+          "Áustria"
+        ],
+        "hard": [
+          "Rússia",
+          "Prússia",
+          "Santa Aliança"
+        ]
+      }
+    },
+    {
+      "recto": "De modo geral, a Independência de 1822 foi conduzida por quem, mantendo a ordem social existente?",
+      "verso": "Pela elite (grandes proprietários) e por Dom Pedro I",
+      "explanation": "Foi uma independência feita \"de cima\", pela elite agrária e pelo príncipe, sem participação popular ampla nem mudança social. Escravidão e latifúndio permaneceram.",
+      "tags": [
+        "independencia",
+        "sintese"
+      ],
+      "distractors": {
+        "easy": [
+          "Pelos escravizados",
+          "Por uma revolução popular",
+          "Pelos indígenas"
+        ],
+        "medium": [
+          "Pelos republicanos",
+          "Pelos militares",
+          "Pela burguesia industrial"
+        ],
+        "hard": [
+          "Pelos abolicionistas",
+          "Pelas Cortes portuguesas",
+          "Pelos jesuítas"
+        ]
+      }
+    }
+  ]
+}

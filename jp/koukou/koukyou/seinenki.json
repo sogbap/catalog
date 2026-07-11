@@ -1,0 +1,536 @@
+{
+  "id": "jp-koukou-koukyou-seinenki",
+  "title": "青年期と自己形成",
+  "emoji": "🌱",
+  "subject": "civics",
+  "country": "jp",
+  "courseDescription": "青年期の特徴からアイデンティティ、欲求と防衛機制まで。自己形成をめぐる心のはたらきを学ぶ。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>青年期と自己形成</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・公共<br>\n  <b>大項目A：</b>公共の扉<br>\n  <b>内容：</b>青年期の特徴・アイデンティティ・欲求と心\n</div>\n\n<blockquote>\n  <p><b>問い</b>　「自分とは何か」を問うこの時期に、人はどのように自分をつくっていくのだろうか。</p>\n</blockquote>\n\n<p>公共の学びは、まず「私」から始まる。<strong>青年期</strong>は、子どもから大人へと移る揺れの時期であり、<strong>アイデンティティ</strong>を模索する<strong>自己形成</strong>の時である。自分をつくる心のはたらき——<strong>欲求</strong>・<strong>葛藤</strong>・<strong>防衛機制</strong>——を知り、社会とかかわる主体としての自分を考えよう。</p>\n\n<h2>1・青年期という時期</h2>\n\n<p><strong>青年期</strong>は、心身が大きく変化し、精神的な自立が始まる時期である。ルソーはこれを、生物としての誕生に続く<strong>第二の誕生</strong>と表現した。親から心理的に離れる<strong>心理的離乳</strong>（ホリングワース）や、<strong>第二反抗期</strong>もこの時期に現れる。</p>\n\n<p>レヴィンは、青年を子どもと大人のどちらの集団にも属しきれない<strong>境界人（マージナル・マン）</strong>と呼んだ。その不安定さこそが、青年期の特徴である。</p>\n\n<div class=\"callout\">\n  <strong>用語・第二の誕生</strong><br>\n  ルソーが『エミール』で述べた言葉。「われわれは、いわば二度生まれる」——生物としての誕生に続く、自我のめざめによる精神的な誕生をいう。\n</div>\n\n<h2>2・アイデンティティの確立</h2>\n\n<p>エリクソンは、青年期の課題を<strong>アイデンティティ（自我同一性）</strong>——「これが自分だ」という一貫した自己意識——の確立と考えた。それがうまくいかない状態を<strong>同一性の拡散</strong>という。</p>\n\n<p>アイデンティティを確立するために社会から認められた猶予期間を、エリクソンは<strong>モラトリアム</strong>と呼んだ。この間に、青年はさまざまな役割を試すことができる。<strong>ハヴィガースト</strong>は、各時期に達成すべき<strong>発達課題</strong>があるとした。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"エリクソンの考え。モラトリアムの期間をへてアイデンティティを確立する\">\n  <defs>\n    <marker id=\"ar-sn1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"14\" y=\"42\" width=\"130\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"79\" y=\"66\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">モラトリアム</text>\n  <text x=\"79\" y=\"84\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">役割を試す猶予期間</text>\n  <path d=\"M146,68 L192,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sn1)\"/>\n  <rect x=\"196\" y=\"42\" width=\"130\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"261\" y=\"66\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11.5\" font-weight=\"700\">アイデンティティ</text>\n  <text x=\"261\" y=\"84\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">「これが自分だ」</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">エリクソンの考え</text>\n</svg>\n<figcaption>猶予期間に自分を試すことで、確かな自己意識が育っていく。</figcaption>\n</figure>\n\n<h2>3・欲求と心のはたらき</h2>\n\n<p>自己形成は、心のはたらきと切りはなせない。<strong>マズロー</strong>は人間の<strong>欲求</strong>を5段階の階層で示し、最も高次に自分の可能性を発揮したいという<strong>自己実現の欲求</strong>を置いた。</p>\n\n<p>欲求は、二つの欲求が板ばさみになる<strong>葛藤</strong>や、満たされないときの<strong>欲求不満</strong>を生む。これに対処するため、フロイトのいう無意識の<strong>防衛機制</strong>がはたらく。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 220\" role=\"img\" aria-label=\"マズローの欲求階層。生理的欲求から自己実現の欲求まで5段階\">\n  <!-- 5段のピラミッド -->\n  <polygon points=\"140,20 200,20 210,52 130,52\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"42\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">自己実現</text>\n  <polygon points=\"130,54 210,54 220,86 120,86\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">承認（自尊）</text>\n  <polygon points=\"120,88 220,88 230,120 110,120\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.45;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">所属と愛</text>\n  <polygon points=\"110,122 230,122 240,154 100,154\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"144\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">安全</text>\n  <polygon points=\"100,156 240,156 250,188 90,188\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"178\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">生理的欲求</text>\n  <text x=\"170\" y=\"208\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">下位が満たされると上位が現れる</text>\n</svg>\n<figcaption>低次の欲求が満たされると、より高次の欲求が生まれてくる。</figcaption>\n</figure>\n\n<h2>4・防衛機制と自己形成</h2>\n\n<p><strong>防衛機制</strong>には、欲求を価値ある活動に向けかえる<strong>昇華</strong>、都合の悪い理由をもっともらしく言いかえる<strong>合理化</strong>、自分の感情を他人のものと思いこむ<strong>投影</strong>などがある。無意識に心の安定を守るしくみである。</p>\n\n<p>青年期は、こうした心のはたらきを通じて<strong>アイデンティティ</strong>を確立し、社会の一員としての自分を築く<strong>自己形成</strong>と<strong>社会化</strong>を進める時期である。これが、社会に参画する「私」の出発点となる。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"欲求不満への3つの対応。適応・防衛機制・攻撃や逃避\">\n  <defs>\n    <marker id=\"ar-sn2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"110\" y=\"8\" width=\"120\" height=\"40\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"33\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">欲求不満</text>\n  <path d=\"M150,48 L70,74\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sn2)\"/>\n  <path d=\"M170,48 L170,74\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sn2)\"/>\n  <path d=\"M190,48 L270,74\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sn2)\"/>\n  <rect x=\"8\" y=\"80\" width=\"100\" height=\"44\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"100\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">適応</text>\n  <text x=\"58\" y=\"117\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">努力で解決</text>\n  <rect x=\"120\" y=\"80\" width=\"100\" height=\"44\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"100\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">防衛機制</text>\n  <text x=\"170\" y=\"117\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">無意識に心を守る</text>\n  <rect x=\"232\" y=\"80\" width=\"100\" height=\"44\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"100\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">攻撃・逃避</text>\n  <text x=\"282\" y=\"117\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">近道反応</text>\n</svg>\n<figcaption>欲求不満には、努力で解決する適応や、無意識に心を守る防衛機制などで対応する。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・防衛機制</strong><br>\n  欲求不満や不安から自分を守るため、無意識のうちに心の安定をはかるはたらき（フロイト）。昇華・合理化・抑圧・投影などがある。\n</div>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>人物</th><th>キーワード</th></tr>\n  <tr><td>ルソー</td><td>第二の誕生</td></tr>\n  <tr><td>レヴィン</td><td>境界人（マージナル・マン）</td></tr>\n  <tr><td>エリクソン</td><td>アイデンティティ・モラトリアム</td></tr>\n  <tr><td>マズロー</td><td>欲求の5段階・自己実現</td></tr>\n  <tr><td>フロイト</td><td>無意識・防衛機制</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>青年期</td><td>子どもから大人へ移行する時期</td></tr>\n  <tr><td>アイデンティティ</td><td>「これが自分だ」という一貫した自己意識</td></tr>\n  <tr><td>モラトリアム</td><td>自分を試すことが許された猶予期間</td></tr>\n  <tr><td>自己実現の欲求</td><td>マズローの欲求階層の最高次</td></tr>\n  <tr><td>防衛機制</td><td>無意識に心の安定を守るはたらき</td></tr>\n  <tr><td>自己形成</td><td>社会とかかわり自分らしさを築くこと</td></tr>\n</table>\n\n<h3>おもな防衛機制</h3>\n\n<table>\n  <tr><th>種類</th><th>内容</th></tr>\n  <tr><td>昇華</td><td>欲求を価値ある活動に向けかえる</td></tr>\n  <tr><td>合理化</td><td>都合の悪い理由をもっともらしく言いかえる</td></tr>\n  <tr><td>投影</td><td>自分の感情を他人のものと思いこむ</td></tr>\n  <tr><td>抑圧</td><td>不快な感情を無意識に押しこめる</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  防衛機制の<b>昇華</b>（価値ある活動に向けかえる）と<b>合理化</b>（言いわけでとりつくろう）を混同しないこと。また<b>アイデンティティ</b>（自己意識）と<b>モラトリアム</b>（猶予期間）は、どちらもエリクソンの用語だが意味が異なる。\n</div>\n\n<blockquote>\n  <p>「自分とは何か」という問いは、青年期の特権であり課題でもある。自分を知り、心のはたらきを理解することは、他者とともに社会をつくる出発点となる。次は、その手がかりとして、人類が積み重ねてきた思想——西洋の知恵をたずねよう。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "公共 ― 公共の扉",
+  "cards": [
+    {
+      "recto": "子どもから大人へと移行する、心身が大きく変化する人生の時期を何というか。",
+      "verso": "青年期",
+      "explanation": "身体的な成熟と精神的な自立が進む時期。自分とは何かを問い、アイデンティティを形成していく。",
+      "tags": [
+        "青年期",
+        "基礎"
+      ],
+      "distractors": {
+        "easy": [
+          "幼児期",
+          "老年期",
+          "壮年期"
+        ],
+        "medium": [
+          "乳児期",
+          "児童期",
+          "成人期"
+        ],
+        "hard": [
+          "前青年期",
+          "青年後期",
+          "思春期のみ"
+        ]
+      }
+    },
+    {
+      "recto": "ルソーが『エミール』で、青年期の自我のめざめを、生物としての誕生に続く二度目の誕生と表現した言葉を何というか。",
+      "verso": "第二の誕生",
+      "explanation": "ルソーは「われわれは、いわば二度生まれる」と述べた。精神的な自立の始まりを示す有名な言葉。",
+      "tags": [
+        "青年期",
+        "思想"
+      ],
+      "distractors": {
+        "easy": [
+          "第一の誕生",
+          "再生",
+          "通過儀礼"
+        ],
+        "medium": [
+          "自我のめざめ",
+          "第二反抗期",
+          "心理的離乳"
+        ],
+        "hard": [
+          "精神的誕生",
+          "第三の誕生",
+          "内面の発見"
+        ]
+      }
+    },
+    {
+      "recto": "親の保護から精神的に自立しようとする青年期の傾向を、ホリングワースは何と呼んだか。",
+      "verso": "心理的離乳",
+      "explanation": "乳児が母乳から離れるように、心理的に親から離れていくことのたとえ。第二反抗期とも結びつく。",
+      "tags": [
+        "青年期",
+        "心理"
+      ],
+      "distractors": {
+        "easy": [
+          "第二の誕生",
+          "通過儀礼",
+          "反抗期"
+        ],
+        "medium": [
+          "心理的自立",
+          "自我同一性",
+          "モラトリアム"
+        ],
+        "hard": [
+          "分離individuation",
+          "心理的独立",
+          "精神的離乳"
+        ]
+      }
+    },
+    {
+      "recto": "青年を、子どもと大人のどちらの集団にも属しきれない境界人（周辺人）と呼んだ心理学者は誰か。",
+      "verso": "レヴィン",
+      "explanation": "レヴィンは青年を「マージナル・マン（境界人）」と表現した。どちらにも属せない不安定さを説明した。",
+      "tags": [
+        "青年期",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "ルソー",
+          "フロイト",
+          "アリストテレス"
+        ],
+        "medium": [
+          "エリクソン",
+          "ホリングワース",
+          "マズロー"
+        ],
+        "hard": [
+          "ハヴィガースト",
+          "ユング",
+          "オルポート"
+        ]
+      }
+    },
+    {
+      "recto": "「自分が自分であること」「これが自分だ」という一貫した自己意識を、エリクソンは何と呼んだか。",
+      "verso": "アイデンティティ（自我同一性）",
+      "explanation": "エリクソンは、青年期の発達課題をこの確立と考えた。確立できない状態を同一性の拡散という。",
+      "tags": [
+        "青年期",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "コンプレックス",
+          "アイデア",
+          "プライド"
+        ],
+        "medium": [
+          "パーソナリティ",
+          "モラトリアム",
+          "自尊心"
+        ],
+        "hard": [
+          "同一性の拡散",
+          "自己実現",
+          "リビドー"
+        ]
+      }
+    },
+    {
+      "recto": "エリクソンが、社会に出る前に自分を試し役割を模索することが認められた、青年期の猶予期間を何と呼んだか。",
+      "verso": "モラトリアム",
+      "explanation": "本来は経済用語（支払い猶予）。エリクソンはこれを、大人としての義務を猶予された準備期間の意味で用いた。",
+      "tags": [
+        "青年期",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "アイデンティティ",
+          "コンプレックス",
+          "ストレス"
+        ],
+        "medium": [
+          "ステレオタイプ",
+          "カタルシス",
+          "アノミー"
+        ],
+        "hard": [
+          "同一性の拡散",
+          "心理的離乳",
+          "アパシー"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】エリクソンのいう「これが自分だ」という自己意識と、それを確立するための猶予期間を、順にそれぞれ何というか。",
+      "verso": "アイデンティティとモラトリアム",
+      "explanation": "アイデンティティ（自我同一性）を確立するための準備期間がモラトリアム。ともにエリクソンの用語で、対にして覚える。",
+      "tags": [
+        "comparaison",
+        "青年期"
+      ],
+      "distractors": {
+        "easy": [
+          "本音と建前",
+          "自由と平等",
+          "個人と社会"
+        ],
+        "medium": [
+          "モラトリアムとアイデンティティ",
+          "アイデンティティと同一性の拡散",
+          "自己実現とモラトリアム"
+        ],
+        "hard": [
+          "リビドーとモラトリアム",
+          "アイデンティティとコンプレックス",
+          "同一性拡散とモラトリアム"
+        ]
+      }
+    },
+    {
+      "recto": "各発達段階で達成すべき課題を「発達課題」として示した心理学者は誰か。",
+      "verso": "ハヴィガースト",
+      "explanation": "青年期には、職業の選択や親からの自立などの発達課題があるとした。エリクソンの発達段階説と関連づけられる。",
+      "tags": [
+        "青年期",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "ルソー",
+          "ソクラテス",
+          "孔子"
+        ],
+        "medium": [
+          "エリクソン",
+          "レヴィン",
+          "マズロー"
+        ],
+        "hard": [
+          "ピアジェ",
+          "フロイト",
+          "ホリングワース"
+        ]
+      }
+    },
+    {
+      "recto": "人間の欲求を、生理的欲求から自己実現の欲求まで5段階の階層で示した心理学者は誰か。",
+      "verso": "マズロー",
+      "explanation": "低次の欲求が満たされると高次の欲求が現れるとした。最高次を自己実現の欲求とした。",
+      "tags": [
+        "欲求",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "フロイト",
+          "ルソー",
+          "アリストテレス"
+        ],
+        "medium": [
+          "エリクソン",
+          "ユング",
+          "レヴィン"
+        ],
+        "hard": [
+          "オルポート",
+          "ロジャーズ",
+          "アドラー"
+        ]
+      }
+    },
+    {
+      "recto": "マズローの欲求階層で、最も高次に位置づけられる、自分の可能性を最大限に発揮したいという欲求を何というか。",
+      "verso": "自己実現の欲求",
+      "explanation": "生理的欲求→安全→所属と愛→承認→自己実現の順。最高次にあり、人間らしい成長を示す欲求とされる。",
+      "tags": [
+        "欲求",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "生理的欲求",
+          "食欲",
+          "睡眠欲"
+        ],
+        "medium": [
+          "安全の欲求",
+          "承認の欲求",
+          "所属と愛の欲求"
+        ],
+        "hard": [
+          "自尊の欲求",
+          "認知の欲求",
+          "超越の欲求"
+        ]
+      }
+    },
+    {
+      "recto": "二つの欲求が同時に存在し、どちらを選ぶか迷って心が板ばさみになる状態を何というか。",
+      "verso": "葛藤（コンフリクト）",
+      "explanation": "「〜したいが〜したい」など。レヴィンは接近—接近型など3つの型に分類した。欲求不満の原因となる。",
+      "tags": [
+        "欲求",
+        "心理"
+      ],
+      "distractors": {
+        "easy": [
+          "満足",
+          "達成",
+          "適応"
+        ],
+        "medium": [
+          "欲求不満",
+          "ストレス",
+          "劣等感"
+        ],
+        "hard": [
+          "アンビバレンス",
+          "ジレンマ",
+          "フラストレーション"
+        ]
+      }
+    },
+    {
+      "recto": "欲求が満たされないときに生じる、不快で緊張した心理状態を何というか。",
+      "verso": "欲求不満（フラストレーション）",
+      "explanation": "葛藤や障害によって欲求が満たされないときに生じる。これに対処する心のはたらきが防衛機制や適応行動。",
+      "tags": [
+        "欲求",
+        "心理"
+      ],
+      "distractors": {
+        "easy": [
+          "満足",
+          "達成感",
+          "幸福"
+        ],
+        "medium": [
+          "葛藤",
+          "適応",
+          "昇華"
+        ],
+        "hard": [
+          "カタルシス",
+          "ストレッサー",
+          "耐性"
+        ]
+      }
+    },
+    {
+      "recto": "欲求不満や不安から自分を守るため、無意識のうちに心の安定をはかるはたらきを、フロイトは何と呼んだか。",
+      "verso": "防衛機制",
+      "explanation": "抑圧・合理化・昇華などがある。無意識に心を守るしくみで、フロイトの精神分析の考え方にもとづく。",
+      "tags": [
+        "心理",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "自己実現",
+          "適応",
+          "反抗"
+        ],
+        "medium": [
+          "葛藤",
+          "欲求不満",
+          "同一化"
+        ],
+        "hard": [
+          "カタルシス",
+          "投影のみ",
+          "自己防衛本能"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】満たされない欲求を、芸術やスポーツなど社会的に価値のある活動に向けかえる防衛機制を何というか。",
+      "verso": "昇華",
+      "explanation": "防衛機制のなかで最も建設的とされる。都合の悪い理由をもっともらしく言いかえる「合理化」と混同しない。",
+      "tags": [
+        "piege",
+        "心理"
+      ],
+      "distractors": {
+        "easy": [
+          "抑圧",
+          "逃避",
+          "退行"
+        ],
+        "medium": [
+          "合理化",
+          "反動形成",
+          "投影"
+        ],
+        "hard": [
+          "同一化",
+          "代償",
+          "補償"
+        ]
+      }
+    },
+    {
+      "recto": "受け入れがたい自分の欲求や感情を、他人がもっているものだと思いこむ防衛機制を何というか。",
+      "verso": "投影（投射）",
+      "explanation": "「自分が嫌っている」を「相手が自分を嫌っている」と感じるなど。防衛機制の一種で、昇華や合理化と区別する。",
+      "tags": [
+        "心理",
+        "防衛機制"
+      ],
+      "distractors": {
+        "easy": [
+          "努力",
+          "反省",
+          "自己主張"
+        ],
+        "medium": [
+          "合理化",
+          "抑圧",
+          "昇華"
+        ],
+        "hard": [
+          "反動形成",
+          "同一化",
+          "代償"
+        ]
+      }
+    },
+    {
+      "recto": "自分の中にある、自分でも気づいていない心の領域を、フロイトは何と呼んだか。",
+      "verso": "無意識",
+      "explanation": "フロイトは、人の行動が無意識に大きく左右されると考えた。防衛機制も無意識のはたらきとされる。",
+      "tags": [
+        "心理",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "意識",
+          "理性",
+          "良心"
+        ],
+        "medium": [
+          "自我",
+          "本能",
+          "潜在能力"
+        ],
+        "hard": [
+          "エス（イド）",
+          "超自我",
+          "前意識"
+        ]
+      }
+    },
+    {
+      "recto": "その人らしさを形づくる、行動や考え方の一貫した特徴を何というか。",
+      "verso": "パーソナリティ（人格・個性）",
+      "explanation": "能力・気質・性格などからなる。遺伝と環境の両方の影響を受けて形づくられる。",
+      "tags": [
+        "自己",
+        "基礎"
+      ],
+      "distractors": {
+        "easy": [
+          "アイデンティティ",
+          "コンプレックス",
+          "モラトリアム"
+        ],
+        "medium": [
+          "気質",
+          "才能",
+          "個人差"
+        ],
+        "hard": [
+          "ペルソナ",
+          "キャラクター",
+          "テンペラメント"
+        ]
+      }
+    },
+    {
+      "recto": "青年期に、社会の一員として役割を果たしながら自分らしい生き方を築いていくことを何というか。",
+      "verso": "自己形成",
+      "explanation": "アイデンティティの確立や職業選択を通じて進む。公共の学びは、この自己形成を社会とのかかわりで考える。",
+      "tags": [
+        "自己",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "自己満足",
+          "自己中心",
+          "自己嫌悪"
+        ],
+        "medium": [
+          "自己実現",
+          "自己防衛",
+          "適応"
+        ],
+        "hard": [
+          "自己疎外",
+          "個性化",
+          "社会化のみ"
+        ]
+      }
+    },
+    {
+      "recto": "個人が社会の規範や価値を身につけ、社会の一員となっていく過程を何というか。",
+      "verso": "社会化",
+      "explanation": "家庭・学校・仲間集団などを通じて進む。自分らしさを築く自己形成と、社会に適応する社会化は両輪となる。",
+      "tags": [
+        "社会",
+        "基礎"
+      ],
+      "distractors": {
+        "easy": [
+          "個性化",
+          "自立",
+          "反抗"
+        ],
+        "medium": [
+          "自己形成",
+          "適応",
+          "同化"
+        ],
+        "hard": [
+          "再社会化",
+          "内面化",
+          "文化化"
+        ]
+      }
+    },
+    {
+      "recto": "現代の若者に見られる、大人になることや社会的役割を引き受けることを先延ばしにしようとする心理を、小此木啓吾は何と呼んだか。",
+      "verso": "モラトリアム人間",
+      "explanation": "エリクソンの準備期間としてのモラトリアムが、いつまでも大人になろうとしない状態として論じられた例。",
+      "tags": [
+        "青年期",
+        "現代"
+      ],
+      "distractors": {
+        "easy": [
+          "社会人",
+          "自立人間",
+          "成人"
+        ],
+        "medium": [
+          "ピーターパン症候群",
+          "アパシー",
+          "五月病"
+        ],
+        "hard": [
+          "青い鳥症候群",
+          "パラサイト・シングル",
+          "スチューデント・アパシー"
+        ]
+      }
+    }
+  ]
+}

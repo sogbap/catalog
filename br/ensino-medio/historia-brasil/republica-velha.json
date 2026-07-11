@@ -1,0 +1,510 @@
+{
+  "id": "br-ensino-medio-historia-brasil-republica-velha",
+  "title": "A República Velha (1889-1930)",
+  "emoji": "🐄",
+  "subject": "history",
+  "country": "br",
+  "courseDescription": "Da Proclamação da República à Revolução de 1930. Café, coronelismo e as oligarquias no poder.",
+  "lesson": "<style>\n  /* Estilos dos gráficos (SVG). Usam currentColor (texto) e var(--accent)\n     (cor da matéria), adaptando-se ao tema claro/escuro do app. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>A República Velha (1889-1930)</h1>\n\n<div class=\"callout\">\n  <strong>Pontos de estudo</strong><br>\n  <b>Nível:</b> Ensino Médio<br>\n  <b>Área:</b> História do Brasil<br>\n  <b>Período:</b> 1889 — 1930\n</div>\n\n<blockquote>\n  <p><b>Questão central.</b> Por que a primeira República brasileira foi chamada de \\\"república das oligarquias\\\"?</p>\n</blockquote>\n\n<p>A <strong>República Velha</strong> começou com os militares (República da Espada) e logo passou ao domínio das <strong>oligarquias do café</strong>. Pela <strong>política do café-com-leite</strong>, pelo <strong>coronelismo</strong> e pelo <strong>voto de cabresto</strong>, poucos controlavam o poder. Revoltas e o <strong>tenentismo</strong> contestaram esse sistema, que ruiu com a <strong>Revolução de 1930</strong>.</p>\n\n<h2>1 · Da Espada às oligarquias</h2>\n\n<p>Proclamada em 1889 pelo <strong>Marechal Deodoro</strong>, a República foi governada primeiro por militares (<strong>República da Espada</strong>). A <strong>Constituição de 1891</strong> adotou o <strong>presidencialismo</strong>, o <strong>federalismo</strong> e o voto aberto. Depois, o poder passou às oligarquias civis do café.</p>\n\n<div class=\"callout\">\n  <strong>Conceito · Política do café-com-leite</strong><br>\n  Acordo pelo qual as oligarquias de São Paulo (café) e Minas Gerais (leite/gado) se revezavam na presidência, garantindo seu domínio sobre o país.\n</div>\n\n<h2>2 · O sistema oligárquico</h2>\n\n<p>O poder das oligarquias apoiava-se no <strong>coronelismo</strong>: no interior, os \\\"coronéis\\\" controlavam os votos. Como o voto era aberto, praticava-se o <strong>voto de cabresto</strong> (coação do eleitor). A economia dependia da exportação do <strong>café</strong>.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"O sistema de poder oligárquico da República Velha\">\n  <defs>\n    <marker id=\"ar-brv1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"95\" y=\"8\" width=\"150\" height=\"44\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"30\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">Oligarquias do café</text>\n  <text x=\"170\" y=\"46\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">no poder</text>\n  <path d=\"M140,52 L70,86\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-brv1)\"/>\n  <path d=\"M170,52 L170,86\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-brv1)\"/>\n  <path d=\"M200,52 L270,86\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-brv1)\"/>\n  <rect x=\"10\" y=\"92\" width=\"100\" height=\"100\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"122\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Café-com-leite</text>\n  <text x=\"60\" y=\"150\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">SP e MG se</text>\n  <text x=\"60\" y=\"168\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">revezam</text>\n  <rect x=\"120\" y=\"92\" width=\"100\" height=\"100\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"122\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">Coronelismo</text>\n  <text x=\"170\" y=\"150\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">poder local dos</text>\n  <text x=\"170\" y=\"168\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">coronéis</text>\n  <rect x=\"230\" y=\"92\" width=\"100\" height=\"100\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"115\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Voto de</text>\n  <text x=\"280\" y=\"129\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">cabresto</text>\n  <text x=\"280\" y=\"156\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">coação do</text>\n  <text x=\"280\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">eleitor</text>\n</svg>\n<figcaption>Três engrenagens mantinham as oligarquias no poder.</figcaption>\n</figure>\n\n<h2>3 · Revoltas e contestações</h2>\n\n<p>O sistema foi contestado por revoltas populares — <strong>Guerra de Canudos</strong>, <strong>Revolta da Vacina</strong>, <strong>Revolta da Chibata</strong> — e pelo <strong>tenentismo</strong>, movimento de jovens oficiais que pediam reformas. A <strong>Coluna Prestes</strong> percorreu o país difundindo essas ideias. Na cultura, a <strong>Semana de Arte Moderna</strong> (1922) renovou a arte brasileira.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Contestações à República Velha: revoltas populares, tenentismo e modernismo\">\n  <rect x=\"8\" y=\"30\" width=\"100\" height=\"70\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">Revoltas</text>\n  <text x=\"58\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Canudos, Vacina,</text>\n  <text x=\"58\" y=\"91\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Chibata</text>\n  <rect x=\"120\" y=\"30\" width=\"100\" height=\"70\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">Tenentismo</text>\n  <text x=\"170\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">jovens oficiais,</text>\n  <text x=\"170\" y=\"91\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Coluna Prestes</text>\n  <rect x=\"232\" y=\"30\" width=\"100\" height=\"70\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">Modernismo</text>\n  <text x=\"282\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Semana de Arte</text>\n  <text x=\"282\" y=\"91\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Moderna (1922)</text>\n  <text x=\"170\" y=\"18\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">contestações ao sistema oligárquico</text>\n</svg>\n<figcaption>Do sertão às Forças Armadas e à arte: várias frentes questionavam as oligarquias.</figcaption>\n</figure>\n\n<h2>4 · O fim da República Velha</h2>\n\n<p>A <strong>Crise de 1929</strong> derrubou o preço do <strong>café</strong>, abalando a elite cafeeira. Uma disputa eleitoral e o descontentamento levaram à <strong>Revolução de 1930</strong>, liderada por <strong>Getúlio Vargas</strong>, que encerrou a República Velha.</p>\n\n<p>Apesar do nome \\\"república\\\", tratou-se de uma democracia muito restrita: voto aberto, masculino e controlado. Só em 1932 viriam o voto secreto e o voto feminino.</p>\n\n<h2>O essencial</h2>\n\n<h3>Linha do tempo</h3>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 210\" role=\"img\" aria-label=\"Linha do tempo da República Velha, de 1889 a 1930\">\n  <line x1=\"26\" y1=\"16\" x2=\"26\" y2=\"196\" style=\"stroke:var(--accent);stroke-opacity:.4;stroke-width:2\"/>\n  <circle cx=\"26\" cy=\"24\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"21\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1889</text>\n  <text x=\"40\" y=\"34\" class=\"s-muted\" font-size=\"10\">Proclamação da República</text>\n  <circle cx=\"26\" cy=\"62\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"59\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1891</text>\n  <text x=\"40\" y=\"72\" class=\"s-muted\" font-size=\"10\">Constituição republicana</text>\n  <circle cx=\"26\" cy=\"100\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"97\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1922</text>\n  <text x=\"40\" y=\"110\" class=\"s-muted\" font-size=\"10\">Semana de Arte Moderna · tenentismo</text>\n  <circle cx=\"26\" cy=\"138\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"135\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1929</text>\n  <text x=\"40\" y=\"148\" class=\"s-muted\" font-size=\"10\">Crise mundial (queda do café)</text>\n  <circle cx=\"26\" cy=\"176\" r=\"5\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"173\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1930</text>\n  <text x=\"40\" y=\"186\" class=\"s-muted\" font-size=\"10\">Revolução de 1930 (fim da República Velha)</text>\n</svg>\n<figcaption>Da proclamação à queda: quatro décadas de domínio oligárquico.</figcaption>\n</figure>\n\n<table>\n  <tr><th>Data</th><th>Acontecimento</th></tr>\n  <tr><td>1889</td><td>Proclamação da República (Deodoro)</td></tr>\n  <tr><td>1891</td><td>Constituição republicana</td></tr>\n  <tr><td>1896-97</td><td>Guerra de Canudos</td></tr>\n  <tr><td>1922</td><td>Semana de Arte Moderna · tenentismo</td></tr>\n  <tr><td>1929</td><td>Crise mundial (queda do café)</td></tr>\n  <tr><td>1930</td><td>Revolução de 1930 (Vargas)</td></tr>\n</table>\n\n<h3>Termos-chave</h3>\n\n<table>\n  <tr><th>Termo</th><th>Significado</th></tr>\n  <tr><td>República da Espada</td><td>Primeira fase, militar (1889-1894)</td></tr>\n  <tr><td>Café-com-leite</td><td>Revezamento SP e MG no poder</td></tr>\n  <tr><td>Coronelismo</td><td>Poder local dos coronéis</td></tr>\n  <tr><td>Voto de cabresto</td><td>Coação do eleitor no voto aberto</td></tr>\n  <tr><td>Tenentismo</td><td>Revolta de jovens oficiais por reformas</td></tr>\n</table>\n\n<h3>Personagens e marcos</h3>\n\n<table>\n  <tr><th>Nome</th><th>Papel</th></tr>\n  <tr><td>Marechal Deodoro</td><td>Proclamou a República; 1º presidente</td></tr>\n  <tr><td>Luís Carlos Prestes</td><td>Líder da Coluna Prestes</td></tr>\n  <tr><td>Antônio Conselheiro</td><td>Líder de Canudos</td></tr>\n  <tr><td>Getúlio Vargas</td><td>Liderou a Revolução de 1930</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  No <b>café-com-leite</b>, os estados eram <b>São Paulo e Minas Gerais</b> (não o Rio de Janeiro). E não confunda <b>coronelismo</b> (poder local dos coronéis) com <b>voto de cabresto</b> (coação do eleitor).\n</div>\n\n<blockquote>\n  <p>A república das oligarquias caiu quando a crise do café rachou o pacto de poder. Getúlio Vargas assumiria o comando por 15 anos, transformando o Estado, os direitos trabalhistas e a própria política brasileira. É o nosso próximo tema: a Era Vargas.</p>\n</blockquote>\n",
+  "questionLang": "pt",
+  "answerLang": "pt",
+  "version": 1,
+  "level": "Ensino Médio",
+  "theme": "História do Brasil",
+  "cards": [
+    {
+      "recto": "Militar que proclamou a República e se tornou o primeiro presidente do Brasil, em 1889.",
+      "verso": "Marechal Deodoro da Fonseca",
+      "explanation": "Liderou a Proclamação da República e presidiu o Governo Provisório. Foi o primeiro presidente, na fase chamada República da Espada.",
+      "tags": [
+        "republica-velha",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Dom Pedro II",
+          "Getúlio Vargas",
+          "Tiradentes"
+        ],
+        "medium": [
+          "Floriano Peixoto",
+          "Prudente de Morais",
+          "Campos Sales"
+        ],
+        "hard": [
+          "Benjamin Constant",
+          "Rui Barbosa",
+          "Marechal Hermes"
+        ]
+      }
+    },
+    {
+      "recto": "Primeira fase da República (1889-1894), governada por militares.",
+      "verso": "República da Espada",
+      "explanation": "Governada por Deodoro e depois Floriano Peixoto. Foi seguida pela República Oligárquica, dominada pelos civis das elites do café.",
+      "tags": [
+        "republica-velha",
+        "periodo"
+      ],
+      "distractors": {
+        "easy": [
+          "República Nova",
+          "República Velha inteira",
+          "Estado Novo"
+        ],
+        "medium": [
+          "República Oligárquica",
+          "República do Café",
+          "República Populista"
+        ],
+        "hard": [
+          "República da Maioridade",
+          "República Constitucionalista",
+          "República Liberal"
+        ]
+      }
+    },
+    {
+      "recto": "Constituição de 1891 que instituiu no Brasil o presidencialismo e o federalismo, inspirada no modelo dos EUA.",
+      "verso": "Constituição de 1891",
+      "explanation": "Primeira Constituição republicana. Adotou o presidencialismo, o federalismo (autonomia dos estados) e o voto aberto (não secreto).",
+      "tags": [
+        "republica-velha",
+        "documento"
+      ],
+      "distractors": {
+        "easy": [
+          "Constituição de 1824",
+          "Constituição de 1988",
+          "Constituição de 1946"
+        ],
+        "medium": [
+          "Constituição de 1934",
+          "Constituição de 1937",
+          "Constituição de 1967"
+        ],
+        "hard": [
+          "Carta de 1889",
+          "Constituição de 1937 (Polaca)",
+          "Emenda de 1926"
+        ]
+      }
+    },
+    {
+      "recto": "Acordo entre as oligarquias de São Paulo e Minas Gerais para se revezar no poder na República Velha.",
+      "verso": "Política do café-com-leite",
+      "explanation": "SP (café) e MG (leite/gado) alternavam a presidência. Garantia o domínio dessas duas oligarquias sobre o país.",
+      "tags": [
+        "republica-velha",
+        "politica"
+      ],
+      "distractors": {
+        "easy": [
+          "Política dos Governadores",
+          "Plano de Metas",
+          "Aliança Liberal"
+        ],
+        "medium": [
+          "Coronelismo",
+          "Voto de cabresto",
+          "Política do pão e circo"
+        ],
+        "hard": [
+          "Política dos Estados",
+          "Convênio de Taubaté apenas",
+          "Pacto oligárquico"
+        ]
+      }
+    },
+    {
+      "recto": "Sistema de poder local na República Velha, em que grandes proprietários (\"coronéis\") controlavam a política das cidades do interior.",
+      "verso": "Coronelismo",
+      "explanation": "Os coronéis trocavam favores e votos por proteção. Base do domínio das oligarquias sobre o eleitorado, sobretudo no campo.",
+      "tags": [
+        "republica-velha",
+        "politica"
+      ],
+      "distractors": {
+        "easy": [
+          "Militarismo",
+          "Populismo",
+          "Socialismo"
+        ],
+        "medium": [
+          "Clientelismo apenas",
+          "Caudilhismo",
+          "Mandonismo apenas"
+        ],
+        "hard": [
+          "Patrimonialismo",
+          "Nepotismo",
+          "Fisiologismo"
+        ]
+      }
+    },
+    {
+      "recto": "Prática do coronelismo em que o eleitor era pressionado ou coagido a votar no candidato indicado pelo coronel.",
+      "verso": "Voto de cabresto",
+      "explanation": "Como o voto era aberto (não secreto), o coronel controlava em quem os dependentes votavam. Fraude e coação marcavam as eleições.",
+      "tags": [
+        "republica-velha",
+        "politica"
+      ],
+      "distractors": {
+        "easy": [
+          "Voto secreto",
+          "Voto obrigatório",
+          "Voto feminino"
+        ],
+        "medium": [
+          "Voto censitário",
+          "Voto distrital",
+          "Voto proporcional"
+        ],
+        "hard": [
+          "Voto em trânsito",
+          "Bico de pena apenas",
+          "Voto plural"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] O domínio local dos coronéis e a coação dos eleitores no voto aberto chamam-se, respectivamente?",
+      "verso": "Coronelismo e voto de cabresto",
+      "explanation": "Coronelismo = poder local dos coronéis; voto de cabresto = coação do eleitor no voto aberto. Duas peças do sistema oligárquico da República Velha.",
+      "tags": [
+        "comparaison",
+        "republica-velha"
+      ],
+      "distractors": {
+        "easy": [
+          "Café e leite",
+          "Voto e censo",
+          "Poder e dinheiro"
+        ],
+        "medium": [
+          "Voto de cabresto e coronelismo",
+          "Populismo e clientelismo",
+          "Coronelismo e café-com-leite"
+        ],
+        "hard": [
+          "Mandonismo e clientelismo",
+          "Caudilhismo e voto de cabresto",
+          "Patronato e coronelismo"
+        ]
+      }
+    },
+    {
+      "recto": "Principal produto da economia brasileira na República Velha, cuja elite dominava a política.",
+      "verso": "Café",
+      "explanation": "A economia dependia da exportação de café. Para sustentar os preços, o governo criou políticas como a valorização do café (Convênio de Taubaté).",
+      "tags": [
+        "republica-velha",
+        "economia"
+      ],
+      "distractors": {
+        "easy": [
+          "Açúcar",
+          "Petróleo",
+          "Ouro"
+        ],
+        "medium": [
+          "Borracha",
+          "Algodão",
+          "Soja"
+        ],
+        "hard": [
+          "Cacau",
+          "Minério de ferro",
+          "Tabaco"
+        ]
+      }
+    },
+    {
+      "recto": "Guerra ocorrida no sertão da Bahia, em que uma comunidade liderada por Antônio Conselheiro foi destruída pelo Exército.",
+      "verso": "Guerra de Canudos",
+      "explanation": "Revolta social e religiosa de sertanejos pobres (1896-1897), massacrada pela República. Retratada por Euclides da Cunha em \"Os Sertões\".",
+      "tags": [
+        "republica-velha",
+        "revolta"
+      ],
+      "distractors": {
+        "easy": [
+          "Guerra do Paraguai",
+          "Guerra Fria",
+          "Inconfidência Mineira"
+        ],
+        "medium": [
+          "Guerra do Contestado",
+          "Revolta da Vacina",
+          "Cabanagem"
+        ],
+        "hard": [
+          "Revolta da Chibata",
+          "Guerra dos Canudos apenas",
+          "Sedição de Juazeiro"
+        ]
+      }
+    },
+    {
+      "recto": "Revolta popular de 1904 no Rio de Janeiro contra a vacinação obrigatória imposta pelo governo.",
+      "verso": "Revolta da Vacina",
+      "explanation": "A população reagiu à vacinação forçada contra a varíola e às reformas urbanas autoritárias. Expressa a insatisfação popular na República Velha.",
+      "tags": [
+        "republica-velha",
+        "revolta"
+      ],
+      "distractors": {
+        "easy": [
+          "Revolução de 1930",
+          "Proclamação da República",
+          "Guerra de Canudos"
+        ],
+        "medium": [
+          "Revolta da Chibata",
+          "Guerra do Contestado",
+          "Revolta Tenentista"
+        ],
+        "hard": [
+          "Revolta do Forte de Copacabana",
+          "Reforma Pereira Passos apenas",
+          "Greve de 1917"
+        ]
+      }
+    },
+    {
+      "recto": "Revolta de 1910 na Marinha, liderada por João Cândido, contra os castigos físicos aplicados aos marinheiros.",
+      "verso": "Revolta da Chibata",
+      "explanation": "Marinheiros, em sua maioria negros, rebelaram-se contra os castigos com chibata. Revela a permanência de práticas violentas após a abolição.",
+      "tags": [
+        "republica-velha",
+        "revolta"
+      ],
+      "distractors": {
+        "easy": [
+          "Revolta da Vacina",
+          "Guerra de Canudos",
+          "Revolução de 1930"
+        ],
+        "medium": [
+          "Guerra do Contestado",
+          "Revolta Tenentista",
+          "Coluna Prestes"
+        ],
+        "hard": [
+          "Revolta do Forte",
+          "Sedição da Armada",
+          "Motim de 1893"
+        ]
+      }
+    },
+    {
+      "recto": "Movimento de jovens oficiais do Exército que, nos anos 1920, se rebelaram contra as oligarquias e a corrupção.",
+      "verso": "Tenentismo",
+      "explanation": "Tenentes exigiam reformas políticas (como o voto secreto) e o fim do domínio oligárquico. A Coluna Prestes foi sua manifestação mais famosa.",
+      "tags": [
+        "republica-velha",
+        "movimento"
+      ],
+      "distractors": {
+        "easy": [
+          "Coronelismo",
+          "Populismo",
+          "Integralismo"
+        ],
+        "medium": [
+          "Getulismo",
+          "Positivismo",
+          "Anarquismo"
+        ],
+        "hard": [
+          "Militarismo florianista",
+          "Jacobinismo",
+          "Reformismo civil"
+        ]
+      }
+    },
+    {
+      "recto": "Marcha de 1925-1927 pelo interior do Brasil, liderada por Luís Carlos Prestes, para difundir ideias tenentistas.",
+      "verso": "Coluna Prestes",
+      "explanation": "Percorreu milhares de quilômetros sem ser derrotada, denunciando as oligarquias. Prestes tornou-se o \"Cavaleiro da Esperança\".",
+      "tags": [
+        "republica-velha",
+        "movimento"
+      ],
+      "distractors": {
+        "easy": [
+          "Marcha para o Oeste",
+          "Diretas Já",
+          "Coluna do Café"
+        ],
+        "medium": [
+          "Intentona Comunista",
+          "Marcha da Família",
+          "Revolta Paulista"
+        ],
+        "hard": [
+          "Coluna Miguel Costa apenas",
+          "Longa Marcha",
+          "Coluna Invicta"
+        ]
+      }
+    },
+    {
+      "recto": "Evento cultural de 1922, em São Paulo, que renovou a arte brasileira e valorizou uma identidade nacional.",
+      "verso": "Semana de Arte Moderna",
+      "explanation": "Reuniu artistas modernistas como Mário e Oswald de Andrade. Rompeu com o academicismo e buscou uma arte genuinamente brasileira.",
+      "tags": [
+        "republica-velha",
+        "cultura"
+      ],
+      "distractors": {
+        "easy": [
+          "Renascimento",
+          "Semana de 1930",
+          "Tropicália"
+        ],
+        "medium": [
+          "Salão de 1931",
+          "Bienal de São Paulo",
+          "Movimento Antropofágico apenas"
+        ],
+        "hard": [
+          "Semana de Arte Total",
+          "Festival de 1922",
+          "Modernismo mineiro"
+        ]
+      }
+    },
+    {
+      "recto": "Crise econômica mundial de 1929 afetou fortemente o Brasil ao derrubar o preço de qual produto?",
+      "verso": "O café",
+      "explanation": "A Crise de 1929 fez despencar as exportações e o preço do café, abalando a economia e a elite cafeeira. Contribuiu para a Revolução de 1930.",
+      "tags": [
+        "republica-velha",
+        "crise"
+      ],
+      "distractors": {
+        "easy": [
+          "O petróleo",
+          "O ouro",
+          "A soja"
+        ],
+        "medium": [
+          "O açúcar",
+          "A borracha",
+          "O algodão"
+        ],
+        "hard": [
+          "O minério",
+          "O cacau",
+          "A carne"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] Na política do café-com-leite, quais dois estados se revezavam no poder?",
+      "verso": "São Paulo e Minas Gerais",
+      "explanation": "Erro comum é incluir o Rio de Janeiro. Eram SP (café) e MG (leite/gado). O nome vem da combinação dos produtos dos dois estados.",
+      "tags": [
+        "piege",
+        "republica-velha"
+      ],
+      "distractors": {
+        "easy": [
+          "Rio de Janeiro e Bahia",
+          "São Paulo e Rio de Janeiro",
+          "Minas Gerais e Bahia"
+        ],
+        "medium": [
+          "São Paulo e Rio Grande do Sul",
+          "Minas Gerais e Rio de Janeiro",
+          "Bahia e Pernambuco"
+        ],
+        "hard": [
+          "São Paulo e Pernambuco",
+          "Minas Gerais e Rio Grande do Sul",
+          "Rio de Janeiro e São Paulo"
+        ]
+      }
+    },
+    {
+      "recto": "Movimento de 1930, liderado por Getúlio Vargas, que derrubou a República Velha e a hegemonia das oligarquias do café.",
+      "verso": "Revolução de 1930",
+      "explanation": "Após a crise de 1929 e uma disputa eleitoral, Vargas chegou ao poder por um golpe. Encerra a República Velha e inicia a Era Vargas.",
+      "tags": [
+        "republica-velha",
+        "1930"
+      ],
+      "distractors": {
+        "easy": [
+          "Proclamação da República",
+          "Golpe de 1964",
+          "Independência"
+        ],
+        "medium": [
+          "Revolução Constitucionalista",
+          "Revolução de 1932",
+          "Intentona Comunista"
+        ],
+        "hard": [
+          "Aliança Liberal apenas",
+          "Golpe do Estado Novo",
+          "Revolução Farroupilha"
+        ]
+      }
+    },
+    {
+      "recto": "As mulheres podiam votar durante a República Velha?",
+      "verso": "Não; as mulheres só conquistaram o voto em 1932",
+      "explanation": "Na República Velha, o voto era masculino, aberto e restrito. O voto feminino e secreto só veio em 1932, já na Era Vargas. Democracia muito limitada.",
+      "tags": [
+        "republica-velha",
+        "cidadania"
+      ],
+      "distractors": {
+        "easy": [
+          "Sim, desde 1889",
+          "Sim, desde 1891",
+          "Sim, desde a abolição"
+        ],
+        "medium": [
+          "Sim, mas só as ricas",
+          "Sim, desde 1900",
+          "Sim, com o coronelismo"
+        ],
+        "hard": [
+          "Sim, no voto de cabresto",
+          "Sim, desde 1920",
+          "Sim, na Constituição de 1891"
+        ]
+      }
+    },
+    {
+      "recto": "De modo geral, a República Velha foi uma democracia ampla ou o domínio de poucos grupos?",
+      "verso": "O domínio de poucos grupos (oligarquias)",
+      "explanation": "Apesar do nome \"república\", o poder ficava com as oligarquias do café, via coronelismo e voto de cabresto. A maioria da população era excluída da política.",
+      "tags": [
+        "republica-velha",
+        "sintese"
+      ],
+      "distractors": {
+        "easy": [
+          "Uma democracia ampla e livre",
+          "Uma monarquia",
+          "Um regime socialista"
+        ],
+        "medium": [
+          "Um governo popular",
+          "Uma ditadura militar",
+          "Um regime operário"
+        ],
+        "hard": [
+          "Uma democracia direta",
+          "Um regime parlamentarista",
+          "Uma federação igualitária"
+        ]
+      }
+    }
+  ]
+}

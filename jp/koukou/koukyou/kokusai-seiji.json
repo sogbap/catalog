@@ -1,0 +1,533 @@
+{
+  "id": "jp-koukou-koukyou-kokusai-seiji",
+  "title": "国際政治と平和主義",
+  "emoji": "🕊️",
+  "subject": "civics",
+  "country": "jp",
+  "courseDescription": "主権国家と国際法から国際連合、日本の平和主義まで。国際社会のしくみと平和への課題を学ぶ。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>国際政治と平和主義</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・公共<br>\n  <b>大項目B：</b>自立した主体として社会に参画する私たち<br>\n  <b>内容：</b>主権国家・国連・日本の平和主義\n</div>\n\n<blockquote>\n  <p><b>問い</b>　統一的な政府のない国際社会で、平和はどのようにして保たれるのだろうか。</p>\n</blockquote>\n\n<p>国際社会は、独立した<strong>主権国家</strong>を単位に成り立つが、国内のような統一的な政府はない。だからこそ<strong>国際法</strong>や<strong>国際連合</strong>による協調が平和の鍵となる。そのなかで日本は<strong>平和主義</strong>をかかげてきた。国際政治のしくみと、平和への課題を考えよう。</p>\n\n<h2>1・主権国家と国際法</h2>\n\n<p>国際社会は、領域・国民・主権をもつ<strong>主権国家</strong>を単位とする（17世紀のウェストファリア条約以降）。国家間の関係を規律するのが<strong>国際法</strong>で、条約と国際慣習法からなる。<strong>グロティウス</strong>が「国際法の父」と呼ばれる。</p>\n\n<p>ただし国際法には、国内法のように強制する統一的な権力がない。ここに、国際社会で平和を保つことの難しさがある。</p>\n\n<div class=\"callout\">\n  <strong>用語・主権国家</strong><br>\n  領域・国民・主権をもち、他国から支配を受けずに独立した国家。国際社会はこの主権国家を単位に成り立ち、たがいに対等とされる。\n</div>\n\n<h2>2・国際連合のしくみ</h2>\n\n<p>第二次世界大戦後の1945年、平和の維持を目的に<strong>国際連合</strong>が発足した。中心となるのが<strong>安全保障理事会</strong>である。<strong>アメリカ・イギリス・フランス・ロシア・中国</strong>の5<strong>常任理事国</strong>は<strong>拒否権</strong>をもつ。</p>\n\n<p>大国の一致を重んじるしくみだが、対立すると安保理が機能しない原因にもなる。国連は紛争地で停戦監視などを行う<strong>PKO（平和維持活動）</strong>も展開している。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"国際連合のおもな機関。総会と安全保障理事会\">\n  <defs>\n    <marker id=\"ar-ks1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 国連（強調） -->\n  <rect x=\"110\" y=\"8\" width=\"120\" height=\"44\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">国際連合</text>\n  <path d=\"M150,52 L90,84\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ks1)\"/>\n  <path d=\"M190,52 L250,84\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ks1)\"/>\n  <!-- 総会 -->\n  <rect x=\"14\" y=\"90\" width=\"150\" height=\"98\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"89\" y=\"118\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">総会</text>\n  <text x=\"89\" y=\"146\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">全加盟国が参加</text>\n  <text x=\"89\" y=\"168\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">一国一票</text>\n  <!-- 安保理 -->\n  <rect x=\"176\" y=\"90\" width=\"150\" height=\"98\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"251\" y=\"114\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">安全保障理事会</text>\n  <text x=\"251\" y=\"140\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">常任5＋非常任10</text>\n  <text x=\"251\" y=\"162\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">常任国は拒否権</text>\n</svg>\n<figcaption>全加盟国の総会と、強い権限をもつ安全保障理事会が国連の中心。</figcaption>\n</figure>\n\n<h2>3・冷戦後の平和の課題</h2>\n\n<p>冷戦の終結後、米ソ対立の枠組みが消えると、民族や宗教の対立を背景とする<strong>地域紛争</strong>が各地で表面化した。戦火を逃れる<strong>難民</strong>が増え、テロも深刻化している。</p>\n\n<p>平和とは、単に戦争がないこと（消極的平和）だけではない。ガルトゥングは、貧困や差別といった構造的暴力のない状態を<strong>積極的平和</strong>と呼んだ。平和をより広くとらえる視点である。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"消極的平和と積極的平和の比較\">\n  <!-- 左：消極的平和 -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">消極的平和</text>\n  <text x=\"87\" y=\"58\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">戦争がない</text>\n  <text x=\"26\" y=\"92\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">直接の暴力なし</text>\n  <text x=\"26\" y=\"118\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">戦火の停止</text>\n  <text x=\"26\" y=\"144\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">狭い意味の平和</text>\n  <!-- 右：積極的平和 -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">積極的平和</text>\n  <text x=\"253\" y=\"58\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">抑圧もない</text>\n  <text x=\"192\" y=\"92\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">構造的暴力なし</text>\n  <text x=\"192\" y=\"118\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">貧困・差別の除去</text>\n  <text x=\"192\" y=\"144\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">広い意味の平和</text>\n</svg>\n<figcaption>戦争がないだけでなく、貧困や抑圧もない状態こそ本当の平和とする考え方。</figcaption>\n</figure>\n\n<h2>4・日本の平和主義</h2>\n\n<p>日本は憲法第9条にもとづく<strong>平和主義</strong>をかかげる。<strong>日米安全保障条約</strong>と<strong>自衛隊</strong>のもとで<strong>専守防衛</strong>を基本とし、<strong>非核三原則</strong>を国是としてきた。</p>\n\n<p>近年は、密接な他国への攻撃に反撃する<strong>集団的自衛権</strong>の限定的行使（2015年）や、<strong>PKO協力法</strong>による自衛隊の海外派遣など、国際貢献のあり方が議論されている。唯一の戦争被爆国として、<strong>核兵器禁止条約</strong>への姿勢も問われている。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"個別的自衛権と集団的自衛権の比較\">\n  <!-- 左：個別的自衛権 -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">個別的自衛権</text>\n  <text x=\"87\" y=\"58\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11.5\" font-weight=\"700\">自国が攻撃</text>\n  <text x=\"26\" y=\"92\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">自国が攻撃</text>\n  <text x=\"26\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">されたとき</text>\n  <text x=\"26\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">従来から行使可</text>\n  <!-- 右：集団的自衛権 -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">集団的自衛権</text>\n  <text x=\"253\" y=\"58\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11.5\" font-weight=\"700\">他国が攻撃</text>\n  <text x=\"192\" y=\"92\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">密接な他国が</text>\n  <text x=\"192\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">攻撃されたとき</text>\n  <text x=\"192\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">2015年に限定容認</text>\n</svg>\n<figcaption>「個別」（自国）と「集団」（他国）の違いをおさえる。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・積極的平和</strong><br>\n  単に戦争がない状態（消極的平和）に対し、貧困・差別・抑圧といった構造的暴力もない状態（ガルトゥング）。平和をより広くとらえる考え方。\n</div>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>年</th><th>できごと</th></tr>\n  <tr><td>1945年</td><td>国際連合の発足</td></tr>\n  <tr><td>1951年</td><td>日米安全保障条約</td></tr>\n  <tr><td>1954年</td><td>自衛隊の発足</td></tr>\n  <tr><td>1992年</td><td>PKO協力法</td></tr>\n  <tr><td>2015年</td><td>集団的自衛権の限定容認</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>主権国家</td><td>領域・国民・主権をもつ独立国家</td></tr>\n  <tr><td>安全保障理事会</td><td>平和維持に責任をもつ国連の中心機関</td></tr>\n  <tr><td>拒否権</td><td>常任理事国5か国がもつ権利</td></tr>\n  <tr><td>平和主義</td><td>憲法9条にもとづく日本の基本方針</td></tr>\n  <tr><td>非核三原則</td><td>持たず・つくらず・持ちこませず</td></tr>\n  <tr><td>積極的平和</td><td>構造的暴力もない広い意味の平和</td></tr>\n</table>\n\n<h3>自衛権の区別</h3>\n\n<table>\n  <tr><th>種類</th><th>反撃する場面</th></tr>\n  <tr><td>個別的自衛権</td><td>自国が攻撃されたとき</td></tr>\n  <tr><td>集団的自衛権</td><td>密接な他国が攻撃されたとき（2015年限定容認）</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  <b>個別的自衛権</b>（自国が攻撃されたとき）と<b>集団的自衛権</b>（密接な他国が攻撃されたとき）を取りちがえないこと。また平和は、戦争がないだけの<b>消極的平和</b>と、貧困や抑圧もない<b>積極的平和</b>に分けて考える。\n</div>\n\n<blockquote>\n  <p>統一的な政府のない国際社会で平和を保つのは、力ではなく協調と法である。日本の平和主義は、その協調に貢献する道を模索してきた。政治の学びをふまえ、次はもう一つの大きな領域——私たちの暮らしを支える経済のしくみへと進もう。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "公共 ― 自立した主体として社会に参画する私たち",
+  "cards": [
+    {
+      "recto": "領域・国民・主権をもち、他国から支配を受けずに独立している国家を何というか。",
+      "verso": "主権国家",
+      "explanation": "国際社会は主権国家を単位に成り立つ。17世紀のウェストファリア条約以降、主権国家体制が確立した。",
+      "tags": [
+        "国際政治",
+        "基礎"
+      ],
+      "distractors": {
+        "easy": [
+          "植民地",
+          "属国",
+          "都市国家"
+        ],
+        "medium": [
+          "連邦",
+          "同盟",
+          "国際機関"
+        ],
+        "hard": [
+          "保護国",
+          "従属国",
+          "自治領"
+        ]
+      }
+    },
+    {
+      "recto": "国家間の関係を規律するルールで、条約や国際慣習法からなるものを何というか。",
+      "verso": "国際法",
+      "explanation": "国内法と異なり、強制する統一的な権力がない点が特徴。グロティウスが「国際法の父」と呼ばれる。",
+      "tags": [
+        "国際政治",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "国内法",
+          "憲法",
+          "条例"
+        ],
+        "medium": [
+          "民法",
+          "刑法",
+          "行政法"
+        ],
+        "hard": [
+          "自然法",
+          "実定法",
+          "慣習法のみ"
+        ]
+      }
+    },
+    {
+      "recto": "『戦争と平和の法』を著し、「国際法の父」と呼ばれるオランダの法学者は誰か。",
+      "verso": "グロティウス",
+      "explanation": "戦争にもルールがあるべきだと説き、国際法の基礎を築いた。社会契約説のホッブズらと同時代の思想家。",
+      "tags": [
+        "国際政治",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "ロック",
+          "ルソー",
+          "モンテスキュー"
+        ],
+        "medium": [
+          "ホッブズ",
+          "カント",
+          "ベンサム"
+        ],
+        "hard": [
+          "ヴァッテル",
+          "プーフェンドルフ",
+          "ボーダン"
+        ]
+      }
+    },
+    {
+      "recto": "1945年に発足し、世界の平和と安全の維持を目的とする国際機構を何というか。",
+      "verso": "国際連合（国連）",
+      "explanation": "第二次世界大戦後に発足。戦間期の国際連盟の反省をふまえた。総会・安全保障理事会などからなる。",
+      "tags": [
+        "国際機構",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "国際連盟",
+          "EU",
+          "NATO"
+        ],
+        "medium": [
+          "ワルシャワ条約機構",
+          "赤十字",
+          "OPEC"
+        ],
+        "hard": [
+          "国際司法裁判所のみ",
+          "常設国際司法裁判所",
+          "国際労働機関"
+        ]
+      }
+    },
+    {
+      "recto": "国連で、世界の平和と安全の維持に主要な責任をもち、強い権限をもつ機関を何というか。",
+      "verso": "安全保障理事会",
+      "explanation": "5つの常任理事国と10の非常任理事国からなる。武力制裁などを決定できる、国連の中心機関。",
+      "tags": [
+        "国際機構",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "総会",
+          "事務局",
+          "国際司法裁判所"
+        ],
+        "medium": [
+          "経済社会理事会",
+          "信託統治理事会",
+          "総会第一委員会"
+        ],
+        "hard": [
+          "軍事参謀委員会",
+          "平和構築委員会",
+          "人権理事会"
+        ]
+      }
+    },
+    {
+      "recto": "安全保障理事会の常任理事国5か国がもつ、1国でも反対すると重要な決定ができなくなる権利を何というか。",
+      "verso": "拒否権",
+      "explanation": "米・英・仏・ロシア・中国がもつ。大国の一致を重んじるしくみだが、対立すると安保理が機能しない原因にもなる。",
+      "tags": [
+        "国際機構",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "投票権",
+          "発言権",
+          "参政権"
+        ],
+        "medium": [
+          "特別多数決",
+          "全会一致",
+          "議決権"
+        ],
+        "hard": [
+          "大国一致の原則という別称",
+          "コンセンサス",
+          "棄権権"
+        ]
+      }
+    },
+    {
+      "recto": "安全保障理事会の常任理事国5か国はどこか。",
+      "verso": "アメリカ・イギリス・フランス・ロシア・中国",
+      "explanation": "第二次世界大戦の主要な戦勝国。拒否権をもつ。この5か国の構成が固定されていることへの批判もある。",
+      "tags": [
+        "国際機構"
+      ],
+      "distractors": {
+        "easy": [
+          "日本・ドイツ・イタリア・アメリカ・イギリス",
+          "EU5か国",
+          "G5"
+        ],
+        "medium": [
+          "アメリカ・イギリス・フランス・ドイツ・日本",
+          "米・英・仏・中・インド",
+          "米・ソ・英・仏・日"
+        ],
+        "hard": [
+          "常任理事国は7か国",
+          "米・英・仏・露・独",
+          "米・露・中・印・伯"
+        ]
+      }
+    },
+    {
+      "recto": "紛争地域で、停戦の監視や復興支援などを行う国連の活動を何というか。",
+      "verso": "PKO（国連平和維持活動）",
+      "explanation": "国連憲章に明文はないが、平和のために発展したしくみ。日本も1992年のPKO協力法以降、自衛隊を派遣している。",
+      "tags": [
+        "国際機構"
+      ],
+      "distractors": {
+        "easy": [
+          "ODA",
+          "NGO",
+          "WHO"
+        ],
+        "medium": [
+          "多国籍軍",
+          "国連軍",
+          "PKF"
+        ],
+        "hard": [
+          "平和構築",
+          "人道的介入",
+          "集団安全保障そのもの"
+        ]
+      }
+    },
+    {
+      "recto": "戦争や迫害などから逃れるために、住んでいた国を離れざるをえなくなった人々を何というか。",
+      "verso": "難民",
+      "explanation": "冷戦後、地域紛争や内戦で増加した。UNHCR（国連難民高等弁務官事務所）が保護にあたる。国際的な人道の課題。",
+      "tags": [
+        "国際政治",
+        "課題"
+      ],
+      "distractors": {
+        "easy": [
+          "移民",
+          "旅行者",
+          "留学生"
+        ],
+        "medium": [
+          "亡命者",
+          "避難民",
+          "無国籍者"
+        ],
+        "hard": [
+          "国内避難民",
+          "経済難民のみ",
+          "庇護申請者"
+        ]
+      }
+    },
+    {
+      "recto": "冷戦の終結後に世界各地で増えた、民族や宗教の対立を背景とする、一国内やその周辺での戦いを何というか。",
+      "verso": "地域紛争（民族紛争）",
+      "explanation": "米ソの対立という大きな枠組みが消えたことで表面化した。難民の発生やテロと結びつく現代の平和の課題。",
+      "tags": [
+        "国際政治",
+        "課題"
+      ],
+      "distractors": {
+        "easy": [
+          "世界大戦",
+          "冷戦",
+          "代理戦争"
+        ],
+        "medium": [
+          "国家間戦争",
+          "核戦争",
+          "内戦のみ"
+        ],
+        "hard": [
+          "非対称戦争",
+          "ハイブリッド戦争",
+          "テロリズムそのもの"
+        ]
+      }
+    },
+    {
+      "recto": "日本国憲法第9条にもとづき、戦争を放棄し戦力を持たないとする日本の基本方針を何というか。",
+      "verso": "平和主義",
+      "explanation": "日本国憲法の三大原則の一つ。第9条が戦争放棄・戦力不保持・交戦権の否認を定める。国際貢献のあり方が議論される。",
+      "tags": [
+        "平和主義",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "軍国主義",
+          "帝国主義",
+          "国家主義"
+        ],
+        "medium": [
+          "中立主義",
+          "孤立主義",
+          "専守防衛のみ"
+        ],
+        "hard": [
+          "絶対平和主義",
+          "積極的平和主義",
+          "非武装中立"
+        ]
+      }
+    },
+    {
+      "recto": "1951年に結ばれ、独立後もアメリカ軍が日本に駐留することを認めた条約を何というか。",
+      "verso": "日米安全保障条約",
+      "explanation": "サンフランシスコ平和条約と同じ日に締結。日本の安全保障の柱だが、基地問題や憲法9条との関係が議論される。",
+      "tags": [
+        "平和主義",
+        "外交"
+      ],
+      "distractors": {
+        "easy": [
+          "日英同盟",
+          "国連憲章",
+          "日ソ共同宣言"
+        ],
+        "medium": [
+          "サンフランシスコ平和条約",
+          "日米地位協定",
+          "PKO協力法"
+        ],
+        "hard": [
+          "日米行政協定",
+          "MSA協定",
+          "新ガイドライン"
+        ]
+      }
+    },
+    {
+      "recto": "1954年に発足した、日本の防衛を担う実力組織を何というか。",
+      "verso": "自衛隊",
+      "explanation": "警察予備隊・保安隊をへて発足。憲法9条の「戦力」にあたるかどうかが長く議論されてきた。専守防衛を基本とする。",
+      "tags": [
+        "平和主義"
+      ],
+      "distractors": {
+        "easy": [
+          "帝国陸軍",
+          "警察",
+          "国連軍"
+        ],
+        "medium": [
+          "警察予備隊",
+          "保安隊",
+          "国防軍"
+        ],
+        "hard": [
+          "防衛隊",
+          "国土防衛軍",
+          "自衛軍"
+        ]
+      }
+    },
+    {
+      "recto": "「核兵器を持たず、つくらず、持ちこませず」という、日本の核をめぐる基本方針を何というか。",
+      "verso": "非核三原則",
+      "explanation": "1960年代に佐藤栄作内閣が表明し、国是とされてきた。日本の平和主義を象徴する原則の一つ。",
+      "tags": [
+        "平和主義",
+        "核"
+      ],
+      "distractors": {
+        "easy": [
+          "平和五原則",
+          "武器輸出三原則",
+          "専守防衛"
+        ],
+        "medium": [
+          "核拡散防止条約",
+          "平和十原則",
+          "国是三原則"
+        ],
+        "hard": [
+          "非核二・五原則",
+          "核の傘",
+          "核兵器禁止条約"
+        ]
+      }
+    },
+    {
+      "recto": "自国が攻撃されていなくても、密接な関係にある他国への攻撃を、自国への攻撃とみなして反撃する権利を何というか。",
+      "verso": "集団的自衛権",
+      "explanation": "2015年の安全保障関連法で、限定的に行使できるとされた。自国が攻撃されたときの個別的自衛権と区別する。",
+      "tags": [
+        "平和主義",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "交戦権",
+          "自決権",
+          "参政権"
+        ],
+        "medium": [
+          "個別的自衛権",
+          "先制攻撃権",
+          "自衛権全般"
+        ],
+        "hard": [
+          "集団安全保障",
+          "武力行使一体化",
+          "存立危機事態"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】自国が直接攻撃されたときに反撃する権利と、密接な他国への攻撃に反撃する権利を、順にそれぞれ何というか。",
+      "verso": "個別的自衛権と集団的自衛権",
+      "explanation": "個別的自衛権＝自国が攻撃されたとき、集団的自衛権＝密接な他国が攻撃されたとき。「個別」と「集団」を取りちがえない。",
+      "tags": [
+        "piege",
+        "平和主義"
+      ],
+      "distractors": {
+        "easy": [
+          "自由権と社会権",
+          "立法権と行政権",
+          "参政権と請求権"
+        ],
+        "medium": [
+          "集団的自衛権と個別的自衛権",
+          "自衛権と交戦権",
+          "個別的自衛権と集団安全保障"
+        ],
+        "hard": [
+          "先制的自衛権と個別的自衛権",
+          "集団安全保障と集団的自衛権",
+          "存立危機事態と武力攻撃事態"
+        ]
+      }
+    },
+    {
+      "recto": "1992年に成立し、自衛隊が国連平和維持活動に参加できるようにした法律を何というか。",
+      "verso": "PKO協力法",
+      "explanation": "湾岸戦争での国際貢献をめぐる批判が背景。最初の派遣先はカンボジア。日本の国際貢献のあり方を変えた。",
+      "tags": [
+        "平和主義",
+        "国際貢献"
+      ],
+      "distractors": {
+        "easy": [
+          "日本国憲法",
+          "自衛隊法",
+          "国家総動員法"
+        ],
+        "medium": [
+          "安全保障関連法",
+          "周辺事態法",
+          "テロ対策特別措置法"
+        ],
+        "hard": [
+          "国際平和支援法",
+          "海賊対処法",
+          "武力攻撃事態法"
+        ]
+      }
+    },
+    {
+      "recto": "核兵器の開発・保有・使用などを全面的に禁止するとして、2021年に発効した条約を何というか。",
+      "verso": "核兵器禁止条約",
+      "explanation": "核兵器の廃絶をめざす。ただし核保有国や日本は参加していない。唯一の戦争被爆国としての日本の立場が問われる。",
+      "tags": [
+        "平和主義",
+        "核"
+      ],
+      "distractors": {
+        "easy": [
+          "日米安全保障条約",
+          "国連憲章",
+          "ポツダム宣言"
+        ],
+        "medium": [
+          "核拡散防止条約",
+          "部分的核実験禁止条約",
+          "包括的核実験禁止条約"
+        ],
+        "hard": [
+          "中距離核戦力全廃条約",
+          "戦略兵器削減条約",
+          "新START"
+        ]
+      }
+    },
+    {
+      "recto": "国際社会には、国内のような統一的な政府や強制力がない。この状態のなかで平和を保つには、何が重要になるか。",
+      "verso": "国際協調と国際法・国際機構",
+      "explanation": "強制する権力がないため、各国の協調、条約の遵守、国連などの国際機構が平和の鍵となる。力だけでは平和は保てない。",
+      "tags": [
+        "国際政治",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "軍備の拡張",
+          "経済力",
+          "植民地の獲得"
+        ],
+        "medium": [
+          "勢力均衡のみ",
+          "大国の支配",
+          "孤立主義"
+        ],
+        "hard": [
+          "覇権の確立",
+          "核抑止のみ",
+          "同盟の強化のみ"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】単に戦争がない状態と、貧困や差別・抑圧といった構造的暴力もない状態を、ガルトゥングはそれぞれ何と呼んだか。",
+      "verso": "消極的平和と積極的平和",
+      "explanation": "消極的平和＝戦争（直接的暴力）がないだけ、積極的平和＝貧困や抑圧（構造的暴力）もない状態。より広い平和が積極的平和。",
+      "tags": [
+        "comparaison",
+        "平和"
+      ],
+      "distractors": {
+        "easy": [
+          "戦争と平和",
+          "自由と平等",
+          "勝利と敗北"
+        ],
+        "medium": [
+          "積極的平和と消極的平和",
+          "武装平和と非武装平和",
+          "冷たい平和と熱い平和"
+        ],
+        "hard": [
+          "消極的平和と永久平和",
+          "軍事的平和と積極的平和",
+          "人間の安全保障と積極的平和"
+        ]
+      }
+    }
+  ]
+}

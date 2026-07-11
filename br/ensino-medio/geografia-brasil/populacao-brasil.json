@@ -1,0 +1,432 @@
+{
+  "id": "br-ensino-medio-geografia-brasil-populacao-brasil",
+  "title": "População brasileira",
+  "emoji": "👪",
+  "subject": "geography",
+  "country": "br",
+  "courseDescription": "A formação, a distribuição e a estrutura da população do Brasil: crescimento, migrações internas, envelhecimento e diversidade.",
+  "lesson": "<style>\n  /* Estilos dos gráficos (SVG). Usam currentColor (texto) e var(--accent)\n     (cor da matéria), adaptando-se ao tema claro/escuro do app. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>População brasileira</h1>\n\n<div class=\"callout\">\n  <strong>Pontos de estudo</strong><br>\n  <b>Nível:</b> Ensino Médio<br>\n  <b>Área:</b> Geografia do Brasil<br>\n  <b>Tema:</b> formação, distribuição e estrutura da população\n</div>\n\n<blockquote>\n  <p><b>Questão central.</b> Por que a população brasileira é tão numerosa, tão diversa e, ao mesmo tempo, tão desigualmente distribuída?</p>\n</blockquote>\n\n<p>O Brasil é <strong>muito populoso</strong>, mas com população <strong>desigualmente distribuída</strong> (concentrada no litoral e no Sudeste). Formada por <strong>indígenas, africanos e europeus</strong> e ampliada por imigrantes, ela cresceu com as <strong>migrações internas</strong> e hoje caminha para o <strong>envelhecimento</strong>.</p>\n\n<h2>1 · Distribuição: populoso, mas pouco povoado</h2>\n\n<p>Com mais de 200 milhões de habitantes, o Brasil é <strong>populoso</strong>. Mas, num território enorme, sua <strong>densidade</strong> média é baixa: é <strong>pouco povoado</strong>. E a distribuição é <strong>desigual</strong> — cheia no litoral e no Sudeste, vazia na Amazônia.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"Diferença entre país populoso e país povoado no caso brasileiro\">\n  <rect x=\"12\" y=\"24\" width=\"150\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"46\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Populoso</text>\n  <text x=\"87\" y=\"68\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">+ de 200 milhões</text>\n  <text x=\"87\" y=\"86\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">(população total)</text>\n  <rect x=\"178\" y=\"24\" width=\"150\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"46\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Pouco povoado</text>\n  <text x=\"253\" y=\"68\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">baixa densidade</text>\n  <text x=\"253\" y=\"86\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">(hab/km²)</text>\n</svg>\n<figcaption>Muita gente no total, mas espalhada por um território imenso.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Conceito · Formação da população</strong><br>\n  A base é a miscigenação de <b>indígenas</b>, <b>africanos</b> escravizados e <b>europeus</b> (portugueses). Depois de 1870, imigrantes (italianos, japoneses, alemães, árabes...) ampliaram a diversidade.\n</div>\n\n<h2>2 · As migrações internas</h2>\n\n<p>O grande fluxo do século XX foi o <strong>êxodo rural</strong> (campo → cidade), que urbanizou o país. Entre regiões, destacou-se a migração do <strong>Nordeste para o Sudeste</strong>, em busca de trabalho. Hoje cresce a <strong>migração de retorno</strong>.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"Os principais fluxos de migração interna no Brasil\">\n  <defs>\n    <marker id=\"ar-bpop1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"14\" y=\"40\" width=\"90\" height=\"40\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"59\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Campo</text>\n  <text x=\"59\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">(êxodo rural)</text>\n  <path d=\"M104,60 L140,60\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bpop1)\"/>\n  <rect x=\"144\" y=\"40\" width=\"90\" height=\"40\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.2\"/>\n  <text x=\"189\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Cidade</text>\n  <text x=\"189\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">(Sudeste)</text>\n  <path d=\"M234,60 L270,60\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bpop1)\"/>\n  <rect x=\"274\" y=\"40\" width=\"56\" height=\"40\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.2\"/>\n  <text x=\"302\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">Retorno</text>\n  <text x=\"302\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"7.5\">(volta à origem)</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">do campo à cidade — e, hoje, de volta</text>\n  <text x=\"170\" y=\"100\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">grande fluxo: Nordeste → Sudeste</text>\n</svg>\n<figcaption>Do êxodo rural ao fluxo Nordeste-Sudeste, e à recente migração de retorno.</figcaption>\n</figure>\n\n<h2>3 · A estrutura: um país que envelhece</h2>\n\n<p>O Brasil teve forte queda da <strong>fecundidade</strong> e ganho de <strong>expectativa de vida</strong>. A população vive hoje um <strong>bônus demográfico</strong> (muitos adultos ativos), mas caminha rapidamente para o <strong>envelhecimento</strong>, como os países desenvolvidos.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"A mudança da pirâmide etária brasileira, de base larga a base estreita\">\n  <defs>\n    <marker id=\"ar-bpop2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"70\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">antes (jovem)</text>\n  <polygon points=\"70,24 108,110 32,110\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"70\" y=\"124\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">base larga</text>\n  <path d=\"M128,68 L162,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bpop2)\"/>\n  <text x=\"145\" y=\"60\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">envelhece</text>\n  <text x=\"270\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">hoje (envelhecendo)</text>\n  <polygon points=\"242,24 298,24 288,68 280,110 260,110 252,68\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"270\" y=\"124\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">base estreita</text>\n</svg>\n<figcaption>A pirâmide brasileira estreita a base: menos crianças, mais idosos.</figcaption>\n</figure>\n\n<h2>4 · Desigualdade e indicadores</h2>\n\n<p>Apesar de um <strong>IDH</strong> alto, o país é marcado pela <strong>desigualdade social</strong> e regional: o Sudeste e o Sul têm índices melhores que o Norte e o Nordeste. O <strong>IBGE</strong> mede a população pelo <strong>Censo</strong>, feito a cada 10 anos.</p>\n\n<h2>O essencial</h2>\n\n<h3>População em números</h3>\n\n<table>\n  <tr><th>Aspecto</th><th>Marca brasileira</th></tr>\n  <tr><td>Total</td><td>Muito populoso (+200 milhões)</td></tr>\n  <tr><td>Densidade</td><td>Baixa e desigual (pouco povoado)</td></tr>\n  <tr><td>Urbanização</td><td>Mais de 80% urbana</td></tr>\n  <tr><td>Estrutura</td><td>Envelhecendo (bônus demográfico)</td></tr>\n</table>\n\n<h3>Termos-chave</h3>\n\n<table>\n  <tr><th>Termo</th><th>Significado</th></tr>\n  <tr><td>Populoso</td><td>Grande população total</td></tr>\n  <tr><td>Povoado</td><td>Alta densidade (hab/km²)</td></tr>\n  <tr><td>Êxodo rural</td><td>Migração campo → cidade</td></tr>\n  <tr><td>Migração de retorno</td><td>Volta do migrante à origem</td></tr>\n  <tr><td>IDH</td><td>Renda + educação + saúde</td></tr>\n</table>\n\n<h3>Formação e fluxos</h3>\n\n<table>\n  <tr><th>Item</th><th>Detalhe</th></tr>\n  <tr><td>Base da população</td><td>Indígenas, africanos, europeus</td></tr>\n  <tr><td>Imigrantes</td><td>Italianos, japoneses, alemães, árabes</td></tr>\n  <tr><td>Maior fluxo interno</td><td>Nordeste → Sudeste</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  O Brasil é <b>populoso</b> (muita gente), mas <b>pouco povoado</b> (baixa densidade) — não confunda os dois. E a densidade <b>não</b> é uniforme: é alta no litoral/Sudeste e baixíssima na Amazônia.\n</div>\n\n<blockquote>\n  <p>A diversidade é a maior riqueza do povo brasileiro. O desafio das próximas décadas será reduzir as desigualdades e preparar-se para uma população que envelhece.</p>\n</blockquote>\n",
+  "questionLang": "pt",
+  "answerLang": "pt",
+  "version": 1,
+  "level": "Ensino Médio",
+  "theme": "Geografia do Brasil",
+  "cards": [
+    {
+      "recto": "Como a população brasileira está distribuída pelo território?",
+      "verso": "De forma desigual, concentrada no litoral e no Sudeste",
+      "explanation": "A ocupação começou no litoral (colonização) e ali se concentrou. O interior e a Amazônia são pouco povoados. A distribuição é muito irregular.",
+      "tags": [
+        "populacao-brasil",
+        "distribuicao"
+      ],
+      "distractors": {
+        "easy": [
+          "De forma perfeitamente uniforme",
+          "só no interior",
+          "só na Amazônia"
+        ],
+        "medium": [
+          "Concentrada no Centro-Oeste",
+          "igualmente em todas as regiões",
+          "só na fronteira oeste"
+        ],
+        "hard": [
+          "Concentrada no extremo Norte",
+          "uniforme em todo o litoral e interior",
+          "apenas no semiárido"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] O Brasil é um país populoso ou povoado?",
+      "verso": "É muito populoso (grande população total), mas pouco povoado (baixa densidade média)",
+      "explanation": "Populoso = muita gente no total (mais de 200 milhões). Povoado = alta densidade (hab/km²). O Brasil tem muita gente, mas espalhada num território enorme.",
+      "tags": [
+        "comparaison",
+        "populacao-brasil"
+      ],
+      "distractors": {
+        "easy": [
+          "É pouco populoso e muito povoado",
+          "Não é nem populoso nem povoado",
+          "É igualmente povoado em todo o país"
+        ],
+        "medium": [
+          "É muito povoado e pouco populoso",
+          "É o país mais densamente povoado do mundo",
+          "Tem população pequena e densa"
+        ],
+        "hard": [
+          "É populoso e densamente povoado por igual",
+          "Tem baixa população e alta densidade",
+          "É povoado só por ser pequeno"
+        ]
+      }
+    },
+    {
+      "recto": "Grande movimento migratório interno do século XX, do campo para a cidade.",
+      "verso": "O êxodo rural",
+      "explanation": "Entre 1950 e 1980, milhões saíram do campo para as cidades, tornando o Brasil um país majoritariamente urbano. Foi o principal fluxo migratório interno.",
+      "tags": [
+        "populacao-brasil",
+        "migracoes"
+      ],
+      "distractors": {
+        "easy": [
+          "O turismo internacional",
+          "a imigração europeia",
+          "a volta ao campo em massa"
+        ],
+        "medium": [
+          "A migração pendular apenas",
+          "a transumância",
+          "a emigração para a Europa"
+        ],
+        "hard": [
+          "A contraurbanização",
+          "a migração de retorno apenas",
+          "o nomadismo"
+        ]
+      }
+    },
+    {
+      "recto": "Principal fluxo de migração interna entre regiões no século XX, ligado à busca de trabalho.",
+      "verso": "A migração do Nordeste para o Sudeste",
+      "explanation": "Nordestinos migraram para São Paulo e Rio em busca de emprego na indústria. Foi o maior fluxo inter-regional, embora hoje haja também migração de retorno.",
+      "tags": [
+        "populacao-brasil",
+        "migracoes"
+      ],
+      "distractors": {
+        "easy": [
+          "Do Sudeste para a Europa",
+          "do Sul para o exterior",
+          "do Norte para a Antártida"
+        ],
+        "medium": [
+          "Do Sudeste para o Nordeste",
+          "do Sul para o Nordeste",
+          "do Centro-Oeste para o Norte"
+        ],
+        "hard": [
+          "Do Nordeste para o exterior apenas",
+          "do Sudeste para o Centro-Oeste",
+          "do Norte para o Sul"
+        ]
+      }
+    },
+    {
+      "recto": "Retorno de migrantes às suas regiões de origem, fenômeno crescente nas últimas décadas.",
+      "verso": "A migração de retorno",
+      "explanation": "Com o desenvolvimento do Nordeste e a crise nas metrópoles, muitos migrantes voltaram à sua terra natal. Inverte, em parte, o fluxo Nordeste-Sudeste.",
+      "tags": [
+        "populacao-brasil",
+        "migracoes"
+      ],
+      "distractors": {
+        "easy": [
+          "O êxodo rural",
+          "a emigração internacional",
+          "a imigração europeia"
+        ],
+        "medium": [
+          "A migração pendular",
+          "a migração sazonal apenas",
+          "a transumância"
+        ],
+        "hard": [
+          "A contraurbanização total",
+          "o nomadismo",
+          "a migração forçada"
+        ]
+      }
+    },
+    {
+      "recto": "Que tendência marca a estrutura etária da população brasileira nas últimas décadas?",
+      "verso": "O envelhecimento (queda da natalidade e aumento da expectativa de vida)",
+      "explanation": "O Brasil teve forte queda na fecundidade e vive mais. A pirâmide etária, antes de base larga, vem estreitando a base e alargando o topo.",
+      "tags": [
+        "populacao-brasil",
+        "estrutura"
+      ],
+      "distractors": {
+        "easy": [
+          "O rejuvenescimento acelerado",
+          "a explosão de nascimentos",
+          "o fim da população"
+        ],
+        "medium": [
+          "A altíssima natalidade",
+          "o aumento da mortalidade infantil",
+          "a queda da expectativa de vida"
+        ],
+        "hard": [
+          "A base cada vez mais larga",
+          "o topo cada vez mais estreito",
+          "a estabilidade total da pirâmide"
+        ]
+      }
+    },
+    {
+      "recto": "Período atual em que o Brasil tem muitos adultos em idade de trabalhar e poucos dependentes.",
+      "verso": "O bônus demográfico",
+      "explanation": "Fase da transição demográfica com grande população ativa. É uma janela de oportunidade econômica, mas temporária: depois vem o envelhecimento.",
+      "tags": [
+        "populacao-brasil",
+        "estrutura"
+      ],
+      "distractors": {
+        "easy": [
+          "O êxodo rural",
+          "a explosão demográfica",
+          "a desertificação"
+        ],
+        "medium": [
+          "O inverno demográfico",
+          "a transição urbana",
+          "o ônus demográfico"
+        ],
+        "hard": [
+          "A razão de dependência máxima",
+          "o bônus migratório",
+          "a pirâmide de base larga"
+        ]
+      }
+    },
+    {
+      "recto": "Três grupos que formaram a base da população brasileira ao longo da história.",
+      "verso": "Indígenas, africanos e europeus (portugueses)",
+      "explanation": "A miscigenação entre povos originários, africanos escravizados e colonizadores europeus formou a diversidade da população brasileira. Depois vieram outros imigrantes.",
+      "tags": [
+        "populacao-brasil",
+        "formacao"
+      ],
+      "distractors": {
+        "easy": [
+          "Chineses, russos e árabes",
+          "japoneses, alemães e indianos",
+          "franceses, ingleses e gregos"
+        ],
+        "medium": [
+          "Espanhóis, italianos e sírios",
+          "indígenas, chineses e ingleses",
+          "africanos, japoneses e russos"
+        ],
+        "hard": [
+          "Portugueses, holandeses e franceses",
+          "indígenas, europeus e asiáticos apenas",
+          "africanos, europeus e árabes"
+        ]
+      }
+    },
+    {
+      "recto": "Povos que, além dos três grupos formadores, vieram para o Brasil sobretudo entre 1870 e 1930.",
+      "verso": "Os imigrantes (italianos, japoneses, alemães, árabes...)",
+      "explanation": "Após o fim da escravidão, o Brasil recebeu imigrantes para trabalhar na lavoura de café e depois na indústria. Aumentaram a diversidade da população.",
+      "tags": [
+        "populacao-brasil",
+        "formacao"
+      ],
+      "distractors": {
+        "easy": [
+          "Nenhum outro povo veio",
+          "apenas indígenas",
+          "apenas africanos"
+        ],
+        "medium": [
+          "Só portugueses",
+          "só espanhóis",
+          "só ingleses"
+        ],
+        "hard": [
+          "Apenas franceses e holandeses",
+          "só norte-americanos",
+          "apenas povos andinos"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] A alta densidade demográfica do Brasil é uniforme em todo o território?",
+      "verso": "Não; a densidade é muito irregular, alta no litoral/Sudeste e baixa no interior/Norte",
+      "explanation": "Erro comum. A média nacional esconde enormes diferenças: o Sudeste é densamente povoado; a Amazônia é quase vazia. A distribuição é desigual.",
+      "tags": [
+        "piege",
+        "populacao-brasil"
+      ],
+      "distractors": {
+        "easy": [
+          "Sim, é uniforme em todo o país",
+          "Sim, todos os estados têm a mesma densidade",
+          "Sim, o interior é o mais denso"
+        ],
+        "medium": [
+          "Sim, é alta e igual em toda parte",
+          "Sim, a Amazônia é a mais povoada",
+          "Não, mas é uniforme no interior"
+        ],
+        "hard": [
+          "Sim, o Norte é o mais denso",
+          "Sim, com pequenas variações apenas",
+          "Não, mas o litoral é o menos povoado"
+        ]
+      }
+    },
+    {
+      "recto": "Índice que mede o desenvolvimento de um país combinando renda, educação e saúde.",
+      "verso": "O IDH (Índice de Desenvolvimento Humano)",
+      "explanation": "Vai de 0 a 1. O Brasil tem IDH alto, mas com grandes desigualdades internas: o Sudeste e o Sul têm índices maiores que o Norte e o Nordeste.",
+      "tags": [
+        "populacao-brasil",
+        "indicadores"
+      ],
+      "distractors": {
+        "easy": [
+          "O PIB apenas",
+          "a taxa de natalidade",
+          "a densidade demográfica"
+        ],
+        "medium": [
+          "O saldo migratório",
+          "a taxa de fecundidade",
+          "o crescimento vegetativo"
+        ],
+        "hard": [
+          "O coeficiente de Gini apenas",
+          "a renda per capita apenas",
+          "a expectativa de vida isolada"
+        ]
+      }
+    },
+    {
+      "recto": "Marca social profunda da população brasileira, visível na diferença de renda entre grupos e regiões.",
+      "verso": "A desigualdade social",
+      "explanation": "O Brasil combina riqueza e pobreza extremas. A concentração de renda e as diferenças regionais são desafios centrais da população brasileira.",
+      "tags": [
+        "populacao-brasil",
+        "sociedade"
+      ],
+      "distractors": {
+        "easy": [
+          "A igualdade total",
+          "a ausência de classes",
+          "a homogeneidade de renda"
+        ],
+        "medium": [
+          "A distribuição perfeita de renda",
+          "a uniformidade regional",
+          "o equilíbrio social pleno"
+        ],
+        "hard": [
+          "A mobilidade social absoluta",
+          "a renda idêntica entre regiões",
+          "a inexistência de pobreza"
+        ]
+      }
+    },
+    {
+      "recto": "Órgão responsável por realizar o censo e produzir as estatísticas oficiais da população brasileira.",
+      "verso": "O IBGE",
+      "explanation": "Instituto Brasileiro de Geografia e Estatística. Faz o Censo Demográfico (a cada 10 anos) e organiza os dados de população, economia e território.",
+      "tags": [
+        "populacao-brasil",
+        "instituicoes"
+      ],
+      "distractors": {
+        "easy": [
+          "O IBAMA",
+          "o INSS",
+          "a Petrobras"
+        ],
+        "medium": [
+          "O INCRA",
+          "a Embrapa",
+          "o TSE"
+        ],
+        "hard": [
+          "O IPEA apenas",
+          "a Fundação Getúlio Vargas",
+          "o DIEESE"
+        ]
+      }
+    },
+    {
+      "recto": "Parcela da população que está trabalhando ou em busca de trabalho.",
+      "verso": "A população economicamente ativa (PEA)",
+      "explanation": "Inclui empregados e desempregados que procuram emprego. Cresce com o bônus demográfico. Sua distribuição por setores mostra o perfil da economia.",
+      "tags": [
+        "populacao-brasil",
+        "trabalho"
+      ],
+      "distractors": {
+        "easy": [
+          "A população total",
+          "apenas os aposentados",
+          "apenas as crianças"
+        ],
+        "medium": [
+          "A população urbana apenas",
+          "os inativos",
+          "apenas os estudantes"
+        ],
+        "hard": [
+          "A população rural apenas",
+          "os menores de idade",
+          "os desempregados que desistiram de procurar"
+        ]
+      }
+    },
+    {
+      "recto": "De modo geral, para onde caminha a população brasileira em termos de estrutura etária?",
+      "verso": "Para o envelhecimento, como já ocorre nos países desenvolvidos",
+      "explanation": "Com menos filhos e vida mais longa, o Brasil envelhece rapidamente. Isso trará desafios para a previdência e a saúde nas próximas décadas.",
+      "tags": [
+        "populacao-brasil",
+        "sintese"
+      ],
+      "distractors": {
+        "easy": [
+          "Para a explosão de nascimentos",
+          "para o rejuvenescimento",
+          "para a estabilidade eterna"
+        ],
+        "medium": [
+          "Para altíssima natalidade",
+          "para muitas crianças e poucos idosos",
+          "para o fim do envelhecimento"
+        ],
+        "hard": [
+          "Para uma pirâmide de base cada vez mais larga",
+          "para a queda da expectativa de vida",
+          "para o aumento da mortalidade infantil"
+        ]
+      }
+    },
+    {
+      "recto": "Fenômeno que tornou o Brasil um país majoritariamente urbano na segunda metade do século XX.",
+      "verso": "A urbanização (impulsionada pelo êxodo rural)",
+      "explanation": "Em poucas décadas, a maioria da população passou a viver em cidades. Hoje mais de 80% dos brasileiros são urbanos. Foi uma urbanização rápida.",
+      "tags": [
+        "populacao-brasil",
+        "urbanizacao"
+      ],
+      "distractors": {
+        "easy": [
+          "A ruralização",
+          "a volta ao campo",
+          "o esvaziamento das cidades"
+        ],
+        "medium": [
+          "A desurbanização",
+          "a estagnação urbana",
+          "a migração para o exterior"
+        ],
+        "hard": [
+          "A contraurbanização dominante",
+          "a rurbanização geral",
+          "o predomínio rural crescente"
+        ]
+      }
+    }
+  ]
+}

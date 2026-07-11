@@ -1,0 +1,432 @@
+{
+  "id": "br-ensino-medio-geografia-brasil-questao-agraria",
+  "title": "Questão agrária e agronegócio",
+  "emoji": "🌾",
+  "subject": "geography",
+  "country": "br",
+  "courseDescription": "A estrutura fundiária concentrada, a reforma agrária, o agronegócio e a agricultura familiar no campo brasileiro.",
+  "lesson": "<style>\n  /* Estilos dos gráficos (SVG). Usam currentColor (texto) e var(--accent)\n     (cor da matéria), adaptando-se ao tema claro/escuro do app. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Questão agrária e agronegócio</h1>\n\n<div class=\"callout\">\n  <strong>Pontos de estudo</strong><br>\n  <b>Nível:</b> Ensino Médio<br>\n  <b>Área:</b> Geografia do Brasil<br>\n  <b>Tema:</b> terra, agronegócio e agricultura familiar\n</div>\n\n<blockquote>\n  <p><b>Questão central.</b> Por que um país que exporta tanto alimento ainda tem uma disputa tão grande pela terra?</p>\n</blockquote>\n\n<p>A <strong>estrutura fundiária</strong> brasileira é muito <strong>concentrada</strong> (poucos donos, muitas terras), herança da colonização. De um lado, o <strong>agronegócio</strong> exportador; de outro, a demanda por <strong>reforma agrária</strong> e a <strong>agricultura familiar</strong>, que alimenta a mesa dos brasileiros.</p>\n\n<h2>1 · A concentração da terra</h2>\n\n<p>Desde as sesmarias coloniais, a terra é mal distribuída: grandes <strong>latifúndios</strong> convivem com pequenos <strong>minifúndios</strong> e milhões de <strong>sem-terra</strong>. Essa concentração é a raiz da <strong>questão agrária</strong> e das lutas por <strong>reforma agrária</strong>.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"A concentração fundiária: poucos latifúndios ocupam a maior parte das terras\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">a terra no Brasil</text>\n  <rect x=\"20\" y=\"26\" width=\"130\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.20;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"85\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Latifúndios</text>\n  <text x=\"85\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">poucos donos</text>\n  <text x=\"85\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">muitas terras</text>\n  <rect x=\"164\" y=\"46\" width=\"156\" height=\"60\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.08;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"242\" y=\"70\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Minifúndios e sem-terra</text>\n  <text x=\"242\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">muitos, com pouca ou nenhuma terra</text>\n</svg>\n<figcaption>Poucos concentram grandes áreas; muitos disputam o pouco que resta.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Conceito · Reforma agrária</strong><br>\n  Política de <b>redistribuição de terras</b> para reduzir a concentração fundiária, dividindo grandes propriedades improdutivas e assentando famílias sem-terra. O <b>INCRA</b> a executa; o <b>MST</b> a reivindica.\n</div>\n\n<h2>2 · O agronegócio</h2>\n\n<p>O <strong>agronegócio</strong> integra produção, indústria e comércio de <strong>commodities</strong> (soja, milho, carne, açúcar). Moderno e mecanizado — fruto da <strong>Revolução Verde</strong> —, é um dos motores das <strong>exportações</strong> brasileiras. Sua fronteira avança sobre o cerrado (<strong>MATOPIBA</strong>).</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"O agronegócio como cadeia da produção à exportação de commodities\">\n  <defs>\n    <marker id=\"ar-bagr1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"86\" height=\"44\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.2\"/>\n  <text x=\"51\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Insumos</text>\n  <text x=\"51\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">máquinas, adubos</text>\n  <path d=\"M94,64 L110,64\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bagr1)\"/>\n  <rect x=\"114\" y=\"42\" width=\"80\" height=\"44\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"154\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Produção</text>\n  <text x=\"154\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">soja, carne</text>\n  <path d=\"M194,64 L210,64\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bagr1)\"/>\n  <rect x=\"214\" y=\"42\" width=\"80\" height=\"44\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"254\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Indústria</text>\n  <text x=\"254\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">processamento</text>\n  <path d=\"M294,64 L308,64\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bagr1)\"/>\n  <rect x=\"300\" y=\"30\" width=\"34\" height=\"68\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.2\"/>\n  <text x=\"317\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\" transform=\"rotate(90 317 60)\">Exportação</text>\n  <text x=\"170\" y=\"22\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">a cadeia do agronegócio</text>\n</svg>\n<figcaption>Dos insumos à exportação: o agronegócio é uma longa cadeia integrada.</figcaption>\n</figure>\n\n<h2>3 · Agronegócio × agricultura familiar</h2>\n\n<p>São dois mundos. O <strong>agronegócio</strong> produz em <strong>grande escala</strong>, mecanizado, para <strong>exportar</strong>. A <strong>agricultura familiar</strong>, em pequenas propriedades e com mão de obra da família, produz <strong>boa parte dos alimentos</strong> que os brasileiros consomem (feijão, mandioca, hortaliças, leite).</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Comparação entre o agronegócio e a agricultura familiar\">\n  <rect x=\"12\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Agronegócio</text>\n  <text x=\"87\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">grande escala</text>\n  <text x=\"87\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">mecanizado</text>\n  <text x=\"87\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">exportação (commodities)</text>\n  <rect x=\"178\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Agric. familiar</text>\n  <text x=\"253\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">pequena escala</text>\n  <text x=\"253\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">mão de obra familiar</text>\n  <text x=\"253\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">alimenta o mercado interno</text>\n</svg>\n<figcaption>Dois modelos que convivem: exportar commodities e alimentar o país.</figcaption>\n</figure>\n\n<h2>4 · Conflitos no campo</h2>\n\n<p>A expansão da fronteira agrícola gera <strong>conflitos por terra</strong>, <strong>grilagem</strong> (apropriação ilegal) e <strong>desmatamento</strong>. O <strong>MST</strong> ocupa terras improdutivas para pressionar por <strong>assentamentos</strong>. A tensão entre agronegócio e reforma agrária define o campo brasileiro.</p>\n\n<h2>O essencial</h2>\n\n<h3>O campo em números</h3>\n\n<table>\n  <tr><th>Aspecto</th><th>Marca brasileira</th></tr>\n  <tr><td>Estrutura fundiária</td><td>Muito concentrada</td></tr>\n  <tr><td>Agronegócio</td><td>Grande peso nas exportações</td></tr>\n  <tr><td>Principal commodity</td><td>Soja (sobretudo para a China)</td></tr>\n  <tr><td>Agricultura familiar</td><td>Boa parte dos alimentos internos</td></tr>\n</table>\n\n<h3>Termos-chave</h3>\n\n<table>\n  <tr><th>Termo</th><th>Significado</th></tr>\n  <tr><td>Latifúndio</td><td>Grande propriedade concentrada</td></tr>\n  <tr><td>Reforma agrária</td><td>Redistribuição de terras</td></tr>\n  <tr><td>Agronegócio</td><td>Cadeia produção-indústria-comércio</td></tr>\n  <tr><td>Revolução Verde</td><td>Modernização técnica do campo</td></tr>\n  <tr><td>Grilagem</td><td>Apropriação ilegal de terras</td></tr>\n</table>\n\n<h3>Atores e órgãos</h3>\n\n<table>\n  <tr><th>Sigla</th><th>Papel</th></tr>\n  <tr><td>INCRA</td><td>Executa a reforma agrária</td></tr>\n  <tr><td>MST</td><td>Movimento dos sem-terra</td></tr>\n  <tr><td>MATOPIBA</td><td>Nova fronteira agrícola (cerrado)</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  Boa parte dos alimentos da mesa brasileira vem da <b>agricultura familiar</b>, não do agronegócio de exportação (que produz commodities como soja e carne). Não confunda os dois modelos: escala, mão de obra e destino são diferentes.\n</div>\n\n<blockquote>\n  <p>O campo brasileiro é campeão de exportações e, ao mesmo tempo, palco de conflitos por terra. Conciliar produção, justiça social e meio ambiente é o grande desafio da questão agrária.</p>\n</blockquote>\n",
+  "questionLang": "pt",
+  "answerLang": "pt",
+  "version": 1,
+  "level": "Ensino Médio",
+  "theme": "Geografia do Brasil",
+  "cards": [
+    {
+      "recto": "Como é a distribuição das terras (estrutura fundiária) no Brasil?",
+      "verso": "Muito concentrada (poucos donos com muitas terras)",
+      "explanation": "Herança da colonização (sesmarias, latifúndios), a terra é mal distribuída: grandes propriedades convivem com muitos pequenos e sem-terra. É a raiz da questão agrária.",
+      "tags": [
+        "questao-agraria",
+        "estrutura"
+      ],
+      "distractors": {
+        "easy": [
+          "Perfeitamente igualitária",
+          "sem nenhum grande proprietário",
+          "toda estatal"
+        ],
+        "medium": [
+          "Dividida em minifúndios iguais",
+          "distribuída por igual entre todos",
+          "só de pequenas propriedades"
+        ],
+        "hard": [
+          "Concentrada apenas no litoral",
+          "igualitária desde a colônia",
+          "estatizada na maior parte"
+        ]
+      }
+    },
+    {
+      "recto": "Grande propriedade rural, muitas vezes ligada à monocultura de exportação.",
+      "verso": "O latifúndio",
+      "explanation": "Símbolo da concentração de terras. Historicamente ligado à monocultura (café, cana, soja) para exportação. Opõe-se ao minifúndio (pequena propriedade).",
+      "tags": [
+        "questao-agraria",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "O minifúndio",
+          "o apartamento",
+          "a favela"
+        ],
+        "medium": [
+          "A agricultura familiar",
+          "o assentamento",
+          "a horta comunitária"
+        ],
+        "hard": [
+          "O sítio de subsistência",
+          "a reserva extrativista",
+          "a pequena propriedade"
+        ]
+      }
+    },
+    {
+      "recto": "Política de redistribuição de terras para reduzir a concentração fundiária.",
+      "verso": "A reforma agrária",
+      "explanation": "Busca dividir grandes propriedades improdutivas e assentar famílias sem-terra. É uma demanda histórica, defendida por movimentos como o MST.",
+      "tags": [
+        "questao-agraria",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "A reforma urbana",
+          "a privatização das terras",
+          "o fim da agricultura"
+        ],
+        "medium": [
+          "A concentração fundiária",
+          "a expansão do latifúndio",
+          "a reforma trabalhista"
+        ],
+        "hard": [
+          "A reforma tributária",
+          "a colonização dirigida apenas",
+          "a grilagem legalizada"
+        ]
+      }
+    },
+    {
+      "recto": "Principal movimento social do campo que luta pela reforma agrária no Brasil.",
+      "verso": "O MST (Movimento dos Trabalhadores Rurais Sem Terra)",
+      "explanation": "Organiza ocupações de terras improdutivas para pressionar por assentamentos. É o maior movimento social ligado à questão agrária no país.",
+      "tags": [
+        "questao-agraria",
+        "atores"
+      ],
+      "distractors": {
+        "easy": [
+          "O IBGE",
+          "a Petrobras",
+          "a OTAN"
+        ],
+        "medium": [
+          "A CUT apenas",
+          "o INCRA",
+          "a Embrapa"
+        ],
+        "hard": [
+          "A CONTAG apenas",
+          "a UDR",
+          "o MTST urbano"
+        ]
+      }
+    },
+    {
+      "recto": "Órgão federal responsável por executar a reforma agrária e regularizar terras.",
+      "verso": "O INCRA",
+      "explanation": "Instituto Nacional de Colonização e Reforma Agrária. Desapropria terras improdutivas, cria assentamentos e regulariza a posse da terra.",
+      "tags": [
+        "questao-agraria",
+        "instituicoes"
+      ],
+      "distractors": {
+        "easy": [
+          "O IBAMA",
+          "o IBGE",
+          "o INSS"
+        ],
+        "medium": [
+          "A Embrapa",
+          "a ANA",
+          "o MST"
+        ],
+        "hard": [
+          "A Funai",
+          "o ICMBio",
+          "a CONAB apenas"
+        ]
+      }
+    },
+    {
+      "recto": "Cadeia produtiva que vai da produção agrícola à indústria e ao comércio, voltada em grande parte à exportação.",
+      "verso": "O agronegócio (agrobusiness)",
+      "explanation": "Integra produção, insumos, indústria e comércio de commodities (soja, milho, carne, açúcar). É moderno, mecanizado e um dos motores das exportações brasileiras.",
+      "tags": [
+        "questao-agraria",
+        "agronegocio"
+      ],
+      "distractors": {
+        "easy": [
+          "A agricultura de subsistência",
+          "o extrativismo indígena",
+          "a horta caseira"
+        ],
+        "medium": [
+          "A agricultura familiar apenas",
+          "o escambo rural",
+          "a pesca artesanal"
+        ],
+        "hard": [
+          "A economia de subsistência colonial",
+          "o extrativismo vegetal apenas",
+          "a lavoura comunitária"
+        ]
+      }
+    },
+    {
+      "recto": "Principal produto de exportação do agronegócio brasileiro, cultivado em grandes áreas.",
+      "verso": "A soja",
+      "explanation": "O Brasil é um dos maiores produtores e exportadores mundiais de soja, sobretudo para a China. Sua expansão avança sobre o Cerrado e a Amazônia.",
+      "tags": [
+        "questao-agraria",
+        "agronegocio"
+      ],
+      "distractors": {
+        "easy": [
+          "A uva",
+          "a maçã",
+          "o morango"
+        ],
+        "medium": [
+          "O trigo",
+          "a batata",
+          "o feijão"
+        ],
+        "hard": [
+          "A cevada",
+          "o centeio",
+          "a mandioca de exportação"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] Qual a diferença entre o agronegócio e a agricultura familiar?",
+      "verso": "Agronegócio: grande escala, mecanizado, para exportação; familiar: pequena escala, mão de obra familiar, alimenta o mercado interno",
+      "explanation": "O agronegócio produz commodities em larga escala para exportar. A agricultura familiar, em pequenas propriedades, produz boa parte dos alimentos consumidos no Brasil.",
+      "tags": [
+        "comparaison",
+        "questao-agraria"
+      ],
+      "distractors": {
+        "easy": [
+          "São exatamente a mesma coisa",
+          "Familiar exporta tudo; agronegócio não produz",
+          "Ambos são de subsistência"
+        ],
+        "medium": [
+          "Agronegócio: pequena escala; familiar: exportação",
+          "Ambos usam só mão de obra familiar",
+          "Familiar é mecanizado; agronegócio é manual"
+        ],
+        "hard": [
+          "Agronegócio: mercado interno; familiar: exportação",
+          "Ambos produzem só commodities",
+          "Familiar é de larga escala; agronegócio é pequeno"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] A maior parte dos alimentos consumidos pelos brasileiros vem do agronegócio de exportação?",
+      "verso": "Não; boa parte dos alimentos da mesa vem da agricultura familiar",
+      "explanation": "Erro comum. O agronegócio exporta commodities (soja, carne), mas grande parte dos alimentos básicos (feijão, mandioca, hortaliças, leite) vem da agricultura familiar.",
+      "tags": [
+        "piege",
+        "questao-agraria"
+      ],
+      "distractors": {
+        "easy": [
+          "Sim, tudo vem do agronegócio",
+          "Sim, a familiar não produz alimentos",
+          "Sim, só o latifúndio alimenta o país"
+        ],
+        "medium": [
+          "Sim, a familiar só exporta",
+          "Sim, o agronegócio produz todo o feijão",
+          "Não, mas vem toda de importação"
+        ],
+        "hard": [
+          "Sim, a soja é o alimento básico",
+          "Sim, a familiar produz só para exportar",
+          "Não, mas vem só das grandes fazendas"
+        ]
+      }
+    },
+    {
+      "recto": "Modernização técnica da agricultura (máquinas, agrotóxicos, sementes melhoradas) ocorrida no século XX.",
+      "verso": "A Revolução Verde",
+      "explanation": "Aumentou a produtividade com tecnologia, mas também a dependência de insumos, os impactos ambientais e a concentração de terras. Modernizou o campo.",
+      "tags": [
+        "questao-agraria",
+        "modernizacao"
+      ],
+      "distractors": {
+        "easy": [
+          "A Revolução Industrial",
+          "a Revolução Francesa",
+          "a Revolução de 1930"
+        ],
+        "medium": [
+          "A reforma agrária",
+          "a Revolução Comercial",
+          "o êxodo rural apenas"
+        ],
+        "hard": [
+          "A Revolução Neolítica",
+          "a mecanização colonial",
+          "a Revolução dos Transportes"
+        ]
+      }
+    },
+    {
+      "recto": "Área de expansão recente do agronegócio no cerrado do Nordeste e Centro-Norte do país.",
+      "verso": "O MATOPIBA (Maranhão, Tocantins, Piauí e Bahia)",
+      "explanation": "Nova fronteira agrícola da soja no cerrado desses estados. Símbolo do avanço do agronegócio, com impactos ambientais e conflitos por terra.",
+      "tags": [
+        "questao-agraria",
+        "fronteira"
+      ],
+      "distractors": {
+        "easy": [
+          "O litoral do Sudeste",
+          "a região metropolitana de São Paulo",
+          "a Zona da Mata"
+        ],
+        "medium": [
+          "O Pampa gaúcho",
+          "o Vale do Paraíba",
+          "a Serra do Mar"
+        ],
+        "hard": [
+          "O Cerrado mineiro apenas",
+          "o Pantanal",
+          "a Amazônia oriental apenas"
+        ]
+      }
+    },
+    {
+      "recto": "Terras assentadas onde famílias sem-terra passam a produzir após a reforma agrária.",
+      "verso": "Os assentamentos rurais",
+      "explanation": "Criados pelo INCRA em terras desapropriadas, dão acesso à terra a famílias antes sem-terra. São o resultado concreto da reforma agrária.",
+      "tags": [
+        "questao-agraria",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "Os latifúndios",
+          "os condomínios de luxo",
+          "os shoppings rurais"
+        ],
+        "medium": [
+          "As grandes fazendas de soja",
+          "os distritos industriais",
+          "as reservas indígenas"
+        ],
+        "hard": [
+          "As fazendas de monocultura",
+          "os parques nacionais",
+          "as zonas francas"
+        ]
+      }
+    },
+    {
+      "recto": "Ocupação ilegal e apropriação fraudulenta de terras, comum na expansão da fronteira agrícola.",
+      "verso": "A grilagem de terras",
+      "explanation": "Consiste em falsificar documentos para se apossar de terras públicas ou de terceiros. Alimenta conflitos e o desmatamento na fronteira agrícola.",
+      "tags": [
+        "questao-agraria",
+        "conflitos"
+      ],
+      "distractors": {
+        "easy": [
+          "A reforma agrária",
+          "a compra legal de terras",
+          "a doação de terras"
+        ],
+        "medium": [
+          "O assentamento",
+          "a regularização fundiária",
+          "a desapropriação legal"
+        ],
+        "hard": [
+          "A titulação regular",
+          "a posse mansa e pacífica",
+          "a colonização oficial"
+        ]
+      }
+    },
+    {
+      "recto": "Por que o agronegócio é importante para a economia brasileira?",
+      "verso": "Responde por grande parte das exportações e do PIB do país",
+      "explanation": "As exportações de soja, carne, milho e açúcar geram divisas e superávit comercial. O agronegócio é um dos pilares econômicos do Brasil, apesar das críticas socioambientais.",
+      "tags": [
+        "questao-agraria",
+        "economia"
+      ],
+      "distractors": {
+        "easy": [
+          "Porque não exporta nada",
+          "porque emprega toda a população",
+          "porque não afeta o PIB"
+        ],
+        "medium": [
+          "Porque só produz para consumo interno",
+          "porque importa todos os alimentos",
+          "porque substitui a indústria totalmente"
+        ],
+        "hard": [
+          "Porque gera déficit comercial",
+          "porque depende só do mercado interno",
+          "porque exporta apenas manufaturas"
+        ]
+      }
+    },
+    {
+      "recto": "De modo geral, qual é a grande tensão da questão agrária brasileira?",
+      "verso": "O conflito entre o agronegócio de exportação e a demanda por reforma agrária e agricultura familiar",
+      "explanation": "De um lado, o agronegócio moderno e exportador; de outro, sem-terra e agricultores familiares que reivindicam acesso à terra. Essa tensão define o campo brasileiro.",
+      "tags": [
+        "questao-agraria",
+        "sintese"
+      ],
+      "distractors": {
+        "easy": [
+          "Não há nenhuma tensão no campo",
+          "Todos têm a mesma quantidade de terra",
+          "O campo está totalmente vazio"
+        ],
+        "medium": [
+          "O conflito entre indústrias urbanas",
+          "a disputa entre bancos",
+          "a briga por moradia urbana"
+        ],
+        "hard": [
+          "A disputa entre estados do Sul",
+          "o conflito entre mineradoras apenas",
+          "a tensão entre importadores"
+        ]
+      }
+    },
+    {
+      "recto": "Modelo agrícola de plantar um único produto em grandes extensões de terra.",
+      "verso": "A monocultura",
+      "explanation": "Típica do latifúndio e do agronegócio (soja, cana, café). É produtiva para exportação, mas empobrece o solo e reduz a diversidade da produção de alimentos.",
+      "tags": [
+        "questao-agraria",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "A policultura",
+          "a horta variada",
+          "a agricultura de subsistência diversa"
+        ],
+        "medium": [
+          "A agricultura familiar diversificada",
+          "a rotação de culturas",
+          "o consórcio de plantas"
+        ],
+        "hard": [
+          "A agrofloresta",
+          "o policultivo familiar",
+          "a agricultura de múltiplas espécies"
+        ]
+      }
+    }
+  ]
+}

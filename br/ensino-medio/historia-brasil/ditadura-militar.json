@@ -1,0 +1,484 @@
+{
+  "id": "br-ensino-medio-historia-brasil-ditadura-militar",
+  "title": "A Ditadura Militar (1964-1985)",
+  "emoji": "✊",
+  "subject": "history",
+  "country": "br",
+  "courseDescription": "Do golpe de 1964 à redemocratização. Atos Institucionais, repressão, milagre econômico e a lenta abertura até as Diretas Já.",
+  "lesson": "<style>\n  /* Estilos dos gráficos (SVG). Usam currentColor (texto) e var(--accent)\n     (cor da matéria), adaptando-se ao tema claro/escuro do app. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>A Ditadura Militar (1964-1985)</h1>\n\n<div class=\"callout\">\n  <strong>Pontos de estudo</strong><br>\n  <b>Nível:</b> Ensino Médio<br>\n  <b>Área:</b> História do Brasil<br>\n  <b>Período:</b> 1964 — 1985\n</div>\n\n<blockquote>\n  <p><b>Questão central.</b> Como um regime que crescia economicamente podia, ao mesmo tempo, torturar e censurar?</p>\n</blockquote>\n\n<p>Após o <strong>golpe de 1964</strong>, os militares governaram o Brasil por 21 anos. Usando os <strong>Atos Institucionais</strong> (o mais duro foi o <strong>AI-5</strong>), o regime <strong>reprimiu, censurou e torturou</strong> — os <strong>anos de chumbo</strong> — enquanto o <strong>milagre econômico</strong> crescia. A partir de 1974, uma <strong>abertura</strong> lenta levou às <strong>Diretas Já</strong> e ao fim da ditadura.</p>\n\n<h2>1 · O golpe e o endurecimento</h2>\n\n<p>Em 1964, os militares depuseram <strong>João Goulart</strong>. O regime governou por <strong>Atos Institucionais</strong>, que se sobrepunham à Constituição. O <strong>AI-5</strong> (1968) foi o mais duro: fechou o Congresso, acabou com o habeas corpus político e institucionalizou a repressão.</p>\n\n<div class=\"callout\">\n  <strong>Conceito · Atos Institucionais</strong><br>\n  Decretos que davam poderes excepcionais ao regime, cassando mandatos e direitos. O <b>AI-5</b> foi o símbolo do autoritarismo e abriu os <b>anos de chumbo</b>.\n</div>\n\n<h2>2 · Anos de chumbo: repressão e \"milagre\"</h2>\n\n<p>De 1968 a 1973, o regime combinou duas faces: forte <strong>repressão</strong> (censura, prisões, tortura, exílio) e um <strong>milagre econômico</strong> — crescimento acima de 10% ao ano, grandes obras (a <strong>Transamazônica</strong>) e propaganda ufanista. Mas o milagre <strong>concentrou renda</strong> e gerou dívida externa.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 150\" role=\"img\" aria-label=\"As duas faces dos anos de chumbo: repressão política e milagre econômico\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">os anos de chumbo (1968-1973)</text>\n  <rect x=\"12\" y=\"26\" width=\"150\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">Repressão</text>\n  <text x=\"87\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">AI-5, censura</text>\n  <text x=\"87\" y=\"96\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">prisões e tortura</text>\n  <text x=\"87\" y=\"116\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">exílio, luta armada</text>\n  <rect x=\"178\" y=\"26\" width=\"150\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">Milagre</text>\n  <text x=\"253\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">PIB +10%/ano</text>\n  <text x=\"253\" y=\"96\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">grandes obras</text>\n  <text x=\"253\" y=\"116\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">concentração de renda</text>\n</svg>\n<figcaption>O regime crescia e reprimia ao mesmo tempo: prosperidade e violência lado a lado.</figcaption>\n</figure>\n\n<h2>3 · A abertura e as Diretas Já</h2>\n\n<p>A partir de 1974, o general <strong>Geisel</strong> iniciou uma <strong>abertura</strong> \"lenta, gradual e segura\", controlada pelos próprios militares. Veio a <strong>Lei da Anistia</strong> (1979) e o fim do bipartidarismo. Em 1983-84, o país foi às ruas nas <strong>Diretas Já</strong>, pedindo o voto direto para presidente.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"O caminho da abertura política: distensão de Geisel, Lei da Anistia e Diretas Já\">\n  <defs>\n    <marker id=\"ar-bdm1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"40\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Distensão</text>\n  <text x=\"54\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Geisel, 1974</text>\n  <path d=\"M100,66 L118,66\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bdm1)\"/>\n  <rect x=\"122\" y=\"40\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Lei da Anistia</text>\n  <text x=\"170\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">1979</text>\n  <path d=\"M218,66 L236,66\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bdm1)\"/>\n  <rect x=\"240\" y=\"40\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">Diretas Já</text>\n  <text x=\"286\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">1983-1984</text>\n  <text x=\"170\" y=\"22\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">a ditadura caminha para o fim</text>\n</svg>\n<figcaption>Uma abertura controlada de cima, empurrada pela pressão das ruas.</figcaption>\n</figure>\n\n<p>A emenda das Diretas foi rejeitada, e a eleição de 1985 ainda foi <strong>indireta</strong>: <strong>Tancredo Neves</strong> venceu, mas morreu antes de assumir. Seu vice, <strong>José Sarney</strong>, iniciou a Nova República.</p>\n\n<h2>O essencial</h2>\n\n<h3>Linha do tempo</h3>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 210\" role=\"img\" aria-label=\"Linha do tempo da Ditadura Militar, de 1964 a 1985\">\n  <line x1=\"26\" y1=\"16\" x2=\"26\" y2=\"196\" style=\"stroke:var(--accent);stroke-opacity:.4;stroke-width:2\"/>\n  <circle cx=\"26\" cy=\"24\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"21\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1964</text>\n  <text x=\"40\" y=\"34\" class=\"s-muted\" font-size=\"10\">Golpe militar (deposição de Jango)</text>\n  <circle cx=\"26\" cy=\"62\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"59\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1968</text>\n  <text x=\"40\" y=\"72\" class=\"s-muted\" font-size=\"10\">AI-5 · início dos anos de chumbo</text>\n  <circle cx=\"26\" cy=\"100\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"97\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1974</text>\n  <text x=\"40\" y=\"110\" class=\"s-muted\" font-size=\"10\">Geisel inicia a abertura</text>\n  <circle cx=\"26\" cy=\"138\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"135\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1979</text>\n  <text x=\"40\" y=\"148\" class=\"s-muted\" font-size=\"10\">Lei da Anistia</text>\n  <circle cx=\"26\" cy=\"176\" r=\"5\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"173\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1985</text>\n  <text x=\"40\" y=\"186\" class=\"s-muted\" font-size=\"10\">Fim da ditadura (Tancredo eleito)</text>\n</svg>\n<figcaption>Do golpe ao fim: 21 anos entre repressão, milagre e abertura.</figcaption>\n</figure>\n\n<table>\n  <tr><th>Data</th><th>Acontecimento</th></tr>\n  <tr><td>1964</td><td>Golpe militar</td></tr>\n  <tr><td>1968</td><td>AI-5 (anos de chumbo)</td></tr>\n  <tr><td>1970-73</td><td>Milagre econômico</td></tr>\n  <tr><td>1974</td><td>Início da abertura (Geisel)</td></tr>\n  <tr><td>1979</td><td>Lei da Anistia · fim do bipartidarismo</td></tr>\n  <tr><td>1984</td><td>Diretas Já</td></tr>\n  <tr><td>1985</td><td>Fim da ditadura</td></tr>\n</table>\n\n<h3>Termos-chave</h3>\n\n<table>\n  <tr><th>Termo</th><th>Significado</th></tr>\n  <tr><td>Atos Institucionais</td><td>Decretos com poderes excepcionais</td></tr>\n  <tr><td>AI-5</td><td>Ato mais duro (1968)</td></tr>\n  <tr><td>Anos de chumbo</td><td>Auge da repressão (1968-1973)</td></tr>\n  <tr><td>Milagre econômico</td><td>Crescimento com concentração de renda</td></tr>\n  <tr><td>Abertura</td><td>Retorno gradual à democracia</td></tr>\n  <tr><td>Diretas Já</td><td>Movimento pelo voto direto (1984)</td></tr>\n</table>\n\n<h3>Personagens e marcos</h3>\n\n<table>\n  <tr><th>Nome</th><th>Papel</th></tr>\n  <tr><td>Ernesto Geisel</td><td>Iniciou a abertura política (1974)</td></tr>\n  <tr><td>Lei da Anistia</td><td>Volta de exilados; isentou torturadores</td></tr>\n  <tr><td>Tancredo Neves</td><td>Eleito (indireto) em 1985; morreu antes de assumir</td></tr>\n  <tr><td>José Sarney</td><td>Vice que assumiu; iniciou a Nova República</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  A eleição de 1985 <b>ainda foi indireta</b> (Colégio Eleitoral): apesar das Diretas Já, o voto direto para presidente só voltou em <b>1989</b>. E lembre: a <b>abertura</b> foi conduzida pelos próprios militares, não conquistada de uma só vez.\n</div>\n\n<blockquote>\n  <p>Com o fim da ditadura, o Brasil reconstruiu a democracia: uma nova Constituição, o voto direto e o desafio de vencer a inflação. É o nosso próximo tema: a Nova República.</p>\n</blockquote>\n",
+  "questionLang": "pt",
+  "answerLang": "pt",
+  "version": 1,
+  "level": "Ensino Médio",
+  "theme": "História do Brasil",
+  "cards": [
+    {
+      "recto": "Que regime governou o Brasil entre 1964 e 1985?",
+      "verso": "A Ditadura Militar",
+      "explanation": "Iniciada pelo golpe de 1964, foi um regime autoritário comandado por militares, com repressão política e supressão de direitos. Durou 21 anos.",
+      "tags": [
+        "ditadura-militar",
+        "periodo"
+      ],
+      "distractors": {
+        "easy": [
+          "A República Velha",
+          "O Estado Novo",
+          "A Nova República"
+        ],
+        "medium": [
+          "A República Democrática",
+          "o Império",
+          "o Governo Provisório"
+        ],
+        "hard": [
+          "A República da Espada",
+          "o Parlamentarismo",
+          "a Segunda República Populista"
+        ]
+      }
+    },
+    {
+      "recto": "Como os militares chegaram ao poder em 1964?",
+      "verso": "Por um golpe militar que depôs João Goulart",
+      "explanation": "No clima da Guerra Fria e do medo do comunismo, os militares depuseram Jango. O regime foi apresentado como \"Revolução de 1964\".",
+      "tags": [
+        "ditadura-militar",
+        "1964"
+      ],
+      "distractors": {
+        "easy": [
+          "Por uma eleição direta",
+          "Por herança",
+          "Por plebiscito"
+        ],
+        "medium": [
+          "Por indicação de Jango",
+          "Por um acordo com o Congresso",
+          "Pela Constituição de 1946"
+        ],
+        "hard": [
+          "Por uma revolta popular",
+          "Por nomeação dos EUA",
+          "Por renúncia coletiva"
+        ]
+      }
+    },
+    {
+      "recto": "Decretos que davam poderes excepcionais ao regime militar, cassando direitos e mandatos.",
+      "verso": "Os Atos Institucionais (AI)",
+      "explanation": "Sobrepunham-se à Constituição. O AI-1 cassou opositores; o mais duro foi o AI-5. Base jurídica da ditadura.",
+      "tags": [
+        "ditadura-militar",
+        "documento"
+      ],
+      "distractors": {
+        "easy": [
+          "As Leis Áureas",
+          "As Reformas de Base",
+          "As Diretas Já"
+        ],
+        "medium": [
+          "As Emendas Constitucionais",
+          "Os Decretos Imperiais",
+          "As Cartas Régias"
+        ],
+        "hard": [
+          "Os Atos Adicionais",
+          "As Leis Delegadas",
+          "Os Decretos-Lei apenas"
+        ]
+      }
+    },
+    {
+      "recto": "Ato Institucional de 1968 que marcou o auge da repressão, fechando o Congresso e suspendendo direitos.",
+      "verso": "AI-5 (Ato Institucional nº 5)",
+      "explanation": "O mais duro dos atos: censura total, fim do habeas corpus para crimes políticos e prisões. Abriu os \"anos de chumbo\".",
+      "tags": [
+        "ditadura-militar",
+        "documento"
+      ],
+      "distractors": {
+        "easy": [
+          "A Lei Áurea",
+          "A Constituição de 1988",
+          "O Plano Real"
+        ],
+        "medium": [
+          "O AI-1",
+          "A Lei da Anistia",
+          "A Emenda Dante de Oliveira"
+        ],
+        "hard": [
+          "O AI-2",
+          "O AI-4",
+          "O Ato Complementar nº 77"
+        ]
+      }
+    },
+    {
+      "recto": "Período mais violento da ditadura (fim dos anos 1960 e início dos 1970), com forte repressão e tortura.",
+      "verso": "Os anos de chumbo",
+      "explanation": "Após o AI-5, o regime perseguiu, prendeu e torturou opositores. Coincidiu com o auge do crescimento econômico (o \"milagre\").",
+      "tags": [
+        "ditadura-militar",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "A Belle Époque",
+          "Os anos dourados",
+          "A Era do Rádio"
+        ],
+        "medium": [
+          "A abertura política",
+          "Os anos de brasa",
+          "A Semana de 22"
+        ],
+        "hard": [
+          "A Década Perdida",
+          "Os anos de aço",
+          "O período de distensão"
+        ]
+      }
+    },
+    {
+      "recto": "Forte crescimento econômico do início dos anos 1970, com grandes obras e endividamento externo.",
+      "verso": "O Milagre econômico",
+      "explanation": "PIB crescia mais de 10% ao ano, mas com concentração de renda e dívida externa. Serviu de propaganda ao regime (\"Brasil, ame-o ou deixe-o\").",
+      "tags": [
+        "ditadura-militar",
+        "economia"
+      ],
+      "distractors": {
+        "easy": [
+          "O Plano Real",
+          "A Grande Depressão",
+          "O Plano de Metas"
+        ],
+        "medium": [
+          "O Plano Cruzado",
+          "O Milagre alemão",
+          "A Década Perdida"
+        ],
+        "hard": [
+          "O Plano Trienal",
+          "O boom do café",
+          "O PAEG apenas"
+        ]
+      }
+    },
+    {
+      "recto": "Grande obra faraônica da ditadura que buscava integrar a Amazônia ao resto do país.",
+      "verso": "A Rodovia Transamazônica",
+      "explanation": "Símbolo das obras de integração e do ufanismo do regime. Muitas prometidas obras (também a Ponte Rio-Niterói) marcaram o período do milagre.",
+      "tags": [
+        "ditadura-militar",
+        "obras"
+      ],
+      "distractors": {
+        "easy": [
+          "Brasília",
+          "O Cristo Redentor",
+          "A Estrada de Ferro Madeira-Mamoré"
+        ],
+        "medium": [
+          "A Rodovia Anchieta",
+          "O Túnel Rebouças",
+          "A Ferrovia Norte-Sul"
+        ],
+        "hard": [
+          "A Rodovia Belém-Brasília",
+          "A Rodovia dos Bandeirantes",
+          "A Perimetral Norte"
+        ]
+      }
+    },
+    {
+      "recto": "Como o regime militar tratava a imprensa, a arte e a oposição política?",
+      "verso": "Com censura e repressão",
+      "explanation": "Jornais, músicas e filmes eram censurados; opositores eram presos, torturados ou exilados. A resistência apareceu na cultura (MPB, teatro) e na luta armada.",
+      "tags": [
+        "ditadura-militar",
+        "repressao"
+      ],
+      "distractors": {
+        "easy": [
+          "Com total liberdade",
+          "Com incentivo à crítica",
+          "Com eleições livres"
+        ],
+        "medium": [
+          "Com neutralidade",
+          "Com apoio à oposição",
+          "Com autonomia da imprensa"
+        ],
+        "hard": [
+          "Com censura branda apenas",
+          "Com liberdade cultural mas não política",
+          "Com anistia imediata"
+        ]
+      }
+    },
+    {
+      "recto": "Formas de oposição à ditadura que pegaram em armas contra o regime.",
+      "verso": "A luta armada (guerrilhas)",
+      "explanation": "Grupos de esquerda tentaram a guerrilha urbana e rural (como a Guerrilha do Araguaia). Foram duramente reprimidos pelo regime.",
+      "tags": [
+        "ditadura-militar",
+        "resistencia"
+      ],
+      "distractors": {
+        "easy": [
+          "As Diretas Já",
+          "A Semana de Arte Moderna",
+          "O Plano de Metas"
+        ],
+        "medium": [
+          "O tenentismo",
+          "A Coluna Prestes",
+          "A Revolta da Vacina"
+        ],
+        "hard": [
+          "O integralismo",
+          "A Intentona Comunista",
+          "A Revolução Constitucionalista"
+        ]
+      }
+    },
+    {
+      "recto": "General-presidente que iniciou a lenta abertura política, dita \"lenta, gradual e segura\".",
+      "verso": "Ernesto Geisel",
+      "explanation": "A partir de 1974, iniciou a distensão. O processo foi controlado pelos militares para evitar rupturas. Culminaria na redemocratização.",
+      "tags": [
+        "ditadura-militar",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Getúlio Vargas",
+          "Juscelino Kubitschek",
+          "João Goulart"
+        ],
+        "medium": [
+          "Costa e Silva",
+          "Emílio Médici",
+          "Castelo Branco"
+        ],
+        "hard": [
+          "João Figueiredo",
+          "Tancredo Neves",
+          "Ulysses Guimarães"
+        ]
+      }
+    },
+    {
+      "recto": "Processo de retorno gradual à democracia conduzido pelos próprios militares a partir de 1974.",
+      "verso": "A abertura política (distensão)",
+      "explanation": "Definida como \"lenta, gradual e segura\", foi controlada de cima. Levou à Lei da Anistia (1979) e ao fim do bipartidarismo.",
+      "tags": [
+        "ditadura-militar",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "O golpe de 1964",
+          "O milagre econômico",
+          "O AI-5"
+        ],
+        "medium": [
+          "A Revolução de 1930",
+          "O Estado Novo",
+          "O Plano Cruzado"
+        ],
+        "hard": [
+          "A Proclamação da República",
+          "O endurecimento do regime",
+          "A Constituinte de 1934"
+        ]
+      }
+    },
+    {
+      "recto": "Lei de 1979 que permitiu o retorno de exilados, mas também livrou os agentes da repressão de punição.",
+      "verso": "A Lei da Anistia",
+      "explanation": "Permitiu a volta de perseguidos políticos, mas seu caráter \"amplo, geral e irrestrito\" também isentou torturadores. Passo-chave da abertura.",
+      "tags": [
+        "ditadura-militar",
+        "documento"
+      ],
+      "distractors": {
+        "easy": [
+          "A Lei Áurea",
+          "A Constituição de 1988",
+          "O Plano Real"
+        ],
+        "medium": [
+          "A Lei de Segurança Nacional",
+          "O AI-5",
+          "A Lei Falcão"
+        ],
+        "hard": [
+          "A Lei Fleury",
+          "A Emenda Dante de Oliveira",
+          "O Pacote de Abril"
+        ]
+      }
+    },
+    {
+      "recto": "Movimento popular de 1983-1984 que exigia eleições diretas para presidente.",
+      "verso": "As Diretas Já",
+      "explanation": "Grandes comícios pediam o voto direto. A emenda que o previa (Dante de Oliveira) foi rejeitada, mas o movimento acelerou o fim da ditadura.",
+      "tags": [
+        "ditadura-militar",
+        "resistencia"
+      ],
+      "distractors": {
+        "easy": [
+          "O tenentismo",
+          "A Semana de 22",
+          "A Coluna Prestes"
+        ],
+        "medium": [
+          "A Revolta da Chibata",
+          "O Fora Collor",
+          "A Marcha da Família"
+        ],
+        "hard": [
+          "O movimento tenentista",
+          "As Ligas Camponesas",
+          "A Campanha do Petróleo"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] O presidente foi escolhido por voto direto do povo já em 1985, ao fim da ditadura?",
+      "verso": "Não; Tancredo Neves foi eleito de forma indireta (pelo Colégio Eleitoral)",
+      "explanation": "Erro comum. Apesar das Diretas Já, a eleição de 1985 ainda foi indireta. O voto direto para presidente só voltaria em 1989.",
+      "tags": [
+        "piege",
+        "ditadura-militar"
+      ],
+      "distractors": {
+        "easy": [
+          "Sim, por voto direto de todos",
+          "Sim, por plebiscito",
+          "Sim, por eleição popular"
+        ],
+        "medium": [
+          "Sim, na esteira das Diretas Já",
+          "Sim, pela nova Constituição",
+          "Sim, por voto obrigatório direto"
+        ],
+        "hard": [
+          "Sim, num segundo turno direto",
+          "Sim, por referendo nacional",
+          "Sim, por voto direto facultativo"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] Compare a economia e a política da ditadura em seus dois momentos principais.",
+      "verso": "Anos de chumbo: repressão dura e milagre econômico; abertura: distensão política e crise econômica",
+      "explanation": "No início (1968-73), muito crescimento e muita repressão. Depois (a partir de 1974), abertura política mas crise e inflação. Trajetórias opostas.",
+      "tags": [
+        "comparaison",
+        "ditadura-militar"
+      ],
+      "distractors": {
+        "easy": [
+          "Sempre houve democracia e prosperidade",
+          "Nada mudou nos 21 anos",
+          "Sempre houve crise e liberdade"
+        ],
+        "medium": [
+          "Anos de chumbo: crise; abertura: milagre",
+          "Ambos os momentos foram de liberdade total",
+          "Ambos foram de recessão e censura leve"
+        ],
+        "hard": [
+          "Anos de chumbo: abertura política; abertura: repressão dura",
+          "Ambos combinaram crescimento e democracia",
+          "Anos de chumbo: liberdade de imprensa; abertura: censura total"
+        ]
+      }
+    },
+    {
+      "recto": "Civil eleito indiretamente em 1985 que morreu antes de assumir, símbolo da transição.",
+      "verso": "Tancredo Neves",
+      "explanation": "Sua eleição encerrou a ditadura, mas ele adoeceu e morreu. Quem assumiu foi o vice, José Sarney, iniciando a Nova República.",
+      "tags": [
+        "ditadura-militar",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Getúlio Vargas",
+          "Juscelino Kubitschek",
+          "Dom Pedro II"
+        ],
+        "medium": [
+          "Ulysses Guimarães",
+          "José Sarney",
+          "Fernando Collor"
+        ],
+        "hard": [
+          "Paulo Maluf",
+          "Franco Montoro",
+          "Leonel Brizola"
+        ]
+      }
+    },
+    {
+      "recto": "De modo geral, qual foi o custo humano e social da Ditadura Militar?",
+      "verso": "Repressão política (prisões, tortura, mortes) e aumento da desigualdade",
+      "explanation": "Além dos perseguidos políticos, o \"milagre\" concentrou renda. O legado autoritário e a desigualdade marcaram a redemocratização.",
+      "tags": [
+        "ditadura-militar",
+        "sintese"
+      ],
+      "distractors": {
+        "easy": [
+          "Igualdade e democracia plenas",
+          "Fim de toda pobreza",
+          "Nenhuma consequência"
+        ],
+        "medium": [
+          "Redução total da desigualdade",
+          "Liberdade de imprensa ampliada",
+          "Reforma agrária completa"
+        ],
+        "hard": [
+          "Distribuição de renda equilibrada",
+          "Pacificação política total",
+          "Fim das tensões sociais"
+        ]
+      }
+    },
+    {
+      "recto": "Que sistema partidário o regime militar impôs, reduzindo a política a apenas dois partidos?",
+      "verso": "O bipartidarismo (ARENA e MDB)",
+      "explanation": "A ARENA apoiava o governo; o MDB era a oposição consentida. O fim do bipartidarismo, em 1979, foi parte da abertura.",
+      "tags": [
+        "ditadura-militar",
+        "politica"
+      ],
+      "distractors": {
+        "easy": [
+          "O partido único",
+          "O pluripartidarismo livre",
+          "A monarquia"
+        ],
+        "medium": [
+          "O tripartidarismo",
+          "O sistema sem partidos",
+          "O parlamentarismo"
+        ],
+        "hard": [
+          "PSD e UDN",
+          "PT e PSDB",
+          "PMDB e PFL"
+        ]
+      }
+    }
+  ]
+}

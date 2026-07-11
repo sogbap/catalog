@@ -1,0 +1,532 @@
+{
+  "id": "jp-koukou-chiri-sougou-jizoku-chiiki",
+  "title": "持続可能な地域づくり",
+  "emoji": "🏘️",
+  "subject": "geography",
+  "country": "jp",
+  "courseDescription": "生活圏の調査から過疎・高齢化の課題、まちづくりまで。持続可能な地域づくりを考える。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>持続可能な地域づくり</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・地理総合<br>\n  <b>大項目C：</b>持続可能な地域づくりと私たち<br>\n  <b>内容：</b>生活圏の調査・過疎と高齢化・まちづくり\n</div>\n\n<blockquote>\n  <p><b>問い</b>　私たちの住む地域の課題を、どうすれば「私たち」の力で解決できるだろうか。</p>\n</blockquote>\n\n<p>地理総合の最後は、視点を身近な<strong>生活圏</strong>に移す。<strong>フィールドワーク</strong>で地域を調べると、<strong>過疎</strong>や<strong>高齢化</strong>、<strong>中心市街地の空洞化</strong>といった課題が見えてくる。それに立ち向かう<strong>地域おこし</strong>や<strong>コンパクトシティ</strong>の取り組みを通じて、<strong>持続可能な地域づくり</strong>を考えよう。</p>\n\n<h2>1・生活圏を調べる</h2>\n\n<p>身近な<strong>生活圏</strong>（通勤・通学・買い物などの行動範囲）を調べることが出発点である。現地を歩いて観察・聞き取りをする<strong>フィールドワーク</strong>と、統計や地図を使う文献調査を組み合わせる。</p>\n\n<p>調べた結果は、これまで学んだ<strong>主題図やGIS</strong>を使って可視化し、課題を分かりやすく伝える。学んだ道具を実際に活用する場面である。</p>\n\n<div class=\"callout\">\n  <strong>用語・フィールドワーク</strong><br>\n  実際に現地を歩いて観察したり、聞き取りをしたりする調査方法。統計や地図の調査と組み合わせ、地域の課題を実感して解決を考える基本の方法。\n</div>\n\n<h2>2・地域の課題 ― 過疎と空洞化</h2>\n\n<p>多くの地域が課題をかかえる。地方では人口が減る<strong>過疎</strong>と<strong>高齢化</strong>が進み、65歳以上が半数をこえる<strong>限界集落</strong>も生まれた。都市では、郊外の大型店の増加で中心部の商店街がさびれる<strong>中心市街地の空洞化</strong>（シャッター通り）や、店がなくなり高齢者が困る<strong>買い物難民</strong>が問題となっている。</p>\n\n<p>これらの根には、都市の<strong>過密</strong>と地方の<strong>過疎</strong>という、人口移動が生む表裏一体の偏りがある。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"人口移動が生む過密と過疎。都市の過密と地方の過疎は表裏一体\">\n  <defs>\n    <marker id=\"ar-jc1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 地方（過疎） -->\n  <rect x=\"12\" y=\"30\" width=\"130\" height=\"120\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"77\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">地方</text>\n  <text x=\"77\" y=\"84\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">過疎</text>\n  <text x=\"77\" y=\"112\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">人口減・高齢化</text>\n  <text x=\"77\" y=\"134\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">限界集落</text>\n  <!-- 都市（過密） -->\n  <rect x=\"198\" y=\"30\" width=\"130\" height=\"120\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"263\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">都市</text>\n  <text x=\"263\" y=\"84\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">過密</text>\n  <text x=\"263\" y=\"112\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">人口集中</text>\n  <text x=\"263\" y=\"134\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">混雑・住宅難</text>\n  <!-- 人口移動の矢印 -->\n  <path d=\"M146,74 L194,74\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-jc1)\"/>\n  <text x=\"170\" y=\"66\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">人口移動</text>\n</svg>\n<figcaption>地方から都市への人口移動が、過疎と過密を同時に生む。</figcaption>\n</figure>\n\n<h2>3・地域おこしと移住</h2>\n\n<p>課題に立ち向かう<strong>地域おこし</strong>が各地で行われている。農林漁業が加工・販売まで手がける<strong>六次産業化</strong>、<strong>地産地消</strong>、自然や文化を生かす<strong>エコツーリズム</strong>など、地域の資源を生かす工夫である。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 240\" role=\"img\" aria-label=\"地域おこしのおもな取り組み。六次産業化、エコツーリズム、地産地消\">\n  <defs>\n    <marker id=\"ar-jc2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 地域おこし（強調） -->\n  <rect x=\"85\" y=\"8\" width=\"170\" height=\"56\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"33\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"14\" font-weight=\"700\">地域おこし</text>\n  <text x=\"170\" y=\"53\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11\">地域の資源を生かす</text>\n  <!-- 矢印 -->\n  <path d=\"M170,66 L60,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-jc2)\"/>\n  <path d=\"M170,66 L170,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-jc2)\"/>\n  <path d=\"M170,66 L280,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-jc2)\"/>\n  <!-- 六次産業化 -->\n  <rect x=\"10\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">六次産業化</text>\n  <text x=\"60\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">農林漁業が</text>\n  <text x=\"60\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">加工・販売も</text>\n  <!-- エコツーリズム -->\n  <rect x=\"120\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">エコツーリズム</text>\n  <text x=\"170\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">自然・文化を</text>\n  <text x=\"170\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">守り生かす観光</text>\n  <!-- 地産地消 -->\n  <rect x=\"230\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">地産地消</text>\n  <text x=\"280\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">地元の産物を</text>\n  <text x=\"280\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">地元で消費</text>\n</svg>\n<figcaption>地域の資源を生かす取り組みが、活性化の柱となる。</figcaption>\n</figure>\n\n<p>担い手を増やす<strong>移住</strong>の動きもある。故郷に戻る<strong>Uターン</strong>、縁のない地方へ移る<strong>Iターン</strong>、途中の地方都市にとどまる<strong>Jターン</strong>があり、<strong>地域おこし協力隊</strong>や<strong>関係人口</strong>が新しい担い手として注目されている。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"移住の3つの型。Uターン、Iターン、Jターンの違い\">\n  <!-- Uターン -->\n  <rect x=\"8\" y=\"8\" width=\"104\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">Uターン</text>\n  <text x=\"60\" y=\"72\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11\" font-weight=\"700\">地方出身者が</text>\n  <text x=\"60\" y=\"98\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">都会をへて</text>\n  <text x=\"60\" y=\"122\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">故郷に戻る</text>\n  <text x=\"60\" y=\"152\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">U字を描く</text>\n  <!-- Iターン -->\n  <rect x=\"118\" y=\"8\" width=\"104\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">Iターン</text>\n  <text x=\"170\" y=\"72\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11\" font-weight=\"700\">都会出身者が</text>\n  <text x=\"170\" y=\"98\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">縁のない</text>\n  <text x=\"170\" y=\"122\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">地方へ移る</text>\n  <text x=\"170\" y=\"152\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">まっすぐ（I）</text>\n  <!-- Jターン -->\n  <rect x=\"228\" y=\"8\" width=\"104\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">Jターン</text>\n  <text x=\"280\" y=\"72\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11\" font-weight=\"700\">地方出身者が</text>\n  <text x=\"280\" y=\"98\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">故郷まで戻らず</text>\n  <text x=\"280\" y=\"122\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">近くの地方都市へ</text>\n  <text x=\"280\" y=\"152\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">J字を描く</text>\n</svg>\n<figcaption>出発点と行き先の組み合わせで、U・I・Jの3つを区別する。</figcaption>\n</figure>\n\n<h2>4・持続可能な地域をめざして</h2>\n\n<p>人口減少の時代には、都市機能を中心部に集約する<strong>コンパクトシティ</strong>の考え方も広がっている。公共交通を軸に、高齢者にも暮らしやすいまちをめざすものである。</p>\n\n<p>これらの取り組みに共通するのは、住民・行政・企業が力を合わせる<strong>協働</strong>である。地球的課題を身近な地域から「私たち」の問題として考え、現在と将来の両方の暮らしを守る——それが<strong>持続可能な地域づくり</strong>であり、地理総合全体のまとめとなる。</p>\n\n<div class=\"callout\">\n  <strong>用語・持続可能な地域づくり</strong><br>\n  現在の世代と将来の世代の暮らしの両方を守りながら、地域を維持・発展させること。地球的課題を身近な地域から「私たち」の問題として考える姿勢を養う。\n</div>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>段階</th><th>内容</th></tr>\n  <tr><td>調べる</td><td>生活圏のフィールドワーク・文献調査</td></tr>\n  <tr><td>課題を知る</td><td>過疎・高齢化・空洞化・買い物難民</td></tr>\n  <tr><td>取り組む</td><td>地域おこし・移住・コンパクトシティ</td></tr>\n  <tr><td>まとめる</td><td>主題図・GISで可視化し協働で解決</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>生活圏</td><td>通勤・通学・買い物などの日常の行動範囲</td></tr>\n  <tr><td>過疎／過密</td><td>地方の人口減／都市の人口集中</td></tr>\n  <tr><td>限界集落</td><td>65歳以上が半数をこえた集落</td></tr>\n  <tr><td>六次産業化</td><td>農林漁業が加工・販売まで手がける取り組み</td></tr>\n  <tr><td>コンパクトシティ</td><td>都市機能を中心部に集約するまちづくり</td></tr>\n  <tr><td>協働</td><td>住民・行政・企業が力を合わせること</td></tr>\n</table>\n\n<h3>移住の3つの型</h3>\n\n<table>\n  <tr><th>型</th><th>動き</th></tr>\n  <tr><td>Uターン</td><td>地方出身者が故郷に戻る</td></tr>\n  <tr><td>Iターン</td><td>都会出身者が縁のない地方へ移る</td></tr>\n  <tr><td>Jターン</td><td>地方出身者が近くの地方都市へ移る</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  移住の<b>Uターン</b>（故郷に戻る）・<b>Iターン</b>（縁のない地方へ）・<b>Jターン</b>（近くの地方都市へ）を取りちがえないこと。また<b>過疎</b>（地方）と<b>過密</b>（都市）は、人口移動が同時に生む表裏一体の問題である。\n</div>\n\n<blockquote>\n  <p>地図とGISに始まり、世界の暮らしと地球的課題を経て、私たちは足もとの地域に帰ってきた。世界の課題も地域の課題も、根はつながっている。それを「私たち」の問題として考え、行動すること——地理総合が育てたいのは、その力である。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "地理総合 ― 持続可能な地域づくりと私たち",
+  "cards": [
+    {
+      "recto": "人々が通勤・通学・買い物などで日常的に行動する範囲を何というか。",
+      "verso": "生活圏",
+      "explanation": "地理総合の最後では、身近な生活圏を調査してその課題を考える。地域の実態を自分の目で確かめることが出発点。",
+      "tags": [
+        "地域調査",
+        "基礎"
+      ],
+      "distractors": {
+        "easy": [
+          "国土",
+          "商店街",
+          "都道府県"
+        ],
+        "medium": [
+          "都市圏",
+          "経済圏",
+          "文化圏"
+        ],
+        "hard": [
+          "通勤圏",
+          "都市雇用圏",
+          "日常生活圏"
+        ]
+      }
+    },
+    {
+      "recto": "実際に現地を歩いて観察したり、聞き取りをしたりする調査方法を何というか。",
+      "verso": "フィールドワーク（野外調査）",
+      "explanation": "統計や地図の調査（文献調査）と組み合わせる。地域の課題を実感し、解決を考えるための基本の方法。",
+      "tags": [
+        "地域調査",
+        "方法"
+      ],
+      "distractors": {
+        "easy": [
+          "インターネット検索",
+          "読書",
+          "実験"
+        ],
+        "medium": [
+          "文献調査",
+          "アンケート調査",
+          "統計分析"
+        ],
+        "hard": [
+          "聞き取り調査のみ",
+          "参与観察",
+          "リモートセンシング"
+        ]
+      }
+    },
+    {
+      "recto": "都市に人口や産業が集中する一方、農村や地方で人口が減り、社会の維持が難しくなる問題を何というか。",
+      "verso": "過疎",
+      "explanation": "都市の過密と対になる。学校や病院、公共交通の維持が難しくなる。持続可能な地域づくりの中心的な課題。",
+      "tags": [
+        "地域課題",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "過密",
+          "都市化",
+          "国際化"
+        ],
+        "medium": [
+          "少子化",
+          "高齢化",
+          "空洞化"
+        ],
+        "hard": [
+          "限界集落化",
+          "ドーナツ化",
+          "スプロール化"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】地方で人口が過度に減る問題と、都市に人口が過度に集まる問題を、それぞれ何というか。",
+      "verso": "過疎と過密",
+      "explanation": "過疎（地方の人口減）と過密（都市の人口集中）は表裏一体。人口移動が両方を同時に生む。逆にしない。",
+      "tags": [
+        "comparaison",
+        "地域課題"
+      ],
+      "distractors": {
+        "easy": [
+          "少子化と高齢化",
+          "都市と農村",
+          "貧困と格差"
+        ],
+        "medium": [
+          "過密と過疎",
+          "空洞化と過密",
+          "過疎と少子化"
+        ],
+        "hard": [
+          "限界集落と過密",
+          "ドーナツ化と過疎",
+          "過疎と都市化"
+        ]
+      }
+    },
+    {
+      "recto": "65歳以上の人口が集落の半数をこえ、共同体の維持が難しくなった集落を何というか。",
+      "verso": "限界集落",
+      "explanation": "過疎と高齢化が進んだ地域に多い。冠婚葬祭や道路の維持など、地域の機能そのものが危うくなる。",
+      "tags": [
+        "地域課題"
+      ],
+      "distractors": {
+        "easy": [
+          "ニュータウン",
+          "商店街",
+          "住宅地"
+        ],
+        "medium": [
+          "過密都市",
+          "ベッドタウン",
+          "限界都市"
+        ],
+        "hard": [
+          "消滅集落",
+          "無居住化",
+          "縮小集落"
+        ]
+      }
+    },
+    {
+      "recto": "郊外の大型店の増加などで、都市の中心部の商店街がさびれ、空き店舗が増える現象を何というか。",
+      "verso": "中心市街地の空洞化（シャッター通り）",
+      "explanation": "「シャッター通り」とも呼ばれる。人口減少やモータリゼーションが背景。まちづくりの重要な課題。",
+      "tags": [
+        "地域課題"
+      ],
+      "distractors": {
+        "easy": [
+          "再開発",
+          "過密",
+          "都市化"
+        ],
+        "medium": [
+          "ドーナツ化現象",
+          "スプロール現象",
+          "ジェントリフィケーション"
+        ],
+        "hard": [
+          "インナーシティ問題",
+          "スポンジ化",
+          "中心商業地の衰退"
+        ]
+      }
+    },
+    {
+      "recto": "身近な場所に店がなくなり、高齢者などが日常の買い物に困る問題を何というか。",
+      "verso": "買い物難民（買い物弱者）",
+      "explanation": "過疎地や中心市街地の空洞化した地域で深刻。移動販売や宅配などの取り組みが行われている。",
+      "tags": [
+        "地域課題"
+      ],
+      "distractors": {
+        "easy": [
+          "帰宅難民",
+          "待機児童",
+          "空き家問題"
+        ],
+        "medium": [
+          "交通弱者",
+          "情報難民",
+          "医療難民"
+        ],
+        "hard": [
+          "フードデザート",
+          "買い物空白地帯",
+          "生活困難地域"
+        ]
+      }
+    },
+    {
+      "recto": "地域の資源や個性を生かして活性化をはかる取り組みを何というか。",
+      "verso": "地域おこし（まちづくり・地域活性化）",
+      "explanation": "特産品の開発、観光、移住促進などさまざま。過疎や空洞化に立ち向かう住民主体の取り組み。",
+      "tags": [
+        "取り組み",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "都市化",
+          "工業化",
+          "グローバル化"
+        ],
+        "medium": [
+          "再開発",
+          "区画整理",
+          "民営化"
+        ],
+        "hard": [
+          "内発的発展",
+          "地域振興",
+          "コミュニティビジネス"
+        ]
+      }
+    },
+    {
+      "recto": "農林漁業（一次産業）が、加工（二次）や販売・観光（三次）まで手がけて付加価値を高める取り組みを何というか。",
+      "verso": "六次産業化",
+      "explanation": "1×2×3＝6から名づけられた。農村の所得向上と地域活性化をめざす取り組みの代表例。",
+      "tags": [
+        "取り組み",
+        "農村"
+      ],
+      "distractors": {
+        "easy": [
+          "工業化",
+          "都市化",
+          "自由化"
+        ],
+        "medium": [
+          "地産地消",
+          "ブランド化",
+          "産業の空洞化"
+        ],
+        "hard": [
+          "農商工連携",
+          "アグリビジネス",
+          "垂直統合"
+        ]
+      }
+    },
+    {
+      "recto": "都会で生まれ育った人が、地方に移り住むことを何というか。",
+      "verso": "Iターン",
+      "explanation": "縁のなかった地方へ「まっすぐ（I）」移る。地方出身者が都会をへて故郷に戻るUターンと区別する。",
+      "tags": [
+        "移住",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "Uターン",
+          "Jターン",
+          "Vターン"
+        ],
+        "medium": [
+          "出稼ぎ",
+          "単身赴任",
+          "転勤"
+        ],
+        "hard": [
+          "Oターン",
+          "孫ターン",
+          "二地域居住"
+        ]
+      }
+    },
+    {
+      "recto": "地方出身の人が、進学や就職で都会に出たあと、生まれ育った故郷に戻ることを何というか。",
+      "verso": "Uターン",
+      "explanation": "故郷を出て戻る動きが「U」字を描く。縁のない地方へ移るIターンと対で覚える。",
+      "tags": [
+        "移住",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "Iターン",
+          "Jターン",
+          "Sターン"
+        ],
+        "medium": [
+          "出稼ぎ",
+          "移民",
+          "疎開"
+        ],
+        "hard": [
+          "Oターン",
+          "Jターンとの混同",
+          "二地域居住"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】地方出身者が都会に出たあと、故郷ではなく近くの地方都市に移り住むことを何というか。",
+      "verso": "Jターン",
+      "explanation": "故郷まで戻らず途中の地方都市にとどまる動きが「J」字。故郷に戻るUターン、縁のない地方へのIターンと区別する。",
+      "tags": [
+        "piege",
+        "移住"
+      ],
+      "distractors": {
+        "easy": [
+          "Uターン",
+          "Iターン",
+          "Vターン"
+        ],
+        "medium": [
+          "出稼ぎ",
+          "単身赴任",
+          "転勤"
+        ],
+        "hard": [
+          "Oターン",
+          "孫ターン",
+          "二地域居住"
+        ]
+      }
+    },
+    {
+      "recto": "住宅・商業・行政などの都市機能を中心部に集約し、効率的で持続可能なまちをめざす考え方を何というか。",
+      "verso": "コンパクトシティ",
+      "explanation": "人口減少時代に、広がりすぎた都市を「小さくまとめる」発想。公共交通を軸に、高齢者にも暮らしやすいまちをめざす。",
+      "tags": [
+        "まちづくり",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "メガシティ",
+          "ニュータウン",
+          "ベッドタウン"
+        ],
+        "medium": [
+          "スマートシティ",
+          "田園都市",
+          "衛星都市"
+        ],
+        "hard": [
+          "スプロール型都市",
+          "職住近接",
+          "TOD（公共交通指向型開発）"
+        ]
+      }
+    },
+    {
+      "recto": "地域の自然や文化を守りながら観光に生かし、地域の活性化にもつなげる観光のあり方を何というか。",
+      "verso": "エコツーリズム（持続可能な観光）",
+      "explanation": "地域の資源を消費しつくさず、次世代に残す観光。地域おこしと環境保全を両立させる取り組み。",
+      "tags": [
+        "観光",
+        "取り組み"
+      ],
+      "distractors": {
+        "easy": [
+          "マスツーリズム",
+          "団体旅行",
+          "テーマパーク観光"
+        ],
+        "medium": [
+          "インバウンド",
+          "オーバーツーリズム",
+          "リゾート開発"
+        ],
+        "hard": [
+          "グリーンツーリズム",
+          "ジオツーリズム",
+          "コンテンツツーリズム"
+        ]
+      }
+    },
+    {
+      "recto": "地元で生産したものを地元で消費し、地域の農業を支え輸送の負担も減らす取り組みを何というか。",
+      "verso": "地産地消",
+      "explanation": "地域おこしと環境の両面で意味をもつ。六次産業化や学校給食への地元産採用などで広がっている。",
+      "tags": [
+        "取り組み"
+      ],
+      "distractors": {
+        "easy": [
+          "自由貿易",
+          "大量生産",
+          "輸入依存"
+        ],
+        "medium": [
+          "フェアトレード",
+          "六次産業化",
+          "グローバル化"
+        ],
+        "hard": [
+          "スローフード",
+          "旬産旬消",
+          "フードマイレージ削減"
+        ]
+      }
+    },
+    {
+      "recto": "地域の課題を解決するために、住民・行政・企業などがそれぞれの立場から協力し合うことを何というか。",
+      "verso": "協働（パートナーシップ）",
+      "explanation": "行政だけでも住民だけでも解決できない課題に、力を合わせて取り組む。持続可能な地域づくりの鍵となる考え方。",
+      "tags": [
+        "まちづくり",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "競争",
+          "対立",
+          "分業"
+        ],
+        "medium": [
+          "連携",
+          "自治",
+          "民営化"
+        ],
+        "hard": [
+          "ガバナンス",
+          "コーディネート",
+          "住民自治"
+        ]
+      }
+    },
+    {
+      "recto": "都市部から過疎地域などに移住し、一定期間、地域協力活動を行いながら定住・定着をはかる、総務省の制度を何というか。",
+      "verso": "地域おこし協力隊",
+      "explanation": "若者などが地域に入り、活性化と移住促進の橋渡しをする。Iターン・Uターンを後押しする制度の一つ。",
+      "tags": [
+        "取り組み",
+        "制度"
+      ],
+      "distractors": {
+        "easy": [
+          "青年海外協力隊",
+          "自衛隊",
+          "消防団"
+        ],
+        "medium": [
+          "ボランティア",
+          "インターン",
+          "地方公務員"
+        ],
+        "hard": [
+          "集落支援員",
+          "地域運営組織",
+          "関係人口"
+        ]
+      }
+    },
+    {
+      "recto": "定住する「住民」でも一時的な「観光客」でもなく、地域と多様に関わる人々を何というか。",
+      "verso": "関係人口",
+      "explanation": "移住までは難しくても、地域を応援したり定期的に訪れたりする人々。過疎地域の新しい担い手として注目される。",
+      "tags": [
+        "地域",
+        "新しい概念"
+      ],
+      "distractors": {
+        "easy": [
+          "定住人口",
+          "観光客",
+          "通勤者"
+        ],
+        "medium": [
+          "交流人口",
+          "昼間人口",
+          "夜間人口"
+        ],
+        "hard": [
+          "二地域居住者",
+          "潜在移住者",
+          "ふるさと納税者"
+        ]
+      }
+    },
+    {
+      "recto": "地域の実態を調べた結果を、地図やグラフにまとめて分かりやすく伝えることを、地理の学習では何を使って行うか。",
+      "verso": "主題図やGIS",
+      "explanation": "調査で得たデータを主題図やGISで表現し、課題を可視化する。地理総合で学んだ道具を実際に活用する場面。",
+      "tags": [
+        "地域調査",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "作文だけ",
+          "写真だけ",
+          "暗記"
+        ],
+        "medium": [
+          "一般図のみ",
+          "路線図",
+          "鳥瞰図のみ"
+        ],
+        "hard": [
+          "統計表のみ",
+          "聞き取りメモ",
+          "現地スケッチのみ"
+        ]
+      }
+    },
+    {
+      "recto": "現在の世代の暮らしと将来の世代の暮らしの両方を守りながら、地域を維持・発展させることを何というか。",
+      "verso": "持続可能な地域づくり",
+      "explanation": "地理総合全体のまとめとなる考え方。地球的課題を、身近な地域から「私たち」の問題として考える姿勢を養う。",
+      "tags": [
+        "まとめ",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "高度経済成長",
+          "都市開発",
+          "工業化"
+        ],
+        "medium": [
+          "地域おこし",
+          "再開発",
+          "地方分権"
+        ],
+        "hard": [
+          "内発的発展",
+          "定常型社会",
+          "コンパクト化"
+        ]
+      }
+    }
+  ]
+}

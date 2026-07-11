@@ -1,0 +1,535 @@
+{
+  "id": "jp-koukou-chiri-sougou-jinkou-shokuryou",
+  "title": "地球的課題①：人口・食料問題",
+  "emoji": "👥",
+  "subject": "geography",
+  "country": "jp",
+  "courseDescription": "人口爆発から少子高齢化、飢餓と飽食まで。世界の人口と食料をめぐる地球的課題を学ぶ。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>地球的課題①：人口・食料問題</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・地理総合<br>\n  <b>大項目B：</b>国際理解と国際協力<br>\n  <b>内容：</b>人口爆発・少子高齢化・飢餓と飽食\n</div>\n\n<blockquote>\n  <p><b>問い</b>　人口の増減と食料の偏りは、なぜ世界の課題となっているのだろうか。</p>\n</blockquote>\n\n<p>世界の人口は80億をこえた。発展途上国では<strong>人口爆発</strong>が続く一方、先進国は<strong>少子高齢化</strong>に直面している。食料も、一方に<strong>飢餓</strong>、他方に<strong>飽食</strong>という不均衡をかかえる。人口と食料という、世界が協力して向き合うべき地球的課題を読み解こう。</p>\n\n<h2>1・世界の人口と人口転換</h2>\n\n<p>社会が発展すると、人口動態は<strong>多産多死</strong>→<strong>多産少死</strong>→<strong>少産少死</strong>へと変化する（<strong>人口転換</strong>）。医療の普及で死亡率が先に下がり、出生率が高いまま残る<strong>多産少死</strong>の段階で、発展途上国の<strong>人口爆発</strong>が起こった。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"人口転換の流れ。多産多死から多産少死をへて少産少死へ\">\n  <defs>\n    <marker id=\"ar-js1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"40\" width=\"94\" height=\"50\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"55\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">多産多死</text>\n  <text x=\"55\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">高出生・高死亡</text>\n  <path d=\"M104,65 L120,65\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-js1)\"/>\n  <rect x=\"123\" y=\"40\" width=\"94\" height=\"50\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">多産少死</text>\n  <text x=\"170\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">人口爆発</text>\n  <path d=\"M219,65 L235,65\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-js1)\"/>\n  <rect x=\"238\" y=\"40\" width=\"94\" height=\"50\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"285\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">少産少死</text>\n  <text x=\"285\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">少子高齢化</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">発展にともなう人口転換</text>\n</svg>\n<figcaption>途上国は「多産少死」で人口爆発、先進国は「少産少死」で少子化に至る。</figcaption>\n</figure>\n\n<p>年齢別の人口構成を表す<strong>人口ピラミッド</strong>は、この段階を映す。年少人口が多い途上国は<strong>富士山型</strong>、少子化した先進国は<strong>つぼ型</strong>、その中間が<strong>つりがね型</strong>である。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 210\" role=\"img\" aria-label=\"人口ピラミッドの3つの型。富士山型は途上国、つりがね型は中間、つぼ型は先進国\">\n  <!-- 富士山型 -->\n  <polygon points=\"47,30 90,180 4,180\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"47\" y=\"198\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11.5\" font-weight=\"700\">富士山型</text>\n  <text x=\"47\" y=\"20\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">途上国</text>\n  <!-- つりがね型 -->\n  <path d=\"M147,40 Q170,30 193,40 L188,180 L152,180 Z\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"198\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11.5\" font-weight=\"700\">つりがね型</text>\n  <text x=\"170\" y=\"20\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">中間</text>\n  <!-- つぼ型 -->\n  <path d=\"M270,45 Q296,32 322,45 L312,120 Q296,110 280,120 L296,180 L276,180 Z\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"296\" y=\"198\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11.5\" font-weight=\"700\">つぼ型</text>\n  <text x=\"296\" y=\"20\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">先進国</text>\n</svg>\n<figcaption>すそが広い富士山型（途上国）から、下がすぼまるつぼ型（先進国）へ。</figcaption>\n</figure>\n\n<h2>2・二つの人口問題</h2>\n\n<p>世界は正反対の人口問題を同時にかかえる。発展途上国では<strong>人口爆発</strong>が食料・教育・雇用を圧迫し、中国はかつて<strong>一人っ子政策</strong>で人口を抑制した（2015年廃止）。</p>\n\n<p>一方、日本など先進国では<strong>少子高齢化</strong>が進む。人口を維持するには<strong>合計特殊出生率</strong>が約2.07必要だが、日本はこれを大きく下回り、労働力の減少や社会保障の負担増という課題に直面している。国内では、都市の<strong>過密</strong>と農村の<strong>過疎</strong>という偏りも生じている。</p>\n\n<div class=\"callout\">\n  <strong>用語・人口転換</strong><br>\n  多産多死 → 多産少死 → 少産少死へと人口動態が変化すること。途上国は多産少死の段階で人口爆発が起こり、先進国は少産少死で少子化に至る。\n</div>\n\n<h2>3・飢餓と飽食 ― 食料の不均衡</h2>\n\n<p>食料問題の本質は「量」より「偏り」にある。サハラ以南アフリカや南アジアでは<strong>飢餓</strong>が続く一方、先進国では<strong>飽食</strong>で大量の<strong>食品ロス</strong>が発生している。この不均衡の背景には、先進国と途上国の経済格差である<strong>南北問題</strong>がある。</p>\n\n<p>1960年代の<strong>緑の革命</strong>は高収量品種で途上国の穀物生産を増やしたが、費用のかかる技術は農家間の格差も広げた。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"世界の食料の不均衡。途上国の飢餓と先進国の飽食が同時に存在する\">\n  <!-- 左：飢餓 -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">飢餓</text>\n  <text x=\"87\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">途上国</text>\n  <text x=\"26\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">食料の不足</text>\n  <text x=\"26\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">栄養不足</text>\n  <text x=\"26\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">アフリカ・南アジア</text>\n  <!-- 右：飽食 -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">飽食</text>\n  <text x=\"253\" y=\"60\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">先進国</text>\n  <text x=\"192\" y=\"96\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">食料の過剰</text>\n  <text x=\"192\" y=\"124\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">食品ロス</text>\n  <text x=\"192\" y=\"152\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">背景に南北問題</text>\n</svg>\n<figcaption>飢餓と飽食が同時に存在する。これが世界の食料問題の核心。</figcaption>\n</figure>\n\n<h2>4・食と環境・地域のつながり</h2>\n\n<p>食料の輸入は環境とも結びつく。食料の輸送距離と重量を示す<strong>フードマイレージ</strong>が大きいほど、輸送で環境に負担をかける。これを下げるのが、地元の食料を地元で食べる<strong>地産地消</strong>である。</p>\n\n<p>また、食料の生産には大量の水が必要で、食料の輸入国は間接的に他国の水を輸入している（<strong>バーチャルウォーター</strong>）。<strong>食料自給率</strong>がカロリーベースで約4割の日本は、食料も水も海外に依存していることになる。</p>\n\n<div class=\"callout\">\n  <strong>用語・食料自給率</strong><br>\n  国内消費のうち国内生産でまかなえる割合。日本はカロリーベースで約40％と先進国で最低水準で、食料安全保障の課題となっている。\n</div>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>地域</th><th>人口問題</th></tr>\n  <tr><td>発展途上国</td><td>人口爆発（多産少死）・富士山型</td></tr>\n  <tr><td>先進国</td><td>少子高齢化（少産少死）・つぼ型</td></tr>\n  <tr><td>日本</td><td>合計特殊出生率が2.07を大きく下回る</td></tr>\n  <tr><td>中国</td><td>一人っ子政策（2015年廃止）</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>人口転換</td><td>多産多死→多産少死→少産少死の変化</td></tr>\n  <tr><td>富士山型／つぼ型</td><td>途上国／先進国の人口ピラミッド</td></tr>\n  <tr><td>飢餓／飽食</td><td>食料の不足／過剰</td></tr>\n  <tr><td>食料自給率</td><td>国内消費を国内生産でまかなう割合</td></tr>\n  <tr><td>南北問題</td><td>先進国と途上国の経済格差</td></tr>\n  <tr><td>フードマイレージ</td><td>食料の輸送距離×重量。環境負荷の指標</td></tr>\n</table>\n\n<h3>取り組み</h3>\n\n<table>\n  <tr><th>課題</th><th>取り組み</th></tr>\n  <tr><td>フードマイレージの大きさ</td><td>地産地消</td></tr>\n  <tr><td>食料の不足</td><td>緑の革命・食料援助</td></tr>\n  <tr><td>食品ロス</td><td>削減（SDGsの目標）</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  人口ピラミッドは、<b>富士山型が途上国</b>（年少人口が多い）、<b>つぼ型が先進国</b>（年少人口が少ない）。逆にしない。また食料問題は「不足」だけでなく、<b>飢餓</b>と<b>飽食</b>が同時に存在する「不均衡」が本質。\n</div>\n\n<blockquote>\n  <p>人口も食料も、「多い・少ない」だけでなく「どこに偏っているか」が課題である。その偏りの根には南北問題があり、一国では解決できない。次は、暮らしを支えるもう一つの土台——資源とエネルギーの課題を見ていこう。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "地理総合 ― 国際理解と国際協力",
+  "cards": [
+    {
+      "recto": "20世紀後半、おもに発展途上国で人口が急激に増えたことを何というか。",
+      "verso": "人口爆発",
+      "explanation": "医療の普及で死亡率が下がる一方、出生率が高いまま続いたために起こった。先進国の少子化と対照的。",
+      "tags": [
+        "人口",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "少子化",
+          "過疎",
+          "ドーナツ化"
+        ],
+        "medium": [
+          "高齢化",
+          "都市化",
+          "人口転換"
+        ],
+        "hard": [
+          "人口オーナス",
+          "人口静止",
+          "人口移動"
+        ]
+      }
+    },
+    {
+      "recto": "社会の発展にともない、多産多死から多産少死をへて少産少死へと人口動態が変化することを何というか。",
+      "verso": "人口転換",
+      "explanation": "先進国はすでに少産少死に達し、途上国は多産少死の段階で人口爆発が起こる。段階の順序が重要。",
+      "tags": [
+        "人口",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "人口爆発",
+          "少子高齢化",
+          "過疎化"
+        ],
+        "medium": [
+          "人口移動",
+          "都市化",
+          "人口集中"
+        ],
+        "hard": [
+          "人口ボーナス",
+          "人口静止",
+          "人口置換"
+        ]
+      }
+    },
+    {
+      "recto": "発展途上国に多い、年少人口の割合が大きく、すそが広がった形の人口ピラミッドを何というか。",
+      "verso": "富士山型",
+      "explanation": "出生率・死亡率がともに高い多産多死〜多産少死の段階を示す。先進国のつぼ型と対で覚える。",
+      "tags": [
+        "人口ピラミッド",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "つぼ型",
+          "つりがね型",
+          "星型"
+        ],
+        "medium": [
+          "ピラミッド型という別称の混同",
+          "ひょうたん型",
+          "紡錘型"
+        ],
+        "hard": [
+          "都市型",
+          "農村型",
+          "釣鐘型"
+        ]
+      }
+    },
+    {
+      "recto": "少子化が進んだ先進国に多い、年少人口が少なく、下がすぼまった形の人口ピラミッドを何というか。",
+      "verso": "つぼ型",
+      "explanation": "出生率が死亡率を下回り、人口が減少に向かう段階を示す。日本はこの型。富士山型と対になる。",
+      "tags": [
+        "人口ピラミッド",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "富士山型",
+          "つりがね型",
+          "三角形型"
+        ],
+        "medium": [
+          "ピラミッド型",
+          "星型",
+          "ひし形型"
+        ],
+        "hard": [
+          "紡錘型",
+          "ひょうたん型",
+          "都市型"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】発展途上国に多い人口ピラミッドと、少子化した先進国に多い人口ピラミッドを、順にそれぞれ何というか。",
+      "verso": "富士山型とつぼ型",
+      "explanation": "富士山型＝年少人口が多い（途上国）、つぼ型＝年少人口が少ない（先進国）。その中間が、出生率が下がり始めたつりがね型。",
+      "tags": [
+        "comparaison",
+        "人口ピラミッド"
+      ],
+      "distractors": {
+        "easy": [
+          "三角形と四角形",
+          "山型と谷型",
+          "農村型と都市型"
+        ],
+        "medium": [
+          "つぼ型と富士山型",
+          "つりがね型とつぼ型",
+          "富士山型とつりがね型"
+        ],
+        "hard": [
+          "星型とひょうたん型",
+          "紡錘型と富士山型",
+          "つりがね型と富士山型"
+        ]
+      }
+    },
+    {
+      "recto": "総人口に占める65歳以上の割合が高まり、同時に子どもの割合が下がる現象を何というか。",
+      "verso": "少子高齢化",
+      "explanation": "日本をはじめ先進国で進行する。労働力人口の減少や社会保障の負担増という課題を生む。",
+      "tags": [
+        "人口",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "人口爆発",
+          "都市化",
+          "過密"
+        ],
+        "medium": [
+          "高度経済成長",
+          "人口転換",
+          "ドーナツ化現象"
+        ],
+        "hard": [
+          "人口オーナス",
+          "人口置換水準",
+          "エイジングインプレイス"
+        ]
+      }
+    },
+    {
+      "recto": "1人の女性が生涯に産む子どもの数の平均を示す指標を何というか。",
+      "verso": "合計特殊出生率",
+      "explanation": "人口を維持するには約2.07が必要とされる。日本はこれを大きく下回り、少子化が続いている。",
+      "tags": [
+        "人口",
+        "指標"
+      ],
+      "distractors": {
+        "easy": [
+          "人口密度",
+          "平均寿命",
+          "死亡率"
+        ],
+        "medium": [
+          "出生率",
+          "自然増加率",
+          "人口増加率"
+        ],
+        "hard": [
+          "純再生産率",
+          "粗出生率",
+          "人口置換水準"
+        ]
+      }
+    },
+    {
+      "recto": "かつて中国が人口の急増をおさえるために行った、夫婦の子どもを原則1人に制限した政策を何というか。",
+      "verso": "一人っ子政策",
+      "explanation": "人口爆発への対策だったが、急速な高齢化や男女比のゆがみを生み、2015年に廃止された。",
+      "tags": [
+        "人口",
+        "政策"
+      ],
+      "distractors": {
+        "easy": [
+          "ゆとり教育",
+          "移民政策",
+          "皆保険制度"
+        ],
+        "medium": [
+          "家族計画",
+          "少子化対策",
+          "計画経済"
+        ],
+        "hard": [
+          "優生政策",
+          "戸籍制度",
+          "人口抑制法"
+        ]
+      }
+    },
+    {
+      "recto": "十分な食料が得られず、慢性的に栄養が不足している状態を何というか。",
+      "verso": "飢餓",
+      "explanation": "おもにサハラ以南アフリカや南アジアで深刻。先進国の「飽食」と同時に存在する不均衡が問題。",
+      "tags": [
+        "食料",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "飽食",
+          "肥満",
+          "豊作"
+        ],
+        "medium": [
+          "栄養失調",
+          "食料自給",
+          "食料危機"
+        ],
+        "hard": [
+          "低栄養",
+          "隠れ飢餓",
+          "食料不安"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】世界には飢餓がある一方、先進国では食べ物が余り捨てられている。この食料の不均衡を象徴する、先進国の食べ過ぎ・余りの状態を何というか。",
+      "verso": "飽食",
+      "explanation": "飢餓（食料不足）と飽食（食料過剰）が同時に存在するのが世界の食料問題。両者を取りちがえない。",
+      "tags": [
+        "piege",
+        "食料"
+      ],
+      "distractors": {
+        "easy": [
+          "飢餓",
+          "栄養失調",
+          "断食"
+        ],
+        "medium": [
+          "粗食",
+          "少食",
+          "食料危機"
+        ],
+        "hard": [
+          "過食症",
+          "食料安全保障",
+          "偏食"
+        ]
+      }
+    },
+    {
+      "recto": "まだ食べられるのに捨てられてしまう食品を何というか。",
+      "verso": "食品ロス（フードロス）",
+      "explanation": "先進国で大量に発生し、飢餓との不均衡を象徴する。削減はSDGsの目標にもなっている。",
+      "tags": [
+        "食料",
+        "課題"
+      ],
+      "distractors": {
+        "easy": [
+          "リサイクル",
+          "在庫",
+          "備蓄"
+        ],
+        "medium": [
+          "生ごみ",
+          "廃棄物",
+          "食料援助"
+        ],
+        "hard": [
+          "フードマイレージ",
+          "規格外品",
+          "余剰農産物"
+        ]
+      }
+    },
+    {
+      "recto": "国内で消費される食料のうち、国内生産でまかなえる割合を何というか。",
+      "verso": "食料自給率",
+      "explanation": "日本はカロリーベースで約4割と先進国で最低水準。輸入への依存は食料安全保障の課題となる。",
+      "tags": [
+        "食料",
+        "指標"
+      ],
+      "distractors": {
+        "easy": [
+          "人口密度",
+          "経済成長率",
+          "識字率"
+        ],
+        "medium": [
+          "食料輸入率",
+          "自給自足率",
+          "エンゲル係数"
+        ],
+        "hard": [
+          "穀物自給率",
+          "食料需給率",
+          "生産額ベース自給率"
+        ]
+      }
+    },
+    {
+      "recto": "1960年代以降、高収量品種の導入などで発展途上国の穀物生産を大きく増やした技術革新を何というか。",
+      "verso": "緑の革命",
+      "explanation": "アジアの食料不足を緩和した。一方で灌漑や肥料の費用がかかり、農家間の格差を広げた面もある。",
+      "tags": [
+        "食料",
+        "技術"
+      ],
+      "distractors": {
+        "easy": [
+          "産業革命",
+          "文明開化",
+          "情報革命"
+        ],
+        "medium": [
+          "白い革命",
+          "青の革命",
+          "遺伝子組み換え"
+        ],
+        "hard": [
+          "第二次緑の革命",
+          "農業革命",
+          "アグリビジネス化"
+        ]
+      }
+    },
+    {
+      "recto": "食料を輸入すると、輸送にともなって多くのエネルギーを消費し環境に負担をかける。この「食料の輸送距離×重量」を示す考え方を何というか。",
+      "verso": "フードマイレージ",
+      "explanation": "遠くから食料を運ぶほど値が大きくなる。地元の食料を消費する地産地消は、この値を下げる取り組み。",
+      "tags": [
+        "食料",
+        "環境"
+      ],
+      "distractors": {
+        "easy": [
+          "カロリー",
+          "食料自給率",
+          "エンゲル係数"
+        ],
+        "medium": [
+          "フードロス",
+          "バーチャルウォーター",
+          "トレーサビリティ"
+        ],
+        "hard": [
+          "カーボンフットプリント",
+          "エコロジカルフットプリント",
+          "food miles の別概念"
+        ]
+      }
+    },
+    {
+      "recto": "地元で生産された農産物を地元で消費する取り組みを何というか。",
+      "verso": "地産地消",
+      "explanation": "輸送距離を減らして環境負荷を下げ、地域の農業を支える。フードマイレージを下げる取り組みの代表例。",
+      "tags": [
+        "食料",
+        "取り組み"
+      ],
+      "distractors": {
+        "easy": [
+          "自由貿易",
+          "大量生産",
+          "グローバル化"
+        ],
+        "medium": [
+          "フェアトレード",
+          "食料援助",
+          "輸入依存"
+        ],
+        "hard": [
+          "スローフード",
+          "六次産業化",
+          "旬産旬消"
+        ]
+      }
+    },
+    {
+      "recto": "農産物を大量に輸入する国は、その生産に使われた水を間接的に輸入しているともいえる。この考え方を何というか。",
+      "verso": "バーチャルウォーター（仮想水）",
+      "explanation": "食料の生産には大量の水が必要。食料輸入国は間接的に他国の水資源に頼っていることを示す。",
+      "tags": [
+        "食料",
+        "水資源"
+      ],
+      "distractors": {
+        "easy": [
+          "地下水",
+          "海水",
+          "雨水"
+        ],
+        "medium": [
+          "フードマイレージ",
+          "水資源",
+          "灌漑用水"
+        ],
+        "hard": [
+          "ウォーターフットプリント",
+          "水ストレス",
+          "水循環"
+        ]
+      }
+    },
+    {
+      "recto": "先進国（北）と発展途上国（南）の間の経済格差と、それにともなう諸問題を何というか。",
+      "verso": "南北問題",
+      "explanation": "食料・貧困・開発の格差の根底にある構造。途上国どうしの格差である南南問題と区別する。",
+      "tags": [
+        "格差",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "東西対立",
+          "冷戦",
+          "民族問題"
+        ],
+        "medium": [
+          "南南問題",
+          "人口問題",
+          "都市問題"
+        ],
+        "hard": [
+          "東西問題",
+          "内陸国問題",
+          "資源ナショナリズム"
+        ]
+      }
+    },
+    {
+      "recto": "発展途上国の間で広がった、資源をもつ国ともたない国などの経済格差を何というか。",
+      "verso": "南南問題",
+      "explanation": "産油国と最貧国の差など、途上国内部の格差を指す。先進国と途上国の南北問題と対で覚える。",
+      "tags": [
+        "格差"
+      ],
+      "distractors": {
+        "easy": [
+          "東西問題",
+          "冷戦",
+          "人種問題"
+        ],
+        "medium": [
+          "南北問題",
+          "都市問題",
+          "人口問題"
+        ],
+        "hard": [
+          "内陸国問題",
+          "後発開発途上国問題",
+          "資源の呪い"
+        ]
+      }
+    },
+    {
+      "recto": "都市に人口や産業が過度に集中する一方、農村では人口が流出して機能の維持が難しくなる。この農村側の問題を何というか。",
+      "verso": "過疎",
+      "explanation": "先進国の人口移動で生じる。都市の過密と対になる。日本でも地方の重要な課題となっている。",
+      "tags": [
+        "人口",
+        "地域"
+      ],
+      "distractors": {
+        "easy": [
+          "過密",
+          "人口爆発",
+          "都市化"
+        ],
+        "medium": [
+          "少子化",
+          "高齢化",
+          "空洞化"
+        ],
+        "hard": [
+          "限界集落化",
+          "ドーナツ化",
+          "スプロール化"
+        ]
+      }
+    },
+    {
+      "recto": "生産年齢人口が多く、経済成長に有利にはたらく人口構成の状態を何というか。",
+      "verso": "人口ボーナス",
+      "explanation": "働く世代の割合が高い時期。逆に高齢者を支える負担が重くなる状態を人口オーナスという。",
+      "tags": [
+        "人口",
+        "経済"
+      ],
+      "distractors": {
+        "easy": [
+          "人口爆発",
+          "少子化",
+          "過疎"
+        ],
+        "medium": [
+          "人口オーナス",
+          "人口転換",
+          "高度成長"
+        ],
+        "hard": [
+          "人口置換水準",
+          "人口静止",
+          "生産年齢人口比"
+        ]
+      }
+    }
+  ]
+}

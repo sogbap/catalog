@@ -1,0 +1,536 @@
+{
+  "id": "br-ensino-medio-historia-geral-renascimento-reforma",
+  "title": "Renascimento e Reforma Religiosa",
+  "emoji": "🎨",
+  "subject": "history",
+  "country": "br",
+  "courseDescription": "Do humanismo renascentista à Reforma Protestante e à Contrarreforma. A ruptura com a mentalidade medieval.",
+  "lesson": "<style>\n  /* Estilos dos gráficos (SVG). Usam currentColor (texto) e var(--accent)\n     (cor da matéria), adaptando-se ao tema claro/escuro do app. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Renascimento e Reforma Religiosa</h1>\n\n<div class=\"callout\">\n  <strong>Pontos de estudo</strong><br>\n  <b>Nível:</b> Ensino Médio<br>\n  <b>Área:</b> História Geral<br>\n  <b>Período:</b> séculos XV — XVI\n</div>\n\n<blockquote>\n  <p><b>Questão central.</b> Como o Renascimento e a Reforma romperam com a mentalidade medieval e abriram a Idade Moderna?</p>\n</blockquote>\n\n<p>Nos séculos XV e XVI, a Europa viveu uma dupla ruptura. No campo cultural, o <strong>Renascimento</strong> colocou o ser humano e a razão no centro (<strong>antropocentrismo</strong>). No campo religioso, a <strong>Reforma Protestante</strong> quebrou a unidade da Igreja Católica, que reagiu com a <strong>Contrarreforma</strong>. Juntos, marcam a passagem da Idade Média para a Idade Moderna.</p>\n\n<h2>1 · O Renascimento cultural</h2>\n\n<p>O <strong>Renascimento</strong> nasceu nas ricas cidades italianas, como <strong>Florença</strong>, financiado pelo <strong>mecenato</strong> de famílias como os Médici. Resgatou a Antiguidade Clássica e valorizou o ser humano por meio do <strong>humanismo</strong>.</p>\n\n<p>A mudança central foi passar do <strong>teocentrismo</strong> medieval para o <strong>antropocentrismo</strong>. Artistas como <strong>Leonardo da Vinci</strong> e Michelangelo, e cientistas como <strong>Copérnico</strong>, encarnaram esse novo espírito.</p>\n\n<div class=\"callout\">\n  <strong>Conceito · Antropocentrismo</strong><br>\n  Visão de mundo que coloca o ser humano no centro das atenções e explicações, valorizando sua razão e capacidade. Substituiu o teocentrismo medieval.\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Comparação entre teocentrismo medieval e antropocentrismo renascentista\">\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">Teocentrismo</text>\n  <text x=\"87\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">Idade Média</text>\n  <text x=\"26\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Deus no centro</text>\n  <text x=\"26\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Fé acima da razão</text>\n  <text x=\"26\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Igreja domina o saber</text>\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11.5\" font-weight=\"700\">Antropocentrismo</text>\n  <text x=\"253\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">Renascimento</text>\n  <text x=\"192\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Ser humano no centro</text>\n  <text x=\"192\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Razão e ciência</text>\n  <text x=\"192\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Valorização da arte</text>\n</svg>\n<figcaption>A grande virada da mentalidade: de Deus para o ser humano como centro.</figcaption>\n</figure>\n\n<h2>2 · A Reforma Protestante</h2>\n\n<p>Em <strong>1517</strong>, o monge <strong>Martinho Lutero</strong> afixou as <strong>95 teses</strong> contra a venda de <strong>indulgências</strong>, iniciando a <strong>Reforma Protestante</strong>. Defendia a <strong>salvação pela fé</strong> e a leitura direta da Bíblia.</p>\n\n<p>A Reforma se espalhou: <strong>João Calvino</strong> difundiu o protestantismo na Suíça (com a predestinação), e o rei <strong>Henrique VIII</strong> criou a Igreja Anglicana na Inglaterra. A <strong>imprensa</strong> de Gutenberg foi decisiva para divulgar essas ideias.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Da crítica à Igreja à ruptura da Reforma Protestante\">\n  <defs>\n    <marker id=\"ar-brr1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"94\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"55\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">Indulgências</text>\n  <text x=\"55\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">abuso da Igreja</text>\n  <path d=\"M104,68 L120,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-brr1)\"/>\n  <rect x=\"123\" y=\"42\" width=\"94\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">95 teses</text>\n  <text x=\"170\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Lutero, 1517</text>\n  <path d=\"M219,68 L235,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-brr1)\"/>\n  <rect x=\"238\" y=\"42\" width=\"94\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"285\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">Reforma</text>\n  <text x=\"285\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">novas igrejas</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">a imprensa espalhou as ideias</text>\n</svg>\n<figcaption>A crítica aos abusos levou à ruptura e ao nascimento das igrejas protestantes.</figcaption>\n</figure>\n\n<h2>3 · A Contrarreforma</h2>\n\n<p>A Igreja Católica reagiu com a <strong>Contrarreforma</strong>. No <strong>Concílio de Trento</strong> (1545-1563), reafirmou seus dogmas e a autoridade do papa. Reforçou a <strong>Inquisição</strong> e criou a <strong>Companhia de Jesus</strong> (jesuítas), voltada à educação e à catequese — inclusive no Brasil colonial.</p>\n\n<p><strong>Atenção:</strong> a Contrarreforma não é protestante — é a resposta católica contra a Reforma.</p>\n\n<div class=\"callout\">\n  <strong>Conceito · Contrarreforma</strong><br>\n  Reação da Igreja Católica à Reforma Protestante, buscando se reorganizar e combater o protestantismo. Inclui o Concílio de Trento, a Inquisição e os jesuítas.\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Instrumentos da Contrarreforma: Concílio de Trento, Inquisição e jesuítas\">\n  <defs>\n    <marker id=\"ar-brr2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"95\" y=\"8\" width=\"150\" height=\"44\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">Contrarreforma</text>\n  <path d=\"M150,52 L65,86\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-brr2)\"/>\n  <path d=\"M170,52 L170,86\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-brr2)\"/>\n  <path d=\"M190,52 L275,86\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-brr2)\"/>\n  <rect x=\"8\" y=\"92\" width=\"104\" height=\"100\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"124\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">Concílio</text>\n  <text x=\"60\" y=\"140\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">de Trento</text>\n  <text x=\"60\" y=\"168\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">reafirma dogmas</text>\n  <rect x=\"118\" y=\"92\" width=\"104\" height=\"100\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"130\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">Inquisição</text>\n  <text x=\"170\" y=\"160\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">combate heresias</text>\n  <rect x=\"228\" y=\"92\" width=\"104\" height=\"100\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"130\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">Jesuítas</text>\n  <text x=\"280\" y=\"160\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">educação e fé</text>\n</svg>\n<figcaption>Três instrumentos com que a Igreja Católica reagiu ao protestantismo.</figcaption>\n</figure>\n\n<h2>4 · O nascimento da Idade Moderna</h2>\n\n<p>Renascimento e Reforma romperam com a mentalidade e a unidade religiosa da Idade Média. A razão, a ciência (como o <strong>heliocentrismo</strong> de Copérnico) e a valorização do indivíduo passaram a orientar o pensamento.</p>\n\n<p>Essa dupla ruptura marca a passagem da <strong>Idade Média</strong> para a <strong>Idade Moderna</strong> — o mundo do humanismo, das navegações e, mais tarde, do Iluminismo.</p>\n\n<h2>O essencial</h2>\n\n<h3>Linha do tempo</h3>\n\n<table>\n  <tr><th>Data</th><th>Acontecimento</th></tr>\n  <tr><td>séc. XV</td><td>Renascimento em Florença · imprensa de Gutenberg</td></tr>\n  <tr><td>1517</td><td>95 teses de Lutero (início da Reforma)</td></tr>\n  <tr><td>1534</td><td>Henrique VIII cria a Igreja Anglicana</td></tr>\n  <tr><td>1540</td><td>Fundação da Companhia de Jesus</td></tr>\n  <tr><td>1545-1563</td><td>Concílio de Trento (Contrarreforma)</td></tr>\n</table>\n\n<h3>Termos-chave</h3>\n\n<table>\n  <tr><th>Termo</th><th>Significado</th></tr>\n  <tr><td>Antropocentrismo</td><td>Ser humano no centro (Renascimento)</td></tr>\n  <tr><td>Humanismo</td><td>Valorização da razão e da Antiguidade</td></tr>\n  <tr><td>Reforma Protestante</td><td>Ruptura com a Igreja Católica (1517)</td></tr>\n  <tr><td>Salvação pela fé</td><td>Princípio central de Lutero</td></tr>\n  <tr><td>Contrarreforma</td><td>Reação católica ao protestantismo</td></tr>\n</table>\n\n<h3>Personagens</h3>\n\n<table>\n  <tr><th>Nome</th><th>Papel</th></tr>\n  <tr><td>Leonardo da Vinci</td><td>Símbolo do gênio renascentista</td></tr>\n  <tr><td>Martinho Lutero</td><td>Iniciou a Reforma (95 teses)</td></tr>\n  <tr><td>João Calvino</td><td>Difundiu o protestantismo (predestinação)</td></tr>\n  <tr><td>Inácio de Loyola</td><td>Fundou os jesuítas (Contrarreforma)</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  Não inverta <b>teocentrismo</b> (medieval) e <b>antropocentrismo</b> (renascentista). E lembre: a <b>Contrarreforma</b> é <b>católica</b> — foi a reação contra o protestantismo, e não um movimento protestante.\n</div>\n\n<blockquote>\n  <p>Com a razão no centro e a Igreja dividida, a Europa entra na Idade Moderna. Esse novo espírito, curioso e ambicioso, já impulsionava navios rumo a mares desconhecidos — o tema do próximo capítulo: a expansão marítima e o mundo dos Estados absolutistas.</p>\n</blockquote>\n",
+  "questionLang": "pt",
+  "answerLang": "pt",
+  "version": 1,
+  "level": "Ensino Médio",
+  "theme": "História Geral",
+  "cards": [
+    {
+      "recto": "Movimento cultural dos séculos XV e XVI que valorizou a razão, o ser humano e a herança da Antiguidade Clássica.",
+      "verso": "Renascimento",
+      "explanation": "Nasceu nas ricas cidades italianas e rompeu com a mentalidade medieval. Valorizou a arte, a ciência e o conhecimento greco-romano.",
+      "tags": [
+        "renascimento",
+        "cultura"
+      ],
+      "distractors": {
+        "easy": [
+          "Feudalismo",
+          "Iluminismo",
+          "Romantismo"
+        ],
+        "medium": [
+          "Reforma",
+          "Humanismo",
+          "Barroco"
+        ],
+        "hard": [
+          "Escolástica",
+          "Classicismo",
+          "Maneirismo"
+        ]
+      }
+    },
+    {
+      "recto": "Visão de mundo renascentista que colocou o ser humano no centro das atenções e explicações.",
+      "verso": "Antropocentrismo",
+      "explanation": "Substituiu o teocentrismo medieval (Deus no centro). Valorizava a capacidade e a razão humanas. Base do pensamento moderno.",
+      "tags": [
+        "renascimento",
+        "mentalidade"
+      ],
+      "distractors": {
+        "easy": [
+          "Teocentrismo",
+          "Ateísmo",
+          "Politeísmo"
+        ],
+        "medium": [
+          "Racionalismo",
+          "Naturalismo",
+          "Materialismo"
+        ],
+        "hard": [
+          "Humanismo cívico",
+          "Neoplatonismo",
+          "Empirismo"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] Qual visão de mundo predominava na Idade Média e qual passou a predominar no Renascimento?",
+      "verso": "Teocentrismo (medieval) e antropocentrismo (renascentista)",
+      "explanation": "Teocentrismo = Deus no centro (Idade Média); antropocentrismo = ser humano no centro (Renascimento). Não inverter as duas.",
+      "tags": [
+        "comparaison",
+        "mentalidade"
+      ],
+      "distractors": {
+        "easy": [
+          "Razão e fé",
+          "Ciência e religião",
+          "Homem e natureza"
+        ],
+        "medium": [
+          "Antropocentrismo (medieval) e teocentrismo (renascentista)",
+          "Ateísmo e teocentrismo",
+          "Humanismo e escolástica"
+        ],
+        "hard": [
+          "Racionalismo e empirismo",
+          "Naturalismo e teocentrismo",
+          "Politeísmo e antropocentrismo"
+        ]
+      }
+    },
+    {
+      "recto": "Corrente intelectual do Renascimento que estudava as obras da Antiguidade e valorizava o ser humano e suas capacidades.",
+      "verso": "Humanismo",
+      "explanation": "Os humanistas resgatavam textos gregos e romanos e defendiam a educação e a razão. Base cultural do Renascimento.",
+      "tags": [
+        "renascimento",
+        "cultura"
+      ],
+      "distractors": {
+        "easy": [
+          "Escolástica",
+          "Teologia",
+          "Feudalismo"
+        ],
+        "medium": [
+          "Racionalismo",
+          "Iluminismo",
+          "Empirismo"
+        ],
+        "hard": [
+          "Patrística",
+          "Estoicismo",
+          "Ceticismo"
+        ]
+      }
+    },
+    {
+      "recto": "Apoio financeiro que ricos comerciantes e nobres davam aos artistas do Renascimento é chamado de quê?",
+      "verso": "Mecenato",
+      "explanation": "Famílias como os Médici, de Florença, financiavam artistas. O comércio e a burguesia sustentaram o florescimento das artes.",
+      "tags": [
+        "renascimento",
+        "economia"
+      ],
+      "distractors": {
+        "easy": [
+          "Dízimo",
+          "Imposto",
+          "Salário"
+        ],
+        "medium": [
+          "Patrocínio estatal",
+          "Doação religiosa",
+          "Herança"
+        ],
+        "hard": [
+          "Simonia",
+          "Comenda",
+          "Prebenda"
+        ]
+      }
+    },
+    {
+      "recto": "Artista renascentista, autor da \"Mona Lisa\", símbolo do ideal do homem culto em várias áreas do saber.",
+      "verso": "Leonardo da Vinci",
+      "explanation": "Pintor, cientista e inventor, encarna o \"homem renascentista\" — completo e curioso. Um dos maiores gênios do período.",
+      "tags": [
+        "renascimento",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Sócrates",
+          "Lutero",
+          "Colombo"
+        ],
+        "medium": [
+          "Michelangelo",
+          "Rafael",
+          "Donatello"
+        ],
+        "hard": [
+          "Botticelli",
+          "Ticiano",
+          "Brunelleschi"
+        ]
+      }
+    },
+    {
+      "recto": "Cidade italiana considerada o berço do Renascimento, enriquecida pelo comércio e pela família Médici.",
+      "verso": "Florença",
+      "explanation": "A riqueza do comércio italiano e o mecenato dos Médici fizeram de Florença o centro inicial do Renascimento.",
+      "tags": [
+        "renascimento",
+        "espaco"
+      ],
+      "distractors": {
+        "easy": [
+          "Roma antiga",
+          "Paris",
+          "Lisboa"
+        ],
+        "medium": [
+          "Veneza",
+          "Milão",
+          "Nápoles"
+        ],
+        "hard": [
+          "Gênova",
+          "Pisa",
+          "Ferrara"
+        ]
+      }
+    },
+    {
+      "recto": "Movimento religioso iniciado em 1517 que rompeu a unidade da Igreja Católica na Europa.",
+      "verso": "Reforma Protestante",
+      "explanation": "Criticava abusos da Igreja, como a venda de indulgências. Deu origem a novas igrejas cristãs (protestantes).",
+      "tags": [
+        "reforma",
+        "religiao"
+      ],
+      "distractors": {
+        "easy": [
+          "Cruzadas",
+          "Renascimento",
+          "Inquisição"
+        ],
+        "medium": [
+          "Contrarreforma",
+          "Cisma do Oriente",
+          "Concílio de Trento"
+        ],
+        "hard": [
+          "Reforma Gregoriana",
+          "Reforma Católica",
+          "Reforma Radical"
+        ]
+      }
+    },
+    {
+      "recto": "Monge alemão que, em 1517, publicou as 95 teses contra a venda de indulgências, iniciando a Reforma.",
+      "verso": "Martinho Lutero",
+      "explanation": "Defendeu a salvação pela fé e a leitura direta da Bíblia. Fundou o luteranismo. Não confundir com Calvino, que veio depois.",
+      "tags": [
+        "reforma",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Leonardo da Vinci",
+          "Maomé",
+          "Colombo"
+        ],
+        "medium": [
+          "João Calvino",
+          "Henrique VIII",
+          "Inácio de Loyola"
+        ],
+        "hard": [
+          "João Huss",
+          "Zwínglio",
+          "Thomas Müntzer"
+        ]
+      }
+    },
+    {
+      "recto": "Documento que Lutero afixou em 1517 criticando principalmente a venda de indulgências pela Igreja.",
+      "verso": "As 95 teses",
+      "explanation": "As indulgências eram o perdão de pecados vendido pela Igreja. As teses de Lutero, difundidas pela imprensa, iniciaram a Reforma.",
+      "tags": [
+        "reforma",
+        "documento"
+      ],
+      "distractors": {
+        "easy": [
+          "A Bíblia",
+          "O Alcorão",
+          "A Constituição"
+        ],
+        "medium": [
+          "O Édito de Nantes",
+          "A Bula Papal",
+          "O Concílio de Trento"
+        ],
+        "hard": [
+          "A Confissão de Augsburgo",
+          "Os Institutos",
+          "A Paz de Augsburgo"
+        ]
+      }
+    },
+    {
+      "recto": "Segundo Lutero, o ser humano se salva principalmente por meio de quê?",
+      "verso": "Pela fé",
+      "explanation": "A \"salvação pela fé\" opunha-se à ideia católica de salvação pelas obras e sacramentos. Princípio central do protestantismo.",
+      "tags": [
+        "reforma",
+        "doutrina"
+      ],
+      "distractors": {
+        "easy": [
+          "Pelo dinheiro",
+          "Pela guerra",
+          "Pelo trabalho braçal"
+        ],
+        "medium": [
+          "Pelas obras e sacramentos",
+          "Pelas indulgências",
+          "Pela peregrinação"
+        ],
+        "hard": [
+          "Pela penitência",
+          "Pela confissão",
+          "Pela caridade apenas"
+        ]
+      }
+    },
+    {
+      "recto": "Reformador que difundiu o protestantismo na Suíça e defendeu a doutrina da predestinação.",
+      "verso": "João Calvino",
+      "explanation": "O calvinismo, com sua valorização do trabalho e do sucesso, influenciou a mentalidade capitalista. Veio depois de Lutero.",
+      "tags": [
+        "reforma",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Leonardo da Vinci",
+          "Colombo",
+          "Michelangelo"
+        ],
+        "medium": [
+          "Martinho Lutero",
+          "Henrique VIII",
+          "Inácio de Loyola"
+        ],
+        "hard": [
+          "Zwínglio",
+          "João Knox",
+          "Melâncton"
+        ]
+      }
+    },
+    {
+      "recto": "Rei que rompeu com o papa e criou a Igreja Anglicana na Inglaterra, tornando-se seu chefe.",
+      "verso": "Henrique VIII",
+      "explanation": "Rompeu com Roma por motivos políticos e pessoais (recusa de anular seu casamento). Criou a Igreja Anglicana em 1534.",
+      "tags": [
+        "reforma",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Luís XIV",
+          "Napoleão",
+          "Carlos Magno"
+        ],
+        "medium": [
+          "Lutero",
+          "Calvino",
+          "Filipe II"
+        ],
+        "hard": [
+          "Eduardo VI",
+          "Jaime I",
+          "Carlos V"
+        ]
+      }
+    },
+    {
+      "recto": "Reação da Igreja Católica à Reforma Protestante, buscando se reorganizar e combater o protestantismo.",
+      "verso": "Contrarreforma (Reforma Católica)",
+      "explanation": "Incluiu o Concílio de Trento, o reforço da Inquisição e a criação dos jesuítas. Reação, não confundir com a Reforma Protestante.",
+      "tags": [
+        "contrarreforma",
+        "religiao"
+      ],
+      "distractors": {
+        "easy": [
+          "Reforma Protestante",
+          "Renascimento",
+          "Cruzadas"
+        ],
+        "medium": [
+          "Cisma do Oriente",
+          "Reforma Radical",
+          "Iluminismo"
+        ],
+        "hard": [
+          "Reforma Gregoriana",
+          "Jansenismo",
+          "Galicanismo"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] A Contrarreforma foi um movimento a favor ou contra o protestantismo?",
+      "verso": "Contra: foi a reação da Igreja Católica ao protestantismo",
+      "explanation": "Erro comum: a Contrarreforma NÃO é protestante. Foi a resposta da Igreja Católica para combater a Reforma e se reorganizar.",
+      "tags": [
+        "piege",
+        "contrarreforma"
+      ],
+      "distractors": {
+        "easy": [
+          "A favor: apoiava Lutero",
+          "A favor: criou o protestantismo",
+          "A favor: rompeu com o papa"
+        ],
+        "medium": [
+          "A favor: difundiu o calvinismo",
+          "A favor: aboliu a Inquisição",
+          "A favor: aprovou as 95 teses"
+        ],
+        "hard": [
+          "A favor: fundou o anglicanismo",
+          "A favor: era luterana",
+          "A favor: negava o papa"
+        ]
+      }
+    },
+    {
+      "recto": "Concílio (1545-1563) em que a Igreja Católica reafirmou seus dogmas e organizou a reação ao protestantismo.",
+      "verso": "Concílio de Trento",
+      "explanation": "Reafirmou a autoridade do papa e dos sacramentos, e criou medidas disciplinares. Peça central da Contrarreforma.",
+      "tags": [
+        "contrarreforma",
+        "documento"
+      ],
+      "distractors": {
+        "easy": [
+          "As 95 teses",
+          "O Édito de Nantes",
+          "A Bíblia"
+        ],
+        "medium": [
+          "Concílio de Niceia",
+          "Concílio de Constança",
+          "Concílio Vaticano"
+        ],
+        "hard": [
+          "Dieta de Worms",
+          "Paz de Augsburgo",
+          "Concordata"
+        ]
+      }
+    },
+    {
+      "recto": "Ordem religiosa criada por Inácio de Loyola para difundir o catolicismo e a educação durante a Contrarreforma.",
+      "verso": "Companhia de Jesus (jesuítas)",
+      "explanation": "Os jesuítas atuaram na educação e na catequese, inclusive no Brasil colonial. Instrumento importante da Contrarreforma.",
+      "tags": [
+        "contrarreforma",
+        "instituicao"
+      ],
+      "distractors": {
+        "easy": [
+          "Cruzados",
+          "Templários",
+          "Beneditinos apenas"
+        ],
+        "medium": [
+          "Franciscanos",
+          "Dominicanos",
+          "Inquisidores"
+        ],
+        "hard": [
+          "Carmelitas",
+          "Oratorianos",
+          "Capuchinhos"
+        ]
+      }
+    },
+    {
+      "recto": "Invenção que, no século XV, permitiu difundir livros e ideias com rapidez, ajudando a espalhar o Renascimento e a Reforma.",
+      "verso": "A imprensa (prensa de tipos móveis)",
+      "explanation": "Criada por Gutenberg, barateou os livros e acelerou a circulação de ideias. Foi decisiva para difundir as teses de Lutero.",
+      "tags": [
+        "renascimento",
+        "tecnologia"
+      ],
+      "distractors": {
+        "easy": [
+          "A bússola",
+          "A pólvora",
+          "O telescópio"
+        ],
+        "medium": [
+          "O papel",
+          "A caravela",
+          "O relógio"
+        ],
+        "hard": [
+          "A xilogravura",
+          "O astrolábio",
+          "A gráfica a vapor"
+        ]
+      }
+    },
+    {
+      "recto": "No campo da ciência, quem defendeu que a Terra gira em torno do Sol (heliocentrismo), desafiando a Igreja?",
+      "verso": "Copérnico (e depois Galileu)",
+      "explanation": "O heliocentrismo rompeu com a visão da Terra como centro do universo. Símbolo do novo espírito científico do Renascimento.",
+      "tags": [
+        "renascimento",
+        "ciencia"
+      ],
+      "distractors": {
+        "easy": [
+          "Lutero",
+          "Calvino",
+          "Loyola"
+        ],
+        "medium": [
+          "Newton",
+          "Aristóteles",
+          "Ptolomeu"
+        ],
+        "hard": [
+          "Kepler apenas",
+          "Bruno apenas",
+          "Tycho Brahe"
+        ]
+      }
+    },
+    {
+      "recto": "De modo geral, o Renascimento e a Reforma marcaram a passagem de qual período histórico para qual outro?",
+      "verso": "Da Idade Média para a Idade Moderna",
+      "explanation": "A ruptura com a mentalidade e a unidade religiosa medievais abriu a Idade Moderna, marcada pela razão, pela ciência e pelo indivíduo.",
+      "tags": [
+        "periodizacao",
+        "sintese"
+      ],
+      "distractors": {
+        "easy": [
+          "Da Antiguidade para a Idade Média",
+          "Da Idade Moderna para a Contemporânea",
+          "Da Pré-História para a Antiguidade"
+        ],
+        "medium": [
+          "Da Idade Moderna para a Média",
+          "Da Antiguidade para a Moderna",
+          "Da Contemporânea para a Moderna"
+        ],
+        "hard": [
+          "Do feudalismo para o Império",
+          "Da colônia para a república",
+          "Da República para o Império"
+        ]
+      }
+    }
+  ]
+}

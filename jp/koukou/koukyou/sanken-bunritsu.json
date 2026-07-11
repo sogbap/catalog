@@ -1,0 +1,533 @@
+{
+  "id": "jp-koukou-koukyou-sanken-bunritsu",
+  "title": "国会・内閣・裁判所（三権分立）",
+  "emoji": "🏦",
+  "subject": "civics",
+  "country": "jp",
+  "courseDescription": "国会・内閣・裁判所の役割と三権分立のしくみ。日本の政治機構を学ぶ。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>国会・内閣・裁判所（三権分立）</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・公共<br>\n  <b>大項目B：</b>自立した主体として社会に参画する私たち<br>\n  <b>内容：</b>国会・内閣・裁判所と三権分立\n</div>\n\n<blockquote>\n  <p><b>問い</b>　権力が一つに集まらないように、日本の政治はどう組み立てられているのだろうか。</p>\n</blockquote>\n\n<p>権力の集中と濫用を防ぐため、日本は<strong>三権分立</strong>を採用している。立法を担う<strong>国会</strong>、行政を担う<strong>内閣</strong>、司法を担う<strong>裁判所</strong>が、たがいに抑制し均衡する。それぞれの役割と、権力どうしのチェックのしくみを整理しよう。</p>\n\n<h2>1・国会 ― 立法権</h2>\n\n<p><strong>国会</strong>は「<strong>国権の最高機関</strong>」であり「<strong>唯一の立法機関</strong>」である（憲法41条）。<strong>衆議院</strong>と<strong>参議院</strong>からなる<strong>二院制</strong>をとり、慎重な審議を行う。</p>\n\n<p>予算や首相の指名などでは、任期が短く解散もあってより国民の意思を反映するとされる<strong>衆議院の優越</strong>が認められている。国会はまた、<strong>国政調査権</strong>で行政を監視する。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"衆議院と参議院の比較。任期と解散の違い\">\n  <!-- 左：衆議院 -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">衆議院</text>\n  <text x=\"87\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">優越あり</text>\n  <text x=\"26\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">任期4年</text>\n  <text x=\"26\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">解散あり</text>\n  <text x=\"26\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">民意を反映しやすい</text>\n  <!-- 右：参議院 -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">参議院</text>\n  <text x=\"253\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">「良識の府」</text>\n  <text x=\"192\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">任期6年</text>\n  <text x=\"192\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">解散なし</text>\n  <text x=\"192\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">3年ごとに半数改選</text>\n</svg>\n<figcaption>任期と解散の有無が両院の違い。解散のある衆議院に優越が認められる。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・衆議院の優越</strong><br>\n  予算の議決・条約の承認・内閣総理大臣の指名などで、衆議院の議決が参議院より優先されること。衆議院がより国民の意思を反映するとされるため。\n</div>\n\n<h2>2・内閣 ― 行政権</h2>\n\n<p><strong>内閣</strong>は行政権を担い、<strong>内閣総理大臣</strong>と<strong>国務大臣</strong>で構成される。内閣は国会の信任にもとづいて成立し、国会に連帯して責任を負う。このしくみを<strong>議院内閣制</strong>という。</p>\n\n<p>国会が<strong>内閣不信任決議</strong>をすると、内閣は総辞職するか、<strong>衆議院を解散</strong>しなければならない。国民が行政の長を直接選ぶ<strong>大統領制</strong>（アメリカ）とは異なるしくみである。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"議院内閣制と大統領制の比較\">\n  <!-- 左：議院内閣制 -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">議院内閣制</text>\n  <text x=\"87\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">日本・イギリス</text>\n  <text x=\"26\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">議会が首相を指名</text>\n  <text x=\"26\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">内閣は国会に責任</text>\n  <text x=\"26\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">解散・不信任あり</text>\n  <!-- 右：大統領制 -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">大統領制</text>\n  <text x=\"253\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">アメリカ</text>\n  <text x=\"192\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">国民が直接選ぶ</text>\n  <text x=\"192\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">議会から独立</text>\n  <text x=\"192\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">解散・不信任なし</text>\n</svg>\n<figcaption>行政の長の選び方と議会との関係が、両者を分ける違い。</figcaption>\n</figure>\n\n<h2>3・裁判所 ― 司法権</h2>\n\n<p><strong>裁判所</strong>は司法権を担い、法にもとづいて争いを裁く。公正な裁判のため、他の権力から干渉されない<strong>司法権の独立</strong>が保障される。裁判官は良心と法にのみ従う。</p>\n\n<p>裁判所は、法律が憲法に違反していないかを判断する<strong>違憲審査権</strong>をもつ。最終判断を下す最高裁判所は「<strong>憲法の番人</strong>」と呼ばれる。慎重を期すため、原則3回まで裁判を受けられる<strong>三審制</strong>もとられている。</p>\n\n<div class=\"callout\">\n  <strong>用語・違憲審査権</strong><br>\n  法律や政治が憲法に違反していないかを、裁判所が審査する権限。すべての裁判所がもつが、最終判断は最高裁が下すため「憲法の番人」と呼ばれる。\n</div>\n\n<h2>4・三権の抑制と均衡、国民の役割</h2>\n\n<p>三権はたがいを抑制し合う。国会は内閣を<strong>不信任決議</strong>や<strong>国政調査権</strong>で、裁判官を<strong>弾劾裁判</strong>で。内閣は<strong>衆議院の解散</strong>で。裁判所は<strong>違憲審査権</strong>で——こうして<strong>抑制と均衡</strong>が保たれる。</p>\n\n<p>そして三権の外にいる主権者である<strong>国民</strong>が、<strong>選挙</strong>で国会を、<strong>世論</strong>で内閣を、<strong>国民審査</strong>で裁判所を監視する。これが権力の集中と濫用を防ぐしくみである。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 220\" role=\"img\" aria-label=\"三権分立のしくみ。国会・内閣・裁判所が抑制し合い、国民が監視する\">\n  <!-- 国会 -->\n  <rect x=\"120\" y=\"10\" width=\"100\" height=\"44\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"30\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">国会</text>\n  <text x=\"170\" y=\"47\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">立法</text>\n  <!-- 内閣 -->\n  <rect x=\"14\" y=\"120\" width=\"100\" height=\"44\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"64\" y=\"140\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">内閣</text>\n  <text x=\"64\" y=\"157\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">行政</text>\n  <!-- 裁判所 -->\n  <rect x=\"226\" y=\"120\" width=\"100\" height=\"44\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"276\" y=\"140\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">裁判所</text>\n  <text x=\"276\" y=\"157\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">司法</text>\n  <!-- 相互の線 -->\n  <line x1=\"130\" y1=\"56\" x2=\"80\" y2=\"118\" style=\"stroke:var(--accent);stroke-width:1.5;stroke-opacity:.6\"/>\n  <line x1=\"210\" y1=\"56\" x2=\"260\" y2=\"118\" style=\"stroke:var(--accent);stroke-width:1.5;stroke-opacity:.6\"/>\n  <line x1=\"114\" y1=\"142\" x2=\"226\" y2=\"142\" style=\"stroke:var(--accent);stroke-width:1.5;stroke-opacity:.6\"/>\n  <text x=\"88\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">解散／不信任</text>\n  <text x=\"252\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">違憲審査／弾劾</text>\n  <!-- 国民（強調） -->\n  <rect x=\"110\" y=\"180\" width=\"120\" height=\"34\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"202\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">国民（主権者）</text>\n  <text x=\"170\" y=\"175\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">選挙・世論・国民審査で監視</text>\n</svg>\n<figcaption>三権がたがいを抑え合い、その全体を国民が監視する。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>権力</th><th>担う機関</th></tr>\n  <tr><td>立法権</td><td>国会（国権の最高機関）</td></tr>\n  <tr><td>行政権</td><td>内閣（議院内閣制）</td></tr>\n  <tr><td>司法権</td><td>裁判所（司法権の独立）</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>三権分立</td><td>立法・行政・司法を分け抑制し合う</td></tr>\n  <tr><td>衆議院の優越</td><td>予算・首相指名などで衆議院が優先</td></tr>\n  <tr><td>議院内閣制</td><td>内閣が国会の信任にもとづくしくみ</td></tr>\n  <tr><td>司法権の独立</td><td>裁判所が権力から干渉されないこと</td></tr>\n  <tr><td>違憲審査権</td><td>法律の合憲性を裁判所が審査する権限</td></tr>\n  <tr><td>三審制</td><td>原則3回まで裁判を受けられるしくみ</td></tr>\n</table>\n\n<h3>三権の抑制手段</h3>\n\n<table>\n  <tr><th>誰が誰を</th><th>手段</th></tr>\n  <tr><td>国会 → 内閣</td><td>内閣不信任決議・国政調査権</td></tr>\n  <tr><td>内閣 → 国会</td><td>衆議院の解散</td></tr>\n  <tr><td>裁判所 → 国会・内閣</td><td>違憲審査権</td></tr>\n  <tr><td>国民 → 裁判所</td><td>国民審査</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  <b>議院内閣制</b>（日本・議会が首相を指名）と<b>大統領制</b>（アメリカ・国民が直接選ぶ）を混同しないこと。また刑事裁判に参加する<b>裁判員制度</b>と、最高裁裁判官を審査する<b>国民審査</b>も別の制度である。\n</div>\n\n<blockquote>\n  <p>三権分立は、権力を分けて監視し合うことで、私たちの人権を守るしくみである。しかし政治は、国だけで動くのではない。より身近な地域の政治——地方自治と選挙こそ、私たちが主権者として最初に関わる場である。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "公共 ― 自立した主体として社会に参画する私たち",
+  "cards": [
+    {
+      "recto": "国家権力を立法・行政・司法の三つに分け、たがいに抑制し合わせるしくみを何というか。",
+      "verso": "三権分立",
+      "explanation": "モンテスキューが説いた。権力の集中と濫用を防ぐ。日本では国会・内閣・裁判所がそれぞれを担う。",
+      "tags": [
+        "政治機構",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "中央集権",
+          "議院内閣制",
+          "地方分権"
+        ],
+        "medium": [
+          "二院制",
+          "権力集中",
+          "多数決"
+        ],
+        "hard": [
+          "抑制と均衡",
+          "権力融合",
+          "議会主権"
+        ]
+      }
+    },
+    {
+      "recto": "日本の政治で、立法権を担い、「国権の最高機関」であり「唯一の立法機関」とされるのはどこか。",
+      "verso": "国会",
+      "explanation": "国民の代表からなり、法律を制定する。憲法41条が「国権の最高機関」「唯一の立法機関」と定める。",
+      "tags": [
+        "国会",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "内閣",
+          "裁判所",
+          "天皇"
+        ],
+        "medium": [
+          "最高裁判所",
+          "内閣総理大臣",
+          "省庁"
+        ],
+        "hard": [
+          "衆議院のみ",
+          "参議院のみ",
+          "国務大臣会議"
+        ]
+      }
+    },
+    {
+      "recto": "国会が、衆議院と参議院の二つの議院で構成されるしくみを何というか。",
+      "verso": "二院制（両院制）",
+      "explanation": "審議を慎重にし、一方の行き過ぎをおさえる。衆議院は任期4年で解散あり、参議院は任期6年で解散なし。",
+      "tags": [
+        "国会"
+      ],
+      "distractors": {
+        "easy": [
+          "一院制",
+          "三権分立",
+          "議院内閣制"
+        ],
+        "medium": [
+          "連邦制",
+          "多数決制",
+          "小選挙区制"
+        ],
+        "hard": [
+          "両院協議会",
+          "一元代表制",
+          "上院優位制"
+        ]
+      }
+    },
+    {
+      "recto": "予算の議決や内閣総理大臣の指名などで、衆議院の議決が参議院より優先されることを何というか。",
+      "verso": "衆議院の優越",
+      "explanation": "任期が短く解散もある衆議院は、より国民の意思を反映するとされるため。予算・条約・首相指名などで認められる。",
+      "tags": [
+        "国会",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "参議院の優越",
+          "両院対等",
+          "二院制"
+        ],
+        "medium": [
+          "内閣の優越",
+          "解散権",
+          "多数決の原理"
+        ],
+        "hard": [
+          "緊急集会",
+          "両院協議会",
+          "会期不継続の原則"
+        ]
+      }
+    },
+    {
+      "recto": "行政権を担い、内閣総理大臣と国務大臣で構成される機関を何というか。",
+      "verso": "内閣",
+      "explanation": "法律にもとづいて政治を実際に行う。内閣総理大臣が率い、国会に対して連帯して責任を負う（議院内閣制）。",
+      "tags": [
+        "内閣",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "国会",
+          "裁判所",
+          "国民"
+        ],
+        "medium": [
+          "省庁",
+          "衆議院",
+          "参議院"
+        ],
+        "hard": [
+          "枢密院",
+          "国家安全保障会議",
+          "行政委員会"
+        ]
+      }
+    },
+    {
+      "recto": "内閣が国会の信任にもとづいて成立し、国会に対して連帯して責任を負うしくみを何というか。",
+      "verso": "議院内閣制",
+      "explanation": "内閣総理大臣は国会が指名する。国民が大統領を直接選ぶ大統領制と対比される。日本やイギリスが採用。",
+      "tags": [
+        "内閣",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "大統領制",
+          "三権分立",
+          "二院制"
+        ],
+        "medium": [
+          "直接民主制",
+          "連邦制",
+          "共和制"
+        ],
+        "hard": [
+          "半大統領制",
+          "議会統治制",
+          "権力集中制"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】内閣が議会の信任にもとづくしくみと、国民が行政の長を直接選ぶしくみを、順にそれぞれ何というか。",
+      "verso": "議院内閣制と大統領制",
+      "explanation": "議院内閣制（日本・イギリス・議会が首相を指名）、大統領制（アメリカ・国民が大統領を直接選ぶ）。両者の違いを取りちがえない。",
+      "tags": [
+        "comparaison",
+        "内閣"
+      ],
+      "distractors": {
+        "easy": [
+          "立法と行政",
+          "一院制と二院制",
+          "君主制と共和制"
+        ],
+        "medium": [
+          "大統領制と議院内閣制",
+          "議院内閣制と連邦制",
+          "直接制と間接制"
+        ],
+        "hard": [
+          "半大統領制と議院内閣制",
+          "議会統治制と大統領制",
+          "権力分立と権力集中"
+        ]
+      }
+    },
+    {
+      "recto": "衆議院が内閣を信任しないと決議したとき、内閣は総辞職するか、あるいは何をしなければならないか。",
+      "verso": "衆議院を解散する",
+      "explanation": "内閣不信任決議への対抗手段。10日以内に総辞職か衆議院の解散を選ぶ。議院内閣制の重要なしくみ。",
+      "tags": [
+        "内閣",
+        "国会"
+      ],
+      "distractors": {
+        "easy": [
+          "参議院を解散する",
+          "裁判を起こす",
+          "憲法を改正する"
+        ],
+        "medium": [
+          "国民投票を行う",
+          "天皇に相談する",
+          "内閣を強化する"
+        ],
+        "hard": [
+          "緊急集会を開く",
+          "参議院に指名を求める",
+          "最高裁に審査を求める"
+        ]
+      }
+    },
+    {
+      "recto": "司法権を担い、法にもとづいて争いを裁く機関を何というか。",
+      "verso": "裁判所",
+      "explanation": "最高裁判所と下級裁判所からなる。公正な裁判のため、他の権力から独立している（司法権の独立）。",
+      "tags": [
+        "裁判所",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "国会",
+          "内閣",
+          "警察"
+        ],
+        "medium": [
+          "検察",
+          "弁護士会",
+          "省庁"
+        ],
+        "hard": [
+          "法務省",
+          "行政裁判所",
+          "陪審"
+        ]
+      }
+    },
+    {
+      "recto": "裁判が公正に行われるよう、裁判所が国会や内閣から干渉されず、裁判官が良心と法にのみ従うことを何というか。",
+      "verso": "司法権の独立",
+      "explanation": "権力からの圧力で裁判がゆがまないための原則。裁判官は身分を保障される。人権保障の最後の砦を支える。",
+      "tags": [
+        "裁判所",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "三権分立",
+          "国民主権",
+          "議院内閣制"
+        ],
+        "medium": [
+          "法の支配",
+          "裁判の公開",
+          "検察の独立"
+        ],
+        "hard": [
+          "裁判官の身分保障",
+          "司法消極主義",
+          "統治行為論"
+        ]
+      }
+    },
+    {
+      "recto": "法律や政治が憲法に違反していないかを、裁判所が審査する権限を何というか。",
+      "verso": "違憲審査権（違憲立法審査権）",
+      "explanation": "すべての裁判所がもつが、最終的な判断は最高裁が下す。憲法を守る重要な権限。三権分立の抑制の一つ。",
+      "tags": [
+        "裁判所",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "立法権",
+          "行政権",
+          "解散権"
+        ],
+        "medium": [
+          "国政調査権",
+          "弾劾権",
+          "恩赦"
+        ],
+        "hard": [
+          "抽象的違憲審査",
+          "司法審査という別称",
+          "行政審査権"
+        ]
+      }
+    },
+    {
+      "recto": "違憲審査の最終的な判断を下すことから、最高裁判所は何と呼ばれるか。",
+      "verso": "憲法の番人",
+      "explanation": "法律が憲法に違反していないかの最終判断を下す立場から。司法権のなかで特別な役割をもつ。",
+      "tags": [
+        "裁判所"
+      ],
+      "distractors": {
+        "easy": [
+          "国権の最高機関",
+          "唯一の立法機関",
+          "行政の長"
+        ],
+        "medium": [
+          "法の支配者",
+          "立法の番人",
+          "人権の砦"
+        ],
+        "hard": [
+          "終審裁判所",
+          "司法の最高機関という別称",
+          "違憲審査機関"
+        ]
+      }
+    },
+    {
+      "recto": "一つの事件について、原則3回まで裁判を受けられるしくみを何というか。",
+      "verso": "三審制",
+      "explanation": "誤った判決を防ぎ、慎重に裁判を行うため。第一審→控訴審→上告審と進む。裁判の公正さを支えるしくみ。",
+      "tags": [
+        "裁判所"
+      ],
+      "distractors": {
+        "easy": [
+          "二院制",
+          "三権分立",
+          "二審制"
+        ],
+        "medium": [
+          "一審制",
+          "陪審制",
+          "参審制"
+        ],
+        "hard": [
+          "再審制",
+          "上訴制",
+          "四審制"
+        ]
+      }
+    },
+    {
+      "recto": "重大な刑事裁判の第一審に、国民から選ばれた人が裁判官とともに参加する制度を何というか。",
+      "verso": "裁判員制度",
+      "explanation": "2009年に始まった。国民の視点を裁判に反映し、司法を身近にする。国民の司法参加のしくみ。",
+      "tags": [
+        "裁判所",
+        "参加"
+      ],
+      "distractors": {
+        "easy": [
+          "陪審制",
+          "三審制",
+          "検察審査会"
+        ],
+        "medium": [
+          "参審制",
+          "国民審査",
+          "調停制度"
+        ],
+        "hard": [
+          "裁判官制度",
+          "司法委員制度",
+          "特別裁判所"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】最高裁判所の裁判官が適任かどうかを、国民が投票で審査する制度を何というか。",
+      "verso": "国民審査",
+      "explanation": "衆議院議員総選挙のときに行われる。国民が司法をチェックするしくみ。刑事裁判に参加する裁判員制度と混同しない。",
+      "tags": [
+        "piege",
+        "裁判所"
+      ],
+      "distractors": {
+        "easy": [
+          "国民投票",
+          "住民投票",
+          "選挙"
+        ],
+        "medium": [
+          "裁判員制度",
+          "弾劾裁判",
+          "検察審査会"
+        ],
+        "hard": [
+          "リコール",
+          "国政調査",
+          "違憲審査"
+        ]
+      }
+    },
+    {
+      "recto": "国会が、国政に関する調査を行い、証人の出頭や記録の提出を求めることができる権限を何というか。",
+      "verso": "国政調査権",
+      "explanation": "国会が内閣の行政を監視する手段。三権分立のなかで、立法が行政をチェックするしくみの一つ。",
+      "tags": [
+        "国会",
+        "抑制"
+      ],
+      "distractors": {
+        "easy": [
+          "違憲審査権",
+          "解散権",
+          "立法権"
+        ],
+        "medium": [
+          "弾劾権",
+          "予算審議権",
+          "条約承認権"
+        ],
+        "hard": [
+          "国勢調査権",
+          "行政監察",
+          "会計検査権"
+        ]
+      }
+    },
+    {
+      "recto": "国会が、重大な非行のあった裁判官をやめさせるかどうかを判断するために設ける裁判を何というか。",
+      "verso": "弾劾裁判",
+      "explanation": "国会が司法をチェックするしくみ。三権が相互に抑制し合う例。司法権の独立との調整が図られている。",
+      "tags": [
+        "国会",
+        "抑制"
+      ],
+      "distractors": {
+        "easy": [
+          "国民審査",
+          "違憲審査",
+          "三審制"
+        ],
+        "medium": [
+          "裁判員制度",
+          "国政調査",
+          "検察審査"
+        ],
+        "hard": [
+          "懲戒裁判",
+          "行政裁判",
+          "特別裁判"
+        ]
+      }
+    },
+    {
+      "recto": "三権のうち、内閣が国会に対してもつ主な抑制の手段は何か。",
+      "verso": "衆議院の解散",
+      "explanation": "内閣は衆議院を解散できる。逆に国会は内閣不信任決議で対抗する。両者が抑制し均衡する議院内閣制のしくみ。",
+      "tags": [
+        "三権分立",
+        "抑制"
+      ],
+      "distractors": {
+        "easy": [
+          "違憲審査",
+          "国民審査",
+          "弾劾裁判"
+        ],
+        "medium": [
+          "国政調査",
+          "予算の議決",
+          "法律の制定"
+        ],
+        "hard": [
+          "政令の制定",
+          "条約の締結",
+          "恩赦の決定"
+        ]
+      }
+    },
+    {
+      "recto": "三権分立において、国民が主権者として三つの権力に対してもつ役割は何か。",
+      "verso": "選挙・世論・国民審査などで監視する",
+      "explanation": "国民は選挙で国会を、世論で内閣を、国民審査で裁判所を監視する。三権の外にいる主権者としてのチェック機能。",
+      "tags": [
+        "三権分立",
+        "国民"
+      ],
+      "distractors": {
+        "easy": [
+          "何もできない",
+          "命令を出す",
+          "直接統治する"
+        ],
+        "medium": [
+          "税金を払うだけ",
+          "法律をつくる",
+          "裁判を行う"
+        ],
+        "hard": [
+          "立法に参加する",
+          "行政を代行する",
+          "違憲審査を行う"
+        ]
+      }
+    },
+    {
+      "recto": "権力を分けてたがいに抑制させることで、防ごうとしているのは何か。",
+      "verso": "権力の集中と濫用",
+      "explanation": "一つの機関に権力が集まると、人権が侵されやすい。三権分立は、権力の暴走を防ぎ人権を守るためのしくみ。",
+      "tags": [
+        "三権分立",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "国民の参加",
+          "経済の発展",
+          "国際協力"
+        ],
+        "medium": [
+          "多数決",
+          "行政の効率",
+          "議会の対立"
+        ],
+        "hard": [
+          "権力の分散",
+          "少数者支配",
+          "官僚制の肥大"
+        ]
+      }
+    }
+  ]
+}

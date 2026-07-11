@@ -1,0 +1,506 @@
+{
+  "id": "jp-koukou-koukyou-minshu-seiji",
+  "title": "民主政治の基本原理と人権保障",
+  "emoji": "🗽",
+  "subject": "civics",
+  "country": "jp",
+  "courseDescription": "社会契約説から法の支配、人権の歴史まで。民主政治を支える基本原理を学ぶ。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>民主政治の基本原理と人権保障</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・公共<br>\n  <b>大項目B：</b>自立した主体として社会に参画する私たち<br>\n  <b>内容：</b>社会契約説・法の支配・人権の歴史\n</div>\n\n<blockquote>\n  <p><b>問い</b>　国家の権力はなぜ正しいといえるのか、そして人権はどう守られてきたのだろうか。</p>\n</blockquote>\n\n<p>近代の民主政治は、いくつかの原理に支えられている。国家の正しさを人民の同意に求める<strong>社会契約説</strong>、権力を法で縛る<strong>法の支配</strong>、憲法で権力を制限する<strong>立憲主義</strong>。そして人々は、長い歴史をかけて<strong>人権</strong>を勝ちとってきた。民主政治を支える基本原理をたどろう。</p>\n\n<h2>1・社会契約説 ― 国家の正しさの根拠</h2>\n\n<p>王の権力を神に由来させる王権神授説に対し、近代には国家を人々の契約によるものと考える<strong>社会契約説</strong>が生まれた。<strong>ホッブズ</strong>は自然状態を「万人の万人に対する闘争」ととらえ、国家に強い権力をゆだねるとした（『リバイアサン』）。</p>\n\n<p><strong>ロック</strong>は、政府が権利を守らないときの<strong>抵抗権</strong>を説き、アメリカ独立宣言に影響を与えた。<strong>ルソー</strong>は共通の利益をめざす<strong>一般意志</strong>にもとづく<strong>人民主権</strong>を唱え、フランス革命を導いた。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"社会契約説の3人の思想家。ホッブズ、ロック、ルソーの主張\">\n  <!-- ホッブズ -->\n  <rect x=\"8\" y=\"20\" width=\"104\" height=\"150\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"46\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">ホッブズ</text>\n  <text x=\"60\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">リバイアサン</text>\n  <text x=\"60\" y=\"104\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">権力を全面</text>\n  <text x=\"60\" y=\"124\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">委譲</text>\n  <text x=\"60\" y=\"152\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">絶対王政的</text>\n  <!-- ロック -->\n  <rect x=\"118\" y=\"20\" width=\"104\" height=\"150\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"46\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">ロック</text>\n  <text x=\"170\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">抵抗権</text>\n  <text x=\"170\" y=\"104\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">アメリカ</text>\n  <text x=\"170\" y=\"124\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">独立宣言へ</text>\n  <text x=\"170\" y=\"152\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">権力分立も</text>\n  <!-- ルソー -->\n  <rect x=\"228\" y=\"20\" width=\"104\" height=\"150\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"46\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">ルソー</text>\n  <text x=\"280\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">一般意志</text>\n  <text x=\"280\" y=\"104\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">人民主権</text>\n  <text x=\"280\" y=\"124\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">フランス</text>\n  <text x=\"280\" y=\"152\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">革命へ</text>\n</svg>\n<figcaption>三者の主張と、影響を与えた出来事をセットで覚える。</figcaption>\n</figure>\n\n<h2>2・法の支配と立憲主義</h2>\n\n<p>権力の濫用を防ぐため、二つの原理が発達した。国王といえども法にしたがうべきだとする<strong>法の支配</strong>と、憲法で国家権力を制限して人権を守る<strong>立憲主義</strong>である。憲法は国民を縛るのではなく、<strong>権力を縛る</strong>ためにある。</p>\n\n<p>さらに<strong>モンテスキュー</strong>は、国家権力を立法・行政・司法に分けてたがいに抑制させる<strong>権力分立（三権分立）</strong>を説いた。権力の集中を防ぐしくみである。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"人の支配と法の支配の比較\">\n  <!-- 左：人の支配 -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">人の支配</text>\n  <text x=\"87\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">前近代</text>\n  <text x=\"26\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">王の意志が法</text>\n  <text x=\"26\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">権力は無制限</text>\n  <text x=\"26\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">人権が危うい</text>\n  <!-- 右：法の支配 -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">法の支配</text>\n  <text x=\"253\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">近代</text>\n  <text x=\"192\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">王も法に従う</text>\n  <text x=\"192\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">権力を制限</text>\n  <text x=\"192\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">人権を守る</text>\n</svg>\n<figcaption>「人の支配」から「法の支配」への転換が、近代政治の出発点となった。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・法の支配</strong><br>\n  国王や政府といえども、その権力は法にしたがわなければならないとする原理。「人の支配」に対する考え方で、立憲主義とともに近代政治の柱となる。\n</div>\n\n<h2>3・人権保障の歩み</h2>\n\n<p>人権は長い歴史をかけて拡大してきた。1215年の<strong>マグナ・カルタ</strong>に始まり、17〜18世紀には<strong>アメリカ独立宣言</strong>や<strong>フランス人権宣言</strong>が自由・平等をうたった。これらは国家からの干渉を防ぐ<strong>自由権</strong>が中心だった。</p>\n\n<p>20世紀になると、人間らしい生活の保障を国家に求める<strong>社会権</strong>が登場する。1919年の<strong>ワイマール憲法</strong>が初めて明記した。第二次世界大戦後の1948年には<strong>世界人権宣言</strong>が国際的な基準を示した。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 240\" role=\"img\" aria-label=\"人権保障の歴史の年表\">\n  <line x1=\"80\" y1=\"22\" x2=\"80\" y2=\"222\" style=\"stroke:var(--accent);stroke-width:3;stroke-linecap:round\"/>\n  <circle cx=\"80\" cy=\"40\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"66\" y=\"45\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"800\">1215</text>\n  <text x=\"96\" y=\"45\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"12\">マグナ・カルタ</text>\n  <circle cx=\"80\" cy=\"90\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"66\" y=\"95\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"800\">1789</text>\n  <text x=\"96\" y=\"95\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"12\">フランス人権宣言（自由権）</text>\n  <circle cx=\"80\" cy=\"140\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"66\" y=\"145\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"800\">1919</text>\n  <text x=\"96\" y=\"145\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"12\">ワイマール憲法（社会権）</text>\n  <circle cx=\"80\" cy=\"200\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"66\" y=\"205\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"800\">1948</text>\n  <text x=\"96\" y=\"205\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"12\">世界人権宣言</text>\n</svg>\n<figcaption>自由権から社会権へ、そして国際的な人権保障へと広がってきた。</figcaption>\n</figure>\n\n<h2>4・民主政治のしくみと課題</h2>\n\n<p>現代の民主政治は、国民が代表を選ぶ<strong>間接民主制（議会制民主主義）</strong>を基本とする。物事は<strong>多数決</strong>で決めるが、それだけでは<strong>少数意見</strong>が無視されかねない。</p>\n\n<p>だからこそ、<strong>少数意見の尊重</strong>が民主主義の質を保つ。多数決と少数者の人権保障——この二つのバランスをとることが、民主政治の大切な課題である。</p>\n\n<div class=\"callout\">\n  <strong>用語・立憲主義</strong><br>\n  憲法によって国家権力を制限し、国民の人権を守ろうとする考え方。憲法は国民を縛るためではなく、権力を縛るためにあるという発想が核心。\n</div>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>年</th><th>できごと</th></tr>\n  <tr><td>1215年</td><td>マグナ・カルタ（法の支配の起源）</td></tr>\n  <tr><td>1689年</td><td>権利章典（イギリス）</td></tr>\n  <tr><td>1789年</td><td>フランス人権宣言（自由権）</td></tr>\n  <tr><td>1919年</td><td>ワイマール憲法（社会権の登場）</td></tr>\n  <tr><td>1948年</td><td>世界人権宣言</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>社会契約説</td><td>国家を人々の契約とする考え（ホッブズら）</td></tr>\n  <tr><td>法の支配</td><td>権力も法にしたがうべきとする原理</td></tr>\n  <tr><td>立憲主義</td><td>憲法で権力を制限し人権を守る考え</td></tr>\n  <tr><td>自由権／社会権</td><td>国家からの自由／国家による自由</td></tr>\n  <tr><td>間接民主制</td><td>代表を選んで政治を委ねるしくみ</td></tr>\n  <tr><td>少数意見の尊重</td><td>多数決でも少数派に配慮すること</td></tr>\n</table>\n\n<h3>社会契約説の3人</h3>\n\n<table>\n  <tr><th>思想家</th><th>主張</th></tr>\n  <tr><td>ホッブズ</td><td>リバイアサン・権力を全面委譲</td></tr>\n  <tr><td>ロック</td><td>抵抗権・アメリカ独立宣言へ</td></tr>\n  <tr><td>ルソー</td><td>一般意志・人民主権・フランス革命へ</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  社会契約説の<b>ホッブズ</b>（権力委譲）・<b>ロック</b>（抵抗権・米独立）・<b>ルソー</b>（人民主権・仏革命）を取りちがえないこと。また<b>自由権</b>（国家からの自由）と<b>社会権</b>（国家による自由）も逆にしない。\n</div>\n\n<blockquote>\n  <p>民主政治は、権力を縛り、人権を守るための人類の知恵の積み重ねである。社会契約説・法の支配・立憲主義——これらの原理は、次に見る日本国憲法と基本的人権の中に、具体的なかたちで生きている。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "公共 ― 自立した主体として社会に参画する私たち",
+  "cards": [
+    {
+      "recto": "人々がたがいに契約を結んで国家をつくったと考え、国家権力の正しさの根拠を人民の同意に求める考え方を何というか。",
+      "verso": "社会契約説",
+      "explanation": "ホッブズ・ロック・ルソーが代表。王の権力を神に由来させる王権神授説を否定し、近代民主政治の土台となった。",
+      "tags": [
+        "民主政治",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "王権神授説",
+          "封建制",
+          "身分制"
+        ],
+        "medium": [
+          "法の支配",
+          "権力分立",
+          "議会主義"
+        ],
+        "hard": [
+          "自然法思想",
+          "抵抗権",
+          "人民主権論"
+        ]
+      }
+    },
+    {
+      "recto": "自然状態を「万人の万人に対する闘争」ととらえ、国家に強い権力をゆだねる必要を説いた思想家は誰か。",
+      "verso": "ホッブズ",
+      "explanation": "『リバイアサン』で知られる。人々は自然権を国家に全面的にゆだねるとした。結果的に絶対王政を擁護する面もあった。",
+      "tags": [
+        "民主政治",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "ロック",
+          "ルソー",
+          "モンテスキュー"
+        ],
+        "medium": [
+          "カント",
+          "ベンサム",
+          "アリストテレス"
+        ],
+        "hard": [
+          "グロティウス",
+          "ボーダン",
+          "ヒューム"
+        ]
+      }
+    },
+    {
+      "recto": "政府が人々の権利を守らないときには、人々が政府に抵抗する権利（抵抗権）があると説いた思想家は誰か。",
+      "verso": "ロック",
+      "explanation": "『統治二論』で抵抗権を主張。アメリカ独立宣言に影響を与えた。人民主権のルソー、権力分立のモンテスキューと区別する。",
+      "tags": [
+        "民主政治",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "ホッブズ",
+          "ルソー",
+          "モンテスキュー"
+        ],
+        "medium": [
+          "カント",
+          "ベンサム",
+          "ヴォルテール"
+        ],
+        "hard": [
+          "グロティウス",
+          "ミル",
+          "ヒューム"
+        ]
+      }
+    },
+    {
+      "recto": "人々の共通の利益をめざす「一般意志」にもとづく人民主権を説き、フランス革命に影響を与えた思想家は誰か。",
+      "verso": "ルソー",
+      "explanation": "『社会契約論』で一般意志と人民主権を主張。直接民主制を理想とした。抵抗権のロック、リバイアサンのホッブズと区別。",
+      "tags": [
+        "民主政治",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "ホッブズ",
+          "ロック",
+          "モンテスキュー"
+        ],
+        "medium": [
+          "カント",
+          "ヴォルテール",
+          "ディドロ"
+        ],
+        "hard": [
+          "グロティウス",
+          "ミル",
+          "コンドルセ"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】社会契約説のうち、国家に強い権力をゆだねた思想家、抵抗権を説いた思想家、人民主権を説いた思想家を、順にそれぞれ何というか。",
+      "verso": "ホッブズ・ロック・ルソー",
+      "explanation": "ホッブズ（リバイアサン・権力を全面委譲）、ロック（抵抗権・アメリカ独立宣言）、ルソー（一般意志・人民主権・フランス革命）。三者の順を取りちがえない。",
+      "tags": [
+        "comparaison",
+        "民主政治"
+      ],
+      "distractors": {
+        "easy": [
+          "ソクラテス・プラトン・アリストテレス",
+          "孔子・孟子・荀子",
+          "カント・ミル・ベンサム"
+        ],
+        "medium": [
+          "ロック・ホッブズ・ルソー",
+          "ルソー・ロック・ホッブズ",
+          "ホッブズ・ルソー・ロック"
+        ],
+        "hard": [
+          "モンテスキュー・ロック・ルソー",
+          "ホッブズ・ロック・モンテスキュー",
+          "グロティウス・ロック・ルソー"
+        ]
+      }
+    },
+    {
+      "recto": "国王や政府といえども、その権力は法にしたがわなければならないとする、イギリスで発達した原理を何というか。",
+      "verso": "法の支配",
+      "explanation": "「人の支配」に対する原理。権力を法で縛る。国民の代表が定めた法で国家を運営する立憲主義の柱。",
+      "tags": [
+        "民主政治",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "人の支配",
+          "王権神授",
+          "多数決"
+        ],
+        "medium": [
+          "法治主義",
+          "権力分立",
+          "議会主義"
+        ],
+        "hard": [
+          "法の下の平等",
+          "罪刑法定主義",
+          "デュープロセス"
+        ]
+      }
+    },
+    {
+      "recto": "憲法によって国家権力を制限し、国民の人権を守ろうとする考え方を何というか。",
+      "verso": "立憲主義",
+      "explanation": "憲法は国民を縛るためではなく、権力を縛るためにある。法の支配や権力分立とともに、近代政治の基本原理。",
+      "tags": [
+        "民主政治",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "絶対主義",
+          "全体主義",
+          "専制政治"
+        ],
+        "medium": [
+          "民主主義",
+          "自由主義",
+          "議会主義"
+        ],
+        "hard": [
+          "法治主義",
+          "権威主義",
+          "共和主義"
+        ]
+      }
+    },
+    {
+      "recto": "国家権力を立法・行政・司法の三つに分け、たがいに抑制し均衡させることを説いた思想家は誰か。",
+      "verso": "モンテスキュー",
+      "explanation": "『法の精神』で三権分立を主張。権力の集中と濫用を防ぐしくみを示した。抵抗権のロックと区別する。",
+      "tags": [
+        "民主政治",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "ホッブズ",
+          "ロック",
+          "ルソー"
+        ],
+        "medium": [
+          "カント",
+          "ベンサム",
+          "ヴォルテール"
+        ],
+        "hard": [
+          "ハミルトン",
+          "マディソン",
+          "トクヴィル"
+        ]
+      }
+    },
+    {
+      "recto": "1215年にイギリスで、国王の権力を制限し貴族の権利を認めさせた文書を何というか。人権保障の出発点とされる。",
+      "verso": "マグナ・カルタ（大憲章）",
+      "explanation": "王も法に従うことを認めさせた。法の支配の起源とされる。1689年の権利章典へとつながる。",
+      "tags": [
+        "人権史"
+      ],
+      "distractors": {
+        "easy": [
+          "独立宣言",
+          "フランス人権宣言",
+          "世界人権宣言"
+        ],
+        "medium": [
+          "権利章典",
+          "権利請願",
+          "人身保護法"
+        ],
+        "hard": [
+          "コモン・ロー",
+          "ボローニャ法典",
+          "ナポレオン法典"
+        ]
+      }
+    },
+    {
+      "recto": "1789年、フランス革命で発表され、自由・平等や国民主権をうたった文書を何というか。",
+      "verso": "フランス人権宣言",
+      "explanation": "「人は生まれながらに自由で平等」と宣言。近代人権思想の代表的文書。ルソーの思想が影響している。",
+      "tags": [
+        "人権史",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "マグナ・カルタ",
+          "権利章典",
+          "世界人権宣言"
+        ],
+        "medium": [
+          "アメリカ独立宣言",
+          "ワイマール憲法",
+          "権利請願"
+        ],
+        "hard": [
+          "人間および市民の権利宣言という正式名の混同",
+          "ナントの勅令",
+          "ジロンド憲法"
+        ]
+      }
+    },
+    {
+      "recto": "国家からの干渉を受けずに自由に行動できる権利（自由権）に対し、20世紀に登場した、人間らしい生活の保障を国家に求める権利を何というか。",
+      "verso": "社会権",
+      "explanation": "1919年のワイマール憲法が初めて保障した。「国家による自由」ともいわれる。「国家からの自由」である自由権と対をなす。",
+      "tags": [
+        "人権",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "自由権",
+          "参政権",
+          "請求権"
+        ],
+        "medium": [
+          "平等権",
+          "自然権",
+          "新しい人権"
+        ],
+        "hard": [
+          "生存権のみ",
+          "受益権",
+          "国務請求権"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】「国家からの自由」と呼ばれる権利と、「国家による自由」と呼ばれる権利を、順にそれぞれ何というか。",
+      "verso": "自由権と社会権",
+      "explanation": "自由権＝国家からの自由（干渉されない）、社会権＝国家による自由（人間らしい生活を保障させる）。20世紀に社会権が加わった。",
+      "tags": [
+        "piege",
+        "人権"
+      ],
+      "distractors": {
+        "easy": [
+          "平等権と参政権",
+          "権利と義務",
+          "自由と平等"
+        ],
+        "medium": [
+          "社会権と自由権",
+          "自由権と平等権",
+          "参政権と社会権"
+        ],
+        "hard": [
+          "請求権と社会権",
+          "自然権と社会権",
+          "自由権と受益権"
+        ]
+      }
+    },
+    {
+      "recto": "20世紀初め、世界で初めて社会権を保障した、当時最も民主的といわれたドイツの憲法を何というか。",
+      "verso": "ワイマール憲法",
+      "explanation": "1919年制定。生存権など社会権を初めて明記した。第一次世界大戦後の大衆化の時代を象徴する憲法。",
+      "tags": [
+        "人権史"
+      ],
+      "distractors": {
+        "easy": [
+          "大日本帝国憲法",
+          "日本国憲法",
+          "フランス人権宣言"
+        ],
+        "medium": [
+          "ドイツ帝国憲法",
+          "ボン基本法",
+          "アメリカ合衆国憲法"
+        ],
+        "hard": [
+          "フランクフルト憲法",
+          "プロイセン憲法",
+          "エルフルト綱領"
+        ]
+      }
+    },
+    {
+      "recto": "1948年に国連総会で採択され、達成すべき人権の共通の基準を示した宣言を何というか。",
+      "verso": "世界人権宣言",
+      "explanation": "法的拘束力はないが、人権の国際的な基準となった。のちに拘束力をもつ国際人権規約（1966年）へと発展した。",
+      "tags": [
+        "人権史",
+        "国際"
+      ],
+      "distractors": {
+        "easy": [
+          "フランス人権宣言",
+          "独立宣言",
+          "権利章典"
+        ],
+        "medium": [
+          "国際人権規約",
+          "子どもの権利条約",
+          "国連憲章"
+        ],
+        "hard": [
+          "女子差別撤廃条約",
+          "ジェノサイド条約",
+          "人種差別撤廃条約"
+        ]
+      }
+    },
+    {
+      "recto": "国民が代表者を選び、その代表者を通じて政治を行うしくみを何というか。",
+      "verso": "間接民主制（代議制）",
+      "explanation": "現代の民主政治の基本。全員が直接決める直接民主制に対し、代表を選んで政治を委ねる。日本もこの方式を採用。",
+      "tags": [
+        "民主政治"
+      ],
+      "distractors": {
+        "easy": [
+          "直接民主制",
+          "専制政治",
+          "君主制"
+        ],
+        "medium": [
+          "議会制民主主義",
+          "多数決",
+          "人民主権"
+        ],
+        "hard": [
+          "代表民主制",
+          "熟議民主主義",
+          "共和制"
+        ]
+      }
+    },
+    {
+      "recto": "多数決で物事を決めるとき、少数の人々の意見や権利にも配慮すべきだという考え方を何というか。",
+      "verso": "少数意見の尊重",
+      "explanation": "多数決は万能ではない。少数派の人権を守ることが民主主義の質を保つ。「多数者の専制」への歯止めとなる。",
+      "tags": [
+        "民主政治",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "多数決の原理",
+          "全会一致",
+          "強行採決"
+        ],
+        "medium": [
+          "多数者支配",
+          "エリート支配",
+          "少数者支配"
+        ],
+        "hard": [
+          "多数者の専制の容認",
+          "衆愚政治",
+          "コンセンサス方式"
+        ]
+      }
+    },
+    {
+      "recto": "国民に選ばれた代表が集まる議会を政治の中心とする、近代民主政治のしくみを何というか。",
+      "verso": "議会制民主主義",
+      "explanation": "国民の代表が議会で法律や予算を決める。間接民主制の具体的なかたち。日本の国会もこれにあたる。",
+      "tags": [
+        "民主政治"
+      ],
+      "distractors": {
+        "easy": [
+          "直接民主制",
+          "君主制",
+          "独裁制"
+        ],
+        "medium": [
+          "大統領制",
+          "人民主権",
+          "多数決"
+        ],
+        "hard": [
+          "議院内閣制のみ",
+          "二大政党制",
+          "共和制"
+        ]
+      }
+    },
+    {
+      "recto": "人が生まれながらにもち、他者や国家がおかすことのできない権利を何というか。",
+      "verso": "基本的人権（自然権）",
+      "explanation": "社会契約説の自然権にさかのぼる。国家が与えるのではなく、生まれつきもつ権利。日本国憲法も「侵すことのできない永久の権利」とする。",
+      "tags": [
+        "人権",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "特権",
+          "義務",
+          "国民の権利のみ"
+        ],
+        "medium": [
+          "市民権",
+          "参政権",
+          "受益権"
+        ],
+        "hard": [
+          "自然法",
+          "実定法上の権利",
+          "国務請求権"
+        ]
+      }
+    },
+    {
+      "recto": "アメリカ独立宣言に影響を与え、政府が人権を守らないときの抵抗権を主張した社会契約説の思想家は誰か。",
+      "verso": "ロック",
+      "explanation": "ロックの抵抗権の思想が、アメリカ独立（1776年）を支えた。フランス革命に影響したルソーと対比して覚える。",
+      "tags": [
+        "民主政治",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "ホッブズ",
+          "ルソー",
+          "モンテスキュー"
+        ],
+        "medium": [
+          "ワシントン",
+          "ジェファソン",
+          "カント"
+        ],
+        "hard": [
+          "ペイン",
+          "ハミルトン",
+          "マディソン"
+        ]
+      }
+    }
+  ]
+}

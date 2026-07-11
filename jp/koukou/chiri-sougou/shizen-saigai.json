@@ -1,0 +1,535 @@
+{
+  "id": "jp-koukou-chiri-sougou-shizen-saigai",
+  "title": "日本の自然環境と防災",
+  "emoji": "🌋",
+  "subject": "geography",
+  "country": "jp",
+  "courseDescription": "地震・火山から気象災害まで。日本の自然環境の特徴と、防災・減災の考え方を学ぶ。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>日本の自然環境と防災</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・地理総合<br>\n  <b>大項目C：</b>持続可能な地域づくりと私たち<br>\n  <b>内容：</b>地震・火山・気象災害と防災・減災\n</div>\n\n<blockquote>\n  <p><b>問い</b>　災害の多い日本で、私たちはどのように命と暮らしを守ればよいのだろうか。</p>\n</blockquote>\n\n<p>日本は4枚のプレートがぶつかる<strong>変動帯</strong>にあり、<strong>地震</strong>・<strong>津波</strong>・<strong>火山</strong>が多い。加えて<strong>台風</strong>や<strong>集中豪雨</strong>による気象災害も起こりやすい。しかし変動帯は温泉などの恵みももたらす。自然の二つの面をとらえ、<strong>防災</strong>と<strong>減災</strong>の考え方を身につけよう。</p>\n\n<h2>1・変動帯の日本 ― 地震・津波・火山</h2>\n\n<p>日本列島は、プレートの境界にあたる<strong>変動帯</strong>（<strong>環太平洋造山帯</strong>）に位置する。そのため<strong>地震</strong>が多く、海底の地震は<strong>津波</strong>を、地震のゆれは埋立地などで<strong>液状化</strong>を引き起こす。火山の噴火も各地で起こる。</p>\n\n<p>一方、変動帯であることは<strong>温泉</strong>や地熱、美しい景観という<strong>恵み</strong>ももたらす。災害と恵みの両面をあわせてとらえることが大切である。</p>\n\n<div class=\"callout\">\n  <strong>用語・変動帯</strong><br>\n  プレートの境界にあたり、地震や火山活動が活発な帯状の地域。日本列島はその上にあり、災害が多い一方で温泉などの恵みも生む。\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 150\" role=\"img\" aria-label=\"変動帯がもたらす災害と恵みの両面\">\n  <defs>\n    <marker id=\"ar-ss1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 変動帯（強調） -->\n  <rect x=\"120\" y=\"8\" width=\"100\" height=\"44\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"35\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">変動帯の日本</text>\n  <!-- 矢印 -->\n  <path d=\"M150,54 L95,86\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ss1)\"/>\n  <path d=\"M190,54 L245,86\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ss1)\"/>\n  <!-- 災害 -->\n  <rect x=\"14\" y=\"92\" width=\"150\" height=\"50\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"89\" y=\"112\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">災害</text>\n  <text x=\"89\" y=\"132\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">地震・津波・火山噴火</text>\n  <!-- 恵み -->\n  <rect x=\"176\" y=\"92\" width=\"150\" height=\"50\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"251\" y=\"112\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">恵み</text>\n  <text x=\"251\" y=\"132\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">温泉・地熱・景観</text>\n</svg>\n<figcaption>変動帯は災害の原因であると同時に、恵みの源でもある。</figcaption>\n</figure>\n\n<h2>2・気象災害と日本の地形</h2>\n\n<p>日本は<strong>気象災害</strong>も多い。夏から秋の<strong>台風</strong>は強風・大雨・<strong>高潮</strong>をもたらし、<strong>集中豪雨</strong>は洪水や<strong>土砂災害</strong>を引き起こす。</p>\n\n<p>その背景には日本の地形がある。山地が多く平地が少ないため、川は<strong>流れが急で短く</strong>、大雨が一気に下流に流れて洪水になりやすい。海に囲まれ変化に富む地形が、多様な災害の原因となっている。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"日本の自然災害の分類。地殻変動によるものと気象によるもの\">\n  <!-- 左：地殻変動 -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">地殻変動による</text>\n  <text x=\"87\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11\" font-weight=\"700\">変動帯が原因</text>\n  <text x=\"26\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">地震</text>\n  <text x=\"26\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">津波・液状化</text>\n  <text x=\"26\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">火山噴火</text>\n  <!-- 右：気象 -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">気象による</text>\n  <text x=\"253\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11\" font-weight=\"700\">台風・豪雨が原因</text>\n  <text x=\"192\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">台風・高潮</text>\n  <text x=\"192\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">集中豪雨・洪水</text>\n  <text x=\"192\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">土砂災害</text>\n</svg>\n<figcaption>津波（地殻変動）と高潮（気象）のように、原因の違いで整理すると混同しにくい。</figcaption>\n</figure>\n\n<h2>3・防災と減災 ― 自助・共助・公助</h2>\n\n<p>自然災害は完全には防げない。そこで、被害をできるだけ小さくする<strong>減災</strong>の考え方が重要になる。その基本が<strong>ハザードマップ</strong>で危険な範囲や避難場所を事前に知ることである。</p>\n\n<p>災害への備えは、<strong>自助</strong>（自分・家族で守る）、<strong>共助</strong>（地域で助け合う）、<strong>公助</strong>（国・自治体が救助する）の三つで支えられる。阪神・淡路大震災では救助の多くが近隣の<strong>共助</strong>によるものだった。三つの役割の違いをおさえておこう。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 240\" role=\"img\" aria-label=\"防災を支える自助・共助・公助の三つの助け合い\">\n  <defs>\n    <marker id=\"ar-ss2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 減災（強調） -->\n  <rect x=\"85\" y=\"8\" width=\"170\" height=\"56\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"33\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"14\" font-weight=\"700\">減災を支える</text>\n  <text x=\"170\" y=\"53\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11\">三つの助け合い</text>\n  <!-- 矢印 -->\n  <path d=\"M170,66 L60,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ss2)\"/>\n  <path d=\"M170,66 L170,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ss2)\"/>\n  <path d=\"M170,66 L280,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ss2)\"/>\n  <!-- 自助 -->\n  <rect x=\"10\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">自助</text>\n  <text x=\"60\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">自分・家族で</text>\n  <text x=\"60\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">身を守る</text>\n  <!-- 共助 -->\n  <rect x=\"120\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">共助</text>\n  <text x=\"170\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">地域・近所で</text>\n  <text x=\"170\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">助け合う</text>\n  <!-- 公助 -->\n  <rect x=\"230\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">公助</text>\n  <text x=\"280\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">国・自治体・</text>\n  <text x=\"280\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">消防・警察が</text>\n</svg>\n<figcaption>三つの「助」が組み合わさって、地域の防災力が高まる。</figcaption>\n</figure>\n\n<h2>4・災害の教訓と備え</h2>\n\n<p>日本は大きな災害から学んできた。1995年の<strong>阪神・淡路大震災</strong>（都市直下型）は「ボランティア元年」を、2011年の<strong>東日本大震災</strong>（巨大津波）は津波の恐ろしさと備えの大切さを教えた。</p>\n\n<p>南海トラフ地震など、将来の発生が予測される災害もある。「災害は必ず来る」という前提で日ごろから備える<strong>防災意識</strong>が、自助・共助・公助すべての土台となる。</p>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>年</th><th>災害</th></tr>\n  <tr><td>1995年</td><td>阪神・淡路大震災（都市直下型）</td></tr>\n  <tr><td>2011年</td><td>東日本大震災（巨大津波・原発事故）</td></tr>\n  <tr><td>今後</td><td>南海トラフ地震などへの備え</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>変動帯</td><td>地震・火山が集中するプレート境界の地域</td></tr>\n  <tr><td>津波／高潮</td><td>地震による波／台風による海面上昇</td></tr>\n  <tr><td>液状化</td><td>地震で砂地の地盤が液体のようになる現象</td></tr>\n  <tr><td>減災</td><td>被害をできるだけ小さくする考え方</td></tr>\n  <tr><td>ハザードマップ</td><td>災害予測・避難情報を示した地図</td></tr>\n  <tr><td>自助・共助・公助</td><td>自分／地域／行政による備えと救助</td></tr>\n</table>\n\n<h3>自助・共助・公助</h3>\n\n<table>\n  <tr><th>区分</th><th>担い手</th></tr>\n  <tr><td>自助</td><td>自分・家族</td></tr>\n  <tr><td>共助</td><td>近所・地域</td></tr>\n  <tr><td>公助</td><td>国・自治体・消防・警察</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  <b>津波</b>（地震＝地殻変動が原因）と<b>高潮</b>（台風・低気圧＝気象が原因）を混同しないこと。防災の<b>自助</b>（自分）・<b>共助</b>（地域）・<b>公助</b>（行政）の三つも、担い手を取りちがえない。\n</div>\n\n<blockquote>\n  <p>変動帯に暮らすということは、災害と恵みの両方とともに生きるということである。自然を正しく知り、自助・共助・公助で備えること——それが、持続可能な地域づくりの出発点となる。最後に、その地域づくりそのものを考えよう。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "地理総合 ― 持続可能な地域づくりと私たち",
+  "cards": [
+    {
+      "recto": "地球の表面をおおう、十数枚の岩盤を何というか。",
+      "verso": "プレート",
+      "explanation": "プレートどうしがぶつかる境界（変動帯）で地震や火山が集中する。日本は4枚のプレートの境界に位置する。",
+      "tags": [
+        "地形",
+        "基礎"
+      ],
+      "distractors": {
+        "easy": [
+          "マグマ",
+          "断層",
+          "地層"
+        ],
+        "medium": [
+          "大陸",
+          "海溝",
+          "造山帯"
+        ],
+        "hard": [
+          "リソスフェア",
+          "マントル",
+          "地殻"
+        ]
+      }
+    },
+    {
+      "recto": "プレートの境界にあたり、地震や火山活動が活発な帯状の地域を何というか。",
+      "verso": "変動帯",
+      "explanation": "日本列島はその上にある。安定した大陸内部（安定陸塊）と対照的で、災害が多い一方で温泉や美しい地形も生む。",
+      "tags": [
+        "地形",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "平野",
+          "盆地",
+          "台地"
+        ],
+        "medium": [
+          "安定陸塊",
+          "楯状地",
+          "海岸平野"
+        ],
+        "hard": [
+          "卓状地",
+          "構造平野",
+          "準平原"
+        ]
+      }
+    },
+    {
+      "recto": "日本列島を含み、太平洋を取り囲むように地震・火山が集中する造山帯を何というか。",
+      "verso": "環太平洋造山帯",
+      "explanation": "「火の環」とも呼ばれる。アルプス・ヒマラヤ造山帯とならぶ新期造山帯で、地震・火山活動が活発。",
+      "tags": [
+        "地形",
+        "世界"
+      ],
+      "distractors": {
+        "easy": [
+          "ヒマラヤ山脈",
+          "アルプス山脈",
+          "ロッキー山脈"
+        ],
+        "medium": [
+          "アルプス・ヒマラヤ造山帯",
+          "古期造山帯",
+          "安定陸塊"
+        ],
+        "hard": [
+          "新期造山帯という上位概念",
+          "アンデス造山帯",
+          "テチス造山帯"
+        ]
+      }
+    },
+    {
+      "recto": "海底で発生した大地震により、海水が大きく持ち上げられて沿岸をおそう波を何というか。",
+      "verso": "津波",
+      "explanation": "2011年の東日本大震災で甚大な被害をもたらした。地震（ゆれ）に続いて起こる二次災害として警戒される。",
+      "tags": [
+        "災害",
+        "地震"
+      ],
+      "distractors": {
+        "easy": [
+          "高潮",
+          "洪水",
+          "波浪"
+        ],
+        "medium": [
+          "高波",
+          "土石流",
+          "液状化"
+        ],
+        "hard": [
+          "副振動",
+          "潮津波",
+          "サージ"
+        ]
+      }
+    },
+    {
+      "recto": "地震のゆれで、砂地の地盤が水を含んで液体のようになり、建物が傾いたり沈んだりする現象を何というか。",
+      "verso": "液状化",
+      "explanation": "埋立地や川沿いの砂地で起こりやすい。ハザードマップで危険な範囲を知ることが防災につながる。",
+      "tags": [
+        "災害",
+        "地震"
+      ],
+      "distractors": {
+        "easy": [
+          "津波",
+          "洪水",
+          "地割れ"
+        ],
+        "medium": [
+          "土石流",
+          "がけ崩れ",
+          "地盤沈下"
+        ],
+        "hard": [
+          "側方流動",
+          "陥没",
+          "地滑り"
+        ]
+      }
+    },
+    {
+      "recto": "夏から秋にかけて日本をおそい、強風と大雨をもたらす熱帯低気圧を何というか。",
+      "verso": "台風",
+      "explanation": "高潮や洪水、土砂災害を引き起こす気象災害。地震・津波（地殻変動）とならぶ日本の主要な自然災害。",
+      "tags": [
+        "災害",
+        "気象"
+      ],
+      "distractors": {
+        "easy": [
+          "地震",
+          "津波",
+          "火山噴火"
+        ],
+        "medium": [
+          "竜巻",
+          "梅雨前線",
+          "寒波"
+        ],
+        "hard": [
+          "温帯低気圧",
+          "ハリケーン",
+          "サイクロン"
+        ]
+      }
+    },
+    {
+      "recto": "台風や低気圧による気圧の低下と強風で、海面が異常に高くなり沿岸をおそう現象を何というか。",
+      "verso": "高潮",
+      "explanation": "海面が押し上げられる気象災害。地震で起こる津波とは原因が異なるので混同しない。",
+      "tags": [
+        "災害",
+        "気象"
+      ],
+      "distractors": {
+        "easy": [
+          "津波",
+          "洪水",
+          "土石流"
+        ],
+        "medium": [
+          "高波",
+          "波浪",
+          "満潮"
+        ],
+        "hard": [
+          "副振動",
+          "サージ",
+          "潮位偏差"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】海底地震によって起こる波と、台風や低気圧の気圧低下によって海面が高くなる現象を、順にそれぞれ何というか。",
+      "verso": "津波と高潮",
+      "explanation": "津波＝地震（地殻変動）が原因、高潮＝台風・低気圧（気象）が原因。どちらも沿岸をおそうが、原因がまったく異なる。",
+      "tags": [
+        "comparaison",
+        "災害"
+      ],
+      "distractors": {
+        "easy": [
+          "洪水と干ばつ",
+          "地震と火山",
+          "台風と竜巻"
+        ],
+        "medium": [
+          "高潮と津波",
+          "高波と津波",
+          "津波と洪水"
+        ],
+        "hard": [
+          "土石流と高潮",
+          "副振動と高潮",
+          "津波と高波"
+        ]
+      }
+    },
+    {
+      "recto": "短時間に狭い範囲で大量の雨が降る現象を何というか。",
+      "verso": "集中豪雨",
+      "explanation": "近年増加し、河川の氾濫や土砂災害を引き起こす。「線状降水帯」による大雨も深刻化している。",
+      "tags": [
+        "災害",
+        "気象"
+      ],
+      "distractors": {
+        "easy": [
+          "雪害",
+          "干ばつ",
+          "寒波"
+        ],
+        "medium": [
+          "梅雨",
+          "夕立",
+          "ゲリラ豪雨という俗称"
+        ],
+        "hard": [
+          "局地的大雨",
+          "前線性降雨",
+          "対流性降雨"
+        ]
+      }
+    },
+    {
+      "recto": "大雨などで山の斜面がくずれたり、土や石が水とともに流れ下ったりする災害をまとめて何というか。",
+      "verso": "土砂災害",
+      "explanation": "がけ崩れ・地すべり・土石流を含む。山地が多く川が急な日本で起こりやすい。ハザードマップで危険箇所を確認する。",
+      "tags": [
+        "災害",
+        "気象"
+      ],
+      "distractors": {
+        "easy": [
+          "津波",
+          "高潮",
+          "液状化"
+        ],
+        "medium": [
+          "洪水",
+          "浸水",
+          "地盤沈下"
+        ],
+        "hard": [
+          "土石流のみ",
+          "深層崩壊",
+          "斜面崩壊"
+        ]
+      }
+    },
+    {
+      "recto": "山地が多く平地が少ないため、日本の川は世界の川に比べてどのような特徴をもつか。",
+      "verso": "流れが急で短い",
+      "explanation": "源流から河口までが短く傾斜が急。大雨が一気に下流に流れ、洪水が起こりやすい。日本の地形の特徴を示す。",
+      "tags": [
+        "地形",
+        "日本"
+      ],
+      "distractors": {
+        "easy": [
+          "長くゆるやか",
+          "水量が少ない",
+          "凍っている"
+        ],
+        "medium": [
+          "蛇行が多い",
+          "三角州が広い",
+          "水深が深い"
+        ],
+        "hard": [
+          "外来河川である",
+          "内陸河川である",
+          "感潮区間が長い"
+        ]
+      }
+    },
+    {
+      "recto": "災害による被害を完全に防ぐのではなく、被害をできるだけ小さくしようとする考え方を何というか。",
+      "verso": "減災",
+      "explanation": "自然災害を完全には防げないという前提に立つ。ハザードマップや避難訓練で被害を最小化する。防災と合わせて重要。",
+      "tags": [
+        "防災",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "復興",
+          "復旧",
+          "救助"
+        ],
+        "medium": [
+          "防災",
+          "耐震",
+          "免震"
+        ],
+        "hard": [
+          "受援",
+          "縮災",
+          "事前復興"
+        ]
+      }
+    },
+    {
+      "recto": "災害が予測される範囲や避難場所・避難経路を示した地図を何というか。",
+      "verso": "ハザードマップ",
+      "explanation": "洪水・地震・津波・土砂災害などの被害を予測する主題図。事前に確認しておくことが減災につながる。",
+      "tags": [
+        "防災",
+        "地図"
+      ],
+      "distractors": {
+        "easy": [
+          "地形図",
+          "路線図",
+          "観光マップ"
+        ],
+        "medium": [
+          "土地利用図",
+          "都市計画図",
+          "白地図"
+        ],
+        "hard": [
+          "被害想定図",
+          "避難地図",
+          "液状化予測図"
+        ]
+      }
+    },
+    {
+      "recto": "災害に備えて、自分や家族の身は自分で守ることを何というか。",
+      "verso": "自助",
+      "explanation": "非常持ち出し袋の用意や避難経路の確認など。地域で助け合う「共助」、行政による「公助」とセットで覚える。",
+      "tags": [
+        "防災",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "共助",
+          "公助",
+          "救助"
+        ],
+        "medium": [
+          "互助",
+          "扶助",
+          "援助"
+        ],
+        "hard": [
+          "近助",
+          "自立",
+          "共生"
+        ]
+      }
+    },
+    {
+      "recto": "災害のとき、近所の人々や地域で助け合うことを何というか。",
+      "verso": "共助",
+      "explanation": "阪神・淡路大震災では救助の多くが近隣によるものだった。自分で守る「自助」、行政の「公助」の中間にあたる。",
+      "tags": [
+        "防災",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "自助",
+          "公助",
+          "扶助"
+        ],
+        "medium": [
+          "互助",
+          "援助",
+          "救援"
+        ],
+        "hard": [
+          "近助",
+          "協働",
+          "連帯"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】国や自治体、消防・警察などの公的機関による救助・支援を何というか。",
+      "verso": "公助",
+      "explanation": "自分で守る「自助」、地域で助け合う「共助」に対し、行政が担うのが「公助」。三つの区別を取りちがえない。",
+      "tags": [
+        "piege",
+        "防災"
+      ],
+      "distractors": {
+        "easy": [
+          "自助",
+          "共助",
+          "互助"
+        ],
+        "medium": [
+          "扶助",
+          "援助",
+          "救助"
+        ],
+        "hard": [
+          "近助",
+          "公的扶助",
+          "社会保障"
+        ]
+      }
+    },
+    {
+      "recto": "2011年3月11日に発生し、巨大津波と原発事故をもたらした災害を何というか。",
+      "verso": "東日本大震災",
+      "explanation": "津波の恐ろしさと防災の大切さを再認識させた。1995年の阪神・淡路大震災（都市直下型）と区別する。",
+      "tags": [
+        "防災",
+        "災害史"
+      ],
+      "distractors": {
+        "easy": [
+          "関東大震災",
+          "阪神・淡路大震災",
+          "伊勢湾台風"
+        ],
+        "medium": [
+          "新潟県中越地震",
+          "熊本地震",
+          "北海道胆振東部地震"
+        ],
+        "hard": [
+          "東北地方太平洋沖地震という地震名",
+          "三陸沖地震",
+          "南海トラフ地震"
+        ]
+      }
+    },
+    {
+      "recto": "1995年に発生し、都市の直下型地震として大きな被害を出し、「ボランティア元年」の契機となった災害を何というか。",
+      "verso": "阪神・淡路大震災",
+      "explanation": "多くのボランティアが活動した。津波が中心の東日本大震災（2011年）と、型と年を区別する。",
+      "tags": [
+        "防災",
+        "災害史"
+      ],
+      "distractors": {
+        "easy": [
+          "関東大震災",
+          "東日本大震災",
+          "伊勢湾台風"
+        ],
+        "medium": [
+          "新潟県中越地震",
+          "熊本地震",
+          "福井地震"
+        ],
+        "hard": [
+          "兵庫県南部地震という地震名",
+          "北丹後地震",
+          "南海地震"
+        ]
+      }
+    },
+    {
+      "recto": "南海トラフ地震のように、将来の発生が高い確率で予測されている大地震に備えることの重要性を示す言葉として、災害への日ごろの心がまえを何というか。",
+      "verso": "防災意識（備え）",
+      "explanation": "「災害は必ず来る」という前提で日ごろから備える姿勢。自助・共助・公助を支える土台となる。",
+      "tags": [
+        "防災"
+      ],
+      "distractors": {
+        "easy": [
+          "復興意識",
+          "経済意識",
+          "国際意識"
+        ],
+        "medium": [
+          "危機管理",
+          "リスク回避",
+          "安全神話"
+        ],
+        "hard": [
+          "正常性バイアス",
+          "レジリエンス",
+          "事前復興"
+        ]
+      }
+    },
+    {
+      "recto": "山地が多く火山も多い日本では、災害の一方で豊かな恵みも得られる。火山がもたらす代表的な恵みは何か。",
+      "verso": "温泉（や地熱・観光資源）",
+      "explanation": "変動帯であることは災害の原因であると同時に、温泉・地熱・美しい景観という恵みももたらす。両面をとらえる。",
+      "tags": [
+        "地形",
+        "恵み"
+      ],
+      "distractors": {
+        "easy": [
+          "石油",
+          "鉄鉱石",
+          "石炭"
+        ],
+        "medium": [
+          "地下水",
+          "森林",
+          "漁業資源"
+        ],
+        "hard": [
+          "硫黄鉱床",
+          "カルデラ湖のみ",
+          "扇状地"
+        ]
+      }
+    }
+  ]
+}

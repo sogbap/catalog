@@ -1,0 +1,510 @@
+{
+  "id": "br-ensino-medio-historia-geral-grecia-roma",
+  "title": "Antiguidade Clássica: Grécia e Roma",
+  "emoji": "🏛️",
+  "subject": "history",
+  "country": "br",
+  "courseDescription": "Da pólis grega ao Império Romano. As bases da política, filosofia e direito da civilização ocidental.",
+  "lesson": "<style>\n  /* Estilos dos gráficos (SVG). Usam currentColor (texto) e var(--accent)\n     (cor da matéria), adaptando-se ao tema claro/escuro do app. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Antiguidade Clássica: Grécia e Roma</h1>\n\n<div class=\"callout\">\n  <strong>Pontos de estudo</strong><br>\n  <b>Nível:</b> Ensino Médio<br>\n  <b>Área:</b> História Geral<br>\n  <b>Período:</b> séculos VIII a.C. — V d.C.\n</div>\n\n<blockquote>\n  <p><b>Questão central.</b> Por que a Grécia e Roma são consideradas as bases da civilização ocidental?</p>\n</blockquote>\n\n<p>A <strong>Antiguidade Clássica</strong> reúne duas civilizações que moldaram o Ocidente. Da <strong>Grécia</strong> vêm a <strong>democracia</strong> e a <strong>filosofia</strong>; de <strong>Roma</strong>, o <strong>direito</strong> e a organização de um vasto império. Compreender essas heranças é entender as raízes da política, da cultura e das leis que usamos até hoje.</p>\n\n<h2>1 · A Grécia e a pólis</h2>\n\n<p>A Grécia Antiga não era um país unificado, mas um conjunto de cidades-Estado independentes chamadas <strong>pólis</strong>. Duas se destacaram: <strong>Atenas</strong>, berço da <strong>democracia direta</strong> e da cultura, e <strong>Esparta</strong>, militarista e <strong>oligárquica</strong>.</p>\n\n<p>Em Atenas, no <strong>Século de Péricles</strong> (século V a.C.), os cidadãos votavam na Assembleia — embora escravos, mulheres e estrangeiros fossem excluídos.</p>\n\n<div class=\"callout\">\n  <strong>Conceito · Democracia direta</strong><br>\n  Forma de governo em que os próprios cidadãos decidem as questões públicas, votando na Assembleia. Diferente da democracia representativa atual, feita por meio de eleitos.\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Comparação entre Atenas e Esparta\">\n  <!-- Atenas -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">Atenas</text>\n  <text x=\"87\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">Democracia</text>\n  <text x=\"26\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Assembleia dos cidadãos</text>\n  <text x=\"26\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Cultura e filosofia</text>\n  <text x=\"26\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Comércio marítimo</text>\n  <!-- Esparta -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">Esparta</text>\n  <text x=\"253\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">Oligarquia</text>\n  <text x=\"192\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Governo de poucos</text>\n  <text x=\"192\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Vida militar</text>\n  <text x=\"192\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Formação de soldados</text>\n</svg>\n<figcaption>Duas pólis opostas: Atenas democrática e culta, Esparta oligárquica e militar.</figcaption>\n</figure>\n\n<h2>2 · Filosofia e helenismo</h2>\n\n<p>A Grécia deu ao mundo a <strong>filosofia</strong>. <strong>Sócrates</strong>, <strong>Platão</strong> e <strong>Aristóteles</strong> criaram um modo racional de pensar que fundou o pensamento ocidental.</p>\n\n<p>No século IV a.C., <strong>Alexandre, o Grande</strong>, rei da Macedônia, conquistou um vasto império e difundiu a cultura grega pelo Oriente — o período <strong>helenístico</strong>.</p>\n\n<h2>3 · Roma: da República ao Império</h2>\n\n<p>Roma passou por três fases: <strong>Monarquia</strong> (reis), <strong>República</strong> (o <strong>Senado</strong> aristocrático) e <strong>Império</strong> (os imperadores). Na República, a <strong>luta entre patrícios e plebeus</strong> ampliou os direitos do povo, e as <strong>Guerras Púnicas</strong> contra Cartago deram a Roma o domínio do Mediterrâneo.</p>\n\n<p>A morte de <strong>Júlio César</strong> (44 a.C.) acelerou o fim da República. Seu sobrinho <strong>Otávio Augusto</strong> tornou-se o <strong>primeiro imperador</strong> em 27 a.C., iniciando a <strong>Pax Romana</strong>.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"As três fases políticas de Roma: Monarquia, República e Império\">\n  <defs>\n    <marker id=\"ar-bgr1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"94\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"55\" y=\"64\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">Monarquia</text>\n  <text x=\"55\" y=\"82\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">reis</text>\n  <path d=\"M104,68 L120,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bgr1)\"/>\n  <rect x=\"123\" y=\"42\" width=\"94\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"64\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">República</text>\n  <text x=\"170\" y=\"82\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">Senado</text>\n  <path d=\"M219,68 L235,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bgr1)\"/>\n  <rect x=\"238\" y=\"42\" width=\"94\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"285\" y=\"64\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">Império</text>\n  <text x=\"285\" y=\"82\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">imperadores</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">a ordem das três fases é muito cobrada</text>\n</svg>\n<figcaption>Monarquia → República → Império: a sequência das fases de Roma.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Conceito · Pax Romana</strong><br>\n  Longo período de paz e prosperidade (cerca de dois séculos) no auge do Império, iniciado por Augusto. Favoreceu o comércio e a difusão da cultura romana.\n</div>\n\n<h2>4 · O legado da Antiguidade</h2>\n\n<p>Roma legou o <strong>Direito Romano</strong>, base do direito ocidental. Na Palestina, província romana, surgiu o <strong>Cristianismo</strong>, perseguido no início e depois tornado religião oficial do Império.</p>\n\n<p>Em <strong>476 d.C.</strong>, a queda de Roma diante dos <strong>povos germânicos</strong> encerrou a Antiguidade e abriu a Idade Média.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 240\" role=\"img\" aria-label=\"Legados da Antiguidade Clássica: democracia, filosofia e direito\">\n  <defs>\n    <marker id=\"ar-bgr2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"85\" y=\"8\" width=\"170\" height=\"56\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"33\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">Antiguidade Clássica</text>\n  <text x=\"170\" y=\"53\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11\">heranças do Ocidente</text>\n  <path d=\"M170,66 L60,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bgr2)\"/>\n  <path d=\"M170,66 L170,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bgr2)\"/>\n  <path d=\"M170,66 L280,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bgr2)\"/>\n  <rect x=\"10\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"146\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">Democracia</text>\n  <text x=\"60\" y=\"176\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">Atenas</text>\n  <text x=\"60\" y=\"196\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">(Grécia)</text>\n  <rect x=\"120\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"146\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">Filosofia</text>\n  <text x=\"170\" y=\"176\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">Sócrates,</text>\n  <text x=\"170\" y=\"196\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">Platão</text>\n  <rect x=\"230\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"146\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">Direito</text>\n  <text x=\"280\" y=\"176\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">Direito</text>\n  <text x=\"280\" y=\"196\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">Romano</text>\n</svg>\n<figcaption>Democracia, filosofia e direito: as heranças que atravessaram os séculos.</figcaption>\n</figure>\n\n<h2>O essencial</h2>\n\n<h3>Linha do tempo</h3>\n\n<table>\n  <tr><th>Data</th><th>Acontecimento</th></tr>\n  <tr><td>séc. V a.C.</td><td>Século de Péricles (auge de Atenas)</td></tr>\n  <tr><td>séc. IV a.C.</td><td>Império de Alexandre (helenismo)</td></tr>\n  <tr><td>509 a.C.</td><td>Início da República Romana</td></tr>\n  <tr><td>44 a.C.</td><td>Morte de Júlio César</td></tr>\n  <tr><td>27 a.C.</td><td>Otávio Augusto, 1º imperador (Império)</td></tr>\n  <tr><td>476 d.C.</td><td>Queda de Roma (fim da Antiguidade)</td></tr>\n</table>\n\n<h3>Termos-chave</h3>\n\n<table>\n  <tr><th>Termo</th><th>Significado</th></tr>\n  <tr><td>Pólis</td><td>Cidade-Estado grega independente</td></tr>\n  <tr><td>Democracia direta</td><td>Cidadãos decidem na Assembleia (Atenas)</td></tr>\n  <tr><td>Senado</td><td>Instituição aristocrática da República Romana</td></tr>\n  <tr><td>Pax Romana</td><td>Longo período de paz no auge do Império</td></tr>\n  <tr><td>Direito Romano</td><td>Base do direito ocidental</td></tr>\n</table>\n\n<h3>Personagens</h3>\n\n<table>\n  <tr><th>Nome</th><th>Papel</th></tr>\n  <tr><td>Péricles</td><td>Líder do auge da democracia ateniense</td></tr>\n  <tr><td>Alexandre, o Grande</td><td>Difundiu a cultura grega (helenismo)</td></tr>\n  <tr><td>Júlio César</td><td>Ditador cuja morte apressou o fim da República</td></tr>\n  <tr><td>Otávio Augusto</td><td>Primeiro imperador de Roma</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  <b>Júlio César não foi imperador</b>: ele foi ditador no fim da República, e o Império só começou com <b>Otávio Augusto</b> (27 a.C.). Não inverta também <b>Atenas</b> (democracia) e <b>Esparta</b> (militarismo).\n</div>\n\n<blockquote>\n  <p>A democracia de Atenas, a filosofia grega e o direito de Roma não ficaram no passado: são pilares vivos da política e da cultura ocidentais. Da queda de Roma nasce um novo mundo — a Idade Média, nosso próximo tema.</p>\n</blockquote>\n",
+  "questionLang": "pt",
+  "answerLang": "pt",
+  "version": 1,
+  "level": "Ensino Médio",
+  "theme": "História Geral",
+  "cards": [
+    {
+      "recto": "Como era chamada a cidade-Estado independente que formava a base da organização política da Grécia Antiga?",
+      "verso": "Pólis",
+      "explanation": "Cada pólis (como Atenas e Esparta) tinha governo, leis e exército próprios. A Grécia não era um país unificado, mas um conjunto de pólis.",
+      "tags": [
+        "grecia",
+        "politica"
+      ],
+      "distractors": {
+        "easy": [
+          "Império",
+          "Feudo",
+          "Colônia"
+        ],
+        "medium": [
+          "Cidade-império",
+          "Província",
+          "República"
+        ],
+        "hard": [
+          "Acrópole",
+          "Ágora",
+          "Metrópole"
+        ]
+      }
+    },
+    {
+      "recto": "Qual pólis grega é considerada o berço da democracia?",
+      "verso": "Atenas",
+      "explanation": "Em Atenas, os cidadãos participavam diretamente das decisões na Assembleia. Esparta, ao contrário, era militarista e oligárquica.",
+      "tags": [
+        "grecia",
+        "democracia"
+      ],
+      "distractors": {
+        "easy": [
+          "Roma",
+          "Esparta",
+          "Cartago"
+        ],
+        "medium": [
+          "Tebas",
+          "Corinto",
+          "Micenas"
+        ],
+        "hard": [
+          "Mileto",
+          "Argos",
+          "Delfos"
+        ]
+      }
+    },
+    {
+      "recto": "Qual pólis grega tinha uma sociedade militarista e um governo oligárquico, voltada para a formação de soldados?",
+      "verso": "Esparta",
+      "explanation": "Esparta educava seus cidadãos para a guerra e era governada por poucos. Opõe-se a Atenas, democrática e voltada à cultura.",
+      "tags": [
+        "grecia",
+        "politica"
+      ],
+      "distractors": {
+        "easy": [
+          "Atenas",
+          "Roma",
+          "Cartago"
+        ],
+        "medium": [
+          "Corinto",
+          "Tebas",
+          "Argos"
+        ],
+        "hard": [
+          "Micenas",
+          "Mileto",
+          "Delfos"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] Qual pólis era democrática e voltada à cultura, e qual era oligárquica e militarista?",
+      "verso": "Atenas (democrática) e Esparta (militarista)",
+      "explanation": "Atenas = democracia direta e cultura; Esparta = oligarquia e vida militar. Não inverter as duas cidades.",
+      "tags": [
+        "comparaison",
+        "grecia"
+      ],
+      "distractors": {
+        "easy": [
+          "Roma e Cartago",
+          "Grécia e Pérsia",
+          "Tebas e Corinto"
+        ],
+        "medium": [
+          "Esparta (democrática) e Atenas (militarista)",
+          "Atenas e Roma",
+          "Esparta e Micenas"
+        ],
+        "hard": [
+          "Corinto e Argos",
+          "Atenas e Tebas",
+          "Esparta e Argos"
+        ]
+      }
+    },
+    {
+      "recto": "Qual líder ateniense é associado ao auge da democracia e da cultura de Atenas no século V a.C.?",
+      "verso": "Péricles",
+      "explanation": "Durante o Século de Péricles, a democracia ateniense e as artes atingiram seu apogeu. Não confundir com os filósofos do período.",
+      "tags": [
+        "grecia",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Júlio César",
+          "Alexandre",
+          "Sócrates"
+        ],
+        "medium": [
+          "Sólon",
+          "Clístenes",
+          "Temístocles"
+        ],
+        "hard": [
+          "Dracon",
+          "Pisístrato",
+          "Milcíades"
+        ]
+      }
+    },
+    {
+      "recto": "Que forma de participação política existia em Atenas, na qual os próprios cidadãos votavam as decisões na Assembleia?",
+      "verso": "Democracia direta",
+      "explanation": "Diferente da democracia representativa atual, os cidadãos decidiam pessoalmente. Mas escravos, mulheres e estrangeiros eram excluídos.",
+      "tags": [
+        "grecia",
+        "democracia"
+      ],
+      "distractors": {
+        "easy": [
+          "Monarquia",
+          "Ditadura",
+          "Democracia representativa"
+        ],
+        "medium": [
+          "Oligarquia",
+          "Aristocracia",
+          "Tirania"
+        ],
+        "hard": [
+          "Timocracia",
+          "Isonomia",
+          "Demagogia"
+        ]
+      }
+    },
+    {
+      "recto": "Filósofo grego que usava o diálogo e afirmava \"só sei que nada sei\" para questionar as certezas das pessoas.",
+      "verso": "Sócrates",
+      "explanation": "Mestre de Platão, questionava por meio de perguntas. Base da filosofia ocidental, ao lado de Platão e Aristóteles.",
+      "tags": [
+        "grecia",
+        "filosofia"
+      ],
+      "distractors": {
+        "easy": [
+          "Péricles",
+          "Alexandre",
+          "César"
+        ],
+        "medium": [
+          "Platão",
+          "Aristóteles",
+          "Pitágoras"
+        ],
+        "hard": [
+          "Heráclito",
+          "Tales",
+          "Demócrito"
+        ]
+      }
+    },
+    {
+      "recto": "Rei da Macedônia que conquistou um vasto império e difundiu a cultura grega pelo Oriente, criando o período helenístico.",
+      "verso": "Alexandre, o Grande",
+      "explanation": "Suas conquistas espalharam a cultura grega (helenismo) até a Índia e o Egito. Não confundir com os líderes de pólis.",
+      "tags": [
+        "grecia",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Péricles",
+          "Júlio César",
+          "Sócrates"
+        ],
+        "medium": [
+          "Filipe II",
+          "Leônidas",
+          "Temístocles"
+        ],
+        "hard": [
+          "Selêuco",
+          "Ptolomeu",
+          "Dario"
+        ]
+      }
+    },
+    {
+      "recto": "Como se chamava o conflito entre patrícios (aristocracia) e plebeus (povo) pela conquista de direitos na Roma Antiga?",
+      "verso": "Luta entre patrícios e plebeus",
+      "explanation": "Os plebeus conquistaram direitos como o Tribuno da Plebe e leis escritas (Lei das Doze Tábuas). Marca a fase da República.",
+      "tags": [
+        "roma",
+        "sociedade"
+      ],
+      "distractors": {
+        "easy": [
+          "Guerras Púnicas",
+          "Reforma Protestante",
+          "Revolta dos Escravos"
+        ],
+        "medium": [
+          "Guerras Médicas",
+          "Revolta de Espártaco",
+          "Conjuração Catilinária"
+        ],
+        "hard": [
+          "Secessão da Plebe",
+          "Guerra Social",
+          "Cisma"
+        ]
+      }
+    },
+    {
+      "recto": "Quais foram, em ordem, as três grandes fases políticas da história de Roma?",
+      "verso": "Monarquia, República e Império",
+      "explanation": "Monarquia (reis) → República (Senado) → Império (imperadores). A ordem das três fases é muito cobrada.",
+      "tags": [
+        "roma",
+        "politica"
+      ],
+      "distractors": {
+        "easy": [
+          "Colônia, Reino e Nação",
+          "Antiga, Média e Moderna",
+          "Pólis, Liga e Império"
+        ],
+        "medium": [
+          "República, Monarquia e Império",
+          "Império, República e Monarquia",
+          "Ditadura, Consulado e Império"
+        ],
+        "hard": [
+          "Reino, Consulado e Principado",
+          "Monarquia, Império e República",
+          "Principado, Dominato e República"
+        ]
+      }
+    },
+    {
+      "recto": "Durante a República Romana, qual instituição, formada pela aristocracia, tinha grande poder político?",
+      "verso": "Senado",
+      "explanation": "O Senado, dominado pelos patrícios, dirigia a política durante a República. No Império, perdeu poder para o imperador.",
+      "tags": [
+        "roma",
+        "politica"
+      ],
+      "distractors": {
+        "easy": [
+          "Assembleia",
+          "Igreja",
+          "Exército"
+        ],
+        "medium": [
+          "Tribunato",
+          "Consulado",
+          "Colégio dos Cônsules"
+        ],
+        "hard": [
+          "Comícios",
+          "Magistratura",
+          "Pretoriano"
+        ]
+      }
+    },
+    {
+      "recto": "Como foram chamadas as três guerras entre Roma e Cartago pelo controle do Mediterrâneo?",
+      "verso": "Guerras Púnicas",
+      "explanation": "Roma venceu Cartago e tornou-se senhora do Mediterrâneo. Aníbal foi o famoso general cartaginês dessas guerras.",
+      "tags": [
+        "roma",
+        "expansao"
+      ],
+      "distractors": {
+        "easy": [
+          "Guerras Mundiais",
+          "Cruzadas",
+          "Guerras Médicas"
+        ],
+        "medium": [
+          "Guerras Greco-Pérsicas",
+          "Guerra do Peloponeso",
+          "Guerra Social"
+        ],
+        "hard": [
+          "Guerras Sânticas",
+          "Guerras Servis",
+          "Guerras Ilíricas"
+        ]
+      }
+    },
+    {
+      "recto": "General e ditador romano cuja morte, em 44 a.C., acelerou o fim da República e a chegada do Império.",
+      "verso": "Júlio César",
+      "explanation": "Assassinado no Senado, seu sobrinho Otávio (Augusto) tornou-se o primeiro imperador. Marco da transição República → Império.",
+      "tags": [
+        "roma",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Alexandre",
+          "Péricles",
+          "Sócrates"
+        ],
+        "medium": [
+          "Otávio Augusto",
+          "Nero",
+          "Marco Antônio"
+        ],
+        "hard": [
+          "Cícero",
+          "Pompeu",
+          "Crasso"
+        ]
+      }
+    },
+    {
+      "recto": "Quem foi o primeiro imperador de Roma, iniciando o período do Império em 27 a.C.?",
+      "verso": "Otávio Augusto",
+      "explanation": "Sobrinho de Júlio César, concentrou o poder e iniciou a Pax Romana. Não confundir com César, que pertence ao fim da República.",
+      "tags": [
+        "roma",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Júlio César",
+          "Alexandre",
+          "Nero"
+        ],
+        "medium": [
+          "Marco Antônio",
+          "Trajano",
+          "Constantino"
+        ],
+        "hard": [
+          "Adriano",
+          "Diocleciano",
+          "Cícero"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] Júlio César chegou a ser imperador de Roma?",
+      "verso": "Não; o primeiro imperador foi Otávio Augusto",
+      "explanation": "Erro clássico: César foi ditador no fim da República, mas o Império só começou com Otávio Augusto (27 a.C.). Não confundir os dois.",
+      "tags": [
+        "piege",
+        "roma"
+      ],
+      "distractors": {
+        "easy": [
+          "Sim, foi o primeiro imperador",
+          "Sim, junto com Alexandre",
+          "Sim, na Monarquia"
+        ],
+        "medium": [
+          "Sim, depois de Nero",
+          "Sim, fundou a República",
+          "Sim, com Marco Antônio"
+        ],
+        "hard": [
+          "Sim, na Pax Romana",
+          "Sim, após as Guerras Púnicas",
+          "Sim, no Dominato"
+        ]
+      }
+    },
+    {
+      "recto": "Longo período de paz e prosperidade no auge do Império Romano é conhecido por que nome?",
+      "verso": "Pax Romana",
+      "explanation": "Cerca de dois séculos de estabilidade que favoreceram o comércio e a difusão da cultura romana. Iniciou-se com Augusto.",
+      "tags": [
+        "roma",
+        "auge"
+      ],
+      "distractors": {
+        "easy": [
+          "Guerra Fria",
+          "Pax Mongólica",
+          "Belle Époque"
+        ],
+        "medium": [
+          "Idade de Ouro",
+          "Pax Christiana",
+          "Renascimento"
+        ],
+        "hard": [
+          "Principado",
+          "Dominato",
+          "Século de Péricles"
+        ]
+      }
+    },
+    {
+      "recto": "Religião que surgiu na Palestina (então província romana) e, após perseguições, tornou-se a religião oficial do Império.",
+      "verso": "Cristianismo",
+      "explanation": "Perseguido no início, foi legalizado por Constantino (Edito de Milão, 313) e oficializado por Teodósio. Marca o fim da Antiguidade.",
+      "tags": [
+        "roma",
+        "religiao"
+      ],
+      "distractors": {
+        "easy": [
+          "Islamismo",
+          "Budismo",
+          "Judaísmo"
+        ],
+        "medium": [
+          "Politeísmo romano",
+          "Zoroastrismo",
+          "Mitraísmo"
+        ],
+        "hard": [
+          "Maniqueísmo",
+          "Arianismo",
+          "Gnosticismo"
+        ]
+      }
+    },
+    {
+      "recto": "Conjunto de leis e princípios jurídicos criado pelos romanos e que é a base do direito ocidental até hoje.",
+      "verso": "Direito Romano",
+      "explanation": "Conceitos como propriedade, contrato e cidadania vêm de Roma. Um dos maiores legados da Antiguidade Clássica.",
+      "tags": [
+        "roma",
+        "legado"
+      ],
+      "distractors": {
+        "easy": [
+          "Filosofia grega",
+          "Democracia",
+          "Feudalismo"
+        ],
+        "medium": [
+          "Código de Hamurabi",
+          "Lei Islâmica",
+          "Direito Canônico"
+        ],
+        "hard": [
+          "Common Law",
+          "Lei das Doze Tábuas apenas",
+          "Corpus Juris apenas"
+        ]
+      }
+    },
+    {
+      "recto": "Em 476 d.C., a queda de Roma diante de qual povo marcou o fim da Antiguidade e o início da Idade Média?",
+      "verso": "Os povos germânicos (bárbaros)",
+      "explanation": "A deposição do último imperador do Império Romano do Ocidente pelos germânicos, em 476, encerra a Antiguidade.",
+      "tags": [
+        "roma",
+        "queda"
+      ],
+      "distractors": {
+        "easy": [
+          "Os gregos",
+          "Os egípcios",
+          "Os árabes"
+        ],
+        "medium": [
+          "Os persas",
+          "Os cartagineses",
+          "Os mongóis"
+        ],
+        "hard": [
+          "Os hunos apenas",
+          "Os otomanos",
+          "Os vândalos apenas"
+        ]
+      }
+    }
+  ]
+}

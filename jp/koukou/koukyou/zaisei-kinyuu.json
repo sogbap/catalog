@@ -1,0 +1,505 @@
+{
+  "id": "jp-koukou-koukyou-zaisei-kinyuu",
+  "title": "財政と金融",
+  "emoji": "🏛️",
+  "subject": "civics",
+  "country": "jp",
+  "courseDescription": "租税と財政政策から日本銀行の金融政策まで。国の経済運営のしくみを学ぶ。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>財政と金融</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・公共<br>\n  <b>大項目B：</b>自立した主体として社会に参画する私たち<br>\n  <b>内容：</b>租税・財政政策・日本銀行・金融政策\n</div>\n\n<blockquote>\n  <p><b>問い</b>　国は、税金と通貨をどう使って、私たちの暮らしと経済を支えているのだろうか。</p>\n</blockquote>\n\n<p>市場だけでは解決できない問題に、政府と中央銀行が関わる。政府の<strong>財政</strong>は、<strong>租税</strong>を集めて公共サービスを提供し、<strong>財政政策</strong>で景気を調整する。日本銀行の<strong>金融政策</strong>は、通貨量や金利を調整して物価と景気を安定させる。国の経済運営のしくみを整理しよう。</p>\n\n<h2>1・財政と租税</h2>\n\n<p><strong>財政</strong>は、政府が税金を集めて公共サービスを提供する経済活動である。<strong>資源配分</strong>・<strong>所得の再分配</strong>・<strong>景気の安定</strong>という3つの機能をもつ。</p>\n\n<p>税金には、負担者と納税者が同じ<strong>直接税</strong>（所得税・法人税）と、両者が異なる<strong>間接税</strong>（消費税）がある。所得税などの<strong>累進課税</strong>は格差を縮めるが、消費税には低所得者ほど負担が重い<strong>逆進性</strong>がある。歳入が足りないときは<strong>国債</strong>を発行するが、将来世代の負担となる。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"直接税と間接税の比較。負担者と納税者の関係\">\n  <!-- 左：直接税 -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">直接税</text>\n  <text x=\"87\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11.5\" font-weight=\"700\">負担＝納税</text>\n  <text x=\"26\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">所得税・法人税</text>\n  <text x=\"26\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">累進課税</text>\n  <text x=\"26\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">格差を縮める</text>\n  <!-- 右：間接税 -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">間接税</text>\n  <text x=\"253\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11.5\" font-weight=\"700\">負担≠納税</text>\n  <text x=\"192\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">消費税・酒税</text>\n  <text x=\"192\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">だれもが同率</text>\n  <text x=\"192\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">逆進性がある</text>\n</svg>\n<figcaption>負担する人と納める人が同じか異なるかで、税は二つに分かれる。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・累進課税</strong><br>\n  所得が多い人ほど高い税率が適用されるしくみ。所得税などに採用され、所得の格差を縮める（所得再分配）はたらきをもつ。\n</div>\n\n<h2>2・財政政策</h2>\n\n<p>政府は、歳入や歳出を増減させて景気を調整する<strong>財政政策</strong>を行う。不況のときには公共事業を増やし減税して景気を刺激し、好況のときは逆にする。</p>\n\n<p>また、<strong>累進課税</strong>や<strong>社会保障</strong>には、景気の変動を自動的にやわらげる<strong>自動安定化装置（ビルトイン・スタビライザー）</strong>の働きもある。</p>\n\n<h2>3・金融と日本銀行</h2>\n\n<p><strong>金融</strong>は、資金の余っているところから足りないところへお金を融通することである。銀行はその仲立ちをし、預金と貸し出しの連鎖で通貨をつくり出す<strong>信用創造</strong>を行う。</p>\n\n<p>日本の中央銀行が<strong>日本銀行</strong>である。「発券銀行」「銀行の銀行」「政府の銀行」の3つの役割をもち、<strong>金融政策</strong>で通貨量や金利を調整して物価と景気を安定させる。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"日本銀行の3つの役割。発券銀行・銀行の銀行・政府の銀行\">\n  <defs>\n    <marker id=\"ar-zk1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 日本銀行（強調） -->\n  <rect x=\"95\" y=\"8\" width=\"150\" height=\"48\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"37\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">日本銀行</text>\n  <!-- 矢印 -->\n  <path d=\"M150,58 L65,92\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-zk1)\"/>\n  <path d=\"M170,58 L170,92\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-zk1)\"/>\n  <path d=\"M190,58 L275,92\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-zk1)\"/>\n  <!-- 発券銀行 -->\n  <rect x=\"10\" y=\"98\" width=\"100\" height=\"94\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"130\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11.5\" font-weight=\"700\">発券銀行</text>\n  <text x=\"60\" y=\"160\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">紙幣を発行</text>\n  <!-- 銀行の銀行 -->\n  <rect x=\"120\" y=\"98\" width=\"100\" height=\"94\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"130\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">銀行の銀行</text>\n  <text x=\"170\" y=\"160\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">銀行と取引</text>\n  <!-- 政府の銀行 -->\n  <rect x=\"230\" y=\"98\" width=\"100\" height=\"94\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"130\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">政府の銀行</text>\n  <text x=\"280\" y=\"160\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">国のお金を扱う</text>\n</svg>\n<figcaption>日本銀行は、ふつうの銀行とは異なる3つの役割をもつ中央銀行。</figcaption>\n</figure>\n\n<h2>4・金融政策と物価</h2>\n\n<p>金融政策の中心が<strong>公開市場操作</strong>である。不況時には国債を買って市場の資金を増やし（買いオペ・金融緩和）、金利を下げて投資を促す。好況時には逆に資金を吸収する。</p>\n\n<p>物価の動きも重要である。物価が上がり続ける<strong>インフレーション</strong>と、下がり続ける<strong>デフレーション</strong>がある。日本は長くデフレに苦しんだ。政府の財政政策と日本銀行の金融政策を組み合わせる<strong>ポリシー・ミックス</strong>で、景気の安定がはかられる。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"インフレーションとデフレーションの比較。物価と貨幣価値の動き\">\n  <!-- 左：インフレ -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">インフレ</text>\n  <text x=\"87\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">物価が上がる</text>\n  <text x=\"26\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">貨幣価値が下がる</text>\n  <text x=\"26\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">好況時に多い</text>\n  <text x=\"26\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">買えるモノが減る</text>\n  <!-- 右：デフレ -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">デフレ</text>\n  <text x=\"253\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">物価が下がる</text>\n  <text x=\"192\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">貨幣価値が上がる</text>\n  <text x=\"192\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">不況が深刻化</text>\n  <text x=\"192\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">デフレスパイラル</text>\n</svg>\n<figcaption>物価と貨幣価値は逆に動く。日本は長くデフレに苦しんだ。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・公開市場操作</strong><br>\n  日本銀行が国債などを売買して、市場に出回る資金量を調整する金融政策の中心的な手段。国債を買えば資金が増え（買いオペ）、売れば減る（売りオペ）。\n</div>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>担い手</th><th>政策</th></tr>\n  <tr><td>政府</td><td>財政政策（歳入・歳出の増減）</td></tr>\n  <tr><td>日本銀行</td><td>金融政策（公開市場操作）</td></tr>\n  <tr><td>両者</td><td>ポリシー・ミックス</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>直接税／間接税</td><td>負担＝納税／負担≠納税</td></tr>\n  <tr><td>累進課税</td><td>所得が多いほど高い税率</td></tr>\n  <tr><td>財政政策</td><td>歳入・歳出で景気を調整</td></tr>\n  <tr><td>金融政策</td><td>通貨量・金利で景気を調整</td></tr>\n  <tr><td>公開市場操作</td><td>国債売買で資金量を調整</td></tr>\n  <tr><td>インフレ／デフレ</td><td>物価の持続的な上昇／下落</td></tr>\n</table>\n\n<h3>不況時の対応</h3>\n\n<table>\n  <tr><th>担い手</th><th>不況時の対応</th></tr>\n  <tr><td>政府（財政政策）</td><td>公共事業を増やす・減税する</td></tr>\n  <tr><td>日本銀行（金融政策）</td><td>国債を買う（買いオペ）・金利を下げる</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  <b>直接税</b>（負担者と納税者が同じ・所得税）と<b>間接税</b>（異なる・消費税）を取りちがえないこと。<b>累進課税</b>（所得が多いほど高率）と、消費税の<b>逆進性</b>（低所得者ほど負担が重い）も混同しない。\n</div>\n\n<blockquote>\n  <p>財政と金融は、市場という「見えざる手」を補い、景気と暮らしを安定させる「見える手」である。しかし経済の安定は、それだけでは人々の生活を守りきれない。次は、働くことと支え合うこと——労働と社会保障のしくみを見ていこう。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "公共 ― 自立した主体として社会に参画する私たち",
+  "cards": [
+    {
+      "recto": "政府が税金などを集め、それを使って公共サービスを提供する経済活動を何というか。",
+      "verso": "財政",
+      "explanation": "歳入（収入）と歳出（支出）からなる。資源配分・所得再分配・景気の安定という3つの機能をもつ。",
+      "tags": [
+        "財政",
+        "基礎"
+      ],
+      "distractors": {
+        "easy": [
+          "金融",
+          "貿易",
+          "投資"
+        ],
+        "medium": [
+          "予算",
+          "経済政策",
+          "税制"
+        ],
+        "hard": [
+          "財政投融資",
+          "国庫",
+          "会計"
+        ]
+      }
+    },
+    {
+      "recto": "税金を負担する人と、実際に納める人が同じ税を何というか。所得税や法人税がこれにあたる。",
+      "verso": "直接税",
+      "explanation": "担税者と納税者が同じ。所得税・法人税が代表。負担する人と納める人が異なる間接税（消費税など）と対をなす。",
+      "tags": [
+        "財政",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "間接税",
+          "消費税",
+          "関税"
+        ],
+        "medium": [
+          "国税",
+          "地方税",
+          "目的税"
+        ],
+        "hard": [
+          "累進税",
+          "比例税",
+          "従量税"
+        ]
+      }
+    },
+    {
+      "recto": "税金を負担する人と、実際に納める人が異なる税を何というか。消費税や酒税がこれにあたる。",
+      "verso": "間接税",
+      "explanation": "消費者が負担し、事業者が納める。消費税が代表。負担者と納税者が同じ直接税（所得税など）と対で覚える。",
+      "tags": [
+        "財政",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "直接税",
+          "所得税",
+          "法人税"
+        ],
+        "medium": [
+          "国税",
+          "地方税",
+          "目的税"
+        ],
+        "hard": [
+          "累進税",
+          "相続税",
+          "固定資産税"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】負担する人と納める人が同じ税と、両者が異なる税を、順にそれぞれ何というか。",
+      "verso": "直接税と間接税",
+      "explanation": "直接税＝負担者と納税者が同じ（所得税など）、間接税＝異なる（消費税など）。どちらがどちらか取りちがえない。",
+      "tags": [
+        "comparaison",
+        "財政"
+      ],
+      "distractors": {
+        "easy": [
+          "国税と地方税",
+          "収入と支出",
+          "歳入と歳出"
+        ],
+        "medium": [
+          "間接税と直接税",
+          "累進税と比例税",
+          "直接税と目的税"
+        ],
+        "hard": [
+          "従量税と従価税",
+          "普通税と目的税",
+          "内国税と関税"
+        ]
+      }
+    },
+    {
+      "recto": "所得が多い人ほど高い税率が適用される課税のしくみを何というか。",
+      "verso": "累進課税",
+      "explanation": "所得税などに採用される。所得の格差を縮める（所得再分配）はたらきをもつ。財政の3機能の一つを担う。",
+      "tags": [
+        "財政",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "比例課税",
+          "定額課税",
+          "軽減税率"
+        ],
+        "medium": [
+          "逆進課税",
+          "間接課税",
+          "分離課税"
+        ],
+        "hard": [
+          "従量課税",
+          "総合課税",
+          "源泉課税"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】消費税のように、所得の低い人ほど所得に占める負担の割合が重くなる性質を何というか。",
+      "verso": "逆進性",
+      "explanation": "だれもが同じ税率を払う消費税は、低所得者ほど負担が重く感じられる（逆進性）。累進課税とは逆の性質。混同しない。",
+      "tags": [
+        "piege",
+        "財政"
+      ],
+      "distractors": {
+        "easy": [
+          "累進性",
+          "公平性",
+          "中立性"
+        ],
+        "medium": [
+          "比例性",
+          "透明性",
+          "水平的公平"
+        ],
+        "hard": [
+          "垂直的公平",
+          "応能負担",
+          "応益負担"
+        ]
+      }
+    },
+    {
+      "recto": "政府が歳入の不足を補うために発行する借金の証書を何というか。",
+      "verso": "国債（公債）",
+      "explanation": "将来の世代の負担となるため、発行のしすぎは問題視される。日本の財政赤字と国債残高の増大が課題となっている。",
+      "tags": [
+        "財政"
+      ],
+      "distractors": {
+        "easy": [
+          "株式",
+          "社債",
+          "手形"
+        ],
+        "medium": [
+          "地方債",
+          "国庫債券という別称",
+          "財政投融資債"
+        ],
+        "hard": [
+          "建設国債",
+          "赤字国債",
+          "借換債"
+        ]
+      }
+    },
+    {
+      "recto": "景気を安定させるために、政府が歳入や歳出を増減させる政策を何というか。",
+      "verso": "財政政策",
+      "explanation": "不況時には公共事業を増やし減税する。財政の景気安定機能。日本銀行が担う金融政策と組み合わせて景気を調整する。",
+      "tags": [
+        "財政",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "金融政策",
+          "貿易政策",
+          "産業政策"
+        ],
+        "medium": [
+          "為替政策",
+          "所得政策",
+          "構造改革"
+        ],
+        "hard": [
+          "裁量的財政政策",
+          "ビルトインスタビライザー",
+          "量的緩和"
+        ]
+      }
+    },
+    {
+      "recto": "累進課税や社会保障のように、景気の変動を自動的にやわらげる財政のしくみを何というか。",
+      "verso": "自動安定化装置（ビルトイン・スタビライザー）",
+      "explanation": "好況時には税収が増えて過熱を抑え、不況時には給付が増えて下支えする。意図的な財政政策とは別に働くしくみ。",
+      "tags": [
+        "財政"
+      ],
+      "distractors": {
+        "easy": [
+          "財政政策",
+          "金融政策",
+          "為替介入"
+        ],
+        "medium": [
+          "裁量的財政政策",
+          "フィスカルポリシー",
+          "所得再分配"
+        ],
+        "hard": [
+          "ポリシーミックス",
+          "クラウディングアウト",
+          "乗数効果"
+        ]
+      }
+    },
+    {
+      "recto": "お金を融通すること、すなわち資金の貸し借りを何というか。",
+      "verso": "金融",
+      "explanation": "資金が余っているところから足りないところへ融通する。銀行がその仲立ちをする（間接金融）。財政と対をなす経済のしくみ。",
+      "tags": [
+        "金融",
+        "基礎"
+      ],
+      "distractors": {
+        "easy": [
+          "財政",
+          "貿易",
+          "生産"
+        ],
+        "medium": [
+          "投資",
+          "貯蓄",
+          "決済"
+        ],
+        "hard": [
+          "直接金融のみ",
+          "信用創造",
+          "資金循環"
+        ]
+      }
+    },
+    {
+      "recto": "銀行が、預金の受け入れと貸し出しをくり返すことで、最初の預金額の何倍もの預金をつくり出すはたらきを何というか。",
+      "verso": "信用創造",
+      "explanation": "銀行の重要な機能。預金と貸し出しの連鎖で通貨量が増える。金融システムの根幹をなすしくみ。",
+      "tags": [
+        "金融"
+      ],
+      "distractors": {
+        "easy": [
+          "貯蓄",
+          "投資",
+          "両替"
+        ],
+        "medium": [
+          "金融政策",
+          "資金決済",
+          "貸し倒れ"
+        ],
+        "hard": [
+          "マネーストック",
+          "準備預金制度",
+          "レバレッジ"
+        ]
+      }
+    },
+    {
+      "recto": "日本の中央銀行で、紙幣を発行し、金融政策を行う銀行を何というか。",
+      "verso": "日本銀行",
+      "explanation": "「発券銀行」「銀行の銀行」「政府の銀行」の3つの役割をもつ。金融政策で通貨量や金利を調整し、物価と景気を安定させる。",
+      "tags": [
+        "金融",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "日本政策金融公庫",
+          "三菱UFJ銀行",
+          "ゆうちょ銀行"
+        ],
+        "medium": [
+          "日本開発銀行",
+          "国際協力銀行",
+          "財務省"
+        ],
+        "hard": [
+          "日本輸出入銀行",
+          "預金保険機構",
+          "証券取引所"
+        ]
+      }
+    },
+    {
+      "recto": "日本銀行が、通貨量や金利を調整して物価や景気を安定させる政策を何というか。",
+      "verso": "金融政策",
+      "explanation": "中心的な手段が公開市場操作。政府が行う財政政策と組み合わせて（ポリシーミックス）景気を調整する。",
+      "tags": [
+        "金融",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "財政政策",
+          "貿易政策",
+          "為替政策"
+        ],
+        "medium": [
+          "所得政策",
+          "産業政策",
+          "構造改革"
+        ],
+        "hard": [
+          "量的緩和のみ",
+          "マイナス金利",
+          "インフレターゲット"
+        ]
+      }
+    },
+    {
+      "recto": "日本銀行が、国債などを売買して市場に出回る資金量を調整する、金融政策の中心的な手段を何というか。",
+      "verso": "公開市場操作（オペレーション）",
+      "explanation": "国債を買えば市場に資金が増え（買いオペ）、売れば減る（売りオペ）。景気に応じて使い分ける金融政策の主要な手段。",
+      "tags": [
+        "金融",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "公共事業",
+          "減税",
+          "関税"
+        ],
+        "medium": [
+          "預金準備率操作",
+          "公定歩合操作",
+          "為替介入"
+        ],
+        "hard": [
+          "量的緩和",
+          "マイナス金利政策",
+          "イールドカーブ・コントロール"
+        ]
+      }
+    },
+    {
+      "recto": "不況のとき、日本銀行が景気を回復させるために行う金融政策はどのようなものか。",
+      "verso": "国債を買って資金量を増やす（買いオペ・金融緩和）",
+      "explanation": "市場に資金を供給して金利を下げ、企業の投資を促す。好況時は逆に資金を吸収する（金融引き締め）。景気に応じて調整する。",
+      "tags": [
+        "金融"
+      ],
+      "distractors": {
+        "easy": [
+          "国債を売って資金を減らす",
+          "増税する",
+          "公共事業を減らす"
+        ],
+        "medium": [
+          "金利を上げる",
+          "預金準備率を上げる",
+          "通貨量を減らす"
+        ],
+        "hard": [
+          "売りオペを行う",
+          "金融引き締めを行う",
+          "為替を円高に誘導する"
+        ]
+      }
+    },
+    {
+      "recto": "物価が持続的に上昇し、貨幣の価値が下がる現象を何というか。",
+      "verso": "インフレーション（インフレ）",
+      "explanation": "同じお金で買えるモノが減る。好況時に起こりやすい。逆に物価が下がり続けるデフレーションと対で覚える。",
+      "tags": [
+        "金融",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "デフレーション",
+          "好況",
+          "不況"
+        ],
+        "medium": [
+          "スタグフレーション",
+          "リフレーション",
+          "バブル"
+        ],
+        "hard": [
+          "ハイパーインフレ",
+          "ディスインフレ",
+          "コストプッシュインフレ"
+        ]
+      }
+    },
+    {
+      "recto": "物価が持続的に下落し、貨幣の価値が上がる現象を何というか。",
+      "verso": "デフレーション（デフレ）",
+      "explanation": "モノが売れず不況が深刻化しやすい（デフレスパイラル）。日本が長く苦しんだ。物価が上がるインフレと対をなす。",
+      "tags": [
+        "金融",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "インフレーション",
+          "好況",
+          "成長"
+        ],
+        "medium": [
+          "スタグフレーション",
+          "リフレーション",
+          "バブル"
+        ],
+        "hard": [
+          "デフレスパイラル",
+          "ディスインフレ",
+          "資産デフレ"
+        ]
+      }
+    },
+    {
+      "recto": "景気を安定させるため、政府の財政政策と日本銀行の金融政策を組み合わせて行うことを何というか。",
+      "verso": "ポリシー・ミックス",
+      "explanation": "財政と金融の両面から景気を調整する。不況時には財政拡大＋金融緩和を組み合わせるなど。経済政策の基本的な考え方。",
+      "tags": [
+        "経済政策"
+      ],
+      "distractors": {
+        "easy": [
+          "自由放任",
+          "計画経済",
+          "保護貿易"
+        ],
+        "medium": [
+          "ビルトインスタビライザー",
+          "構造改革",
+          "規制緩和"
+        ],
+        "hard": [
+          "インフレターゲット",
+          "トリクルダウン",
+          "サプライサイド政策"
+        ]
+      }
+    },
+    {
+      "recto": "財政のもつ3つの機能とは、資源配分・景気の安定と、あと一つは何か。",
+      "verso": "所得の再分配",
+      "explanation": "累進課税や社会保障で、所得の格差を縮める機能。資源配分機能・景気安定機能とあわせて財政の3機能という。",
+      "tags": [
+        "財政",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "利益の追求",
+          "通貨の発行",
+          "貿易の促進"
+        ],
+        "medium": [
+          "物価の安定",
+          "雇用の創出",
+          "資本の蓄積"
+        ],
+        "hard": [
+          "信用創造",
+          "為替の安定",
+          "国際収支の均衡"
+        ]
+      }
+    }
+  ]
+}

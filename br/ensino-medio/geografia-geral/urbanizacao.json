@@ -1,0 +1,432 @@
+{
+  "id": "br-ensino-medio-geografia-geral-urbanizacao",
+  "title": "Urbanização mundial",
+  "emoji": "🏙️",
+  "subject": "geography",
+  "country": "br",
+  "courseDescription": "O crescimento das cidades: conceitos de metrópole e megalópole, hierarquia urbana, as diferenças entre países e os grandes problemas urbanos.",
+  "lesson": "<style>\n  /* Estilos dos gráficos (SVG). Usam currentColor (texto) e var(--accent)\n     (cor da matéria), adaptando-se ao tema claro/escuro do app. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Urbanização mundial</h1>\n\n<div class=\"callout\">\n  <strong>Pontos de estudo</strong><br>\n  <b>Nível:</b> Ensino Médio<br>\n  <b>Área:</b> Geografia Geral<br>\n  <b>Tema:</b> cidades, redes urbanas e seus problemas\n</div>\n\n<blockquote>\n  <p><b>Questão central.</b> Por que as cidades cresceram tão rápido — e por que, nos países pobres, esse crescimento gerou tantos problemas?</p>\n</blockquote>\n\n<p>A <strong>urbanização</strong> é o crescimento das cidades e da população que vive nelas. Impulsionada pelo <strong>êxodo rural</strong>, criou <strong>metrópoles</strong> e <strong>megalópoles</strong> organizadas em uma <strong>hierarquia urbana</strong>. Nos países em desenvolvimento, foi rápida e desordenada, gerando favelas e segregação.</p>\n\n<h2>1 · O que é urbanização</h2>\n\n<p>Mede-se pela <strong>taxa de urbanização</strong> (% da população em cidades). No começo do século XXI, a humanidade tornou-se majoritariamente <strong>urbana</strong>. O grande motor, nos países pobres, foi o <strong>êxodo rural</strong>.</p>\n\n<div class=\"callout\">\n  <strong>Conceito · Hierarquia urbana</strong><br>\n  As cidades se organizam por importância: a <b>metrópole</b> polariza cidades médias, que polarizam pequenas. Juntas formam a <b>rede urbana</b> de um país.\n</div>\n\n<h2>2 · Escalas da cidade: da metrópole à megalópole</h2>\n\n<p>A <strong>metrópole</strong> é uma grande cidade que influencia toda uma região. Quando várias cidades crescem até se encostar, ocorre a <strong>conurbação</strong>. E quando várias metrópoles se unem numa faixa contínua, forma-se a <strong>megalópole</strong> — a maior escala urbana.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Escalas urbanas crescentes: cidade, metrópole e megalópole\">\n  <defs>\n    <marker id=\"ar-gurb1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"10\" y=\"46\" width=\"86\" height=\"56\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"53\" y=\"70\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Cidade</text>\n  <text x=\"53\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">núcleo urbano</text>\n  <path d=\"M96,74 L116,74\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gurb1)\"/>\n  <rect x=\"120\" y=\"42\" width=\"90\" height=\"64\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"165\" y=\"66\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Metrópole</text>\n  <text x=\"165\" y=\"84\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">polariza a região</text>\n  <path d=\"M210,74 L230,74\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gurb1)\"/>\n  <rect x=\"234\" y=\"38\" width=\"96\" height=\"72\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Megalópole</text>\n  <text x=\"282\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">várias metrópoles</text>\n  <text x=\"282\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">unidas</text>\n  <text x=\"170\" y=\"22\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">escalas urbanas crescentes</text>\n</svg>\n<figcaption>Da cidade à megalópole: escalas cada vez maiores de aglomeração urbana.</figcaption>\n</figure>\n\n<h2>3 · Duas urbanizações diferentes</h2>\n\n<p>Nos <strong>países desenvolvidos</strong>, a urbanização foi <strong>lenta e planejada</strong>, acompanhando a industrialização. Nos <strong>países em desenvolvimento</strong>, foi <strong>rápida e desordenada</strong>, gerando a <strong>macrocefalia urbana</strong>: a cidade cresce mais depressa que os serviços.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 140\" role=\"img\" aria-label=\"Comparação entre a urbanização dos países desenvolvidos e a dos países em desenvolvimento\">\n  <rect x=\"12\" y=\"30\" width=\"150\" height=\"104\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"22\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Desenvolvidos</text>\n  <text x=\"87\" y=\"58\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">lenta</text>\n  <text x=\"87\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">planejada</text>\n  <text x=\"87\" y=\"102\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">com indústria</text>\n  <rect x=\"178\" y=\"30\" width=\"150\" height=\"104\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"22\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Em desenvolvimento</text>\n  <text x=\"253\" y=\"58\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">rápida</text>\n  <text x=\"253\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">desordenada</text>\n  <text x=\"253\" y=\"102\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">favelas, macrocefalia</text>\n</svg>\n<figcaption>Mesmo processo, ritmos opostos: planejamento contra improviso.</figcaption>\n</figure>\n\n<h2>4 · Os problemas urbanos</h2>\n\n<p>A urbanização acelerada trouxe <strong>favelas</strong>, <strong>segregação socioespacial</strong> (ricos e pobres separados), problemas de <strong>mobilidade</strong> e <strong>ambientais</strong> (ilhas de calor, poluição, enchentes). Enfrentá-los é o grande desafio das cidades do Sul global.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"A macrocefalia urbana e seus problemas: moradia, mobilidade e meio ambiente\">\n  <defs>\n    <marker id=\"ar-gurb2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"95\" y=\"8\" width=\"150\" height=\"40\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"26\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">Crescimento rápido</text>\n  <text x=\"170\" y=\"41\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">e desordenado</text>\n  <path d=\"M140,48 L70,84\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gurb2)\"/>\n  <path d=\"M170,48 L170,84\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gurb2)\"/>\n  <path d=\"M200,48 L270,84\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gurb2)\"/>\n  <rect x=\"12\" y=\"88\" width=\"96\" height=\"38\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.2\"/>\n  <text x=\"60\" y=\"106\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Moradia</text>\n  <text x=\"60\" y=\"119\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">favelas</text>\n  <rect x=\"122\" y=\"88\" width=\"96\" height=\"38\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.2\"/>\n  <text x=\"170\" y=\"106\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Mobilidade</text>\n  <text x=\"170\" y=\"119\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">trânsito</text>\n  <rect x=\"232\" y=\"88\" width=\"96\" height=\"38\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.2\"/>\n  <text x=\"280\" y=\"106\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Ambiente</text>\n  <text x=\"280\" y=\"119\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">poluição, enchentes</text>\n</svg>\n<figcaption>Quando a cidade cresce depressa demais, os problemas se multiplicam.</figcaption>\n</figure>\n\n<h2>O essencial</h2>\n\n<h3>Escalas urbanas</h3>\n\n<table>\n  <tr><th>Termo</th><th>Definição</th></tr>\n  <tr><td>Cidade</td><td>Núcleo urbano básico</td></tr>\n  <tr><td>Metrópole</td><td>Grande cidade que polariza uma região</td></tr>\n  <tr><td>Conurbação</td><td>Cidades cujas manchas se encostam</td></tr>\n  <tr><td>Megalópole</td><td>Várias metrópoles unidas</td></tr>\n</table>\n\n<h3>Termos-chave</h3>\n\n<table>\n  <tr><th>Termo</th><th>Significado</th></tr>\n  <tr><td>Urbanização</td><td>Crescimento das cidades</td></tr>\n  <tr><td>Êxodo rural</td><td>Migração campo → cidade</td></tr>\n  <tr><td>Macrocefalia</td><td>Cidade cresce mais que os serviços</td></tr>\n  <tr><td>Segregação</td><td>Separação de ricos e pobres no espaço</td></tr>\n  <tr><td>Gentrificação</td><td>Renovação que expulsa os antigos moradores</td></tr>\n</table>\n\n<h3>Problemas urbanos</h3>\n\n<table>\n  <tr><th>Problema</th><th>Exemplo</th></tr>\n  <tr><td>Moradia</td><td>Favelas e assentamentos precários</td></tr>\n  <tr><td>Social</td><td>Segregação socioespacial</td></tr>\n  <tr><td>Ambiental</td><td>Ilhas de calor, poluição, enchentes</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  Não confunda <b>metrópole</b> (uma grande cidade que polariza a região) com <b>megalópole</b> (a junção de <b>várias</b> metrópoles): a escala é diferente. E lembre que a urbanização dos países pobres foi <b>rápida e desordenada</b>, não planejada.\n</div>\n\n<blockquote>\n  <p>Mais da metade da humanidade já vive em cidades, e a proporção só cresce. O futuro do planeta será decidido, em grande parte, na forma como organizarmos a vida urbana.</p>\n</blockquote>\n",
+  "questionLang": "pt",
+  "answerLang": "pt",
+  "version": 1,
+  "level": "Ensino Médio",
+  "theme": "Geografia Geral",
+  "cards": [
+    {
+      "recto": "Processo de crescimento das cidades e da proporção de pessoas que vivem nelas.",
+      "verso": "A urbanização",
+      "explanation": "Mede-se pela taxa de urbanização (percentual da população que vive em cidades). Hoje, mais da metade da humanidade é urbana.",
+      "tags": [
+        "urbanizacao",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "A industrialização",
+          "O êxodo rural",
+          "A globalização"
+        ],
+        "medium": [
+          "A metropolização",
+          "A conurbação",
+          "A litoralização"
+        ],
+        "hard": [
+          "A macrocefalia",
+          "A gentrificação",
+          "A verticalização"
+        ]
+      }
+    },
+    {
+      "recto": "Principal causa da rápida urbanização nos países em desenvolvimento no século XX.",
+      "verso": "O êxodo rural",
+      "explanation": "A saída em massa do campo para a cidade, causada pela mecanização agrícola e pela busca de emprego, encheu rapidamente as cidades.",
+      "tags": [
+        "urbanizacao",
+        "causas"
+      ],
+      "distractors": {
+        "easy": [
+          "O turismo",
+          "A imigração de luxo",
+          "A volta ao campo"
+        ],
+        "medium": [
+          "A migração pendular",
+          "A conurbação",
+          "A transumância"
+        ],
+        "hard": [
+          "A gentrificação",
+          "A contraurbanização",
+          "A rurbanização"
+        ]
+      }
+    },
+    {
+      "recto": "Grande cidade que exerce forte influência econômica e cultural sobre uma vasta região.",
+      "verso": "A metrópole",
+      "explanation": "Concentra empregos, serviços e poder, polarizando cidades menores à sua volta. São Paulo é a principal metrópole brasileira.",
+      "tags": [
+        "urbanizacao",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "A vila",
+          "O povoado",
+          "O distrito"
+        ],
+        "medium": [
+          "A megalópole",
+          "a conurbação",
+          "o subúrbio"
+        ],
+        "hard": [
+          "A cidade global apenas",
+          "a metrópole nacional apenas",
+          "a cidade-dormitório"
+        ]
+      }
+    },
+    {
+      "recto": "Enorme mancha urbana formada pela junção de várias metrópoles e cidades vizinhas.",
+      "verso": "A megalópole",
+      "explanation": "Resulta do encontro de metrópoles que crescem até se unir (ex.: Boston–Washington nos EUA; Rio–São Paulo no Brasil). É a maior escala urbana.",
+      "tags": [
+        "urbanizacao",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "A vila",
+          "O bairro",
+          "O povoado"
+        ],
+        "medium": [
+          "A metrópole isolada",
+          "A cidade média",
+          "O distrito"
+        ],
+        "hard": [
+          "A conurbação simples",
+          "A cidade global apenas",
+          "a região metropolitana apenas"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] Metrópole e megalópole são a mesma coisa?",
+      "verso": "Não; a megalópole é a junção de várias metrópoles",
+      "explanation": "Erro clássico. A metrópole é uma grande cidade polarizadora; a megalópole é uma faixa contínua formada por várias metrópoles conurbadas. A escala é diferente.",
+      "tags": [
+        "piege",
+        "urbanizacao"
+      ],
+      "distractors": {
+        "easy": [
+          "Sim, são sinônimos",
+          "Sim, só muda o nome",
+          "Sim, ambas são vilas"
+        ],
+        "medium": [
+          "Não, a metrópole é maior que a megalópole",
+          "Sim, ambas são uma só cidade",
+          "Não, mas as duas são rurais"
+        ],
+        "hard": [
+          "Não, a megalópole é uma cidade pequena",
+          "Sim, a megalópole é parte da metrópole",
+          "Não, mas a metrópole une megalópoles"
+        ]
+      }
+    },
+    {
+      "recto": "União física de duas ou mais cidades cujas manchas urbanas se encostam.",
+      "verso": "A conurbação",
+      "explanation": "As cidades crescem até se tocarem, formando um tecido urbano contínuo (ex.: o ABC paulista com São Paulo). Diferente da influência econômica de uma metrópole.",
+      "tags": [
+        "urbanizacao",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "O êxodo rural",
+          "A desertificação",
+          "O turismo"
+        ],
+        "medium": [
+          "A metropolização isolada",
+          "A macrocefalia",
+          "A gentrificação"
+        ],
+        "hard": [
+          "A rurbanização",
+          "A contraurbanização",
+          "A verticalização"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] Como diferem a urbanização dos países desenvolvidos e a dos subdesenvolvidos?",
+      "verso": "Desenvolvidos: lenta e planejada; subdesenvolvidos: rápida e desordenada",
+      "explanation": "Nos ricos, a urbanização foi gradual, junto com a industrialização. Nos pobres, foi tardia, veloz e sem infraestrutura, gerando favelas e problemas urbanos.",
+      "tags": [
+        "comparaison",
+        "urbanizacao"
+      ],
+      "distractors": {
+        "easy": [
+          "As duas foram idênticas",
+          "Desenvolvidos: rápida; subdesenvolvidos: lenta",
+          "Nenhum dos dois se urbanizou"
+        ],
+        "medium": [
+          "Desenvolvidos: desordenada; subdesenvolvidos: planejada",
+          "Ambas foram planejadas",
+          "Ambas foram desordenadas"
+        ],
+        "hard": [
+          "Desenvolvidos: sem indústria; subdesenvolvidos: com indústria antiga",
+          "As duas ocorreram no mesmo ritmo",
+          "Só os pobres se urbanizaram cedo"
+        ]
+      }
+    },
+    {
+      "recto": "Crescimento urbano excessivo e desequilibrado, com uma cidade concentrando problemas sem infraestrutura.",
+      "verso": "A macrocefalia urbana",
+      "explanation": "Comum em países subdesenvolvidos: a cidade cresce mais rápido que os serviços, gerando favelas, trânsito e poluição. A \"cabeça\" urbana fica grande demais.",
+      "tags": [
+        "urbanizacao",
+        "problemas"
+      ],
+      "distractors": {
+        "easy": [
+          "O êxodo rural",
+          "A conurbação",
+          "O turismo urbano"
+        ],
+        "medium": [
+          "A gentrificação",
+          "A verticalização",
+          "A rurbanização"
+        ],
+        "hard": [
+          "A contraurbanização",
+          "A metropolização equilibrada",
+          "A desurbanização"
+        ]
+      }
+    },
+    {
+      "recto": "Moradias precárias, muitas vezes em áreas irregulares, típicas da urbanização desordenada.",
+      "verso": "As favelas (assentamentos precários)",
+      "explanation": "Surgem quando a cidade cresce sem oferta de moradia acessível. Refletem a segregação socioespacial das grandes cidades dos países pobres.",
+      "tags": [
+        "urbanizacao",
+        "problemas"
+      ],
+      "distractors": {
+        "easy": [
+          "Os condomínios de luxo",
+          "Os centros históricos",
+          "Os shoppings"
+        ],
+        "medium": [
+          "Os subúrbios ricos",
+          "Os bairros planejados",
+          "As zonas industriais"
+        ],
+        "hard": [
+          "Os conjuntos habitacionais formais",
+          "Os loteamentos regulares",
+          "as áreas de gentrificação"
+        ]
+      }
+    },
+    {
+      "recto": "Separação da população no espaço urbano conforme a renda: ricos e pobres em áreas distintas.",
+      "verso": "A segregação socioespacial",
+      "explanation": "As cidades desiguais separam grupos sociais: bairros ricos com infraestrutura e periferias carentes. É uma marca das metrópoles do mundo em desenvolvimento.",
+      "tags": [
+        "urbanizacao",
+        "problemas"
+      ],
+      "distractors": {
+        "easy": [
+          "A integração total",
+          "A igualdade urbana",
+          "O planejamento perfeito"
+        ],
+        "medium": [
+          "A conurbação",
+          "O êxodo rural",
+          "A verticalização"
+        ],
+        "hard": [
+          "A gentrificação apenas",
+          "A rurbanização",
+          "A metropolização equilibrada"
+        ]
+      }
+    },
+    {
+      "recto": "Ilha de calor, poluição e enchentes são exemplos de que tipo de problema?",
+      "verso": "Problemas ambientais urbanos",
+      "explanation": "A concentração de asfalto, veículos e impermeabilização do solo altera o clima local e agrava enchentes. São desafios ambientais das grandes cidades.",
+      "tags": [
+        "urbanizacao",
+        "problemas"
+      ],
+      "distractors": {
+        "easy": [
+          "Problemas rurais",
+          "Problemas do deserto",
+          "Problemas polares"
+        ],
+        "medium": [
+          "Vantagens urbanas",
+          "Problemas agrícolas",
+          "Problemas marítimos"
+        ],
+        "hard": [
+          "Problemas exclusivamente rurais",
+          "Benefícios da conurbação",
+          "Efeitos do êxodo urbano"
+        ]
+      }
+    },
+    {
+      "recto": "Organização das cidades por importância, das metrópoles às pequenas cidades, formando uma rede.",
+      "verso": "A hierarquia urbana",
+      "explanation": "As cidades se organizam em níveis: a metrópole polariza cidades médias, que polarizam pequenas. Juntas formam a rede urbana de um país.",
+      "tags": [
+        "urbanizacao",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "O êxodo rural",
+          "A conurbação",
+          "A macrocefalia"
+        ],
+        "medium": [
+          "A segregação",
+          "A verticalização",
+          "A gentrificação"
+        ],
+        "hard": [
+          "A rurbanização",
+          "A contraurbanização",
+          "A litoralização"
+        ]
+      }
+    },
+    {
+      "recto": "Crescimento das cidades para cima, com edifícios altos, típico das áreas centrais valorizadas.",
+      "verso": "A verticalização",
+      "explanation": "Onde o solo é caro, constrói-se em altura. É comum nos centros das metrópoles. Diferente da expansão horizontal das periferias.",
+      "tags": [
+        "urbanizacao",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "O êxodo rural",
+          "A conurbação",
+          "A desertificação"
+        ],
+        "medium": [
+          "A macrocefalia",
+          "A segregação",
+          "A rurbanização"
+        ],
+        "hard": [
+          "A contraurbanização",
+          "A horizontalização apenas",
+          "A litoralização"
+        ]
+      }
+    },
+    {
+      "recto": "Em que momento, aproximadamente, a maior parte da humanidade passou a viver em cidades?",
+      "verso": "No início do século XXI (por volta de 2007-2008)",
+      "explanation": "Foi quando a população urbana mundial superou a rural pela primeira vez. Hoje a maioria da humanidade vive em cidades, e a tendência é crescer.",
+      "tags": [
+        "urbanizacao",
+        "dados"
+      ],
+      "distractors": {
+        "easy": [
+          "Na Idade Média",
+          "Na Antiguidade",
+          "No século XVI"
+        ],
+        "medium": [
+          "No início do século XIX",
+          "Logo após a Revolução Industrial",
+          "Em 1950"
+        ],
+        "hard": [
+          "Em meados do século XX",
+          "Por volta de 1980",
+          "Ainda não aconteceu"
+        ]
+      }
+    },
+    {
+      "recto": "De modo geral, qual o grande desafio das cidades dos países em desenvolvimento?",
+      "verso": "Oferecer infraestrutura e moradia diante de um crescimento rápido e desigual",
+      "explanation": "A urbanização veloz superou a capacidade de oferecer transporte, saneamento e moradia, gerando favelas e segregação. É o principal desafio urbano do Sul global.",
+      "tags": [
+        "urbanizacao",
+        "sintese"
+      ],
+      "distractors": {
+        "easy": [
+          "Ter menos moradores",
+          "Acabar com as indústrias",
+          "Voltar ao campo"
+        ],
+        "medium": [
+          "Reduzir a verticalização",
+          "Diminuir o comércio",
+          "Aumentar a densidade rural"
+        ],
+        "hard": [
+          "Frear a contraurbanização",
+          "Combater o esvaziamento urbano",
+          "Reverter a hierarquia urbana"
+        ]
+      }
+    },
+    {
+      "recto": "Área central antiga e degradada que é renovada e passa a atrair moradores de alta renda, expulsando os antigos.",
+      "verso": "A gentrificação",
+      "explanation": "A requalificação de bairros valoriza os imóveis e afasta a população pobre original. É um processo urbano típico de grandes cidades no mundo todo.",
+      "tags": [
+        "urbanizacao",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "O êxodo rural",
+          "A favelização",
+          "A conurbação"
+        ],
+        "medium": [
+          "A macrocefalia",
+          "A segregação simples",
+          "A verticalização"
+        ],
+        "hard": [
+          "A rurbanização",
+          "A contraurbanização",
+          "A metropolização"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,510 @@
+{
+  "id": "br-ensino-medio-historia-brasil-era-vargas",
+  "title": "A Era Vargas (1930-1945)",
+  "emoji": "🏭",
+  "subject": "history",
+  "country": "br",
+  "courseDescription": "Da Revolução de 1930 ao fim do Estado Novo. Trabalhismo, industrialização e autoritarismo em Getúlio Vargas.",
+  "lesson": "<style>\n  /* Estilos dos gráficos (SVG). Usam currentColor (texto) e var(--accent)\n     (cor da matéria), adaptando-se ao tema claro/escuro do app. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>A Era Vargas (1930-1945)</h1>\n\n<div class=\"callout\">\n  <strong>Pontos de estudo</strong><br>\n  <b>Nível:</b> Ensino Médio<br>\n  <b>Área:</b> História do Brasil<br>\n  <b>Período:</b> 1930 — 1945\n</div>\n\n<blockquote>\n  <p><b>Questão central.</b> Como Getúlio Vargas pôde ser, ao mesmo tempo, o criador dos direitos trabalhistas e um ditador?</p>\n</blockquote>\n\n<p>A <strong>Era Vargas</strong> começou com a <strong>Revolução de 1930</strong>, que encerrou a República Velha. Por 15 anos, Getúlio Vargas <strong>industrializou</strong> o país, deu <strong>direitos aos trabalhadores</strong> (a <strong>CLT</strong>) e, ao mesmo tempo, governou de forma <strong>autoritária</strong> no <strong>Estado Novo</strong>. Essas duas faces — trabalhismo e autoritarismo — definem o <strong>getulismo</strong>.</p>\n\n<h2>1 · Da Revolução de 1930 ao Estado Novo</h2>\n\n<p>Depois de perder a eleição e com a crise do café, Vargas chegou ao poder pela <strong>Revolução de 1930</strong>. Governou primeiro como <strong>Governo Provisório</strong>. Em 1932, São Paulo pegou em armas na <strong>Revolução Constitucionalista</strong>, exigindo uma nova Constituição — que veio em 1934. Em 1937, um golpe implantou o <strong>Estado Novo</strong>, a fase ditatorial.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"As três fases da Era Vargas: Governo Provisório, Governo Constitucional e Estado Novo\">\n  <defs>\n    <marker id=\"ar-bev1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"70\" y=\"8\" width=\"200\" height=\"40\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"26\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">Governo Provisório</text>\n  <text x=\"170\" y=\"41\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">1930-1934 · Revolução de 1930</text>\n  <path d=\"M170,48 L170,66\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bev1)\"/>\n  <rect x=\"70\" y=\"70\" width=\"200\" height=\"40\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"88\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">Governo Constitucional</text>\n  <text x=\"170\" y=\"103\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">1934-1937 · Constituição de 1934</text>\n  <path d=\"M170,110 L170,128\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bev1)\"/>\n  <rect x=\"70\" y=\"132\" width=\"200\" height=\"46\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"152\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">Estado Novo</text>\n  <text x=\"170\" y=\"167\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">1937-1945 · ditadura (golpe)</text>\n</svg>\n<figcaption>Vargas passou de líder revolucionário a ditador em sete anos.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Conceito · Estado Novo</strong><br>\n  Ditadura instaurada por Vargas em 1937: fechou o Congresso, impôs a Constituição autoritária (a <b>Polaca</b>), censurou a imprensa (pelo <b>DIP</b>) e perseguiu opositores.\n</div>\n\n<h2>2 · As duas faces de Vargas</h2>\n\n<p>Vargas construiu o <strong>trabalhismo</strong>: criou o <strong>salário mínimo</strong> (1940) e reuniu os direitos dos trabalhadores na <strong>CLT</strong> (1943). Apresentava-se como o \"pai dos pobres\". Mas a mesma figura era <strong>autoritária</strong>: censura, prisões e concentração de poder no Estado Novo. É o coração do <strong>getulismo</strong>.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 170\" role=\"img\" aria-label=\"As duas faces de Getúlio Vargas: trabalhismo e autoritarismo\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">Getúlio Vargas</text>\n  <rect x=\"12\" y=\"30\" width=\"150\" height=\"126\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">Trabalhismo</text>\n  <text x=\"87\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">salário mínimo</text>\n  <text x=\"87\" y=\"96\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">CLT (direitos)</text>\n  <text x=\"87\" y=\"116\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">voto feminino</text>\n  <text x=\"87\" y=\"136\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">\"pai dos pobres\"</text>\n  <rect x=\"178\" y=\"30\" width=\"150\" height=\"126\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">Autoritarismo</text>\n  <text x=\"253\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">Estado Novo</text>\n  <text x=\"253\" y=\"96\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">Constituição Polaca</text>\n  <text x=\"253\" y=\"116\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">censura (DIP)</text>\n  <text x=\"253\" y=\"136\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">Congresso fechado</text>\n</svg>\n<figcaption>O mesmo governante deu direitos e suprimiu liberdades: o paradoxo do getulismo.</figcaption>\n</figure>\n\n<h2>3 · A economia: industrialização pelo Estado</h2>\n\n<p>Vargas apostou na <strong>industrialização</strong> com forte papel do <strong>Estado</strong> (o <strong>nacional-desenvolvimentismo</strong>). Criou indústrias de base como a <strong>Companhia Siderúrgica Nacional (CSN)</strong>, em Volta Redonda, e a <strong>Vale do Rio Doce</strong>. O Brasil deixava de ser puramente agrário.</p>\n\n<div class=\"callout\">\n  <strong>Conceito · Nacional-desenvolvimentismo</strong><br>\n  Modelo em que o <b>Estado</b> conduz a industrialização, criando empresas estatais e protegendo a indústria nacional. Marca a economia varguista.\n</div>\n\n<h2>4 · A guerra e a queda</h2>\n\n<p>Na <strong>Segunda Guerra Mundial</strong>, o Brasil entrou ao lado dos <strong>Aliados</strong> e enviou a <strong>FEB</strong> para lutar na Itália contra o nazifascismo. A contradição de <strong>combater ditaduras no exterior</strong> enquanto Vargas era ditador dentro do país enfraqueceu o Estado Novo. Em <strong>1945</strong>, Vargas foi <strong>deposto por um golpe militar</strong>.</p>\n\n<p>Vargas, porém, não desapareceu: voltou <strong>eleito presidente em 1950</strong>, prova de sua enorme força política.</p>\n\n<h2>O essencial</h2>\n\n<h3>Linha do tempo</h3>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 240\" role=\"img\" aria-label=\"Linha do tempo da Era Vargas, de 1930 a 1945\">\n  <line x1=\"26\" y1=\"16\" x2=\"26\" y2=\"226\" style=\"stroke:var(--accent);stroke-opacity:.4;stroke-width:2\"/>\n  <circle cx=\"26\" cy=\"24\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"21\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1930</text>\n  <text x=\"40\" y=\"34\" class=\"s-muted\" font-size=\"10\">Revolução de 1930 (Vargas ao poder)</text>\n  <circle cx=\"26\" cy=\"60\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"57\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1932</text>\n  <text x=\"40\" y=\"70\" class=\"s-muted\" font-size=\"10\">Rev. Constitucionalista · voto feminino</text>\n  <circle cx=\"26\" cy=\"96\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"93\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1937</text>\n  <text x=\"40\" y=\"106\" class=\"s-muted\" font-size=\"10\">Golpe: Estado Novo (Polaca)</text>\n  <circle cx=\"26\" cy=\"132\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"129\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1940</text>\n  <text x=\"40\" y=\"142\" class=\"s-muted\" font-size=\"10\">Salário mínimo</text>\n  <circle cx=\"26\" cy=\"168\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"165\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1943</text>\n  <text x=\"40\" y=\"178\" class=\"s-muted\" font-size=\"10\">CLT</text>\n  <circle cx=\"26\" cy=\"204\" r=\"5\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"201\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1945</text>\n  <text x=\"40\" y=\"214\" class=\"s-muted\" font-size=\"10\">Vargas deposto por golpe militar</text>\n</svg>\n<figcaption>Quinze anos que industrializaram o país e oscilaram entre direitos e ditadura.</figcaption>\n</figure>\n\n<table>\n  <tr><th>Data</th><th>Acontecimento</th></tr>\n  <tr><td>1930</td><td>Revolução de 1930 (Vargas ao poder)</td></tr>\n  <tr><td>1932</td><td>Revolução Constitucionalista · voto feminino</td></tr>\n  <tr><td>1934</td><td>Nova Constituição</td></tr>\n  <tr><td>1937</td><td>Golpe: Estado Novo (Polaca)</td></tr>\n  <tr><td>1940</td><td>Salário mínimo</td></tr>\n  <tr><td>1943</td><td>CLT</td></tr>\n  <tr><td>1945</td><td>Vargas deposto por golpe militar</td></tr>\n</table>\n\n<h3>Termos-chave</h3>\n\n<table>\n  <tr><th>Termo</th><th>Significado</th></tr>\n  <tr><td>Estado Novo</td><td>Ditadura de Vargas (1937-1945)</td></tr>\n  <tr><td>Polaca</td><td>Constituição autoritária de 1937</td></tr>\n  <tr><td>DIP</td><td>Órgão de censura e propaganda</td></tr>\n  <tr><td>CLT</td><td>Consolidação das Leis do Trabalho (1943)</td></tr>\n  <tr><td>Trabalhismo</td><td>Política de direitos aos trabalhadores</td></tr>\n  <tr><td>Populismo</td><td>Apoio direto às massas (\"pai dos pobres\")</td></tr>\n</table>\n\n<h3>Personagens e marcos</h3>\n\n<table>\n  <tr><th>Nome</th><th>Papel</th></tr>\n  <tr><td>Getúlio Vargas</td><td>Governou 1930-1945; voltou em 1950</td></tr>\n  <tr><td>CSN</td><td>Siderúrgica estatal (Volta Redonda)</td></tr>\n  <tr><td>FEB</td><td>Tropas brasileiras na Itália (2ª Guerra)</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  Vargas <b>não saiu por eleição</b> em 1945: foi <b>deposto por um golpe militar</b>. E não confunda as duas faces: o <b>trabalhismo</b> dava direitos, mas o <b>Estado Novo</b> era uma ditadura.\n</div>\n\n<blockquote>\n  <p>Com a queda de Vargas em 1945, o Brasil abriu um novo capítulo: eleições, uma nova Constituição e quase 20 anos de democracia. É o nosso próximo tema: a República Democrática.</p>\n</blockquote>\n",
+  "questionLang": "pt",
+  "answerLang": "pt",
+  "version": 1,
+  "level": "Ensino Médio",
+  "theme": "História do Brasil",
+  "cards": [
+    {
+      "recto": "Líder que governou o Brasil de 1930 a 1945, marcando a política com o trabalhismo e o autoritarismo.",
+      "verso": "Getúlio Vargas",
+      "explanation": "Chegou ao poder pela Revolução de 1930 e governou por 15 anos. Foi ao mesmo tempo criador de leis trabalhistas e ditador no Estado Novo.",
+      "tags": [
+        "era-vargas",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Dom Pedro II",
+          "Juscelino Kubitschek",
+          "Marechal Deodoro"
+        ],
+        "medium": [
+          "João Goulart",
+          "Jânio Quadros",
+          "Eurico Dutra"
+        ],
+        "hard": [
+          "Washington Luís",
+          "Júlio Prestes",
+          "Artur Bernardes"
+        ]
+      }
+    },
+    {
+      "recto": "Como Getúlio Vargas chegou ao poder em 1930?",
+      "verso": "Pela Revolução de 1930 (um golpe que derrubou a República Velha)",
+      "explanation": "Após perder a eleição e a crise do café, um movimento armado levou Vargas ao poder, encerrando o domínio das oligarquias cafeeiras.",
+      "tags": [
+        "era-vargas",
+        "1930"
+      ],
+      "distractors": {
+        "easy": [
+          "Por uma eleição direta",
+          "Por herança",
+          "Por concurso"
+        ],
+        "medium": [
+          "Por indicação militar apenas",
+          "Por plebiscito",
+          "Pela Constituição"
+        ],
+        "hard": [
+          "Por acordo com as oligarquias",
+          "Por nomeação do presidente",
+          "Por sucessão legal"
+        ]
+      }
+    },
+    {
+      "recto": "Revolta de São Paulo, em 1932, que exigia uma nova Constituição e o fim do governo provisório de Vargas.",
+      "verso": "Revolução Constitucionalista de 1932",
+      "explanation": "São Paulo pegou em armas exigindo uma Constituição. Foi derrotado, mas levou Vargas a convocar a Constituinte de 1934.",
+      "tags": [
+        "era-vargas",
+        "revolta"
+      ],
+      "distractors": {
+        "easy": [
+          "Revolução de 1930",
+          "Proclamação da República",
+          "Inconfidência"
+        ],
+        "medium": [
+          "Intentona Comunista",
+          "Revolta Integralista",
+          "Coluna Prestes"
+        ],
+        "hard": [
+          "Revolução Federalista",
+          "Guerra Paulista apenas",
+          "Sedição de 1924"
+        ]
+      }
+    },
+    {
+      "recto": "Importante conquista para as mulheres brasileiras, garantida na legislação eleitoral de 1932.",
+      "verso": "O direito ao voto (voto feminino)",
+      "explanation": "O Código Eleitoral de 1932 instituiu o voto feminino e o voto secreto. Foi um avanço democrático em meio ao governo Vargas.",
+      "tags": [
+        "era-vargas",
+        "cidadania"
+      ],
+      "distractors": {
+        "easy": [
+          "O direito à propriedade",
+          "O fim da escravidão",
+          "O salário mínimo"
+        ],
+        "medium": [
+          "O direito ao divórcio",
+          "A licença-maternidade",
+          "O voto obrigatório apenas"
+        ],
+        "hard": [
+          "A igualdade salarial",
+          "O voto censitário",
+          "A elegibilidade plena imediata"
+        ]
+      }
+    },
+    {
+      "recto": "Fase mais autoritária da Era Vargas (1937-1945), uma ditadura instaurada por um golpe.",
+      "verso": "Estado Novo",
+      "explanation": "Vargas fechou o Congresso, impôs uma Constituição autoritária, censurou a imprensa e perseguiu opositores. Regime ditatorial e centralizador.",
+      "tags": [
+        "era-vargas",
+        "estado-novo"
+      ],
+      "distractors": {
+        "easy": [
+          "Governo Provisório",
+          "República Velha",
+          "Nova República"
+        ],
+        "medium": [
+          "Governo Constitucional",
+          "República Populista",
+          "Regime Militar"
+        ],
+        "hard": [
+          "Governo Democrático",
+          "Segundo Governo Vargas",
+          "República da Espada"
+        ]
+      }
+    },
+    {
+      "recto": "Constituição autoritária de 1937, que deu base ao Estado Novo, ficou conhecida por qual apelido?",
+      "verso": "Polaca",
+      "explanation": "Inspirada na Constituição autoritária da Polônia. Concentrava poderes em Vargas e suprimia liberdades. Base jurídica da ditadura do Estado Novo.",
+      "tags": [
+        "era-vargas",
+        "documento"
+      ],
+      "distractors": {
+        "easy": [
+          "Cidadã",
+          "Republicana",
+          "Áurea"
+        ],
+        "medium": [
+          "Getulista",
+          "Militar",
+          "Liberal"
+        ],
+        "hard": [
+          "Bragantina",
+          "Imperial",
+          "Federalista"
+        ]
+      }
+    },
+    {
+      "recto": "Órgão do Estado Novo responsável pela censura e pela propaganda oficial do governo Vargas.",
+      "verso": "DIP (Departamento de Imprensa e Propaganda)",
+      "explanation": "Controlava a imprensa, o rádio e o cinema, promovendo a imagem de Vargas. Instrumento típico de um regime autoritário.",
+      "tags": [
+        "era-vargas",
+        "estado-novo"
+      ],
+      "distractors": {
+        "easy": [
+          "ONU",
+          "OAB",
+          "IBGE"
+        ],
+        "medium": [
+          "SNI",
+          "DOPS apenas",
+          "TSE"
+        ],
+        "hard": [
+          "AI-5",
+          "Censura Federal apenas",
+          "Departamento de Cultura"
+        ]
+      }
+    },
+    {
+      "recto": "Conjunto de leis criadas por Vargas que reuniu direitos dos trabalhadores, como jornada e férias, em 1943.",
+      "verso": "CLT (Consolidação das Leis do Trabalho)",
+      "explanation": "Garantiu direitos como jornada de 8 horas, férias e carteira de trabalho. Base do trabalhismo, que aproximou Vargas dos trabalhadores urbanos.",
+      "tags": [
+        "era-vargas",
+        "trabalho"
+      ],
+      "distractors": {
+        "easy": [
+          "Lei Áurea",
+          "Constituição de 1988",
+          "Estatuto da Terra"
+        ],
+        "medium": [
+          "Lei do Salário Mínimo apenas",
+          "Previdência Social",
+          "Lei de Greve"
+        ],
+        "hard": [
+          "Código Eleitoral",
+          "Lei Sindical apenas",
+          "Estatuto do Trabalhador Rural"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] Getúlio Vargas teve duas faces: uma que dava direitos aos trabalhadores e outra política. Quais são?",
+      "verso": "O trabalhismo (direitos) e o autoritarismo (ditadura)",
+      "explanation": "Vargas criou leis trabalhistas (CLT) e, ao mesmo tempo, governou de forma autoritária no Estado Novo. As duas faces convivem no getulismo.",
+      "tags": [
+        "comparaison",
+        "era-vargas"
+      ],
+      "distractors": {
+        "easy": [
+          "A esquerda e a direita",
+          "O campo e a cidade",
+          "A guerra e a paz"
+        ],
+        "medium": [
+          "O autoritarismo (direitos) e o trabalhismo (ditadura)",
+          "O liberalismo e o socialismo",
+          "O populismo e o coronelismo"
+        ],
+        "hard": [
+          "O nacionalismo e o federalismo",
+          "O trabalhismo e o liberalismo",
+          "A indústria e a agricultura"
+        ]
+      }
+    },
+    {
+      "recto": "Política econômica de Vargas que estimulou a criação de indústrias de base no Brasil.",
+      "verso": "Industrialização (nacional-desenvolvimentismo)",
+      "explanation": "Vargas criou a Companhia Siderúrgica Nacional (CSN) e a Vale do Rio Doce, com forte papel do Estado. Impulsionou a indústria brasileira.",
+      "tags": [
+        "era-vargas",
+        "economia"
+      ],
+      "distractors": {
+        "easy": [
+          "Reforma agrária",
+          "Abolição",
+          "Livre mercado puro"
+        ],
+        "medium": [
+          "Plano de Metas",
+          "Milagre econômico",
+          "Plano Real"
+        ],
+        "hard": [
+          "Substituição de exportações",
+          "Fisiocracia",
+          "Privatização"
+        ]
+      }
+    },
+    {
+      "recto": "Grande usina siderúrgica estatal criada por Vargas, símbolo da industrialização brasileira.",
+      "verso": "Companhia Siderúrgica Nacional (CSN)",
+      "explanation": "Inaugurada em Volta Redonda (RJ), produziu aço nacional. Marca o papel do Estado como motor da industrialização na Era Vargas.",
+      "tags": [
+        "era-vargas",
+        "economia"
+      ],
+      "distractors": {
+        "easy": [
+          "Petrobras",
+          "Banco do Brasil",
+          "Correios"
+        ],
+        "medium": [
+          "Vale do Rio Doce",
+          "Eletrobras",
+          "Usiminas"
+        ],
+        "hard": [
+          "CSN de Ipatinga",
+          "Cosipa",
+          "Fábrica Nacional de Motores"
+        ]
+      }
+    },
+    {
+      "recto": "Estilo político de Vargas, que buscava o apoio direto das massas populares, sobretudo dos trabalhadores urbanos.",
+      "verso": "Populismo",
+      "explanation": "Vargas se apresentava como o \"pai dos pobres\", ligando-se diretamente ao povo. O populismo marcaria a política brasileira até 1964.",
+      "tags": [
+        "era-vargas",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "Coronelismo",
+          "Liberalismo",
+          "Feudalismo"
+        ],
+        "medium": [
+          "Socialismo",
+          "Anarquismo",
+          "Comunismo"
+        ],
+        "hard": [
+          "Trabalhismo apenas",
+          "Corporativismo apenas",
+          "Caudilhismo"
+        ]
+      }
+    },
+    {
+      "recto": "Em qual conflito mundial o Brasil de Vargas entrou, ao lado dos Aliados, enviando tropas à Itália?",
+      "verso": "Segunda Guerra Mundial",
+      "explanation": "A FEB lutou na Itália contra o Eixo. A contradição de combater o nazifascismo enquanto Vargas era ditador ajudou a enfraquecer o Estado Novo.",
+      "tags": [
+        "era-vargas",
+        "guerra"
+      ],
+      "distractors": {
+        "easy": [
+          "Primeira Guerra Mundial",
+          "Guerra do Paraguai",
+          "Guerra Fria"
+        ],
+        "medium": [
+          "Guerra da Coreia",
+          "Guerra do Vietnã",
+          "Guerra da Cisplatina"
+        ],
+        "hard": [
+          "Guerra Civil Espanhola",
+          "Guerra do Golfo",
+          "Guerra do Contestado"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] Como terminou o Estado Novo, em 1945?",
+      "verso": "Vargas foi deposto por um golpe militar",
+      "explanation": "Erro comum é achar que Vargas saiu por eleição. Pressionado pela contradição de lutar contra ditaduras na guerra, foi deposto pelos militares em 1945.",
+      "tags": [
+        "piege",
+        "era-vargas"
+      ],
+      "distractors": {
+        "easy": [
+          "Vargas venceu uma eleição",
+          "Vargas morreu no cargo",
+          "Vargas renunciou por vontade própria"
+        ],
+        "medium": [
+          "Vargas foi reeleito",
+          "O Estado Novo virou monarquia",
+          "Vargas foi exilado por Portugal"
+        ],
+        "hard": [
+          "Vargas passou o cargo ao filho",
+          "O Congresso o destituiu",
+          "Um plebiscito o afastou"
+        ]
+      }
+    },
+    {
+      "recto": "Após a queda de Vargas em 1945, o Brasil entrou em qual período político?",
+      "verso": "A República Democrática (redemocratização)",
+      "explanation": "Com o fim do Estado Novo, houve eleições e uma nova Constituição (1946). Iniciava-se um período democrático que duraria até 1964.",
+      "tags": [
+        "era-vargas",
+        "consequencia"
+      ],
+      "distractors": {
+        "easy": [
+          "A República Velha",
+          "A Ditadura Militar",
+          "o Império"
+        ],
+        "medium": [
+          "O Segundo Estado Novo",
+          "A República da Espada",
+          "O Governo Provisório"
+        ],
+        "hard": [
+          "A Nova República",
+          "O Parlamentarismo",
+          "A República Populista Militar"
+        ]
+      }
+    },
+    {
+      "recto": "Getúlio Vargas ainda voltaria ao poder depois de 1945? De que forma?",
+      "verso": "Sim, eleito presidente em 1950 (pelo voto)",
+      "explanation": "Vargas retornou democraticamente, eleito em 1950. Seu segundo governo terminou tragicamente com seu suicídio em 1954. Mostra sua força política.",
+      "tags": [
+        "era-vargas",
+        "sintese"
+      ],
+      "distractors": {
+        "easy": [
+          "Não, nunca mais voltou",
+          "Sim, por outro golpe",
+          "Sim, como rei"
+        ],
+        "medium": [
+          "Sim, nomeado ministro",
+          "Sim, como governador apenas",
+          "Não, foi exilado"
+        ],
+        "hard": [
+          "Sim, em 1960",
+          "Sim, indicado pelos militares",
+          "Sim, por plebiscito"
+        ]
+      }
+    },
+    {
+      "recto": "Qual grupo social ganhou mais direitos e importância política com o trabalhismo de Vargas?",
+      "verso": "Os trabalhadores urbanos (operários)",
+      "explanation": "As leis trabalhistas e os sindicatos ligados ao Estado aproximaram os operários urbanos de Vargas. Os trabalhadores rurais, porém, ficaram de fora.",
+      "tags": [
+        "era-vargas",
+        "sociedade"
+      ],
+      "distractors": {
+        "easy": [
+          "Os grandes fazendeiros",
+          "A nobreza",
+          "Os coronéis"
+        ],
+        "medium": [
+          "Os trabalhadores rurais",
+          "Os banqueiros",
+          "Os militares apenas"
+        ],
+        "hard": [
+          "Os imigrantes ilegais",
+          "Os latifundiários",
+          "Os comerciantes apenas"
+        ]
+      }
+    },
+    {
+      "recto": "De modo geral, a Era Vargas foi um período de que tipo de transformação para o Brasil?",
+      "verso": "Modernização econômica (industrialização) com forte papel do Estado",
+      "explanation": "O Estado passou a intervir na economia, industrializar o país e regular o trabalho. Rompia com o Brasil puramente agrário da República Velha.",
+      "tags": [
+        "era-vargas",
+        "sintese"
+      ],
+      "distractors": {
+        "easy": [
+          "Retorno ao Império",
+          "Volta à escravidão",
+          "Fim do Estado"
+        ],
+        "medium": [
+          "Liberalismo econômico puro",
+          "Reforma agrária ampla",
+          "Democracia plena"
+        ],
+        "hard": [
+          "Desindustrialização",
+          "Federalismo radical",
+          "Privatização geral"
+        ]
+      }
+    },
+    {
+      "recto": "Símbolo do trabalhismo, direito garantido por Vargas que estabelece o menor valor legal de pagamento ao trabalhador.",
+      "verso": "Salário mínimo",
+      "explanation": "Instituído em 1940, o salário mínimo tornou-se símbolo do trabalhismo varguista e permanece até hoje na legislação brasileira.",
+      "tags": [
+        "era-vargas",
+        "trabalho"
+      ],
+      "distractors": {
+        "easy": [
+          "Imposto de renda",
+          "Voto secreto",
+          "Décimo terceiro apenas"
+        ],
+        "medium": [
+          "FGTS",
+          "Vale-transporte",
+          "Seguro-desemprego"
+        ],
+        "hard": [
+          "Piso salarial regional",
+          "Abono anual",
+          "Adicional noturno"
+        ]
+      }
+    }
+  ]
+}

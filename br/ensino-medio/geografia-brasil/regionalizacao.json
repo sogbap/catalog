@@ -1,0 +1,432 @@
+{
+  "id": "br-ensino-medio-geografia-brasil-regionalizacao",
+  "title": "Regionalização do Brasil",
+  "emoji": "🗺️",
+  "subject": "geography",
+  "country": "br",
+  "courseDescription": "As formas de dividir o território brasileiro: as cinco regiões do IBGE e os três complexos regionais (Amazônia, Nordeste e Centro-Sul).",
+  "lesson": "<style>\n  /* Estilos dos gráficos (SVG). Usam currentColor (texto) e var(--accent)\n     (cor da matéria), adaptando-se ao tema claro/escuro do app. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Regionalização do Brasil</h1>\n\n<div class=\"callout\">\n  <strong>Pontos de estudo</strong><br>\n  <b>Nível:</b> Ensino Médio<br>\n  <b>Área:</b> Geografia do Brasil<br>\n  <b>Tema:</b> as regiões do IBGE e os complexos geoeconômicos\n</div>\n\n<blockquote>\n  <p><b>Questão central.</b> Por que existe mais de uma forma \"certa\" de dividir o Brasil em regiões?</p>\n</blockquote>\n\n<p>Há várias formas de <strong>regionalizar</strong> o Brasil. A oficial é a do <strong>IBGE</strong>: <strong>cinco regiões</strong> que respeitam os limites dos estados. Outra, dos <strong>complexos geoeconômicos</strong>, divide o país em <strong>três conjuntos</strong> (Amazônia, Nordeste e Centro-Sul) por critérios econômicos.</p>\n\n<h2>1 · As cinco regiões do IBGE</h2>\n\n<p>A divisão oficial, administrativa, cria <strong>cinco regiões</strong>: <strong>Norte</strong> (a maior, amazônica), <strong>Nordeste</strong> (do açúcar e do semiárido), <strong>Centro-Oeste</strong> (de Brasília e do agronegócio), <strong>Sudeste</strong> (o coração econômico) e <strong>Sul</strong> (a menor, subtropical).</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 160\" role=\"img\" aria-label=\"As cinco regiões do IBGE e suas principais características\">\n  <rect x=\"10\" y=\"12\" width=\"150\" height=\"42\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"85\" y=\"32\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Norte</text>\n  <text x=\"85\" y=\"47\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">maior; Amazônia</text>\n  <rect x=\"168\" y=\"12\" width=\"162\" height=\"42\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"249\" y=\"32\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Nordeste</text>\n  <text x=\"249\" y=\"47\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">açúcar; semiárido</text>\n  <rect x=\"10\" y=\"60\" width=\"150\" height=\"42\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"85\" y=\"80\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Centro-Oeste</text>\n  <text x=\"85\" y=\"95\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">Brasília; agronegócio</text>\n  <rect x=\"168\" y=\"60\" width=\"162\" height=\"42\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.2\"/>\n  <text x=\"249\" y=\"80\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Sudeste</text>\n  <text x=\"249\" y=\"95\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">coração econômico</text>\n  <rect x=\"10\" y=\"108\" width=\"150\" height=\"42\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"85\" y=\"128\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Sul</text>\n  <text x=\"85\" y=\"143\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">menor; subtropical</text>\n  <rect x=\"168\" y=\"108\" width=\"162\" height=\"42\" rx=\"10\" style=\"fill:none;stroke:var(--accent);stroke-opacity:.3;stroke-width:1;stroke-dasharray:4 3\"/>\n  <text x=\"249\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">divisão oficial do IBGE</text>\n  <text x=\"249\" y=\"140\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">respeita os estados</text>\n</svg>\n<figcaption>As cinco regiões do IBGE: a divisão oficial e administrativa do país.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Conceito · Complexos geoeconômicos</strong><br>\n  Divisão do país em <b>três</b> conjuntos (Amazônia, Nordeste e Centro-Sul) por critérios <b>econômicos e históricos</b>, sem seguir os limites dos estados. Proposta pelo geógrafo Pedro Geiger.\n</div>\n\n<h2>2 · Os três complexos geoeconômicos</h2>\n\n<p>Outra forma de dividir: os <strong>complexos geoeconômicos</strong>. A <strong>Amazônia</strong> (floresta e extrativismo), o <strong>Nordeste</strong> (açúcar e sertão) e o <strong>Centro-Sul</strong> (indústria e agricultura moderna, o mais rico). Eles <strong>cruzam</strong> os limites dos estados.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"Os três complexos geoeconômicos do Brasil: Amazônia, Nordeste e Centro-Sul\">\n  <rect x=\"10\" y=\"34\" width=\"100\" height=\"72\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Amazônia</text>\n  <text x=\"60\" y=\"82\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">floresta,</text>\n  <text x=\"60\" y=\"95\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">extrativismo</text>\n  <rect x=\"120\" y=\"34\" width=\"100\" height=\"72\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Nordeste</text>\n  <text x=\"170\" y=\"82\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">açúcar,</text>\n  <text x=\"170\" y=\"95\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">sertão</text>\n  <rect x=\"230\" y=\"34\" width=\"100\" height=\"72\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Centro-Sul</text>\n  <text x=\"280\" y=\"82\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">indústria,</text>\n  <text x=\"280\" y=\"95\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">o mais rico</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">três complexos, por critério econômico</text>\n</svg>\n<figcaption>Os complexos geoeconômicos dividem o país pela economia, não pelos estados.</figcaption>\n</figure>\n\n<h2>3 · As sub-regiões do Nordeste</h2>\n\n<p>O Nordeste se subdivide em faixas: a <strong>Zona da Mata</strong> (litoral úmido, do açúcar), o <strong>Agreste</strong> (transição), o <strong>Sertão</strong> (semiárido, da seca) e o <strong>Meio-Norte</strong>. Mostram como uma mesma região pode ter paisagens muito diferentes.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 110\" role=\"img\" aria-label=\"As sub-regiões do Nordeste, do litoral úmido ao sertão seco\">\n  <defs>\n    <marker id=\"ar-breg1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"14\" y=\"40\" width=\"86\" height=\"40\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.2\"/>\n  <text x=\"57\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Zona da Mata</text>\n  <text x=\"57\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"7.5\">litoral úmido</text>\n  <path d=\"M100,60 L116,60\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-breg1)\"/>\n  <rect x=\"120\" y=\"40\" width=\"86\" height=\"40\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"163\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Agreste</text>\n  <text x=\"163\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"7.5\">transição</text>\n  <path d=\"M206,60 L222,60\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-breg1)\"/>\n  <rect x=\"226\" y=\"40\" width=\"100\" height=\"40\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.2\"/>\n  <text x=\"276\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Sertão</text>\n  <text x=\"276\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"7.5\">semiárido (seca)</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">do litoral úmido ao sertão seco</text>\n</svg>\n<figcaption>Dentro do Nordeste, da umidade do litoral à seca do sertão.</figcaption>\n</figure>\n\n<h2>O essencial</h2>\n\n<h3>As cinco regiões</h3>\n\n<table>\n  <tr><th>Região</th><th>Marca</th></tr>\n  <tr><td>Norte</td><td>Maior em área; Amazônia</td></tr>\n  <tr><td>Nordeste</td><td>Açúcar e semiárido</td></tr>\n  <tr><td>Centro-Oeste</td><td>Brasília e agronegócio</td></tr>\n  <tr><td>Sudeste</td><td>Mais populoso e industrial</td></tr>\n  <tr><td>Sul</td><td>Menor; subtropical</td></tr>\n</table>\n\n<h3>Termos-chave</h3>\n\n<table>\n  <tr><th>Termo</th><th>Significado</th></tr>\n  <tr><td>Regiões do IBGE</td><td>Cinco; respeitam os estados</td></tr>\n  <tr><td>Complexos geoeconômicos</td><td>Três; por critério econômico</td></tr>\n  <tr><td>Centro-Sul</td><td>Complexo mais rico e industrial</td></tr>\n  <tr><td>Zona da Mata</td><td>Litoral úmido do Nordeste</td></tr>\n  <tr><td>Sertão</td><td>Interior semiárido do Nordeste</td></tr>\n</table>\n\n<h3>Os três complexos</h3>\n\n<table>\n  <tr><th>Complexo</th><th>Característica</th></tr>\n  <tr><td>Amazônia</td><td>Floresta e extrativismo</td></tr>\n  <tr><td>Nordeste</td><td>Açúcar e sertão</td></tr>\n  <tr><td>Centro-Sul</td><td>Indústria e agricultura moderna</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  Os <b>complexos geoeconômicos</b> (3) <b>não</b> coincidem com as <b>regiões do IBGE</b> (5): eles cruzam os limites dos estados (o Nordeste geoeconômico inclui, por exemplo, o norte de Minas Gerais). Cada divisão usa um critério diferente.\n</div>\n\n<blockquote>\n  <p>Não existe uma única forma \"certa\" de dividir o Brasil: cada regionalização revela uma faceta de um país continental e diverso. Escolher a divisão é escolher o que se quer enxergar.</p>\n</blockquote>\n",
+  "questionLang": "pt",
+  "answerLang": "pt",
+  "version": 1,
+  "level": "Ensino Médio",
+  "theme": "Geografia do Brasil",
+  "cards": [
+    {
+      "recto": "Em quantas grandes regiões o IBGE divide o território brasileiro?",
+      "verso": "Cinco (Norte, Nordeste, Centro-Oeste, Sudeste e Sul)",
+      "explanation": "É a divisão oficial, baseada em critérios administrativos, respeitando os limites dos estados. É a mais usada em mapas e estatísticas.",
+      "tags": [
+        "regionalizacao",
+        "ibge"
+      ],
+      "distractors": {
+        "easy": [
+          "Três",
+          "Dez",
+          "Vinte e seis"
+        ],
+        "medium": [
+          "Quatro",
+          "Seis",
+          "Sete"
+        ],
+        "hard": [
+          "Duas",
+          "Oito",
+          "Nove"
+        ]
+      }
+    },
+    {
+      "recto": "Órgão responsável pela divisão oficial do Brasil em cinco regiões.",
+      "verso": "O IBGE",
+      "explanation": "Instituto Brasileiro de Geografia e Estatística. Sua divisão em cinco regiões respeita os limites estaduais e serve a fins administrativos e estatísticos.",
+      "tags": [
+        "regionalizacao",
+        "ibge"
+      ],
+      "distractors": {
+        "easy": [
+          "O IBAMA",
+          "o INSS",
+          "a Petrobras"
+        ],
+        "medium": [
+          "O INCRA",
+          "a Embrapa",
+          "a ANA"
+        ],
+        "hard": [
+          "O IPEA",
+          "a Funai",
+          "o ICMBio"
+        ]
+      }
+    },
+    {
+      "recto": "Maior região do Brasil em área, ocupada em grande parte pela Floresta Amazônica.",
+      "verso": "A região Norte",
+      "explanation": "A maior em território, mas pouco povoada. Dominada pela Amazônia, tem economia ligada ao extrativismo e, cada vez mais, ao agronegócio e à mineração.",
+      "tags": [
+        "regionalizacao",
+        "norte"
+      ],
+      "distractors": {
+        "easy": [
+          "A região Sul",
+          "a região Sudeste",
+          "a região Nordeste"
+        ],
+        "medium": [
+          "A região Centro-Oeste",
+          "a Zona da Mata",
+          "o Pampa"
+        ],
+        "hard": [
+          "O sertão",
+          "o agreste",
+          "o litoral nordestino"
+        ]
+      }
+    },
+    {
+      "recto": "Região mais populosa e industrializada do Brasil, coração econômico do país.",
+      "verso": "A região Sudeste",
+      "explanation": "Reúne São Paulo, Rio, Minas e Espírito Santo. Concentra a maior parte da indústria, da população e do PIB. É o centro econômico do Brasil.",
+      "tags": [
+        "regionalizacao",
+        "sudeste"
+      ],
+      "distractors": {
+        "easy": [
+          "A região Norte",
+          "a região Centro-Oeste",
+          "a região Sul"
+        ],
+        "medium": [
+          "A região Nordeste",
+          "a Amazônia",
+          "o sertão"
+        ],
+        "hard": [
+          "O Pampa",
+          "o agreste",
+          "o Pantanal"
+        ]
+      }
+    },
+    {
+      "recto": "Região do semiárido e do sertão, marcada historicamente pela seca e por desigualdades.",
+      "verso": "A região Nordeste",
+      "explanation": "Primeira área colonizada (açúcar), tem forte cultura e turismo no litoral, mas enfrenta a seca no sertão e indicadores sociais mais baixos.",
+      "tags": [
+        "regionalizacao",
+        "nordeste"
+      ],
+      "distractors": {
+        "easy": [
+          "A região Sul",
+          "a região Sudeste",
+          "a região Norte"
+        ],
+        "medium": [
+          "A região Centro-Oeste",
+          "o Pampa",
+          "a Amazônia"
+        ],
+        "hard": [
+          "O Pantanal",
+          "o Cerrado central",
+          "o litoral sul"
+        ]
+      }
+    },
+    {
+      "recto": "Região onde fica Brasília e que se tornou o grande polo do agronegócio no cerrado.",
+      "verso": "A região Centro-Oeste",
+      "explanation": "Abriga a capital, Brasília, e o Pantanal. Antes pouco povoada, virou fronteira agrícola da soja e da pecuária no cerrado.",
+      "tags": [
+        "regionalizacao",
+        "centro-oeste"
+      ],
+      "distractors": {
+        "easy": [
+          "A região Sul",
+          "a região Nordeste",
+          "a região Norte"
+        ],
+        "medium": [
+          "A região Sudeste",
+          "a Zona da Mata",
+          "o agreste"
+        ],
+        "hard": [
+          "O sertão",
+          "o litoral nordestino",
+          "o Pampa gaúcho"
+        ]
+      }
+    },
+    {
+      "recto": "Menor região do Brasil em área, de clima subtropical e forte influência de imigrantes europeus.",
+      "verso": "A região Sul",
+      "explanation": "Reúne Paraná, Santa Catarina e Rio Grande do Sul. Tem clima subtropical, agricultura moderna, indústria e bons indicadores sociais.",
+      "tags": [
+        "regionalizacao",
+        "sul"
+      ],
+      "distractors": {
+        "easy": [
+          "A região Norte",
+          "a região Nordeste",
+          "a região Centro-Oeste"
+        ],
+        "medium": [
+          "A região Sudeste",
+          "a Amazônia",
+          "o sertão"
+        ],
+        "hard": [
+          "O Pantanal",
+          "o agreste",
+          "a Zona da Mata"
+        ]
+      }
+    },
+    {
+      "recto": "Divisão do Brasil em três grandes conjuntos: Amazônia, Nordeste e Centro-Sul.",
+      "verso": "Os complexos (ou regiões) geoeconômicos",
+      "explanation": "Proposta pelo geógrafo Pedro Geiger, não segue os limites dos estados. Divide o país por critérios econômicos e históricos, não administrativos.",
+      "tags": [
+        "regionalizacao",
+        "complexos"
+      ],
+      "distractors": {
+        "easy": [
+          "As cinco regiões do IBGE",
+          "os fusos horários",
+          "os biomas"
+        ],
+        "medium": [
+          "Os estados da federação",
+          "as bacias hidrográficas",
+          "os domínios morfoclimáticos"
+        ],
+        "hard": [
+          "As mesorregiões apenas",
+          "as microrregiões",
+          "as regiões metropolitanas"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] Qual a diferença entre as regiões do IBGE e os complexos geoeconômicos?",
+      "verso": "IBGE: cinco regiões que respeitam os limites dos estados; complexos: três conjuntos por critério econômico, sem seguir estados",
+      "explanation": "A divisão do IBGE é administrativa (respeita fronteiras estaduais). Os complexos geoeconômicos (Amazônia, Nordeste, Centro-Sul) cruzam estados, seguindo a economia e a história.",
+      "tags": [
+        "comparaison",
+        "regionalizacao"
+      ],
+      "distractors": {
+        "easy": [
+          "São exatamente a mesma divisão",
+          "As duas têm cinco regiões",
+          "Ambas ignoram a economia"
+        ],
+        "medium": [
+          "IBGE: três regiões; complexos: cinco",
+          "IBGE: por economia; complexos: por estados",
+          "As duas seguem os biomas"
+        ],
+        "hard": [
+          "IBGE: não segue estados; complexos: seguem",
+          "As duas cruzam os limites estaduais",
+          "IBGE: por clima; complexos: administrativo"
+        ]
+      }
+    },
+    {
+      "recto": "Complexo geoeconômico mais rico e industrializado, que concentra a economia do país.",
+      "verso": "O Centro-Sul",
+      "explanation": "Reúne Sudeste, Sul e parte do Centro-Oeste. Concentra indústria, agricultura moderna, infraestrutura e a maior parte do PIB brasileiro.",
+      "tags": [
+        "regionalizacao",
+        "complexos"
+      ],
+      "distractors": {
+        "easy": [
+          "A Amazônia",
+          "o Nordeste",
+          "o Pantanal"
+        ],
+        "medium": [
+          "O sertão",
+          "o agreste",
+          "o Norte apenas"
+        ],
+        "hard": [
+          "A Zona da Mata apenas",
+          "o Meio-Norte",
+          "o litoral nordestino"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] O complexo do Nordeste geoeconômico é exatamente igual à região Nordeste do IBGE?",
+      "verso": "Não; o Nordeste geoeconômico inclui, por exemplo, o norte de Minas Gerais",
+      "explanation": "Erro comum. Os complexos não seguem os limites dos estados. O Nordeste geoeconômico avança por áreas de outros estados (como o norte de MG), diferindo da divisão do IBGE.",
+      "tags": [
+        "piege",
+        "regionalizacao"
+      ],
+      "distractors": {
+        "easy": [
+          "Sim, são idênticos",
+          "Sim, têm exatamente os mesmos estados",
+          "Sim, é só outro nome"
+        ],
+        "medium": [
+          "Sim, coincidem perfeitamente",
+          "Sim, ambos seguem os estados",
+          "Não, mas o geoeconômico é menor que o do IBGE apenas no litoral"
+        ],
+        "hard": [
+          "Sim, com diferença só no Piauí",
+          "Não, mas só diferem no Maranhão",
+          "Sim, exceto pela Bahia"
+        ]
+      }
+    },
+    {
+      "recto": "Complexo geoeconômico que abrange a maior parte da Floresta Amazônica.",
+      "verso": "A Amazônia",
+      "explanation": "Vai além da região Norte do IBGE, incluindo partes do Centro-Oeste e do Maranhão. Marcado pela floresta, pelo extrativismo e pelo avanço do agronegócio.",
+      "tags": [
+        "regionalizacao",
+        "complexos"
+      ],
+      "distractors": {
+        "easy": [
+          "O Centro-Sul",
+          "o Pampa",
+          "o agreste"
+        ],
+        "medium": [
+          "O Nordeste",
+          "o sertão",
+          "a Zona da Mata"
+        ],
+        "hard": [
+          "O Meio-Norte apenas",
+          "o litoral sul",
+          "o Pantanal isolado"
+        ]
+      }
+    },
+    {
+      "recto": "Sub-região nordestina do litoral úmido, onde se plantou cana-de-açúcar desde a colônia.",
+      "verso": "A Zona da Mata",
+      "explanation": "Faixa litorânea úmida do Nordeste, de solo fértil (massapê), onde se instalaram os engenhos de açúcar. É uma das quatro sub-regiões do Nordeste.",
+      "tags": [
+        "regionalizacao",
+        "nordeste"
+      ],
+      "distractors": {
+        "easy": [
+          "O Pampa",
+          "o Pantanal",
+          "a Amazônia"
+        ],
+        "medium": [
+          "O Sertão",
+          "o Agreste",
+          "o Meio-Norte"
+        ],
+        "hard": [
+          "O Cerrado central",
+          "o Planalto Central",
+          "o litoral sul"
+        ]
+      }
+    },
+    {
+      "recto": "Sub-região semiárida do interior nordestino, marcada pela seca.",
+      "verso": "O Sertão",
+      "explanation": "Interior seco do Nordeste, de clima semiárido e vegetação de caatinga. Área historicamente afetada pela seca e pela migração. Contrasta com a Zona da Mata úmida.",
+      "tags": [
+        "regionalizacao",
+        "nordeste"
+      ],
+      "distractors": {
+        "easy": [
+          "A Zona da Mata úmida",
+          "a Amazônia",
+          "o Pampa"
+        ],
+        "medium": [
+          "O Agreste",
+          "o Meio-Norte",
+          "o Pantanal"
+        ],
+        "hard": [
+          "O litoral",
+          "o Cerrado central",
+          "a Zona dos Cocais"
+        ]
+      }
+    },
+    {
+      "recto": "De modo geral, por que existem diferentes formas de regionalizar o Brasil?",
+      "verso": "Porque cada divisão usa critérios diferentes (administrativos, econômicos, naturais)",
+      "explanation": "O IBGE usa critérios administrativos; os complexos, econômicos; há ainda divisões por clima ou vegetação. Não existe uma única forma \"certa\": depende do objetivo.",
+      "tags": [
+        "regionalizacao",
+        "sintese"
+      ],
+      "distractors": {
+        "easy": [
+          "Porque ninguém sabe dividir o país",
+          "por acaso",
+          "porque os mapas estão errados"
+        ],
+        "medium": [
+          "Porque só o IBGE pode dividir",
+          "porque a divisão muda todo ano",
+          "porque não há critérios"
+        ],
+        "hard": [
+          "Porque os estados mudam de lugar",
+          "porque o território encolhe",
+          "porque só existe uma divisão possível"
+        ]
+      }
+    },
+    {
+      "recto": "Sub-região de transição entre o litoral úmido e o sertão seco do Nordeste.",
+      "verso": "O Agreste",
+      "explanation": "Faixa intermediária entre a Zona da Mata (úmida) e o Sertão (seco). Tem agricultura familiar e feiras importantes, como a de Caruaru.",
+      "tags": [
+        "regionalizacao",
+        "nordeste"
+      ],
+      "distractors": {
+        "easy": [
+          "A Amazônia",
+          "o Pampa",
+          "o Pantanal"
+        ],
+        "medium": [
+          "O Cerrado central",
+          "o Planalto Sul",
+          "o litoral do Sudeste"
+        ],
+        "hard": [
+          "O Meio-Norte apenas",
+          "a Zona dos Cocais",
+          "o Recôncavo apenas"
+        ]
+      }
+    }
+  ]
+}

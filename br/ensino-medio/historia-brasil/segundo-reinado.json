@@ -1,0 +1,510 @@
+{
+  "id": "br-ensino-medio-historia-brasil-segundo-reinado",
+  "title": "Segundo Reinado e a Abolição",
+  "emoji": "☕",
+  "subject": "history",
+  "country": "br",
+  "courseDescription": "Do Período Regencial ao fim do Império. Café, imigração, Guerra do Paraguai e a abolição da escravidão.",
+  "lesson": "<style>\n  /* Estilos dos gráficos (SVG). Usam currentColor (texto) e var(--accent)\n     (cor da matéria), adaptando-se ao tema claro/escuro do app. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Segundo Reinado e a Abolição</h1>\n\n<div class=\"callout\">\n  <strong>Pontos de estudo</strong><br>\n  <b>Nível:</b> Ensino Médio<br>\n  <b>Área:</b> História do Brasil<br>\n  <b>Período:</b> 1831 — 1889\n</div>\n\n<blockquote>\n  <p><b>Questão central.</b> Como o café sustentou o Império e por que a abolição contribuiu para sua queda?</p>\n</blockquote>\n\n<p>Após o agitado <strong>Período Regencial</strong>, o <strong>Segundo Reinado</strong> de <strong>Dom Pedro II</strong> trouxe estabilidade. A economia girou em torno do <strong>café</strong>, veio a <strong>imigração</strong> europeia e travou-se a <strong>Guerra do Paraguai</strong>. A <strong>abolição gradual</strong> da escravidão, concluída em <strong>1888</strong>, e o descontentamento militar levaram à <strong>Proclamação da República</strong>.</p>\n\n<h2>1 · Da Regência ao Segundo Reinado</h2>\n\n<p>De 1831 a 1840, regentes governaram o <strong>Período Regencial</strong>, marcado por revoltas provinciais como a <strong>Revolução Farroupilha</strong>. Para restaurar a ordem, o <strong>Golpe da Maioridade</strong> (1840) antecipou a coroação de <strong>Dom Pedro II</strong>, aos 14 anos.</p>\n\n<h2>2 · A economia do café e a imigração</h2>\n\n<p>O <strong>café</strong> tornou-se o principal produto de exportação, cultivado no Sudeste. Com o fim do tráfico de escravos (Lei Eusébio de Queirós, 1850), os fazendeiros passaram a atrair <strong>imigrantes europeus</strong> para o trabalho livre. A <strong>Guerra do Paraguai</strong> (1864-1870) fortaleceu o Exército.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Comparação entre Primeiro e Segundo Reinado\">\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">Primeiro Reinado</text>\n  <text x=\"87\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11.5\" font-weight=\"700\">Dom Pedro I</text>\n  <text x=\"26\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">1822-1831</text>\n  <text x=\"26\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Instável</text>\n  <text x=\"26\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Termina em abdicação</text>\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">Segundo Reinado</text>\n  <text x=\"253\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11.5\" font-weight=\"700\">Dom Pedro II</text>\n  <text x=\"192\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">1840-1889</text>\n  <text x=\"192\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Estável, economia do café</text>\n  <text x=\"192\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Termina na República</text>\n</svg>\n<figcaption>Pai e filho: o instável Primeiro Reinado e o longo e estável Segundo Reinado.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Conceito · Economia cafeeira</strong><br>\n  O café foi a base do Segundo Reinado, exportado sobretudo do Sudeste. Sustentou o Império e enriqueceu a elite paulista, que ganharia grande poder político.\n</div>\n\n<h2>3 · A abolição gradual</h2>\n\n<p>A escravidão terminou aos poucos, por várias leis: fim do tráfico (<strong>1850</strong>), <strong>Lei do Ventre Livre</strong> (1871, liberta os recém-nascidos), Lei dos Sexagenários (1885) e, enfim, a <strong>Lei Áurea</strong> (1888), assinada pela <strong>Princesa Isabel</strong>.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 366\" role=\"img\" aria-label=\"Linha do tempo da abolição gradual da escravidão no Brasil\">\n  <line x1=\"86\" y1=\"22\" x2=\"86\" y2=\"348\" style=\"stroke:var(--accent);stroke-width:3;stroke-linecap:round\"/>\n  <circle cx=\"86\" cy=\"40\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"72\" y=\"45\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"14\" font-weight=\"800\">1850</text>\n  <text x=\"102\" y=\"40\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"12\">Lei Eusébio de Queirós</text>\n  <text x=\"102\" y=\"55\" text-anchor=\"start\" class=\"s-muted\" font-size=\"10.5\">fim do tráfico</text>\n  <circle cx=\"86\" cy=\"120\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"72\" y=\"125\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"14\" font-weight=\"800\">1871</text>\n  <text x=\"102\" y=\"120\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"12\">Lei do Ventre Livre</text>\n  <text x=\"102\" y=\"135\" text-anchor=\"start\" class=\"s-muted\" font-size=\"10.5\">liberta recém-nascidos</text>\n  <circle cx=\"86\" cy=\"200\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"72\" y=\"205\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"14\" font-weight=\"800\">1885</text>\n  <text x=\"102\" y=\"200\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"12\">Lei dos Sexagenários</text>\n  <text x=\"102\" y=\"215\" text-anchor=\"start\" class=\"s-muted\" font-size=\"10.5\">liberta maiores de 60</text>\n  <circle cx=\"86\" cy=\"290\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"72\" y=\"295\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"14\" font-weight=\"800\">1888</text>\n  <text x=\"102\" y=\"290\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"12\">Lei Áurea</text>\n  <text x=\"102\" y=\"305\" text-anchor=\"start\" class=\"s-muted\" font-size=\"10.5\">abolição total</text>\n</svg>\n<figcaption>A abolição foi gradual, por várias leis ao longo de quase 40 anos.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Conceito · Lei Áurea (1888)</strong><br>\n  Aboliu por completo a escravidão, mas sem qualquer apoio aos libertos (terra, trabalho ou educação). Por isso os ex-escravizados ficaram à margem, herança da desigualdade até hoje.\n</div>\n\n<h2>4 · A queda do Império</h2>\n\n<p>A abolição, feita sem indenizar os fazendeiros, revoltou a elite escravista. Somado ao descontentamento do <strong>Exército</strong> e ao crescente <strong>movimento republicano</strong>, isso levou à <strong>Proclamação da República</strong> em <strong>15 de novembro de 1889</strong>, encerrando a monarquia.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Três fatores que derrubaram o Império\">\n  <defs>\n    <marker id=\"ar-bsr1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"8\" width=\"104\" height=\"60\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"32\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">Militares</text>\n  <text x=\"60\" y=\"52\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">descontentes</text>\n  <rect x=\"118\" y=\"8\" width=\"104\" height=\"60\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"28\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">Fazendeiros</text>\n  <text x=\"170\" y=\"46\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">revoltados com</text>\n  <text x=\"170\" y=\"60\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">a abolição</text>\n  <rect x=\"228\" y=\"8\" width=\"104\" height=\"60\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"32\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">Republicanos</text>\n  <text x=\"280\" y=\"52\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">em ascensão</text>\n  <path d=\"M60,68 L150,120\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bsr1)\"/>\n  <path d=\"M170,68 L170,120\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bsr1)\"/>\n  <path d=\"M280,68 L190,120\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bsr1)\"/>\n  <rect x=\"80\" y=\"126\" width=\"180\" height=\"60\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"152\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">Proclamação da República</text>\n  <text x=\"170\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">15 de novembro de 1889</text>\n</svg>\n<figcaption>A soma de três descontentamentos derrubou o Império.</figcaption>\n</figure>\n\n<h2>O essencial</h2>\n\n<h3>Linha do tempo</h3>\n\n<table>\n  <tr><th>Data</th><th>Acontecimento</th></tr>\n  <tr><td>1831-1840</td><td>Período Regencial (revoltas)</td></tr>\n  <tr><td>1840</td><td>Golpe da Maioridade (Dom Pedro II)</td></tr>\n  <tr><td>1850</td><td>Lei Eusébio de Queirós (fim do tráfico)</td></tr>\n  <tr><td>1864-1870</td><td>Guerra do Paraguai</td></tr>\n  <tr><td>1888</td><td>Lei Áurea (abolição)</td></tr>\n  <tr><td>1889</td><td>Proclamação da República</td></tr>\n</table>\n\n<h3>Termos-chave</h3>\n\n<table>\n  <tr><th>Termo</th><th>Significado</th></tr>\n  <tr><td>Período Regencial</td><td>Governo dos regentes (1831-1840)</td></tr>\n  <tr><td>Golpe da Maioridade</td><td>Antecipou a coroação de D. Pedro II</td></tr>\n  <tr><td>Lei do Ventre Livre</td><td>Liberta os recém-nascidos (1871)</td></tr>\n  <tr><td>Lei Áurea</td><td>Abolição da escravidão (1888)</td></tr>\n  <tr><td>Abolição gradual</td><td>Fim da escravidão por várias leis</td></tr>\n</table>\n\n<h3>Personagens</h3>\n\n<table>\n  <tr><th>Nome</th><th>Papel</th></tr>\n  <tr><td>Dom Pedro II</td><td>Imperador do Segundo Reinado</td></tr>\n  <tr><td>Princesa Isabel</td><td>Assinou a Lei Áurea (1888)</td></tr>\n  <tr><td>Marechal Deodoro</td><td>Proclamou a República (1889)</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  A abolição foi <b>gradual</b>, não de uma só vez: fim do tráfico (1850), Ventre Livre (1871), Sexagenários (1885), Lei Áurea (1888). E não troque a <b>Lei do Ventre Livre</b> (recém-nascidos) com a <b>Lei Áurea</b> (abolição total).\n</div>\n\n<blockquote>\n  <p>O café enriqueceu o Império, mas a abolição sem apoio aos libertos e a insatisfação militar derrubaram a monarquia. Nascia a República — que, porém, manteria por muito tempo o poder da elite do café. É o nosso próximo tema: a República Velha.</p>\n</blockquote>\n",
+  "questionLang": "pt",
+  "answerLang": "pt",
+  "version": 1,
+  "level": "Ensino Médio",
+  "theme": "História do Brasil",
+  "cards": [
+    {
+      "recto": "Período de 1831 a 1840 em que o Brasil foi governado por regentes, marcado por muitas revoltas provinciais.",
+      "verso": "Período Regencial",
+      "explanation": "Como o herdeiro era criança, regentes governaram. Foi a fase mais agitada do Império, com revoltas como a Cabanagem e a Farroupilha.",
+      "tags": [
+        "regencia",
+        "periodo"
+      ],
+      "distractors": {
+        "easy": [
+          "Primeiro Reinado",
+          "República Velha",
+          "Segundo Reinado"
+        ],
+        "medium": [
+          "Era Vargas",
+          "Nova República",
+          "Estado Novo"
+        ],
+        "hard": [
+          "Período Colonial",
+          "República da Espada",
+          "Regência Una apenas"
+        ]
+      }
+    },
+    {
+      "recto": "Revolta do período regencial ocorrida no Rio Grande do Sul, de caráter separatista, que durou dez anos.",
+      "verso": "Revolução Farroupilha",
+      "explanation": "A mais longa das revoltas regenciais (1835-1845). Mostra a instabilidade da época e as tensões entre as províncias e o poder central.",
+      "tags": [
+        "regencia",
+        "revolta"
+      ],
+      "distractors": {
+        "easy": [
+          "Inconfidência Mineira",
+          "Proclamação da República",
+          "Independência"
+        ],
+        "medium": [
+          "Cabanagem",
+          "Sabinada",
+          "Balaiada"
+        ],
+        "hard": [
+          "Praieira",
+          "Guerra dos Farrapos apenas",
+          "Revolta Liberal"
+        ]
+      }
+    },
+    {
+      "recto": "Manobra política de 1840 que antecipou a maioridade do herdeiro para acabar com as revoltas regenciais.",
+      "verso": "Golpe da Maioridade",
+      "explanation": "Com apenas 14 anos, D. Pedro II foi declarado maior de idade e coroado imperador. Iniciava o Segundo Reinado, mais estável.",
+      "tags": [
+        "segundo-reinado",
+        "1840"
+      ],
+      "distractors": {
+        "easy": [
+          "Proclamação da República",
+          "Abdicação",
+          "Golpe de 1964"
+        ],
+        "medium": [
+          "Golpe do Ipiranga",
+          "Questão Militar",
+          "Revolução de 1930"
+        ],
+        "hard": [
+          "Regência da Maioridade",
+          "Antecipação Constitucional",
+          "Aclamação Una"
+        ]
+      }
+    },
+    {
+      "recto": "Imperador que governou o Brasil durante quase todo o Segundo Reinado (1840-1889).",
+      "verso": "Dom Pedro II",
+      "explanation": "Filho de D. Pedro I, governou por quase 50 anos, período de relativa estabilidade. Foi deposto pela Proclamação da República em 1889.",
+      "tags": [
+        "segundo-reinado",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Dom Pedro I",
+          "Getúlio Vargas",
+          "Dom João VI"
+        ],
+        "medium": [
+          "Marechal Deodoro",
+          "José Bonifácio",
+          "Duque de Caxias"
+        ],
+        "hard": [
+          "Dom Pedro III",
+          "Princesa Isabel",
+          "Conde d'Eu"
+        ]
+      }
+    },
+    {
+      "recto": "Principal produto de exportação do Brasil durante o Segundo Reinado, cultivado sobretudo no Sudeste.",
+      "verso": "Café",
+      "explanation": "O café tornou-se a base da economia, primeiro no Vale do Paraíba, depois no Oeste Paulista. Sustentou o Império e enriqueceu a elite paulista.",
+      "tags": [
+        "segundo-reinado",
+        "economia"
+      ],
+      "distractors": {
+        "easy": [
+          "Açúcar",
+          "Ouro",
+          "Pau-brasil"
+        ],
+        "medium": [
+          "Algodão",
+          "Borracha",
+          "Cacau"
+        ],
+        "hard": [
+          "Tabaco",
+          "Anil",
+          "Erva-mate"
+        ]
+      }
+    },
+    {
+      "recto": "Diante do fim do tráfico de escravos, que solução de mão de obra os fazendeiros de café adotaram no fim do Império?",
+      "verso": "Imigração europeia (mão de obra livre)",
+      "explanation": "Imigrantes, sobretudo italianos, foram atraídos para as fazendas de café. Prenunciava o fim da escravidão e a transição para o trabalho livre.",
+      "tags": [
+        "segundo-reinado",
+        "trabalho"
+      ],
+      "distractors": {
+        "easy": [
+          "Mais escravos africanos",
+          "Trabalho indígena",
+          "Robôs"
+        ],
+        "medium": [
+          "Escravidão de europeus",
+          "Servidão",
+          "Trabalho infantil apenas"
+        ],
+        "hard": [
+          "Imigração asiática apenas",
+          "Colonos portugueses apenas",
+          "Mão de obra militar"
+        ]
+      }
+    },
+    {
+      "recto": "Longa guerra (1864-1870) contra um país vizinho, o maior conflito da história da América do Sul.",
+      "verso": "Guerra do Paraguai",
+      "explanation": "O Brasil, com Argentina e Uruguai (Tríplice Aliança), venceu o Paraguai. Fortaleceu o Exército, que depois teria papel na queda do Império.",
+      "tags": [
+        "segundo-reinado",
+        "guerra"
+      ],
+      "distractors": {
+        "easy": [
+          "Guerra Fria",
+          "Segunda Guerra Mundial",
+          "Guerra da Cisplatina"
+        ],
+        "medium": [
+          "Guerra do Contestado",
+          "Guerra de Canudos",
+          "Guerra dos Farrapos"
+        ],
+        "hard": [
+          "Guerra do Prata",
+          "Guerra Grande",
+          "Campanha da Cisplatina"
+        ]
+      }
+    },
+    {
+      "recto": "Lei de 1850 que proibiu o tráfico de escravos africanos para o Brasil.",
+      "verso": "Lei Eusébio de Queirós",
+      "explanation": "Sob pressão inglesa, acabou com a importação de escravizados. Foi o primeiro grande passo rumo ao fim da escravidão, ainda distante.",
+      "tags": [
+        "abolicao",
+        "lei"
+      ],
+      "distractors": {
+        "easy": [
+          "Lei Áurea",
+          "Lei de Terras",
+          "Constituição de 1824"
+        ],
+        "medium": [
+          "Lei do Ventre Livre",
+          "Lei dos Sexagenários",
+          "Lei Saraiva"
+        ],
+        "hard": [
+          "Bill Aberdeen",
+          "Lei Feijó",
+          "Lei Nabuco de Araújo"
+        ]
+      }
+    },
+    {
+      "recto": "Lei de 1871 que declarava livres os filhos de escravizadas nascidos a partir daquela data.",
+      "verso": "Lei do Ventre Livre",
+      "explanation": "Libertava os recém-nascidos, mas de forma limitada. Foi uma abolição gradual, que não libertava os já escravizados.",
+      "tags": [
+        "abolicao",
+        "lei"
+      ],
+      "distractors": {
+        "easy": [
+          "Lei Áurea",
+          "Lei Eusébio de Queirós",
+          "Lei de Terras"
+        ],
+        "medium": [
+          "Lei dos Sexagenários",
+          "Lei Saraiva",
+          "Lei do Sexagenário apenas"
+        ],
+        "hard": [
+          "Lei Rio Branco apenas",
+          "Lei do Nascimento",
+          "Lei Nabuco"
+        ]
+      }
+    },
+    {
+      "recto": "Lei de 1888 que aboliu definitivamente a escravidão no Brasil, assinada pela Princesa Isabel.",
+      "verso": "Lei Áurea",
+      "explanation": "Aboliu a escravidão sem qualquer indenização ou apoio aos libertos, que ficaram à margem da sociedade. O Brasil foi o último país das Américas a abolir.",
+      "tags": [
+        "abolicao",
+        "lei"
+      ],
+      "distractors": {
+        "easy": [
+          "Lei do Ventre Livre",
+          "Lei Eusébio de Queirós",
+          "Constituição de 1824"
+        ],
+        "medium": [
+          "Lei dos Sexagenários",
+          "Lei Saraiva",
+          "Lei de Terras"
+        ],
+        "hard": [
+          "Lei Rio Branco",
+          "13 de maio apenas",
+          "Lei Isabel"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] Qual lei libertava os filhos de escravizadas (1871) e qual aboliu a escravidão por completo (1888)?",
+      "verso": "Lei do Ventre Livre e Lei Áurea",
+      "explanation": "Ventre Livre (1871) = liberta os recém-nascidos; Lei Áurea (1888) = abolição total. A abolição foi gradual, ao longo de décadas. Não trocar as leis.",
+      "tags": [
+        "comparaison",
+        "abolicao"
+      ],
+      "distractors": {
+        "easy": [
+          "Lei de Terras e Lei Áurea",
+          "Constituição e lei",
+          "Império e república"
+        ],
+        "medium": [
+          "Lei Áurea e Lei do Ventre Livre",
+          "Lei Eusébio de Queirós e Lei Áurea",
+          "Lei dos Sexagenários e Lei Áurea"
+        ],
+        "hard": [
+          "Lei Saraiva e Lei Áurea",
+          "Ventre Livre e Sexagenários",
+          "Bill Aberdeen e Lei Áurea"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] A abolição da escravidão no Brasil aconteceu de uma só vez ou de forma gradual?",
+      "verso": "De forma gradual, ao longo de várias leis (1850-1888)",
+      "explanation": "Erro comum é pensar que a Lei Áurea (1888) libertou tudo de repente. Na verdade, a abolição foi gradual: fim do tráfico (1850), Ventre Livre (1871), Sexagenários (1885), Lei Áurea (1888).",
+      "tags": [
+        "piege",
+        "abolicao"
+      ],
+      "distractors": {
+        "easy": [
+          "De uma só vez, em 1888",
+          "De uma só vez, em 1822",
+          "De uma só vez, em 1500"
+        ],
+        "medium": [
+          "De uma só vez, com a República",
+          "De uma só vez, em 1871",
+          "De uma só vez, em 1850"
+        ],
+        "hard": [
+          "De uma só vez, por decreto militar",
+          "De uma só vez, na Constituição",
+          "De uma só vez, por Dom Pedro I"
+        ]
+      }
+    },
+    {
+      "recto": "Princesa que assinou a Lei Áurea, em 13 de maio de 1888, abolindo a escravidão.",
+      "verso": "Princesa Isabel",
+      "explanation": "Filha de D. Pedro II, assinou a Lei Áurea na ausência do pai. A abolição descontentou os fazendeiros escravistas, enfraquecendo o Império.",
+      "tags": [
+        "abolicao",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Dona Leopoldina",
+          "Rainha Vitória",
+          "Maria da Glória"
+        ],
+        "medium": [
+          "Princesa Leopoldina",
+          "Dona Teresa Cristina",
+          "Imperatriz Amélia"
+        ],
+        "hard": [
+          "Condessa d'Eu apenas",
+          "Princesa Januária",
+          "Dona Francisca"
+        ]
+      }
+    },
+    {
+      "recto": "Movimento social que, ao longo do século XIX, pressionou pelo fim da escravidão no Brasil.",
+      "verso": "Movimento abolicionista",
+      "explanation": "Reunia intelectuais (como Joaquim Nabuco), ex-escravizados e a própria resistência negra. Pressionou pela abolição, que enfim veio em 1888.",
+      "tags": [
+        "abolicao",
+        "sociedade"
+      ],
+      "distractors": {
+        "easy": [
+          "Movimento republicano apenas",
+          "Movimento operário",
+          "Movimento monarquista"
+        ],
+        "medium": [
+          "Movimento integralista",
+          "Movimento tenentista",
+          "Movimento sanitarista"
+        ],
+        "hard": [
+          "Movimento positivista",
+          "Movimento cabano",
+          "Movimento praieiro"
+        ]
+      }
+    },
+    {
+      "recto": "Com quem os ex-escravizados ficaram após a abolição, já que a Lei Áurea não previu nenhum apoio a eles?",
+      "verso": "Sem terra, trabalho garantido ou apoio (à margem da sociedade)",
+      "explanation": "A abolição não veio acompanhada de reforma agrária, educação ou emprego. Os libertos foram marginalizados, herança que marca a desigualdade até hoje.",
+      "tags": [
+        "abolicao",
+        "consequencia"
+      ],
+      "distractors": {
+        "easy": [
+          "Com terras e casas do governo",
+          "Com empregos garantidos",
+          "Com indenização generosa"
+        ],
+        "medium": [
+          "Com apoio dos fazendeiros",
+          "Com educação gratuita",
+          "Com pensão do Estado"
+        ],
+        "hard": [
+          "Com colônias agrícolas próprias",
+          "Com aposentadoria",
+          "Com cargos públicos"
+        ]
+      }
+    },
+    {
+      "recto": "Que grupo, fortalecido pela Guerra do Paraguai, teve papel decisivo na queda do Império em 1889?",
+      "verso": "O Exército (os militares)",
+      "explanation": "Descontente com o governo, o Exército — junto com republicanos e fazendeiros insatisfeitos com a abolição — proclamou a República.",
+      "tags": [
+        "segundo-reinado",
+        "queda"
+      ],
+      "distractors": {
+        "easy": [
+          "Os escravizados",
+          "A Igreja",
+          "Os indígenas"
+        ],
+        "medium": [
+          "Os operários",
+          "Os imigrantes",
+          "A Marinha apenas"
+        ],
+        "hard": [
+          "Os cafeicultores apenas",
+          "A nobreza",
+          "Os abolicionistas apenas"
+        ]
+      }
+    },
+    {
+      "recto": "Acontecimento de 15 de novembro de 1889 que derrubou a monarquia e encerrou o Segundo Reinado.",
+      "verso": "Proclamação da República",
+      "explanation": "Liderada pelo Marechal Deodoro da Fonseca, depôs D. Pedro II. O Brasil deixava de ser Império e tornava-se República. Encerra o período monárquico.",
+      "tags": [
+        "segundo-reinado",
+        "1889"
+      ],
+      "distractors": {
+        "easy": [
+          "A Independência",
+          "A Abolição",
+          "A Revolução de 1930"
+        ],
+        "medium": [
+          "O Golpe de 1964",
+          "A Inconfidência Mineira",
+          "O Golpe da Maioridade"
+        ],
+        "hard": [
+          "A Questão Militar",
+          "A Revolta da Armada",
+          "O Encilhamento"
+        ]
+      }
+    },
+    {
+      "recto": "Três fatores enfraqueceram e derrubaram o Império. Além do descontentamento militar, quais foram os outros dois?",
+      "verso": "A abolição (revolta dos fazendeiros) e o movimento republicano",
+      "explanation": "A queda do Império resultou da soma: militares descontentes, fazendeiros ressentidos com a abolição sem indenização e o crescente movimento republicano.",
+      "tags": [
+        "segundo-reinado",
+        "sintese"
+      ],
+      "distractors": {
+        "easy": [
+          "A guerra e a fome",
+          "A peste e a seca",
+          "A inflação e o desemprego"
+        ],
+        "medium": [
+          "A imigração e a indústria",
+          "A Igreja e os indígenas",
+          "O café e o açúcar"
+        ],
+        "hard": [
+          "A dívida externa e a inflação",
+          "A urbanização e o operariado",
+          "A seca e o cangaço"
+        ]
+      }
+    },
+    {
+      "recto": "De modo geral, embora estável, o Segundo Reinado manteve o Brasil como um país de que tipo de economia e sociedade?",
+      "verso": "Agroexportador e escravista (até 1888)",
+      "explanation": "Baseado no café para exportação e na escravidão (até a abolição). A elite agrária dominava a política. As estruturas coloniais só mudaram lentamente.",
+      "tags": [
+        "segundo-reinado",
+        "sintese"
+      ],
+      "distractors": {
+        "easy": [
+          "Industrial e urbano",
+          "Socialista e igualitário",
+          "Democrático e livre"
+        ],
+        "medium": [
+          "Comercial e financeiro",
+          "Militarista e expansionista",
+          "Agrícola familiar"
+        ],
+        "hard": [
+          "Mercantil e europeu",
+          "Extrativista e nômade",
+          "De pleno emprego livre"
+        ]
+      }
+    }
+  ]
+}

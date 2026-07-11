@@ -1,0 +1,510 @@
+{
+  "id": "br-ensino-medio-historia-brasil-brasil-colonia",
+  "title": "Brasil Colônia: açúcar, escravidão e mineração",
+  "emoji": "⛏️",
+  "subject": "history",
+  "country": "br",
+  "courseDescription": "Da chegada dos portugueses ao ciclo do ouro. A economia colonial baseada no açúcar, na escravidão e na mineração.",
+  "lesson": "<style>\n  /* Estilos dos gráficos (SVG). Usam currentColor (texto) e var(--accent)\n     (cor da matéria), adaptando-se ao tema claro/escuro do app. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Brasil Colônia: açúcar, escravidão e mineração</h1>\n\n<div class=\"callout\">\n  <strong>Pontos de estudo</strong><br>\n  <b>Nível:</b> Ensino Médio<br>\n  <b>Área:</b> História do Brasil<br>\n  <b>Período:</b> 1500 — 1808\n</div>\n\n<blockquote>\n  <p><b>Questão central.</b> Como a colônia foi organizada para enriquecer Portugal, e à custa de quem?</p>\n</blockquote>\n\n<p>Por mais de três séculos, o Brasil foi uma <strong>colônia de exploração</strong> de Portugal. Sua economia, voltada ao mercado externo, girou em torno do <strong>açúcar</strong> (Nordeste) e depois da <strong>mineração</strong> do ouro (Minas Gerais). A base de tudo foi o trabalho de <strong>africanos escravizados</strong> — que resistiram de muitas formas.</p>\n\n<h2>1 · Os primeiros tempos e a administração</h2>\n\n<p>Após a chegada de <strong>Cabral</strong> em <strong>1500</strong>, os portugueses exploraram o <strong>pau-brasil</strong> por meio do escambo com os indígenas. Para colonizar de fato, a Coroa criou em 1534 as <strong>capitanias hereditárias</strong> e, diante de seu fracasso, o <strong>Governo-Geral</strong> em 1549 (capital: Salvador).</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Evolução da administração colonial: pau-brasil, capitanias, Governo-Geral\">\n  <defs>\n    <marker id=\"ar-bbc2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"94\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"55\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">Pau-brasil</text>\n  <text x=\"55\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">escambo, sem colônia</text>\n  <path d=\"M104,68 L120,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bbc2)\"/>\n  <rect x=\"123\" y=\"42\" width=\"94\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Capitanias</text>\n  <text x=\"170\" y=\"72\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">1534</text>\n  <text x=\"170\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">fracassaram</text>\n  <path d=\"M219,68 L235,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bbc2)\"/>\n  <rect x=\"238\" y=\"42\" width=\"94\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"285\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Governo-Geral</text>\n  <text x=\"285\" y=\"72\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">1549</text>\n  <text x=\"285\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">centralização</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">a Coroa reforça o controle</text>\n</svg>\n<figcaption>A administração colonial evoluiu do escambo à centralização do Governo-Geral.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Conceito · Pacto colonial</strong><br>\n  Regra que obrigava a colônia a comerciar apenas com sua metrópole, garantindo a Portugal o monopólio e o lucro. Aplicação do mercantilismo ao Brasil.\n</div>\n\n<h2>2 · A economia açucareira</h2>\n\n<p>Nos séculos XVI e XVII, o <strong>açúcar</strong> foi o centro da economia, no litoral do <strong>Nordeste</strong>. Era produzido no <strong>engenho</strong>, uma grande propriedade que combinava <strong>latifúndio, monocultura, escravidão e exportação</strong> — o sistema de <strong>plantation</strong>.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Os quatro elementos do sistema de plantation\">\n  <defs>\n    <marker id=\"ar-bbc1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"95\" y=\"8\" width=\"150\" height=\"44\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"30\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">Plantation</text>\n  <text x=\"170\" y=\"46\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">o engenho de açúcar</text>\n  <path d=\"M140,52 L48,88\" style=\"fill:none;stroke:var(--accent);stroke-width:1.5\" marker-end=\"url(#ar-bbc1)\"/>\n  <path d=\"M160,52 L128,88\" style=\"fill:none;stroke:var(--accent);stroke-width:1.5\" marker-end=\"url(#ar-bbc1)\"/>\n  <path d=\"M180,52 L212,88\" style=\"fill:none;stroke:var(--accent);stroke-width:1.5\" marker-end=\"url(#ar-bbc1)\"/>\n  <path d=\"M200,52 L292,88\" style=\"fill:none;stroke:var(--accent);stroke-width:1.5\" marker-end=\"url(#ar-bbc1)\"/>\n  <rect x=\"8\" y=\"92\" width=\"72\" height=\"100\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"44\" y=\"134\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Latifúndio</text>\n  <text x=\"44\" y=\"156\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">grande terra</text>\n  <rect x=\"88\" y=\"92\" width=\"72\" height=\"100\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"124\" y=\"134\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Monocultura</text>\n  <text x=\"124\" y=\"156\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">só cana</text>\n  <rect x=\"168\" y=\"92\" width=\"72\" height=\"100\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"204\" y=\"134\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Escravidão</text>\n  <text x=\"204\" y=\"156\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">mão de obra</text>\n  <rect x=\"248\" y=\"92\" width=\"84\" height=\"100\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"290\" y=\"134\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Exportação</text>\n  <text x=\"290\" y=\"156\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">mercado externo</text>\n</svg>\n<figcaption>O engenho de açúcar reunia os quatro pilares do sistema de plantation.</figcaption>\n</figure>\n\n<h2>3 · Escravidão e resistência</h2>\n\n<p>A base do trabalho colonial foi a de <strong>africanos escravizados</strong>, trazidos pelo tráfico transatlântico. A escravidão, porém, nunca foi passiva: houve muita <strong>resistência</strong>, como os <strong>quilombos</strong> — comunidades de fugitivos, sendo o maior o de <strong>Palmares</strong>, liderado por <strong>Zumbi</strong>.</p>\n\n<div class=\"callout\">\n  <strong>Conceito · Quilombos</strong><br>\n  Comunidades formadas por africanos que fugiam da escravidão e resistiam ao sistema colonial. O maior foi o Quilombo dos Palmares, símbolo da resistência negra no Brasil.\n</div>\n\n<h2>4 · O ciclo do ouro</h2>\n\n<p>No século XVIII, as <strong>bandeiras</strong> paulistas descobriram <strong>ouro</strong> em <strong>Minas Gerais</strong>. A <strong>mineração</strong> deslocou o centro econômico do Nordeste para o <strong>Sudeste</strong>, atraiu população e aumentou o controle da Coroa, que cobrava o <strong>quinto</strong> (20% do ouro).</p>\n\n<p>A cobrança abusiva de impostos gerou a <strong>Inconfidência Mineira</strong> (1789), inspirada no Iluminismo, cujo mártir foi <strong>Tiradentes</strong>.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Comparação entre a economia açucareira e a mineração\">\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">Açúcar</text>\n  <text x=\"87\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11.5\" font-weight=\"700\">séc. XVI-XVII</text>\n  <text x=\"26\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Região: Nordeste</text>\n  <text x=\"26\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Engenho / plantation</text>\n  <text x=\"26\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Escravidão africana</text>\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">Mineração</text>\n  <text x=\"253\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11.5\" font-weight=\"700\">século XVIII</text>\n  <text x=\"192\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Região: Minas Gerais</text>\n  <text x=\"192\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Ouro / imposto do quinto</text>\n  <text x=\"192\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Inconfidência Mineira</text>\n</svg>\n<figcaption>Do açúcar do Nordeste ao ouro de Minas: o centro da colônia se desloca.</figcaption>\n</figure>\n\n<h2>O essencial</h2>\n\n<h3>Linha do tempo</h3>\n\n<table>\n  <tr><th>Data</th><th>Acontecimento</th></tr>\n  <tr><td>1500</td><td>Chegada dos portugueses (Cabral)</td></tr>\n  <tr><td>1534</td><td>Capitanias hereditárias</td></tr>\n  <tr><td>1549</td><td>Governo-Geral (Salvador)</td></tr>\n  <tr><td>séc. XVI-XVII</td><td>Auge do açúcar (Nordeste)</td></tr>\n  <tr><td>séc. XVIII</td><td>Ciclo do ouro (Minas Gerais)</td></tr>\n  <tr><td>1789</td><td>Inconfidência Mineira</td></tr>\n</table>\n\n<h3>Termos-chave</h3>\n\n<table>\n  <tr><th>Termo</th><th>Significado</th></tr>\n  <tr><td>Capitanias hereditárias</td><td>Divisão da colônia em faixas (1534)</td></tr>\n  <tr><td>Plantation</td><td>Latifúndio + monocultura + escravidão + exportação</td></tr>\n  <tr><td>Quilombos</td><td>Comunidades de resistência dos escravizados</td></tr>\n  <tr><td>Mineração</td><td>Ciclo do ouro no séc. XVIII (Minas)</td></tr>\n  <tr><td>Quinto</td><td>Imposto de 20% sobre o ouro</td></tr>\n</table>\n\n<h3>Personagens</h3>\n\n<table>\n  <tr><th>Nome</th><th>Papel</th></tr>\n  <tr><td>Cabral</td><td>Chegou ao Brasil em 1500</td></tr>\n  <tr><td>Zumbi dos Palmares</td><td>Líder da resistência quilombola</td></tr>\n  <tr><td>Bandeirantes</td><td>Expandiram o território e acharam ouro</td></tr>\n  <tr><td>Tiradentes</td><td>Mártir da Inconfidência Mineira</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  As <b>capitanias hereditárias</b> (1534) vieram <b>antes</b> do <b>Governo-Geral</b> (1549), que surgiu justamente por causa do fracasso delas. E não troque as regiões: <b>açúcar no Nordeste</b>, <b>ouro em Minas Gerais</b>.\n</div>\n\n<blockquote>\n  <p>Colônia de exploração, o Brasil produziu riqueza para Portugal com o suor de africanos escravizados. Mas as ideias iluministas e a crise do sistema colonial já preparavam a ruptura. A caminho da independência, esse é o nosso próximo tema.</p>\n</blockquote>\n",
+  "questionLang": "pt",
+  "answerLang": "pt",
+  "version": 1,
+  "level": "Ensino Médio",
+  "theme": "História do Brasil",
+  "cards": [
+    {
+      "recto": "Em que ano os portugueses, liderados por Pedro Álvares Cabral, chegaram ao litoral do Brasil?",
+      "verso": "1500",
+      "explanation": "A chegada da esquadra de Cabral marca o início da presença portuguesa. O território integrava-se ao Império colonial de Portugal.",
+      "tags": [
+        "colonia",
+        "inicio"
+      ],
+      "distractors": {
+        "easy": [
+          "1492",
+          "1822",
+          "1889"
+        ],
+        "medium": [
+          "1494",
+          "1530",
+          "1549"
+        ],
+        "hard": [
+          "1502",
+          "1498",
+          "1493"
+        ]
+      }
+    },
+    {
+      "recto": "Primeiro produto explorado pelos portugueses no Brasil, obtido por meio do escambo com os indígenas.",
+      "verso": "Pau-brasil",
+      "explanation": "Madeira usada para tingir tecidos, extraída pelos indígenas em troca de objetos (escambo). Deu nome ao país. Não gerou colonização efetiva.",
+      "tags": [
+        "colonia",
+        "economia"
+      ],
+      "distractors": {
+        "easy": [
+          "Ouro",
+          "Café",
+          "Açúcar"
+        ],
+        "medium": [
+          "Tabaco",
+          "Algodão",
+          "Borracha"
+        ],
+        "hard": [
+          "Drogas do sertão",
+          "Cacau",
+          "Anil"
+        ]
+      }
+    },
+    {
+      "recto": "Sistema de 1534 pelo qual a Coroa dividiu o Brasil em faixas de terra doadas a nobres para colonizar.",
+      "verso": "Capitanias hereditárias",
+      "explanation": "Os donatários deveriam colonizar e explorar por conta própria. A maioria fracassou, levando à criação do Governo-Geral em 1549.",
+      "tags": [
+        "colonia",
+        "administracao"
+      ],
+      "distractors": {
+        "easy": [
+          "Governo-Geral",
+          "Sesmarias apenas",
+          "Vice-Reino"
+        ],
+        "medium": [
+          "Câmaras municipais",
+          "Feudos",
+          "Províncias"
+        ],
+        "hard": [
+          "Capitanias reais",
+          "Ouvidorias",
+          "Comarcas"
+        ]
+      }
+    },
+    {
+      "recto": "Órgão criado em 1549 para centralizar a administração da colônia, diante do fracasso das capitanias.",
+      "verso": "Governo-Geral",
+      "explanation": "Tomé de Sousa foi o primeiro governador-geral, instalado em Salvador (primeira capital). Reforçou o controle da Coroa sobre a colônia.",
+      "tags": [
+        "colonia",
+        "administracao"
+      ],
+      "distractors": {
+        "easy": [
+          "Capitanias hereditárias",
+          "República",
+          "Império"
+        ],
+        "medium": [
+          "Vice-Reino do Brasil",
+          "Câmara Municipal",
+          "Junta Governativa"
+        ],
+        "hard": [
+          "Conselho Ultramarino",
+          "Casa de Contratação",
+          "Relação da Bahia"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] As capitanias hereditárias e o Governo-Geral surgiram na mesma época? Qual veio primeiro?",
+      "verso": "As capitanias (1534) vieram antes do Governo-Geral (1549)",
+      "explanation": "Erro comum: as capitanias (1534) fracassaram, e por isso a Coroa criou o Governo-Geral (1549) para centralizar. A ordem é importante.",
+      "tags": [
+        "piege",
+        "colonia"
+      ],
+      "distractors": {
+        "easy": [
+          "O Governo-Geral veio antes",
+          "Surgiram no mesmo ano",
+          "Ambos em 1500"
+        ],
+        "medium": [
+          "O Governo-Geral em 1534, as capitanias em 1549",
+          "Ambos em 1549",
+          "As capitanias em 1549"
+        ],
+        "hard": [
+          "O Governo-Geral em 1500",
+          "As capitanias em 1500",
+          "Ambos em 1822"
+        ]
+      }
+    },
+    {
+      "recto": "Principal atividade econômica do Brasil Colônia nos séculos XVI e XVII, concentrada no litoral do Nordeste.",
+      "verso": "Produção de açúcar",
+      "explanation": "A cana-de-açúcar, cultivada em grandes propriedades, foi a base da economia colonial. Portugal já dominava sua produção e comércio.",
+      "tags": [
+        "colonia",
+        "acucar"
+      ],
+      "distractors": {
+        "easy": [
+          "Mineração de ouro",
+          "Cultivo de café",
+          "Extração de borracha"
+        ],
+        "medium": [
+          "Cultivo de algodão",
+          "Pecuária",
+          "Extração de pau-brasil"
+        ],
+        "hard": [
+          "Produção de tabaco",
+          "Cultivo de anil",
+          "Drogas do sertão"
+        ]
+      }
+    },
+    {
+      "recto": "Grande propriedade agrícola do período açucareiro, que reunia a casa-grande, a senzala e a produção da cana.",
+      "verso": "Engenho",
+      "explanation": "O engenho era a unidade produtiva do açúcar, baseado na monocultura, no latifúndio e no trabalho escravo (sistema de plantation).",
+      "tags": [
+        "colonia",
+        "acucar"
+      ],
+      "distractors": {
+        "easy": [
+          "Mina",
+          "Fábrica",
+          "Fazenda de café"
+        ],
+        "medium": [
+          "Sesmaria",
+          "Quilombo",
+          "Feitoria"
+        ],
+        "hard": [
+          "Bangüê",
+          "Sítio",
+          "Roça"
+        ]
+      }
+    },
+    {
+      "recto": "Sistema agrícola colonial baseado na grande propriedade, na monocultura de exportação e no trabalho escravo.",
+      "verso": "Plantation",
+      "explanation": "Latifúndio + monocultura + escravidão + exportação. Modelo do engenho de açúcar e, depois, das fazendas de café. Voltado ao mercado externo.",
+      "tags": [
+        "colonia",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "Agricultura familiar",
+          "Cooperativa",
+          "Reforma agrária"
+        ],
+        "medium": [
+          "Policultura",
+          "Minifúndio",
+          "Agricultura de subsistência"
+        ],
+        "hard": [
+          "Sistema de aldeamento",
+          "Encomienda",
+          "Mita"
+        ]
+      }
+    },
+    {
+      "recto": "Qual foi a principal mão de obra usada nos engenhos de açúcar e, depois, nas minas do Brasil Colônia?",
+      "verso": "Africanos escravizados",
+      "explanation": "O tráfico transatlântico trouxe milhões de africanos escravizados. A escravidão foi a base do trabalho colonial por mais de três séculos.",
+      "tags": [
+        "colonia",
+        "escravidao"
+      ],
+      "distractors": {
+        "easy": [
+          "Imigrantes europeus livres",
+          "Nobres portugueses",
+          "Trabalhadores assalariados"
+        ],
+        "medium": [
+          "Indígenas assalariados",
+          "Servos",
+          "Camponeses portugueses"
+        ],
+        "hard": [
+          "Colonos livres apenas",
+          "Degredados apenas",
+          "Jesuítas"
+        ]
+      }
+    },
+    {
+      "recto": "Comunidades formadas por africanos que fugiam da escravidão e resistiam ao sistema colonial.",
+      "verso": "Quilombos",
+      "explanation": "O maior foi o Quilombo dos Palmares, liderado por Zumbi. Mostram que a escravidão foi marcada por resistência, não por passividade.",
+      "tags": [
+        "colonia",
+        "resistencia"
+      ],
+      "distractors": {
+        "easy": [
+          "Engenhos",
+          "Capitanias",
+          "Vilas"
+        ],
+        "medium": [
+          "Aldeamentos",
+          "Sesmarias",
+          "Reduções"
+        ],
+        "hard": [
+          "Mocambos apenas",
+          "Terreiros",
+          "Irmandades"
+        ]
+      }
+    },
+    {
+      "recto": "Líder do Quilombo dos Palmares que se tornou símbolo da resistência negra à escravidão no Brasil.",
+      "verso": "Zumbi dos Palmares",
+      "explanation": "Resistiu por anos aos ataques coloniais. O dia de sua morte (20 de novembro) é a Consciência Negra no Brasil.",
+      "tags": [
+        "colonia",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Tiradentes",
+          "Cabral",
+          "Dom Pedro I"
+        ],
+        "medium": [
+          "Ganga Zumba",
+          "Chico Rei",
+          "Anhanguera"
+        ],
+        "hard": [
+          "Dandara",
+          "Aqualtune",
+          "Manuel Congo"
+        ]
+      }
+    },
+    {
+      "recto": "Expedições que partiam de São Paulo em busca de índios para escravizar e de metais preciosos no interior.",
+      "verso": "Bandeiras (bandeirantes)",
+      "explanation": "As bandeiras ajudaram a expandir o território além da linha de Tordesilhas e descobriram ouro em Minas Gerais no fim do século XVII.",
+      "tags": [
+        "colonia",
+        "expansao"
+      ],
+      "distractors": {
+        "easy": [
+          "Cruzadas",
+          "Capitanias",
+          "Missões"
+        ],
+        "medium": [
+          "Entradas oficiais apenas",
+          "Sesmarias",
+          "Feitorias"
+        ],
+        "hard": [
+          "Monções",
+          "Muares",
+          "Tropeirismo"
+        ]
+      }
+    },
+    {
+      "recto": "Atividade econômica que se tornou o centro da colônia no século XVIII, com a descoberta de ouro em Minas Gerais.",
+      "verso": "Mineração",
+      "explanation": "O ouro deslocou o centro econômico do Nordeste para o Sudeste, atraiu população e aumentou o controle e os impostos da Coroa.",
+      "tags": [
+        "colonia",
+        "mineracao"
+      ],
+      "distractors": {
+        "easy": [
+          "Produção de açúcar",
+          "Cultivo de café",
+          "Extração de pau-brasil"
+        ],
+        "medium": [
+          "Pecuária",
+          "Cultivo de algodão",
+          "Comércio de escravos apenas"
+        ],
+        "hard": [
+          "Drogas do sertão",
+          "Produção de tabaco",
+          "Cultivo de anil"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] A economia açucareira concentrava-se em qual região, e a mineração do ouro, em qual outra?",
+      "verso": "Açúcar no Nordeste e mineração no Sudeste (Minas Gerais)",
+      "explanation": "Açúcar = litoral do Nordeste (séc. XVI-XVII); ouro = Minas Gerais/Sudeste (séc. XVIII). A mineração deslocou o centro econômico da colônia.",
+      "tags": [
+        "comparaison",
+        "colonia"
+      ],
+      "distractors": {
+        "easy": [
+          "Norte e Sul",
+          "Litoral e sertão",
+          "Bahia e Rio"
+        ],
+        "medium": [
+          "Açúcar no Sudeste e mineração no Nordeste",
+          "Ambos no Nordeste",
+          "Ambos no Sul"
+        ],
+        "hard": [
+          "Açúcar no Norte e ouro no Sul",
+          "Açúcar em Minas e ouro na Bahia",
+          "Ambos no Sudeste"
+        ]
+      }
+    },
+    {
+      "recto": "Imposto de 20% que a Coroa portuguesa cobrava sobre todo o ouro extraído na colônia.",
+      "verso": "Quinto",
+      "explanation": "A cobrança do \"quinto\" e a fiscalização rigorosa geraram revoltas. Sua cobrança forçada (derrama) inspirou a Inconfidência Mineira.",
+      "tags": [
+        "colonia",
+        "impostos"
+      ],
+      "distractors": {
+        "easy": [
+          "Dízimo",
+          "Pedágio",
+          "Sisa"
+        ],
+        "medium": [
+          "Derrama apenas",
+          "Capitação",
+          "Meação"
+        ],
+        "hard": [
+          "Quinto real apenas",
+          "Direitos de passagem",
+          "Finta"
+        ]
+      }
+    },
+    {
+      "recto": "Movimento de 1789, em Minas Gerais, que planejou a independência da região, inspirado pelo Iluminismo.",
+      "verso": "Inconfidência Mineira",
+      "explanation": "Reação à cobrança abusiva de impostos (derrama). Tiradentes foi o único condenado à morte. Marco das revoltas contra o domínio português.",
+      "tags": [
+        "colonia",
+        "revolta"
+      ],
+      "distractors": {
+        "easy": [
+          "Independência do Brasil",
+          "Proclamação da República",
+          "Revolução Farroupilha"
+        ],
+        "medium": [
+          "Conjuração Baiana",
+          "Revolta de Beckman",
+          "Guerra dos Emboabas"
+        ],
+        "hard": [
+          "Inconfidência Carioca",
+          "Revolta de Felipe dos Santos",
+          "Cabanagem"
+        ]
+      }
+    },
+    {
+      "recto": "Único inconfidente condenado à morte e enforcado, tornando-se herói nacional brasileiro.",
+      "verso": "Tiradentes",
+      "explanation": "Joaquim José da Silva Xavier, o Tiradentes, foi executado em 1792. Virou símbolo da luta pela independência. Seu dia é feriado nacional.",
+      "tags": [
+        "colonia",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Zumbi",
+          "Dom Pedro I",
+          "Cabral"
+        ],
+        "medium": [
+          "Cláudio Manuel da Costa",
+          "Tomás Antônio Gonzaga",
+          "Frei Caneca"
+        ],
+        "hard": [
+          "Alvarenga Peixoto",
+          "Silva Xavier apenas",
+          "José de Alvarenga"
+        ]
+      }
+    },
+    {
+      "recto": "Regra do sistema colonial que obrigava o Brasil a comerciar apenas com Portugal, garantindo o lucro da metrópole.",
+      "verso": "Pacto colonial (exclusivo metropolitano)",
+      "explanation": "Toda a produção colonial devia passar por Portugal. Era a aplicação do mercantilismo à colônia. Seria contestado no processo de independência.",
+      "tags": [
+        "colonia",
+        "economia"
+      ],
+      "distractors": {
+        "easy": [
+          "Livre comércio",
+          "Reforma agrária",
+          "Abolição"
+        ],
+        "medium": [
+          "Balança comercial",
+          "Tratado de Tordesilhas",
+          "Lei de Terras"
+        ],
+        "hard": [
+          "Companhia de comércio",
+          "Sistema de frotas",
+          "Monopólio do sal apenas"
+        ]
+      }
+    },
+    {
+      "recto": "De modo geral, a economia do Brasil Colônia foi voltada para quê?",
+      "verso": "A exportação de produtos para a metrópole (mercado externo)",
+      "explanation": "Açúcar, ouro e outros produtos eram exportados para enriquecer Portugal (mercantilismo). A colônia produzia para fora, com trabalho escravo.",
+      "tags": [
+        "colonia",
+        "sintese"
+      ],
+      "distractors": {
+        "easy": [
+          "O mercado interno brasileiro",
+          "A agricultura de subsistência",
+          "A indústria nacional"
+        ],
+        "medium": [
+          "O consumo dos indígenas",
+          "A autossuficiência",
+          "O comércio com a Espanha"
+        ],
+        "hard": [
+          "O abastecimento das cidades",
+          "A exportação para a Ásia",
+          "O comércio livre mundial"
+        ]
+      }
+    }
+  ]
+}

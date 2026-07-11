@@ -1,0 +1,530 @@
+{
+  "id": "jp-koukou-koukyou-chihou-senkyo",
+  "title": "地方自治と選挙制度",
+  "emoji": "🗳️",
+  "subject": "civics",
+  "country": "jp",
+  "courseDescription": "地方自治のしくみから選挙制度、世論とメディアまで。主権者として政治に参加する方法を学ぶ。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>地方自治と選挙制度</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・公共<br>\n  <b>大項目B：</b>自立した主体として社会に参画する私たち<br>\n  <b>内容：</b>地方自治・選挙・世論とメディア\n</div>\n\n<blockquote>\n  <p><b>問い</b>　主権者である私たちは、どのようにして政治に参加できるのだろうか。</p>\n</blockquote>\n\n<p>政治は、私たちの身近なところから始まる。<strong>地方自治</strong>は「民主主義の学校」と呼ばれ、住民が直接関わる場である。そして<strong>選挙</strong>は主権者の最も基本的な参加の方法である。<strong>世論</strong>や<strong>メディア</strong>との関わりもふまえ、社会に参画する主体としての力を養おう。</p>\n\n<h2>1・地方自治のしくみ</h2>\n\n<p><strong>地方自治</strong>は、住民が自分たちの地域を自分たちで運営するしくみで、「<strong>民主主義の学校</strong>」（ブライス）と呼ばれる。都道府県知事や市町村長などの<strong>首長</strong>と、地方議会の議員を、住民が<strong>直接選挙</strong>で選ぶ<strong>二元代表制</strong>をとる。国の議院内閣制とは異なる点である。</p>\n\n<p>住民には、<strong>条例</strong>の制定や首長の解職（<strong>リコール</strong>）などを求める<strong>直接請求権</strong>もある。間接民主制を補う直接民主制のしくみである。</p>\n\n<div class=\"callout\">\n  <strong>用語・二元代表制</strong><br>\n  地方自治で、首長と地方議会の議員の両方を住民が直接選ぶしくみ。議会が首相を選ぶ国の議院内閣制と異なり、首長と議会がそれぞれ住民を代表する。\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 180\" role=\"img\" aria-label=\"地方自治の二元代表制。住民が首長と議会を直接選ぶ\">\n  <!-- 住民（強調） -->\n  <rect x=\"110\" y=\"128\" width=\"120\" height=\"42\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"154\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">住民</text>\n  <!-- 首長 -->\n  <rect x=\"20\" y=\"20\" width=\"120\" height=\"46\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"80\" y=\"42\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">首長</text>\n  <text x=\"80\" y=\"59\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">知事・市町村長</text>\n  <!-- 議会 -->\n  <rect x=\"200\" y=\"20\" width=\"120\" height=\"46\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"260\" y=\"42\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">地方議会</text>\n  <text x=\"260\" y=\"59\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">議員</text>\n  <!-- 選ぶ線 -->\n  <line x1=\"140\" y1=\"130\" x2=\"80\" y2=\"68\" style=\"stroke:var(--accent);stroke-width:1.5;stroke-opacity:.6\"/>\n  <line x1=\"200\" y1=\"130\" x2=\"260\" y2=\"68\" style=\"stroke:var(--accent);stroke-width:1.5;stroke-opacity:.6\"/>\n  <text x=\"95\" y=\"105\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">直接選挙</text>\n  <text x=\"245\" y=\"105\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">直接選挙</text>\n</svg>\n<figcaption>住民が首長と議会を別々に直接選ぶのが、地方自治の特徴。</figcaption>\n</figure>\n\n<h2>2・選挙のしくみ</h2>\n\n<p><strong>選挙</strong>は主権者の最も基本的な参加である。年齢に達したすべての国民に選挙権を認める<strong>普通選挙</strong>が原則で、日本では2016年から<strong>満18歳以上</strong>に拡大された。</p>\n\n<p>選挙制度には、一つの選挙区から一人を選ぶ<strong>小選挙区制</strong>と、政党の得票数に応じて議席を配分する<strong>比例代表制</strong>がある。日本の衆議院はこの両方を組み合わせている。<strong>死票</strong>や<strong>一票の格差</strong>といった課題もある。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"小選挙区制と比例代表制の比較\">\n  <!-- 左：小選挙区制 -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">小選挙区制</text>\n  <text x=\"87\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">1区から1人</text>\n  <text x=\"26\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">大政党に有利</text>\n  <text x=\"26\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">政権が安定</text>\n  <text x=\"26\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">死票が多い</text>\n  <!-- 右：比例代表制 -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">比例代表制</text>\n  <text x=\"253\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">得票に比例</text>\n  <text x=\"192\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">民意を反映</text>\n  <text x=\"192\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">小政党も議席</text>\n  <text x=\"192\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">死票が少ない</text>\n</svg>\n<figcaption>死票の多さと民意の反映しやすさが、両制度の対照的な特徴。</figcaption>\n</figure>\n\n<h2>3・選挙以外の政治参加</h2>\n\n<p>政治参加は選挙だけではない。同じ考えの人が集まる<strong>政党</strong>は、国民の意見を集約して政治に反映する。特定の利益の実現をめざす<strong>圧力団体</strong>も政治にはたらきかける。</p>\n\n<p>そして、多くの人々が共有する<strong>世論</strong>が政治を動かす。世論は<strong>マスメディア</strong>やインターネットを通じて形づくられる。メディアは「第四の権力」とも呼ばれるほど影響力をもつ。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"世論が政治を動かす流れ。メディアや情報が世論を形づくり政治に影響する\">\n  <defs>\n    <marker id=\"ar-cs1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"94\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"55\" y=\"64\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">メディア・情報</text>\n  <text x=\"55\" y=\"82\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">新聞・TV・SNS</text>\n  <path d=\"M104,68 L120,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-cs1)\"/>\n  <rect x=\"123\" y=\"42\" width=\"94\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"64\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">世論</text>\n  <text x=\"170\" y=\"82\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">人々の意見</text>\n  <path d=\"M219,68 L235,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-cs1)\"/>\n  <rect x=\"238\" y=\"42\" width=\"94\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"285\" y=\"64\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">政治</text>\n  <text x=\"285\" y=\"82\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">政策に反映</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">選挙以外の政治参加</text>\n</svg>\n<figcaption>メディアが世論を形づくり、世論が政治を動かす。だから情報を見きわめる力が要る。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・世論</strong><br>\n  社会の多くの人々が共有する、政治や社会の問題についての意見。選挙以外で政治に影響を与える力で、マスメディアやインターネットを通じて形づくられる。\n</div>\n\n<h2>4・主権者として ― メディアリテラシー</h2>\n\n<p>情報があふれる時代には、フェイクニュースや偏った情報も広がる。だからこそ、情報をうのみにせず批判的に読み解く<strong>メディアリテラシー</strong>が、主権者に欠かせない力となる。</p>\n\n<p>近年は<strong>投票率</strong>の低下、とくに若い世代の政治離れが課題である。18歳選挙権とともに、主権者としての意識をもって政治に関わることが求められている。</p>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>参加の方法</th><th>内容</th></tr>\n  <tr><td>地方自治</td><td>首長・議員の直接選挙、直接請求権</td></tr>\n  <tr><td>選挙</td><td>満18歳以上の普通選挙</td></tr>\n  <tr><td>政党・圧力団体</td><td>意見の集約・はたらきかけ</td></tr>\n  <tr><td>世論・メディア</td><td>選挙以外で政治を動かす</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>地方自治</td><td>住民が地域を自ら運営（民主主義の学校）</td></tr>\n  <tr><td>二元代表制</td><td>首長と議会を住民が直接選ぶしくみ</td></tr>\n  <tr><td>直接請求権</td><td>条例制定やリコールを求める権利</td></tr>\n  <tr><td>小選挙区制／比例代表制</td><td>1区1人／得票に応じた議席配分</td></tr>\n  <tr><td>死票</td><td>議席に結びつかなかった票</td></tr>\n  <tr><td>メディアリテラシー</td><td>情報を批判的に読み解く力</td></tr>\n</table>\n\n<h3>選挙制度の比較</h3>\n\n<table>\n  <tr><th>観点</th><th>小選挙区制／比例代表制</th></tr>\n  <tr><td>選び方</td><td>1区1人／政党の得票に比例</td></tr>\n  <tr><td>死票</td><td>多い／少ない</td></tr>\n  <tr><td>有利な政党</td><td>大政党／小政党も議席を得やすい</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  <b>小選挙区制</b>（1区1人・死票が多い・大政党有利）と<b>比例代表制</b>（得票に比例・死票が少ない）の特徴を取りちがえないこと。また議席に結びつかない<b>死票</b>と、投票しない<b>棄権</b>は別の概念である。\n</div>\n\n<blockquote>\n  <p>主権者としての政治参加は、遠い国政よりも、まず身近な地域から始まる。選挙で一票を投じ、世論をつくり、情報を見きわめること——それが民主主義を支える。次は、私たちの暮らしを直接左右するもう一つの領域、経済のしくみへと進もう。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "公共 ― 自立した主体として社会に参画する私たち",
+  "cards": [
+    {
+      "recto": "住民が、自分たちの地域のことを自分たちで決めて運営していくしくみを何というか。",
+      "verso": "地方自治",
+      "explanation": "国から独立して地域を運営する。住民が身近な政治に直接関わることから、民主主義の学校とも呼ばれる。",
+      "tags": [
+        "地方自治",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "中央集権",
+          "三権分立",
+          "議院内閣制"
+        ],
+        "medium": [
+          "地方分権",
+          "直接民主制",
+          "住民自治"
+        ],
+        "hard": [
+          "団体自治のみ",
+          "住民自治のみ",
+          "自治体連合"
+        ]
+      }
+    },
+    {
+      "recto": "「地方自治は◯◯◯◯◯の学校である」とブライスが述べた言葉の空欄に入るのは何か。",
+      "verso": "民主主義",
+      "explanation": "住民が身近な自治を通じて民主主義を学ぶという意味。地方自治の意義を示す有名な言葉。",
+      "tags": [
+        "地方自治"
+      ],
+      "distractors": {
+        "easy": [
+          "経済",
+          "国家",
+          "行政"
+        ],
+        "medium": [
+          "自由",
+          "平等",
+          "共和主義"
+        ],
+        "hard": [
+          "市民社会",
+          "立憲主義",
+          "参加"
+        ]
+      }
+    },
+    {
+      "recto": "都道府県知事や市町村長のように、地方公共団体の行政を率いる長を何というか。",
+      "verso": "首長",
+      "explanation": "地方議会の議員とともに、住民が直接選挙で選ぶ。国の議院内閣制と異なり、首長と議会がそれぞれ直接選ばれる（二元代表制）。",
+      "tags": [
+        "地方自治"
+      ],
+      "distractors": {
+        "easy": [
+          "内閣総理大臣",
+          "国会議員",
+          "天皇"
+        ],
+        "medium": [
+          "議長",
+          "大統領",
+          "知事のみ"
+        ],
+        "hard": [
+          "首相",
+          "行政委員",
+          "地方大臣"
+        ]
+      }
+    },
+    {
+      "recto": "地方自治で、首長と地方議会の議員の両方を、住民が直接選挙で選ぶしくみを何というか。",
+      "verso": "二元代表制",
+      "explanation": "国の議院内閣制（議会が首相を選ぶ）と異なる。首長と議会がそれぞれ住民を代表し、たがいに抑制する。",
+      "tags": [
+        "地方自治",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "議院内閣制",
+          "大統領制",
+          "二院制"
+        ],
+        "medium": [
+          "一元代表制",
+          "直接民主制",
+          "三権分立"
+        ],
+        "hard": [
+          "首長制",
+          "評議会制",
+          "委員会制"
+        ]
+      }
+    },
+    {
+      "recto": "住民が、条例の制定・改廃や議会の解散、首長・議員の解職などを直接求めることができる権利を何というか。",
+      "verso": "直接請求権",
+      "explanation": "間接民主制を補う直接民主制のしくみ。一定数の署名を集めて請求する。地方自治に特有の住民の権利。",
+      "tags": [
+        "地方自治",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "選挙権",
+          "請願権",
+          "自由権"
+        ],
+        "medium": [
+          "参政権",
+          "国民審査",
+          "住民投票"
+        ],
+        "hard": [
+          "イニシアティブ",
+          "レファレンダム",
+          "国政調査権"
+        ]
+      }
+    },
+    {
+      "recto": "首長や議員をやめさせることを住民が求める直接請求を、特に何というか。",
+      "verso": "解職請求（リコール）",
+      "explanation": "一定の署名を集めて請求し、住民投票で決める。直接請求権の一つ。条例の制定を求めるイニシアティブと区別する。",
+      "tags": [
+        "地方自治"
+      ],
+      "distractors": {
+        "easy": [
+          "選挙",
+          "解散",
+          "辞職"
+        ],
+        "medium": [
+          "国民審査",
+          "弾劾裁判",
+          "不信任決議"
+        ],
+        "hard": [
+          "イニシアティブ",
+          "レファレンダム",
+          "オンブズマン"
+        ]
+      }
+    },
+    {
+      "recto": "地方公共団体が、法律の範囲内で独自に定めることができる、その地域だけのきまりを何というか。",
+      "verso": "条例",
+      "explanation": "議会が制定する。ごみの分別や景観の保護など地域の実情に応じたルール。国の法律とは区別される。",
+      "tags": [
+        "地方自治"
+      ],
+      "distractors": {
+        "easy": [
+          "法律",
+          "憲法",
+          "政令"
+        ],
+        "medium": [
+          "規則",
+          "省令",
+          "命令"
+        ],
+        "hard": [
+          "要綱",
+          "訓令",
+          "告示"
+        ]
+      }
+    },
+    {
+      "recto": "地方公共団体の財源の格差を減らすために、国が使いみちを定めずに配分する資金を何というか。",
+      "verso": "地方交付税",
+      "explanation": "財政力の弱い自治体に手厚く配分され、地域間の格差を是正する。使いみちが指定される国庫支出金と区別する。",
+      "tags": [
+        "地方自治",
+        "財政"
+      ],
+      "distractors": {
+        "easy": [
+          "地方税",
+          "所得税",
+          "消費税"
+        ],
+        "medium": [
+          "国庫支出金",
+          "地方債",
+          "ふるさと納税"
+        ],
+        "hard": [
+          "地方譲与税",
+          "特別交付税のみ",
+          "臨時財政対策債"
+        ]
+      }
+    },
+    {
+      "recto": "一定の年齢に達したすべての国民に選挙権を認めることを何というか。",
+      "verso": "普通選挙",
+      "explanation": "身分や納税額、性別で制限しない。かつては制限選挙だった。日本では2016年から満18歳以上に選挙権が拡大された。",
+      "tags": [
+        "選挙",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "制限選挙",
+          "間接選挙",
+          "秘密選挙"
+        ],
+        "medium": [
+          "平等選挙",
+          "直接選挙",
+          "公開選挙"
+        ],
+        "hard": [
+          "等級選挙",
+          "複数選挙",
+          "職能選挙"
+        ]
+      }
+    },
+    {
+      "recto": "現在、日本で選挙権が認められるのは満何歳以上か。",
+      "verso": "満18歳以上",
+      "explanation": "2016年から20歳以上より引き下げられた。若い世代の政治参加を促す目的。主権者教育が重視される背景。",
+      "tags": [
+        "選挙",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "満20歳以上",
+          "満25歳以上",
+          "満16歳以上"
+        ],
+        "medium": [
+          "満19歳以上",
+          "満21歳以上",
+          "満22歳以上"
+        ],
+        "hard": [
+          "満17歳以上",
+          "満23歳以上",
+          "満15歳以上"
+        ]
+      }
+    },
+    {
+      "recto": "一つの選挙区から一人の代表を選ぶ選挙制度を何というか。",
+      "verso": "小選挙区制",
+      "explanation": "大政党に有利で政権が安定しやすいが、死票が多い。得票に応じて議席を配分する比例代表制と対をなす。",
+      "tags": [
+        "選挙",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "比例代表制",
+          "普通選挙",
+          "間接選挙"
+        ],
+        "medium": [
+          "大選挙区制",
+          "中選挙区制",
+          "全国区制"
+        ],
+        "hard": [
+          "単記非移譲式",
+          "連記制",
+          "拘束名簿式"
+        ]
+      }
+    },
+    {
+      "recto": "各政党の得票数に応じて議席を配分する選挙制度を何というか。",
+      "verso": "比例代表制",
+      "explanation": "民意を議席に反映しやすく死票が少ないが、小政党が乱立しやすい。小選挙区制と対で覚える。",
+      "tags": [
+        "選挙",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "小選挙区制",
+          "普通選挙",
+          "秘密選挙"
+        ],
+        "medium": [
+          "大選挙区制",
+          "中選挙区制",
+          "多数代表制"
+        ],
+        "hard": [
+          "ドント式のみ",
+          "単記移譲式",
+          "併用制"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】一つの選挙区から一人を選ぶ制度と、政党の得票数に応じて議席を配分する制度を、順にそれぞれ何というか。",
+      "verso": "小選挙区制と比例代表制",
+      "explanation": "小選挙区制＝1区1人・死票が多い・大政党有利、比例代表制＝得票に比例・死票が少ない・小政党も。特徴を取りちがえない。",
+      "tags": [
+        "comparaison",
+        "選挙"
+      ],
+      "distractors": {
+        "easy": [
+          "普通選挙と制限選挙",
+          "直接選挙と間接選挙",
+          "与党と野党"
+        ],
+        "medium": [
+          "比例代表制と小選挙区制",
+          "大選挙区制と小選挙区制",
+          "小選挙区制と中選挙区制"
+        ],
+        "hard": [
+          "多数代表制と比例代表制",
+          "小選挙区制と併用制",
+          "拘束名簿式と非拘束名簿式"
+        ]
+      }
+    },
+    {
+      "recto": "選挙区ごとの議員一人あたりの有権者数に差があり、一票の価値が不平等になっている問題を何というか。",
+      "verso": "一票の格差",
+      "explanation": "都市と地方で有権者数が異なるために生じる。平等選挙の原則に反するとして、たびたび裁判で争われている。",
+      "tags": [
+        "選挙",
+        "課題"
+      ],
+      "distractors": {
+        "easy": [
+          "死票",
+          "棄権",
+          "無効票"
+        ],
+        "medium": [
+          "投票率の低下",
+          "格差社会",
+          "選挙違反"
+        ],
+        "hard": [
+          "ゲリマンダー",
+          "定数不均衡",
+          "選挙区割り"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】小選挙区制で、当選者以外に投じられて議席に結びつかなかった票を何というか。",
+      "verso": "死票",
+      "explanation": "小選挙区制で多くなる。落選候補への票が反映されない。投票を棄権する「棄権」とは別の概念なので混同しない。",
+      "tags": [
+        "piege",
+        "選挙"
+      ],
+      "distractors": {
+        "easy": [
+          "棄権",
+          "無効票",
+          "白票"
+        ],
+        "medium": [
+          "一票の格差",
+          "浮動票",
+          "組織票"
+        ],
+        "hard": [
+          "按分票",
+          "持ち票",
+          "比例票"
+        ]
+      }
+    },
+    {
+      "recto": "同じ政治的な考えをもつ人々が集まり、政策の実現や政権の獲得をめざす団体を何というか。",
+      "verso": "政党",
+      "explanation": "国民の意見を集約して政治に反映する。政権を担う与党と、それを批判・監視する野党に分かれる。",
+      "tags": [
+        "政治参加"
+      ],
+      "distractors": {
+        "easy": [
+          "会社",
+          "労働組合",
+          "NPO"
+        ],
+        "medium": [
+          "圧力団体",
+          "利益集団",
+          "官僚機構"
+        ],
+        "hard": [
+          "派閥",
+          "院内会派",
+          "政治結社"
+        ]
+      }
+    },
+    {
+      "recto": "特定の利益を実現するために、政府や政党にはたらきかける団体を何というか。",
+      "verso": "圧力団体（利益集団）",
+      "explanation": "労働組合や業界団体など。政権獲得をめざす政党とは異なり、自分たちの利益の実現を目的とする。",
+      "tags": [
+        "政治参加"
+      ],
+      "distractors": {
+        "easy": [
+          "政党",
+          "国会",
+          "内閣"
+        ],
+        "medium": [
+          "世論",
+          "マスメディア",
+          "NGO"
+        ],
+        "hard": [
+          "ロビイスト",
+          "シンクタンク",
+          "族議員"
+        ]
+      }
+    },
+    {
+      "recto": "社会の多くの人々が共有している、政治や社会の問題についての意見を何というか。",
+      "verso": "世論",
+      "explanation": "選挙以外で政治に影響を与える力。マスメディアやインターネットを通じて形づくられ、政治を動かす。",
+      "tags": [
+        "政治参加",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "政党",
+          "圧力団体",
+          "官僚"
+        ],
+        "medium": [
+          "投票",
+          "デモ",
+          "請願"
+        ],
+        "hard": [
+          "世論調査のみ",
+          "民意",
+          "国民感情"
+        ]
+      }
+    },
+    {
+      "recto": "新聞・テレビ・インターネットなどが世論の形成に大きな影響を与えることから、これらは何と呼ばれるか。",
+      "verso": "マスメディア（第四の権力）",
+      "explanation": "立法・行政・司法に次ぐ影響力から「第四の権力」とも。情報を批判的に読み解くメディアリテラシーが求められる。",
+      "tags": [
+        "政治参加",
+        "メディア"
+      ],
+      "distractors": {
+        "easy": [
+          "政党",
+          "圧力団体",
+          "国会"
+        ],
+        "medium": [
+          "世論",
+          "SNS",
+          "広告"
+        ],
+        "hard": [
+          "ジャーナリズム",
+          "マスコミュニケーション",
+          "報道機関のみ"
+        ]
+      }
+    },
+    {
+      "recto": "情報をうのみにせず、その正しさや意図を批判的に読み解く力を何というか。",
+      "verso": "メディアリテラシー",
+      "explanation": "フェイクニュースや偏った情報が広がるなかで重要性が増す。主権者が正しく判断するために欠かせない力。",
+      "tags": [
+        "メディア",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "読解力",
+          "計算力",
+          "記憶力"
+        ],
+        "medium": [
+          "情報公開",
+          "知る権利",
+          "表現の自由"
+        ],
+        "hard": [
+          "情報リテラシー全般",
+          "デジタルデバイド",
+          "アクセス権"
+        ]
+      }
+    }
+  ]
+}

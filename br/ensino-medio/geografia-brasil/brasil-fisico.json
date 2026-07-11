@@ -1,0 +1,432 @@
+{
+  "id": "br-ensino-medio-geografia-brasil-brasil-fisico",
+  "title": "Domínios morfoclimáticos e biomas do Brasil",
+  "emoji": "🌳",
+  "subject": "geography",
+  "country": "br",
+  "courseDescription": "O quadro natural brasileiro: relevo, clima, hidrografia, os domínios morfoclimáticos de Ab'Sáber e os grandes biomas do país.",
+  "lesson": "<style>\n  /* Estilos dos gráficos (SVG). Usam currentColor (texto) e var(--accent)\n     (cor da matéria), adaptando-se ao tema claro/escuro do app. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Domínios morfoclimáticos e biomas do Brasil</h1>\n\n<div class=\"callout\">\n  <strong>Pontos de estudo</strong><br>\n  <b>Nível:</b> Ensino Médio<br>\n  <b>Área:</b> Geografia do Brasil<br>\n  <b>Tema:</b> relevo, clima, águas e biomas\n</div>\n\n<blockquote>\n  <p><b>Questão central.</b> Por que a natureza brasileira é uma das mais diversas do planeta?</p>\n</blockquote>\n\n<p>O Brasil reúne uma enorme diversidade natural, organizada por <strong>Ab'Sáber</strong> em seis <strong>domínios morfoclimáticos</strong>. Do <strong>domínio amazônico</strong> ao <strong>Pampa</strong>, cada um combina relevo, clima e vegetação próprios. O relevo é <strong>antigo</strong> (planaltos e depressões) e a hidrografia, riquíssima.</p>\n\n<h2>1 · Os domínios morfoclimáticos</h2>\n\n<p>O geógrafo <strong>Aziz Ab'Sáber</strong> definiu <strong>seis domínios</strong>: amazônico, cerrado, caatinga, mares de morros (Mata Atlântica), araucárias e pradarias (Pampa). Cada domínio é uma paisagem que combina <strong>relevo, clima, solo e vegetação</strong>.</p>\n\n<div class=\"callout\">\n  <strong>Conceito · Domínio morfoclimático</strong><br>\n  Conjunto natural em que relevo, clima, solo e vegetação formam uma paisagem coerente. É o modo mais usado de descrever a natureza brasileira.\n</div>\n\n<h2>2 · Os grandes biomas</h2>\n\n<p>Do maior ao menor: a <strong>Amazônia</strong> (floresta úmida), o <strong>Cerrado</strong> (savana), a <strong>Mata Atlântica</strong> (litoral, muito reduzida), a <strong>Caatinga</strong> (semiárido), o <strong>Pampa</strong> (campos do Sul) e o <strong>Pantanal</strong> (planície alagável). A <strong>Caatinga</strong> é o único exclusivamente brasileiro.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 170\" role=\"img\" aria-label=\"Os seis grandes biomas brasileiros e suas características\">\n  <rect x=\"10\" y=\"10\" width=\"102\" height=\"44\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.2\"/>\n  <text x=\"61\" y=\"30\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Amazônia</text>\n  <text x=\"61\" y=\"45\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">floresta úmida</text>\n  <rect x=\"119\" y=\"10\" width=\"102\" height=\"44\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"170\" y=\"30\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Cerrado</text>\n  <text x=\"170\" y=\"45\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">savana</text>\n  <rect x=\"228\" y=\"10\" width=\"102\" height=\"44\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"279\" y=\"30\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Caatinga</text>\n  <text x=\"279\" y=\"45\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">semiárido (só BR)</text>\n  <rect x=\"10\" y=\"62\" width=\"102\" height=\"44\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"61\" y=\"82\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Mata Atlântica</text>\n  <text x=\"61\" y=\"97\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">litoral, reduzida</text>\n  <rect x=\"119\" y=\"62\" width=\"102\" height=\"44\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"170\" y=\"82\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Pampa</text>\n  <text x=\"170\" y=\"97\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">campos do Sul</text>\n  <rect x=\"228\" y=\"62\" width=\"102\" height=\"44\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"279\" y=\"82\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Pantanal</text>\n  <text x=\"279\" y=\"97\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">planície alagável</text>\n  <text x=\"170\" y=\"128\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">seis biomas, do equador ao subtrópico</text>\n  <text x=\"170\" y=\"150\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">a Caatinga é o único 100% brasileiro</text>\n</svg>\n<figcaption>Da floresta amazônica ao Pampa: a diversidade de biomas do Brasil.</figcaption>\n</figure>\n\n<h2>3 · Cerrado × Caatinga</h2>\n\n<p>Os dois biomas \"secos\" não são iguais. O <strong>Cerrado</strong> é uma <strong>savana</strong> com árvores e gramíneas, de clima tropical com estação seca. A <strong>Caatinga</strong> é do <strong>semiárido</strong>, muito mais seca, com plantas <strong>xerófilas</strong> (cactos) adaptadas à falta de água.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Comparação entre o Cerrado e a Caatinga\">\n  <rect x=\"12\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">Cerrado</text>\n  <text x=\"87\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">savana tropical</text>\n  <text x=\"87\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">árvores + gramíneas</text>\n  <text x=\"87\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">estação seca</text>\n  <rect x=\"178\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">Caatinga</text>\n  <text x=\"253\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">semiárido</text>\n  <text x=\"253\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">plantas xerófilas</text>\n  <text x=\"253\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">seca extrema</text>\n</svg>\n<figcaption>Dois biomas secos, mas bem diferentes: savana e semiárido.</figcaption>\n</figure>\n\n<h2>4 · Relevo e águas</h2>\n\n<p>O relevo brasileiro é <strong>antigo</strong> e de baixas altitudes: predominam <strong>planaltos</strong> e <strong>depressões</strong> (o ponto mais alto, o <strong>Pico da Neblina</strong>, tem só ~2 995 m). A hidrografia é riquíssima: a <strong>bacia Amazônica</strong> é a maior do mundo; o <strong>rio São Francisco</strong> integra o Nordeste.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"Características do relevo e da hidrografia do Brasil\">\n  <rect x=\"12\" y=\"24\" width=\"150\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"46\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Relevo</text>\n  <text x=\"87\" y=\"68\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">antigo e desgastado</text>\n  <text x=\"87\" y=\"86\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">planaltos e depressões</text>\n  <rect x=\"178\" y=\"24\" width=\"150\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"46\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Hidrografia</text>\n  <text x=\"253\" y=\"68\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">bacia Amazônica (a maior)</text>\n  <text x=\"253\" y=\"86\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">rio São Francisco</text>\n</svg>\n<figcaption>Relevo modesto e antigo, mas uma das maiores riquezas hídricas do planeta.</figcaption>\n</figure>\n\n<h2>O essencial</h2>\n\n<h3>Biomas em números</h3>\n\n<table>\n  <tr><th>Bioma</th><th>Característica</th></tr>\n  <tr><td>Amazônia</td><td>Maior bioma; floresta úmida</td></tr>\n  <tr><td>Cerrado</td><td>2º maior; savana</td></tr>\n  <tr><td>Caatinga</td><td>Semiárido; só existe no Brasil</td></tr>\n  <tr><td>Mata Atlântica</td><td>Litoral; muito desmatada</td></tr>\n  <tr><td>Pampa / Pantanal</td><td>Campos do Sul / planície alagável</td></tr>\n</table>\n\n<h3>Termos-chave</h3>\n\n<table>\n  <tr><th>Termo</th><th>Significado</th></tr>\n  <tr><td>Domínio morfoclimático</td><td>Paisagem de relevo + clima + vegetação</td></tr>\n  <tr><td>Ab'Sáber</td><td>Definiu os seis domínios do Brasil</td></tr>\n  <tr><td>Xerófila</td><td>Vegetação adaptada à seca (Caatinga)</td></tr>\n  <tr><td>Bacia Amazônica</td><td>Maior bacia hidrográfica do mundo</td></tr>\n  <tr><td>São Francisco</td><td>Rio da integração nacional</td></tr>\n</table>\n\n<h3>Relevo e águas</h3>\n\n<table>\n  <tr><th>Elemento</th><th>Marca brasileira</th></tr>\n  <tr><td>Relevo</td><td>Antigo: planaltos e depressões</td></tr>\n  <tr><td>Ponto culminante</td><td>Pico da Neblina (~2 995 m)</td></tr>\n  <tr><td>Bacias</td><td>Amazônica, Paraná, São Francisco</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  O único bioma <b>exclusivamente brasileiro</b> é a <b>Caatinga</b> — não a Amazônia, que se estende por vários países. E não confunda <b>Cerrado</b> (savana, chove mais) com <b>Caatinga</b> (semiárido, seca extrema).\n</div>\n\n<blockquote>\n  <p>Da maior floresta tropical do mundo ao semiárido, o Brasil concentra uma diversidade natural rara. Conhecê-la é o primeiro passo para protegê-la das ameaças que veremos a seguir.</p>\n</blockquote>\n",
+  "questionLang": "pt",
+  "answerLang": "pt",
+  "version": 1,
+  "level": "Ensino Médio",
+  "theme": "Geografia do Brasil",
+  "cards": [
+    {
+      "recto": "Conjuntos naturais que combinam relevo, clima, solo, vegetação e hidrografia numa mesma paisagem.",
+      "verso": "Os domínios morfoclimáticos",
+      "explanation": "Conceito de Aziz Ab'Sáber. O Brasil tem seis domínios (amazônico, cerrado, caatinga, mares de morros, araucárias e pradarias), cada um com paisagem própria.",
+      "tags": [
+        "brasil-fisico",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "Os fusos horários",
+          "as regiões do IBGE",
+          "os estados"
+        ],
+        "medium": [
+          "As placas tectônicas",
+          "as bacias hidrográficas",
+          "os climas apenas"
+        ],
+        "hard": [
+          "As províncias geológicas",
+          "os complexos regionais apenas",
+          "as unidades de relevo"
+        ]
+      }
+    },
+    {
+      "recto": "Geógrafo brasileiro que definiu os domínios morfoclimáticos do país.",
+      "verso": "Aziz Ab'Sáber",
+      "explanation": "Sua classificação em seis domínios é a mais usada para descrever as paisagens naturais brasileiras. Combina relevo, clima e vegetação.",
+      "tags": [
+        "brasil-fisico",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Getúlio Vargas",
+          "Santos Dumont",
+          "Oscar Niemeyer"
+        ],
+        "medium": [
+          "Milton Santos",
+          "Jurandyr Ross",
+          "Josué de Castro"
+        ],
+        "hard": [
+          "Caio Prado Jr.",
+          "Pierre Monbeig",
+          "Orlando Valverde"
+        ]
+      }
+    },
+    {
+      "recto": "Maior bioma e domínio do Brasil, de floresta densa, úmida e com enorme biodiversidade.",
+      "verso": "A Amazônia (domínio amazônico)",
+      "explanation": "Floresta equatorial de clima quente e úmido, com solos pobres mas vegetação exuberante. Abriga a maior bacia hidrográfica do mundo.",
+      "tags": [
+        "brasil-fisico",
+        "biomas"
+      ],
+      "distractors": {
+        "easy": [
+          "A Caatinga",
+          "o Pampa",
+          "o Pantanal"
+        ],
+        "medium": [
+          "O Cerrado",
+          "a Mata Atlântica",
+          "os Mares de Morros"
+        ],
+        "hard": [
+          "A Mata de Araucárias",
+          "as Pradarias",
+          "a Zona da Mata"
+        ]
+      }
+    },
+    {
+      "recto": "Bioma de savana brasileira, com árvores baixas e retorcidas, no Planalto Central.",
+      "verso": "O Cerrado",
+      "explanation": "Segundo maior bioma do país, de clima tropical com estação seca. Vegetação de savana (árvores esparsas, gramíneas). Muito usado hoje para o agronegócio.",
+      "tags": [
+        "brasil-fisico",
+        "biomas"
+      ],
+      "distractors": {
+        "easy": [
+          "A Amazônia",
+          "o Pampa",
+          "a Mata Atlântica"
+        ],
+        "medium": [
+          "A Caatinga",
+          "o Pantanal",
+          "os Mares de Morros"
+        ],
+        "hard": [
+          "A Mata de Araucárias",
+          "as Pradarias",
+          "a Floresta Estacional"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] Qual é o único bioma exclusivamente brasileiro (não existe em nenhum outro país)?",
+      "verso": "A Caatinga",
+      "explanation": "Erro comum é achar que a Amazônia é só do Brasil (ela se estende por vários países). A Caatinga, do semiárido nordestino, é o único bioma 100% brasileiro.",
+      "tags": [
+        "piege",
+        "brasil-fisico"
+      ],
+      "distractors": {
+        "easy": [
+          "A Amazônia",
+          "a Mata Atlântica",
+          "o Pampa"
+        ],
+        "medium": [
+          "O Cerrado",
+          "o Pantanal",
+          "os Mares de Morros"
+        ],
+        "hard": [
+          "A Mata de Araucárias",
+          "as Pradarias",
+          "a Floresta Amazônica apenas"
+        ]
+      }
+    },
+    {
+      "recto": "Bioma do semiárido nordestino, de clima seco, vegetação espinhosa e adaptada à falta de água.",
+      "verso": "A Caatinga",
+      "explanation": "Vegetação xerófila (adaptada à seca), com cactos e plantas que perdem folhas na estiagem. Domina o sertão nordestino de clima semiárido.",
+      "tags": [
+        "brasil-fisico",
+        "biomas"
+      ],
+      "distractors": {
+        "easy": [
+          "A Amazônia",
+          "o Pantanal úmido",
+          "a Mata Atlântica"
+        ],
+        "medium": [
+          "O Cerrado",
+          "o Pampa",
+          "a Mata de Araucárias"
+        ],
+        "hard": [
+          "Os Mares de Morros",
+          "as Pradarias",
+          "a Floresta Estacional"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] Qual a diferença entre o Cerrado e a Caatinga?",
+      "verso": "Cerrado: savana tropical com estação seca; Caatinga: semiárido, muito mais seco e espinhoso",
+      "explanation": "O Cerrado tem árvores e gramíneas de savana e chove mais; a Caatinga é do semiárido, com plantas xerófilas adaptadas à seca extrema. Não são o mesmo bioma seco.",
+      "tags": [
+        "comparaison",
+        "brasil-fisico"
+      ],
+      "distractors": {
+        "easy": [
+          "São exatamente o mesmo bioma",
+          "Cerrado é gelado; Caatinga é quente",
+          "Ambos são florestas úmidas"
+        ],
+        "medium": [
+          "Cerrado é semiárido; Caatinga é savana úmida",
+          "Ambos ficam na Amazônia",
+          "Cerrado é litorâneo; Caatinga é amazônica"
+        ],
+        "hard": [
+          "Cerrado é de araucárias; Caatinga é de pampa",
+          "Cerrado só existe no Brasil; Caatinga não",
+          "Ambos têm clima equatorial úmido"
+        ]
+      }
+    },
+    {
+      "recto": "Bioma de floresta que cobria o litoral brasileiro e hoje está muito reduzido pelo desmatamento.",
+      "verso": "A Mata Atlântica",
+      "explanation": "Floresta tropical úmida do litoral, uma das mais ricas do mundo. Foi devastada desde a colonização (restam poucos por cento). Corresponde aos Mares de Morros.",
+      "tags": [
+        "brasil-fisico",
+        "biomas"
+      ],
+      "distractors": {
+        "easy": [
+          "A Caatinga",
+          "o Pampa",
+          "o Pantanal"
+        ],
+        "medium": [
+          "O Cerrado",
+          "a Amazônia",
+          "as Pradarias"
+        ],
+        "hard": [
+          "A Mata de Araucárias",
+          "a Floresta Estacional apenas",
+          "o Manguezal apenas"
+        ]
+      }
+    },
+    {
+      "recto": "Bioma de campos do Sul do Brasil, de vegetação rasteira (gramíneas), usado para a pecuária.",
+      "verso": "O Pampa (Pradarias / Campos Sulinos)",
+      "explanation": "Domínio das pradarias, no Rio Grande do Sul. Campos de gramíneas em clima subtropical, tradicionalmente usados para a criação de gado.",
+      "tags": [
+        "brasil-fisico",
+        "biomas"
+      ],
+      "distractors": {
+        "easy": [
+          "A Amazônia",
+          "a Caatinga",
+          "o Pantanal"
+        ],
+        "medium": [
+          "O Cerrado",
+          "a Mata Atlântica",
+          "os Mares de Morros"
+        ],
+        "hard": [
+          "A Mata de Araucárias",
+          "a Floresta Amazônica",
+          "o Manguezal"
+        ]
+      }
+    },
+    {
+      "recto": "Bioma de planície alagável no Centro-Oeste, uma das maiores áreas úmidas do planeta.",
+      "verso": "O Pantanal",
+      "explanation": "Planície que alaga na estação chuvosa, com enorme biodiversidade de aves e peixes. Fica no Centro-Oeste, na bacia do rio Paraguai.",
+      "tags": [
+        "brasil-fisico",
+        "biomas"
+      ],
+      "distractors": {
+        "easy": [
+          "A Caatinga seca",
+          "o Pampa",
+          "o Cerrado"
+        ],
+        "medium": [
+          "A Amazônia",
+          "a Mata Atlântica",
+          "os Mares de Morros"
+        ],
+        "hard": [
+          "A Mata de Araucárias",
+          "as Pradarias",
+          "a Floresta Estacional"
+        ]
+      }
+    },
+    {
+      "recto": "Maior bacia hidrográfica do Brasil e do mundo em volume de água.",
+      "verso": "A bacia Amazônica",
+      "explanation": "Drenada pelo rio Amazonas e seus afluentes, tem imenso potencial hídrico. É a maior bacia do planeta em área e vazão.",
+      "tags": [
+        "brasil-fisico",
+        "hidrografia"
+      ],
+      "distractors": {
+        "easy": [
+          "A bacia do Tietê apenas",
+          "a bacia do Nilo",
+          "a bacia do Reno"
+        ],
+        "medium": [
+          "A bacia do Paraná",
+          "a bacia do São Francisco",
+          "a bacia do Tocantins-Araguaia"
+        ],
+        "hard": [
+          "A bacia do Prata apenas",
+          "a bacia do Parnaíba",
+          "a bacia Atlântica Nordeste"
+        ]
+      }
+    },
+    {
+      "recto": "Rio brasileiro conhecido como \"rio da integração nacional\", importante para o Nordeste semiárido.",
+      "verso": "O rio São Francisco",
+      "explanation": "Nasce em Minas Gerais e corta o semiárido nordestino, sendo vital para a região. Chamado de \"Velho Chico\", liga o Sudeste ao Nordeste.",
+      "tags": [
+        "brasil-fisico",
+        "hidrografia"
+      ],
+      "distractors": {
+        "easy": [
+          "O rio Amazonas",
+          "o rio Tietê",
+          "o rio Nilo"
+        ],
+        "medium": [
+          "O rio Paraná",
+          "o rio Tocantins",
+          "o rio Paraguai"
+        ],
+        "hard": [
+          "O rio Parnaíba",
+          "o rio Doce",
+          "o rio Jaguaribe"
+        ]
+      }
+    },
+    {
+      "recto": "Clima predominante na maior parte do território brasileiro, com verão chuvoso e inverno seco.",
+      "verso": "O clima tropical",
+      "explanation": "Domina grande parte do país (Centro-Oeste, Sudeste, parte do Nordeste). A Amazônia é equatorial (mais úmida); o Sul é subtropical; o sertão, semiárido.",
+      "tags": [
+        "brasil-fisico",
+        "clima"
+      ],
+      "distractors": {
+        "easy": [
+          "O clima polar",
+          "o clima desértico frio",
+          "o clima glacial"
+        ],
+        "medium": [
+          "O clima temperado continental",
+          "o clima mediterrâneo",
+          "o clima de tundra"
+        ],
+        "hard": [
+          "O clima subpolar",
+          "o clima árido em todo o país",
+          "o clima oceânico dominante"
+        ]
+      }
+    },
+    {
+      "recto": "Formas de relevo predominantes no Brasil, resultado de uma estrutura geológica antiga e desgastada.",
+      "verso": "Planaltos e depressões (relevo antigo e de baixas altitudes)",
+      "explanation": "O Brasil não tem grandes cadeias de montanhas jovens: predominam planaltos e depressões, com altitudes modestas, por estar no centro estável de uma placa.",
+      "tags": [
+        "brasil-fisico",
+        "relevo"
+      ],
+      "distractors": {
+        "easy": [
+          "Grandes vulcões ativos",
+          "altas cordilheiras jovens",
+          "geleiras e fiordes"
+        ],
+        "medium": [
+          "Cadeias como os Andes",
+          "cânions glaciais",
+          "montanhas dobradas recentes"
+        ],
+        "hard": [
+          "Dobramentos modernos elevados",
+          "picos acima de 8000 m",
+          "vulcões na costa leste"
+        ]
+      }
+    },
+    {
+      "recto": "Ponto mais alto do Brasil, localizado na fronteira norte, no estado do Amazonas.",
+      "verso": "O Pico da Neblina",
+      "explanation": "Com cerca de 2 995 m, é o ponto culminante do país. Fica na Serra do Imeri, na fronteira com a Venezuela — bem menos alto que picos andinos.",
+      "tags": [
+        "brasil-fisico",
+        "relevo"
+      ],
+      "distractors": {
+        "easy": [
+          "O Monte Everest",
+          "o Aconcágua",
+          "o Pão de Açúcar"
+        ],
+        "medium": [
+          "O Pico da Bandeira",
+          "o Monte Roraima",
+          "o Pico das Agulhas Negras"
+        ],
+        "hard": [
+          "O Pico 31 de Março",
+          "a Pedra da Mina",
+          "o Morro do Couto"
+        ]
+      }
+    },
+    {
+      "recto": "De modo geral, o que torna a natureza brasileira tão diversa?",
+      "verso": "A grande extensão territorial e a variedade de climas, relevos e biomas",
+      "explanation": "Do equador ao subtrópico, o Brasil reúne floresta, savana, semiárido, campos e áreas alagadas. Essa diversidade natural é uma marca do país.",
+      "tags": [
+        "brasil-fisico",
+        "sintese"
+      ],
+      "distractors": {
+        "easy": [
+          "O clima único em todo o país",
+          "o relevo montanhoso jovem",
+          "a ausência de rios"
+        ],
+        "medium": [
+          "A existência de um só bioma",
+          "o clima exclusivamente polar",
+          "a falta de florestas"
+        ],
+        "hard": [
+          "A uniformidade de paisagens",
+          "a presença de geleiras",
+          "o predomínio de desertos áridos"
+        ]
+      }
+    }
+  ]
+}

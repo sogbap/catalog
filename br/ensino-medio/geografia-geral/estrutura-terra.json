@@ -1,0 +1,432 @@
+{
+  "id": "br-ensino-medio-geografia-geral-estrutura-terra",
+  "title": "Estrutura da Terra e relevo",
+  "emoji": "🌋",
+  "subject": "geography",
+  "country": "br",
+  "courseDescription": "As camadas da Terra, a tectônica de placas e as forças que moldam o relevo: agentes internos (endógenos) e externos (exógenos).",
+  "lesson": "<style>\n  /* Estilos dos gráficos (SVG). Usam currentColor (texto) e var(--accent)\n     (cor da matéria), adaptando-se ao tema claro/escuro do app. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Estrutura da Terra e relevo</h1>\n\n<div class=\"callout\">\n  <strong>Pontos de estudo</strong><br>\n  <b>Nível:</b> Ensino Médio<br>\n  <b>Área:</b> Geografia Geral<br>\n  <b>Tema:</b> estrutura interna e formas do relevo\n</div>\n\n<blockquote>\n  <p><b>Questão central.</b> Que forças constroem as montanhas e, ao mesmo tempo, as destroem?</p>\n</blockquote>\n\n<p>A Terra tem três camadas — <strong>crosta</strong>, <strong>manto</strong> e <strong>núcleo</strong>. Sua superfície é dividida em <strong>placas tectônicas</strong> em movimento. O relevo resulta da disputa entre <strong>agentes internos</strong> (que constroem) e <strong>agentes externos</strong> (que desgastam).</p>\n\n<h2>1 · As camadas da Terra</h2>\n\n<p>Do centro à superfície: o <strong>núcleo</strong> (metálico e quentíssimo), o <strong>manto</strong> (pastoso, onde se forma o magma) e a <strong>crosta</strong> (fina e sólida, onde vivemos). A parte rígida forma a <strong>litosfera</strong>, fragmentada em placas.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 180\" role=\"img\" aria-label=\"As três camadas internas da Terra: crosta, manto e núcleo\">\n  <circle cx=\"170\" cy=\"90\" r=\"82\" style=\"fill:var(--accent);fill-opacity:.08;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <circle cx=\"170\" cy=\"90\" r=\"54\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <circle cx=\"170\" cy=\"90\" r=\"26\" style=\"fill:var(--accent);fill-opacity:.20;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"94\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Núcleo</text>\n  <line x1=\"170\" y1=\"90\" x2=\"286\" y2=\"42\" style=\"stroke:currentColor;stroke-opacity:.3;stroke-width:1\"/>\n  <text x=\"238\" y=\"30\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Crosta</text>\n  <text x=\"238\" y=\"42\" class=\"s-muted\" font-size=\"8.5\">fina e sólida</text>\n  <line x1=\"170\" y1=\"64\" x2=\"286\" y2=\"96\" style=\"stroke:currentColor;stroke-opacity:.3;stroke-width:1\"/>\n  <text x=\"252\" y=\"100\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Manto</text>\n  <text x=\"240\" y=\"112\" class=\"s-muted\" font-size=\"8.5\">pastoso (magma)</text>\n  <text x=\"14\" y=\"150\" class=\"s-muted\" font-size=\"9\">a litosfera (crosta + topo do manto)</text>\n  <text x=\"14\" y=\"164\" class=\"s-muted\" font-size=\"9\">está dividida em placas tectônicas</text>\n</svg>\n<figcaption>Da superfície ao centro: crosta, manto e núcleo.</figcaption>\n</figure>\n\n<h2>2 · Placas tectônicas e agentes internos</h2>\n\n<p>A <strong>tectônica de placas</strong> explica que a litosfera está fragmentada em blocos que se movem sobre o manto. Seus encontros geram <strong>terremotos</strong>, <strong>vulcões</strong> e <strong>montanhas</strong>. Essas forças, vindas do interior, são os <strong>agentes internos (endógenos)</strong>: elas <strong>constroem</strong> o relevo.</p>\n\n<div class=\"callout\">\n  <strong>Conceito · Agentes internos × externos</strong><br>\n  Os <b>internos</b> (vulcanismo, tectonismo) elevam e constroem o relevo. Os <b>externos</b> (intemperismo, erosão) o desgastam e aplainam. O relevo é o equilíbrio entre os dois.\n</div>\n\n<h2>3 · Agentes externos: desgastar e aplainar</h2>\n\n<p>Na superfície, o <strong>intemperismo</strong> decompõe as rochas e a <strong>erosão</strong> (água, vento, gelo) transporta os fragmentos. São os <strong>agentes externos (exógenos)</strong>: eles <strong>desgastam</strong> o relevo. Assim se formam <strong>planaltos</strong> (desgaste) e <strong>planícies</strong> (deposição).</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 150\" role=\"img\" aria-label=\"A disputa entre agentes internos que constroem e agentes externos que desgastam o relevo\">\n  <defs>\n    <marker id=\"ar-gest1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">o relevo, entre construção e desgaste</text>\n  <rect x=\"12\" y=\"30\" width=\"150\" height=\"108\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">Internos</text>\n  <text x=\"87\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">vulcanismo</text>\n  <text x=\"87\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">tectonismo</text>\n  <text x=\"87\" y=\"116\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">constroem ↑</text>\n  <rect x=\"178\" y=\"30\" width=\"150\" height=\"108\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">Externos</text>\n  <text x=\"253\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">intemperismo</text>\n  <text x=\"253\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">erosão</text>\n  <text x=\"253\" y=\"116\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">desgastam ↓</text>\n</svg>\n<figcaption>Duas forças opostas moldam continuamente a superfície terrestre.</figcaption>\n</figure>\n\n<h2>4 · Os três tipos de rocha</h2>\n\n<p>As rochas se dividem em <strong>ígneas</strong> (do magma, como o granito), <strong>sedimentares</strong> (de sedimentos, onde há fósseis e petróleo) e <strong>metamórficas</strong> (transformadas por calor e pressão, como o mármore). Elas se transformam umas nas outras no <strong>ciclo das rochas</strong>.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Os três tipos de rocha: ígneas, sedimentares e metamórficas\">\n  <rect x=\"8\" y=\"34\" width=\"100\" height=\"72\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">Ígneas</text>\n  <text x=\"58\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">do magma</text>\n  <text x=\"58\" y=\"94\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">granito, basalto</text>\n  <rect x=\"120\" y=\"34\" width=\"100\" height=\"72\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"54\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Sediment.</text>\n  <text x=\"170\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">de sedimentos</text>\n  <text x=\"170\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">fósseis, petróleo</text>\n  <rect x=\"232\" y=\"34\" width=\"100\" height=\"72\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"54\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Metamórf.</text>\n  <text x=\"282\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">calor e pressão</text>\n  <text x=\"282\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">mármore, gnaisse</text>\n</svg>\n<figcaption>Três famílias de rocha que se transformam no ciclo das rochas.</figcaption>\n</figure>\n\n<h2>O essencial</h2>\n\n<h3>Estrutura em números</h3>\n\n<table>\n  <tr><th>Camada</th><th>Característica</th></tr>\n  <tr><td>Crosta</td><td>Fina e sólida; a mais externa</td></tr>\n  <tr><td>Manto</td><td>Intermediária; pastosa (magma)</td></tr>\n  <tr><td>Núcleo</td><td>Central; metálico e muito quente</td></tr>\n</table>\n\n<h3>Termos-chave</h3>\n\n<table>\n  <tr><th>Termo</th><th>Significado</th></tr>\n  <tr><td>Tectônica de placas</td><td>Blocos da litosfera em movimento</td></tr>\n  <tr><td>Agentes internos</td><td>Constroem o relevo (vulcões, tectonismo)</td></tr>\n  <tr><td>Agentes externos</td><td>Desgastam o relevo (erosão, intemperismo)</td></tr>\n  <tr><td>Intemperismo</td><td>Decomposição das rochas</td></tr>\n  <tr><td>Erosão</td><td>Desgaste e transporte de sedimentos</td></tr>\n</table>\n\n<h3>Formas de relevo</h3>\n\n<table>\n  <tr><th>Forma</th><th>Origem</th></tr>\n  <tr><td>Montanhas</td><td>Choque de placas / vulcanismo</td></tr>\n  <tr><td>Planaltos</td><td>Áreas altas onde há desgaste</td></tr>\n  <tr><td>Planícies</td><td>Áreas baixas de deposição</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  O Brasil <b>não</b> tem terremotos fortes nem vulcões ativos: fica no <b>centro</b> da Placa Sul-Americana, uma zona estável. Esses fenômenos ocorrem nas <b>bordas</b> das placas (Andes, Japão). E não troque os papéis: agentes <b>internos constroem</b>, externos <b>desgastam</b>.\n</div>\n\n<blockquote>\n  <p>Nada no relevo é definitivo: montanhas se erguem e se desgastam ao longo de milhões de anos. A paisagem que vemos é apenas um instante nessa disputa entre o interior e a superfície da Terra.</p>\n</blockquote>\n",
+  "questionLang": "pt",
+  "answerLang": "pt",
+  "version": 1,
+  "level": "Ensino Médio",
+  "theme": "Geografia Geral",
+  "cards": [
+    {
+      "recto": "Quais são as três camadas principais da estrutura interna da Terra, da superfície ao centro?",
+      "verso": "Crosta, manto e núcleo",
+      "explanation": "A crosta é a fina camada sólida externa; o manto é a camada intermediária (parcialmente pastosa); o núcleo é o centro metálico e muito quente.",
+      "tags": [
+        "estrutura-terra",
+        "camadas"
+      ],
+      "distractors": {
+        "easy": [
+          "Água, ar e terra",
+          "Norte, centro e sul",
+          "Litosfera, hidrosfera e atmosfera"
+        ],
+        "medium": [
+          "Crosta, litosfera e astenosfera",
+          "Manto, magma e lava",
+          "Placas, falhas e dobras"
+        ],
+        "hard": [
+          "Crosta, mesosfera e núcleo",
+          "SIAL, SIMA e NIFE apenas",
+          "Crosta, manto e astenosfera"
+        ]
+      }
+    },
+    {
+      "recto": "Camada mais externa e sólida da Terra, onde vivemos e se formam os continentes.",
+      "verso": "A crosta terrestre",
+      "explanation": "É a camada mais fina, dividida em crosta continental e oceânica. Junto com a parte rígida do manto forma a litosfera, fragmentada em placas.",
+      "tags": [
+        "estrutura-terra",
+        "camadas"
+      ],
+      "distractors": {
+        "easy": [
+          "O núcleo",
+          "O manto",
+          "A atmosfera"
+        ],
+        "medium": [
+          "A astenosfera",
+          "O magma",
+          "A hidrosfera"
+        ],
+        "hard": [
+          "A mesosfera",
+          "O núcleo externo",
+          "A biosfera"
+        ]
+      }
+    },
+    {
+      "recto": "Teoria que explica que a superfície da Terra é formada por grandes blocos rígidos em movimento.",
+      "verso": "A tectônica de placas",
+      "explanation": "As placas tectônicas flutuam sobre o manto e se movem lentamente. Seus encontros e afastamentos geram terremotos, vulcões e montanhas.",
+      "tags": [
+        "estrutura-terra",
+        "tectonica"
+      ],
+      "distractors": {
+        "easy": [
+          "A teoria da gravidade",
+          "A teoria da evolução",
+          "O ciclo da água"
+        ],
+        "medium": [
+          "A deriva dos ventos",
+          "A teoria do Big Bang",
+          "O ciclo das rochas"
+        ],
+        "hard": [
+          "A isostasia",
+          "A teoria geossinclinal",
+          "O tectonismo vertical apenas"
+        ]
+      }
+    },
+    {
+      "recto": "Forças que vêm do interior da Terra e constroem o relevo (montanhas, vulcões).",
+      "verso": "Os agentes internos (endógenos)",
+      "explanation": "O tectonismo, o vulcanismo e os terremotos vêm da energia interna da Terra. Tendem a construir e elevar o relevo.",
+      "tags": [
+        "estrutura-terra",
+        "agentes"
+      ],
+      "distractors": {
+        "easy": [
+          "A chuva e o vento",
+          "O Sol e a Lua",
+          "Os rios e o mar"
+        ],
+        "medium": [
+          "O intemperismo",
+          "A erosão",
+          "A sedimentação"
+        ],
+        "hard": [
+          "Os agentes exógenos",
+          "A ação dos glaciares",
+          "O transporte fluvial"
+        ]
+      }
+    },
+    {
+      "recto": "Forças externas que desgastam e aplainam o relevo, como chuva, vento e rios.",
+      "verso": "Os agentes externos (exógenos)",
+      "explanation": "O intemperismo e a erosão (água, vento, gelo) desgastam as rochas. Tendem a destruir e nivelar o relevo, ao contrário dos agentes internos.",
+      "tags": [
+        "estrutura-terra",
+        "agentes"
+      ],
+      "distractors": {
+        "easy": [
+          "Os vulcões",
+          "Os terremotos",
+          "O magma"
+        ],
+        "medium": [
+          "O tectonismo",
+          "O vulcanismo",
+          "As placas tectônicas"
+        ],
+        "hard": [
+          "Os agentes endógenos",
+          "O dobramento",
+          "O falhamento"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] Qual a diferença entre os agentes internos e os agentes externos do relevo?",
+      "verso": "Internos constroem/elevam o relevo; externos desgastam/aplainam",
+      "explanation": "Os endógenos (vulcanismo, tectonismo) criam montanhas; os exógenos (erosão, intemperismo) as desgastam. O relevo resulta da disputa entre os dois.",
+      "tags": [
+        "comparaison",
+        "estrutura-terra"
+      ],
+      "distractors": {
+        "easy": [
+          "Internos desgastam; externos constroem",
+          "Ambos só constroem",
+          "Ambos só desgastam"
+        ],
+        "medium": [
+          "Internos são a chuva; externos são os vulcões",
+          "Internos aplainam; externos elevam",
+          "Não há diferença entre eles"
+        ],
+        "hard": [
+          "Internos são a erosão; externos o tectonismo",
+          "Ambos vêm do Sol",
+          "Internos agem no mar; externos na terra"
+        ]
+      }
+    },
+    {
+      "recto": "Processo de decomposição e desagregação das rochas pela ação do clima e dos seres vivos.",
+      "verso": "O intemperismo",
+      "explanation": "Pode ser físico (variação de temperatura), químico (reações com a água) ou biológico. É o primeiro passo antes da erosão levar os fragmentos.",
+      "tags": [
+        "estrutura-terra",
+        "processos"
+      ],
+      "distractors": {
+        "easy": [
+          "O vulcanismo",
+          "O terremoto",
+          "O tectonismo"
+        ],
+        "medium": [
+          "A sedimentação",
+          "O dobramento",
+          "A subducção"
+        ],
+        "hard": [
+          "A erosão apenas",
+          "O metamorfismo",
+          "A isostasia"
+        ]
+      }
+    },
+    {
+      "recto": "Processo de desgaste e transporte de sedimentos pela água, pelo vento ou pelo gelo.",
+      "verso": "A erosão",
+      "explanation": "Depois do intemperismo, a erosão arranca e transporta os fragmentos. A erosão fluvial (rios), eólica (vento) e marinha moldam paisagens.",
+      "tags": [
+        "estrutura-terra",
+        "processos"
+      ],
+      "distractors": {
+        "easy": [
+          "O vulcanismo",
+          "O tectonismo",
+          "O terremoto"
+        ],
+        "medium": [
+          "O dobramento",
+          "A subducção",
+          "O magmatismo"
+        ],
+        "hard": [
+          "O intemperismo apenas",
+          "A isostasia",
+          "A orogênese"
+        ]
+      }
+    },
+    {
+      "recto": "Formas de relevo elevadas e acidentadas, geralmente formadas por agentes internos.",
+      "verso": "As montanhas",
+      "explanation": "Resultam do choque de placas (dobramentos) ou do vulcanismo. As mais altas e jovens, como o Himalaia e os Andes, ficam em bordas de placas.",
+      "tags": [
+        "estrutura-terra",
+        "relevo"
+      ],
+      "distractors": {
+        "easy": [
+          "As planícies",
+          "os oceanos",
+          "os desertos"
+        ],
+        "medium": [
+          "Os planaltos",
+          "As depressões",
+          "as bacias"
+        ],
+        "hard": [
+          "As planícies aluviais",
+          "os tabuleiros",
+          "as chapadas apenas"
+        ]
+      }
+    },
+    {
+      "recto": "Superfícies mais ou menos planas e elevadas, onde predomina o desgaste (erosão).",
+      "verso": "Os planaltos",
+      "explanation": "São áreas altas onde a erosão supera a deposição. Grande parte do território brasileiro é formada por planaltos antigos e desgastados.",
+      "tags": [
+        "estrutura-terra",
+        "relevo"
+      ],
+      "distractors": {
+        "easy": [
+          "As montanhas",
+          "os oceanos",
+          "os vulcões"
+        ],
+        "medium": [
+          "As planícies",
+          "as fossas",
+          "as cordilheiras"
+        ],
+        "hard": [
+          "As planícies costeiras",
+          "as depressões absolutas",
+          "os dobramentos modernos"
+        ]
+      }
+    },
+    {
+      "recto": "Áreas baixas e planas, formadas pela deposição (acúmulo) de sedimentos.",
+      "verso": "As planícies",
+      "explanation": "Onde a deposição supera a erosão, formam-se planícies (fluviais, costeiras). O Pantanal e a planície amazônica são exemplos brasileiros.",
+      "tags": [
+        "estrutura-terra",
+        "relevo"
+      ],
+      "distractors": {
+        "easy": [
+          "As montanhas",
+          "os planaltos",
+          "os vulcões"
+        ],
+        "medium": [
+          "As cordilheiras",
+          "os dobramentos",
+          "as chapadas"
+        ],
+        "hard": [
+          "Os escudos cristalinos",
+          "as serras",
+          "os planaltos residuais"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] Os terremotos e vulcões são frequentes no Brasil?",
+      "verso": "Não; o Brasil fica no meio de uma placa, longe das bordas",
+      "explanation": "Erro comum. O Brasil está no centro da Placa Sul-Americana, uma área estável. Terremotos fortes e vulcões ativos ocorrem nas bordas das placas.",
+      "tags": [
+        "piege",
+        "estrutura-terra"
+      ],
+      "distractors": {
+        "easy": [
+          "Sim, são muito frequentes",
+          "Sim, há vários vulcões ativos",
+          "Sim, como no Japão"
+        ],
+        "medium": [
+          "Sim, por estar numa borda de placa",
+          "Sim, por causa dos Andes",
+          "Sim, na costa leste"
+        ],
+        "hard": [
+          "Sim, na zona de subducção brasileira",
+          "Sim, na falha de Santo André",
+          "Sim, no Círculo de Fogo"
+        ]
+      }
+    },
+    {
+      "recto": "Rochas formadas pela solidificação do magma, como o granito e o basalto.",
+      "verso": "As rochas ígneas (magmáticas)",
+      "explanation": "Nascem do resfriamento do magma, no interior (granito) ou na superfície (basalto). São um dos três grandes tipos de rocha.",
+      "tags": [
+        "estrutura-terra",
+        "rochas"
+      ],
+      "distractors": {
+        "easy": [
+          "As rochas sedimentares",
+          "As rochas metamórficas",
+          "O solo"
+        ],
+        "medium": [
+          "As rochas calcárias",
+          "O arenito",
+          "O mármore"
+        ],
+        "hard": [
+          "As rochas detríticas",
+          "O gnaisse",
+          "O calcário orgânico"
+        ]
+      }
+    },
+    {
+      "recto": "Rochas formadas pelo acúmulo e compactação de sedimentos, onde se encontram fósseis e petróleo.",
+      "verso": "As rochas sedimentares",
+      "explanation": "Formam-se em camadas, pela deposição de sedimentos (arenito, calcário). Guardam fósseis e recursos como carvão e petróleo.",
+      "tags": [
+        "estrutura-terra",
+        "rochas"
+      ],
+      "distractors": {
+        "easy": [
+          "As rochas ígneas",
+          "O magma",
+          "A lava"
+        ],
+        "medium": [
+          "As rochas metamórficas",
+          "O granito",
+          "O basalto"
+        ],
+        "hard": [
+          "As rochas magmáticas extrusivas",
+          "O mármore",
+          "o gnaisse"
+        ]
+      }
+    },
+    {
+      "recto": "Rochas transformadas por altas pressões e temperaturas, como o mármore e o gnaisse.",
+      "verso": "As rochas metamórficas",
+      "explanation": "Nascem da transformação de outras rochas sob calor e pressão (o calcário vira mármore; o granito vira gnaisse). Completam o ciclo das rochas.",
+      "tags": [
+        "estrutura-terra",
+        "rochas"
+      ],
+      "distractors": {
+        "easy": [
+          "As rochas ígneas",
+          "As rochas sedimentares",
+          "O solo"
+        ],
+        "medium": [
+          "O granito",
+          "o arenito",
+          "o basalto"
+        ],
+        "hard": [
+          "As rochas magmáticas",
+          "o calcário",
+          "as rochas detríticas"
+        ]
+      }
+    },
+    {
+      "recto": "De modo geral, o relevo atual da Terra é o resultado de quê?",
+      "verso": "Da ação combinada de agentes internos (construção) e externos (desgaste)",
+      "explanation": "O relevo é dinâmico: forças internas o elevam, forças externas o desgastam. O que vemos é o equilíbrio momentâneo dessa disputa constante.",
+      "tags": [
+        "estrutura-terra",
+        "sintese"
+      ],
+      "distractors": {
+        "easy": [
+          "Só da chuva",
+          "Só dos vulcões",
+          "De nada, é fixo"
+        ],
+        "medium": [
+          "Apenas de agentes internos",
+          "Apenas da erosão",
+          "Somente da ação humana"
+        ],
+        "hard": [
+          "Só do movimento dos oceanos",
+          "Apenas do vento",
+          "Somente de meteoritos"
+        ]
+      }
+    }
+  ]
+}

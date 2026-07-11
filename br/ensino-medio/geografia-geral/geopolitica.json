@@ -1,0 +1,432 @@
+{
+  "id": "br-ensino-medio-geografia-geral-geopolitica",
+  "title": "Geopolítica e a nova ordem mundial",
+  "emoji": "🌍",
+  "subject": "geography",
+  "country": "br",
+  "courseDescription": "Da ordem bipolar da Guerra Fria ao mundo multipolar atual: potências, conflitos, organismos internacionais e a geopolítica dos recursos.",
+  "lesson": "<style>\n  /* Estilos dos gráficos (SVG). Usam currentColor (texto) e var(--accent)\n     (cor da matéria), adaptando-se ao tema claro/escuro do app. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Geopolítica e a nova ordem mundial</h1>\n\n<div class=\"callout\">\n  <strong>Pontos de estudo</strong><br>\n  <b>Nível:</b> Ensino Médio<br>\n  <b>Área:</b> Geografia Geral<br>\n  <b>Tema:</b> poder, conflitos e ordem mundial\n</div>\n\n<blockquote>\n  <p><b>Questão central.</b> Quem manda no mundo depois do fim da Guerra Fria?</p>\n</blockquote>\n\n<p>A <strong>geopolítica</strong> estuda a relação entre poder e espaço. Durante a Guerra Fria, o mundo era <strong>bipolar</strong> (EUA × URSS). Com a <strong>queda do Muro</strong> (1989) e o fim da <strong>URSS</strong> (1991), passou por uma fase <strong>unipolar</strong> e caminha hoje para uma ordem <strong>multipolar</strong>, com vários centros de poder.</p>\n\n<h2>1 · Da ordem bipolar ao fim da Guerra Fria</h2>\n\n<p>De 1947 a 1991, o mundo dividiu-se entre o bloco <strong>capitalista</strong> (EUA) e o <strong>socialista</strong> (URSS). A <strong>queda do Muro de Berlim</strong> (1989) e a <strong>desintegração da URSS</strong> (1991) encerraram essa <strong>ordem bipolar</strong>.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"O fim da Guerra Fria: queda do Muro de Berlim e desintegração da URSS\">\n  <defs>\n    <marker id=\"ar-ggeo2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"40\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"56\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Guerra Fria</text>\n  <text x=\"56\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">EUA × URSS</text>\n  <path d=\"M104,66 L122,66\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ggeo2)\"/>\n  <rect x=\"126\" y=\"40\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"172\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Queda do Muro</text>\n  <text x=\"172\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">1989</text>\n  <path d=\"M218,66 L236,66\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ggeo2)\"/>\n  <rect x=\"240\" y=\"40\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Fim da URSS</text>\n  <text x=\"286\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">1991</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">o desfecho da Guerra Fria</text>\n</svg>\n<figcaption>Em poucos anos, a ordem bipolar chegou ao fim.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Conceito · Ordem mundial</strong><br>\n  A forma como o poder se distribui entre os países. Foi <b>bipolar</b> na Guerra Fria (dois polos), <b>unipolar</b> nos anos 1990 (só os EUA) e hoje tende ao <b>multipolar</b> (vários polos).\n</div>\n\n<h2>2 · A nova ordem multipolar</h2>\n\n<p>Nos anos 1990, os EUA foram a única superpotência (<strong>ordem unipolar</strong>). Mas a ascensão da <strong>China</strong>, o peso da <strong>União Europeia</strong>, a <strong>Rússia</strong> e emergentes como os <strong>BRICS</strong> criaram um mundo com <strong>vários centros de poder</strong>: a ordem <strong>multipolar</strong>.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 150\" role=\"img\" aria-label=\"Da ordem bipolar da Guerra Fria à ordem multipolar atual\">\n  <defs>\n    <marker id=\"ar-ggeo1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"80\" y=\"16\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Bipolar (Guerra Fria)</text>\n  <rect x=\"24\" y=\"26\" width=\"50\" height=\"34\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.2\"/>\n  <text x=\"49\" y=\"47\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">EUA</text>\n  <rect x=\"88\" y=\"26\" width=\"50\" height=\"34\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.2\"/>\n  <text x=\"113\" y=\"47\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">URSS</text>\n  <path d=\"M160,45 L188,45\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ggeo1)\"/>\n  <text x=\"174\" y=\"38\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">1991</text>\n  <text x=\"258\" y=\"16\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Multipolar (hoje)</text>\n  <rect x=\"204\" y=\"26\" width=\"42\" height=\"26\" rx=\"8\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1\"/>\n  <text x=\"225\" y=\"43\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">EUA</text>\n  <rect x=\"250\" y=\"26\" width=\"42\" height=\"26\" rx=\"8\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1\"/>\n  <text x=\"271\" y=\"43\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">China</text>\n  <rect x=\"296\" y=\"26\" width=\"40\" height=\"26\" rx=\"8\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1\"/>\n  <text x=\"316\" y=\"43\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8\" font-weight=\"700\">UE</text>\n  <rect x=\"204\" y=\"56\" width=\"42\" height=\"26\" rx=\"8\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1\"/>\n  <text x=\"225\" y=\"73\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8\" font-weight=\"700\">Rússia</text>\n  <rect x=\"250\" y=\"56\" width=\"86\" height=\"26\" rx=\"8\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1\"/>\n  <text x=\"293\" y=\"73\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">BRICS / emergentes</text>\n  <text x=\"170\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">de dois polos a vários centros de poder</text>\n</svg>\n<figcaption>O fim da URSS abriu caminho para um mundo com muitos centros de poder.</figcaption>\n</figure>\n\n<h2>3 · Conflitos do século XXI</h2>\n\n<p>Os conflitos mudaram de natureza. O <strong>11 de Setembro</strong> (2001) inaugurou a \"guerra ao terror\". Muitas guerras são hoje <strong>étnico-culturais</strong> ou <strong>religiosas</strong>, e há forte disputa pela <strong>geopolítica dos recursos</strong> (petróleo, água). A <strong>guerra na Ucrânia</strong> mostra que as tensões entre potências não acabaram.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Os tipos de conflito do mundo atual: terrorismo, étnico-religiosos e disputa por recursos\">\n  <rect x=\"8\" y=\"34\" width=\"100\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Terrorismo</text>\n  <text x=\"58\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">11 de Setembro</text>\n  <text x=\"58\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">guerra ao terror</text>\n  <rect x=\"120\" y=\"34\" width=\"100\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Étnico-</text>\n  <text x=\"170\" y=\"66\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">religiosos</text>\n  <text x=\"170\" y=\"86\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">identidade,</text>\n  <text x=\"170\" y=\"99\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">fronteiras</text>\n  <rect x=\"232\" y=\"34\" width=\"100\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Recursos</text>\n  <text x=\"282\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">petróleo, água,</text>\n  <text x=\"282\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">minerais</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">conflitos do mundo atual</text>\n</svg>\n<figcaption>Sem a bipolaridade, os conflitos passaram a ter outras causas.</figcaption>\n</figure>\n\n<h2>4 · As instituições da ordem mundial</h2>\n\n<p>A <strong>ONU</strong> (1945) busca a paz e a cooperação; seu Conselho de Segurança tem 5 membros permanentes com <strong>veto</strong>. A <strong>OTAN</strong>, aliança militar ocidental, sobreviveu à Guerra Fria e sua expansão gera tensão com a <strong>Rússia</strong>.</p>\n\n<h2>O essencial</h2>\n\n<h3>Da bipolaridade à multipolaridade</h3>\n\n<table>\n  <tr><th>Data</th><th>Acontecimento</th></tr>\n  <tr><td>1947-1991</td><td>Ordem bipolar (EUA × URSS)</td></tr>\n  <tr><td>1989</td><td>Queda do Muro de Berlim</td></tr>\n  <tr><td>1991</td><td>Fim da URSS</td></tr>\n  <tr><td>Anos 1990</td><td>Ordem unipolar (EUA)</td></tr>\n  <tr><td>2001</td><td>11 de Setembro</td></tr>\n  <tr><td>Hoje</td><td>Ordem multipolar</td></tr>\n</table>\n\n<h3>Termos-chave</h3>\n\n<table>\n  <tr><th>Termo</th><th>Significado</th></tr>\n  <tr><td>Geopolítica</td><td>Relação entre poder e espaço</td></tr>\n  <tr><td>Ordem bipolar</td><td>Dois polos (Guerra Fria)</td></tr>\n  <tr><td>Ordem multipolar</td><td>Vários centros de poder</td></tr>\n  <tr><td>BRICS</td><td>Emergentes de peso crescente</td></tr>\n  <tr><td>Geopolítica dos recursos</td><td>Disputa por petróleo, água, minerais</td></tr>\n</table>\n\n<h3>Instituições</h3>\n\n<table>\n  <tr><th>Sigla</th><th>O que é</th></tr>\n  <tr><td>ONU</td><td>Paz e cooperação (desde 1945)</td></tr>\n  <tr><td>OTAN</td><td>Aliança militar ocidental</td></tr>\n  <tr><td>Conselho de Segurança</td><td>5 membros permanentes com veto</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  O mundo <b>não</b> se divide mais entre EUA e URSS: a <b>URSS acabou em 1991</b> e a Guerra Fria terminou. Hoje o poder é <b>multipolar</b> (EUA, China, UE, Rússia, emergentes) — não confunda com a antiga ordem bipolar.\n</div>\n\n<blockquote>\n  <p>A geopolítica não parou com o fim da Guerra Fria: apenas mudou de forma. Num mundo multipolar, entender quem disputa o poder — e por quê — é a chave para ler os conflitos do nosso tempo.</p>\n</blockquote>\n",
+  "questionLang": "pt",
+  "answerLang": "pt",
+  "version": 1,
+  "level": "Ensino Médio",
+  "theme": "Geografia Geral",
+  "cards": [
+    {
+      "recto": "Estudo das relações entre o poder político e o espaço geográfico (territórios, fronteiras, recursos).",
+      "verso": "A geopolítica",
+      "explanation": "Analisa como Estados disputam poder, territórios e recursos. Ajuda a entender guerras, fronteiras e a ordem mundial.",
+      "tags": [
+        "geopolitica",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "A demografia",
+          "a cartografia",
+          "a climatologia"
+        ],
+        "medium": [
+          "A geografia física",
+          "a geologia",
+          "a topografia"
+        ],
+        "hard": [
+          "A geoeconomia apenas",
+          "a biogeografia",
+          "a geografia urbana apenas"
+        ]
+      }
+    },
+    {
+      "recto": "Ordem mundial da Guerra Fria, marcada pela disputa entre dois grandes polos de poder.",
+      "verso": "A ordem bipolar (EUA × URSS)",
+      "explanation": "De 1947 a 1991, o mundo se dividiu entre o bloco capitalista (EUA) e o socialista (URSS). Cada superpotência liderava um lado.",
+      "tags": [
+        "geopolitica",
+        "guerra-fria"
+      ],
+      "distractors": {
+        "easy": [
+          "A ordem multipolar",
+          "a ordem unipolar",
+          "o feudalismo"
+        ],
+        "medium": [
+          "A ordem colonial",
+          "a Pax Romana",
+          "o mundo tripolar"
+        ],
+        "hard": [
+          "A ordem westfaliana",
+          "o concerto europeu",
+          "a ordem imperial"
+        ]
+      }
+    },
+    {
+      "recto": "Acontecimento de 1989 que simbolizou o fim da divisão da Europa e o começo do fim da Guerra Fria.",
+      "verso": "A queda do Muro de Berlim",
+      "explanation": "O muro separava a Alemanha capitalista da socialista. Sua queda marcou o colapso do bloco soviético e a reunificação alemã (1990).",
+      "tags": [
+        "geopolitica",
+        "guerra-fria"
+      ],
+      "distractors": {
+        "easy": [
+          "A queda da Bastilha",
+          "o 11 de Setembro",
+          "a Revolução Russa"
+        ],
+        "medium": [
+          "A crise dos mísseis",
+          "a Guerra do Vietnã",
+          "a Guerra da Coreia"
+        ],
+        "hard": [
+          "A Primavera de Praga",
+          "o Pacto de Varsóvia",
+          "a Doutrina Truman"
+        ]
+      }
+    },
+    {
+      "recto": "O que aconteceu com a União Soviética em 1991, encerrando definitivamente a Guerra Fria?",
+      "verso": "A URSS se desintegrou (acabou)",
+      "explanation": "A URSS se fragmentou em vários países (Rússia e outros). Sem seu rival socialista, os EUA emergiram como única superpotência.",
+      "tags": [
+        "geopolitica",
+        "guerra-fria"
+      ],
+      "distractors": {
+        "easy": [
+          "A URSS venceu a guerra",
+          "a URSS invadiu os EUA",
+          "nada mudou"
+        ],
+        "medium": [
+          "A URSS se aliou aos EUA",
+          "a URSS virou monarquia",
+          "a URSS cresceu"
+        ],
+        "hard": [
+          "A URSS absorveu a Europa",
+          "a URSS adotou o capitalismo sem se dividir",
+          "a URSS fundou a UE"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] Qual a diferença entre a ordem bipolar da Guerra Fria e a ordem mundial atual?",
+      "verso": "Bipolar: dois polos (EUA e URSS); atual: multipolar (vários centros de poder)",
+      "explanation": "Antes, o poder se concentrava em duas superpotências. Hoje há vários polos — EUA, China, União Europeia, Rússia — num mundo multipolar.",
+      "tags": [
+        "comparaison",
+        "geopolitica"
+      ],
+      "distractors": {
+        "easy": [
+          "Não há diferença nenhuma",
+          "Bipolar e atual são iguais",
+          "As duas têm um só polo"
+        ],
+        "medium": [
+          "Bipolar: vários polos; atual: dois polos",
+          "As duas são unipolares",
+          "A atual voltou a ser EUA × URSS"
+        ],
+        "hard": [
+          "Bipolar: sem polos; atual: bipolar",
+          "A atual é dominada só pela URSS",
+          "As duas são multipolares idênticas"
+        ]
+      }
+    },
+    {
+      "recto": "Como ficou o mundo logo após o fim da URSS, com os EUA como única superpotência?",
+      "verso": "Uma ordem unipolar (hegemonia dos EUA)",
+      "explanation": "Nos anos 1990, os EUA eram a única superpotência militar e econômica. Com o tempo, a ascensão de China e outros levou a um mundo mais multipolar.",
+      "tags": [
+        "geopolitica",
+        "nova-ordem"
+      ],
+      "distractors": {
+        "easy": [
+          "Uma ordem bipolar",
+          "o feudalismo",
+          "o colonialismo"
+        ],
+        "medium": [
+          "Uma ordem tripolar fixa",
+          "o mundo socialista",
+          "a Pax Sovietica"
+        ],
+        "hard": [
+          "A ordem westfaliana",
+          "o concerto europeu",
+          "a ordem colonial clássica"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] O mundo atual ainda se divide entre EUA e URSS, como na Guerra Fria?",
+      "verso": "Não; a URSS acabou em 1991 e o mundo é multipolar",
+      "explanation": "Erro comum. A Guerra Fria terminou: a URSS não existe mais. Hoje o poder se distribui entre vários polos (EUA, China, UE, Rússia), num mundo multipolar.",
+      "tags": [
+        "piege",
+        "geopolitica"
+      ],
+      "distractors": {
+        "easy": [
+          "Sim, ainda é EUA × URSS",
+          "Sim, a Guerra Fria continua igual",
+          "Sim, a URSS domina o mundo"
+        ],
+        "medium": [
+          "Sim, a URSS foi recriada",
+          "Sim, o mundo é bipolar como antes",
+          "Não, mas ainda há só um polo"
+        ],
+        "hard": [
+          "Sim, EUA e Rússia são o mesmo bloco da URSS",
+          "Sim, num novo mundo bipolar idêntico",
+          "Não, mas a China substituiu a URSS num mundo bipolar"
+        ]
+      }
+    },
+    {
+      "recto": "Potência asiática que mais cresceu nas últimas décadas e hoje rivaliza economicamente com os EUA.",
+      "verso": "A China",
+      "explanation": "Com forte crescimento, tornou-se a segunda maior economia do mundo e um polo central da ordem multipolar, desafiando a liderança dos EUA.",
+      "tags": [
+        "geopolitica",
+        "potencias"
+      ],
+      "distractors": {
+        "easy": [
+          "A Bélgica",
+          "o Uruguai",
+          "Portugal"
+        ],
+        "medium": [
+          "A Rússia",
+          "o Japão",
+          "a Índia"
+        ],
+        "hard": [
+          "A Coreia do Sul",
+          "a Indonésia",
+          "o Vietnã"
+        ]
+      }
+    },
+    {
+      "recto": "Atentado de 2001 nos EUA que marcou a geopolítica do início do século XXI e a \"guerra ao terror\".",
+      "verso": "O 11 de Setembro (ataque às Torres Gêmeas)",
+      "explanation": "Ataques da Al-Qaeda destruíram o World Trade Center. Levaram os EUA a invadir o Afeganistão e o Iraque, redefinindo conflitos globais.",
+      "tags": [
+        "geopolitica",
+        "conflitos"
+      ],
+      "distractors": {
+        "easy": [
+          "A queda do Muro de Berlim",
+          "a Revolução Russa",
+          "o Dia D"
+        ],
+        "medium": [
+          "A crise dos mísseis",
+          "a Guerra do Golfo",
+          "a Primavera Árabe"
+        ],
+        "hard": [
+          "O atentado de Oklahoma",
+          "a Guerra da Chechênia",
+          "os ataques de Londres"
+        ]
+      }
+    },
+    {
+      "recto": "Principal organização internacional criada em 1945 para promover a paz e a cooperação entre os países.",
+      "verso": "A ONU (Organização das Nações Unidas)",
+      "explanation": "Reúne quase todos os países. Seu Conselho de Segurança tem 5 membros permanentes com poder de veto (EUA, Rússia, China, Reino Unido, França).",
+      "tags": [
+        "geopolitica",
+        "instituicoes"
+      ],
+      "distractors": {
+        "easy": [
+          "A OTAN",
+          "a FIFA",
+          "a Cruz Vermelha"
+        ],
+        "medium": [
+          "A União Europeia",
+          "a OMC",
+          "o G7"
+        ],
+        "hard": [
+          "A antiga Liga das Nações",
+          "a OEA",
+          "a Unesco apenas"
+        ]
+      }
+    },
+    {
+      "recto": "Aliança militar ocidental criada na Guerra Fria, liderada pelos EUA, que existe até hoje.",
+      "verso": "A OTAN",
+      "explanation": "Organização do Tratado do Atlântico Norte (1949). Reúne EUA e aliados. Sua expansão para o leste é fonte de tensão com a Rússia.",
+      "tags": [
+        "geopolitica",
+        "instituicoes"
+      ],
+      "distractors": {
+        "easy": [
+          "A ONU",
+          "a OMC",
+          "o Mercosul"
+        ],
+        "medium": [
+          "O Pacto de Varsóvia",
+          "a União Europeia",
+          "os BRICS"
+        ],
+        "hard": [
+          "A OTASE",
+          "a Aliança do Pacífico",
+          "a OSCE"
+        ]
+      }
+    },
+    {
+      "recto": "Disputas atuais motivadas por diferenças de etnia, religião ou nacionalidade dentro ou entre países.",
+      "verso": "Os conflitos étnico-culturais (e religiosos)",
+      "explanation": "Muitos conflitos pós-Guerra Fria não são entre blocos, mas por identidade (etnia, religião), como nos Bálcãs e no Oriente Médio.",
+      "tags": [
+        "geopolitica",
+        "conflitos"
+      ],
+      "distractors": {
+        "easy": [
+          "Os torneios esportivos",
+          "as feiras comerciais",
+          "os intercâmbios culturais"
+        ],
+        "medium": [
+          "As disputas de blocos ideológicos",
+          "as guerras coloniais clássicas",
+          "as cruzadas medievais"
+        ],
+        "hard": [
+          "As guerras puramente comerciais",
+          "os conflitos exclusivamente climáticos",
+          "as disputas apenas monetárias"
+        ]
+      }
+    },
+    {
+      "recto": "Disputa geopolítica por recursos estratégicos como petróleo, água e minerais.",
+      "verso": "A geopolítica dos recursos",
+      "explanation": "O controle de petróleo, gás, água e minérios é fonte de poder e de conflitos. Explica tensões no Oriente Médio e o interesse por regiões ricas em recursos.",
+      "tags": [
+        "geopolitica",
+        "recursos"
+      ],
+      "distractors": {
+        "easy": [
+          "A geopolítica das artes",
+          "a geopolítica dos esportes",
+          "a geopolítica do turismo"
+        ],
+        "medium": [
+          "A demografia apenas",
+          "a cartografia apenas",
+          "a climatologia"
+        ],
+        "hard": [
+          "A geopolítica exclusivamente cultural",
+          "a biogeografia",
+          "a geografia da moda"
+        ]
+      }
+    },
+    {
+      "recto": "Bloco de emergentes (Brasil, Rússia, Índia, China, África do Sul) que busca mais peso na ordem mundial.",
+      "verso": "Os BRICS",
+      "explanation": "Reúne grandes emergentes que questionam a hegemonia dos países ricos e defendem uma ordem mundial mais multipolar.",
+      "tags": [
+        "geopolitica",
+        "potencias"
+      ],
+      "distractors": {
+        "easy": [
+          "O G7",
+          "a OTAN",
+          "a União Europeia"
+        ],
+        "medium": [
+          "Os Tigres Asiáticos",
+          "a OPEP",
+          "o Pacto de Varsóvia"
+        ],
+        "hard": [
+          "Os PIGS",
+          "os países da tríade",
+          "a Aliança do Pacífico"
+        ]
+      }
+    },
+    {
+      "recto": "De modo geral, como se organiza o poder no mundo atual?",
+      "verso": "De forma multipolar (vários centros de poder econômico e político)",
+      "explanation": "Sem a bipolaridade da Guerra Fria e sem uma hegemonia absoluta dos EUA, o poder se distribui entre EUA, China, UE, Rússia e emergentes.",
+      "tags": [
+        "geopolitica",
+        "sintese"
+      ],
+      "distractors": {
+        "easy": [
+          "De forma bipolar (EUA × URSS)",
+          "num só império mundial",
+          "sem nenhum país forte"
+        ],
+        "medium": [
+          "Numa ordem unipolar absoluta e eterna",
+          "num mundo socialista único",
+          "num sistema colonial"
+        ],
+        "hard": [
+          "Numa ordem bipolar EUA × China idêntica à Guerra Fria",
+          "num concerto europeu clássico",
+          "numa ordem westfaliana pura"
+        ]
+      }
+    },
+    {
+      "recto": "Tensão geopolítica recente que opõe a Rússia à expansão da OTAN no leste europeu.",
+      "verso": "A guerra na Ucrânia (Rússia × Ocidente)",
+      "explanation": "A invasão russa da Ucrânia (2022) reacendeu tensões entre a Rússia e o Ocidente (OTAN), mostrando que a geopolítica de blocos não desapareceu.",
+      "tags": [
+        "geopolitica",
+        "conflitos"
+      ],
+      "distractors": {
+        "easy": [
+          "A Guerra do Paraguai",
+          "a Guerra Fria clássica",
+          "a Guerra dos Cem Anos"
+        ],
+        "medium": [
+          "A Guerra do Vietnã",
+          "a Guerra da Coreia",
+          "a Guerra do Golfo"
+        ],
+        "hard": [
+          "A Guerra da Chechênia",
+          "a Guerra da Geórgia apenas",
+          "a Guerra dos Bálcãs"
+        ]
+      }
+    }
+  ]
+}

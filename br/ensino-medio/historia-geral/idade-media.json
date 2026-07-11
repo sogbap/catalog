@@ -1,0 +1,534 @@
+{
+  "id": "br-ensino-medio-historia-geral-idade-media",
+  "title": "Idade Média: feudalismo, Igreja e Islã",
+  "emoji": "🏰",
+  "subject": "history",
+  "country": "br",
+  "courseDescription": "Do feudalismo ao renascimento comercial. Igreja, Islã e a formação da Europa medieval.",
+  "lesson": "<style>\n  /* Estilos dos gráficos (SVG). Usam currentColor (texto) e var(--accent)\n     (cor da matéria), adaptando-se ao tema claro/escuro do app. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Idade Média: feudalismo, Igreja e Islã</h1>\n\n<div class=\"callout\">\n  <strong>Pontos de estudo</strong><br>\n  <b>Nível:</b> Ensino Médio<br>\n  <b>Área:</b> História Geral<br>\n  <b>Período:</b> séculos V — XV\n</div>\n\n<blockquote>\n  <p><b>Questão central.</b> Como a Europa se organizou após a queda de Roma e por que o feudalismo entrou em crise?</p>\n</blockquote>\n\n<p>A <strong>Idade Média</strong> (séculos V a XV) começa com a queda de Roma e a formação do <strong>feudalismo</strong>. A <strong>Igreja Católica</strong> dominava a mentalidade, enquanto o <strong>Islã</strong> se expandia pelo Oriente. A partir do século XI, o <strong>renascimento comercial</strong> e a <strong>Peste Negra</strong> abalaram o mundo feudal, abrindo caminho para a Idade Moderna.</p>\n\n<h2>1 · O feudalismo</h2>\n\n<p>Após a queda de Roma, a Europa se organizou no <strong>feudalismo</strong>: um sistema baseado na terra (o <strong>feudo</strong>) e em relações de dependência pessoal. Os nobres se ligavam pela <strong>suserania e vassalagem</strong>, e o trabalho era feito pelos <strong>servos</strong>, presos à terra.</p>\n\n<p>A economia era <strong>agrária e de subsistência</strong>: cada feudo produzia quase tudo o que consumia. Predominou na <strong>Alta Idade Média</strong> (séc. V-X).</p>\n\n<div class=\"callout\">\n  <strong>Conceito · Servo</strong><br>\n  Trabalhador do campo preso à terra do feudo, que devia obrigações ao senhor (corveia, talha). Diferente do escravo, não podia ser vendido como mercadoria.\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 210\" role=\"img\" aria-label=\"Pirâmide da sociedade feudal: nobreza, clero, servos\">\n  <polygon points=\"170,20 220,74 120,74\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">Nobreza</text>\n  <polygon points=\"120,78 220,78 250,140 90,140\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"106\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11\" font-weight=\"700\">Clero</text>\n  <text x=\"170\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">Igreja: terra e saber</text>\n  <polygon points=\"90,144 250,144 280,200 60,200\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"170\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11\" font-weight=\"700\">Servos</text>\n  <text x=\"170\" y=\"190\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">produzem a riqueza</text>\n</svg>\n<figcaption>Uma sociedade rígida: poucos no topo (nobreza e clero), a maioria servil na base.</figcaption>\n</figure>\n\n<h2>2 · A Igreja e o Islã</h2>\n\n<p>A <strong>Igreja Católica</strong> concentrava poder político, econômico e cultural, difundindo o <strong>teocentrismo</strong> — Deus no centro de tudo. Controlava a educação e, com a <strong>Inquisição</strong>, punia os hereges.</p>\n\n<p>Enquanto isso, no século VII, <strong>Maomé</strong> fundou o <strong>Islã</strong>, que se expandiu velozmente pelo Oriente e Norte da África, preservando saberes gregos e romanos. A leste, o <strong>Império Bizantino</strong> mantinha viva a herança de Roma.</p>\n\n<div class=\"callout\">\n  <strong>Conceito · Teocentrismo</strong><br>\n  Visão de mundo em que Deus é o centro de todas as coisas e tudo se explica pela vontade divina. Opõe-se ao antropocentrismo, que surgirá no Renascimento.\n</div>\n\n<h2>3 · A Baixa Idade Média e a crise do feudalismo</h2>\n\n<p>A partir do século XI, as <strong>Cruzadas</strong> reabriram o comércio com o Oriente. Começa o <strong>renascimento comercial e urbano</strong>: voltam as feiras, a moeda e as cidades (burgos), e surge a <strong>burguesia</strong>. É a <strong>Baixa Idade Média</strong>.</p>\n\n<p>No século XIV, a <strong>Peste Negra</strong> matou cerca de um terço dos europeus. Somada a guerras e à fome, agravou a crise do feudalismo.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Comparação entre Alta e Baixa Idade Média\">\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"30\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">Alta Idade Média</text>\n  <text x=\"87\" y=\"52\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11\" font-weight=\"700\">séc. V-X</text>\n  <text x=\"26\" y=\"86\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Auge do feudalismo</text>\n  <text x=\"26\" y=\"112\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Economia agrária</text>\n  <text x=\"26\" y=\"138\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Vida rural</text>\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"30\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">Baixa Idade Média</text>\n  <text x=\"253\" y=\"52\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11\" font-weight=\"700\">séc. XI-XV</text>\n  <text x=\"192\" y=\"86\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Renascimento comercial</text>\n  <text x=\"192\" y=\"112\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Cidades e burguesia</text>\n  <text x=\"192\" y=\"138\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Crises (Peste Negra)</text>\n</svg>\n<figcaption>Cuidado: \\\"Alta\\\" é a fase mais antiga (feudal); \\\"Baixa\\\", a mais recente (comercial).</figcaption>\n</figure>\n\n<h2>4 · O fim da Idade Média</h2>\n\n<p>Os reis aproveitaram a crise para centralizar o poder. A <strong>Guerra dos Cem Anos</strong> entre França e Inglaterra fortaleceu as <strong>monarquias nacionais</strong>, base política da Idade Moderna.</p>\n\n<p>Em <strong>1453</strong>, os <strong>turcos otomanos</strong> tomaram Constantinopla, encerrando o Império Bizantino e bloqueando as rotas para o Oriente. Isso estimulou as Grandes Navegações — e marca o fim da Idade Média.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Fatores da crise do feudalismo e do fim da Idade Média\">\n  <defs>\n    <marker id=\"ar-bim1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"120\" y=\"8\" width=\"100\" height=\"44\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"30\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11.5\" font-weight=\"700\">Crise do</text>\n  <text x=\"170\" y=\"45\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11.5\" font-weight=\"700\">feudalismo</text>\n  <path d=\"M150,52 L70,86\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bim1)\"/>\n  <path d=\"M170,52 L170,86\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bim1)\"/>\n  <path d=\"M190,52 L270,86\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bim1)\"/>\n  <rect x=\"10\" y=\"92\" width=\"100\" height=\"100\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"124\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">Comércio</text>\n  <text x=\"60\" y=\"152\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">Cidades e</text>\n  <text x=\"60\" y=\"170\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">burguesia</text>\n  <rect x=\"120\" y=\"92\" width=\"100\" height=\"100\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"124\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">Peste Negra</text>\n  <text x=\"170\" y=\"152\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">morte de 1/3</text>\n  <text x=\"170\" y=\"170\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">da população</text>\n  <rect x=\"230\" y=\"92\" width=\"100\" height=\"100\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"124\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">Reis fortes</text>\n  <text x=\"280\" y=\"152\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">monarquias</text>\n  <text x=\"280\" y=\"170\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">nacionais</text>\n</svg>\n<figcaption>Comércio, peste e reis mais fortes: os fatores que puseram fim ao feudalismo.</figcaption>\n</figure>\n\n<h2>O essencial</h2>\n\n<h3>Linha do tempo</h3>\n\n<table>\n  <tr><th>Data</th><th>Acontecimento</th></tr>\n  <tr><td>476</td><td>Queda de Roma (início da Idade Média)</td></tr>\n  <tr><td>séc. VII</td><td>Maomé funda o Islã</td></tr>\n  <tr><td>1095</td><td>Início das Cruzadas</td></tr>\n  <tr><td>séc. XIV</td><td>Peste Negra</td></tr>\n  <tr><td>1337-1453</td><td>Guerra dos Cem Anos</td></tr>\n  <tr><td>1453</td><td>Queda de Constantinopla (fim da Idade Média)</td></tr>\n</table>\n\n<h3>Termos-chave</h3>\n\n<table>\n  <tr><th>Termo</th><th>Significado</th></tr>\n  <tr><td>Feudalismo</td><td>Sistema baseado na terra e na dependência pessoal</td></tr>\n  <tr><td>Servo</td><td>Trabalhador preso à terra (não vendável)</td></tr>\n  <tr><td>Teocentrismo</td><td>Deus no centro de tudo</td></tr>\n  <tr><td>Renascimento comercial</td><td>Volta do comércio e das cidades (séc. XI)</td></tr>\n  <tr><td>Burguesia</td><td>Classe ligada ao comércio nos burgos</td></tr>\n</table>\n\n<h3>Poderes e crises</h3>\n\n<table>\n  <tr><th>Elemento</th><th>Papel</th></tr>\n  <tr><td>Igreja Católica</td><td>Poder político, econômico e cultural</td></tr>\n  <tr><td>Islã</td><td>Expansão religiosa e cultural no Oriente</td></tr>\n  <tr><td>Peste Negra</td><td>Epidemia que agravou a crise feudal</td></tr>\n  <tr><td>Monarquias nacionais</td><td>Reis centralizam o poder</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  O <b>servo</b> não é o mesmo que o <b>escravo</b>: estava preso à terra, mas não podia ser vendido. E atenção às fases: a <b>Alta</b> Idade Média é a mais antiga (feudal); a <b>Baixa</b>, a mais recente (comercial).\n</div>\n\n<blockquote>\n  <p>Do feudo à cidade, da Igreja onipresente ao comércio renascente, a Idade Média não foi só \\\"trevas\\\": foi o berço da Europa moderna. A queda de Constantinopla e a busca por novas rotas nos levam ao próximo tema — o Renascimento e as Grandes Navegações.</p>\n</blockquote>\n",
+  "questionLang": "pt",
+  "answerLang": "pt",
+  "version": 1,
+  "level": "Ensino Médio",
+  "theme": "História Geral",
+  "cards": [
+    {
+      "recto": "Sistema econômico, social e político que organizou a Europa na Idade Média, baseado na terra e nas relações de dependência pessoal.",
+      "verso": "Feudalismo",
+      "explanation": "Nasce da fusão de elementos romanos e germânicos. A terra (feudo) era a base da riqueza e do poder. Predominou na Alta Idade Média.",
+      "tags": [
+        "feudalismo",
+        "sistema"
+      ],
+      "distractors": {
+        "easy": [
+          "Capitalismo",
+          "Socialismo",
+          "Escravismo"
+        ],
+        "medium": [
+          "Mercantilismo",
+          "Absolutismo",
+          "Colonialismo"
+        ],
+        "hard": [
+          "Servidão coletiva",
+          "Modo asiático",
+          "Corporativismo"
+        ]
+      }
+    },
+    {
+      "recto": "Grande propriedade de terra que era a base econômica da sociedade feudal.",
+      "verso": "Feudo",
+      "explanation": "No feudo produzia-se quase tudo o que se consumia (economia de subsistência). Era doado pelo suserano ao vassalo.",
+      "tags": [
+        "feudalismo",
+        "economia"
+      ],
+      "distractors": {
+        "easy": [
+          "Fábrica",
+          "Cidade",
+          "Colônia"
+        ],
+        "medium": [
+          "Latifúndio",
+          "Engenho",
+          "Vila"
+        ],
+        "hard": [
+          "Manso",
+          "Benefício",
+          "Alódio"
+        ]
+      }
+    },
+    {
+      "recto": "Trabalhador do campo, preso à terra do feudo, que devia obrigações ao senhor mas não podia ser vendido como mercadoria.",
+      "verso": "Servo",
+      "explanation": "O servo estava ligado à terra e pagava taxas (corveia, talha, banalidades). Diferente do escravo, não era propriedade que se vende.",
+      "tags": [
+        "feudalismo",
+        "sociedade"
+      ],
+      "distractors": {
+        "easy": [
+          "Escravo",
+          "Rei",
+          "Burguês"
+        ],
+        "medium": [
+          "Vassalo",
+          "Suserano",
+          "Cavaleiro"
+        ],
+        "hard": [
+          "Vilão",
+          "Colono",
+          "Ministerial"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] O servo feudal e o escravo são a mesma coisa?",
+      "verso": "Não; o servo estava preso à terra, mas não podia ser vendido",
+      "explanation": "Erro comum: o servo tinha obrigações e ficava ligado ao feudo, mas não era propriedade vendável como o escravo. Distinção importante.",
+      "tags": [
+        "piege",
+        "feudalismo"
+      ],
+      "distractors": {
+        "easy": [
+          "Sim, eram idênticos",
+          "Sim, ambos eram vendidos",
+          "Sim, eram assalariados"
+        ],
+        "medium": [
+          "Sim, ambos eram livres",
+          "Sim, ambos eram nobres",
+          "Sim, na cidade"
+        ],
+        "hard": [
+          "Sim, no campo apenas",
+          "Sim, ambos eram vassalos",
+          "Sim, ambos eram burgueses"
+        ]
+      }
+    },
+    {
+      "recto": "Relação de fidelidade e proteção entre um senhor mais poderoso (suserano) e outro nobre (vassalo) na sociedade feudal.",
+      "verso": "Suserania e vassalagem",
+      "explanation": "O suserano doava terras e proteção; o vassalo oferecia fidelidade e serviço militar. Estruturava a nobreza feudal.",
+      "tags": [
+        "feudalismo",
+        "politica"
+      ],
+      "distractors": {
+        "easy": [
+          "Escravidão",
+          "Cidadania",
+          "Democracia"
+        ],
+        "medium": [
+          "Servidão",
+          "Corveia",
+          "Aliança militar"
+        ],
+        "hard": [
+          "Homenagem apenas",
+          "Investidura apenas",
+          "Comitatus"
+        ]
+      }
+    },
+    {
+      "recto": "Que instituição religiosa concentrou grande poder político, econômico e cultural na Europa medieval?",
+      "verso": "Igreja Católica",
+      "explanation": "Detentora de terras e da educação, difundia o teocentrismo. Dava sentido à vida medieval e influenciava reis e camponeses.",
+      "tags": [
+        "igreja",
+        "poder"
+      ],
+      "distractors": {
+        "easy": [
+          "Igreja Protestante",
+          "Islã",
+          "Senado"
+        ],
+        "medium": [
+          "Igreja Ortodoxa",
+          "Império Bizantino",
+          "Universidade"
+        ],
+        "hard": [
+          "Ordem dos Templários",
+          "Cúria Romana apenas",
+          "Clero regular apenas"
+        ]
+      }
+    },
+    {
+      "recto": "Visão de mundo medieval, difundida pela Igreja, segundo a qual Deus era o centro de todas as coisas.",
+      "verso": "Teocentrismo",
+      "explanation": "Tudo era explicado pela vontade divina. Opõe-se ao antropocentrismo, que surgirá no Renascimento, centrado no ser humano.",
+      "tags": [
+        "igreja",
+        "mentalidade"
+      ],
+      "distractors": {
+        "easy": [
+          "Antropocentrismo",
+          "Ateísmo",
+          "Politeísmo"
+        ],
+        "medium": [
+          "Humanismo",
+          "Racionalismo",
+          "Naturalismo"
+        ],
+        "hard": [
+          "Escolástica",
+          "Patrística",
+          "Deísmo"
+        ]
+      }
+    },
+    {
+      "recto": "Religião monoteísta fundada por Maomé no século VII, na Península Arábica, que se expandiu rapidamente pelo Oriente e Norte da África.",
+      "verso": "Islamismo (Islã)",
+      "explanation": "Baseado no Alcorão, criou um vasto império e preservou saberes gregos e romanos. Influenciou a ciência e a cultura da época.",
+      "tags": [
+        "islamismo",
+        "religiao"
+      ],
+      "distractors": {
+        "easy": [
+          "Cristianismo",
+          "Budismo",
+          "Judaísmo"
+        ],
+        "medium": [
+          "Hinduísmo",
+          "Zoroastrismo",
+          "Cristianismo Ortodoxo"
+        ],
+        "hard": [
+          "Sufismo apenas",
+          "Xiismo apenas",
+          "Sunismo apenas"
+        ]
+      }
+    },
+    {
+      "recto": "Profeta fundador do Islã, que unificou os árabes em torno da nova religião no século VII.",
+      "verso": "Maomé",
+      "explanation": "Segundo o Islã, recebeu as revelações reunidas no Alcorão. A Hégira (sua fuga para Medina, 622) marca o início do calendário muçulmano.",
+      "tags": [
+        "islamismo",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Jesus",
+          "Buda",
+          "Moisés"
+        ],
+        "medium": [
+          "Alá",
+          "Abraão",
+          "Constantino"
+        ],
+        "hard": [
+          "Ali",
+          "Omar",
+          "Saladino"
+        ]
+      }
+    },
+    {
+      "recto": "Império cristão de língua grega, herdeiro do Império Romano do Oriente, cuja capital era Constantinopla.",
+      "verso": "Império Bizantino",
+      "explanation": "Sobreviveu mil anos após a queda de Roma no Ocidente (476). Preservou a cultura clássica. Caiu em 1453 diante dos turcos otomanos.",
+      "tags": [
+        "bizancio",
+        "imperio"
+      ],
+      "distractors": {
+        "easy": [
+          "Império Romano do Ocidente",
+          "Império Carolíngio",
+          "Califado"
+        ],
+        "medium": [
+          "Sacro Império",
+          "Império Otomano",
+          "Império Persa"
+        ],
+        "hard": [
+          "Império Sassânida",
+          "Reino Franco",
+          "Exarcado"
+        ]
+      }
+    },
+    {
+      "recto": "Expedições militares organizadas pela Igreja, a partir de 1095, para retomar a Terra Santa (Jerusalém) dos muçulmanos.",
+      "verso": "Cruzadas",
+      "explanation": "Além do motivo religioso, reabriram rotas comerciais com o Oriente, estimulando o renascimento do comércio e das cidades.",
+      "tags": [
+        "igreja",
+        "baixa-idade-media"
+      ],
+      "distractors": {
+        "easy": [
+          "Grandes Navegações",
+          "Guerras Púnicas",
+          "Reforma"
+        ],
+        "medium": [
+          "Reconquista",
+          "Guerra dos Cem Anos",
+          "Inquisição"
+        ],
+        "hard": [
+          "Jihad",
+          "Peregrinações",
+          "Concílios"
+        ]
+      }
+    },
+    {
+      "recto": "Como se chama a divisão da Idade Média em uma primeira fase (feudalismo, séc. V-X) e uma segunda fase de mudanças (séc. XI-XV)?",
+      "verso": "Alta e Baixa Idade Média",
+      "explanation": "Alta (V-X): auge do feudalismo. Baixa (XI-XV): renascimento comercial, cidades, crises. Cuidado: \"Alta\" é a mais antiga.",
+      "tags": [
+        "periodizacao"
+      ],
+      "distractors": {
+        "easy": [
+          "Antiga e Moderna",
+          "Início e Fim",
+          "Média e Contemporânea"
+        ],
+        "medium": [
+          "Baixa e Alta Idade Média",
+          "Idade das Trevas e Idade de Ouro",
+          "Feudal e Burguesa"
+        ],
+        "hard": [
+          "Primeira e Segunda Idade Média",
+          "Idade do Ferro e do Bronze",
+          "Clássica e Medieval"
+        ]
+      }
+    },
+    {
+      "recto": "A partir do século XI, o crescimento do comércio e a volta da vida nas cidades receberam que nome?",
+      "verso": "Renascimento comercial e urbano",
+      "explanation": "Reativou feiras, moeda e cidades (burgos), enfraquecendo o feudalismo. Surge a burguesia, ligada ao comércio.",
+      "tags": [
+        "baixa-idade-media",
+        "economia"
+      ],
+      "distractors": {
+        "easy": [
+          "Revolução Industrial",
+          "Grandes Navegações",
+          "Feudalismo"
+        ],
+        "medium": [
+          "Renascimento cultural",
+          "Mercantilismo",
+          "Reforma"
+        ],
+        "hard": [
+          "Revolução Comercial",
+          "Renascimento carolíngio",
+          "Expansão marítima"
+        ]
+      }
+    },
+    {
+      "recto": "Nova classe social ligada ao comércio e às cidades, que surge com o renascimento comercial da Baixa Idade Média.",
+      "verso": "Burguesia",
+      "explanation": "Habitantes dos burgos (cidades) que viviam do comércio e do artesanato. Terá papel central no fim do feudalismo e na Idade Moderna.",
+      "tags": [
+        "baixa-idade-media",
+        "sociedade"
+      ],
+      "distractors": {
+        "easy": [
+          "Nobreza",
+          "Clero",
+          "Servos"
+        ],
+        "medium": [
+          "Proletariado",
+          "Aristocracia",
+          "Camponeses"
+        ],
+        "hard": [
+          "Patriciado urbano",
+          "Artesãos apenas",
+          "Mercadores apenas"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] Qual economia predominava na Alta Idade Média (feudalismo) e qual atividade cresce na Baixa Idade Média?",
+      "verso": "Economia agrária de subsistência e o comércio (renascimento comercial)",
+      "explanation": "Alta Idade Média = agricultura de subsistência no feudo; Baixa Idade Média = renascimento do comércio e das cidades. Não inverter as fases.",
+      "tags": [
+        "comparaison",
+        "economia"
+      ],
+      "distractors": {
+        "easy": [
+          "Indústria e agricultura",
+          "Comércio e escravidão",
+          "Mineração e pesca"
+        ],
+        "medium": [
+          "O comércio e a agricultura de subsistência",
+          "A indústria e o comércio",
+          "A escravidão e o comércio"
+        ],
+        "hard": [
+          "O artesanato e a indústria",
+          "A economia urbana e a rural apenas",
+          "O mercantilismo e o feudalismo"
+        ]
+      }
+    },
+    {
+      "recto": "Epidemia que, no século XIV, matou cerca de um terço da população europeia e agravou a crise do feudalismo.",
+      "verso": "Peste Negra",
+      "explanation": "A peste bubônica, somada a guerras e à fome, provocou revoltas camponesas e acelerou o declínio do sistema feudal.",
+      "tags": [
+        "baixa-idade-media",
+        "crise"
+      ],
+      "distractors": {
+        "easy": [
+          "Gripe Espanhola",
+          "Covid-19",
+          "Cólera"
+        ],
+        "medium": [
+          "Varíola",
+          "Tifo",
+          "Malária"
+        ],
+        "hard": [
+          "Peste de Justiniano",
+          "Suor inglês",
+          "Lepra"
+        ]
+      }
+    },
+    {
+      "recto": "Tribunal criado pela Igreja para julgar e punir aqueles considerados hereges (contrários à fé católica).",
+      "verso": "Inquisição",
+      "explanation": "Reforçava o poder da Igreja e o controle sobre as ideias. Expressa o rigor religioso da mentalidade medieval.",
+      "tags": [
+        "igreja",
+        "controle"
+      ],
+      "distractors": {
+        "easy": [
+          "Senado",
+          "Assembleia",
+          "Parlamento"
+        ],
+        "medium": [
+          "Cruzada",
+          "Concílio",
+          "Cúria"
+        ],
+        "hard": [
+          "Santo Ofício apenas",
+          "Tribunal do Júri",
+          "Cort de Justiça"
+        ]
+      }
+    },
+    {
+      "recto": "Longa guerra (1337-1453) entre França e Inglaterra que ajudou a fortalecer o poder dos reis e a formar os Estados nacionais.",
+      "verso": "Guerra dos Cem Anos",
+      "explanation": "Ao fim, reis mais fortes centralizaram o poder, base para as monarquias nacionais da Idade Moderna. Joana d'Arc é figura famosa dela.",
+      "tags": [
+        "baixa-idade-media",
+        "politica"
+      ],
+      "distractors": {
+        "easy": [
+          "Guerras Púnicas",
+          "Guerra Fria",
+          "Cruzadas"
+        ],
+        "medium": [
+          "Guerra das Rosas",
+          "Reconquista",
+          "Guerra dos Trinta Anos"
+        ],
+        "hard": [
+          "Guerra da Sucessão",
+          "Guerra Civil",
+          "Guerra da Flandres"
+        ]
+      }
+    },
+    {
+      "recto": "O fortalecimento dos reis no fim da Idade Média levou à formação de quê, base política da Idade Moderna?",
+      "verso": "Monarquias nacionais (Estados nacionais)",
+      "explanation": "Reis centralizaram o poder antes disperso entre os senhores feudais. Portugal, Espanha, França e Inglaterra são exemplos. Levará ao Absolutismo.",
+      "tags": [
+        "baixa-idade-media",
+        "estado"
+      ],
+      "distractors": {
+        "easy": [
+          "Feudos",
+          "Repúblicas",
+          "Impérios coloniais"
+        ],
+        "medium": [
+          "Cidades-Estado",
+          "Confederações",
+          "Ligas comerciais"
+        ],
+        "hard": [
+          "Principados eclesiásticos",
+          "Reinos bárbaros",
+          "Comunas"
+        ]
+      }
+    },
+    {
+      "recto": "Que povo, ao tomar Constantinopla em 1453, encerrou o Império Bizantino e simbolizou o fim da Idade Média?",
+      "verso": "Os turcos otomanos",
+      "explanation": "A queda de Constantinopla (1453) bloqueou rotas comerciais para o Oriente e estimulou as Grandes Navegações. Marca o fim da Idade Média.",
+      "tags": [
+        "fim-idade-media"
+      ],
+      "distractors": {
+        "easy": [
+          "Os romanos",
+          "Os gregos",
+          "Os germânicos"
+        ],
+        "medium": [
+          "Os árabes",
+          "Os persas",
+          "Os mongóis"
+        ],
+        "hard": [
+          "Os selêucidas",
+          "Os cruzados",
+          "Os vândalos"
+        ]
+      }
+    }
+  ]
+}

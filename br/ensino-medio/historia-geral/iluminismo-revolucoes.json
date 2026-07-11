@@ -1,0 +1,535 @@
+{
+  "id": "br-ensino-medio-historia-geral-iluminismo-revolucoes",
+  "title": "Iluminismo e as Revoluções",
+  "emoji": "💡",
+  "subject": "history",
+  "country": "br",
+  "courseDescription": "Do pensamento iluminista às Revoluções Industrial e Francesa. A razão contra o Antigo Regime.",
+  "lesson": "<style>\n  /* Estilos dos gráficos (SVG). Usam currentColor (texto) e var(--accent)\n     (cor da matéria), adaptando-se ao tema claro/escuro do app. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Iluminismo e as Revoluções</h1>\n\n<div class=\"callout\">\n  <strong>Pontos de estudo</strong><br>\n  <b>Nível:</b> Ensino Médio<br>\n  <b>Área:</b> História Geral<br>\n  <b>Período:</b> século XVIII\n</div>\n\n<blockquote>\n  <p><b>Questão central.</b> Como a razão iluminista e as revoluções derrubaram o Antigo Regime?</p>\n</blockquote>\n\n<p>O século XVIII foi o século das rupturas. O <strong>Iluminismo</strong> usou a <strong>razão</strong> para criticar o absolutismo e os privilégios. Suas ideias inspiraram a <strong>Revolução Francesa</strong> (política) e a Independência dos EUA, enquanto a <strong>Revolução Industrial</strong> transformava a economia. Juntas, essas mudanças puseram fim ao <strong>Antigo Regime</strong>.</p>\n\n<h2>1 · O Iluminismo</h2>\n\n<p>O <strong>Iluminismo</strong> defendia que a <strong>razão</strong> deveria guiar a humanidade contra a tirania e a ignorância. Seus principais pensadores propuseram ideias que fundam o mundo moderno: <strong>Locke</strong> (direitos naturais, liberalismo), <strong>Montesquieu</strong> (<strong>separação dos poderes</strong>), <strong>Rousseau</strong> (<strong>soberania popular</strong>) e <strong>Voltaire</strong> (liberdade de expressão). Na economia, <strong>Adam Smith</strong> defendeu o livre comércio.</p>\n\n<div class=\"callout\">\n  <strong>Conceito · Separação dos poderes</strong><br>\n  Ideia de Montesquieu de dividir o poder do Estado em Executivo, Legislativo e Judiciário, para que um controle o outro e se evitem tiranias. Base das democracias atuais.\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Comparação entre Montesquieu e Rousseau\">\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">Montesquieu</text>\n  <text x=\"87\" y=\"58\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11.5\" font-weight=\"700\">Três poderes</text>\n  <text x=\"26\" y=\"92\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Executivo</text>\n  <text x=\"26\" y=\"118\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Legislativo</text>\n  <text x=\"26\" y=\"144\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Judiciário</text>\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">Rousseau</text>\n  <text x=\"253\" y=\"58\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"11\" font-weight=\"700\">Soberania popular</text>\n  <text x=\"192\" y=\"92\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Poder vem do povo</text>\n  <text x=\"192\" y=\"118\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Contrato social</text>\n  <text x=\"192\" y=\"144\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">Bem comum</text>\n</svg>\n<figcaption>Não troque os dois: Montesquieu = três poderes; Rousseau = soberania popular.</figcaption>\n</figure>\n\n<h2>2 · A Revolução Industrial</h2>\n\n<p>Na <strong>Inglaterra</strong>, a partir do século XVIII, a produção passou das manufaturas para as <strong>fábricas</strong>, movidas pela <strong>máquina a vapor</strong>. Nascia o <strong>capitalismo industrial</strong>.</p>\n\n<p>A sociedade dividiu-se em duas novas classes: a <strong>burguesia industrial</strong>, dona das fábricas, e o <strong>proletariado</strong>, que vendia sua força de trabalho por salários baixos e em más condições.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Da manufatura à fábrica: a Revolução Industrial\">\n  <defs>\n    <marker id=\"ar-bir1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"94\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"55\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">Manufatura</text>\n  <text x=\"55\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">trabalho manual</text>\n  <path d=\"M104,68 L120,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bir1)\"/>\n  <rect x=\"123\" y=\"42\" width=\"94\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">Máquina a vapor</text>\n  <text x=\"170\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">mecanização</text>\n  <path d=\"M219,68 L235,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bir1)\"/>\n  <rect x=\"238\" y=\"42\" width=\"94\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"285\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">Fábrica</text>\n  <text x=\"285\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">capitalismo industrial</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">Inglaterra, séc. XVIII</text>\n</svg>\n<figcaption>A máquina a vapor levou da oficina à fábrica e criou o capitalismo industrial.</figcaption>\n</figure>\n\n<h2>3 · A Revolução Francesa</h2>\n\n<p>Em <strong>1789</strong>, a <strong>Queda da Bastilha</strong> marcou o início da <strong>Revolução Francesa</strong>, em nome da <strong>Liberdade, Igualdade e Fraternidade</strong>. A <strong>Declaração dos Direitos do Homem e do Cidadão</strong> proclamou que todos nascem livres e iguais.</p>\n\n<p>A Revolução derrubou o absolutismo e os privilégios. Anos depois, <strong>Napoleão Bonaparte</strong> chegou ao poder, espalhando ideias liberais pela Europa.</p>\n\n<div class=\"callout\">\n  <strong>Conceito · Antigo Regime</strong><br>\n  Ordem política e social anterior às revoluções: monarquia absoluta, sociedade de privilégios (nobreza e clero) e mercantilismo. Foi o alvo do Iluminismo e das revoluções liberais.\n</div>\n\n<h2>4 · O legado: liberalismo e cidadania</h2>\n\n<p>A Independência dos <strong>Estados Unidos</strong> (1776) já anunciara essas ideias. Do conjunto dessas revoluções nasce o <strong>liberalismo</strong>: liberdade política e econômica, direitos individuais e cidadania.</p>\n\n<p>A classe que liderou essas mudanças foi a <strong>burguesia</strong>, que assim substituiu a nobreza no comando da sociedade.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Iluminismo inspira as revoluções que derrubam o Antigo Regime\">\n  <defs>\n    <marker id=\"ar-bir2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"95\" y=\"8\" width=\"150\" height=\"44\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">Iluminismo (razão)</text>\n  <path d=\"M150,52 L65,86\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bir2)\"/>\n  <path d=\"M170,52 L170,86\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bir2)\"/>\n  <path d=\"M190,52 L275,86\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bir2)\"/>\n  <rect x=\"8\" y=\"92\" width=\"104\" height=\"100\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"128\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">Independência</text>\n  <text x=\"60\" y=\"156\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">EUA, 1776</text>\n  <rect x=\"118\" y=\"92\" width=\"104\" height=\"100\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"128\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">Rev. Francesa</text>\n  <text x=\"170\" y=\"156\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">1789</text>\n  <rect x=\"228\" y=\"92\" width=\"104\" height=\"100\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"128\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">Liberalismo</text>\n  <text x=\"280\" y=\"156\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">cidadania</text>\n</svg>\n<figcaption>Da razão iluminista às revoluções que fundaram o liberalismo e a cidadania.</figcaption>\n</figure>\n\n<h2>O essencial</h2>\n\n<h3>Linha do tempo</h3>\n\n<table>\n  <tr><th>Data</th><th>Acontecimento</th></tr>\n  <tr><td>séc. XVIII</td><td>Iluminismo · início da Revolução Industrial (Inglaterra)</td></tr>\n  <tr><td>1776</td><td>Independência dos Estados Unidos</td></tr>\n  <tr><td>1789</td><td>Revolução Francesa (Queda da Bastilha)</td></tr>\n  <tr><td>1799</td><td>Napoleão chega ao poder</td></tr>\n</table>\n\n<h3>Termos-chave</h3>\n\n<table>\n  <tr><th>Termo</th><th>Significado</th></tr>\n  <tr><td>Iluminismo</td><td>Uso da razão contra o Antigo Regime</td></tr>\n  <tr><td>Separação dos poderes</td><td>Executivo, Legislativo, Judiciário (Montesquieu)</td></tr>\n  <tr><td>Soberania popular</td><td>O poder pertence ao povo (Rousseau)</td></tr>\n  <tr><td>Revolução Industrial</td><td>Produção em fábricas com máquinas</td></tr>\n  <tr><td>Liberalismo</td><td>Liberdade política e econômica</td></tr>\n</table>\n\n<h3>Personagens</h3>\n\n<table>\n  <tr><th>Nome</th><th>Ideia</th></tr>\n  <tr><td>Montesquieu</td><td>Separação dos três poderes</td></tr>\n  <tr><td>Rousseau</td><td>Contrato social e soberania popular</td></tr>\n  <tr><td>Adam Smith</td><td>Liberalismo econômico</td></tr>\n  <tr><td>Napoleão</td><td>Espalhou ideias liberais pela Europa</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  Não troque <b>Montesquieu</b> (separação dos poderes) com <b>Rousseau</b> (soberania popular). E lembre: a Revolução <b>Industrial</b> foi sobretudo econômica; a <b>Francesa</b>, sobretudo política.\n</div>\n\n<blockquote>\n  <p>A razão iluminista e as revoluções liberais fundaram o mundo contemporâneo: direitos, cidadania e capitalismo industrial. Mas as potências industriais logo buscariam colônias e mercados — o que nos leva ao imperialismo do século XIX.</p>\n</blockquote>\n",
+  "questionLang": "pt",
+  "answerLang": "pt",
+  "version": 1,
+  "level": "Ensino Médio",
+  "theme": "História Geral",
+  "cards": [
+    {
+      "recto": "Movimento intelectual do século XVIII que defendia a razão, a liberdade e a crítica ao Antigo Regime.",
+      "verso": "Iluminismo",
+      "explanation": "Os iluministas acreditavam que a razão iluminaria a humanidade contra o absolutismo e os privilégios. Base das revoluções liberais.",
+      "tags": [
+        "iluminismo",
+        "ideias"
+      ],
+      "distractors": {
+        "easy": [
+          "Renascimento",
+          "Romantismo",
+          "Feudalismo"
+        ],
+        "medium": [
+          "Humanismo",
+          "Positivismo",
+          "Mercantilismo"
+        ],
+        "hard": [
+          "Enciclopedismo apenas",
+          "Racionalismo cartesiano",
+          "Empirismo"
+        ]
+      }
+    },
+    {
+      "recto": "Pensador iluminista que defendeu os direitos naturais (vida, liberdade e propriedade) e é considerado \"pai do liberalismo\".",
+      "verso": "John Locke",
+      "explanation": "Defendia que o poder vem do povo e deve proteger os direitos naturais. Base do liberalismo político. Não confundir com Hobbes, absolutista.",
+      "tags": [
+        "iluminismo",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Thomas Hobbes",
+          "Luís XIV",
+          "Napoleão"
+        ],
+        "medium": [
+          "Montesquieu",
+          "Rousseau",
+          "Voltaire"
+        ],
+        "hard": [
+          "Diderot",
+          "Adam Smith",
+          "Kant"
+        ]
+      }
+    },
+    {
+      "recto": "Iluminista que defendeu a divisão do poder do Estado em três (Executivo, Legislativo e Judiciário).",
+      "verso": "Montesquieu",
+      "explanation": "Na obra \"O Espírito das Leis\", propôs a separação dos poderes para evitar tiranias. Ideia central das democracias atuais.",
+      "tags": [
+        "iluminismo",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Hobbes",
+          "Luís XIV",
+          "Colombo"
+        ],
+        "medium": [
+          "Rousseau",
+          "Locke",
+          "Voltaire"
+        ],
+        "hard": [
+          "Diderot",
+          "Adam Smith",
+          "Quesnay"
+        ]
+      }
+    },
+    {
+      "recto": "Iluminista que defendeu o contrato social e a soberania popular, na obra \"Do Contrato Social\".",
+      "verso": "Rousseau",
+      "explanation": "Para Rousseau, o poder pertence ao povo (soberania popular) e a sociedade deve buscar o bem comum. Influenciou a Revolução Francesa.",
+      "tags": [
+        "iluminismo",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Hobbes",
+          "Luís XIV",
+          "Bossuet"
+        ],
+        "medium": [
+          "Montesquieu",
+          "Locke",
+          "Voltaire"
+        ],
+        "hard": [
+          "Diderot",
+          "Kant",
+          "Adam Smith"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] Quem defendeu a separação dos três poderes e quem defendeu a soberania popular?",
+      "verso": "Montesquieu (separação dos poderes) e Rousseau (soberania popular)",
+      "explanation": "Erro clássico: Montesquieu = três poderes; Rousseau = soberania popular/contrato social. Não troque os dois iluministas.",
+      "tags": [
+        "piege",
+        "iluminismo"
+      ],
+      "distractors": {
+        "easy": [
+          "Locke e Hobbes",
+          "Voltaire e Diderot",
+          "Hobbes e Bossuet"
+        ],
+        "medium": [
+          "Rousseau (separação dos poderes) e Montesquieu (soberania popular)",
+          "Locke e Montesquieu",
+          "Voltaire e Rousseau"
+        ],
+        "hard": [
+          "Montesquieu e Locke",
+          "Rousseau e Voltaire",
+          "Locke e Rousseau"
+        ]
+      }
+    },
+    {
+      "recto": "Iluminista que criticou duramente a Igreja e defendeu a liberdade de pensamento e de expressão.",
+      "verso": "Voltaire",
+      "explanation": "Famoso por sua ironia e defesa da tolerância. Combateu o fanatismo e a intolerância religiosa. Ícone da liberdade de expressão.",
+      "tags": [
+        "iluminismo",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Hobbes",
+          "Bossuet",
+          "Luís XIV"
+        ],
+        "medium": [
+          "Montesquieu",
+          "Rousseau",
+          "Locke"
+        ],
+        "hard": [
+          "Diderot",
+          "d'Alembert",
+          "Kant"
+        ]
+      }
+    },
+    {
+      "recto": "Economista que, na obra \"A Riqueza das Nações\", defendeu a livre iniciativa e a não intervenção do Estado na economia.",
+      "verso": "Adam Smith",
+      "explanation": "Pai do liberalismo econômico, criticou o mercantilismo e defendeu o livre comércio (\"mão invisível\" do mercado).",
+      "tags": [
+        "iluminismo",
+        "economia"
+      ],
+      "distractors": {
+        "easy": [
+          "Karl Marx",
+          "Rousseau",
+          "Napoleão"
+        ],
+        "medium": [
+          "Montesquieu",
+          "Voltaire",
+          "Locke"
+        ],
+        "hard": [
+          "David Ricardo",
+          "Quesnay",
+          "Keynes"
+        ]
+      }
+    },
+    {
+      "recto": "Transformação econômica iniciada na Inglaterra no século XVIII, marcada pela produção em fábricas com máquinas.",
+      "verso": "Revolução Industrial",
+      "explanation": "Substituiu a manufatura pela produção mecanizada em fábricas. Criou o capitalismo industrial e mudou o trabalho e a sociedade.",
+      "tags": [
+        "revolucao-industrial",
+        "economia"
+      ],
+      "distractors": {
+        "easy": [
+          "Revolução Francesa",
+          "Renascimento",
+          "Reforma"
+        ],
+        "medium": [
+          "Revolução Comercial",
+          "Revolução Verde",
+          "Revolução Russa"
+        ],
+        "hard": [
+          "Segunda Revolução Industrial apenas",
+          "Revolução Científica",
+          "Revolução Digital"
+        ]
+      }
+    },
+    {
+      "recto": "Em qual país teve início a Revolução Industrial, no século XVIII?",
+      "verso": "Inglaterra",
+      "explanation": "A Inglaterra reunia capital, carvão, mão de obra e mercados. Foi a pioneira, expandindo depois para outros países.",
+      "tags": [
+        "revolucao-industrial",
+        "espaco"
+      ],
+      "distractors": {
+        "easy": [
+          "França",
+          "Brasil",
+          "Portugal"
+        ],
+        "medium": [
+          "Estados Unidos",
+          "Alemanha",
+          "Espanha"
+        ],
+        "hard": [
+          "Holanda",
+          "Bélgica",
+          "Escócia apenas"
+        ]
+      }
+    },
+    {
+      "recto": "Invenção fundamental que forneceu força motriz às fábricas e às ferrovias na Revolução Industrial.",
+      "verso": "A máquina a vapor",
+      "explanation": "Aperfeiçoada por James Watt, movia teares e locomotivas. Símbolo da mecanização da produção.",
+      "tags": [
+        "revolucao-industrial",
+        "tecnologia"
+      ],
+      "distractors": {
+        "easy": [
+          "A imprensa",
+          "A bússola",
+          "A internet"
+        ],
+        "medium": [
+          "A eletricidade",
+          "O motor a combustão",
+          "O telégrafo"
+        ],
+        "hard": [
+          "A máquina de fiar apenas",
+          "O tear mecânico apenas",
+          "A turbina"
+        ]
+      }
+    },
+    {
+      "recto": "Nova classe social de trabalhadores das fábricas, que vendiam sua força de trabalho por um salário.",
+      "verso": "Proletariado",
+      "explanation": "Vivia em más condições, com longas jornadas e baixos salários. Opõe-se à burguesia industrial, dona das fábricas.",
+      "tags": [
+        "revolucao-industrial",
+        "sociedade"
+      ],
+      "distractors": {
+        "easy": [
+          "Burguesia",
+          "Nobreza",
+          "Clero"
+        ],
+        "medium": [
+          "Servos",
+          "Camponeses",
+          "Artesãos"
+        ],
+        "hard": [
+          "Lumpemproletariado",
+          "Classe média",
+          "Assalariados rurais"
+        ]
+      }
+    },
+    {
+      "recto": "Revolução política iniciada em 1789 que derrubou o absolutismo na França em nome da Liberdade, Igualdade e Fraternidade.",
+      "verso": "Revolução Francesa",
+      "explanation": "Pôs fim ao Antigo Regime e aos privilégios da nobreza e do clero. Marco das revoluções liberais e da cidadania moderna.",
+      "tags": [
+        "revolucao-francesa",
+        "politica"
+      ],
+      "distractors": {
+        "easy": [
+          "Revolução Industrial",
+          "Reforma",
+          "Renascimento"
+        ],
+        "medium": [
+          "Revolução Americana",
+          "Revolução Russa",
+          "Revolução Gloriosa"
+        ],
+        "hard": [
+          "Revolução de Julho",
+          "Comuna de Paris",
+          "Primavera dos Povos"
+        ]
+      }
+    },
+    {
+      "recto": "Que acontecimento, em 14 de julho de 1789, tornou-se o símbolo do início da Revolução Francesa?",
+      "verso": "A Queda da Bastilha",
+      "explanation": "A tomada da prisão da Bastilha pelo povo de Paris marcou o início da Revolução. Hoje é o feriado nacional francês.",
+      "tags": [
+        "revolucao-francesa",
+        "evento"
+      ],
+      "distractors": {
+        "easy": [
+          "A Queda do Muro de Berlim",
+          "A Proclamação da República",
+          "A Guerra Fria"
+        ],
+        "medium": [
+          "A execução de Luís XVI",
+          "A Marcha sobre Versalhes",
+          "O Golpe de 18 Brumário"
+        ],
+        "hard": [
+          "O Juramento do Jogo da Péla",
+          "A Convocação dos Estados Gerais",
+          "O Terror"
+        ]
+      }
+    },
+    {
+      "recto": "Documento de 1789 da Revolução Francesa que proclamou os direitos de liberdade e igualdade de todos os cidadãos.",
+      "verso": "Declaração dos Direitos do Homem e do Cidadão",
+      "explanation": "Afirmou que todos nascem livres e iguais em direitos. Base dos direitos humanos modernos. Inspirou constituições no mundo todo.",
+      "tags": [
+        "revolucao-francesa",
+        "documento"
+      ],
+      "distractors": {
+        "easy": [
+          "As 95 teses",
+          "O Tratado de Tordesilhas",
+          "A Bíblia"
+        ],
+        "medium": [
+          "A Declaração de Independência dos EUA",
+          "A Magna Carta",
+          "O Código Napoleônico"
+        ],
+        "hard": [
+          "A Constituição de 1791",
+          "O Contrato Social",
+          "A Declaração Universal de 1948"
+        ]
+      }
+    },
+    {
+      "recto": "General que chegou ao poder na França após a Revolução, criou um império e espalhou ideias liberais pela Europa.",
+      "verso": "Napoleão Bonaparte",
+      "explanation": "Consolidou conquistas da Revolução (como o Código Civil) e dominou grande parte da Europa. Sua queda reorganizou o continente.",
+      "tags": [
+        "revolucao-francesa",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Luís XIV",
+          "Robespierre",
+          "Hitler"
+        ],
+        "medium": [
+          "Luís XVI",
+          "Bismarck",
+          "Cromwell"
+        ],
+        "hard": [
+          "Danton",
+          "Talleyrand",
+          "Metternich"
+        ]
+      }
+    },
+    {
+      "recto": "Movimento de 1776 pelo qual as Treze Colônias se separaram da Inglaterra, criando os Estados Unidos.",
+      "verso": "Independência dos Estados Unidos",
+      "explanation": "Primeira grande revolução liberal, influenciada pelo Iluminismo. Inspirou movimentos de independência na América Latina.",
+      "tags": [
+        "independencia-eua",
+        "politica"
+      ],
+      "distractors": {
+        "easy": [
+          "Revolução Francesa",
+          "Guerra Civil Americana",
+          "Revolução Industrial"
+        ],
+        "medium": [
+          "Independência do Brasil",
+          "Doutrina Monroe",
+          "Guerra de Secessão"
+        ],
+        "hard": [
+          "Revolução Gloriosa",
+          "Guerra dos Sete Anos",
+          "Compra da Louisiana"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] Qual revolução do século XVIII foi sobretudo econômica (fábricas e máquinas) e qual foi sobretudo política (fim do absolutismo)?",
+      "verso": "Revolução Industrial (econômica) e Revolução Francesa (política)",
+      "explanation": "Industrial = mudança econômica (Inglaterra); Francesa = mudança política (fim do absolutismo). Duas faces da mesma época de transformações.",
+      "tags": [
+        "comparaison",
+        "revolucoes"
+      ],
+      "distractors": {
+        "easy": [
+          "Reforma e Renascimento",
+          "Guerra e paz",
+          "Antiga e Moderna"
+        ],
+        "medium": [
+          "Revolução Francesa (econômica) e Industrial (política)",
+          "Revolução Americana e Russa",
+          "Industrial e Comercial"
+        ],
+        "hard": [
+          "Revolução Gloriosa e Industrial",
+          "Francesa e Americana",
+          "Industrial e Científica"
+        ]
+      }
+    },
+    {
+      "recto": "O conjunto de ideias que defende as liberdades individuais, a propriedade e a livre iniciativa, ligado às revoluções burguesas, chama-se?",
+      "verso": "Liberalismo",
+      "explanation": "Nascido do Iluminismo (Locke, Adam Smith), defende liberdade política e econômica. Ideologia da burguesia contra o Antigo Regime.",
+      "tags": [
+        "ideologia",
+        "sintese"
+      ],
+      "distractors": {
+        "easy": [
+          "Socialismo",
+          "Absolutismo",
+          "Feudalismo"
+        ],
+        "medium": [
+          "Comunismo",
+          "Anarquismo",
+          "Nacionalismo"
+        ],
+        "hard": [
+          "Positivismo",
+          "Conservadorismo",
+          "Mercantilismo"
+        ]
+      }
+    },
+    {
+      "recto": "Classe social que liderou as revoluções liberais do século XVIII para acabar com os privilégios da nobreza.",
+      "verso": "Burguesia",
+      "explanation": "Rica pelo comércio e pela indústria, mas sem poder político, a burguesia liderou as revoluções contra o Antigo Regime.",
+      "tags": [
+        "sociedade",
+        "sintese"
+      ],
+      "distractors": {
+        "easy": [
+          "Nobreza",
+          "Clero",
+          "Servos"
+        ],
+        "medium": [
+          "Proletariado",
+          "Camponeses",
+          "Aristocracia"
+        ],
+        "hard": [
+          "Sans-culottes apenas",
+          "Classe média rural",
+          "Pequena nobreza"
+        ]
+      }
+    },
+    {
+      "recto": "De modo geral, contra qual sistema político e social se voltaram o Iluminismo e as revoluções do século XVIII?",
+      "verso": "O Antigo Regime (absolutismo e privilégios)",
+      "explanation": "Antigo Regime = monarquia absoluta, sociedade de privilégios (nobreza e clero) e mercantilismo. As revoluções liberais o derrubaram.",
+      "tags": [
+        "sintese"
+      ],
+      "distractors": {
+        "easy": [
+          "A democracia",
+          "O capitalismo",
+          "A república"
+        ],
+        "medium": [
+          "O feudalismo",
+          "O socialismo",
+          "O liberalismo"
+        ],
+        "hard": [
+          "O parlamentarismo",
+          "O Estado de bem-estar",
+          "O imperialismo"
+        ]
+      }
+    }
+  ]
+}

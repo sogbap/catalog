@@ -1,0 +1,484 @@
+{
+  "id": "br-ensino-medio-historia-brasil-nova-republica",
+  "title": "A Nova República (1985 até hoje)",
+  "emoji": "📜",
+  "subject": "history",
+  "country": "br",
+  "courseDescription": "Da redemocratização à democracia atual. Constituição de 1988, o fim da hiperinflação com o Plano Real e a política contemporânea.",
+  "lesson": "<style>\n  /* Estilos dos gráficos (SVG). Usam currentColor (texto) e var(--accent)\n     (cor da matéria), adaptando-se ao tema claro/escuro do app. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>A Nova República (1985 até hoje)</h1>\n\n<div class=\"callout\">\n  <strong>Pontos de estudo</strong><br>\n  <b>Nível:</b> Ensino Médio<br>\n  <b>Área:</b> História do Brasil<br>\n  <b>Período:</b> 1985 — atualidade\n</div>\n\n<blockquote>\n  <p><b>Questão central.</b> Como o Brasil reconstruiu a democracia e venceu a hiperinflação?</p>\n</blockquote>\n\n<p>Com o fim da ditadura, o Brasil entrou na <strong>Nova República</strong>: a <strong>Constituição de 1988</strong> (\"Cidadã\") garantiu direitos e liberdades; o <strong>Plano Real</strong> (1994) venceu a <strong>hiperinflação</strong>. Desde então, apesar das crises, a democracia se consolidou com <strong>eleições livres</strong> e <strong>alternância de poder</strong>.</p>\n\n<h2>1 · A redemocratização e a Constituição de 1988</h2>\n\n<p>O primeiro presidente foi <strong>José Sarney</strong> (vice de Tancredo Neves). Seu governo promulgou a <strong>Constituição de 1988</strong>, apelidada de <strong>\"Constituição Cidadã\"</strong> por ampliar direitos: liberdades, direitos sociais, o <strong>SUS</strong> e o voto aos 16 anos.</p>\n\n<div class=\"callout\">\n  <strong>Conceito · Constituição Cidadã</strong><br>\n  A Constituição de 1988 restabeleceu plenamente a democracia e ampliou os direitos dos cidadãos. É a Carta que rege o Brasil até hoje.\n</div>\n\n<h2>2 · A luta contra a hiperinflação</h2>\n\n<p>Os anos 1980 e o início dos 1990 foram marcados pela <strong>hiperinflação</strong>: os preços disparavam e o dinheiro perdia valor. Vários planos fracassaram. Em 1989, <strong>Fernando Collor</strong> foi o primeiro presidente eleito por <strong>voto direto</strong> desde a ditadura, mas sofreu <strong>impeachment</strong> em 1992.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 140\" role=\"img\" aria-label=\"O Plano Real como divisor de águas: da hiperinflação à moeda estável\">\n  <defs>\n    <marker id=\"ar-bnr1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"10\" y=\"42\" width=\"118\" height=\"60\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"69\" y=\"66\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">Hiperinflação</text>\n  <text x=\"69\" y=\"86\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">preços disparam</text>\n  <path d=\"M128,72 L172,72\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-bnr1)\"/>\n  <text x=\"150\" y=\"64\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Plano Real</text>\n  <text x=\"150\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">1994</text>\n  <rect x=\"212\" y=\"42\" width=\"118\" height=\"60\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"271\" y=\"66\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">Moeda estável</text>\n  <text x=\"271\" y=\"86\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">o real</text>\n  <text x=\"170\" y=\"22\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">o divisor de águas da economia</text>\n</svg>\n<figcaption>O Plano Real trocou décadas de inflação por uma moeda estável.</figcaption>\n</figure>\n\n<h2>3 · Estabilidade e democracia</h2>\n\n<p>Em 1994, o <strong>Plano Real</strong> criou o <strong>real</strong> e estabilizou a economia, projetando <strong>Fernando Henrique Cardoso (FHC)</strong> à presidência (1995-2002). Depois, <strong>Lula</strong> (2003-2010), ex-operário, ampliou programas sociais como o <strong>Bolsa Família</strong>. A troca pacífica de partidos no poder mostra uma <strong>democracia consolidada</strong>.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"A alternância de poder entre partidos na Nova República\">\n  <text x=\"170\" y=\"18\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">alternância de poder pelo voto</text>\n  <rect x=\"10\" y=\"34\" width=\"100\" height=\"72\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">Sarney</text>\n  <text x=\"60\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Constituição</text>\n  <text x=\"60\" y=\"94\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">de 1988</text>\n  <rect x=\"120\" y=\"34\" width=\"100\" height=\"72\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">FHC</text>\n  <text x=\"170\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Plano Real</text>\n  <text x=\"170\" y=\"94\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">estabilidade</text>\n  <rect x=\"230\" y=\"34\" width=\"100\" height=\"72\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">Lula</text>\n  <text x=\"280\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">programas</text>\n  <text x=\"280\" y=\"94\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">sociais</text>\n</svg>\n<figcaption>Presidentes de partidos diferentes se sucederam pelo voto: sinal de democracia madura.</figcaption>\n</figure>\n\n<h2>O essencial</h2>\n\n<h3>Linha do tempo</h3>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 210\" role=\"img\" aria-label=\"Linha do tempo da Nova República, de 1985 a 2003\">\n  <line x1=\"26\" y1=\"16\" x2=\"26\" y2=\"196\" style=\"stroke:var(--accent);stroke-opacity:.4;stroke-width:2\"/>\n  <circle cx=\"26\" cy=\"24\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"21\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1985</text>\n  <text x=\"40\" y=\"34\" class=\"s-muted\" font-size=\"10\">Início da Nova República (Sarney)</text>\n  <circle cx=\"26\" cy=\"62\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"59\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1988</text>\n  <text x=\"40\" y=\"72\" class=\"s-muted\" font-size=\"10\">Constituição Cidadã</text>\n  <circle cx=\"26\" cy=\"100\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"97\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1992</text>\n  <text x=\"40\" y=\"110\" class=\"s-muted\" font-size=\"10\">Impeachment de Collor</text>\n  <circle cx=\"26\" cy=\"138\" r=\"5\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"135\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1994</text>\n  <text x=\"40\" y=\"148\" class=\"s-muted\" font-size=\"10\">Plano Real (fim da hiperinflação)</text>\n  <circle cx=\"26\" cy=\"176\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"173\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">2003</text>\n  <text x=\"40\" y=\"186\" class=\"s-muted\" font-size=\"10\">Posse de Lula (alternância de poder)</text>\n</svg>\n<figcaption>Da redemocratização à estabilidade: a democracia se firma.</figcaption>\n</figure>\n\n<table>\n  <tr><th>Data</th><th>Acontecimento</th></tr>\n  <tr><td>1985</td><td>Início da Nova República (Sarney)</td></tr>\n  <tr><td>1988</td><td>Constituição Cidadã</td></tr>\n  <tr><td>1989</td><td>1ª eleição direta para presidente (Collor)</td></tr>\n  <tr><td>1992</td><td>Impeachment de Collor</td></tr>\n  <tr><td>1994</td><td>Plano Real (o real)</td></tr>\n  <tr><td>2003</td><td>Posse de Lula</td></tr>\n</table>\n\n<h3>Termos-chave</h3>\n\n<table>\n  <tr><th>Termo</th><th>Significado</th></tr>\n  <tr><td>Constituição Cidadã</td><td>Constituição de 1988, ampliou direitos</td></tr>\n  <tr><td>Hiperinflação</td><td>Alta descontrolada de preços (anos 80-90)</td></tr>\n  <tr><td>Plano Real</td><td>Plano de 1994 que estabilizou a economia</td></tr>\n  <tr><td>Real</td><td>Nova moeda criada em 1994</td></tr>\n  <tr><td>Impeachment</td><td>Processo de afastamento de um presidente</td></tr>\n  <tr><td>SUS</td><td>Saúde pública universal e gratuita</td></tr>\n</table>\n\n<h3>Presidentes e marcos</h3>\n\n<table>\n  <tr><th>Nome</th><th>Papel</th></tr>\n  <tr><td>José Sarney</td><td>1º presidente; Constituição de 1988</td></tr>\n  <tr><td>Fernando Collor</td><td>1º eleito direto; sofreu impeachment (1992)</td></tr>\n  <tr><td>Fernando Henrique Cardoso</td><td>Plano Real; estabilidade da moeda</td></tr>\n  <tr><td>Lula</td><td>Ex-operário; programas sociais (2003-2010)</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  A Constituição é de <b>1988</b>, mas a primeira eleição direta para presidente foi em <b>1989</b> (Collor) — não confunda as duas datas. E lembre: o <b>Plano Real</b> (1994) é o marco que separou a era da hiperinflação da moeda estável.\n</div>\n\n<blockquote>\n  <p>Em pouco mais de três décadas, o Brasil saiu da ditadura, escreveu uma Constituição de direitos e domou a inflação. A democracia brasileira, com suas crises e conquistas, é hoje a mais longa da nossa história.</p>\n</blockquote>\n",
+  "questionLang": "pt",
+  "answerLang": "pt",
+  "version": 1,
+  "level": "Ensino Médio",
+  "theme": "História do Brasil",
+  "cards": [
+    {
+      "recto": "Que período da história do Brasil começou em 1985, com o fim da ditadura militar?",
+      "verso": "A Nova República",
+      "explanation": "Marca a redemocratização: eleições diretas, liberdade e a Constituição de 1988. É o período em que o Brasil vive até hoje.",
+      "tags": [
+        "nova-republica",
+        "periodo"
+      ],
+      "distractors": {
+        "easy": [
+          "A República Velha",
+          "O Estado Novo",
+          "o Império"
+        ],
+        "medium": [
+          "A República Democrática",
+          "A Ditadura Militar",
+          "o Governo Provisório"
+        ],
+        "hard": [
+          "A República da Espada",
+          "A Terceira República",
+          "o Parlamentarismo"
+        ]
+      }
+    },
+    {
+      "recto": "Primeiro presidente da Nova República, que assumiu porque Tancredo Neves morreu antes da posse.",
+      "verso": "José Sarney",
+      "explanation": "Era o vice de Tancredo. Seu governo enfrentou forte inflação e promulgou a nova Constituição em 1988.",
+      "tags": [
+        "nova-republica",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Getúlio Vargas",
+          "Juscelino Kubitschek",
+          "Dom Pedro II"
+        ],
+        "medium": [
+          "Fernando Collor",
+          "Itamar Franco",
+          "Tancredo Neves"
+        ],
+        "hard": [
+          "Ulysses Guimarães",
+          "Fernando Henrique Cardoso",
+          "Leonel Brizola"
+        ]
+      }
+    },
+    {
+      "recto": "Constituição promulgada em 1988, que garantiu amplos direitos e é chamada de \"Constituição Cidadã\".",
+      "verso": "A Constituição de 1988",
+      "explanation": "Restabeleceu plenamente a democracia, ampliou direitos sociais e individuais. É a Constituição em vigor no Brasil.",
+      "tags": [
+        "nova-republica",
+        "documento"
+      ],
+      "distractors": {
+        "easy": [
+          "A Constituição de 1824",
+          "A Constituição de 1937",
+          "A Lei Áurea"
+        ],
+        "medium": [
+          "A Constituição de 1946",
+          "A Constituição de 1967",
+          "A Constituição de 1891"
+        ],
+        "hard": [
+          "A Emenda de 1985",
+          "A Constituição de 1934",
+          "A Polaca revisada"
+        ]
+      }
+    },
+    {
+      "recto": "Por que a Constituição de 1988 ficou conhecida como \"Constituição Cidadã\"?",
+      "verso": "Porque ampliou os direitos e as garantias dos cidadãos",
+      "explanation": "Expressão de Ulysses Guimarães. Garantiu direitos sociais, o voto aos 16 anos, o SUS e liberdades, superando o legado autoritário.",
+      "tags": [
+        "nova-republica",
+        "conceito"
+      ],
+      "distractors": {
+        "easy": [
+          "Porque criou uma monarquia",
+          "Porque restringiu direitos",
+          "Porque só valia na cidade"
+        ],
+        "medium": [
+          "Porque foi feita por militares",
+          "Porque aboliu o voto",
+          "Porque era provisória"
+        ],
+        "hard": [
+          "Porque restaurava a de 1967",
+          "Porque proibia partidos",
+          "Porque só tratava de economia"
+        ]
+      }
+    },
+    {
+      "recto": "Grave problema econômico que assolou o Brasil nos anos 1980 e início dos 1990.",
+      "verso": "A hiperinflação",
+      "explanation": "Os preços subiam sem controle, corroendo os salários. Vários planos econômicos (Cruzado, Collor) tentaram, sem sucesso duradouro, contê-la.",
+      "tags": [
+        "nova-republica",
+        "economia"
+      ],
+      "distractors": {
+        "easy": [
+          "A deflação",
+          "O pleno emprego",
+          "O milagre econômico"
+        ],
+        "medium": [
+          "A estagnação total",
+          "O crescimento acelerado",
+          "O superávit permanente"
+        ],
+        "hard": [
+          "A dolarização plena",
+          "A recessão sem inflação",
+          "O câmbio fixo estável"
+        ]
+      }
+    },
+    {
+      "recto": "Primeiro presidente eleito por voto direto após a ditadura, em 1989.",
+      "verso": "Fernando Collor de Mello",
+      "explanation": "Sua eleição marcou a volta do voto direto para presidente. Prometeu combater a inflação e a corrupção, mas sofreu impeachment em 1992.",
+      "tags": [
+        "nova-republica",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "José Sarney",
+          "Getúlio Vargas",
+          "Juscelino Kubitschek"
+        ],
+        "medium": [
+          "Itamar Franco",
+          "Fernando Henrique Cardoso",
+          "Luiz Inácio Lula da Silva"
+        ],
+        "hard": [
+          "Ulysses Guimarães",
+          "Leonel Brizola",
+          "Mário Covas"
+        ]
+      }
+    },
+    {
+      "recto": "O que aconteceu com Fernando Collor em 1992, após denúncias de corrupção?",
+      "verso": "Sofreu impeachment (foi afastado da presidência)",
+      "explanation": "Movimentos populares (os \"caras-pintadas\") pediram sua saída. Foi o primeiro impeachment presidencial da Nova República. Assumiu o vice, Itamar Franco.",
+      "tags": [
+        "nova-republica",
+        "1992"
+      ],
+      "distractors": {
+        "easy": [
+          "Foi reeleito",
+          "Morreu no cargo",
+          "Deu um golpe"
+        ],
+        "medium": [
+          "Renunciou sem processo",
+          "Foi exilado",
+          "Cumpriu o mandato normalmente"
+        ],
+        "hard": [
+          "Foi cassado por um AI",
+          "Passou o cargo a um militar",
+          "Foi afastado por plebiscito"
+        ]
+      }
+    },
+    {
+      "recto": "Plano econômico de 1994 que finalmente controlou a hiperinflação, criando uma nova moeda.",
+      "verso": "O Plano Real",
+      "explanation": "Criou o real e estabilizou os preços. Foi o grande marco econômico da Nova República, projetando Fernando Henrique Cardoso à presidência.",
+      "tags": [
+        "nova-republica",
+        "economia"
+      ],
+      "distractors": {
+        "easy": [
+          "O Plano de Metas",
+          "O Milagre econômico",
+          "A Lei Áurea"
+        ],
+        "medium": [
+          "O Plano Cruzado",
+          "O Plano Collor",
+          "O Plano Trienal"
+        ],
+        "hard": [
+          "O Plano Bresser",
+          "O Plano Verão",
+          "O Plano SALTE"
+        ]
+      }
+    },
+    {
+      "recto": "Nova moeda brasileira criada em 1994 que substituiu o cruzeiro real e estabilizou a economia.",
+      "verso": "O Real",
+      "explanation": "Introduzido pelo Plano Real, tornou-se a moeda estável do país. Pôs fim a décadas de trocas constantes de moeda por causa da inflação.",
+      "tags": [
+        "nova-republica",
+        "economia"
+      ],
+      "distractors": {
+        "easy": [
+          "O Dólar",
+          "O Euro",
+          "O Peso"
+        ],
+        "medium": [
+          "O Cruzado",
+          "O Cruzeiro",
+          "O Cruzado Novo"
+        ],
+        "hard": [
+          "O Cruzeiro Real",
+          "O Mil-réis",
+          "O Conto de réis"
+        ]
+      }
+    },
+    {
+      "recto": "Presidente eleito em 1994, ligado ao sucesso do Plano Real, que governou de 1995 a 2002.",
+      "verso": "Fernando Henrique Cardoso (FHC)",
+      "explanation": "Sociólogo e ministro que ajudou a criar o Real. Governou dois mandatos, marcados pela estabilidade da moeda e por privatizações.",
+      "tags": [
+        "nova-republica",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "José Sarney",
+          "Fernando Collor",
+          "Getúlio Vargas"
+        ],
+        "medium": [
+          "Luiz Inácio Lula da Silva",
+          "Itamar Franco",
+          "Dilma Rousseff"
+        ],
+        "hard": [
+          "Mário Covas",
+          "José Serra",
+          "Tancredo Neves"
+        ]
+      }
+    },
+    {
+      "recto": "Ex-operário e líder sindical eleito presidente em 2002, primeiro presidente vindo da classe trabalhadora.",
+      "verso": "Luiz Inácio Lula da Silva",
+      "explanation": "Do Partido dos Trabalhadores (PT), governou de 2003 a 2010, com programas sociais como o Bolsa Família. Marca a alternância de poder na democracia.",
+      "tags": [
+        "nova-republica",
+        "personagem"
+      ],
+      "distractors": {
+        "easy": [
+          "Fernando Henrique Cardoso",
+          "José Sarney",
+          "Juscelino Kubitschek"
+        ],
+        "medium": [
+          "Fernando Collor",
+          "Itamar Franco",
+          "Michel Temer"
+        ],
+        "hard": [
+          "José Dirceu",
+          "Dilma Rousseff",
+          "José Alencar"
+        ]
+      }
+    },
+    {
+      "recto": "Sistema público e gratuito de saúde criado pela Constituição de 1988.",
+      "verso": "O SUS (Sistema Único de Saúde)",
+      "explanation": "Garante acesso universal e gratuito à saúde. É um dos maiores direitos sociais assegurados pela Constituição Cidadã.",
+      "tags": [
+        "nova-republica",
+        "direitos"
+      ],
+      "distractors": {
+        "easy": [
+          "O INSS apenas",
+          "A Petrobras",
+          "O IBGE"
+        ],
+        "medium": [
+          "O SUDS",
+          "O INAMPS",
+          "A Previdência Social"
+        ],
+        "hard": [
+          "O SUAS",
+          "O SISU",
+          "A ANS apenas"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] O voto direto para presidente voltou já com a Constituição de 1988?",
+      "verso": "Não; a primeira eleição direta para presidente foi em 1989",
+      "explanation": "Erro comum. A Constituição é de 1988, mas a primeira eleição presidencial direta (Collor) ocorreu em 1989. Sarney assumira ainda de forma indireta.",
+      "tags": [
+        "piege",
+        "nova-republica"
+      ],
+      "distractors": {
+        "easy": [
+          "Sim, já em 1985",
+          "Sim, desde 1984",
+          "Sim, em 1982"
+        ],
+        "medium": [
+          "Sim, junto com a Constituição em 1988",
+          "Sim, em 1986",
+          "Sim, com Tancredo em 1985"
+        ],
+        "hard": [
+          "Sim, num plebiscito de 1988",
+          "Sim, com Sarney eleito diretamente",
+          "Sim, em 1987"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] Compare o problema central da economia antes e depois do Plano Real.",
+      "verso": "Antes: hiperinflação descontrolada; depois: moeda estável (o real)",
+      "explanation": "Até 1994 os preços disparavam sem controle; o Plano Real, com a nova moeda, estabilizou a economia. É o divisor de águas econômico da Nova República.",
+      "tags": [
+        "comparaison",
+        "nova-republica"
+      ],
+      "distractors": {
+        "easy": [
+          "Antes e depois: sempre estável",
+          "Antes e depois: sempre em crise",
+          "Antes: estável; depois: inflação"
+        ],
+        "medium": [
+          "Antes: deflação; depois: inflação",
+          "Antes: pleno emprego; depois: recessão",
+          "Antes: real; depois: cruzeiro"
+        ],
+        "hard": [
+          "Antes: estabilidade; depois: hiperinflação",
+          "Antes: câmbio fixo; depois: hiperinflação",
+          "Antes: crescimento; depois: estagnação total"
+        ]
+      }
+    },
+    {
+      "recto": "Movimento popular de jovens que, em 1992, pediu o impeachment de Collor nas ruas.",
+      "verso": "Os caras-pintadas",
+      "explanation": "Estudantes pintavam o rosto de verde e amarelo em protestos. Mostraram a força da sociedade civil na jovem democracia.",
+      "tags": [
+        "nova-republica",
+        "sociedade"
+      ],
+      "distractors": {
+        "easy": [
+          "As Diretas Já",
+          "Os tenentes",
+          "A Coluna Prestes"
+        ],
+        "medium": [
+          "Os sem-terra",
+          "Os descamisados",
+          "Os caras-limpas"
+        ],
+        "hard": [
+          "Os cabeças-de-bronze",
+          "Os camisas-verdes",
+          "Os cangaceiros"
+        ]
+      }
+    },
+    {
+      "recto": "De modo geral, qual é a grande conquista política da Nova República?",
+      "verso": "A consolidação da democracia (eleições livres e alternância de poder)",
+      "explanation": "Apesar de crises, o Brasil manteve eleições regulares, alternância entre partidos e liberdades. É a mais longa experiência democrática do país.",
+      "tags": [
+        "nova-republica",
+        "sintese"
+      ],
+      "distractors": {
+        "easy": [
+          "O retorno da ditadura",
+          "A volta da monarquia",
+          "O fim das eleições"
+        ],
+        "medium": [
+          "A instauração do partido único",
+          "O fim dos direitos sociais",
+          "A censura à imprensa"
+        ],
+        "hard": [
+          "O parlamentarismo permanente",
+          "A supressão do voto direto",
+          "A concentração militar do poder"
+        ]
+      }
+    },
+    {
+      "recto": "Programa social de transferência de renda que se tornou símbolo do combate à pobreza nos anos 2000.",
+      "verso": "O Bolsa Família",
+      "explanation": "Transferia renda a famílias pobres, ligado à educação e à saúde das crianças. Ajudou a reduzir a pobreza extrema no país.",
+      "tags": [
+        "nova-republica",
+        "direitos"
+      ],
+      "distractors": {
+        "easy": [
+          "O Plano Real",
+          "O AI-5",
+          "A Lei Áurea"
+        ],
+        "medium": [
+          "O Bolsa Escola apenas",
+          "O Vale-Gás apenas",
+          "O Fome Zero apenas"
+        ],
+        "hard": [
+          "O Minha Casa Minha Vida",
+          "O ProUni",
+          "O Auxílio-Reclusão"
+        ]
+      }
+    },
+    {
+      "recto": "Que característica mostra a maturidade democrática do Brasil na Nova República?",
+      "verso": "A alternância de poder entre diferentes partidos pelo voto",
+      "explanation": "Presidentes de partidos distintos (PMDB, PSDB, PT) se sucederam pelo voto. A troca pacífica de governos é sinal de democracia consolidada.",
+      "tags": [
+        "nova-republica",
+        "politica"
+      ],
+      "distractors": {
+        "easy": [
+          "O poder de um só partido",
+          "A escolha por militares",
+          "A sucessão hereditária"
+        ],
+        "medium": [
+          "A indicação pelo Congresso apenas",
+          "O rodízio entre oligarquias",
+          "A nomeação estrangeira"
+        ],
+        "hard": [
+          "O partido único legalizado",
+          "A eleição indireta permanente",
+          "O revezamento café-com-leite"
+        ]
+      }
+    }
+  ]
+}

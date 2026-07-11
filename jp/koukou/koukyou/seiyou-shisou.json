@@ -1,0 +1,533 @@
+{
+  "id": "jp-koukou-koukyou-seiyou-shisou",
+  "title": "西洋の思想",
+  "emoji": "🏛️",
+  "subject": "civics",
+  "country": "jp",
+  "courseDescription": "ギリシア哲学からキリスト教、近代の合理論・経験論まで。西洋の思想の源流をたどる。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>西洋の思想</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・公共<br>\n  <b>大項目A：</b>公共の扉<br>\n  <b>内容：</b>ギリシア哲学・キリスト教・近代思想\n</div>\n\n<blockquote>\n  <p><b>問い</b>　「よく生きる」とは何かを、西洋の人々はどのように考えてきたのだろうか。</p>\n</blockquote>\n\n<p>社会をつくる主体として生きるには、人類が積み重ねてきた知恵が手がかりになる。西洋思想は、<strong>古代ギリシア</strong>の哲学に始まり、<strong>キリスト教</strong>の愛の教え、そして<strong>ルネサンス</strong>以降の<strong>人間中心主義</strong>へと展開した。理性でものごとを考える態度の源流をたどろう。</p>\n\n<h2>1・ギリシア哲学 ― 西洋思想の源流</h2>\n\n<p><strong>古代ギリシア</strong>のポリスで哲学が花開いた。<strong>ソクラテス</strong>は「汝自身を知れ」を出発点に、自分の無知を自覚する<strong>無知の知</strong>を説いた。弟子の<strong>プラトン</strong>は、事物の背後にある永遠不変の実在をとらえる<strong>イデア論</strong>を唱えた。</p>\n\n<p>さらにその弟子<strong>アリストテレス</strong>は、諸学を体系化し、極端をさけた<strong>中庸</strong>を徳とした。「人間はポリス的（社会的）動物である」という言葉は、人が共同体の中で生きる存在であることを示している。</p>\n\n<div class=\"callout\">\n  <strong>用語・無知の知</strong><br>\n  自分が知らないということを自覚している点で他者にまさる、というソクラテスの考え。ここから真の知を求める哲学が始まるとした。\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"ギリシア哲学の系譜。ソクラテスからプラトン、アリストテレスへ\">\n  <defs>\n    <marker id=\"ar-sy1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"6\" y=\"40\" width=\"98\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"55\" y=\"63\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">ソクラテス</text>\n  <text x=\"55\" y=\"81\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">無知の知</text>\n  <path d=\"M106,66 L120,66\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sy1)\"/>\n  <rect x=\"122\" y=\"40\" width=\"98\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"171\" y=\"63\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">プラトン</text>\n  <text x=\"171\" y=\"81\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">イデア論</text>\n  <path d=\"M222,66 L236,66\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sy1)\"/>\n  <rect x=\"238\" y=\"40\" width=\"98\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"287\" y=\"63\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11.5\" font-weight=\"700\">アリストテレス</text>\n  <text x=\"287\" y=\"81\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">中庸</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">師から弟子へ</text>\n</svg>\n<figcaption>三人の哲学者が、師弟関係でつながり西洋思想の土台を築いた。</figcaption>\n</figure>\n\n<h2>2・ヘレニズムとキリスト教</h2>\n\n<p>ヘレニズム期には、心の平静を理想に禁欲を説く<strong>ストア派</strong>と、快楽を求める<strong>エピクロス派</strong>が現れた。</p>\n\n<p>やがて<strong>キリスト教</strong>が広まる。<strong>イエス</strong>は、無償・無差別に他者を愛する神の愛<strong>アガペー</strong>を説いた。見返りを求めないこの愛は、ギリシアの恋愛的な愛（エロース）とは異なる、キリスト教倫理の中心となった。</p>\n\n<h2>3・近代思想 ― 人間の理性へ</h2>\n\n<p>14〜16世紀の<strong>ルネサンス</strong>は、古代文化を復興し、神中心から<strong>人間中心</strong>へと視点を移した。<strong>宗教改革</strong>（ルター・カルバン）は、信仰のよりどころを<strong>聖書</strong>に置いた。</p>\n\n<p>近代哲学は、知識の源をめぐって二つに分かれた。経験を重んじる<strong>経験論</strong>（<strong>ベーコン</strong>・<strong>帰納法</strong>）と、理性を重んじる<strong>合理論</strong>（<strong>デカルト</strong>・<strong>演繹法</strong>）である。デカルトは<strong>方法的懐疑</strong>の末に「われ思う、ゆえにわれあり」に到達した。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"経験論と合理論の比較。知識の源と方法の違い\">\n  <!-- 左：経験論 -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">経験論</text>\n  <text x=\"87\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">ベーコン</text>\n  <text x=\"26\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">知識の源：経験</text>\n  <text x=\"26\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">方法：帰納法</text>\n  <text x=\"26\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">イギリス中心</text>\n  <!-- 右：合理論 -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">合理論</text>\n  <text x=\"253\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">デカルト</text>\n  <text x=\"192\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">知識の源：理性</text>\n  <text x=\"192\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">方法：演繹法</text>\n  <text x=\"192\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">大陸中心</text>\n</svg>\n<figcaption>知識の源（経験か理性か）と方法（帰納か演繹か）で対比する。</figcaption>\n</figure>\n\n<h2>4・人間中心主義という土台</h2>\n\n<p>これらの流れに共通するのは、人間の<strong>理性</strong>を信頼し、それを用いてよりよい社会を築こうとする<strong>人間中心主義（ヒューマニズム）</strong>である。18世紀の<strong>啓蒙思想</strong>は、この理性への信頼を徹底し、市民革命や近代の人権思想の土台となった。</p>\n\n<p>理性的にものごとを考え、「よく生きる」を問う態度——それが、社会に参画する私たちの思考の出発点となる。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"西洋近代思想の流れ。ルネサンス・宗教改革から啓蒙思想へ\">\n  <defs>\n    <marker id=\"ar-sy2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"6\" y=\"40\" width=\"98\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"55\" y=\"63\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">ルネサンス</text>\n  <text x=\"55\" y=\"81\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">人間中心へ</text>\n  <path d=\"M106,66 L120,66\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sy2)\"/>\n  <rect x=\"122\" y=\"40\" width=\"98\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"171\" y=\"63\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">宗教改革</text>\n  <text x=\"171\" y=\"81\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">聖書中心へ</text>\n  <path d=\"M222,66 L236,66\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sy2)\"/>\n  <rect x=\"238\" y=\"40\" width=\"98\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"287\" y=\"63\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">啓蒙思想</text>\n  <text x=\"287\" y=\"81\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">理性への信頼</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">神中心から人間中心へ</text>\n</svg>\n<figcaption>近代思想は、神中心から人間の理性中心へと軸を移していった。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・人間中心主義（ヒューマニズム）</strong><br>\n  人間の理性を信頼し、それを用いてよりよい社会を築こうとする立場。ルネサンス以降の西洋近代思想に共通し、科学・民主主義・人権思想の土台となった。\n</div>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>時代</th><th>思想</th></tr>\n  <tr><td>古代ギリシア</td><td>ソクラテス・プラトン・アリストテレス</td></tr>\n  <tr><td>ヘレニズム</td><td>ストア派・エピクロス派</td></tr>\n  <tr><td>古代〜中世</td><td>キリスト教（アガペー）</td></tr>\n  <tr><td>近代</td><td>ルネサンス・宗教改革・経験論と合理論</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>無知の知</td><td>自分の無知を自覚すること（ソクラテス）</td></tr>\n  <tr><td>イデア論</td><td>事物の背後の真の実在（プラトン）</td></tr>\n  <tr><td>中庸</td><td>両極端をさけた望ましいあり方（アリストテレス）</td></tr>\n  <tr><td>アガペー</td><td>無償・無差別の神の愛（キリスト教）</td></tr>\n  <tr><td>経験論／合理論</td><td>経験を重んじる／理性を重んじる立場</td></tr>\n  <tr><td>ヒューマニズム</td><td>人間の理性を信頼する人間中心主義</td></tr>\n</table>\n\n<h3>思想家とキーワード</h3>\n\n<table>\n  <tr><th>人物</th><th>キーワード</th></tr>\n  <tr><td>ソクラテス</td><td>無知の知・問答法</td></tr>\n  <tr><td>ベーコン</td><td>経験論・帰納法・「知は力なり」</td></tr>\n  <tr><td>デカルト</td><td>合理論・演繹法・方法的懐疑</td></tr>\n  <tr><td>ルター</td><td>宗教改革・聖書中心</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  <b>経験論</b>（ベーコン・帰納法・経験）と<b>合理論</b>（デカルト・演繹法・理性）を混同しないこと。<b>帰納法</b>（個々→一般）と<b>演繹法</b>（一般→個々）の向きも逆にしない。\n</div>\n\n<blockquote>\n  <p>西洋思想は、理性で世界と自分を問う態度を育ててきた。しかし「よく生きる」への問いは、西洋だけのものではない。次は視点を東へ移し、日本と東洋が育んだ思想——共同体や自然とのかかわりのなかで人を考える知恵をたずねよう。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "公共 ― 公共の扉",
+  "cards": [
+    {
+      "recto": "「汝自身を知れ」を出発点に、自分が知らないことを自覚することの大切さを説いた古代ギリシアの哲学者は誰か。",
+      "verso": "ソクラテス",
+      "explanation": "自分の無知を自覚する「無知の知」を説いた。問答を通じて真の知に導こうとした西洋哲学の祖の一人。",
+      "tags": [
+        "ギリシア",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "孔子",
+          "ブッダ",
+          "イエス"
+        ],
+        "medium": [
+          "プラトン",
+          "アリストテレス",
+          "ピタゴラス"
+        ],
+        "hard": [
+          "プロタゴラス",
+          "ゼノン",
+          "エピクロス"
+        ]
+      }
+    },
+    {
+      "recto": "ソクラテスが説いた、自分が知らないということを自覚している点で他者にまさる、という考え方を何というか。",
+      "verso": "無知の知",
+      "explanation": "「知らないことを知っている」自覚。ここから真の知を求める哲学が始まるとした。ソクラテスの中心思想。",
+      "tags": [
+        "ギリシア",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "知行合一",
+          "中庸",
+          "イデア"
+        ],
+        "medium": [
+          "問答法",
+          "エロース",
+          "アレテー"
+        ],
+        "hard": [
+          "無為自然",
+          "知徳合一",
+          "アパテイア"
+        ]
+      }
+    },
+    {
+      "recto": "ものごとの本質は、感覚でとらえる世界の背後にある永遠不変の真の実在にあるとした、プラトンの説を何というか。",
+      "verso": "イデア論",
+      "explanation": "現実の事物は、完全なイデアの不完全な影にすぎないとした。プラトンの哲学の中心。師はソクラテス。",
+      "tags": [
+        "ギリシア",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "無知の知",
+          "中庸",
+          "無為自然"
+        ],
+        "medium": [
+          "原子論",
+          "四元素説",
+          "形相と質料"
+        ],
+        "hard": [
+          "想起説",
+          "洞窟の比喩",
+          "エロース論"
+        ]
+      }
+    },
+    {
+      "recto": "「人間はポリス的（社会的）動物である」と述べ、諸学問を体系化した古代ギリシアの哲学者は誰か。",
+      "verso": "アリストテレス",
+      "explanation": "プラトンの弟子。極端をさけた「中庸」を徳とし、人間は本性上ポリス（共同体）の中で生きるとした。",
+      "tags": [
+        "ギリシア",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "ソクラテス",
+          "孔子",
+          "イエス"
+        ],
+        "medium": [
+          "プラトン",
+          "ピタゴラス",
+          "デモクリトス"
+        ],
+        "hard": [
+          "エピクロス",
+          "ゼノン",
+          "タレス"
+        ]
+      }
+    },
+    {
+      "recto": "アリストテレスが、勇気や節制のように、過剰と不足の両極端をさけた望ましいあり方として重んじた徳を何というか。",
+      "verso": "中庸",
+      "explanation": "たとえば勇気は「無謀」と「臆病」の中間。極端をさけるバランスを徳とした。アリストテレス倫理学の柱。",
+      "tags": [
+        "ギリシア",
+        "倫理"
+      ],
+      "distractors": {
+        "easy": [
+          "無知の知",
+          "イデア",
+          "アガペー"
+        ],
+        "medium": [
+          "禁欲",
+          "快楽",
+          "正義"
+        ],
+        "hard": [
+          "アレテー",
+          "アパテイア",
+          "フロネーシス"
+        ]
+      }
+    },
+    {
+      "recto": "情念に乱されない心の平静（アパテイア）を理想とし、禁欲的に生きることを説いたヘレニズム期の学派を何というか。",
+      "verso": "ストア派",
+      "explanation": "ゼノンが創始。「自然に従って生きる」を説き、禁欲を重んじた。快楽を求めるエピクロス派と対比される。",
+      "tags": [
+        "ヘレニズム"
+      ],
+      "distractors": {
+        "easy": [
+          "ソフィスト",
+          "キリスト教",
+          "仏教"
+        ],
+        "medium": [
+          "エピクロス派",
+          "プラトン学派",
+          "アリストテレス学派"
+        ],
+        "hard": [
+          "キュニコス派",
+          "懐疑派",
+          "新プラトン主義"
+        ]
+      }
+    },
+    {
+      "recto": "無償・無差別に他者を愛する神の愛を、キリスト教では何というか。",
+      "verso": "アガペー",
+      "explanation": "イエスが説いた、見返りを求めない愛。ギリシアの恋愛的な愛エロースと対比される、キリスト教の中心概念。",
+      "tags": [
+        "キリスト教",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "エロース",
+          "慈悲",
+          "仁"
+        ],
+        "medium": [
+          "フィリア",
+          "隣人愛のみ",
+          "友愛"
+        ],
+        "hard": [
+          "カリタス",
+          "ストルゲー",
+          "エンパシー"
+        ]
+      }
+    },
+    {
+      "recto": "14〜16世紀のヨーロッパで、古代ギリシア・ローマの文化を復興し、人間らしさ（人間性）を重んじた文化運動を何というか。",
+      "verso": "ルネサンス",
+      "explanation": "「再生」を意味する。神中心から人間中心へと視点を移し、ヒューマニズム（人文主義）を広めた。",
+      "tags": [
+        "近代",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "宗教改革",
+          "産業革命",
+          "啓蒙思想"
+        ],
+        "medium": [
+          "宗教革命",
+          "科学革命",
+          "市民革命"
+        ],
+        "hard": [
+          "ヒューマニズムのみ",
+          "バロック",
+          "スコラ哲学"
+        ]
+      }
+    },
+    {
+      "recto": "実験や観察による経験から知識を得るべきだとする、イギリスを中心に広まった近代の考え方を何というか。",
+      "verso": "経験論",
+      "explanation": "ベーコンが代表。「知は力なり」を唱え、観察・実験を重んじた。理性を重んじる大陸合理論と対をなす。",
+      "tags": [
+        "近代",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "合理論",
+          "観念論",
+          "唯物論"
+        ],
+        "medium": [
+          "啓蒙思想",
+          "実存主義",
+          "功利主義"
+        ],
+        "hard": [
+          "帰納法という方法名",
+          "実証主義",
+          "経験主義以外"
+        ]
+      }
+    },
+    {
+      "recto": "経験論を唱え、観察された事実から一般法則を導く帰納法を重んじた、イギリスの哲学者は誰か。",
+      "verso": "ベーコン",
+      "explanation": "「知は力なり」で知られる。先入観（イドラ）を排し、経験にもとづく学問を説いた。合理論のデカルトと対比。",
+      "tags": [
+        "近代",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "ソクラテス",
+          "デカルト",
+          "カント"
+        ],
+        "medium": [
+          "ロック",
+          "ホッブズ",
+          "ヒューム"
+        ],
+        "hard": [
+          "ライプニッツ",
+          "スピノザ",
+          "バークリー"
+        ]
+      }
+    },
+    {
+      "recto": "理性による推論を知識の源とし、あらゆるものを疑ったうえで「われ思う、ゆえにわれあり」に到達した哲学者は誰か。",
+      "verso": "デカルト",
+      "explanation": "大陸合理論の祖。疑いえない出発点を求めて方法的懐疑を行い、理性から真理を導いた。演繹法を重んじた。",
+      "tags": [
+        "近代",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "ベーコン",
+          "ソクラテス",
+          "カント"
+        ],
+        "medium": [
+          "ロック",
+          "ヒューム",
+          "ホッブズ"
+        ],
+        "hard": [
+          "スピノザ",
+          "ライプニッツ",
+          "パスカル"
+        ]
+      }
+    },
+    {
+      "recto": "デカルトが、確実な真理に到達するために、疑いうるものをすべていったん疑ってみた方法を何というか。",
+      "verso": "方法的懐疑",
+      "explanation": "すべてを疑った末に、疑っている自分の存在だけは疑えないと気づいた。合理論のデカルトの方法。",
+      "tags": [
+        "近代",
+        "方法"
+      ],
+      "distractors": {
+        "easy": [
+          "帰納法",
+          "問答法",
+          "弁証法"
+        ],
+        "medium": [
+          "演繹法",
+          "観察",
+          "実験"
+        ],
+        "hard": [
+          "還元",
+          "分析",
+          "総合"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】経験を知識の源とするイギリス中心の立場と、理性を知識の源とする大陸中心の立場を、順にそれぞれ何というか。",
+      "verso": "経験論と合理論",
+      "explanation": "経験論（ベーコン・帰納法）と合理論（デカルト・演繹法）。知識の源を「経験」か「理性」かで区別する。",
+      "tags": [
+        "comparaison",
+        "近代"
+      ],
+      "distractors": {
+        "easy": [
+          "理性と感情",
+          "科学と宗教",
+          "個人と社会"
+        ],
+        "medium": [
+          "合理論と経験論",
+          "経験論と観念論",
+          "唯物論と合理論"
+        ],
+        "hard": [
+          "帰納法と演繹法という方法名",
+          "経験論と啓蒙思想",
+          "実証主義と合理論"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】観察された個々の事実から一般法則を導く推論の方法を何というか。ベーコンが重んじた。",
+      "verso": "帰納法",
+      "explanation": "個々の事実から一般法則へ（経験論）。一般法則から個々の結論を導く「演繹法」（合理論・デカルト）と逆にしない。",
+      "tags": [
+        "piege",
+        "近代"
+      ],
+      "distractors": {
+        "easy": [
+          "問答法",
+          "弁証法",
+          "方法的懐疑"
+        ],
+        "medium": [
+          "演繹法",
+          "類推",
+          "分析"
+        ],
+        "hard": [
+          "仮説演繹法",
+          "アブダクション",
+          "総合"
+        ]
+      }
+    },
+    {
+      "recto": "一般的な原理から個々の結論を論理的に導く推論の方法を何というか。デカルトが重んじた。",
+      "verso": "演繹法",
+      "explanation": "一般法則から個々の結論へ（合理論）。個々の事実から法則を導く帰納法（経験論・ベーコン）と対で覚える。",
+      "tags": [
+        "近代",
+        "方法"
+      ],
+      "distractors": {
+        "easy": [
+          "問答法",
+          "実験",
+          "観察"
+        ],
+        "medium": [
+          "帰納法",
+          "弁証法",
+          "類推"
+        ],
+        "hard": [
+          "仮説演繹法",
+          "アブダクション",
+          "還元"
+        ]
+      }
+    },
+    {
+      "recto": "16世紀にルターやカルバンが、教会のあり方を批判して始めた、キリスト教の改革運動を何というか。",
+      "verso": "宗教改革",
+      "explanation": "聖書を信仰のよりどころとし、プロテスタントが生まれた。勤勉と節約の倫理が近代資本主義を後押ししたとされる。",
+      "tags": [
+        "近代"
+      ],
+      "distractors": {
+        "easy": [
+          "ルネサンス",
+          "産業革命",
+          "市民革命"
+        ],
+        "medium": [
+          "啓蒙思想",
+          "対抗宗教改革",
+          "科学革命"
+        ],
+        "hard": [
+          "福音主義運動",
+          "教会大分裂",
+          "十字軍"
+        ]
+      }
+    },
+    {
+      "recto": "神の意志にかなうかどうかは、宗教改革では何をよりどころに判断するとされたか。",
+      "verso": "聖書",
+      "explanation": "ルターは、信仰のよりどころを教会の権威ではなく聖書に置いた（聖書中心主義）。プロテスタントの基本。",
+      "tags": [
+        "近代",
+        "キリスト教"
+      ],
+      "distractors": {
+        "easy": [
+          "教皇",
+          "教会",
+          "王"
+        ],
+        "medium": [
+          "伝統",
+          "理性",
+          "良心のみ"
+        ],
+        "hard": [
+          "公会議",
+          "教父",
+          "秘跡"
+        ]
+      }
+    },
+    {
+      "recto": "理性の光で古い偏見や迷信を照らし出し、社会を進歩させようとした18世紀の思想運動を何というか。",
+      "verso": "啓蒙思想",
+      "explanation": "「啓蒙」は理性で無知を照らすこと。人間の理性への信頼にもとづき、市民革命や近代社会の土台となった。",
+      "tags": [
+        "近代"
+      ],
+      "distractors": {
+        "easy": [
+          "ルネサンス",
+          "宗教改革",
+          "産業革命"
+        ],
+        "medium": [
+          "ロマン主義",
+          "実存主義",
+          "科学革命"
+        ],
+        "hard": [
+          "合理主義のみ",
+          "百科全書派",
+          "自然主義"
+        ]
+      }
+    },
+    {
+      "recto": "人間の理性を信頼し、それを用いてよりよい社会を築こうとする、西洋近代思想に共通する基本的な立場を何というか。",
+      "verso": "人間中心主義（ヒューマニズム）",
+      "explanation": "ルネサンス以降、神中心から人間中心へと視点が移った。近代の科学・民主主義・人権思想の共通の土台。",
+      "tags": [
+        "近代",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "神中心主義",
+          "自然中心主義",
+          "全体主義"
+        ],
+        "medium": [
+          "合理主義",
+          "個人主義",
+          "自由主義"
+        ],
+        "hard": [
+          "人文主義",
+          "実存主義",
+          "功利主義"
+        ]
+      }
+    },
+    {
+      "recto": "ソクラテス・プラトン・アリストテレスと続く、西洋哲学の源流となった古代の思想が生まれた地域はどこか。",
+      "verso": "古代ギリシア",
+      "explanation": "ポリス（都市国家）で哲学が花開いた。ここで生まれた理性的にものごとを考える態度が、西洋思想全体の源流となった。",
+      "tags": [
+        "ギリシア",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "古代ローマ",
+          "古代エジプト",
+          "古代中国"
+        ],
+        "medium": [
+          "メソポタミア",
+          "インド",
+          "ヘレニズム世界"
+        ],
+        "hard": [
+          "イオニア地方のみ",
+          "アテネ市のみ",
+          "小アジア"
+        ]
+      }
+    }
+  ]
+}

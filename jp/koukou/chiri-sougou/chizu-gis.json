@@ -1,0 +1,530 @@
+{
+  "id": "jp-koukou-chiri-sougou-chizu-gis",
+  "title": "地図とGIS（地理情報システム）",
+  "emoji": "🗺️",
+  "subject": "geography",
+  "country": "jp",
+  "courseDescription": "地図の図法から緯度・経度、時差、GIS、GNSSまで。現代世界をとらえる地理の道具を学ぶ。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>地図とGIS（地理情報システム）</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・地理総合<br>\n  <b>大項目A：</b>地図や地理情報システムで捉える現代世界<br>\n  <b>内容：</b>位置・時差・図法・統計地図・GIS\n</div>\n\n<blockquote>\n  <p><b>問い</b>　私たちは、広い世界のようすをどのような「道具」でとらえているのだろうか。</p>\n</blockquote>\n\n<p>地理の学習は、まず世界を「どう表すか」から始まる。<strong>緯度・経度</strong>で位置を、<strong>時差</strong>で時間の差を、<strong>図法</strong>で球体の地球を平面にえがく。そして今日では、位置情報をコンピュータで重ねて分析する<strong>GIS</strong>が、防災や社会の課題解決に使われている。世界をとらえる道具を確かめよう。</p>\n\n<h2>1・位置のあらわし方と時差</h2>\n\n<p>地球上の位置は、南北を示す<strong>緯度</strong>と、東西を示す<strong>経度</strong>で表す。緯度は<strong>赤道</strong>を0度、経度はロンドンを通る<strong>本初子午線</strong>を0度とする。</p>\n\n<p>各国は<strong>標準時子午線</strong>を定めて標準時とする。日本は<strong>東経135度</strong>（明石市）が基準である。地球は24時間で360度回転するので、<strong>経度15度ごとに1時間</strong>の<strong>時差</strong>が生じる。</p>\n\n<div class=\"callout\">\n  <strong>用語・時差</strong><br>\n  地球は24時間で1回転（360度）するため、360÷24＝経度15度で1時間の時差が生じる。東へ行くほど時刻は進む。\n</div>\n\n<h2>2・地図の図法</h2>\n\n<p>球体の地球を平面に表すと、面積・角度・距離・方位のすべてを同時に正しくは表せない。目的に応じて図法を使い分ける。</p>\n\n<p><strong>メルカトル図法</strong>は角度が正しい<strong>正角図法</strong>で、等角航路が直線になり<strong>航海図</strong>に使う。ただし高緯度ほど面積が拡大する。<strong>正距方位図法</strong>は中心からの<strong>距離と方位</strong>が正しく、中心と結ぶ直線が最短の大圏航路になるため<strong>航空図</strong>に使う。面積が正しい<strong>正積図法</strong>（モルワイデ図法など）は分布図に向く。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"メルカトル図法と正距方位図法の比較。用途と正しく表される要素の違い\">\n  <!-- 左：メルカトル図法 -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">メルカトル図法</text>\n  <text x=\"87\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">航海図</text>\n  <text x=\"26\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">角度が正しい</text>\n  <text x=\"26\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">等角航路が直線</text>\n  <text x=\"26\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">高緯度で面積拡大</text>\n  <!-- 右：正距方位図法 -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">正距方位図法</text>\n  <text x=\"253\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">航空図</text>\n  <text x=\"192\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">中心からの距離</text>\n  <text x=\"192\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">中心からの方位</text>\n  <text x=\"192\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">大圏航路が直線</text>\n</svg>\n<figcaption>用途（航海／航空）と正しく表される要素の組み合わせがよく問われる。</figcaption>\n</figure>\n\n<h2>3・さまざまな地図と統計地図</h2>\n\n<p>地図は、土地のようすを総合的に表す<strong>一般図</strong>（地形図など）と、特定のテーマを表す<strong>主題図</strong>に大別される。主題図のうち数値データを表すものを<strong>統計地図</strong>という。</p>\n\n<p>統計地図には表現の使い分けがある。人口密度や割合など<strong>相対値</strong>は<strong>階級区分図</strong>（色の濃淡）で、人口総数など<strong>絶対量</strong>は<strong>図形表現図</strong>（円の大きさ）で表す。気温や標高など連続量は<strong>等値線図</strong>で表す。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 240\" role=\"img\" aria-label=\"統計地図の使い分け。相対値は階級区分図、絶対量は図形表現図、連続量は等値線図\">\n  <defs>\n    <marker id=\"ar-cg1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 統計地図（強調） -->\n  <rect x=\"85\" y=\"8\" width=\"170\" height=\"56\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"33\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"14\" font-weight=\"700\">統計地図の使い分け</text>\n  <text x=\"170\" y=\"53\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11\">データの性質で選ぶ</text>\n  <!-- 矢印 -->\n  <path d=\"M170,66 L60,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-cg1)\"/>\n  <path d=\"M170,66 L170,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-cg1)\"/>\n  <path d=\"M170,66 L280,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-cg1)\"/>\n  <!-- 階級区分図 -->\n  <rect x=\"10\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"142\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11.5\" font-weight=\"700\">階級区分図</text>\n  <text x=\"60\" y=\"168\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">相対値</text>\n  <text x=\"60\" y=\"190\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">密度・割合</text>\n  <text x=\"60\" y=\"210\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">色の濃淡</text>\n  <!-- 図形表現図 -->\n  <rect x=\"120\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"142\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11.5\" font-weight=\"700\">図形表現図</text>\n  <text x=\"170\" y=\"168\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">絶対量</text>\n  <text x=\"170\" y=\"190\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">総数</text>\n  <text x=\"170\" y=\"210\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">円の大きさ</text>\n  <!-- 等値線図 -->\n  <rect x=\"230\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"142\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11.5\" font-weight=\"700\">等値線図</text>\n  <text x=\"280\" y=\"168\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">連続量</text>\n  <text x=\"280\" y=\"190\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">気温・標高</text>\n  <text x=\"280\" y=\"210\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">等しい値の線</text>\n</svg>\n<figcaption>相対値か絶対量かで、地図の表現方法を選ぶ。</figcaption>\n</figure>\n\n<h2>4・GISと位置情報の技術</h2>\n\n<p><strong>GIS（地理情報システム）</strong>は、位置情報をもったデータをコンピュータ上で<strong>層（レイヤ）</strong>として重ね、分析・表示するしくみである。<strong>地理院地図</strong>や<strong>ハザードマップ</strong>はその身近な例で、防災や商業の立地分析に活用されている。</p>\n\n<p>位置を測る技術には、人工衛星の電波で現在地を求める<strong>GNSS</strong>（アメリカのGPSなど）と、地表に触れずに衛星などから観測する<strong>リモートセンシング</strong>がある。これらが集めた膨大なデータがGISを支えている。</p>\n\n<div class=\"callout\">\n  <strong>用語・GIS</strong><br>\n  位置情報をもつデータを重ね合わせて分析・表示するしくみ。地図を「レイヤ」で重ねることで、災害リスクや人口分布などを組み合わせて読み解ける。\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 240\" role=\"img\" aria-label=\"GISの考え方。標高・道路・人口・災害リスクなどの層を重ね合わせて分析する\">\n  <!-- レイヤの積み重ね（4層） -->\n  <g>\n    <polygon points=\"70,40 270,40 300,64 100,64\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n    <text x=\"185\" y=\"57\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11.5\" font-weight=\"700\">災害リスク</text>\n  </g>\n  <g>\n    <polygon points=\"70,90 270,90 300,114 100,114\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n    <text x=\"185\" y=\"107\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11.5\">人口分布</text>\n  </g>\n  <g>\n    <polygon points=\"70,140 270,140 300,164 100,164\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"185\" y=\"157\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11.5\">道路・鉄道</text>\n  </g>\n  <g>\n    <polygon points=\"70,190 270,190 300,214 100,214\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n    <text x=\"185\" y=\"207\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11.5\">標高・地形</text>\n  </g>\n  <text x=\"30\" y=\"130\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\" transform=\"rotate(-90 30 130)\">レイヤを重ねる</text>\n</svg>\n<figcaption>異なる情報を層として重ね、組み合わせて分析するのがGISの基本。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>要素</th><th>基準・内容</th></tr>\n  <tr><td>緯度</td><td>赤道を0度とする南北の位置</td></tr>\n  <tr><td>経度</td><td>本初子午線を0度とする東西の位置</td></tr>\n  <tr><td>日本の標準時</td><td>東経135度（明石市）</td></tr>\n  <tr><td>時差</td><td>経度15度ごとに1時間</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>メルカトル図法</td><td>角度が正しい。航海図。高緯度で面積拡大</td></tr>\n  <tr><td>正距方位図法</td><td>中心からの距離・方位が正しい。航空図</td></tr>\n  <tr><td>階級区分図</td><td>相対値（密度・割合）を色の濃淡で表す</td></tr>\n  <tr><td>図形表現図</td><td>絶対量（総数）を円の大きさで表す</td></tr>\n  <tr><td>GIS</td><td>位置情報を層で重ねて分析するしくみ</td></tr>\n  <tr><td>GNSS</td><td>衛星の電波で位置を測るしくみ（GPSなど）</td></tr>\n</table>\n\n<h3>使い分け</h3>\n\n<table>\n  <tr><th>目的</th><th>適した図法・地図</th></tr>\n  <tr><td>航海図（等角航路）</td><td>メルカトル図法</td></tr>\n  <tr><td>航空図（最短経路）</td><td>正距方位図法</td></tr>\n  <tr><td>分布図（面積）</td><td>正積図法（モルワイデ図法など）</td></tr>\n  <tr><td>防災</td><td>ハザードマップ</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  <b>メルカトル図法</b>（角度・航海図）と<b>正距方位図法</b>（距離と方位・航空図）を混同しないこと。統計地図では、<b>相対値は階級区分図</b>、<b>絶対量は図形表現図</b>で表す。人口総数を階級区分図で塗るのは誤り。\n</div>\n\n<blockquote>\n  <p>地図と地理情報は、世界を「見る」ための道具であると同時に、課題を「解く」ための道具でもある。位置・時差・図法という基本をおさえたうえで、次からはこの道具を使って、世界の人々の暮らしと地球的な課題を読み解いていこう。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "地理総合 ― 地図や地理情報システムで捉える現代世界",
+  "cards": [
+    {
+      "recto": "赤道を0度とし、南北の位置を示す座標を何というか。",
+      "verso": "緯度",
+      "explanation": "赤道が0度、南北の極が90度。東西の位置を示す経度と対で覚える。",
+      "tags": [
+        "位置",
+        "基礎"
+      ],
+      "distractors": {
+        "easy": [
+          "経度",
+          "標高",
+          "方位"
+        ],
+        "medium": [
+          "回帰線",
+          "子午線",
+          "赤道"
+        ],
+        "hard": [
+          "磁北",
+          "偏角",
+          "水準点"
+        ]
+      }
+    },
+    {
+      "recto": "イギリスのロンドン（旧グリニッジ天文台）を通り、経度0度の基準となる線を何というか。",
+      "verso": "本初子午線",
+      "explanation": "経度0度の基準線。ここから東を東経、西を西経で表す。日付変更線（180度付近）と区別する。",
+      "tags": [
+        "位置",
+        "基礎"
+      ],
+      "distractors": {
+        "easy": [
+          "赤道",
+          "回帰線",
+          "日付変更線"
+        ],
+        "medium": [
+          "経線",
+          "緯線",
+          "標準時子午線"
+        ],
+        "hard": [
+          "北回帰線",
+          "対蹠点",
+          "測地系基準線"
+        ]
+      }
+    },
+    {
+      "recto": "各国が自国の標準時の基準として定めた経線を何というか。",
+      "verso": "標準時子午線",
+      "explanation": "日本は東経135度（兵庫県明石市）を標準時子午線とする。経度15度ごとに1時間の時差が生じる。",
+      "tags": [
+        "時差",
+        "基礎"
+      ],
+      "distractors": {
+        "easy": [
+          "本初子午線",
+          "赤道",
+          "日付変更線"
+        ],
+        "medium": [
+          "回帰線",
+          "経線",
+          "緯線"
+        ],
+        "hard": [
+          "中央経線",
+          "測地基準線",
+          "地方時線"
+        ]
+      }
+    },
+    {
+      "recto": "経度が何度ちがうごとに1時間の時差が生じるか。",
+      "verso": "15度",
+      "explanation": "地球は24時間で360度回転するため、360÷24＝15度で1時間。時差計算の基本。",
+      "tags": [
+        "時差",
+        "計算"
+      ],
+      "distractors": {
+        "easy": [
+          "1度",
+          "90度",
+          "180度"
+        ],
+        "medium": [
+          "10度",
+          "20度",
+          "30度"
+        ],
+        "hard": [
+          "7.5度",
+          "12度",
+          "24度"
+        ]
+      }
+    },
+    {
+      "recto": "高緯度ほど面積が拡大するが、経線と緯線が直角に交わり、2点間の等角航路が直線で示される図法を何というか。",
+      "verso": "メルカトル図法",
+      "explanation": "角度が正しい正角図法で、航海図に用いられる。面積は高緯度ほど極端に拡大する点に注意。",
+      "tags": [
+        "図法",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "ハザードマップ",
+          "地形図",
+          "路線図"
+        ],
+        "medium": [
+          "モルワイデ図法",
+          "正距方位図法",
+          "サンソン図法"
+        ],
+        "hard": [
+          "ミラー図法",
+          "ボンヌ図法",
+          "グード図法"
+        ]
+      }
+    },
+    {
+      "recto": "中心からの距離と方位が正しく、中心と任意の地点を結ぶ直線が最短経路（大圏航路）を示す図法を何というか。",
+      "verso": "正距方位図法",
+      "explanation": "航空図に用いられる。中心からの距離・方位のみが正しく、周辺のゆがみが大きい点に注意。",
+      "tags": [
+        "図法",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "地形図",
+          "住宅地図",
+          "路線図"
+        ],
+        "medium": [
+          "メルカトル図法",
+          "モルワイデ図法",
+          "サンソン図法"
+        ],
+        "hard": [
+          "ランベルト正積方位図法",
+          "平射図法",
+          "心射図法"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】航海図に使われ角度が正しい図法と、航空図に使われ中心からの距離・方位が正しい図法を、順にそれぞれ何というか。",
+      "verso": "メルカトル図法と正距方位図法",
+      "explanation": "メルカトル図法＝正角（航海・等角航路が直線）、正距方位図法＝中心からの距離と方位（航空・大圏航路が直線）。用途と性質を逆にしない。",
+      "tags": [
+        "comparaison",
+        "図法"
+      ],
+      "distractors": {
+        "easy": [
+          "一般図と主題図",
+          "地形図と海図",
+          "紙地図とデジタル地図"
+        ],
+        "medium": [
+          "正距方位図法とメルカトル図法",
+          "モルワイデ図法とメルカトル図法",
+          "サンソン図法と正距方位図法"
+        ],
+        "hard": [
+          "メルカトル図法とモルワイデ図法",
+          "正積図法と正角図法",
+          "グード図法と正距方位図法"
+        ]
+      }
+    },
+    {
+      "recto": "面積が正しく表され、分布図など統計地図の世界図に適した図法の総称を何というか。",
+      "verso": "正積図法",
+      "explanation": "モルワイデ図法やサンソン図法が代表例。人口や生産の分布を示すのに向く。正角図法と対で覚える。",
+      "tags": [
+        "図法"
+      ],
+      "distractors": {
+        "easy": [
+          "路線図",
+          "一般図",
+          "鳥瞰図"
+        ],
+        "medium": [
+          "正角図法",
+          "正距図法",
+          "方位図法"
+        ],
+        "hard": [
+          "心射図法",
+          "平射図法",
+          "円錐図法"
+        ]
+      }
+    },
+    {
+      "recto": "地形・水系・道路・集落など、土地のようすを総合的にえがいた地図を何というか。",
+      "verso": "一般図",
+      "explanation": "地形図が代表例。特定のテーマだけを表す主題図と対になる。",
+      "tags": [
+        "地図の種類"
+      ],
+      "distractors": {
+        "easy": [
+          "主題図",
+          "路線図",
+          "天気図"
+        ],
+        "medium": [
+          "統計地図",
+          "分布図",
+          "ハザードマップ"
+        ],
+        "hard": [
+          "土地利用図",
+          "地質図",
+          "植生図"
+        ]
+      }
+    },
+    {
+      "recto": "人口・産業・気候など特定のテーマを表現した地図を何というか。",
+      "verso": "主題図",
+      "explanation": "統計地図（階級区分図など）やハザードマップが含まれる。土地全体を表す一般図と区別する。",
+      "tags": [
+        "地図の種類"
+      ],
+      "distractors": {
+        "easy": [
+          "一般図",
+          "地形図",
+          "鳥瞰図"
+        ],
+        "medium": [
+          "地勢図",
+          "基本図",
+          "白地図"
+        ],
+        "hard": [
+          "地籍図",
+          "実測図",
+          "編集図"
+        ]
+      }
+    },
+    {
+      "recto": "人口密度や割合など、区域ごとの数値を色の濃淡や模様で表す統計地図を何というか。",
+      "verso": "階級区分図（コロプレスマップ）",
+      "explanation": "割合や密度など「相対値」の表現に適する。絶対量は図形の大きさで示す図形表現図が適する。",
+      "tags": [
+        "統計地図"
+      ],
+      "distractors": {
+        "easy": [
+          "路線図",
+          "天気図",
+          "鳥瞰図"
+        ],
+        "medium": [
+          "図形表現図",
+          "ドットマップ",
+          "等値線図"
+        ],
+        "hard": [
+          "流線図",
+          "カルトグラム",
+          "メッシュマップ"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】人口の「総数（絶対量）」を地図に表すのに適しているのは、階級区分図と図形表現図のどちらか。",
+      "verso": "図形表現図",
+      "explanation": "絶対量は円などの大きさで表す図形表現図が適する。階級区分図は密度や割合など相対値に適する。混同注意。",
+      "tags": [
+        "piege",
+        "統計地図"
+      ],
+      "distractors": {
+        "easy": [
+          "路線図",
+          "天気図",
+          "一般図"
+        ],
+        "medium": [
+          "階級区分図",
+          "等高線図",
+          "ドットマップ"
+        ],
+        "hard": [
+          "等値線図",
+          "メッシュマップ",
+          "流線図"
+        ]
+      }
+    },
+    {
+      "recto": "気温や標高など、値の等しい地点を結んだ線で表す統計地図を何というか。",
+      "verso": "等値線図",
+      "explanation": "等温線や等高線が例。連続的に変化する量の表現に適する。",
+      "tags": [
+        "統計地図"
+      ],
+      "distractors": {
+        "easy": [
+          "路線図",
+          "天気図",
+          "鳥瞰図"
+        ],
+        "medium": [
+          "階級区分図",
+          "図形表現図",
+          "ドットマップ"
+        ],
+        "hard": [
+          "流線図",
+          "カルトグラム",
+          "変形地図"
+        ]
+      }
+    },
+    {
+      "recto": "位置情報をもったさまざまなデータをコンピュータ上で重ね合わせ、分析・表示するしくみを何というか。",
+      "verso": "GIS（地理情報システム）",
+      "explanation": "Geographic Information System の略。地図を「層（レイヤ）」で重ねて分析でき、防災や商業立地に活用される。",
+      "tags": [
+        "GIS",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "SNS",
+          "AI",
+          "OS"
+        ],
+        "medium": [
+          "GNSS",
+          "リモートセンシング",
+          "GPS"
+        ],
+        "hard": [
+          "RESAS",
+          "地理院地図",
+          "CAD"
+        ]
+      }
+    },
+    {
+      "recto": "人工衛星からの電波で地球上の現在位置を測定するしくみの総称を何というか。",
+      "verso": "GNSS（全球測位衛星システム）",
+      "explanation": "アメリカのGPSはその一つ。日本の「みちびき」もGNSSに含まれる。カーナビやスマホの位置測定に使われる。",
+      "tags": [
+        "GNSS",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "GIS",
+          "Wi-Fi",
+          "ETC"
+        ],
+        "medium": [
+          "リモートセンシング",
+          "レーダー",
+          "ソナー"
+        ],
+        "hard": [
+          "ジャイロセンサー",
+          "IoT",
+          "ビーコン"
+        ]
+      }
+    },
+    {
+      "recto": "人工衛星や航空機から、地表に触れずに地表のようすを観測する技術を何というか。",
+      "verso": "リモートセンシング",
+      "explanation": "遠隔探査ともいう。土地利用や植生、災害状況の広域把握に使われる。位置測定のGNSSと区別する。",
+      "tags": [
+        "観測技術"
+      ],
+      "distractors": {
+        "easy": [
+          "GIS",
+          "GNSS",
+          "SNS"
+        ],
+        "medium": [
+          "GPS",
+          "測量",
+          "航空写真の現地調査"
+        ],
+        "hard": [
+          "フィールドワーク",
+          "ドローン測量",
+          "地上測量"
+        ]
+      }
+    },
+    {
+      "recto": "国土地理院がインターネットで公開している、地形図や写真・防災情報を見られる地図サービスを何というか。",
+      "verso": "地理院地図",
+      "explanation": "GISの身近な例。標高や過去の空中写真、災害情報などをレイヤで重ねて閲覧できる。",
+      "tags": [
+        "GIS",
+        "身近な地図"
+      ],
+      "distractors": {
+        "easy": [
+          "グーグルアース",
+          "住宅地図",
+          "路線図"
+        ],
+        "medium": [
+          "RESAS",
+          "ハザードマップポータル",
+          "j-STAT MAP"
+        ],
+        "hard": [
+          "電子国土基本図",
+          "数値地図",
+          "白地図ぬりぬり"
+        ]
+      }
+    },
+    {
+      "recto": "洪水・地震・津波などの災害が予測される範囲や避難場所を示した地図を何というか。",
+      "verso": "ハザードマップ",
+      "explanation": "防災に役立つ主題図。自然災害と防災の学習で中心となる地図。",
+      "tags": [
+        "防災",
+        "主題図"
+      ],
+      "distractors": {
+        "easy": [
+          "路線図",
+          "天気図",
+          "観光マップ"
+        ],
+        "medium": [
+          "土地利用図",
+          "地質図",
+          "都市計画図"
+        ],
+        "hard": [
+          "被害想定図",
+          "防災マップ",
+          "液状化予測図"
+        ]
+      }
+    },
+    {
+      "recto": "地図上で実際の距離を縮めた割合を何というか。2万5千分の1地形図では1cmが実際の何mか。",
+      "verso": "縮尺（250m）",
+      "explanation": "縮尺2万5千分の1では、地図上1cm＝実際250m。分母が小さいほど詳しい（大縮尺）地図になる。",
+      "tags": [
+        "地形図",
+        "計算"
+      ],
+      "distractors": {
+        "easy": [
+          "方位（250m）",
+          "標高（250m）",
+          "等高線（250m）"
+        ],
+        "medium": [
+          "縮尺（2500m）",
+          "縮尺（25m）",
+          "縮尺（2.5m）"
+        ],
+        "hard": [
+          "縮尺（500m）",
+          "縮尺（125m）",
+          "縮尺（1000m）"
+        ]
+      }
+    },
+    {
+      "recto": "経度180度付近に引かれ、これをこえると日付を1日進めたり戻したりする境界の線を何というか。",
+      "verso": "日付変更線",
+      "explanation": "本初子午線（経度0度）のほぼ反対側にある。西から東へこえるときは日付を1日戻す。本初子午線と混同しない。",
+      "tags": [
+        "時差",
+        "基礎"
+      ],
+      "distractors": {
+        "easy": [
+          "本初子午線",
+          "赤道",
+          "回帰線"
+        ],
+        "medium": [
+          "標準時子午線",
+          "経線",
+          "緯線"
+        ],
+        "hard": [
+          "対蹠線",
+          "中央経線",
+          "測地基準線"
+        ]
+      }
+    }
+  ]
+}

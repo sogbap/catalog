@@ -1,0 +1,535 @@
+{
+  "id": "jp-koukou-chiri-sougou-chikyuu-kankyou",
+  "title": "地球的課題③：地球環境問題",
+  "emoji": "🌱",
+  "subject": "geography",
+  "country": "jp",
+  "courseDescription": "地球温暖化からオゾン層破壊、砂漠化、生物多様性まで。国境をこえる環境問題と持続可能な開発を学ぶ。",
+  "lesson": "<style>\n  /* 図版（SVG）のスタイル。テーマに合わせて currentColor（文字）と\n     var(--accent)（教科の色）で描画する。和文フォントを優先指定。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>地球的課題③：地球環境問題</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・地理総合<br>\n  <b>大項目B：</b>国際理解と国際協力<br>\n  <b>内容：</b>温暖化・オゾン層・生物多様性・SDGs\n</div>\n\n<blockquote>\n  <p><b>問い</b>　国境をこえる環境問題を、世界はどう解決しようとしているのだろうか。</p>\n</blockquote>\n\n<p>地球環境問題は、原因を出した国と被害を受ける国が異なり、一国では解決できない<strong>地球的課題</strong>である。<strong>地球温暖化</strong>・<strong>オゾン層破壊</strong>・<strong>酸性雨</strong>・<strong>砂漠化</strong>・<strong>生物多様性</strong>の減少——それぞれの原因と、国際協力による対策、そして<strong>持続可能な開発</strong>の考え方を整理しよう。</p>\n\n<h2>1・地球温暖化とオゾン層破壊</h2>\n\n<p><strong>地球温暖化</strong>は、化石燃料の燃焼で出る<strong>温室効果ガス</strong>（とくに<strong>CO₂</strong>）が原因で、海面上昇や異常気象を招く。対策として、先進国に削減を課した<strong>京都議定書</strong>（1997年）、全ての国が取り組む<strong>パリ協定</strong>（2015年）が結ばれた。</p>\n\n<p>これとよく混同されるのが<strong>オゾン層破壊</strong>である。原因は<strong>フロン</strong>で、対策は<strong>モントリオール議定書</strong>（1987年）。原因物質と対策条約が温暖化とは別であることに注意する。</p>\n\n<div class=\"callout\">\n  <strong>用語・地球温暖化とオゾン層破壊</strong><br>\n  地球温暖化＝原因はCO₂、対策は京都議定書／パリ協定。オゾン層破壊＝原因はフロン、対策はモントリオール議定書。原因と対策を取りちがえない。\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"地球温暖化とオゾン層破壊の比較。原因物質と対策条約の違い\">\n  <!-- 左：地球温暖化 -->\n  <rect x=\"12\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">地球温暖化</text>\n  <text x=\"87\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">気温の上昇</text>\n  <text x=\"26\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">原因：CO₂</text>\n  <text x=\"26\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">京都議定書</text>\n  <text x=\"26\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">パリ協定</text>\n  <!-- 右：オゾン層破壊 -->\n  <rect x=\"178\" y=\"8\" width=\"150\" height=\"168\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"34\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">オゾン層破壊</text>\n  <text x=\"253\" y=\"56\" text-anchor=\"middle\" style=\"fill:currentColor\" font-size=\"12\" font-weight=\"700\">紫外線の増加</text>\n  <text x=\"192\" y=\"90\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">原因：フロン</text>\n  <text x=\"192\" y=\"116\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">モントリオール</text>\n  <text x=\"192\" y=\"142\" text-anchor=\"start\" class=\"s-muted\" font-size=\"11\">議定書</text>\n</svg>\n<figcaption>最も混同しやすい二つ。原因物質と対策条約をセットで区別する。</figcaption>\n</figure>\n\n<h2>2・国境をこえる汚染と土地の荒廃</h2>\n\n<p>工場や自動車が出す物質が雨に溶けこむ<strong>酸性雨</strong>は、風に乗って国境をこえ、原因国と被害国が異なる<strong>越境汚染</strong>の例である。</p>\n\n<p>乾燥地域では、気候変動や過放牧・過耕作で土地が不毛になる<strong>砂漠化</strong>が進む（アフリカのサヘル地域）。また焼畑や商業伐採で<strong>熱帯林</strong>が失われ、CO₂の吸収が減って温暖化を進め、多くの生物のすみかも奪っている。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 240\" role=\"img\" aria-label=\"国境をこえる環境問題。酸性雨、砂漠化、熱帯林の減少とその特徴\">\n  <defs>\n    <marker id=\"ar-ck1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 地球環境問題（強調） -->\n  <rect x=\"85\" y=\"8\" width=\"170\" height=\"56\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"33\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13.5\" font-weight=\"700\">国境をこえる汚染</text>\n  <text x=\"170\" y=\"53\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11\">一国では解決できない</text>\n  <!-- 矢印 -->\n  <path d=\"M170,66 L60,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ck1)\"/>\n  <path d=\"M170,66 L170,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ck1)\"/>\n  <path d=\"M170,66 L280,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ck1)\"/>\n  <!-- 酸性雨 -->\n  <rect x=\"10\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">酸性雨</text>\n  <text x=\"60\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">硫黄・窒素酸化物</text>\n  <text x=\"60\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">森林・湖が枯れる</text>\n  <!-- 砂漠化 -->\n  <rect x=\"120\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">砂漠化</text>\n  <text x=\"170\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">過放牧・過耕作</text>\n  <text x=\"170\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">サヘル地域</text>\n  <!-- 熱帯林減少 -->\n  <rect x=\"230\" y=\"116\" width=\"100\" height=\"112\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"144\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11.5\" font-weight=\"700\">熱帯林の減少</text>\n  <text x=\"280\" y=\"172\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">焼畑・伐採</text>\n  <text x=\"280\" y=\"194\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">生物多様性の喪失</text>\n</svg>\n<figcaption>いずれも国境をこえ、たがいに結びついて悪化していく。</figcaption>\n</figure>\n\n<h2>3・生物多様性を守る国際協力</h2>\n\n<p>熱帯林の減少などで、生き物の豊かさである<strong>生物多様性</strong>が急速に失われている。これを守るため、多くの国際条約が結ばれてきた。</p>\n\n<p>絶滅のおそれのある野生生物の取引を規制する<strong>ワシントン条約</strong>、水鳥などの湿地を守る<strong>ラムサール条約</strong>などである。対象（取引か湿地か）と名前を取りちがえないことが大切である。</p>\n\n<h2>4・持続可能な開発とSDGs</h2>\n\n<p>これらの課題を根本から解くのが、環境と開発を両立させる<strong>持続可能な開発</strong>の考え方である。1992年の<strong>地球サミット</strong>で世界に広まり、2015年には国連が<strong>SDGs</strong>（17の目標）を採択した。</p>\n\n<p>ただし、「過去に多く排出した先進国」と「これから発展したい途上国」の対立（<strong>南北問題</strong>）が対策を難しくしてきた。パリ協定はこの溝をこえる工夫をした。私たち一人ひとりの<strong>エシカル消費</strong>も、解決につながる行動となる。</p>\n\n<div class=\"callout\">\n  <strong>用語・持続可能な開発</strong><br>\n  将来の世代の欲求を満たす能力をそこなわずに、現在の世代の欲求も満たす開発。環境と開発を両立させる考え方で、SDGsの土台となっている。\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 250\" role=\"img\" aria-label=\"地球環境をめぐる国際的な取り組みの年表\">\n  <line x1=\"74\" y1=\"22\" x2=\"74\" y2=\"232\" style=\"stroke:var(--accent);stroke-width:3;stroke-linecap:round\"/>\n  <circle cx=\"74\" cy=\"40\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"45\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"14\" font-weight=\"800\">1987</text>\n  <text x=\"90\" y=\"45\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"12.5\">モントリオール議定書</text>\n  <circle cx=\"74\" cy=\"103\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"108\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"14\" font-weight=\"800\">1992</text>\n  <text x=\"90\" y=\"108\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"12.5\">地球サミット（リオ）</text>\n  <circle cx=\"74\" cy=\"166\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"171\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"14\" font-weight=\"800\">1997</text>\n  <text x=\"90\" y=\"171\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"12.5\">京都議定書</text>\n  <circle cx=\"74\" cy=\"229\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"234\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"14\" font-weight=\"800\">2015</text>\n  <text x=\"90\" y=\"234\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"12.5\">パリ協定・SDGs</text>\n</svg>\n<figcaption>環境をめぐる国際協力は、条約と会議を重ねて広がってきた。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>年</th><th>できごと</th></tr>\n  <tr><td>1987年</td><td>モントリオール議定書（フロン規制）</td></tr>\n  <tr><td>1992年</td><td>地球サミット（リオデジャネイロ）</td></tr>\n  <tr><td>1997年</td><td>京都議定書（先進国の削減義務）</td></tr>\n  <tr><td>2015年</td><td>パリ協定・SDGsの採択</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>地球温暖化</td><td>CO₂による気温上昇。京都議定書・パリ協定</td></tr>\n  <tr><td>オゾン層破壊</td><td>フロンによる。モントリオール議定書</td></tr>\n  <tr><td>酸性雨</td><td>硫黄・窒素酸化物による越境汚染</td></tr>\n  <tr><td>生物多様性</td><td>生き物の種類・生態系の豊かさ</td></tr>\n  <tr><td>持続可能な開発</td><td>環境と開発を両立させる考え方</td></tr>\n  <tr><td>SDGs</td><td>2030年までの17の持続可能な開発目標</td></tr>\n</table>\n\n<h3>問題と国際的な対策</h3>\n\n<table>\n  <tr><th>問題</th><th>対策の条約・枠組み</th></tr>\n  <tr><td>地球温暖化</td><td>京都議定書・パリ協定</td></tr>\n  <tr><td>オゾン層破壊</td><td>モントリオール議定書</td></tr>\n  <tr><td>野生生物の取引</td><td>ワシントン条約</td></tr>\n  <tr><td>湿地の保護</td><td>ラムサール条約</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  <b>地球温暖化</b>（CO₂・京都議定書／パリ協定）と<b>オゾン層破壊</b>（フロン・モントリオール議定書）を混同しないこと。また<b>ワシントン条約</b>（野生生物の取引）と<b>ラムサール条約</b>（湿地）も対象を取りちがえない。\n</div>\n\n<blockquote>\n  <p>地球環境問題は、国境も世代もこえる。だからこそ、条約や国際会議による協力と、持続可能な開発という共通の理念が必要になる。世界の課題を学んだうえで、次は視点を足もとに移し、日本の自然環境と防災、そして持続可能な地域づくりを考えよう。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "地理総合 ― 国際理解と国際協力",
+  "cards": [
+    {
+      "recto": "二酸化炭素などの増加によって地球の平均気温が上昇する現象を何というか。",
+      "verso": "地球温暖化",
+      "explanation": "化石燃料の大量消費が主な原因。海面上昇や異常気象を引き起こす、最大の地球環境問題の一つ。",
+      "tags": [
+        "温暖化",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "オゾン層破壊",
+          "酸性雨",
+          "砂漠化"
+        ],
+        "medium": [
+          "ヒートアイランド",
+          "エルニーニョ",
+          "寒冷化"
+        ],
+        "hard": [
+          "温室効果",
+          "気候変動という上位概念",
+          "都市化"
+        ]
+      }
+    },
+    {
+      "recto": "地球温暖化の主な原因となる、二酸化炭素やメタンなどの気体をまとめて何というか。",
+      "verso": "温室効果ガス",
+      "explanation": "地表からの熱を吸収して気温を上げる。なかでも化石燃料の燃焼で出る二酸化炭素（CO₂）が最も影響が大きい。",
+      "tags": [
+        "温暖化",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "フロン",
+          "酸素",
+          "窒素"
+        ],
+        "medium": [
+          "硫黄酸化物",
+          "窒素酸化物",
+          "PM2.5"
+        ],
+        "hard": [
+          "エアロゾル",
+          "光化学オキシダント",
+          "オゾン"
+        ]
+      }
+    },
+    {
+      "recto": "1997年に採択され、先進国に温室効果ガスの削減目標を課した国際的な取り決めを何というか。",
+      "verso": "京都議定書",
+      "explanation": "地球温暖化対策の枠組み。先進国のみに義務を課した。2015年のパリ協定に引きつがれる。",
+      "tags": [
+        "温暖化",
+        "国際協定"
+      ],
+      "distractors": {
+        "easy": [
+          "ポツダム宣言",
+          "国連憲章",
+          "サンフランシスコ平和条約"
+        ],
+        "medium": [
+          "パリ協定",
+          "モントリオール議定書",
+          "気候変動枠組条約"
+        ],
+        "hard": [
+          "ラムサール条約",
+          "ワシントン条約",
+          "バーゼル条約"
+        ]
+      }
+    },
+    {
+      "recto": "2015年に採択され、先進国と途上国の全ての国が温室効果ガス削減に取り組むことを定めた協定を何というか。",
+      "verso": "パリ協定",
+      "explanation": "京都議定書（先進国のみ）と異なり、途上国も含む枠組み。世界の平均気温の上昇を抑える目標を掲げた。",
+      "tags": [
+        "温暖化",
+        "国際協定"
+      ],
+      "distractors": {
+        "easy": [
+          "国連憲章",
+          "ベルサイユ条約",
+          "ポツダム宣言"
+        ],
+        "medium": [
+          "京都議定書",
+          "モントリオール議定書",
+          "ラムサール条約"
+        ],
+        "hard": [
+          "コペンハーゲン合意",
+          "名古屋議定書",
+          "カンクン合意"
+        ]
+      }
+    },
+    {
+      "recto": "冷蔵庫やエアコンに使われたフロンによって、上空で有害な紫外線をさえぎる層が壊される問題を何というか。",
+      "verso": "オゾン層破壊",
+      "explanation": "南極上空のオゾンホールが有名。原因はフロンで、地球温暖化（原因はCO₂）とは別の問題。混同注意。",
+      "tags": [
+        "オゾン層",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "地球温暖化",
+          "酸性雨",
+          "砂漠化"
+        ],
+        "medium": [
+          "光化学スモッグ",
+          "ヒートアイランド",
+          "熱帯林破壊"
+        ],
+        "hard": [
+          "温室効果",
+          "PM2.5",
+          "越境大気汚染"
+        ]
+      }
+    },
+    {
+      "recto": "オゾン層を破壊する原因物質として使用が規制された、冷媒などに使われた物質を何というか。",
+      "verso": "フロン",
+      "explanation": "モントリオール議定書で規制された。地球温暖化の原因である二酸化炭素と取りちがえないこと。",
+      "tags": [
+        "オゾン層"
+      ],
+      "distractors": {
+        "easy": [
+          "二酸化炭素",
+          "酸素",
+          "水素"
+        ],
+        "medium": [
+          "メタン",
+          "硫黄酸化物",
+          "窒素酸化物"
+        ],
+        "hard": [
+          "代替フロン",
+          "一酸化二窒素",
+          "六フッ化硫黄"
+        ]
+      }
+    },
+    {
+      "recto": "1987年に採択され、オゾン層を破壊するフロンの使用を規制した国際的な取り決めを何というか。",
+      "verso": "モントリオール議定書",
+      "explanation": "オゾン層保護の枠組み。温暖化対策の京都議定書（CO₂）と混同しやすいので、物質と対象で区別する。",
+      "tags": [
+        "オゾン層",
+        "国際協定"
+      ],
+      "distractors": {
+        "easy": [
+          "国連憲章",
+          "パリ協定",
+          "ポツダム宣言"
+        ],
+        "medium": [
+          "京都議定書",
+          "気候変動枠組条約",
+          "ラムサール条約"
+        ],
+        "hard": [
+          "ウィーン条約",
+          "バーゼル条約",
+          "ストックホルム条約"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】原因が二酸化炭素で京都議定書が対策となる問題と、原因がフロンでモントリオール議定書が対策となる問題を、順にそれぞれ何というか。",
+      "verso": "地球温暖化とオゾン層破壊",
+      "explanation": "地球温暖化＝CO₂・京都議定書／パリ協定、オゾン層破壊＝フロン・モントリオール議定書。原因物質と対策条約を取りちがえない。",
+      "tags": [
+        "comparaison",
+        "環境"
+      ],
+      "distractors": {
+        "easy": [
+          "酸性雨と砂漠化",
+          "洪水と干ばつ",
+          "地震と津波"
+        ],
+        "medium": [
+          "オゾン層破壊と地球温暖化",
+          "酸性雨と地球温暖化",
+          "地球温暖化と酸性雨"
+        ],
+        "hard": [
+          "オゾン層破壊と酸性雨",
+          "地球温暖化と熱帯林破壊",
+          "砂漠化とオゾン層破壊"
+        ]
+      }
+    },
+    {
+      "recto": "工場や自動車が出す硫黄酸化物や窒素酸化物が雨に溶けこみ、森林や湖を枯らす問題を何というか。",
+      "verso": "酸性雨",
+      "explanation": "風に乗って国境をこえる越境汚染の例。原因を出した国と被害を受ける国が異なることが多い。",
+      "tags": [
+        "環境",
+        "越境汚染"
+      ],
+      "distractors": {
+        "easy": [
+          "地球温暖化",
+          "オゾン層破壊",
+          "砂漠化"
+        ],
+        "medium": [
+          "光化学スモッグ",
+          "赤潮",
+          "黄砂"
+        ],
+        "hard": [
+          "越境大気汚染の別称",
+          "スモッグ",
+          "PM2.5汚染"
+        ]
+      }
+    },
+    {
+      "recto": "気候変動や過放牧・過耕作によって、乾燥地域の土地が荒れて不毛になっていく現象を何というか。",
+      "verso": "砂漠化",
+      "explanation": "アフリカのサヘル地域で深刻。人口増加による過度の土地利用も原因の一つで、飢餓とも結びつく。",
+      "tags": [
+        "環境",
+        "土地"
+      ],
+      "distractors": {
+        "easy": [
+          "地球温暖化",
+          "オゾン層破壊",
+          "酸性雨"
+        ],
+        "medium": [
+          "塩害",
+          "土壌流出",
+          "熱帯林減少"
+        ],
+        "hard": [
+          "土地劣化",
+          "サヘル化",
+          "干ばつ"
+        ]
+      }
+    },
+    {
+      "recto": "焼畑や商業伐採、農地開発によって、アマゾンや東南アジアなどの森林が急速に失われる問題を何というか。",
+      "verso": "熱帯林の減少",
+      "explanation": "多様な生物のすみかが失われ、CO₂の吸収も減って温暖化を進める。生物多様性の減少とも結びつく。",
+      "tags": [
+        "環境",
+        "森林"
+      ],
+      "distractors": {
+        "easy": [
+          "砂漠化",
+          "オゾン層破壊",
+          "酸性雨"
+        ],
+        "medium": [
+          "里山の荒廃",
+          "植林",
+          "砂漠緑化"
+        ],
+        "hard": [
+          "森林破壊の別称",
+          "焼畑農業そのもの",
+          "プランテーション化"
+        ]
+      }
+    },
+    {
+      "recto": "生き物の種類の豊かさや、生態系のバランスが保たれている状態を何というか。",
+      "verso": "生物多様性",
+      "explanation": "熱帯林の減少などで急速に失われている。守るため、生物多様性条約や名古屋議定書が結ばれた。",
+      "tags": [
+        "環境",
+        "生態系"
+      ],
+      "distractors": {
+        "easy": [
+          "食物連鎖",
+          "光合成",
+          "食料自給"
+        ],
+        "medium": [
+          "生態系サービス",
+          "外来種",
+          "絶滅危惧種"
+        ],
+        "hard": [
+          "遺伝的多様性",
+          "種の多様性",
+          "バイオーム"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】野生生物の保護のため、絶滅のおそれのある動植物の国際取引を規制した条約を何というか。",
+      "verso": "ワシントン条約",
+      "explanation": "野生生物の取引規制はワシントン条約。湿地の保護はラムサール条約。名前と対象を取りちがえない。",
+      "tags": [
+        "piege",
+        "環境"
+      ],
+      "distractors": {
+        "easy": [
+          "京都議定書",
+          "パリ協定",
+          "国連憲章"
+        ],
+        "medium": [
+          "ラムサール条約",
+          "モントリオール議定書",
+          "バーゼル条約"
+        ],
+        "hard": [
+          "生物多様性条約",
+          "名古屋議定書",
+          "カルタヘナ議定書"
+        ]
+      }
+    },
+    {
+      "recto": "水鳥などの生息地として重要な湿地を守るために結ばれた条約を何というか。",
+      "verso": "ラムサール条約",
+      "explanation": "湿地の保護が対象。野生生物の取引を規制するワシントン条約と混同しやすいので区別する。",
+      "tags": [
+        "環境",
+        "国際協定"
+      ],
+      "distractors": {
+        "easy": [
+          "京都議定書",
+          "パリ協定",
+          "ポツダム宣言"
+        ],
+        "medium": [
+          "ワシントン条約",
+          "モントリオール議定書",
+          "バーゼル条約"
+        ],
+        "hard": [
+          "生物多様性条約",
+          "世界遺産条約",
+          "名古屋議定書"
+        ]
+      }
+    },
+    {
+      "recto": "将来の世代の欲求を満たす能力をそこなわずに、現在の世代の欲求も満たす開発のあり方を何というか。",
+      "verso": "持続可能な開発",
+      "explanation": "環境と開発を両立させる考え方。1992年の地球サミットで理念が広まり、SDGsの土台となった。",
+      "tags": [
+        "持続可能性",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "高度経済成長",
+          "大量生産",
+          "自由貿易"
+        ],
+        "medium": [
+          "経済成長",
+          "循環型社会",
+          "グリーン成長"
+        ],
+        "hard": [
+          "内発的発展",
+          "ゼロ成長",
+          "定常経済"
+        ]
+      }
+    },
+    {
+      "recto": "1992年、ブラジルのリオデジャネイロで開かれ、気候変動枠組条約などが採択された国際会議を何というか。",
+      "verso": "地球サミット（国連環境開発会議）",
+      "explanation": "持続可能な開発を世界に広めた会議。ここから温暖化や生物多様性の国際的な取り組みが本格化した。",
+      "tags": [
+        "環境",
+        "国際会議"
+      ],
+      "distractors": {
+        "easy": [
+          "パリ講和会議",
+          "ワシントン会議",
+          "ヤルタ会談"
+        ],
+        "medium": [
+          "ストックホルム会議",
+          "京都会議",
+          "バンドン会議"
+        ],
+        "hard": [
+          "ヨハネスブルグサミット",
+          "ラムサール会議",
+          "リオ+20"
+        ]
+      }
+    },
+    {
+      "recto": "2015年に国連が採択した、2030年までに達成すべき17の目標からなる「持続可能な開発目標」の略称を何というか。",
+      "verso": "SDGs",
+      "explanation": "貧困・環境・平等など17の目標を掲げる。持続可能な開発を、世界共通の目標として具体化したもの。",
+      "tags": [
+        "持続可能性",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "GDP",
+          "GHQ",
+          "PKO"
+        ],
+        "medium": [
+          "MDGs",
+          "ODA",
+          "ESG"
+        ],
+        "hard": [
+          "COP",
+          "IPCC",
+          "UNEP"
+        ]
+      }
+    },
+    {
+      "recto": "環境問題のように、原因を出した国と被害を受ける国が異なり、一国だけでは解決できない問題の性質を何というか。",
+      "verso": "地球的課題（地球環境問題の越境性）",
+      "explanation": "酸性雨やCO₂は国境をこえる。だからこそ国際協力（条約や国際会議）が不可欠になる。",
+      "tags": [
+        "環境",
+        "国際協力"
+      ],
+      "distractors": {
+        "easy": [
+          "国内問題",
+          "地域問題",
+          "個人の問題"
+        ],
+        "medium": [
+          "南北問題",
+          "民族問題",
+          "都市問題"
+        ],
+        "hard": [
+          "外部不経済",
+          "公共財の悲劇",
+          "コモンズの悲劇"
+        ]
+      }
+    },
+    {
+      "recto": "先進国が過去に多くの温室効果ガスを出してきた責任と、途上国の開発の権利をめぐって生じる、地球温暖化対策の立場の対立を何というか。",
+      "verso": "先進国と途上国の対立（南北問題）",
+      "explanation": "「これまで出してきたのは先進国」「これから発展したい途上国」の主張が対立する。パリ協定はこの溝をこえる工夫をした。",
+      "tags": [
+        "環境",
+        "格差"
+      ],
+      "distractors": {
+        "easy": [
+          "東西対立",
+          "冷戦",
+          "民族紛争"
+        ],
+        "medium": [
+          "南南問題",
+          "資源ナショナリズム",
+          "貿易摩擦"
+        ],
+        "hard": [
+          "共通だが差異ある責任という原則名",
+          "環境正義",
+          "気候正義"
+        ]
+      }
+    },
+    {
+      "recto": "環境に配慮した商品を選んで買うなど、社会や環境のことを考えた消費行動を何というか。",
+      "verso": "エシカル消費（倫理的消費）",
+      "explanation": "フェアトレード商品や地産地消の選択など。一人ひとりの消費が地球的課題の解決につながるという考え方。",
+      "tags": [
+        "持続可能性",
+        "行動"
+      ],
+      "distractors": {
+        "easy": [
+          "大量消費",
+          "衝動買い",
+          "浪費"
+        ],
+        "medium": [
+          "フェアトレード",
+          "地産地消",
+          "リサイクル"
+        ],
+        "hard": [
+          "グリーンコンシューマー",
+          "サステナブル消費",
+          "ミニマリズム"
+        ]
+      }
+    }
+  ]
+}
