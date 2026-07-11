@@ -1,0 +1,537 @@
+{
+  "id": "jp-koukou-rekishi-sougou-kaikoku",
+  "title": "結び付く世界と日本の開国",
+  "emoji": "⚓",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "18〜19世紀、欧米列強がアジアへ進出するなか、日本は開国を迫られ、不平等条約を結んで世界の動きに組み込まれていく過程を学ぶ。",
+  "lesson": "<style>\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>結び付く世界と日本の開国</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年・歴史総合<br>\n  <b>大項目B：</b>近代化と私たち<br>\n  <b>時期：</b>19世紀前半〜1860年代\n</div>\n\n<blockquote>\n  <p><b>問い</b>　欧米列強が世界へ進出するなか、日本はなぜ開国を迫られ、どのような条件で世界と結び付いたのだろうか。</p>\n</blockquote>\n\n<p>19世紀、産業革命を成し遂げた欧米列強は、市場と資源を求めてアジアへ進出した。清はアヘン戦争で敗れ、インドはイギリスの植民地となった。その波はやがて日本にも押し寄せ、江戸幕府は<strong>開国</strong>を余儀なくされる。</p>\n\n<h2>1・欧米のアジア進出</h2>\n\n<p>18世紀末から19世紀にかけて、イギリスを先頭に<strong>産業革命</strong>が欧米各地に広まった。工業化で生産力を高めた列強は、原材料の供給地・工業製品の市場としてアジア・アフリカへの進出を強めた。</p>\n\n<p>1840〜42年の<strong>アヘン戦争</strong>では、清がイギリスに敗れて<strong>南京条約</strong>を結び、香港を割譲・5港を開港した。この「東洋の大国」の敗北は日本に深刻な衝撃を与え、幕府内でも海防強化と開国の是非をめぐる議論が起きた。</p>\n\n<div class=\"callout\">\n  <strong>用語・南京条約</strong><br>\n  1842年のアヘン戦争後に清がイギリスと結んだ条約。香港割譲と5港開港を定めた東アジア初の不平等条約。\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 260\" role=\"img\" aria-label=\"19世紀の欧米列強のアジア進出と各地の対応\">\n  <defs>\n    <marker id=\"ar-kk\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <!-- 欧米（上中央） -->\n  <rect x=\"110\" y=\"8\" width=\"120\" height=\"44\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"35\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"14\" font-weight=\"700\">欧米列強</text>\n  <!-- 矢印3本 -->\n  <path d=\"M120,52 L70,110\" style=\"fill:none;stroke:var(--accent);stroke-width:1.8\" marker-end=\"url(#ar-kk)\"/>\n  <path d=\"M170,52 L170,110\" style=\"fill:none;stroke:var(--accent);stroke-width:1.8\" marker-end=\"url(#ar-kk)\"/>\n  <path d=\"M220,52 L270,110\" style=\"fill:none;stroke:var(--accent);stroke-width:1.8\" marker-end=\"url(#ar-kk)\"/>\n  <!-- インド -->\n  <rect x=\"14\" y=\"112\" width=\"110\" height=\"56\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"69\" y=\"138\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">インド</text>\n  <text x=\"69\" y=\"158\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">英の植民地に</text>\n  <!-- 清 -->\n  <rect x=\"115\" y=\"112\" width=\"110\" height=\"56\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"138\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">清</text>\n  <text x=\"170\" y=\"158\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">南京条約（1842）</text>\n  <!-- 日本 -->\n  <rect x=\"216\" y=\"112\" width=\"110\" height=\"56\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"271\" y=\"138\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12.5\" font-weight=\"700\">日本</text>\n  <text x=\"271\" y=\"158\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">開国（1854・58）</text>\n  <!-- 結果ラベル -->\n  <text x=\"170\" y=\"210\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11\">↓　アジアが欧米主導の世界秩序に組み込まれる</text>\n  <rect x=\"40\" y=\"220\" width=\"260\" height=\"32\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.35;stroke-width:1.2\"/>\n  <text x=\"170\" y=\"241\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"12\" font-weight=\"700\">不平等条約体制の成立</text>\n</svg>\n<figcaption>産業革命後の欧米列強がアジアへ進出し、各地で不平等条約が結ばれた。</figcaption>\n</figure>\n\n<h2>2・ペリー来航と日米和親条約</h2>\n\n<p>1853年、アメリカの<strong>ペリー</strong>が4隻の艦隊（<strong>黒船</strong>）を率いて<strong>浦賀</strong>に来航し、開国を要求した。蒸気船の力を見せつけられた幕府は動揺し、翌1854年に<strong>日米和親条約</strong>（神奈川条約）を結んだ。これにより<strong>下田</strong>と<strong>箱館</strong>が開かれ、260年余の鎖国が終わった。</p>\n\n<p>日本はさらにイギリス・ロシア・オランダとも和親条約を結んだ（<strong>安政の和親条約</strong>）。ただしこの段階では貿易は定められていなかった。</p>\n\n<div class=\"callout\">\n  <strong>用語・日米和親条約</strong><br>\n  1854年に幕府とアメリカが結んだ条約。下田と箱館を開港し、日本の鎖国に終止符を打った。貿易は定めていない点に注意。\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 170\" role=\"img\" aria-label=\"ペリー来航から開国までの流れ\">\n  <defs>\n    <marker id=\"ar-kk2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"14\" y=\"8\" width=\"140\" height=\"50\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"84\" y=\"30\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">1853年</text>\n  <text x=\"84\" y=\"50\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11\">ペリー　浦賀来航</text>\n  <path d=\"M154,33 L186,33\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-kk2)\"/>\n  <rect x=\"186\" y=\"8\" width=\"140\" height=\"50\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"256\" y=\"30\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">1854年</text>\n  <text x=\"256\" y=\"50\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11\">日米和親条約（開国）</text>\n  <path d=\"M170,58 L170,88\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-kk2)\"/>\n  <rect x=\"60\" y=\"90\" width=\"220\" height=\"50\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"112\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">1858年</text>\n  <text x=\"170\" y=\"132\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"11\">日米修好通商条約（貿易開始・不平等）</text>\n</svg>\n<figcaption>1853年の来航から1858年の通商条約まで、日本の開国は段階的に進んだ。</figcaption>\n</figure>\n\n<h2>3・日米修好通商条約と不平等条項</h2>\n\n<p>1858年、大老<strong>井伊直弼</strong>は天皇の勅許を得ないまま<strong>日米修好通商条約</strong>を締結した。神奈川・長崎など5港が開かれ、本格的な貿易が始まった。しかしこの条約には二つの<strong>不平等条項</strong>があった。</p>\n\n<p>一つ目は<strong>領事裁判権</strong>（治外法権）：日本国内で外国人が犯罪をおかしても、その国の領事が裁く制度で、日本の司法権が及ばない。二つ目は<strong>関税自主権</strong>の欠如：輸入品にかける税率を日本が自由に決められないため、国内産業の保護が困難だった。</p>\n\n<div class=\"callout\">\n  <strong>用語・安政五カ国条約</strong><br>\n  1858年に日本がアメリカ・オランダ・ロシア・イギリス・フランスと結んだ修好通商条約の総称。いずれも不平等条項を含む。\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"日米修好通商条約の不平等条項の説明図\">\n  <!-- 左：領事裁判権 -->\n  <rect x=\"12\" y=\"8\" width=\"148\" height=\"160\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"86\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">領事裁判権</text>\n  <text x=\"86\" y=\"58\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">外国人の犯罪を</text>\n  <text x=\"86\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">その国の領事が裁く</text>\n  <text x=\"86\" y=\"106\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">→ 日本の司法権が</text>\n  <text x=\"86\" y=\"124\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">   外国人に及ばない</text>\n  <text x=\"86\" y=\"154\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">（治外法権）</text>\n  <!-- 右：関税自主権なし -->\n  <rect x=\"180\" y=\"8\" width=\"148\" height=\"160\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"254\" y=\"36\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">関税自主権の欠如</text>\n  <text x=\"254\" y=\"58\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">輸入税率を</text>\n  <text x=\"254\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">日本が決められない</text>\n  <text x=\"254\" y=\"106\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">→ 国内産業を</text>\n  <text x=\"254\" y=\"124\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">   関税で守れない</text>\n  <text x=\"254\" y=\"154\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">（協定関税）</text>\n</svg>\n<figcaption>日米修好通商条約の二つの不平等条項。いずれも明治政府が条約改正で解決を目指した課題となった。</figcaption>\n</figure>\n\n<h2>4・開国の影響と世界との結び付き</h2>\n\n<p>開国後、日本の主な輸出品は<strong>生糸</strong>・茶で、輸入品は毛織物・綿製品などだった。輸出が急増したため国内で品不足が起き、さらに日本と欧米の<strong>金銀比価</strong>の差から大量の金が流出して物価が急騰した。</p>\n\n<p>開国は単なる港の開放にとどまらず、日本が欧米主導の<strong>資本主義世界経済</strong>に組み込まれたことを意味した。清・インド・東南アジア各地と同様に、日本もこの時代の「世界の結び付き」の一部となったのである。</p>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  <b>日米和親条約</b>（1854年）は鎖国を終わらせただけで<b>貿易は定めていない</b>。本格的な貿易開始と<b>不平等条項</b>（領事裁判権・関税自主権なし）は<b>日米修好通商条約</b>（1858年）から。二つの条約を混同しないこと。\n</div>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>年</th><th>できごと</th></tr>\n  <tr><td>1840〜42年</td><td>アヘン戦争　清がイギリスに敗れ南京条約を締結</td></tr>\n  <tr><td>1853年</td><td>ペリー　黒船で浦賀に来航・開国要求</td></tr>\n  <tr><td>1854年</td><td>日米和親条約（下田・箱館を開港、鎖国終了）</td></tr>\n  <tr><td>1858年</td><td>日米修好通商条約（安政五カ国条約、不平等条項）</td></tr>\n  <tr><td>1858年</td><td>安政の大獄（井伊直弼が反対派を弾圧）</td></tr>\n  <tr><td>1860年</td><td>桜田門外の変（井伊直弼が暗殺される）</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>南京条約</td><td>1842年アヘン戦争後に清がイギリスと結んだ不平等条約</td></tr>\n  <tr><td>日米和親条約</td><td>1854年締結・下田と箱館を開港、鎖国終了。貿易は定めず</td></tr>\n  <tr><td>日米修好通商条約</td><td>1858年締結・5港開港・貿易開始、領事裁判権と関税自主権欠如</td></tr>\n  <tr><td>領事裁判権</td><td>外国人犯罪をその国の領事が裁く権利。日本の司法権が及ばない</td></tr>\n  <tr><td>関税自主権</td><td>輸入品への課税率を自国で決める権利。条約では欠如していた</td></tr>\n  <tr><td>安政五カ国条約</td><td>1858年に日本が5カ国（米・蘭・露・英・仏）と結んだ条約群</td></tr>\n</table>\n\n<h3>重要人物</h3>\n\n<table>\n  <tr><th>人物</th><th>役割</th></tr>\n  <tr><td>ペリー</td><td>アメリカ海軍提督。黒船で来航し開国を迫った</td></tr>\n  <tr><td>ハリス</td><td>アメリカ初代駐日総領事。日米修好通商条約を交渉した</td></tr>\n  <tr><td>井伊直弼</td><td>大老。勅許なしに修好通商条約を締結。安政の大獄を断行</td></tr>\n</table>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 320\" role=\"img\" aria-label=\"開国をめぐる年表の図解\">\n  <line x1=\"74\" y1=\"20\" x2=\"74\" y2=\"300\" style=\"stroke:var(--accent);stroke-width:3;stroke-linecap:round\"/>\n  <circle cx=\"74\" cy=\"40\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"45\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"14\" font-weight=\"800\">1842</text>\n  <text x=\"90\" y=\"45\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"12.5\">南京条約（清の敗北）</text>\n  <circle cx=\"74\" cy=\"110\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"115\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"14\" font-weight=\"800\">1853</text>\n  <text x=\"90\" y=\"115\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"12.5\">ペリー浦賀来航（黒船）</text>\n  <circle cx=\"74\" cy=\"180\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"185\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"14\" font-weight=\"800\">1854</text>\n  <text x=\"90\" y=\"185\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"12.5\">日米和親条約（開国）</text>\n  <circle cx=\"74\" cy=\"250\" r=\"7\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"255\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"14\" font-weight=\"800\">1858</text>\n  <text x=\"90\" y=\"255\" text-anchor=\"start\" style=\"fill:currentColor\" font-size=\"12.5\">日米修好通商条約（不平等）</text>\n</svg>\n</figure>\n\n<blockquote>\n  <p>19世紀の「世界の結び付き」は、日本に<strong>開国</strong>という形で押し寄せた。不平等条約という重い枷を負いながらも、日本はこの経験をバネに<strong>条約改正</strong>と<strong>近代国家</strong>の建設へと向かっていく。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "歴史総合 ― 近代化と私たち",
+  "cards": [
+    {
+      "recto": "18世紀末〜19世紀、欧米が産業革命を背景に世界各地へ市場と資源を求めて進出した動きを何というか。",
+      "verso": "帝国主義（的膨張）／資本主義の世界的拡大",
+      "explanation": "産業革命によって生産力が高まった欧米は、原料調達・市場確保のため、アジア・アフリカへ進出を強めた。",
+      "tags": [
+        "世界情勢",
+        "19世紀"
+      ],
+      "distractors": {
+        "easy": [
+          "ルネサンス",
+          "宗教改革",
+          "十字軍"
+        ],
+        "medium": [
+          "重商主義",
+          "植民地貿易",
+          "東インド会社の活動"
+        ],
+        "hard": [
+          "自由貿易帝国主義",
+          "砲艦外交",
+          "モンロー主義"
+        ]
+      }
+    },
+    {
+      "recto": "19世紀なかば、清がイギリスとのアヘン戦争（1840〜42年）に敗れ結んだ不平等条約は何か。",
+      "verso": "南京条約",
+      "explanation": "南京条約で清は香港をイギリスに割譲し、広州など5港を開港した。東アジアの国際秩序が大きく変わるきっかけとなった。",
+      "tags": [
+        "東アジア",
+        "条約"
+      ],
+      "distractors": {
+        "easy": [
+          "ベルサイユ条約",
+          "下関条約",
+          "ポーツマス条約"
+        ],
+        "medium": [
+          "天津条約",
+          "北京条約",
+          "望厦条約"
+        ],
+        "hard": [
+          "虎門寨追加条約",
+          "黄埔条約",
+          "北京議定書"
+        ]
+      }
+    },
+    {
+      "recto": "アヘン戦争で清が欧米に敗れたことは、日本にどのような影響を与えたか。",
+      "verso": "鎖国維持の危機感・開国論の高まり",
+      "explanation": "清の敗北は日本に衝撃を与え、海防強化や開国の必要性を論じる声が幕府内でも高まった。",
+      "tags": [
+        "東アジア",
+        "幕末"
+      ],
+      "distractors": {
+        "easy": [
+          "すぐに開国を決定した",
+          "清と同盟を結んだ",
+          "欧米と戦争した"
+        ],
+        "medium": [
+          "鎖国をさらに強化した",
+          "朝鮮に援軍を送った",
+          "欧米に留学生を派遣した"
+        ],
+        "hard": [
+          "薪水給与令を廃止した",
+          "異国船打払令を強化した",
+          "長崎以外の港も閉鎖した"
+        ]
+      }
+    },
+    {
+      "recto": "1853年、アメリカの軍人ペリーが艦隊を率いて来航した場所はどこか。",
+      "verso": "浦賀",
+      "explanation": "1853年、ペリーは蒸気船を含む4隻の艦隊（黒船）で浦賀に来航し、幕府に開国を迫った。",
+      "tags": [
+        "開国",
+        "ペリー"
+      ],
+      "distractors": {
+        "easy": [
+          "長崎",
+          "横浜",
+          "神戸"
+        ],
+        "medium": [
+          "下田",
+          "箱館",
+          "品川"
+        ],
+        "hard": [
+          "久里浜",
+          "神奈川",
+          "江戸湾深部"
+        ]
+      }
+    },
+    {
+      "recto": "ペリーが率いて来航した蒸気船を含む艦隊を、当時の日本人は何と呼んだか。",
+      "verso": "黒船",
+      "explanation": "蒸気機関で動く黒く塗られた軍艦は「黒船」と呼ばれ、日本社会に大きな衝撃を与えた。",
+      "tags": [
+        "開国",
+        "ペリー"
+      ],
+      "distractors": {
+        "easy": [
+          "南蛮船",
+          "紅毛船",
+          "唐船"
+        ],
+        "medium": [
+          "異国船",
+          "洋式軍艦",
+          "蒸気砲艦"
+        ],
+        "hard": [
+          "モリソン号",
+          "コルネット号",
+          "サスケハナ号"
+        ]
+      }
+    },
+    {
+      "recto": "1854年、幕府がアメリカと結び下田・箱館を開いた条約は何か。",
+      "verso": "日米和親条約",
+      "explanation": "日米和親条約（神奈川条約）により、日本は下田と箱館を開港し、260年余の鎖国を終えた。",
+      "tags": [
+        "開国",
+        "条約"
+      ],
+      "distractors": {
+        "easy": [
+          "ポーツマス条約",
+          "サンフランシスコ平和条約",
+          "日米安全保障条約"
+        ],
+        "medium": [
+          "日米修好通商条約",
+          "日露和親条約",
+          "日蘭和親条約"
+        ],
+        "hard": [
+          "神奈川条約追加約定",
+          "下田条約",
+          "改税約書"
+        ]
+      }
+    },
+    {
+      "recto": "日米和親条約と同様の条約を、日本はイギリス・ロシア・オランダとも結んだ。これらをまとめて何というか。",
+      "verso": "安政の和親条約",
+      "explanation": "1854〜55年にかけて日米・日英・日露・日蘭の和親条約が相次いで結ばれ、日本は複数の国に対して開国した。",
+      "tags": [
+        "開国",
+        "条約"
+      ],
+      "distractors": {
+        "easy": [
+          "安政の大獄",
+          "安政の改革",
+          "寛政の改革"
+        ],
+        "medium": [
+          "安政五カ国条約",
+          "安政の通商条約",
+          "文久の和親条約"
+        ],
+        "hard": [
+          "嘉永の開国条約",
+          "安政の五港条約",
+          "和親諸条約"
+        ]
+      }
+    },
+    {
+      "recto": "1858年、大老井伊直弼がアメリカと結んだ貿易を定めた条約は何か。",
+      "verso": "日米修好通商条約",
+      "explanation": "日米修好通商条約で神奈川・長崎など5港が開かれ、本格的な貿易が始まった。しかし領事裁判権と関税自主権の欠如という不平等条項を含んでいた。",
+      "tags": [
+        "条約",
+        "不平等条約"
+      ],
+      "distractors": {
+        "easy": [
+          "日米和親条約",
+          "日米安全保障条約",
+          "下関条約"
+        ],
+        "medium": [
+          "日英修好通商条約",
+          "日仏修好通商条約",
+          "改税約書"
+        ],
+        "hard": [
+          "安政五カ国条約の米国分",
+          "ハリス条約",
+          "神奈川追加条約"
+        ]
+      }
+    },
+    {
+      "recto": "日米修好通商条約が不平等とされる二つの内容を答えよ。",
+      "verso": "領事裁判権（治外法権）と関税自主権のなさ",
+      "explanation": "外国人犯罪を日本が裁けない（領事裁判権）、輸入税率を自由に決められない（関税自主権なし）という二点が不平等条約の核心だった。",
+      "tags": [
+        "不平等条約",
+        "重要"
+      ],
+      "distractors": {
+        "easy": [
+          "参政権と居住権",
+          "貿易独占と鎖港",
+          "軍事同盟と関税同盟"
+        ],
+        "medium": [
+          "最恵国待遇と関税同盟",
+          "居留地の自治と入国の自由",
+          "通貨発行権と航行権"
+        ],
+        "hard": [
+          "片務的最恵国待遇と協定関税",
+          "内地通商権と沿岸貿易権",
+          "領事裁判権と最恵国待遇"
+        ]
+      }
+    },
+    {
+      "recto": "日米修好通商条約の交渉を行い、条約締結を主導したアメリカの外交官は誰か。",
+      "verso": "ハリス",
+      "explanation": "タウンゼント・ハリスは初代駐日総領事として幕府と交渉し、1858年の日米修好通商条約締結を実現した。",
+      "tags": [
+        "人物",
+        "開国"
+      ],
+      "distractors": {
+        "easy": [
+          "ペリー",
+          "リンカン",
+          "マッカーサー"
+        ],
+        "medium": [
+          "プチャーチン",
+          "パークス",
+          "ロッシュ"
+        ],
+        "hard": [
+          "グラント",
+          "ベルベック",
+          "シュフェルト"
+        ]
+      }
+    },
+    {
+      "recto": "日米修好通商条約を勅許なしに締結した大老は誰か。",
+      "verso": "井伊直弼",
+      "explanation": "井伊直弼は天皇の勅許を得ずに条約に調印し、反対派を弾圧（安政の大獄）した。1860年に桜田門外の変で暗殺された。",
+      "tags": [
+        "人物",
+        "幕末"
+      ],
+      "distractors": {
+        "easy": [
+          "徳川慶喜",
+          "坂本龍馬",
+          "西郷隆盛"
+        ],
+        "medium": [
+          "老中阿部正弘",
+          "老中堀田正睦",
+          "松平慶永"
+        ],
+        "hard": [
+          "老中水野忠邦",
+          "若年寄田沼意次",
+          "老中松平定信"
+        ]
+      }
+    },
+    {
+      "recto": "開国後、貿易が始まると国内の物価が急上昇した。その主な原因は何か。",
+      "verso": "金銀比価の差による金の大量流出と物資の輸出超過",
+      "explanation": "日本の金銀比価が欧米と異なり大量の金が流出したこと、また生糸・茶などの輸出が増えて国内品不足になり物価が高騰した。",
+      "tags": [
+        "経済",
+        "開国の影響"
+      ],
+      "distractors": {
+        "easy": [
+          "戦争による農地破壊",
+          "幕府が増税したから",
+          "外国から移民が増えたから"
+        ],
+        "medium": [
+          "米の輸出増加のみ",
+          "銀の輸入による通貨膨張",
+          "欧米からの輸入超過"
+        ],
+        "hard": [
+          "幕府の万延小判改鋳のみ",
+          "生糸価格の国際高騰のみ",
+          "長崎貿易の縮小"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】日米和親条約（1854年）と日米修好通商条約（1858年）の違いは何か。",
+      "verso": "和親条約は開国（港の開放）のみ、修好通商条約は貿易開始＋不平等条項",
+      "explanation": "和親条約は鎖国を終わらせ港を開いただけで貿易は定めていない。本格的な貿易と不平等条項（領事裁判権・関税自主権なし）は1858年の修好通商条約から。",
+      "tags": [
+        "piege",
+        "条約"
+      ],
+      "distractors": {
+        "easy": [
+          "どちらも貿易条約である",
+          "どちらも不平等条約である",
+          "和親条約の方が後に結ばれた"
+        ],
+        "medium": [
+          "修好通商条約は開国のみ、和親条約が貿易を定めた",
+          "どちらも勅許を得て結ばれた",
+          "和親条約に不平等条項がある"
+        ],
+        "hard": [
+          "和親条約で関税自主権が認められた",
+          "修好通商条約は対等条約だった",
+          "どちらも井伊直弼が結んだ"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】アヘン戦争後の清（1842年）と日本（1858年）がそれぞれ欧米と結んだ不平等条約を答えよ。",
+      "verso": "清：南京条約、日本：日米修好通商条約（安政五カ国条約）",
+      "explanation": "清は南京条約（1842年）で香港割譲と5港開港、日本は安政五カ国条約（1858年）で5港開港と領事裁判権・関税自主権の喪失という不平等条項を受け入れた。",
+      "tags": [
+        "comparaison",
+        "東アジア",
+        "条約"
+      ],
+      "distractors": {
+        "easy": [
+          "清：下関条約、日本：南京条約",
+          "清：ポーツマス条約、日本：天津条約",
+          "清：日米和親条約、日本：北京条約"
+        ],
+        "medium": [
+          "清：天津条約、日本：南京条約",
+          "清：北京条約、日本：日米和親条約",
+          "清：望厦条約、日本：神奈川条約"
+        ],
+        "hard": [
+          "清：黄埔条約、日本：日露和親条約",
+          "清：北京議定書、日本：改税約書",
+          "清：虎門寨追加条約、日本：日英修好通商条約"
+        ]
+      }
+    },
+    {
+      "recto": "19世紀、インドはどの国の植民地支配下に置かれたか。",
+      "verso": "イギリス",
+      "explanation": "イギリスは東インド会社を通じてインドを支配し、1858年にはインドを直轄植民地とした。インドは欧米のアジア進出の典型例とされる。",
+      "tags": [
+        "世界情勢",
+        "植民地"
+      ],
+      "distractors": {
+        "easy": [
+          "フランス",
+          "スペイン",
+          "ポルトガル"
+        ],
+        "medium": [
+          "オランダ",
+          "ロシア",
+          "ドイツ"
+        ],
+        "hard": [
+          "フランス（インドシナ）",
+          "オーストリア",
+          "ベルギー"
+        ]
+      }
+    },
+    {
+      "recto": "19世紀後半、東南アジアの多くがヨーロッパ列強の植民地となるなかで、独立を保った国はどこか。",
+      "verso": "タイ（シャム）",
+      "explanation": "タイ（シャム）はイギリスとフランスの緩衝地帯として独立を維持した。日本も開国によって植民地化を免れ、近代国家建設を急いだ。",
+      "tags": [
+        "世界情勢",
+        "東南アジア"
+      ],
+      "distractors": {
+        "easy": [
+          "ベトナム",
+          "インドネシア",
+          "フィリピン"
+        ],
+        "medium": [
+          "ビルマ（ミャンマー）",
+          "マレーシア",
+          "カンボジア"
+        ],
+        "hard": [
+          "ラオス",
+          "シンガポール",
+          "ボルネオ"
+        ]
+      }
+    },
+    {
+      "recto": "安政五カ国条約（1858年）で日本が開港することとなった5カ国とはどこか。",
+      "verso": "アメリカ・オランダ・ロシア・イギリス・フランス",
+      "explanation": "1858年、日本はアメリカをはじめオランダ・ロシア・イギリス・フランスとそれぞれ修好通商条約を結び、5カ国に対して同様の不平等条件で貿易を開始した。",
+      "tags": [
+        "条約",
+        "開国"
+      ],
+      "distractors": {
+        "easy": [
+          "アメリカ・イギリス・中国・ドイツ・スペイン",
+          "イギリス・フランス・ドイツ・オーストリア・プロイセン",
+          "アメリカ・イギリス・フランス・中国・朝鮮"
+        ],
+        "medium": [
+          "アメリカ・イギリス・フランス・ドイツ・ロシア",
+          "アメリカ・オランダ・ポルトガル・ロシア・イギリス",
+          "アメリカ・イギリス・フランス・オランダ・清"
+        ],
+        "hard": [
+          "アメリカ・オランダ・ロシア・イギリス・プロイセン",
+          "アメリカ・オランダ・ロシア・イギリス・ポルトガル",
+          "アメリカ・オランダ・ロシア・フランス・スペイン"
+        ]
+      }
+    },
+    {
+      "recto": "開国後に日本の主要輸出品となった繊維原料は何か。",
+      "verso": "生糸",
+      "explanation": "開国後、生糸は日本最大の輸出品となった。欧米の需要に応えて輸出が急増した一方、国内での品不足・物価上昇を招いた。",
+      "tags": [
+        "経済",
+        "貿易"
+      ],
+      "distractors": {
+        "easy": [
+          "米",
+          "木材",
+          "鉄"
+        ],
+        "medium": [
+          "茶",
+          "綿花",
+          "絹織物"
+        ],
+        "hard": [
+          "蚕種",
+          "水産物",
+          "漆器"
+        ]
+      }
+    },
+    {
+      "recto": "開国によって欧米との貿易が始まり、日本の生産・社会はどう変わったか。一言でいうと？",
+      "verso": "世界市場に組み込まれた（資本主義世界経済に統合された）",
+      "explanation": "開国は単なる港の開放ではなく、日本が欧米主導の世界経済のしくみ（資本主義・自由貿易体制）に組み込まれるという歴史的転換だった。",
+      "tags": [
+        "開国の影響",
+        "世界情勢"
+      ],
+      "distractors": {
+        "easy": [
+          "完全に欧米の植民地になった",
+          "江戸時代と変わらなかった",
+          "アジア諸国と孤立した"
+        ],
+        "medium": [
+          "鎖国よりも豊かになっただけ",
+          "幕府が欧米から軍事援助を受けた",
+          "国内産業がすべて消滅した"
+        ],
+        "hard": [
+          "自由貿易の恩恵だけを受けた",
+          "アジア市場の中心として台頭した",
+          "重商主義体制に移行した"
+        ]
+      }
+    },
+    {
+      "recto": "19世紀、欧米がアジアに進出するなか、清・インド・東南アジアと日本に共通する出来事は何か。",
+      "verso": "欧米との不平等条約の締結（欧米主導の国際秩序への強制的な編入）",
+      "explanation": "清の南京条約、日本の安政五カ国条約など、アジア各地が欧米の力によって不平等な条件で開国・開港させられた点で共通する。",
+      "tags": [
+        "世界情勢",
+        "東アジア"
+      ],
+      "distractors": {
+        "easy": [
+          "欧米に征服されて植民地になった",
+          "欧米と対等な条約を結んだ",
+          "自ら欧米へ進出した"
+        ],
+        "medium": [
+          "すべての国が独立を保った",
+          "欧米の文化を完全に拒絶した",
+          "欧米に軍事的に対抗して勝利した"
+        ],
+        "hard": [
+          "すべてが共和制に移行した",
+          "欧米との貿易で経済成長を遂げた",
+          "アジア連帯を結成して欧米に抵抗した"
+        ]
+      }
+    }
+  ]
+}
