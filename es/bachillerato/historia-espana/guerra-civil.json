@@ -1,0 +1,432 @@
+{
+  "id": "es-bachillerato-historia-espana-guerra-civil",
+  "title": "La Segunda República y la Guerra Civil (1931-1939)",
+  "emoji": "🕊️",
+  "subject": "history",
+  "country": "es",
+  "courseDescription": "La Segunda República, sus reformas y tensiones, el estallido de la Guerra Civil y la victoria de Franco.",
+  "lesson": "<style>\n  /* Estilos de las figuras (SVG). Usan currentColor (texto del tema) y\n     var(--accent) (color de la materia): se adaptan al tema claro/oscuro. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>La Segunda República y la Guerra Civil (1931-1939)</h1>\n\n<div class=\"callout\">\n  <strong>Claves</strong><br>\n  <b>Nivel:</b> Bachillerato<br>\n  <b>Tema:</b> Historia de España<br>\n  <b>Periodo:</b> 1931 — 1939\n</div>\n\n<blockquote>\n  <p><b>Pregunta central.</b> ¿Por qué la Segunda República acabó en una guerra civil entre españoles?</p>\n</blockquote>\n\n<p>En <strong>1931</strong> se proclamó la <strong>Segunda República</strong>, con una Constitución muy avanzada (voto femenino, reformas). Pero la fuerte <strong>polarización</strong> política acabó en un <strong>golpe de Estado</strong> en 1936 y en la <strong>Guerra Civil</strong>. La victoria de <strong>Franco</strong> en 1939 dio paso a una larga dictadura.</p>\n\n<h2>1 · La Segunda República y sus reformas</h2>\n\n<p>Al proclamarse la República, <strong>Alfonso XIII</strong> partió al exilio. La <strong>Constitución de 1931</strong> reconoció el <strong>voto femenino</strong>, el laicismo y libertades. La República intentó reformas educativas, agrarias y militares, que despertaron fuerte oposición.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"Las reformas avanzadas de la Constitución republicana de 1931\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">la Constitución de 1931</text>\n  <rect x=\"10\" y=\"28\" width=\"100\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Voto</text>\n  <text x=\"60\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">femenino</text>\n  <text x=\"60\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">(sufragio)</text>\n  <rect x=\"120\" y=\"28\" width=\"100\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Laicismo</text>\n  <text x=\"170\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Estado y</text>\n  <text x=\"170\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">divorcio</text>\n  <rect x=\"230\" y=\"28\" width=\"100\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Reformas</text>\n  <text x=\"280\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">agraria,</text>\n  <text x=\"280\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">educativa</text>\n</svg>\n<figcaption>Una Constitución muy avanzada para su época.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Concepto · Segunda República</strong><br>\n  Régimen democrático (1931-1939) con una Constitución muy avanzada para su época. Sus reformas modernizadoras chocaron con una sociedad muy dividida, en un contexto europeo de crisis.\n</div>\n\n<h2>2 · De la polarización a la guerra</h2>\n\n<p>La política se radicalizó. En 1936 ganó el <strong>Frente Popular</strong>, y la tensión estalló. En <strong>julio de 1936</strong>, parte del ejército dio un <strong>golpe de Estado</strong>. Al triunfar solo a medias, dividió España y desató la <strong>Guerra Civil</strong>: bando <strong>republicano</strong> contra bando <strong>sublevado</strong> ('nacional').</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Los dos bandos de la Guerra Civil y sus apoyos exteriores\">\n  <rect x=\"12\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Bando republicano</text>\n  <text x=\"87\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">leal a la República</text>\n  <text x=\"87\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">apoyo: URSS,</text>\n  <text x=\"87\" y=\"105\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Brigadas Internac.</text>\n  <rect x=\"178\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Bando sublevado</text>\n  <text x=\"253\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">'nacional' · Franco</text>\n  <text x=\"253\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">apoyo: Alemania</text>\n  <text x=\"253\" y=\"105\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">nazi e Italia fascista</text>\n</svg>\n<figcaption>Una guerra entre españoles, con ayuda exterior a ambos bandos.</figcaption>\n</figure>\n\n<h2>3 · La guerra y la victoria de Franco</h2>\n\n<p>La guerra duró tres años. El bombardeo de <strong>Guernica</strong> (1937), retratado por <strong>Picasso</strong>, mostró su horror. En <strong>1939</strong>, Franco venció. Comenzaron el <strong>exilio</strong>, la <strong>represión</strong> de los vencidos y una <strong>dictadura</strong> que duraría hasta 1975.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"De la Segunda República al franquismo pasando por la guerra\">\n  <defs>\n    <marker id=\"ar-esgc1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"40\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">República</text>\n  <text x=\"54\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">1931</text>\n  <path d=\"M100,66 L118,66\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-esgc1)\"/>\n  <rect x=\"122\" y=\"40\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Guerra Civil</text>\n  <text x=\"170\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">1936-1939</text>\n  <path d=\"M218,66 L236,66\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-esgc1)\"/>\n  <rect x=\"240\" y=\"40\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Dictadura</text>\n  <text x=\"286\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Franco · 1939</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">el fin de la democracia</text>\n</svg>\n<figcaption>La guerra cerró la República y abrió casi cuatro décadas de dictadura.</figcaption>\n</figure>\n\n<h2>Lo esencial</h2>\n\n<h3>Cronología</h3>\n\n<table>\n  <tr><th>Fecha</th><th>Acontecimiento</th></tr>\n  <tr><td>1931</td><td>Proclamación de la Segunda República</td></tr>\n  <tr><td>1931</td><td>Constitución (voto femenino)</td></tr>\n  <tr><td>1936</td><td>Frente Popular; golpe; guerra</td></tr>\n  <tr><td>1937</td><td>Bombardeo de Guernica</td></tr>\n  <tr><td>1939</td><td>Victoria de Franco; dictadura</td></tr>\n</table>\n\n<h3>Términos clave</h3>\n\n<table>\n  <tr><th>Término</th><th>Significado</th></tr>\n  <tr><td>Segunda República</td><td>Régimen democrático (1931-39)</td></tr>\n  <tr><td>Frente Popular</td><td>Coalición de izquierdas de 1936</td></tr>\n  <tr><td>Bando nacional</td><td>Sublevados liderados por Franco</td></tr>\n  <tr><td>Brigadas Internacionales</td><td>Voluntarios extranjeros pro República</td></tr>\n  <tr><td>Guernica</td><td>Ciudad bombardeada; cuadro de Picasso</td></tr>\n</table>\n\n<h3>Personajes</h3>\n\n<table>\n  <tr><th>Nombre</th><th>Papel</th></tr>\n  <tr><td>Alfonso XIII</td><td>Rey que se exilió en 1931</td></tr>\n  <tr><td>Francisco Franco</td><td>Líder sublevado; ganó la guerra</td></tr>\n  <tr><td>Picasso</td><td>Pintó 'Guernica'</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  La Guerra Civil <b>no</b> fue España contra el extranjero: fue una guerra <b>entre españoles</b>, aunque con fuerte ayuda exterior (Alemania e Italia a Franco; la URSS y las Brigadas a la República). Distingue bien el <b>bando republicano</b> del <b>bando sublevado</b>.\n</div>\n\n<blockquote>\n  <p>La Segunda República fue un intento de modernizar y democratizar España que terminó en tragedia. La Guerra Civil dividió al país y dio paso a una larga dictadura, cuya sombra marcaría a España durante generaciones.</p>\n</blockquote>\n",
+  "questionLang": "es",
+  "answerLang": "es",
+  "version": 1,
+  "level": "Bachillerato",
+  "theme": "Historia de España",
+  "cards": [
+    {
+      "recto": "¿Qué régimen se proclamó en España en 1931 tras la marcha de Alfonso XIII?",
+      "verso": "La Segunda República",
+      "explanation": "En abril de 1931, tras unas elecciones municipales, se proclamó la Segunda República y el rey Alfonso XIII partió al exilio.",
+      "tags": [
+        "republica",
+        "conceptos"
+      ],
+      "distractors": {
+        "easy": [
+          "La Restauración",
+          "El franquismo",
+          "La monarquía absoluta"
+        ],
+        "medium": [
+          "La Primera República",
+          "La Transición",
+          "La dictadura de Primo de Rivera"
+        ],
+        "hard": [
+          "El Sexenio Democrático",
+          "El Directorio militar",
+          "La Regencia"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué rey abandonó España al proclamarse la República en 1931?",
+      "verso": "Alfonso XIII",
+      "explanation": "Ante el avance republicano en las elecciones, Alfonso XIII salió del país sin abdicar formalmente, dando paso a la Segunda República.",
+      "tags": [
+        "republica",
+        "personajes"
+      ],
+      "distractors": {
+        "easy": [
+          "Felipe VI",
+          "Fernando VII",
+          "Carlos I"
+        ],
+        "medium": [
+          "Alfonso XII",
+          "Juan Carlos I",
+          "Amadeo I"
+        ],
+        "hard": [
+          "Isabel II",
+          "Carlos IV",
+          "Fernando VI"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué avanzado derecho reconoció por primera vez la Constitución republicana de 1931?",
+      "verso": "El voto femenino (sufragio de las mujeres)",
+      "explanation": "La Constitución de 1931 fue muy avanzada: reconoció el sufragio femenino, el divorcio, el laicismo del Estado y amplias libertades.",
+      "tags": [
+        "republica",
+        "reformas"
+      ],
+      "distractors": {
+        "easy": [
+          "El derecho a la esclavitud",
+          "El voto solo para nobles",
+          "El fin de las elecciones"
+        ],
+        "medium": [
+          "El voto censitario",
+          "El voto solo masculino",
+          "El sufragio limitado a propietarios"
+        ],
+        "hard": [
+          "El voto a partir de los 30 años solo",
+          "El sufragio indirecto",
+          "El voto corporativo"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué tipo de reformas intentó la República en su primer bienio (educación, tierra, ejército)?",
+      "verso": "Reformas modernizadoras y sociales",
+      "explanation": "La República impulsó reformas: educativas, agraria (reparto de tierras), militar y del Estado. Pero encontraron fuerte oposición.",
+      "tags": [
+        "republica",
+        "reformas"
+      ],
+      "distractors": {
+        "easy": [
+          "El regreso al absolutismo",
+          "La restauración del Imperio",
+          "La vuelta al feudalismo"
+        ],
+        "medium": [
+          "El reforzamiento de la Iglesia en el Estado",
+          "La expansión colonial",
+          "La restauración de la monarquía"
+        ],
+        "hard": [
+          "La supresión de todas las libertades",
+          "El fin del sufragio",
+          "La disolución de las Cortes definitiva"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué coalición de izquierdas ganó las elecciones de febrero de 1936?",
+      "verso": "El Frente Popular",
+      "explanation": "El Frente Popular, coalición de partidos de izquierda, ganó en 1936. La tensión política y social se disparó en los meses siguientes.",
+      "tags": [
+        "republica",
+        "política"
+      ],
+      "distractors": {
+        "easy": [
+          "El Movimiento Nacional",
+          "La Falange sola",
+          "El Partido Único"
+        ],
+        "medium": [
+          "La CEDA",
+          "La Unión Patriótica",
+          "El bloque monárquico"
+        ],
+        "hard": [
+          "La Lliga sola",
+          "El Bloque Nacional",
+          "La Comunión Tradicionalista"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué acontecimiento de julio de 1936 dio inicio a la Guerra Civil?",
+      "verso": "El golpe de Estado (sublevación militar)",
+      "explanation": "En julio de 1936, parte del ejército se sublevó contra la República. El golpe solo triunfó a medias, dividiendo España y provocando la guerra.",
+      "tags": [
+        "guerra",
+        "fechas"
+      ],
+      "distractors": {
+        "easy": [
+          "La invasión de Francia",
+          "La caída del Muro",
+          "La Revolución de 1868"
+        ],
+        "medium": [
+          "La Semana Trágica",
+          "El motín de Aranjuez",
+          "La Sanjurjada de 1932 sola"
+        ],
+        "hard": [
+          "El pronunciamiento de Riego",
+          "La Revolución de Asturias sola",
+          "El levantamiento de 1934"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué general lideró el bando sublevado y acabó ganando la guerra?",
+      "verso": "Francisco Franco",
+      "explanation": "Franco se impuso como líder del bando sublevado ('nacional'). Su victoria en 1939 dio paso a una larga dictadura.",
+      "tags": [
+        "guerra",
+        "personajes"
+      ],
+      "distractors": {
+        "easy": [
+          "Napoleón",
+          "Adolf Hitler",
+          "Manuel Azaña"
+        ],
+        "medium": [
+          "José Antonio Primo de Rivera",
+          "Emilio Mola",
+          "Queipo de Llano"
+        ],
+        "hard": [
+          "José Sanjurjo",
+          "Millán-Astray",
+          "Juan Negrín"
+        ]
+      }
+    },
+    {
+      "recto": "[Compara] ¿Qué dos bandos se enfrentaron en la Guerra Civil?",
+      "verso": "El bando republicano (leal a la República) y el bando sublevado o 'nacional' (Franco)",
+      "explanation": "El bando republicano defendía la República legal; el bando 'nacional' o sublevado, liderado por Franco, buscaba derribarla. Fue una guerra entre españoles.",
+      "tags": [
+        "comparaison",
+        "guerra"
+      ],
+      "distractors": {
+        "easy": [
+          "España contra Francia",
+          "Alemania contra Italia",
+          "No hubo bandos"
+        ],
+        "medium": [
+          "Monárquicos contra Reyes Católicos",
+          "Cristianos contra musulmanes",
+          "Liberales contra absolutistas"
+        ],
+        "hard": [
+          "Aliados contra el Eje solo",
+          "Girondinos contra jacobinos",
+          "Blancos contra rojos rusos"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] ¿Fue la Guerra Civil un conflicto entre España y potencias extranjeras?",
+      "verso": "No; fue una guerra entre españoles, aunque con importante ayuda exterior a ambos bandos",
+      "explanation": "Error frecuente. La Guerra Civil enfrentó a españoles entre sí. Hubo ayuda extranjera (a Franco, Alemania e Italia; a la República, la URSS y las Brigadas), pero el conflicto era interno.",
+      "tags": [
+        "piege",
+        "guerra"
+      ],
+      "distractors": {
+        "easy": [
+          "Sí, España contra Alemania",
+          "Sí, una invasión extranjera",
+          "Sí, España contra Estados Unidos"
+        ],
+        "medium": [
+          "Sí, España contra la URSS",
+          "Sí, una guerra colonial",
+          "No, porque no hubo guerra"
+        ],
+        "hard": [
+          "Sí, sin ninguna participación española",
+          "Sí, España contra Italia",
+          "No, porque no intervino nadie del exterior"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué países apoyaron con armas al bando de Franco?",
+      "verso": "La Alemania nazi y la Italia fascista",
+      "explanation": "Hitler y Mussolini enviaron armas, aviones y tropas a Franco. La Legión Cóndor alemana participó en bombardeos como el de Guernica.",
+      "tags": [
+        "guerra",
+        "internacional"
+      ],
+      "distractors": {
+        "easy": [
+          "Francia y el Reino Unido",
+          "Estados Unidos y Canadá",
+          "Portugal y Andorra"
+        ],
+        "medium": [
+          "La URSS y México",
+          "Las Brigadas Internacionales",
+          "Japón y China"
+        ],
+        "hard": [
+          "Suiza y Suecia",
+          "Bélgica y Holanda",
+          "Brasil y Argentina"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué voluntarios extranjeros de izquierda combatieron a favor de la República?",
+      "verso": "Las Brigadas Internacionales",
+      "explanation": "Miles de voluntarios de muchos países se alistaron en las Brigadas Internacionales para defender a la República. La URSS también la apoyó.",
+      "tags": [
+        "guerra",
+        "internacional"
+      ],
+      "distractors": {
+        "easy": [
+          "La Legión Cóndor",
+          "Las tropas de Napoleón",
+          "Los tercios de Flandes"
+        ],
+        "medium": [
+          "La OTAN",
+          "Los cascos azules de la ONU",
+          "La Falange"
+        ],
+        "hard": [
+          "El Cuerpo de Tropas Voluntarias italiano",
+          "Los Regulares",
+          "La División Azul"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué ciudad vasca fue arrasada por un bombardeo en 1937, inmortalizada por Picasso?",
+      "verso": "Guernica",
+      "explanation": "El bombardeo de Guernica por la aviación alemana e italiana conmocionó al mundo. Picasso lo denunció en su famoso cuadro 'Guernica'.",
+      "tags": [
+        "guerra",
+        "cultura"
+      ],
+      "distractors": {
+        "easy": [
+          "Madrid",
+          "Barcelona",
+          "Sevilla"
+        ],
+        "medium": [
+          "Bilbao",
+          "Teruel",
+          "Belchite"
+        ],
+        "hard": [
+          "Durango",
+          "Brunete",
+          "Gernika (otra grafía, misma ciudad)"
+        ]
+      }
+    },
+    {
+      "recto": "¿En qué año terminó la Guerra Civil con la victoria de Franco?",
+      "verso": "En 1939",
+      "explanation": "En abril de 1939 terminó la guerra con la victoria del bando de Franco. Comenzó entonces una dictadura que duraría casi cuarenta años.",
+      "tags": [
+        "guerra",
+        "fechas"
+      ],
+      "distractors": {
+        "easy": [
+          "En 1975",
+          "En 1898",
+          "En 1812"
+        ],
+        "medium": [
+          "En 1936",
+          "En 1931",
+          "En 1945"
+        ],
+        "hard": [
+          "En 1938",
+          "En 1940",
+          "En 1937"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué régimen se instauró en España tras la victoria de Franco?",
+      "verso": "La dictadura franquista",
+      "explanation": "Franco instauró una dictadura personal y autoritaria que gobernó España hasta su muerte en 1975. Se acabó así la experiencia republicana.",
+      "tags": [
+        "guerra",
+        "consecuencias"
+      ],
+      "distractors": {
+        "easy": [
+          "Una democracia",
+          "Una monarquía parlamentaria",
+          "Una república federal"
+        ],
+        "medium": [
+          "La Tercera República",
+          "Una monarquía constitucional",
+          "Un sistema de turno de partidos"
+        ],
+        "hard": [
+          "Una democracia orgánica plenamente electiva",
+          "Un régimen socialista",
+          "Una regencia provisional"
+        ]
+      }
+    },
+    {
+      "recto": "En conjunto, ¿qué representó la Guerra Civil para España?",
+      "verso": "Una tragedia que dividió al país y acabó con la República, dando paso a una larga dictadura",
+      "explanation": "La guerra causó cientos de miles de muertos, exilio y represión. Terminó con la República y abrió casi cuatro décadas de dictadura franquista.",
+      "tags": [
+        "guerra",
+        "síntesis"
+      ],
+      "distractors": {
+        "easy": [
+          "Una etapa de paz y prosperidad",
+          "Un breve conflicto sin consecuencias",
+          "El inicio de la democracia"
+        ],
+        "medium": [
+          "Una victoria de la República",
+          "El comienzo de la Transición",
+          "Una guerra sin apenas víctimas"
+        ],
+        "hard": [
+          "El inicio de un sistema democrático estable",
+          "Una guerra ganada por las Brigadas",
+          "El fin de todas las dictaduras en Europa"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué le ocurrió a miles de españoles del bando perdedor al terminar la guerra?",
+      "verso": "El exilio y la represión",
+      "explanation": "Muchos republicanos partieron al exilio; otros sufrieron cárcel, represión o muerte. La posguerra fue muy dura para los vencidos.",
+      "tags": [
+        "guerra",
+        "consecuencias"
+      ],
+      "distractors": {
+        "easy": [
+          "Recibieron premios del Estado",
+          "Gobernaron el país",
+          "No hubo consecuencias"
+        ],
+        "medium": [
+          "Fueron todos indultados de inmediato",
+          "Se integraron sin problemas",
+          "Se les dio el poder político"
+        ],
+        "hard": [
+          "Formaron el nuevo gobierno",
+          "Dirigieron la reconstrucción sin represalias",
+          "Volvieron todos en pocos meses"
+        ]
+      }
+    }
+  ]
+}

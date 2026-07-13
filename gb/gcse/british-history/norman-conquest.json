@@ -1,0 +1,432 @@
+{
+  "id": "gb-gcse-british-history-norman-conquest",
+  "title": "The Norman Conquest, 1066",
+  "emoji": "🏹",
+  "subject": "history",
+  "country": "gb",
+  "courseDescription": "The succession crisis of 1066, the Battle of Hastings and how the Normans took control of England.",
+  "lesson": "<style>\n  /* SVG figure styles. Use currentColor (theme text) and var(--accent)\n     (subject colour), so they adapt to the app's light/dark theme. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>The Norman Conquest, 1066</h1>\n\n<div class=\"callout\">\n  <strong>Key facts</strong><br>\n  <b>Level:</b> GCSE<br>\n  <b>Theme:</b> British History<br>\n  <b>Period:</b> 1066 — c.1087\n</div>\n\n<blockquote>\n  <p><b>Key question.</b> How did William of Normandy win the English throne in 1066 and hold on to it?</p>\n</blockquote>\n\n<p>When <strong>Edward the Confessor</strong> died childless in 1066, three men claimed the throne. After defeating a Viking invasion, <strong>Harold Godwinson</strong> lost to <strong>William of Normandy</strong> at the <strong>Battle of Hastings</strong>. William then secured control through <strong>castles</strong>, the <strong>feudal system</strong> and the <strong>Domesday Book</strong>.</p>\n\n<h2>1 · The succession crisis</h2>\n\n<p>Edward left no heir, so rivals competed for the crown: <strong>Harold Godwinson</strong> (crowned in England), <strong>William of Normandy</strong> (claiming a promise and an oath) and the Viking <strong>Harald Hardrada</strong>.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"The three claimants to the English throne in 1066\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">three claimants, one throne</text>\n  <rect x=\"8\" y=\"34\" width=\"100\" height=\"74\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Harold Godwinson</text>\n  <text x=\"58\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">English earl,</text>\n  <text x=\"58\" y=\"94\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">crowned king</text>\n  <rect x=\"120\" y=\"34\" width=\"100\" height=\"74\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">William</text>\n  <text x=\"170\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Duke of Normandy,</text>\n  <text x=\"170\" y=\"94\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">claims a promise</text>\n  <rect x=\"232\" y=\"34\" width=\"100\" height=\"74\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Harald Hardrada</text>\n  <text x=\"282\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Norwegian king,</text>\n  <text x=\"282\" y=\"94\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Viking claim</text>\n</svg>\n<figcaption>Edward's death left three rivals fighting for the crown.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Term · Claimant</strong><br>\n  Someone who says they have the right to the throne. In 1066 each claimant used a different argument — blood, a promise, or an oath — to justify his claim.\n</div>\n\n<h2>2 · Two invasions, two battles</h2>\n\n<p>In September, Harold marched north and destroyed the Vikings at the <strong>Battle of Stamford Bridge</strong>. Days later, William landed in the south. Harold rushed back with a tired army and was defeated and killed at the <strong>Battle of Hastings</strong> on 14 October 1066.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"The two battles of 1066: Stamford Bridge in the north, then Hastings in the south\">\n  <defs>\n    <marker id=\"ar-ukn1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"10\" y=\"40\" width=\"120\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"70\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Stamford Bridge</text>\n  <text x=\"70\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">north · Sep 1066</text>\n  <text x=\"70\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Harold beats Vikings</text>\n  <path d=\"M130,66 L168,66\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ukn1)\"/>\n  <text x=\"149\" y=\"58\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">forced march</text>\n  <rect x=\"172\" y=\"40\" width=\"120\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"232\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Hastings</text>\n  <text x=\"232\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">south · 14 Oct 1066</text>\n  <text x=\"232\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">William wins</text>\n  <text x=\"170\" y=\"22\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">a tired army marches south</text>\n  <text x=\"308\" y=\"66\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">✦</text>\n</svg>\n<figcaption>Two victories were needed — but the second, at Hastings, was lost.</figcaption>\n</figure>\n\n<h2>3 · Taking control</h2>\n\n<p>William faced rebellions, especially in the north. He crushed them with the brutal <strong>Harrying of the North</strong> (1069-70). He secured England by building <strong>castles</strong>, imposing the <strong>feudal system</strong>, and ordering the <strong>Domesday Book</strong> (1086) to record and tax the land.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 150\" role=\"img\" aria-label=\"How William controlled England: castles, the feudal system and the Domesday Book\">\n  <rect x=\"8\" y=\"34\" width=\"100\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Castles</text>\n  <text x=\"58\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">motte-and-bailey</text>\n  <text x=\"58\" y=\"94\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">dominate the land</text>\n  <rect x=\"120\" y=\"34\" width=\"100\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Feudal system</text>\n  <text x=\"170\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">land for loyalty</text>\n  <text x=\"170\" y=\"94\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">and knights</text>\n  <rect x=\"232\" y=\"34\" width=\"100\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Domesday</text>\n  <text x=\"282\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">survey of land</text>\n  <text x=\"282\" y=\"94\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">to tax England</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">three tools of Norman control</text>\n  <text x=\"170\" y=\"134\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">plus terror: the Harrying of the North (1069-70)</text>\n</svg>\n<figcaption>Force and administration together secured the Conquest.</figcaption>\n</figure>\n\n<h2>In summary</h2>\n\n<h3>Timeline of 1066</h3>\n\n<table>\n  <tr><th>Date</th><th>Event</th></tr>\n  <tr><td>Jan 1066</td><td>Edward dies; Harold crowned</td></tr>\n  <tr><td>Sep 1066</td><td>Battle of Stamford Bridge</td></tr>\n  <tr><td>14 Oct 1066</td><td>Battle of Hastings</td></tr>\n  <tr><td>Dec 1066</td><td>William crowned king</td></tr>\n  <tr><td>1069-70</td><td>Harrying of the North</td></tr>\n  <tr><td>1086</td><td>Domesday Book</td></tr>\n</table>\n\n<h3>Key terms</h3>\n\n<table>\n  <tr><th>Term</th><th>Meaning</th></tr>\n  <tr><td>Claimant</td><td>Someone claiming the throne</td></tr>\n  <tr><td>Feudal system</td><td>Land granted for service and loyalty</td></tr>\n  <tr><td>Motte-and-bailey</td><td>Early earth-and-timber castle</td></tr>\n  <tr><td>Domesday Book</td><td>Survey of English land (1086)</td></tr>\n  <tr><td>Harrying of the North</td><td>Brutal crushing of rebellion</td></tr>\n</table>\n\n<h3>People</h3>\n\n<table>\n  <tr><th>Name</th><th>Role</th></tr>\n  <tr><td>Edward the Confessor</td><td>King who died childless in 1066</td></tr>\n  <tr><td>Harold Godwinson</td><td>English king, killed at Hastings</td></tr>\n  <tr><td>William of Normandy</td><td>Winner; became William I</td></tr>\n  <tr><td>Harald Hardrada</td><td>Viking claimant, beaten in the north</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Watch out</strong><br>\n  Harold Godwinson did <b>not</b> survive Hastings — he was killed there (traditionally by an arrow to the eye). And remember the two battles are different: <b>Stamford Bridge</b> (vs the Vikings, north) came before <b>Hastings</b> (vs William, south).\n</div>\n\n<blockquote>\n  <p>1066 is the most famous date in English history. In a single year, a Norman duke overturned the English elite — reshaping the country's rulers, its land, its laws and even its language for centuries to come.</p>\n</blockquote>\n",
+  "questionLang": "en",
+  "answerLang": "en",
+  "version": 1,
+  "level": "GCSE",
+  "theme": "British History",
+  "cards": [
+    {
+      "recto": "Which English king died in January 1066, triggering a succession crisis?",
+      "verso": "Edward the Confessor",
+      "explanation": "Edward died childless, leaving no clear heir. This sparked a struggle for the throne between several rival claimants.",
+      "tags": [
+        "succession",
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "William the Conqueror",
+          "Henry VIII",
+          "Richard the Lionheart"
+        ],
+        "medium": [
+          "Harold Godwinson",
+          "Alfred the Great",
+          "Cnut the Great"
+        ],
+        "hard": [
+          "Edward the Elder",
+          "Æthelred the Unready",
+          "Edmund Ironside"
+        ]
+      }
+    },
+    {
+      "recto": "Who was crowned King of England immediately after Edward the Confessor's death?",
+      "verso": "Harold Godwinson",
+      "explanation": "The most powerful English earl, Harold was crowned in January 1066. He claimed Edward had promised him the throne on his deathbed.",
+      "tags": [
+        "succession",
+        "people"
+      ],
+      "distractors": {
+        "easy": [
+          "William of Normandy",
+          "Julius Caesar",
+          "Napoleon"
+        ],
+        "medium": [
+          "Harald Hardrada",
+          "Edgar the Ætheling",
+          "Tostig"
+        ],
+        "hard": [
+          "Stigand",
+          "Morcar",
+          "Edwin of Mercia"
+        ]
+      }
+    },
+    {
+      "recto": "Which Duke of Normandy claimed that Edward had promised him the English throne?",
+      "verso": "William of Normandy (William the Conqueror)",
+      "explanation": "William claimed Edward had named him heir and that Harold had sworn an oath to support him. He invaded to enforce his claim.",
+      "tags": [
+        "succession",
+        "people"
+      ],
+      "distractors": {
+        "easy": [
+          "Harold Godwinson",
+          "Edward the Confessor",
+          "King Arthur"
+        ],
+        "medium": [
+          "Harald Hardrada",
+          "Robert of Normandy",
+          "Odo of Bayeux"
+        ],
+        "hard": [
+          "Baldwin of Flanders",
+          "Eustace of Boulogne",
+          "Alan of Brittany"
+        ]
+      }
+    },
+    {
+      "recto": "Which Norwegian king also invaded England in 1066, claiming the throne?",
+      "verso": "Harald Hardrada",
+      "explanation": "The Viking king Harald Hardrada invaded the north with support from Harold's exiled brother Tostig. He was defeated before William landed.",
+      "tags": [
+        "invasion",
+        "people"
+      ],
+      "distractors": {
+        "easy": [
+          "William of Normandy",
+          "Cnut",
+          "Erik the Red"
+        ],
+        "medium": [
+          "Sweyn Forkbeard",
+          "Magnus of Norway",
+          "Olaf Tryggvason"
+        ],
+        "hard": [
+          "Harald Bluetooth",
+          "Ivar the Boneless",
+          "Guthrum"
+        ]
+      }
+    },
+    {
+      "recto": "At which battle did Harold Godwinson defeat the Viking invaders in September 1066?",
+      "verso": "The Battle of Stamford Bridge",
+      "explanation": "Harold marched north and crushed Harald Hardrada near York. But this left his army tired and far from the south coast.",
+      "tags": [
+        "battles",
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "The Battle of Hastings",
+          "The Battle of Waterloo",
+          "The Battle of Britain"
+        ],
+        "medium": [
+          "The Battle of Fulford",
+          "The Battle of Bosworth",
+          "The Battle of Agincourt"
+        ],
+        "hard": [
+          "The Battle of Maldon",
+          "The Battle of Assandun",
+          "The Battle of Brunanburh"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] Why was the timing of the two invasions of 1066 so damaging for Harold?",
+      "verso": "He beat the Vikings in the north, then had to rush south to face William with a tired army",
+      "explanation": "Harold won at Stamford Bridge (north) but William landed in the south days later. Harold's exhausted, depleted army then had to march back down to Hastings.",
+      "tags": [
+        "comparaison",
+        "strategy"
+      ],
+      "distractors": {
+        "easy": [
+          "He faced both enemies at the same place on the same day",
+          "He ignored both invasions",
+          "He never fought the Vikings"
+        ],
+        "medium": [
+          "He fought William first, then the Vikings",
+          "Both invasions landed in the north together",
+          "He had a fresh, rested army at Hastings"
+        ],
+        "hard": [
+          "He defeated William in the north before Hastings",
+          "Both armies allied against him at once",
+          "The Vikings landed in the south, William in the north"
+        ]
+      }
+    },
+    {
+      "recto": "At which battle did William defeat Harold on 14 October 1066?",
+      "verso": "The Battle of Hastings",
+      "explanation": "William's cavalry and archers overcame Harold's shield wall. Harold was killed, and William won control of England.",
+      "tags": [
+        "battles",
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "The Battle of Stamford Bridge",
+          "The Battle of Trafalgar",
+          "The Battle of the Somme"
+        ],
+        "medium": [
+          "The Battle of Fulford",
+          "The Battle of Bosworth",
+          "The Battle of Lewes"
+        ],
+        "hard": [
+          "The Battle of Evesham",
+          "The Battle of Northampton",
+          "The Battle of Tinchebrai"
+        ]
+      }
+    },
+    {
+      "recto": "[Watch out] How did Harold Godwinson die at the Battle of Hastings, according to tradition?",
+      "verso": "He was killed (traditionally, by an arrow to the eye)",
+      "explanation": "A common myth is that Harold survived. In fact he was killed at Hastings; the Bayeux Tapestry is often read as showing an arrow in his eye, ending English resistance.",
+      "tags": [
+        "piege",
+        "battles"
+      ],
+      "distractors": {
+        "easy": [
+          "He survived and fled to Normandy",
+          "He was crowned king afterwards",
+          "He drowned at sea"
+        ],
+        "medium": [
+          "He was captured and ransomed",
+          "He died of illness after the battle",
+          "He abdicated peacefully"
+        ],
+        "hard": [
+          "He was exiled to Norway",
+          "He won the battle and reigned for years",
+          "He died of old age in 1087"
+        ]
+      }
+    },
+    {
+      "recto": "What woven artwork tells the story of the Norman Conquest?",
+      "verso": "The Bayeux Tapestry",
+      "explanation": "This embroidered cloth, over 68 metres long, depicts events leading to Hastings. It is a key source, though made from the Norman point of view.",
+      "tags": [
+        "sources",
+        "culture"
+      ],
+      "distractors": {
+        "easy": [
+          "The Domesday Book",
+          "Magna Carta",
+          "The Rosetta Stone"
+        ],
+        "medium": [
+          "The Lindisfarne Gospels",
+          "The Book of Kells",
+          "The Anglo-Saxon Chronicle"
+        ],
+        "hard": [
+          "The Utrecht Psalter",
+          "The Winchester Bible",
+          "The Ellesmere Chaucer"
+        ]
+      }
+    },
+    {
+      "recto": "What fortifications did the Normans build across England to control the population?",
+      "verso": "Castles (at first, motte-and-bailey castles)",
+      "explanation": "Motte-and-bailey castles were quick to build from earth and timber. They let a small Norman elite dominate and defend conquered territory.",
+      "tags": [
+        "control",
+        "castles"
+      ],
+      "distractors": {
+        "easy": [
+          "Cathedrals",
+          "Pyramids",
+          "Railways"
+        ],
+        "medium": [
+          "Hadrian's Wall",
+          "Roman villas",
+          "Monasteries"
+        ],
+        "hard": [
+          "Concentric stone keeps only",
+          "Hillforts",
+          "Burhs"
+        ]
+      }
+    },
+    {
+      "recto": "What was the great survey of England ordered by William in 1085-1086?",
+      "verso": "The Domesday Book",
+      "explanation": "It recorded who owned land and how much it was worth, so William could tax his kingdom and confirm Norman control of English land.",
+      "tags": [
+        "control",
+        "administration"
+      ],
+      "distractors": {
+        "easy": [
+          "The Bayeux Tapestry",
+          "Magna Carta",
+          "The Bible"
+        ],
+        "medium": [
+          "The Anglo-Saxon Chronicle",
+          "The Bill of Rights",
+          "The Poll Tax records"
+        ],
+        "hard": [
+          "The Pipe Rolls",
+          "The Little Domesday only",
+          "The Exon Domesday only"
+        ]
+      }
+    },
+    {
+      "recto": "What was the harsh campaign of 1069-1070 to crush rebellion in northern England called?",
+      "verso": "The Harrying of the North",
+      "explanation": "William devastated the north, destroying villages, crops and livestock. Thousands died of starvation, ending resistance through terror.",
+      "tags": [
+        "control",
+        "rebellion"
+      ],
+      "distractors": {
+        "easy": [
+          "The Battle of Hastings",
+          "The Crusades",
+          "The Peasants' Revolt"
+        ],
+        "medium": [
+          "The Anarchy",
+          "The Wars of the Roses",
+          "Bloody Assizes"
+        ],
+        "hard": [
+          "The Revolt of the Earls",
+          "The Rising of 1075",
+          "The Pilgrimage of Grace"
+        ]
+      }
+    },
+    {
+      "recto": "What land system did the Normans use, granting land in return for military service?",
+      "verso": "The feudal system",
+      "explanation": "William gave land to barons, who owed him knights and loyalty; barons granted land to knights, and so on. It bound society together under the king.",
+      "tags": [
+        "feudalism",
+        "society"
+      ],
+      "distractors": {
+        "easy": [
+          "Democracy",
+          "Capitalism",
+          "Communism"
+        ],
+        "medium": [
+          "The manor system alone",
+          "Slavery",
+          "The guild system"
+        ],
+        "hard": [
+          "Subinfeudation only",
+          "Serfdom without lords",
+          "The open-field system alone"
+        ]
+      }
+    },
+    {
+      "recto": "At the top of the feudal system, who owned all the land in England?",
+      "verso": "The King (William)",
+      "explanation": "In theory the king owned all land and granted it out in exchange for service and loyalty. This gave the Norman monarchy great power.",
+      "tags": [
+        "feudalism",
+        "society"
+      ],
+      "distractors": {
+        "easy": [
+          "The peasants",
+          "The Pope",
+          "Parliament"
+        ],
+        "medium": [
+          "The barons",
+          "The knights",
+          "The Church alone"
+        ],
+        "hard": [
+          "The Witan",
+          "The freemen",
+          "The villeins"
+        ]
+      }
+    },
+    {
+      "recto": "Which language did the new Norman ruling class speak, influencing English for centuries?",
+      "verso": "Norman French",
+      "explanation": "French became the language of the court, law and nobility. Its blend with Old English shaped modern English vocabulary.",
+      "tags": [
+        "culture",
+        "consequences"
+      ],
+      "distractors": {
+        "easy": [
+          "Latin only",
+          "Spanish",
+          "German"
+        ],
+        "medium": [
+          "Old Norse",
+          "Welsh",
+          "Greek"
+        ],
+        "hard": [
+          "Breton",
+          "Flemish",
+          "Occitan"
+        ]
+      }
+    },
+    {
+      "recto": "Overall, what was the main long-term result of the Norman Conquest?",
+      "verso": "A new Norman ruling class replaced the English elite and transformed land, law and language",
+      "explanation": "Within 20 years almost all English lords were replaced by Normans. The Conquest reshaped landholding, the Church, government and the English language.",
+      "tags": [
+        "consequences",
+        "synthesis"
+      ],
+      "distractors": {
+        "easy": [
+          "Nothing changed in England",
+          "England became a Viking colony",
+          "England joined the Roman Empire"
+        ],
+        "medium": [
+          "The English kept all their land and power",
+          "France and England merged into one country",
+          "England became a republic"
+        ],
+        "hard": [
+          "The Anglo-Saxon elite stayed in charge",
+          "Feudalism was abolished",
+          "English replaced French at court immediately"
+        ]
+      }
+    }
+  ]
+}

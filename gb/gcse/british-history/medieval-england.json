@@ -1,0 +1,432 @@
+{
+  "id": "gb-gcse-british-history-medieval-england",
+  "title": "Medieval England: Magna Carta and the Black Death",
+  "emoji": "⚔️",
+  "subject": "history",
+  "country": "gb",
+  "courseDescription": "Power struggles between kings and barons, Magna Carta, the Black Death and the Peasants' Revolt in medieval England.",
+  "lesson": "<style>\n  /* SVG figure styles. Use currentColor (theme text) and var(--accent)\n     (subject colour), so they adapt to the app's light/dark theme. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Medieval England: Magna Carta and the Black Death</h1>\n\n<div class=\"callout\">\n  <strong>Key facts</strong><br>\n  <b>Level:</b> GCSE<br>\n  <b>Theme:</b> British History<br>\n  <b>Period:</b> 1215 — 1381\n</div>\n\n<blockquote>\n  <p><b>Key question.</b> How did royal power, disease and rebellion reshape medieval English society?</p>\n</blockquote>\n\n<p>In <strong>1215</strong>, rebel barons forced <strong>King John</strong> to seal <strong>Magna Carta</strong>, limiting the king's power. In <strong>1348</strong> the <strong>Black Death</strong> killed a third or more of the people, shaking the <strong>feudal system</strong>. In <strong>1381</strong> the <strong>Peasants' Revolt</strong> demanded freedom and an end to the Poll Tax.</p>\n\n<h2>1 · Magna Carta and royal power</h2>\n\n<p>King John was unpopular: he lost lands in France, taxed heavily and quarrelled with the Church. In 1215 his barons forced him to seal <strong>Magna Carta</strong> at Runnymede. Its key idea: even the <strong>king is not above the law</strong>.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 110\" role=\"img\" aria-label=\"Magna Carta placing the law above the king\">\n  <rect x=\"110\" y=\"12\" width=\"120\" height=\"34\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"33\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">The law</text>\n  <rect x=\"110\" y=\"64\" width=\"120\" height=\"34\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"85\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">The king</text>\n  <text x=\"252\" y=\"57\" class=\"s-muted\" font-size=\"9\">even the king</text>\n  <text x=\"252\" y=\"70\" class=\"s-muted\" font-size=\"9\">must obey it</text>\n  <line x1=\"170\" y1=\"46\" x2=\"170\" y2=\"64\" style=\"stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5;stroke-dasharray:3 3\"/>\n</svg>\n<figcaption>Magna Carta's key idea: the king sits under the law, not above it.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Term · Magna Carta</strong><br>\n  The 'Great Charter' of 1215. It said the king could not tax or imprison people freely and had to obey the law. It became a lasting symbol of rights and liberty.\n</div>\n\n<h2>2 · The Black Death</h2>\n\n<p>From <strong>1348</strong>, the plague killed perhaps a third to a half of England's population. People blamed <strong>God's punishment</strong> or 'bad air', not germs. With so many workers dead, survivors could demand <strong>higher wages and more freedom</strong> — weakening feudal ties.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"The chain of effects of the Black Death: mass death, labour shortage and higher wages\">\n  <defs>\n    <marker id=\"ar-ukm1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"64\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Plague</text>\n  <text x=\"54\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">a third+ die</text>\n  <path d=\"M100,68 L118,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ukm1)\"/>\n  <rect x=\"122\" y=\"42\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"64\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Fewer workers</text>\n  <text x=\"170\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">labour is scarce</text>\n  <path d=\"M218,68 L236,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ukm1)\"/>\n  <rect x=\"240\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"64\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Higher wages</text>\n  <text x=\"286\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">more freedom</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">how the plague shook feudalism</text>\n</svg>\n<figcaption>Mass death gave the survivors unexpected bargaining power.</figcaption>\n</figure>\n\n<h2>3 · The Peasants' Revolt of 1381</h2>\n\n<p>A hated <strong>Poll Tax</strong> — the same charge for rich and poor — sparked the <strong>Peasants' Revolt</strong>. Led by <strong>Wat Tyler</strong>, rebels marched on London demanding an end to serfdom. The young king <strong>Richard II</strong> made promises, then broke them, but the Poll Tax was dropped.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Causes and outcome of the Peasants' Revolt of 1381\">\n  <defs>\n    <marker id=\"ar-ukm2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"60\" y=\"16\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Causes</text>\n  <rect x=\"10\" y=\"24\" width=\"100\" height=\"34\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"60\" y=\"45\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">the Poll Tax</text>\n  <rect x=\"10\" y=\"62\" width=\"100\" height=\"34\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"60\" y=\"83\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">demands to end serfdom</text>\n  <path d=\"M110,60 L150,60\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ukm2)\"/>\n  <rect x=\"154\" y=\"34\" width=\"176\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"242\" y=\"55\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Revolt crushed</text>\n  <text x=\"242\" y=\"73\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">but the Poll Tax is dropped</text>\n  <text x=\"170\" y=\"112\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">led by Wat Tyler · faced by Richard II</text>\n</svg>\n<figcaption>The revolt failed in the short term, yet the hated tax was abandoned.</figcaption>\n</figure>\n\n<h2>In summary</h2>\n\n<h3>Timeline</h3>\n\n<table>\n  <tr><th>Date</th><th>Event</th></tr>\n  <tr><td>1215</td><td>King John seals Magna Carta</td></tr>\n  <tr><td>1348</td><td>Black Death reaches England</td></tr>\n  <tr><td>1349-50</td><td>Huge population loss</td></tr>\n  <tr><td>1381</td><td>Peasants' Revolt (Wat Tyler)</td></tr>\n</table>\n\n<h3>Key terms</h3>\n\n<table>\n  <tr><th>Term</th><th>Meaning</th></tr>\n  <tr><td>Magna Carta</td><td>Charter limiting the king (1215)</td></tr>\n  <tr><td>Black Death</td><td>Plague of 1348 onwards</td></tr>\n  <tr><td>Serf (villein)</td><td>Unfree peasant tied to the land</td></tr>\n  <tr><td>Poll Tax</td><td>Flat tax charged to everyone</td></tr>\n  <tr><td>Feudal system</td><td>Ranked society, land for service</td></tr>\n</table>\n\n<h3>People</h3>\n\n<table>\n  <tr><th>Name</th><th>Role</th></tr>\n  <tr><td>King John</td><td>Sealed Magna Carta in 1215</td></tr>\n  <tr><td>Wat Tyler</td><td>Led the Peasants' Revolt</td></tr>\n  <tr><td>Richard II</td><td>Young king in 1381</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Watch out</strong><br>\n  Don't confuse the two changes: <b>Magna Carta</b> was a <b>legal/political</b> limit on the king, while the <b>Black Death</b> was a <b>social and economic</b> shock. And the Peasants' Revolt was 'crushed' — yet it still forced the Poll Tax to be dropped.\n</div>\n\n<blockquote>\n  <p>Charter, plague and revolt: three very different forces chipped away at the power of kings and lords. Together they began England's long journey away from rigid feudalism.</p>\n</blockquote>\n",
+  "questionLang": "en",
+  "answerLang": "en",
+  "version": 1,
+  "level": "GCSE",
+  "theme": "British History",
+  "cards": [
+    {
+      "recto": "Which unpopular king was forced by his barons to seal Magna Carta in 1215?",
+      "verso": "King John",
+      "explanation": "John lost lands in France, raised heavy taxes and quarrelled with the Church. Rebel barons forced him to accept limits on his power.",
+      "tags": [
+        "magna-carta",
+        "people"
+      ],
+      "distractors": {
+        "easy": [
+          "William the Conqueror",
+          "Henry VIII",
+          "Elizabeth I"
+        ],
+        "medium": [
+          "Richard the Lionheart",
+          "Edward I",
+          "Henry II"
+        ],
+        "hard": [
+          "Stephen",
+          "Henry III",
+          "King Cnut"
+        ]
+      }
+    },
+    {
+      "recto": "What document, sealed at Runnymede in 1215, limited the power of the king?",
+      "verso": "Magna Carta",
+      "explanation": "Latin for 'Great Charter', it said the king was not above the law and could not tax or imprison people freely. It became a symbol of rights and liberty.",
+      "tags": [
+        "magna-carta",
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "The Domesday Book",
+          "The Bill of Rights",
+          "The Bayeux Tapestry"
+        ],
+        "medium": [
+          "The Provisions of Oxford",
+          "The Petition of Right",
+          "The Constitutions of Clarendon"
+        ],
+        "hard": [
+          "The Charter of the Forest",
+          "The Assize of Clarendon",
+          "The Statute of Westminster"
+        ]
+      }
+    },
+    {
+      "recto": "What key principle did Magna Carta establish about the king and the law?",
+      "verso": "The king is not above the law",
+      "explanation": "Magna Carta said even the king had to obey the law and could not act as he pleased. This idea underpins later constitutional government.",
+      "tags": [
+        "magna-carta",
+        "ideas"
+      ],
+      "distractors": {
+        "easy": [
+          "The king can do whatever he likes",
+          "The king owns all people",
+          "The king is a god"
+        ],
+        "medium": [
+          "The Pope rules England",
+          "Barons must obey the king absolutely",
+          "Parliament rules alone"
+        ],
+        "hard": [
+          "The king appoints all bishops freely",
+          "Taxes need no consent",
+          "Trials are decided by the king alone"
+        ]
+      }
+    },
+    {
+      "recto": "Which deadly disease swept through England from 1348, killing a huge share of the population?",
+      "verso": "The Black Death (plague)",
+      "explanation": "The plague arrived in 1348 and killed perhaps a third to half of England's people within a few years, transforming society and the economy.",
+      "tags": [
+        "black-death",
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "The common cold",
+          "Chickenpox",
+          "Measles today"
+        ],
+        "medium": [
+          "Cholera",
+          "Smallpox",
+          "Influenza of 1918"
+        ],
+        "hard": [
+          "Typhus",
+          "The sweating sickness",
+          "Leprosy"
+        ]
+      }
+    },
+    {
+      "recto": "Roughly what share of England's population died in the Black Death?",
+      "verso": "About a third to a half",
+      "explanation": "Estimates suggest 30-50% of people died. This massive loss of life caused huge social and economic upheaval.",
+      "tags": [
+        "black-death",
+        "figures"
+      ],
+      "distractors": {
+        "easy": [
+          "About 1%",
+          "Nobody died",
+          "Everyone died"
+        ],
+        "medium": [
+          "About 5%",
+          "About 10%",
+          "About 90%"
+        ],
+        "hard": [
+          "About 15%",
+          "About 70%",
+          "About 20%"
+        ]
+      }
+    },
+    {
+      "recto": "[Watch out] Did medieval people understand the real cause of the Black Death?",
+      "verso": "No; they blamed God's punishment or 'bad air', not germs",
+      "explanation": "A common error is to assume they knew about germs. With no germ theory, people blamed sin, God's anger or 'miasma'. Some flagellants whipped themselves to beg forgiveness.",
+      "tags": [
+        "piege",
+        "black-death"
+      ],
+      "distractors": {
+        "easy": [
+          "Yes, they knew fleas and bacteria caused it",
+          "Yes, they used vaccines",
+          "Yes, they understood viruses"
+        ],
+        "medium": [
+          "Yes, they blamed dirty water and germs",
+          "Yes, doctors identified the bacteria",
+          "No, they thought it was harmless"
+        ],
+        "hard": [
+          "Yes, they proved it came from rats scientifically",
+          "Yes, they isolated the plague bacterium",
+          "No, because there was no disease at all"
+        ]
+      }
+    },
+    {
+      "recto": "How did the shortage of workers after the Black Death affect peasants?",
+      "verso": "Survivors could demand higher wages and more freedom",
+      "explanation": "With so many dead, labour was scarce. Peasants could bargain for better pay and conditions, weakening the old feudal ties.",
+      "tags": [
+        "black-death",
+        "consequences"
+      ],
+      "distractors": {
+        "easy": [
+          "Wages fell to nothing",
+          "Peasants lost all rights",
+          "Nothing changed for peasants"
+        ],
+        "medium": [
+          "Peasants were all freed by the king",
+          "Lords gained more control than ever",
+          "Slavery was introduced"
+        ],
+        "hard": [
+          "Wages were frozen and never rose",
+          "Peasants left England entirely",
+          "Feudalism was strengthened permanently"
+        ]
+      }
+    },
+    {
+      "recto": "What 1381 uprising was sparked by a hated Poll Tax and demands for freedom?",
+      "verso": "The Peasants' Revolt",
+      "explanation": "Angry at the Poll Tax and lingering feudal duties, rebels marched on London led by Wat Tyler. It was crushed, but the Poll Tax was dropped.",
+      "tags": [
+        "peasants-revolt",
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "The Norman Conquest",
+          "The Civil War",
+          "The Industrial Revolution"
+        ],
+        "medium": [
+          "The Pilgrimage of Grace",
+          "Kett's Rebellion",
+          "The Jacobite Rising"
+        ],
+        "hard": [
+          "The Cornish Rebellion",
+          "Cade's Rebellion",
+          "The Rising of the North"
+        ]
+      }
+    },
+    {
+      "recto": "Who was the leader of the Peasants' Revolt of 1381?",
+      "verso": "Wat Tyler",
+      "explanation": "Wat Tyler led the rebels into London to demand an end to serfdom and the Poll Tax. He was killed when meeting the young king Richard II.",
+      "tags": [
+        "peasants-revolt",
+        "people"
+      ],
+      "distractors": {
+        "easy": [
+          "King John",
+          "William Wallace",
+          "Oliver Cromwell"
+        ],
+        "medium": [
+          "John Ball",
+          "Jack Cade",
+          "Robert Kett"
+        ],
+        "hard": [
+          "Simon of Sudbury",
+          "John Wycliffe",
+          "Henry Bolingbroke"
+        ]
+      }
+    },
+    {
+      "recto": "Which tax, charged the same amount to everyone, helped spark the Peasants' Revolt?",
+      "verso": "The Poll Tax",
+      "explanation": "A flat tax per person hit the poor hardest, since everyone paid the same regardless of wealth. It caused deep anger in 1381.",
+      "tags": [
+        "peasants-revolt",
+        "causes"
+      ],
+      "distractors": {
+        "easy": [
+          "Income tax on the rich",
+          "No tax at all",
+          "A tax only on kings"
+        ],
+        "medium": [
+          "Ship money",
+          "The window tax",
+          "Tithes only"
+        ],
+        "hard": [
+          "The scutage",
+          "Danegeld",
+          "The salt tax"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] How did the effects of Magna Carta and the Black Death differ?",
+      "verso": "Magna Carta limited royal power in law; the Black Death changed society and the economy through mass death",
+      "explanation": "Magna Carta was a political and legal change (limits on the king). The Black Death was a social and economic shock (labour shortages, higher wages) with no law behind it.",
+      "tags": [
+        "comparaison",
+        "consequences"
+      ],
+      "distractors": {
+        "easy": [
+          "They were exactly the same kind of event",
+          "Both were diseases",
+          "Both were battles"
+        ],
+        "medium": [
+          "Magna Carta was a plague; the Black Death was a law",
+          "Both only affected the king",
+          "Neither had any lasting effect"
+        ],
+        "hard": [
+          "Both were peasant uprisings",
+          "Magna Carta caused the plague",
+          "The Black Death was a royal charter"
+        ]
+      }
+    },
+    {
+      "recto": "What was the strict social hierarchy of medieval England, with peasants at the bottom, called?",
+      "verso": "The feudal system",
+      "explanation": "Society was ranked from the king down through lords and knights to peasants, who worked the land in return for protection.",
+      "tags": [
+        "society",
+        "feudalism"
+      ],
+      "distractors": {
+        "easy": [
+          "Democracy",
+          "The class system today",
+          "Communism"
+        ],
+        "medium": [
+          "The caste system of India",
+          "The guild system alone",
+          "The manor courts alone"
+        ],
+        "hard": [
+          "Absolutism",
+          "The estates of France only",
+          "The open-field system alone"
+        ]
+      }
+    },
+    {
+      "recto": "What was an unfree peasant, tied to a lord's land, called in medieval England?",
+      "verso": "A serf (villein)",
+      "explanation": "Serfs were bound to the land and owed work and dues to their lord. They could not leave freely. The Black Death helped erode serfdom.",
+      "tags": [
+        "society",
+        "feudalism"
+      ],
+      "distractors": {
+        "easy": [
+          "A king",
+          "A knight",
+          "A bishop"
+        ],
+        "medium": [
+          "A freeman",
+          "A merchant",
+          "A baron"
+        ],
+        "hard": [
+          "A yeoman",
+          "A burgess",
+          "A franklin"
+        ]
+      }
+    },
+    {
+      "recto": "Which powerful institution dominated religion and learning in medieval England?",
+      "verso": "The Catholic Church",
+      "explanation": "The Church owned land, collected tithes, ran education and shaped daily life. It answered to the Pope in Rome, not the English king alone.",
+      "tags": [
+        "church",
+        "society"
+      ],
+      "distractors": {
+        "easy": [
+          "The Church of England",
+          "A modern parliament",
+          "The BBC"
+        ],
+        "medium": [
+          "The Puritans",
+          "The Methodists",
+          "The Bank of England"
+        ],
+        "hard": [
+          "The Lollards",
+          "The Quakers",
+          "The Presbyterians"
+        ]
+      }
+    },
+    {
+      "recto": "Which young king faced the rebels of 1381 and made promises he later broke?",
+      "verso": "Richard II",
+      "explanation": "Just 14, Richard II met the rebels, promised to end serfdom, then went back on his word once the revolt collapsed. Serfdom slowly declined anyway.",
+      "tags": [
+        "peasants-revolt",
+        "people"
+      ],
+      "distractors": {
+        "easy": [
+          "King John",
+          "Henry VIII",
+          "William I"
+        ],
+        "medium": [
+          "Edward III",
+          "Henry IV",
+          "Edward I"
+        ],
+        "hard": [
+          "Richard III",
+          "Henry V",
+          "Edward the Black Prince"
+        ]
+      }
+    },
+    {
+      "recto": "Overall, why is medieval England important for the story of rights and freedom?",
+      "verso": "Magna Carta limited the king, and events like the Black Death and the revolt weakened feudal control",
+      "explanation": "Together, legal limits on the king and the breakdown of serfdom began a slow shift away from absolute royal power and rigid feudalism.",
+      "tags": [
+        "synthesis",
+        "consequences"
+      ],
+      "distractors": {
+        "easy": [
+          "It made the king all-powerful forever",
+          "It had no effect on later England",
+          "It abolished all kings"
+        ],
+        "medium": [
+          "It created full democracy at once",
+          "It ended all taxation",
+          "It made England a republic"
+        ],
+        "hard": [
+          "It strengthened serfdom permanently",
+          "It gave the Pope control of England",
+          "It removed all limits on the crown"
+        ]
+      }
+    }
+  ]
+}

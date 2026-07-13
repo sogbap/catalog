@@ -1,0 +1,432 @@
+{
+  "id": "de-gymnasium-geschichte-deutsche-einigung-1871",
+  "title": "Die deutsche Einigung und die Reichsgründung 1871",
+  "emoji": "🦅",
+  "subject": "history",
+  "country": "de",
+  "courseDescription": "Der Weg zur deutschen Einheit: die gescheiterte Revolution von 1848, Bismarcks Einigungskriege und die Reichsgründung 1871.",
+  "lesson": "<style>\n  /* Stile der SVG-Grafiken. Nutzen currentColor (Textfarbe) und var(--accent)\n     (Fachfarbe) und passen sich dem hellen/dunklen Design der App an. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Die deutsche Einigung und die Reichsgründung 1871</h1>\n\n<div class=\"callout\">\n  <strong>Überblick</strong><br>\n  <b>Stufe:</b> Gymnasium<br>\n  <b>Thema:</b> Geschichte<br>\n  <b>Zeitraum:</b> 1848 — 1871\n</div>\n\n<blockquote>\n  <p><b>Leitfrage.</b> Warum entstand der deutsche Nationalstaat nicht durch die Revolution, sondern 'von oben' durch Bismarck?</p>\n</blockquote>\n\n<p>Lange bestand Deutschland aus vielen Einzelstaaten. Die <strong>Revolution von 1848</strong> wollte die Einheit 'von unten' — und scheiterte. Erst <strong>Bismarck</strong> einte Deutschland durch drei <strong>Einigungskriege</strong>. <strong>1871</strong> wurde in <strong>Versailles</strong> das Deutsche Kaiserreich ausgerufen.</p>\n\n<h2>1 · Der Wunsch nach Einheit und 1848</h2>\n\n<p>Der <strong>Nationalismus</strong> forderte einen einheitlichen Nationalstaat. 1848 tagte die <strong>Frankfurter Paulskirche</strong>, um eine freiheitliche Einheit zu schaffen. Doch die <strong>Revolution scheiterte</strong> — die Einheit blieb aus.</p>\n\n<div class=\"callout\">\n  <strong>Begriff · Deutscher Bund</strong><br>\n  Ein loser Zusammenschluss der deutschen Einzelstaaten (ab 1815), ohne gemeinsame Regierung. Der Wunsch nach einem echten Nationalstaat wuchs im 19. Jahrhundert.\n</div>\n\n<h2>2 · Bismarck und die Einigungskriege</h2>\n\n<p>Preußen und <strong>Österreich</strong> rangen um die Führung. Der preußische Ministerpräsident <strong>Bismarck</strong> setzte auf '<strong>Blut und Eisen</strong>' und führte drei <strong>Einigungskriege</strong>: gegen Dänemark (1864), Österreich (1866) und Frankreich (1870/71).</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Die drei Einigungskriege Bismarcks\">\n  <defs>\n    <marker id=\"ar-dee1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Dänemark</text>\n  <text x=\"54\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">1864</text>\n  <path d=\"M100,68 L118,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-dee1)\"/>\n  <rect x=\"122\" y=\"42\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Österreich</text>\n  <text x=\"170\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">1866</text>\n  <path d=\"M218,68 L236,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-dee1)\"/>\n  <rect x=\"240\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Frankreich</text>\n  <text x=\"286\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">1870/71</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">'Blut und Eisen'</text>\n</svg>\n<figcaption>Drei Kriege ebneten den Weg zum Nationalstaat.</figcaption>\n</figure>\n\n<h2>3 · Die Reichsgründung 1871</h2>\n\n<p>Nach dem Sieg über Frankreich wurde <strong>1871</strong> im Schloss von <strong>Versailles</strong> das Deutsche Kaiserreich ausgerufen. <strong>Wilhelm I.</strong> wurde Kaiser. Es war die <strong>kleindeutsche Lösung</strong> — ohne Österreich, unter Führung Preußens.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 160\" role=\"img\" aria-label=\"Zeitleiste der deutschen Einigung von 1848 bis 1871\">\n  <line x1=\"26\" y1=\"16\" x2=\"26\" y2=\"146\" style=\"stroke:var(--accent);stroke-opacity:.4;stroke-width:2\"/>\n  <circle cx=\"26\" cy=\"24\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"21\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1848</text>\n  <text x=\"40\" y=\"34\" class=\"s-muted\" font-size=\"10\">Revolution scheitert</text>\n  <circle cx=\"26\" cy=\"70\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"67\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1864-70</text>\n  <text x=\"40\" y=\"80\" class=\"s-muted\" font-size=\"10\">Einigungskriege (Bismarck)</text>\n  <circle cx=\"26\" cy=\"140\" r=\"5\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"137\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1871</text>\n  <text x=\"40\" y=\"150\" class=\"s-muted\" font-size=\"10\">Reichsgründung in Versailles</text>\n</svg>\n<figcaption>Nach dem Scheitern von 1848 kam die Einheit 'von oben'.</figcaption>\n</figure>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Vergleich der kleindeutschen und großdeutschen Lösung\">\n  <rect x=\"12\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Kleindeutsch</text>\n  <text x=\"87\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">ohne Österreich</text>\n  <text x=\"87\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Preußen führt</text>\n  <text x=\"87\" y=\"106\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">→ 1871 verwirklicht</text>\n  <rect x=\"178\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Großdeutsch</text>\n  <text x=\"253\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">mit Österreich</text>\n  <text x=\"253\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">nicht umgesetzt</text>\n</svg>\n<figcaption>1871 setzte sich die kleindeutsche Lösung unter Preußen durch.</figcaption>\n</figure>\n\n<h2>Das Wesentliche</h2>\n\n<h3>Zeitleiste</h3>\n\n<table>\n  <tr><th>Jahr</th><th>Ereignis</th></tr>\n  <tr><td>1834</td><td>Deutscher Zollverein</td></tr>\n  <tr><td>1848</td><td>Revolution scheitert (Paulskirche)</td></tr>\n  <tr><td>1864/66/70-71</td><td>Einigungskriege</td></tr>\n  <tr><td>1871</td><td>Reichsgründung in Versailles</td></tr>\n</table>\n\n<h3>Schlüsselbegriffe</h3>\n\n<table>\n  <tr><th>Begriff</th><th>Bedeutung</th></tr>\n  <tr><td>Deutscher Bund</td><td>Loser Staatenbund vor 1871</td></tr>\n  <tr><td>Einigungskriege</td><td>Drei Kriege bis 1871</td></tr>\n  <tr><td>'Blut und Eisen'</td><td>Bismarcks Machtpolitik</td></tr>\n  <tr><td>Kleindeutsche Lösung</td><td>Einheit ohne Österreich</td></tr>\n  <tr><td>Zollverein</td><td>Wirtschaftliche Vorstufe der Einheit</td></tr>\n</table>\n\n<h3>Personen</h3>\n\n<table>\n  <tr><th>Name</th><th>Rolle</th></tr>\n  <tr><td>Otto von Bismarck</td><td>Preußischer Ministerpräsident</td></tr>\n  <tr><td>Wilhelm I.</td><td>Erster deutscher Kaiser (1871)</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Vorsicht</strong><br>\n  Die <b>Revolution von 1848 brachte nicht</b> die Einheit — sie scheiterte. Der Nationalstaat entstand 1871 'von oben' durch Preußen und Bismarck, nicht durch das Volk. Und die Einheit war <b>kleindeutsch</b>: ohne Österreich.\n</div>\n\n<blockquote>\n  <p>1871 entstand mitten in Europa ein mächtiger Nationalstaat — geeint nicht durch Freiheit von unten, sondern durch Krieg und Machtpolitik. Dieser Ursprung sollte die deutsche Geschichte lange prägen.</p>\n</blockquote>\n",
+  "questionLang": "de",
+  "answerLang": "de",
+  "version": 1,
+  "level": "Gymnasium",
+  "theme": "Geschichte",
+  "cards": [
+    {
+      "recto": "Wie war Deutschland vor 1871 politisch organisiert?",
+      "verso": "In viele Einzelstaaten (Deutscher Bund)",
+      "explanation": "Statt eines Nationalstaats gab es viele deutsche Einzelstaaten, lose verbunden im Deutschen Bund. Der Wunsch nach Einheit wuchs im 19. Jahrhundert.",
+      "tags": [
+        "einigung",
+        "begriffe"
+      ],
+      "distractors": {
+        "easy": [
+          "Als ein zentraler Nationalstaat",
+          "Als Republik",
+          "Als Kolonie Frankreichs"
+        ],
+        "medium": [
+          "Als Kaiserreich seit 1800",
+          "Als Bundesrepublik",
+          "Als Königreich Preußen allein"
+        ],
+        "hard": [
+          "Als Heiliges Römisches Reich (bis 1871)",
+          "Als Zollverein-Staat",
+          "Als Norddeutscher Bund allein"
+        ]
+      }
+    },
+    {
+      "recto": "Welche Bewegung strebte im 19. Jahrhundert nach einem geeinten deutschen Nationalstaat?",
+      "verso": "Der (deutsche) Nationalismus / die Nationalbewegung",
+      "explanation": "Angeregt durch die Französische Revolution wollten viele Deutsche einen einheitlichen Nationalstaat mit bürgerlichen Freiheiten.",
+      "tags": [
+        "einigung",
+        "ideen"
+      ],
+      "distractors": {
+        "easy": [
+          "Der Feudalismus",
+          "Der Absolutismus",
+          "Der Imperialismus allein"
+        ],
+        "medium": [
+          "Der Sozialismus allein",
+          "Die Restauration",
+          "Der Kolonialismus"
+        ],
+        "hard": [
+          "Der Partikularismus",
+          "Der Föderalismus allein",
+          "Der Liberalismus ohne Nation"
+        ]
+      }
+    },
+    {
+      "recto": "In welchem Jahr scheiterte die deutsche Revolution, die eine Einheit von unten wollte?",
+      "verso": "1848 (Revolution von 1848/49)",
+      "explanation": "1848 versuchte das Bürgertum, in der Frankfurter Paulskirche einen einheitlichen, freiheitlichen Nationalstaat zu schaffen. Der Versuch scheiterte.",
+      "tags": [
+        "einigung",
+        "daten"
+      ],
+      "distractors": {
+        "easy": [
+          "1914",
+          "1789",
+          "1990"
+        ],
+        "medium": [
+          "1871",
+          "1815",
+          "1919"
+        ],
+        "hard": [
+          "1866",
+          "1834",
+          "1849 nein, 1852"
+        ]
+      }
+    },
+    {
+      "recto": "Wo tagte 1848 das erste gesamtdeutsche Parlament?",
+      "verso": "In der Frankfurter Paulskirche",
+      "explanation": "Die Nationalversammlung in der Paulskirche beriet über eine Verfassung und Einheit. Doch ihr Angebot einer Kaiserkrone scheiterte.",
+      "tags": [
+        "einigung",
+        "ereignisse"
+      ],
+      "distractors": {
+        "easy": [
+          "Im Berliner Reichstag",
+          "Im Wiener Schloss",
+          "Im Kölner Dom"
+        ],
+        "medium": [
+          "Im Schloss Versailles",
+          "In der Wartburg",
+          "Im Hambacher Schloss"
+        ],
+        "hard": [
+          "Im Bundestag zu Frankfurt",
+          "In der Münchner Frauenkirche",
+          "Im Erfurter Unionsparlament"
+        ]
+      }
+    },
+    {
+      "recto": "[Vorsicht] Brachte die Revolution von 1848 die deutsche Einheit?",
+      "verso": "Nein; sie scheiterte, die Einheit kam später 'von oben' durch Bismarck",
+      "explanation": "Häufiger Irrtum. Die Revolution von 1848 scheiterte. Die Einheit entstand erst 1871 nicht durch das Volk, sondern durch Preußen und Bismarck 'von oben'.",
+      "tags": [
+        "piege",
+        "einigung"
+      ],
+      "distractors": {
+        "easy": [
+          "Ja, 1848 entstand das Kaiserreich",
+          "Ja, sofort und friedlich",
+          "Ja, das Volk gründete das Reich"
+        ],
+        "medium": [
+          "Ja, die Paulskirche schuf den Nationalstaat",
+          "Ja, noch im selben Jahr",
+          "Nein, weil es keine Revolution gab"
+        ],
+        "hard": [
+          "Ja, 1849 wurde der Kaiser gekrönt",
+          "Ja, die Einheit kam von unten",
+          "Nein, weil Deutschland schon geeint war"
+        ]
+      }
+    },
+    {
+      "recto": "Welche zwei Großmächte rivalisierten um die Führung in Deutschland?",
+      "verso": "Preußen und Österreich",
+      "explanation": "Preußen und Österreich stritten um die Vorherrschaft (Dualismus). 1866 setzte sich Preußen im Krieg durch und schloss Österreich aus.",
+      "tags": [
+        "einigung",
+        "gegensatz"
+      ],
+      "distractors": {
+        "easy": [
+          "Frankreich und England",
+          "Bayern und Sachsen",
+          "Russland und Polen"
+        ],
+        "medium": [
+          "Preußen und Bayern",
+          "Österreich und Ungarn",
+          "Preußen und Russland"
+        ],
+        "hard": [
+          "Preußen und Frankreich",
+          "Österreich und Italien",
+          "Sachsen und Hannover"
+        ]
+      }
+    },
+    {
+      "recto": "Welcher preußische Ministerpräsident trieb die Einigung entscheidend voran?",
+      "verso": "Otto von Bismarck",
+      "explanation": "Bismarck einte Deutschland durch gezielte Politik und drei Kriege. Sein Motto: Große Fragen würden 'durch Blut und Eisen' entschieden.",
+      "tags": [
+        "einigung",
+        "personen"
+      ],
+      "distractors": {
+        "easy": [
+          "Napoleon",
+          "Adolf Hitler",
+          "Konrad Adenauer"
+        ],
+        "medium": [
+          "Wilhelm I.",
+          "Wilhelm II.",
+          "Friedrich Ebert"
+        ],
+        "hard": [
+          "Helmuth von Moltke",
+          "Albrecht von Roon",
+          "Friedrich Wilhelm IV."
+        ]
+      }
+    },
+    {
+      "recto": "Mit welchem berühmten Ausdruck beschrieb Bismarck seine Politik der Einigung?",
+      "verso": "'Blut und Eisen'",
+      "explanation": "Bismarck meinte, die deutsche Frage werde nicht durch Reden, sondern durch militärische Macht ('Blut und Eisen') entschieden — also durch Kriege.",
+      "tags": [
+        "einigung",
+        "begriffe"
+      ],
+      "distractors": {
+        "easy": [
+          "'Liberté, égalité'",
+          "'Wir schaffen das'",
+          "'Brot und Frieden'"
+        ],
+        "medium": [
+          "'Einigkeit und Recht'",
+          "'Kohle und Stahl'",
+          "'Zuckerbrot und Peitsche'"
+        ],
+        "hard": [
+          "'Realpolitik allein'",
+          "'Gott mit uns'",
+          "'Feuer und Schwert'"
+        ]
+      }
+    },
+    {
+      "recto": "Wie nennt man die drei Kriege, mit denen Bismarck die Einheit erreichte?",
+      "verso": "Die (deutschen) Einigungskriege",
+      "explanation": "Gegen Dänemark (1864), Österreich (1866) und Frankreich (1870/71) führte Preußen Kriege, die den Weg zur Reichsgründung ebneten.",
+      "tags": [
+        "einigung",
+        "kriege"
+      ],
+      "distractors": {
+        "easy": [
+          "Die Weltkriege",
+          "Die Kreuzzüge",
+          "Die Napoleonischen Kriege"
+        ],
+        "medium": [
+          "Die Koalitionskriege",
+          "Die Befreiungskriege",
+          "Die Türkenkriege"
+        ],
+        "hard": [
+          "Die Schlesischen Kriege",
+          "Die Bauernkriege",
+          "Der Dreißigjährige Krieg"
+        ]
+      }
+    },
+    {
+      "recto": "Gegen welches Land führte Preußen den entscheidenden Krieg 1870/71?",
+      "verso": "Gegen Frankreich",
+      "explanation": "Der Sieg im Deutsch-Französischen Krieg 1870/71 einigte die deutschen Staaten und führte direkt zur Reichsgründung.",
+      "tags": [
+        "einigung",
+        "kriege"
+      ],
+      "distractors": {
+        "easy": [
+          "Gegen England",
+          "Gegen Italien",
+          "Gegen Russland"
+        ],
+        "medium": [
+          "Gegen Österreich",
+          "Gegen Dänemark",
+          "Gegen die USA"
+        ],
+        "hard": [
+          "Gegen die Niederlande",
+          "Gegen Spanien",
+          "Gegen Belgien"
+        ]
+      }
+    },
+    {
+      "recto": "Wo und wann wurde das Deutsche Kaiserreich ausgerufen?",
+      "verso": "1871 im Schloss von Versailles",
+      "explanation": "Nach dem Sieg über Frankreich wurde das Deutsche Reich 1871 im Spiegelsaal von Versailles ausgerufen — ein bewusst gewählter Ort.",
+      "tags": [
+        "einigung",
+        "reichsgruendung"
+      ],
+      "distractors": {
+        "easy": [
+          "1848 in Frankfurt",
+          "1990 in Berlin",
+          "1815 in Wien"
+        ],
+        "medium": [
+          "1871 in Berlin",
+          "1866 in Prag",
+          "1919 in Weimar"
+        ],
+        "hard": [
+          "1871 in Potsdam",
+          "1870 in Sedan",
+          "1871 in München"
+        ]
+      }
+    },
+    {
+      "recto": "Wer wurde 1871 erster deutscher Kaiser?",
+      "verso": "Wilhelm I. (von Preußen)",
+      "explanation": "Der preußische König Wilhelm I. wurde 1871 zum Deutschen Kaiser proklamiert. Preußen führte das neue Reich an.",
+      "tags": [
+        "einigung",
+        "personen"
+      ],
+      "distractors": {
+        "easy": [
+          "Napoleon",
+          "Bismarck",
+          "Adolf Hitler"
+        ],
+        "medium": [
+          "Wilhelm II.",
+          "Friedrich III.",
+          "Friedrich Wilhelm IV."
+        ],
+        "hard": [
+          "Ludwig II. von Bayern",
+          "Franz Joseph I.",
+          "Friedrich Ebert"
+        ]
+      }
+    },
+    {
+      "recto": "[Vergleich] Was unterscheidet die 'kleindeutsche' von der 'großdeutschen' Lösung?",
+      "verso": "Kleindeutsch: Einheit ohne Österreich, unter Preußen; großdeutsch: Einheit mit Österreich",
+      "explanation": "Die kleindeutsche Lösung (ohne Österreich, geführt von Preußen) setzte sich 1871 durch. Die großdeutsche hätte Österreich eingeschlossen.",
+      "tags": [
+        "comparaison",
+        "einigung"
+      ],
+      "distractors": {
+        "easy": [
+          "Es gibt keinen Unterschied",
+          "Kleindeutsch schloss Preußen aus",
+          "Beide schlossen Österreich ein"
+        ],
+        "medium": [
+          "Kleindeutsch mit Österreich, großdeutsch ohne",
+          "Beide Lösungen ohne Preußen",
+          "Großdeutsch bedeutete nur Bayern"
+        ],
+        "hard": [
+          "Kleindeutsch unter Österreich geführt",
+          "Großdeutsch ohne alle Staaten",
+          "Beide führten zur Republik"
+        ]
+      }
+    },
+    {
+      "recto": "Welche Staatsform hatte das 1871 gegründete Deutsche Reich?",
+      "verso": "Eine konstitutionelle Monarchie (Kaiserreich)",
+      "explanation": "Das Reich war ein Kaiserreich mit Verfassung und Reichstag, doch die Macht lag stark beim Kaiser und beim Kanzler, nicht beim Parlament.",
+      "tags": [
+        "einigung",
+        "staat"
+      ],
+      "distractors": {
+        "easy": [
+          "Eine Demokratie wie heute",
+          "Eine Republik",
+          "Eine absolute Monarchie ohne Verfassung"
+        ],
+        "medium": [
+          "Ein sozialistischer Staat",
+          "Eine Militärdiktatur",
+          "Ein Stadtstaat"
+        ],
+        "hard": [
+          "Eine parlamentarische Republik",
+          "Eine reine Adelsherrschaft",
+          "Eine Theokratie"
+        ]
+      }
+    },
+    {
+      "recto": "Insgesamt: Wie kam die deutsche Einheit 1871 zustande?",
+      "verso": "Nicht durch die Revolution von unten, sondern 'von oben' durch Preußen und Bismarcks Kriege",
+      "explanation": "Die Einheit entstand nach dem Scheitern von 1848 durch die Machtpolitik Preußens und Bismarcks Einigungskriege — von oben, nicht durch das Volk.",
+      "tags": [
+        "einigung",
+        "synthese"
+      ],
+      "distractors": {
+        "easy": [
+          "Durch eine friedliche Volksabstimmung",
+          "Durch die Revolution von 1848",
+          "Durch Frankreich"
+        ],
+        "medium": [
+          "Durch einen Beschluss der Paulskirche",
+          "Ganz ohne Kriege",
+          "Durch Österreich geführt"
+        ],
+        "hard": [
+          "Durch die Ausrufung einer Republik",
+          "Durch einen Volksaufstand 1871",
+          "Durch die großdeutsche Lösung"
+        ]
+      }
+    },
+    {
+      "recto": "Welche wirtschaftliche Vorstufe verband viele deutsche Staaten schon vor 1871?",
+      "verso": "Der (Deutsche) Zollverein",
+      "explanation": "Der Zollverein schuf ab 1834 einen gemeinsamen Wirtschaftsraum ohne Binnenzölle. Er förderte die wirtschaftliche und politische Annäherung.",
+      "tags": [
+        "einigung",
+        "wirtschaft"
+      ],
+      "distractors": {
+        "easy": [
+          "Die EU",
+          "Die NATO",
+          "Der Euro"
+        ],
+        "medium": [
+          "Der Deutsche Bund allein",
+          "Der Norddeutsche Bund",
+          "Die Hanse"
+        ],
+        "hard": [
+          "Die Kontinentalsperre",
+          "Die Reichsbank",
+          "Das Reichskammergericht"
+        ]
+      }
+    }
+  ]
+}

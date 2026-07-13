@@ -1,0 +1,432 @@
+{
+  "id": "es-bachillerato-historia-espana-al-andalus",
+  "title": "Al-Ándalus y la Reconquista",
+  "emoji": "🕌",
+  "subject": "history",
+  "country": "es",
+  "courseDescription": "La conquista musulmana de la Península, el esplendor de Al-Ándalus y el largo proceso de la Reconquista cristiana.",
+  "lesson": "<style>\n  /* Estilos de las figuras (SVG). Usan currentColor (texto del tema) y\n     var(--accent) (color de la materia): se adaptan al tema claro/oscuro. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Al-Ándalus y la Reconquista</h1>\n\n<div class=\"callout\">\n  <strong>Claves</strong><br>\n  <b>Nivel:</b> Bachillerato<br>\n  <b>Tema:</b> Historia de España<br>\n  <b>Periodo:</b> 711 — 1492\n</div>\n\n<blockquote>\n  <p><b>Pregunta central.</b> ¿Cómo convivieron y se enfrentaron Al-Ándalus y los reinos cristianos durante casi ocho siglos?</p>\n</blockquote>\n\n<p>En <strong>711</strong> los musulmanes conquistaron casi toda la Península y crearon <strong>Al-Ándalus</strong>, con Córdoba como brillante capital. En el norte resistieron los <strong>reinos cristianos</strong>, que iniciaron la <strong>Reconquista</strong>, un largo proceso que culminó en <strong>1492</strong> con la toma de <strong>Granada</strong>.</p>\n\n<h2>1 · La conquista musulmana y Al-Ándalus</h2>\n\n<p>Tras derrotar al rey visigodo en 711, los musulmanes ocuparon la Península. <strong>Abderramán III</strong> proclamó el <strong>Califato de Córdoba</strong> (929), época de máximo esplendor: <strong>Córdoba</strong> fue centro de ciencia y cultura. Después, Al-Ándalus se fragmentó en <strong>reinos de taifas</strong>.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Evolución política de Al-Ándalus: conquista, califato y taifas\">\n  <defs>\n    <marker id=\"ar-esa1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Conquista</text>\n  <text x=\"54\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">711</text>\n  <path d=\"M100,68 L118,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-esa1)\"/>\n  <rect x=\"122\" y=\"42\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Califato</text>\n  <text x=\"170\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Córdoba · 929</text>\n  <path d=\"M218,68 L236,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-esa1)\"/>\n  <rect x=\"240\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Taifas</text>\n  <text x=\"286\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">fragmentación</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">del esplendor a la división</text>\n</svg>\n<figcaption>Al-Ándalus pasó del máximo esplendor a la fragmentación en taifas.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Concepto · Reconquista</strong><br>\n  El largo proceso (711-1492) por el que los reinos cristianos del norte ampliaron sus territorios hacia el sur. No fue una guerra continua: hubo treguas, pactos e incluso alianzas mixtas.\n</div>\n\n<h2>2 · Los reinos cristianos y la Reconquista</h2>\n\n<p>En el norte surgió el <strong>Reino de Asturias</strong>; la batalla de <strong>Covadonga</strong> se convirtió en su mito fundacional. Con el tiempo, <strong>Castilla</strong> y <strong>Aragón</strong> lideraron el avance. La victoria de <strong>Las Navas de Tolosa</strong> (1212) abrió el sur a la expansión cristiana.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Contraste entre Al-Ándalus musulmán y los reinos cristianos del norte\">\n  <rect x=\"12\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Al-Ándalus</text>\n  <text x=\"87\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">musulmán</text>\n  <text x=\"87\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">urbano y culto</text>\n  <text x=\"87\" y=\"106\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">ciencia, comercio</text>\n  <rect x=\"178\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Reinos cristianos</text>\n  <text x=\"253\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">rurales y feudales</text>\n  <text x=\"253\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">en expansión</text>\n  <text x=\"253\" y=\"106\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">hacia el sur</text>\n</svg>\n<figcaption>Dos mundos frente a frente: la ciudad andalusí y el campo feudal cristiano.</figcaption>\n</figure>\n\n<h2>3 · Convivencia y fin de Al-Ándalus</h2>\n\n<p>En la Península convivieron musulmanes, cristianos (<strong>mozárabes</strong>) y judíos, y más tarde <strong>mudéjares</strong> (musulmanes en tierra cristiana). El último reino musulmán, el <strong>reino nazarí de Granada</strong>, con su <strong>Alhambra</strong>, cayó en <strong>1492</strong> ante los Reyes Católicos.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Cronología de Al-Ándalus y la Reconquista, de 711 a 1492\">\n  <line x1=\"26\" y1=\"16\" x2=\"26\" y2=\"176\" style=\"stroke:var(--accent);stroke-opacity:.4;stroke-width:2\"/>\n  <circle cx=\"26\" cy=\"24\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"21\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">711</text>\n  <text x=\"40\" y=\"34\" class=\"s-muted\" font-size=\"10\">Conquista musulmana</text>\n  <circle cx=\"26\" cy=\"62\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"59\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">929</text>\n  <text x=\"40\" y=\"72\" class=\"s-muted\" font-size=\"10\">Califato de Córdoba</text>\n  <circle cx=\"26\" cy=\"100\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"97\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">s. XI</text>\n  <text x=\"40\" y=\"110\" class=\"s-muted\" font-size=\"10\">Reinos de taifas</text>\n  <circle cx=\"26\" cy=\"138\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"135\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1212</text>\n  <text x=\"40\" y=\"148\" class=\"s-muted\" font-size=\"10\">Las Navas de Tolosa</text>\n  <circle cx=\"26\" cy=\"170\" r=\"5\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"167\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1492</text>\n  <text x=\"40\" y=\"180\" class=\"s-muted\" font-size=\"10\">Toma de Granada</text>\n</svg>\n<figcaption>De la conquista de 711 a la toma de Granada en 1492.</figcaption>\n</figure>\n\n<h2>Lo esencial</h2>\n\n<h3>Cronología</h3>\n\n<table>\n  <tr><th>Fecha</th><th>Acontecimiento</th></tr>\n  <tr><td>711</td><td>Conquista musulmana; nace Al-Ándalus</td></tr>\n  <tr><td>722</td><td>Batalla de Covadonga (símbolo)</td></tr>\n  <tr><td>929</td><td>Califato de Córdoba (Abderramán III)</td></tr>\n  <tr><td>s. XI</td><td>Reinos de taifas</td></tr>\n  <tr><td>1212</td><td>Las Navas de Tolosa</td></tr>\n  <tr><td>1492</td><td>Toma de Granada</td></tr>\n</table>\n\n<h3>Términos clave</h3>\n\n<table>\n  <tr><th>Término</th><th>Significado</th></tr>\n  <tr><td>Al-Ándalus</td><td>Península bajo dominio musulmán</td></tr>\n  <tr><td>Califato de Córdoba</td><td>Época de máximo esplendor</td></tr>\n  <tr><td>Taifas</td><td>Pequeños reinos tras el califato</td></tr>\n  <tr><td>Mozárabes / mudéjares</td><td>Cristianos en Al-Ándalus / musulmanes en tierra cristiana</td></tr>\n  <tr><td>Reconquista</td><td>Avance cristiano hacia el sur (711-1492)</td></tr>\n</table>\n\n<h3>Personajes y lugares</h3>\n\n<table>\n  <tr><th>Nombre</th><th>Papel</th></tr>\n  <tr><td>Abderramán III</td><td>Primer califa de Córdoba (929)</td></tr>\n  <tr><td>Don Pelayo</td><td>Ligado a Covadonga</td></tr>\n  <tr><td>Córdoba</td><td>Capital y foco cultural</td></tr>\n  <tr><td>Granada (Alhambra)</td><td>Último reino musulmán, 1492</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  La <b>Reconquista no fue</b> una guerra santa continua de ocho siglos: hubo largas treguas, intereses políticos y hasta alianzas entre reinos cristianos y musulmanes. Y no confundas <b>mozárabes</b> (cristianos en Al-Ándalus) con <b>mudéjares</b> (musulmanes en tierra cristiana).\n</div>\n\n<blockquote>\n  <p>Al-Ándalus dejó en España una huella profunda en la lengua, el arte y la ciencia. La toma de Granada en 1492 cerró una era y abrió otra: la de la monarquía de los Reyes Católicos.</p>\n</blockquote>\n",
+  "questionLang": "es",
+  "answerLang": "es",
+  "version": 1,
+  "level": "Bachillerato",
+  "theme": "Historia de España",
+  "cards": [
+    {
+      "recto": "¿En qué año entraron los musulmanes en la Península Ibérica?",
+      "verso": "En el año 711",
+      "explanation": "En 711 un ejército musulmán derrotó al rey visigodo Rodrigo y en pocos años ocupó casi toda la Península, iniciando Al-Ándalus.",
+      "tags": [
+        "conquista",
+        "fechas"
+      ],
+      "distractors": {
+        "easy": [
+          "En el año 1492",
+          "En el año 1808",
+          "En el año 1000"
+        ],
+        "medium": [
+          "En el año 622",
+          "En el año 1212",
+          "En el año 800"
+        ],
+        "hard": [
+          "En el año 718",
+          "En el año 756",
+          "En el año 929"
+        ]
+      }
+    },
+    {
+      "recto": "¿Cómo se llamaba el territorio de la Península bajo dominio musulmán?",
+      "verso": "Al-Ándalus",
+      "explanation": "Al-Ándalus fue el nombre del territorio peninsular gobernado por los musulmanes, que llegó a ser uno de los focos culturales más brillantes de Europa.",
+      "tags": [
+        "al-andalus",
+        "conceptos"
+      ],
+      "distractors": {
+        "easy": [
+          "Hispania romana",
+          "La Nueva España",
+          "El Reino de Castilla"
+        ],
+        "medium": [
+          "El Califato de Bagdad",
+          "El Imperio otomano",
+          "El Reino visigodo"
+        ],
+        "hard": [
+          "El Emirato de Granada solo",
+          "La Marca Hispánica",
+          "El Reino nazarí solo"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué reino cristiano surgió en el norte y se considera el inicio de la Reconquista?",
+      "verso": "El Reino de Asturias",
+      "explanation": "En el norte montañoso resistió un núcleo cristiano, el Reino de Asturias. La victoria de Covadonga se tomó como símbolo del inicio de la Reconquista.",
+      "tags": [
+        "reconquista",
+        "reinos"
+      ],
+      "distractors": {
+        "easy": [
+          "El Reino de Granada",
+          "El Califato de Córdoba",
+          "Al-Ándalus"
+        ],
+        "medium": [
+          "El Reino de Castilla",
+          "La Corona de Aragón",
+          "El Reino de Portugal"
+        ],
+        "hard": [
+          "El Reino de Navarra",
+          "El Condado de Barcelona",
+          "El Reino de León solo"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué batalla del siglo VIII se considera el símbolo del inicio de la resistencia cristiana?",
+      "verso": "La batalla de Covadonga",
+      "explanation": "Hacia 722, Don Pelayo venció a los musulmanes en Covadonga. Aunque fue un choque menor, se convirtió en el mito fundacional de la Reconquista.",
+      "tags": [
+        "reconquista",
+        "batallas"
+      ],
+      "distractors": {
+        "easy": [
+          "La batalla de Waterloo",
+          "La batalla de Lepanto",
+          "La batalla de Trafalgar"
+        ],
+        "medium": [
+          "Las Navas de Tolosa",
+          "La batalla de Guadalete",
+          "La batalla de Bailén"
+        ],
+        "hard": [
+          "La batalla del Salado",
+          "La batalla de Simancas",
+          "La toma de Toledo"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué gobernante convirtió Córdoba en un califato independiente en el año 929?",
+      "verso": "Abderramán III (Abd al-Rahman III)",
+      "explanation": "En 929 Abderramán III se proclamó califa, independizando Al-Ándalus de Bagdad. Córdoba vivió su época de máximo esplendor político y cultural.",
+      "tags": [
+        "al-andalus",
+        "personajes"
+      ],
+      "distractors": {
+        "easy": [
+          "Los Reyes Católicos",
+          "Carlos V",
+          "Felipe II"
+        ],
+        "medium": [
+          "Almanzor",
+          "Boabdil",
+          "Don Pelayo"
+        ],
+        "hard": [
+          "Abderramán I",
+          "Al-Hakam II",
+          "Yusuf ibn Tashfin"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué ciudad fue la capital y gran foco cultural de Al-Ándalus?",
+      "verso": "Córdoba",
+      "explanation": "Córdoba, con su gran Mezquita, fue una de las ciudades más pobladas y cultas de Europa: centro de ciencia, filosofía y arte.",
+      "tags": [
+        "al-andalus",
+        "cultura"
+      ],
+      "distractors": {
+        "easy": [
+          "Madrid",
+          "Barcelona",
+          "Bilbao"
+        ],
+        "medium": [
+          "Toledo",
+          "Granada",
+          "Sevilla"
+        ],
+        "hard": [
+          "Zaragoza",
+          "Valencia",
+          "Mérida"
+        ]
+      }
+    },
+    {
+      "recto": "¿En qué pequeños reinos se fragmentó Al-Ándalus tras la caída del Califato en el siglo XI?",
+      "verso": "Los reinos de taifas",
+      "explanation": "Al desaparecer el califato, Al-Ándalus se dividió en reinos de taifas, más débiles. Esto facilitó el avance de los reinos cristianos.",
+      "tags": [
+        "al-andalus",
+        "conceptos"
+      ],
+      "distractors": {
+        "easy": [
+          "Los virreinatos",
+          "Las provincias romanas",
+          "Las colonias"
+        ],
+        "medium": [
+          "Los condados catalanes",
+          "Las coronas",
+          "Los emiratos africanos"
+        ],
+        "hard": [
+          "Las marcas fronterizas",
+          "Los reinos cristianos",
+          "Las juntas"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué gran batalla de 1212 supuso un avance decisivo de los reinos cristianos?",
+      "verso": "La batalla de Las Navas de Tolosa",
+      "explanation": "En 1212, una coalición de reinos cristianos venció a los almohades en Las Navas de Tolosa, abriendo el sur a la expansión cristiana.",
+      "tags": [
+        "reconquista",
+        "fechas"
+      ],
+      "distractors": {
+        "easy": [
+          "La batalla de Covadonga",
+          "La batalla de Lepanto",
+          "La batalla de Bailén"
+        ],
+        "medium": [
+          "La batalla de Guadalete",
+          "La batalla del Salado",
+          "La toma de Granada"
+        ],
+        "hard": [
+          "La batalla de Sagrajas",
+          "La batalla de Alarcos",
+          "La batalla de Simancas"
+        ]
+      }
+    },
+    {
+      "recto": "¿Cuál fue el último reino musulmán en la Península, conquistado en 1492?",
+      "verso": "El Reino nazarí de Granada",
+      "explanation": "Granada, con su palacio de la Alhambra, resistió hasta 1492, cuando los Reyes Católicos la conquistaron, poniendo fin a Al-Ándalus.",
+      "tags": [
+        "reconquista",
+        "reinos"
+      ],
+      "distractors": {
+        "easy": [
+          "El Reino de Castilla",
+          "El Reino de Asturias",
+          "El Reino de Portugal"
+        ],
+        "medium": [
+          "El Califato de Córdoba",
+          "El Reino de Toledo",
+          "El Reino de Sevilla"
+        ],
+        "hard": [
+          "La taifa de Zaragoza",
+          "El Reino de Valencia",
+          "La taifa de Badajoz"
+        ]
+      }
+    },
+    {
+      "recto": "¿Cómo se llamaba el famoso palacio nazarí de Granada?",
+      "verso": "La Alhambra",
+      "explanation": "La Alhambra es la joya del arte nazarí, símbolo del esplendor del último reino musulmán de la Península.",
+      "tags": [
+        "al-andalus",
+        "cultura"
+      ],
+      "distractors": {
+        "easy": [
+          "El Escorial",
+          "El Palacio Real de Madrid",
+          "La Giralda"
+        ],
+        "medium": [
+          "La Mezquita de Córdoba",
+          "El Alcázar de Sevilla",
+          "La Aljafería"
+        ],
+        "hard": [
+          "Medina Azahara",
+          "El Generalife solo",
+          "La Giralda de Sevilla"
+        ]
+      }
+    },
+    {
+      "recto": "¿Cómo se llamaba a los cristianos que vivían en territorio musulmán conservando su religión?",
+      "verso": "Mozárabes",
+      "explanation": "Los mozárabes eran cristianos bajo dominio musulmán. Junto a judíos y musulmanes, formaban una sociedad de convivencia, aunque no siempre pacífica.",
+      "tags": [
+        "al-andalus",
+        "sociedad"
+      ],
+      "distractors": {
+        "easy": [
+          "Los romanos",
+          "Los vikingos",
+          "Los cruzados"
+        ],
+        "medium": [
+          "Los mudéjares",
+          "Los moriscos",
+          "Los conversos"
+        ],
+        "hard": [
+          "Los muladíes",
+          "Los sefardíes",
+          "Los almorávides"
+        ]
+      }
+    },
+    {
+      "recto": "¿Cómo se llamaba a los musulmanes que quedaban en territorio cristiano conservando su religión?",
+      "verso": "Mudéjares",
+      "explanation": "Los mudéjares eran musulmanes que vivían bajo dominio cristiano. Su arte, el mudéjar, dejó una huella importante en la Península.",
+      "tags": [
+        "reconquista",
+        "sociedad"
+      ],
+      "distractors": {
+        "easy": [
+          "Los mozárabes",
+          "Los romanos",
+          "Los godos"
+        ],
+        "medium": [
+          "Los conversos",
+          "Los cruzados",
+          "Los francos"
+        ],
+        "hard": [
+          "Los muladíes",
+          "Los sefardíes",
+          "Los almohades"
+        ]
+      }
+    },
+    {
+      "recto": "[Compara] ¿En qué se diferenciaban Al-Ándalus y los reinos cristianos del norte?",
+      "verso": "Al-Ándalus era musulmán, urbano y culto; los reinos cristianos eran más rurales, feudales y en expansión hacia el sur",
+      "explanation": "Al-Ándalus destacó por sus ciudades, ciencia y comercio. Los reinos cristianos, más agrarios y feudales, avanzaron poco a poco hacia el sur.",
+      "tags": [
+        "comparaison",
+        "sociedad"
+      ],
+      "distractors": {
+        "easy": [
+          "Eran exactamente iguales",
+          "Ambos eran musulmanes",
+          "Ambos eran reinos cristianos"
+        ],
+        "medium": [
+          "Al-Ándalus era rural; los reinos, urbanos",
+          "Ambos rechazaban las ciudades",
+          "Al-Ándalus estaba en el norte; los cristianos en el sur"
+        ],
+        "hard": [
+          "Al-Ándalus era feudal; los reinos, califales",
+          "Ambos hablaban solo latín",
+          "Al-Ándalus no tenía ciudades"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] ¿Fue la Reconquista una guerra continua y solo religiosa de ocho siglos?",
+      "verso": "No; fue un proceso largo y discontinuo, con treguas, pactos e incluso alianzas entre cristianos y musulmanes",
+      "explanation": "Error frecuente. La Reconquista no fue una guerra santa ininterrumpida: hubo largos periodos de paz, intereses políticos y alianzas mixtas junto a los enfrentamientos.",
+      "tags": [
+        "piege",
+        "reconquista"
+      ],
+      "distractors": {
+        "easy": [
+          "Sí, fue una sola guerra sin pausas",
+          "Sí, duró solo un año",
+          "Sí, sin ningún pacto jamás"
+        ],
+        "medium": [
+          "Sí, nunca hubo treguas",
+          "Sí, cristianos y musulmanes nunca se aliaron",
+          "No, porque no hubo ningún conflicto"
+        ],
+        "hard": [
+          "Sí, fue puramente religiosa y lineal",
+          "Sí, terminó en el siglo IX",
+          "No, porque Al-Ándalus no existió"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué reinos cristianos protagonizaron sobre todo la Reconquista en la Baja Edad Media?",
+      "verso": "Castilla y Aragón (junto a Portugal y Navarra)",
+      "explanation": "Castilla avanzó por el centro y el sur; la Corona de Aragón, por el este y el Mediterráneo. Su unión posterior daría lugar a la monarquía hispánica.",
+      "tags": [
+        "reconquista",
+        "reinos"
+      ],
+      "distractors": {
+        "easy": [
+          "Francia e Inglaterra",
+          "El Imperio romano",
+          "El Imperio otomano"
+        ],
+        "medium": [
+          "El Califato y las taifas",
+          "Los almorávides y almohades",
+          "Granada y Córdoba"
+        ],
+        "hard": [
+          "Solo Navarra",
+          "El Reino de Nápoles",
+          "El Sacro Imperio"
+        ]
+      }
+    },
+    {
+      "recto": "En conjunto, ¿qué huella dejó Al-Ándalus en la historia y la cultura de España?",
+      "verso": "Un rico legado en lengua, arte, ciencia y agricultura, resultado de siglos de presencia musulmana",
+      "explanation": "Palabras árabes, monumentos como la Alhambra, avances científicos y nuevos cultivos forman parte de la herencia andalusí que perdura en España.",
+      "tags": [
+        "al-andalus",
+        "síntesis"
+      ],
+      "distractors": {
+        "easy": [
+          "Ninguna huella en absoluto",
+          "Solo destrucción sin cultura",
+          "Un legado exclusivamente romano"
+        ],
+        "medium": [
+          "Una herencia únicamente militar",
+          "Ningún cambio en la lengua",
+          "Solo la desaparición de las ciudades"
+        ],
+        "hard": [
+          "Un legado puramente visigodo",
+          "Una influencia solo en América",
+          "Ninguna aportación científica"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "id": "de-gymnasium-geschichte-weimarer-republik",
+  "title": "Die Weimarer Republik",
+  "emoji": "🏛️",
+  "subject": "history",
+  "country": "de",
+  "courseDescription": "Deutschlands erste Demokratie von 1919 bis 1933: Gründung, Krisen, die Goldenen Zwanziger und ihr Scheitern.",
+  "lesson": "<style>\n  /* Stile der SVG-Grafiken. Nutzen currentColor (Textfarbe) und var(--accent)\n     (Fachfarbe) und passen sich dem hellen/dunklen Design der App an. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Die Weimarer Republik</h1>\n\n<div class=\"callout\">\n  <strong>Überblick</strong><br>\n  <b>Stufe:</b> Gymnasium<br>\n  <b>Thema:</b> Geschichte<br>\n  <b>Zeitraum:</b> 1919 — 1933\n</div>\n\n<blockquote>\n  <p><b>Leitfrage.</b> Warum scheiterte Deutschlands erste Demokratie?</p>\n</blockquote>\n\n<p>Die <strong>Weimarer Republik</strong> war die erste deutsche <strong>Demokratie</strong>. Von Beginn an belastet durch <strong>Versailles</strong> und die <strong>Dolchstoßlegende</strong>, überstand sie Putsche und die <strong>Hyperinflation</strong> von 1923. Nach den <strong>Goldenen Zwanzigern</strong> stürzte sie die <strong>Weltwirtschaftskrise</strong> ab 1929 — bis zu Hitlers Machtübernahme <strong>1933</strong>.</p>\n\n<h2>1 · Gründung und Belastungen</h2>\n\n<p>1919 beschloss die Nationalversammlung in <strong>Weimar</strong> die Verfassung; <strong>Friedrich Ebert</strong> wurde Reichspräsident. Die Republik startete belastet: durch den <strong>Versailler Vertrag</strong> und die <strong>Dolchstoßlegende</strong>, die sie als 'Verräterin' verleumdete.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"Belastungen der Weimarer Republik von Anfang an\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">Belastungen von Beginn an</text>\n  <rect x=\"12\" y=\"30\" width=\"150\" height=\"76\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.16;stroke:var(--accent);stroke-opacity:.55;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"54\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Versailler Vertrag</text>\n  <text x=\"87\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Kriegsschuld,</text>\n  <text x=\"87\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Reparationen</text>\n  <rect x=\"178\" y=\"30\" width=\"150\" height=\"76\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.16;stroke:var(--accent);stroke-opacity:.55;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"54\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Dolchstoßlegende</text>\n  <text x=\"253\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Lüge vom</text>\n  <text x=\"253\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">'Verrat'</text>\n</svg>\n<figcaption>Zwei schwere Hypotheken lasteten von Anfang an auf der Republik.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Begriff · Dolchstoßlegende</strong><br>\n  Die Lüge, das 'im Feld unbesiegte' Heer sei von Demokraten und Revolutionären 'von hinten erdolcht' worden. Rechte nutzten sie, um die Republik zu untergraben.\n</div>\n\n<h2>2 · Von der Krise zur Stabilität</h2>\n\n<p>Die Jahre bis 1923 waren voller Krisen: Putsche und die <strong>Hyperinflation</strong>, in der das Geld wertlos wurde. Dann stabilisierte <strong>Stresemann</strong> die Republik. Es folgten die <strong>Goldenen Zwanziger</strong> — Jahre relativer Ruhe und kultureller Blüte.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Vergleich zwischen den Krisenjahren und den Goldenen Zwanzigern\">\n  <rect x=\"12\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Krisenjahre</text>\n  <text x=\"87\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">bis 1923</text>\n  <text x=\"87\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Putsche</text>\n  <text x=\"87\" y=\"106\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Hyperinflation</text>\n  <rect x=\"178\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Goldene Zwanziger</text>\n  <text x=\"253\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">ab 1924</text>\n  <text x=\"253\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Stabilität</text>\n  <text x=\"253\" y=\"106\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">kulturelle Blüte</text>\n</svg>\n<figcaption>Auf das Chaos folgten wenige stabile, glänzende Jahre.</figcaption>\n</figure>\n\n<h2>3 · Weltwirtschaftskrise und Ende</h2>\n\n<p>Die <strong>Weltwirtschaftskrise</strong> ab 1929 brachte <strong>Massenarbeitslosigkeit</strong> und Verzweiflung. Radikale Parteien wuchsen, vor allem die <strong>NSDAP</strong>. Mit Notverordnungen (Artikel 48) regierte man am Parlament vorbei. <strong>1933</strong> wurde Hitler Kanzler — das Ende der Republik.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Wie die Weltwirtschaftskrise zum Ende der Republik führte\">\n  <defs>\n    <marker id=\"ar-dewr1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">Krise 1929</text>\n  <text x=\"54\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Börsencrash</text>\n  <path d=\"M100,68 L118,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-dewr1)\"/>\n  <rect x=\"122\" y=\"42\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">Arbeitslosigkeit</text>\n  <text x=\"170\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Radikalisierung</text>\n  <path d=\"M218,68 L236,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-dewr1)\"/>\n  <rect x=\"240\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">Hitler 1933</text>\n  <text x=\"286\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Ende der Republik</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">der Weg in die Katastrophe</text>\n</svg>\n<figcaption>Wirtschaftsnot und Radikalisierung besiegelten das Ende.</figcaption>\n</figure>\n\n<h2>Das Wesentliche</h2>\n\n<h3>Zeitleiste</h3>\n\n<table>\n  <tr><th>Jahr</th><th>Ereignis</th></tr>\n  <tr><td>1919</td><td>Gründung; Weimarer Verfassung</td></tr>\n  <tr><td>1923</td><td>Hyperinflation; Hitlerputsch</td></tr>\n  <tr><td>1924-29</td><td>Goldene Zwanziger (Stresemann)</td></tr>\n  <tr><td>1929</td><td>Weltwirtschaftskrise</td></tr>\n  <tr><td>1933</td><td>Hitler wird Kanzler; Ende</td></tr>\n</table>\n\n<h3>Schlüsselbegriffe</h3>\n\n<table>\n  <tr><th>Begriff</th><th>Bedeutung</th></tr>\n  <tr><td>Weimarer Republik</td><td>Erste deutsche Demokratie</td></tr>\n  <tr><td>Dolchstoßlegende</td><td>Lüge vom 'Verrat' an der Front</td></tr>\n  <tr><td>Hyperinflation</td><td>Geldentwertung von 1923</td></tr>\n  <tr><td>Goldene Zwanziger</td><td>Stabile, kulturell blühende Jahre</td></tr>\n  <tr><td>Artikel 48</td><td>Notverordnungsrecht des Präsidenten</td></tr>\n</table>\n\n<h3>Personen</h3>\n\n<table>\n  <tr><th>Name</th><th>Rolle</th></tr>\n  <tr><td>Friedrich Ebert</td><td>Erster Reichspräsident</td></tr>\n  <tr><td>Gustav Stresemann</td><td>Stabilisierte die Republik</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Vorsicht</strong><br>\n  Die Republik scheiterte <b>nicht allein am Versailler Vertrag</b>. Es kamen strukturelle Schwächen (z. B. Artikel 48), die Weltwirtschaftskrise und zu wenige überzeugte Demokraten zusammen. Mehrere Ursachen, nicht nur eine.\n</div>\n\n<blockquote>\n  <p>Die Weimarer Republik war ein mutiger demokratischer Neuanfang, der an einer Häufung von Krisen zerbrach. Ihr Scheitern bleibt eine Mahnung: Demokratie muss aktiv verteidigt werden.</p>\n</blockquote>\n",
+  "questionLang": "de",
+  "answerLang": "de",
+  "version": 1,
+  "level": "Gymnasium",
+  "theme": "Geschichte",
+  "cards": [
+    {
+      "recto": "Was war die Weimarer Republik?",
+      "verso": "Die erste deutsche Demokratie (1919-1933)",
+      "explanation": "Nach dem Ersten Weltkrieg entstand 1919 in Weimar Deutschlands erste parlamentarische Demokratie mit einer modernen Verfassung.",
+      "tags": [
+        "weimar",
+        "begriffe"
+      ],
+      "distractors": {
+        "easy": [
+          "Das Deutsche Kaiserreich",
+          "Die DDR",
+          "Das NS-Regime"
+        ],
+        "medium": [
+          "Die Bundesrepublik",
+          "Der Deutsche Bund",
+          "Der Norddeutsche Bund"
+        ],
+        "hard": [
+          "Der Preußische Staat allein",
+          "Der Völkerbund",
+          "Das Dritte Reich"
+        ]
+      }
+    },
+    {
+      "recto": "Warum trägt die Republik den Namen 'Weimar'?",
+      "verso": "Weil die Nationalversammlung 1919 in Weimar die Verfassung beschloss",
+      "explanation": "In Weimar tagte 1919 die Nationalversammlung und verabschiedete die Verfassung — daher der Name. Berlin galt wegen Unruhen als zu unsicher.",
+      "tags": [
+        "weimar",
+        "gruendung"
+      ],
+      "distractors": {
+        "easy": [
+          "Weil sie in Wien gegründet wurde",
+          "Weil Goethe sie gründete",
+          "Weil sie nur eine Woche dauerte"
+        ],
+        "medium": [
+          "Weil Berlin die Hauptstadt ablehnte",
+          "Weil Weimar an der Grenze lag",
+          "Weil der Kaiser dort wohnte"
+        ],
+        "hard": [
+          "Weil Weimar Reichshauptstadt wurde",
+          "Weil dort der Krieg endete",
+          "Weil Bismarck von dort stammte"
+        ]
+      }
+    },
+    {
+      "recto": "Wer wurde 1919 erster Reichspräsident der Republik?",
+      "verso": "Friedrich Ebert (SPD)",
+      "explanation": "Der Sozialdemokrat Friedrich Ebert wurde erster Reichspräsident. Er führte die junge Republik durch die schwierigen Anfangsjahre.",
+      "tags": [
+        "weimar",
+        "personen"
+      ],
+      "distractors": {
+        "easy": [
+          "Adolf Hitler",
+          "Otto von Bismarck",
+          "Wilhelm II."
+        ],
+        "medium": [
+          "Paul von Hindenburg",
+          "Gustav Stresemann",
+          "Konrad Adenauer"
+        ],
+        "hard": [
+          "Philipp Scheidemann",
+          "Matthias Erzberger",
+          "Walther Rathenau"
+        ]
+      }
+    },
+    {
+      "recto": "Welche Lüge behauptete, das Heer sei im Feld unbesiegt und von der Heimat 'verraten' worden?",
+      "verso": "Die Dolchstoßlegende",
+      "explanation": "Rechte Kräfte verbreiteten die Lüge, Revolutionäre und Demokraten hätten das 'unbesiegte' Heer von hinten erdolcht. Sie belastete die Republik schwer.",
+      "tags": [
+        "weimar",
+        "belastungen"
+      ],
+      "distractors": {
+        "easy": [
+          "Die Mondlandungslüge",
+          "Die Reichstagslegende",
+          "Das Nibelungenlied"
+        ],
+        "medium": [
+          "Die Kriegsschuldlüge allein",
+          "Die Inflationslegende",
+          "Die Novemberlegende"
+        ],
+        "hard": [
+          "Die Erfüllungspolitik",
+          "Die Reparationslüge",
+          "Das Ermächtigungsgesetz"
+        ]
+      }
+    },
+    {
+      "recto": "Welche Wirtschaftskatastrophe erreichte 1923 ihren Höhepunkt in Deutschland?",
+      "verso": "Die Hyperinflation",
+      "explanation": "1923 verlor das Geld völlig an Wert: Ein Brot kostete Milliarden Mark. Ersparnisse wurden vernichtet, was viele Menschen verbitterte.",
+      "tags": [
+        "weimar",
+        "krisen"
+      ],
+      "distractors": {
+        "easy": [
+          "Ein Erdbeben",
+          "Eine Hungersnot durch Dürre",
+          "Eine Ölkrise"
+        ],
+        "medium": [
+          "Die Weltwirtschaftskrise (die kam 1929)",
+          "Eine Deflation",
+          "Ein Börsenboom"
+        ],
+        "hard": [
+          "Der Schwarze Freitag",
+          "Die Bankenkrise von 1931",
+          "Die Währungsreform"
+        ]
+      }
+    },
+    {
+      "recto": "Welchen Putschversuch unternahm Adolf Hitler 1923 in München?",
+      "verso": "Den Hitlerputsch (Hitler-Ludendorff-Putsch)",
+      "explanation": "1923 versuchte Hitler in München vergeblich einen Staatsstreich. Der Putsch scheiterte, Hitler kam ins Gefängnis, wo er 'Mein Kampf' schrieb.",
+      "tags": [
+        "weimar",
+        "krisen"
+      ],
+      "distractors": {
+        "easy": [
+          "Den Mauerbau",
+          "Die Reichsgründung",
+          "Den Kapp-Putsch"
+        ],
+        "medium": [
+          "Den Röhm-Putsch",
+          "Den Spartakusaufstand",
+          "Die Novemberrevolution"
+        ],
+        "hard": [
+          "Den Küstriner Putsch",
+          "Den Hamburger Aufstand",
+          "Den Sturz Stresemanns"
+        ]
+      }
+    },
+    {
+      "recto": "Welcher Politiker stabilisierte 1923/24 die Republik und die Währung?",
+      "verso": "Gustav Stresemann",
+      "explanation": "Stresemann beendete die Inflation mit einer neuen Währung, ordnete die Reparationen neu und verbesserte die Beziehungen zum Ausland.",
+      "tags": [
+        "weimar",
+        "personen"
+      ],
+      "distractors": {
+        "easy": [
+          "Adolf Hitler",
+          "Wilhelm II.",
+          "Napoleon"
+        ],
+        "medium": [
+          "Friedrich Ebert",
+          "Paul von Hindenburg",
+          "Heinrich Brüning"
+        ],
+        "hard": [
+          "Walther Rathenau",
+          "Hans Luther",
+          "Wilhelm Marx"
+        ]
+      }
+    },
+    {
+      "recto": "Wie nennt man die relativ stabile, kulturell blühende Zeit der Republik ab etwa 1924?",
+      "verso": "Die 'Goldenen Zwanziger'",
+      "explanation": "Nach 1923 folgten Jahre relativer Stabilität und kultureller Blüte in Kunst, Film und Wissenschaft: die 'Goldenen Zwanziger'.",
+      "tags": [
+        "weimar",
+        "begriffe"
+      ],
+      "distractors": {
+        "easy": [
+          "Das finstere Mittelalter",
+          "Die Steinzeit",
+          "Die Weltwirtschaftskrise"
+        ],
+        "medium": [
+          "Die Gründerzeit",
+          "Die Belle Époque allein",
+          "Die Restaurationszeit"
+        ],
+        "hard": [
+          "Die Stunde Null",
+          "Das Wirtschaftswunder",
+          "Die Ära Adenauer"
+        ]
+      }
+    },
+    {
+      "recto": "[Vergleich] Wie unterschieden sich die frühen Krisenjahre von den 'Goldenen Zwanzigern'?",
+      "verso": "Anfangs Krisen (Putsche, Inflation), dann ab 1924 relative Stabilität und kulturelle Blüte",
+      "explanation": "Bis 1923 erschütterten Putsche und Hyperinflation die Republik. Ab 1924 folgten stabilere Jahre mit wirtschaftlicher Erholung und kulturellem Aufschwung.",
+      "tags": [
+        "comparaison",
+        "weimar"
+      ],
+      "distractors": {
+        "easy": [
+          "Es gab überhaupt keinen Unterschied",
+          "Anfangs Stabilität, dann Krise sofort",
+          "Beide Phasen waren völlig ruhig"
+        ],
+        "medium": [
+          "Anfangs Blüte, dann Inflation",
+          "Beide Male herrschte Krieg",
+          "Beide Phasen waren wirtschaftlich stabil"
+        ],
+        "hard": [
+          "Anfangs Goldene Zwanziger, dann Gründung",
+          "Die Krise begann erst 1929, davor nie",
+          "Beide Phasen waren kulturell tot"
+        ]
+      }
+    },
+    {
+      "recto": "Welche weltweite Krise ab 1929 stürzte die Republik erneut ins Chaos?",
+      "verso": "Die Weltwirtschaftskrise",
+      "explanation": "Nach dem Börsencrash 1929 in New York brach die Weltwirtschaft ein. In Deutschland führte sie zu Massenarbeitslosigkeit und politischer Radikalisierung.",
+      "tags": [
+        "weimar",
+        "krisen"
+      ],
+      "distractors": {
+        "easy": [
+          "Die Hyperinflation von 1923",
+          "Der Erste Weltkrieg",
+          "Die Ölkrise 1973"
+        ],
+        "medium": [
+          "Die Bankenkrise von 1907",
+          "Die Eurokrise",
+          "Die Gründerkrise"
+        ],
+        "hard": [
+          "Die Reparationskrise allein",
+          "Die Ruhrkrise",
+          "Die Finanzkrise 2008"
+        ]
+      }
+    },
+    {
+      "recto": "Welche Folge der Weltwirtschaftskrise traf Millionen Deutsche besonders hart?",
+      "verso": "Die Massenarbeitslosigkeit",
+      "explanation": "Millionen verloren ihre Arbeit. Not und Verzweiflung trieben viele Menschen zu radikalen Parteien am rechten und linken Rand.",
+      "tags": [
+        "weimar",
+        "folgen"
+      ],
+      "distractors": {
+        "easy": [
+          "Ein plötzlicher Reichtum für alle",
+          "Vollbeschäftigung",
+          "Ein Wirtschaftsboom"
+        ],
+        "medium": [
+          "Eine Deflationsdividende",
+          "Ein Exportüberschuss",
+          "Ein Bevölkerungsrückgang durch Auswanderung allein"
+        ],
+        "hard": [
+          "Eine Hyperinflation wie 1923",
+          "Ein Fachkräftemangel",
+          "Ein Anstieg der Löhne"
+        ]
+      }
+    },
+    {
+      "recto": "Welche Partei profitierte vor allem von Krise und Verzweiflung ab 1930?",
+      "verso": "Die NSDAP (Nationalsozialisten) unter Hitler",
+      "explanation": "Die NSDAP nutzte Not und Wut geschickt aus und wurde zur stärksten Partei. Der Aufstieg der Nationalsozialisten bedrohte die Demokratie.",
+      "tags": [
+        "weimar",
+        "aufstieg"
+      ],
+      "distractors": {
+        "easy": [
+          "Die Grünen",
+          "Die FDP",
+          "Die Piratenpartei"
+        ],
+        "medium": [
+          "Die SPD",
+          "Das Zentrum",
+          "Die DNVP allein"
+        ],
+        "hard": [
+          "Die KPD allein",
+          "Die DVP",
+          "Die BVP"
+        ]
+      }
+    },
+    {
+      "recto": "[Vorsicht] Scheiterte die Weimarer Republik allein am Versailler Vertrag?",
+      "verso": "Nein; auch strukturelle Schwächen, die Wirtschaftskrise und zu wenige überzeugte Demokraten führten zum Scheitern",
+      "explanation": "Häufiger Irrtum. Versailles belastete die Republik, aber sie scheiterte an mehreren Faktoren: Verfassungsschwächen, der Weltwirtschaftskrise und fehlender Unterstützung für die Demokratie.",
+      "tags": [
+        "piege",
+        "weimar"
+      ],
+      "distractors": {
+        "easy": [
+          "Ja, nur Versailles war schuld",
+          "Ja, es gab keine anderen Probleme",
+          "Ja, die Wirtschaft war stark"
+        ],
+        "medium": [
+          "Ja, die Demokratie war überall beliebt",
+          "Ja, es gab keine Krise",
+          "Nein, weil sie gar nicht scheiterte"
+        ],
+        "hard": [
+          "Ja, allein die Reparationen",
+          "Ja, die Verfassung war fehlerfrei",
+          "Nein, weil Versailles keine Rolle spielte"
+        ]
+      }
+    },
+    {
+      "recto": "Wann endete die Weimarer Republik faktisch?",
+      "verso": "1933, mit der Machtübernahme Hitlers",
+      "explanation": "1933 wurde Hitler Reichskanzler. Die Nationalsozialisten schalteten die Demokratie rasch aus — das Ende der Weimarer Republik.",
+      "tags": [
+        "weimar",
+        "ende"
+      ],
+      "distractors": {
+        "easy": [
+          "1990",
+          "1848",
+          "1918"
+        ],
+        "medium": [
+          "1929",
+          "1919",
+          "1945"
+        ],
+        "hard": [
+          "1932",
+          "1934",
+          "1923"
+        ]
+      }
+    },
+    {
+      "recto": "Welches Verfassungsmerkmal ermöglichte es dem Reichspräsidenten, mit Notverordnungen zu regieren?",
+      "verso": "Der Artikel 48 (Notverordnungsrecht)",
+      "explanation": "Artikel 48 erlaubte dem Reichspräsidenten, in Notlagen ohne Parlament per Verordnung zu regieren. In der Krise wurde das ausgenutzt und schwächte die Demokratie.",
+      "tags": [
+        "weimar",
+        "verfassung"
+      ],
+      "distractors": {
+        "easy": [
+          "Das Wahlrecht ab 18",
+          "Die Pressefreiheit",
+          "Das Streikrecht"
+        ],
+        "medium": [
+          "Das Ermächtigungsgesetz (das kam 1933)",
+          "Der Föderalismus",
+          "Die Gewaltenteilung"
+        ],
+        "hard": [
+          "Der Artikel 231",
+          "Das konstruktive Misstrauensvotum",
+          "Die Fünfprozenthürde"
+        ]
+      }
+    },
+    {
+      "recto": "Insgesamt: Was lehrt uns das Scheitern der Weimarer Republik?",
+      "verso": "Dass eine Demokratie überzeugte Demokraten, stabile Institutionen und wirtschaftliche Sicherheit braucht",
+      "explanation": "Die erste deutsche Demokratie scheiterte an einer Häufung von Belastungen. Ihr Ende mahnt, Demokratie aktiv zu verteidigen und ihre Voraussetzungen zu sichern.",
+      "tags": [
+        "weimar",
+        "synthese"
+      ],
+      "distractors": {
+        "easy": [
+          "Dass Demokratie überflüssig ist",
+          "Dass Diktaturen besser sind",
+          "Dass Krisen nie schaden"
+        ],
+        "medium": [
+          "Dass Verfassungen unwichtig sind",
+          "Dass Wirtschaft keine Rolle spielt",
+          "Dass Versailles allein alles erklärt"
+        ],
+        "hard": [
+          "Dass starke Präsidenten immer helfen",
+          "Dass Parteien schädlich sind",
+          "Dass Stabilität von selbst kommt"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,458 @@
+{
+  "id": "gb-gcse-british-history-british-empire",
+  "title": "The British Empire and its legacy",
+  "emoji": "🌍",
+  "subject": "history",
+  "country": "gb",
+  "courseDescription": "The rise of the British Empire, the transatlantic slave trade and its abolition, imperial rule in India, decolonisation and legacy.",
+  "lesson": "<style>\n  /* SVG figure styles. Use currentColor (theme text) and var(--accent)\n     (subject colour), so they adapt to the app's light/dark theme. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>The British Empire and its legacy</h1>\n\n<div class=\"callout\">\n  <strong>Key facts</strong><br>\n  <b>Level:</b> GCSE<br>\n  <b>Theme:</b> British History<br>\n  <b>Period:</b> c.1600 — 1997\n</div>\n\n<blockquote>\n  <p><b>Key question.</b> How did Britain build the largest empire in history — and how should its legacy be judged?</p>\n</blockquote>\n\n<p>At its height the British Empire ruled about a <strong>quarter</strong> of the world. It grew rich through trade — including the brutal <strong>transatlantic slave trade</strong>, later <strong>abolished</strong> (1807, 1833). <strong>India</strong> was its 'jewel'. After 1945, <strong>decolonisation</strong> ended the empire, leaving a debated <strong>legacy</strong>.</p>\n\n<h2>1 · A worldwide empire</h2>\n\n<p>By 1900 Britain ruled colonies on every continent — 'the empire on which the <strong>sun never sets</strong>'. It gained wealth and power through global <strong>trade</strong>, a strong navy and the resources of its colonies.</p>\n\n<div class=\"callout\">\n  <strong>Term · The triangular trade</strong><br>\n  A three-way route: manufactured goods to <b>Africa</b>, enslaved people to the <b>Americas</b>, and plantation crops (like sugar) back to <b>Britain</b>. It made huge profits from slavery.\n</div>\n\n<h2>2 · Slavery and its abolition</h2>\n\n<p>Britain was central to the <strong>transatlantic slave trade</strong>. Millions of Africans endured the horrific <strong>Middle Passage</strong> to work on plantations. After long campaigns led by <strong>William Wilberforce</strong>, Britain abolished the slave <strong>trade in 1807</strong> and <strong>slavery in 1833</strong>.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"The triangular trade between Britain, Africa and the Americas\">\n  <defs>\n    <marker id=\"ar-uke1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"130\" y=\"10\" width=\"80\" height=\"34\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"31\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Britain</text>\n  <rect x=\"18\" y=\"86\" width=\"90\" height=\"34\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"63\" y=\"107\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Africa</text>\n  <rect x=\"232\" y=\"86\" width=\"90\" height=\"34\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"277\" y=\"107\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Americas</text>\n  <path d=\"M150,44 L78,84\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-uke1)\"/>\n  <text x=\"86\" y=\"66\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"7.5\">goods</text>\n  <path d=\"M108,103 L230,103\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-uke1)\"/>\n  <text x=\"170\" y=\"98\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"7.5\">enslaved people (Middle Passage)</text>\n  <path d=\"M262,84 L190,44\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-uke1)\"/>\n  <text x=\"250\" y=\"66\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"7.5\">sugar, cotton</text>\n</svg>\n<figcaption>A brutal, hugely profitable triangle built on enslaved labour.</figcaption>\n</figure>\n\n<h2>3 · India, the 'jewel in the crown'</h2>\n\n<p><strong>India</strong> was the empire's richest colony, ruled first by the <strong>East India Company</strong>, then directly by the Crown from 1858. In the 20th century, <strong>Mahatma Gandhi</strong> led a non-violent independence movement. India became <strong>independent in 1947</strong>.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"India's path from Company rule to independence in 1947\">\n  <defs>\n    <marker id=\"ar-uke2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">East India Co.</text>\n  <text x=\"54\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">company rule</text>\n  <path d=\"M100,68 L118,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-uke2)\"/>\n  <rect x=\"122\" y=\"42\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">Crown rule</text>\n  <text x=\"170\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">from 1858</text>\n  <path d=\"M218,68 L236,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-uke2)\"/>\n  <rect x=\"240\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">Independence</text>\n  <text x=\"286\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">1947 · Gandhi</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">the 'jewel in the crown' breaks free</text>\n</svg>\n<figcaption>From a trading company to a free nation in two centuries.</figcaption>\n</figure>\n\n<h2>4 · Decolonisation and legacy</h2>\n\n<p>After 1945, colony after colony gained freedom — <strong>decolonisation</strong>. Many joined the <strong>Commonwealth</strong>. The empire's <strong>legacy</strong> is debated: it spread English and some institutions, but also brought slavery, conquest and exploitation.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"Two sides of the debate over the British Empire's legacy\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">a debated legacy</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Some stress</text>\n  <text x=\"87\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">trade, English,</text>\n  <text x=\"87\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">institutions</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Others stress</text>\n  <text x=\"253\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">slavery, conquest,</text>\n  <text x=\"253\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">exploitation</text>\n</svg>\n<figcaption>The empire is remembered in very different ways.</figcaption>\n</figure>\n\n<h2>In summary</h2>\n\n<h3>Timeline</h3>\n\n<table>\n  <tr><th>Date</th><th>Event</th></tr>\n  <tr><td>1600s-1700s</td><td>Empire and slave trade grow</td></tr>\n  <tr><td>1807</td><td>Slave trade abolished</td></tr>\n  <tr><td>1833</td><td>Slavery abolished in the empire</td></tr>\n  <tr><td>1858</td><td>Crown takes direct rule of India</td></tr>\n  <tr><td>1947</td><td>Indian independence</td></tr>\n  <tr><td>after 1945</td><td>Decolonisation</td></tr>\n</table>\n\n<h3>Key terms</h3>\n\n<table>\n  <tr><th>Term</th><th>Meaning</th></tr>\n  <tr><td>Triangular trade</td><td>Britain-Africa-Americas slave route</td></tr>\n  <tr><td>Middle Passage</td><td>Brutal Atlantic crossing of enslaved people</td></tr>\n  <tr><td>Abolition</td><td>Ending the slave trade / slavery</td></tr>\n  <tr><td>Decolonisation</td><td>Colonies becoming independent</td></tr>\n  <tr><td>Commonwealth</td><td>Free association of former colonies</td></tr>\n</table>\n\n<h3>People</h3>\n\n<table>\n  <tr><th>Name</th><th>Role</th></tr>\n  <tr><td>William Wilberforce</td><td>Led abolition campaign in Parliament</td></tr>\n  <tr><td>East India Company</td><td>Ruled much of India for Britain</td></tr>\n  <tr><td>Mahatma Gandhi</td><td>Led India's non-violent independence movement</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Watch out</strong><br>\n  The empire did <b>not</b> benefit everyone it ruled. It brought great wealth and power to Britain, but slavery, conquest and exploitation to many colonised peoples. Its legacy is genuinely <b>debated</b> — not simply 'good' or 'bad'.\n</div>\n\n<blockquote>\n  <p>The British Empire shaped the modern world's borders, languages and populations. Understanding both its power and its injustices is essential to understanding the world we live in today.</p>\n</blockquote>\n",
+  "questionLang": "en",
+  "answerLang": "en",
+  "version": 1,
+  "level": "GCSE",
+  "theme": "British History",
+  "cards": [
+    {
+      "recto": "At its height, why was the British Empire called 'the empire on which the sun never sets'?",
+      "verso": "It was so large and worldwide that it was always daytime somewhere in it",
+      "explanation": "By 1900 Britain ruled a quarter of the world's land and people across every continent, so the sun was always shining on part of the empire.",
+      "tags": [
+        "empire",
+        "overview"
+      ],
+      "distractors": {
+        "easy": [
+          "It was only in Britain",
+          "It had no colonies",
+          "It only ruled the sea"
+        ],
+        "medium": [
+          "It only ruled Europe",
+          "It lasted a single year",
+          "It was smaller than France's empire"
+        ],
+        "hard": [
+          "It only ruled the Arctic",
+          "It never had colonies overseas",
+          "It was purely a trading company"
+        ]
+      }
+    },
+    {
+      "recto": "Around 1900, roughly how much of the world's land did the British Empire control?",
+      "verso": "About a quarter",
+      "explanation": "At its peak the empire covered around a quarter of the globe and ruled hundreds of millions of people — the largest empire in history.",
+      "tags": [
+        "empire",
+        "figures"
+      ],
+      "distractors": {
+        "easy": [
+          "About 1%",
+          "None of it",
+          "All of it"
+        ],
+        "medium": [
+          "About 5%",
+          "About 50%",
+          "About 75%"
+        ],
+        "hard": [
+          "About 10%",
+          "About 40%",
+          "About 90%"
+        ]
+      }
+    },
+    {
+      "recto": "What was the forced transport of enslaved Africans across the Atlantic to the Americas called?",
+      "verso": "The transatlantic slave trade",
+      "explanation": "Millions of Africans were kidnapped and shipped in brutal conditions to work on plantations. Britain was heavily involved and profited greatly.",
+      "tags": [
+        "slavery",
+        "trade"
+      ],
+      "distractors": {
+        "easy": [
+          "The spice trade",
+          "The wool trade",
+          "The silk road"
+        ],
+        "medium": [
+          "The fur trade",
+          "The tea trade",
+          "The opium trade"
+        ],
+        "hard": [
+          "The indentured labour trade only",
+          "The Barbary trade",
+          "The triangular tea trade"
+        ]
+      }
+    },
+    {
+      "recto": "The three-way route linking Britain, Africa and the Americas in the slave trade was called the...?",
+      "verso": "The triangular trade",
+      "explanation": "Ships carried goods to Africa, enslaved people to the Americas, and plantation crops (like sugar) back to Britain — a hugely profitable triangle.",
+      "tags": [
+        "slavery",
+        "trade"
+      ],
+      "distractors": {
+        "easy": [
+          "The straight trade",
+          "The circular railway",
+          "The silk road"
+        ],
+        "medium": [
+          "The square trade",
+          "The Atlantic canal",
+          "The middle route only"
+        ],
+        "hard": [
+          "The Columbian exchange only",
+          "The bilateral trade",
+          "The Baltic trade"
+        ]
+      }
+    },
+    {
+      "recto": "What was the brutal Atlantic crossing endured by enslaved Africans called?",
+      "verso": "The Middle Passage",
+      "explanation": "Enslaved people were packed into ships in horrific conditions. Many died on the Middle Passage from disease, cruelty and despair.",
+      "tags": [
+        "slavery",
+        "conditions"
+      ],
+      "distractors": {
+        "easy": [
+          "The Grand Tour",
+          "The Sunday cruise",
+          "The Orient Express"
+        ],
+        "medium": [
+          "The Northwest Passage",
+          "The final voyage",
+          "The homeward run"
+        ],
+        "hard": [
+          "The outward passage only",
+          "The Panama route",
+          "The Cape passage"
+        ]
+      }
+    },
+    {
+      "recto": "In which year did Britain abolish the slave trade across its empire?",
+      "verso": "1807",
+      "explanation": "The Slave Trade Act of 1807 banned the trade in enslaved people. Slavery itself in most colonies was abolished later, in 1833.",
+      "tags": [
+        "slavery",
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "1066",
+          "1215",
+          "2000"
+        ],
+        "medium": [
+          "1750",
+          "1900",
+          "1945"
+        ],
+        "hard": [
+          "1789",
+          "1815",
+          "1851"
+        ]
+      }
+    },
+    {
+      "recto": "Which MP led the long campaign in Parliament to abolish the slave trade?",
+      "verso": "William Wilberforce",
+      "explanation": "Wilberforce campaigned for decades alongside formerly enslaved people and abolitionists, helping to end the British slave trade in 1807.",
+      "tags": [
+        "slavery",
+        "people"
+      ],
+      "distractors": {
+        "easy": [
+          "Winston Churchill",
+          "Oliver Cromwell",
+          "Henry VIII"
+        ],
+        "medium": [
+          "Robert Peel",
+          "William Gladstone",
+          "Benjamin Disraeli"
+        ],
+        "hard": [
+          "Thomas Clarkson only",
+          "Granville Sharp only",
+          "Charles James Fox"
+        ]
+      }
+    },
+    {
+      "recto": "In which year was slavery itself (not just the trade) abolished in most of the British Empire?",
+      "verso": "1833",
+      "explanation": "The Slavery Abolition Act of 1833 freed enslaved people across most of the empire, though 'apprenticeship' delayed full freedom for some.",
+      "tags": [
+        "slavery",
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "1066",
+          "1900",
+          "2000"
+        ],
+        "medium": [
+          "1807",
+          "1750",
+          "1918"
+        ],
+        "hard": [
+          "1848",
+          "1865",
+          "1815"
+        ]
+      }
+    },
+    {
+      "recto": "Which country was the most important colony, often called the 'jewel in the crown'?",
+      "verso": "India",
+      "explanation": "India was Britain's richest and most prized colony. It was ruled first by the East India Company, then directly by the Crown after 1858.",
+      "tags": [
+        "india",
+        "empire"
+      ],
+      "distractors": {
+        "easy": [
+          "Wales",
+          "Ireland only",
+          "France"
+        ],
+        "medium": [
+          "Canada",
+          "Australia",
+          "South Africa"
+        ],
+        "hard": [
+          "Egypt",
+          "Nigeria",
+          "Kenya"
+        ]
+      }
+    },
+    {
+      "recto": "Which trading company first controlled large parts of India for Britain?",
+      "verso": "The East India Company",
+      "explanation": "This private company grew from trade to ruling millions in India, with its own army, until the Crown took over direct rule in 1858.",
+      "tags": [
+        "india",
+        "empire"
+      ],
+      "distractors": {
+        "easy": [
+          "The BBC",
+          "The Royal Navy",
+          "Parliament"
+        ],
+        "medium": [
+          "The Hudson's Bay Company",
+          "The Royal African Company",
+          "The Bank of England"
+        ],
+        "hard": [
+          "The Levant Company",
+          "The Muscovy Company",
+          "The South Sea Company"
+        ]
+      }
+    },
+    {
+      "recto": "Who led a famous non-violent campaign for Indian independence from Britain?",
+      "verso": "Mahatma Gandhi",
+      "explanation": "Gandhi used non-violent protest and civil disobedience to challenge British rule. India became independent in 1947.",
+      "tags": [
+        "india",
+        "people"
+      ],
+      "distractors": {
+        "easy": [
+          "Winston Churchill",
+          "Nelson Mandela",
+          "William Wilberforce"
+        ],
+        "medium": [
+          "Jawaharlal Nehru only",
+          "Kwame Nkrumah",
+          "Jomo Kenyatta"
+        ],
+        "hard": [
+          "Muhammad Ali Jinnah",
+          "Subhas Chandra Bose",
+          "B. R. Ambedkar"
+        ]
+      }
+    },
+    {
+      "recto": "In which year did India gain independence from Britain?",
+      "verso": "1947",
+      "explanation": "India (and the new state of Pakistan) became independent in 1947. This helped begin the wider end of the empire.",
+      "tags": [
+        "india",
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "1066",
+          "1500",
+          "2000"
+        ],
+        "medium": [
+          "1807",
+          "1918",
+          "1989"
+        ],
+        "hard": [
+          "1945",
+          "1950",
+          "1963"
+        ]
+      }
+    },
+    {
+      "recto": "What was the process of colonies becoming independent nations after 1945 called?",
+      "verso": "Decolonisation",
+      "explanation": "After the Second World War, colony after colony gained independence. By the 1960s the British Empire had largely dissolved.",
+      "tags": [
+        "decolonisation",
+        "consequences"
+      ],
+      "distractors": {
+        "easy": [
+          "Colonisation",
+          "Industrialisation",
+          "Urbanisation"
+        ],
+        "medium": [
+          "Globalisation",
+          "Nationalisation",
+          "Reformation"
+        ],
+        "hard": [
+          "Partition only",
+          "Federation",
+          "Annexation"
+        ]
+      }
+    },
+    {
+      "recto": "What voluntary association of Britain and its former colonies exists today?",
+      "verso": "The Commonwealth (of Nations)",
+      "explanation": "Many former colonies chose to remain linked in the Commonwealth, a free association of independent states — a legacy of empire.",
+      "tags": [
+        "legacy",
+        "decolonisation"
+      ],
+      "distractors": {
+        "easy": [
+          "The Roman Empire",
+          "The United Nations",
+          "The European Union"
+        ],
+        "medium": [
+          "NATO",
+          "The League of Nations",
+          "The Warsaw Pact"
+        ],
+        "hard": [
+          "The Hanseatic League",
+          "The Entente",
+          "The Union of Crowns"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] How is the empire's legacy remembered differently by different people?",
+      "verso": "Some stress trade, language and institutions; others stress slavery, conquest and exploitation",
+      "explanation": "The empire's legacy is debated. It spread the English language and some institutions, but also involved slavery, violence and the exploitation of colonised peoples.",
+      "tags": [
+        "comparaison",
+        "legacy"
+      ],
+      "distractors": {
+        "easy": [
+          "Everyone agrees it was entirely good",
+          "Everyone agrees it never existed",
+          "Nobody remembers it at all"
+        ],
+        "medium": [
+          "It is only remembered as a sports league",
+          "It is remembered only in France",
+          "It had no effects to remember"
+        ],
+        "hard": [
+          "Only economists study it; no one debates it",
+          "It is seen the same way by everyone",
+          "It left no institutions or languages"
+        ]
+      }
+    },
+    {
+      "recto": "[Watch out] Did the British Empire benefit everyone it ruled?",
+      "verso": "No; it brought profit and power to Britain but also slavery, conquest and exploitation for many colonised peoples",
+      "explanation": "A common error is to see empire as purely positive 'progress'. For many colonised people it meant loss of freedom, land and lives, alongside any trade or infrastructure.",
+      "tags": [
+        "piege",
+        "legacy"
+      ],
+      "distractors": {
+        "easy": [
+          "Yes, everyone gained equally",
+          "Yes, it harmed no one",
+          "Yes, it was welcomed everywhere"
+        ],
+        "medium": [
+          "Yes, it ended all poverty in the colonies",
+          "Yes, it was purely a charity",
+          "No, because it never ruled anyone"
+        ],
+        "hard": [
+          "Yes, colonised peoples had full equal rights",
+          "Yes, it never used force",
+          "No, because it only affected Britain"
+        ]
+      }
+    },
+    {
+      "recto": "Overall, why does the British Empire still matter today?",
+      "verso": "It shaped the modern world's borders, languages, trade and populations, and its legacy is still debated",
+      "explanation": "The empire's impact endures in national borders, the spread of English, global migration and trade links — and in ongoing debates about its costs and benefits.",
+      "tags": [
+        "synthesis",
+        "legacy"
+      ],
+      "distractors": {
+        "easy": [
+          "It has no effect on the modern world",
+          "It was forgotten immediately",
+          "It only affected the year 1900"
+        ],
+        "medium": [
+          "It only mattered inside Britain",
+          "It left no trace anywhere",
+          "It only concerned the Roman period"
+        ],
+        "hard": [
+          "It changed nothing about borders or language",
+          "It ended all global trade",
+          "It had no link to migration"
+        ]
+      }
+    }
+  ]
+}

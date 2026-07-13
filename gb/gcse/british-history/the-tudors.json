@@ -1,0 +1,432 @@
+{
+  "id": "gb-gcse-british-history-the-tudors",
+  "title": "The Tudors: Reformation and Elizabeth I",
+  "emoji": "👑",
+  "subject": "history",
+  "country": "gb",
+  "courseDescription": "Henry VIII's break with Rome, the English Reformation and the reign of Elizabeth I.",
+  "lesson": "<style>\n  /* SVG figure styles. Use currentColor (theme text) and var(--accent)\n     (subject colour), so they adapt to the app's light/dark theme. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>The Tudors: Reformation and Elizabeth I</h1>\n\n<div class=\"callout\">\n  <strong>Key facts</strong><br>\n  <b>Level:</b> GCSE<br>\n  <b>Theme:</b> British History<br>\n  <b>Period:</b> 1509 — 1603\n</div>\n\n<blockquote>\n  <p><b>Key question.</b> How did the Tudors change England's religion and turn it into a confident nation?</p>\n</blockquote>\n\n<p><strong>Henry VIII</strong> broke with the Pope and launched the <strong>English Reformation</strong>, making himself head of the Church. After his children <strong>Edward VI</strong> and Catholic <strong>Mary I</strong>, <strong>Elizabeth I</strong> settled religion with a moderate 'middle way' and defeated the <strong>Spanish Armada</strong> in 1588.</p>\n\n<h2>1 · Henry VIII and the break with Rome</h2>\n\n<p>When the Pope refused to annul his marriage to <strong>Catherine of Aragon</strong>, Henry broke away. The <strong>Act of Supremacy</strong> (1534) made him head of the <strong>Church of England</strong>, and he <strong>dissolved the monasteries</strong>, seizing their wealth.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"The steps of Henry VIII's break with Rome\">\n  <defs>\n    <marker id=\"ar-ukt1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Pope refuses</text>\n  <text x=\"54\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">annulment</text>\n  <path d=\"M100,68 L118,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ukt1)\"/>\n  <rect x=\"122\" y=\"42\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Act of Supremacy</text>\n  <text x=\"170\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Henry heads Church</text>\n  <path d=\"M218,68 L236,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ukt1)\"/>\n  <rect x=\"240\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Dissolution</text>\n  <text x=\"286\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">monasteries closed</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">England breaks with Rome</text>\n</svg>\n<figcaption>A royal marriage dispute became a religious revolution.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Term · The Reformation</strong><br>\n  The split of western Christianity into Catholic and Protestant. In England it began <b>politically</b>, when Henry VIII rejected the Pope's authority — deeper Protestant belief spread later.\n</div>\n\n<h2>2 · Mary I and Elizabeth I</h2>\n\n<p>Henry's children pulled England in different directions. Catholic <strong>Mary I</strong> ('Bloody Mary') burned Protestants to restore the old faith. Then <strong>Elizabeth I</strong> chose a moderate <strong>Religious Settlement</strong> — a Protestant 'middle way' to unite the country.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Contrast between Mary I's harsh Catholic policy and Elizabeth I's moderate settlement\">\n  <rect x=\"12\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Mary I</text>\n  <text x=\"87\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Catholic, harsh</text>\n  <text x=\"87\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">burned Protestants</text>\n  <text x=\"87\" y=\"106\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">'Bloody Mary'</text>\n  <rect x=\"178\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Elizabeth I</text>\n  <text x=\"253\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Protestant, moderate</text>\n  <text x=\"253\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">'middle way'</text>\n  <text x=\"253\" y=\"106\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Religious Settlement</text>\n</svg>\n<figcaption>Two sisters, two very different approaches to religion.</figcaption>\n</figure>\n\n<h2>3 · Elizabeth's England</h2>\n\n<p>Elizabeth reigned for 45 years. She faced the Catholic threat of <strong>Mary, Queen of Scots</strong> (executed 1587) and defeated the <strong>Spanish Armada</strong> in 1588. Her age saw explorers like <strong>Francis Drake</strong> and the plays of <strong>William Shakespeare</strong> — a golden age.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"Achievements and challenges of Elizabeth I's reign\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">Elizabeth's reign, 1558-1603</text>\n  <rect x=\"10\" y=\"30\" width=\"100\" height=\"76\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"54\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Religion</text>\n  <text x=\"60\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">the Settlement</text>\n  <text x=\"60\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">('middle way')</text>\n  <rect x=\"120\" y=\"30\" width=\"100\" height=\"76\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"54\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Armada</text>\n  <text x=\"170\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Spain defeated</text>\n  <text x=\"170\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">1588</text>\n  <rect x=\"230\" y=\"30\" width=\"100\" height=\"76\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"54\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Golden age</text>\n  <text x=\"280\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Drake, Shakespeare</text>\n  <text x=\"280\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">theatre, exploration</text>\n</svg>\n<figcaption>Stability, victory and culture defined the Elizabethan age.</figcaption>\n</figure>\n\n<h2>In summary</h2>\n\n<h3>Timeline</h3>\n\n<table>\n  <tr><th>Date</th><th>Event</th></tr>\n  <tr><td>1509</td><td>Henry VIII becomes king</td></tr>\n  <tr><td>1534</td><td>Act of Supremacy (break with Rome)</td></tr>\n  <tr><td>1553-58</td><td>Mary I restores Catholicism</td></tr>\n  <tr><td>1558</td><td>Elizabeth I becomes queen</td></tr>\n  <tr><td>1587</td><td>Mary, Queen of Scots executed</td></tr>\n  <tr><td>1588</td><td>Defeat of the Spanish Armada</td></tr>\n</table>\n\n<h3>Key terms</h3>\n\n<table>\n  <tr><th>Term</th><th>Meaning</th></tr>\n  <tr><td>Reformation</td><td>Split into Catholic and Protestant</td></tr>\n  <tr><td>Act of Supremacy</td><td>Made the king head of the Church</td></tr>\n  <tr><td>Dissolution</td><td>Closing of the monasteries</td></tr>\n  <tr><td>Religious Settlement</td><td>Elizabeth's moderate 'middle way'</td></tr>\n  <tr><td>Spanish Armada</td><td>Spanish invasion fleet of 1588</td></tr>\n</table>\n\n<h3>People</h3>\n\n<table>\n  <tr><th>Name</th><th>Role</th></tr>\n  <tr><td>Henry VIII</td><td>Broke with Rome</td></tr>\n  <tr><td>Mary I</td><td>Restored Catholicism harshly</td></tr>\n  <tr><td>Elizabeth I</td><td>Protestant 'middle way'; beat the Armada</td></tr>\n  <tr><td>Mary, Queen of Scots</td><td>Catholic rival, executed 1587</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Watch out</strong><br>\n  Henry VIII was <b>not</b> a committed Protestant: he broke with Rome mainly for <b>political and personal</b> reasons (his marriage and power). And don't mix up the sisters — <b>Mary I</b> forced Catholicism harshly, while <b>Elizabeth I</b> chose a moderate Protestant settlement.\n</div>\n\n<blockquote>\n  <p>In under a century, the Tudors remade England — its Church, its monarchy and its place in the world. The confident, Protestant nation of Elizabeth I would go on to build an empire.</p>\n</blockquote>\n",
+  "questionLang": "en",
+  "answerLang": "en",
+  "version": 1,
+  "level": "GCSE",
+  "theme": "British History",
+  "cards": [
+    {
+      "recto": "Which Tudor king broke England away from the Roman Catholic Church?",
+      "verso": "Henry VIII",
+      "explanation": "When the Pope refused to annul his marriage to Catherine of Aragon, Henry broke with Rome and made himself head of the Church in England.",
+      "tags": [
+        "reformation",
+        "people"
+      ],
+      "distractors": {
+        "easy": [
+          "William the Conqueror",
+          "King John",
+          "Charles I"
+        ],
+        "medium": [
+          "Henry VII",
+          "Edward VI",
+          "Richard III"
+        ],
+        "hard": [
+          "Henry V",
+          "Henry IV",
+          "Henry II"
+        ]
+      }
+    },
+    {
+      "recto": "Why did Henry VIII first want to break with the Pope?",
+      "verso": "The Pope refused to annul his marriage to Catherine of Aragon",
+      "explanation": "Henry wanted a male heir and a new wife, Anne Boleyn. When the Pope would not end his first marriage, Henry took control of the Church himself.",
+      "tags": [
+        "reformation",
+        "causes"
+      ],
+      "distractors": {
+        "easy": [
+          "He wanted to join France",
+          "He hated reading",
+          "He wanted a bigger army"
+        ],
+        "medium": [
+          "He became a Lutheran overnight",
+          "He wanted to abolish Christianity",
+          "He was ordered to by Parliament"
+        ],
+        "hard": [
+          "He rejected the Bible entirely",
+          "He wished to become Pope himself",
+          "He wanted to end all taxes"
+        ]
+      }
+    },
+    {
+      "recto": "What 1534 law made Henry VIII the head of the Church of England?",
+      "verso": "The Act of Supremacy",
+      "explanation": "It declared the king, not the Pope, Supreme Head of the Church in England. This was the legal heart of the English Reformation.",
+      "tags": [
+        "reformation",
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "Magna Carta",
+          "The Bill of Rights",
+          "The Poll Tax"
+        ],
+        "medium": [
+          "The Act of Union",
+          "The Toleration Act",
+          "The Test Act"
+        ],
+        "hard": [
+          "The Act of Uniformity",
+          "The Statute in Restraint of Appeals",
+          "The Six Articles"
+        ]
+      }
+    },
+    {
+      "recto": "What did Henry VIII do to the monasteries in the 1530s?",
+      "verso": "He dissolved (closed) them and seized their wealth",
+      "explanation": "The Dissolution of the Monasteries shut down hundreds of religious houses. Henry took their land and riches, boosting royal income.",
+      "tags": [
+        "reformation",
+        "consequences"
+      ],
+      "distractors": {
+        "easy": [
+          "He built more of them",
+          "He gave them to the Pope",
+          "He turned them into schools for all"
+        ],
+        "medium": [
+          "He handed them to France",
+          "He made them royal palaces only",
+          "He left them untouched"
+        ],
+        "hard": [
+          "He sold them back to Rome",
+          "He converted them into castles only",
+          "He made them free hospitals"
+        ]
+      }
+    },
+    {
+      "recto": "The break with Rome and the rise of Protestant ideas in England is called the...?",
+      "verso": "The (English) Reformation",
+      "explanation": "The Reformation split western Christianity into Catholic and Protestant. In England it began politically under Henry VIII.",
+      "tags": [
+        "reformation",
+        "ideas"
+      ],
+      "distractors": {
+        "easy": [
+          "The Renaissance",
+          "The Enlightenment",
+          "The Industrial Revolution"
+        ],
+        "medium": [
+          "The Crusades",
+          "The Counter-Revolution",
+          "The Restoration"
+        ],
+        "hard": [
+          "The Great Schism",
+          "The Glorious Revolution",
+          "The Dissolution alone"
+        ]
+      }
+    },
+    {
+      "recto": "Which Catholic queen, Henry's daughter, persecuted Protestants and earned the nickname 'Bloody Mary'?",
+      "verso": "Mary I",
+      "explanation": "Mary tried to restore Catholicism and had hundreds of Protestants burned. Her reign was short and left England divided.",
+      "tags": [
+        "tudors",
+        "people"
+      ],
+      "distractors": {
+        "easy": [
+          "Elizabeth I",
+          "Queen Victoria",
+          "Anne Boleyn"
+        ],
+        "medium": [
+          "Mary, Queen of Scots",
+          "Catherine of Aragon",
+          "Jane Grey"
+        ],
+        "hard": [
+          "Anne of Cleves",
+          "Catherine Parr",
+          "Margaret Tudor"
+        ]
+      }
+    },
+    {
+      "recto": "Which Protestant queen, daughter of Henry VIII and Anne Boleyn, reigned from 1558 to 1603?",
+      "verso": "Elizabeth I",
+      "explanation": "Elizabeth restored Protestantism and ruled for 45 years, a period of relative stability, exploration and cultural achievement.",
+      "tags": [
+        "elizabeth",
+        "people"
+      ],
+      "distractors": {
+        "easy": [
+          "Mary I",
+          "Queen Victoria",
+          "Elizabeth II"
+        ],
+        "medium": [
+          "Mary, Queen of Scots",
+          "Jane Grey",
+          "Anne Boleyn"
+        ],
+        "hard": [
+          "Catherine of Aragon",
+          "Margaret Tudor",
+          "Matilda"
+        ]
+      }
+    },
+    {
+      "recto": "What was Elizabeth I's moderate religious policy, balancing Catholic and Protestant, called?",
+      "verso": "The Religious (Elizabethan) Settlement",
+      "explanation": "Elizabeth made England Protestant but kept some familiar features to avoid conflict — a 'middle way' meant to unite most people.",
+      "tags": [
+        "elizabeth",
+        "religion"
+      ],
+      "distractors": {
+        "easy": [
+          "The Act of Supremacy alone",
+          "The Peasants' Revolt",
+          "The Dissolution"
+        ],
+        "medium": [
+          "The Counter-Reformation",
+          "The Toleration Act",
+          "The Test Act"
+        ],
+        "hard": [
+          "The Six Articles",
+          "The Clarendon Code",
+          "The Act of Union"
+        ]
+      }
+    },
+    {
+      "recto": "Which Catholic rival did Elizabeth eventually have executed in 1587?",
+      "verso": "Mary, Queen of Scots",
+      "explanation": "Mary was a Catholic claimant to Elizabeth's throne and a focus for plots. After years of imprisonment, Elizabeth had her executed.",
+      "tags": [
+        "elizabeth",
+        "people"
+      ],
+      "distractors": {
+        "easy": [
+          "Elizabeth I herself",
+          "Queen Victoria",
+          "Anne Boleyn"
+        ],
+        "medium": [
+          "Mary I",
+          "Jane Grey",
+          "Catherine of Aragon"
+        ],
+        "hard": [
+          "Margaret Tudor",
+          "Lettice Knollys",
+          "Bess of Hardwick"
+        ]
+      }
+    },
+    {
+      "recto": "What great fleet did Elizabethan England defeat in 1588?",
+      "verso": "The Spanish Armada",
+      "explanation": "Catholic Spain sent a huge fleet to invade England. Storms and English tactics scattered it, a famous victory that boosted Elizabeth's prestige.",
+      "tags": [
+        "elizabeth",
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "The Viking longships",
+          "The French navy of Napoleon",
+          "The German U-boats"
+        ],
+        "medium": [
+          "The Dutch fleet",
+          "The Ottoman navy",
+          "The Portuguese fleet"
+        ],
+        "hard": [
+          "The Invincible Armada of 1639",
+          "The French Armada of 1545",
+          "The Dunkirk fleet"
+        ]
+      }
+    },
+    {
+      "recto": "Which country sent the Armada against Protestant England in 1588?",
+      "verso": "Spain (under Philip II)",
+      "explanation": "Catholic Spain, led by Philip II, wanted to overthrow Protestant Elizabeth. Its defeat became a symbol of English resistance.",
+      "tags": [
+        "elizabeth",
+        "context"
+      ],
+      "distractors": {
+        "easy": [
+          "Scotland",
+          "Wales",
+          "Ireland"
+        ],
+        "medium": [
+          "France",
+          "The Dutch Republic",
+          "Portugal"
+        ],
+        "hard": [
+          "The Holy Roman Empire",
+          "The Papal States",
+          "Venice"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] How did the religious policies of Mary I and Elizabeth I differ?",
+      "verso": "Mary I forced a return to Catholicism harshly; Elizabeth I chose a moderate Protestant 'middle way'",
+      "explanation": "Mary persecuted Protestants to restore Catholicism. Elizabeth made England Protestant again but sought compromise to keep the peace.",
+      "tags": [
+        "comparaison",
+        "religion"
+      ],
+      "distractors": {
+        "easy": [
+          "Both were strict Catholics",
+          "Both were strict Protestants",
+          "Neither cared about religion"
+        ],
+        "medium": [
+          "Mary was moderate; Elizabeth was harsh",
+          "Both restored the Pope's power",
+          "Both banned all churches"
+        ],
+        "hard": [
+          "Mary chose a middle way; Elizabeth forced Catholicism",
+          "Both kept England fully Catholic",
+          "Both abolished the monarchy's church role"
+        ]
+      }
+    },
+    {
+      "recto": "[Watch out] Was the English Reformation mainly caused by religious belief or by politics?",
+      "verso": "It began mainly for political and personal reasons under Henry VIII, not deep Protestant belief",
+      "explanation": "A common error is to think Henry was a committed Protestant. In fact he broke with Rome over his marriage and power; Protestant belief spread more later.",
+      "tags": [
+        "piege",
+        "reformation"
+      ],
+      "distractors": {
+        "easy": [
+          "Henry was a lifelong devout Protestant",
+          "It had nothing to do with the king",
+          "It was ordered by the Pope"
+        ],
+        "medium": [
+          "It was purely about translating the Bible",
+          "It began under Elizabeth, not Henry",
+          "It was caused by the Armada"
+        ],
+        "hard": [
+          "Henry adopted Luther's theology fully in 1534",
+          "It was driven only by ordinary people",
+          "It was a Catholic revival"
+        ]
+      }
+    },
+    {
+      "recto": "Which explorer sailed around the world and raided Spanish ships for Elizabeth I?",
+      "verso": "Sir Francis Drake",
+      "explanation": "Drake circumnavigated the globe and attacked Spanish treasure ships. To England he was a hero; to Spain, a pirate.",
+      "tags": [
+        "elizabeth",
+        "exploration"
+      ],
+      "distractors": {
+        "easy": [
+          "Christopher Columbus",
+          "Captain Cook",
+          "Neil Armstrong"
+        ],
+        "medium": [
+          "Walter Raleigh",
+          "John Cabot",
+          "Ferdinand Magellan"
+        ],
+        "hard": [
+          "Martin Frobisher",
+          "Humphrey Gilbert",
+          "Richard Grenville"
+        ]
+      }
+    },
+    {
+      "recto": "Which famous playwright wrote during the Elizabethan 'golden age' of theatre?",
+      "verso": "William Shakespeare",
+      "explanation": "Shakespeare's plays, performed at theatres like the Globe, made the Elizabethan era a high point of English culture.",
+      "tags": [
+        "elizabeth",
+        "culture"
+      ],
+      "distractors": {
+        "easy": [
+          "Charles Dickens",
+          "J.K. Rowling",
+          "Geoffrey Chaucer"
+        ],
+        "medium": [
+          "Christopher Marlowe",
+          "Ben Jonson",
+          "Edmund Spenser"
+        ],
+        "hard": [
+          "Thomas Kyd",
+          "John Webster",
+          "Philip Sidney"
+        ]
+      }
+    },
+    {
+      "recto": "Overall, why is the Tudor period a turning point in English history?",
+      "verso": "England broke with Rome, became Protestant and grew as a confident sea power under Elizabeth I",
+      "explanation": "The Reformation reshaped religion and royal power, while Elizabeth's reign brought stability, exploration and cultural greatness — setting England on a new path.",
+      "tags": [
+        "synthesis",
+        "consequences"
+      ],
+      "distractors": {
+        "easy": [
+          "Nothing important changed",
+          "England became Catholic forever",
+          "England was conquered by Spain"
+        ],
+        "medium": [
+          "England joined the Holy Roman Empire",
+          "The monarchy was abolished",
+          "England left all overseas trade"
+        ],
+        "hard": [
+          "The Pope regained control of England",
+          "Feudalism was restored",
+          "Parliament ruled without a monarch"
+        ]
+      }
+    }
+  ]
+}

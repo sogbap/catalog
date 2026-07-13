@@ -1,0 +1,432 @@
+{
+  "id": "gb-gcse-british-history-industrial-revolution",
+  "title": "The Industrial Revolution",
+  "emoji": "🏭",
+  "subject": "history",
+  "country": "gb",
+  "courseDescription": "How Britain transformed from a farming society into the world's first industrial nation, and the impact on people's lives.",
+  "lesson": "<style>\n  /* SVG figure styles. Use currentColor (theme text) and var(--accent)\n     (subject colour), so they adapt to the app's light/dark theme. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>The Industrial Revolution</h1>\n\n<div class=\"callout\">\n  <strong>Key facts</strong><br>\n  <b>Level:</b> GCSE<br>\n  <b>Theme:</b> British History<br>\n  <b>Period:</b> c.1750 — 1900\n</div>\n\n<blockquote>\n  <p><b>Key question.</b> How did Britain become the world's first industrial nation, and at what cost to workers?</p>\n</blockquote>\n\n<p>From about <strong>1750</strong>, <strong>steam power</strong>, <strong>coal</strong> and <strong>factories</strong> transformed Britain from a farming society into the '<strong>workshop of the world</strong>'. <strong>Railways</strong> and <strong>urbanisation</strong> reshaped daily life — but early factory conditions were often harsh, especially for <strong>children</strong>.</p>\n\n<h2>1 · Steam, coal and factories</h2>\n\n<p>The key was new power: the <strong>steam engine</strong>, improved by <strong>James Watt</strong> and fuelled by <strong>coal</strong>. Machines moved into <strong>factories</strong>, replacing home-based 'cottage' work. The <strong>textile</strong> industry led the way.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"The engine of industry: coal fuels steam power, which drives factories\">\n  <defs>\n    <marker id=\"ar-uki1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"64\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Coal</text>\n  <text x=\"54\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">from mines</text>\n  <path d=\"M100,68 L118,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-uki1)\"/>\n  <rect x=\"122\" y=\"42\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"64\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Steam engine</text>\n  <text x=\"170\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">James Watt</text>\n  <path d=\"M218,68 L236,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-uki1)\"/>\n  <rect x=\"240\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"64\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Factories</text>\n  <text x=\"286\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">mass production</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">the engine of industry</text>\n</svg>\n<figcaption>Coal fed steam power, which drove the factories.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Term · Urbanisation</strong><br>\n  The rapid growth of towns and cities as people moved from the countryside for factory work. Cities like Manchester boomed — but often into overcrowded, unhealthy slums.\n</div>\n\n<h2>2 · Railways and growing towns</h2>\n\n<p>From the 1830s, <strong>railways</strong> — built by engineers like <strong>George Stephenson</strong> — carried goods and people quickly and cheaply. Factory towns grew fast through <strong>urbanisation</strong>, but many workers lived in crowded <strong>slums</strong>.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Contrast between society before and during the Industrial Revolution\">\n  <rect x=\"12\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Before</text>\n  <text x=\"87\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">farming</text>\n  <text x=\"87\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">cottage work</text>\n  <text x=\"87\" y=\"106\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">village life</text>\n  <rect x=\"178\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">During</text>\n  <text x=\"253\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">factories</text>\n  <text x=\"253\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">railways</text>\n  <text x=\"253\" y=\"106\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">crowded towns</text>\n</svg>\n<figcaption>A farming, home-working society became an urban, factory one.</figcaption>\n</figure>\n\n<h2>3 · The human cost and reform</h2>\n\n<p>Early industry was harsh. <strong>Children</strong> worked long hours in dangerous factories and mines. Slums bred disease. Over time, campaigns led to the <strong>Factory Acts</strong>, which limited child labour and working hours — the start of protecting workers by law.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"The human cost of early industry and the reforms that followed\">\n  <defs>\n    <marker id=\"ar-uki2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"80\" y=\"16\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">The human cost</text>\n  <rect x=\"10\" y=\"24\" width=\"120\" height=\"34\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"70\" y=\"45\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">child labour</text>\n  <rect x=\"10\" y=\"62\" width=\"120\" height=\"34\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"70\" y=\"83\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">slums, disease</text>\n  <path d=\"M130,60 L168,60\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-uki2)\"/>\n  <rect x=\"172\" y=\"34\" width=\"158\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"251\" y=\"55\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">The Factory Acts</text>\n  <text x=\"251\" y=\"73\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">limit hours and child labour</text>\n  <text x=\"170\" y=\"112\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">progress came slowly, through reform</text>\n</svg>\n<figcaption>Harsh early conditions eventually forced protective laws.</figcaption>\n</figure>\n\n<h2>In summary</h2>\n\n<h3>Timeline</h3>\n\n<table>\n  <tr><th>Date</th><th>Development</th></tr>\n  <tr><td>c.1750</td><td>Industrial Revolution begins</td></tr>\n  <tr><td>1769-80s</td><td>Watt improves the steam engine</td></tr>\n  <tr><td>1830</td><td>Liverpool & Manchester Railway</td></tr>\n  <tr><td>1830s-40s</td><td>Factory Acts limit child labour</td></tr>\n  <tr><td>c.1850</td><td>Britain: 'workshop of the world'</td></tr>\n</table>\n\n<h3>Key terms</h3>\n\n<table>\n  <tr><th>Term</th><th>Meaning</th></tr>\n  <tr><td>Steam engine</td><td>Coal-powered engine driving machines</td></tr>\n  <tr><td>Factory</td><td>Building for machine mass production</td></tr>\n  <tr><td>Urbanisation</td><td>Rapid growth of towns and cities</td></tr>\n  <tr><td>Slum</td><td>Overcrowded, unhealthy housing</td></tr>\n  <tr><td>Factory Acts</td><td>Laws limiting hours and child labour</td></tr>\n</table>\n\n<h3>People</h3>\n\n<table>\n  <tr><th>Name</th><th>Role</th></tr>\n  <tr><td>James Watt</td><td>Improved the steam engine</td></tr>\n  <tr><td>George Stephenson</td><td>Pioneer of the railways</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Watch out</strong><br>\n  Industrialisation did <b>not</b> instantly improve life for most workers. Early conditions were often dangerous, with low pay and unhealthy slums; improvements came slowly, through reform. Remember too the shift: from <b>farming and cottage work</b> to <b>factories in towns</b>.\n</div>\n\n<blockquote>\n  <p>The Industrial Revolution made Britain the richest, most powerful nation of the 19th century — and changed how people everywhere would live and work. Its promise and its hardships still shape the modern world.</p>\n</blockquote>\n",
+  "questionLang": "en",
+  "answerLang": "en",
+  "version": 1,
+  "level": "GCSE",
+  "theme": "British History",
+  "cards": [
+    {
+      "recto": "The rapid change from farming to factory industry in Britain from around 1750 is called the...?",
+      "verso": "The Industrial Revolution",
+      "explanation": "From about 1750, new machines, factories and power sources transformed Britain from an agricultural society into the world's first industrial nation.",
+      "tags": [
+        "industrial-revolution",
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "The Reformation",
+          "The Renaissance",
+          "The Norman Conquest"
+        ],
+        "medium": [
+          "The Agricultural Revolution alone",
+          "The Glorious Revolution",
+          "The Digital Revolution"
+        ],
+        "hard": [
+          "The Commercial Revolution",
+          "The Neolithic Revolution",
+          "The Green Revolution"
+        ]
+      }
+    },
+    {
+      "recto": "Which power source, using coal to make steam, drove factories and machines?",
+      "verso": "The steam engine",
+      "explanation": "Improved by James Watt, the steam engine powered factories, mines and later trains, freeing industry from rivers and muscle power.",
+      "tags": [
+        "industrial-revolution",
+        "technology"
+      ],
+      "distractors": {
+        "easy": [
+          "Electricity",
+          "Nuclear power",
+          "Solar panels"
+        ],
+        "medium": [
+          "The windmill",
+          "The water wheel alone",
+          "The petrol engine"
+        ],
+        "hard": [
+          "The Newcomen engine only",
+          "The turbine",
+          "The internal combustion engine"
+        ]
+      }
+    },
+    {
+      "recto": "Which engineer greatly improved the steam engine in the late 1700s?",
+      "verso": "James Watt",
+      "explanation": "Watt made the steam engine far more efficient. His engines powered the factories at the heart of the Industrial Revolution.",
+      "tags": [
+        "industrial-revolution",
+        "people"
+      ],
+      "distractors": {
+        "easy": [
+          "Isaac Newton",
+          "Charles Darwin",
+          "William Shakespeare"
+        ],
+        "medium": [
+          "George Stephenson",
+          "Richard Arkwright",
+          "Thomas Edison"
+        ],
+        "hard": [
+          "Thomas Newcomen",
+          "Matthew Boulton",
+          "Humphry Davy"
+        ]
+      }
+    },
+    {
+      "recto": "Which fuel, dug from mines, powered steam engines and the whole revolution?",
+      "verso": "Coal",
+      "explanation": "Coal fuelled the steam engines and iron furnaces. Coal mining boomed, though it was dangerous and often used child labour.",
+      "tags": [
+        "industrial-revolution",
+        "resources"
+      ],
+      "distractors": {
+        "easy": [
+          "Oil",
+          "Natural gas",
+          "Uranium"
+        ],
+        "medium": [
+          "Wood only",
+          "Peat",
+          "Charcoal alone"
+        ],
+        "hard": [
+          "Lignite only",
+          "Coke without coal",
+          "Anthracite imports"
+        ]
+      }
+    },
+    {
+      "recto": "Large buildings where workers used machines to mass-produce goods were called...?",
+      "verso": "Factories",
+      "explanation": "Factories gathered workers and machines under one roof. They replaced small home-based 'cottage' production and changed how people worked.",
+      "tags": [
+        "industrial-revolution",
+        "work"
+      ],
+      "distractors": {
+        "easy": [
+          "Castles",
+          "Cathedrals",
+          "Farms"
+        ],
+        "medium": [
+          "Workhouses",
+          "Cottages",
+          "Guild halls"
+        ],
+        "hard": [
+          "Manors",
+          "Almshouses",
+          "Counting houses"
+        ]
+      }
+    },
+    {
+      "recto": "What was the rapid growth of towns and cities during this period called?",
+      "verso": "Urbanisation",
+      "explanation": "People moved from the countryside to work in factory towns like Manchester and Leeds, which grew rapidly — often into overcrowded slums.",
+      "tags": [
+        "industrial-revolution",
+        "society"
+      ],
+      "distractors": {
+        "easy": [
+          "Deforestation",
+          "Globalisation",
+          "Colonisation"
+        ],
+        "medium": [
+          "Migration abroad",
+          "Depopulation",
+          "Suburbanisation"
+        ],
+        "hard": [
+          "Enclosure",
+          "Gentrification",
+          "Counter-urbanisation"
+        ]
+      }
+    },
+    {
+      "recto": "Which new form of transport, running on rails and powered by steam, spread from the 1820s-30s?",
+      "verso": "The railways (steam trains)",
+      "explanation": "Railways moved goods and people quickly and cheaply. The Liverpool and Manchester Railway (1830) helped launch the railway age.",
+      "tags": [
+        "industrial-revolution",
+        "transport"
+      ],
+      "distractors": {
+        "easy": [
+          "Aeroplanes",
+          "Cars",
+          "Spaceships"
+        ],
+        "medium": [
+          "Canals only",
+          "Sailing ships",
+          "Horse-drawn coaches only"
+        ],
+        "hard": [
+          "The motorway",
+          "The omnibus alone",
+          "The bicycle"
+        ]
+      }
+    },
+    {
+      "recto": "Which engineer built early railways and the famous locomotive the 'Rocket'?",
+      "verso": "George Stephenson",
+      "explanation": "Stephenson, the 'Father of Railways', built key lines and, with his son, the 'Rocket'. Railways transformed Britain's economy and daily life.",
+      "tags": [
+        "industrial-revolution",
+        "people"
+      ],
+      "distractors": {
+        "easy": [
+          "James Watt",
+          "Isaac Newton",
+          "Winston Churchill"
+        ],
+        "medium": [
+          "Isambard Kingdom Brunel",
+          "Richard Trevithick",
+          "Michael Faraday"
+        ],
+        "hard": [
+          "Robert Stephenson only",
+          "Thomas Telford",
+          "John McAdam"
+        ]
+      }
+    },
+    {
+      "recto": "What were the crowded, unhealthy areas where poor factory workers lived called?",
+      "verso": "Slums",
+      "explanation": "Rapid town growth led to overcrowded slums with poor housing, dirty water and disease. Living conditions for workers were often terrible.",
+      "tags": [
+        "industrial-revolution",
+        "conditions"
+      ],
+      "distractors": {
+        "easy": [
+          "Palaces",
+          "Mansions",
+          "Country estates"
+        ],
+        "medium": [
+          "Suburbs",
+          "Garden cities",
+          "Model villages"
+        ],
+        "hard": [
+          "Almshouses",
+          "Terraced villas",
+          "Tenement resorts"
+        ]
+      }
+    },
+    {
+      "recto": "Which vulnerable group was widely and dangerously used as cheap labour in factories and mines?",
+      "verso": "Children",
+      "explanation": "Children worked long hours in dangerous factories and mines for low pay. Public concern led to Factory Acts limiting child labour.",
+      "tags": [
+        "industrial-revolution",
+        "conditions"
+      ],
+      "distractors": {
+        "easy": [
+          "Kings",
+          "Soldiers",
+          "Lawyers"
+        ],
+        "medium": [
+          "Only skilled adults",
+          "Retired workers",
+          "University students"
+        ],
+        "hard": [
+          "Only apprentices over 21",
+          "Foreign diplomats",
+          "Landowners"
+        ]
+      }
+    },
+    {
+      "recto": "What were the laws passed to limit working hours and improve factory conditions called?",
+      "verso": "The Factory Acts",
+      "explanation": "From the 1830s, Factory Acts limited child labour and working hours. They were an early step towards protecting workers by law.",
+      "tags": [
+        "industrial-revolution",
+        "reform"
+      ],
+      "distractors": {
+        "easy": [
+          "The Corn Laws",
+          "The Navigation Acts",
+          "Magna Carta"
+        ],
+        "medium": [
+          "The Poor Laws only",
+          "The Reform Act only",
+          "The Combination Acts"
+        ],
+        "hard": [
+          "The Ten Hours Act only",
+          "The Truck Acts only",
+          "The Master and Servant Act"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] How did work change from before to during the Industrial Revolution?",
+      "verso": "Before: mostly farming and home ('cottage') work; during: factory work in towns with machines",
+      "explanation": "Most people once worked on the land or made goods at home. Industrialisation moved work into factories in growing towns, run by clocks and machines.",
+      "tags": [
+        "comparaison",
+        "work"
+      ],
+      "distractors": {
+        "easy": [
+          "No change at all in how people worked",
+          "Everyone became a farmer",
+          "Everyone stopped working"
+        ],
+        "medium": [
+          "Before: factories; during: farming",
+          "Both were only office jobs",
+          "Both were purely at home"
+        ],
+        "hard": [
+          "Before: railways; during: horses",
+          "Both used only water power",
+          "Work moved from towns back to farms"
+        ]
+      }
+    },
+    {
+      "recto": "[Watch out] Did the Industrial Revolution immediately improve life for most ordinary workers?",
+      "verso": "No; at first many faced dangerous work, low pay and unhealthy slums",
+      "explanation": "A common error is to assume industry meant instant progress for all. Early conditions were often harsh; improvements came slowly, through reform and campaigns.",
+      "tags": [
+        "piege",
+        "conditions"
+      ],
+      "distractors": {
+        "easy": [
+          "Yes, everyone became rich at once",
+          "Yes, all work became safe immediately",
+          "Yes, slums vanished quickly"
+        ],
+        "medium": [
+          "Yes, wages were high for all from the start",
+          "Yes, child labour ended straight away",
+          "No, because industry never grew"
+        ],
+        "hard": [
+          "Yes, the Factory Acts came first, before the factories",
+          "Yes, towns stayed small and clean",
+          "No, because Britain stayed agricultural"
+        ]
+      }
+    },
+    {
+      "recto": "By the 1800s, Britain was known by what nickname because it produced so many goods?",
+      "verso": "The 'workshop of the world'",
+      "explanation": "Britain led the world in industry, exporting textiles, iron and machinery. Its early start gave it huge economic power in the 19th century.",
+      "tags": [
+        "industrial-revolution",
+        "consequences"
+      ],
+      "distractors": {
+        "easy": [
+          "The 'breadbasket of the world'",
+          "The 'roof of the world'",
+          "The 'garden of Europe'"
+        ],
+        "medium": [
+          "The 'sick man of Europe'",
+          "The 'granary of empire'",
+          "The 'new world'"
+        ],
+        "hard": [
+          "The 'workshop of empire' only",
+          "The 'forge of Rome'",
+          "The 'loom of Asia'"
+        ]
+      }
+    },
+    {
+      "recto": "Which industry, making cloth in mills, was one of the first to be transformed?",
+      "verso": "The textile (cotton) industry",
+      "explanation": "New machines like the spinning jenny mechanised cloth-making. Cotton mills in Lancashire were among the first modern factories.",
+      "tags": [
+        "industrial-revolution",
+        "industry"
+      ],
+      "distractors": {
+        "easy": [
+          "The film industry",
+          "The car industry",
+          "The computer industry"
+        ],
+        "medium": [
+          "The aircraft industry",
+          "The oil industry",
+          "The plastics industry"
+        ],
+        "hard": [
+          "The chemical industry only",
+          "The shipbuilding industry first",
+          "The electronics industry"
+        ]
+      }
+    },
+    {
+      "recto": "Overall, why is the Industrial Revolution a major turning point in history?",
+      "verso": "It transformed Britain into the first industrial nation, reshaping work, cities and society worldwide",
+      "explanation": "Industry, factories and railways changed how people lived and worked, drove urban growth and eventually spread across the world, shaping the modern age.",
+      "tags": [
+        "synthesis",
+        "consequences"
+      ],
+      "distractors": {
+        "easy": [
+          "It changed almost nothing",
+          "It made Britain purely agricultural",
+          "It ended all trade"
+        ],
+        "medium": [
+          "It only affected one small town",
+          "It made everyone a farmer again",
+          "It had no effect outside Britain"
+        ],
+        "hard": [
+          "It reversed urbanisation",
+          "It abolished factories",
+          "It ended the use of coal"
+        ]
+      }
+    }
+  ]
+}

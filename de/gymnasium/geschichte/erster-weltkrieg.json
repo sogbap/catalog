@@ -1,0 +1,432 @@
+{
+  "id": "de-gymnasium-geschichte-erster-weltkrieg",
+  "title": "Der Erste Weltkrieg",
+  "emoji": "💥",
+  "subject": "history",
+  "country": "de",
+  "courseDescription": "Ursachen, Verlauf und Folgen des Ersten Weltkriegs von 1914 bis 1918 und der Versailler Vertrag.",
+  "lesson": "<style>\n  /* Stile der SVG-Grafiken. Nutzen currentColor (Textfarbe) und var(--accent)\n     (Fachfarbe) und passen sich dem hellen/dunklen Design der App an. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Der Erste Weltkrieg</h1>\n\n<div class=\"callout\">\n  <strong>Überblick</strong><br>\n  <b>Stufe:</b> Gymnasium<br>\n  <b>Thema:</b> Geschichte<br>\n  <b>Zeitraum:</b> 1914 — 1918\n</div>\n\n<blockquote>\n  <p><b>Leitfrage.</b> Wie wurde aus einem Attentat der erste industrielle Massenkrieg der Geschichte?</p>\n</blockquote>\n\n<p>Das <strong>Attentat von Sarajevo</strong> (1914) löste den Krieg aus, doch die tieferen Ursachen lagen im <strong>Imperialismus</strong>, im <strong>Wettrüsten</strong>, in den <strong>Bündnissen</strong> und im <strong>Nationalismus</strong>. Aus dem geplanten schnellen Sieg wurde ein grausamer <strong>Stellungskrieg</strong>. 1918 verlor Deutschland; 1919 folgte der <strong>Versailler Vertrag</strong>.</p>\n\n<h2>1 · Ursachen und Auslöser</h2>\n\n<p>Europa war 1914 gespannt: Kolonialrivalitäten, Wettrüsten und feste <strong>Bündnisse</strong>. Der <strong>Auslöser</strong> war das Attentat von Sarajevo auf den Thronfolger <strong>Franz Ferdinand</strong> — nicht die eigentliche Ursache.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Tiefe Ursachen und Auslöser des Ersten Weltkriegs\">\n  <defs>\n    <marker id=\"ar-dew1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"70\" y=\"16\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Tiefe Ursachen</text>\n  <rect x=\"10\" y=\"24\" width=\"120\" height=\"34\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"70\" y=\"45\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Imperialismus, Bündnisse</text>\n  <rect x=\"10\" y=\"62\" width=\"120\" height=\"34\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"70\" y=\"83\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Wettrüsten, Nationalismus</text>\n  <path d=\"M130,60 L168,60\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-dew1)\"/>\n  <rect x=\"172\" y=\"34\" width=\"158\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"251\" y=\"55\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Auslöser: Sarajevo</text>\n  <text x=\"251\" y=\"73\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Attentat 1914 → Krieg</text>\n  <text x=\"170\" y=\"112\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">der Funke traf ein Pulverfass</text>\n</svg>\n<figcaption>Ein Attentat entzündete die längst aufgeladene Lage Europas.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Begriff · Bündnissysteme</strong><br>\n  Feste Militärbündnisse teilten Europa in zwei Blöcke: die <b>Mittelmächte</b> und die <b>Entente</b>. So zog ein regionaler Konflikt rasch ganz Europa in den Krieg.\n</div>\n\n<h2>2 · Vom Bewegungs- zum Stellungskrieg</h2>\n\n<p>Nach dem <strong>Schlieffen-Plan</strong> sollte Frankreich rasch fallen. Doch der Plan scheiterte: Die Westfront erstarrte zum <strong>Stellungskrieg</strong>. Neue Waffen — Maschinengewehre, <strong>Giftgas</strong>, Panzer — machten Schlachten wie <strong>Verdun</strong> zum Massensterben.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Vom geplanten Bewegungskrieg zum festgefahrenen Stellungskrieg\">\n  <rect x=\"12\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Geplant</text>\n  <text x=\"87\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Bewegungskrieg</text>\n  <text x=\"87\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">schneller Sieg</text>\n  <text x=\"87\" y=\"106\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">(Schlieffen-Plan)</text>\n  <rect x=\"178\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Wirklichkeit</text>\n  <text x=\"253\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Stellungskrieg</text>\n  <text x=\"253\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Schützengräben</text>\n  <text x=\"253\" y=\"106\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Verdun, Somme</text>\n</svg>\n<figcaption>Statt eines schnellen Sieges gab es jahrelanges Grabensterben.</figcaption>\n</figure>\n\n<h2>3 · Kriegsende und Versailles</h2>\n\n<p>1918 brach die deutsche Front zusammen. Die <strong>Novemberrevolution</strong> stürzte <strong>Wilhelm II.</strong>; Deutschland wurde Republik und schloss den <strong>Waffenstillstand</strong>. 1919 legte der <strong>Versailler Vertrag</strong> die harten Bedingungen fest: <strong>Kriegsschuld</strong>, Reparationen, Gebietsverluste.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 160\" role=\"img\" aria-label=\"Zeitleiste des Ersten Weltkriegs von 1914 bis 1919\">\n  <line x1=\"26\" y1=\"16\" x2=\"26\" y2=\"146\" style=\"stroke:var(--accent);stroke-opacity:.4;stroke-width:2\"/>\n  <circle cx=\"26\" cy=\"24\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"21\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1914</text>\n  <text x=\"40\" y=\"34\" class=\"s-muted\" font-size=\"10\">Attentat von Sarajevo; Kriegsbeginn</text>\n  <circle cx=\"26\" cy=\"62\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"59\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1916</text>\n  <text x=\"40\" y=\"72\" class=\"s-muted\" font-size=\"10\">Schlacht um Verdun</text>\n  <circle cx=\"26\" cy=\"100\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"97\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1918</text>\n  <text x=\"40\" y=\"110\" class=\"s-muted\" font-size=\"10\">Novemberrevolution; Waffenstillstand</text>\n  <circle cx=\"26\" cy=\"140\" r=\"5\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"137\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1919</text>\n  <text x=\"40\" y=\"150\" class=\"s-muted\" font-size=\"10\">Versailler Vertrag</text>\n</svg>\n<figcaption>Vom Attentat bis zum Friedensvertrag von Versailles.</figcaption>\n</figure>\n\n<h2>Das Wesentliche</h2>\n\n<h3>Zeitleiste</h3>\n\n<table>\n  <tr><th>Jahr</th><th>Ereignis</th></tr>\n  <tr><td>1914</td><td>Attentat von Sarajevo; Kriegsbeginn</td></tr>\n  <tr><td>1916</td><td>Schlacht um Verdun</td></tr>\n  <tr><td>1918</td><td>Novemberrevolution; Waffenstillstand</td></tr>\n  <tr><td>1919</td><td>Versailler Vertrag</td></tr>\n</table>\n\n<h3>Schlüsselbegriffe</h3>\n\n<table>\n  <tr><th>Begriff</th><th>Bedeutung</th></tr>\n  <tr><td>Auslöser</td><td>Anlass (Attentat), nicht die Ursache</td></tr>\n  <tr><td>Mittelmächte / Entente</td><td>Die beiden Kriegsblöcke</td></tr>\n  <tr><td>Schlieffen-Plan</td><td>Plan für einen schnellen Sieg</td></tr>\n  <tr><td>Stellungskrieg</td><td>Grabenkrieg an der Westfront</td></tr>\n  <tr><td>Versailler Vertrag</td><td>Friedensvertrag von 1919</td></tr>\n</table>\n\n<h3>Personen</h3>\n\n<table>\n  <tr><th>Name</th><th>Rolle</th></tr>\n  <tr><td>Franz Ferdinand</td><td>1914 in Sarajevo ermordet</td></tr>\n  <tr><td>Wilhelm II.</td><td>Dankte 1918 ab</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Vorsicht</strong><br>\n  Das Attentat von Sarajevo war nur der <b>Auslöser</b>, nicht die eigentliche <b>Ursache</b>: Diese lag in Imperialismus, Wettrüsten, Bündnissen und Nationalismus. Und aus dem geplanten <b>Bewegungskrieg</b> wurde ein festgefahrener <b>Stellungskrieg</b>.\n</div>\n\n<blockquote>\n  <p>Der Erste Weltkrieg zeigte die zerstörerische Kraft der industriellen Kriegführung. Sein Ende und der Versailler Vertrag hinterließen ein geschwächtes Deutschland — und Spannungen, die bald neue Katastrophen nach sich zogen.</p>\n</blockquote>\n",
+  "questionLang": "de",
+  "answerLang": "de",
+  "version": 1,
+  "level": "Gymnasium",
+  "theme": "Geschichte",
+  "cards": [
+    {
+      "recto": "In welchen Jahren fand der Erste Weltkrieg statt?",
+      "verso": "1914 bis 1918",
+      "explanation": "Der Erste Weltkrieg dauerte von 1914 bis 1918. Er war der erste industrielle Massenkrieg mit Millionen Toten.",
+      "tags": [
+        "weltkrieg",
+        "daten"
+      ],
+      "distractors": {
+        "easy": [
+          "1939 bis 1945",
+          "1789 bis 1799",
+          "1870 bis 1871"
+        ],
+        "medium": [
+          "1912 bis 1916",
+          "1918 bis 1922",
+          "1900 bis 1910"
+        ],
+        "hard": [
+          "1914 bis 1919",
+          "1913 bis 1917",
+          "1915 bis 1918"
+        ]
+      }
+    },
+    {
+      "recto": "Welches Ereignis von 1914 gilt als unmittelbarer Auslöser des Krieges?",
+      "verso": "Das Attentat von Sarajevo",
+      "explanation": "Die Ermordung des österreichischen Thronfolgers Franz Ferdinand in Sarajevo löste eine Kette von Kriegserklärungen aus.",
+      "tags": [
+        "weltkrieg",
+        "ausloeser"
+      ],
+      "distractors": {
+        "easy": [
+          "Der Mauerfall",
+          "Der Sturm auf die Bastille",
+          "Der Reichstagsbrand"
+        ],
+        "medium": [
+          "Der Überfall auf Polen",
+          "Die Ermordung Cäsars",
+          "Der Anschluss Österreichs"
+        ],
+        "hard": [
+          "Die Marokkokrise",
+          "Die Julikrise allein",
+          "Der Panamaskandal"
+        ]
+      }
+    },
+    {
+      "recto": "Wer wurde 1914 in Sarajevo ermordet?",
+      "verso": "Der österreichische Thronfolger Franz Ferdinand",
+      "explanation": "Erzherzog Franz Ferdinand von Österreich-Ungarn wurde von einem serbischen Nationalisten erschossen — der Funke, der den Krieg entzündete.",
+      "tags": [
+        "weltkrieg",
+        "personen"
+      ],
+      "distractors": {
+        "easy": [
+          "Napoleon",
+          "Adolf Hitler",
+          "Otto von Bismarck"
+        ],
+        "medium": [
+          "Kaiser Wilhelm II.",
+          "Zar Nikolaus II.",
+          "Kaiser Franz Joseph"
+        ],
+        "hard": [
+          "Erzherzog Rudolf",
+          "König Peter von Serbien",
+          "Graf Berchtold"
+        ]
+      }
+    },
+    {
+      "recto": "[Vorsicht] War das Attentat von Sarajevo die eigentliche Ursache des Krieges?",
+      "verso": "Nein; es war der Auslöser, die tieferen Ursachen lagen in Imperialismus, Bündnissen und Nationalismus",
+      "explanation": "Häufiger Irrtum. Das Attentat war nur der Anlass. Die tieferen Ursachen waren imperialistische Rivalitäten, das Wettrüsten, die Bündnissysteme und der Nationalismus.",
+      "tags": [
+        "piege",
+        "weltkrieg"
+      ],
+      "distractors": {
+        "easy": [
+          "Ja, das Attentat war die einzige Ursache",
+          "Ja, sonst gab es keine Spannungen",
+          "Ja, es kam aus dem Nichts"
+        ],
+        "medium": [
+          "Ja, es gab keine Bündnisse",
+          "Ja, Imperialismus spielte keine Rolle",
+          "Nein, weil es gar keinen Krieg gab"
+        ],
+        "hard": [
+          "Ja, das Wettrüsten war unwichtig",
+          "Ja, der Nationalismus war bedeutungslos",
+          "Nein, weil der Krieg schon 1912 begann"
+        ]
+      }
+    },
+    {
+      "recto": "Welche tieferen Ursachen führten langfristig zum Krieg?",
+      "verso": "Imperialismus, Wettrüsten, Bündnissysteme und Nationalismus",
+      "explanation": "Der Wettlauf um Kolonien, das militärische Wettrüsten, feste Bündnisse und aggressiver Nationalismus schufen ein hochexplosives Klima in Europa.",
+      "tags": [
+        "weltkrieg",
+        "ursachen"
+      ],
+      "distractors": {
+        "easy": [
+          "Nur ein einziges Attentat",
+          "Eine Wirtschaftskrise allein",
+          "Ein Vulkanausbruch"
+        ],
+        "medium": [
+          "Nur ein Bündnisvertrag",
+          "Allein die Julikrise",
+          "Nur religiöse Gründe"
+        ],
+        "hard": [
+          "Ausschließlich koloniale Fragen",
+          "Nur der Panslawismus",
+          "Allein das Flottenwettrüsten"
+        ]
+      }
+    },
+    {
+      "recto": "Welche zwei großen Bündnisblöcke standen sich im Krieg gegenüber?",
+      "verso": "Die Mittelmächte und die Entente (Alliierte)",
+      "explanation": "Die Mittelmächte (Deutschland, Österreich-Ungarn u. a.) kämpften gegen die Entente (Frankreich, Russland, Großbritannien u. a.).",
+      "tags": [
+        "weltkrieg",
+        "buendnisse"
+      ],
+      "distractors": {
+        "easy": [
+          "Ost und West Deutschland",
+          "Die NATO und der Warschauer Pakt",
+          "Nord und Süd"
+        ],
+        "medium": [
+          "Die Achsenmächte und die Alliierten",
+          "Die Union und die Konföderation",
+          "Rot und Weiß"
+        ],
+        "hard": [
+          "Der Dreibund allein und der Zweibund",
+          "Die Achse Berlin-Rom",
+          "Die Neutralen und die Kriegführenden"
+        ]
+      }
+    },
+    {
+      "recto": "Nach welchem Plan wollte Deutschland zu Kriegsbeginn schnell Frankreich besiegen?",
+      "verso": "Nach dem Schlieffen-Plan",
+      "explanation": "Der Schlieffen-Plan sah einen raschen Sieg über Frankreich vor, bevor sich Russland ganz gerüstet hätte. Er scheiterte, der Krieg wurde zum Stellungskrieg.",
+      "tags": [
+        "weltkrieg",
+        "strategie"
+      ],
+      "distractors": {
+        "easy": [
+          "Nach dem Marshallplan",
+          "Nach dem Fünfjahresplan",
+          "Nach dem Dawes-Plan"
+        ],
+        "medium": [
+          "Nach dem Blitzkrieg-Plan",
+          "Nach dem Barbarossa-Plan",
+          "Nach dem Young-Plan"
+        ],
+        "hard": [
+          "Nach dem Hindenburg-Programm",
+          "Nach dem Molotow-Plan",
+          "Nach dem Tirpitz-Plan"
+        ]
+      }
+    },
+    {
+      "recto": "[Vergleich] Wie veränderte sich der Krieg vom Anfang bis zum Verlauf an der Westfront?",
+      "verso": "Aus dem geplanten schnellen Bewegungskrieg wurde ein festgefahrener Stellungskrieg (Grabenkrieg)",
+      "explanation": "Deutschland plante einen raschen Bewegungskrieg. Doch an der Westfront erstarrte die Front zum Stellungskrieg mit Schützengräben, Jahre lang fast ohne Geländegewinn.",
+      "tags": [
+        "comparaison",
+        "weltkrieg"
+      ],
+      "distractors": {
+        "easy": [
+          "Er blieb immer ein schneller Krieg",
+          "Aus Stellungskrieg wurde Bewegungskrieg",
+          "Es gab gar keine Kämpfe"
+        ],
+        "medium": [
+          "Aus Seekrieg wurde Landkrieg",
+          "Der Krieg endete sofort",
+          "Es blieb ein reiner Luftkrieg"
+        ],
+        "hard": [
+          "Aus Grabenkrieg wurde Kolonialkrieg",
+          "Der Bewegungskrieg dauerte bis 1918",
+          "Die Front bewegte sich täglich stark"
+        ]
+      }
+    },
+    {
+      "recto": "Wie nennt man den zermürbenden Krieg aus Schützengräben an der Westfront?",
+      "verso": "Der Stellungskrieg (Grabenkrieg)",
+      "explanation": "Im Stellungskrieg lagen sich die Heere in Schützengräben gegenüber. Schlachten wie Verdun kosteten Hunderttausende Leben bei kaum verändertem Frontverlauf.",
+      "tags": [
+        "weltkrieg",
+        "begriffe"
+      ],
+      "distractors": {
+        "easy": [
+          "Der Blitzkrieg",
+          "Der Seekrieg",
+          "Der Bürgerkrieg"
+        ],
+        "medium": [
+          "Der Bewegungskrieg",
+          "Der Guerillakrieg",
+          "Der Kalte Krieg"
+        ],
+        "hard": [
+          "Der U-Boot-Krieg allein",
+          "Der Luftkrieg",
+          "Der totale Krieg"
+        ]
+      }
+    },
+    {
+      "recto": "Welche neuen Waffen machten den Krieg besonders tödlich?",
+      "verso": "Maschinengewehre, Giftgas, Panzer und Flugzeuge",
+      "explanation": "Die Industrialisierung brachte Massenvernichtungswaffen wie Maschinengewehre und Giftgas. Sie verwandelten Schlachten in ein Massensterben.",
+      "tags": [
+        "weltkrieg",
+        "technik"
+      ],
+      "distractors": {
+        "easy": [
+          "Pfeil und Bogen",
+          "Ritterrüstungen",
+          "Katapulte"
+        ],
+        "medium": [
+          "Atombomben",
+          "Raketen und Drohnen",
+          "Schwerter und Lanzen"
+        ],
+        "hard": [
+          "Interkontinentalraketen",
+          "Schlachtschiffe allein",
+          "Streubomben aus dem Kalten Krieg"
+        ]
+      }
+    },
+    {
+      "recto": "Welche berühmte Materialschlacht von 1916 wurde zum Symbol des sinnlosen Massensterbens?",
+      "verso": "Die Schlacht um Verdun",
+      "explanation": "Bei Verdun starben 1916 Hunderttausende bei minimalen Geländegewinnen. Sie steht sinnbildlich für die Grausamkeit des Stellungskriegs.",
+      "tags": [
+        "weltkrieg",
+        "schlachten"
+      ],
+      "distractors": {
+        "easy": [
+          "Die Schlacht bei Waterloo",
+          "Die Schlacht im Teutoburger Wald",
+          "Die Schlacht von Stalingrad"
+        ],
+        "medium": [
+          "Die Schlacht bei Sedan",
+          "Die Schlacht bei Tannenberg allein",
+          "Die Schlacht bei Leipzig"
+        ],
+        "hard": [
+          "Die Skagerrakschlacht",
+          "Die Marneschlacht allein",
+          "Die Schlacht bei Ypern allein"
+        ]
+      }
+    },
+    {
+      "recto": "Wie endete der Erste Weltkrieg für Deutschland 1918?",
+      "verso": "Mit der Niederlage und dem Waffenstillstand (nach der Novemberrevolution)",
+      "explanation": "1918 brach die deutsche Front zusammen. Die Novemberrevolution stürzte den Kaiser, und Deutschland schloss einen Waffenstillstand.",
+      "tags": [
+        "weltkrieg",
+        "ende"
+      ],
+      "distractors": {
+        "easy": [
+          "Mit einem klaren deutschen Sieg",
+          "Mit der Eroberung von Paris",
+          "Ohne jede Folge"
+        ],
+        "medium": [
+          "Mit einem Sieg der Mittelmächte",
+          "Mit einem Friedensvertrag ohne Verlierer",
+          "Mit dem Sieg über England"
+        ],
+        "hard": [
+          "Mit dem Frieden von Brest-Litowsk als Endsieg",
+          "Mit einem Unentschieden ohne Vertrag",
+          "Mit der Fortsetzung bis 1920"
+        ]
+      }
+    },
+    {
+      "recto": "Welcher Herrscher dankte im Zuge der Novemberrevolution 1918 ab?",
+      "verso": "Kaiser Wilhelm II.",
+      "explanation": "Die Novemberrevolution beendete die Monarchie: Wilhelm II. dankte ab und ging ins Exil. Deutschland wurde eine Republik.",
+      "tags": [
+        "weltkrieg",
+        "personen"
+      ],
+      "distractors": {
+        "easy": [
+          "Napoleon",
+          "Wilhelm I.",
+          "Adolf Hitler"
+        ],
+        "medium": [
+          "Otto von Bismarck",
+          "Friedrich Ebert",
+          "Franz Joseph"
+        ],
+        "hard": [
+          "Paul von Hindenburg",
+          "Erich Ludendorff",
+          "Zar Nikolaus II."
+        ]
+      }
+    },
+    {
+      "recto": "Welcher Vertrag von 1919 legte die Friedensbedingungen für das besiegte Deutschland fest?",
+      "verso": "Der Versailler Vertrag",
+      "explanation": "Der Versailler Vertrag gab Deutschland die alleinige Kriegsschuld, forderte Gebietsabtretungen, Reparationen und die Verkleinerung des Heeres.",
+      "tags": [
+        "weltkrieg",
+        "folgen"
+      ],
+      "distractors": {
+        "easy": [
+          "Der Marshallplan",
+          "Der Élysée-Vertrag",
+          "Die Magna Carta"
+        ],
+        "medium": [
+          "Der Vertrag von Maastricht",
+          "Der Frieden von Wien",
+          "Der Vertrag von Rom"
+        ],
+        "hard": [
+          "Der Vertrag von Locarno",
+          "Der Frieden von Brest-Litowsk",
+          "Der Vertrag von Rapallo"
+        ]
+      }
+    },
+    {
+      "recto": "Welche belastende Bestimmung des Versailler Vertrags empfanden viele Deutsche als besonders demütigend?",
+      "verso": "Der 'Kriegsschuldartikel' (alleinige Schuld) samt hoher Reparationen",
+      "explanation": "Deutschland musste die alleinige Kriegsschuld anerkennen und hohe Reparationen zahlen. Dieser 'Schandfrieden' belastete die junge Republik schwer.",
+      "tags": [
+        "weltkrieg",
+        "folgen"
+      ],
+      "distractors": {
+        "easy": [
+          "Die Einführung des Euro",
+          "Der Beitritt zur EU",
+          "Ein Geschenk an Deutschland"
+        ],
+        "medium": [
+          "Die Vergrößerung des Heeres",
+          "Der Gewinn von Kolonien",
+          "Die Aufnahme in den Völkerbund sofort"
+        ],
+        "hard": [
+          "Die Rückgabe Elsass-Lothringens an Deutschland",
+          "Der Erlass aller Schulden",
+          "Die Ausweitung des Reichsgebiets"
+        ]
+      }
+    },
+    {
+      "recto": "Insgesamt: Welche Bedeutung hatte der Erste Weltkrieg?",
+      "verso": "Ein industrieller Massenkrieg mit Millionen Toten, der Europa erschütterte und die Wurzeln neuer Konflikte legte",
+      "explanation": "Der Krieg forderte Millionen Tote, stürzte Monarchien und hinterließ mit dem Versailler Vertrag Spannungen, die den Weg zum Zweiten Weltkrieg mitbereiteten.",
+      "tags": [
+        "weltkrieg",
+        "synthese"
+      ],
+      "distractors": {
+        "easy": [
+          "Ein kurzer Krieg ohne Folgen",
+          "Ein Krieg ganz ohne Opfer",
+          "Ein reiner Kolonialkonflikt"
+        ],
+        "medium": [
+          "Ein Sieg ohne Verlierer",
+          "Ein Ereignis nur für Deutschland",
+          "Ein Krieg ohne technische Neuerungen"
+        ],
+        "hard": [
+          "Ein Konflikt ohne politische Folgen",
+          "Der Beginn einer langen Friedenszeit ohne Spannungen",
+          "Ein Krieg, der Europa stärkte und einte"
+        ]
+      }
+    }
+  ]
+}

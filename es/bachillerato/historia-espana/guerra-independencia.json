@@ -1,0 +1,432 @@
+{
+  "id": "es-bachillerato-historia-espana-guerra-independencia",
+  "title": "La Guerra de la Independencia y las Cortes de Cádiz",
+  "emoji": "🎇",
+  "subject": "history",
+  "country": "es",
+  "courseDescription": "La invasión napoleónica, la guerra contra Francia y el nacimiento del liberalismo español en la Constitución de 1812.",
+  "lesson": "<style>\n  /* Estilos de las figuras (SVG). Usan currentColor (texto del tema) y\n     var(--accent) (color de la materia): se adaptan al tema claro/oscuro. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>La Guerra de la Independencia y las Cortes de Cádiz</h1>\n\n<div class=\"callout\">\n  <strong>Claves</strong><br>\n  <b>Nivel:</b> Bachillerato<br>\n  <b>Tema:</b> Historia de España<br>\n  <b>Periodo:</b> 1808 — 1814\n</div>\n\n<blockquote>\n  <p><b>Pregunta central.</b> ¿Cómo dio la guerra contra Napoleón lugar al nacimiento del liberalismo español?</p>\n</blockquote>\n\n<p>En <strong>1808</strong>, <strong>Napoleón</strong> invadió España y puso en el trono a su hermano <strong>José Bonaparte</strong>. El pueblo se alzó el <strong>2 de mayo</strong> y luchó con <strong>guerrillas</strong>. Mientras, en <strong>Cádiz</strong> se reunieron unas Cortes que aprobaron la <strong>Constitución de 1812</strong>, el primer texto liberal español.</p>\n\n<h2>1 · La invasión y el levantamiento</h2>\n\n<p>Napoleón ocupó España e impuso a <strong>José I</strong>. El <strong>2 de mayo de 1808</strong>, Madrid se levantó; <strong>Goya</strong> retrató la represión. La guerra combinó grandes batallas, como <strong>Bailén</strong> (primera derrota de Napoleón), con la <strong>guerrilla</strong>.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"Del levantamiento del 2 de mayo a la guerra de guerrillas\">\n  <defs>\n    <marker id=\"ar-esg1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"40\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"56\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">2 de mayo</text>\n  <text x=\"56\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">1808 · Madrid</text>\n  <path d=\"M104,66 L122,66\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-esg1)\"/>\n  <rect x=\"126\" y=\"40\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"172\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Guerrilla</text>\n  <text x=\"172\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">partidas populares</text>\n  <path d=\"M218,66 L236,66\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-esg1)\"/>\n  <rect x=\"240\" y=\"40\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Bailén</text>\n  <text x=\"286\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Napoleón derrotado</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">la resistencia contra Francia</text>\n</svg>\n<figcaption>Un pueblo en armas frenó, por primera vez, a Napoleón.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Concepto · Guerrilla</strong><br>\n  Forma de lucha de pequeñas partidas que hostigan al enemigo sin batallas abiertas. La resistencia española dio al mundo esta palabra, hoy universal.\n</div>\n\n<h2>2 · Las Cortes de Cádiz y 'La Pepa'</h2>\n\n<p>En la ciudad sitiada de <strong>Cádiz</strong> se reunieron unas Cortes que aprobaron la <strong>Constitución de 1812</strong> ('La Pepa'). Proclamaba la <strong>soberanía nacional</strong>, la división de poderes y derechos individuales: nacía el <strong>liberalismo</strong> español.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Los dos bandos enfrentados en las Cortes de Cádiz: liberales y absolutistas\">\n  <rect x=\"12\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Liberales</text>\n  <text x=\"87\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">soberanía nacional</text>\n  <text x=\"87\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">reformas</text>\n  <text x=\"87\" y=\"106\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Constitución de 1812</text>\n  <rect x=\"178\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Absolutistas</text>\n  <text x=\"253\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">'serviles'</text>\n  <text x=\"253\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">poder del rey</text>\n  <text x=\"253\" y=\"106\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Antiguo Régimen</text>\n</svg>\n<figcaption>Dos visiones de España se enfrentaron en Cádiz.</figcaption>\n</figure>\n\n<h2>3 · El regreso del absolutismo</h2>\n\n<p>Derrotado Napoleón, <strong>Fernando VII</strong> volvió en <strong>1814</strong>. En lugar de aceptar la Constitución, la <strong>abolió</strong> y restauró el absolutismo, persiguiendo a los liberales. 'La Pepa' apenas llegó a aplicarse.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"El regreso de Fernando VII y la vuelta al absolutismo en 1814\">\n  <defs>\n    <marker id=\"ar-esg2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"10\" y=\"40\" width=\"120\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"70\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Constitución 1812</text>\n  <text x=\"70\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">liberalismo</text>\n  <path d=\"M130,66 L168,66\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-esg2)\"/>\n  <text x=\"149\" y=\"58\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">1814</text>\n  <rect x=\"172\" y=\"40\" width=\"158\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"251\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Fernando VII</text>\n  <text x=\"251\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">abole la Constitución · absolutismo</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">el liberalismo, frenado</text>\n</svg>\n<figcaption>El regreso del rey cortó de raíz el primer ensayo liberal.</figcaption>\n</figure>\n\n<h2>Lo esencial</h2>\n\n<h3>Cronología</h3>\n\n<table>\n  <tr><th>Fecha</th><th>Acontecimiento</th></tr>\n  <tr><td>1808</td><td>Invasión francesa; 2 de mayo; Bailén</td></tr>\n  <tr><td>1810</td><td>Se reúnen las Cortes de Cádiz</td></tr>\n  <tr><td>1812</td><td>Constitución ('La Pepa')</td></tr>\n  <tr><td>1814</td><td>Fernando VII abole la Constitución</td></tr>\n</table>\n\n<h3>Términos clave</h3>\n\n<table>\n  <tr><th>Término</th><th>Significado</th></tr>\n  <tr><td>Guerrilla</td><td>Lucha de pequeñas partidas</td></tr>\n  <tr><td>Cortes de Cádiz</td><td>Asamblea que hizo la Constitución</td></tr>\n  <tr><td>Soberanía nacional</td><td>El poder reside en la nación</td></tr>\n  <tr><td>Liberalismo</td><td>Ideología de libertades y constitución</td></tr>\n  <tr><td>'La Pepa'</td><td>Apodo de la Constitución de 1812</td></tr>\n</table>\n\n<h3>Personajes</h3>\n\n<table>\n  <tr><th>Nombre</th><th>Papel</th></tr>\n  <tr><td>Napoleón</td><td>Invadió España en 1808</td></tr>\n  <tr><td>José Bonaparte</td><td>Rey impuesto (José I)</td></tr>\n  <tr><td>Goya</td><td>Retrató la guerra y la represión</td></tr>\n  <tr><td>Fernando VII</td><td>Restauró el absolutismo en 1814</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  La Constitución de 1812 <b>apenas se aplicó</b>: Fernando VII la <b>abolió en 1814</b> y volvió al absolutismo. Y no confundas a los <b>liberales</b> (soberanía nacional) con los <b>absolutistas</b> o 'serviles' (poder del rey) de las Cortes.\n</div>\n\n<blockquote>\n  <p>De una guerra de resistencia nació la primera Constitución española. Aunque el absolutismo volvió, la idea de que el poder reside en la nación ya no desaparecería: había comenzado la lucha por el liberalismo en España.</p>\n</blockquote>\n",
+  "questionLang": "es",
+  "answerLang": "es",
+  "version": 1,
+  "level": "Bachillerato",
+  "theme": "Historia de España",
+  "cards": [
+    {
+      "recto": "¿Qué emperador invadió España en 1808?",
+      "verso": "Napoleón Bonaparte",
+      "explanation": "Napoleón invadió España con la excusa de pasar hacia Portugal y colocó a su hermano en el trono, provocando el levantamiento del pueblo.",
+      "tags": [
+        "invasión",
+        "personajes"
+      ],
+      "distractors": {
+        "easy": [
+          "Julio César",
+          "Adolf Hitler",
+          "Carlos V"
+        ],
+        "medium": [
+          "Luis XIV",
+          "Napoleón III",
+          "Otto von Bismarck"
+        ],
+        "hard": [
+          "Murat",
+          "José Bonaparte",
+          "El duque de Wellington"
+        ]
+      }
+    },
+    {
+      "recto": "¿A quién colocó Napoleón como rey de España?",
+      "verso": "A su hermano José Bonaparte (José I)",
+      "explanation": "José Bonaparte, apodado 'Pepe Botella', fue impuesto como rey. El pueblo no lo aceptó y se alzó contra la ocupación francesa.",
+      "tags": [
+        "invasión",
+        "personajes"
+      ],
+      "distractors": {
+        "easy": [
+          "A Fernando VII",
+          "A Carlos IV",
+          "A Felipe II"
+        ],
+        "medium": [
+          "Al duque de Wellington",
+          "Al mariscal Murat",
+          "A Godoy"
+        ],
+        "hard": [
+          "A Luis Bonaparte",
+          "A Jerónimo Bonaparte",
+          "A Napoleón II"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué levantamiento popular en Madrid, en 1808, inició la guerra contra Francia?",
+      "verso": "El levantamiento del 2 de mayo de 1808",
+      "explanation": "El pueblo de Madrid se alzó el 2 de mayo de 1808 contra las tropas francesas. Goya inmortalizó la represión en sus famosos cuadros.",
+      "tags": [
+        "guerra",
+        "fechas"
+      ],
+      "distractors": {
+        "easy": [
+          "La toma de la Bastilla",
+          "El 2 de mayo de 1936",
+          "La Revolución de 1868"
+        ],
+        "medium": [
+          "El motín de Aranjuez",
+          "El levantamiento de 1820",
+          "La Semana Trágica"
+        ],
+        "hard": [
+          "El pronunciamiento de Riego",
+          "La Sanjurjada",
+          "El levantamiento de 1854"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué pintor retrató los fusilamientos del 3 de mayo tras el levantamiento?",
+      "verso": "Francisco de Goya",
+      "explanation": "Goya pintó 'El 2 de mayo' y 'Los fusilamientos del 3 de mayo', obras clave que muestran el horror de la guerra y la represión francesa.",
+      "tags": [
+        "guerra",
+        "cultura"
+      ],
+      "distractors": {
+        "easy": [
+          "Pablo Picasso",
+          "Diego Velázquez",
+          "Salvador Dalí"
+        ],
+        "medium": [
+          "El Greco",
+          "Bartolomé Murillo",
+          "Joaquín Sorolla"
+        ],
+        "hard": [
+          "Francisco de Zurbarán",
+          "José de Ribera",
+          "Mariano Fortuny"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué forma de lucha popular, con pequeñas partidas, dio nombre a un tipo de guerra?",
+      "verso": "La guerrilla",
+      "explanation": "Pequeñas partidas hostigaban al ejército francés sin batallas abiertas. De esta lucha española nació la palabra 'guerrilla'.",
+      "tags": [
+        "guerra",
+        "conceptos"
+      ],
+      "distractors": {
+        "easy": [
+          "La caballería",
+          "El asedio clásico",
+          "La batalla naval"
+        ],
+        "medium": [
+          "La leva",
+          "El sitio",
+          "La escaramuza aislada"
+        ],
+        "hard": [
+          "La guerra de trincheras",
+          "La guerra relámpago",
+          "La guerra de posiciones"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué batalla de 1808 supuso la primera gran derrota de un ejército napoleónico en campo abierto?",
+      "verso": "La batalla de Bailén",
+      "explanation": "En Bailén (1808), el ejército español venció a los franceses, la primera derrota importante de Napoleón en Europa. Tuvo gran repercusión.",
+      "tags": [
+        "guerra",
+        "batallas"
+      ],
+      "distractors": {
+        "easy": [
+          "La batalla de Lepanto",
+          "Las Navas de Tolosa",
+          "La batalla de Trafalgar"
+        ],
+        "medium": [
+          "La batalla de Waterloo",
+          "La batalla de Covadonga",
+          "El sitio de Zaragoza"
+        ],
+        "hard": [
+          "La batalla de Vitoria",
+          "La batalla de Ocaña",
+          "La batalla de los Arapiles"
+        ]
+      }
+    },
+    {
+      "recto": "Mientras duraba la guerra, ¿qué asamblea se reunió para redactar leyes en la ciudad sitiada de Cádiz?",
+      "verso": "Las Cortes de Cádiz",
+      "explanation": "En Cádiz, resistiendo el asedio, se reunieron unas Cortes que redactaron la primera Constitución española y reformas liberales.",
+      "tags": [
+        "cadiz",
+        "instituciones"
+      ],
+      "distractors": {
+        "easy": [
+          "El Senado romano",
+          "La ONU",
+          "El Parlamento inglés"
+        ],
+        "medium": [
+          "Las Cortes de Castilla medievales",
+          "La Asamblea Nacional francesa",
+          "El Congreso de Viena"
+        ],
+        "hard": [
+          "La Junta Central sola",
+          "El Consejo de Regencia solo",
+          "Las Cortes de 1834"
+        ]
+      }
+    },
+    {
+      "recto": "¿En qué año aprobaron las Cortes la primera Constitución española?",
+      "verso": "En 1812",
+      "explanation": "La Constitución de 1812, apodada 'La Pepa' por promulgarse el día de San José, fue la primera de España y un texto liberal pionero.",
+      "tags": [
+        "cadiz",
+        "fechas"
+      ],
+      "distractors": {
+        "easy": [
+          "En 1978",
+          "En 1492",
+          "En 1700"
+        ],
+        "medium": [
+          "En 1808",
+          "En 1814",
+          "En 1837"
+        ],
+        "hard": [
+          "En 1810",
+          "En 1820",
+          "En 1845"
+        ]
+      }
+    },
+    {
+      "recto": "¿Con qué apodo popular se conoce a la Constitución de 1812?",
+      "verso": "'La Pepa'",
+      "explanation": "Se promulgó el 19 de marzo, día de San José, por lo que fue apodada 'La Pepa'. De ahí la expresión '¡Viva la Pepa!'.",
+      "tags": [
+        "cadiz",
+        "conceptos"
+      ],
+      "distractors": {
+        "easy": [
+          "'La Magna'",
+          "'La Cristina'",
+          "'La Isabelina'"
+        ],
+        "medium": [
+          "'La Gaditana'",
+          "'La Liberal'",
+          "'La Josefina'"
+        ],
+        "hard": [
+          "'La Doceañista'",
+          "'La Regencia'",
+          "'La Nacional'"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué principio establecía que el poder reside en la nación, no solo en el rey?",
+      "verso": "La soberanía nacional",
+      "explanation": "La Constitución de 1812 proclamó la soberanía nacional, la división de poderes y derechos individuales: los cimientos del liberalismo español.",
+      "tags": [
+        "cadiz",
+        "ideas"
+      ],
+      "distractors": {
+        "easy": [
+          "El derecho divino de los reyes",
+          "El absolutismo",
+          "La monarquía absoluta"
+        ],
+        "medium": [
+          "El feudalismo",
+          "El despotismo ilustrado",
+          "La teocracia"
+        ],
+        "hard": [
+          "La soberanía compartida solo con el rey",
+          "El sufragio censitario solo",
+          "La soberanía regia"
+        ]
+      }
+    },
+    {
+      "recto": "[Compara] ¿Qué dos grandes grupos se enfrentaban en las Cortes de Cádiz?",
+      "verso": "Los liberales (soberanía nacional, reformas) y los absolutistas o 'serviles' (poder del rey, Antiguo Régimen)",
+      "explanation": "Los liberales defendían la soberanía nacional y las reformas; los absolutistas ('serviles') querían mantener el poder absoluto del rey y el Antiguo Régimen.",
+      "tags": [
+        "comparaison",
+        "cadiz"
+      ],
+      "distractors": {
+        "easy": [
+          "No había ninguna división",
+          "Todos eran absolutistas",
+          "Todos eran republicanos"
+        ],
+        "medium": [
+          "Los franceses y los ingleses",
+          "Los nobles y los reyes solo",
+          "Los comunistas y los fascistas"
+        ],
+        "hard": [
+          "Los carlistas y los isabelinos",
+          "Los moderados y los progresistas (fue después)",
+          "Los girondinos y los jacobinos"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué rey español regresó en 1814 tras la derrota de Napoleón?",
+      "verso": "Fernando VII",
+      "explanation": "Fernando VII, 'el Deseado', volvió en 1814. En lugar de aceptar la Constitución, la abolió y restauró el absolutismo.",
+      "tags": [
+        "consecuencias",
+        "personajes"
+      ],
+      "distractors": {
+        "easy": [
+          "Felipe II",
+          "Carlos I",
+          "Alfonso XIII"
+        ],
+        "medium": [
+          "Carlos IV",
+          "José Bonaparte",
+          "Isabel II"
+        ],
+        "hard": [
+          "Fernando VI",
+          "Carlos III",
+          "Amadeo I"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] ¿Se aplicó plenamente y de forma duradera la Constitución de 1812?",
+      "verso": "No; Fernando VII la abolió en 1814 y restauró el absolutismo",
+      "explanation": "Error frecuente. Pese a su importancia, 'La Pepa' apenas se aplicó: al volver en 1814, Fernando VII la derogó y persiguió a los liberales.",
+      "tags": [
+        "piege",
+        "cadiz"
+      ],
+      "distractors": {
+        "easy": [
+          "Sí, se aplicó sin interrupción hasta hoy",
+          "Sí, y sigue vigente",
+          "Sí, la mantuvo Fernando VII"
+        ],
+        "medium": [
+          "Sí, duró todo el siglo XIX sin cambios",
+          "Sí, Napoleón la respetó",
+          "No, porque nunca llegó a aprobarse"
+        ],
+        "hard": [
+          "Sí, solo se suspendió unos meses",
+          "Sí, fue la única constitución española",
+          "No, porque la sustituyó la de 1837 de inmediato"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué tipo de reformas impulsaron las Cortes de Cádiz frente al Antiguo Régimen?",
+      "verso": "Reformas liberales (libertad de imprenta, fin de señoríos, igualdad ante la ley)",
+      "explanation": "Las Cortes aprobaron reformas liberales que atacaban el Antiguo Régimen: libertad de imprenta, abolición de señoríos y de la Inquisición.",
+      "tags": [
+        "cadiz",
+        "reformas"
+      ],
+      "distractors": {
+        "easy": [
+          "El regreso al feudalismo",
+          "El reforzamiento del absolutismo",
+          "La vuelta a la monarquía absoluta"
+        ],
+        "medium": [
+          "La creación de un imperio",
+          "La restauración de la Inquisición",
+          "El fin de las Cortes"
+        ],
+        "hard": [
+          "El despotismo ilustrado sin cambios",
+          "La sumisión total al rey",
+          "El mantenimiento de los señoríos"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué nombre recibe el orden social y político anterior, basado en el poder absoluto del rey y los privilegios?",
+      "verso": "El Antiguo Régimen",
+      "explanation": "El Antiguo Régimen se basaba en la monarquía absoluta, la sociedad estamental y los privilegios. El liberalismo de Cádiz quería sustituirlo por libertad e igualdad ante la ley.",
+      "tags": [
+        "cadiz",
+        "conceptos"
+      ],
+      "distractors": {
+        "easy": [
+          "La democracia moderna",
+          "La República",
+          "El socialismo"
+        ],
+        "medium": [
+          "El liberalismo",
+          "El parlamentarismo",
+          "El constitucionalismo"
+        ],
+        "hard": [
+          "El despotismo ilustrado solo",
+          "El feudalismo puro medieval",
+          "El Estado de derecho"
+        ]
+      }
+    },
+    {
+      "recto": "En conjunto, ¿por qué son importantes la Guerra de la Independencia y las Cortes de Cádiz?",
+      "verso": "Nace el liberalismo español y la primera constitución, aunque el absolutismo volvió con Fernando VII",
+      "explanation": "La guerra unió al pueblo y las Cortes crearon el primer texto liberal. Aunque Fernando VII restauró el absolutismo, quedó sembrada la semilla del liberalismo.",
+      "tags": [
+        "cadiz",
+        "síntesis"
+      ],
+      "distractors": {
+        "easy": [
+          "No tuvieron ninguna importancia",
+          "Solo sirvieron para coronar a Napoleón",
+          "España dejó de existir"
+        ],
+        "medium": [
+          "Instauraron una república duradera",
+          "Terminaron para siempre con la monarquía",
+          "Convirtieron España en colonia francesa"
+        ],
+        "hard": [
+          "Establecieron el sufragio universal definitivo",
+          "Abolieron la monarquía sin retorno",
+          "Impidieron cualquier absolutismo posterior"
+        ]
+      }
+    }
+  ]
+}

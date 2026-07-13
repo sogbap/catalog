@@ -1,0 +1,432 @@
+{
+  "id": "de-gymnasium-geschichte-franzoesische-revolution",
+  "title": "Die Französische Revolution",
+  "emoji": "🇫🇷",
+  "subject": "history",
+  "country": "de",
+  "courseDescription": "Ursachen, Verlauf und Folgen der Französischen Revolution von 1789 und ihre Bedeutung für Europa.",
+  "lesson": "<style>\n  /* Stile der SVG-Grafiken. Nutzen currentColor (Textfarbe) und var(--accent)\n     (Fachfarbe) und passen sich dem hellen/dunklen Design der App an. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Die Französische Revolution</h1>\n\n<div class=\"callout\">\n  <strong>Überblick</strong><br>\n  <b>Stufe:</b> Gymnasium<br>\n  <b>Thema:</b> Geschichte<br>\n  <b>Zeitraum:</b> 1789 — 1799\n</div>\n\n<blockquote>\n  <p><b>Leitfrage.</b> Wie stürzte die Revolution von 1789 die alte Ordnung und begründete die moderne Zeit?</p>\n</blockquote>\n\n<p>1789 stürmte das Volk die <strong>Bastille</strong> und beendete das <strong>Ancien Régime</strong>. Die <strong>Erklärung der Menschen- und Bürgerrechte</strong> verkündete <strong>Freiheit, Gleichheit, Brüderlichkeit</strong>. Doch auf die Ideale folgten der Sturz des Königs, die <strong>Terrorherrschaft</strong> und schließlich <strong>Napoleon</strong>.</p>\n\n<h2>1 · Das Ancien Régime</h2>\n\n<p>Vor der Revolution herrschte die absolute Monarchie. Die <strong>Ständegesellschaft</strong> teilte die Menschen in <strong>Klerus</strong>, <strong>Adel</strong> und den rechtlosen <strong>Dritten Stand</strong>, der die Steuern trug.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 150\" role=\"img\" aria-label=\"Die Ständegesellschaft des Ancien Régime aus drei Ständen\">\n  <polygon points=\"170,14 250,130 90,130\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <line x1=\"121\" y1=\"60\" x2=\"219\" y2=\"60\" style=\"stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <line x1=\"105\" y1=\"94\" x2=\"235\" y2=\"94\" style=\"stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"170\" y=\"46\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Klerus</text>\n  <text x=\"170\" y=\"82\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Adel</text>\n  <text x=\"170\" y=\"116\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Dritter Stand</text>\n  <text x=\"256\" y=\"120\" style=\"fill:var(--accent)\" font-size=\"8\" font-weight=\"700\" text-anchor=\"start\">98 %</text>\n  <text x=\"256\" y=\"132\" class=\"s-muted\" font-size=\"8\" text-anchor=\"start\">zahlt Steuern</text>\n</svg>\n<figcaption>Wenige oben mit Vorrechten, die große Mehrheit unten ohne Rechte.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Begriff · Ancien Régime</strong><br>\n  Die alte Ordnung aus absoluter Monarchie und Ständegesellschaft. Adel und Klerus hatten Vorrechte, der Dritte Stand trug die Lasten. Die Revolution wollte sie beseitigen.\n</div>\n\n<h2>2 · 1789: Der Ausbruch</h2>\n\n<p>Am <strong>14. Juli 1789</strong> stürmte das Volk die <strong>Bastille</strong>. Die Nationalversammlung verkündete die <strong>Erklärung der Menschen- und Bürgerrechte</strong>: Freiheit, Gleichheit vor dem Gesetz und Volkssouveränität.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"Vom Sturm auf die Bastille zu den Menschen- und Bürgerrechten\">\n  <defs>\n    <marker id=\"ar-defr1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"10\" y=\"40\" width=\"120\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"70\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Sturm auf die Bastille</text>\n  <text x=\"70\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">14. Juli 1789</text>\n  <path d=\"M130,66 L168,66\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-defr1)\"/>\n  <rect x=\"172\" y=\"40\" width=\"158\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"251\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Menschenrechte</text>\n  <text x=\"251\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Freiheit · Gleichheit · Brüderlichkeit</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">der Beginn der Revolution</text>\n</svg>\n<figcaption>Aus dem Aufstand wurden neue, allgemeine Grundrechte.</figcaption>\n</figure>\n\n<h2>3 · Radikalisierung und Napoleon</h2>\n\n<p>1793 wurde König <strong>Ludwig XVI.</strong> hingerichtet, Frankreich wurde Republik. Die <strong>Jakobiner</strong> unter <strong>Robespierre</strong> errichteten die <strong>Terrorherrschaft</strong>. Aus den Wirren ging schließlich <strong>Napoleon</strong> (1799) hervor, der die revolutionären Ideen in Europa verbreitete.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Zeitleiste der Französischen Revolution von 1789 bis 1799\">\n  <line x1=\"26\" y1=\"16\" x2=\"26\" y2=\"186\" style=\"stroke:var(--accent);stroke-opacity:.4;stroke-width:2\"/>\n  <circle cx=\"26\" cy=\"24\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"21\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1789</text>\n  <text x=\"40\" y=\"34\" class=\"s-muted\" font-size=\"10\">Sturm auf die Bastille</text>\n  <circle cx=\"26\" cy=\"70\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"67\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1792</text>\n  <text x=\"40\" y=\"80\" class=\"s-muted\" font-size=\"10\">Ausrufung der Republik</text>\n  <circle cx=\"26\" cy=\"116\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"113\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1793</text>\n  <text x=\"40\" y=\"126\" class=\"s-muted\" font-size=\"10\">Hinrichtung Ludwigs XVI. · Terror</text>\n  <circle cx=\"26\" cy=\"180\" r=\"5\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"177\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1799</text>\n  <text x=\"40\" y=\"190\" class=\"s-muted\" font-size=\"10\">Napoleon ergreift die Macht</text>\n</svg>\n<figcaption>Von der Bastille über den Terror bis zu Napoleon.</figcaption>\n</figure>\n\n<h2>Das Wesentliche</h2>\n\n<h3>Zeitleiste</h3>\n\n<table>\n  <tr><th>Jahr</th><th>Ereignis</th></tr>\n  <tr><td>1789</td><td>Sturm auf die Bastille; Menschenrechte</td></tr>\n  <tr><td>1792</td><td>Ausrufung der Republik</td></tr>\n  <tr><td>1793</td><td>Hinrichtung Ludwigs XVI.; Terror</td></tr>\n  <tr><td>1794</td><td>Sturz Robespierres</td></tr>\n  <tr><td>1799</td><td>Napoleon ergreift die Macht</td></tr>\n</table>\n\n<h3>Schlüsselbegriffe</h3>\n\n<table>\n  <tr><th>Begriff</th><th>Bedeutung</th></tr>\n  <tr><td>Ancien Régime</td><td>Alte Ordnung, Ständegesellschaft</td></tr>\n  <tr><td>Dritter Stand</td><td>Bürger und Bauern, rechtlos</td></tr>\n  <tr><td>Menschenrechte</td><td>Freiheit und Gleichheit für alle</td></tr>\n  <tr><td>Jakobiner</td><td>Radikale Gruppe der Revolution</td></tr>\n  <tr><td>Terrorherrschaft</td><td>Phase der Hinrichtungen (1793-94)</td></tr>\n</table>\n\n<h3>Personen</h3>\n\n<table>\n  <tr><th>Name</th><th>Rolle</th></tr>\n  <tr><td>Ludwig XVI.</td><td>1793 hingerichteter König</td></tr>\n  <tr><td>Robespierre</td><td>Führer der Terrorherrschaft</td></tr>\n  <tr><td>Napoleon Bonaparte</td><td>Ergriff 1799 die Macht</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Vorsicht</strong><br>\n  Die Revolution verwirklichte ihre Ideale <b>nicht</b> sofort und friedlich: Auf Freiheit und Gleichheit folgten Gewalt, Krieg und die <b>Terrorherrschaft</b>. Verwechsle die Ideale nicht mit dem tatsächlichen, widersprüchlichen Verlauf.\n</div>\n\n<blockquote>\n  <p>Die Französische Revolution beendete das Ancien Régime und machte Freiheit, Gleichheit und Volkssouveränität zu Grundlagen der modernen Welt — trotz aller Gewalt, die sie begleitete.</p>\n</blockquote>\n",
+  "questionLang": "de",
+  "answerLang": "de",
+  "version": 1,
+  "level": "Gymnasium",
+  "theme": "Geschichte",
+  "cards": [
+    {
+      "recto": "In welchem Jahr begann die Französische Revolution?",
+      "verso": "1789",
+      "explanation": "1789 begann mit dem Sturm auf die Bastille die Revolution, die das alte System (Ancien Régime) in Frankreich stürzte.",
+      "tags": [
+        "revolution",
+        "daten"
+      ],
+      "distractors": {
+        "easy": [
+          "1914",
+          "1848",
+          "1517"
+        ],
+        "medium": [
+          "1799",
+          "1815",
+          "1776"
+        ],
+        "hard": [
+          "1789 nein, 1792",
+          "1793",
+          "1804"
+        ]
+      }
+    },
+    {
+      "recto": "Wie nennt man die alte Gesellschafts- und Herrschaftsordnung vor der Revolution?",
+      "verso": "Das Ancien Régime",
+      "explanation": "Das Ancien Régime beruhte auf der absoluten Monarchie und einer Ständegesellschaft mit Vorrechten für Adel und Klerus.",
+      "tags": [
+        "revolution",
+        "begriffe"
+      ],
+      "distractors": {
+        "easy": [
+          "Die Demokratie",
+          "Die Republik",
+          "Der Kommunismus"
+        ],
+        "medium": [
+          "Die Aufklärung",
+          "Der Feudalismus allein",
+          "Die Restauration"
+        ],
+        "hard": [
+          "Die konstitutionelle Monarchie",
+          "Der Parlamentarismus",
+          "Die Ständeversammlung allein"
+        ]
+      }
+    },
+    {
+      "recto": "In welche drei Stände war die französische Gesellschaft vor 1789 gegliedert?",
+      "verso": "Klerus, Adel und der Dritte Stand",
+      "explanation": "Der erste Stand war der Klerus, der zweite der Adel. Der Dritte Stand (Bürger, Bauern) war die große Mehrheit, hatte aber kaum Rechte.",
+      "tags": [
+        "revolution",
+        "gesellschaft"
+      ],
+      "distractors": {
+        "easy": [
+          "Arm, mittel und reich",
+          "Nord, Mitte und Süd",
+          "Könige, Ritter und Bauern"
+        ],
+        "medium": [
+          "Bürger, Arbeiter und Bauern",
+          "Adel, Bürger und Sklaven",
+          "Klerus, König und Volk"
+        ],
+        "hard": [
+          "Erster, zweiter und vierter Stand",
+          "Patrizier, Ritter und Plebejer",
+          "Klerus, Adel und Sklaven"
+        ]
+      }
+    },
+    {
+      "recto": "Welcher Stand trug die Steuerlast, obwohl er die große Mehrheit bildete?",
+      "verso": "Der Dritte Stand",
+      "explanation": "Der Dritte Stand (rund 98 % der Bevölkerung) zahlte die Steuern, während Adel und Klerus weitgehend befreit waren. Das schürte den Unmut.",
+      "tags": [
+        "revolution",
+        "gesellschaft"
+      ],
+      "distractors": {
+        "easy": [
+          "Der Adel",
+          "Der Klerus",
+          "Der König"
+        ],
+        "medium": [
+          "Der erste Stand",
+          "Der zweite Stand",
+          "Die Kirche allein"
+        ],
+        "hard": [
+          "Der vierte Stand",
+          "Die Aristokratie",
+          "Der Hochadel"
+        ]
+      }
+    },
+    {
+      "recto": "Welches Ereignis am 14. Juli 1789 gilt als Beginn der Revolution?",
+      "verso": "Der Sturm auf die Bastille",
+      "explanation": "Das Pariser Volk stürmte die Bastille, ein Gefängnis und Symbol der königlichen Willkür. Der 14. Juli ist bis heute französischer Nationalfeiertag.",
+      "tags": [
+        "revolution",
+        "ereignisse"
+      ],
+      "distractors": {
+        "easy": [
+          "Der Mauerfall",
+          "Die Krönung Napoleons",
+          "Der Reichstagsbrand"
+        ],
+        "medium": [
+          "Der Sturm auf die Tuilerien",
+          "Der Ballhausschwur allein",
+          "Die Schlacht bei Waterloo"
+        ],
+        "hard": [
+          "Der Marsch nach Versailles",
+          "Der Sturz Robespierres",
+          "Der Staatsstreich des 18. Brumaire"
+        ]
+      }
+    },
+    {
+      "recto": "Welche berühmte Erklärung von 1789 verkündete Freiheit und Gleichheit aller Menschen?",
+      "verso": "Die Erklärung der Menschen- und Bürgerrechte",
+      "explanation": "Sie erklärte Freiheit, Gleichheit vor dem Gesetz und Volkssouveränität zu Grundrechten. Ein Meilenstein der modernen Menschenrechte.",
+      "tags": [
+        "revolution",
+        "ideen"
+      ],
+      "distractors": {
+        "easy": [
+          "Die Bibel",
+          "Die Magna Carta",
+          "Das Grundgesetz"
+        ],
+        "medium": [
+          "Die Unabhängigkeitserklärung der USA",
+          "Die Weimarer Verfassung",
+          "Der Code Civil"
+        ],
+        "hard": [
+          "Die Erklärung von Pillnitz",
+          "Die Bill of Rights",
+          "Die Verfassung von 1791 allein"
+        ]
+      }
+    },
+    {
+      "recto": "Welche drei Leitbegriffe fassen die Ideale der Revolution zusammen?",
+      "verso": "Freiheit, Gleichheit, Brüderlichkeit",
+      "explanation": "'Liberté, égalité, fraternité' wurde zum Leitspruch der Revolution und ist bis heute der Wahlspruch Frankreichs.",
+      "tags": [
+        "revolution",
+        "ideen"
+      ],
+      "distractors": {
+        "easy": [
+          "Blut, Boden, Ehre",
+          "Glaube, Liebe, Hoffnung",
+          "Gott, König, Vaterland"
+        ],
+        "medium": [
+          "Einigkeit, Recht, Freiheit",
+          "Ordnung, Fortschritt, Nation",
+          "Arbeit, Familie, Vaterland"
+        ],
+        "hard": [
+          "Freiheit, Eigentum, Sicherheit",
+          "Volk, Reich, Führer",
+          "Gleichheit, Frieden, Land"
+        ]
+      }
+    },
+    {
+      "recto": "Was geschah 1793 mit dem französischen König Ludwig XVI.?",
+      "verso": "Er wurde hingerichtet (durch die Guillotine)",
+      "explanation": "Nach dem Sturz der Monarchie wurde Ludwig XVI. wegen Verrats zum Tode verurteilt und 1793 hingerichtet. Frankreich wurde Republik.",
+      "tags": [
+        "revolution",
+        "ereignisse"
+      ],
+      "distractors": {
+        "easy": [
+          "Er gewann die Revolution",
+          "Er floh nach England und regierte",
+          "Er dankte friedlich ab"
+        ],
+        "medium": [
+          "Er wurde lebenslang eingesperrt",
+          "Er blieb absoluter König",
+          "Er wurde Kaiser"
+        ],
+        "hard": [
+          "Er wurde ins Exil geschickt",
+          "Er wurde konstitutioneller König",
+          "Er starb eines natürlichen Todes"
+        ]
+      }
+    },
+    {
+      "recto": "Welche radikale Gruppe beherrschte die Revolution in der Phase des Terrors?",
+      "verso": "Die Jakobiner",
+      "explanation": "Die Jakobiner unter Robespierre errichteten eine radikale Herrschaft. In der 'Terrorherrschaft' wurden viele vermeintliche Feinde hingerichtet.",
+      "tags": [
+        "revolution",
+        "gruppen"
+      ],
+      "distractors": {
+        "easy": [
+          "Die Nationalsozialisten",
+          "Die Kommunisten",
+          "Die Ritter"
+        ],
+        "medium": [
+          "Die Girondisten",
+          "Die Royalisten",
+          "Die Bolschewiki"
+        ],
+        "hard": [
+          "Die Sansculotten allein",
+          "Die Feuillants",
+          "Der Direktoriumsrat"
+        ]
+      }
+    },
+    {
+      "recto": "Wer war der führende Kopf der Jakobiner in der Terrorherrschaft?",
+      "verso": "Maximilien de Robespierre",
+      "explanation": "Robespierre leitete den Wohlfahrtsausschuss und die Terrorherrschaft. 1794 wurde er selbst gestürzt und hingerichtet.",
+      "tags": [
+        "revolution",
+        "personen"
+      ],
+      "distractors": {
+        "easy": [
+          "Napoleon Bonaparte",
+          "Ludwig XVI.",
+          "Otto von Bismarck"
+        ],
+        "medium": [
+          "Georges Danton",
+          "Jean-Paul Marat",
+          "Lafayette"
+        ],
+        "hard": [
+          "Saint-Just",
+          "Jacques Necker",
+          "Mirabeau"
+        ]
+      }
+    },
+    {
+      "recto": "Wie heißt die Phase, in der die Jakobiner viele Menschen hinrichten ließen?",
+      "verso": "Die Terrorherrschaft (la Terreur)",
+      "explanation": "In der Terrorherrschaft (1793-94) wurden Tausende als 'Feinde der Revolution' guillotiniert. Die Revolution wandte sich gegen ihre eigenen Ideale.",
+      "tags": [
+        "revolution",
+        "begriffe"
+      ],
+      "distractors": {
+        "easy": [
+          "Die Aufklärung",
+          "Der Wiener Kongress",
+          "Die Restauration"
+        ],
+        "medium": [
+          "Das Direktorium",
+          "Die Julimonarchie",
+          "Die Restaurationszeit"
+        ],
+        "hard": [
+          "Der Thermidor allein",
+          "Die Konsulatszeit",
+          "Die Kontinentalsperre"
+        ]
+      }
+    },
+    {
+      "recto": "[Vergleich] Wie veränderte die Revolution die Stellung der Menschen im Vergleich zum Ancien Régime?",
+      "verso": "Vorher: Ständegesellschaft mit Vorrechten; nachher: Gleichheit vor dem Gesetz und Bürgerrechte",
+      "explanation": "Im Ancien Régime bestimmte der Stand die Rechte. Die Revolution verkündete die Gleichheit aller Bürger vor dem Gesetz — ein Bruch mit der alten Ordnung.",
+      "tags": [
+        "comparaison",
+        "gesellschaft"
+      ],
+      "distractors": {
+        "easy": [
+          "Es änderte sich gar nichts",
+          "Vorher Gleichheit, nachher Stände",
+          "Beide Male herrschte Sklaverei"
+        ],
+        "medium": [
+          "Vorher Bürgerrechte, nachher Vorrechte",
+          "Beide beruhten auf Ständen",
+          "Die Adligen bekamen mehr Rechte"
+        ],
+        "hard": [
+          "Vorher Volkssouveränität, nachher Absolutismus",
+          "Beide Male galt das Grundgesetz",
+          "Der Klerus verlor keine Vorrechte"
+        ]
+      }
+    },
+    {
+      "recto": "[Vorsicht] Verwirklichte die Revolution ihre Ideale von Freiheit und Gleichheit sofort und friedlich?",
+      "verso": "Nein; auf die Ideale folgten auch Gewalt, Krieg und die Terrorherrschaft",
+      "explanation": "Häufiger Irrtum. Trotz der Ideale kam es zu Terror, Hinrichtungen und Kriegen. Die Revolution war ein widersprüchlicher, gewaltsamer Prozess.",
+      "tags": [
+        "piege",
+        "revolution"
+      ],
+      "distractors": {
+        "easy": [
+          "Ja, alles verlief völlig friedlich",
+          "Ja, sofort und ohne Gewalt",
+          "Ja, ganz ohne Krieg"
+        ],
+        "medium": [
+          "Ja, es gab keinerlei Terror",
+          "Ja, alle wurden sofort gleich behandelt",
+          "Nein, weil es keine Ideale gab"
+        ],
+        "hard": [
+          "Ja, Robespierre sicherte den Frieden",
+          "Ja, die Guillotine wurde nie benutzt",
+          "Nein, weil die Monarchie bestehen blieb"
+        ]
+      }
+    },
+    {
+      "recto": "Wer übernahm nach den Wirren der Revolution 1799 die Macht in Frankreich?",
+      "verso": "Napoleon Bonaparte",
+      "explanation": "Der General Napoleon ergriff 1799 die Macht und wurde später Kaiser. Er verbreitete zugleich revolutionäre Ideen in ganz Europa.",
+      "tags": [
+        "revolution",
+        "personen"
+      ],
+      "distractors": {
+        "easy": [
+          "Ludwig XVI.",
+          "Adolf Hitler",
+          "Otto von Bismarck"
+        ],
+        "medium": [
+          "Robespierre",
+          "Lafayette",
+          "Ludwig XVIII."
+        ],
+        "hard": [
+          "Talleyrand",
+          "Danton",
+          "General Moreau"
+        ]
+      }
+    },
+    {
+      "recto": "Warum war die Französische Revolution auch für Deutschland bedeutsam?",
+      "verso": "Sie verbreitete Ideen von Freiheit, Gleichheit und Nation, die auch die deutsche Geschichte prägten",
+      "explanation": "Napoleons Feldzüge und die revolutionären Ideen trugen Bürgerrechte, Reformen und den Nationalgedanken nach Deutschland — Wurzeln späterer Bewegungen.",
+      "tags": [
+        "revolution",
+        "folgen"
+      ],
+      "distractors": {
+        "easy": [
+          "Sie hatte für Deutschland keine Bedeutung",
+          "Sie betraf nur Frankreich",
+          "Sie machte Deutschland zur Kolonie"
+        ],
+        "medium": [
+          "Sie führte sofort zur deutschen Einheit",
+          "Sie schaffte alle deutschen Staaten ab",
+          "Sie hatte nur wirtschaftliche Folgen"
+        ],
+        "hard": [
+          "Sie stärkte den Absolutismus in Deutschland",
+          "Sie beendete jede Reform",
+          "Sie verhinderte den Nationalgedanken"
+        ]
+      }
+    },
+    {
+      "recto": "Insgesamt: Warum gilt die Französische Revolution als Beginn der modernen Zeit?",
+      "verso": "Sie beendete das Ancien Régime und begründete Bürgerrechte, Volkssouveränität und die moderne Nation",
+      "explanation": "Die Revolution stürzte die alte Ordnung und machte Ideen wie Gleichheit, Menschenrechte und Volkssouveränität zu Grundlagen der modernen Welt.",
+      "tags": [
+        "revolution",
+        "synthese"
+      ],
+      "distractors": {
+        "easy": [
+          "Sie änderte nichts an der Welt",
+          "Sie stärkte das Ancien Régime",
+          "Sie machte den König mächtiger"
+        ],
+        "medium": [
+          "Sie schaffte alle Rechte ab",
+          "Sie führte zurück zum Feudalismus",
+          "Sie betraf nur die Kirche"
+        ],
+        "hard": [
+          "Sie beseitigte die Volkssouveränität",
+          "Sie bestätigte den Absolutismus dauerhaft",
+          "Sie hatte keine Folgen für Europa"
+        ]
+      }
+    }
+  ]
+}

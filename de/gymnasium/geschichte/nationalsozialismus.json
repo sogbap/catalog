@@ -1,0 +1,432 @@
+{
+  "id": "de-gymnasium-geschichte-nationalsozialismus",
+  "title": "Nationalsozialismus und Zweiter Weltkrieg",
+  "emoji": "🕯️",
+  "subject": "history",
+  "country": "de",
+  "courseDescription": "Aufstieg und Herrschaft des NS-Regimes, Verfolgung und Holocaust sowie der Zweite Weltkrieg bis 1945.",
+  "lesson": "<style>\n  /* Stile der SVG-Grafiken. Nutzen currentColor (Textfarbe) und var(--accent)\n     (Fachfarbe) und passen sich dem hellen/dunklen Design der App an. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Nationalsozialismus und Zweiter Weltkrieg</h1>\n\n<div class=\"callout\">\n  <strong>Überblick</strong><br>\n  <b>Stufe:</b> Gymnasium<br>\n  <b>Thema:</b> Geschichte<br>\n  <b>Zeitraum:</b> 1933 — 1945\n</div>\n\n<blockquote>\n  <p><b>Leitfrage.</b> Wie konnte aus einer Demokratie eine mörderische Diktatur werden — und was folgte daraus?</p>\n</blockquote>\n\n<p>1933 wurde <strong>Hitler</strong> auf legalem Weg Kanzler und errichtete durch <strong>Ermächtigungsgesetz</strong> und <strong>Gleichschaltung</strong> eine <strong>Diktatur</strong>. Ihre rassistische Ideologie führte zur Verfolgung und zum <strong>Holocaust</strong>. Der <strong>Zweite Weltkrieg</strong> (1939-1945) endete mit Deutschlands Niederlage.</p>\n\n<h2>1 · Von der Demokratie zur Diktatur</h2>\n\n<p>Hitler wurde <strong>1933 legal ernannt</strong> — nicht durch einen Putsch. Danach zerstörte das Regime die Demokratie: Das <strong>Ermächtigungsgesetz</strong> entmachtete das Parlament, die <strong>Gleichschaltung</strong> brachte alle Bereiche unter Kontrolle.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"Der Weg von der Ernennung Hitlers zur Diktatur\">\n  <defs>\n    <marker id=\"ar-dens1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"40\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">1933 ernannt</text>\n  <text x=\"54\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">legal, kein Putsch</text>\n  <path d=\"M100,66 L118,66\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-dens1)\"/>\n  <rect x=\"122\" y=\"40\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8\" font-weight=\"700\">Ermächtigungsgesetz</text>\n  <text x=\"170\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Parlament entmachtet</text>\n  <path d=\"M218,66 L236,66\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-dens1)\"/>\n  <rect x=\"240\" y=\"40\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">Diktatur</text>\n  <text x=\"286\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Gleichschaltung</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">die Demokratie wird zerstört</text>\n</svg>\n<figcaption>Schritt für Schritt wurde aus der Republik eine Diktatur.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Begriff · Gleichschaltung</strong><br>\n  Die erzwungene Anpassung von Parteien, Vereinen, Presse und Verwaltung an die NS-Ideologie. Widerspruch wurde verboten und verfolgt; die Gesellschaft wurde 'gleichgeschaltet'.\n</div>\n\n<h2>2 · Ideologie, Verfolgung und Holocaust</h2>\n\n<p>Der Nationalsozialismus beruhte auf <strong>Rassismus</strong> und <strong>Antisemitismus</strong>. Die <strong>Nürnberger Gesetze</strong> (1935) entrechteten Juden; die <strong>Reichspogromnacht</strong> (1938) brachte offene Gewalt. Es folgte der <strong>Holocaust</strong>: der systematische Mord an rund <strong>sechs Millionen</strong> Jüdinnen und Juden.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Stufen der Verfolgung: Entrechtung, Pogrom, Holocaust\">\n  <line x1=\"26\" y1=\"16\" x2=\"26\" y2=\"116\" style=\"stroke:var(--accent);stroke-opacity:.4;stroke-width:2\"/>\n  <circle cx=\"26\" cy=\"26\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"23\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">1935</text>\n  <text x=\"40\" y=\"36\" class=\"s-muted\" font-size=\"9.5\">Nürnberger Gesetze (Entrechtung)</text>\n  <circle cx=\"26\" cy=\"66\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"63\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">1938</text>\n  <text x=\"40\" y=\"76\" class=\"s-muted\" font-size=\"9.5\">Reichspogromnacht (offene Gewalt)</text>\n  <circle cx=\"26\" cy=\"108\" r=\"5\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"105\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">ab 1941</text>\n  <text x=\"40\" y=\"118\" class=\"s-muted\" font-size=\"9.5\">Holocaust (systematischer Mord)</text>\n</svg>\n<figcaption>Aus Ausgrenzung wurde Entrechtung, dann Gewalt, dann Massenmord.</figcaption>\n</figure>\n\n<h2>3 · Der Zweite Weltkrieg</h2>\n\n<p>Mit dem <strong>Überfall auf Polen</strong> begann 1939 der <strong>Zweite Weltkrieg</strong>. 1941 folgte der Vernichtungskrieg gegen die <strong>Sowjetunion</strong>. Trotz des Terrors gab es <strong>Widerstand</strong> (etwa die Weiße Rose). 1945 endete der Krieg mit der <strong>bedingungslosen Kapitulation</strong> Deutschlands.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"Der Verlauf des Zweiten Weltkriegs von 1939 bis 1945\">\n  <defs>\n    <marker id=\"ar-dens2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">1939 Polen</text>\n  <text x=\"54\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Kriegsbeginn</text>\n  <path d=\"M100,68 L118,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-dens2)\"/>\n  <rect x=\"122\" y=\"42\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">1941 UdSSR</text>\n  <text x=\"170\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Vernichtungskrieg</text>\n  <path d=\"M218,68 L236,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-dens2)\"/>\n  <rect x=\"240\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">1945</text>\n  <text x=\"286\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Kapitulation</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">der Zweite Weltkrieg</text>\n</svg>\n<figcaption>Vom Überfall auf Polen bis zur Kapitulation 1945.</figcaption>\n</figure>\n\n<h2>Das Wesentliche</h2>\n\n<h3>Zeitleiste</h3>\n\n<table>\n  <tr><th>Jahr</th><th>Ereignis</th></tr>\n  <tr><td>1933</td><td>Hitler Kanzler; Ermächtigungsgesetz</td></tr>\n  <tr><td>1935</td><td>Nürnberger Gesetze</td></tr>\n  <tr><td>1938</td><td>Reichspogromnacht</td></tr>\n  <tr><td>1939</td><td>Überfall auf Polen; Kriegsbeginn</td></tr>\n  <tr><td>1945</td><td>Kapitulation; Kriegsende</td></tr>\n</table>\n\n<h3>Schlüsselbegriffe</h3>\n\n<table>\n  <tr><th>Begriff</th><th>Bedeutung</th></tr>\n  <tr><td>Ermächtigungsgesetz</td><td>Entmachtete das Parlament (1933)</td></tr>\n  <tr><td>Gleichschaltung</td><td>Erzwungene Anpassung an die NS-Ideologie</td></tr>\n  <tr><td>Nürnberger Gesetze</td><td>Entrechtung der Juden (1935)</td></tr>\n  <tr><td>Holocaust (Shoah)</td><td>Systematischer Mord an den Juden</td></tr>\n  <tr><td>Widerstand</td><td>Auflehnung gegen das Regime</td></tr>\n</table>\n\n<h3>Eckdaten</h3>\n\n<table>\n  <tr><th>Ereignis</th><th>Zeit</th></tr>\n  <tr><td>NS-Diktatur</td><td>1933-1945</td></tr>\n  <tr><td>Zweiter Weltkrieg</td><td>1939-1945</td></tr>\n  <tr><td>Opfer des Holocaust</td><td>etwa 6 Millionen Juden</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Vorsicht</strong><br>\n  Hitler kam 1933 <b>nicht durch einen Putsch</b>, sondern auf legalem Weg an die Macht — die Diktatur wurde erst danach errichtet. Und der Holocaust war <b>kein Zufall</b>, sondern staatlich organisierter, systematischer Massenmord.\n</div>\n\n<blockquote>\n  <p>Die NS-Herrschaft führte zu Krieg und Völkermord in beispiellosem Ausmaß. Die Erinnerung daran ist bis heute eine Verpflichtung: Demokratie, Menschenrechte und den Schutz von Minderheiten zu verteidigen.</p>\n</blockquote>\n",
+  "questionLang": "de",
+  "answerLang": "de",
+  "version": 1,
+  "level": "Gymnasium",
+  "theme": "Geschichte",
+  "cards": [
+    {
+      "recto": "Wer wurde 1933 zum Reichskanzler ernannt und errichtete eine Diktatur?",
+      "verso": "Adolf Hitler",
+      "explanation": "Am 30. Januar 1933 wurde Hitler Reichskanzler. In wenigen Monaten schaltete das NS-Regime die Demokratie aus und errichtete eine Diktatur.",
+      "tags": [
+        "ns",
+        "personen"
+      ],
+      "distractors": {
+        "easy": [
+          "Otto von Bismarck",
+          "Konrad Adenauer",
+          "Wilhelm II."
+        ],
+        "medium": [
+          "Paul von Hindenburg",
+          "Friedrich Ebert",
+          "Gustav Stresemann"
+        ],
+        "hard": [
+          "Heinrich Brüning",
+          "Franz von Papen",
+          "Kurt von Schleicher"
+        ]
+      }
+    },
+    {
+      "recto": "[Vorsicht] Kam Hitler 1933 durch einen gewaltsamen Putsch an die Macht?",
+      "verso": "Nein; er wurde legal zum Reichskanzler ernannt und baute erst dann die Diktatur auf",
+      "explanation": "Häufiger Irrtum. 1933 wurde Hitler auf legalem Weg ernannt (nicht durch Putsch wie 1923). Erst danach zerstörte das Regime Schritt für Schritt die Demokratie.",
+      "tags": [
+        "piege",
+        "ns"
+      ],
+      "distractors": {
+        "easy": [
+          "Ja, durch einen bewaffneten Putsch",
+          "Ja, er stürmte den Reichstag",
+          "Ja, mit einem Militärstaatsstreich"
+        ],
+        "medium": [
+          "Ja, wie beim Hitlerputsch 1923",
+          "Ja, gegen den Willen aller",
+          "Nein, er wurde direkt gewählt zum Präsidenten"
+        ],
+        "hard": [
+          "Ja, durch einen Aufstand der SA allein",
+          "Ja, durch Absetzung Hindenburgs",
+          "Nein, weil es keine Machtübernahme gab"
+        ]
+      }
+    },
+    {
+      "recto": "Welches Gesetz von 1933 gab der Regierung Hitler die Macht, ohne Parlament Gesetze zu erlassen?",
+      "verso": "Das Ermächtigungsgesetz",
+      "explanation": "Das Ermächtigungsgesetz hebelte das Parlament aus und erlaubte der Regierung, Gesetze allein zu beschließen. Es war ein entscheidender Schritt zur Diktatur.",
+      "tags": [
+        "ns",
+        "diktatur"
+      ],
+      "distractors": {
+        "easy": [
+          "Das Grundgesetz",
+          "Die Magna Carta",
+          "Der Versailler Vertrag"
+        ],
+        "medium": [
+          "Der Artikel 48",
+          "Die Weimarer Verfassung",
+          "Die Nürnberger Gesetze"
+        ],
+        "hard": [
+          "Das Reichskonkordat",
+          "Das Reichstagsbrandgesetz allein",
+          "Das Reichsbürgergesetz"
+        ]
+      }
+    },
+    {
+      "recto": "Wie nennt man die erzwungene Anpassung aller Bereiche der Gesellschaft an die NS-Ideologie?",
+      "verso": "Die Gleichschaltung",
+      "explanation": "Durch die 'Gleichschaltung' brachte das Regime Parteien, Vereine, Presse und Verwaltung unter seine Kontrolle. Widerspruch wurde unterdrückt.",
+      "tags": [
+        "ns",
+        "diktatur"
+      ],
+      "distractors": {
+        "easy": [
+          "Die Demokratisierung",
+          "Die Aufklärung",
+          "Die Wiedervereinigung"
+        ],
+        "medium": [
+          "Die Föderalisierung",
+          "Die Liberalisierung",
+          "Die Sozialisierung"
+        ],
+        "hard": [
+          "Die Entnazifizierung",
+          "Die Mobilmachung",
+          "Die Kollektivierung"
+        ]
+      }
+    },
+    {
+      "recto": "Auf welcher menschenverachtenden Ideologie beruhte der Nationalsozialismus?",
+      "verso": "Auf Rassismus und Antisemitismus (Ideologie der 'Rassen')",
+      "explanation": "Die NS-Ideologie behauptete eine angebliche Überlegenheit der 'arischen Rasse' und hetzte gegen Juden und andere Gruppen — Grundlage für Verfolgung und Mord.",
+      "tags": [
+        "ns",
+        "ideologie"
+      ],
+      "distractors": {
+        "easy": [
+          "Auf Gleichheit aller Menschen",
+          "Auf Toleranz und Vielfalt",
+          "Auf den Menschenrechten"
+        ],
+        "medium": [
+          "Auf dem Liberalismus",
+          "Auf dem Pazifismus",
+          "Auf der Demokratie"
+        ],
+        "hard": [
+          "Auf dem Marxismus",
+          "Auf dem Humanismus",
+          "Auf dem Föderalismus"
+        ]
+      }
+    },
+    {
+      "recto": "Welche Gesetze von 1935 entrechteten die jüdische Bevölkerung?",
+      "verso": "Die Nürnberger Gesetze",
+      "explanation": "Die Nürnberger Gesetze (1935) nahmen Jüdinnen und Juden die Bürgerrechte und verboten Ehen mit Nichtjuden — ein Schritt der systematischen Ausgrenzung.",
+      "tags": [
+        "ns",
+        "verfolgung"
+      ],
+      "distractors": {
+        "easy": [
+          "Die Menschenrechtserklärung",
+          "Das Grundgesetz",
+          "Die Genfer Konvention"
+        ],
+        "medium": [
+          "Der Versailler Vertrag",
+          "Das Ermächtigungsgesetz",
+          "Die Weimarer Verfassung"
+        ],
+        "hard": [
+          "Das Reichskonkordat",
+          "Die Wannsee-Protokolle",
+          "Das Autobahngesetz"
+        ]
+      }
+    },
+    {
+      "recto": "Welches Pogrom gegen Juden fand im November 1938 statt?",
+      "verso": "Die Reichspogromnacht (Novemberpogrome 1938)",
+      "explanation": "In der Nacht vom 9. auf den 10. November 1938 wurden Synagogen und jüdische Geschäfte zerstört, Menschen misshandelt und verschleppt — offene, staatlich gelenkte Gewalt.",
+      "tags": [
+        "ns",
+        "verfolgung"
+      ],
+      "distractors": {
+        "easy": [
+          "Der Karneval",
+          "Das Oktoberfest",
+          "Der Mauerfall"
+        ],
+        "medium": [
+          "Der Bücherverbrennungstag",
+          "Die Machtergreifung",
+          "Der Anschluss"
+        ],
+        "hard": [
+          "Die Wannsee-Konferenz",
+          "Der Röhm-Putsch",
+          "Die Bartholomäusnacht"
+        ]
+      }
+    },
+    {
+      "recto": "Wie nennt man den systematischen Massenmord an den europäischen Juden?",
+      "verso": "Der Holocaust (die Shoah)",
+      "explanation": "Das NS-Regime ermordete etwa sechs Millionen Jüdinnen und Juden systematisch, vor allem in Vernichtungslagern. Der Holocaust ist ein beispielloses Menschheitsverbrechen.",
+      "tags": [
+        "ns",
+        "holocaust"
+      ],
+      "distractors": {
+        "easy": [
+          "Die Völkerwanderung",
+          "Die Reformation",
+          "Die Aufklärung"
+        ],
+        "medium": [
+          "Der Bürgerkrieg",
+          "Die Vertreibung allein",
+          "Die Hungersnot"
+        ],
+        "hard": [
+          "Der Porajmos allein",
+          "Die Kollektivierung",
+          "Die Deportation ohne Mord"
+        ]
+      }
+    },
+    {
+      "recto": "Etwa wie viele Jüdinnen und Juden wurden im Holocaust ermordet?",
+      "verso": "Etwa sechs Millionen",
+      "explanation": "Rund sechs Millionen Jüdinnen und Juden wurden ermordet, dazu Millionen weiterer Opfer (Sinti und Roma, politische Gegner, Menschen mit Behinderung u. a.).",
+      "tags": [
+        "ns",
+        "holocaust"
+      ],
+      "distractors": {
+        "easy": [
+          "Etwa hundert",
+          "Etwa tausend",
+          "Niemand"
+        ],
+        "medium": [
+          "Etwa zehntausend",
+          "Etwa hunderttausend",
+          "Etwa fünfzig Millionen"
+        ],
+        "hard": [
+          "Etwa eine Million",
+          "Etwa drei Millionen",
+          "Etwa zwölf Millionen Juden allein"
+        ]
+      }
+    },
+    {
+      "recto": "Mit welchem Überfall begann 1939 der Zweite Weltkrieg in Europa?",
+      "verso": "Mit dem deutschen Überfall auf Polen",
+      "explanation": "Am 1. September 1939 überfiel Deutschland Polen. Daraufhin erklärten Großbritannien und Frankreich Deutschland den Krieg — der Zweite Weltkrieg begann.",
+      "tags": [
+        "ns",
+        "krieg"
+      ],
+      "distractors": {
+        "easy": [
+          "Mit dem Angriff auf England",
+          "Mit dem Überfall auf die USA",
+          "Mit dem Angriff auf Frankreich zuerst"
+        ],
+        "medium": [
+          "Mit dem Anschluss Österreichs",
+          "Mit dem Überfall auf die Sowjetunion",
+          "Mit dem Angriff auf die Tschechoslowakei"
+        ],
+        "hard": [
+          "Mit dem Angriff auf Pearl Harbor",
+          "Mit der Besetzung des Rheinlands",
+          "Mit dem Einmarsch in Belgien"
+        ]
+      }
+    },
+    {
+      "recto": "In welchen Jahren dauerte der Zweite Weltkrieg?",
+      "verso": "1939 bis 1945",
+      "explanation": "Der Zweite Weltkrieg (1939-1945) war der verheerendste Krieg der Geschichte mit über 50 Millionen Toten. Er endete 1945 mit der Niederlage Deutschlands.",
+      "tags": [
+        "ns",
+        "daten"
+      ],
+      "distractors": {
+        "easy": [
+          "1914 bis 1918",
+          "1870 bis 1871",
+          "1989 bis 1990"
+        ],
+        "medium": [
+          "1933 bis 1945",
+          "1938 bis 1944",
+          "1940 bis 1946"
+        ],
+        "hard": [
+          "1939 bis 1944",
+          "1941 bis 1945",
+          "1937 bis 1945"
+        ]
+      }
+    },
+    {
+      "recto": "Gegen welches Land begann Deutschland 1941 einen verheerenden Vernichtungsfeldzug im Osten?",
+      "verso": "Gegen die Sowjetunion",
+      "explanation": "1941 überfiel Deutschland die Sowjetunion. Der Feldzug im Osten wurde als rassistischer Vernichtungskrieg geführt und kostete Millionen Menschen das Leben.",
+      "tags": [
+        "ns",
+        "krieg"
+      ],
+      "distractors": {
+        "easy": [
+          "Gegen die Schweiz",
+          "Gegen Schweden",
+          "Gegen Portugal"
+        ],
+        "medium": [
+          "Gegen die USA zuerst",
+          "Gegen Großbritannien allein",
+          "Gegen Italien"
+        ],
+        "hard": [
+          "Gegen die Türkei",
+          "Gegen Spanien",
+          "Gegen Japan"
+        ]
+      }
+    },
+    {
+      "recto": "[Vergleich] Wie unterschied sich die NS-Diktatur von der Weimarer Demokratie?",
+      "verso": "Weimar: Demokratie mit Wahlen und Rechten; NS: Diktatur ohne Wahlen, mit Verfolgung und Gewalt",
+      "explanation": "Die Weimarer Republik war eine Demokratie mit freien Wahlen und Grundrechten. Das NS-Regime schaffte Wahlen und Rechte ab und verfolgte Andersdenkende und ganze Bevölkerungsgruppen.",
+      "tags": [
+        "comparaison",
+        "ns"
+      ],
+      "distractors": {
+        "easy": [
+          "Es gab keinen Unterschied",
+          "Beide waren Demokratien",
+          "Beide waren Diktaturen"
+        ],
+        "medium": [
+          "Weimar war die Diktatur, NS die Demokratie",
+          "Beide hatten freie Wahlen",
+          "Beide schützten die Menschenrechte"
+        ],
+        "hard": [
+          "Weimar verfolgte Minderheiten, NS nicht",
+          "Beide kannten keine Parteien",
+          "NS hatte mehr Grundrechte als Weimar"
+        ]
+      }
+    },
+    {
+      "recto": "Gab es im NS-Staat Menschen, die sich dem Regime widersetzten?",
+      "verso": "Ja; es gab Widerstand, etwa die Weiße Rose oder das Attentat vom 20. Juli 1944",
+      "explanation": "Trotz Terror gab es Widerstand: Studierende der Weißen Rose, Kirchenvertreter, Arbeiter und Offiziere um Stauffenberg (Attentat vom 20. Juli 1944).",
+      "tags": [
+        "ns",
+        "widerstand"
+      ],
+      "distractors": {
+        "easy": [
+          "Nein, niemand leistete je Widerstand",
+          "Nein, alle stimmten zu",
+          "Nein, Widerstand war unmöglich"
+        ],
+        "medium": [
+          "Nein, nur das Ausland half",
+          "Nein, es gab keine Gegner",
+          "Nein, Widerstand kam erst nach 1945"
+        ],
+        "hard": [
+          "Nein, nur die Alliierten kämpften",
+          "Nein, die Weiße Rose unterstützte Hitler",
+          "Nein, das Attentat gab es nicht"
+        ]
+      }
+    },
+    {
+      "recto": "Wie endete der Zweite Weltkrieg in Europa 1945?",
+      "verso": "Mit der bedingungslosen Kapitulation Deutschlands",
+      "explanation": "1945 kapitulierte das nationalsozialistische Deutschland bedingungslos. Der Krieg und die NS-Herrschaft hinterließen ein zerstörtes, geteiltes Land.",
+      "tags": [
+        "ns",
+        "ende"
+      ],
+      "distractors": {
+        "easy": [
+          "Mit einem deutschen Sieg",
+          "Mit der Eroberung Moskaus",
+          "Ohne Folgen für Deutschland"
+        ],
+        "medium": [
+          "Mit einem Friedensvertrag ohne Verlierer",
+          "Mit einem Waffenstillstand wie 1918",
+          "Mit einem Sieg über die Alliierten"
+        ],
+        "hard": [
+          "Mit einem Teilfrieden im Westen",
+          "Mit der Fortsetzung bis 1947",
+          "Mit einem Unentschieden"
+        ]
+      }
+    },
+    {
+      "recto": "Insgesamt: Warum ist die Erinnerung an den Nationalsozialismus bis heute so wichtig?",
+      "verso": "Damit sich Diktatur, Rassismus und der Völkermord des Holocaust nie wiederholen",
+      "explanation": "Die Verbrechen des NS-Regimes mahnen, Demokratie, Menschenrechte und den Schutz von Minderheiten zu verteidigen. Erinnerung ist Grundlage einer wachsamen Gesellschaft.",
+      "tags": [
+        "ns",
+        "synthese"
+      ],
+      "distractors": {
+        "easy": [
+          "Weil es unwichtig ist",
+          "Damit man es vergisst",
+          "Weil es keine Folgen hatte"
+        ],
+        "medium": [
+          "Nur wegen der Wirtschaft",
+          "Nur für Historiker interessant",
+          "Weil es nur Deutschland betraf"
+        ],
+        "hard": [
+          "Damit man die Diktatur bewundert",
+          "Um Versailles zu rechtfertigen",
+          "Weil es kein Unrecht war"
+        ]
+      }
+    }
+  ]
+}

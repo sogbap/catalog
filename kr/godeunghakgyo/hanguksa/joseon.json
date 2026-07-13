@@ -1,0 +1,432 @@
+{
+  "id": "kr-godeunghakgyo-hanguksa-joseon",
+  "title": "조선의 건국과 통치 체제",
+  "emoji": "👑",
+  "subject": "history",
+  "country": "kr",
+  "courseDescription": "이성계의 조선 건국과 성리학 통치 이념, 세종의 문화 발전, 그리고 조선의 통치 체제와 신분제를 살펴본다.",
+  "lesson": "<style>\n  /* SVG 그림 스타일. currentColor(글자색)와 var(--accent)(과목 색)를 사용해\n     앱의 밝은/어두운 테마에 맞춰 표시된다. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Apple SD Gothic Neo\", \"Noto Sans KR\", \"Malgun Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>조선의 건국과 통치 체제</h1>\n\n<div class=\"callout\">\n  <strong>학습 포인트</strong><br>\n  <b>수준:</b> 고등학교<br>\n  <b>주제:</b> 한국사<br>\n  <b>시기:</b> 1392년 ~ 15세기\n</div>\n\n<blockquote>\n  <p><b>핵심 질문.</b> 조선은 어떤 이념 위에 세워졌고, 어떻게 통치 체제를 정비하며 민족 문화를 발전시켰을까?</p>\n</blockquote>\n\n<p><strong>이성계</strong>가 세운 조선은 <strong>성리학</strong>을 통치 이념으로 삼고 <strong>한양</strong>에 도읍하였다. <strong>세종</strong>은 <strong>훈민정음</strong>과 과학을 발전시켰고, <strong>성종</strong> 때 <strong>경국대전</strong>으로 통치 체제가 완성되었다. 조선은 <strong>양반</strong> 중심의 신분제 사회였다.</p>\n\n<h2>1 · 조선의 건국과 이념</h2>\n\n<p><strong>이성계</strong>는 <strong>위화도 회군</strong>으로 권력을 잡고 1392년 조선을 세웠다. 조선은 불교를 억누르고 <strong>성리학</strong>을 통치 이념으로 삼았으며, 도읍을 <strong>한양</strong>으로 옮겼다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"위화도 회군에서 조선 건국, 한양 천도로 이어지는 과정\">\n  <defs>\n    <marker id=\"ar-krj1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">위화도 회군</text>\n  <text x=\"54\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">1388</text>\n  <path d=\"M100,68 L118,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-krj1)\"/>\n  <rect x=\"122\" y=\"42\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">조선 건국</text>\n  <text x=\"170\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">1392 · 이성계</text>\n  <path d=\"M218,68 L236,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-krj1)\"/>\n  <rect x=\"240\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">한양 천도</text>\n  <text x=\"286\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">성리학 통치</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">새 왕조의 탄생</text>\n</svg>\n<figcaption>회군에서 건국, 새 도읍으로 조선이 문을 열었다.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>개념 · 성리학 통치</strong><br>\n  조선은 성리학을 나라의 근본 이념으로 삼았다. 명분과 도덕을 중시하는 성리학을 바탕으로 사회 질서를 세우고, 유교적 이상 사회를 지향하였다.\n</div>\n\n<h2>2 · 세종의 문화 발전</h2>\n\n<p><strong>세종</strong>은 백성을 위해 <strong>훈민정음</strong>을 창제하고, <strong>측우기</strong>·해시계 같은 과학 기구를 만들었으며, 북방에 <strong>4군 6진</strong>을 개척하였다. 조선 전기 문화의 절정을 이루었다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"세종의 세 가지 대표 업적: 훈민정음, 과학, 영토 개척\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">세종의 업적</text>\n  <rect x=\"10\" y=\"30\" width=\"100\" height=\"76\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"54\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">훈민정음</text>\n  <text x=\"60\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">백성을 위한</text>\n  <text x=\"60\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">문자</text>\n  <rect x=\"120\" y=\"30\" width=\"100\" height=\"76\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"54\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">과학</text>\n  <text x=\"170\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">측우기,</text>\n  <text x=\"170\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">해시계</text>\n  <rect x=\"230\" y=\"30\" width=\"100\" height=\"76\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"54\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">영토</text>\n  <text x=\"280\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">4군 6진</text>\n  <text x=\"280\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">개척</text>\n</svg>\n<figcaption>문자·과학·영토, 세 방면에서 두루 큰 업적을 남겼다.</figcaption>\n</figure>\n\n<h2>3 · 통치 체제와 신분제</h2>\n\n<p><strong>성종</strong> 때 <strong>경국대전</strong>이 완성되어 통치 체제가 확립되었다. 조선은 <strong>양반·중인·상민·천민</strong>으로 나뉜 <strong>신분제</strong> 사회였고, 양반은 <strong>과거</strong>를 통해 관직에 나아갔다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 150\" role=\"img\" aria-label=\"조선의 신분제: 양반, 중인, 상민, 천민\">\n  <polygon points=\"170,14 250,130 90,130\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <line x1=\"128\" y1=\"52\" x2=\"212\" y2=\"52\" style=\"stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <line x1=\"113\" y1=\"82\" x2=\"227\" y2=\"82\" style=\"stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <line x1=\"102\" y1=\"106\" x2=\"238\" y2=\"106\" style=\"stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"170\" y=\"42\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">양반</text>\n  <text x=\"170\" y=\"72\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">중인</text>\n  <text x=\"170\" y=\"98\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">상민</text>\n  <text x=\"170\" y=\"122\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">천민</text>\n  <text x=\"256\" y=\"40\" class=\"s-muted\" font-size=\"8\" text-anchor=\"start\">지배층</text>\n  <text x=\"256\" y=\"124\" class=\"s-muted\" font-size=\"8\" text-anchor=\"start\">노비 등</text>\n</svg>\n<figcaption>조선은 신분에 따라 역할과 대우가 나뉜 사회였다.</figcaption>\n</figure>\n\n<h2>핵심 정리</h2>\n\n<h3>연표</h3>\n\n<table>\n  <tr><th>시기</th><th>사건</th></tr>\n  <tr><td>1388</td><td>위화도 회군</td></tr>\n  <tr><td>1392</td><td>조선 건국 (이성계)</td></tr>\n  <tr><td>세종 대</td><td>훈민정음 창제, 과학·영토 발전</td></tr>\n  <tr><td>성종 대</td><td>경국대전 완성</td></tr>\n</table>\n\n<h3>핵심 용어</h3>\n\n<table>\n  <tr><th>용어</th><th>뜻</th></tr>\n  <tr><td>위화도 회군</td><td>이성계가 군대를 돌린 사건</td></tr>\n  <tr><td>성리학</td><td>조선의 통치 이념</td></tr>\n  <tr><td>훈민정음</td><td>세종이 만든 우리 문자</td></tr>\n  <tr><td>경국대전</td><td>조선의 기본 법전</td></tr>\n  <tr><td>신분제</td><td>양반·중인·상민·천민</td></tr>\n</table>\n\n<h3>인물</h3>\n\n<table>\n  <tr><th>인물</th><th>역할</th></tr>\n  <tr><td>이성계 (태조)</td><td>조선을 건국</td></tr>\n  <tr><td>세종대왕</td><td>훈민정음·과학 발전</td></tr>\n  <tr><td>정도전</td><td>재상 중심 정치 주장</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>주의</strong><br>\n  훈민정음은 <b>백성을 위해</b> 만든 문자로, 한자를 곧바로 대체하지 못하였다. 오히려 한자를 중시한 <b>양반들은 반대</b>했고, 공문서에는 오랫동안 한자가 쓰였다. '창제되자마자 공용 문자가 되었다'고 오해하지 말자.\n</div>\n\n<blockquote>\n  <p>조선은 성리학의 이상 위에 나라의 틀을 세우고, 훈민정음과 과학으로 민족 문화를 꽃피웠다. 이 튼튼한 기틀은 이후 수백 년 조선 왕조의 바탕이 되었다.</p>\n</blockquote>\n",
+  "questionLang": "ko",
+  "answerLang": "ko",
+  "version": 1,
+  "level": "고등학교",
+  "theme": "한국사",
+  "cards": [
+    {
+      "recto": "조선을 세운 인물은 누구인가?",
+      "verso": "이성계 (태조)",
+      "explanation": "이성계는 위화도 회군으로 권력을 잡은 뒤 1392년 조선을 세웠다. 이후 도읍을 한양으로 옮기고 성리학을 통치 이념으로 삼았다.",
+      "tags": [
+        "조선",
+        "인물"
+      ],
+      "distractors": {
+        "easy": [
+          "왕건",
+          "세종대왕",
+          "김구"
+        ],
+        "medium": [
+          "정도전",
+          "이방원",
+          "최영"
+        ],
+        "hard": [
+          "공민왕",
+          "정몽주",
+          "이색"
+        ]
+      }
+    },
+    {
+      "recto": "이성계가 요동 정벌을 나갔다가 군대를 돌려 권력을 잡은 사건은?",
+      "verso": "위화도 회군",
+      "explanation": "1388년 이성계는 요동 정벌 도중 위화도에서 군대를 돌려(회군) 개경으로 돌아와 권력을 잡았다. 이것이 조선 건국의 발판이 되었다.",
+      "tags": [
+        "조선",
+        "건국"
+      ],
+      "distractors": {
+        "easy": [
+          "3·1 운동",
+          "임진왜란",
+          "병자호란"
+        ],
+        "medium": [
+          "무신 정변",
+          "묘청의 난",
+          "귀주 대첩"
+        ],
+        "hard": [
+          "이자겸의 난",
+          "홍건적의 침입",
+          "삼별초의 항쟁"
+        ]
+      }
+    },
+    {
+      "recto": "조선이 나라를 다스리는 근본 이념으로 삼은 유학은?",
+      "verso": "성리학 (유교)",
+      "explanation": "조선은 불교를 억누르고 성리학을 통치 이념으로 삼았다. 성리학의 명분과 도덕을 바탕으로 사회 질서를 세우고자 하였다.",
+      "tags": [
+        "조선",
+        "이념"
+      ],
+      "distractors": {
+        "easy": [
+          "이슬람교",
+          "크리스트교",
+          "힌두교"
+        ],
+        "medium": [
+          "불교",
+          "도교",
+          "천주교"
+        ],
+        "hard": [
+          "동학",
+          "양명학만",
+          "천도교"
+        ]
+      }
+    },
+    {
+      "recto": "조선의 도읍(수도)은 어디였는가?",
+      "verso": "한양 (오늘날 서울)",
+      "explanation": "조선은 개경에서 한양으로 도읍을 옮겼다. 한양은 경복궁을 중심으로 한 조선의 정치·문화 중심지가 되었다.",
+      "tags": [
+        "조선",
+        "건국"
+      ],
+      "distractors": {
+        "easy": [
+          "도쿄",
+          "베이징",
+          "평양"
+        ],
+        "medium": [
+          "개경",
+          "경주",
+          "부여"
+        ],
+        "hard": [
+          "국내성",
+          "웅진",
+          "강화도"
+        ]
+      }
+    },
+    {
+      "recto": "훈민정음(한글)을 창제한 조선의 왕은?",
+      "verso": "세종대왕",
+      "explanation": "세종대왕은 백성이 쉽게 글을 익히도록 훈민정음을 창제하였다(1443년 창제, 1446년 반포). 과학·음악 등 여러 분야에서도 큰 업적을 남겼다.",
+      "tags": [
+        "조선",
+        "인물"
+      ],
+      "distractors": {
+        "easy": [
+          "이성계",
+          "왕건",
+          "광개토대왕"
+        ],
+        "medium": [
+          "태종",
+          "성종",
+          "정조"
+        ],
+        "hard": [
+          "세조",
+          "영조",
+          "중종"
+        ]
+      }
+    },
+    {
+      "recto": "세종이 백성을 위해 창제한 우리 고유의 문자는?",
+      "verso": "훈민정음 (한글)",
+      "explanation": "'훈민정음'은 '백성을 가르치는 바른 소리'라는 뜻이다. 배우기 쉬운 이 문자로 백성이 자신의 생각을 글로 표현할 수 있게 되었다.",
+      "tags": [
+        "조선",
+        "문화"
+      ],
+      "distractors": {
+        "easy": [
+          "알파벳",
+          "한자",
+          "로마자"
+        ],
+        "medium": [
+          "이두",
+          "가나(일본 문자)",
+          "몽골 문자"
+        ],
+        "hard": [
+          "구결",
+          "향찰",
+          "만주 문자"
+        ]
+      }
+    },
+    {
+      "recto": "[주의] 훈민정음은 양반 사대부의 환영을 받으며 한자를 곧바로 대체하였는가?",
+      "verso": "아니다. 백성을 위한 문자였고, 많은 양반이 반대하여 한자가 오랫동안 공식 문자로 쓰였다",
+      "explanation": "흔한 오해이다. 훈민정음은 백성을 위해 만들었지만, 한자를 중시하던 양반들은 이를 낮추어 보았다. 공문서 등에서는 오랫동안 한자가 계속 쓰였다.",
+      "tags": [
+        "piege",
+        "조선"
+      ],
+      "distractors": {
+        "easy": [
+          "그렇다. 모두가 환영하였다",
+          "그렇다. 한자를 즉시 없앴다",
+          "그렇다. 양반이 앞장서 보급하였다"
+        ],
+        "medium": [
+          "그렇다. 반대는 전혀 없었다",
+          "그렇다. 창제되자마자 공식 문자가 되었다",
+          "아니다. 하지만 세종이 만든 것은 아니다"
+        ],
+        "hard": [
+          "그렇다. 중국이 요청해 만들었다",
+          "그렇다. 한자는 곧 사라졌다",
+          "아니다. 하지만 백성도 반대하였다"
+        ]
+      }
+    },
+    {
+      "recto": "세종 때 만들어진, 비의 양을 재는 세계적으로 앞선 과학 기구는?",
+      "verso": "측우기",
+      "explanation": "측우기는 강우량을 재는 기구로, 농사에 큰 도움을 주었다. 세종 때에는 이 밖에도 해시계, 물시계 등 여러 과학 기구가 만들어졌다.",
+      "tags": [
+        "조선",
+        "과학"
+      ],
+      "distractors": {
+        "easy": [
+          "스마트폰",
+          "텔레비전",
+          "나침반만"
+        ],
+        "medium": [
+          "거북선",
+          "화약",
+          "혼천의만"
+        ],
+        "hard": [
+          "앙부일구(해시계)",
+          "자격루(물시계)",
+          "간의"
+        ]
+      }
+    },
+    {
+      "recto": "조선의 통치 기준이 된, 성종 때 완성된 기본 법전은?",
+      "verso": "경국대전",
+      "explanation": "경국대전은 조선의 통치 조직과 법을 집대성한 기본 법전으로, 성종 때 완성되었다. 이로써 조선의 통치 체제가 확립되었다.",
+      "tags": [
+        "조선",
+        "제도"
+      ],
+      "distractors": {
+        "easy": [
+          "헌법",
+          "훈민정음",
+          "동의보감"
+        ],
+        "medium": [
+          "삼국사기",
+          "팔만대장경",
+          "직지심체요절"
+        ],
+        "hard": [
+          "대전회통",
+          "속대전",
+          "경제육전"
+        ]
+      }
+    },
+    {
+      "recto": "조선 사회의 지배층으로, 과거를 통해 관리가 되어 나라를 이끈 계층은?",
+      "verso": "양반 (사대부)",
+      "explanation": "양반은 성리학을 공부하고 과거를 거쳐 관리가 된 지배층이다. 조선 사회는 양반을 중심으로 한 신분제 사회였다.",
+      "tags": [
+        "조선",
+        "사회"
+      ],
+      "distractors": {
+        "easy": [
+          "노비",
+          "상인",
+          "농민"
+        ],
+        "medium": [
+          "중인",
+          "천민",
+          "백정"
+        ],
+        "hard": [
+          "권문세족",
+          "문벌 귀족",
+          "호족"
+        ]
+      }
+    },
+    {
+      "recto": "조선의 신분은 크게 어떻게 나뉘었는가?",
+      "verso": "양반·중인·상민·천민",
+      "explanation": "조선은 양반(지배층), 중인(기술·행정), 상민(농민·상공인), 천민(노비 등)으로 나뉜 신분제 사회였다. 신분에 따라 역할과 대우가 달랐다.",
+      "tags": [
+        "조선",
+        "사회"
+      ],
+      "distractors": {
+        "easy": [
+          "부자·중간·가난",
+          "남자·여자·아이",
+          "왕·귀족·평민만"
+        ],
+        "medium": [
+          "성직자·귀족·평민",
+          "귀족·기사·농노",
+          "카스트 네 계급"
+        ],
+        "hard": [
+          "문신·무신·향리",
+          "골품 여섯 등급",
+          "사농공상 넷"
+        ]
+      }
+    },
+    {
+      "recto": "관리를 시험으로 뽑는 제도로, 양반이 관직에 나아가는 주요 통로는?",
+      "verso": "과거 (과거제)",
+      "explanation": "조선에서도 과거로 관리를 뽑았다. 특히 문과가 중시되었으며, 양반 자제들이 유교 경전을 공부해 과거에 응시하였다.",
+      "tags": [
+        "조선",
+        "제도"
+      ],
+      "distractors": {
+        "easy": [
+          "선거",
+          "추첨",
+          "세습만"
+        ],
+        "medium": [
+          "골품제",
+          "음서만",
+          "화백 회의"
+        ],
+        "hard": [
+          "독서삼품과",
+          "전시과",
+          "천거만"
+        ]
+      }
+    },
+    {
+      "recto": "세종 때 북방의 여진을 몰아내고 개척한 국경 지역은?",
+      "verso": "4군 6진",
+      "explanation": "세종은 북방으로 4군과 6진을 개척하여 압록강과 두만강에 이르는 국경을 확보하였다. 오늘날 한반도 영토의 기틀이 되었다.",
+      "tags": [
+        "조선",
+        "영토"
+      ],
+      "distractors": {
+        "easy": [
+          "제주도",
+          "울릉도",
+          "쓰시마섬"
+        ],
+        "medium": [
+          "강동 6주",
+          "요동 전체",
+          "간도"
+        ],
+        "hard": [
+          "동북 9성만",
+          "9주 5소경",
+          "22담로"
+        ]
+      }
+    },
+    {
+      "recto": "[비교] 왕권 강화를 강조한 태종과 재상(신하) 중심 정치를 강조한 인물의 차이는?",
+      "verso": "태종은 6조 직계제로 왕권을 강화, 정도전은 재상 중심의 정치를 주장",
+      "explanation": "정도전은 뛰어난 재상이 이끄는 정치를 강조하였고, 태종(이방원)은 왕이 직접 6조를 통솔하는 6조 직계제로 왕권을 강화하였다. 두 흐름이 조선 초 정치의 방향을 놓고 대립하였다.",
+      "tags": [
+        "comparaison",
+        "조선"
+      ],
+      "distractors": {
+        "easy": [
+          "둘의 생각은 완전히 같았다",
+          "둘 다 왕이 없기를 바랐다",
+          "둘 다 재상을 없애려 하였다"
+        ],
+        "medium": [
+          "태종은 재상 중심, 정도전은 왕권 강화 주장",
+          "둘 다 성리학을 반대하였다",
+          "둘 다 불교 정치를 폈다"
+        ],
+        "hard": [
+          "태종은 신권, 정도전은 왕권을 강조",
+          "둘 다 과거제를 폐지하려 하였다",
+          "둘 다 한양 천도에 반대하였다"
+        ]
+      }
+    },
+    {
+      "recto": "조선에서 성리학을 공부하며 지방에서 성장해 중앙 정치에 진출한 세력은?",
+      "verso": "사림 (사림파)",
+      "explanation": "사림은 지방에서 학문을 닦으며 성장한 성리학자 집단으로, 건국 공신 세력인 훈구와 대립하며 조선 정치의 중심으로 떠올랐다.",
+      "tags": [
+        "조선",
+        "정치"
+      ],
+      "distractors": {
+        "easy": [
+          "군인",
+          "상인",
+          "농민 전체"
+        ],
+        "medium": [
+          "훈구",
+          "무신",
+          "호족"
+        ],
+        "hard": [
+          "권문세족",
+          "문벌 귀족",
+          "위정척사파"
+        ]
+      }
+    },
+    {
+      "recto": "전체적으로 조선 전기는 어떤 시기였다고 볼 수 있는가?",
+      "verso": "성리학을 바탕으로 통치 체제를 정비하고 민족 문화를 크게 발전시킨 시기",
+      "explanation": "조선 전기는 경국대전으로 제도를 확립하고, 훈민정음과 과학 기구 등 민족 문화를 꽃피운 시기였다. 유교적 이상 사회를 지향하였다.",
+      "tags": [
+        "조선",
+        "정리"
+      ],
+      "distractors": {
+        "easy": [
+          "문화가 쇠퇴한 시기",
+          "국가가 없던 시기",
+          "외국이 지배한 시기"
+        ],
+        "medium": [
+          "불교를 국교로 삼은 시기",
+          "제도가 전혀 없던 시기",
+          "한글을 배척한 시기"
+        ],
+        "hard": [
+          "이미 근대 국가가 된 시기",
+          "삼국으로 나뉜 시기",
+          "민주주의를 이룬 시기"
+        ]
+      }
+    }
+  ]
+}

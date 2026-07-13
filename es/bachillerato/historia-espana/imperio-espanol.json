@@ -1,0 +1,432 @@
+{
+  "id": "es-bachillerato-historia-espana-imperio-espanol",
+  "title": "El Imperio español y el Siglo de Oro",
+  "emoji": "⚓",
+  "subject": "history",
+  "country": "es",
+  "courseDescription": "El apogeo del Imperio español bajo los Austrias, la conquista de América y el esplendor cultural del Siglo de Oro.",
+  "lesson": "<style>\n  /* Estilos de las figuras (SVG). Usan currentColor (texto del tema) y\n     var(--accent) (color de la materia): se adaptan al tema claro/oscuro. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>El Imperio español y el Siglo de Oro</h1>\n\n<div class=\"callout\">\n  <strong>Claves</strong><br>\n  <b>Nivel:</b> Bachillerato<br>\n  <b>Tema:</b> Historia de España<br>\n  <b>Periodo:</b> 1516 — 1700\n</div>\n\n<blockquote>\n  <p><b>Pregunta central.</b> ¿Cómo llegó España a dominar el mundo y a brillar culturalmente, para luego entrar en decadencia?</p>\n</blockquote>\n\n<p>Con los <strong>Austrias</strong>, España construyó el mayor imperio de la época: 'donde nunca se pone el sol'. <strong>Carlos I</strong> y <strong>Felipe II</strong> fueron su apogeo; la conquista de <strong>América</strong> y la <strong>plata</strong> lo sostuvieron. Fue también el <strong>Siglo de Oro</strong> de la cultura. Pero las guerras llevaron a la <strong>decadencia</strong>.</p>\n\n<h2>1 · Un imperio mundial</h2>\n\n<p><strong>Carlos I</strong> (también emperador Carlos V) reunió España, el Imperio y América. <strong>Felipe II</strong> llevó el imperio a su máxima extensión y fijó la capital en <strong>Madrid</strong>. Venció en <strong>Lepanto</strong> (1571), pero fracasó con la <strong>Armada Invencible</strong> (1588).</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"La conquista de los imperios azteca e inca en América\">\n  <defs>\n    <marker id=\"ar-esi1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">la conquista de América</text>\n  <rect x=\"14\" y=\"34\" width=\"130\" height=\"70\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"79\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Cortés</text>\n  <text x=\"79\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Imperio azteca</text>\n  <text x=\"79\" y=\"94\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">(México)</text>\n  <rect x=\"196\" y=\"34\" width=\"130\" height=\"70\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"261\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Pizarro</text>\n  <text x=\"261\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Imperio inca</text>\n  <text x=\"261\" y=\"94\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">(Perú)</text>\n</svg>\n<figcaption>Cortés y Pizarro sometieron los dos grandes imperios americanos.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Concepto · La plata americana</strong><br>\n  La plata de minas como <b>Potosí</b> financió al imperio y sus guerras. Pero también trajo inflación y una peligrosa dependencia económica del metal americano.\n</div>\n\n<h2>2 · El Siglo de Oro</h2>\n\n<p>Fue una época de esplendor cultural. En la literatura, <strong>Cervantes</strong> (autor del <em>Quijote</em>) y Lope de Vega; en la pintura, <strong>Velázquez</strong> (<em>Las Meninas</em>) y El Greco. El arte español brilló en toda Europa.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"Grandes figuras del Siglo de Oro en la literatura y la pintura\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">el Siglo de Oro</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Literatura</text>\n  <text x=\"87\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Cervantes (Quijote)</text>\n  <text x=\"87\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Lope de Vega</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Pintura</text>\n  <text x=\"253\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Velázquez (Meninas)</text>\n  <text x=\"253\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">El Greco</text>\n</svg>\n<figcaption>El poder imperial se acompañó de un esplendor cultural único.</figcaption>\n</figure>\n\n<h2>3 · Del apogeo a la decadencia</h2>\n\n<p>Con los <strong>Austrias mayores</strong> (Carlos I, Felipe II) el imperio alcanzó su cima. Con los <strong>Austrias menores</strong> (Felipe III, IV y Carlos II), gobernados por <strong>validos</strong>, llegaron las crisis, las guerras costosas y la decadencia del siglo XVII.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Contraste entre los Austrias mayores y los Austrias menores\">\n  <rect x=\"12\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Austrias mayores</text>\n  <text x=\"87\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Carlos I, Felipe II</text>\n  <text x=\"87\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">apogeo</text>\n  <text x=\"87\" y=\"106\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">máxima extensión</text>\n  <rect x=\"178\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Austrias menores</text>\n  <text x=\"253\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Felipe III, IV, Carlos II</text>\n  <text x=\"253\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">decadencia</text>\n  <text x=\"253\" y=\"106\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">gobierno de validos</text>\n</svg>\n<figcaption>Del máximo esplendor a la crisis del siglo XVII.</figcaption>\n</figure>\n\n<h2>Lo esencial</h2>\n\n<h3>Cronología</h3>\n\n<table>\n  <tr><th>Fecha</th><th>Acontecimiento</th></tr>\n  <tr><td>1516</td><td>Carlos I, primer Austria</td></tr>\n  <tr><td>1521</td><td>Cortés conquista México</td></tr>\n  <tr><td>1533</td><td>Pizarro conquista Perú</td></tr>\n  <tr><td>1571</td><td>Batalla de Lepanto</td></tr>\n  <tr><td>1588</td><td>Derrota de la Armada Invencible</td></tr>\n  <tr><td>s. XVII</td><td>Siglo de Oro y decadencia</td></tr>\n</table>\n\n<h3>Términos clave</h3>\n\n<table>\n  <tr><th>Término</th><th>Significado</th></tr>\n  <tr><td>Austrias</td><td>Dinastía imperial (Habsburgo)</td></tr>\n  <tr><td>Virreinatos</td><td>Grandes territorios de América</td></tr>\n  <tr><td>Siglo de Oro</td><td>Esplendor cultural (XVI-XVII)</td></tr>\n  <tr><td>Validos</td><td>Ministros que gobernaban por el rey</td></tr>\n</table>\n\n<h3>Personajes</h3>\n\n<table>\n  <tr><th>Nombre</th><th>Papel</th></tr>\n  <tr><td>Carlos I (Carlos V)</td><td>Rey y emperador</td></tr>\n  <tr><td>Felipe II</td><td>Máxima extensión del imperio</td></tr>\n  <tr><td>Cervantes</td><td>Autor del <em>Quijote</em></td></tr>\n  <tr><td>Velázquez</td><td>Pintor de <em>Las Meninas</em></td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  <b>Carlos I de España</b> y <b>Carlos V del Imperio</b> son la <b>misma persona</b>, con dos numeraciones distintas (rey de España y emperador). Y no confundas la victoria de <b>Lepanto</b> (1571) con la derrota de la <b>Armada Invencible</b> (1588).\n</div>\n\n<blockquote>\n  <p>El Imperio español fue el más extenso de su tiempo y regaló al mundo un Siglo de Oro irrepetible. Pero las guerras sin fin y la dependencia de la plata minaron su fuerza, abriendo el camino a la decadencia.</p>\n</blockquote>\n",
+  "questionLang": "es",
+  "answerLang": "es",
+  "version": 1,
+  "level": "Bachillerato",
+  "theme": "Historia de España",
+  "cards": [
+    {
+      "recto": "¿Qué dinastía gobernó España durante su época imperial de los siglos XVI y XVII?",
+      "verso": "Los Austrias (Habsburgo)",
+      "explanation": "Los Austrias, desde Carlos I hasta Carlos II, gobernaron el mayor imperio de la época. Se dividen en Austrias mayores (apogeo) y menores (decadencia).",
+      "tags": [
+        "imperio",
+        "dinastía"
+      ],
+      "distractors": {
+        "easy": [
+          "Los Borbones",
+          "Los Trastámara",
+          "Los Tudor"
+        ],
+        "medium": [
+          "Los Capetos",
+          "Los Romanov",
+          "Los Saboya"
+        ],
+        "hard": [
+          "Los Valois",
+          "Los Hohenzollern",
+          "Los Estuardo"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] Carlos I de España y Carlos V del Sacro Imperio, ¿eran dos reyes distintos?",
+      "verso": "No; eran la misma persona, con dos numeraciones (rey de España y emperador)",
+      "explanation": "Error muy frecuente. Carlos I de España era también Carlos V como emperador del Sacro Imperio Romano Germánico: un solo monarca con dos títulos.",
+      "tags": [
+        "piege",
+        "imperio"
+      ],
+      "distractors": {
+        "easy": [
+          "Sí, eran padre e hijo",
+          "Sí, eran hermanos rivales",
+          "Sí, dos reyes enemigos"
+        ],
+        "medium": [
+          "Sí, reinaron en siglos distintos",
+          "Sí, uno en España y otro en América",
+          "No, pero eran primos"
+        ],
+        "hard": [
+          "Sí, Carlos I fue antes que Carlos V",
+          "Sí, uno Austria y otro Borbón",
+          "No, pero reinaron a la vez por separado"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué rey heredó de sus abuelos las coronas de España y el Imperio, gobernando un vasto territorio?",
+      "verso": "Carlos I (Carlos V)",
+      "explanation": "Nieto de los Reyes Católicos y de Maximiliano de Austria, Carlos reunió España, el Imperio, los Países Bajos y las tierras americanas.",
+      "tags": [
+        "imperio",
+        "personajes"
+      ],
+      "distractors": {
+        "easy": [
+          "Felipe VI",
+          "Napoleón",
+          "Fernando VII"
+        ],
+        "medium": [
+          "Felipe II",
+          "Carlos III",
+          "Felipe V"
+        ],
+        "hard": [
+          "Carlos II",
+          "Felipe IV",
+          "Fernando el Católico"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué rey trasladó la capital a Madrid y bajo el que el imperio alcanzó su mayor extensión?",
+      "verso": "Felipe II",
+      "explanation": "Bajo Felipe II el imperio abarcaba territorios en todos los continentes: 'el imperio donde nunca se pone el sol'. Fijó la capital en Madrid.",
+      "tags": [
+        "imperio",
+        "personajes"
+      ],
+      "distractors": {
+        "easy": [
+          "Felipe VI",
+          "Napoleón",
+          "Alfonso XIII"
+        ],
+        "medium": [
+          "Carlos I",
+          "Carlos III",
+          "Felipe V"
+        ],
+        "hard": [
+          "Felipe IV",
+          "Carlos II",
+          "Fernando VI"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué imperio americano conquistó Hernán Cortés?",
+      "verso": "El Imperio azteca (México)",
+      "explanation": "Cortés conquistó el Imperio azteca hacia 1521, aprovechando alianzas indígenas y armas de fuego. México pasó a la corona española.",
+      "tags": [
+        "america",
+        "conquista"
+      ],
+      "distractors": {
+        "easy": [
+          "El Imperio romano",
+          "El Imperio británico",
+          "El Imperio otomano"
+        ],
+        "medium": [
+          "El Imperio inca",
+          "El Imperio maya unificado",
+          "El Imperio chino"
+        ],
+        "hard": [
+          "El Imperio de los mexicas del sur",
+          "El reino chibcha",
+          "El Imperio purépecha"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué imperio americano conquistó Francisco Pizarro?",
+      "verso": "El Imperio inca (Perú)",
+      "explanation": "Pizarro conquistó el Imperio inca hacia 1533. El Perú, rico en plata, se convirtió en uno de los grandes virreinatos españoles.",
+      "tags": [
+        "america",
+        "conquista"
+      ],
+      "distractors": {
+        "easy": [
+          "El Imperio romano",
+          "El Imperio otomano",
+          "El Imperio ruso"
+        ],
+        "medium": [
+          "El Imperio azteca",
+          "El Imperio maya",
+          "El Imperio mongol"
+        ],
+        "hard": [
+          "El reino chibcha",
+          "El Imperio purépecha",
+          "El reino mapuche"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué metal precioso, extraído en América, enriqueció y sostuvo al Imperio español?",
+      "verso": "La plata (sobre todo de Potosí)",
+      "explanation": "Las minas de plata, como Potosí, financiaron al imperio y sus guerras. Pero también provocaron inflación y dependencia económica.",
+      "tags": [
+        "america",
+        "economía"
+      ],
+      "distractors": {
+        "easy": [
+          "El petróleo",
+          "El hierro",
+          "El carbón"
+        ],
+        "medium": [
+          "El cobre",
+          "El estaño",
+          "El diamante"
+        ],
+        "hard": [
+          "El mercurio solo",
+          "El platino",
+          "El salitre"
+        ]
+      }
+    },
+    {
+      "recto": "¿Cómo se llamaba el sistema de gobierno de los grandes territorios americanos?",
+      "verso": "Los virreinatos",
+      "explanation": "América se organizó en virreinatos (como Nueva España y Perú), gobernados por un virrey en nombre del rey.",
+      "tags": [
+        "america",
+        "administración"
+      ],
+      "distractors": {
+        "easy": [
+          "Las repúblicas",
+          "Los reinos independientes",
+          "Las taifas"
+        ],
+        "medium": [
+          "Las colonias autónomas",
+          "Los condados",
+          "Los emiratos"
+        ],
+        "hard": [
+          "Las capitanías solo",
+          "Las gobernaciones libres",
+          "Los protectorados"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué gran batalla naval de 1571 frenó el avance otomano en el Mediterráneo?",
+      "verso": "La batalla de Lepanto",
+      "explanation": "En Lepanto (1571), una coalición cristiana liderada por España venció a la flota otomana, una de las grandes victorias de Felipe II.",
+      "tags": [
+        "imperio",
+        "guerras"
+      ],
+      "distractors": {
+        "easy": [
+          "La batalla de Waterloo",
+          "La batalla de Trafalgar",
+          "La batalla de Bailén"
+        ],
+        "medium": [
+          "Las Navas de Tolosa",
+          "La batalla de Covadonga",
+          "La batalla del Salado"
+        ],
+        "hard": [
+          "La batalla de San Quintín",
+          "La batalla de Pavía",
+          "La batalla de Rocroi"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué gran flota de Felipe II fue derrotada al intentar invadir Inglaterra en 1588?",
+      "verso": "La Armada Invencible",
+      "explanation": "En 1588 la Armada Invencible fracasó ante Inglaterra por las tormentas y la táctica inglesa. Fue un golpe al prestigio del imperio.",
+      "tags": [
+        "imperio",
+        "guerras"
+      ],
+      "distractors": {
+        "easy": [
+          "El ejército de Napoleón",
+          "La flota vikinga",
+          "Los tercios de Flandes por tierra"
+        ],
+        "medium": [
+          "La flota de Lepanto",
+          "La Gran Armada francesa",
+          "La flota otomana"
+        ],
+        "hard": [
+          "La Armada de Barlovento",
+          "La flota de Indias",
+          "La Escuadra del Cantábrico"
+        ]
+      }
+    },
+    {
+      "recto": "¿Cómo se conoce la época de gran esplendor cultural español de los siglos XVI y XVII?",
+      "verso": "El Siglo de Oro",
+      "explanation": "El Siglo de Oro reunió a genios de la literatura y el arte como Cervantes, Lope de Vega, Velázquez y El Greco, en pleno apogeo imperial.",
+      "tags": [
+        "cultura",
+        "conceptos"
+      ],
+      "distractors": {
+        "easy": [
+          "El Renacimiento italiano",
+          "La Ilustración",
+          "El Romanticismo"
+        ],
+        "medium": [
+          "La Generación del 98",
+          "El Barroco europeo solo",
+          "El Siglo de las Luces"
+        ],
+        "hard": [
+          "El Realismo",
+          "El Modernismo",
+          "La Edad de Plata"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué escritor del Siglo de Oro escribió 'Don Quijote de la Mancha'?",
+      "verso": "Miguel de Cervantes",
+      "explanation": "Cervantes escribió 'El Quijote', considerada la primera novela moderna y una cumbre de la literatura universal.",
+      "tags": [
+        "cultura",
+        "personajes"
+      ],
+      "distractors": {
+        "easy": [
+          "William Shakespeare",
+          "Napoleón",
+          "Cristóbal Colón"
+        ],
+        "medium": [
+          "Lope de Vega",
+          "Calderón de la Barca",
+          "Garcilaso de la Vega"
+        ],
+        "hard": [
+          "Francisco de Quevedo",
+          "Luis de Góngora",
+          "Tirso de Molina"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué pintor de la corte de Felipe IV pintó 'Las Meninas'?",
+      "verso": "Diego Velázquez",
+      "explanation": "Velázquez, pintor de cámara de Felipe IV, es una cumbre del arte del Siglo de Oro. 'Las Meninas' es una de las obras más célebres del mundo.",
+      "tags": [
+        "cultura",
+        "personajes"
+      ],
+      "distractors": {
+        "easy": [
+          "Pablo Picasso",
+          "Leonardo da Vinci",
+          "Salvador Dalí"
+        ],
+        "medium": [
+          "El Greco",
+          "Francisco de Goya",
+          "Bartolomé Murillo"
+        ],
+        "hard": [
+          "Francisco de Zurbarán",
+          "José de Ribera",
+          "Juan de Juanes"
+        ]
+      }
+    },
+    {
+      "recto": "[Compara] ¿Qué diferencia a los Austrias mayores de los Austrias menores?",
+      "verso": "Los mayores (Carlos I, Felipe II) fueron el apogeo; los menores (Felipe III, IV, Carlos II) la decadencia",
+      "explanation": "Con los Austrias mayores el imperio alcanzó su cima. Con los menores, gobernados por validos, llegaron las crisis, las guerras y la decadencia del siglo XVII.",
+      "tags": [
+        "comparaison",
+        "dinastía"
+      ],
+      "distractors": {
+        "easy": [
+          "No hay ninguna diferencia",
+          "Los menores fueron el apogeo",
+          "Ambos fueron Borbones"
+        ],
+        "medium": [
+          "Los mayores fueron la decadencia; los menores, el apogeo",
+          "Los menores conquistaron América",
+          "Ambos reinaron en el siglo XX"
+        ],
+        "hard": [
+          "Los mayores gobernaron con validos",
+          "Los menores fueron anteriores a los mayores",
+          "Ambos evitaron toda guerra"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué ministros de confianza gobernaron en la práctica bajo los Austrias menores?",
+      "verso": "Los validos",
+      "explanation": "Reyes como Felipe III y IV delegaron el gobierno en validos (por ejemplo, el Conde-Duque de Olivares). Esto se asocia a la crisis del siglo XVII.",
+      "tags": [
+        "imperio",
+        "política"
+      ],
+      "distractors": {
+        "easy": [
+          "Los presidentes",
+          "Los cónsules romanos",
+          "Los primeros ministros actuales"
+        ],
+        "medium": [
+          "Los virreyes",
+          "Los inquisidores",
+          "Los corregidores"
+        ],
+        "hard": [
+          "Los secretarios de Indias",
+          "Los adelantados",
+          "Los procuradores"
+        ]
+      }
+    },
+    {
+      "recto": "En conjunto, ¿qué caracterizó al Imperio español de los Austrias?",
+      "verso": "Un imperio inmenso y un gran esplendor cultural, pero con guerras costosas que llevaron a la decadencia",
+      "explanation": "España dominó el mundo y brilló en el arte, pero las continuas guerras, la dependencia de la plata y las crisis condujeron a la decadencia del siglo XVII.",
+      "tags": [
+        "imperio",
+        "síntesis"
+      ],
+      "distractors": {
+        "easy": [
+          "Un reino pequeño y sin cultura",
+          "Un país sin colonias",
+          "Una república pacífica"
+        ],
+        "medium": [
+          "Un imperio sin ningún problema económico",
+          "Un Estado sin ejército",
+          "Una potencia solo cultural, sin territorios"
+        ],
+        "hard": [
+          "Un imperio que evitó toda guerra",
+          "Una monarquía sin decadencia alguna",
+          "Un país aislado del comercio mundial"
+        ]
+      }
+    }
+  ]
+}

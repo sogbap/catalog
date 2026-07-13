@@ -1,0 +1,432 @@
+{
+  "id": "es-bachillerato-historia-espana-reyes-catolicos",
+  "title": "Los Reyes Católicos y la unión dinástica (1492)",
+  "emoji": "👑",
+  "subject": "history",
+  "country": "es",
+  "courseDescription": "El matrimonio de Isabel y Fernando, la unión dinástica de Castilla y Aragón, y el trascendental año 1492.",
+  "lesson": "<style>\n  /* Estilos de las figuras (SVG). Usan currentColor (texto del tema) y\n     var(--accent) (color de la materia): se adaptan al tema claro/oscuro. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Los Reyes Católicos y la unión dinástica (1492)</h1>\n\n<div class=\"callout\">\n  <strong>Claves</strong><br>\n  <b>Nivel:</b> Bachillerato<br>\n  <b>Tema:</b> Historia de España<br>\n  <b>Periodo:</b> 1469 — 1516\n</div>\n\n<blockquote>\n  <p><b>Pregunta central.</b> ¿Por qué el reinado de los Reyes Católicos y el año 1492 marcan el nacimiento de la España moderna?</p>\n</blockquote>\n\n<p>El matrimonio de <strong>Isabel de Castilla</strong> y <strong>Fernando de Aragón</strong> (1469) creó una <strong>unión dinástica</strong>. En <strong>1492</strong> coincidieron tres hechos decisivos: la <strong>toma de Granada</strong>, el <strong>viaje de Colón</strong> a América y la <strong>expulsión de los judíos</strong>. Reforzaron el poder real y la unidad religiosa.</p>\n\n<h2>1 · La unión dinástica</h2>\n\n<p>El matrimonio de 1469 unió las dos grandes coronas bajo una misma dinastía. Pero fue una <strong>unión de personas, no de reinos</strong>: <strong>Castilla</strong> y <strong>Aragón</strong> conservaron sus propias leyes, cortes e instituciones.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"La unión dinástica de Castilla y Aragón bajo los Reyes Católicos\">\n  <rect x=\"115\" y=\"8\" width=\"110\" height=\"34\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"26\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Reyes Católicos</text>\n  <text x=\"170\" y=\"38\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">misma dinastía</text>\n  <line x1=\"140\" y1=\"42\" x2=\"80\" y2=\"66\" style=\"stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <line x1=\"200\" y1=\"42\" x2=\"260\" y2=\"66\" style=\"stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <rect x=\"18\" y=\"68\" width=\"120\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"78\" y=\"90\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Castilla</text>\n  <text x=\"78\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">leyes propias</text>\n  <rect x=\"202\" y=\"68\" width=\"120\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"262\" y=\"90\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Aragón</text>\n  <text x=\"262\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">cortes propias</text>\n</svg>\n<figcaption>Una misma dinastía, pero dos reinos que siguieron siendo distintos.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Concepto · Unión dinástica</strong><br>\n  Unión de dos coronas bajo unos mismos reyes, pero <b>sin fusionar</b> los reinos: cada uno mantiene sus leyes, cortes y fronteras. No es una unificación política de España.\n</div>\n\n<h2>2 · El trascendental año 1492</h2>\n\n<p>En un solo año coincidieron tres hechos clave: la <strong>toma de Granada</strong> (fin de la Reconquista), el <strong>viaje de Colón</strong> (inicio de la expansión americana) y la <strong>expulsión de los judíos</strong> (unidad religiosa).</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Los tres grandes hechos del año 1492\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1492</text>\n  <rect x=\"8\" y=\"30\" width=\"100\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"54\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Granada</text>\n  <text x=\"58\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">fin de la</text>\n  <text x=\"58\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Reconquista</text>\n  <rect x=\"120\" y=\"30\" width=\"100\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"54\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">América</text>\n  <text x=\"170\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">viaje de Colón</text>\n  <text x=\"170\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">expansión atlántica</text>\n  <rect x=\"232\" y=\"30\" width=\"100\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"54\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Expulsión</text>\n  <text x=\"282\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">de los judíos</text>\n  <text x=\"282\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">unidad religiosa</text>\n</svg>\n<figcaption>Tres hechos de un mismo año que abren la España moderna.</figcaption>\n</figure>\n\n<h2>3 · Hacia el Estado moderno</h2>\n\n<p>Los Reyes Católicos reforzaron la <strong>autoridad real</strong> frente a la nobleza, crearon la <strong>Inquisición</strong> y la <strong>Santa Hermandad</strong>, e incorporaron <strong>Navarra</strong> (1512). Su nieto <strong>Carlos I</strong> heredaría las coronas, iniciando la dinastía de los <strong>Austrias</strong>.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Instrumentos de los Reyes Católicos para reforzar el poder real\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">reforzar la autoridad real</text>\n  <rect x=\"10\" y=\"30\" width=\"100\" height=\"76\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"54\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Inquisición</text>\n  <text x=\"60\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">unidad</text>\n  <text x=\"60\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">religiosa</text>\n  <rect x=\"120\" y=\"30\" width=\"100\" height=\"76\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"54\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Santa Hermandad</text>\n  <text x=\"170\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">orden y</text>\n  <text x=\"170\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">seguridad</text>\n  <rect x=\"230\" y=\"30\" width=\"100\" height=\"76\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"54\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Navarra</text>\n  <text x=\"280\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">incorporada</text>\n  <text x=\"280\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">en 1512</text>\n</svg>\n<figcaption>Instituciones y territorio al servicio de una monarquía más fuerte.</figcaption>\n</figure>\n\n<h2>Lo esencial</h2>\n\n<h3>Cronología</h3>\n\n<table>\n  <tr><th>Fecha</th><th>Acontecimiento</th></tr>\n  <tr><td>1469</td><td>Matrimonio de Isabel y Fernando</td></tr>\n  <tr><td>1478</td><td>Creación de la Inquisición</td></tr>\n  <tr><td>1492</td><td>Granada · Colón · expulsión judíos</td></tr>\n  <tr><td>1512</td><td>Incorporación de Navarra</td></tr>\n  <tr><td>1516</td><td>Comienza el reinado de los Austrias</td></tr>\n</table>\n\n<h3>Términos clave</h3>\n\n<table>\n  <tr><th>Término</th><th>Significado</th></tr>\n  <tr><td>Unión dinástica</td><td>Dos coronas, misma dinastía, reinos distintos</td></tr>\n  <tr><td>Inquisición</td><td>Tribunal de control religioso</td></tr>\n  <tr><td>Santa Hermandad</td><td>Fuerza de orden en Castilla</td></tr>\n  <tr><td>Monarquía autoritaria</td><td>Poder real reforzado frente a la nobleza</td></tr>\n</table>\n\n<h3>Personajes</h3>\n\n<table>\n  <tr><th>Nombre</th><th>Papel</th></tr>\n  <tr><td>Isabel I de Castilla</td><td>Reina de Castilla</td></tr>\n  <tr><td>Fernando II de Aragón</td><td>Rey de Aragón</td></tr>\n  <tr><td>Cristóbal Colón</td><td>Llegó a América en 1492</td></tr>\n  <tr><td>Carlos I</td><td>Nieto y heredero (Austrias)</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  La unión de los Reyes Católicos fue <b>dinástica, no una unificación</b>: Castilla y Aragón conservaron leyes e instituciones propias. Y no confundas la expulsión de los <b>judíos</b> (1492) con la de los <b>moriscos</b>, muy posterior (1609).\n</div>\n\n<blockquote>\n  <p>1492 es el año que abre la España moderna: se cierra la Reconquista, comienza el Imperio atlántico y se impone la unidad religiosa. Con los Reyes Católicos nace una monarquía llamada a dominar el mundo.</p>\n</blockquote>\n",
+  "questionLang": "es",
+  "answerLang": "es",
+  "version": 1,
+  "level": "Bachillerato",
+  "theme": "Historia de España",
+  "cards": [
+    {
+      "recto": "¿Quiénes fueron los Reyes Católicos?",
+      "verso": "Isabel I de Castilla y Fernando II de Aragón",
+      "explanation": "Su matrimonio en 1469 unió las dos grandes coronas peninsulares bajo una misma dinastía, base de la futura monarquía hispánica.",
+      "tags": [
+        "reyes-catolicos",
+        "personajes"
+      ],
+      "distractors": {
+        "easy": [
+          "Carlos V y Felipe II",
+          "Los Borbones",
+          "Napoleón y Josefina"
+        ],
+        "medium": [
+          "Felipe II e Isabel de Valois",
+          "Juana la Loca y Felipe el Hermoso",
+          "Carlos III y María Amalia"
+        ],
+        "hard": [
+          "Enrique IV y Blanca de Navarra",
+          "Alfonso X y Violante",
+          "Pedro I y María de Padilla"
+        ]
+      }
+    },
+    {
+      "recto": "¿En qué año se casaron Isabel y Fernando, uniendo sus coronas?",
+      "verso": "En 1469",
+      "explanation": "El matrimonio de 1469 unió dinásticamente Castilla y Aragón. Al acceder ambos al trono, sus reinos quedaron bajo una misma monarquía.",
+      "tags": [
+        "reyes-catolicos",
+        "fechas"
+      ],
+      "distractors": {
+        "easy": [
+          "En 1808",
+          "En 1492",
+          "En 1700"
+        ],
+        "medium": [
+          "En 1479",
+          "En 1516",
+          "En 1512"
+        ],
+        "hard": [
+          "En 1474",
+          "En 1469 no, en 1489",
+          "En 1504"
+        ]
+      }
+    },
+    {
+      "recto": "¿Cómo se llama la unión de Castilla y Aragón bajo los Reyes Católicos?",
+      "verso": "Unión dinástica",
+      "explanation": "Fue una unión de personas (los reyes), no de reinos. Cada corona conservó sus leyes, instituciones y fronteras propias.",
+      "tags": [
+        "reyes-catolicos",
+        "conceptos"
+      ],
+      "distractors": {
+        "easy": [
+          "Una república",
+          "Una colonia",
+          "Un imperio único centralizado"
+        ],
+        "medium": [
+          "Una unión aduanera",
+          "Una federación moderna",
+          "Una unión monetaria"
+        ],
+        "hard": [
+          "Una unión legislativa total",
+          "Un Estado unitario",
+          "Una unión personal solo temporal"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] ¿Crearon los Reyes Católicos una España unificada, con un solo sistema de leyes?",
+      "verso": "No; cada reino (Castilla, Aragón) conservó sus propias leyes, cortes e instituciones",
+      "explanation": "Error frecuente. La unión fue dinástica, no una unificación política. Castilla y Aragón siguieron siendo reinos distintos con instituciones separadas.",
+      "tags": [
+        "piege",
+        "reyes-catolicos"
+      ],
+      "distractors": {
+        "easy": [
+          "Sí, con un único sistema de leyes",
+          "Sí, un Estado moderno unitario",
+          "Sí, abolieron todos los reinos"
+        ],
+        "medium": [
+          "Sí, unificaron todas las cortes",
+          "Sí, crearon una sola moneda y ley",
+          "No, porque nunca se unieron"
+        ],
+        "hard": [
+          "Sí, con una constitución común",
+          "Sí, fusionaron Castilla y Aragón en uno",
+          "No, porque solo reinó Isabel"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué reino musulmán conquistaron los Reyes Católicos en 1492, acabando la Reconquista?",
+      "verso": "El Reino nazarí de Granada",
+      "explanation": "La toma de Granada en 1492 puso fin a casi ocho siglos de presencia musulmana en la Península y completó la Reconquista.",
+      "tags": [
+        "reyes-catolicos",
+        "reconquista"
+      ],
+      "distractors": {
+        "easy": [
+          "El Reino de Portugal",
+          "El Reino de Navarra",
+          "El Reino de Nápoles"
+        ],
+        "medium": [
+          "El Califato de Córdoba",
+          "El Reino de Toledo",
+          "El Reino de Sevilla"
+        ],
+        "hard": [
+          "La taifa de Zaragoza",
+          "El Reino de Valencia",
+          "El Reino de Murcia"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué gran expedición patrocinó Isabel de Castilla en 1492?",
+      "verso": "El viaje de Cristóbal Colón, que llegó a América",
+      "explanation": "En 1492 Colón, financiado por Castilla, llegó a América. Fue el inicio de la expansión atlántica y del futuro imperio español.",
+      "tags": [
+        "reyes-catolicos",
+        "descubrimiento"
+      ],
+      "distractors": {
+        "easy": [
+          "El viaje a la Luna",
+          "La vuelta al mundo de Magallanes",
+          "La conquista de Roma"
+        ],
+        "medium": [
+          "El viaje de Vasco de Gama",
+          "La expedición de Cortés",
+          "El viaje de Marco Polo"
+        ],
+        "hard": [
+          "El viaje de Elcano",
+          "La expedición de Pizarro",
+          "El viaje de Américo Vespucio"
+        ]
+      }
+    },
+    {
+      "recto": "¿Quién dirigió el viaje de 1492 que llegó a América?",
+      "verso": "Cristóbal Colón",
+      "explanation": "Colón buscaba una ruta a Asia por el oeste y llegó a América sin saberlo. Su viaje abrió una nueva era de exploración y conquista.",
+      "tags": [
+        "reyes-catolicos",
+        "personajes"
+      ],
+      "distractors": {
+        "easy": [
+          "Napoleón",
+          "Julio César",
+          "Felipe II"
+        ],
+        "medium": [
+          "Fernando de Magallanes",
+          "Hernán Cortés",
+          "Francisco Pizarro"
+        ],
+        "hard": [
+          "Juan Sebastián Elcano",
+          "Américo Vespucio",
+          "Vasco Núñez de Balboa"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué tribunal crearon los Reyes Católicos para vigilar la ortodoxia religiosa?",
+      "verso": "La Inquisición (Santo Oficio)",
+      "explanation": "La Inquisición perseguía la herejía y controlaba la fe. Fue un instrumento de unidad religiosa y de poder de la monarquía.",
+      "tags": [
+        "reyes-catolicos",
+        "religión"
+      ],
+      "distractors": {
+        "easy": [
+          "El Parlamento",
+          "El Senado romano",
+          "La ONU"
+        ],
+        "medium": [
+          "Las Cortes de Castilla",
+          "El Consejo de Indias",
+          "La Mesta"
+        ],
+        "hard": [
+          "El Consejo de Aragón",
+          "La Santa Hermandad",
+          "El Tribunal de las Aguas"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué comunidad religiosa fue expulsada de los reinos en 1492?",
+      "verso": "Los judíos (comunidad judía)",
+      "explanation": "En 1492 los Reyes Católicos ordenaron la expulsión de los judíos que no se convirtieran al cristianismo, buscando la unidad religiosa.",
+      "tags": [
+        "reyes-catolicos",
+        "religión"
+      ],
+      "distractors": {
+        "easy": [
+          "Los cristianos",
+          "Los romanos",
+          "Los ingleses"
+        ],
+        "medium": [
+          "Los mudéjares al completo",
+          "Los mozárabes",
+          "Los protestantes"
+        ],
+        "hard": [
+          "Los conversos",
+          "Los moriscos (fue en 1609)",
+          "Los cátaros"
+        ]
+      }
+    },
+    {
+      "recto": "[Compara] ¿En qué se diferenciaban las coronas de Castilla y Aragón?",
+      "verso": "Castilla era más extensa, poblada y atlántica; Aragón era mediterránea y con instituciones más pactistas",
+      "explanation": "Castilla, mayor y volcada al Atlántico, lideró la expansión americana. Aragón, mediterránea, tenía cortes fuertes y una tradición más pactista.",
+      "tags": [
+        "comparaison",
+        "reinos"
+      ],
+      "distractors": {
+        "easy": [
+          "Eran exactamente iguales",
+          "Ambas eran musulmanas",
+          "Ambas estaban en América"
+        ],
+        "medium": [
+          "Castilla era mediterránea; Aragón, atlántica",
+          "Ambas tenían las mismas cortes",
+          "Aragón era mayor y más poblada"
+        ],
+        "hard": [
+          "Castilla era pactista; Aragón, autoritaria",
+          "Ambas rechazaban el Atlántico",
+          "Castilla no tenía cortes"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué reino incorporó Fernando el Católico a la Corona de Castilla en 1512?",
+      "verso": "El Reino de Navarra",
+      "explanation": "En 1512 Fernando incorporó Navarra, completando la unión territorial peninsular (salvo Portugal) bajo la misma monarquía.",
+      "tags": [
+        "reyes-catolicos",
+        "territorio"
+      ],
+      "distractors": {
+        "easy": [
+          "Inglaterra",
+          "Francia",
+          "Italia entera"
+        ],
+        "medium": [
+          "Portugal",
+          "El Reino de Granada",
+          "El Reino de Nápoles"
+        ],
+        "hard": [
+          "El Rosellón",
+          "El Reino de Sicilia",
+          "El Milanesado"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué buscaban los Reyes Católicos al reforzar el poder de la monarquía frente a la nobleza?",
+      "verso": "Fortalecer la autoridad real (monarquía autoritaria)",
+      "explanation": "Los Reyes Católicos sometieron a la nobleza levantisca y crearon instituciones de control, sentando las bases del Estado moderno.",
+      "tags": [
+        "reyes-catolicos",
+        "política"
+      ],
+      "distractors": {
+        "easy": [
+          "Crear una república",
+          "Entregar el poder al pueblo",
+          "Abolir la monarquía"
+        ],
+        "medium": [
+          "Dar todo el poder a la nobleza",
+          "Instaurar la democracia",
+          "Depender del Papa en todo"
+        ],
+        "hard": [
+          "Reforzar el feudalismo señorial",
+          "Ceder el poder a las cortes",
+          "Dividir el reino entre nobles"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué institución crearon para perseguir la delincuencia y mantener el orden en Castilla?",
+      "verso": "La Santa Hermandad",
+      "explanation": "La Santa Hermandad fue una especie de policía rural que perseguía el bandolerismo, reforzando el orden y la autoridad real.",
+      "tags": [
+        "reyes-catolicos",
+        "instituciones"
+      ],
+      "distractors": {
+        "easy": [
+          "La ONU",
+          "La Guardia Civil actual",
+          "El ejército de Napoleón"
+        ],
+        "medium": [
+          "La Inquisición",
+          "La Mesta",
+          "El Consejo de Indias"
+        ],
+        "hard": [
+          "El Consejo de Castilla",
+          "Las Germanías",
+          "La Diputación del General"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué título concedió el Papa a Isabel y Fernando por su defensa del catolicismo?",
+      "verso": "El título de 'Reyes Católicos'",
+      "explanation": "El Papa Alejandro VI les concedió este título por completar la Reconquista y defender la fe. Con él se les conoce en la historia.",
+      "tags": [
+        "reyes-catolicos",
+        "conceptos"
+      ],
+      "distractors": {
+        "easy": [
+          "Emperadores de Roma",
+          "Zares de Rusia",
+          "Sultanes"
+        ],
+        "medium": [
+          "Reyes Cristianísimos",
+          "Reyes de las Indias",
+          "Defensores de la Fe (título inglés)"
+        ],
+        "hard": [
+          "Reyes Apostólicos",
+          "Grandes Duques",
+          "Reyes Serenísimos"
+        ]
+      }
+    },
+    {
+      "recto": "En conjunto, ¿por qué 1492 es un año clave en la historia de España?",
+      "verso": "Coinciden la toma de Granada, el viaje a América y la expulsión de los judíos",
+      "explanation": "En 1492 se completa la Reconquista, comienza la expansión atlántica y se impone la unidad religiosa: un año que marca el inicio de la España moderna.",
+      "tags": [
+        "reyes-catolicos",
+        "síntesis"
+      ],
+      "distractors": {
+        "easy": [
+          "No pasó nada relevante ese año",
+          "Solo se fundó Madrid",
+          "Se independizó de Roma"
+        ],
+        "medium": [
+          "Empezó la Guerra Civil",
+          "Se proclamó la República",
+          "Napoleón invadió España"
+        ],
+        "hard": [
+          "Se firmó la Constitución de Cádiz",
+          "Murió Felipe II",
+          "Comenzó la Transición"
+        ]
+      }
+    },
+    {
+      "recto": "Tras los Reyes Católicos, ¿qué dinastía heredó la monarquía a través de su nieto Carlos?",
+      "verso": "La dinastía de los Austrias (Habsburgo)",
+      "explanation": "Su nieto Carlos I heredó las coronas y, además, el Imperio, iniciando el reinado de los Austrias y el gran Imperio español.",
+      "tags": [
+        "reyes-catolicos",
+        "consecuencias"
+      ],
+      "distractors": {
+        "easy": [
+          "Los Borbones",
+          "Los Tudor",
+          "Los Romanov"
+        ],
+        "medium": [
+          "Los Trastámara solo",
+          "Los Capetos",
+          "Los Saboya"
+        ],
+        "hard": [
+          "Los Valois",
+          "Los Estuardo",
+          "Los Hohenzollern"
+        ]
+      }
+    }
+  ]
+}

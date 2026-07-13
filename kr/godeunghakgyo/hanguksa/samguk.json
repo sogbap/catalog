@@ -1,0 +1,432 @@
+{
+  "id": "kr-godeunghakgyo-hanguksa-samguk",
+  "title": "삼국 시대 (고구려·백제·신라)",
+  "emoji": "🐉",
+  "subject": "history",
+  "country": "kr",
+  "courseDescription": "고구려·백제·신라 삼국의 성립과 발전, 각 나라의 전성기와 한강 유역을 둘러싼 경쟁을 살펴본다.",
+  "lesson": "<style>\n  /* SVG 그림 스타일. currentColor(글자색)와 var(--accent)(과목 색)를 사용해\n     앱의 밝은/어두운 테마에 맞춰 표시된다. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Apple SD Gothic Neo\", \"Noto Sans KR\", \"Malgun Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>삼국 시대 (고구려·백제·신라)</h1>\n\n<div class=\"callout\">\n  <strong>학습 포인트</strong><br>\n  <b>수준:</b> 고등학교<br>\n  <b>주제:</b> 한국사<br>\n  <b>시기:</b> 기원 전후 ~ 6세기\n</div>\n\n<blockquote>\n  <p><b>핵심 질문.</b> 고구려·백제·신라는 어떻게 성장하였고, 왜 한강 유역을 두고 다투었을까?</p>\n</blockquote>\n\n<p><strong>고구려·백제·신라</strong>는 저마다 <strong>율령</strong>과 <strong>불교</strong>로 왕권을 강화하며 중앙 집권 국가로 성장하였다. 세 나라는 <strong>한강 유역</strong>을 차지하려 경쟁하였고, 전성기는 <strong>백제(4세기) → 고구려(5세기) → 신라(6세기)</strong> 순서로 찾아왔다.</p>\n\n<h2>1 · 삼국의 성립과 발전</h2>\n\n<p>주몽(고구려), 온조(백제), 박혁거세(신라)가 각 나라를 세웠다고 전해진다. 삼국은 <strong>율령 반포</strong>, <strong>불교 수용</strong>, 관등제 정비로 <strong>왕권을 강화</strong>하며 중앙 집권 국가로 발전하였다.</p>\n\n<div class=\"callout\">\n  <strong>개념 · 불교와 왕권</strong><br>\n  삼국은 중국에서 불교를 받아들였다. '왕이 곧 부처'라는 관념 등을 통해 <b>왕권을 뒷받침</b>하고, 백성의 마음을 하나로 모으는 데 이용하였다.\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"삼국이 중앙 집권 국가로 발전한 방법\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">왕권 강화의 방법</text>\n  <rect x=\"10\" y=\"30\" width=\"100\" height=\"76\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">율령</text>\n  <text x=\"60\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">법과 제도</text>\n  <text x=\"60\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">정비</text>\n  <rect x=\"120\" y=\"30\" width=\"100\" height=\"76\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">불교</text>\n  <text x=\"170\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">사상 통합</text>\n  <text x=\"170\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">왕권 뒷받침</text>\n  <rect x=\"230\" y=\"30\" width=\"100\" height=\"76\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">영토 확장</text>\n  <text x=\"280\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">정복 전쟁</text>\n  <text x=\"280\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">관등제</text>\n</svg>\n<figcaption>세 나라 모두 비슷한 방법으로 왕권을 강화하였다.</figcaption>\n</figure>\n\n<h2>2 · 삼국의 전성기</h2>\n\n<p>세 나라의 전성기는 시기를 달리하였다. <strong>4세기 백제</strong>(근초고왕), <strong>5세기 고구려</strong>(광개토대왕·장수왕), <strong>6세기 신라</strong>(진흥왕) 순이다. 전성기를 맞은 나라는 모두 <strong>한강 유역</strong>을 차지하였다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"삼국의 전성기 순서: 백제 4세기, 고구려 5세기, 신라 6세기\">\n  <defs>\n    <marker id=\"ar-krs1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"92\" height=\"56\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">백제</text>\n  <text x=\"54\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">4세기</text>\n  <text x=\"54\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">근초고왕</text>\n  <path d=\"M100,70 L118,70\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-krs1)\"/>\n  <rect x=\"122\" y=\"42\" width=\"96\" height=\"56\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">고구려</text>\n  <text x=\"170\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">5세기</text>\n  <text x=\"170\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">광개토대왕·장수왕</text>\n  <path d=\"M218,70 L236,70\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-krs1)\"/>\n  <rect x=\"240\" y=\"42\" width=\"92\" height=\"56\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">신라</text>\n  <text x=\"286\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">6세기</text>\n  <text x=\"286\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">진흥왕</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">전성기가 온 순서</text>\n</svg>\n<figcaption>전성기는 백제 → 고구려 → 신라 순서로 찾아왔다.</figcaption>\n</figure>\n\n<h2>3 · 한강 유역과 가야</h2>\n\n<p><strong>한강 유역</strong>은 넓은 평야와 교통, 중국 교류에 유리하여 삼국이 모두 탐냈다. 한편 낙동강 하류의 <strong>가야</strong>는 철 생산으로 번영했으나, 중앙 집권을 이루지 못하고 결국 <strong>신라에 병합</strong>되었다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"삼국이 모두 차지하려 한 한강 유역의 중요성\">\n  <rect x=\"95\" y=\"10\" width=\"150\" height=\"40\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"28\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">한강 유역</text>\n  <text x=\"170\" y=\"43\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">평야·교통·중국 교류</text>\n  <path d=\"M140,50 L70,84\" style=\"fill:none;stroke:var(--accent);stroke-width:2\"/>\n  <path d=\"M170,50 L170,84\" style=\"fill:none;stroke:var(--accent);stroke-width:2\"/>\n  <path d=\"M200,50 L270,84\" style=\"fill:none;stroke:var(--accent);stroke-width:2\"/>\n  <rect x=\"20\" y=\"86\" width=\"90\" height=\"28\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"65\" y=\"104\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">고구려</text>\n  <rect x=\"125\" y=\"86\" width=\"90\" height=\"28\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"170\" y=\"104\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">백제</text>\n  <rect x=\"230\" y=\"86\" width=\"90\" height=\"28\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"275\" y=\"104\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">신라</text>\n</svg>\n<figcaption>한강을 차지한 나라가 전성기를 누렸다.</figcaption>\n</figure>\n\n<h2>핵심 정리</h2>\n\n<h3>전성기 연표</h3>\n\n<table>\n  <tr><th>세기</th><th>전성기 나라와 왕</th></tr>\n  <tr><td>4세기</td><td>백제 근초고왕</td></tr>\n  <tr><td>5세기</td><td>고구려 광개토대왕·장수왕</td></tr>\n  <tr><td>6세기</td><td>신라 진흥왕</td></tr>\n</table>\n\n<h3>핵심 용어</h3>\n\n<table>\n  <tr><th>용어</th><th>뜻</th></tr>\n  <tr><td>율령</td><td>왕권 강화를 위한 법과 제도</td></tr>\n  <tr><td>불교</td><td>왕권과 사상 통합에 이용한 종교</td></tr>\n  <tr><td>한강 유역</td><td>삼국이 다툰 요충지</td></tr>\n  <tr><td>가야</td><td>신라에 병합된 연맹 왕국</td></tr>\n  <tr><td>화랑도</td><td>신라의 청소년 수양 단체</td></tr>\n</table>\n\n<h3>건국 인물</h3>\n\n<table>\n  <tr><th>나라</th><th>건국 인물</th></tr>\n  <tr><td>고구려</td><td>주몽 (동명성왕)</td></tr>\n  <tr><td>백제</td><td>온조</td></tr>\n  <tr><td>신라</td><td>박혁거세</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>주의</strong><br>\n  신라가 삼국을 통일했다고 해서 전성기도 가장 빨랐던 것은 <b>아니다</b>. 전성기는 <b>백제(4세기) → 고구려(5세기) → 신라(6세기)</b> 순서로 왔다. 순서를 거꾸로 외우지 말자.\n</div>\n\n<blockquote>\n  <p>삼국은 한강을 두고 치열하게 경쟁하며 각자의 문화를 꽃피웠다. 이 오랜 경쟁은 마침내 신라의 삼국 통일로 이어진다.</p>\n</blockquote>\n",
+  "questionLang": "ko",
+  "answerLang": "ko",
+  "version": 1,
+  "level": "고등학교",
+  "theme": "한국사",
+  "cards": [
+    {
+      "recto": "한반도와 만주에서 경쟁한 세 나라, 즉 삼국은 무엇인가?",
+      "verso": "고구려, 백제, 신라",
+      "explanation": "삼국은 고구려·백제·신라로, 저마다 중앙 집권 국가로 성장하며 서로 경쟁하였다. 여기에 가야가 더해져 초기에는 여러 세력이 있었다.",
+      "tags": [
+        "삼국",
+        "개념"
+      ],
+      "distractors": {
+        "easy": [
+          "고려·조선·대한민국",
+          "부여·옥저·동예",
+          "위·촉·오"
+        ],
+        "medium": [
+          "고구려·발해·신라",
+          "백제·가야·왜",
+          "신라·고려·조선"
+        ],
+        "hard": [
+          "고조선·부여·삼한",
+          "고구려·백제·가야",
+          "부여·고구려·백제"
+        ]
+      }
+    },
+    {
+      "recto": "고구려를 세웠다고 전해지는 인물은 누구인가?",
+      "verso": "주몽 (동명성왕)",
+      "explanation": "주몽은 부여에서 남쪽으로 내려와 고구려를 세웠다고 전해진다. 고구려는 만주와 한반도 북부에서 강력한 나라로 성장하였다.",
+      "tags": [
+        "삼국",
+        "인물"
+      ],
+      "distractors": {
+        "easy": [
+          "세종대왕",
+          "이성계",
+          "왕건"
+        ],
+        "medium": [
+          "온조",
+          "박혁거세",
+          "김수로"
+        ],
+        "hard": [
+          "근초고왕",
+          "광개토대왕",
+          "진흥왕"
+        ]
+      }
+    },
+    {
+      "recto": "삼국이 공통적으로 왕권을 강화하며 중앙 집권 국가로 발전한 방법이 아닌 것은?",
+      "verso": "선거를 통한 대통령 선출",
+      "explanation": "삼국은 율령 반포, 불교 수용, 관등제 정비 등으로 왕권을 강화하였다. 선거로 지도자를 뽑는 것은 현대 민주주의의 방식으로, 이 시기와 무관하다.",
+      "tags": [
+        "삼국",
+        "발전"
+      ],
+      "distractors": {
+        "easy": [
+          "율령 반포",
+          "불교 수용",
+          "관등제 정비"
+        ],
+        "medium": [
+          "왕위의 부자 세습",
+          "중앙 관제 정비",
+          "영토 확장"
+        ],
+        "hard": [
+          "역사서 편찬",
+          "지방 제도 정비",
+          "왕호의 사용"
+        ]
+      }
+    },
+    {
+      "recto": "삼국이 받아들여 왕권 강화와 사상 통합에 이용한 종교는?",
+      "verso": "불교",
+      "explanation": "삼국은 중국에서 불교를 받아들였다. 불교는 '왕이 곧 부처'라는 관념 등을 통해 왕권을 뒷받침하고 백성의 마음을 하나로 모으는 데 쓰였다.",
+      "tags": [
+        "삼국",
+        "문화"
+      ],
+      "distractors": {
+        "easy": [
+          "크리스트교",
+          "이슬람교",
+          "힌두교"
+        ],
+        "medium": [
+          "도교만",
+          "유교만",
+          "천주교"
+        ],
+        "hard": [
+          "동학",
+          "천도교",
+          "대종교"
+        ]
+      }
+    },
+    {
+      "recto": "4세기, 백제의 전성기를 이끈 왕은 누구인가?",
+      "verso": "근초고왕",
+      "explanation": "4세기 근초고왕 때 백제는 전성기를 맞아 영토를 넓히고 고구려를 공격하였으며, 중국·왜와 활발히 교류하였다.",
+      "tags": [
+        "백제",
+        "전성기"
+      ],
+      "distractors": {
+        "easy": [
+          "세종대왕",
+          "광개토대왕",
+          "진흥왕"
+        ],
+        "medium": [
+          "주몽",
+          "박혁거세",
+          "장수왕"
+        ],
+        "hard": [
+          "성왕",
+          "무령왕",
+          "의자왕"
+        ]
+      }
+    },
+    {
+      "recto": "5세기, 만주 대부분을 차지하며 고구려의 최대 전성기를 이끈 왕은?",
+      "verso": "광개토대왕",
+      "explanation": "광개토대왕은 사방으로 영토를 크게 넓혀 고구려를 동북아시아의 강국으로 만들었다. 그 업적은 광개토대왕릉비에 새겨져 있다.",
+      "tags": [
+        "고구려",
+        "전성기"
+      ],
+      "distractors": {
+        "easy": [
+          "근초고왕",
+          "진흥왕",
+          "세종대왕"
+        ],
+        "medium": [
+          "주몽",
+          "온조",
+          "박혁거세"
+        ],
+        "hard": [
+          "소수림왕",
+          "장수왕",
+          "미천왕"
+        ]
+      }
+    },
+    {
+      "recto": "광개토대왕의 뒤를 이어 평양으로 도읍을 옮기고 남쪽으로 세력을 넓힌 고구려 왕은?",
+      "verso": "장수왕",
+      "explanation": "장수왕은 평양으로 천도하고 남진 정책을 펴서 한강 유역까지 차지하였다. 백제의 수도를 함락하기도 하였다.",
+      "tags": [
+        "고구려",
+        "전성기"
+      ],
+      "distractors": {
+        "easy": [
+          "근초고왕",
+          "진흥왕",
+          "이성계"
+        ],
+        "medium": [
+          "광개토대왕",
+          "소수림왕",
+          "온조"
+        ],
+        "hard": [
+          "문자왕",
+          "미천왕",
+          "고국천왕"
+        ]
+      }
+    },
+    {
+      "recto": "6세기, 한강 유역을 차지하고 신라의 전성기를 이끈 왕은?",
+      "verso": "진흥왕",
+      "explanation": "6세기 진흥왕은 한강 유역을 완전히 차지하고 대가야를 병합하는 등 영토를 크게 넓혔다. 곳곳에 순수비를 세웠다.",
+      "tags": [
+        "신라",
+        "전성기"
+      ],
+      "distractors": {
+        "easy": [
+          "광개토대왕",
+          "근초고왕",
+          "세종대왕"
+        ],
+        "medium": [
+          "법흥왕",
+          "지증왕",
+          "박혁거세"
+        ],
+        "hard": [
+          "진평왕",
+          "선덕여왕",
+          "무열왕"
+        ]
+      }
+    },
+    {
+      "recto": "[비교] 삼국의 전성기를 이끈 대표 왕을 나라별로 바르게 짝지은 것은?",
+      "verso": "백제 근초고왕(4세기), 고구려 광개토대왕·장수왕(5세기), 신라 진흥왕(6세기)",
+      "explanation": "삼국은 시기를 달리하여 전성기를 맞았다. 4세기 백제(근초고왕), 5세기 고구려(광개토대왕·장수왕), 6세기 신라(진흥왕) 순이다.",
+      "tags": [
+        "comparaison",
+        "삼국"
+      ],
+      "distractors": {
+        "easy": [
+          "세 나라 모두 진흥왕이 이끌었다",
+          "세 나라 모두 광개토대왕이 이끌었다",
+          "세 나라 모두 세종대왕이 이끌었다"
+        ],
+        "medium": [
+          "백제 진흥왕, 고구려 근초고왕, 신라 광개토대왕",
+          "세 나라의 전성기 왕은 모두 같은 사람이다",
+          "고구려 진흥왕, 신라 근초고왕, 백제 장수왕"
+        ],
+        "hard": [
+          "백제 광개토대왕, 고구려 진흥왕, 신라 근초고왕",
+          "신라 근초고왕, 백제 진흥왕, 고구려 광개토대왕",
+          "세 나라 모두 왕이 없었다"
+        ]
+      }
+    },
+    {
+      "recto": "[주의] 삼국의 전성기는 신라 → 고구려 → 백제 순서로 왔는가?",
+      "verso": "아니다. 백제(4세기) → 고구려(5세기) → 신라(6세기) 순서로 전성기가 왔다",
+      "explanation": "흔한 오해이다. 신라가 삼국을 통일했다고 해서 전성기도 가장 빨랐던 것은 아니다. 전성기는 백제 → 고구려 → 신라 순서로 찾아왔다.",
+      "tags": [
+        "piege",
+        "삼국"
+      ],
+      "distractors": {
+        "easy": [
+          "그렇다. 신라가 가장 먼저였다",
+          "그렇다. 백제가 가장 늦었다",
+          "그렇다. 순서는 신라·고구려·백제이다"
+        ],
+        "medium": [
+          "그렇다. 세 나라 동시에 전성기였다",
+          "그렇다. 신라가 4세기에 전성기였다",
+          "아니다. 세 나라 모두 전성기가 없었다"
+        ],
+        "hard": [
+          "그렇다. 고구려가 6세기에 전성기였다",
+          "그렇다. 백제가 5세기에 전성기였다",
+          "아니다. 고구려 → 신라 → 백제 순서이다"
+        ]
+      }
+    },
+    {
+      "recto": "삼국이 서로 차지하려고 치열하게 다툰, 교통과 농업의 중심지였던 지역은?",
+      "verso": "한강 유역",
+      "explanation": "한강 유역은 넓은 평야와 교통, 중국과의 교류에 유리하여 삼국이 모두 탐냈다. 이 지역을 차지한 나라가 전성기를 누렸다.",
+      "tags": [
+        "삼국",
+        "경쟁"
+      ],
+      "distractors": {
+        "easy": [
+          "제주도",
+          "울릉도",
+          "만리장성"
+        ],
+        "medium": [
+          "낙동강 하류만",
+          "두만강 유역",
+          "요동 반도만"
+        ],
+        "hard": [
+          "대동강 이북만",
+          "금강 하류만",
+          "영산강 유역만"
+        ]
+      }
+    },
+    {
+      "recto": "낙동강 하류에서 여러 소국이 모여 이루었으나 결국 신라에 병합된 세력은?",
+      "verso": "가야 (가야 연맹)",
+      "explanation": "가야는 낙동강 하류의 연맹 왕국으로 철 생산과 교역이 발달하였다. 그러나 중앙 집권을 이루지 못하고 신라에 병합되었다.",
+      "tags": [
+        "삼국",
+        "가야"
+      ],
+      "distractors": {
+        "easy": [
+          "고려",
+          "조선",
+          "발해"
+        ],
+        "medium": [
+          "부여",
+          "옥저",
+          "동예"
+        ],
+        "hard": [
+          "삼한 전체",
+          "왜",
+          "탐라"
+        ]
+      }
+    },
+    {
+      "recto": "백제를 세웠다고 전해지는 인물은 누구인가?",
+      "verso": "온조",
+      "explanation": "온조는 고구려에서 남쪽으로 내려와 한강 유역에 백제를 세웠다고 전해진다. 백제는 한강을 바탕으로 일찍부터 발전하였다.",
+      "tags": [
+        "백제",
+        "인물"
+      ],
+      "distractors": {
+        "easy": [
+          "세종대왕",
+          "이순신",
+          "김유신"
+        ],
+        "medium": [
+          "주몽",
+          "박혁거세",
+          "김수로"
+        ],
+        "hard": [
+          "근초고왕",
+          "온달",
+          "계백"
+        ]
+      }
+    },
+    {
+      "recto": "삼국의 문화는 바다 건너 어느 나라에 전해져 큰 영향을 주었는가?",
+      "verso": "일본 (왜)",
+      "explanation": "특히 백제는 불교·한자·기술을 일본에 전하여 아스카 문화의 발전에 큰 영향을 주었다. 삼국의 문화는 동아시아로 퍼져 나갔다.",
+      "tags": [
+        "삼국",
+        "문화"
+      ],
+      "distractors": {
+        "easy": [
+          "미국",
+          "영국",
+          "인도"
+        ],
+        "medium": [
+          "몽골",
+          "베트남",
+          "태국"
+        ],
+        "hard": [
+          "로마",
+          "페르시아",
+          "아라비아"
+        ]
+      }
+    },
+    {
+      "recto": "신라의 청소년 수양 단체로, 인재를 기르고 나라에 이바지한 조직은?",
+      "verso": "화랑도",
+      "explanation": "화랑도는 신라의 청소년 조직으로, 심신을 닦고 무예를 익혔다. 훗날 삼국 통일 과정에서 많은 인재를 배출하였다.",
+      "tags": [
+        "신라",
+        "사회"
+      ],
+      "distractors": {
+        "easy": [
+          "보이스카우트",
+          "올림픽 대표팀",
+          "과거 제도"
+        ],
+        "medium": [
+          "골품제",
+          "화백 회의",
+          "제천 행사"
+        ],
+        "hard": [
+          "국자감",
+          "성균관",
+          "향약"
+        ]
+      }
+    },
+    {
+      "recto": "전체적으로 삼국 시대는 어떤 시기였다고 볼 수 있는가?",
+      "verso": "세 나라가 중앙 집권 국가로 성장하며 한강 유역을 놓고 경쟁한 시기",
+      "explanation": "삼국은 저마다 율령·불교 등으로 왕권을 강화하고 영토를 넓히며 경쟁하였다. 이 경쟁은 뒷날 신라의 삼국 통일로 이어진다.",
+      "tags": [
+        "삼국",
+        "정리"
+      ],
+      "distractors": {
+        "easy": [
+          "한 나라가 평화롭게 다스린 시기",
+          "국가가 전혀 없던 시기",
+          "외국이 지배한 시기"
+        ],
+        "medium": [
+          "세 나라가 전혀 다투지 않은 시기",
+          "농사를 짓지 않던 시기",
+          "불교가 없던 시기"
+        ],
+        "hard": [
+          "이미 통일이 이루어진 시기",
+          "청동기만 사용한 시기",
+          "왕이 없던 시기"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "id": "de-gymnasium-geschichte-geteiltes-deutschland",
+  "title": "Geteiltes Deutschland und Wiedervereinigung",
+  "emoji": "🧱",
+  "subject": "history",
+  "country": "de",
+  "courseDescription": "Die Teilung Deutschlands im Kalten Krieg, das Leben in BRD und DDR, der Mauerbau und die Wiedervereinigung 1990.",
+  "lesson": "<style>\n  /* Stile der SVG-Grafiken. Nutzen currentColor (Textfarbe) und var(--accent)\n     (Fachfarbe) und passen sich dem hellen/dunklen Design der App an. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Geteiltes Deutschland und Wiedervereinigung</h1>\n\n<div class=\"callout\">\n  <strong>Überblick</strong><br>\n  <b>Stufe:</b> Gymnasium<br>\n  <b>Thema:</b> Geschichte<br>\n  <b>Zeitraum:</b> 1945 — 1990\n</div>\n\n<blockquote>\n  <p><b>Leitfrage.</b> Warum wurde Deutschland geteilt — und wie fand es 1990 friedlich wieder zusammen?</p>\n</blockquote>\n\n<p>Nach 1945 teilte der <strong>Kalte Krieg</strong> Deutschland: 1949 entstanden die westliche <strong>BRD</strong> und die östliche <strong>DDR</strong>. 1961 baute die DDR die <strong>Berliner Mauer</strong>. Die <strong>Friedliche Revolution</strong> von 1989 brachte den <strong>Mauerfall</strong> — und 1990 die <strong>Wiedervereinigung</strong>.</p>\n\n<h2>1 · Zwei Staaten, zwei Systeme</h2>\n\n<p>Aus den vier Besatzungszonen entstanden 1949 zwei Staaten. Die <strong>BRD</strong> war eine <strong>Demokratie</strong> mit <strong>Marktwirtschaft</strong> (Westen); die <strong>DDR</strong> ein <strong>sozialistischer</strong> Staat mit <strong>Einparteiherrschaft</strong> (SED) und Planwirtschaft (Osten).</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Vergleich zwischen BRD und DDR\">\n  <rect x=\"12\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">BRD (Westen)</text>\n  <text x=\"87\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Demokratie</text>\n  <text x=\"87\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Marktwirtschaft</text>\n  <text x=\"87\" y=\"106\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">westlich gebunden</text>\n  <rect x=\"178\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">DDR (Osten)</text>\n  <text x=\"253\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">SED-Herrschaft</text>\n  <text x=\"253\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">Planwirtschaft</text>\n  <text x=\"253\" y=\"106\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">an die UdSSR gebunden</text>\n</svg>\n<figcaption>Ein Land, zwei Staaten und zwei völlig verschiedene Systeme.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Begriff · Kalter Krieg</strong><br>\n  Der Gegensatz zwischen dem kapitalistischen Westen (USA) und dem kommunistischen Osten (UdSSR) nach 1945. Er verlief mitten durch Deutschland und Berlin und teilte das Land.\n</div>\n\n<h2>2 · Die Berliner Mauer</h2>\n\n<p>Weil zu viele Menschen aus der DDR in den Westen flohen, baute die <strong>DDR 1961</strong> die <strong>Berliner Mauer</strong>. Sie sollte die eigene Bevölkerung an der Flucht hindern und wurde zum Symbol der Teilung. Vorher hatte die <strong>Luftbrücke</strong> (1948/49) West-Berlin versorgt.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"Vom Mauerbau 1961 zum Mauerfall 1989\">\n  <defs>\n    <marker id=\"ar-degd1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"14\" y=\"40\" width=\"120\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"74\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Mauerbau</text>\n  <text x=\"74\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">1961 · gegen die Flucht</text>\n  <path d=\"M134,66 L184,66\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-degd1)\"/>\n  <text x=\"159\" y=\"58\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">28 Jahre</text>\n  <rect x=\"188\" y=\"40\" width=\"140\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"258\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Mauerfall</text>\n  <text x=\"258\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">9. November 1989</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">das Symbol der Teilung</text>\n</svg>\n<figcaption>28 Jahre trennte die Mauer die Stadt — bis 1989.</figcaption>\n</figure>\n\n<h2>3 · Friedliche Revolution und Einheit</h2>\n\n<p>1989 gingen in der DDR Hunderttausende friedlich auf die Straße ('Wir sind das Volk'). Am <strong>9. November 1989</strong> fiel die <strong>Mauer</strong>. Am <strong>3. Oktober 1990</strong> folgte die <strong>Wiedervereinigung</strong> — Deutschland war nach 41 Jahren wieder ein Staat.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 160\" role=\"img\" aria-label=\"Zeitleiste der deutschen Teilung und Wiedervereinigung\">\n  <line x1=\"26\" y1=\"16\" x2=\"26\" y2=\"146\" style=\"stroke:var(--accent);stroke-opacity:.4;stroke-width:2\"/>\n  <circle cx=\"26\" cy=\"24\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"21\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1949</text>\n  <text x=\"40\" y=\"34\" class=\"s-muted\" font-size=\"10\">Gründung von BRD und DDR</text>\n  <circle cx=\"26\" cy=\"62\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"59\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1961</text>\n  <text x=\"40\" y=\"72\" class=\"s-muted\" font-size=\"10\">Bau der Berliner Mauer</text>\n  <circle cx=\"26\" cy=\"100\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"97\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1989</text>\n  <text x=\"40\" y=\"110\" class=\"s-muted\" font-size=\"10\">Friedliche Revolution; Mauerfall</text>\n  <circle cx=\"26\" cy=\"140\" r=\"5\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"137\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1990</text>\n  <text x=\"40\" y=\"150\" class=\"s-muted\" font-size=\"10\">Wiedervereinigung</text>\n</svg>\n<figcaption>Von der Gründung zweier Staaten bis zur Einheit 1990.</figcaption>\n</figure>\n\n<h2>Das Wesentliche</h2>\n\n<h3>Zeitleiste</h3>\n\n<table>\n  <tr><th>Jahr</th><th>Ereignis</th></tr>\n  <tr><td>1945</td><td>Vier Besatzungszonen</td></tr>\n  <tr><td>1948/49</td><td>Berlin-Blockade und Luftbrücke</td></tr>\n  <tr><td>1949</td><td>Gründung von BRD und DDR</td></tr>\n  <tr><td>1961</td><td>Bau der Berliner Mauer</td></tr>\n  <tr><td>1989</td><td>Friedliche Revolution; Mauerfall</td></tr>\n  <tr><td>1990</td><td>Wiedervereinigung (3. Oktober)</td></tr>\n</table>\n\n<h3>Schlüsselbegriffe</h3>\n\n<table>\n  <tr><th>Begriff</th><th>Bedeutung</th></tr>\n  <tr><td>Kalter Krieg</td><td>Ost-West-Gegensatz nach 1945</td></tr>\n  <tr><td>BRD / DDR</td><td>West- und Oststaat (ab 1949)</td></tr>\n  <tr><td>Luftbrücke</td><td>Versorgung West-Berlins 1948/49</td></tr>\n  <tr><td>Berliner Mauer</td><td>Grenze der DDR (1961-1989)</td></tr>\n  <tr><td>Friedliche Revolution</td><td>Proteste in der DDR 1989</td></tr>\n</table>\n\n<h3>Personen</h3>\n\n<table>\n  <tr><th>Name</th><th>Rolle</th></tr>\n  <tr><td>Konrad Adenauer</td><td>Erster Kanzler der BRD</td></tr>\n  <tr><td>Willy Brandt</td><td>Prägte die Ostpolitik</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Vorsicht</strong><br>\n  Die Berliner Mauer wurde <b>von der DDR</b> gebaut — nicht vom Westen — und zwar, um die <b>eigene Bevölkerung an der Flucht</b> in den Westen zu hindern, nicht zum Schutz. Verwechsle auch BRD (Westen) und DDR (Osten) nicht.\n</div>\n\n<blockquote>\n  <p>41 Jahre lang war Deutschland geteilt, ein Symbol des Kalten Krieges. Dass die Teilung 1989/90 friedlich überwunden wurde, gehört zu den glücklichsten Wendungen der jüngeren Geschichte.</p>\n</blockquote>\n",
+  "questionLang": "de",
+  "answerLang": "de",
+  "version": 1,
+  "level": "Gymnasium",
+  "theme": "Geschichte",
+  "cards": [
+    {
+      "recto": "In wie viele Besatzungszonen wurde Deutschland nach 1945 aufgeteilt?",
+      "verso": "In vier Zonen (USA, Großbritannien, Frankreich, Sowjetunion)",
+      "explanation": "Nach der Kapitulation teilten die Siegermächte Deutschland in vier Besatzungszonen. Aus ihnen entstanden später zwei deutsche Staaten.",
+      "tags": [
+        "teilung",
+        "nachkrieg"
+      ],
+      "distractors": {
+        "easy": [
+          "In zwei Zonen",
+          "In zehn Zonen",
+          "In gar keine Zonen"
+        ],
+        "medium": [
+          "In drei Zonen",
+          "In fünf Zonen",
+          "In sechs Zonen"
+        ],
+        "hard": [
+          "In vier Zonen ohne Berlin",
+          "In zwei Zonen plus Berlin",
+          "In acht Zonen"
+        ]
+      }
+    },
+    {
+      "recto": "Welcher weltweite Konflikt führte zur Teilung Deutschlands in zwei Staaten?",
+      "verso": "Der Kalte Krieg (zwischen USA und Sowjetunion)",
+      "explanation": "Der Gegensatz zwischen dem kapitalistischen Westen und dem kommunistischen Osten (Kalter Krieg) verlief mitten durch Deutschland und teilte es.",
+      "tags": [
+        "teilung",
+        "kontext"
+      ],
+      "distractors": {
+        "easy": [
+          "Der Erste Weltkrieg",
+          "Die Französische Revolution",
+          "Der Dreißigjährige Krieg"
+        ],
+        "medium": [
+          "Der Zweite Weltkrieg selbst",
+          "Der Deutsch-Französische Krieg",
+          "Der Koreakrieg allein"
+        ],
+        "hard": [
+          "Der Vietnamkrieg",
+          "Die Kubakrise allein",
+          "Der Golfkrieg"
+        ]
+      }
+    },
+    {
+      "recto": "Welche beiden deutschen Staaten entstanden 1949?",
+      "verso": "Die BRD (Westen) und die DDR (Osten)",
+      "explanation": "1949 entstanden die Bundesrepublik Deutschland (BRD) im Westen und die Deutsche Demokratische Republik (DDR) im Osten — zwei Staaten, zwei Systeme.",
+      "tags": [
+        "teilung",
+        "daten"
+      ],
+      "distractors": {
+        "easy": [
+          "Preußen und Bayern",
+          "Nord- und Süddeutschland",
+          "Deutschland und Österreich"
+        ],
+        "medium": [
+          "Weimar und das Reich",
+          "Der Deutsche Bund und Preußen",
+          "West-Berlin und Ost-Berlin allein"
+        ],
+        "hard": [
+          "Die Bizone und die Trizone",
+          "Die Saar und das Rheinland",
+          "Der Norddeutsche und der Süddeutsche Bund"
+        ]
+      }
+    },
+    {
+      "recto": "Welches politische und wirtschaftliche System hatte die Bundesrepublik (BRD)?",
+      "verso": "Demokratie und soziale Marktwirtschaft (Westen)",
+      "explanation": "Die BRD war eine parlamentarische Demokratie mit sozialer Marktwirtschaft, eng an den Westen (USA) gebunden. Erster Kanzler war Konrad Adenauer.",
+      "tags": [
+        "brd",
+        "system"
+      ],
+      "distractors": {
+        "easy": [
+          "Eine Monarchie",
+          "Eine Militärdiktatur",
+          "Ein Kaiserreich"
+        ],
+        "medium": [
+          "Ein sozialistisches Einparteiensystem",
+          "Eine Planwirtschaft",
+          "Eine absolute Monarchie"
+        ],
+        "hard": [
+          "Eine Räterepublik",
+          "Eine Theokratie",
+          "Ein Ständestaat"
+        ]
+      }
+    },
+    {
+      "recto": "Welches politische und wirtschaftliche System hatte die DDR?",
+      "verso": "Ein sozialistischer Staat mit Einparteiherrschaft (SED) und Planwirtschaft (Osten)",
+      "explanation": "Die DDR war ein sozialistischer Staat unter Führung der SED, eng an die Sowjetunion gebunden, mit Planwirtschaft und ohne echte Demokratie.",
+      "tags": [
+        "ddr",
+        "system"
+      ],
+      "distractors": {
+        "easy": [
+          "Eine liberale Demokratie",
+          "Eine soziale Marktwirtschaft",
+          "Eine Monarchie"
+        ],
+        "medium": [
+          "Ein Mehrparteiensystem mit freien Wahlen",
+          "Ein Kaiserreich",
+          "Ein neutraler Bundesstaat"
+        ],
+        "hard": [
+          "Eine parlamentarische Republik",
+          "Ein föderaler Rechtsstaat",
+          "Eine konstitutionelle Monarchie"
+        ]
+      }
+    },
+    {
+      "recto": "Womit versorgten die Westmächte 1948/49 das von der Sowjetunion abgeriegelte West-Berlin?",
+      "verso": "Mit der Luftbrücke ('Rosinenbomber')",
+      "explanation": "Während der Berlin-Blockade versorgten die Westalliierten West-Berlin über eine Luftbrücke aus der Luft. Die Flugzeuge hießen im Volksmund 'Rosinenbomber'.",
+      "tags": [
+        "teilung",
+        "berlin"
+      ],
+      "distractors": {
+        "easy": [
+          "Mit U-Booten",
+          "Mit der Eisenbahn allein",
+          "Mit gar nichts"
+        ],
+        "medium": [
+          "Mit einem Tunnel",
+          "Mit Lastwagen durch die Zone",
+          "Mit Schiffen über die Spree"
+        ],
+        "hard": [
+          "Über den Seeweg",
+          "Mit dem Marshallplan-Konvoi",
+          "Über eine Pipeline"
+        ]
+      }
+    },
+    {
+      "recto": "Was baute die DDR 1961 quer durch Berlin?",
+      "verso": "Die Berliner Mauer",
+      "explanation": "1961 errichtete die DDR die Berliner Mauer, um die massenhafte Flucht in den Westen zu stoppen. Sie wurde zum Symbol der Teilung Deutschlands.",
+      "tags": [
+        "mauer",
+        "daten"
+      ],
+      "distractors": {
+        "easy": [
+          "Eine Autobahn",
+          "Einen Fluss",
+          "Eine Brücke"
+        ],
+        "medium": [
+          "Den Eisernen Vorhang allein",
+          "Eine U-Bahn-Linie",
+          "Einen Wall gegen Hochwasser"
+        ],
+        "hard": [
+          "Den Limes",
+          "Den Hadrianswall",
+          "Die Maginot-Linie"
+        ]
+      }
+    },
+    {
+      "recto": "[Vorsicht] Wer baute die Berliner Mauer und warum?",
+      "verso": "Die DDR baute sie, um die Flucht ihrer Bürger in den Westen zu verhindern",
+      "explanation": "Häufiger Irrtum. Nicht der Westen, sondern die DDR baute die Mauer 1961 — nicht zum Schutz, sondern um die eigene Bevölkerung an der Flucht in den Westen zu hindern.",
+      "tags": [
+        "piege",
+        "mauer"
+      ],
+      "distractors": {
+        "easy": [
+          "Der Westen, um Angriffe abzuwehren",
+          "Die USA, um Berlin zu schützen",
+          "Die BRD, um Flüchtlinge fernzuhalten"
+        ],
+        "medium": [
+          "Die vier Siegermächte gemeinsam",
+          "Die Sowjetunion, um West-Berlin zu erobern",
+          "Die UNO als neutrale Grenze"
+        ],
+        "hard": [
+          "Die DDR, um den Westen einzusperren",
+          "Frankreich, zur Grenzsicherung",
+          "Die NATO als Verteidigungslinie"
+        ]
+      }
+    },
+    {
+      "recto": "Wie nennt man den westdeutschen Wirtschaftsaufschwung der 1950er-Jahre?",
+      "verso": "Das Wirtschaftswunder",
+      "explanation": "In den 1950er-Jahren erlebte die BRD ein rasches Wirtschaftswachstum mit Vollbeschäftigung und steigendem Wohlstand — das 'Wirtschaftswunder'.",
+      "tags": [
+        "brd",
+        "wirtschaft"
+      ],
+      "distractors": {
+        "easy": [
+          "Die Weltwirtschaftskrise",
+          "Die Hyperinflation",
+          "Die Große Depression"
+        ],
+        "medium": [
+          "Die Gründerzeit",
+          "Die Goldenen Zwanziger",
+          "Der Marshallplan allein"
+        ],
+        "hard": [
+          "Die Ölkrise",
+          "Der New Deal",
+          "Die Stunde Null"
+        ]
+      }
+    },
+    {
+      "recto": "[Vergleich] Wie unterschieden sich BRD und DDR grundlegend?",
+      "verso": "BRD: Demokratie und Marktwirtschaft (Westen); DDR: sozialistische Einparteiherrschaft und Planwirtschaft (Osten)",
+      "explanation": "Die BRD war eine westlich orientierte Demokratie mit Marktwirtschaft, die DDR ein sozialistischer Staat mit Einparteiherrschaft und Planwirtschaft. Zwei Systeme in einem geteilten Land.",
+      "tags": [
+        "comparaison",
+        "teilung"
+      ],
+      "distractors": {
+        "easy": [
+          "Es gab keinen Unterschied",
+          "Beide waren Demokratien",
+          "Beide waren sozialistisch"
+        ],
+        "medium": [
+          "BRD sozialistisch, DDR demokratisch",
+          "Beide hatten Planwirtschaft",
+          "Beide gehörten zum Ostblock"
+        ],
+        "hard": [
+          "BRD im Osten, DDR im Westen",
+          "Beide hatten ein Mehrparteiensystem",
+          "Beide waren an die USA gebunden"
+        ]
+      }
+    },
+    {
+      "recto": "Welche Bewegung führte 1989 in der DDR zum Sturz des Regimes?",
+      "verso": "Die Friedliche Revolution",
+      "explanation": "1989 gingen in der DDR Hunderttausende friedlich auf die Straße ('Wir sind das Volk'). Der Druck brachte das SED-Regime zu Fall.",
+      "tags": [
+        "wende",
+        "daten"
+      ],
+      "distractors": {
+        "easy": [
+          "Der Bauernkrieg",
+          "Die Novemberrevolution 1918",
+          "Die Französische Revolution"
+        ],
+        "medium": [
+          "Der 17. Juni 1953 allein",
+          "Die Revolution von 1848",
+          "Der Prager Frühling"
+        ],
+        "hard": [
+          "Der Warschauer Aufstand",
+          "Die Oktoberrevolution",
+          "Die Ungarnkrise"
+        ]
+      }
+    },
+    {
+      "recto": "Welches Ereignis am 9. November 1989 wurde zum Symbol des Endes der Teilung?",
+      "verso": "Der Fall der Berliner Mauer",
+      "explanation": "Am 9. November 1989 öffnete die DDR die Grenzen: Die Berliner Mauer fiel. Es war der entscheidende Schritt zur Wiedervereinigung.",
+      "tags": [
+        "wende",
+        "mauer"
+      ],
+      "distractors": {
+        "easy": [
+          "Der Bau der Mauer",
+          "Der Beginn des Krieges",
+          "Die Reichsgründung"
+        ],
+        "medium": [
+          "Die Berlin-Blockade",
+          "Der Mauerbau 1961",
+          "Der 17. Juni 1953"
+        ],
+        "hard": [
+          "Der Zwei-plus-Vier-Vertrag",
+          "Der Grundlagenvertrag",
+          "Der Warschauer Kniefall"
+        ]
+      }
+    },
+    {
+      "recto": "In welchem Jahr wurde Deutschland wiedervereinigt?",
+      "verso": "1990",
+      "explanation": "Am 3. Oktober 1990 traten die Länder der DDR der Bundesrepublik bei. Deutschland war nach 41 Jahren der Teilung wieder ein Staat.",
+      "tags": [
+        "wiedervereinigung",
+        "daten"
+      ],
+      "distractors": {
+        "easy": [
+          "1945",
+          "1961",
+          "2000"
+        ],
+        "medium": [
+          "1989",
+          "1949",
+          "1991"
+        ],
+        "hard": [
+          "1990 nein, 1992",
+          "1987",
+          "1993"
+        ]
+      }
+    },
+    {
+      "recto": "Welcher Tag ist seither der deutsche Nationalfeiertag?",
+      "verso": "Der 3. Oktober (Tag der Deutschen Einheit)",
+      "explanation": "Der 3. Oktober 1990, Tag des Beitritts der DDR zur BRD, ist seither als 'Tag der Deutschen Einheit' der Nationalfeiertag.",
+      "tags": [
+        "wiedervereinigung",
+        "begriffe"
+      ],
+      "distractors": {
+        "easy": [
+          "Der 1. Januar",
+          "Der 14. Juli",
+          "Der 25. Dezember"
+        ],
+        "medium": [
+          "Der 9. November",
+          "Der 8. Mai",
+          "Der 17. Juni"
+        ],
+        "hard": [
+          "Der 23. Mai",
+          "Der 18. Januar",
+          "Der 20. Juli"
+        ]
+      }
+    },
+    {
+      "recto": "Welcher westdeutsche Kanzler prägte mit seiner 'Ostpolitik' die Entspannung mit dem Osten?",
+      "verso": "Willy Brandt",
+      "explanation": "Willy Brandts 'Ostpolitik' suchte in den 1970er-Jahren die Verständigung mit der DDR und dem Ostblock — 'Wandel durch Annäherung'.",
+      "tags": [
+        "brd",
+        "personen"
+      ],
+      "distractors": {
+        "easy": [
+          "Adolf Hitler",
+          "Otto von Bismarck",
+          "Wilhelm II."
+        ],
+        "medium": [
+          "Konrad Adenauer",
+          "Helmut Kohl",
+          "Angela Merkel"
+        ],
+        "hard": [
+          "Ludwig Erhard",
+          "Helmut Schmidt",
+          "Kurt Georg Kiesinger"
+        ]
+      }
+    },
+    {
+      "recto": "Insgesamt: Wofür steht die deutsche Teilung und Wiedervereinigung?",
+      "verso": "Für die Spaltung Europas im Kalten Krieg und ihre friedliche Überwindung 1989/90",
+      "explanation": "Die Teilung Deutschlands spiegelte den Kalten Krieg wider; ihre friedliche Überwindung 1989/90 gilt als eines der glücklichsten Ereignisse der jüngeren Geschichte.",
+      "tags": [
+        "wiedervereinigung",
+        "synthese"
+      ],
+      "distractors": {
+        "easy": [
+          "Für einen neuen Krieg",
+          "Für den Untergang Europas",
+          "Für die Rückkehr der Monarchie"
+        ],
+        "medium": [
+          "Für den Sieg der DDR",
+          "Für den Beginn des Kalten Krieges erst 1990",
+          "Für eine gewaltsame Eroberung"
+        ],
+        "hard": [
+          "Für die Auflösung der BRD",
+          "Für die Trennung von Österreich",
+          "Für das Scheitern der Demokratie"
+        ]
+      }
+    }
+  ]
+}

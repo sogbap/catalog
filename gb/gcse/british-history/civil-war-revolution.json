@@ -1,0 +1,432 @@
+{
+  "id": "gb-gcse-british-history-civil-war-revolution",
+  "title": "The English Civil War and the Glorious Revolution",
+  "emoji": "⚖️",
+  "subject": "history",
+  "country": "gb",
+  "courseDescription": "The clash between King and Parliament, the Civil War, the execution of Charles I, and the Glorious Revolution of 1688.",
+  "lesson": "<style>\n  /* SVG figure styles. Use currentColor (theme text) and var(--accent)\n     (subject colour), so they adapt to the app's light/dark theme. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>The English Civil War and the Glorious Revolution</h1>\n\n<div class=\"callout\">\n  <strong>Key facts</strong><br>\n  <b>Level:</b> GCSE<br>\n  <b>Theme:</b> British History<br>\n  <b>Period:</b> 1642 — 1689\n</div>\n\n<blockquote>\n  <p><b>Key question.</b> How did power shift from the King to Parliament in 17th-century England?</p>\n</blockquote>\n\n<p><strong>Charles I</strong> believed in the <strong>divine right of kings</strong> and clashed with Parliament. The <strong>Civil War</strong> led to his execution and a brief <strong>republic</strong> under <strong>Cromwell</strong>. The monarchy was restored, but the <strong>Glorious Revolution</strong> (1688) and the <strong>Bill of Rights</strong> made it a <strong>constitutional monarchy</strong>.</p>\n\n<h2>1 · King versus Parliament</h2>\n\n<p><strong>Charles I</strong> claimed his power came from God and ruled for 11 years without Parliament. The quarrel over money, religion and power erupted into the <strong>Civil War</strong> (1642): <strong>Cavaliers</strong> (Royalists) against <strong>Roundheads</strong> (Parliamentarians).</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"The two sides of the English Civil War: Cavaliers and Roundheads\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">the Civil War, 1642</text>\n  <rect x=\"12\" y=\"30\" width=\"150\" height=\"76\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"54\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Cavaliers</text>\n  <text x=\"87\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Royalists</text>\n  <text x=\"87\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">for the King</text>\n  <rect x=\"178\" y=\"30\" width=\"150\" height=\"76\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"54\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">Roundheads</text>\n  <text x=\"253\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Parliamentarians</text>\n  <text x=\"253\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">for Parliament</text>\n</svg>\n<figcaption>The nation split between King and Parliament.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Term · Divine right of kings</strong><br>\n  The belief that a king is chosen by God and answers only to Him — so Parliament has no right to limit him. Charles I's insistence on this helped cause the war.\n</div>\n\n<h2>2 · War, execution and republic</h2>\n\n<p><strong>Oliver Cromwell</strong>'s New Model Army defeated the Royalists. In <strong>1649</strong>, Charles I was tried and <strong>executed</strong> — the King killed by his subjects. England briefly became a <strong>republic</strong> (the Commonwealth), then Cromwell ruled as Lord Protector.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"From civil war to the execution of Charles I and a republic\">\n  <defs>\n    <marker id=\"ar-ukc1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"40\" width=\"92\" height=\"48\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Parliament wins</text>\n  <text x=\"54\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">New Model Army</text>\n  <path d=\"M100,64 L118,64\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ukc1)\"/>\n  <rect x=\"122\" y=\"40\" width=\"96\" height=\"48\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Charles I executed</text>\n  <text x=\"170\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">1649</text>\n  <path d=\"M218,64 L236,64\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ukc1)\"/>\n  <rect x=\"240\" y=\"40\" width=\"92\" height=\"48\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Republic</text>\n  <text x=\"286\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Cromwell rules</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">England with no king</text>\n</svg>\n<figcaption>For the only time in its history, England had no monarch.</figcaption>\n</figure>\n\n<h2>3 · Restoration and Glorious Revolution</h2>\n\n<p>The republic did not last: the <strong>Restoration</strong> (1660) brought back the monarchy under <strong>Charles II</strong>. But when Catholic <strong>James II</strong> alarmed Parliament, it invited <strong>William of Orange</strong> in the <strong>Glorious Revolution</strong> (1688). The <strong>Bill of Rights</strong> (1689) created a <strong>constitutional monarchy</strong>.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"From the Restoration to the Glorious Revolution and the Bill of Rights\">\n  <defs>\n    <marker id=\"ar-ukc2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Restoration</text>\n  <text x=\"54\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Charles II · 1660</text>\n  <path d=\"M100,68 L118,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ukc2)\"/>\n  <rect x=\"122\" y=\"42\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">1688</text>\n  <text x=\"170\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">James II flees</text>\n  <path d=\"M218,68 L236,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ukc2)\"/>\n  <rect x=\"240\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Bill of Rights</text>\n  <text x=\"286\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">1689 · limits</text>\n  <text x=\"286\" y=\"86\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">the crown</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">a peaceful change of monarch</text>\n</svg>\n<figcaption>Parliament, not the king, now held the real power.</figcaption>\n</figure>\n\n<h2>In summary</h2>\n\n<h3>Timeline</h3>\n\n<table>\n  <tr><th>Date</th><th>Event</th></tr>\n  <tr><td>1642</td><td>Civil War begins</td></tr>\n  <tr><td>1649</td><td>Charles I executed; republic</td></tr>\n  <tr><td>1653-58</td><td>Cromwell rules as Lord Protector</td></tr>\n  <tr><td>1660</td><td>Restoration of Charles II</td></tr>\n  <tr><td>1688</td><td>Glorious Revolution (James II flees)</td></tr>\n  <tr><td>1689</td><td>Bill of Rights</td></tr>\n</table>\n\n<h3>Key terms</h3>\n\n<table>\n  <tr><th>Term</th><th>Meaning</th></tr>\n  <tr><td>Divine right</td><td>Kings chosen by God, above Parliament</td></tr>\n  <tr><td>Cavaliers / Roundheads</td><td>Royalists / Parliamentarians</td></tr>\n  <tr><td>Commonwealth</td><td>England as a republic (1649-60)</td></tr>\n  <tr><td>Bill of Rights</td><td>1689 law limiting the crown</td></tr>\n  <tr><td>Constitutional monarchy</td><td>Monarch limited by Parliament</td></tr>\n</table>\n\n<h3>People</h3>\n\n<table>\n  <tr><th>Name</th><th>Role</th></tr>\n  <tr><td>Charles I</td><td>Executed in 1649</td></tr>\n  <tr><td>Oliver Cromwell</td><td>Led Parliament; Lord Protector</td></tr>\n  <tr><td>James II</td><td>Overthrown in 1688</td></tr>\n  <tr><td>William of Orange</td><td>Became William III</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Watch out</strong><br>\n  The Glorious Revolution did <b>not</b> create a republic — it kept the monarchy but made it a <b>constitutional monarchy</b> limited by Parliament. Contrast this peaceful change with the violent Civil War, which executed the King.\n</div>\n\n<blockquote>\n  <p>Across the 17th century, England answered the question 'who rules?' The answer, after war and revolution, was clear: not the King alone, but the King in Parliament.</p>\n</blockquote>\n",
+  "questionLang": "en",
+  "answerLang": "en",
+  "version": 1,
+  "level": "GCSE",
+  "theme": "British History",
+  "cards": [
+    {
+      "recto": "Which king clashed with Parliament and was executed in 1649?",
+      "verso": "Charles I",
+      "explanation": "Charles believed in the 'divine right of kings' and ruled without Parliament for 11 years. The conflict led to civil war and his execution.",
+      "tags": [
+        "civil-war",
+        "people"
+      ],
+      "distractors": {
+        "easy": [
+          "Henry VIII",
+          "William the Conqueror",
+          "King John"
+        ],
+        "medium": [
+          "Charles II",
+          "James I",
+          "James II"
+        ],
+        "hard": [
+          "Charles III",
+          "Richard III",
+          "Edward VI"
+        ]
+      }
+    },
+    {
+      "recto": "What belief, that kings are chosen by God and answer only to Him, did Charles I hold?",
+      "verso": "The divine right of kings",
+      "explanation": "Charles claimed his power came directly from God, so Parliament had no right to limit him. This clashed with MPs who wanted a say in government.",
+      "tags": [
+        "civil-war",
+        "ideas"
+      ],
+      "distractors": {
+        "easy": [
+          "Democracy",
+          "Communism",
+          "The rule of Parliament"
+        ],
+        "medium": [
+          "Republicanism",
+          "Feudalism",
+          "The social contract"
+        ],
+        "hard": [
+          "Constitutional monarchy",
+          "Popular sovereignty",
+          "The mandate of heaven"
+        ]
+      }
+    },
+    {
+      "recto": "The war of the 1640s between supporters of the King and of Parliament is called the...?",
+      "verso": "The English Civil War",
+      "explanation": "From 1642, Royalists ('Cavaliers') fought Parliamentarians ('Roundheads') over who should hold power — King or Parliament.",
+      "tags": [
+        "civil-war",
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "The Hundred Years' War",
+          "The Wars of the Roses",
+          "World War One"
+        ],
+        "medium": [
+          "The Peasants' Revolt",
+          "The Glorious Revolution",
+          "The Anarchy"
+        ],
+        "hard": [
+          "The Bishops' Wars only",
+          "The Jacobite Rising",
+          "The War of the Roses"
+        ]
+      }
+    },
+    {
+      "recto": "What were the supporters of the King nicknamed during the Civil War?",
+      "verso": "Cavaliers (Royalists)",
+      "explanation": "Royalists were called Cavaliers. They fought for Charles I and the crown against Parliament's forces.",
+      "tags": [
+        "civil-war",
+        "sides"
+      ],
+      "distractors": {
+        "easy": [
+          "Roundheads",
+          "Vikings",
+          "Normans"
+        ],
+        "medium": [
+          "Puritans",
+          "Levellers",
+          "Diggers"
+        ],
+        "hard": [
+          "Whigs",
+          "Tories",
+          "Jacobites"
+        ]
+      }
+    },
+    {
+      "recto": "What were the supporters of Parliament nicknamed during the Civil War?",
+      "verso": "Roundheads (Parliamentarians)",
+      "explanation": "Parliament's supporters were called Roundheads, partly for their short hair. Their disciplined army eventually defeated the King.",
+      "tags": [
+        "civil-war",
+        "sides"
+      ],
+      "distractors": {
+        "easy": [
+          "Cavaliers",
+          "Saxons",
+          "Crusaders"
+        ],
+        "medium": [
+          "Jacobites",
+          "Tories",
+          "Chartists"
+        ],
+        "hard": [
+          "Whigs",
+          "Ranters",
+          "Fifth Monarchists"
+        ]
+      }
+    },
+    {
+      "recto": "Who led Parliament's forces and later ruled England as Lord Protector?",
+      "verso": "Oliver Cromwell",
+      "explanation": "Cromwell's New Model Army beat the Royalists. After Charles I's execution, he ruled England as Lord Protector until his death in 1658.",
+      "tags": [
+        "civil-war",
+        "people"
+      ],
+      "distractors": {
+        "easy": [
+          "Charles I",
+          "Henry VIII",
+          "William the Conqueror"
+        ],
+        "medium": [
+          "Thomas Fairfax",
+          "John Pym",
+          "Charles II"
+        ],
+        "hard": [
+          "Richard Cromwell",
+          "Thomas Cromwell",
+          "John Lambert"
+        ]
+      }
+    },
+    {
+      "recto": "What happened to Charles I in January 1649?",
+      "verso": "He was tried and executed (beheaded)",
+      "explanation": "Charles was found guilty of treason against his own people and beheaded — an extraordinary act, as the King was killed by his subjects.",
+      "tags": [
+        "civil-war",
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "He won the war",
+          "He fled to France and reigned",
+          "He abdicated peacefully"
+        ],
+        "medium": [
+          "He was imprisoned for life",
+          "He was exiled to Spain",
+          "He died of illness"
+        ],
+        "hard": [
+          "He was restored at once",
+          "He became Lord Protector",
+          "He joined Parliament"
+        ]
+      }
+    },
+    {
+      "recto": "What kind of state did England briefly become after Charles I's execution?",
+      "verso": "A republic (the Commonwealth)",
+      "explanation": "With no king, England was ruled as a republic called the Commonwealth, then under Cromwell's Protectorate. It was the only time England had no monarch.",
+      "tags": [
+        "commonwealth",
+        "consequences"
+      ],
+      "distractors": {
+        "easy": [
+          "An empire",
+          "A colony of France",
+          "A kingdom with two kings"
+        ],
+        "medium": [
+          "An absolute monarchy",
+          "A Catholic state",
+          "A Viking kingdom"
+        ],
+        "hard": [
+          "A constitutional monarchy",
+          "A federation",
+          "A papal state"
+        ]
+      }
+    },
+    {
+      "recto": "What was it called when Charles II returned and the monarchy was brought back in 1660?",
+      "verso": "The Restoration",
+      "explanation": "After Cromwell's death, the monarchy was restored under Charles II. The republic had not lasted, and England had a king again.",
+      "tags": [
+        "restoration",
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "The Reformation",
+          "The Renaissance",
+          "The Revolution"
+        ],
+        "medium": [
+          "The Glorious Revolution",
+          "The Commonwealth",
+          "The Interregnum"
+        ],
+        "hard": [
+          "The Protectorate",
+          "The Restoration Settlement only",
+          "The Convention"
+        ]
+      }
+    },
+    {
+      "recto": "Which Catholic king was overthrown in the Glorious Revolution of 1688?",
+      "verso": "James II",
+      "explanation": "James II's Catholicism and pro-absolutist rule alarmed Parliament. It invited William of Orange to replace him, and James fled.",
+      "tags": [
+        "glorious-revolution",
+        "people"
+      ],
+      "distractors": {
+        "easy": [
+          "Charles I",
+          "Henry VIII",
+          "William the Conqueror"
+        ],
+        "medium": [
+          "Charles II",
+          "James I",
+          "William III"
+        ],
+        "hard": [
+          "James III",
+          "George I",
+          "Richard III"
+        ]
+      }
+    },
+    {
+      "recto": "Who was invited to become king in 1688, replacing James II?",
+      "verso": "William of Orange (William III)",
+      "explanation": "The Dutch Protestant William, with his wife Mary (James's daughter), took the throne jointly. Their acceptance of limits ended the crisis peacefully.",
+      "tags": [
+        "glorious-revolution",
+        "people"
+      ],
+      "distractors": {
+        "easy": [
+          "Oliver Cromwell",
+          "Charles I",
+          "Henry VIII"
+        ],
+        "medium": [
+          "James II",
+          "Charles II",
+          "George I"
+        ],
+        "hard": [
+          "William the Silent",
+          "Prince Rupert",
+          "Frederick of the Palatinate"
+        ]
+      }
+    },
+    {
+      "recto": "What 1689 law limited royal power and confirmed Parliament's rights?",
+      "verso": "The Bill of Rights",
+      "explanation": "It said the monarch could not rule without Parliament, could not tax freely or keep a standing army in peacetime — the basis of constitutional monarchy.",
+      "tags": [
+        "glorious-revolution",
+        "dates"
+      ],
+      "distractors": {
+        "easy": [
+          "Magna Carta",
+          "The Domesday Book",
+          "The Act of Supremacy"
+        ],
+        "medium": [
+          "The Petition of Right",
+          "The Act of Union",
+          "The Toleration Act"
+        ],
+        "hard": [
+          "The Habeas Corpus Act",
+          "The Triennial Act",
+          "The Act of Settlement"
+        ]
+      }
+    },
+    {
+      "recto": "[Compare] How did the outcomes of the Civil War and the Glorious Revolution differ?",
+      "verso": "The Civil War killed a king through violence; the Glorious Revolution changed monarchs peacefully and by agreement",
+      "explanation": "The Civil War was bloody and led to Charles I's execution and a republic. The Glorious Revolution was largely peaceful and produced a constitutional monarchy.",
+      "tags": [
+        "comparaison",
+        "consequences"
+      ],
+      "distractors": {
+        "easy": [
+          "Both were completely peaceful",
+          "Both executed the king",
+          "Both abolished Parliament"
+        ],
+        "medium": [
+          "The Civil War was peaceful; 1688 was bloody",
+          "Both created a republic",
+          "Neither changed the monarchy"
+        ],
+        "hard": [
+          "Both ended in absolute monarchy",
+          "The Civil War restored the Pope",
+          "1688 executed the king violently"
+        ]
+      }
+    },
+    {
+      "recto": "[Watch out] Did the Glorious Revolution of 1688 create a republic like the Civil War?",
+      "verso": "No; it kept the monarchy but made it a constitutional monarchy under Parliament",
+      "explanation": "A common error is to think 1688 abolished the crown. In fact it kept a king and queen, but bound them by law and Parliament — not a republic.",
+      "tags": [
+        "piege",
+        "glorious-revolution"
+      ],
+      "distractors": {
+        "easy": [
+          "Yes, it made England a republic",
+          "Yes, it removed all kings forever",
+          "Yes, like Cromwell's Commonwealth"
+        ],
+        "medium": [
+          "Yes, Parliament ruled with no monarch",
+          "Yes, it restored the Commonwealth",
+          "No, it made the king absolute"
+        ],
+        "hard": [
+          "Yes, it created a Dutch republic",
+          "No, it gave the king total power",
+          "Yes, it abolished Parliament"
+        ]
+      }
+    },
+    {
+      "recto": "What system of government, where the monarch's power is limited by Parliament and law, resulted?",
+      "verso": "Constitutional monarchy",
+      "explanation": "After 1688 the monarch reigned but could not rule alone. Parliament held real power — a system that still shapes Britain today.",
+      "tags": [
+        "glorious-revolution",
+        "ideas"
+      ],
+      "distractors": {
+        "easy": [
+          "Absolute monarchy",
+          "Dictatorship",
+          "Direct democracy"
+        ],
+        "medium": [
+          "A republic",
+          "Military rule",
+          "Theocracy"
+        ],
+        "hard": [
+          "Divine-right monarchy",
+          "One-party state",
+          "Aristocratic oligarchy only"
+        ]
+      }
+    },
+    {
+      "recto": "Overall, why is the 17th century a turning point for British government?",
+      "verso": "Power shifted decisively from the crown to Parliament, creating constitutional monarchy",
+      "explanation": "The Civil War and Glorious Revolution together broke the idea of absolute royal power. Parliament, not the king alone, became the centre of government.",
+      "tags": [
+        "synthesis",
+        "consequences"
+      ],
+      "distractors": {
+        "easy": [
+          "The king became all-powerful",
+          "Nothing changed in government",
+          "England became a colony"
+        ],
+        "medium": [
+          "Parliament was permanently abolished",
+          "England became fully democratic at once",
+          "The Pope took control"
+        ],
+        "hard": [
+          "Feudalism was restored",
+          "The monarchy was abolished forever",
+          "Divine right was confirmed in law"
+        ]
+      }
+    }
+  ]
+}

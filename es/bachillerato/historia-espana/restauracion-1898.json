@@ -1,0 +1,432 @@
+{
+  "id": "es-bachillerato-historia-espana-restauracion-1898",
+  "title": "La Restauración y la crisis de 1898",
+  "emoji": "🎩",
+  "subject": "history",
+  "country": "es",
+  "courseDescription": "El sistema político de la Restauración, el turno de partidos y el caciquismo, y el Desastre del 98 con la pérdida de las últimas colonias.",
+  "lesson": "<style>\n  /* Estilos de las figuras (SVG). Usan currentColor (texto del tema) y\n     var(--accent) (color de la materia): se adaptan al tema claro/oscuro. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", \"Segoe UI\", Roboto, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>La Restauración y la crisis de 1898</h1>\n\n<div class=\"callout\">\n  <strong>Claves</strong><br>\n  <b>Nivel:</b> Bachillerato<br>\n  <b>Tema:</b> Historia de España<br>\n  <b>Periodo:</b> 1875 — 1898\n</div>\n\n<blockquote>\n  <p><b>Pregunta central.</b> ¿Por qué la Restauración fue estable pero poco democrática, y qué supuso el Desastre del 98?</p>\n</blockquote>\n\n<p>La <strong>Restauración</strong>, diseñada por <strong>Cánovas</strong>, dio estabilidad con el <strong>turno de partidos</strong> entre conservadores y liberales. Pero las elecciones se falseaban con el <strong>caciquismo</strong> y el <strong>pucherazo</strong>. En <strong>1898</strong>, el <strong>Desastre</strong> supuso la pérdida de las últimas colonias y una honda crisis nacional.</p>\n\n<h2>1 · El sistema de la Restauración</h2>\n\n<p>Tras la I República, volvió la monarquía con <strong>Alfonso XII</strong>. <strong>Cánovas</strong> diseñó un sistema estable basado en el <strong>turno pacífico</strong> de dos partidos, amparado por la <strong>Constitución de 1876</strong>.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"El turno de partidos entre conservadores y liberales\">\n  <defs>\n    <marker id=\"ar-esr1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">el turno de partidos</text>\n  <rect x=\"18\" y=\"34\" width=\"130\" height=\"60\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.16;stroke:var(--accent);stroke-opacity:.55;stroke-width:1.5\"/>\n  <text x=\"83\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Conservadores</text>\n  <text x=\"83\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Cánovas</text>\n  <rect x=\"192\" y=\"34\" width=\"130\" height=\"60\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.16;stroke:var(--accent);stroke-opacity:.55;stroke-width:1.5\"/>\n  <text x=\"257\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Liberales</text>\n  <text x=\"257\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Sagasta</text>\n  <path d=\"M150,50 C170,40 170,40 190,50\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-esr1)\"/>\n  <path d=\"M190,78 C170,88 170,88 150,78\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-esr1)\"/>\n</svg>\n<figcaption>Dos partidos se alternaban de forma pactada en el poder.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Concepto · Caciquismo</strong><br>\n  Control del voto por notables locales (los caciques), que manipulaban las elecciones a favor del partido de turno. Junto al <b>pucherazo</b> (fraude directo), falseaba los resultados.\n</div>\n\n<h2>2 · Un sistema falseado</h2>\n\n<p>El turno funcionaba porque los resultados se pactaban antes de votar. En el campo, los <strong>caciques</strong> controlaban el voto; en el recuento, el <strong>pucherazo</strong> aseguraba el resultado. Había elecciones, pero <strong>no democracia real</strong>.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"El fraude electoral de la Restauración: caciquismo y pucherazo\">\n  <defs>\n    <marker id=\"ar-esr3\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"80\" y=\"16\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">El fraude</text>\n  <rect x=\"10\" y=\"24\" width=\"120\" height=\"34\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"70\" y=\"45\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">caciquismo</text>\n  <rect x=\"10\" y=\"62\" width=\"120\" height=\"34\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"70\" y=\"83\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">pucherazo</text>\n  <path d=\"M130,60 L168,60\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-esr3)\"/>\n  <rect x=\"172\" y=\"34\" width=\"158\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"251\" y=\"55\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Resultado pactado</text>\n  <text x=\"251\" y=\"73\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">elecciones sin democracia real</text>\n  <text x=\"170\" y=\"112\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">el turno funcionaba porque el voto se falseaba</text>\n</svg>\n<figcaption>Las elecciones se decidían antes de votar.</figcaption>\n</figure>\n\n<h2>3 · El Desastre del 98</h2>\n\n<p>En <strong>1898</strong>, tras la guerra con <strong>Estados Unidos</strong>, España perdió <strong>Cuba, Puerto Rico y Filipinas</strong>. Fue el <strong>Desastre del 98</strong>, una gran crisis moral. Surgieron la <strong>Generación del 98</strong> y el <strong>regeneracionismo</strong>, que pedían modernizar el país.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"El Desastre de 1898: guerra con Estados Unidos y pérdida de las colonias\">\n  <defs>\n    <marker id=\"ar-esr2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"10\" y=\"42\" width=\"120\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"70\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">Guerra con EE. UU.</text>\n  <text x=\"70\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">1898</text>\n  <path d=\"M130,68 L168,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-esr2)\"/>\n  <rect x=\"172\" y=\"34\" width=\"158\" height=\"68\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"251\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">Pérdida de colonias</text>\n  <text x=\"251\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Cuba, Puerto Rico,</text>\n  <text x=\"251\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">Filipinas</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">el Desastre del 98</text>\n</svg>\n<figcaption>España pierde sus últimas colonias y entra en crisis.</figcaption>\n</figure>\n\n<h2>Lo esencial</h2>\n\n<h3>Cronología</h3>\n\n<table>\n  <tr><th>Fecha</th><th>Acontecimiento</th></tr>\n  <tr><td>1874-75</td><td>Comienza la Restauración (Alfonso XII)</td></tr>\n  <tr><td>1876</td><td>Constitución de 1876</td></tr>\n  <tr><td>1885</td><td>Regencia; sigue el turno</td></tr>\n  <tr><td>1898</td><td>Desastre: pérdida de las colonias</td></tr>\n</table>\n\n<h3>Términos clave</h3>\n\n<table>\n  <tr><th>Término</th><th>Significado</th></tr>\n  <tr><td>Turno de partidos</td><td>Alternancia pactada en el poder</td></tr>\n  <tr><td>Caciquismo</td><td>Control del voto por notables locales</td></tr>\n  <tr><td>Pucherazo</td><td>Fraude electoral directo</td></tr>\n  <tr><td>Desastre del 98</td><td>Pérdida de las últimas colonias</td></tr>\n  <tr><td>Regeneracionismo</td><td>Corriente que quería modernizar España</td></tr>\n</table>\n\n<h3>Personajes</h3>\n\n<table>\n  <tr><th>Nombre</th><th>Papel</th></tr>\n  <tr><td>Cánovas del Castillo</td><td>Diseñó el sistema (conservador)</td></tr>\n  <tr><td>Sagasta</td><td>Líder liberal del turno</td></tr>\n  <tr><td>Alfonso XII</td><td>Rey de la Restauración</td></tr>\n  <tr><td>Alfonso XIII</td><td>Reinó hasta 1931</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Cuidado</strong><br>\n  La Restauración <b>no era una democracia real</b>: aunque había elecciones y dos partidos, los resultados se pactaban y se falseaban con el <b>caciquismo</b> y el <b>pucherazo</b>. Estabilidad no es lo mismo que democracia.\n</div>\n\n<blockquote>\n  <p>La Restauración dio a España décadas de estabilidad, pero al precio de una democracia solo aparente. El Desastre del 98 destapó la debilidad del país y abrió el gran debate sobre cómo modernizar España.</p>\n</blockquote>\n",
+  "questionLang": "es",
+  "answerLang": "es",
+  "version": 1,
+  "level": "Bachillerato",
+  "theme": "Historia de España",
+  "cards": [
+    {
+      "recto": "¿Qué periodo político se inició en España en 1874-1875 con el regreso de la monarquía?",
+      "verso": "La Restauración",
+      "explanation": "Tras la I República, la monarquía volvió con Alfonso XII. La Restauración fue un sistema estable pero poco democrático, diseñado por Cánovas.",
+      "tags": [
+        "restauracion",
+        "conceptos"
+      ],
+      "distractors": {
+        "easy": [
+          "La Transición",
+          "La Reconquista",
+          "La Ilustración"
+        ],
+        "medium": [
+          "La Segunda República",
+          "El Sexenio Democrático",
+          "La Regencia sola"
+        ],
+        "hard": [
+          "La Década Ominosa",
+          "El Bienio Progresista",
+          "La Unión Liberal"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué político diseñó el sistema de la Restauración?",
+      "verso": "Antonio Cánovas del Castillo",
+      "explanation": "Cánovas ideó un sistema bipartidista y estable en torno a la monarquía, con dos partidos que se turnaban pacíficamente en el poder.",
+      "tags": [
+        "restauracion",
+        "personajes"
+      ],
+      "distractors": {
+        "easy": [
+          "Napoleón",
+          "Franco",
+          "Adolfo Suárez"
+        ],
+        "medium": [
+          "Práxedes Sagasta",
+          "Manuel Azaña",
+          "Emilio Castelar"
+        ],
+        "hard": [
+          "Juan Prim",
+          "Antonio Maura",
+          "Eduardo Dato"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué rey fue proclamado en 1874, iniciando la Restauración?",
+      "verso": "Alfonso XII",
+      "explanation": "Alfonso XII, hijo de Isabel II, fue proclamado rey. Su reinado y la posterior regencia dieron estabilidad al nuevo sistema.",
+      "tags": [
+        "restauracion",
+        "personajes"
+      ],
+      "distractors": {
+        "easy": [
+          "Felipe VI",
+          "Carlos I",
+          "Fernando VII"
+        ],
+        "medium": [
+          "Alfonso XIII",
+          "Amadeo I",
+          "Isabel II"
+        ],
+        "hard": [
+          "Carlos VII (pretendiente)",
+          "Alfonso X",
+          "Fernando VI"
+        ]
+      }
+    },
+    {
+      "recto": "¿Cómo se llamaba el sistema por el que dos partidos se alternaban pacíficamente en el gobierno?",
+      "verso": "El turno de partidos (turnismo)",
+      "explanation": "Conservadores y liberales se turnaban en el poder de forma pactada. Daba estabilidad, pero las elecciones se falseaban para lograrlo.",
+      "tags": [
+        "restauracion",
+        "conceptos"
+      ],
+      "distractors": {
+        "easy": [
+          "La democracia directa",
+          "La dictadura militar",
+          "El voto libre universal"
+        ],
+        "medium": [
+          "El pluripartidismo real",
+          "El presidencialismo",
+          "El parlamentarismo puro"
+        ],
+        "hard": [
+          "El bipartidismo británico",
+          "El sistema de partido único",
+          "El sufragio censitario solo"
+        ]
+      }
+    },
+    {
+      "recto": "[Compara] ¿Qué dos partidos protagonizaban el turno de la Restauración?",
+      "verso": "El Partido Conservador (Cánovas) y el Partido Liberal (Sagasta)",
+      "explanation": "El Conservador de Cánovas y el Liberal de Sagasta se alternaban en el poder. Compartían la defensa de la monarquía y del sistema.",
+      "tags": [
+        "comparaison",
+        "restauracion"
+      ],
+      "distractors": {
+        "easy": [
+          "No había partidos",
+          "Solo existía un partido",
+          "Comunistas y fascistas"
+        ],
+        "medium": [
+          "Republicanos y carlistas",
+          "Socialistas y anarquistas",
+          "Girondinos y jacobinos"
+        ],
+        "hard": [
+          "Whigs y tories",
+          "Moderados y progresistas (fue antes)",
+          "Nacionalistas y federales"
+        ]
+      }
+    },
+    {
+      "recto": "¿Cómo se llamaba el control del voto por notables locales que falseaba las elecciones?",
+      "verso": "El caciquismo",
+      "explanation": "Los caciques, personas influyentes en el campo, manipulaban el voto a favor del partido de turno. Era la base del fraude electoral.",
+      "tags": [
+        "restauracion",
+        "conceptos"
+      ],
+      "distractors": {
+        "easy": [
+          "El sufragio universal",
+          "La democracia",
+          "El voto secreto"
+        ],
+        "medium": [
+          "El federalismo",
+          "El regionalismo",
+          "El republicanismo"
+        ],
+        "hard": [
+          "El clientelismo moderno solo",
+          "El corporativismo",
+          "El sindicalismo"
+        ]
+      }
+    },
+    {
+      "recto": "¿Cómo se llamaba el fraude electoral directo, como rellenar urnas con votos falsos?",
+      "verso": "El pucherazo",
+      "explanation": "El 'pucherazo' era la manipulación directa del recuento o de las urnas. Junto al caciquismo, aseguraba el resultado pactado de antemano.",
+      "tags": [
+        "restauracion",
+        "conceptos"
+      ],
+      "distractors": {
+        "easy": [
+          "El voto libre",
+          "El referéndum",
+          "El escrutinio limpio"
+        ],
+        "medium": [
+          "La abstención",
+          "El plebiscito",
+          "La moción de censura"
+        ],
+        "hard": [
+          "El encasillado solo",
+          "El gerrymandering",
+          "El transfuguismo"
+        ]
+      }
+    },
+    {
+      "recto": "[Cuidado] ¿Era la Restauración un sistema democrático de elecciones libres?",
+      "verso": "No; era estable pero falseado por el caciquismo y el pucherazo",
+      "explanation": "Error frecuente. Aunque había elecciones y dos partidos, los resultados se pactaban de antemano y se falseaban. No había democracia real.",
+      "tags": [
+        "piege",
+        "restauracion"
+      ],
+      "distractors": {
+        "easy": [
+          "Sí, con elecciones totalmente libres",
+          "Sí, era una democracia moderna",
+          "Sí, con voto secreto respetado"
+        ],
+        "medium": [
+          "Sí, sin ningún fraude",
+          "Sí, el pueblo elegía libremente",
+          "No, porque no había elecciones"
+        ],
+        "hard": [
+          "Sí, con sufragio universal limpio",
+          "Sí, sin caciques",
+          "No, porque era una dictadura militar"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué desastre marcó a España en 1898?",
+      "verso": "La pérdida de Cuba, Puerto Rico y Filipinas",
+      "explanation": "Tras la guerra con Estados Unidos, España perdió sus últimas colonias importantes. Se conoce como el 'Desastre del 98'.",
+      "tags": [
+        "1898",
+        "fechas"
+      ],
+      "distractors": {
+        "easy": [
+          "La pérdida de Madrid",
+          "La invasión de Francia",
+          "La caída de Roma"
+        ],
+        "medium": [
+          "La pérdida de toda América",
+          "La derrota de la Armada Invencible",
+          "La pérdida de Gibraltar"
+        ],
+        "hard": [
+          "La pérdida de Marruecos",
+          "La pérdida de Nápoles",
+          "La independencia de México"
+        ]
+      }
+    },
+    {
+      "recto": "¿Contra qué país perdió España la guerra de 1898?",
+      "verso": "Contra Estados Unidos",
+      "explanation": "Estados Unidos intervino en el conflicto colonial y derrotó a España. Su victoria confirmó su ascenso como potencia mundial.",
+      "tags": [
+        "1898",
+        "guerras"
+      ],
+      "distractors": {
+        "easy": [
+          "Contra Portugal",
+          "Contra Andorra",
+          "Contra Marruecos"
+        ],
+        "medium": [
+          "Contra Francia",
+          "Contra el Reino Unido",
+          "Contra Alemania"
+        ],
+        "hard": [
+          "Contra Cuba sola",
+          "Contra Japón",
+          "Contra Italia"
+        ]
+      }
+    },
+    {
+      "recto": "¿Cómo se conoce popularmente la crisis nacional de 1898?",
+      "verso": "El Desastre del 98",
+      "explanation": "La pérdida de las colonias provocó una honda crisis moral y de identidad. Se llamó 'el Desastre' y dio nombre a una generación de intelectuales.",
+      "tags": [
+        "1898",
+        "conceptos"
+      ],
+      "distractors": {
+        "easy": [
+          "El Milagro del 98",
+          "La Gloria del 98",
+          "La Victoria del 98"
+        ],
+        "medium": [
+          "La Restauración del 98",
+          "El Sexenio del 98",
+          "La Revolución del 98"
+        ],
+        "hard": [
+          "La Semana Trágica",
+          "El Crack del 98",
+          "La Regeneración del 98"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué movimiento intelectual reflexionó sobre la decadencia de España tras 1898?",
+      "verso": "La Generación del 98",
+      "explanation": "Escritores como Unamuno o Machado analizaron el 'problema de España' y su decadencia, buscando su regeneración.",
+      "tags": [
+        "1898",
+        "cultura"
+      ],
+      "distractors": {
+        "easy": [
+          "El Siglo de Oro",
+          "El Romanticismo alemán",
+          "La Ilustración francesa"
+        ],
+        "medium": [
+          "La Generación del 27",
+          "El Modernismo solo",
+          "El Realismo"
+        ],
+        "hard": [
+          "La Institución Libre de Enseñanza sola",
+          "El Novecentismo",
+          "La Edad de Plata entera"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué corriente propuso 'regenerar' España tras el Desastre, modernizando el país?",
+      "verso": "El regeneracionismo",
+      "explanation": "El regeneracionismo criticaba el caciquismo y el atraso, y pedía reformas y educación para modernizar España. Joaquín Costa fue una figura clave.",
+      "tags": [
+        "1898",
+        "ideas"
+      ],
+      "distractors": {
+        "easy": [
+          "El absolutismo",
+          "El feudalismo",
+          "El colonialismo"
+        ],
+        "medium": [
+          "El carlismo",
+          "El turnismo",
+          "El caciquismo"
+        ],
+        "hard": [
+          "El krausismo solo",
+          "El anarquismo",
+          "El tradicionalismo"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué monarca reinó tras Alfonso XII, primero bajo regencia y luego en persona?",
+      "verso": "Alfonso XIII",
+      "explanation": "Alfonso XIII reinó durante las últimas décadas de la Restauración, marcadas por crisis crecientes que llevarían a su caída en 1931.",
+      "tags": [
+        "restauracion",
+        "personajes"
+      ],
+      "distractors": {
+        "easy": [
+          "Felipe VI",
+          "Fernando VII",
+          "Carlos I"
+        ],
+        "medium": [
+          "Alfonso XII",
+          "Amadeo I",
+          "Juan Carlos I"
+        ],
+        "hard": [
+          "Carlos IV",
+          "Fernando VI",
+          "Isabel II"
+        ]
+      }
+    },
+    {
+      "recto": "En conjunto, ¿qué revelaron la Restauración y el Desastre del 98 sobre España?",
+      "verso": "Un sistema político estable pero falseado y una nación en crisis que buscaba modernizarse",
+      "explanation": "La Restauración dio estabilidad, pero su falta de democracia real y la crisis del 98 mostraron un país que necesitaba reformas profundas.",
+      "tags": [
+        "1898",
+        "síntesis"
+      ],
+      "distractors": {
+        "easy": [
+          "Una democracia perfecta y próspera",
+          "Un país sin ningún problema",
+          "Un imperio en pleno apogeo"
+        ],
+        "medium": [
+          "Un sistema plenamente democrático",
+          "Una potencia colonial en expansión",
+          "Una república estable"
+        ],
+        "hard": [
+          "Un país sin fraude electoral",
+          "Una monarquía sin crisis alguna",
+          "Una nación ajena a todo debate"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué texto legal daba forma al sistema de la Restauración?",
+      "verso": "La Constitución de 1876",
+      "explanation": "La Constitución de 1876, flexible y de larga duración, consagraba la monarquía y la soberanía compartida entre el rey y las Cortes.",
+      "tags": [
+        "restauracion",
+        "instituciones"
+      ],
+      "distractors": {
+        "easy": [
+          "La Constitución de 1978",
+          "La Constitución de 1812",
+          "La Constitución de 1931"
+        ],
+        "medium": [
+          "La Constitución de 1845",
+          "La Constitución de 1869",
+          "La Constitución de 1837"
+        ],
+        "hard": [
+          "El Estatuto Real de 1834",
+          "La Constitución de 1856 (nonata)",
+          "Las Leyes Fundamentales"
+        ]
+      }
+    }
+  ]
+}
