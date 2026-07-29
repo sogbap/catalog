@@ -1,0 +1,432 @@
+{
+  "id": "kr-godeunghakgyo-hanguksa-mujang-tujaeng",
+  "title": "무장 독립 전쟁과 의열 투쟁",
+  "emoji": "🎖️",
+  "subject": "history",
+  "country": "kr",
+  "courseDescription": "봉오동·청산리의 무장 독립 전쟁부터 의열단과 한인 애국단의 의열 투쟁, 그리고 한국광복군의 활동까지 살펴본다.",
+  "lesson": "<style>\n  /* SVG 그림 스타일. currentColor(글자색)와 var(--accent)(과목 색)를 사용해\n     앱의 밝은/어두운 테마에 맞춰 표시된다. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Apple SD Gothic Neo\", \"Noto Sans KR\", \"Malgun Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>무장 독립 전쟁과 의열 투쟁</h1>\n\n<div class=\"callout\">\n  <strong>학습 포인트</strong><br>\n  <b>수준:</b> 고등학교<br>\n  <b>주제:</b> 한국사<br>\n  <b>시기:</b> 1920 ~ 1945\n</div>\n\n<blockquote>\n  <p><b>핵심 질문.</b> 나라를 빼앗긴 사람들은 어떤 방법으로 무기를 들고 일제에 맞섰을까?</p>\n</blockquote>\n\n<p>1920년 만주에서 <strong>봉오동 전투</strong>와 <strong>청산리 대첩</strong>의 승리가 있었고, <strong>의열단</strong>과 <strong>한인 애국단</strong>은 폭탄으로 일제를 흔들었다. 1930년대에는 <strong>한중 연합 작전</strong>이 펼쳐졌으며, 1940년 임시 정부는 정규군인 <strong>한국광복군</strong>을 창설해 <strong>국내 진공 작전</strong>을 준비하였다.</p>\n\n<h2>1 · 만주의 무장 독립 전쟁</h2>\n\n<p>1920년 <strong>홍범도</strong>의 부대가 <strong>봉오동 전투</strong>에서 첫 대승을 거두었고, 이어 <strong>김좌진</strong>의 북로 군정서가 <strong>청산리 대첩</strong>에서 독립 전쟁 최대의 승리를 거두었다. 일제는 이에 보복하여 <strong>간도 참변</strong>을 일으켰다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"봉오동 전투와 청산리 대첩의 비교\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">1920년, 두 번의 승리</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">봉오동 전투</text>\n  <text x=\"87\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">홍범도</text>\n  <text x=\"87\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">대한 독립군</text>\n  <text x=\"87\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">첫 대규모 승리</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">청산리 대첩</text>\n  <text x=\"253\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">김좌진</text>\n  <text x=\"253\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">북로 군정서</text>\n  <text x=\"253\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">최대의 승리</text>\n</svg>\n<figcaption>몇 달 사이에 이어진 두 승리, 이끈 사람은 서로 달랐다.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>개념 · 의열 투쟁</strong><br>\n  소수의 결사대가 폭탄과 총으로 일제 요인을 처단하고 식민 통치 기관을 파괴한 투쟁. <b>의열단</b>(김원봉)과 <b>한인 애국단</b>(김구)이 대표적이다.\n</div>\n\n<h2>2 · 의열단과 한인 애국단</h2>\n\n<p>1919년 김원봉의 <strong>의열단</strong>은 <strong>조선혁명선언</strong>을 지침 삼아 식민 통치 기관을 공격하였다. 1931년 김구가 만든 <strong>한인 애국단</strong>에서는 <strong>이봉창</strong>이 도쿄에서, <strong>윤봉길</strong>이 상하이 훙커우 공원에서 의거를 일으켜 중국의 지원을 이끌어 냈다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"윤봉길 의거가 중국 국민당의 지원과 한국광복군 창설로 이어진 과정\">\n  <defs>\n    <marker id=\"ar-krmt1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">윤봉길 의거</text>\n  <text x=\"54\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">1932 훙커우</text>\n  <path d=\"M100,68 L118,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-krmt1)\"/>\n  <rect x=\"122\" y=\"42\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">중국의 지원</text>\n  <text x=\"170\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">임시 정부 후원</text>\n  <path d=\"M218,68 L236,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-krmt1)\"/>\n  <rect x=\"240\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">한국광복군</text>\n  <text x=\"286\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">1940 창설</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">한 사람의 의거가 연 길</text>\n</svg>\n<figcaption>윤봉길 의거는 임시 정부가 정규군을 갖추는 밑거름이 되었다.</figcaption>\n</figure>\n\n<h2>3 · 한국광복군과 광복</h2>\n\n<p>1930년대에는 지청천의 한국 독립군과 양세봉의 조선 혁명군이 <strong>한중 연합 작전</strong>을 폈고, 김원봉은 <strong>조선 의용대</strong>를 만들었다. 1940년 충칭에서 창설된 <strong>한국광복군</strong>은 연합군과 함께 싸우며 <strong>국내 진공 작전</strong>을 준비했으나, 일본의 항복으로 실행하지 못했다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 172\" role=\"img\" aria-label=\"무장 독립 전쟁과 의열 투쟁의 연표\">\n  <line x1=\"60\" y1=\"20\" x2=\"60\" y2=\"158\" style=\"stroke:var(--accent);stroke-opacity:.35;stroke-width:2\"/>\n  <circle cx=\"60\" cy=\"32\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"78\" y=\"30\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">1920</text>\n  <text x=\"78\" y=\"43\" class=\"s-muted\" font-size=\"9\">봉오동 · 청산리</text>\n  <circle cx=\"60\" cy=\"66\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"78\" y=\"64\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">1932</text>\n  <text x=\"78\" y=\"77\" class=\"s-muted\" font-size=\"9\">이봉창 · 윤봉길 의거</text>\n  <circle cx=\"60\" cy=\"100\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"78\" y=\"98\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">1938</text>\n  <text x=\"78\" y=\"111\" class=\"s-muted\" font-size=\"9\">조선 의용대 창설</text>\n  <circle cx=\"60\" cy=\"134\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"78\" y=\"132\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">1940</text>\n  <text x=\"78\" y=\"145\" class=\"s-muted\" font-size=\"9\">한국광복군 창설</text>\n</svg>\n<figcaption>독립군에서 의열 투쟁으로, 다시 정규군으로 이어졌다.</figcaption>\n</figure>\n\n<h2>핵심 정리</h2>\n\n<h3>연표</h3>\n\n<table>\n  <tr><th>연도</th><th>사건</th></tr>\n  <tr><td>1919</td><td>의열단 조직 (김원봉)</td></tr>\n  <tr><td>1920</td><td>봉오동 전투, 청산리 대첩, 간도 참변</td></tr>\n  <tr><td>1931~32</td><td>한인 애국단, 이봉창·윤봉길 의거</td></tr>\n  <tr><td>1938</td><td>조선 의용대 창설</td></tr>\n  <tr><td>1940</td><td>한국광복군 창설 (충칭)</td></tr>\n</table>\n\n<h3>핵심 용어</h3>\n\n<table>\n  <tr><th>용어</th><th>뜻</th></tr>\n  <tr><td>의열 투쟁</td><td>결사대의 요인 처단·기관 파괴</td></tr>\n  <tr><td>조선혁명선언</td><td>의열단의 지침, 신채호가 지음</td></tr>\n  <tr><td>간도 참변</td><td>일제의 만주 동포 학살</td></tr>\n  <tr><td>한중 연합 작전</td><td>중국군과 손잡은 항일 전투</td></tr>\n  <tr><td>국내 진공 작전</td><td>광복군이 준비했던 국내 작전</td></tr>\n</table>\n\n<h3>인물</h3>\n\n<table>\n  <tr><th>인물</th><th>설명</th></tr>\n  <tr><td>홍범도</td><td>봉오동 전투를 이끔</td></tr>\n  <tr><td>김좌진</td><td>청산리 대첩을 이끔</td></tr>\n  <tr><td>김원봉</td><td>의열단·조선 의용대</td></tr>\n  <tr><td>김구</td><td>한인 애국단, 임시 정부</td></tr>\n  <tr><td>이봉창·윤봉길</td><td>도쿄·상하이 의거</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>주의</strong><br>\n  한국광복군의 <b>국내 진공 작전은 실행되지 못했다</b>—준비를 마쳤으나 일본이 먼저 항복했다. 광복이 우리 손으로만 이루어진 것은 아니라는 점을 정확히 알아 두자. 또 <b>봉오동은 홍범도</b>, <b>청산리는 김좌진</b>이 중심임을 혼동하지 말자.\n</div>\n\n<blockquote>\n  <p>총을 든 이도, 폭탄을 품은 이도 끝내 광복의 날을 스스로 열지는 못했다. 그러나 그 싸움이 있었기에 우리 민족은 결코 굴복하지 않은 민족으로 남았다.</p>\n</blockquote>\n",
+  "questionLang": "ko",
+  "answerLang": "ko",
+  "version": 1,
+  "level": "고등학교",
+  "theme": "한국사",
+  "cards": [
+    {
+      "recto": "1920년, 홍범도가 이끄는 독립군이 만주에서 일본군을 크게 물리친 첫 승리는?",
+      "verso": "봉오동 전투",
+      "explanation": "봉오동 전투는 홍범도의 대한 독립군 등이 지형을 이용해 일본군을 골짜기로 끌어들여 크게 이긴 싸움이다. 독립군의 첫 대규모 승리로 큰 자신감을 주었다.",
+      "tags": [
+        "일제강점기",
+        "전투"
+      ],
+      "distractors": {
+        "easy": [
+          "행주 대첩",
+          "명량 대첩",
+          "귀주 대첩"
+        ],
+        "medium": [
+          "청산리 대첩",
+          "쌍성보 전투",
+          "대전자령 전투"
+        ],
+        "hard": [
+          "영릉가 전투",
+          "자유시 참변",
+          "간도 참변"
+        ]
+      }
+    },
+    {
+      "recto": "1920년, 김좌진의 북로 군정서 등이 만주에서 일본군에 거둔 독립 전쟁 최대의 승리는?",
+      "verso": "청산리 대첩",
+      "explanation": "청산리 대첩은 김좌진의 북로 군정서와 홍범도 부대 등이 엿새 동안 여러 전투에서 일본군을 크게 무찌른 싸움이다. 독립 전쟁사에서 가장 빛나는 승리로 꼽힌다.",
+      "tags": [
+        "일제강점기",
+        "전투"
+      ],
+      "distractors": {
+        "easy": [
+          "살수 대첩",
+          "한산도 대첩",
+          "행주 대첩"
+        ],
+        "medium": [
+          "봉오동 전투",
+          "쌍성보 전투",
+          "영릉가 전투"
+        ],
+        "hard": [
+          "대전자령 전투",
+          "보천보 전투",
+          "홍커우 의거"
+        ]
+      }
+    },
+    {
+      "recto": "청산리 대첩에 대한 보복으로 일제가 만주의 우리 동포를 학살한 사건은?",
+      "verso": "간도 참변",
+      "explanation": "간도 참변은 일제가 독립군의 근거지를 없애려고 간도의 한인 마을을 불태우고 수많은 동포를 학살한 사건이다. 이후 독립군은 근거지를 옮겨야 했다.",
+      "tags": [
+        "일제강점기",
+        "사건"
+      ],
+      "distractors": {
+        "easy": [
+          "3·1 운동",
+          "6·25 전쟁",
+          "임진왜란"
+        ],
+        "medium": [
+          "자유시 참변",
+          "제암리 학살",
+          "관동 대학살"
+        ],
+        "hard": [
+          "만보산 사건",
+          "만주 사변",
+          "훈춘 사건"
+        ]
+      }
+    },
+    {
+      "recto": "1919년 김원봉이 만주에서 조직하여 일제 요인 처단과 식민 기관 파괴에 나선 단체는?",
+      "verso": "의열단",
+      "explanation": "의열단은 폭탄과 총으로 조선 총독부·경찰서 등을 공격하고 일제 요인을 처단하려 한 단체이다. 개인의 의열 투쟁으로 독립 의지를 널리 알렸다.",
+      "tags": [
+        "일제강점기",
+        "단체"
+      ],
+      "distractors": {
+        "easy": [
+          "독립 협회",
+          "동학",
+          "화랑도"
+        ],
+        "medium": [
+          "한인 애국단",
+          "신간회",
+          "신민회"
+        ],
+        "hard": [
+          "대한 광복회",
+          "구국 모험단",
+          "흥사단"
+        ]
+      }
+    },
+    {
+      "recto": "신채호가 지어 의열단의 활동 지침이 된, 민중의 직접 혁명을 주장한 문서는?",
+      "verso": "조선혁명선언",
+      "explanation": "조선혁명선언은 외교론과 실력 양성론을 비판하고, 민중이 직접 폭력으로 일제를 몰아내야 한다고 주장하였다. 의열단의 정신적 바탕이 되었다.",
+      "tags": [
+        "일제강점기",
+        "문서"
+      ],
+      "distractors": {
+        "easy": [
+          "훈민정음",
+          "경국대전",
+          "제헌 헌법"
+        ],
+        "medium": [
+          "기미독립선언서",
+          "대한민국 임시 헌장",
+          "홍범 14조"
+        ],
+        "hard": [
+          "2·8 독립 선언서",
+          "대한 독립 선언서",
+          "대동단결 선언"
+        ]
+      }
+    },
+    {
+      "recto": "침체에 빠진 임시 정부에 활기를 불어넣고자 1931년 김구가 조직한 단체는?",
+      "verso": "한인 애국단",
+      "explanation": "한인 애국단은 김구가 임시 정부의 어려움을 이겨 내려고 만든 의열 투쟁 단체이다. 이봉창과 윤봉길의 의거로 큰 성과를 거두었다.",
+      "tags": [
+        "일제강점기",
+        "단체"
+      ],
+      "distractors": {
+        "easy": [
+          "독립 협회",
+          "신간회",
+          "형평사"
+        ],
+        "medium": [
+          "의열단",
+          "신민회",
+          "대한 자강회"
+        ],
+        "hard": [
+          "대한 광복회",
+          "흥사단",
+          "참의부"
+        ]
+      }
+    },
+    {
+      "recto": "1932년, 도쿄에서 일본 국왕이 탄 마차에 폭탄을 던진 한인 애국단원은?",
+      "verso": "이봉창",
+      "explanation": "이봉창은 도쿄에서 일본 국왕을 향해 폭탄을 던졌다. 비록 목표를 맞히지는 못했으나, 우리 민족의 독립 의지를 세계에 알린 의거였다.",
+      "tags": [
+        "일제강점기",
+        "인물"
+      ],
+      "distractors": {
+        "easy": [
+          "이순신",
+          "세종대왕",
+          "김홍도"
+        ],
+        "medium": [
+          "윤봉길",
+          "안중근",
+          "유관순"
+        ],
+        "hard": [
+          "김상옥",
+          "나석주",
+          "강우규"
+        ]
+      }
+    },
+    {
+      "recto": "1932년, 상하이 훙커우 공원에서 일본군 요인들에게 폭탄을 던진 한인 애국단원은?",
+      "verso": "윤봉길",
+      "explanation": "윤봉길은 상하이 훙커우 공원의 일왕 생일 기념식장에 폭탄을 던져 일본군 수뇌부를 처단하였다. 이 의거로 중국 국민당이 임시 정부를 지원하게 되었다.",
+      "tags": [
+        "일제강점기",
+        "인물"
+      ],
+      "distractors": {
+        "easy": [
+          "장보고",
+          "왕건",
+          "정약용"
+        ],
+        "medium": [
+          "이봉창",
+          "안중근",
+          "김좌진"
+        ],
+        "hard": [
+          "김익상",
+          "나석주",
+          "김지섭"
+        ]
+      }
+    },
+    {
+      "recto": "윤봉길 의거가 우리 독립운동에 가져온 가장 큰 성과는 무엇인가?",
+      "verso": "중국 국민당 정부가 대한민국 임시 정부를 지원하게 된 것",
+      "explanation": "윤봉길 의거에 감명받은 중국 국민당은 임시 정부를 적극 지원하기 시작하였다. 이는 뒷날 한국광복군을 창설하는 밑거름이 되었다.",
+      "tags": [
+        "일제강점기",
+        "결과"
+      ],
+      "distractors": {
+        "easy": [
+          "곧바로 독립을 이룬 것",
+          "일본이 항복한 것",
+          "아무 성과가 없던 것"
+        ],
+        "medium": [
+          "미국이 즉시 참전한 것",
+          "임시 정부가 해체된 것",
+          "3·1 운동이 일어난 것"
+        ],
+        "hard": [
+          "소련이 독립군을 지원한 것",
+          "만주국이 무너진 것",
+          "국권을 되찾은 것"
+        ]
+      }
+    },
+    {
+      "recto": "1930년대 만주에서 지청천의 한국 독립군과 양세봉의 조선 혁명군이 택한 싸움의 방식은?",
+      "verso": "중국군과의 한중 연합 작전",
+      "explanation": "만주 사변 이후 한중 두 민족은 공동의 적인 일제에 맞서 손을 잡았다. 한국 독립군은 쌍성보·대전자령에서, 조선 혁명군은 영릉가에서 중국군과 함께 승리하였다.",
+      "tags": [
+        "일제강점기",
+        "전략"
+      ],
+      "distractors": {
+        "easy": [
+          "일본군과의 연합",
+          "전투 포기",
+          "외교 활동만"
+        ],
+        "medium": [
+          "미국과의 연합 작전",
+          "소련군에의 편입",
+          "임시 정부 직할 전투만"
+        ],
+        "hard": [
+          "독자적 단독 작전만",
+          "의열 투쟁으로의 전환",
+          "국내 진공 작전 실행"
+        ]
+      }
+    },
+    {
+      "recto": "1938년 김원봉이 중국 관내에서 조직한, 최초의 한인 군사 조직은?",
+      "verso": "조선 의용대",
+      "explanation": "조선 의용대는 중국 관내에서 만들어진 최초의 한인 무장 부대이다. 뒤에 일부는 한국광복군에 합류하고, 일부는 화북으로 이동해 조선 의용군이 되었다.",
+      "tags": [
+        "일제강점기",
+        "단체"
+      ],
+      "distractors": {
+        "easy": [
+          "별기군",
+          "훈련도감",
+          "삼별초"
+        ],
+        "medium": [
+          "한국광복군",
+          "북로 군정서",
+          "대한 독립군"
+        ],
+        "hard": [
+          "한국 독립군",
+          "조선 혁명군",
+          "동북 항일 연군"
+        ]
+      }
+    },
+    {
+      "recto": "1940년, 충칭에서 대한민국 임시 정부가 창설한 정규 군대는?",
+      "verso": "한국광복군",
+      "explanation": "한국광복군은 임시 정부의 정규군으로 충칭에서 창설되었다. 연합군의 일원으로 인도·미얀마 전선에 참여하고, 국내 진공 작전을 준비하였다.",
+      "tags": [
+        "일제강점기",
+        "단체"
+      ],
+      "distractors": {
+        "easy": [
+          "의병",
+          "별기군",
+          "삼별초"
+        ],
+        "medium": [
+          "조선 의용대",
+          "북로 군정서",
+          "대한 독립군"
+        ],
+        "hard": [
+          "조선 혁명군",
+          "한국 독립군",
+          "조선 의용군"
+        ]
+      }
+    },
+    {
+      "recto": "한국광복군이 미국 전략 정보국(OSS)과 함께 준비했던, 국내로 들어가 일제를 몰아내려던 작전은?",
+      "verso": "국내 진공 작전",
+      "explanation": "한국광복군은 미국 OSS와 함께 특수 훈련을 받으며 국내 진공 작전을 준비하였다. 그러나 실행 직전 일본이 항복하여 끝내 이루어지지 못했다.",
+      "tags": [
+        "일제강점기",
+        "작전"
+      ],
+      "distractors": {
+        "easy": [
+          "인천 상륙 작전",
+          "노르망디 상륙 작전",
+          "봉오동 전투"
+        ],
+        "medium": [
+          "한중 연합 작전",
+          "청산리 대첩",
+          "훙커우 의거"
+        ],
+        "hard": [
+          "보천보 전투",
+          "대전자령 전투",
+          "자유시 이동"
+        ]
+      }
+    },
+    {
+      "recto": "[주의] 한국광복군의 국내 진공 작전은 실제로 실행되어 우리 손으로 일제를 몰아냈는가?",
+      "verso": "아니다. 실행 직전 일본이 항복하여 끝내 이루어지지 못했다",
+      "explanation": "흔한 오해이다. 광복군은 훈련을 마치고 작전을 눈앞에 두었으나, 일본의 항복으로 실행하지 못했다. 김구는 이를 두고 우리 힘으로 광복을 맞지 못한 것을 크게 아쉬워하였다.",
+      "tags": [
+        "piege",
+        "일제강점기"
+      ],
+      "distractors": {
+        "easy": [
+          "그렇다. 작전으로 일본을 몰아냈다",
+          "그렇다. 서울을 되찾았다",
+          "그렇다. 일본의 항복을 받아 냈다"
+        ],
+        "medium": [
+          "그렇다. 미국과 함께 상륙하였다",
+          "그렇다. 만주를 되찾았다",
+          "아니다. 그리고 훈련도 하지 않았다"
+        ],
+        "hard": [
+          "그렇다. 다만 성과가 없었다",
+          "그렇다. 청산리에서 실행되었다",
+          "아니다. 그러나 광복군은 없었다"
+        ]
+      }
+    },
+    {
+      "recto": "[비교] 봉오동 전투와 청산리 대첩은 각각 누가 이끌었는가?",
+      "verso": "봉오동 전투는 홍범도, 청산리 대첩은 김좌진이 중심이 되어 이끌었다",
+      "explanation": "1920년 봉오동 전투는 홍범도의 대한 독립군이, 몇 달 뒤 청산리 대첩은 김좌진의 북로 군정서가 중심이 되었다. 청산리에는 홍범도 부대도 함께 참여하였다.",
+      "tags": [
+        "comparaison",
+        "일제강점기"
+      ],
+      "distractors": {
+        "easy": [
+          "둘 다 이순신이 이끌었다",
+          "둘 다 안중근이 이끌었다",
+          "둘 다 김구가 이끌었다"
+        ],
+        "medium": [
+          "봉오동은 김좌진, 청산리는 홍범도",
+          "둘 다 김원봉이 이끌었다",
+          "봉오동은 윤봉길, 청산리는 이봉창"
+        ],
+        "hard": [
+          "봉오동은 지청천, 청산리는 양세봉",
+          "둘 다 지청천이 이끌었다",
+          "봉오동은 홍범도, 청산리는 양세봉"
+        ]
+      }
+    },
+    {
+      "recto": "전체적으로 무장 독립 전쟁과 의열 투쟁은 어떤 의미를 지니는가?",
+      "verso": "총과 폭탄을 들고 끝까지 싸워 독립 의지를 지키고 세계에 알린 것",
+      "explanation": "만주의 독립군, 의열단과 한인 애국단, 한국광복군은 방법은 달라도 무력으로 일제에 맞섰다. 이들의 투쟁은 우리 민족이 결코 굴복하지 않았음을 보여 준다.",
+      "tags": [
+        "일제강점기",
+        "정리"
+      ],
+      "distractors": {
+        "easy": [
+          "일제에 협력한 것",
+          "아무 성과가 없던 것",
+          "전쟁을 포기한 것"
+        ],
+        "medium": [
+          "외교로만 독립을 구한 것",
+          "실력 양성만 추구한 것",
+          "국내에서만 활동한 것"
+        ],
+        "hard": [
+          "광복을 홀로 이룬 것",
+          "임시 정부와 무관했던 것",
+          "1910년대에 끝난 것"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-nihonshi-tankyuu-heian",
+  "title": "平安と貴族政治・国風文化",
+  "emoji": "🎎",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "平安京への遷都から藤原氏の摂関政治、国風文化の開花、そして武士の登場までを学ぶ。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>平安と貴族政治・国風文化</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>日本史探究<br>\n  <b>時期：</b>794年 〜 11世紀\n</div>\n\n<blockquote>\n  <p><b>問い。</b>貴族が栄えた平安の世で、なぜ地方では武士が力をつけていったのだろうか。</p>\n</blockquote>\n\n<p><strong>桓武天皇</strong>が<strong>平安京</strong>に都を移し、やがて<strong>藤原氏</strong>が<strong>摂関政治</strong>で実権をにぎった。遣唐使の停止のころから日本風の<strong>国風文化</strong>が花開き、かな文字の文学が生まれた。一方、<strong>荘園</strong>の広がりのなかで地方では<strong>武士</strong>が成長していった。</p>\n\n<h2>1・平安京と摂関政治</h2>\n\n<p>794年、<strong>桓武天皇</strong>が<strong>平安京</strong>に遷都した。やがて<strong>藤原氏</strong>が娘を天皇のきさきとして外戚となり、<strong>摂政・関白</strong>の地位を独占して<strong>摂関政治</strong>を行った。<strong>藤原道長</strong>・頼通のときが全盛期である。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"藤原氏が外戚として摂政・関白の地位を独占するしくみ\">\n  <defs>\n    <marker id=\"ar-nth1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"10\" y=\"42\" width=\"120\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"70\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">藤原氏</text>\n  <text x=\"70\" y=\"82\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">娘をきさきに</text>\n  <path d=\"M130,68 L168,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-nth1)\"/>\n  <text x=\"149\" y=\"60\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">外戚</text>\n  <rect x=\"172\" y=\"42\" width=\"158\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"251\" y=\"62\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">摂政・関白を独占</text>\n  <text x=\"251\" y=\"82\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">政治の実権をにぎる</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">摂関政治のしくみ</text>\n</svg>\n<figcaption>天皇の外戚となることが、藤原氏の権力の源であった。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・摂政と関白</strong><br>\n  天皇が<b>幼い</b>ときに代わって政治を行うのが<b>摂政</b>、<b>成人した</b>天皇を補佐するのが<b>関白</b>。藤原氏はこの両方の地位を独占して権力をにぎった。\n</div>\n\n<h2>2・国風文化の開花</h2>\n\n<p>894年、<strong>菅原道真</strong>の提案で<strong>遣唐使</strong>が停止された。そのころから、唐風をもとにしつつ日本の風土に合った<strong>国風文化</strong>が育った。<strong>かな文字</strong>による<strong>紫式部</strong>の『源氏物語』や清少納言の『枕草子』が生まれ、浄土信仰の平等院鳳凰堂も造られた。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"天平文化の唐風と国風文化の日本風の比較\">\n  <rect x=\"12\" y=\"26\" width=\"150\" height=\"82\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">天平文化</text>\n  <text x=\"87\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">唐・仏教の影響</text>\n  <text x=\"87\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">国際色ゆたか</text>\n  <rect x=\"178\" y=\"26\" width=\"150\" height=\"82\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">国風文化</text>\n  <text x=\"253\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">日本の風土に合う</text>\n  <text x=\"253\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">かな文字の文学</text>\n</svg>\n<figcaption>唐風の文化から、日本ならではの文化へと移り変わった。</figcaption>\n</figure>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 170\" role=\"img\" aria-label=\"平安時代の年表\">\n  <line x1=\"26\" y1=\"16\" x2=\"26\" y2=\"156\" style=\"stroke:var(--accent);stroke-opacity:.4;stroke-width:2\"/>\n  <circle cx=\"26\" cy=\"24\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"21\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">794</text>\n  <text x=\"40\" y=\"34\" class=\"s-muted\" font-size=\"10\">平安京に遷都</text>\n  <circle cx=\"26\" cy=\"66\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"63\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">894</text>\n  <text x=\"40\" y=\"76\" class=\"s-muted\" font-size=\"10\">遣唐使の停止</text>\n  <circle cx=\"26\" cy=\"108\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"105\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">10〜11世紀</text>\n  <text x=\"40\" y=\"118\" class=\"s-muted\" font-size=\"10\">摂関政治・国風文化</text>\n  <circle cx=\"26\" cy=\"150\" r=\"5\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"147\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">10世紀</text>\n  <text x=\"40\" y=\"160\" class=\"s-muted\" font-size=\"10\">武士の台頭</text>\n</svg>\n<figcaption>貴族の栄えの陰で、武士が育っていった。</figcaption>\n</figure>\n\n<h2>3・武士の登場</h2>\n\n<p><strong>荘園</strong>が広がり、地方の治安が乱れると、土地や身を守るために<strong>武士</strong>が育っていった。10世紀には<strong>平将門</strong>や藤原純友が反乱を起こし、武士が実力をもって台頭し始めた。やがて武士の世が近づく。</p>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>年</th><th>できごと</th></tr>\n  <tr><td>794</td><td>桓武天皇、平安京に遷都</td></tr>\n  <tr><td>10〜11世紀</td><td>藤原氏の摂関政治</td></tr>\n  <tr><td>894</td><td>遣唐使の停止（菅原道真）</td></tr>\n  <tr><td>10世紀</td><td>平将門・藤原純友の乱</td></tr>\n  <tr><td>11世紀</td><td>国風文化の開花</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>摂関政治</td><td>藤原氏が摂政・関白として行った政治</td></tr>\n  <tr><td>かな文字</td><td>漢字から生まれた日本の文字</td></tr>\n  <tr><td>国風文化</td><td>日本の風土に合わせた文化</td></tr>\n  <tr><td>荘園</td><td>貴族や寺社の私有地</td></tr>\n  <tr><td>武士</td><td>地方で成長した戦いの担い手</td></tr>\n</table>\n\n<h3>人物・文化</h3>\n\n<table>\n  <tr><th>名</th><th>説明</th></tr>\n  <tr><td>桓武天皇</td><td>平安京に遷都した</td></tr>\n  <tr><td>藤原道長</td><td>摂関政治の全盛を築いた</td></tr>\n  <tr><td>紫式部</td><td>『源氏物語』を著した</td></tr>\n  <tr><td>菅原道真</td><td>遣唐使の停止を提案した</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  <b>摂政</b>と<b>関白</b>を取り違えないようにしよう。天皇が<b>幼い</b>ときに置くのが摂政、<b>成人後</b>に補佐するのが関白である。藤原氏はその両方を独占した。\n</div>\n\n<blockquote>\n  <p>貴族が雅を競った平安の世。その足もとでは、荘園を背景に武士が力をたくわえていた。やがて時代の主役は、貴族から武士へと移っていく。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "日本史探究",
+  "cards": [
+    {
+      "recto": "794年に都を移し、平安京を開いた天皇は。",
+      "verso": "桓武天皇",
+      "explanation": "桓武天皇は794年に都を平安京（京都）へ移し、律令政治の立て直しをはかった。ここから平安時代が始まる。",
+      "tags": [
+        "平安",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "聖武天皇",
+          "明治天皇",
+          "推古天皇"
+        ],
+        "medium": [
+          "天武天皇",
+          "聖徳太子",
+          "後醍醐天皇"
+        ],
+        "hard": [
+          "嵯峨天皇",
+          "白河天皇",
+          "後鳥羽天皇"
+        ]
+      }
+    },
+    {
+      "recto": "794年に桓武天皇が都とした、平安時代の都は。",
+      "verso": "平安京（京都）",
+      "explanation": "平安京は現在の京都に置かれた都で、以後およそ400年にわたり政治の中心となった。この時代を平安時代という。",
+      "tags": [
+        "平安",
+        "都"
+      ],
+      "distractors": {
+        "easy": [
+          "江戸",
+          "鎌倉",
+          "大阪"
+        ],
+        "medium": [
+          "平城京",
+          "藤原京",
+          "難波宮"
+        ],
+        "hard": [
+          "長岡京",
+          "恭仁京",
+          "福原京"
+        ]
+      }
+    },
+    {
+      "recto": "東北地方の蝦夷を平定するため、桓武天皇が征夷大将軍に任じた人物は。",
+      "verso": "坂上田村麻呂",
+      "explanation": "坂上田村麻呂は征夷大将軍として蝦夷の平定にあたった。「征夷大将軍」の称号は、のちに武士の政権の長を指すようになる。",
+      "tags": [
+        "平安",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "徳川家康",
+          "源頼朝",
+          "織田信長"
+        ],
+        "medium": [
+          "平清盛",
+          "藤原道長",
+          "菅原道真"
+        ],
+        "hard": [
+          "阿倍比羅夫",
+          "藤原純友",
+          "平将門"
+        ]
+      }
+    },
+    {
+      "recto": "娘を天皇のきさきとし、その子を天皇に立てて権力をにぎった一族は。",
+      "verso": "藤原氏",
+      "explanation": "藤原氏は娘を天皇のきさきにして外戚となり、摂政・関白の地位を独占して政治の実権をにぎった。これを摂関政治という。",
+      "tags": [
+        "平安",
+        "貴族"
+      ],
+      "distractors": {
+        "easy": [
+          "徳川氏",
+          "北条氏",
+          "足利氏"
+        ],
+        "medium": [
+          "蘇我氏",
+          "平氏",
+          "源氏"
+        ],
+        "hard": [
+          "橘氏",
+          "菅原氏",
+          "大伴氏"
+        ]
+      }
+    },
+    {
+      "recto": "藤原氏が摂政・関白として実権をにぎった政治を何というか。",
+      "verso": "摂関政治",
+      "explanation": "摂関政治は、藤原氏が幼い天皇には摂政、成人した天皇には関白として仕え、政治を思うままに動かした体制である。",
+      "tags": [
+        "平安",
+        "政治"
+      ],
+      "distractors": {
+        "easy": [
+          "議会政治",
+          "幕府政治",
+          "軍事政権"
+        ],
+        "medium": [
+          "院政",
+          "律令政治",
+          "執権政治"
+        ],
+        "hard": [
+          "親政",
+          "公武合体",
+          "南北朝の対立"
+        ]
+      }
+    },
+    {
+      "recto": "「この世をば わが世とぞ思ふ」と詠み、摂関政治の全盛期を築いた人物は。",
+      "verso": "藤原道長",
+      "explanation": "藤原道長は娘を次々に天皇のきさきとし、権力の絶頂を「望月の歌」に詠んだ。その子頼通のときに摂関政治は最盛期を迎えた。",
+      "tags": [
+        "平安",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "徳川家康",
+          "聖徳太子",
+          "織田信長"
+        ],
+        "medium": [
+          "藤原鎌足",
+          "菅原道真",
+          "平清盛"
+        ],
+        "hard": [
+          "藤原頼通",
+          "藤原基経",
+          "藤原良房"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】藤原氏の「摂政」と「関白」は、どう使い分けられたか。",
+      "verso": "天皇が幼いときは摂政、成人したのちは関白として政治を助けた",
+      "explanation": "よくある混同である。摂政は天皇が幼少や女性のときに代わって政治を行う役、関白は成人した天皇を補佐する役で、藤原氏は両方を独占した。",
+      "tags": [
+        "piege",
+        "平安"
+      ],
+      "distractors": {
+        "easy": [
+          "両者は全く同じ役職である",
+          "摂政は成人時、関白は幼少時に置く",
+          "どちらも武士の役職である"
+        ],
+        "medium": [
+          "摂政は将軍、関白は天皇のこと",
+          "関白は幼少時、摂政は外国向けの役",
+          "両者とも江戸時代の役職である"
+        ],
+        "hard": [
+          "摂政は地方、関白は都の役人",
+          "関白は軍を率いる役職である",
+          "両者とも天皇そのものを指す"
+        ]
+      }
+    },
+    {
+      "recto": "藤原頼通が宇治に建てた、浄土信仰を代表する阿弥陀堂は。",
+      "verso": "平等院鳳凰堂",
+      "explanation": "平等院鳳凰堂は藤原頼通が建てた阿弥陀堂で、極楽浄土をこの世に表そうとした浄土信仰の代表作である。十円硬貨にも描かれている。",
+      "tags": [
+        "平安",
+        "文化"
+      ],
+      "distractors": {
+        "easy": [
+          "東大寺",
+          "金閣",
+          "日光東照宮"
+        ],
+        "medium": [
+          "法隆寺",
+          "銀閣",
+          "清水寺"
+        ],
+        "hard": [
+          "中尊寺金色堂",
+          "三十三間堂",
+          "唐招提寺"
+        ]
+      }
+    },
+    {
+      "recto": "漢字をもとに日本で生まれた、平安時代の文字を何というか。",
+      "verso": "かな文字（仮名）",
+      "explanation": "かな文字は漢字をくずしたり一部をとったりして生まれた表音文字で、日本語を書きやすくした。女性の文学が花開く土台となった。",
+      "tags": [
+        "平安",
+        "文化"
+      ],
+      "distractors": {
+        "easy": [
+          "アルファベット",
+          "ハングル",
+          "ローマ字"
+        ],
+        "medium": [
+          "漢字のみ",
+          "楔形文字",
+          "甲骨文字"
+        ],
+        "hard": [
+          "万葉仮名だけ",
+          "梵字",
+          "西夏文字"
+        ]
+      }
+    },
+    {
+      "recto": "かな文字で『源氏物語』を書いた女性は。",
+      "verso": "紫式部",
+      "explanation": "紫式部は長編物語『源氏物語』を著した。かな文字による文学は国風文化を代表し、清少納言の『枕草子』とともに知られる。",
+      "tags": [
+        "平安",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "卑弥呼",
+          "推古天皇",
+          "北条政子"
+        ],
+        "medium": [
+          "清少納言",
+          "小野小町",
+          "和泉式部"
+        ],
+        "hard": [
+          "赤染衛門",
+          "菅原孝標女",
+          "藤原道綱母"
+        ]
+      }
+    },
+    {
+      "recto": "唐がおとろえたため、894年に遣唐使の停止を提案した人物は。",
+      "verso": "菅原道真",
+      "explanation": "菅原道真は、唐のおとろえや航海の危険を理由に894年、遣唐使の停止を提案した。これが日本風の国風文化が育つ一因となった。",
+      "tags": [
+        "平安",
+        "外交"
+      ],
+      "distractors": {
+        "easy": [
+          "聖徳太子",
+          "織田信長",
+          "徳川家康"
+        ],
+        "medium": [
+          "小野妹子",
+          "藤原道長",
+          "坂上田村麻呂"
+        ],
+        "hard": [
+          "吉備真備",
+          "阿倍仲麻呂",
+          "空海"
+        ]
+      }
+    },
+    {
+      "recto": "唐風の文化をもとに、日本の風土や好みに合わせて生まれた平安時代の文化を何というか。",
+      "verso": "国風文化",
+      "explanation": "国風文化は、遣唐使の停止のころから育った日本風の文化である。かな文字の文学、寝殿造、大和絵などが代表である。",
+      "tags": [
+        "平安",
+        "文化"
+      ],
+      "distractors": {
+        "easy": [
+          "西洋文化",
+          "縄文文化",
+          "江戸文化"
+        ],
+        "medium": [
+          "天平文化",
+          "飛鳥文化",
+          "元禄文化"
+        ],
+        "hard": [
+          "白鳳文化",
+          "桃山文化",
+          "化政文化"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】奈良時代の天平文化と、平安時代の国風文化の違いは何か。",
+      "verso": "天平文化は唐や仏教の影響が強い国際的な文化、国風文化は日本の風土に合わせた文化",
+      "explanation": "天平文化は遣唐使を通じた唐風・国際色が強く、国風文化は遣唐使停止後に育った日本風の文化である。かな文字の文学がその象徴である。",
+      "tags": [
+        "comparaison",
+        "平安"
+      ],
+      "distractors": {
+        "easy": [
+          "両者は全く同じ文化である",
+          "天平が日本風、国風が唐風である",
+          "どちらも西洋の文化である"
+        ],
+        "medium": [
+          "天平は武士、国風は町人の文化",
+          "両者とも縄文時代の文化である",
+          "国風のほうが天平より前に栄えた"
+        ],
+        "hard": [
+          "天平はかな文字、国風は漢字中心",
+          "両者とも仏教を否定した",
+          "国風文化は中国で生まれた"
+        ]
+      }
+    },
+    {
+      "recto": "10世紀、地方の反乱として関東で兵を挙げた武士は。",
+      "verso": "平将門",
+      "explanation": "平将門は関東で、藤原純友は瀬戸内で反乱を起こした。これらは武士が実力をもって台頭し始めたことを示す。",
+      "tags": [
+        "平安",
+        "武士"
+      ],
+      "distractors": {
+        "easy": [
+          "徳川家康",
+          "織田信長",
+          "聖徳太子"
+        ],
+        "medium": [
+          "平清盛",
+          "源頼朝",
+          "藤原道長"
+        ],
+        "hard": [
+          "源義家",
+          "平正盛",
+          "藤原純友"
+        ]
+      }
+    },
+    {
+      "recto": "墾田永年私財法以降に広がった、貴族や寺社の私有地を何というか。",
+      "verso": "荘園",
+      "explanation": "荘園は貴族や寺社の私有地で、税を免れる特権をもつものもあった。荘園の広がりは律令の土地制度をくずし、武士の成長の場ともなった。",
+      "tags": [
+        "平安",
+        "土地"
+      ],
+      "distractors": {
+        "easy": [
+          "工場",
+          "都市",
+          "駅"
+        ],
+        "medium": [
+          "口分田",
+          "国分寺領のみ",
+          "城下町"
+        ],
+        "hard": [
+          "公領のみ",
+          "屯倉",
+          "条里"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、平安時代はどのような時代であったといえるか。",
+      "verso": "藤原氏の貴族政治と国風文化が栄える一方、地方では武士が力をつけていった時代",
+      "explanation": "平安時代は摂関政治と国風文化が花開いた貴族の世であったが、荘園の広がりのなか地方で武士が成長し、やがて武士の世へと移っていく。",
+      "tags": [
+        "平安",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "武士がすでに全国を支配した時代",
+          "外国に支配された時代",
+          "文化が全くなかった時代"
+        ],
+        "medium": [
+          "天皇がいなくなった時代",
+          "都がなかった時代",
+          "仏教が禁じられた時代"
+        ],
+        "hard": [
+          "幕府が置かれた時代",
+          "身分の差が消えた時代",
+          "貴族が没落しきった時代"
+        ]
+      }
+    }
+  ]
+}

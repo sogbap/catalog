@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-nihonshi-tankyuu-genshi-kodai",
+  "title": "原始・古代 ― 縄文・弥生と国家の誕生",
+  "emoji": "🏺",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "縄文・弥生時代の暮らしから、小国の分立を経て、ヤマト王権による国家形成へと至る過程を学ぶ。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>原始・古代 ― 縄文・弥生と国家の誕生</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>日本史探究<br>\n  <b>時期：</b>縄文時代 〜 古墳時代\n</div>\n\n<blockquote>\n  <p><b>問い。</b>狩猟採集の社会は、どのようにして稲作社会をへて国家へと向かったのだろうか。</p>\n</blockquote>\n\n<p><strong>縄文時代</strong>の狩猟・採集の暮らしから、大陸の稲作が伝わって<strong>弥生時代</strong>が始まった。食料生産は身分の差やむらの争いを生み、やがて<strong>邪馬台国</strong>の卑弥呼のような王が現れる。そして<strong>古墳</strong>とともに<strong>ヤマト王権</strong>が各地の豪族を従え、国家の形成へと進んだ。</p>\n\n<h2>1・縄文と弥生</h2>\n\n<p><strong>縄文時代</strong>は狩猟・採集・漁労が中心で、土器や竪穴住居、<strong>貝塚</strong>が残された。<strong>弥生時代</strong>には大陸から<strong>稲作</strong>が伝わり、金属器も使われた。食料が安定すると、むらや<strong>身分の差</strong>、そして争いが生まれた。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"縄文時代と弥生時代の暮らしの比較\">\n  <rect x=\"12\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">縄文時代</text>\n  <text x=\"87\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">狩猟・採集・漁労</text>\n  <text x=\"87\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">土器・竪穴住居</text>\n  <text x=\"87\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">貝塚</text>\n  <rect x=\"178\" y=\"26\" width=\"150\" height=\"92\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">弥生時代</text>\n  <text x=\"253\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">稲作・金属器</text>\n  <text x=\"253\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">環濠集落</text>\n  <text x=\"253\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9.5\">身分の差</text>\n</svg>\n<figcaption>暮らしの中心が「採る」から「作る」へと移った。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・環濠集落</strong><br>\n  食料や富をめぐる争いに備え、周囲に濠をめぐらせたむら。佐賀県の吉野ヶ里遺跡が代表例で、弥生社会に争いが生じたことを物語る。\n</div>\n\n<h2>2・小国から邪馬台国へ</h2>\n\n<p>むらがまとまって<strong>小国</strong>が分立し、中国に使いを送った。1世紀には倭の奴国の王が後漢から<strong>金印</strong>を授かり、3世紀には<strong>邪馬台国</strong>の女王<strong>卑弥呼</strong>が魏に使いを送って「親魏倭王」の称号を得た。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"小国の分立から邪馬台国の連合へと進む流れ\">\n  <defs>\n    <marker id=\"ar-ntg1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"10\" y=\"40\" width=\"120\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"70\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">小国の分立</text>\n  <text x=\"70\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">奴国・金印</text>\n  <path d=\"M130,66 L168,66\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ntg1)\"/>\n  <rect x=\"172\" y=\"40\" width=\"158\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"251\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">邪馬台国の連合</text>\n  <text x=\"251\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">卑弥呼・親魏倭王</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">中国の史料に記された倭</text>\n</svg>\n<figcaption>分かれていた小国は、しだいに大きな連合へと向かった。</figcaption>\n</figure>\n\n<h2>3・古墳とヤマト王権</h2>\n\n<p>3世紀後半から、大王や豪族の力を示す<strong>前方後円墳</strong>が各地に築かれ、<strong>埴輪</strong>が並べられた。近畿を中心に<strong>ヤマト王権</strong>が成立し、<strong>大王</strong>を頂点に<strong>氏姓制度</strong>で豪族を組織した。大陸からの<strong>渡来人</strong>が技術や文化を伝えた。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"ヤマト王権の構造。大王を頂点に豪族と渡来人が支えた\">\n  <rect x=\"95\" y=\"10\" width=\"150\" height=\"38\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"27\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">大王</text>\n  <text x=\"170\" y=\"42\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">ヤマト王権の頂点</text>\n  <path d=\"M140,48 L80,84\" style=\"fill:none;stroke:var(--accent);stroke-width:2\"/>\n  <path d=\"M200,48 L260,84\" style=\"fill:none;stroke:var(--accent);stroke-width:2\"/>\n  <rect x=\"20\" y=\"86\" width=\"120\" height=\"30\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"80\" y=\"105\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">豪族・氏姓制度</text>\n  <rect x=\"200\" y=\"86\" width=\"120\" height=\"30\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.2\"/>\n  <text x=\"260\" y=\"105\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">渡来人・技術</text>\n</svg>\n<figcaption>大王を中心に、豪族と渡来人が王権を支えた。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>時期</th><th>できごと</th></tr>\n  <tr><td>縄文時代</td><td>狩猟・採集の社会、貝塚</td></tr>\n  <tr><td>弥生時代</td><td>稲作の広まり、環濠集落</td></tr>\n  <tr><td>1世紀</td><td>奴国の王が金印を授かる</td></tr>\n  <tr><td>3世紀</td><td>卑弥呼・邪馬台国</td></tr>\n  <tr><td>4〜5世紀</td><td>古墳の広まり、ヤマト王権</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>縄文時代</td><td>狩猟・採集が中心の社会</td></tr>\n  <tr><td>弥生時代</td><td>稲作が本格化した社会</td></tr>\n  <tr><td>環濠集落</td><td>濠で囲んだ弥生のむら</td></tr>\n  <tr><td>前方後円墳</td><td>鍵穴形の大きな墓</td></tr>\n  <tr><td>ヤマト王権</td><td>大王を中心とする豪族の連合政権</td></tr>\n</table>\n\n<h3>人物・遺跡</h3>\n\n<table>\n  <tr><th>名</th><th>説明</th></tr>\n  <tr><td>卑弥呼</td><td>邪馬台国の女王</td></tr>\n  <tr><td>金印</td><td>奴国の王が後漢から授かった品</td></tr>\n  <tr><td>吉野ヶ里遺跡</td><td>代表的な環濠集落</td></tr>\n  <tr><td>大仙陵古墳</td><td>最大級の前方後円墳</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  弥生時代に稲作が広まっても、狩猟・採集・漁労が<b>なくなったわけではない</b>。稲作を中心としつつ、食料を補う形で続けられた。また<b>縄文が弥生より前</b>の時代である点も取り違えないようにしよう。\n</div>\n\n<blockquote>\n  <p>採る暮らしから作る暮らしへ、そして小国から王権へ。原始・古代の歩みは、やがて律令国家という統一のかたちへと結びついていく。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "日本史探究",
+  "cards": [
+    {
+      "recto": "狩猟・採集を中心とし、縄目の文様をもつ土器を用いた時代は。",
+      "verso": "縄文時代",
+      "explanation": "縄文時代は狩猟・採集・漁労が中心で、土器や竪穴住居が使われた。まだ本格的な稲作は始まっていない。",
+      "tags": [
+        "縄文",
+        "時代"
+      ],
+      "distractors": {
+        "easy": [
+          "江戸時代",
+          "明治時代",
+          "平安時代"
+        ],
+        "medium": [
+          "弥生時代",
+          "古墳時代",
+          "旧石器時代"
+        ],
+        "hard": [
+          "飛鳥時代",
+          "奈良時代",
+          "鎌倉時代"
+        ]
+      }
+    },
+    {
+      "recto": "縄文時代の人々が食べ物の残りかすなどを捨てた跡を何というか。",
+      "verso": "貝塚",
+      "explanation": "貝塚は貝殻や骨などが積もった遺跡で、当時の食生活を知る手がかりとなる。大森貝塚などが有名である。",
+      "tags": [
+        "縄文",
+        "遺跡"
+      ],
+      "distractors": {
+        "easy": [
+          "古墳",
+          "神社",
+          "城"
+        ],
+        "medium": [
+          "環濠集落",
+          "都",
+          "寺院"
+        ],
+        "hard": [
+          "条里",
+          "国分寺",
+          "窯跡"
+        ]
+      }
+    },
+    {
+      "recto": "大陸から稲作が伝わり、水田による農耕が本格化した時代は。",
+      "verso": "弥生時代",
+      "explanation": "弥生時代には稲作が広まり、金属器（青銅器・鉄器）も使われた。食料生産が安定し、むらや身分の差が生まれた。",
+      "tags": [
+        "弥生",
+        "時代"
+      ],
+      "distractors": {
+        "easy": [
+          "縄文時代",
+          "昭和時代",
+          "室町時代"
+        ],
+        "medium": [
+          "古墳時代",
+          "旧石器時代",
+          "奈良時代"
+        ],
+        "hard": [
+          "飛鳥時代",
+          "平安時代",
+          "戦国時代"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】縄文時代と弥生時代の最も大きな違いは何か。",
+      "verso": "縄文は狩猟・採集が中心、弥生では稲作（水田農耕）が本格化した点",
+      "explanation": "縄文は自然の恵みに頼る狩猟・採集の社会、弥生は稲作による食料生産の社会である。生産の変化がむらや身分差を生んだ。",
+      "tags": [
+        "comparaison",
+        "弥生"
+      ],
+      "distractors": {
+        "easy": [
+          "両者は全く同じ社会だった",
+          "縄文で稲作、弥生で狩猟が中心",
+          "どちらも金属器を使わなかった"
+        ],
+        "medium": [
+          "縄文で鉄器、弥生で石器のみを使った",
+          "両者とも都をもっていた",
+          "弥生で狩猟採集、縄文で稲作が中心"
+        ],
+        "hard": [
+          "縄文が弥生より後の時代である",
+          "両者とも文字をもっていた",
+          "弥生では農耕が全く行われなかった"
+        ]
+      }
+    },
+    {
+      "recto": "稲作社会で、敵の侵入に備えて周囲に濠をめぐらせた集落を何というか。",
+      "verso": "環濠集落",
+      "explanation": "食料や富をめぐる争いが生じると、濠で囲んだ環濠集落が現れた。吉野ヶ里遺跡（佐賀県）が代表例である。",
+      "tags": [
+        "弥生",
+        "集落"
+      ],
+      "distractors": {
+        "easy": [
+          "貝塚",
+          "城下町",
+          "宿場町"
+        ],
+        "medium": [
+          "条坊制の都",
+          "荘園",
+          "門前町"
+        ],
+        "hard": [
+          "高地性集落のみ",
+          "国府",
+          "寺内町"
+        ]
+      }
+    },
+    {
+      "recto": "1世紀ごろ、後漢の皇帝から倭の奴国の王が授かったとされる品は。",
+      "verso": "金印（漢委奴国王の金印）",
+      "explanation": "『後漢書』東夷伝に記され、志賀島（福岡県）で発見された金印がこれにあたるとされる。倭の小国が中国に使いを送っていたことを示す。",
+      "tags": [
+        "小国",
+        "史料"
+      ],
+      "distractors": {
+        "easy": [
+          "刀剣",
+          "教科書",
+          "鉄砲"
+        ],
+        "medium": [
+          "銅鐸のみ",
+          "土偶",
+          "埴輪"
+        ],
+        "hard": [
+          "親魏倭王の称号のみ",
+          "遣唐使の任命書",
+          "冊封の詔勅の写本"
+        ]
+      }
+    },
+    {
+      "recto": "3世紀に倭の30ほどの小国を従えたとされる女王は。",
+      "verso": "卑弥呼",
+      "explanation": "『魏志』倭人伝によれば、邪馬台国の女王卑弥呼は呪術的な力で国を治め、魏に使いを送って「親魏倭王」の称号を得た。",
+      "tags": [
+        "邪馬台国",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "聖徳太子",
+          "天照大神",
+          "紫式部"
+        ],
+        "medium": [
+          "推古天皇",
+          "持統天皇",
+          "神功皇后"
+        ],
+        "hard": [
+          "壱与（台与）",
+          "額田王",
+          "光明皇后"
+        ]
+      }
+    },
+    {
+      "recto": "卑弥呼が女王であった、倭の有力な国の名は。",
+      "verso": "邪馬台国",
+      "explanation": "邪馬台国は『魏志』倭人伝に記された国で、その所在地は近畿説・九州説があり、今も定説がない。",
+      "tags": [
+        "邪馬台国",
+        "国"
+      ],
+      "distractors": {
+        "easy": [
+          "江戸",
+          "平安京",
+          "鎌倉"
+        ],
+        "medium": [
+          "奴国",
+          "大和国のみ",
+          "出雲国"
+        ],
+        "hard": [
+          "投馬国",
+          "狗奴国",
+          "伊都国"
+        ]
+      }
+    },
+    {
+      "recto": "3世紀後半から各地に築かれた、鍵穴の形をした大きな墓を何というか。",
+      "verso": "前方後円墳",
+      "explanation": "前方後円墳は前が方形・後ろが円形の古墳で、大王や豪族の権力の大きさを示す。大阪の大仙陵古墳が最大級である。",
+      "tags": [
+        "古墳",
+        "遺跡"
+      ],
+      "distractors": {
+        "easy": [
+          "ピラミッド",
+          "貝塚",
+          "五重塔"
+        ],
+        "medium": [
+          "円墳のみ",
+          "方墳のみ",
+          "環濠集落"
+        ],
+        "hard": [
+          "横穴式石室のみ",
+          "群集墳のみ",
+          "石舞台古墳の形式"
+        ]
+      }
+    },
+    {
+      "recto": "古墳の頂上や周囲に並べられた素焼きの造形物を何というか。",
+      "verso": "埴輪",
+      "explanation": "埴輪は人・馬・家・器材などをかたどった素焼きの造形物で、古墳の装飾や区画に用いられた。当時の風俗を知る手がかりになる。",
+      "tags": [
+        "古墳",
+        "文化"
+      ],
+      "distractors": {
+        "easy": [
+          "土偶",
+          "仏像",
+          "金印"
+        ],
+        "medium": [
+          "銅鐸",
+          "土器のみ",
+          "石棒"
+        ],
+        "hard": [
+          "須恵器のみ",
+          "銅鏡",
+          "勾玉のみ"
+        ]
+      }
+    },
+    {
+      "recto": "4〜5世紀ごろ、近畿地方を中心に各地の豪族を従えて成立した政権を何というか。",
+      "verso": "ヤマト王権（大和政権）",
+      "explanation": "ヤマト王権は大王を中心に有力豪族が連合した政権で、氏姓制度によって豪族を組織し、しだいに支配を広げた。",
+      "tags": [
+        "ヤマト王権",
+        "政治"
+      ],
+      "distractors": {
+        "easy": [
+          "江戸幕府",
+          "鎌倉幕府",
+          "明治政府"
+        ],
+        "medium": [
+          "律令国家",
+          "室町幕府",
+          "邪馬台国"
+        ],
+        "hard": [
+          "平氏政権",
+          "織豊政権",
+          "奥州藤原氏"
+        ]
+      }
+    },
+    {
+      "recto": "ヤマト王権の頂点に立ち、のちの天皇につながる首長を何と呼んだか。",
+      "verso": "大王（おおきみ）",
+      "explanation": "大王はヤマト王権の首長で、有力豪族を従えた。のちに「天皇」の称号が用いられるようになる。",
+      "tags": [
+        "ヤマト王権",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "将軍",
+          "関白",
+          "太政大臣"
+        ],
+        "medium": [
+          "摂政",
+          "国司",
+          "守護"
+        ],
+        "hard": [
+          "大連",
+          "大臣（おおおみ）",
+          "国造"
+        ]
+      }
+    },
+    {
+      "recto": "大陸や朝鮮半島から日本に移り住み、技術や文化を伝えた人々を何というか。",
+      "verso": "渡来人",
+      "explanation": "渡来人は須恵器・機織り・漢字・儒教・仏教などの技術や文化を伝え、ヤマト王権の発展に大きく貢献した。",
+      "tags": [
+        "ヤマト王権",
+        "交流"
+      ],
+      "distractors": {
+        "easy": [
+          "武士",
+          "町人",
+          "御家人"
+        ],
+        "medium": [
+          "防人",
+          "国人",
+          "名主"
+        ],
+        "hard": [
+          "部民のみ",
+          "田堵",
+          "在庁官人"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】弥生時代になると、狩猟や採集は完全になくなったのか。",
+      "verso": "いいえ。稲作が中心となったが、狩猟・採集・漁労も引き続き行われた",
+      "explanation": "よくある誤解である。弥生時代に稲作が広まっても、狩猟・採集・漁労がなくなったわけではなく、食料を補う形で続けられた。",
+      "tags": [
+        "piege",
+        "弥生"
+      ],
+      "distractors": {
+        "easy": [
+          "はい、完全になくなった",
+          "はい、稲作だけになった",
+          "はい、漁労も消えた"
+        ],
+        "medium": [
+          "はい、狩猟は禁止された",
+          "はい、採集は法で禁じられた",
+          "いいえ、稲作は行われなかった"
+        ],
+        "hard": [
+          "はい、縄文人が全員いなくなった",
+          "はい、金属器も使わなくなった",
+          "いいえ、狩猟だけの社会に戻った"
+        ]
+      }
+    },
+    {
+      "recto": "古墳時代までに、豪族を血縁の集団と職務によって編成した仕組みを何というか。",
+      "verso": "氏姓制度",
+      "explanation": "氏姓制度は、氏（血縁的な集団）にカバネ（姓、地位を示す称号）を与えてヤマト王権に組み込む仕組みである。豪族支配の基礎となった。",
+      "tags": [
+        "ヤマト王権",
+        "制度"
+      ],
+      "distractors": {
+        "easy": [
+          "身分制度なし",
+          "選挙制度",
+          "議会制度"
+        ],
+        "medium": [
+          "律令制度",
+          "封建制度",
+          "科挙"
+        ],
+        "hard": [
+          "班田収授",
+          "荘園公領制",
+          "石高制"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、原始・古代の日本はどのように変化していったといえるか。",
+      "verso": "狩猟採集の社会から稲作社会へ進み、小国の分立を経て国家の形成へ向かった",
+      "explanation": "縄文の狩猟採集から弥生の稲作へ、そして小国の分立からヤマト王権による統合へと、日本は国家形成への道を歩んだ。",
+      "tags": [
+        "古代",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "まったく変化しなかった",
+          "文明が後退し続けた",
+          "外国に支配され続けた"
+        ],
+        "medium": [
+          "稲作社会から狩猟社会へ戻った",
+          "はじめから統一国家だった",
+          "国家が消滅していった"
+        ],
+        "hard": [
+          "武士が最初から支配した",
+          "都市文明から農村へ退化した",
+          "王権が分裂して消えた"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "id": "kr-godeunghakgyo-hanguksa-gyeongje-sahoe",
+  "title": "경제 성장과 사회 변화",
+  "emoji": "🏭",
+  "subject": "history",
+  "country": "kr",
+  "courseDescription": "경제 개발 계획에서 시작된 산업화와 한강의 기적, 그리고 그 그늘에 있던 노동 문제와 오늘의 과제까지 살펴본다.",
+  "lesson": "<style>\n  /* SVG 그림 스타일. currentColor(글자색)와 var(--accent)(과목 색)를 사용해\n     앱의 밝은/어두운 테마에 맞춰 표시된다. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Apple SD Gothic Neo\", \"Noto Sans KR\", \"Malgun Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>경제 성장과 사회 변화</h1>\n\n<div class=\"callout\">\n  <strong>학습 포인트</strong><br>\n  <b>수준:</b> 고등학교<br>\n  <b>주제:</b> 한국사<br>\n  <b>시기:</b> 1960년대 ~ 오늘\n</div>\n\n<blockquote>\n  <p><b>핵심 질문.</b> 전쟁의 폐허에서 어떻게 그토록 빠른 성장이 가능했으며, 그 성장은 누구의 어깨 위에 있었을까?</p>\n</blockquote>\n\n<p><strong>경제 개발 5개년 계획</strong>으로 시작된 산업화는 1960년대 <strong>경공업</strong>에서 1970년대 <strong>중화학 공업</strong>으로 나아가 <strong>한강의 기적</strong>을 이루었다. 그러나 그 뒤에는 <strong>저임금·장시간 노동</strong>과 <strong>이촌 향도</strong>의 그늘이 있었고, 1997년 <strong>외환 위기</strong>라는 시련도 겪었다.</p>\n\n<h2>1 · 산업화의 전개</h2>\n\n<p>1962년부터 <strong>경제 개발 5개년 계획</strong>이 추진되었다. 1960년대에는 섬유·가발 같은 <strong>경공업</strong> 수출로, 1970년대에는 철강·조선 등 <strong>중화학 공업</strong>으로 산업 구조가 바뀌었다. <strong>경부 고속 국도</strong>가 이를 뒷받침하였다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"1960년대 경공업에서 1970년대 중화학 공업, 오늘날 첨단 산업으로 이어지는 산업 구조의 변화\">\n  <defs>\n    <marker id=\"ar-krgs1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">1960년대</text>\n  <text x=\"54\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">경공업 수출</text>\n  <path d=\"M100,68 L118,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-krgs1)\"/>\n  <rect x=\"122\" y=\"42\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">1970년대</text>\n  <text x=\"170\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">중화학 공업</text>\n  <path d=\"M218,68 L236,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-krgs1)\"/>\n  <rect x=\"240\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">오늘</text>\n  <text x=\"286\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">반도체·한류</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">바뀌어 온 산업의 중심</text>\n</svg>\n<figcaption>가발과 신발에서 시작해 반도체와 문화 콘텐츠에 이르렀다.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>개념 · 한강의 기적</strong><br>\n  전쟁의 폐허에서 불과 수십 년 만에 이룬 우리나라의 놀라운 경제 성장. 원조를 받던 나라에서 <b>원조를 주는 나라</b>가 된 드문 사례이다.\n</div>\n\n<h2>2 · 성장의 그늘</h2>\n\n<p>성장의 뒤에는 <strong>저임금과 장시간 노동</strong>을 견딘 노동자들이 있었다. 1970년 <strong>전태일</strong>은 근로 기준법 준수를 외치며 스스로를 희생하였다. <strong>이촌 향도</strong>로 도시 문제가 커지고 농촌은 비었으며, <strong>새마을 운동</strong>은 성과와 함께 관 주도라는 한계도 남겼다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 128\" role=\"img\" aria-label=\"경제 성장의 성과와 그늘 비교\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">빛과 그림자</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"88\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">성과</text>\n  <text x=\"87\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">빠른 산업화</text>\n  <text x=\"87\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">수출 증가</text>\n  <text x=\"87\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">생활 수준 향상</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"88\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">그늘</text>\n  <text x=\"253\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">저임금·장시간 노동</text>\n  <text x=\"253\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">빈부·도농 격차</text>\n  <text x=\"253\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">도시 문제</text>\n</svg>\n<figcaption>성장의 열매는 모두에게 고르게 돌아가지 않았다.</figcaption>\n</figure>\n\n<h2>3 · 위기와 오늘</h2>\n\n<p>1980년대 중반의 <strong>3저 호황</strong>으로 크게 성장했으나, 1997년 <strong>외환 위기</strong>로 많은 기업이 무너지고 실업자가 늘었다. 국민들은 <strong>금 모으기 운동</strong>으로 힘을 보태 위기를 이겨 냈고, 오늘날 우리나라는 <strong>반도체</strong>와 <strong>한류</strong>로 세계와 만나고 있다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 176\" role=\"img\" aria-label=\"경제 성장과 사회 변화의 연표\">\n  <line x1=\"60\" y1=\"20\" x2=\"60\" y2=\"162\" style=\"stroke:var(--accent);stroke-opacity:.35;stroke-width:2\"/>\n  <circle cx=\"60\" cy=\"32\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"78\" y=\"30\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">1962</text>\n  <text x=\"78\" y=\"43\" class=\"s-muted\" font-size=\"9\">경제 개발 5개년 계획</text>\n  <circle cx=\"60\" cy=\"66\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"78\" y=\"64\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">1970</text>\n  <text x=\"78\" y=\"77\" class=\"s-muted\" font-size=\"9\">경부 고속 국도 · 전태일</text>\n  <circle cx=\"60\" cy=\"100\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"78\" y=\"98\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">1980년대</text>\n  <text x=\"78\" y=\"111\" class=\"s-muted\" font-size=\"9\">3저 호황</text>\n  <circle cx=\"60\" cy=\"138\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"78\" y=\"136\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">1997</text>\n  <text x=\"78\" y=\"149\" class=\"s-muted\" font-size=\"9\">외환 위기 · 금 모으기</text>\n</svg>\n<figcaption>성장과 위기를 오가며 오늘에 이르렀다.</figcaption>\n</figure>\n\n<h2>핵심 정리</h2>\n\n<h3>연표</h3>\n\n<table>\n  <tr><th>시기</th><th>내용</th></tr>\n  <tr><td>1962~</td><td>경제 개발 5개년 계획</td></tr>\n  <tr><td>1960년대</td><td>경공업 수출 (섬유·가발)</td></tr>\n  <tr><td>1970년대</td><td>중화학 공업, 경부 고속 국도</td></tr>\n  <tr><td>1980년대</td><td>3저 호황</td></tr>\n  <tr><td>1997</td><td>외환 위기, 금 모으기 운동</td></tr>\n</table>\n\n<h3>핵심 용어</h3>\n\n<table>\n  <tr><th>용어</th><th>뜻</th></tr>\n  <tr><td>한강의 기적</td><td>짧은 기간에 이룬 경제 성장</td></tr>\n  <tr><td>새마을 운동</td><td>관 주도의 농촌 근대화 운동</td></tr>\n  <tr><td>이촌 향도</td><td>농촌에서 도시로의 인구 이동</td></tr>\n  <tr><td>3저 호황</td><td>저달러·저유가·저금리의 호황</td></tr>\n  <tr><td>외환 위기</td><td>1997년 IMF 지원을 받은 위기</td></tr>\n</table>\n\n<h3>사회 변화</h3>\n\n<table>\n  <tr><th>영역</th><th>변화</th></tr>\n  <tr><td>산업</td><td>농업 → 경공업 → 중화학 → 첨단</td></tr>\n  <tr><td>인구</td><td>이촌 향도, 도시 인구 급증</td></tr>\n  <tr><td>노동</td><td>저임금·장시간, 전태일 이후 관심 확대</td></tr>\n  <tr><td>과제</td><td>빈부·도농 격차의 해소</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>주의</strong><br>\n  경제 성장의 열매는 <b>모두에게 고르게 돌아가지 않았다</b>—저임금과 긴 노동 시간을 견딘 노동자들의 희생, 그리고 빈부·도농 격차가 함께 있었다. 성과만 보지 말고 <b>그늘까지</b> 함께 보아야 한다. 또 <b>1960년대는 경공업</b>, <b>1970년대는 중화학 공업</b>임을 구분하자.\n</div>\n\n<blockquote>\n  <p>폐허에서 일어선 힘은 결국 사람의 땀이었다. 그 땀에 값하는 사회, 격차를 줄이는 성장은 오늘 우리에게 남겨진 몫이다.</p>\n</blockquote>\n",
+  "questionLang": "ko",
+  "answerLang": "ko",
+  "version": 1,
+  "level": "고등학교",
+  "theme": "한국사",
+  "cards": [
+    {
+      "recto": "1962년부터 정부가 산업을 키우기 위해 목표를 세워 추진한 계획은?",
+      "verso": "경제 개발 5개년 계획",
+      "explanation": "경제 개발 5개년 계획은 정부가 자본과 자원을 집중해 산업을 키운 계획이다. 수출을 앞세운 이 계획으로 우리나라는 빠른 경제 성장을 이루었다.",
+      "tags": [
+        "현대",
+        "경제"
+      ],
+      "distractors": {
+        "easy": [
+          "대동법",
+          "과전법",
+          "토지 조사 사업"
+        ],
+        "medium": [
+          "농지 개혁",
+          "새마을 운동",
+          "산미 증식 계획"
+        ],
+        "hard": [
+          "금융 실명제",
+          "3저 호황 정책",
+          "물산 장려 운동"
+        ]
+      }
+    },
+    {
+      "recto": "1960년대 우리나라가 값싼 노동력을 바탕으로 수출을 이끈 산업 분야는?",
+      "verso": "경공업(섬유·가발·신발 등)",
+      "explanation": "1960년대에는 자본과 기술이 부족하여, 사람의 손이 많이 필요한 섬유·가발·신발 같은 경공업 제품을 수출하였다. 이것이 성장의 출발점이 되었다.",
+      "tags": [
+        "현대",
+        "경제"
+      ],
+      "distractors": {
+        "easy": [
+          "농업",
+          "수산업",
+          "관광업"
+        ],
+        "medium": [
+          "중화학 공업",
+          "반도체 산업",
+          "자동차 산업"
+        ],
+        "hard": [
+          "조선업",
+          "석유 화학 공업",
+          "정보 통신 산업"
+        ]
+      }
+    },
+    {
+      "recto": "1970년대 정부가 철강·조선·석유 화학 등으로 산업 구조를 바꾸며 키운 분야는?",
+      "verso": "중화학 공업",
+      "explanation": "1970년대에는 포항 제철소를 세우고 조선·석유 화학 등 중화학 공업을 키웠다. 이로써 산업 구조가 고도화되었으나, 무리한 투자로 어려움을 겪기도 했다.",
+      "tags": [
+        "현대",
+        "경제"
+      ],
+      "distractors": {
+        "easy": [
+          "농업",
+          "임업",
+          "관광업"
+        ],
+        "medium": [
+          "경공업",
+          "가내 수공업",
+          "서비스업만"
+        ],
+        "hard": [
+          "반도체 산업",
+          "정보 통신 산업",
+          "문화 콘텐츠 산업"
+        ]
+      }
+    },
+    {
+      "recto": "1970년에 개통되어 서울과 부산을 잇고 물류의 대동맥이 된 도로는?",
+      "verso": "경부 고속 국도",
+      "explanation": "경부 고속 국도는 서울과 부산을 잇는 고속 도로로, 사람과 물자의 이동을 크게 빠르게 하였다. 산업화를 뒷받침한 상징적인 사회 간접 자본이다.",
+      "tags": [
+        "현대",
+        "경제"
+      ],
+      "distractors": {
+        "easy": [
+          "실크로드",
+          "만리장성",
+          "수에즈 운하"
+        ],
+        "medium": [
+          "경부선 철도",
+          "인천 국제공항",
+          "서울 지하철 1호선"
+        ],
+        "hard": [
+          "호남 고속 국도",
+          "영동 고속 국도",
+          "경인 고속 국도"
+        ]
+      }
+    },
+    {
+      "recto": "짧은 기간에 이룬 우리나라의 놀라운 경제 성장을 가리키는 말은?",
+      "verso": "한강의 기적",
+      "explanation": "한강의 기적은 전쟁의 폐허에서 불과 수십 년 만에 이룬 우리나라의 경제 성장을 이르는 말이다. 세계에서 유례를 찾기 어려운 성장으로 평가된다.",
+      "tags": [
+        "현대",
+        "개념"
+      ],
+      "distractors": {
+        "easy": [
+          "나일강의 선물",
+          "황금의 나라",
+          "해동성국"
+        ],
+        "medium": [
+          "라인강의 기적",
+          "동방의 등불",
+          "아시아의 용"
+        ],
+        "hard": [
+          "대동아 공영",
+          "제2의 개항",
+          "산업 혁명"
+        ]
+      }
+    },
+    {
+      "recto": "1970년부터 '근면·자조·협동'을 내걸고 농촌 환경을 바꾸려 한 정부 주도의 운동은?",
+      "verso": "새마을 운동",
+      "explanation": "새마을 운동은 도로 정비, 지붕 개량 등으로 농촌의 모습을 바꾸었다. 다만 정부가 위에서 이끈 관 주도의 운동으로, 유신 체제를 뒷받침했다는 비판도 받는다.",
+      "tags": [
+        "현대",
+        "사회"
+      ],
+      "distractors": {
+        "easy": [
+          "동학 농민 운동",
+          "3·1 운동",
+          "형평 운동"
+        ],
+        "medium": [
+          "브나로드 운동",
+          "물산 장려 운동",
+          "금 모으기 운동"
+        ],
+        "hard": [
+          "농촌 진흥 운동",
+          "농지 개혁",
+          "소작 쟁의"
+        ]
+      }
+    },
+    {
+      "recto": "1970년, 열악한 노동 환경에 항의하며 '근로 기준법을 지켜라'라고 외친 노동자는?",
+      "verso": "전태일",
+      "explanation": "전태일은 평화 시장 노동자들의 참혹한 노동 조건을 알리며 근로 기준법 준수를 외치고 스스로를 희생하였다. 이를 계기로 노동 문제가 사회적 관심을 받게 되었다.",
+      "tags": [
+        "현대",
+        "인물"
+      ],
+      "distractors": {
+        "easy": [
+          "이순신",
+          "안중근",
+          "유관순"
+        ],
+        "medium": [
+          "박종철",
+          "이한열",
+          "장준하"
+        ],
+        "hard": [
+          "김주열",
+          "조영래",
+          "문익환"
+        ]
+      }
+    },
+    {
+      "recto": "빠른 경제 성장의 그늘에서 노동자들이 겪은 대표적인 어려움은 무엇인가?",
+      "verso": "저임금과 장시간 노동 등 열악한 노동 조건",
+      "explanation": "수출 경쟁력을 위해 임금이 낮게 억눌리고 노동 시간은 매우 길었으며, 노동 운동도 제약을 받았다. 성장의 성과가 고르게 나누어지지 못한 것이다.",
+      "tags": [
+        "현대",
+        "사회"
+      ],
+      "distractors": {
+        "easy": [
+          "일자리가 너무 많았던 것",
+          "임금이 지나치게 높았던 것",
+          "노동 시간이 너무 짧았던 것"
+        ],
+        "medium": [
+          "농사지을 사람이 넘쳤던 것",
+          "수출이 전혀 없었던 것",
+          "공장이 하나도 없던 것"
+        ],
+        "hard": [
+          "노동조합이 지나치게 강했던 것",
+          "외국인 노동자가 대부분이던 것",
+          "완전 고용이 이루어진 것"
+        ]
+      }
+    },
+    {
+      "recto": "일자리를 찾아 농촌 사람들이 도시로 몰려들면서 나타난 현상을 무엇이라 하는가?",
+      "verso": "이촌 향도(도시화)",
+      "explanation": "이촌 향도로 도시 인구가 빠르게 늘면서 주택난·교통난·환경 문제가 생겼고, 농촌은 일할 사람이 줄어 어려움을 겪었다. 도시와 농촌의 격차가 커졌다.",
+      "tags": [
+        "현대",
+        "사회"
+      ],
+      "distractors": {
+        "easy": [
+          "귀농 현상",
+          "인구 감소",
+          "쇄국"
+        ],
+        "medium": [
+          "산업 혁명",
+          "고령화",
+          "저출산"
+        ],
+        "hard": [
+          "역도시화",
+          "슬럼 철거",
+          "인구 분산 정책"
+        ]
+      }
+    },
+    {
+      "recto": "1980년대 중반, 저달러·저유가·저금리에 힘입어 우리 경제가 크게 성장한 시기를 무엇이라 하는가?",
+      "verso": "3저 호황",
+      "explanation": "3저 호황은 낮은 달러 가치, 낮은 유가, 낮은 금리라는 유리한 국제 환경 속에 이루어진 호황이다. 이 시기 자동차·전자 등의 수출이 크게 늘었다.",
+      "tags": [
+        "현대",
+        "경제"
+      ],
+      "distractors": {
+        "easy": [
+          "대공황",
+          "외환 위기",
+          "전쟁 특수"
+        ],
+        "medium": [
+          "석유 파동",
+          "고도 성장기",
+          "금융 위기"
+        ],
+        "hard": [
+          "3고 불황",
+          "버블 경제",
+          "스태그플레이션"
+        ]
+      }
+    },
+    {
+      "recto": "1997년, 외화가 부족해져 우리나라가 국제 통화 기금(IMF)의 지원을 받게 된 사건은?",
+      "verso": "외환 위기(IMF 사태)",
+      "explanation": "외환 위기로 많은 기업이 무너지고 실업자가 크게 늘었다. 국민들은 금 모으기 운동으로 힘을 보탰고, 구조 조정을 거쳐 위기를 극복하였다.",
+      "tags": [
+        "현대",
+        "경제"
+      ],
+      "distractors": {
+        "easy": [
+          "6·25 전쟁",
+          "3·1 운동",
+          "광복"
+        ],
+        "medium": [
+          "석유 파동",
+          "3저 호황",
+          "대공황"
+        ],
+        "hard": [
+          "금융 실명제 실시",
+          "세계 금융 위기",
+          "화폐 개혁"
+        ]
+      }
+    },
+    {
+      "recto": "외환 위기를 이겨 내기 위해 국민들이 자기 금붙이를 내놓아 힘을 보탠 운동은?",
+      "verso": "금 모으기 운동",
+      "explanation": "금 모으기 운동은 국민들이 결혼반지 등 금붙이를 모아 나랏빚을 갚는 데 보탠 운동이다. 일제 강점기의 국채 보상 운동과 닮은, 국민적 참여의 사례이다.",
+      "tags": [
+        "현대",
+        "사회"
+      ],
+      "distractors": {
+        "easy": [
+          "새마을 운동",
+          "3·1 운동",
+          "형평 운동"
+        ],
+        "medium": [
+          "국채 보상 운동",
+          "물산 장려 운동",
+          "브나로드 운동"
+        ],
+        "hard": [
+          "저축 장려 운동",
+          "절미 운동",
+          "농촌 진흥 운동"
+        ]
+      }
+    },
+    {
+      "recto": "[비교] 1960년대와 1970년대의 우리 산업은 각각 무엇을 중심으로 성장하였는가?",
+      "verso": "1960년대는 경공업, 1970년대는 중화학 공업을 중심으로 성장하였다",
+      "explanation": "1960년대에는 노동력이 많이 드는 섬유·가발 등 경공업 수출로, 1970년대에는 철강·조선·석유 화학 등 중화학 공업으로 산업 구조가 바뀌었다.",
+      "tags": [
+        "comparaison",
+        "현대"
+      ],
+      "distractors": {
+        "easy": [
+          "둘 다 농업 중심이었다",
+          "둘 다 반도체 중심이었다",
+          "둘 다 관광업 중심이었다"
+        ],
+        "medium": [
+          "1960년대 중화학, 1970년대 경공업",
+          "둘 다 경공업 중심이었다",
+          "둘 다 중화학 공업 중심이었다"
+        ],
+        "hard": [
+          "1960년대 조선업, 1970년대 섬유",
+          "1960년대 경공업, 1970년대 정보 통신",
+          "1960년대 반도체, 1970년대 중화학"
+        ]
+      }
+    },
+    {
+      "recto": "[주의] 빠른 경제 성장의 열매는 모든 사람에게 고르게 돌아갔는가?",
+      "verso": "아니다. 저임금 노동자의 희생과 빈부·도농 격차 등 그늘이 함께 있었다",
+      "explanation": "흔한 오해이다. 성장의 뒤에는 낮은 임금과 긴 노동 시간을 견딘 노동자들이 있었고, 도시와 농촌, 대기업과 중소기업 사이의 격차도 커졌다. 성과와 그늘을 함께 보아야 한다.",
+      "tags": [
+        "piege",
+        "현대"
+      ],
+      "distractors": {
+        "easy": [
+          "그렇다. 모두가 똑같이 잘살게 되었다",
+          "그렇다. 아무 문제도 없었다",
+          "그렇다. 빈부 격차가 사라졌다"
+        ],
+        "medium": [
+          "그렇다. 노동 문제는 없었다",
+          "그렇다. 농촌이 도시보다 잘살게 되었다",
+          "아니다. 그리고 성장 자체도 없었다"
+        ],
+        "hard": [
+          "그렇다. 노동 시간이 가장 짧았다",
+          "그렇다. 이촌 향도가 없었다",
+          "아니다. 그러나 노동자는 부유해졌다"
+        ]
+      }
+    },
+    {
+      "recto": "오늘날 우리나라가 세계에서 경쟁력을 갖춘 대표적인 산업과 문화 분야는?",
+      "verso": "반도체 등 첨단 산업과 한류 문화 콘텐츠",
+      "explanation": "우리나라는 반도체·자동차·조선 등 첨단 제조업에서 세계적 경쟁력을 갖추었고, 음악·드라마·영화 등 한류 문화 콘텐츠로도 세계의 주목을 받고 있다.",
+      "tags": [
+        "현대",
+        "오늘"
+      ],
+      "distractors": {
+        "easy": [
+          "가발과 신발 수출",
+          "고래잡이",
+          "석탄 채굴"
+        ],
+        "medium": [
+          "섬유 산업 중심",
+          "농산물 수출 중심",
+          "관광업 단일 산업"
+        ],
+        "hard": [
+          "석유 수출",
+          "원자재 수출 중심",
+          "중계 무역만"
+        ]
+      }
+    },
+    {
+      "recto": "전체적으로 우리나라의 경제 성장은 어떤 과정이었다고 볼 수 있는가?",
+      "verso": "전쟁의 폐허에서 짧은 기간에 큰 성장을 이루었으나, 그늘도 함께 남긴 과정",
+      "explanation": "우리나라는 원조를 받던 나라에서 원조를 주는 나라로 성장하였다. 그러나 그 과정에서 생긴 격차와 노동 문제를 해결하는 일이 오늘의 과제로 남아 있다.",
+      "tags": [
+        "현대",
+        "정리"
+      ],
+      "distractors": {
+        "easy": [
+          "아무 성장도 없던 과정",
+          "외국이 대신 이뤄 준 과정",
+          "농업만 발전한 과정"
+        ],
+        "medium": [
+          "아무 문제도 없던 완벽한 과정",
+          "성장 없이 분배만 이룬 과정",
+          "전쟁 전에 이미 끝난 과정"
+        ],
+        "hard": [
+          "원조를 계속 받는 데 머문 과정",
+          "중화학 공업만으로 이룬 과정",
+          "민주화와 무관했던 과정"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-nihonshi-tankyuu-kamakura",
+  "title": "中世 ― 武士の登場と鎌倉幕府",
+  "emoji": "🏹",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "平氏政権から源頼朝による鎌倉幕府の成立、執権政治と元寇まで、武士の世の始まりを学ぶ。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>中世 ― 武士の登場と鎌倉幕府</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>日本史探究<br>\n  <b>時期：</b>12世紀 〜 14世紀\n</div>\n\n<blockquote>\n  <p><b>問い。</b>武士はどのようにして貴族に代わり、政治の主役となったのだろうか。</p>\n</blockquote>\n\n<p><strong>平清盛</strong>の平氏政権ののち、<strong>源頼朝</strong>が平氏をほろぼして<strong>鎌倉幕府</strong>を開いた。将軍と御家人は<strong>御恩と奉公</strong>で結ばれ、<strong>守護・地頭</strong>が全国を支えた。<strong>承久の乱</strong>で幕府の力は確立し、<strong>元寇</strong>を退けたが、その負担が衰退を招いた。</p>\n\n<h2>1・平氏政権から鎌倉幕府へ</h2>\n\n<p><strong>平清盛</strong>は武士として初めて太政大臣となり、<strong>日宋貿易</strong>で富を得たが、独占への反発を招いた。<strong>源頼朝</strong>は1185年に平氏をほろぼし、鎌倉に<strong>幕府</strong>を開いて武家政権を築いた。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"平氏政権から源頼朝の鎌倉幕府成立への流れ\">\n  <defs>\n    <marker id=\"ar-ntk1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"56\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">平氏政権</text>\n  <text x=\"56\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">平清盛・日宋貿易</text>\n  <path d=\"M104,68 L122,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ntk1)\"/>\n  <rect x=\"126\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"172\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">源平の争乱</text>\n  <text x=\"172\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">1185・平氏滅亡</text>\n  <path d=\"M218,68 L236,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ntk1)\"/>\n  <rect x=\"240\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">鎌倉幕府</text>\n  <text x=\"286\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">源頼朝</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">武家政権の始まり</text>\n</svg>\n<figcaption>武士どうしの争いをへて、本格的な武家政権が生まれた。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・御恩と奉公</strong><br>\n  将軍が御家人の領地を保障し恩賞を与えるのが<b>御恩</b>、御家人が戦いなどで将軍に仕えるのが<b>奉公</b>。土地を仲立ちとした武士の主従関係で、封建社会の基本である。\n</div>\n\n<h2>2・執権政治と承久の乱</h2>\n\n<p>源氏の将軍がとだえると、<strong>北条氏</strong>が<strong>執権</strong>として実権をにぎった。1221年、<strong>後鳥羽上皇</strong>が幕府を倒そうと<strong>承久の乱</strong>を起こしたが敗れ、幕府の支配はかえって全国に広がった。1232年には<strong>御成敗式目</strong>が定められた。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"守護と地頭による幕府の全国支配のしくみ\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">幕府の全国支配</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">守護</text>\n  <text x=\"87\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">国ごと</text>\n  <text x=\"87\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">軍事・警察</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">地頭</text>\n  <text x=\"253\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">荘園・公領ごと</text>\n  <text x=\"253\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">土地管理・年貢</text>\n</svg>\n<figcaption>広い国は守護、土地の単位は地頭が担い、全国を支えた。</figcaption>\n</figure>\n\n<h2>3・元寇と幕府の衰退</h2>\n\n<p>13世紀後半、執権<strong>北条時宗</strong>のとき、元が二度にわたって攻めてきた（<strong>元寇</strong>）。暴風雨もあって撃退したが、戦いの負担が重く、恩賞も乏しかった。御家人の不満が高まり、幕府はしだいに衰えていった。この時代には<strong>法然</strong>らのわかりやすい鎌倉仏教も広まった。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 170\" role=\"img\" aria-label=\"鎌倉時代の年表\">\n  <line x1=\"26\" y1=\"16\" x2=\"26\" y2=\"156\" style=\"stroke:var(--accent);stroke-opacity:.4;stroke-width:2\"/>\n  <circle cx=\"26\" cy=\"24\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"21\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1185</text>\n  <text x=\"40\" y=\"34\" class=\"s-muted\" font-size=\"10\">平氏滅亡・鎌倉幕府へ</text>\n  <circle cx=\"26\" cy=\"66\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"63\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1221</text>\n  <text x=\"40\" y=\"76\" class=\"s-muted\" font-size=\"10\">承久の乱</text>\n  <circle cx=\"26\" cy=\"108\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"105\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1232</text>\n  <text x=\"40\" y=\"118\" class=\"s-muted\" font-size=\"10\">御成敗式目</text>\n  <circle cx=\"26\" cy=\"150\" r=\"5\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"147\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">1274・1281</text>\n  <text x=\"40\" y=\"160\" class=\"s-muted\" font-size=\"10\">元寇</text>\n</svg>\n<figcaption>幕府の確立から、衰退を招く元寇まで。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>年</th><th>できごと</th></tr>\n  <tr><td>1185</td><td>平氏滅亡（壇ノ浦）</td></tr>\n  <tr><td>1192</td><td>源頼朝、征夷大将軍に</td></tr>\n  <tr><td>1221</td><td>承久の乱</td></tr>\n  <tr><td>1232</td><td>御成敗式目</td></tr>\n  <tr><td>1274・1281</td><td>元寇（文永・弘安の役）</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>鎌倉幕府</td><td>源頼朝が開いた武家政権</td></tr>\n  <tr><td>守護・地頭</td><td>国・荘園に置かれた幕府の役職</td></tr>\n  <tr><td>御恩と奉公</td><td>将軍と御家人の主従関係</td></tr>\n  <tr><td>執権</td><td>北条氏がにぎった幕府の実権</td></tr>\n  <tr><td>御成敗式目</td><td>最初の本格的な武家法</td></tr>\n</table>\n\n<h3>人物</h3>\n\n<table>\n  <tr><th>名</th><th>説明</th></tr>\n  <tr><td>平清盛</td><td>平氏政権を築いた</td></tr>\n  <tr><td>源頼朝</td><td>鎌倉幕府を開いた</td></tr>\n  <tr><td>北条泰時</td><td>御成敗式目を定めた</td></tr>\n  <tr><td>北条時宗</td><td>元寇を退けた執権</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  <b>承久の乱</b>で勝ったのは<b>幕府</b>である。後鳥羽上皇は敗れ、幕府の支配はむしろ全国に広がった。「朝廷が幕府を倒した」と取り違えないようにしよう。\n</div>\n\n<blockquote>\n  <p>こうして武士の世が始まった。しかし元寇の負担が幕府の力をむしばみ、やがて鎌倉幕府はたおれ、南北朝の動乱と室町幕府の時代へと移っていく。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "日本史探究",
+  "cards": [
+    {
+      "recto": "武士として初めて太政大臣となり、平氏政権を築いた人物は。",
+      "verso": "平清盛",
+      "explanation": "平清盛は保元・平治の乱に勝って力をのばし、武士として初めて太政大臣となった。日宋貿易でも富を得たが、平氏の独占に反発が広がった。",
+      "tags": [
+        "平氏",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "徳川家康",
+          "織田信長",
+          "聖徳太子"
+        ],
+        "medium": [
+          "源頼朝",
+          "藤原道長",
+          "北条時宗"
+        ],
+        "hard": [
+          "平将門",
+          "源義経",
+          "後白河上皇"
+        ]
+      }
+    },
+    {
+      "recto": "平清盛が中国と行い、大きな富を得た貿易を何というか。",
+      "verso": "日宋貿易",
+      "explanation": "平清盛は瀬戸内海の航路を整え、宋（中国）との日宋貿易を進めた。輸入した宋銭は日本の経済にも影響を与えた。",
+      "tags": [
+        "平氏",
+        "経済"
+      ],
+      "distractors": {
+        "easy": [
+          "南蛮貿易",
+          "日米貿易",
+          "朱印船貿易"
+        ],
+        "medium": [
+          "日明貿易（勘合貿易）",
+          "遣唐使",
+          "オランダ貿易"
+        ],
+        "hard": [
+          "日朝貿易",
+          "琉球貿易",
+          "北前船交易"
+        ]
+      }
+    },
+    {
+      "recto": "1185年、壇ノ浦の戦いで平氏をほろぼした源氏の棟梁は。",
+      "verso": "源頼朝",
+      "explanation": "源頼朝は弟の義経らを用いて平氏をほろぼし、鎌倉を拠点に武士の政権を築いた。1192年には征夷大将軍となった。",
+      "tags": [
+        "源氏",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "徳川家康",
+          "豊臣秀吉",
+          "聖徳太子"
+        ],
+        "medium": [
+          "平清盛",
+          "北条泰時",
+          "足利尊氏"
+        ],
+        "hard": [
+          "源義経",
+          "源義仲",
+          "北条時政"
+        ]
+      }
+    },
+    {
+      "recto": "源頼朝が鎌倉に開いた、武士による政権を何というか。",
+      "verso": "鎌倉幕府",
+      "explanation": "鎌倉幕府は源頼朝が鎌倉を拠点に開いた武士の政権で、日本で最初の本格的な武家政権である。全国に守護・地頭を置いて支配した。",
+      "tags": [
+        "鎌倉",
+        "政治"
+      ],
+      "distractors": {
+        "easy": [
+          "江戸幕府",
+          "室町幕府",
+          "明治政府"
+        ],
+        "medium": [
+          "平氏政権",
+          "律令国家",
+          "建武の新政"
+        ],
+        "hard": [
+          "奥州藤原氏",
+          "織豊政権",
+          "六波羅探題のみ"
+        ]
+      }
+    },
+    {
+      "recto": "頼朝が国ごとに軍事・警察のために置いた役職は。",
+      "verso": "守護",
+      "explanation": "守護は国ごとに置かれ、軍事や警察の役目を担った。荘園や公領ごとに置かれた地頭とあわせて、幕府の全国支配の要となった。",
+      "tags": [
+        "鎌倉",
+        "制度"
+      ],
+      "distractors": {
+        "easy": [
+          "知事",
+          "町長",
+          "警視総監"
+        ],
+        "medium": [
+          "地頭",
+          "国司",
+          "郡司"
+        ],
+        "hard": [
+          "六波羅探題",
+          "問注所",
+          "侍所"
+        ]
+      }
+    },
+    {
+      "recto": "頼朝が荘園や公領ごとに置き、土地の管理や年貢の取り立てを行わせた役職は。",
+      "verso": "地頭",
+      "explanation": "地頭は荘園や公領に置かれ、土地の管理や年貢の徴収、治安維持を担った。しだいに現地で力をのばし、荘園領主とも対立した。",
+      "tags": [
+        "鎌倉",
+        "制度"
+      ],
+      "distractors": {
+        "easy": [
+          "社長",
+          "校長",
+          "駅長"
+        ],
+        "medium": [
+          "守護",
+          "国司",
+          "関白"
+        ],
+        "hard": [
+          "政所",
+          "評定衆",
+          "問注所"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】守護と地頭の役割の違いは何か。",
+      "verso": "守護は国ごとの軍事・警察、地頭は荘園・公領ごとの土地管理と年貢の取り立て",
+      "explanation": "守護は国という広い単位で軍事・警察を担い、地頭は荘園や公領という土地の単位で管理と徴税を担った。両者で幕府の全国支配を支えた。",
+      "tags": [
+        "comparaison",
+        "鎌倉"
+      ],
+      "distractors": {
+        "easy": [
+          "両者は全く同じ役職である",
+          "守護が徴税、地頭が軍事を担った",
+          "どちらも貴族の役職である"
+        ],
+        "medium": [
+          "守護は土地管理、地頭は国の軍事を担った",
+          "両者とも朝廷の役人である",
+          "地頭が国ごと、守護が荘園ごとに置かれた"
+        ],
+        "hard": [
+          "守護は都、地頭は外国に置かれた",
+          "両者とも幕府と無関係である",
+          "守護は徴税専門の役職である"
+        ]
+      }
+    },
+    {
+      "recto": "将軍が御家人に領地を保障・恩賞を与え、御家人が忠誠と軍役で応える関係を何というか。",
+      "verso": "御恩と奉公",
+      "explanation": "御恩と奉公は、将軍が御家人の領地を保障し（御恩）、御家人が戦いなどで奉仕する（奉公）という主従関係である。武士社会の封建的な結びつきの基本である。",
+      "tags": [
+        "鎌倉",
+        "制度"
+      ],
+      "distractors": {
+        "easy": [
+          "自由契約",
+          "商取引",
+          "選挙"
+        ],
+        "medium": [
+          "公地公民",
+          "班田収授",
+          "参勤交代"
+        ],
+        "hard": [
+          "御恩のみ",
+          "奉公のみ",
+          "一揆の契り"
+        ]
+      }
+    },
+    {
+      "recto": "源氏の将軍がとだえたのち、幕府の実権をにぎった一族と、その最高の役職は。",
+      "verso": "北条氏（執権）",
+      "explanation": "源氏の将軍が3代でとだえると、北条氏が執権として幕府の実権をにぎった。これを執権政治という。",
+      "tags": [
+        "鎌倉",
+        "政治"
+      ],
+      "distractors": {
+        "easy": [
+          "徳川氏（将軍）",
+          "藤原氏（関白）",
+          "足利氏（管領）"
+        ],
+        "medium": [
+          "平氏（太政大臣）",
+          "源氏（将軍）",
+          "織田氏（大名）"
+        ],
+        "hard": [
+          "北条氏（管領）",
+          "北条氏（守護）",
+          "三浦氏（執権）"
+        ]
+      }
+    },
+    {
+      "recto": "1221年、後鳥羽上皇が幕府を倒そうとして敗れた争いを何というか。",
+      "verso": "承久の乱",
+      "explanation": "承久の乱で後鳥羽上皇は幕府打倒の兵を挙げたが敗れた。これにより幕府の支配は西国にも及び、武家政権の力が確立した。",
+      "tags": [
+        "鎌倉",
+        "内乱"
+      ],
+      "distractors": {
+        "easy": [
+          "関ヶ原の戦い",
+          "壬申の乱",
+          "戊辰戦争"
+        ],
+        "medium": [
+          "応仁の乱",
+          "保元の乱",
+          "平治の乱"
+        ],
+        "hard": [
+          "元弘の乱",
+          "和田合戦",
+          "宝治合戦"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】承久の乱では、朝廷（上皇）が幕府を倒すことに成功したのか。",
+      "verso": "いいえ。上皇は敗れ、逆に幕府の支配が全国に広がった",
+      "explanation": "よくある誤解である。承久の乱で後鳥羽上皇は幕府に敗れ、幕府はむしろ西国にも勢力を広げた。武家政権の優位が決定的となった。",
+      "tags": [
+        "piege",
+        "鎌倉"
+      ],
+      "distractors": {
+        "easy": [
+          "はい、朝廷が勝った",
+          "はい、幕府はほろびた",
+          "はい、上皇が将軍になった"
+        ],
+        "medium": [
+          "はい、幕府が朝廷に降伏した",
+          "はい、引き分けに終わった",
+          "いいえ、そもそも戦いはなかった"
+        ],
+        "hard": [
+          "はい、朝廷が全国を支配した",
+          "はい、北条氏が敗れた",
+          "いいえ、だが幕府の力は弱まった"
+        ]
+      }
+    },
+    {
+      "recto": "1232年、北条泰時が定めた、武士のための最初の本格的な法を何というか。",
+      "verso": "御成敗式目（貞永式目）",
+      "explanation": "御成敗式目は、武士の慣習や道理にもとづいて北条泰時が定めた法である。以後の武家法の手本となった。",
+      "tags": [
+        "鎌倉",
+        "史料"
+      ],
+      "distractors": {
+        "easy": [
+          "日本国憲法",
+          "十七条憲法",
+          "大宝律令"
+        ],
+        "medium": [
+          "武家諸法度",
+          "分国法",
+          "五箇条の御誓文"
+        ],
+        "hard": [
+          "建武式目",
+          "養老律令",
+          "分地制限令"
+        ]
+      }
+    },
+    {
+      "recto": "13世紀後半、二度にわたって日本を襲った元（モンゴル）の襲来を何というか。",
+      "verso": "元寇（文永・弘安の役）",
+      "explanation": "元寇は執権北条時宗のとき、1274年と1281年の二度にわたって元が九州北部に攻めてきたできごとである。暴風雨もあって撃退したが、御家人は恩賞を十分に得られなかった。",
+      "tags": [
+        "鎌倉",
+        "外交"
+      ],
+      "distractors": {
+        "easy": [
+          "黒船来航",
+          "壬申の乱",
+          "南蛮の来航"
+        ],
+        "medium": [
+          "白村江の戦い",
+          "刀伊の入寇のみ",
+          "応仁の乱"
+        ],
+        "hard": [
+          "文禄・慶長の役",
+          "倭寇の襲来",
+          "ペリー来航"
+        ]
+      }
+    },
+    {
+      "recto": "元寇のとき、幕府の執権として防衛にあたった人物は。",
+      "verso": "北条時宗",
+      "explanation": "北条時宗は執権として元の襲来を退けた。しかし戦費や防備の負担が重く、恩賞も乏しかったため、御家人の不満が高まり幕府はしだいに衰えた。",
+      "tags": [
+        "鎌倉",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "徳川家康",
+          "源頼朝",
+          "聖徳太子"
+        ],
+        "medium": [
+          "北条泰時",
+          "北条政子",
+          "平清盛"
+        ],
+        "hard": [
+          "北条時政",
+          "北条義時",
+          "北条高時"
+        ]
+      }
+    },
+    {
+      "recto": "念仏を唱えれば救われると説き、浄土宗を開いた鎌倉時代の僧は。",
+      "verso": "法然",
+      "explanation": "法然は「南無阿弥陀仏」の念仏によって救われると説き、浄土宗を開いた。親鸞（浄土真宗）や日蓮、禅宗など、わかりやすい鎌倉仏教が広まった。",
+      "tags": [
+        "鎌倉",
+        "文化"
+      ],
+      "distractors": {
+        "easy": [
+          "聖徳太子",
+          "空海",
+          "織田信長"
+        ],
+        "medium": [
+          "最澄",
+          "行基",
+          "鑑真"
+        ],
+        "hard": [
+          "親鸞",
+          "日蓮",
+          "栄西"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、鎌倉時代はどのような時代であったといえるか。",
+      "verso": "武士が政権をにぎり、御恩と奉公による武家社会が築かれた武士の世の始まり",
+      "explanation": "鎌倉幕府の成立により、武士が本格的に政治を担う時代が始まった。御恩と奉公の主従関係が社会を支えたが、元寇後の負担が幕府の衰退を招いた。",
+      "tags": [
+        "鎌倉",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "貴族だけが支配した時代",
+          "外国に支配された時代",
+          "国家がなかった時代"
+        ],
+        "medium": [
+          "天皇が全国を直接治めた時代",
+          "商人が政治を握った時代",
+          "武士が存在しなかった時代"
+        ],
+        "hard": [
+          "幕府が置かれなかった時代",
+          "身分の差が消えた時代",
+          "都が平安京だけの時代"
+        ]
+      }
+    }
+  ]
+}
