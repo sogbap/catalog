@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-nihonshi-tankyuu-kasei-bunka",
+  "title": "化政文化と揺らぐ幕藩体制",
+  "emoji": "🌊",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "江戸の庶民が担った化政文化の広がりと、飢饉・一揆・打ちこわしに揺らぐ幕藩体制の姿を重ねて学ぶ。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>化政文化と揺らぐ幕藩体制</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>日本史探究<br>\n  <b>時期：</b>19世紀前半\n</div>\n\n<blockquote>\n  <p><b>問い。</b>庶民文化がもっとも豊かに花開いた時期が、なぜ体制の動揺と重なっていたのだろうか。</p>\n</blockquote>\n\n<p><strong>化政文化</strong>は江戸の庶民が担った。<strong>葛飾北斎</strong>・<strong>歌川広重</strong>の<strong>錦絵</strong>、<strong>十返舎一九</strong>の滑稽本、<strong>川柳・狂歌</strong>の笑い。しかし同じころ<strong>天保の飢饉</strong>が人々を襲い、<strong>百姓一揆</strong>と<strong>打ちこわし</strong>が相次ぎ、<strong>大塩平八郎の乱</strong>が幕府を揺さぶった。</p>\n\n<h2>1・庶民が担う文化</h2>\n\n<p>文化の中心は上方から<strong>江戸</strong>へ移り、担い手は町人から庶民へ広がった。<strong>錦絵</strong>の多色刷りで絵は安く手に入り、貸本屋が本を届けた。<strong>寺子屋</strong>で身につけた読み書きの力が、この広がりを支えていた。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 122\" role=\"img\" aria-label=\"化政文化を代表する浮世絵、読み物、風刺の文芸\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">庶民の手が届く文化</text>\n  <rect x=\"6\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">浮世絵</text>\n  <text x=\"58\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">葛飾北斎</text>\n  <text x=\"58\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">歌川広重</text>\n  <rect x=\"118\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">読み物</text>\n  <text x=\"170\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">十返舎一九</text>\n  <text x=\"170\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">滝沢馬琴</text>\n  <rect x=\"230\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">風刺</text>\n  <text x=\"282\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">川柳・狂歌</text>\n  <text x=\"282\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">笑いによる批判</text>\n</svg>\n<figcaption>安く出回る版画と本が、文化を庶民の日常に運んだ。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・錦絵</strong><br>\n  版木を色ごとに分けて重ね刷りする<b>多色刷りの浮世絵版画</b>。大量に安く作れたため、絵は富裕層のものから庶民が買って楽しむものへと変わった。\n</div>\n\n<h2>2・揺らぐ足もと</h2>\n\n<p>同じ時期、<strong>天保の飢饉</strong>が東北を中心に多くの餓死者を出した。農村では<strong>百姓一揆</strong>が、都市では<strong>打ちこわし</strong>が相次ぐ。1837年には元幕府役人の<strong>大塩平八郎</strong>が大坂で挙兵し、体制の内側からの批判が噴き出した。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"農村の百姓一揆と都市の打ちこわしの比較\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">同じ危機、違う現れ方</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">百姓一揆</text>\n  <text x=\"87\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">農村</text>\n  <text x=\"87\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">農民が集団で訴える</text>\n  <text x=\"87\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">年貢の減免を求める</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">打ちこわし</text>\n  <text x=\"253\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">都市</text>\n  <text x=\"253\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">貧しい町人が襲う</text>\n  <text x=\"253\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">米の買い占めに抗議</text>\n</svg>\n<figcaption>生活の危機は、場所によって違う形で噴き出した。</figcaption>\n</figure>\n\n<h2>3・繁栄と動揺が重なる時代</h2>\n\n<p>浮世絵が世界に届く芸術となる一方で、飢饉と反乱が続いていた。この<strong>文化の成熟</strong>と<strong>政治の行き詰まり</strong>が並んで進んだことこそ化政期の特徴である。やがて黒船が現れ、幕末の動乱が始まる。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 176\" role=\"img\" aria-label=\"化政期の文化の隆盛と飢饉・反乱が重なる年表\">\n  <line x1=\"76\" y1=\"20\" x2=\"76\" y2=\"162\" style=\"stroke:var(--accent);stroke-opacity:.35;stroke-width:2\"/>\n  <circle cx=\"76\" cy=\"32\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"94\" y=\"30\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">1804〜</text>\n  <text x=\"94\" y=\"43\" class=\"s-muted\" font-size=\"9\">化政文化の隆盛</text>\n  <circle cx=\"76\" cy=\"66\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"94\" y=\"64\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">1830年代</text>\n  <text x=\"94\" y=\"77\" class=\"s-muted\" font-size=\"9\">天保の飢饉</text>\n  <circle cx=\"76\" cy=\"100\" r=\"5\" style=\"fill:var(--accent)\"/>\n  <text x=\"94\" y=\"98\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">1837</text>\n  <text x=\"94\" y=\"111\" class=\"s-muted\" font-size=\"9\">大塩平八郎の乱</text>\n  <circle cx=\"76\" cy=\"138\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"94\" y=\"136\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">1841〜</text>\n  <text x=\"94\" y=\"149\" class=\"s-muted\" font-size=\"9\">天保の改革</text>\n</svg>\n<figcaption>華やかな文化と深刻な危機が、同じ年表の上に並ぶ。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>化政文化</h3>\n\n<table>\n  <tr><th>分野</th><th>代表</th></tr>\n  <tr><td>浮世絵</td><td>葛飾北斎「富嶽三十六景」</td></tr>\n  <tr><td>浮世絵</td><td>歌川広重「東海道五十三次」</td></tr>\n  <tr><td>滑稽本</td><td>十返舎一九『東海道中膝栗毛』</td></tr>\n  <tr><td>読本</td><td>滝沢馬琴『南総里見八犬伝』</td></tr>\n  <tr><td>風刺</td><td>川柳・狂歌</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>化政文化</td><td>江戸の庶民が担った文化</td></tr>\n  <tr><td>錦絵</td><td>多色刷りの浮世絵版画</td></tr>\n  <tr><td>百姓一揆</td><td>農村で農民が起こした集団行動</td></tr>\n  <tr><td>打ちこわし</td><td>都市の貧民が米屋などを襲う行動</td></tr>\n  <tr><td>天保の飢饉</td><td>1830年代の大飢饉</td></tr>\n</table>\n\n<h3>体制の動揺</h3>\n\n<table>\n  <tr><th>できごと</th><th>意味</th></tr>\n  <tr><td>天保の飢饉</td><td>一揆・打ちこわしの激増</td></tr>\n  <tr><td>大塩平八郎の乱</td><td>元幕臣による挙兵、幕府に衝撃</td></tr>\n  <tr><td>天保の改革</td><td>危機への対応、しかし失敗</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  化政文化は<b>幕府の繁栄期の文化ではない</b>。天保の飢饉や大塩平八郎の乱と時期が重なっており、<b>文化の成熟と政治の行き詰まりが同時に進んだ</b>点にこそ、この時代の特徴がある。\n</div>\n\n<blockquote>\n  <p>庶民が笑い、旅し、絵を買っていたその足もとで、体制は静かに軋んでいた。そこへ黒船が現れる――物語は幕末へと続く。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "日本史探究",
+  "cards": [
+    {
+      "recto": "19世紀初め、江戸の庶民を担い手として栄えた文化を何というか。",
+      "verso": "化政文化",
+      "explanation": "化政文化は文化・文政年間を中心に江戸で花開いた。担い手が上方の町人から江戸の庶民へ広がり、笑いや風刺、旅の楽しみが文化の中心となった。",
+      "tags": [
+        "江戸",
+        "文化"
+      ],
+      "distractors": {
+        "easy": [
+          "国風文化",
+          "天平文化",
+          "飛鳥文化"
+        ],
+        "medium": [
+          "元禄文化",
+          "桃山文化",
+          "東山文化"
+        ],
+        "hard": [
+          "寛永文化",
+          "北山文化",
+          "明治の文明開化"
+        ]
+      }
+    },
+    {
+      "recto": "「富嶽三十六景」で知られ、大胆な構図で風景を描いた化政期の浮世絵師は誰か。",
+      "verso": "葛飾北斎",
+      "explanation": "北斎の風景版画は西洋の遠近法も取り入れ、のちにヨーロッパの画家にも影響を与えた。庶民が買える版画が、世界へ広がる芸術となった。",
+      "tags": [
+        "江戸",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "ピカソ",
+          "雪舟",
+          "運慶"
+        ],
+        "medium": [
+          "尾形光琳",
+          "菱川師宣",
+          "狩野永徳"
+        ],
+        "hard": [
+          "歌川広重",
+          "喜多川歌麿",
+          "東洲斎写楽"
+        ]
+      }
+    },
+    {
+      "recto": "「東海道五十三次」で街道の宿場と旅の情景を描いた浮世絵師は誰か。",
+      "verso": "歌川広重",
+      "explanation": "広重の連作は旅への憧れをかき立てた。街道が整い、庶民が伊勢参りなどの旅を楽しめるようになった時代を映している。",
+      "tags": [
+        "江戸",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "雪舟",
+          "運慶",
+          "ゴッホ"
+        ],
+        "medium": [
+          "葛飾北斎",
+          "尾形光琳",
+          "菱川師宣"
+        ],
+        "hard": [
+          "喜多川歌麿",
+          "東洲斎写楽",
+          "鈴木春信"
+        ]
+      }
+    },
+    {
+      "recto": "多色刷りによって美しい色彩を実現し、庶民にも手が届いた浮世絵の版画を何というか。",
+      "verso": "錦絵",
+      "explanation": "錦絵は版木を色ごとに分けて重ね刷りする技法で、大量に安く作れた。絵が一部の富裕層のものから、庶民が買って楽しむものへと変わった。",
+      "tags": [
+        "江戸",
+        "文化"
+      ],
+      "distractors": {
+        "easy": [
+          "油絵",
+          "水墨画",
+          "壁画"
+        ],
+        "medium": [
+          "屏風絵",
+          "絵巻物",
+          "襖絵"
+        ],
+        "hard": [
+          "墨摺絵",
+          "紅摺絵",
+          "肉筆画"
+        ]
+      }
+    },
+    {
+      "recto": "『東海道中膝栗毛』を著し、旅の道中の笑いを描いた化政期の作家は誰か。",
+      "verso": "十返舎一九",
+      "explanation": "弥次さん喜多さんの珍道中を描いたこの作品は大流行した。庶民が読んで笑える本が売れる、出版文化の広がりを示している。",
+      "tags": [
+        "江戸",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "紫式部",
+          "夏目漱石",
+          "松尾芭蕉"
+        ],
+        "medium": [
+          "井原西鶴",
+          "近松門左衛門",
+          "滝沢馬琴"
+        ],
+        "hard": [
+          "式亭三馬",
+          "上田秋成",
+          "為永春水"
+        ]
+      }
+    },
+    {
+      "recto": "『南総里見八犬伝』という長編の読本を著した化政期の作家は誰か。",
+      "verso": "滝沢馬琴",
+      "explanation": "勧善懲悪の長編物語は28年をかけて刊行され、多くの読者を得た。貸本屋を通じて本が広く読まれる社会になっていたことがわかる。",
+      "tags": [
+        "江戸",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "清少納言",
+          "芥川龍之介",
+          "吉田兼好"
+        ],
+        "medium": [
+          "十返舎一九",
+          "井原西鶴",
+          "松尾芭蕉"
+        ],
+        "hard": [
+          "式亭三馬",
+          "上田秋成",
+          "山東京伝"
+        ]
+      }
+    },
+    {
+      "recto": "世相や政治を短い言葉で風刺した、化政期に流行した文芸を何というか。",
+      "verso": "川柳・狂歌",
+      "explanation": "川柳と狂歌は権力や世の中を笑いのめした。厳しい統制のなかで、庶民は直接の批判ではなく笑いという形で不満を表した。",
+      "tags": [
+        "江戸",
+        "文化"
+      ],
+      "distractors": {
+        "easy": [
+          "漢詩",
+          "祝詞",
+          "経典"
+        ],
+        "medium": [
+          "和歌",
+          "俳諧",
+          "浄瑠璃"
+        ],
+        "hard": [
+          "連歌",
+          "今様",
+          "小唄"
+        ]
+      }
+    },
+    {
+      "recto": "街道の整備を背景に、庶民のあいだで流行した娯楽として適切なものはどれか。",
+      "verso": "伊勢参りなどの寺社参詣を兼ねた旅",
+      "explanation": "信仰を名目にした旅は庶民に許された数少ない楽しみであった。旅の広がりが名所図会や『東海道中膝栗毛』のような文化を育てた。",
+      "tags": [
+        "江戸",
+        "文化"
+      ],
+      "distractors": {
+        "easy": [
+          "海外旅行",
+          "登山鉄道",
+          "自動車での旅行"
+        ],
+        "medium": [
+          "参勤交代への同行",
+          "遣唐使への参加",
+          "外国船での航海"
+        ],
+        "hard": [
+          "蝦夷地の探検",
+          "長崎への留学",
+          "藩校への遊学"
+        ]
+      }
+    },
+    {
+      "recto": "年貢の減免などを求めて農民が集団で領主に訴え、時に武力に及んだ行動を何というか。",
+      "verso": "百姓一揆",
+      "explanation": "飢饉や重税のたびに一揆が起こり、幕末に向けて件数が増えた。支配される側が声を上げる手段であり、体制の動揺を映す指標でもある。",
+      "tags": [
+        "江戸",
+        "社会"
+      ],
+      "distractors": {
+        "easy": [
+          "祭り",
+          "参勤交代",
+          "寺社参詣"
+        ],
+        "medium": [
+          "打ちこわし",
+          "座の結成",
+          "五人組"
+        ],
+        "hard": [
+          "一向一揆",
+          "土一揆",
+          "国一揆"
+        ]
+      }
+    },
+    {
+      "recto": "都市で米価が高騰したとき、貧しい人々が米屋などを襲った行動を何というか。",
+      "verso": "打ちこわし",
+      "explanation": "打ちこわしは都市の貧民が生活の危機に直面して起こした行動である。買い占めた商人が標的となり、飢饉のたびに江戸や大坂で発生した。",
+      "tags": [
+        "江戸",
+        "社会"
+      ],
+      "distractors": {
+        "easy": [
+          "祭礼",
+          "初詣",
+          "花見"
+        ],
+        "medium": [
+          "百姓一揆",
+          "強訴",
+          "逃散"
+        ],
+        "hard": [
+          "徳政一揆",
+          "ええじゃないか",
+          "世直し一揆"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】百姓一揆と打ちこわしは、どこで誰によって起こされたか。",
+      "verso": "百姓一揆は農村で農民が、打ちこわしは都市で貧しい町人が起こした",
+      "explanation": "同じ生活の危機でも、農村では年貢の減免を求める一揆となり、都市では米を買い占めた商人を襲う打ちこわしとなった。場所によって現れ方が違う。",
+      "tags": [
+        "comparaison",
+        "江戸"
+      ],
+      "distractors": {
+        "easy": [
+          "どちらも農村で起こった",
+          "どちらも都市で起こった",
+          "一揆が都市、打ちこわしが農村で起こった"
+        ],
+        "medium": [
+          "どちらも武士が起こした",
+          "どちらも幕府が主導した",
+          "どちらも飢饉とは無関係である"
+        ],
+        "hard": [
+          "一揆は室町期のみの現象である",
+          "打ちこわしは明治以降の現象である",
+          "どちらも商人が起こした"
+        ]
+      }
+    },
+    {
+      "recto": "1830年代に東北を中心に多くの餓死者を出し、社会を大きく揺るがした飢饉は何か。",
+      "verso": "天保の飢饉",
+      "explanation": "冷害と凶作が続き、各地で一揆と打ちこわしが激増した。この危機への対応の失敗が、天保の改革が始まる直接の背景となる。",
+      "tags": [
+        "江戸",
+        "社会"
+      ],
+      "distractors": {
+        "easy": [
+          "関東大震災",
+          "東日本大震災",
+          "太平洋戦争"
+        ],
+        "medium": [
+          "天明の飢饉",
+          "享保の飢饉",
+          "寛永の飢饉"
+        ],
+        "hard": [
+          "元禄の大地震",
+          "安政の大地震",
+          "浅間山の噴火のみ"
+        ]
+      }
+    },
+    {
+      "recto": "1837年、元幕府の役人が飢饉に苦しむ人々を救うため大坂で兵を挙げた事件を何というか。",
+      "verso": "大塩平八郎の乱",
+      "explanation": "幕府の元役人であり陽明学者でもあった大塩が反乱を起こしたことは、幕府に強い衝撃を与えた。体制の内側から批判が噴き出した象徴的な事件である。",
+      "tags": [
+        "江戸",
+        "事件"
+      ],
+      "distractors": {
+        "easy": [
+          "本能寺の変",
+          "関ヶ原の戦い",
+          "島原・天草一揆"
+        ],
+        "medium": [
+          "蛮社の獄",
+          "安政の大獄",
+          "シャクシャインの戦い"
+        ],
+        "hard": [
+          "由井正雪の乱",
+          "生野の変",
+          "天狗党の乱"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】化政文化は、幕府の力が最も充実した繁栄期の文化なのか。",
+      "verso": "いいえ。飢饉と一揆が相次ぎ、幕藩体制が揺らいでいた時期の文化である",
+      "explanation": "よくある誤解である。化政文化が花開いた時期は天保の飢饉や大塩平八郎の乱と重なる。政治の行き詰まりと庶民文化の成熟が同時に進んでいた点が重要である。",
+      "tags": [
+        "piege",
+        "江戸"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。幕府が最も安定した時期である",
+          "はい。飢饉は一度もなかった",
+          "はい。一揆は起きていない"
+        ],
+        "medium": [
+          "はい。幕府の財政は豊かであった",
+          "はい。元禄期と同じ繁栄期である",
+          "いいえ。しかし文化は衰退していた"
+        ],
+        "hard": [
+          "はい。天保の改革で立て直された後である",
+          "はい。大塩の乱より前に終わっている",
+          "いいえ。ただし江戸ではなく上方の文化である"
+        ]
+      }
+    },
+    {
+      "recto": "化政期に庶民文化が広く成熟した背景として適切なものはどれか。",
+      "verso": "寺子屋の普及で識字率が高く、貸本屋や版画で作品が安く出回ったこと",
+      "explanation": "読み書きができる人が多く、錦絵や読本が安く手に入ったため、文化が庶民の日常に入り込んだ。教育の広がりが文化の広がりを支えた。",
+      "tags": [
+        "江戸",
+        "文化"
+      ],
+      "distractors": {
+        "easy": [
+          "幕府が文化を保護したから",
+          "外国から輸入されたから",
+          "武士が担い手だったから"
+        ],
+        "medium": [
+          "飢饉で余暇が増えたから",
+          "身分制が廃止されたから",
+          "貿易が自由化されたから"
+        ],
+        "hard": [
+          "朝廷が文化を支援したから",
+          "藩校が庶民に開かれたから",
+          "蘭学が広まったから"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、化政期の日本はどのような時代であったといえるか。",
+      "verso": "庶民文化が最も豊かに花開く一方で、飢饉と一揆に幕藩体制が揺らいだ時代",
+      "explanation": "浮世絵や滑稽本が広がる同じ時期に、天保の飢饉と大塩の乱が起きていた。文化の成熟と政治の行き詰まりが並んで進み、やがて開国と幕末の動乱を迎える。",
+      "tags": [
+        "江戸",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "何の問題もない繁栄の時代",
+          "文化が失われた時代",
+          "戦乱が続いた時代"
+        ],
+        "medium": [
+          "幕府の権力が最も強い時代",
+          "鎖国が解かれた時代",
+          "身分制がなくなった時代"
+        ],
+        "hard": [
+          "すでに明治維新が始まった時代",
+          "上方が文化の中心であった時代",
+          "改革がすべて成功した時代"
+        ]
+      }
+    }
+  ]
+}

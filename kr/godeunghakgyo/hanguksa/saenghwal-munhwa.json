@@ -1,0 +1,432 @@
+{
+  "id": "kr-godeunghakgyo-hanguksa-saenghwal-munhwa",
+  "title": "의식주와 생활 문화의 변천",
+  "emoji": "🏠",
+  "subject": "history",
+  "country": "kr",
+  "courseDescription": "한옥과 온돌, 한복과 김치, 세시 풍속 등 사람들의 옷과 음식, 집과 놀이가 어떻게 변해 왔는지 살펴본다.",
+  "lesson": "<style>\n  /* SVG 그림 스타일. currentColor(글자색)와 var(--accent)(과목 색)를 사용해\n     앱의 밝은/어두운 테마에 맞춰 표시된다. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Apple SD Gothic Neo\", \"Noto Sans KR\", \"Malgun Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>의식주와 생활 문화의 변천</h1>\n\n<div class=\"callout\">\n  <strong>학습 포인트</strong><br>\n  <b>수준:</b> 고등학교<br>\n  <b>주제:</b> 한국사<br>\n  <b>성격:</b> 생활사 탐구\n</div>\n\n<blockquote>\n  <p><b>핵심 질문.</b> 사람들은 무엇을 먹고 입고 어떤 집에서 살았으며, 그것은 어떻게 변해 왔을까?</p>\n</blockquote>\n\n<p><strong>온돌</strong>과 <strong>대청</strong>은 사계절에 맞춘 집의 지혜였고, <strong>한복</strong>은 신분을 드러내는 표시이기도 했다. <strong>김치</strong>와 된장 같은 <strong>발효</strong> 음식이 밥상을 이루었으며, <strong>세시 풍속</strong>과 <strong>두레</strong>가 한 해의 리듬을 만들었다. 이 모두가 시대에 따라 계속 변해 왔다.</p>\n\n<h2>1 · 집 — 온돌과 대청</h2>\n\n<p><strong>온돌</strong>은 고구려 유적에서도 흔적이 보이는 오랜 난방 방식으로, 조선 후기에 전국으로 퍼지며 좌식 생활의 바탕이 되었다. 남부의 <strong>대청</strong>은 바람이 통하게 한 여름의 공간이다. 한옥은 이 둘을 한 집에 들였다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"한옥의 온돌과 대청이 각각 겨울과 여름을 위한 공간임을 보여 주는 비교\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">한 집에 담긴 두 계절</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">온돌</text>\n  <text x=\"87\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">겨울 · 난방</text>\n  <text x=\"87\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">바닥을 덥힘</text>\n  <text x=\"87\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">좌식 생활의 바탕</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">대청</text>\n  <text x=\"253\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">여름 · 통풍</text>\n  <text x=\"253\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">바닥을 띄움</text>\n  <text x=\"253\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">남부의 지혜</text>\n</svg>\n<figcaption>사계절이 뚜렷한 기후가 집의 구조를 만들었다.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>개념 · '전통'도 만들어진다</strong><br>\n  붉은 김치는 <b>고추가 들어온 16세기 말 이후</b>에, 온돌의 전국 보급은 조선 후기에 자리 잡았다. 전통은 태초부터 고정된 것이 아니라 시대마다 만들어지고 변해 온 것이다.\n</div>\n\n<h2>2 · 옷과 음식</h2>\n\n<p><strong>한복</strong>의 원형은 고구려 고분 벽화에서도 보이며, 조선에서는 옷의 색과 옷감이 <strong>신분</strong>을 드러냈다. 밥상은 <strong>발효</strong>가 이끌었다—된장·간장·젓갈, 그리고 <strong>김치</strong>. 오늘의 붉은 김치는 <strong>고추</strong>가 들어온 뒤에야 자리 잡았다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"고추의 전래로 김치가 오늘날의 모습이 되기까지의 과정\">\n  <defs>\n    <marker id=\"ar-krsm1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">절임 채소</text>\n  <text x=\"54\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">겨울 저장 음식</text>\n  <path d=\"M100,68 L118,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-krsm1)\"/>\n  <rect x=\"122\" y=\"42\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">고추 전래</text>\n  <text x=\"170\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">16세기 말 무렵</text>\n  <path d=\"M218,68 L236,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-krsm1)\"/>\n  <rect x=\"240\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">오늘의 김치</text>\n  <text x=\"286\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">17~18세기 이후</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">생각보다 짧은 매운맛의 역사</text>\n</svg>\n<figcaption>가장 익숙한 음식에도 분명한 역사가 있다.</figcaption>\n</figure>\n\n<h2>3 · 한 해의 리듬과 변화</h2>\n\n<p><strong>세시 풍속</strong>은 농사의 주기와 맞물려 있었다—설, 정월 대보름, 단오, <strong>추석</strong>, 동지. 마을에서는 <strong>두레</strong>로 함께 일했다. 조선 후기에는 판소리와 탈춤 같은 서민 문화가 꽃폈고, 개항 이후에는 양복과 시계의 시간이 도시부터 들어왔다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 122\" role=\"img\" aria-label=\"농사의 주기와 이어진 세시 풍속의 흐름\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">농사와 함께 도는 한 해</text>\n  <rect x=\"6\" y=\"30\" width=\"76\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"44\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">설·대보름</text>\n  <text x=\"44\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">한 해의 시작</text>\n  <text x=\"44\" y=\"95\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">풍년 기원</text>\n  <rect x=\"90\" y=\"30\" width=\"76\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"128\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">단오</text>\n  <text x=\"128\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">모내기 뒤</text>\n  <text x=\"128\" y=\"95\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">그네·씨름</text>\n  <rect x=\"174\" y=\"30\" width=\"76\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"212\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">추석</text>\n  <text x=\"212\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">수확에 감사</text>\n  <text x=\"212\" y=\"95\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">차례·성묘</text>\n  <rect x=\"258\" y=\"30\" width=\"76\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"296\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">동지</text>\n  <text x=\"296\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">한 해의 끝</text>\n  <text x=\"296\" y=\"95\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">팥죽</text>\n</svg>\n<figcaption>명절은 대부분 농사의 마디마다 놓여 있었다.</figcaption>\n</figure>\n\n<h2>핵심 정리</h2>\n\n<h3>의식주</h3>\n\n<table>\n  <tr><th>영역</th><th>특징</th></tr>\n  <tr><td>집</td><td>온돌(겨울) + 대청(여름)</td></tr>\n  <tr><td>옷</td><td>한복, 신분을 드러내는 색과 옷감</td></tr>\n  <tr><td>음식</td><td>발효 중심 — 김치·된장·간장</td></tr>\n  <tr><td>공동체</td><td>두레·품앗이의 공동 노동</td></tr>\n</table>\n\n<h3>핵심 용어</h3>\n\n<table>\n  <tr><th>용어</th><th>뜻</th></tr>\n  <tr><td>온돌</td><td>방바닥을 덥히는 난방 방식</td></tr>\n  <tr><td>대청</td><td>바람이 통하는 마루 공간</td></tr>\n  <tr><td>발효</td><td>우리 음식의 바탕이 된 조리 방식</td></tr>\n  <tr><td>세시 풍속</td><td>절기에 맞춘 명절과 풍속</td></tr>\n  <tr><td>두레</td><td>마을의 공동 노동 조직</td></tr>\n</table>\n\n<h3>변화의 계기</h3>\n\n<table>\n  <tr><th>시기</th><th>변화</th></tr>\n  <tr><td>16세기 말</td><td>고추 전래 → 붉은 김치·고추장</td></tr>\n  <tr><td>조선 후기</td><td>온돌 보급, 판소리·탈춤 등 서민 문화</td></tr>\n  <tr><td>개항 이후</td><td>양복·서양 음식, 시계의 시간</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>주의</strong><br>\n  전통 생활 문화는 <b>먼 옛날부터 그대로 이어져 온 것이 아니다</b>—고추는 16세기 말에 들어왔고 온돌의 전국 보급도 조선 후기의 일이다. '전통'은 시대마다 만들어지고 변해 온 것임을 기억하자. 또 <b>온돌</b>(겨울)과 <b>대청</b>(여름)의 쓰임을 구분하자.\n</div>\n\n<blockquote>\n  <p>왕의 이름과 전쟁의 연도 뒤편에, 밥을 짓고 옷을 짓고 명절을 쇠던 사람들이 있었다. 그들의 하루도 분명히 역사이다.</p>\n</blockquote>\n",
+  "questionLang": "ko",
+  "answerLang": "ko",
+  "version": 1,
+  "level": "고등학교",
+  "theme": "한국사",
+  "cards": [
+    {
+      "recto": "아궁이의 열기를 방바닥 아래로 지나가게 하여 방을 덥히는 우리 고유의 난방 방식은?",
+      "verso": "온돌",
+      "explanation": "온돌은 고구려 유적에서도 흔적이 확인될 만큼 오래된 난방 방식으로, 조선 후기에 전국으로 널리 퍼졌다. 방바닥에 앉아 생활하는 좌식 문화의 바탕이 되었다.",
+      "tags": [
+        "생활사",
+        "주거"
+      ],
+      "distractors": {
+        "easy": [
+          "벽난로",
+          "화로만",
+          "라디에이터"
+        ],
+        "medium": [
+          "구들장을 쓰지 않는 마루",
+          "화덕",
+          "난로"
+        ],
+        "hard": [
+          "대청",
+          "봉당",
+          "누마루"
+        ]
+      }
+    },
+    {
+      "recto": "여름을 시원하게 나기 위해 바닥을 나무로 깔아 바람이 통하게 만든 한옥의 공간은?",
+      "verso": "대청(마루)",
+      "explanation": "대청은 바닥을 땅에서 띄우고 나무로 깔아 바람이 통하게 한 공간으로, 더운 여름을 나기 위한 남부 지방의 지혜였다. 온돌과 함께 쓰인 것이 한옥의 특징이다.",
+      "tags": [
+        "생활사",
+        "주거"
+      ],
+      "distractors": {
+        "easy": [
+          "아궁이",
+          "굴뚝",
+          "지하실"
+        ],
+        "medium": [
+          "온돌방",
+          "사랑방",
+          "부엌"
+        ],
+        "hard": [
+          "봉당",
+          "토방",
+          "누마루"
+        ]
+      }
+    },
+    {
+      "recto": "[비교] 한옥에서 온돌과 대청은 각각 어떤 계절을 위한 것인가?",
+      "verso": "온돌은 추운 겨울을, 대청은 더운 여름을 나기 위한 것이다",
+      "explanation": "온돌은 북부의 추위를 견디는 난방 방식이고, 대청은 남부의 더위를 식히는 공간이다. 사계절이 뚜렷한 우리 기후에 맞추어 두 가지를 한 집에 들인 것이 한옥의 특징이다.",
+      "tags": [
+        "comparaison",
+        "생활사"
+      ],
+      "distractors": {
+        "easy": [
+          "둘 다 겨울을 위한 것이다",
+          "둘 다 여름을 위한 것이다",
+          "온돌이 여름, 대청이 겨울용이다"
+        ],
+        "medium": [
+          "둘 다 손님을 맞기 위한 것이다",
+          "온돌은 부엌, 대청은 창고이다",
+          "둘 다 조선 후기에 처음 생겼다"
+        ],
+        "hard": [
+          "온돌은 남부, 대청은 북부의 것이다",
+          "둘 다 중국에서 들어왔다",
+          "온돌은 양반용, 대청은 상민용이다"
+        ]
+      }
+    },
+    {
+      "recto": "저고리에 바지 또는 치마를 갖추어 입는, 고구려 고분 벽화에서도 그 원형이 보이는 우리 옷은?",
+      "verso": "한복",
+      "explanation": "저고리와 바지·치마를 갖춘 옷차림은 고구려 고분 벽화에서도 확인된다. 시대에 따라 저고리 길이나 치마 폭이 달라지며 오늘의 한복으로 이어졌다.",
+      "tags": [
+        "생활사",
+        "의복"
+      ],
+      "distractors": {
+        "easy": [
+          "양복",
+          "기모노",
+          "치파오"
+        ],
+        "medium": [
+          "도포만",
+          "관복",
+          "제복"
+        ],
+        "hard": [
+          "활옷",
+          "철릭",
+          "두루마기만"
+        ]
+      }
+    },
+    {
+      "recto": "조선 시대에 옷차림이 사람의 무엇을 드러내는 표시였는지 알맞은 것은?",
+      "verso": "신분과 지위",
+      "explanation": "옷의 색과 옷감, 갓의 모양까지 신분에 따라 달랐고 법으로 규제되기도 했다. 옷은 개인의 취향이기 전에 신분 질서를 눈에 보이게 하는 장치였다.",
+      "tags": [
+        "생활사",
+        "의복"
+      ],
+      "distractors": {
+        "easy": [
+          "나이",
+          "고향",
+          "이름"
+        ],
+        "medium": [
+          "재산만",
+          "직업만",
+          "종교"
+        ],
+        "hard": [
+          "학문 수준",
+          "혼인 여부만",
+          "출신 지역"
+        ]
+      }
+    },
+    {
+      "recto": "채소를 소금에 절이고 발효시켜 겨울에도 먹을 수 있게 한 우리 음식은?",
+      "verso": "김치",
+      "explanation": "김치는 채소가 나지 않는 겨울을 나기 위한 저장 음식에서 비롯되었다. 오늘날의 붉은 김치는 고추가 들어온 뒤에 자리 잡은 비교적 늦은 모습이다.",
+      "tags": [
+        "생활사",
+        "음식"
+      ],
+      "distractors": {
+        "easy": [
+          "빵",
+          "치즈",
+          "파스타"
+        ],
+        "medium": [
+          "된장",
+          "간장",
+          "젓갈"
+        ],
+        "hard": [
+          "장아찌",
+          "물김치만",
+          "식해"
+        ]
+      }
+    },
+    {
+      "recto": "오늘날과 같은 붉은 김치가 만들어질 수 있게 한, 임진왜란 무렵 들어온 작물은?",
+      "verso": "고추",
+      "explanation": "고추는 16세기 말 무렵 우리나라에 들어왔고, 17~18세기를 거치며 김치와 고추장에 쓰이게 되었다. 오늘 우리가 아는 매운 음식 문화는 생각보다 역사가 짧다.",
+      "tags": [
+        "생활사",
+        "음식"
+      ],
+      "distractors": {
+        "easy": [
+          "쌀",
+          "보리",
+          "콩"
+        ],
+        "medium": [
+          "마늘",
+          "생강",
+          "파"
+        ],
+        "hard": [
+          "후추",
+          "고구마",
+          "감자"
+        ]
+      }
+    },
+    {
+      "recto": "콩을 삶아 띄워 만드는 된장·간장처럼, 우리 음식 문화의 바탕이 되는 조리 방식은?",
+      "verso": "발효",
+      "explanation": "된장·간장·김치·젓갈 등 우리 음식의 큰 줄기는 발효이다. 오래 저장하면서 맛과 영양을 더하는 방식으로, 사계절이 뚜렷한 기후와 잘 맞았다.",
+      "tags": [
+        "생활사",
+        "음식"
+      ],
+      "distractors": {
+        "easy": [
+          "튀김",
+          "구이",
+          "냉동"
+        ],
+        "medium": [
+          "훈제",
+          "건조",
+          "찜"
+        ],
+        "hard": [
+          "염장만",
+          "당절임",
+          "밀봉"
+        ]
+      }
+    },
+    {
+      "recto": "한 해의 절기에 맞추어 되풀이해 온 명절과 풍속을 무엇이라 하는가?",
+      "verso": "세시 풍속",
+      "explanation": "설, 정월 대보름, 단오, 추석, 동지처럼 절기에 맞추어 되풀이되는 풍속이다. 대부분 농사의 주기와 이어져 있어, 농경 사회의 삶을 잘 보여 준다.",
+      "tags": [
+        "생활사",
+        "풍속"
+      ],
+      "distractors": {
+        "easy": [
+          "생일 잔치",
+          "졸업식",
+          "운동회"
+        ],
+        "medium": [
+          "관혼상제",
+          "제사만",
+          "돌잔치"
+        ],
+        "hard": [
+          "향약",
+          "두레",
+          "성년례"
+        ]
+      }
+    },
+    {
+      "recto": "한 해 농사의 수확을 조상과 나누며 감사하는, 음력 8월 15일의 명절은?",
+      "verso": "추석(한가위)",
+      "explanation": "추석은 햇곡식과 햇과일로 차례를 지내고 성묘하는 명절로, 수확에 감사하는 뜻을 담고 있다. 강강술래와 씨름 같은 놀이도 함께하였다.",
+      "tags": [
+        "생활사",
+        "풍속"
+      ],
+      "distractors": {
+        "easy": [
+          "크리스마스",
+          "어린이날",
+          "광복절"
+        ],
+        "medium": [
+          "설날",
+          "단오",
+          "동지"
+        ],
+        "hard": [
+          "정월 대보름",
+          "한식",
+          "칠석"
+        ]
+      }
+    },
+    {
+      "recto": "농사철에 마을 사람들이 함께 일하며 서로 도운 공동 노동의 방식은?",
+      "verso": "두레",
+      "explanation": "두레는 모내기나 김매기처럼 일손이 많이 필요할 때 마을 사람들이 함께 일한 조직이다. 품앗이와 함께 농촌 공동체를 지탱한 방식이었다.",
+      "tags": [
+        "생활사",
+        "공동체"
+      ],
+      "distractors": {
+        "easy": [
+          "시장",
+          "학교",
+          "관청"
+        ],
+        "medium": [
+          "향약",
+          "서원",
+          "향교"
+        ],
+        "hard": [
+          "계",
+          "보부상단",
+          "객주"
+        ]
+      }
+    },
+    {
+      "recto": "조선 후기에 서민들이 즐긴 생활 문화의 모습으로 알맞은 것은?",
+      "verso": "판소리와 탈춤, 한글 소설을 즐기며 신분 질서를 풍자한 것",
+      "explanation": "경제적 여유가 생긴 서민들은 판소리와 탈춤을 즐겼고, 여기에는 양반을 풍자하는 내용이 담기기도 했다. 문화가 신분의 벽을 넘어 넓어진 것이다.",
+      "tags": [
+        "생활사",
+        "문화"
+      ],
+      "distractors": {
+        "easy": [
+          "궁중 음악만 즐긴 것",
+          "아무 문화도 없던 것",
+          "서양 오페라를 즐긴 것"
+        ],
+        "medium": [
+          "한문 시만 지은 것",
+          "양반만 문화를 누린 것",
+          "불교 의식만 행한 것"
+        ],
+        "hard": [
+          "진경산수화를 직접 그린 것",
+          "실학을 연구한 것",
+          "서원에서 공부한 것"
+        ]
+      }
+    },
+    {
+      "recto": "개항 이후 우리 생활에 들어온 변화로 알맞은 것은?",
+      "verso": "양복과 서양 음식, 시계에 맞춘 생활이 도시부터 퍼진 것",
+      "explanation": "양복과 커피, 시간표에 맞춘 생활이 도시부터 자리 잡았다. 다만 이런 변화는 도시의 일부 계층부터 누렸고, 농촌의 삶은 오래도록 크게 달라지지 않았다.",
+      "tags": [
+        "생활사",
+        "근대"
+      ],
+      "distractors": {
+        "easy": [
+          "모든 사람이 같은 옷을 입은 것",
+          "농촌부터 먼저 바뀐 것",
+          "아무 변화도 없던 것"
+        ],
+        "medium": [
+          "한복이 완전히 사라진 것",
+          "온돌이 없어진 것",
+          "명절이 사라진 것"
+        ],
+        "hard": [
+          "세시 풍속이 곧바로 폐지된 것",
+          "발효 음식이 사라진 것",
+          "두레가 전국으로 확대된 것"
+        ]
+      }
+    },
+    {
+      "recto": "[주의] 오늘날 우리가 아는 전통 생활 문화는 아주 먼 옛날부터 그대로 이어져 온 것인가?",
+      "verso": "아니다. 붉은 김치처럼 비교적 늦게 자리 잡은 것도 많고, 시대에 따라 계속 변해 왔다",
+      "explanation": "흔한 오해이다. 고추는 16세기 말에야 들어왔고 온돌의 전국 보급도 조선 후기의 일이다. '전통'은 고정된 것이 아니라 시대마다 만들어지고 변해 온 것이다.",
+      "tags": [
+        "piege",
+        "생활사"
+      ],
+      "distractors": {
+        "easy": [
+          "그렇다. 처음부터 똑같았다",
+          "그렇다. 한 번도 변하지 않았다",
+          "그렇다. 고조선 때 완성되었다"
+        ],
+        "medium": [
+          "그렇다. 삼국 시대에 모두 정해졌다",
+          "그렇다. 고추는 원래부터 있었다",
+          "아니다. 그리고 전통이라 할 것이 없다"
+        ],
+        "hard": [
+          "그렇다. 온돌은 조선 전기에 완성되었다",
+          "그렇다. 김치는 삼국 시대부터 붉었다",
+          "아니다. 그러나 개항 이후에는 변하지 않았다"
+        ]
+      }
+    },
+    {
+      "recto": "생활 문화의 역사를 살펴보는 일이 지니는 뜻으로 알맞은 것은?",
+      "verso": "왕과 전쟁 중심의 역사에서 보이지 않던 보통 사람들의 삶을 볼 수 있는 것",
+      "explanation": "생활사는 기록에 잘 남지 않은 다수의 삶을 드러낸다. 무엇을 먹고 입고 어떤 집에 살았는지를 알면 그 시대를 훨씬 입체적으로 이해할 수 있다.",
+      "tags": [
+        "생활사",
+        "의의"
+      ],
+      "distractors": {
+        "easy": [
+          "연도를 더 잘 외울 수 있는 것",
+          "왕의 업적을 아는 것",
+          "전쟁을 이해하는 것"
+        ],
+        "medium": [
+          "정치 제도를 아는 것",
+          "외교 관계를 아는 것",
+          "법전을 이해하는 것"
+        ],
+        "hard": [
+          "사료 비판이 필요 없어지는 것",
+          "해석이 하나로 정해지는 것",
+          "세계사와 무관해지는 것"
+        ]
+      }
+    },
+    {
+      "recto": "전체적으로 우리 생활 문화는 어떤 성격을 지닌다고 볼 수 있는가?",
+      "verso": "자연 환경에 맞추어 만들어지고, 새 문물을 받아들이며 끊임없이 변해 온 것",
+      "explanation": "온돌과 대청은 사계절에 맞춘 지혜였고, 고추와 양복은 밖에서 들어와 우리 것이 되었다. 생활 문화는 고정된 유물이 아니라 지금도 변해 가는 살아 있는 역사이다.",
+      "tags": [
+        "생활사",
+        "정리"
+      ],
+      "distractors": {
+        "easy": [
+          "옛날 그대로 멈춰 있는 것",
+          "외국 것을 그대로 옮긴 것",
+          "특징이 없는 것"
+        ],
+        "medium": [
+          "양반만의 문화였던 것",
+          "농촌에만 있던 것",
+          "개항 이후 새로 생긴 것"
+        ],
+        "hard": [
+          "자연 환경과 무관하게 생긴 것",
+          "한 번 정해지면 변하지 않는 것",
+          "기록에만 남은 것"
+        ]
+      }
+    }
+  ]
+}

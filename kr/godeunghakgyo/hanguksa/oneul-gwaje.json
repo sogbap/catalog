@@ -1,0 +1,432 @@
+{
+  "id": "kr-godeunghakgyo-hanguksa-oneul-gwaje",
+  "title": "오늘날 대한민국의 과제",
+  "emoji": "🌱",
+  "subject": "history",
+  "country": "kr",
+  "courseDescription": "저출산·고령화와 다문화 사회, 노동과 복지, 환경과 인권 등 오늘날 우리 사회가 마주한 과제를 역사의 흐름 속에서 살펴본다.",
+  "lesson": "<style>\n  /* SVG 그림 스타일. currentColor(글자색)와 var(--accent)(과목 색)를 사용해\n     앱의 밝은/어두운 테마에 맞춰 표시된다. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Apple SD Gothic Neo\", \"Noto Sans KR\", \"Malgun Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>오늘날 대한민국의 과제</h1>\n\n<div class=\"callout\">\n  <strong>학습 포인트</strong><br>\n  <b>수준:</b> 고등학교<br>\n  <b>주제:</b> 한국사<br>\n  <b>시기:</b> 1990년대 ~ 오늘\n</div>\n\n<blockquote>\n  <p><b>핵심 질문.</b> 산업화와 민주화를 함께 이룬 우리 사회는, 이제 어떤 문제를 풀어야 할까?</p>\n</blockquote>\n\n<p>우리는 성장과 민주주의를 이루었지만 새로운 과제를 마주하고 있다. <strong>저출산</strong>과 <strong>고령화</strong>가 인구 구조를 바꾸고, <strong>다문화 사회</strong>가 열렸으며, <strong>비정규직</strong>과 격차, <strong>환경 문제</strong>가 남아 있다. 그리고 <strong>분단</strong>을 넘어서는 일이 여전히 우리 앞에 있다.</p>\n\n<h2>1 · 인구 구조의 변화</h2>\n\n<p>태어나는 아이가 줄어드는 <strong>저출산</strong>과 노인 비율이 높아지는 <strong>고령화</strong>가 함께 진행되고 있다. 그 결과 일할 사람은 줄고 부양할 사람은 늘어, 경제의 활력과 <strong>복지 부담</strong> 모두에 영향을 준다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"저출산과 고령화가 겹치면서 생기는 사회적 부담\">\n  <defs>\n    <marker id=\"ar-krog1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"16\" y=\"20\" width=\"130\" height=\"34\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"81\" y=\"42\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">저출산</text>\n  <rect x=\"194\" y=\"20\" width=\"130\" height=\"34\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"259\" y=\"42\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">고령화</text>\n  <path d=\"M81,54 L150,76\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-krog1)\"/>\n  <path d=\"M259,54 L190,76\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-krog1)\"/>\n  <rect x=\"90\" y=\"82\" width=\"160\" height=\"32\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"103\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">일할 사람 감소 · 부양 부담 증가</text>\n</svg>\n<figcaption>두 흐름이 겹치면서 사회 전체의 부담이 커진다.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>개념 · 지속 가능한 발전</strong><br>\n  오늘의 필요를 채우되 <b>미래 세대가 살아갈 조건을 해치지 않는</b> 발전. 성장만을 앞세웠던 시대를 돌아보게 하는 원칙이다.\n</div>\n\n<h2>2 · 다문화 사회와 노동</h2>\n\n<p>외국인 노동자와 결혼 이민자가 늘며 우리 사회는 <strong>다문화 사회</strong>가 되었다. 서로의 문화를 <strong>존중</strong>하는 태도가 필요하다. 노동에서는 <strong>비정규직</strong>과 고용 불안이 과제이며, <strong>사회 보장 제도</strong>가 이를 뒷받침한다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 126\" role=\"img\" aria-label=\"오늘날 사회의 세 가지 과제: 다문화 공존, 노동과 복지, 환경\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">함께 풀어야 할 것들</text>\n  <rect x=\"6\" y=\"30\" width=\"104\" height=\"84\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">다문화</text>\n  <text x=\"58\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">차별 없는 공존</text>\n  <text x=\"58\" y=\"95\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">문화 존중</text>\n  <rect x=\"118\" y=\"30\" width=\"104\" height=\"84\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">노동·복지</text>\n  <text x=\"170\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">비정규직 문제</text>\n  <text x=\"170\" y=\"95\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">사회 보장</text>\n  <rect x=\"230\" y=\"30\" width=\"104\" height=\"84\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">환경</text>\n  <text x=\"282\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">기후 위기</text>\n  <text x=\"282\" y=\"95\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">지속 가능성</text>\n</svg>\n<figcaption>어느 하나만 풀어서는 해결되지 않는 과제들이다.</figcaption>\n</figure>\n\n<h2>3 · 시민의 참여와 평화</h2>\n\n<p>민주화 이후 시민들은 선거뿐 아니라 <strong>시민 단체</strong>와 평화적 집회로 목소리를 낸다. 4·19와 6월 항쟁에서 이어진 참여의 전통이다. <strong>한류</strong>가 우리 문화를 세계에 전하는 한편, <strong>분단을 넘어 평화</strong>로 나아가는 일이 여전히 과제로 남아 있다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"산업화 시대의 과제와 오늘날 과제의 비교\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">달라진 물음</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.45;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">산업화 시대</text>\n  <text x=\"87\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">어떻게 성장할까</text>\n  <text x=\"87\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">빈곤 극복</text>\n  <text x=\"87\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">1960~80년대</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">오늘날</text>\n  <text x=\"253\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">어떻게 함께 살까</text>\n  <text x=\"253\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">격차·복지·환경</text>\n  <text x=\"253\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">그리고 평화</text>\n</svg>\n<figcaption>성장의 물음에서 공존의 물음으로 옮겨 왔다.</figcaption>\n</figure>\n\n<h2>핵심 정리</h2>\n\n<h3>오늘의 과제</h3>\n\n<table>\n  <tr><th>영역</th><th>과제</th></tr>\n  <tr><td>인구</td><td>저출산·고령화 대응</td></tr>\n  <tr><td>사회</td><td>다문화 공존, 차별 해소</td></tr>\n  <tr><td>노동</td><td>비정규직 문제, 고용 안정</td></tr>\n  <tr><td>환경</td><td>기후 위기, 지속 가능한 발전</td></tr>\n  <tr><td>평화</td><td>분단 극복과 평화 정착</td></tr>\n</table>\n\n<h3>핵심 용어</h3>\n\n<table>\n  <tr><th>용어</th><th>뜻</th></tr>\n  <tr><td>저출산</td><td>태어나는 아이가 크게 줄어드는 현상</td></tr>\n  <tr><td>고령화</td><td>노인 인구 비율이 높아지는 현상</td></tr>\n  <tr><td>다문화 사회</td><td>여러 문화가 함께하는 사회</td></tr>\n  <tr><td>사회 보장 제도</td><td>연금·건강보험 등 삶을 지키는 제도</td></tr>\n  <tr><td>지속 가능한 발전</td><td>미래 세대까지 생각하는 발전</td></tr>\n</table>\n\n<h3>역사에서 이어진 것</h3>\n\n<table>\n  <tr><th>과거</th><th>오늘</th></tr>\n  <tr><td>전태일의 외침</td><td>비정규직·고용 불안 문제</td></tr>\n  <tr><td>형평 운동</td><td>다문화 사회의 차별 해소</td></tr>\n  <tr><td>4·19·6월 항쟁</td><td>시민 참여의 전통</td></tr>\n  <tr><td>분단과 정전</td><td>평화 정착이라는 과제</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>주의</strong><br>\n  <b>경제 성장만으로 오늘의 문제가 풀리지는 않는다</b>—우리는 이미 빠른 성장을 이루었지만 격차와 노동, 환경, 저출산 문제가 남았다. 성장은 조건일 뿐, <b>어떻게 나누고 함께 살 것인가</b>가 함께 풀려야 한다.\n</div>\n\n<blockquote>\n  <p>가난에서 벗어나고 민주주의를 세운 사람들이 우리에게 물려준 것은 완성된 사회가 아니라, 이어서 풀어야 할 물음이다. 역사를 배우는 까닭이 여기에 있다.</p>\n</blockquote>\n",
+  "questionLang": "ko",
+  "answerLang": "ko",
+  "version": 1,
+  "level": "고등학교",
+  "theme": "한국사",
+  "cards": [
+    {
+      "recto": "한 사회에서 태어나는 아이의 수가 크게 줄어드는 현상을 무엇이라 하는가?",
+      "verso": "저출산",
+      "explanation": "우리나라는 세계에서 손꼽히게 출산율이 낮다. 양육비와 주거비 부담, 일과 육아를 함께하기 어려운 환경 등이 원인으로 꼽힌다.",
+      "tags": [
+        "현대",
+        "인구"
+      ],
+      "distractors": {
+        "easy": [
+          "인구 폭발",
+          "이촌 향도",
+          "도시화"
+        ],
+        "medium": [
+          "고령화",
+          "저출생 대책",
+          "인구 이동"
+        ],
+        "hard": [
+          "인구 절벽",
+          "출산 붐",
+          "합계 출산율 상승"
+        ]
+      }
+    },
+    {
+      "recto": "전체 인구에서 노인이 차지하는 비율이 빠르게 높아지는 현상은?",
+      "verso": "고령화",
+      "explanation": "의학의 발달로 오래 살게 되고 아이는 적게 태어나면서 노인 인구 비율이 빠르게 높아지고 있다. 우리나라의 고령화 속도는 세계에서 가장 빠른 편이다.",
+      "tags": [
+        "현대",
+        "인구"
+      ],
+      "distractors": {
+        "easy": [
+          "저출산",
+          "도시화",
+          "산업화"
+        ],
+        "medium": [
+          "이촌 향도",
+          "핵가족화",
+          "인구 이동"
+        ],
+        "hard": [
+          "인구 배당",
+          "베이비 붐",
+          "생산 가능 인구 증가"
+        ]
+      }
+    },
+    {
+      "recto": "저출산과 고령화가 함께 진행될 때 우리 사회가 겪게 되는 문제로 알맞은 것은?",
+      "verso": "일할 사람은 줄고 부양해야 할 사람은 늘어나는 것",
+      "explanation": "생산 가능 인구가 줄면 경제의 활력이 떨어지고, 연금과 의료비 등 복지 부담은 커진다. 그래서 저출산과 고령화는 함께 다루어야 할 과제이다.",
+      "tags": [
+        "현대",
+        "인구"
+      ],
+      "distractors": {
+        "easy": [
+          "일자리가 넘쳐 나는 것",
+          "학교가 부족해지는 것",
+          "인구가 급격히 느는 것"
+        ],
+        "medium": [
+          "도시가 텅 비는 것",
+          "복지 부담이 줄어드는 것",
+          "노동력이 남아도는 것"
+        ],
+        "hard": [
+          "연금이 저절로 늘어나는 것",
+          "고용 없는 성장이 끝나는 것",
+          "이촌 향도가 심해지는 것"
+        ]
+      }
+    },
+    {
+      "recto": "여러 나라에서 온 사람들이 저마다의 문화를 지니고 함께 살아가는 사회를 무엇이라 하는가?",
+      "verso": "다문화 사회",
+      "explanation": "외국인 노동자와 결혼 이민자, 유학생이 늘면서 우리 사회도 다문화 사회로 들어섰다. 서로의 문화를 존중하며 함께 사는 법을 익히는 일이 과제이다.",
+      "tags": [
+        "현대",
+        "사회"
+      ],
+      "distractors": {
+        "easy": [
+          "단일 민족 사회",
+          "농경 사회",
+          "봉건 사회"
+        ],
+        "medium": [
+          "정보화 사회",
+          "고령 사회",
+          "산업 사회"
+        ],
+        "hard": [
+          "동화주의 사회",
+          "폐쇄적 이민 사회",
+          "탈산업 사회"
+        ]
+      }
+    },
+    {
+      "recto": "다문화 사회에서 함께 살아가기 위해 가장 필요한 태도는?",
+      "verso": "서로의 문화를 존중하고 차별하지 않는 것",
+      "explanation": "우리 방식을 강요하는 대신 서로의 차이를 인정하는 태도가 필요하다. 우리 역사에서도 차별받았던 경험이 있기에 더욱 깊이 새겨야 할 일이다.",
+      "tags": [
+        "현대",
+        "사회"
+      ],
+      "distractors": {
+        "easy": [
+          "우리 문화만 따르게 하는 것",
+          "교류를 막는 것",
+          "국경을 닫는 것"
+        ],
+        "medium": [
+          "언어를 하나로 통일하는 것",
+          "따로 모여 살게 하는 것",
+          "국적을 모두 바꾸게 하는 것"
+        ],
+        "hard": [
+          "동화만을 목표로 삼는 것",
+          "문화 교류를 제한하는 것",
+          "이민을 전면 금지하는 것"
+        ]
+      }
+    },
+    {
+      "recto": "산업화 이후 오늘날까지 이어지는, 고용의 안정성과 관련된 대표적인 노동 문제는?",
+      "verso": "비정규직 문제와 고용 불안",
+      "explanation": "같은 일을 하고도 임금과 처우에서 차이가 나는 비정규직 문제는 오늘날 노동의 핵심 과제이다. 전태일이 외쳤던 노동 조건의 문제가 형태를 바꾸어 이어지고 있다.",
+      "tags": [
+        "현대",
+        "노동"
+      ],
+      "distractors": {
+        "easy": [
+          "일자리가 너무 많은 것",
+          "임금이 지나치게 높은 것",
+          "노동 시간이 너무 짧은 것"
+        ],
+        "medium": [
+          "농사지을 사람이 넘치는 것",
+          "공장이 부족한 것",
+          "수출이 없는 것"
+        ],
+        "hard": [
+          "완전 고용이 이루어진 것",
+          "노동조합이 지나치게 강한 것",
+          "산업화가 멈춘 것"
+        ]
+      }
+    },
+    {
+      "recto": "국민이 병들거나 나이 들었을 때 최소한의 삶을 지키기 위해 마련된 제도를 무엇이라 하는가?",
+      "verso": "사회 보장 제도(국민연금·건강보험 등)",
+      "explanation": "국민연금과 건강보험, 고용보험 등은 누구나 겪을 수 있는 위험에 사회가 함께 대비하는 제도이다. 성장의 열매를 나누는 장치이기도 하다.",
+      "tags": [
+        "현대",
+        "복지"
+      ],
+      "distractors": {
+        "easy": [
+          "과거제",
+          "호패법",
+          "향약"
+        ],
+        "medium": [
+          "농지 개혁",
+          "새마을 운동",
+          "경제 개발 계획"
+        ],
+        "hard": [
+          "공명첩 제도",
+          "환곡",
+          "구휼 제도만"
+        ]
+      }
+    },
+    {
+      "recto": "산업화 과정에서 심해졌고 오늘날 기후 위기로 확대된, 인류 공동의 과제는?",
+      "verso": "환경 문제",
+      "explanation": "빠른 산업화는 대기와 물의 오염을 남겼고, 오늘날에는 기후 위기라는 지구적 과제로 확대되었다. 성장과 환경을 함께 생각하는 지속 가능한 발전이 요구된다.",
+      "tags": [
+        "현대",
+        "환경"
+      ],
+      "distractors": {
+        "easy": [
+          "인구 감소 문제",
+          "교통 체증만",
+          "주택 부족만"
+        ],
+        "medium": [
+          "실업 문제",
+          "빈부 격차",
+          "고령화"
+        ],
+        "hard": [
+          "정보 격차",
+          "지역 갈등",
+          "무역 마찰"
+        ]
+      }
+    },
+    {
+      "recto": "성장과 환경 보전을 함께 이루어 미래 세대의 삶까지 지키자는 원칙을 무엇이라 하는가?",
+      "verso": "지속 가능한 발전",
+      "explanation": "지속 가능한 발전은 오늘의 필요를 채우면서 미래 세대가 살아갈 조건을 해치지 않는 발전을 뜻한다. 성장 일변도였던 과거를 돌아보게 하는 원칙이다.",
+      "tags": [
+        "현대",
+        "환경"
+      ],
+      "distractors": {
+        "easy": [
+          "무조건적인 성장",
+          "성장의 포기",
+          "쇄국 정책"
+        ],
+        "medium": [
+          "수출 주도 성장",
+          "중화학 공업화",
+          "3저 호황"
+        ],
+        "hard": [
+          "압축 성장",
+          "녹색 성장만",
+          "산업 합리화"
+        ]
+      }
+    },
+    {
+      "recto": "민주화 이후 시민들이 사회 문제 해결에 직접 참여하는 대표적인 방식은?",
+      "verso": "시민 단체 활동과 집회 등을 통한 시민 참여",
+      "explanation": "선거뿐 아니라 시민 단체 활동, 청원, 평화적인 집회 등으로 시민들이 목소리를 낸다. 4·19와 6월 항쟁에서 이어진 참여의 전통이 오늘로 이어진 것이다.",
+      "tags": [
+        "현대",
+        "민주주의"
+      ],
+      "distractors": {
+        "easy": [
+          "정치에 관심을 갖지 않는 것",
+          "무력을 사용하는 것",
+          "국가에 모두 맡기는 것"
+        ],
+        "medium": [
+          "선거만 하는 것",
+          "언론에만 의존하는 것",
+          "외국에 호소하는 것"
+        ],
+        "hard": [
+          "계엄을 요청하는 것",
+          "정당 활동만 하는 것",
+          "국제 재판에 맡기는 것"
+        ]
+      }
+    },
+    {
+      "recto": "우리 문화가 음악·드라마·영화로 세계에서 사랑받는 현상을 무엇이라 하는가?",
+      "verso": "한류",
+      "explanation": "한류는 우리 대중문화가 세계에서 널리 사랑받는 현상이다. 원조를 받던 나라에서 문화를 전하는 나라가 되었다는 점에서 역사적 의미가 크다.",
+      "tags": [
+        "현대",
+        "문화"
+      ],
+      "distractors": {
+        "easy": [
+          "쇄국",
+          "산업화",
+          "도시화"
+        ],
+        "medium": [
+          "세계화",
+          "정보화",
+          "다문화"
+        ],
+        "hard": [
+          "문화 사대주의",
+          "문화 상대주의",
+          "국풍 문화"
+        ]
+      }
+    },
+    {
+      "recto": "[비교] 산업화 시대의 과제와 오늘날의 과제는 어떻게 다른가?",
+      "verso": "산업화 시대는 성장과 빈곤 극복이, 오늘날은 분배와 삶의 질·지속 가능성이 과제이다",
+      "explanation": "1960~80년대에는 가난에서 벗어나는 성장이 최우선이었다. 오늘날에는 격차 해소, 복지, 환경, 인권처럼 '어떻게 함께 잘 살 것인가'가 과제가 되었다.",
+      "tags": [
+        "comparaison",
+        "현대"
+      ],
+      "distractors": {
+        "easy": [
+          "두 시대의 과제는 완전히 같다",
+          "둘 다 성장만이 과제이다",
+          "둘 다 분배만이 과제이다"
+        ],
+        "medium": [
+          "산업화 시대는 분배, 오늘날은 성장이 과제이다",
+          "둘 다 환경 문제만 다룬다",
+          "둘 다 인구 증가가 과제이다"
+        ],
+        "hard": [
+          "산업화 시대는 고령화가 과제였다",
+          "오늘날은 빈곤 극복만이 과제이다",
+          "둘 다 민주화가 유일한 과제이다"
+        ]
+      }
+    },
+    {
+      "recto": "[주의] 경제만 계속 성장하면 오늘날 우리 사회의 문제들은 저절로 해결되는가?",
+      "verso": "아니다. 분배와 복지, 인권과 환경이 함께 다루어져야 해결될 수 있다",
+      "explanation": "흔한 오해이다. 우리는 이미 빠른 성장을 이루었지만 격차와 노동, 환경, 저출산 문제가 남았다. 성장은 조건일 뿐, 어떻게 나누고 함께 살 것인가가 함께 풀려야 한다.",
+      "tags": [
+        "piege",
+        "현대"
+      ],
+      "distractors": {
+        "easy": [
+          "그렇다. 성장만 하면 모두 해결된다",
+          "그렇다. 이미 다 해결되었다",
+          "그렇다. 다른 노력은 필요 없다"
+        ],
+        "medium": [
+          "그렇다. 복지는 성장의 결과일 뿐이다",
+          "그렇다. 환경은 성장하면 좋아진다",
+          "아니다. 그리고 성장은 필요 없다"
+        ],
+        "hard": [
+          "그렇다. 저출산도 소득이 늘면 끝난다",
+          "그렇다. 분배는 시장이 알아서 한다",
+          "아니다. 그러나 인권은 별개의 문제이다"
+        ]
+      }
+    },
+    {
+      "recto": "오늘날 우리 사회가 평화와 관련하여 여전히 안고 있는 가장 큰 역사적 과제는?",
+      "verso": "분단을 넘어 평화와 통일로 나아가는 것",
+      "explanation": "정전 상태의 분단은 오늘날에도 이어지고 있다. 군사적 긴장을 줄이고 대화를 이어 가며 평화를 만들어 가는 일은 우리 세대에 남겨진 역사적 과제이다.",
+      "tags": [
+        "현대",
+        "평화"
+      ],
+      "distractors": {
+        "easy": [
+          "영토를 넓히는 것",
+          "군사력만 키우는 것",
+          "이웃 나라와 단절하는 것"
+        ],
+        "medium": [
+          "경제 성장만 이루는 것",
+          "외국에 의존하는 것",
+          "국제 기구에서 탈퇴하는 것"
+        ],
+        "hard": [
+          "정전 상태를 그대로 유지하는 것",
+          "분단을 공식화하는 것",
+          "무력 통일을 준비하는 것"
+        ]
+      }
+    },
+    {
+      "recto": "역사를 배우는 일이 오늘의 과제를 푸는 데 도움이 되는 까닭은?",
+      "verso": "과거의 선택과 그 결과를 알면 오늘의 문제를 더 깊이 판단할 수 있기 때문",
+      "explanation": "성장의 그늘, 차별의 상처, 민주주의를 얻기까지의 희생을 알면 오늘의 선택이 달라진다. 역사는 지나간 이야기가 아니라 판단의 근거이다.",
+      "tags": [
+        "현대",
+        "의의"
+      ],
+      "distractors": {
+        "easy": [
+          "시험에 나오기 때문에",
+          "옛날이야기가 재미있기 때문에",
+          "아무 도움이 되지 않는다"
+        ],
+        "medium": [
+          "과거로 돌아갈 수 있기 때문에",
+          "미래를 정확히 예측하기 때문에",
+          "외국을 이길 수 있기 때문에"
+        ],
+        "hard": [
+          "역사는 그대로 반복되기 때문에",
+          "정답이 이미 정해져 있기 때문에",
+          "전통만 지키면 되기 때문에"
+        ]
+      }
+    },
+    {
+      "recto": "전체적으로 오늘날 대한민국이 마주한 과제를 한마디로 정리하면?",
+      "verso": "이룬 성장과 민주주의 위에서, 더 평등하고 지속 가능하며 평화로운 사회를 만드는 일",
+      "explanation": "우리는 산업화와 민주화를 함께 이루었다. 이제는 그 위에서 격차를 줄이고 환경을 지키며 분단을 넘어서는, 함께 사는 사회를 만드는 것이 과제이다.",
+      "tags": [
+        "현대",
+        "정리"
+      ],
+      "distractors": {
+        "easy": [
+          "과거로 돌아가는 일",
+          "성장을 멈추는 일",
+          "아무 과제도 없는 상태"
+        ],
+        "medium": [
+          "경제 성장만 계속하는 일",
+          "다른 나라를 따라가는 일",
+          "국경을 닫는 일"
+        ],
+        "hard": [
+          "민주주의를 다시 세우는 일",
+          "산업화를 처음부터 다시 하는 일",
+          "분단을 유지하는 일"
+        ]
+      }
+    }
+  ]
+}

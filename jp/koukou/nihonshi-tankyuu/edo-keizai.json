@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-nihonshi-tankyuu-edo-keizai",
+  "title": "江戸の産業と流通",
+  "emoji": "🏯",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "新田開発と商品作物、三都と株仲間、五街道と航路の整備を通じて、平和のもとで育った江戸の経済と流通のしくみを学ぶ。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>江戸の産業と流通</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>日本史探究<br>\n  <b>時期：</b>17世紀 〜 19世紀前半\n</div>\n\n<blockquote>\n  <p><b>問い。</b>戦のない時代に、経済はどのように育ち、それは社会をどう変えたのだろうか。</p>\n</blockquote>\n\n<p>平和のもとで<strong>新田開発</strong>と農具の改良が進み、<strong>商品作物</strong>が農村に貨幣を運んだ。<strong>五街道</strong>と<strong>西廻り・東廻り航路</strong>が全国を結び、<strong>三都</strong>と<strong>株仲間</strong>を軸に全国市場ができあがる。米に頼る武士は、この変化に置いていかれていった。</p>\n\n<h2>1・農業の発達</h2>\n\n<p>幕府と藩は年貢を増やすため<strong>新田開発</strong>を進め、耕地は大きく広がった。備中鍬や千歯扱きなど<strong>農具の改良</strong>と干鰯などの肥料で収量が上がり、綿・菜種・藍といった<strong>商品作物</strong>の栽培が農村を市場に結びつけた。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"新田開発と農具の改良が商品作物の広がりと貨幣経済につながる流れ\">\n  <defs>\n    <marker id=\"ar-njk1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">新田開発</text>\n  <text x=\"54\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">農具・肥料の改良</text>\n  <path d=\"M100,68 L118,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-njk1)\"/>\n  <rect x=\"122\" y=\"42\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">商品作物</text>\n  <text x=\"170\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">綿・菜種・藍</text>\n  <path d=\"M218,68 L236,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-njk1)\"/>\n  <rect x=\"240\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">貨幣が村へ</text>\n  <text x=\"286\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">階層の分化</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">田を広げ、売る作物をつくる</text>\n</svg>\n<figcaption>農業の発達が、やがて村の内側を変えていった。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・株仲間</strong><br>\n  同業商人が幕府の許可を得て結び、<b>運上金・冥加金を納める代わりに営業を独占</b>した組織。幕府の収入源でもあり、のちの改革で奨励と解散が繰り返される。\n</div>\n\n<h2>2・三都と全国市場</h2>\n\n<p><strong>江戸</strong>は参勤交代で武士が集まる人口100万の消費都市、<strong>大坂</strong>は<strong>蔵屋敷</strong>に物資が集まる「天下の台所」、<strong>京都</strong>は伝統文化と手工業の都であった。<strong>両替商</strong>が金融を担い、<strong>株仲間</strong>が流通を握った。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"江戸と大坂の都市としての性格の比較\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">対照的な二つの都市</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">江戸</text>\n  <text x=\"87\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">将軍のお膝元</text>\n  <text x=\"87\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">人口100万の消費都市</text>\n  <text x=\"87\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">武士が集まる</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">大坂</text>\n  <text x=\"253\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">天下の台所</text>\n  <text x=\"253\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">蔵屋敷が集まる</text>\n  <text x=\"253\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">商業・金融の中心</text>\n</svg>\n<figcaption>消費する都市と、集散する都市が支え合った。</figcaption>\n</figure>\n\n<h2>3・道と航路が結ぶ</h2>\n\n<p><strong>五街道</strong>が参勤交代と情報の道となり、河村瑞賢が整えた<strong>西廻り・東廻り航路</strong>が大量の物資を安く運んだ。農村では<strong>問屋制家内工業</strong>が広がり、幕末には工場制手工業も現れる。近代工業の芽がここにある。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 122\" role=\"img\" aria-label=\"陸の五街道と海の航路が三都を結んで全国市場を形づくるしくみ\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">陸と海で結ばれた列島</text>\n  <rect x=\"6\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">陸・五街道</text>\n  <text x=\"58\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">参勤交代</text>\n  <text x=\"58\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">宿場町の発達</text>\n  <rect x=\"118\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">海・航路</text>\n  <text x=\"170\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">西廻り・東廻り</text>\n  <text x=\"170\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">大量・安価な輸送</text>\n  <rect x=\"230\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">全国市場</text>\n  <text x=\"282\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">三都を軸に</text>\n  <text x=\"282\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">株仲間・両替商</text>\n</svg>\n<figcaption>道と航路がつながったとき、列島はひとつの市場になった。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>産業と流通</h3>\n\n<table>\n  <tr><th>分野</th><th>内容</th></tr>\n  <tr><td>農業</td><td>新田開発、農具の改良、商品作物</td></tr>\n  <tr><td>都市</td><td>三都（江戸・大坂・京都）</td></tr>\n  <tr><td>流通</td><td>株仲間、蔵屋敷、両替商</td></tr>\n  <tr><td>交通</td><td>五街道、西廻り・東廻り航路</td></tr>\n  <tr><td>工業</td><td>問屋制家内工業 → 工場制手工業</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>新田開発</td><td>耕地を広げて年貢増収をはかる事業</td></tr>\n  <tr><td>商品作物</td><td>売って現金を得るための作物</td></tr>\n  <tr><td>蔵屋敷</td><td>藩が年貢米を換金した倉庫兼取引所</td></tr>\n  <tr><td>株仲間</td><td>営業を独占した同業組織</td></tr>\n  <tr><td>両替商</td><td>金銀の交換と融資を担った商人</td></tr>\n</table>\n\n<h3>社会への影響</h3>\n\n<table>\n  <tr><th>対象</th><th>変化</th></tr>\n  <tr><td>農民</td><td>貨幣経済の浸透、階層の分化</td></tr>\n  <tr><td>町人</td><td>経済力を高め、文化の担い手へ</td></tr>\n  <tr><td>武士</td><td>米の収入では追いつかず困窮</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  経済が発達しても<b>武士は豊かにならなかった</b>。収入は米で固定される一方、生活は貨幣に依存し物価は上がる。札差への借金に苦しむ武士が増え、これが幕政改革を呼ぶことになる。\n</div>\n\n<blockquote>\n  <p>米で支配する体制の上に、貨幣で動く社会が育っていった。このずれが、やがて改革という形で表に出てくる。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "日本史探究",
+  "cards": [
+    {
+      "recto": "幕府や藩が年貢収入を増やすため、湿地や河川敷を切り開いて田を広げた事業を何というか。",
+      "verso": "新田開発",
+      "explanation": "新田開発により江戸時代の耕地面積は戦国期のおよそ2倍近くにまで広がった。人口の増加と経済の発展を支えた土台である。",
+      "tags": [
+        "江戸",
+        "産業"
+      ],
+      "distractors": {
+        "easy": [
+          "刀狩",
+          "楽市・楽座",
+          "参勤交代"
+        ],
+        "medium": [
+          "太閤検地",
+          "地租改正",
+          "屯田兵"
+        ],
+        "hard": [
+          "囲米",
+          "上げ米の制",
+          "人返しの法"
+        ]
+      }
+    },
+    {
+      "recto": "年貢米のほかに、売って現金を得るために栽培された綿・菜種・藍などの作物を何というか。",
+      "verso": "商品作物",
+      "explanation": "商品作物の栽培が広がると農村にも貨幣がめぐり、自給的な暮らしが市場と結びついていった。これが農村の変化の出発点となる。",
+      "tags": [
+        "江戸",
+        "産業"
+      ],
+      "distractors": {
+        "easy": [
+          "主食用の米のみ",
+          "牧草",
+          "観賞用の花のみ"
+        ],
+        "medium": [
+          "救荒作物",
+          "年貢米",
+          "屋敷地の作物"
+        ],
+        "hard": [
+          "二毛作の裏作のみ",
+          "輸入作物",
+          "薬草のみ"
+        ]
+      }
+    },
+    {
+      "recto": "深く耕せる備中鍬や、脱穀を速めた千歯扱きなどの普及がもたらしたものは何か。",
+      "verso": "農具の改良による生産力の向上",
+      "explanation": "農具の改良と肥料（干鰯など）の利用で単位面積あたりの収量が増えた。技術の積み重ねが江戸の経済成長を支えた。",
+      "tags": [
+        "江戸",
+        "産業"
+      ],
+      "distractors": {
+        "easy": [
+          "武器の性能向上",
+          "築城技術の発達",
+          "航海術の進歩"
+        ],
+        "medium": [
+          "働き手の減少",
+          "耕地の減少",
+          "生産力の低下"
+        ],
+        "hard": [
+          "年貢の免除",
+          "商業の衰退",
+          "牧畜の拡大"
+        ]
+      }
+    },
+    {
+      "recto": "江戸時代に政治・経済・文化の中心として栄えた三つの都市をまとめて何と呼ぶか。",
+      "verso": "三都（江戸・大坂・京都）",
+      "explanation": "江戸は「将軍のお膝元」、大坂は商業の中心、京都は伝統文化と手工業の都であった。三都が結びついて全国的な市場が形づくられた。",
+      "tags": [
+        "江戸",
+        "都市"
+      ],
+      "distractors": {
+        "easy": [
+          "三国",
+          "三種の神器",
+          "三奉行"
+        ],
+        "medium": [
+          "江戸・長崎・堺",
+          "京都・奈良・鎌倉",
+          "大坂・博多・平戸"
+        ],
+        "hard": [
+          "江戸・大坂・長崎",
+          "京都・大津・伏見",
+          "五街道の宿場町"
+        ]
+      }
+    },
+    {
+      "recto": "全国の物資が集まり、「天下の台所」と呼ばれた都市はどこか。",
+      "verso": "大坂",
+      "explanation": "諸藩が年貢米や特産品を売りさばくため大坂に蔵屋敷を置いたことで、大坂は全国の物流と金融の中心となった。",
+      "tags": [
+        "江戸",
+        "都市"
+      ],
+      "distractors": {
+        "easy": [
+          "江戸",
+          "京都",
+          "鎌倉"
+        ],
+        "medium": [
+          "長崎",
+          "堺",
+          "博多"
+        ],
+        "hard": [
+          "伏見",
+          "兵庫",
+          "敦賀"
+        ]
+      }
+    },
+    {
+      "recto": "諸藩が年貢米や特産物を売るため大坂などに置いた倉庫兼取引所を何というか。",
+      "verso": "蔵屋敷",
+      "explanation": "藩は蔵屋敷で米を換金し、その代金で武士に俸禄を支払った。年貢米が貨幣に変わるこの仕組みが、藩財政を市場に結びつけた。",
+      "tags": [
+        "江戸",
+        "流通"
+      ],
+      "distractors": {
+        "easy": [
+          "城",
+          "寺社",
+          "藩校"
+        ],
+        "medium": [
+          "問屋",
+          "座",
+          "市場"
+        ],
+        "hard": [
+          "会所",
+          "札差",
+          "両替商"
+        ]
+      }
+    },
+    {
+      "recto": "同業の商人が幕府の許可を得て結び、営業を独占した組織を何というか。",
+      "verso": "株仲間",
+      "explanation": "株仲間は運上金・冥加金を納める代わりに営業の独占を認められた。幕府にとっては収入源であり、のちの改革では奨励と解散が繰り返される。",
+      "tags": [
+        "江戸",
+        "流通"
+      ],
+      "distractors": {
+        "easy": [
+          "株式会社",
+          "労働組合",
+          "協同組合"
+        ],
+        "medium": [
+          "座",
+          "問屋場",
+          "五人組"
+        ],
+        "hard": [
+          "惣",
+          "楽市",
+          "商工会議所"
+        ]
+      }
+    },
+    {
+      "recto": "江戸を起点として全国に延び、宿場や関所が置かれた主要な陸路を何というか。",
+      "verso": "五街道",
+      "explanation": "東海道・中山道・甲州道中・日光道中・奥州道中の五街道は、参勤交代や物資・情報の移動を支えた。関所は人の移動を監視する装置でもあった。",
+      "tags": [
+        "江戸",
+        "交通"
+      ],
+      "distractors": {
+        "easy": [
+          "高速道路",
+          "新幹線",
+          "運河"
+        ],
+        "medium": [
+          "七道",
+          "西廻り航路",
+          "北前船の航路"
+        ],
+        "hard": [
+          "脇街道",
+          "宿駅制度のみ",
+          "伝馬制"
+        ]
+      }
+    },
+    {
+      "recto": "河村瑞賢が整備した、日本海側から大坂・江戸へ物資を運ぶ海上の道を何というか。",
+      "verso": "西廻り航路・東廻り航路",
+      "explanation": "海上輸送は大量の物資を安く運べたため、全国市場の形成に決定的な役割を果たした。日本海側の年貢米も大坂へ集まるようになった。",
+      "tags": [
+        "江戸",
+        "交通"
+      ],
+      "distractors": {
+        "easy": [
+          "シルクロード",
+          "スエズ運河",
+          "太平洋航路"
+        ],
+        "medium": [
+          "五街道",
+          "南蛮貿易路",
+          "朱印船の航路"
+        ],
+        "hard": [
+          "菱垣廻船のみ",
+          "樽廻船のみ",
+          "北前船のみ"
+        ]
+      }
+    },
+    {
+      "recto": "金貨・銀貨・銭貨の交換や、大名への融資を行った商人を何というか。",
+      "verso": "両替商",
+      "explanation": "江戸は金、大坂は銀を主に使ったため両替が不可欠であった。両替商は預金や貸付も行い、金融の役割を担った。",
+      "tags": [
+        "江戸",
+        "経済"
+      ],
+      "distractors": {
+        "easy": [
+          "八百屋",
+          "呉服屋",
+          "鍛冶屋"
+        ],
+        "medium": [
+          "問屋",
+          "札差",
+          "蔵元"
+        ],
+        "hard": [
+          "為替方",
+          "掛屋",
+          "仲買"
+        ]
+      }
+    },
+    {
+      "recto": "商人が農民に道具や原料を貸して製品をつくらせ、それを買い取る生産のしくみを何というか。",
+      "verso": "問屋制家内工業",
+      "explanation": "問屋制家内工業は農村に工業を広げ、幕末には工場に人を集める工場制手工業（マニュファクチュア）も現れた。近代工業の芽である。",
+      "tags": [
+        "江戸",
+        "産業"
+      ],
+      "distractors": {
+        "easy": [
+          "機械制大工業",
+          "自給自足",
+          "分業のない手仕事"
+        ],
+        "medium": [
+          "工場制手工業",
+          "座による生産",
+          "官営工場"
+        ],
+        "hard": [
+          "問屋場の運営",
+          "株仲間の生産",
+          "殖産興業"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】江戸と大坂は、それぞれどのような性格の都市であったか。",
+      "verso": "江戸は武士が集まる巨大な消費都市、大坂は物資が集まる商業・金融の中心",
+      "explanation": "参勤交代で武士とその家族が集まった江戸は人口100万を超える消費都市となり、大坂は蔵屋敷を通じて全国の物資が集散する「天下の台所」となった。",
+      "tags": [
+        "comparaison",
+        "江戸"
+      ],
+      "distractors": {
+        "easy": [
+          "どちらも農村であった",
+          "どちらも港がなかった",
+          "江戸が商業、大坂が政治の中心"
+        ],
+        "medium": [
+          "江戸は貿易港、大坂は城下町",
+          "どちらも幕府の直轄でなかった",
+          "江戸は人口が少なかった"
+        ],
+        "hard": [
+          "江戸は蔵屋敷の中心地であった",
+          "大坂は将軍の居城があった",
+          "どちらも三都に含まれない"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】商業が発達したことで、支配身分である武士は豊かになったのか。",
+      "verso": "いいえ。米で収入を得る武士は貨幣経済のなかでかえって困窮していった",
+      "explanation": "よくある誤解である。武士の収入は米で固定される一方、生活は貨幣に依存し物価は上がった。札差からの借金に苦しむ武士も多く、これが幕政改革の背景となる。",
+      "tags": [
+        "piege",
+        "江戸"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。武士が最も豊かになった",
+          "はい。商人より裕福であった",
+          "はい。借金とは無縁であった"
+        ],
+        "medium": [
+          "はい。年貢収入が急増した",
+          "はい。商業に参入して富を得た",
+          "いいえ。しかし商業も衰退した"
+        ],
+        "hard": [
+          "はい。俸禄が物価に連動していた",
+          "はい。株仲間から利益を得ていた",
+          "いいえ。ただし町人も困窮した"
+        ]
+      }
+    },
+    {
+      "recto": "参勤交代が江戸時代の経済に果たした役割として適切なものはどれか。",
+      "verso": "街道と宿場町を発達させ、江戸を巨大な消費地としたこと",
+      "explanation": "大名行列の往来は街道沿いの宿場町を潤し、江戸に人と物を集めた。大名の財政を圧迫する制度が、同時に全国の経済を動かしていた。",
+      "tags": [
+        "江戸",
+        "経済"
+      ],
+      "distractors": {
+        "easy": [
+          "貿易を活発にしたこと",
+          "外国との交流を広げたこと",
+          "経済に影響しなかったこと"
+        ],
+        "medium": [
+          "農業生産を直接増やしたこと",
+          "身分制を廃止したこと",
+          "貨幣を廃止したこと"
+        ],
+        "hard": [
+          "大名の財政を豊かにしたこと",
+          "都市の人口を減らしたこと",
+          "株仲間を解散させたこと"
+        ]
+      }
+    },
+    {
+      "recto": "江戸時代に貨幣経済が農村にまで広がった結果、農民のあいだに何が生じたか。",
+      "verso": "土地を集める者と手放す者に分かれる階層の分化",
+      "explanation": "商品作物と貨幣の浸透により、豊かになる農民がいる一方で土地を失い小作となる者も現れた。均質だった村が内側から変わっていった。",
+      "tags": [
+        "江戸",
+        "社会"
+      ],
+      "distractors": {
+        "easy": [
+          "全員が等しく豊かになった",
+          "農民がいなくなった",
+          "何も変化しなかった"
+        ],
+        "medium": [
+          "身分がなくなった",
+          "全員が武士になった",
+          "村請制が廃止された"
+        ],
+        "hard": [
+          "年貢が免除された",
+          "村がすべて都市になった",
+          "商品作物が禁止された"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、江戸時代の産業と流通の発達はどのような意味をもったといえるか。",
+      "verso": "全国市場を生み出し、身分制の枠を内側から揺さぶる力となった",
+      "explanation": "街道と航路で結ばれた全国市場が生まれ、経済力を得た町人や豪農が台頭した。米に依存する武士の支配は、この経済の変化に少しずつ追い越されていく。",
+      "tags": [
+        "江戸",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "経済が完全に停滞した",
+          "自給自足に戻った",
+          "何も変わらなかった"
+        ],
+        "medium": [
+          "身分制をより強固にした",
+          "武士をいっそう豊かにした",
+          "都市が衰退した"
+        ],
+        "hard": [
+          "鎖国を終わらせた",
+          "ただちに資本主義を成立させた",
+          "農業を衰退させた"
+        ]
+      }
+    }
+  ]
+}

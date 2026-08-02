@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-nihonshi-tankyuu-kindai-bunka",
+  "title": "近代の文化と学問",
+  "emoji": "🖋️",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "夏目漱石や森鷗外の文学、黒田清輝と岡倉天心の美術、北里柴三郎らの科学を通じて、西洋と伝統のあいだで築かれた近代日本の文化を学ぶ。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>近代の文化と学問</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>日本史探究<br>\n  <b>時期：</b>明治 〜 昭和初期\n</div>\n\n<blockquote>\n  <p><b>問い。</b>西洋を急いで取り入れた社会で、人々は自分たちの文化をどう考えたのだろうか。</p>\n</blockquote>\n\n<p><strong>夏目漱石</strong>と<strong>森鷗外</strong>は近代人の内面を描き、<strong>黒田清輝</strong>は洋画を確立する一方で<strong>岡倉天心</strong>は日本美術を再発見した。<strong>北里柴三郎</strong>らの研究は世界水準に達し、学校教育が識字を広げた。西洋の受容と伝統の再評価は、同時に進んだのである。</p>\n\n<h2>1・文学 ― 近代人の内面</h2>\n\n<p><strong>言文一致</strong>によって書き言葉が話し言葉に近づき、小説は多くの人に届くようになった。<strong>夏目漱石</strong>は急ぎすぎた近代化を「上滑りの開化」と批判し、<strong>森鷗外</strong>は軍医として働きながら西洋と日本のあいだの葛藤を書いた。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"黒田清輝と岡倉天心、西洋の受容と伝統の再評価という二つの立場の比較\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">同時に進んだ二つの動き</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">西洋の受容</text>\n  <text x=\"87\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">黒田清輝の洋画</text>\n  <text x=\"87\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">外光の表現</text>\n  <text x=\"87\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">美術学校で育成</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">伝統の再評価</text>\n  <text x=\"253\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">岡倉天心</text>\n  <text x=\"253\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">日本美術の価値</text>\n  <text x=\"253\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">文化財保護へ</text>\n</svg>\n<figcaption>どちらか一方ではなく、両者の緊張が近代文化をつくった。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・上滑りの開化</strong><br>\n  夏目漱石が用いた言葉。<b>内側から育ったのではなく外から急いで取り入れた近代化</b>を指し、その表面性への不安を表している。近代化を内側から問い直す視点である。\n</div>\n\n<h2>2・美術と科学</h2>\n\n<p><strong>黒田清輝</strong>がフランスで学んだ外光表現を持ち帰る一方、<strong>岡倉天心</strong>はフェノロサとともに日本美術の価値を訴えた。<strong>廃仏毀釈</strong>で多くの文化財が失われた反省が、その背景にある。科学では<strong>北里柴三郎</strong>が破傷風の血清療法を確立し、<strong>野口英世</strong>が黄熱病研究に生涯を捧げた。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"西洋の学問を学び日本で成果を上げ世界に発信する流れ\">\n  <defs>\n    <marker id=\"ar-njb1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">留学・招聘</text>\n  <text x=\"54\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">西洋に学ぶ</text>\n  <path d=\"M100,68 L118,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-njb1)\"/>\n  <rect x=\"122\" y=\"42\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">国内で研究</text>\n  <text x=\"170\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">伝染病研究所</text>\n  <path d=\"M218,68 L236,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-njb1)\"/>\n  <rect x=\"240\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">世界的成果</text>\n  <text x=\"286\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">血清療法など</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">学ぶ側から、生み出す側へ</text>\n</svg>\n<figcaption>ひと世代のうちに、日本の科学は世界水準に届いた。</figcaption>\n</figure>\n\n<h2>3・広がる文化、変わる暮らし</h2>\n\n<p>学制の普及で<strong>就学率と識字率</strong>が高まり、文化の受け手が一気に広がった。都市では<strong>映画</strong>とラジオが娯楽となり、応接間をもつ<strong>文化住宅</strong>が中間層の暮らしを象徴した。近代化は制度だけでなく、家の間取りにまで及んだのである。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 122\" role=\"img\" aria-label=\"教育の普及、都市の娯楽、住まいの変化という近代文化の三つの広がり\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">暮らしのなかの近代</text>\n  <rect x=\"6\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">教育</text>\n  <text x=\"58\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">学制の普及</text>\n  <text x=\"58\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">高い識字率</text>\n  <rect x=\"118\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">娯楽</text>\n  <text x=\"170\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">映画・ラジオ</text>\n  <text x=\"170\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">大衆文化へ</text>\n  <rect x=\"230\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">住まい</text>\n  <text x=\"282\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">文化住宅</text>\n  <text x=\"282\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">和洋折衷</text>\n</svg>\n<figcaption>文化は教養層のものから、都市に暮らす人々のものになった。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>分野と代表</h3>\n\n<table>\n  <tr><th>分野</th><th>人物・事項</th></tr>\n  <tr><td>文学</td><td>夏目漱石、森鷗外、言文一致</td></tr>\n  <tr><td>洋画</td><td>黒田清輝</td></tr>\n  <tr><td>日本美術</td><td>岡倉天心、文化財の再評価</td></tr>\n  <tr><td>医学</td><td>北里柴三郎、野口英世</td></tr>\n  <tr><td>生活</td><td>映画、文化住宅</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>言文一致</td><td>話し言葉に近づけた文体の運動</td></tr>\n  <tr><td>上滑りの開化</td><td>漱石による近代化への批判の言葉</td></tr>\n  <tr><td>廃仏毀釈</td><td>神仏分離に伴う仏教施設の破壊</td></tr>\n  <tr><td>文化住宅</td><td>和洋折衷の都市中間層の住まい</td></tr>\n</table>\n\n<h3>近代文化の二面</h3>\n\n<table>\n  <tr><th>方向</th><th>あらわれ</th></tr>\n  <tr><td>西洋の受容</td><td>洋画、洋装、洋館、西洋医学</td></tr>\n  <tr><td>伝統の再評価</td><td>日本画、文化財保護、美術学校</td></tr>\n  <tr><td>批判的な問い直し</td><td>漱石「上滑りの開化」</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  近代の文化は<b>西洋の単なる模倣ではない</b>。黒田清輝が洋画を確立する一方で岡倉天心は日本美術を再発見し、漱石は急ぎすぎた近代化を批判した。<b>受容と再評価と批判が同時に進んだ</b>格闘の過程である。\n</div>\n\n<blockquote>\n  <p>何を取り入れ、何を残すのか。この問いに正解はなく、だからこそ近代日本の文化は豊かで、そして不安を抱えていた。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "日本史探究",
+  "cards": [
+    {
+      "recto": "『吾輩は猫である』『こころ』などを著し、近代日本人の内面の孤独を描いた作家は誰か。",
+      "verso": "夏目漱石",
+      "explanation": "漱石は英国留学の経験から、外から急いで取り入れた近代化を「上滑りの開化」と呼んで批判した。近代化を内側から問い直した作家である。",
+      "tags": [
+        "近代",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "紫式部",
+          "松尾芭蕉",
+          "井原西鶴"
+        ],
+        "medium": [
+          "森鷗外",
+          "芥川龍之介",
+          "島崎藤村"
+        ],
+        "hard": [
+          "志賀直哉",
+          "二葉亭四迷",
+          "国木田独歩"
+        ]
+      }
+    },
+    {
+      "recto": "軍医として活動しながら『舞姫』『高瀬舟』を著した作家は誰か。",
+      "verso": "森鷗外",
+      "explanation": "鷗外はドイツ留学の経験をもち、軍医総監まで務めながら創作を続けた。西洋の学問と日本の職務を一身に体現した人物である。",
+      "tags": [
+        "近代",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "清少納言",
+          "近松門左衛門",
+          "滝沢馬琴"
+        ],
+        "medium": [
+          "夏目漱石",
+          "芥川龍之介",
+          "谷崎潤一郎"
+        ],
+        "hard": [
+          "幸田露伴",
+          "尾崎紅葉",
+          "坪内逍遙"
+        ]
+      }
+    },
+    {
+      "recto": "話し言葉に近い文体で文章を書こうとした、明治期の文学運動を何というか。",
+      "verso": "言文一致",
+      "explanation": "二葉亭四迷らが試みた言文一致は、書き言葉と話し言葉の距離を縮めた。誰もが読み書きできる近代社会の土台をつくる試みでもあった。",
+      "tags": [
+        "近代",
+        "文化"
+      ],
+      "distractors": {
+        "easy": [
+          "漢文訓読",
+          "候文",
+          "和歌の復興"
+        ],
+        "medium": [
+          "白樺派",
+          "自然主義",
+          "浪漫主義"
+        ],
+        "hard": [
+          "国語調査",
+          "仮名遣い改定",
+          "当用漢字の制定"
+        ]
+      }
+    },
+    {
+      "recto": "フランスで学び、明るい外光の表現を日本にもたらした洋画家は誰か。",
+      "verso": "黒田清輝",
+      "explanation": "黒田清輝は「湖畔」などで柔らかな光を描き、東京美術学校に西洋画科を設けて後進を育てた。日本の洋画を確立した中心人物である。",
+      "tags": [
+        "近代",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "葛飾北斎",
+          "歌川広重",
+          "尾形光琳"
+        ],
+        "medium": [
+          "岡倉天心",
+          "横山大観",
+          "高村光雲"
+        ],
+        "hard": [
+          "浅井忠",
+          "青木繁",
+          "藤島武二"
+        ]
+      }
+    },
+    {
+      "recto": "日本の伝統美術の価値を訴え、東京美術学校の設立に尽力した人物は誰か。",
+      "verso": "岡倉天心",
+      "explanation": "西洋化一辺倒への反省から、天心はフェノロサとともに日本美術の価値を再発見した。伝統は自明のものではなく、意識的に見いだされたのである。",
+      "tags": [
+        "近代",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "夏目漱石",
+          "福沢諭吉",
+          "野口英世"
+        ],
+        "medium": [
+          "黒田清輝",
+          "北里柴三郎",
+          "森鷗外"
+        ],
+        "hard": [
+          "横山大観",
+          "狩野芳崖",
+          "高橋由一"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】黒田清輝と岡倉天心は、近代日本の美術にどのような立場で関わったか。",
+      "verso": "黒田は西洋画の導入と確立を、岡倉は日本美術の価値の再評価を担った",
+      "explanation": "西洋を取り入れる動きと、伝統を守り高める動きは同時に進んだ。どちらか一方ではなく、その緊張関係のなかで近代日本の文化が形づくられた。",
+      "tags": [
+        "comparaison",
+        "近代"
+      ],
+      "distractors": {
+        "easy": [
+          "二人とも西洋画を推進した",
+          "二人とも伝統美術を守った",
+          "黒田が伝統、岡倉が西洋画を担った"
+        ],
+        "medium": [
+          "二人とも文学者である",
+          "二人とも医学者である",
+          "二人とも江戸時代の人物である"
+        ],
+        "hard": [
+          "黒田は彫刻、岡倉は建築を担った",
+          "二人とも美術には関わっていない",
+          "黒田は評論、岡倉は制作を担った"
+        ]
+      }
+    },
+    {
+      "recto": "破傷風の治療法を確立し、伝染病研究所を設けた細菌学者は誰か。",
+      "verso": "北里柴三郎",
+      "explanation": "北里はドイツでコッホに学び、破傷風菌の純粋培養と血清療法に成功した。日本の科学が世界水準の成果を出した最初期の例である。",
+      "tags": [
+        "近代",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "杉田玄白",
+          "伊能忠敬",
+          "平賀源内"
+        ],
+        "medium": [
+          "野口英世",
+          "志賀潔",
+          "高峰譲吉"
+        ],
+        "hard": [
+          "鈴木梅太郎",
+          "秦佐八郎",
+          "山極勝三郎"
+        ]
+      }
+    },
+    {
+      "recto": "黄熱病の研究に生涯を捧げ、アフリカで没した細菌学者は誰か。",
+      "verso": "野口英世",
+      "explanation": "貧しい家に生まれ、幼時の火傷を乗り越えて渡米し研究を重ねた。その生涯は立身出世の物語としても広く語られた。",
+      "tags": [
+        "近代",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "福沢諭吉",
+          "夏目漱石",
+          "田中正造"
+        ],
+        "medium": [
+          "北里柴三郎",
+          "志賀潔",
+          "高峰譲吉"
+        ],
+        "hard": [
+          "鈴木梅太郎",
+          "長岡半太郎",
+          "木村栄"
+        ]
+      }
+    },
+    {
+      "recto": "明治期の学校制度の普及がもたらした、近代日本の大きな特徴は何か。",
+      "verso": "高い就学率と識字率による国民の均質な基礎教育",
+      "explanation": "江戸の寺子屋の蓄積の上に学制が敷かれ、就学率は急速に高まった。これが産業化と近代国家の運営を支えた一方、画一的な国民づくりの手段でもあった。",
+      "tags": [
+        "近代",
+        "教育"
+      ],
+      "distractors": {
+        "easy": [
+          "識字率が下がったこと",
+          "学校がなくなったこと",
+          "教育が禁じられたこと"
+        ],
+        "medium": [
+          "大学だけが発達したこと",
+          "教育が武士に限られたこと",
+          "私塾のみが残ったこと"
+        ],
+        "hard": [
+          "義務教育が廃止されたこと",
+          "外国語のみを教えたこと",
+          "就学率が伸びなかったこと"
+        ]
+      }
+    },
+    {
+      "recto": "大正から昭和初期にかけて、都市の人々の娯楽として広まった新しいメディアは何か。",
+      "verso": "映画（活動写真）",
+      "explanation": "映画館が各地に生まれ、ラジオとともに大衆文化を担った。文化が一部の教養層のものから、都市の勤労者や学生のものへと広がった。",
+      "tags": [
+        "近代",
+        "文化"
+      ],
+      "distractors": {
+        "easy": [
+          "歌舞伎",
+          "能",
+          "浄瑠璃"
+        ],
+        "medium": [
+          "錦絵",
+          "浮世草子",
+          "読本"
+        ],
+        "hard": [
+          "蓄音機のみ",
+          "テレビ",
+          "紙芝居のみ"
+        ]
+      }
+    },
+    {
+      "recto": "都市の会社員家庭のために建てられた、和洋を折衷した新しい住まいを何と呼んだか。",
+      "verso": "文化住宅",
+      "explanation": "応接間や椅子式の生活を取り入れた文化住宅は、都市の中間層の暮らしを象徴した。近代化は制度だけでなく、家の間取りにまで及んだ。",
+      "tags": [
+        "近代",
+        "生活"
+      ],
+      "distractors": {
+        "easy": [
+          "長屋",
+          "町家",
+          "農家"
+        ],
+        "medium": [
+          "武家屋敷",
+          "書院造",
+          "数寄屋造"
+        ],
+        "hard": [
+          "同潤会アパート",
+          "官舎",
+          "土蔵造"
+        ]
+      }
+    },
+    {
+      "recto": "明治政府が神道を重んじ、仏教施設を破壊する動きにつながった政策の結果を何というか。",
+      "verso": "廃仏毀釈",
+      "explanation": "神仏分離令をきっかけに各地で仏像や寺が壊された。近代化のなかで多くの文化財が失われたことが、のちの文化財保護の出発点ともなる。",
+      "tags": [
+        "近代",
+        "文化"
+      ],
+      "distractors": {
+        "easy": [
+          "文明開化",
+          "殖産興業",
+          "富国強兵"
+        ],
+        "medium": [
+          "禁教令",
+          "寺請制度の廃止のみ",
+          "神仏習合"
+        ],
+        "hard": [
+          "寛政異学の禁",
+          "蛮社の獄",
+          "国家神道の完成のみ"
+        ]
+      }
+    },
+    {
+      "recto": "近代日本の文化が置かれた基本的な状況を最もよく表しているものはどれか。",
+      "verso": "西洋の受容と伝統の再評価がせめぎ合いながら進んだこと",
+      "explanation": "洋画と日本画、洋服と和服、洋館と和室が並び立った。どちらかに一本化されなかったことこそ、近代日本の文化の特徴である。",
+      "tags": [
+        "近代",
+        "文化"
+      ],
+      "distractors": {
+        "easy": [
+          "完全に西洋化したこと",
+          "まったく変化しなかったこと",
+          "伝統だけを守ったこと"
+        ],
+        "medium": [
+          "中国文化を受容したこと",
+          "外国と断絶したこと",
+          "文化が衰退したこと"
+        ],
+        "hard": [
+          "江戸文化がそのまま続いたこと",
+          "文化が統制のみで動いたこと",
+          "庶民は関与しなかったこと"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】近代の文化は、西洋のものをそのまま取り入れただけだったのか。",
+      "verso": "いいえ。受容と同時に伝統の再評価も起こり、両者の緊張のなかで独自の文化が生まれた",
+      "explanation": "よくある誤解である。黒田清輝が洋画を確立する一方で岡倉天心は日本美術を再発見し、漱石は「上滑りの開化」を批判した。模倣ではなく格闘の過程であった。",
+      "tags": [
+        "piege",
+        "近代"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。すべて西洋の模倣である",
+          "はい。日本的なものは消えた",
+          "はい。伝統は顧みられなかった"
+        ],
+        "medium": [
+          "はい。日本画は途絶えた",
+          "はい。批判する者はいなかった",
+          "いいえ。西洋は一切入っていない"
+        ],
+        "hard": [
+          "はい。岡倉天心も西洋化を唱えた",
+          "はい。文学は翻訳のみであった",
+          "いいえ。ただし伝統だけが残った"
+        ]
+      }
+    },
+    {
+      "recto": "近代の学問と文化が、その後の日本にもたらしたものとして適切なものはどれか。",
+      "verso": "世界に通じる研究の水準と、伝統を意識的に受け継ぐ姿勢",
+      "explanation": "北里らの成果は日本の科学が国際的に通用することを示し、天心らの活動は文化財保護と伝統芸術の継承につながった。どちらも今日まで続いている。",
+      "tags": [
+        "近代",
+        "意義"
+      ],
+      "distractors": {
+        "easy": [
+          "学問の完全な断絶",
+          "伝統の完全な消滅",
+          "何も残らなかったこと"
+        ],
+        "medium": [
+          "西洋への従属のみ",
+          "鎖国への回帰",
+          "文化の画一化のみ"
+        ],
+        "hard": [
+          "科学の停滞",
+          "文化財の全面的な喪失",
+          "教育制度の崩壊"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、近代日本の文化と学問はどのように性格づけられるか。",
+      "verso": "外から学びながら自らを問い直し、西洋と伝統のあいだで独自の道を探った営み",
+      "explanation": "急速な西洋化は誇りと不安を同時に生んだ。その葛藤こそが漱石の小説にも天心の主張にも表れており、近代日本の文化を理解する鍵となる。",
+      "tags": [
+        "近代",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "西洋の完全な模倣",
+          "伝統の単純な維持",
+          "文化のない時代"
+        ],
+        "medium": [
+          "中国文化の継承のみ",
+          "外国に強制された文化",
+          "庶民と無縁の文化"
+        ],
+        "hard": [
+          "江戸文化の延長にすぎない",
+          "戦後に始まった営み",
+          "政府が全て決めた文化"
+        ]
+      }
+    }
+  ]
+}

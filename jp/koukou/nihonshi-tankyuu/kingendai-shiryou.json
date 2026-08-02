@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-nihonshi-tankyuu-kingendai-shiryou",
+  "title": "史料から読む近現代",
+  "emoji": "🔎",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "日記や回想録、写真・統計・新聞など近現代に特有の史料の性格を知り、それらを批判的に読む方法を身につける。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>史料から読む近現代</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>日本史探究<br>\n  <b>性格：</b>史料を読む方法\n</div>\n\n<blockquote>\n  <p><b>問い。</b>史料が豊富にある近現代で、なぜ「何が起きたか」は簡単に決まらないのだろうか。</p>\n</blockquote>\n\n<p>近現代は<strong>公文書</strong>・<strong>日記</strong>・<strong>回想録</strong>・<strong>写真</strong>・<strong>統計</strong>・<strong>新聞</strong>と史料が豊富である。しかし多いことは、答えが明らかであることを意味しない。誰が何のために残したのかを問い、<strong>突き合わせて読む</strong>こと。そして<strong>残らなかった声</strong>に気づくことが求められる。</p>\n\n<h2>1・近現代の史料の特徴</h2>\n\n<p>活版印刷・写真・行政文書の普及で、史料は爆発的に増えた。少ない史料をつなぐ前近代とは逆に、<strong>膨大な情報から何を選ぶか</strong>が問われる。<strong>公文書</strong>は政策の決定過程を、<strong>日記</strong>は暮らしの実感を、それぞれ違う角度から伝えてくれる。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 122\" role=\"img\" aria-label=\"公文書、個人の記録、メディアという近現代の三種類の史料\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">三つの角度から見る</text>\n  <rect x=\"6\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">公文書</text>\n  <text x=\"58\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">政策の決定過程</text>\n  <text x=\"58\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">作成者の立場</text>\n  <rect x=\"118\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">個人の記録</text>\n  <text x=\"170\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">日記・回想録</text>\n  <text x=\"170\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">暮らしの実感</text>\n  <rect x=\"230\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">メディア</text>\n  <text x=\"282\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">新聞・写真・統計</text>\n  <text x=\"282\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">時代の空気</text>\n</svg>\n<figcaption>どの史料も万能ではなく、それぞれ違うものを写す。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・オーラル・ヒストリー</strong><br>\n  当事者への聞き取りによって記録を残す方法。空襲や沖縄戦、労働の現場など<b>文字に残りにくい経験</b>を明らかにしてきた。証言者が減るなか、急を要する作業でもある。\n</div>\n\n<h2>2・「客観的」に見える史料ほど注意する</h2>\n\n<p><strong>写真</strong>は構図が選ばれており、写っていない部分がある。<strong>統計</strong>は調査の目的と定義で結果が変わり、戦時には操作もされた。<strong>新聞</strong>は速報性をもつ一方、検閲と時代の空気を映す。見かけの客観性に引きずられないことが大切である。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"日記と回想録の史料としての性格の比較\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">いつ書かれたかが効いてくる</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">日記</text>\n  <text x=\"87\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">その時点で書かれる</text>\n  <text x=\"87\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">即時性が高い</text>\n  <text x=\"87\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">視野は限られる</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">回想録</text>\n  <text x=\"253\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">後から書かれる</text>\n  <text x=\"253\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">全体を見渡せる</text>\n  <text x=\"253\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">記憶の変化・自己弁護</text>\n</svg>\n<figcaption>同じ人が同じ出来事を書いても、内容は食い違いうる。</figcaption>\n</figure>\n\n<h2>3・残らなかった声に気づく</h2>\n\n<p>記録を残せる立場にあった人の声ほど多く残る。官庁や企業、知識人の記録は豊富だが、日雇い労働者や移民の記録は乏しい。<strong>残っていないことは、存在しなかったことを意味しない</strong>。敗戦時の文書焼却のように、「ない」こと自体が史料になることもある。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"複数の史料を突き合わせてより確からしい像に近づく手順\">\n  <defs>\n    <marker id=\"ar-njd1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">複数の史料</text>\n  <text x=\"54\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">立場の違う記録</text>\n  <path d=\"M100,68 L118,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-njd1)\"/>\n  <rect x=\"122\" y=\"42\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">食い違いを問う</text>\n  <text x=\"170\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">なぜ違うのか</text>\n  <path d=\"M218,68 L236,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-njd1)\"/>\n  <rect x=\"240\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">確からしい像</text>\n  <text x=\"286\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">偏りを減らす</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">一致ではなく、差から考える</text>\n</svg>\n<figcaption>食い違いを消すのではなく、その理由を考えることが手がかりになる。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>史料の種類と性格</h3>\n\n<table>\n  <tr><th>史料</th><th>強みと注意点</th></tr>\n  <tr><td>公文書</td><td>決定過程が分かる／作成者の立場が入る</td></tr>\n  <tr><td>日記</td><td>即時性が高い／視野が限られる</td></tr>\n  <tr><td>回想録</td><td>内情が分かる／記憶の変化・自己弁護</td></tr>\n  <tr><td>写真</td><td>視覚的／構図と演出がある</td></tr>\n  <tr><td>統計</td><td>全体像／定義と目的に左右される</td></tr>\n  <tr><td>新聞</td><td>時代の空気／検閲と社の立場</td></tr>\n</table>\n\n<h3>読むときの問い</h3>\n\n<table>\n  <tr><th>問い</th><th>ねらい</th></tr>\n  <tr><td>誰が書いたか</td><td>立場と利害を知る</td></tr>\n  <tr><td>いつ書かれたか</td><td>即時か回想かを見分ける</td></tr>\n  <tr><td>何のために</td><td>意図と宛先を考える</td></tr>\n  <tr><td>何が書かれていないか</td><td>欠落そのものを読む</td></tr>\n</table>\n\n<h3>調べ方</h3>\n\n<table>\n  <tr><th>方法</th><th>内容</th></tr>\n  <tr><td>突き合わせ</td><td>立場の違う史料を並べて読む</td></tr>\n  <tr><td>聞き取り</td><td>文字に残らない経験を記録する</td></tr>\n  <tr><td>地域から</td><td>自治体史・郷土資料館・古写真</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  写真や統計のように<b>「客観的」に見える史料ほど注意が要る</b>。写真は構図が選ばれ、統計は定義と目的に左右され、戦時には操作もされた。客観性の見かけに引きずられないことが、近現代史を読む第一歩である。\n</div>\n\n<blockquote>\n  <p>史料が多い時代だからこそ、何を選び、どう読み、何が欠けているかを問い続ける。その姿勢そのものが探究である。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "日本史探究",
+  "cards": [
+    {
+      "recto": "近現代史の史料が前近代のそれと大きく異なる点は何か。",
+      "verso": "量が圧倒的に多く、写真や統計、映像など種類も多様であること",
+      "explanation": "活版印刷・写真・行政文書の普及により史料は爆発的に増えた。少ない史料をつなぎ合わせる前近代とは逆に、膨大な情報から何を選ぶかが問われる。",
+      "tags": [
+        "探究",
+        "方法"
+      ],
+      "distractors": {
+        "easy": [
+          "史料がほとんど残っていないこと",
+          "文字が読めないこと",
+          "何も変わらないこと"
+        ],
+        "medium": [
+          "石碑が中心であること",
+          "口伝えのみであること",
+          "外国語の史料しかないこと"
+        ],
+        "hard": [
+          "公文書が存在しないこと",
+          "写真が使えないこと",
+          "統計が信用できないこと"
+        ]
+      }
+    },
+    {
+      "recto": "政府や役所が作成し、政策の決定過程を知るうえで基本となる史料を何というか。",
+      "verso": "公文書",
+      "explanation": "公文書は政策がどう決まったかを跡づける一次史料である。だが作成者の立場が反映され、都合の悪い記録が残らないこともあるため、批判的に読む必要がある。",
+      "tags": [
+        "探究",
+        "史料"
+      ],
+      "distractors": {
+        "easy": [
+          "小説",
+          "漫画",
+          "広告"
+        ],
+        "medium": [
+          "日記",
+          "回想録",
+          "新聞記事"
+        ],
+        "hard": [
+          "私文書",
+          "書簡",
+          "議事録の要約のみ"
+        ]
+      }
+    },
+    {
+      "recto": "個人が日々書きつけた記録として、公的な文書には残らない生活の実感を伝える史料は何か。",
+      "verso": "日記",
+      "explanation": "兵士や主婦、学生の日記は、政策が人々の暮らしにどう届いたかを教えてくれる。ただし書き手の視野は限られ、検閲を意識して書かれることもある。",
+      "tags": [
+        "探究",
+        "史料"
+      ],
+      "distractors": {
+        "easy": [
+          "法律",
+          "条約",
+          "統計表"
+        ],
+        "medium": [
+          "公文書",
+          "新聞",
+          "教科書"
+        ],
+        "hard": [
+          "官報",
+          "議会議事録",
+          "年表"
+        ]
+      }
+    },
+    {
+      "recto": "後年になって当事者が過去を振り返って書いた記録を何というか。",
+      "verso": "回想録",
+      "explanation": "回想録は当事者しか知らない事情を伝える一方、記憶の変化や自己弁護が入り込みやすい。書かれた時期と目的を確かめることが欠かせない。",
+      "tags": [
+        "探究",
+        "史料"
+      ],
+      "distractors": {
+        "easy": [
+          "日記",
+          "新聞",
+          "統計"
+        ],
+        "medium": [
+          "公文書",
+          "書簡",
+          "業務記録"
+        ],
+        "hard": [
+          "聞き取り記録",
+          "年代記",
+          "議事録"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】日記と回想録は、史料としてどのような違いをもつか。",
+      "verso": "日記はその時点で書かれるため即時性が高く、回想録は後から書かれるため記憶の変化や意図が入りやすい",
+      "explanation": "同じ人物が同じ出来事を書いても、日記と回想録では内容が食い違うことがある。その差そのものが、当時の状況や後年の立場を教えてくれる。",
+      "tags": [
+        "comparaison",
+        "探究"
+      ],
+      "distractors": {
+        "easy": [
+          "どちらも同じものである",
+          "どちらも後から書かれる",
+          "日記が後、回想録がその場で書かれる"
+        ],
+        "medium": [
+          "どちらも公文書の一種である",
+          "どちらも信用できない",
+          "どちらも必ず正確である"
+        ],
+        "hard": [
+          "日記は公開、回想録は非公開である",
+          "回想録のほうが常に正確である",
+          "どちらも二次史料である"
+        ]
+      }
+    },
+    {
+      "recto": "写真を史料として用いるとき、特に注意すべき点は何か。",
+      "verso": "撮影者が構図を選んでおり、写っていない部分や演出の可能性があること",
+      "explanation": "写真は「そのまま」を写すように見えるが、誰が何のために撮ったかで写るものは変わる。戦時の宣伝写真では演出や修整も行われた。",
+      "tags": [
+        "探究",
+        "方法"
+      ],
+      "distractors": {
+        "easy": [
+          "写真は常に真実を写すこと",
+          "色がついていないこと",
+          "枚数が少ないこと"
+        ],
+        "medium": [
+          "古い写真は消えやすいこと",
+          "撮影日が分からないこと",
+          "白黒であること"
+        ],
+        "hard": [
+          "写真は史料にならないこと",
+          "現像に時間がかかること",
+          "個人が撮れなかったこと"
+        ]
+      }
+    },
+    {
+      "recto": "統計を史料として扱うとき、まず確かめるべきことは何か。",
+      "verso": "誰が何のために、どのような基準で集めた数字なのか",
+      "explanation": "統計は客観的に見えるが、調査の目的や項目の定義によって結果は変わる。戦時の生産統計のように、政治的に操作された例もある。",
+      "tags": [
+        "探究",
+        "方法"
+      ],
+      "distractors": {
+        "easy": [
+          "数字の桁数",
+          "紙の大きさ",
+          "印刷の色"
+        ],
+        "medium": [
+          "合計が合っているか",
+          "グラフの形",
+          "発表の場所"
+        ],
+        "hard": [
+          "統計は無条件に正しい",
+          "最新のものかどうかだけ",
+          "外国のものか国内のものかだけ"
+        ]
+      }
+    },
+    {
+      "recto": "新聞を史料として読むとき、意識すべき性格は何か。",
+      "verso": "速報性がある一方、社の立場や時代の空気、検閲の影響を受けていること",
+      "explanation": "新聞はその日に何が問題とされていたかを教えてくれる。しかし戦時には検閲を受け、世論を煽る役割を果たすこともあった。",
+      "tags": [
+        "探究",
+        "史料"
+      ],
+      "distractors": {
+        "easy": [
+          "常に中立であること",
+          "誤りが一切ないこと",
+          "政府の意見と無関係であること"
+        ],
+        "medium": [
+          "発行部数が少ないこと",
+          "地方版が存在しないこと",
+          "写真が載らないこと"
+        ],
+        "hard": [
+          "すべて匿名で書かれること",
+          "検閲を受けなかったこと",
+          "広告が含まれないこと"
+        ]
+      }
+    },
+    {
+      "recto": "文字を残さなかった人々の経験を知るうえで有効な方法は何か。",
+      "verso": "聞き取り（オーラル・ヒストリー）による証言の記録",
+      "explanation": "空襲や沖縄戦、労働の現場など、記録に残りにくい経験は聞き取りによって明らかにされてきた。証言者が減るなか、記録は急を要する作業でもある。",
+      "tags": [
+        "探究",
+        "方法"
+      ],
+      "distractors": {
+        "easy": [
+          "公文書だけを読むこと",
+          "統計だけを見ること",
+          "調べないこと"
+        ],
+        "medium": [
+          "新聞だけを読むこと",
+          "写真だけを集めること",
+          "小説を読むこと"
+        ],
+        "hard": [
+          "年表を作ること",
+          "外国の史料のみ読むこと",
+          "教科書を比較すること"
+        ]
+      }
+    },
+    {
+      "recto": "ひとつの出来事について複数の史料を突き合わせる作業を通じて得られるものは何か。",
+      "verso": "一つの立場に偏らない、より確からしい像",
+      "explanation": "公文書と日記、新聞と写真では見えるものが違う。食い違いを無視せず、なぜ違うのかを考えることが、事実に近づく道である。",
+      "tags": [
+        "探究",
+        "方法"
+      ],
+      "distractors": {
+        "easy": [
+          "最も長い史料の内容",
+          "最も新しい史料の内容",
+          "多数決による結論"
+        ],
+        "medium": [
+          "最も古い史料の内容",
+          "公文書の内容のみ",
+          "すべてが一致する結論"
+        ],
+        "hard": [
+          "解釈を排した事実のみ",
+          "唯一の正解",
+          "史料の平均値"
+        ]
+      }
+    },
+    {
+      "recto": "戦時中の史料を読むときに特に注意すべき事情は何か。",
+      "verso": "検閲と情報統制のもとで書かれ、事実が伏せられたり誇張されたりしていること",
+      "explanation": "戦況の悪化は伏せられ、戦果は誇張された。書かれていることだけでなく、書かれなかったことにも意味がある。",
+      "tags": [
+        "探究",
+        "方法"
+      ],
+      "distractors": {
+        "easy": [
+          "紙が貴重で読みにくいこと",
+          "字が小さいこと",
+          "外国語であること"
+        ],
+        "medium": [
+          "記録が多すぎること",
+          "写真がないこと",
+          "統計が公開されたこと"
+        ],
+        "hard": [
+          "言論が完全に自由だったこと",
+          "新聞が発行されなかったこと",
+          "日記が禁止されたこと"
+        ]
+      }
+    },
+    {
+      "recto": "敗戦時に多くの公文書が失われた理由として知られていることは何か。",
+      "verso": "占領前に組織的に焼却されたこと",
+      "explanation": "責任を問われることを避けるため、各所で文書が焼かれた。史料が「ない」こと自体が、当時の判断を語る史料になりうる。",
+      "tags": [
+        "探究",
+        "史料"
+      ],
+      "distractors": {
+        "easy": [
+          "地震で失われた",
+          "誰も書かなかった",
+          "海外に売却された"
+        ],
+        "medium": [
+          "空襲で全て焼けた",
+          "占領軍が全て持ち去った",
+          "紙不足で作られなかった"
+        ],
+        "hard": [
+          "保存期間が切れた",
+          "整理中に紛失した",
+          "電子化のため廃棄された"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】写真や統計のような「客観的」に見える史料は、そのまま信じてよいのか。",
+      "verso": "いいえ。撮影者や作成者の意図が入るため、他の史料と同じく批判的に読む必要がある",
+      "explanation": "よくある誤解である。写真は構図が選ばれ、統計は定義と目的に左右される。客観的に見える史料ほど、その見かけに注意しなければならない。",
+      "tags": [
+        "piege",
+        "探究"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。写真は真実そのものである",
+          "はい。数字は嘘をつかない",
+          "はい。疑う必要はない"
+        ],
+        "medium": [
+          "はい。公的な統計は正確である",
+          "はい。報道写真は中立である",
+          "いいえ。だから史料として使えない"
+        ],
+        "hard": [
+          "はい。修整は行われていない",
+          "はい。戦時統計も信頼できる",
+          "いいえ。文字史料だけが信用できる"
+        ]
+      }
+    },
+    {
+      "recto": "近現代史を学ぶ者が、史料の残り方について自覚すべきことは何か。",
+      "verso": "記録を残せる立場にあった人の声ほど多く残り、弱い立場の人の声は残りにくいこと",
+      "explanation": "官庁や企業、知識人の記録は豊富だが、日雇い労働者や移民、被差別の立場にある人々の記録は乏しい。残っていないことは、存在しなかったことを意味しない。",
+      "tags": [
+        "探究",
+        "方法"
+      ],
+      "distractors": {
+        "easy": [
+          "すべての人の記録が等しく残ること",
+          "記録は自然に残ること",
+          "特に考える必要はないこと"
+        ],
+        "medium": [
+          "古い記録ほど多く残ること",
+          "個人の記録のほうが多いこと",
+          "残った史料が全てであること"
+        ],
+        "hard": [
+          "公文書だけが偏りをもつこと",
+          "統計には偏りがないこと",
+          "写真は誰でも撮れたこと"
+        ]
+      }
+    },
+    {
+      "recto": "身近な地域の近現代史を調べるとき、有効な史料として適切なものはどれか。",
+      "verso": "自治体史や郷土資料館の所蔵資料、古い写真、地域の人への聞き取り",
+      "explanation": "全国的な出来事が自分の町でどう経験されたかは、地域の史料でしか分からない。手の届く範囲から歴史を確かめる練習になる。",
+      "tags": [
+        "探究",
+        "方法"
+      ],
+      "distractors": {
+        "easy": [
+          "世界史の教科書のみ",
+          "小説と映画のみ",
+          "外国の新聞のみ"
+        ],
+        "medium": [
+          "国の統計のみ",
+          "有名人の伝記のみ",
+          "年表のみ"
+        ],
+        "hard": [
+          "中央官庁の公文書のみ",
+          "国会議事録のみ",
+          "海外の研究書のみ"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、近現代史を史料から読むとはどのような営みか。",
+      "verso": "豊富だが偏りをもつ史料を突き合わせ、誰の声が残り誰の声が消えたかを意識しながら像を組み立てる営み",
+      "explanation": "史料が多いことは、正解が明らかであることを意味しない。何を選び、どう読み、何が欠けているかを問い続けることが、近現代史の探究である。",
+      "tags": [
+        "探究",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "教科書の内容を覚えること",
+          "年号を暗記すること",
+          "有名な史料を読むこと"
+        ],
+        "medium": [
+          "最も多い史料に従うこと",
+          "公文書だけを信じること",
+          "解釈を避けること"
+        ],
+        "hard": [
+          "一次史料だけを集めること",
+          "統計で結論を出すこと",
+          "証言をそのまま採ること"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "id": "kr-godeunghakgyo-hanguksa-segyesa-sok",
+  "title": "세계사 속의 한국사",
+  "emoji": "🌐",
+  "subject": "history",
+  "country": "kr",
+  "courseDescription": "같은 시기 세계에서 무슨 일이 있었는지 견주어 보며, 우리 역사를 세계사의 흐름 속에서 이해한다.",
+  "lesson": "<style>\n  /* SVG 그림 스타일. currentColor(글자색)와 var(--accent)(과목 색)를 사용해\n     앱의 밝은/어두운 테마에 맞춰 표시된다. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Apple SD Gothic Neo\", \"Noto Sans KR\", \"Malgun Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>세계사 속의 한국사</h1>\n\n<div class=\"callout\">\n  <strong>학습 포인트</strong><br>\n  <b>수준:</b> 고등학교<br>\n  <b>주제:</b> 한국사<br>\n  <b>성격:</b> 세계사와의 비교 탐구\n</div>\n\n<blockquote>\n  <p><b>핵심 질문.</b> 우리 역사의 중요한 순간마다, 세계의 다른 곳에서는 무슨 일이 일어나고 있었을까?</p>\n</blockquote>\n\n<p>삼국이 겨루던 때 서로마가 무너졌고, <strong>훈민정음</strong>과 <strong>구텐베르크의 인쇄술</strong>은 거의 같은 시기의 일이다. <strong>개항</strong>은 제국주의의 물결 속에서, <strong>6·25 전쟁</strong>은 <strong>냉전</strong> 속에서 일어났다. 우리 역사는 언제나 세계사의 흐름 안에 있었다.</p>\n\n<h2>1 · 전근대 — 같은 시기, 다른 곳</h2>\n\n<p>삼국이 중앙 집권 국가를 이루던 4~6세기에 유럽에서는 <strong>서로마 제국</strong>이 무너졌다. 고려가 세워질 무렵 중국에는 <strong>송</strong>이 들어섰고, 몽골에 맞서 싸우던 13세기는 <strong>몽골 제국</strong>이 유라시아를 휩쓸던 때였다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 176\" role=\"img\" aria-label=\"한국사의 주요 사건과 같은 시기 세계사의 사건 비교 연표\">\n  <line x1=\"86\" y1=\"20\" x2=\"86\" y2=\"162\" style=\"stroke:var(--accent);stroke-opacity:.35;stroke-width:2\"/>\n  <circle cx=\"86\" cy=\"32\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"80\" y=\"30\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">4~6세기</text>\n  <text x=\"98\" y=\"30\" class=\"s-muted\" font-size=\"8.5\">삼국 경쟁</text>\n  <text x=\"98\" y=\"42\" class=\"s-muted\" font-size=\"8.5\">↔ 서로마 멸망</text>\n  <circle cx=\"86\" cy=\"66\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"80\" y=\"64\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">918</text>\n  <text x=\"98\" y=\"64\" class=\"s-muted\" font-size=\"8.5\">고려 건국</text>\n  <text x=\"98\" y=\"76\" class=\"s-muted\" font-size=\"8.5\">↔ 송 건국(960)</text>\n  <circle cx=\"86\" cy=\"100\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"80\" y=\"98\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">1392</text>\n  <text x=\"98\" y=\"98\" class=\"s-muted\" font-size=\"8.5\">조선 건국</text>\n  <text x=\"98\" y=\"110\" class=\"s-muted\" font-size=\"8.5\">↔ 르네상스</text>\n  <circle cx=\"86\" cy=\"134\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"80\" y=\"132\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">1443</text>\n  <text x=\"98\" y=\"132\" class=\"s-muted\" font-size=\"8.5\">훈민정음</text>\n  <text x=\"98\" y=\"144\" class=\"s-muted\" font-size=\"8.5\">↔ 구텐베르크 인쇄술</text>\n</svg>\n<figcaption>같은 시간대를 나란히 놓으면 역사가 새롭게 보인다.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>개념 · 같은 시대를 나란히 보기</strong><br>\n  우리 역사를 세계사와 <b>같은 시간축 위에 놓고</b> 견주는 방법. 우리만의 특징과 인류가 함께 겪은 흐름이 함께 드러난다.\n</div>\n\n<h2>2 · 근대 — 갈린 길</h2>\n\n<p>일본은 1854년 미국의 함포에, 조선은 1876년 일본의 함포에 문을 열었다. 출발은 비슷했지만 일본은 <strong>메이지 유신</strong>으로 재빨리 근대화하여 뒤에 침략하는 쪽이 되었다. 1919년 우리의 <strong>3·1 운동</strong>은 중국의 <strong>5·4 운동</strong>과 이어져 있었다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"조선과 일본의 개항과 그 이후 갈린 길의 비교\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">비슷한 출발, 다른 결과</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.45;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">일본</text>\n  <text x=\"87\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">1854년 개항</text>\n  <text x=\"87\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">메이지 유신</text>\n  <text x=\"87\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">→ 침략국으로</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">조선</text>\n  <text x=\"253\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">1876년 개항</text>\n  <text x=\"253\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">근대화 시도의 좌절</text>\n  <text x=\"253\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">→ 국권 피탈</text>\n</svg>\n<figcaption>둘 다 함포에 떠밀린 불평등 조약이었으나, 그 뒤가 갈렸다.</figcaption>\n</figure>\n\n<h2>3 · 현대 — 세계와 함께 겪은 일</h2>\n\n<p><strong>6·25 전쟁</strong>은 <strong>냉전</strong>이 열전으로 터진 국제전이었고, <strong>독일</strong>도 같은 시기 분단을 겪었다(1990년 통일). 1987년 <strong>6월 민주 항쟁</strong>은 필리핀·동유럽으로 이어진 세계적 민주화 물결 속에 있었고, 우리의 <strong>산업화</strong>는 드문 성공 사례로 꼽힌다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"세계사의 흐름이 우리 역사에 미친 영향과 우리 역사가 준 영향\">\n  <defs>\n    <marker id=\"ar-krss1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"10\" y=\"44\" width=\"130\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"75\" y=\"64\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">세계사의 흐름</text>\n  <text x=\"75\" y=\"82\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">제국주의 · 냉전</text>\n  <path d=\"M140,60 L196,60\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-krss1)\"/>\n  <path d=\"M196,80 L140,80\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-krss1)\"/>\n  <rect x=\"200\" y=\"44\" width=\"130\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"265\" y=\"64\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">한국사</text>\n  <text x=\"265\" y=\"82\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">3·1 운동 · 한류</text>\n  <text x=\"170\" y=\"26\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">받기만 한 것이 아니라 주기도 했다</text>\n  <text x=\"170\" y=\"112\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">3·1 운동 → 5·4 운동에 영향</text>\n</svg>\n<figcaption>영향은 한 방향으로만 흐르지 않았다.</figcaption>\n</figure>\n\n<h2>핵심 정리</h2>\n\n<h3>같은 시기 비교표</h3>\n\n<table>\n  <tr><th>우리 역사</th><th>같은 무렵 세계</th></tr>\n  <tr><td>삼국의 경쟁 (4~6세기)</td><td>서로마 제국 멸망(476)</td></tr>\n  <tr><td>고려 건국(918)</td><td>송 건국(960)</td></tr>\n  <tr><td>대몽 항쟁(13세기)</td><td>몽골 제국의 팽창</td></tr>\n  <tr><td>조선 건국(1392)</td><td>르네상스의 시작</td></tr>\n  <tr><td>훈민정음(1443)</td><td>구텐베르크 활판 인쇄술</td></tr>\n  <tr><td>개항(1876)</td><td>제국주의의 확산</td></tr>\n  <tr><td>3·1 운동(1919)</td><td>중국 5·4 운동</td></tr>\n  <tr><td>6·25 전쟁(1950)</td><td>냉전 체제</td></tr>\n  <tr><td>6월 민주 항쟁(1987)</td><td>세계적 민주화 물결</td></tr>\n</table>\n\n<h3>핵심 용어</h3>\n\n<table>\n  <tr><th>용어</th><th>뜻</th></tr>\n  <tr><td>메이지 유신</td><td>일본의 근대화 개혁(1868)</td></tr>\n  <tr><td>5·4 운동</td><td>3·1 운동에 영향받은 중국의 운동</td></tr>\n  <tr><td>냉전</td><td>미·소 중심의 대립 질서</td></tr>\n  <tr><td>신흥 공업국</td><td>빠른 산업화를 이룬 나라들</td></tr>\n</table>\n\n<h3>비교에서 얻는 것</h3>\n\n<table>\n  <tr><th>관점</th><th>내용</th></tr>\n  <tr><td>공통점</td><td>제국주의·냉전 등 함께 겪은 흐름</td></tr>\n  <tr><td>차이점</td><td>근대화의 시간 차, 분단의 지속</td></tr>\n  <tr><td>영향</td><td>3·1 운동 → 5·4 운동, 오늘의 한류</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>주의</strong><br>\n  우리 역사는 <b>세계와 동떨어져 흐르지 않았다</b>—고대에는 서역·일본과, 고려는 아라비아 상인과, 근대에는 제국주의 질서 속에서 이어져 있었다. 또 우리는 영향을 받기만 한 것이 아니라 <b>3·1 운동처럼 주기도</b> 했다.\n</div>\n\n<blockquote>\n  <p>지도를 넓히면 우리 역사가 작아지는 것이 아니라, 그 자리가 또렷해진다. 세계 속에서 볼 때 비로소 우리 역사의 특징이 보인다.</p>\n</blockquote>\n",
+  "questionLang": "ko",
+  "answerLang": "ko",
+  "version": 1,
+  "level": "고등학교",
+  "theme": "한국사",
+  "cards": [
+    {
+      "recto": "고구려·백제·신라가 겨루던 4~6세기 무렵, 유럽에서 일어난 큰 변화는?",
+      "verso": "게르만족의 이동과 서로마 제국의 멸망(476년)",
+      "explanation": "삼국이 중앙 집권 국가로 자리 잡던 무렵, 유럽에서는 게르만족의 이동으로 서로마 제국이 무너지고 중세가 시작되었다. 동서에서 새로운 질서가 만들어지던 시기이다.",
+      "tags": [
+        "세계사",
+        "고대"
+      ],
+      "distractors": {
+        "easy": [
+          "산업 혁명",
+          "프랑스 혁명",
+          "제1차 세계 대전"
+        ],
+        "medium": [
+          "십자군 전쟁",
+          "르네상스",
+          "종교 개혁"
+        ],
+        "hard": [
+          "카롤루스 대제의 대관",
+          "노르만 정복",
+          "백년 전쟁"
+        ]
+      }
+    },
+    {
+      "recto": "왕건이 고려를 세운 918년 무렵, 중국에서 새로 들어선 왕조는?",
+      "verso": "송(960년 건국)",
+      "explanation": "고려가 후삼국을 통일할 무렵 중국에서는 당이 무너진 뒤 혼란을 거쳐 송이 들어섰다. 고려는 송과 활발히 교류하며 문화를 발전시켰다.",
+      "tags": [
+        "세계사",
+        "고려"
+      ],
+      "distractors": {
+        "easy": [
+          "진(秦)",
+          "한(漢)",
+          "중화민국"
+        ],
+        "medium": [
+          "당(唐)",
+          "명(明)",
+          "청(淸)"
+        ],
+        "hard": [
+          "원(元)",
+          "수(隋)",
+          "요(遼)"
+        ]
+      }
+    },
+    {
+      "recto": "고려가 몽골의 침입에 맞서던 13세기, 세계에서 일어난 일로 알맞은 것은?",
+      "verso": "몽골 제국이 유라시아 대부분을 정복하여 동서 교류가 활발해진 것",
+      "explanation": "고려의 항쟁은 세계를 휩쓴 몽골 제국의 팽창이라는 흐름 속에 있었다. 몽골의 지배는 고통이었으나, 동서 교류가 넓어지는 계기이기도 했다.",
+      "tags": [
+        "세계사",
+        "고려"
+      ],
+      "distractors": {
+        "easy": [
+          "산업 혁명이 시작되었다",
+          "미국이 독립하였다",
+          "제2차 세계 대전이 일어났다"
+        ],
+        "medium": [
+          "로마 제국이 세워졌다",
+          "이슬람교가 창시되었다",
+          "콜럼버스가 항해하였다"
+        ],
+        "hard": [
+          "프랑스 혁명이 일어났다",
+          "종교 개혁이 시작되었다",
+          "오스만 제국이 멸망하였다"
+        ]
+      }
+    },
+    {
+      "recto": "이성계가 조선을 세운 1392년 무렵, 유럽에서 막 피어나기 시작한 문화 운동은?",
+      "verso": "르네상스",
+      "explanation": "조선이 세워질 무렵 이탈리아에서는 르네상스가 시작되고 있었다. 동아시아에서는 성리학 질서가, 유럽에서는 인간 중심의 문화가 각각 자리 잡아 갔다.",
+      "tags": [
+        "세계사",
+        "조선"
+      ],
+      "distractors": {
+        "easy": [
+          "산업 혁명",
+          "정보 혁명",
+          "프랑스 혁명"
+        ],
+        "medium": [
+          "종교 개혁",
+          "계몽사상",
+          "대공황"
+        ],
+        "hard": [
+          "십자군 전쟁",
+          "백년 전쟁의 시작",
+          "제국주의"
+        ]
+      }
+    },
+    {
+      "recto": "세종이 훈민정음을 만든 1440년대, 유럽에서 지식을 널리 퍼뜨린 발명은?",
+      "verso": "구텐베르크의 활판 인쇄술",
+      "explanation": "훈민정음 창제와 구텐베르크의 인쇄술은 거의 같은 시기의 일이다. 동서에서 각각 지식을 더 많은 사람에게 전하려는 시도가 있었다는 점이 흥미롭다.",
+      "tags": [
+        "세계사",
+        "조선"
+      ],
+      "distractors": {
+        "easy": [
+          "전화기",
+          "컴퓨터",
+          "증기 기관"
+        ],
+        "medium": [
+          "나침반",
+          "화약",
+          "종이"
+        ],
+        "hard": [
+          "망원경",
+          "현미경",
+          "증기선"
+        ]
+      }
+    },
+    {
+      "recto": "임진왜란이 일어난 1592년 무렵, 유럽에서 있었던 일로 알맞은 것은?",
+      "verso": "에스파냐 무적함대가 영국에 패한 뒤 대서양 질서가 바뀌던 때",
+      "explanation": "임진왜란 몇 해 전 영국이 에스파냐의 무적함대를 물리쳤다. 동아시아에서 7년 전쟁이 벌어지던 때, 유럽에서도 바다의 주도권이 바뀌고 있었다.",
+      "tags": [
+        "세계사",
+        "조선"
+      ],
+      "distractors": {
+        "easy": [
+          "로마 제국이 세워졌다",
+          "미국이 독립하였다",
+          "제1차 세계 대전이 일어났다"
+        ],
+        "medium": [
+          "십자군 전쟁이 시작되었다",
+          "프랑스 혁명이 일어났다",
+          "산업 혁명이 완성되었다"
+        ],
+        "hard": [
+          "백년 전쟁이 끝났다",
+          "빈 회의가 열렸다",
+          "베스트팔렌 조약이 맺어졌다"
+        ]
+      }
+    },
+    {
+      "recto": "조선이 강화도 조약으로 개항한 1876년보다 앞서, 일본이 서양식 근대화에 나선 개혁은?",
+      "verso": "메이지 유신(1868년)",
+      "explanation": "일본은 1868년 메이지 유신으로 근대화를 서둘렀고, 그 힘으로 1876년 조선에 개항을 강요하였다. 근대화의 시간 차가 뒤이은 역사를 갈랐다.",
+      "tags": [
+        "세계사",
+        "근대"
+      ],
+      "distractors": {
+        "easy": [
+          "프랑스 혁명",
+          "산업 혁명",
+          "르네상스"
+        ],
+        "medium": [
+          "양무운동",
+          "신해혁명",
+          "태평천국 운동"
+        ],
+        "hard": [
+          "다이카 개신",
+          "에도 막부 성립",
+          "이와쿠라 사절단만"
+        ]
+      }
+    },
+    {
+      "recto": "[비교] 조선의 개항(1876)과 일본의 개항(1854)은 어떤 점에서 비슷하고 달랐는가?",
+      "verso": "둘 다 무력에 떠밀린 불평등 조약이었으나, 일본은 이후 근대화에 성공해 침략국이 되었다",
+      "explanation": "일본은 1854년 미국의 함포에 굴복해 개항했고, 조선은 1876년 일본의 함포에 굴복했다. 출발은 비슷했으나 일본은 재빨리 근대화하여 뒤에 조선을 침략하는 쪽이 되었다.",
+      "tags": [
+        "comparaison",
+        "세계사"
+      ],
+      "distractors": {
+        "easy": [
+          "둘 다 스스로 원해서 개항하였다",
+          "둘 다 대등한 조약이었다",
+          "둘 다 개항하지 않았다"
+        ],
+        "medium": [
+          "조선이 먼저, 일본이 나중에 개항했다",
+          "둘 다 근대화에 실패하였다",
+          "둘 다 서양의 식민지가 되었다"
+        ],
+        "hard": [
+          "조선은 미국, 일본은 러시아에 개항했다",
+          "둘 다 아무 조약도 맺지 않았다",
+          "일본은 대등한 조약을 맺었다"
+        ]
+      }
+    },
+    {
+      "recto": "1919년 우리의 3·1 운동과 같은 해 중국에서 일어난 반제국주의 운동은?",
+      "verso": "5·4 운동",
+      "explanation": "3·1 운동은 중국의 5·4 운동에 영향을 준 것으로 평가된다. 제1차 세계 대전 뒤 민족 자결의 흐름 속에서 아시아 곳곳에서 민족 운동이 일어났다.",
+      "tags": [
+        "세계사",
+        "근대"
+      ],
+      "distractors": {
+        "easy": [
+          "아편 전쟁",
+          "의화단 운동",
+          "문화 대혁명"
+        ],
+        "medium": [
+          "신해혁명",
+          "양무운동",
+          "태평천국 운동"
+        ],
+        "hard": [
+          "국공 합작",
+          "만주 사변",
+          "난징 조약"
+        ]
+      }
+    },
+    {
+      "recto": "6·25 전쟁이 일어난 배경이 된, 제2차 세계 대전 이후의 국제 질서는?",
+      "verso": "미국과 소련을 중심으로 나뉜 냉전 체제",
+      "explanation": "6·25 전쟁은 남북의 대립이면서 동시에 냉전이 열전으로 터진 국제전이었다. 유엔군과 중공군의 참전이 그 성격을 잘 보여 준다.",
+      "tags": [
+        "세계사",
+        "현대"
+      ],
+      "distractors": {
+        "easy": [
+          "제국주의 시대",
+          "대항해 시대",
+          "르네상스"
+        ],
+        "medium": [
+          "국제 연맹 체제",
+          "베르사유 체제",
+          "빈 체제"
+        ],
+        "hard": [
+          "데탕트",
+          "탈냉전 시대",
+          "삼국 협상"
+        ]
+      }
+    },
+    {
+      "recto": "6·25 전쟁 이후 우리나라처럼 분단을 겪었던 유럽의 나라는?",
+      "verso": "독일",
+      "explanation": "독일도 냉전 속에서 동서로 나뉘었으나 1990년 통일을 이루었다. 반면 한반도는 여전히 분단 상태로, 독일의 경험은 우리에게 여러 시사점을 준다.",
+      "tags": [
+        "세계사",
+        "현대"
+      ],
+      "distractors": {
+        "easy": [
+          "프랑스",
+          "영국",
+          "이탈리아"
+        ],
+        "medium": [
+          "베트남은 아시아 나라이다",
+          "오스트리아",
+          "스위스"
+        ],
+        "hard": [
+          "폴란드",
+          "체코슬로바키아",
+          "유고슬라비아"
+        ]
+      }
+    },
+    {
+      "recto": "1987년 6월 민주 항쟁 무렵, 세계 곳곳에서 함께 일어난 흐름은?",
+      "verso": "필리핀·동유럽 등지의 민주화 물결",
+      "explanation": "1986년 필리핀의 민주화, 1989년 동유럽의 변화 등 1980년대 후반은 세계적인 민주화의 시기였다. 우리의 6월 항쟁도 그 흐름 속에 있었다.",
+      "tags": [
+        "세계사",
+        "현대"
+      ],
+      "distractors": {
+        "easy": [
+          "제국주의의 확대",
+          "제1차 세계 대전",
+          "산업 혁명"
+        ],
+        "medium": [
+          "냉전의 시작",
+          "대공황",
+          "제2차 세계 대전"
+        ],
+        "hard": [
+          "빈 체제의 성립",
+          "제국주의 분할",
+          "국제 연맹 창설"
+        ]
+      }
+    },
+    {
+      "recto": "1960~70년대 우리나라의 빠른 경제 성장이 세계사에서 지니는 의미는?",
+      "verso": "식민 지배와 전쟁을 겪은 나라가 짧은 기간에 산업화를 이룬 드문 사례라는 점",
+      "explanation": "우리나라는 원조를 받던 나라에서 원조를 주는 나라가 된 드문 경우이다. 다른 신흥 공업국과 함께 아시아의 성장을 이끈 사례로 평가된다.",
+      "tags": [
+        "세계사",
+        "현대"
+      ],
+      "distractors": {
+        "easy": [
+          "식민지를 넓혀 성장한 사례",
+          "전쟁으로 성장한 사례",
+          "성장하지 못한 사례"
+        ],
+        "medium": [
+          "자원 수출로 성장한 사례",
+          "외국의 원조만으로 성장한 사례",
+          "농업만으로 성장한 사례"
+        ],
+        "hard": [
+          "산업 혁명을 처음 일으킨 사례",
+          "제국주의 국가가 된 사례",
+          "성장 없이 분배만 이룬 사례"
+        ]
+      }
+    },
+    {
+      "recto": "[주의] 우리 역사는 세계사와 동떨어져 홀로 흘러온 역사인가?",
+      "verso": "아니다. 언제나 주변 세계와 영향을 주고받으며 세계사의 흐름 속에 있었다",
+      "explanation": "흔한 오해이다. 고대에는 서역·일본과, 고려는 벽란도로 아라비아까지, 근대에는 제국주의 질서 속에서, 오늘날에는 세계 경제와 문화 속에서 이어져 왔다. 우리 역사는 늘 세계사의 일부였다.",
+      "tags": [
+        "piege",
+        "세계사"
+      ],
+      "distractors": {
+        "easy": [
+          "그렇다. 완전히 고립되어 있었다",
+          "그렇다. 외국과 교류하지 않았다",
+          "그렇다. 세계사와 무관하다"
+        ],
+        "medium": [
+          "그렇다. 개항 이후에야 세계와 만났다",
+          "그렇다. 중국하고만 관계가 있었다",
+          "아니다. 그러나 영향을 받기만 했다"
+        ],
+        "hard": [
+          "그렇다. 고려는 폐쇄적이었다",
+          "그렇다. 20세기에야 세계사에 들어왔다",
+          "아니다. 그러나 준 영향은 없다"
+        ]
+      }
+    },
+    {
+      "recto": "우리 역사를 세계사와 함께 살펴볼 때 얻을 수 있는 것으로 알맞은 것은?",
+      "verso": "우리 역사의 특징과 세계와 공유한 흐름을 함께 볼 수 있게 되는 것",
+      "explanation": "세계사와 견주어 보면 우리 역사에서 특별한 점과 인류가 함께 겪은 흐름이 함께 드러난다. 지나친 자부심이나 자기 비하에 빠지지 않는 균형 잡힌 눈을 갖게 된다.",
+      "tags": [
+        "세계사",
+        "의의"
+      ],
+      "distractors": {
+        "easy": [
+          "우리 역사가 가장 우수함을 아는 것",
+          "다른 나라를 무시하게 되는 것",
+          "외울 것이 늘어나는 것"
+        ],
+        "medium": [
+          "우리 역사를 부끄러워하게 되는 것",
+          "세계사만 중요함을 아는 것",
+          "연도를 더 잘 외우는 것"
+        ],
+        "hard": [
+          "모든 나라의 역사가 같음을 아는 것",
+          "역사에 우열이 있음을 아는 것",
+          "우리 역사가 특별하지 않음을 아는 것"
+        ]
+      }
+    },
+    {
+      "recto": "전체적으로 세계사 속에서 본 우리 역사는 어떤 모습이라고 할 수 있는가?",
+      "verso": "세계의 큰 흐름과 부딪히고 어울리며, 우리만의 길을 만들어 온 역사",
+      "explanation": "몽골의 팽창, 제국주의, 냉전 같은 세계사의 물결은 우리에게도 밀려왔다. 그 속에서 저항하고 받아들이며 우리 나름의 길을 만들어 온 것이 우리 역사이다.",
+      "tags": [
+        "세계사",
+        "정리"
+      ],
+      "distractors": {
+        "easy": [
+          "세계와 무관하게 흘러온 역사",
+          "세계를 정복한 역사",
+          "아무 특징이 없는 역사"
+        ],
+        "medium": [
+          "언제나 앞서 나간 역사",
+          "언제나 뒤처진 역사",
+          "외국이 만들어 준 역사"
+        ],
+        "hard": [
+          "세계사의 흐름을 홀로 이끈 역사",
+          "근대에만 세계와 만난 역사",
+          "영향을 받기만 한 역사"
+        ]
+      }
+    }
+  ]
+}

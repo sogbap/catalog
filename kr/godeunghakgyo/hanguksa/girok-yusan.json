@@ -1,0 +1,432 @@
+{
+  "id": "kr-godeunghakgyo-hanguksa-girok-yusan",
+  "title": "기록 유산과 역사의 보존",
+  "emoji": "📜",
+  "subject": "history",
+  "country": "kr",
+  "courseDescription": "실록과 의궤, 승정원일기 등 우리 기록 유산과 그것을 지켜 온 제도를 살펴보고, 기록이 왜 중요한지 생각해 본다.",
+  "lesson": "<style>\n  /* SVG 그림 스타일. currentColor(글자색)와 var(--accent)(과목 색)를 사용해\n     앱의 밝은/어두운 테마에 맞춰 표시된다. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Apple SD Gothic Neo\", \"Noto Sans KR\", \"Malgun Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>기록 유산과 역사의 보존</h1>\n\n<div class=\"callout\">\n  <strong>학습 포인트</strong><br>\n  <b>수준:</b> 고등학교<br>\n  <b>주제:</b> 한국사<br>\n  <b>성격:</b> 기록 문화와 문화유산\n</div>\n\n<blockquote>\n  <p><b>핵심 질문.</b> 오래전 일을 오늘 우리가 알 수 있는 것은 누구의, 어떤 노력 덕분일까?</p>\n</blockquote>\n\n<p>조선의 <strong>사관</strong>은 왕도 볼 수 없는 기록을 남겼고, 그것을 <strong>사고</strong>에 나누어 보관했기에 전란 속에서도 <strong>『조선왕조실록』</strong>이 살아남았다. <strong>『승정원일기』</strong>·<strong>『의궤』</strong>·<strong>『동의보감』</strong>·<strong>『난중일기』</strong>는 세계가 인정한 기록 유산이 되었다.</p>\n\n<h2>1 · 기록하는 제도</h2>\n\n<p><strong>사관</strong>은 왕의 곁에서 말과 행동을 그대로 적었고, <strong>왕조차 그 기록을 볼 수 없었다</strong>. 왕이 죽으면 <strong>실록청</strong>을 두어 사초와 문서를 모아 실록을 편찬하고, 사초는 없애 비밀을 지켰다. 기록의 공정함을 제도로 보장한 것이다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"사관의 기록에서 실록 편찬, 사고 분산 보관으로 이어지는 과정\">\n  <defs>\n    <marker id=\"ar-krgy1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">사관의 기록</text>\n  <text x=\"54\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">왕도 못 보는 사초</text>\n  <path d=\"M100,68 L118,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-krgy1)\"/>\n  <rect x=\"122\" y=\"42\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">실록청 편찬</text>\n  <text x=\"170\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">왕의 사후에</text>\n  <path d=\"M218,68 L236,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-krgy1)\"/>\n  <rect x=\"240\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">사고 보관</text>\n  <text x=\"286\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">여러 곳에 나눔</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">기록하고, 편찬하고, 흩어 지키다</text>\n</svg>\n<figcaption>기록의 독립성과 분산 보관이라는 두 원칙이 실록을 살렸다.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>개념 · 사고(史庫) 분산 보관</strong><br>\n  실록을 여러 곳에 나누어 보관한 제도. 임진왜란 때 대부분의 사고가 불탔으나 <b>전주 사고본</b>을 사람들이 산으로 옮겨 지켜 낸 덕에 오늘까지 전한다.\n</div>\n\n<h2>2 · 남겨진 기록들</h2>\n\n<p><strong>『승정원일기』</strong>는 날마다 국정을 적어 실록보다도 방대하고, <strong>『의궤』</strong>는 왕실 행사를 그림과 함께 남겨 오늘날 재현이 가능할 정도이다. <strong>『동의보감』</strong>은 백성을 위한 의학서였고, <strong>『난중일기』</strong>는 공적 기록이 놓친 한 사람의 고뇌를 전한다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"조선왕조실록과 의궤가 각각 기록한 내용의 비교\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">무엇을 남겼는가</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">『조선왕조실록』</text>\n  <text x=\"87\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">한 왕의 시대 전체</text>\n  <text x=\"87\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">국정 전반</text>\n  <text x=\"87\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">사관의 눈</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">『의궤』</text>\n  <text x=\"253\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">하나의 행사</text>\n  <text x=\"253\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">절차·물품·참여자</text>\n  <text x=\"253\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">글과 그림</text>\n</svg>\n<figcaption>넓게 남긴 기록과 깊게 남긴 기록이 서로를 채운다.</figcaption>\n</figure>\n\n<h2>3 · 지키는 일, 되찾는 일</h2>\n\n<p>전란과 식민 지배를 거치며 많은 유산이 불타거나 국외로 흩어졌다. <strong>외규장각 의궤</strong>는 병인양요 때 프랑스로, <strong>『직지심체요절』</strong>도 국외에 있다. 보존과 연구, <strong>환수 노력</strong>, 그리고 시민의 관심이 함께 있어야 유산이 지켜진다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 122\" role=\"img\" aria-label=\"문화유산을 지키기 위한 세 가지 노력: 보존, 연구, 환수\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">지키는 세 가지 방법</text>\n  <rect x=\"6\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">보존</text>\n  <text x=\"58\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">과학적 관리</text>\n  <text x=\"58\" y=\"97\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">원형 유지</text>\n  <rect x=\"118\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">연구</text>\n  <text x=\"170\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">번역과 해석</text>\n  <text x=\"170\" y=\"97\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">가치의 규명</text>\n  <rect x=\"230\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">환수</text>\n  <text x=\"282\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">국외 문화재</text>\n  <text x=\"282\" y=\"97\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">되찾기</text>\n</svg>\n<figcaption>두는 것만으로는 지켜지지 않는다.</figcaption>\n</figure>\n\n<h2>핵심 정리</h2>\n\n<h3>주요 기록 유산</h3>\n\n<table>\n  <tr><th>기록물</th><th>내용</th></tr>\n  <tr><td>『조선왕조실록』</td><td>왕의 재위 기간 국정 전반</td></tr>\n  <tr><td>『승정원일기』</td><td>날마다 적은 국정, 방대한 분량</td></tr>\n  <tr><td>『의궤』</td><td>왕실 행사를 글과 그림으로</td></tr>\n  <tr><td>『동의보감』</td><td>우리 약재 중심의 의학서</td></tr>\n  <tr><td>『난중일기』</td><td>이순신의 진중 일기</td></tr>\n</table>\n\n<h3>핵심 용어</h3>\n\n<table>\n  <tr><th>용어</th><th>뜻</th></tr>\n  <tr><td>사관</td><td>왕의 곁에서 사실을 적던 관리</td></tr>\n  <tr><td>사초</td><td>사관이 남긴 기록, 실록의 바탕</td></tr>\n  <tr><td>실록청</td><td>실록을 편찬하던 임시 기구</td></tr>\n  <tr><td>사고</td><td>실록을 나누어 보관하던 창고</td></tr>\n  <tr><td>환수</td><td>국외로 나간 문화재를 되찾는 일</td></tr>\n</table>\n\n<h3>기록이 하는 일</h3>\n\n<table>\n  <tr><th>역할</th><th>보기</th></tr>\n  <tr><td>권력 감시</td><td>왕도 볼 수 없던 사관의 기록</td></tr>\n  <tr><td>진실 규명</td><td>5·18 기록물, 피해자 증언</td></tr>\n  <tr><td>재현과 계승</td><td>『의궤』로 되살린 왕실 행사</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>주의</strong><br>\n  실록이 뛰어난 사료인 것은 맞지만 <b>적힌 내용이 모두 그대로의 사실은 아니다</b>—편찬 시기의 정치 상황이 서술에 영향을 주기도 했다. 훌륭한 사료일수록 더 꼼꼼히 읽어야 한다.\n</div>\n\n<blockquote>\n  <p>왕도 볼 수 없는 기록을 남긴 사람들과, 전쟁 속에서 그 책을 지고 산을 오른 사람들이 있었다. 오늘 우리가 역사를 아는 것은 그들 덕분이다.</p>\n</blockquote>\n",
+  "questionLang": "ko",
+  "answerLang": "ko",
+  "version": 1,
+  "level": "고등학교",
+  "theme": "한국사",
+  "cards": [
+    {
+      "recto": "조선에서 왕의 곁에서 일어난 일을 그대로 적는 일을 맡았던 관리는?",
+      "verso": "사관",
+      "explanation": "사관은 왕의 말과 행동을 빠짐없이 적었고, 왕이라도 그 기록을 함부로 볼 수 없었다. 권력을 감시하는 기록의 힘을 제도로 보장한 것이다.",
+      "tags": [
+        "기록",
+        "제도"
+      ],
+      "distractors": {
+        "easy": [
+          "의사",
+          "화가",
+          "통역관"
+        ],
+        "medium": [
+          "승지",
+          "암행어사",
+          "관찰사"
+        ],
+        "hard": [
+          "춘추관 관원만",
+          "예문관 대제학",
+          "실록청 당상"
+        ]
+      }
+    },
+    {
+      "recto": "사관이 남긴 기록을 왕조차 볼 수 없게 한 원칙이 지닌 뜻은?",
+      "verso": "권력의 눈치를 보지 않고 사실대로 기록하게 하려는 것",
+      "explanation": "왕이 기록을 볼 수 있으면 사관이 두려워 사실을 감출 수 있다. 그래서 열람을 막아 기록의 공정함을 지키려 하였다. 오늘날 언론과 기록의 독립성과 통하는 원칙이다.",
+      "tags": [
+        "기록",
+        "제도"
+      ],
+      "distractors": {
+        "easy": [
+          "왕이 글을 몰랐기 때문에",
+          "종이가 귀했기 때문에",
+          "기록이 비밀이었기 때문에"
+        ],
+        "medium": [
+          "왕이 바빴기 때문에",
+          "사관의 지위가 높았기 때문에",
+          "법으로 금지되어 있지 않았다"
+        ],
+        "hard": [
+          "실록을 늦게 편찬했기 때문에",
+          "왕이 직접 썼기 때문에",
+          "사고에 보관했기 때문에"
+        ]
+      }
+    },
+    {
+      "recto": "왕이 세상을 떠난 뒤 그 재위 기간의 기록을 모아 실록을 편찬하던 임시 기구는?",
+      "verso": "실록청",
+      "explanation": "왕이 죽으면 실록청을 두어 사관들의 기록(사초)과 각 관청의 문서를 모아 실록을 편찬했다. 편찬이 끝나면 사초는 물에 씻어 없애 비밀을 지켰다.",
+      "tags": [
+        "기록",
+        "제도"
+      ],
+      "distractors": {
+        "easy": [
+          "집현전",
+          "규장각",
+          "성균관"
+        ],
+        "medium": [
+          "춘추관",
+          "승정원",
+          "홍문관"
+        ],
+        "hard": [
+          "교서관",
+          "예문관",
+          "비변사"
+        ]
+      }
+    },
+    {
+      "recto": "실록을 여러 곳에 나누어 보관하던 창고를 무엇이라 하는가?",
+      "verso": "사고(史庫)",
+      "explanation": "실록은 한 곳이 불타도 남도록 여러 사고에 나누어 보관하였다. 임진왜란 때 전주 사고본만 살아남았고, 이후에는 산속 깊은 곳으로 옮겨 지켰다.",
+      "tags": [
+        "기록",
+        "제도"
+      ],
+      "distractors": {
+        "easy": [
+          "도서관",
+          "박물관",
+          "서점"
+        ],
+        "medium": [
+          "규장각",
+          "집현전",
+          "장서각"
+        ],
+        "hard": [
+          "춘추관만",
+          "홍문관",
+          "교서관"
+        ]
+      }
+    },
+    {
+      "recto": "임진왜란 때 여러 사고가 불탔지만 실록이 오늘날까지 남을 수 있었던 까닭은?",
+      "verso": "여러 곳에 나누어 보관했고, 전주 사고본을 사람들이 지켜 옮겼기 때문",
+      "explanation": "전쟁으로 대부분의 사고가 불탔으나 전주 사고본은 선비와 백성들이 산속으로 옮겨 지켜 냈다. 분산 보관이라는 제도와 사람들의 노력이 함께 기록을 살렸다.",
+      "tags": [
+        "기록",
+        "보존"
+      ],
+      "distractors": {
+        "easy": [
+          "한 곳에 튼튼히 보관했기 때문에",
+          "왕이 가지고 다녔기 때문에",
+          "전쟁이 없었기 때문에"
+        ],
+        "medium": [
+          "일본이 돌려주었기 때문에",
+          "명이 보관해 주었기 때문에",
+          "돌에 새겨 두었기 때문에"
+        ],
+        "hard": [
+          "금속 활자로 다시 찍었기 때문에",
+          "청이 보관했기 때문에",
+          "규장각에 모아 두었기 때문에"
+        ]
+      }
+    },
+    {
+      "recto": "왕의 비서 기관에서 날마다 국정을 기록하여, 실록보다도 분량이 훨씬 많은 기록물은?",
+      "verso": "『승정원일기』",
+      "explanation": "『승정원일기』는 왕의 비서 기관인 승정원이 날마다 적은 기록으로, 실록보다 훨씬 방대하고 자세하다. 조선의 국정 운영을 생생히 보여 준다.",
+      "tags": [
+        "기록",
+        "유산"
+      ],
+      "distractors": {
+        "easy": [
+          "『난중일기』",
+          "『동의보감』",
+          "『삼국유사』"
+        ],
+        "medium": [
+          "『조선왕조실록』",
+          "『경국대전』",
+          "『일성록』"
+        ],
+        "hard": [
+          "『비변사등록』",
+          "『국조보감』",
+          "『의궤』"
+        ]
+      }
+    },
+    {
+      "recto": "왕실의 혼례나 장례 등 큰 행사를 글과 그림으로 자세히 남긴 조선의 기록물은?",
+      "verso": "『의궤』",
+      "explanation": "『의궤』는 왕실 행사의 절차와 참여자, 쓰인 물품까지 그림을 곁들여 기록한 책이다. 오늘날 그 행사를 그대로 재현할 수 있을 만큼 자세하다.",
+      "tags": [
+        "기록",
+        "유산"
+      ],
+      "distractors": {
+        "easy": [
+          "『난중일기』",
+          "『목민심서』",
+          "『농사직설』"
+        ],
+        "medium": [
+          "『조선왕조실록』",
+          "『승정원일기』",
+          "『삼강행실도』"
+        ],
+        "hard": [
+          "『국조오례의』",
+          "『일성록』",
+          "『동국여지승람』"
+        ]
+      }
+    },
+    {
+      "recto": "[비교] 『조선왕조실록』과 『의궤』는 각각 무엇을 기록한 것인가?",
+      "verso": "실록은 왕의 재위 기간 국정 전반을, 의궤는 왕실의 큰 행사를 글과 그림으로 기록했다",
+      "explanation": "실록은 한 왕의 시대 전체를 사관의 눈으로 남긴 기록이고, 의궤는 하나하나의 행사를 절차와 그림까지 상세히 남긴 기록이다. 범위와 방식이 다르다.",
+      "tags": [
+        "comparaison",
+        "기록"
+      ],
+      "distractors": {
+        "easy": [
+          "둘 다 왕실 행사만 기록했다",
+          "둘 다 전쟁만 기록했다",
+          "실록이 행사, 의궤가 국정을 기록했다"
+        ],
+        "medium": [
+          "둘 다 개인의 일기이다",
+          "둘 다 고려 시대의 기록이다",
+          "실록은 그림책, 의궤는 문서이다"
+        ],
+        "hard": [
+          "둘 다 승정원이 작성했다",
+          "실록은 매일, 의궤는 사후에 썼다",
+          "둘 다 왕이 직접 썼다"
+        ]
+      }
+    },
+    {
+      "recto": "이순신이 임진왜란 7년 동안 진중에서 직접 쓴 일기는?",
+      "verso": "『난중일기』",
+      "explanation": "『난중일기』는 이순신이 전쟁터에서 남긴 개인 기록으로, 전황뿐 아니라 그의 고뇌와 병사들의 삶까지 담고 있다. 공적 기록이 놓치는 결을 보여 주는 1차 사료이다.",
+      "tags": [
+        "기록",
+        "유산"
+      ],
+      "distractors": {
+        "easy": [
+          "『동의보감』",
+          "『농사직설』",
+          "『삼국사기』"
+        ],
+        "medium": [
+          "『징비록』",
+          "『승정원일기』",
+          "『목민심서』"
+        ],
+        "hard": [
+          "『쇄미록』",
+          "『간양록』",
+          "『조선왕조실록』"
+        ]
+      }
+    },
+    {
+      "recto": "허준이 우리 약재와 의술을 집대성하여 펴낸, 백성을 위한 의학서는?",
+      "verso": "『동의보감』",
+      "explanation": "『동의보감』은 구하기 쉬운 우리 약재를 중심으로 병과 치료법을 정리한 의학서이다. 백성이 스스로 병을 다스릴 수 있게 하려는 뜻이 담겨 오늘날 세계 기록 유산이 되었다.",
+      "tags": [
+        "기록",
+        "유산"
+      ],
+      "distractors": {
+        "easy": [
+          "『난중일기』",
+          "『목민심서』",
+          "『삼국유사』"
+        ],
+        "medium": [
+          "『향약집성방』",
+          "『의방유취』",
+          "『농사직설』"
+        ],
+        "hard": [
+          "『침구경험방』",
+          "『방약합편』",
+          "『제중신편』"
+        ]
+      }
+    },
+    {
+      "recto": "우리나라의 기록물이 유네스코 세계 기록 유산에 많이 오른 까닭으로 알맞은 것은?",
+      "verso": "오랫동안 꼼꼼히 기록하고, 전란 속에서도 힘써 지켜 왔기 때문",
+      "explanation": "실록·승정원일기·의궤처럼 상세한 기록을 남긴 전통과, 사고 분산과 사람들의 노력으로 이를 지켜 온 역사가 있었기에 가능하였다. 기록하는 문화 자체가 유산이다.",
+      "tags": [
+        "기록",
+        "의의"
+      ],
+      "distractors": {
+        "easy": [
+          "기록이 적었기 때문에",
+          "외국이 대신 보관했기 때문에",
+          "전쟁이 없었기 때문에"
+        ],
+        "medium": [
+          "최근에 많이 만들었기 때문에",
+          "왕이 직접 썼기 때문에",
+          "그림이 많았기 때문에"
+        ],
+        "hard": [
+          "한 곳에 모아 두었기 때문에",
+          "금속 활자로 찍었기 때문에",
+          "유네스코가 지원했기 때문에"
+        ]
+      }
+    },
+    {
+      "recto": "일제 강점기와 전쟁을 거치며 우리 문화유산이 겪은 어려움으로 알맞은 것은?",
+      "verso": "많은 유물과 기록이 약탈되거나 불타 국외로 흩어진 것",
+      "explanation": "외규장각 의궤가 병인양요 때 프랑스로 반출되고, 『직지심체요절』도 국외에 있는 등 많은 유산이 흩어졌다. 되찾기 위한 노력이 지금도 이어지고 있다.",
+      "tags": [
+        "기록",
+        "보존"
+      ],
+      "distractors": {
+        "easy": [
+          "모두 안전하게 보관되었다",
+          "새로 많이 만들어졌다",
+          "아무 피해가 없었다"
+        ],
+        "medium": [
+          "모두 국내로 돌아왔다",
+          "국가가 모두 사들였다",
+          "유네스코가 지켜 주었다"
+        ],
+        "hard": [
+          "전쟁과는 무관하였다",
+          "기록만 남고 유물은 무사했다",
+          "약탈은 없었고 화재만 있었다"
+        ]
+      }
+    },
+    {
+      "recto": "오늘날 문화유산을 지키기 위해 필요한 일로 알맞은 것은?",
+      "verso": "보존과 연구에 힘쓰고, 국외로 흩어진 유산을 되찾으려 노력하는 것",
+      "explanation": "유산은 두는 것만으로 지켜지지 않는다. 과학적 보존과 꾸준한 연구, 국외 소재 문화재의 환수 노력, 그리고 시민의 관심이 함께 있어야 한다.",
+      "tags": [
+        "기록",
+        "과제"
+      ],
+      "distractors": {
+        "easy": [
+          "창고에 넣어 두기만 하는 것",
+          "복제품으로 바꾸는 것",
+          "관심을 갖지 않는 것"
+        ],
+        "medium": [
+          "모두 외국에 맡기는 것",
+          "공개하지 않는 것",
+          "새것으로 다시 만드는 것"
+        ],
+        "hard": [
+          "원형을 임의로 바꾸는 것",
+          "관광 수입만 늘리는 것",
+          "기록만 남기고 처분하는 것"
+        ]
+      }
+    },
+    {
+      "recto": "[주의] 『조선왕조실록』에 적힌 내용이라면 모두 있는 그대로의 사실로 볼 수 있는가?",
+      "verso": "아니다. 매우 신뢰도가 높지만, 편찬한 이들의 관점이 담기므로 비판적으로 읽어야 한다",
+      "explanation": "흔한 오해이다. 실록은 사관의 독립성이라는 뛰어난 제도 덕에 신뢰도가 높지만, 편찬 시기의 정치 상황이 서술에 영향을 주기도 했다. 뛰어난 사료일수록 더 꼼꼼히 읽어야 한다.",
+      "tags": [
+        "piege",
+        "기록"
+      ],
+      "distractors": {
+        "easy": [
+          "그렇다. 실록은 완벽하다",
+          "그렇다. 오류가 있을 수 없다",
+          "그렇다. 왕이 검토했다"
+        ],
+        "medium": [
+          "그렇다. 사관이 썼으니 완전하다",
+          "그렇다. 세계 기록 유산이므로 정확하다",
+          "아니다. 그래서 사료 가치가 없다"
+        ],
+        "hard": [
+          "그렇다. 사초를 없앴으니 공정하다",
+          "그렇다. 여러 사고에 보관했으므로 정확하다",
+          "아니다. 따라서 실록은 읽을 필요가 없다"
+        ]
+      }
+    },
+    {
+      "recto": "기록을 남기고 지키는 일이 오늘날 우리에게 지니는 뜻으로 알맞은 것은?",
+      "verso": "권력을 감시하고, 잊혀서는 안 될 일을 뒷사람에게 전하는 것",
+      "explanation": "사관이 왕을 기록했듯, 오늘날에도 기록은 권력을 감시한다. 5·18 기록물처럼 아픈 역사를 남긴 기록은 진실을 밝히고 되풀이를 막는 힘이 된다.",
+      "tags": [
+        "기록",
+        "의의"
+      ],
+      "distractors": {
+        "easy": [
+          "옛것을 자랑하기 위한 것",
+          "관광 수입을 위한 것",
+          "특별한 뜻은 없다"
+        ],
+        "medium": [
+          "시험 문제를 내기 위한 것",
+          "박물관을 채우기 위한 것",
+          "외국에 알리기 위한 것"
+        ],
+        "hard": [
+          "전통을 그대로 지키기 위한 것",
+          "권력을 정당화하기 위한 것",
+          "연구자만을 위한 것"
+        ]
+      }
+    },
+    {
+      "recto": "전체적으로 우리 기록 유산의 역사가 보여 주는 것은 무엇인가?",
+      "verso": "꼼꼼히 기록하고 목숨 걸고 지켜 온, 기록을 소중히 여긴 문화의 힘",
+      "explanation": "왕도 볼 수 없는 실록을 남기고, 전쟁 속에서 사고본을 산으로 옮긴 사람들이 있었다. 오늘 우리가 역사를 알 수 있는 것은 그 기록 문화 덕분이다.",
+      "tags": [
+        "기록",
+        "정리"
+      ],
+      "distractors": {
+        "easy": [
+          "기록이 거의 없던 역사",
+          "외국이 대신 기록해 준 역사",
+          "기록이 중요하지 않았던 역사"
+        ],
+        "medium": [
+          "왕만을 위한 기록의 역사",
+          "최근에야 시작된 기록 문화",
+          "전쟁으로 모두 사라진 역사"
+        ],
+        "hard": [
+          "구술로만 전해 온 역사",
+          "그림으로만 남은 역사",
+          "기록을 감춘 역사"
+        ]
+      }
+    }
+  ]
+}

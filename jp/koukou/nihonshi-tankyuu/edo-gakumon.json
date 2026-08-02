@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-nihonshi-tankyuu-edo-gakumon",
+  "title": "江戸の学問と教育",
+  "emoji": "📖",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "国学と蘭学の発達、藩校と寺子屋の広がりを通じて、鎖国下の日本で学問と教育がどのように育ったのかを学ぶ。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>江戸の学問と教育</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>日本史探究<br>\n  <b>時期：</b>18世紀 〜 19世紀前半\n</div>\n\n<blockquote>\n  <p><b>問い。</b>閉ざされたはずの時代に、なぜ豊かな学問と広い教育が育ったのだろうか。</p>\n</blockquote>\n\n<p>内を掘り下げる<strong>国学</strong>と、外に開く<strong>蘭学</strong>が同時に育った。<strong>本居宣長</strong>は『古事記伝』を、<strong>杉田玄白</strong>らは『解体新書』を、<strong>伊能忠敬</strong>は精密な日本地図を残した。<strong>藩校</strong>と<strong>寺子屋</strong>で学びが広く行き渡り、それが次の時代を支える力となる。</p>\n\n<h2>1・国学 ― 内を掘り下げる</h2>\n\n<p><strong>国学</strong>は『古事記』『万葉集』を実証的に読み解き、外来思想が入る前の日本の姿を求めた。<strong>本居宣長</strong>は35年をかけて『古事記伝』を完成させ、「もののあはれ」を日本の本質と考えた。この学問はやがて<strong>尊王思想</strong>の土台ともなる。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"国学と蘭学、内を掘り下げる学問と外を学ぶ学問の比較\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">二つの方向の学問</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">国学</text>\n  <text x=\"87\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">日本の古典を読む</text>\n  <text x=\"87\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">本居宣長『古事記伝』</text>\n  <text x=\"87\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">→ 尊王思想へ</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">蘭学</text>\n  <text x=\"253\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">オランダ語で西洋を学ぶ</text>\n  <text x=\"253\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">『解体新書』・伊能図</text>\n  <text x=\"253\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">→ 近代化の土台へ</text>\n</svg>\n<figcaption>内へ向かう学問と外へ向かう学問が、同じ時代に育った。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・蘭学</strong><br>\n  オランダ語を通じてヨーロッパの学問を研究する学問。<b>徳川吉宗が漢訳洋書の輸入制限をゆるめた</b>ことが発展の大きなきっかけとなった。\n</div>\n\n<h2>2・蘭学 ― 外を学ぶ</h2>\n\n<p><strong>杉田玄白</strong>らは辞書もない状態から解剖書を訳し、『<strong>解体新書</strong>』を刊行した。<strong>伊能忠敬</strong>は17年かけて全国を歩き、驚くほど正確な地図を残した。長崎では<strong>シーボルト</strong>が鳴滝塾で、大坂では緒方洪庵が<strong>適塾</strong>で人材を育てた。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"洋書輸入の緩和から解体新書、伊能図へと続く蘭学の成果\">\n  <defs>\n    <marker id=\"ar-njm1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">洋書輸入の緩和</text>\n  <text x=\"54\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">吉宗の実学奨励</text>\n  <path d=\"M100,68 L118,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-njm1)\"/>\n  <rect x=\"122\" y=\"42\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">蘭学の発達</text>\n  <text x=\"170\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">医学・天文・測量</text>\n  <path d=\"M218,68 L236,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-njm1)\"/>\n  <rect x=\"240\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">近代化の土台</text>\n  <text x=\"286\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">開国後に生きる</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">一つの規制緩和が道を開いた</text>\n</svg>\n<figcaption>鎖国下でも、西洋の知は確かに入り込んでいた。</figcaption>\n</figure>\n\n<h2>3・広がる学びと弾圧</h2>\n\n<p><strong>藩校</strong>で武士の子弟が儒学と武芸を、<strong>寺子屋</strong>で庶民の子が読み書きそろばんを学んだ。石田梅岩の<strong>心学</strong>は商人の営みを肯定した。一方で<strong>蛮社の獄</strong>のように、学問が政治批判に及ぶと幕府は容赦なく弾圧した。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"藩校と寺子屋、身分によって分かれた学びの場の比較\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">身分で分かれた学びの場</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">藩校</text>\n  <text x=\"87\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">武士の子弟</text>\n  <text x=\"87\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">儒学・武芸</text>\n  <text x=\"87\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">藩を担う人材</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">寺子屋</text>\n  <text x=\"253\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">庶民の子</text>\n  <text x=\"253\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">読み・書き・そろばん</text>\n  <text x=\"253\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">高い識字率へ</text>\n</svg>\n<figcaption>学ぶ場は分かれていたが、どちらも広く行き渡った。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>学問の系統</h3>\n\n<table>\n  <tr><th>学問</th><th>内容と代表</th></tr>\n  <tr><td>国学</td><td>日本の古典研究、本居宣長『古事記伝』</td></tr>\n  <tr><td>蘭学</td><td>西洋の学問、杉田玄白『解体新書』</td></tr>\n  <tr><td>測量・地理</td><td>伊能忠敬の全国測量</td></tr>\n  <tr><td>心学</td><td>石田梅岩、商人の営みを肯定</td></tr>\n  <tr><td>朱子学</td><td>幕府の学問、寛政異学の禁</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>国学</td><td>古典から日本古来の精神を探る学問</td></tr>\n  <tr><td>蘭学</td><td>オランダ語で西洋を学ぶ学問</td></tr>\n  <tr><td>藩校</td><td>藩が武士の子弟を教育した学校</td></tr>\n  <tr><td>寺子屋</td><td>庶民の子が読み書きを学んだ場</td></tr>\n  <tr><td>蛮社の獄</td><td>幕政を批判した蘭学者への弾圧</td></tr>\n</table>\n\n<h3>人物</h3>\n\n<table>\n  <tr><th>人物</th><th>はたらき</th></tr>\n  <tr><td>本居宣長</td><td>『古事記伝』、国学の大成</td></tr>\n  <tr><td>杉田玄白</td><td>『解体新書』の翻訳</td></tr>\n  <tr><td>伊能忠敬</td><td>全国測量と精密な日本地図</td></tr>\n  <tr><td>シーボルト</td><td>鳴滝塾で医学を教える</td></tr>\n  <tr><td>緒方洪庵</td><td>適塾で人材を育てる</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  鎖国下でも<b>西洋の学問は入っていた</b>。吉宗が漢訳洋書の輸入制限をゆるめて以降、蘭学は医学・測量で大きな成果を上げ、開国後の急速な近代化を支える土台となった。\n</div>\n\n<blockquote>\n  <p>内を掘る学問と外を学ぶ学問、そして広く行き渡った読み書きの力。この蓄積があったからこそ、次の時代の激変に日本は応じることができた。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "日本史探究",
+  "cards": [
+    {
+      "recto": "儒教や仏教が伝わる以前の日本古来の精神を、古典の研究を通して明らかにしようとした学問は何か。",
+      "verso": "国学",
+      "explanation": "国学は『古事記』『万葉集』などを実証的に読み解き、外来思想以前の日本の姿を求めた。のちに尊王思想と結びつき、幕末の政治運動にも影響を与えた。",
+      "tags": [
+        "江戸",
+        "学問"
+      ],
+      "distractors": {
+        "easy": [
+          "仏教",
+          "キリスト教",
+          "西洋哲学"
+        ],
+        "medium": [
+          "蘭学",
+          "朱子学",
+          "陽明学"
+        ],
+        "hard": [
+          "古学",
+          "心学",
+          "考証学"
+        ]
+      }
+    },
+    {
+      "recto": "本居宣長が35年をかけて完成させ、国学を大成した『古事記』の注釈書は何か。",
+      "verso": "『古事記伝』",
+      "explanation": "本居宣長は『古事記』を一字一句たどって注釈し、44巻の『古事記伝』を完成させた。理屈で飾らない素直な心「もののあはれ」を日本の本質と考えた。",
+      "tags": [
+        "江戸",
+        "学問"
+      ],
+      "distractors": {
+        "easy": [
+          "『解体新書』",
+          "『万葉集』",
+          "『源氏物語』"
+        ],
+        "medium": [
+          "『日本書紀』",
+          "『蘭学事始』",
+          "『日本永代蔵』"
+        ],
+        "hard": [
+          "『万葉考』",
+          "『玉勝間』",
+          "『古史徴』"
+        ]
+      }
+    },
+    {
+      "recto": "オランダ語を通じてヨーロッパの学問を研究した学問を何というか。",
+      "verso": "蘭学",
+      "explanation": "蘭学は医学・天文学・地理学などを扱った。徳川吉宗が漢訳洋書の輸入制限をゆるめたことが、その発展の大きなきっかけとなった。",
+      "tags": [
+        "江戸",
+        "学問"
+      ],
+      "distractors": {
+        "easy": [
+          "国学",
+          "漢学",
+          "神学"
+        ],
+        "medium": [
+          "朱子学",
+          "陽明学",
+          "心学"
+        ],
+        "hard": [
+          "洋学のうち英学のみ",
+          "考証学",
+          "古学"
+        ]
+      }
+    },
+    {
+      "recto": "オランダ語の解剖書を苦心の末に翻訳し、『解体新書』として刊行した中心人物は誰か。",
+      "verso": "杉田玄白（前野良沢らと）",
+      "explanation": "辞書もほとんどない状態から訳し上げた苦労は『蘭学事始』に記されている。実際の解剖と書物を照らし合わせた点で、実証的な精神を示す仕事であった。",
+      "tags": [
+        "江戸",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "本居宣長",
+          "松尾芭蕉",
+          "葛飾北斎"
+        ],
+        "medium": [
+          "伊能忠敬",
+          "平賀源内",
+          "新井白石"
+        ],
+        "hard": [
+          "緒方洪庵",
+          "高野長英",
+          "大槻玄沢"
+        ]
+      }
+    },
+    {
+      "recto": "全国を実際に歩いて測量し、精密な日本地図を作り上げた人物は誰か。",
+      "verso": "伊能忠敬",
+      "explanation": "伊能忠敬は50歳を過ぎてから天文・測量を学び、17年をかけて全国を測量した。その地図の正確さは、のちに来航した外国人をも驚かせた。",
+      "tags": [
+        "江戸",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "マゼラン",
+          "コロンブス",
+          "行基"
+        ],
+        "medium": [
+          "杉田玄白",
+          "本居宣長",
+          "平賀源内"
+        ],
+        "hard": [
+          "高橋至時",
+          "間宮林蔵",
+          "最上徳内"
+        ]
+      }
+    },
+    {
+      "recto": "庶民の子どもが読み・書き・そろばんを学んだ教育の場を何というか。",
+      "verso": "寺子屋",
+      "explanation": "寺子屋は町や村に数多く開かれ、町人や百姓の子が実用的な学びを得た。これにより江戸時代の日本は当時の世界でも高い識字率をもつ社会となった。",
+      "tags": [
+        "江戸",
+        "教育"
+      ],
+      "distractors": {
+        "easy": [
+          "大学",
+          "幼稚園",
+          "予備校"
+        ],
+        "medium": [
+          "藩校",
+          "私塾",
+          "昌平坂学問所"
+        ],
+        "hard": [
+          "郷学",
+          "適塾",
+          "鳴滝塾"
+        ]
+      }
+    },
+    {
+      "recto": "各藩が武士の子弟を教育するために設けた学校を何というか。",
+      "verso": "藩校",
+      "explanation": "藩校では儒学を中心に武芸も学ばせ、藩を支える人材を育てた。幕末には洋学を取り入れる藩校も現れ、近代化を担う人材の供給源となった。",
+      "tags": [
+        "江戸",
+        "教育"
+      ],
+      "distractors": {
+        "easy": [
+          "寺子屋",
+          "幼稚園",
+          "職業訓練所"
+        ],
+        "medium": [
+          "私塾",
+          "国学の塾",
+          "昌平坂学問所は幕府の学問所"
+        ],
+        "hard": [
+          "郷学",
+          "家塾",
+          "寄合"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】藩校と寺子屋は、それぞれ誰が何を学ぶ場であったか。",
+      "verso": "藩校は武士の子弟が儒学・武芸を、寺子屋は庶民の子が読み書きそろばんを学んだ",
+      "explanation": "身分によって学ぶ場も内容も分かれていたが、どちらも広く普及した点が重要である。支配層にも庶民にも学びが行き渡ったことが、幕末以降の変化を支えた。",
+      "tags": [
+        "comparaison",
+        "江戸"
+      ],
+      "distractors": {
+        "easy": [
+          "どちらも武士のための学校である",
+          "どちらも庶民のための学校である",
+          "藩校が庶民、寺子屋が武士の学校"
+        ],
+        "medium": [
+          "どちらも幕府が直接運営した",
+          "どちらも蘭学を教えた",
+          "藩校は明治以降に生まれた"
+        ],
+        "hard": [
+          "藩校は寺が運営していた",
+          "寺子屋では儒学のみを教えた",
+          "どちらも女子は一切通えなかった"
+        ]
+      }
+    },
+    {
+      "recto": "緒方洪庵が大坂に開き、多くの人材を育てた蘭学の私塾を何というか。",
+      "verso": "適塾（適々斎塾）",
+      "explanation": "適塾では福沢諭吉ら、のちに近代日本を担う人々が学んだ。身分にとらわれず実力で学ぶ場が、幕末の変革を準備していた。",
+      "tags": [
+        "江戸",
+        "教育"
+      ],
+      "distractors": {
+        "easy": [
+          "東京大学",
+          "寺子屋",
+          "藩校"
+        ],
+        "medium": [
+          "鳴滝塾",
+          "松下村塾",
+          "昌平坂学問所"
+        ],
+        "hard": [
+          "咸宜園",
+          "芝蘭堂",
+          "古義堂"
+        ]
+      }
+    },
+    {
+      "recto": "長崎で医学を教え、日本の動植物を研究したドイツ人医師は誰か。",
+      "verso": "シーボルト",
+      "explanation": "シーボルトは鳴滝塾で多くの門人を育てたが、国外持ち出しを禁じられた日本地図を持ち出そうとして国外追放となった（シーボルト事件）。",
+      "tags": [
+        "江戸",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "ザビエル",
+          "ペリー",
+          "ハリス"
+        ],
+        "medium": [
+          "ケンペル",
+          "ラクスマン",
+          "レザノフ"
+        ],
+        "hard": [
+          "ツュンベリー",
+          "モース",
+          "クラーク"
+        ]
+      }
+    },
+    {
+      "recto": "石田梅岩が説いた、正直と倹約を重んじて商人の営みを肯定した思想を何というか。",
+      "verso": "心学（石門心学）",
+      "explanation": "心学は「商人の利益は武士の俸禄と同じく正当である」と説き、身分の低いとされた商人に誇りを与えた。町人が自らを肯定する思想である。",
+      "tags": [
+        "江戸",
+        "思想"
+      ],
+      "distractors": {
+        "easy": [
+          "禅",
+          "念仏",
+          "神道"
+        ],
+        "medium": [
+          "国学",
+          "蘭学",
+          "朱子学"
+        ],
+        "hard": [
+          "陽明学",
+          "古学",
+          "報徳思想"
+        ]
+      }
+    },
+    {
+      "recto": "1839年、幕府の対外政策を批判した渡辺崋山・高野長英らが処罰された事件を何というか。",
+      "verso": "蛮社の獄",
+      "explanation": "蘭学者たちが幕府の異国船打払令を批判したことで弾圧された。学問が政治批判につながるとき、幕府がそれを許さなかったことを示す事件である。",
+      "tags": [
+        "江戸",
+        "事件"
+      ],
+      "distractors": {
+        "easy": [
+          "本能寺の変",
+          "島原・天草一揆",
+          "大塩平八郎の乱"
+        ],
+        "medium": [
+          "安政の大獄",
+          "寛政異学の禁",
+          "シーボルト事件"
+        ],
+        "hard": [
+          "生野の変",
+          "紫衣事件",
+          "慶安の変"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】鎖国のもとで、西洋の学問は日本にまったく入ってこなかったのか。",
+      "verso": "いいえ。オランダを通じて蘭学として入り、医学や測量で大きな成果を上げた",
+      "explanation": "よくある誤解である。吉宗が漢訳洋書の輸入制限をゆるめて以降、蘭学は活発になった。『解体新書』や伊能図はその成果であり、幕末の近代化の土台となった。",
+      "tags": [
+        "piege",
+        "江戸"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。まったく入らなかった",
+          "はい。書物は一冊もなかった",
+          "はい。学ぶことは死罪であった"
+        ],
+        "medium": [
+          "はい。医学だけは禁止された",
+          "はい。明治まで西洋の知識はなかった",
+          "いいえ。しかし成果は何もなかった"
+        ],
+        "hard": [
+          "はい。オランダとの交流はなかった",
+          "はい。吉宗が洋書を全面禁止した",
+          "いいえ。ただし英語を通じて入った"
+        ]
+      }
+    },
+    {
+      "recto": "江戸時代に学問と教育が広まったことが、幕末以降に果たした役割は何か。",
+      "verso": "高い識字率と人材の層が、近代化を受け入れる素地となったこと",
+      "explanation": "寺子屋と藩校で広がった学びが、開国後に西洋の制度と技術を急速に取り入れる力になった。近代化の速さは、江戸時代の蓄積に支えられていた。",
+      "tags": [
+        "江戸",
+        "意義"
+      ],
+      "distractors": {
+        "easy": [
+          "近代化を遅らせたこと",
+          "何の役割も果たさなかったこと",
+          "外国の支配を招いたこと"
+        ],
+        "medium": [
+          "鎖国を長引かせたこと",
+          "身分制を強化したこと",
+          "学問を衰退させたこと"
+        ],
+        "hard": [
+          "幕府の権力を強めたこと",
+          "商業を衰退させたこと",
+          "西洋の学問を排除したこと"
+        ]
+      }
+    },
+    {
+      "recto": "国学が幕末の政治に与えた影響として適切なものはどれか。",
+      "verso": "天皇を尊ぶ考えを広め、尊王思想の土台となったこと",
+      "explanation": "外来思想以前の日本を重んじる国学は、天皇を中心に据える見方と結びついた。学問が政治運動の思想的な支えとなった例である。",
+      "tags": [
+        "江戸",
+        "意義"
+      ],
+      "distractors": {
+        "easy": [
+          "西洋化を推し進めたこと",
+          "仏教を国教としたこと",
+          "政治に影響しなかったこと"
+        ],
+        "medium": [
+          "幕府の権威を高めたこと",
+          "開国論の根拠となったこと",
+          "身分制を廃止したこと"
+        ],
+        "hard": [
+          "蘭学を発展させたこと",
+          "朱子学を幕府の学問としたこと",
+          "キリスト教を広めたこと"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、江戸時代の学問と教育はどのような意味をもったといえるか。",
+      "verso": "自国を見つめ直す国学と外を学ぶ蘭学が育ち、広い層に学びが行き渡ったこと",
+      "explanation": "内を掘り下げる国学と外に開く蘭学が同時に育ち、寺子屋・藩校で学びが社会に広がった。この知の蓄積が、次の時代の急激な変化を可能にした。",
+      "tags": [
+        "江戸",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "学問が衰退した時代",
+          "教育が一部の人だけのものだった時代",
+          "何も学ばれなかった時代"
+        ],
+        "medium": [
+          "西洋の学問のみが栄えた時代",
+          "儒学だけが許された時代",
+          "教育が禁じられた時代"
+        ],
+        "hard": [
+          "識字率が非常に低かった時代",
+          "学問が政治と無縁だった時代",
+          "私塾が存在しなかった時代"
+        ]
+      }
+    }
+  ]
+}

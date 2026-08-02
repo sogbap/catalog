@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-nihonshi-tankyuu-hokkaido-okinawa",
+  "title": "北海道と沖縄からみた近代",
+  "emoji": "🗾",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "琉球処分と北海道の開拓、アイヌ・沖縄の人々が経験した同化と戦争を通じて、中央からは見えない近代日本の姿を考える。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>北海道と沖縄からみた近代</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>日本史探究<br>\n  <b>時期：</b>1870年代 〜 現代\n</div>\n\n<blockquote>\n  <p><b>問い。</b>「日本の近代化」という言葉は、列島の南北で暮らす人々にとって何を意味したのだろうか。</p>\n</blockquote>\n\n<p>1879年の<strong>琉球処分</strong>で琉球王国は消え、蝦夷地は<strong>北海道</strong>と改められて<strong>屯田兵</strong>が送られた。<strong>北海道旧土人保護法</strong>と<strong>方言札</strong>が同化を強い、1945年には<strong>沖縄戦</strong>が住民を巻き込んだ。中央から見えない近代がここにある。</p>\n\n<h2>1・二つの編入</h2>\n\n<p>琉球は薩摩と清に<strong>両属</strong>する独自の王国であったが、軍と警察を伴う<strong>琉球処分</strong>で沖縄県とされた。北方では<strong>開拓使</strong>が置かれ、職を失った士族が<strong>屯田兵</strong>として送り込まれた。理由は違っても、住民の意思が問われなかった点は同じである。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"沖縄と北海道が近代日本に編入された経緯の比較\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">南と北、二つの編入</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">沖縄</text>\n  <text x=\"87\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">琉球処分（1879）</text>\n  <text x=\"87\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">王国の消滅</text>\n  <text x=\"87\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">方言札による同化</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">北海道</text>\n  <text x=\"253\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">開拓使・屯田兵</text>\n  <text x=\"253\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">アイヌの土地喪失</text>\n  <text x=\"253\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">旧土人保護法</text>\n</svg>\n<figcaption>南北で理由は違ったが、住民の意思は問われなかった。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・「開拓」という言葉</strong><br>\n  無人の地を切り開いた印象を与えるが、実際にはアイヌの人々が古くから暮らしていた。<b>言葉の選び方が歴史の見え方を左右する</b>ことに注意したい。\n</div>\n\n<h2>2・同化という圧力</h2>\n\n<p>1899年の<strong>北海道旧土人保護法</strong>は「保護」を名のりながら、狩猟・漁労という生業と言語・習俗を否定した。沖縄の学校では<strong>方言札</strong>が使われた。国民をひとつにまとめる政策は、地域の言葉を劣ったものと見なす姿勢を伴っていた。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"編入から同化政策を経て文化の喪失に至る過程\">\n  <defs>\n    <marker id=\"ar-njo1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">編入</text>\n  <text x=\"54\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">中央の都合で</text>\n  <path d=\"M100,68 L118,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-njo1)\"/>\n  <rect x=\"122\" y=\"42\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">同化政策</text>\n  <text x=\"170\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">言葉・習俗の否定</text>\n  <path d=\"M218,68 L236,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-njo1)\"/>\n  <rect x=\"240\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">文化の喪失</text>\n  <text x=\"286\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">回復は今も途上</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">国民をひとつにする、という圧力</text>\n</svg>\n<figcaption>統合の代償は、地域の言葉と生き方に向けられた。</figcaption>\n</figure>\n\n<h2>3・戦争と、その後</h2>\n\n<p>1945年の<strong>沖縄戦</strong>は国内唯一の大規模な地上戦であり、県民の4人に1人が命を落としたとされる。本土が1952年に主権を回復した後も沖縄は米施政下に置かれ、復帰は<strong>1972年</strong>であった。今も<strong>米軍基地</strong>の負担が集中している。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 176\" role=\"img\" aria-label=\"琉球処分から沖縄戦、本土復帰までの年表\">\n  <line x1=\"76\" y1=\"20\" x2=\"76\" y2=\"162\" style=\"stroke:var(--accent);stroke-opacity:.35;stroke-width:2\"/>\n  <circle cx=\"76\" cy=\"32\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"94\" y=\"30\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">1879</text>\n  <text x=\"94\" y=\"43\" class=\"s-muted\" font-size=\"9\">琉球処分・沖縄県設置</text>\n  <circle cx=\"76\" cy=\"66\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"94\" y=\"64\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">1899</text>\n  <text x=\"94\" y=\"77\" class=\"s-muted\" font-size=\"9\">北海道旧土人保護法</text>\n  <circle cx=\"76\" cy=\"100\" r=\"5\" style=\"fill:var(--accent)\"/>\n  <text x=\"94\" y=\"98\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">1945</text>\n  <text x=\"94\" y=\"111\" class=\"s-muted\" font-size=\"9\">沖縄戦</text>\n  <circle cx=\"76\" cy=\"138\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"94\" y=\"136\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">1972</text>\n  <text x=\"94\" y=\"149\" class=\"s-muted\" font-size=\"9\">沖縄の本土復帰</text>\n</svg>\n<figcaption>編入から復帰まで、およそ一世紀の道のり。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>年</th><th>できごと</th></tr>\n  <tr><td>1869</td><td>蝦夷地を北海道と改称、開拓使設置</td></tr>\n  <tr><td>1879</td><td>琉球処分、沖縄県の設置</td></tr>\n  <tr><td>1899</td><td>北海道旧土人保護法</td></tr>\n  <tr><td>1945</td><td>沖縄戦</td></tr>\n  <tr><td>1972</td><td>沖縄の本土復帰</td></tr>\n  <tr><td>1997</td><td>旧土人保護法の廃止</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>琉球処分</td><td>琉球王国を廃し沖縄県とした措置</td></tr>\n  <tr><td>両属</td><td>薩摩と清の双方に属した琉球の立場</td></tr>\n  <tr><td>屯田兵</td><td>警備と開拓を兼ねた移住者</td></tr>\n  <tr><td>北海道旧土人保護法</td><td>アイヌに同化を強いた法律</td></tr>\n  <tr><td>方言札</td><td>沖縄の学校で用いられた標準語強制の罰</td></tr>\n</table>\n\n<h3>共通する経験</h3>\n\n<table>\n  <tr><th>段階</th><th>内容</th></tr>\n  <tr><td>編入</td><td>中央の都合で、住民の意思を問わず</td></tr>\n  <tr><td>同化</td><td>言語・習俗・生業の否定</td></tr>\n  <tr><td>負担</td><td>沖縄戦、そして米軍基地の集中</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  北海道は<b>無人の土地ではなかった</b>。アイヌの人々が古くから暮らし、狩猟と漁労で生活していた。「開拓」という言葉は、その事実を見えにくくする。<b>使う言葉が歴史の見え方を変える</b>ことに自覚的でありたい。\n</div>\n\n<blockquote>\n  <p>周縁から見ると、中央では語られない近代が現れる。それは例外ではなく、近代国家がつくられる過程そのものであった。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "日本史探究",
+  "cards": [
+    {
+      "recto": "1879年、明治政府が琉球王国を廃して沖縄県を設置した一連の措置を何というか。",
+      "verso": "琉球処分",
+      "explanation": "薩摩と清の双方に属していた琉球は、軍と警察を伴う措置によって沖縄県とされた。王国の消滅であり、住民の意思が問われることはなかった。",
+      "tags": [
+        "近代",
+        "地域"
+      ],
+      "distractors": {
+        "easy": [
+          "廃藩置県",
+          "版籍奉還",
+          "大政奉還"
+        ],
+        "medium": [
+          "台湾出兵",
+          "樺太・千島交換条約",
+          "日清戦争"
+        ],
+        "hard": [
+          "琉球藩の設置のみ",
+          "分島改約",
+          "沖縄戦"
+        ]
+      }
+    },
+    {
+      "recto": "琉球王国が近代以前に置かれていた特殊な立場とはどのようなものであったか。",
+      "verso": "薩摩藩の支配を受けながら、同時に中国にも朝貢していた両属の関係",
+      "explanation": "この二重性ゆえに琉球処分は清との外交問題ともなった。日本にも中国にも属さない独自の王国であった歴史が、沖縄の自己認識の底流にある。",
+      "tags": [
+        "近代",
+        "地域"
+      ],
+      "distractors": {
+        "easy": [
+          "完全に独立していた",
+          "オランダの植民地であった",
+          "無人の島であった"
+        ],
+        "medium": [
+          "幕府の直轄領であった",
+          "朝鮮に属していた",
+          "台湾の一部であった"
+        ],
+        "hard": [
+          "対馬藩の支配下にあった",
+          "松前藩が管轄していた",
+          "中国の直轄領であった"
+        ]
+      }
+    },
+    {
+      "recto": "明治政府が蝦夷地を改称し、開拓使を置いて本格的な開発に乗り出した地域はどこか。",
+      "verso": "北海道",
+      "explanation": "ロシアへの備えと資源開発を目的に、政府は開拓使を設けて移民を送り込んだ。この開発は同時に、先住民族であるアイヌの土地と生業を奪う過程でもあった。",
+      "tags": [
+        "近代",
+        "地域"
+      ],
+      "distractors": {
+        "easy": [
+          "沖縄",
+          "九州",
+          "四国"
+        ],
+        "medium": [
+          "樺太",
+          "千島列島",
+          "小笠原諸島"
+        ],
+        "hard": [
+          "台湾",
+          "南洋諸島",
+          "遼東半島"
+        ]
+      }
+    },
+    {
+      "recto": "北海道の警備と開拓を兼ねて、家族とともに移り住んだ人々を何と呼んだか。",
+      "verso": "屯田兵",
+      "explanation": "多くは職を失った士族であった。北方の警備と開墾を同時に担わせるこの制度は、士族授産の側面ももっていた。",
+      "tags": [
+        "近代",
+        "地域"
+      ],
+      "distractors": {
+        "easy": [
+          "水軍",
+          "傭兵",
+          "海兵隊"
+        ],
+        "medium": [
+          "徴兵された兵士",
+          "義勇兵",
+          "郷士"
+        ],
+        "hard": [
+          "開拓使の官吏のみ",
+          "囚人労働者",
+          "移民会社の社員"
+        ]
+      }
+    },
+    {
+      "recto": "1899年に制定され、アイヌに農業を強い、同化を進めた法律を何というか。",
+      "verso": "北海道旧土人保護法",
+      "explanation": "「保護」を名のりながら、狩猟や漁労という生業と言語・習俗を否定し、日本人への同化を強いた法律である。1997年にようやく廃止された。",
+      "tags": [
+        "近代",
+        "制度"
+      ],
+      "distractors": {
+        "easy": [
+          "日本国憲法",
+          "教育基本法",
+          "労働基準法"
+        ],
+        "medium": [
+          "工場法",
+          "治安維持法",
+          "国家総動員法"
+        ],
+        "hard": [
+          "アイヌ文化振興法",
+          "アイヌ施策推進法",
+          "開拓使官有物払下げ令"
+        ]
+      }
+    },
+    {
+      "recto": "アイヌの人々が近代化の過程で失ったものとして適切なものはどれか。",
+      "verso": "土地と狩猟・漁労の生業、そして言語と習俗の自由",
+      "explanation": "サケ漁や鹿猟が制限され、土地は移住者に配分された。名前や言葉も日本式に改めさせられ、文化そのものが否定された。",
+      "tags": [
+        "近代",
+        "社会"
+      ],
+      "distractors": {
+        "easy": [
+          "何も失わなかった",
+          "税の負担だけが増えた",
+          "人口だけが増えた"
+        ],
+        "medium": [
+          "土地のみを失った",
+          "言語のみを失った",
+          "参政権のみを失った"
+        ],
+        "hard": [
+          "交易の独占権のみ",
+          "宗教の自由のみ",
+          "移動の自由のみ"
+        ]
+      }
+    },
+    {
+      "recto": "沖縄で行われた同化政策の代表例として、学校で用いられたものは何か。",
+      "verso": "方言札",
+      "explanation": "沖縄の言葉を話した児童に札を首から下げさせる罰が行われた。標準語の強制は国民統合の手段であり、地域の言葉を劣ったものと見なす姿勢を伴った。",
+      "tags": [
+        "近代",
+        "社会"
+      ],
+      "distractors": {
+        "easy": [
+          "教科書",
+          "通信簿",
+          "給食"
+        ],
+        "medium": [
+          "教育勅語の奉読",
+          "御真影",
+          "学校儀式"
+        ],
+        "hard": [
+          "国語調査",
+          "共通語読本",
+          "訓導の派遣"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】北海道と沖縄が近代日本に組み込まれた過程には、どのような共通点があるか。",
+      "verso": "どちらも中央の都合で編入され、独自の言語・文化を否定する同化政策を受けた",
+      "explanation": "北方の防衛と資源、南方の外交上の位置という理由は違うが、住民の意思を問わずに編入し、言葉と習俗を「改めさせた」点は共通する。",
+      "tags": [
+        "comparaison",
+        "近代"
+      ],
+      "distractors": {
+        "easy": [
+          "どちらも住民の投票で決まった",
+          "どちらも自ら望んで加わった",
+          "どちらも同化政策はなかった"
+        ],
+        "medium": [
+          "どちらも独立を保った",
+          "どちらも外国領となった",
+          "どちらも無人であった"
+        ],
+        "hard": [
+          "北海道のみ同化政策を受けた",
+          "沖縄のみ編入された",
+          "どちらも戦後に編入された"
+        ]
+      }
+    },
+    {
+      "recto": "1945年、住民を巻き込んだ地上戦が行われ、県民の多くが犠牲となった戦いを何というか。",
+      "verso": "沖縄戦",
+      "explanation": "国内で唯一の大規模な地上戦であり、県民の4人に1人が命を落としたとされる。軍による住民の動員や、集団死の悲劇も起きた。",
+      "tags": [
+        "近代",
+        "戦争"
+      ],
+      "distractors": {
+        "easy": [
+          "関ヶ原の戦い",
+          "日本海海戦",
+          "ミッドウェー海戦"
+        ],
+        "medium": [
+          "東京大空襲",
+          "広島への原爆投下",
+          "硫黄島の戦い"
+        ],
+        "hard": [
+          "レイテ沖海戦",
+          "サイパン戦",
+          "本土決戦"
+        ]
+      }
+    },
+    {
+      "recto": "沖縄戦が他の戦場と決定的に異なっていた点は何か。",
+      "verso": "住民が暮らす土地でそのまま地上戦が行われ、多くの民間人が巻き込まれたこと",
+      "explanation": "戦場と生活の場が重なり、避難する場所がなかった。軍隊は住民を守るとは限らないという経験が、戦後の沖縄の記憶に深く刻まれている。",
+      "tags": [
+        "近代",
+        "戦争"
+      ],
+      "distractors": {
+        "easy": [
+          "兵士だけが戦ったこと",
+          "被害がなかったこと",
+          "短時間で終わったこと"
+        ],
+        "medium": [
+          "空襲のみであったこと",
+          "海上の戦いであったこと",
+          "外国で行われたこと"
+        ],
+        "hard": [
+          "降伏が早かったこと",
+          "住民が避難できたこと",
+          "軍が住民を完全に守ったこと"
+        ]
+      }
+    },
+    {
+      "recto": "本土が1952年に主権を回復した後も、沖縄はどのような状態に置かれ続けたか。",
+      "verso": "本土復帰まで20年間、アメリカの施政下に置かれた",
+      "explanation": "講和条約で本土が独立を回復した後も、沖縄は切り離されたままであった。復帰後も広大な米軍基地が残り、負担の偏りが今日まで続いている。",
+      "tags": [
+        "近代",
+        "戦後"
+      ],
+      "distractors": {
+        "easy": [
+          "本土と同時に独立を回復した",
+          "独立国となった",
+          "中国の統治下に入った"
+        ],
+        "medium": [
+          "国際連合の管理下に置かれた",
+          "本土に先んじて復帰した",
+          "無人島とされた"
+        ],
+        "hard": [
+          "信託統治領として独立準備に入った",
+          "北海道と同じ扱いを受けた",
+          "基地はすべて撤去された"
+        ]
+      }
+    },
+    {
+      "recto": "沖縄が本土復帰後も抱え続けている課題として適切なものはどれか。",
+      "verso": "国土面積のわずかな割合に在日米軍施設の多くが集中していること",
+      "explanation": "基地は騒音や事故、事件の負担を地域にもたらしてきた。安全保障の利益は全国が受け、負担は一地域に偏るという構造が問われている。",
+      "tags": [
+        "近代",
+        "現代"
+      ],
+      "distractors": {
+        "easy": [
+          "人口が全くいないこと",
+          "産業が一つもないこと",
+          "課題は何もないこと"
+        ],
+        "medium": [
+          "外国領のままであること",
+          "日本語が通じないこと",
+          "選挙権がないこと"
+        ],
+        "hard": [
+          "独立国であること",
+          "基地が全て撤去されたこと",
+          "本土復帰していないこと"
+        ]
+      }
+    },
+    {
+      "recto": "1997年に北海道旧土人保護法が廃止された後、アイヌをめぐって進んだ動きは何か。",
+      "verso": "アイヌ文化の振興と、先住民族としての位置づけの明確化",
+      "explanation": "文化振興法を経て、2019年の法律でアイヌが先住民族と明記された。奪われた文化を取り戻す動きは、まだ途上にある。",
+      "tags": [
+        "近代",
+        "現代"
+      ],
+      "distractors": {
+        "easy": [
+          "同化政策の強化",
+          "土地のさらなる没収",
+          "何の変化もなかった"
+        ],
+        "medium": [
+          "北海道の分離独立",
+          "アイヌ語の禁止",
+          "保護法の再制定"
+        ],
+        "hard": [
+          "屯田兵制度の復活",
+          "開拓使の再設置",
+          "先住民族認定の撤回"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】北海道は、もともと誰も住んでいない土地を日本が開拓したのか。",
+      "verso": "いいえ。アイヌの人々が古くから暮らし、狩猟・漁労で生活していた土地である",
+      "explanation": "よくある誤解である。「開拓」という言葉は無人の地を切り開いた印象を与えるが、実際には先住のアイヌから土地と生業を奪う過程でもあった。言葉が歴史の見え方を左右する例である。",
+      "tags": [
+        "piege",
+        "近代"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。無人の土地であった",
+          "はい。誰も住んでいなかった",
+          "はい。動物しかいなかった"
+        ],
+        "medium": [
+          "はい。ロシア人だけがいた",
+          "はい。江戸時代に無人化した",
+          "いいえ。しかし住民は移住者のみ"
+        ],
+        "hard": [
+          "はい。松前藩の領民だけがいた",
+          "はい。アイヌは本州から移住した",
+          "いいえ。ただし開拓は行われていない"
+        ]
+      }
+    },
+    {
+      "recto": "中央からではなく北海道や沖縄から近代史を見ることの意義は何か。",
+      "verso": "国家の発展という物語からは見えない、編入と同化の経験が浮かび上がること",
+      "explanation": "「日本の近代化」と一括りに語ると、その過程で何が失われたのかが見えなくなる。周縁から見ることは、歴史をより正確に理解するための方法である。",
+      "tags": [
+        "近代",
+        "意義"
+      ],
+      "distractors": {
+        "easy": [
+          "地方の自慢話を知ること",
+          "観光地を覚えること",
+          "特に意義はない"
+        ],
+        "medium": [
+          "中央の歴史を補強すること",
+          "年号を覚えやすくすること",
+          "地理を学ぶこと"
+        ],
+        "hard": [
+          "中央の歴史を否定すること",
+          "地域間の優劣を決めること",
+          "国家の歴史と切り離すこと"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、北海道と沖縄からみた日本の近代とはどのようなものであったか。",
+      "verso": "中央の論理で編入され、同化を強いられ、戦争と基地の負担を担わされた歴史",
+      "explanation": "琉球処分と北海道開拓、方言札と旧土人保護法、沖縄戦と米軍基地。これらは例外ではなく、近代国家がつくられる過程そのものに組み込まれていた。",
+      "tags": [
+        "近代",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "何の問題もない統合の歴史",
+          "住民が望んだ編入の歴史",
+          "本土と同じ経験の歴史"
+        ],
+        "medium": [
+          "外国に支配された歴史",
+          "近代化と無縁の歴史",
+          "戦争を経験しなかった歴史"
+        ],
+        "hard": [
+          "同化政策のなかった歴史",
+          "戦後に始まった歴史",
+          "中央が優遇した歴史"
+        ]
+      }
+    }
+  ]
+}

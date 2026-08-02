@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-nihonshi-tankyuu-edo-shakai",
+  "title": "江戸の社会と鎖国体制",
+  "emoji": "⛩️",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "幕府による対外統制と四つの口、身分制のもとでの村と町のしくみから、長い平和を支えた江戸社会の姿を学ぶ。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>江戸の社会と鎖国体制</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>日本史探究<br>\n  <b>時期：</b>17世紀 〜 18世紀\n</div>\n\n<blockquote>\n  <p><b>問い。</b>幕府はなぜ対外関係を厳しく管理し、その体制のもとで人々はどのように暮らしたのだろうか。</p>\n</blockquote>\n\n<p>幕府はキリスト教を禁じ、貿易と外交を<strong>四つの口</strong>に限って管理した。これがいわゆる<strong>鎖国</strong>である。国内では<strong>身分制</strong>のもと、<strong>村請制</strong>や<strong>五人組</strong>によって人々が細かく統制された。この統制が、結果として260年余りの長い平和を支えることになった。</p>\n\n<h2>1・禁教と対外統制</h2>\n\n<p>キリスト教が支配をゆるがすことを恐れた幕府は禁教を進め、<strong>寺請制度</strong>で人々を寺に登録させた。<strong>島原・天草一揆</strong>は幕府を強く動揺させ、統制はいっそう厳しくなった。長崎の<strong>出島</strong>ではオランダ・中国との貿易が続き、海外情報も独占的に集められた。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"幕府が対外関係を管理した四つの口とその相手\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">「四つの口」と相手</text>\n  <rect x=\"6\" y=\"28\" width=\"78\" height=\"88\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"45\" y=\"54\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">長崎</text>\n  <text x=\"45\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">オランダ</text>\n  <text x=\"45\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">中国</text>\n  <text x=\"45\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">幕府直轄</text>\n  <rect x=\"90\" y=\"28\" width=\"78\" height=\"88\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"129\" y=\"54\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">対馬</text>\n  <text x=\"129\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">朝鮮</text>\n  <text x=\"129\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">通信使</text>\n  <text x=\"129\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">宗氏</text>\n  <rect x=\"174\" y=\"28\" width=\"78\" height=\"88\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"213\" y=\"54\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">薩摩</text>\n  <text x=\"213\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">琉球王国</text>\n  <text x=\"213\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">中国とも通交</text>\n  <text x=\"213\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">島津氏</text>\n  <rect x=\"258\" y=\"28\" width=\"76\" height=\"88\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"296\" y=\"54\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">松前</text>\n  <text x=\"296\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">アイヌ</text>\n  <text x=\"296\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">交易の独占</text>\n  <text x=\"296\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">松前氏</text>\n</svg>\n<figcaption>閉ざしたのではなく、四つの窓口に絞って管理した。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・鎖国</strong><br>\n  貿易と外交を幕府が独占・管理した体制。<b>断絶ではなく統制</b>であり、「鎖国」という語自体も後の時代につくられたものである。\n</div>\n\n<h2>2・四つの口と周縁の人々</h2>\n\n<p><strong>朝鮮通信使</strong>は対馬を窓口に来日し、<strong>琉球王国</strong>は薩摩の支配下で中国とも通交した。蝦夷地では<strong>松前藩</strong>が交易を独占し、不公正な取引に抗して<strong>シャクシャインの戦い</strong>が起こった。「平和」の外側で強いられた犠牲にも目を向けたい。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"禁教政策が島原・天草一揆を経て対外統制の強化につながる流れ\">\n  <defs>\n    <marker id=\"ar-njs1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">禁教政策</text>\n  <text x=\"54\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">寺請制度</text>\n  <path d=\"M100,68 L118,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-njs1)\"/>\n  <rect x=\"122\" y=\"42\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">島原・天草一揆</text>\n  <text x=\"170\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">1637年</text>\n  <path d=\"M218,68 L236,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-njs1)\"/>\n  <rect x=\"240\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">統制の強化</text>\n  <text x=\"286\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">四つの口へ</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">一揆が体制を固めた</text>\n</svg>\n<figcaption>大きな一揆の経験が、対外統制をいっそう厳しくした。</figcaption>\n</figure>\n\n<h2>3・村と町のしくみ</h2>\n\n<p>人口の約8割を占めた<strong>百姓</strong>は、<strong>村請制</strong>のもとで村ぐるみの責任として年貢を納めた。<strong>五人組</strong>は相互監視と連帯責任を負わせた。城下町の<strong>町人</strong>は政治から遠ざけられたが、やがて経済力を高めて町人文化の担い手となる。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"村に住む百姓と町に住む町人の負担と立場の比較\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">村と町</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">村・百姓</text>\n  <text x=\"87\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">人口の約8割</text>\n  <text x=\"87\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">年貢を負担</text>\n  <text x=\"87\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">村請制・五人組</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">町・町人</text>\n  <text x=\"253\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">商工業を営む</text>\n  <text x=\"253\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">年貢の負担なし</text>\n  <text x=\"253\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">政治には関与できず</text>\n</svg>\n<figcaption>負担の重さと政治的な立場は、身分によって大きく異なった。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>年</th><th>できごと</th></tr>\n  <tr><td>1612〜</td><td>禁教令、寺請制度の整備</td></tr>\n  <tr><td>1637</td><td>島原・天草一揆</td></tr>\n  <tr><td>1641</td><td>オランダ商館を出島へ移す</td></tr>\n  <tr><td>1669</td><td>シャクシャインの戦い</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>鎖国</td><td>幕府が貿易・外交を独占管理した体制</td></tr>\n  <tr><td>四つの口</td><td>長崎・対馬・薩摩・松前の四窓口</td></tr>\n  <tr><td>寺請制度</td><td>寺に登録させ禁教を徹底したしくみ</td></tr>\n  <tr><td>村請制</td><td>年貢を村単位の責任で納めるしくみ</td></tr>\n  <tr><td>五人組</td><td>相互監視と連帯責任の組織</td></tr>\n</table>\n\n<h3>身分と暮らし</h3>\n\n<table>\n  <tr><th>身分</th><th>立場</th></tr>\n  <tr><td>武士</td><td>政治を担い、年貢を受け取る側</td></tr>\n  <tr><td>百姓</td><td>人口の約8割、年貢を納める側</td></tr>\n  <tr><td>町人</td><td>商工業を営み、のちに文化の担い手へ</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  <b>鎖国＝完全な孤立ではない</b>。四つの口で貿易も外交も続き、オランダ風説書で海外情報も得ていた。幕府は交流を<b>断ったのではなく独占した</b>のである。\n</div>\n\n<blockquote>\n  <p>閉ざしたように見えるこの体制のもとで、実は農業も商業も大きく育っていった。次に見るのは、その静かな成長の中身である。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "日本史探究",
+  "cards": [
+    {
+      "recto": "江戸幕府がキリスト教を禁じ、貿易と外交を厳しく統制した体制を何と呼ぶか。",
+      "verso": "鎖国（幕府による対外統制体制）",
+      "explanation": "幕府は貿易の利益と情報を独占し、キリスト教が支配をゆるがすことを恐れて対外関係を統制した。ただし国を完全に閉ざしたわけではない。",
+      "tags": [
+        "江戸",
+        "外交"
+      ],
+      "distractors": {
+        "easy": [
+          "自由貿易",
+          "植民地支配",
+          "領事裁判権"
+        ],
+        "medium": [
+          "開国",
+          "朱印船貿易",
+          "勘合貿易"
+        ],
+        "hard": [
+          "海禁政策のみ",
+          "通信・通商関係の全廃",
+          "南蛮貿易の拡大"
+        ]
+      }
+    },
+    {
+      "recto": "1637年、重い年貢と禁教に苦しむ人々が九州で起こした大規模な一揆を何というか。",
+      "verso": "島原・天草一揆（島原の乱）",
+      "explanation": "天草四郎を指導者として起こったこの一揆は幕府を強く動揺させ、以後、禁教と貿易統制がいっそう強められる契機となった。",
+      "tags": [
+        "江戸",
+        "事件"
+      ],
+      "distractors": {
+        "easy": [
+          "応仁の乱",
+          "本能寺の変",
+          "関ヶ原の戦い"
+        ],
+        "medium": [
+          "大塩平八郎の乱",
+          "シャクシャインの戦い",
+          "承久の乱"
+        ],
+        "hard": [
+          "慶安の変",
+          "由井正雪の乱",
+          "生野の変"
+        ]
+      }
+    },
+    {
+      "recto": "鎖国下でもオランダ・中国との貿易が続けられた、長崎につくられた人工の島は何か。",
+      "verso": "出島",
+      "explanation": "出島にはオランダ商館が置かれ、幕府は「オランダ風説書」によって海外情報を独占的に得ていた。閉ざしつつ情報は確保するしくみである。",
+      "tags": [
+        "江戸",
+        "外交"
+      ],
+      "distractors": {
+        "easy": [
+          "淡路島",
+          "佐渡島",
+          "隠岐"
+        ],
+        "medium": [
+          "平戸",
+          "堺",
+          "博多"
+        ],
+        "hard": [
+          "唐人屋敷",
+          "神戸",
+          "浦賀"
+        ]
+      }
+    },
+    {
+      "recto": "人々がキリスト教徒でないことを寺に証明させ、幕府が宗教を統制した制度を何というか。",
+      "verso": "寺請制度",
+      "explanation": "すべての人がいずれかの寺の檀家となることを義務づけられ、寺は戸籍にあたる宗門改帳を管理した。禁教政策が人々の生活を細かく縛った例である。",
+      "tags": [
+        "江戸",
+        "制度"
+      ],
+      "distractors": {
+        "easy": [
+          "徴兵令",
+          "地租改正",
+          "楽市・楽座"
+        ],
+        "medium": [
+          "五人組",
+          "村請制",
+          "刀狩"
+        ],
+        "hard": [
+          "宗門改のみ",
+          "検地帳",
+          "人返しの法"
+        ]
+      }
+    },
+    {
+      "recto": "将軍の代替わりごとに朝鮮から日本へ派遣された使節を何というか。",
+      "verso": "朝鮮通信使",
+      "explanation": "朝鮮通信使は対馬の宗氏を窓口として来日し、道中では学者や文人と交流した。鎖国下でも国家間の正式な外交が続いていたことを示す。",
+      "tags": [
+        "江戸",
+        "外交"
+      ],
+      "distractors": {
+        "easy": [
+          "遣唐使",
+          "遣隋使",
+          "南蛮人"
+        ],
+        "medium": [
+          "オランダ商館長の江戸参府",
+          "琉球使節",
+          "元の使者"
+        ],
+        "hard": [
+          "倭寇",
+          "勘合貿易の使者",
+          "唐人"
+        ]
+      }
+    },
+    {
+      "recto": "薩摩藩に支配されながら、中国とも通交を続けた南の王国はどこか。",
+      "verso": "琉球王国",
+      "explanation": "琉球は薩摩藩の支配を受けつつ中国への朝貢も続けるという二重の立場に置かれた。幕府はこの通交から利益と情報を得ていた。",
+      "tags": [
+        "江戸",
+        "外交"
+      ],
+      "distractors": {
+        "easy": [
+          "朝鮮",
+          "オランダ",
+          "ロシア"
+        ],
+        "medium": [
+          "蝦夷地",
+          "台湾",
+          "呂宋（ルソン）"
+        ],
+        "hard": [
+          "対馬",
+          "壱岐",
+          "小笠原"
+        ]
+      }
+    },
+    {
+      "recto": "蝦夷地でアイヌとの交易を独占した藩はどこか。",
+      "verso": "松前藩",
+      "explanation": "松前藩は米がとれない代わりにアイヌとの交易の独占を認められた。しかし交易はしだいに不公正になり、アイヌの抵抗を招いた。",
+      "tags": [
+        "江戸",
+        "外交"
+      ],
+      "distractors": {
+        "easy": [
+          "薩摩藩",
+          "長州藩",
+          "土佐藩"
+        ],
+        "medium": [
+          "対馬藩",
+          "会津藩",
+          "加賀藩"
+        ],
+        "hard": [
+          "弘前藩",
+          "盛岡藩",
+          "仙台藩"
+        ]
+      }
+    },
+    {
+      "recto": "1669年、不公正な交易に抵抗してアイヌが起こした戦いを何というか。",
+      "verso": "シャクシャインの戦い",
+      "explanation": "アイヌの首長シャクシャインを中心とする蜂起は鎮圧され、以後アイヌは松前藩への従属を強いられた。江戸の「平和」の外側にあった暴力である。",
+      "tags": [
+        "江戸",
+        "事件"
+      ],
+      "distractors": {
+        "easy": [
+          "島原・天草一揆",
+          "応仁の乱",
+          "承久の乱"
+        ],
+        "medium": [
+          "大塩平八郎の乱",
+          "由井正雪の乱",
+          "コシャマインの戦いは室町期"
+        ],
+        "hard": [
+          "クナシリ・メナシの戦い",
+          "元寇",
+          "刀伊の入寇"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】いわゆる「四つの口」では、それぞれどの相手と関係を保っていたか。",
+      "verso": "長崎＝オランダ・中国、対馬＝朝鮮、薩摩＝琉球、松前＝アイヌ",
+      "explanation": "幕府は四つの窓口を通じて対外関係を管理した。長崎は幕府直轄、他は藩を介した関係で、それぞれ性格が異なる点に注意したい。",
+      "tags": [
+        "comparaison",
+        "江戸"
+      ],
+      "distractors": {
+        "easy": [
+          "すべてオランダとの関係だった",
+          "すべて中国との関係だった",
+          "四つとも幕府の直轄だった"
+        ],
+        "medium": [
+          "長崎＝朝鮮、対馬＝オランダ、薩摩＝アイヌ、松前＝琉球",
+          "四つとも貿易は行われなかった",
+          "長崎＝アイヌ、松前＝中国"
+        ],
+        "hard": [
+          "長崎＝ポルトガル、対馬＝琉球、薩摩＝朝鮮、松前＝ロシア",
+          "四つの口は幕末に設けられた",
+          "薩摩＝オランダ、松前＝朝鮮"
+        ]
+      }
+    },
+    {
+      "recto": "江戸時代の人口の約8割を占め、年貢を負担した身分は何か。",
+      "verso": "百姓",
+      "explanation": "百姓は年貢を納めることで幕府と藩の財政を支えた。幕府は百姓が離村しないよう土地の売買や作物を制限し、生活を細かく統制した。",
+      "tags": [
+        "江戸",
+        "身分"
+      ],
+      "distractors": {
+        "easy": [
+          "武士",
+          "貴族",
+          "僧侶"
+        ],
+        "medium": [
+          "町人",
+          "職人",
+          "商人"
+        ],
+        "hard": [
+          "名主のみ",
+          "本百姓のみ",
+          "水呑百姓のみ"
+        ]
+      }
+    },
+    {
+      "recto": "村の運営を村人自身に任せ、年貢を村全体の責任で納めさせたしくみを何というか。",
+      "verso": "村請制",
+      "explanation": "村請制のもとで名主らが村を運営し、年貢は村単位で納められた。幕府は少ない役人で広い農村を統治でき、村の自治も一定程度保たれた。",
+      "tags": [
+        "江戸",
+        "制度"
+      ],
+      "distractors": {
+        "easy": [
+          "地租改正",
+          "楽市・楽座",
+          "刀狩"
+        ],
+        "medium": [
+          "太閤検地",
+          "兵農分離",
+          "参勤交代"
+        ],
+        "hard": [
+          "五人組",
+          "寺請制度",
+          "石高制のみ"
+        ]
+      }
+    },
+    {
+      "recto": "近隣の数戸をまとめ、年貢納入や犯罪について連帯責任を負わせた組織を何というか。",
+      "verso": "五人組",
+      "explanation": "五人組は相互に監視させ、年貢の未納や禁教への違反に連帯して責任を負わせる制度である。人々を内側から縛るしくみであった。",
+      "tags": [
+        "江戸",
+        "制度"
+      ],
+      "distractors": {
+        "easy": [
+          "町内会",
+          "自警団",
+          "労働組合"
+        ],
+        "medium": [
+          "村請制",
+          "寺請制度",
+          "座"
+        ],
+        "hard": [
+          "惣村",
+          "町衆",
+          "結（ゆい）"
+        ]
+      }
+    },
+    {
+      "recto": "城下町に住み、営業にともなう負担は軽かったが、政治には関与できなかった身分は何か。",
+      "verso": "町人",
+      "explanation": "町人は商工業を営み、年貢の負担がない代わりに政治から遠ざけられていた。しかし経済力を高め、やがて元禄・化政の町人文化の担い手となる。",
+      "tags": [
+        "江戸",
+        "身分"
+      ],
+      "distractors": {
+        "easy": [
+          "武士",
+          "百姓",
+          "公家"
+        ],
+        "medium": [
+          "僧侶",
+          "神官",
+          "浪人"
+        ],
+        "hard": [
+          "職人のみ",
+          "地主のみ",
+          "本百姓"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】鎖国とは、日本が外国と完全に交流を断った状態を指すのか。",
+      "verso": "いいえ。四つの口を通じて貿易も外交も続いており、完全な孤立ではなかった",
+      "explanation": "よくある誤解である。幕府は交流を独占・管理したのであって、断絶したのではない。オランダ風説書で海外情報も得ており、「鎖国」という語自体も後世のものである。",
+      "tags": [
+        "piege",
+        "江戸"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。一切の交流がなかった",
+          "はい。船の出入りは皆無だった",
+          "はい。外国人は一人もいなかった"
+        ],
+        "medium": [
+          "はい。海外の情報は全く入らなかった",
+          "はい。朝鮮とも交流はなかった",
+          "いいえ。しかし貿易は自由であった"
+        ],
+        "hard": [
+          "はい。オランダ商館も存在しなかった",
+          "はい。琉球とも断絶していた",
+          "いいえ。ただし外交関係は一切なかった"
+        ]
+      }
+    },
+    {
+      "recto": "武士が政治を独占し、百姓・町人がそれを支えるという江戸社会の身分のしくみを何というか。",
+      "verso": "身分制社会（士農工商とされてきた身分秩序）",
+      "explanation": "武士・百姓・町人などの身分は原則として世襲され、住む場所や衣服まで定められた。近年では「士農工商」という序列そのものは実態と異なると考えられている。",
+      "tags": [
+        "江戸",
+        "身分"
+      ],
+      "distractors": {
+        "easy": [
+          "四民平等",
+          "民主主義",
+          "普通選挙"
+        ],
+        "medium": [
+          "兵農分離のみ",
+          "封建制の廃止",
+          "身分の自由な移動"
+        ],
+        "hard": [
+          "律令制の身分",
+          "荘園制",
+          "御恩と奉公"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、江戸の社会と対外統制はどのような意味をもったといえるか。",
+      "verso": "対外関係を管理しつつ身分制で社会を安定させ、260年余りの平和を支えた",
+      "explanation": "統制は自由を奪う面をもつ一方で、長い平和のもとで農業・商業・文化が大きく育つ条件ともなった。この安定が近世の豊かな社会を準備した。",
+      "tags": [
+        "江戸",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "絶えず戦乱が続いた",
+          "何の変化もなかった",
+          "外国に支配された"
+        ],
+        "medium": [
+          "身分がなくなり平等になった",
+          "経済が完全に停滞した",
+          "文化が失われた"
+        ],
+        "hard": [
+          "ただちに近代国家となった",
+          "武士が没落し町人が支配した",
+          "対外関係が完全に断絶した"
+        ]
+      }
+    }
+  ]
+}

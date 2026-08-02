@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-nihonshi-tankyuu-kindai-minshuu",
+  "title": "近代化と民衆の負担",
+  "emoji": "⚙️",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "岩倉使節団や秩禄処分から足尾鉱毒事件・女工の労働まで、近代化の代償を誰が負ったのかを民衆の側から考える。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>近代化と民衆の負担</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>日本史探究<br>\n  <b>時期：</b>1870年代 〜 1910年代\n</div>\n\n<blockquote>\n  <p><b>問い。</b>近代化の成果は誰のものであり、その代償は誰が払ったのだろうか。</p>\n</blockquote>\n\n<p><strong>岩倉使節団</strong>が持ち帰った危機感が近代化を加速させた。しかし<strong>秩禄処分</strong>で士族は没落し、<strong>地租</strong>と<strong>徴兵</strong>は農村に重くのしかかった。<strong>足尾鉱毒事件</strong>は村を奪い、輸出を支えた<strong>女工</strong>は過酷な労働を強いられた。成果と代償は同じ過程の表裏である。</p>\n\n<h2>1・使節団が見たもの、士族が失ったもの</h2>\n\n<p><strong>岩倉使節団</strong>は条約改正に失敗したが、欧米との国力差を痛感して内政充実を急ぐ判断を持ち帰った。その財源確保のため<strong>秩禄処分</strong>が行われ、<strong>廃刀令</strong>と合わせて士族は<strong>経済的基盤と誇りを同時に失った</strong>。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"岩倉使節団の帰国から秩禄処分を経て士族の没落に至る流れ\">\n  <defs>\n    <marker id=\"ar-njn1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">岩倉使節団</text>\n  <text x=\"54\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">国力差の実感</text>\n  <path d=\"M100,68 L118,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-njn1)\"/>\n  <rect x=\"122\" y=\"42\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">財源の確保</text>\n  <text x=\"170\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">秩禄処分・地租</text>\n  <path d=\"M218,68 L236,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-njn1)\"/>\n  <rect x=\"240\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">負担は民へ</text>\n  <text x=\"286\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">士族の没落・一揆</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">急ぐほど、誰かに負担が寄る</text>\n</svg>\n<figcaption>近代化を急ぐ決断が、その費用を誰かに負わせた。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・秩禄処分</strong><br>\n  士族に支給していた家禄を廃止し、公債に切り替えた措置。国家財政の3割前後を占めた重荷は消えたが、<b>士族は生活の基盤を失った</b>。\n</div>\n\n<h2>2・農村が担ったもの</h2>\n\n<p><strong>地租改正</strong>は豊凶にかかわらず現金で定額を納めさせるため、農民には重かった。各地の反対一揆を受けて政府は税率を<strong>3％から2.5％へ</strong>引き下げた。<strong>徴兵令</strong>にも<strong>血税一揆</strong>という抵抗が起こる。働き手を奪われることは農家の死活問題であった。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"近代化の利益を受けた側と負担を担った側の比較\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">利益と負担の非対称</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">利益を得た側</text>\n  <text x=\"87\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">政府・財閥</text>\n  <text x=\"87\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">都市の一部</text>\n  <text x=\"87\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">殖産興業の成果</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.45;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">負担を担った側</text>\n  <text x=\"253\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">農民（地租・徴兵）</text>\n  <text x=\"253\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">女工（低賃金労働）</text>\n  <text x=\"253\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">鉱毒被害地の人々</text>\n</svg>\n<figcaption>「国が豊かになる」とき、その原資はどこから来たのか。</figcaption>\n</figure>\n\n<h2>3・公害と労働の現場</h2>\n\n<p><strong>足尾鉱毒事件</strong>は日本最初の大規模公害とされ、被害地の谷中村は廃村とされた。<strong>田中正造</strong>は議員を辞し天皇に直訴してまで訴えた。輸出品の生糸を支えたのは農村から集められた<strong>女工</strong>であり、1911年の<strong>工場法</strong>がようやく最初の保護を定めた。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 122\" role=\"img\" aria-label=\"足尾鉱毒事件、女工の労働、工場法という近代化の代償と対応\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">代償と、遅れてきた対応</text>\n  <rect x=\"6\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">足尾鉱毒</text>\n  <text x=\"58\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">最初の大公害</text>\n  <text x=\"58\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">谷中村の廃村</text>\n  <rect x=\"118\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">女工の労働</text>\n  <text x=\"170\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">長時間・低賃金</text>\n  <text x=\"170\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">生糸輸出を支える</text>\n  <rect x=\"230\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.45;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">工場法</text>\n  <text x=\"282\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">1911年</text>\n  <text x=\"282\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">限定的な保護</text>\n</svg>\n<figcaption>問題が先にあり、制度はいつも遅れてついてきた。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>年</th><th>できごと</th></tr>\n  <tr><td>1871〜73</td><td>岩倉使節団の派遣</td></tr>\n  <tr><td>1873〜77</td><td>地租改正反対一揆 → 税率2.5％へ</td></tr>\n  <tr><td>1876</td><td>秩禄処分・廃刀令</td></tr>\n  <tr><td>1890年代〜</td><td>足尾鉱毒事件の深刻化</td></tr>\n  <tr><td>1911</td><td>工場法の制定</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>岩倉使節団</td><td>欧米を視察した政府首脳の使節団</td></tr>\n  <tr><td>秩禄処分</td><td>士族の家禄を廃止した措置</td></tr>\n  <tr><td>血税一揆</td><td>徴兵令に反対した民衆の一揆</td></tr>\n  <tr><td>足尾鉱毒事件</td><td>日本最初の大規模な公害事件</td></tr>\n  <tr><td>女工</td><td>製糸・紡績を支えた女性労働者</td></tr>\n</table>\n\n<h3>誰が担ったか</h3>\n\n<table>\n  <tr><th>集団</th><th>担った負担</th></tr>\n  <tr><td>士族</td><td>秩禄の廃止、身分の喪失</td></tr>\n  <tr><td>農民</td><td>地租の現金納付、徴兵</td></tr>\n  <tr><td>女工</td><td>長時間労働と低賃金</td></tr>\n  <tr><td>鉱毒被害地</td><td>農地と村そのものの喪失</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  近代化は<b>すべての人に等しく恩恵をもたらしたのではない</b>。鉄道が敷かれ工場が建つ一方で、地租を納める農民、徴兵される若者、鉱毒に苦しむ村、寄宿舎に暮らす女工がいた。<b>成果と代償を両方見る</b>ことが探究の出発点である。\n</div>\n\n<blockquote>\n  <p>国家の成長を語る数字の裏に、名前を持つ一人ひとりの生活があった。歴史をその高さから見下ろさないことが、この単元の課題である。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "日本史探究",
+  "cards": [
+    {
+      "recto": "1871年、条約改正の予備交渉と欧米視察のために派遣された大規模な使節団を何というか。",
+      "verso": "岩倉使節団",
+      "explanation": "岩倉具視を全権とし、大久保利通・木戸孝允・伊藤博文らが約2年間欧米を回った。政府の中枢が長期間国を離れた異例の使節である。",
+      "tags": [
+        "近代",
+        "外交"
+      ],
+      "distractors": {
+        "easy": [
+          "遣唐使",
+          "遣隋使",
+          "朝鮮通信使"
+        ],
+        "medium": [
+          "岩倉使節団は幕末の派遣である",
+          "咸臨丸の渡米",
+          "遣欧使節（幕府）"
+        ],
+        "hard": [
+          "万国博覧会視察団",
+          "ハリスの来日",
+          "シーボルトの帰国"
+        ]
+      }
+    },
+    {
+      "recto": "岩倉使節団が持ち帰った最大の成果は何であったか。",
+      "verso": "条約改正は果たせなかったが、欧米との国力差を痛感し内政の充実を優先する方針を得たこと",
+      "explanation": "改正交渉は相手にされず失敗に終わったが、欧米の産業と制度を実際に見たことが殖産興業・立憲制の導入を急ぐ判断につながった。",
+      "tags": [
+        "近代",
+        "外交"
+      ],
+      "distractors": {
+        "easy": [
+          "条約改正の完全な達成",
+          "欧米との同盟の締結",
+          "領土の獲得"
+        ],
+        "medium": [
+          "関税自主権の回復",
+          "領事裁判権の撤廃",
+          "植民地の獲得"
+        ],
+        "hard": [
+          "日英同盟の締結",
+          "不平等条約の破棄",
+          "万国郵便連合への加盟のみ"
+        ]
+      }
+    },
+    {
+      "recto": "明治政府が士族に支給していた家禄を廃止し、代わりに公債を交付した措置を何というか。",
+      "verso": "秩禄処分",
+      "explanation": "秩禄は国家財政の3割前後を占める重荷であった。廃止によって財政は救われたが、士族は生活の基盤を失い没落していった。",
+      "tags": [
+        "近代",
+        "政策"
+      ],
+      "distractors": {
+        "easy": [
+          "地租改正",
+          "徴兵令",
+          "廃藩置県"
+        ],
+        "medium": [
+          "版籍奉還",
+          "四民平等",
+          "殖産興業"
+        ],
+        "hard": [
+          "家禄奉還の法",
+          "金禄公債証書の発行のみ",
+          "士族授産"
+        ]
+      }
+    },
+    {
+      "recto": "1876年、士族が帯刀することを禁じた法令を何というか。",
+      "verso": "廃刀令",
+      "explanation": "刀は武士の身分の象徴であった。秩禄処分と廃刀令によって士族は経済的基盤と身分の誇りを同時に失い、各地の反乱につながった。",
+      "tags": [
+        "近代",
+        "政策"
+      ],
+      "distractors": {
+        "easy": [
+          "刀狩",
+          "銃刀法",
+          "武家諸法度"
+        ],
+        "medium": [
+          "徴兵令",
+          "四民平等",
+          "秩禄処分"
+        ],
+        "hard": [
+          "散髪脱刀令",
+          "士族授産令",
+          "壬申戸籍"
+        ]
+      }
+    },
+    {
+      "recto": "秩禄処分と廃刀令が士族にもたらしたものとして適切なものはどれか。",
+      "verso": "経済的基盤と身分の誇りをともに失い、没落する者が続出したこと",
+      "explanation": "支配身分であった士族は、近代化の過程で最も大きく地位を落とした集団である。政府は士族授産で救済を試みたが十分ではなかった。",
+      "tags": [
+        "近代",
+        "社会"
+      ],
+      "distractors": {
+        "easy": [
+          "さらに豊かになったこと",
+          "身分が上がったこと",
+          "何も変わらなかったこと"
+        ],
+        "medium": [
+          "全員が官僚になれたこと",
+          "土地を与えられたこと",
+          "軍の指揮官となったこと"
+        ],
+        "hard": [
+          "公債で安定した収入を得たこと",
+          "商業で成功が保証されたこと",
+          "帯刀の特権が拡大したこと"
+        ]
+      }
+    },
+    {
+      "recto": "地租改正に対して各地の農民が起こした抵抗の結果、政府はどう対応したか。",
+      "verso": "税率を地価の3％から2.5％に引き下げた",
+      "explanation": "現金での定額納税は、豊凶にかかわらず負担が固定されるため農民には重かった。各地の一揆を受けて政府が譲歩した数少ない例である。",
+      "tags": [
+        "近代",
+        "社会"
+      ],
+      "distractors": {
+        "easy": [
+          "税率をさらに引き上げた",
+          "地租を廃止した",
+          "何もしなかった"
+        ],
+        "medium": [
+          "米での納税に戻した",
+          "5％に引き上げた",
+          "農民を全員徴兵した"
+        ],
+        "hard": [
+          "地券を廃止した",
+          "検地をやり直した",
+          "税率を1％にした"
+        ]
+      }
+    },
+    {
+      "recto": "徴兵令に対して民衆が示した抵抗を何と呼ぶか。",
+      "verso": "血税一揆（徴兵反対一揆）",
+      "explanation": "告諭の「血税」という表現が誤解も呼び、各地で反対一揆が起こった。跡取り以外が兵にとられることは、農家にとって働き手を奪われることでもあった。",
+      "tags": [
+        "近代",
+        "社会"
+      ],
+      "distractors": {
+        "easy": [
+          "打ちこわし",
+          "百姓一揆",
+          "米騒動"
+        ],
+        "medium": [
+          "地租改正反対一揆",
+          "自由民権運動",
+          "秩父事件"
+        ],
+        "hard": [
+          "新政反対一揆のうち学制反対のみ",
+          "廃仏毀釈",
+          "血盟団事件"
+        ]
+      }
+    },
+    {
+      "recto": "銅山から流れ出た鉱毒が渡良瀬川流域の農地と住民に深刻な被害を与えた事件を何というか。",
+      "verso": "足尾鉱毒事件",
+      "explanation": "日本で最初の大規模な公害事件とされる。国の富国強兵政策が優先され、被害地の谷中村は遊水池とするため廃村とされた。",
+      "tags": [
+        "近代",
+        "公害"
+      ],
+      "distractors": {
+        "easy": [
+          "関東大震災",
+          "阪神・淡路大震災",
+          "東日本大震災"
+        ],
+        "medium": [
+          "水俣病",
+          "イタイイタイ病",
+          "四日市ぜんそく"
+        ],
+        "hard": [
+          "別子銅山煙害事件",
+          "日立鉱山煙害",
+          "神岡鉱山の事件"
+        ]
+      }
+    },
+    {
+      "recto": "田中正造が議会での追及が実らないと見て、議員を辞してまで行った異例の手段は何か。",
+      "verso": "天皇への直訴",
+      "explanation": "直訴は本来許されない行為であり、命がけの訴えであった。制度のなかで声が届かないとき、人は何をするのかを考えさせる出来事である。",
+      "tags": [
+        "近代",
+        "公害"
+      ],
+      "distractors": {
+        "easy": [
+          "外国への亡命",
+          "新聞社の設立",
+          "選挙への再出馬"
+        ],
+        "medium": [
+          "ストライキの指導",
+          "政党の結成",
+          "外国公使への訴え"
+        ],
+        "hard": [
+          "請願書の提出のみ",
+          "裁判の提起",
+          "帝国議会での演説の継続"
+        ]
+      }
+    },
+    {
+      "recto": "製糸・紡績工場で長時間労働に従事した若い女性労働者を何と呼んだか。",
+      "verso": "女工",
+      "explanation": "生糸は日本最大の輸出品であり、その生産を支えたのが農村から集められた若い女性たちであった。外貨獲得の土台に彼女たちの労働があった。",
+      "tags": [
+        "近代",
+        "労働"
+      ],
+      "distractors": {
+        "easy": [
+          "公務員",
+          "教師",
+          "看護師"
+        ],
+        "medium": [
+          "職工",
+          "小作人",
+          "丁稚"
+        ],
+        "hard": [
+          "坑夫",
+          "行商人",
+          "職人"
+        ]
+      }
+    },
+    {
+      "recto": "女工たちの過酷な労働条件を記録し、社会に知らせた著作として知られるものは何か。",
+      "verso": "『女工哀史』（『職工事情』などの調査記録）",
+      "explanation": "1日十数時間の労働、粗末な食事、寄宿舎での拘束が記録されている。統計だけでは見えない一人ひとりの経験を伝える貴重な史料である。",
+      "tags": [
+        "近代",
+        "労働"
+      ],
+      "distractors": {
+        "easy": [
+          "『解体新書』",
+          "『古事記伝』",
+          "『奥の細道』"
+        ],
+        "medium": [
+          "『学問のすゝめ』",
+          "『武士道』",
+          "『三四郎』"
+        ],
+        "hard": [
+          "『貧乏物語』",
+          "『日本之下層社会』のみ",
+          "『蟹工船』"
+        ]
+      }
+    },
+    {
+      "recto": "1911年の工場法が、労働者保護として不十分だといわれるのはなぜか。",
+      "verso": "適用範囲が狭く、施行も5年後に先送りされたから",
+      "explanation": "経営者側の反対により、規制は小規模工場に及ばず、施行も遅らされた。最初の一歩ではあったが、実効性は限られていた。",
+      "tags": [
+        "近代",
+        "制度"
+      ],
+      "distractors": {
+        "easy": [
+          "法律が公布されなかったから",
+          "労働者がいなかったから",
+          "内容が厳しすぎたから"
+        ],
+        "medium": [
+          "女性を対象外としたから",
+          "違反に罰則がなかったから",
+          "戦争で廃止されたから"
+        ],
+        "hard": [
+          "鉱山にのみ適用されたから",
+          "労働時間の規定がなかったから",
+          "施行が前倒しされたから"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】近代化の利益と負担は、それぞれ主に誰が受け、誰が担ったか。",
+      "verso": "利益は政府・財閥・都市の一部に集まり、負担は農民・女工・鉱毒被害地の人々が担った",
+      "explanation": "殖産興業と富国強兵は国全体の目標として語られたが、その原資は地租であり、労働力は農村の若者であった。国家の成長と個人の犠牲は同じ過程の表裏である。",
+      "tags": [
+        "comparaison",
+        "近代"
+      ],
+      "distractors": {
+        "easy": [
+          "利益も負担も等しく分かち合った",
+          "負担は政府だけが負った",
+          "利益は農民が独占した"
+        ],
+        "medium": [
+          "負担は士族だけが負った",
+          "利益は外国が独占した",
+          "負担は都市住民のみが負った"
+        ],
+        "hard": [
+          "利益は農村に集中した",
+          "負担は財閥が引き受けた",
+          "利益も負担も外国に帰した"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】明治の近代化は、すべての人々に等しく恩恵をもたらしたのか。",
+      "verso": "いいえ。地租・徴兵・鉱毒・低賃金労働という形で、多くの人が代償を負った",
+      "explanation": "よくある誤解である。鉄道が敷かれ工場が建つ一方で、地租を納める農民、徴兵される若者、鉱毒に苦しむ村、寄宿舎に暮らす女工がいた。成果と代償を両方見る必要がある。",
+      "tags": [
+        "piege",
+        "近代"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。全員が豊かになった",
+          "はい。誰も苦しまなかった",
+          "はい。負担はなかった"
+        ],
+        "medium": [
+          "はい。農民が最も得をした",
+          "はい。公害は起きなかった",
+          "いいえ。しかし発展もしなかった"
+        ],
+        "hard": [
+          "はい。士族の地位は守られた",
+          "はい。労働者は保護されていた",
+          "いいえ。ただし恩恵は外国人のみに"
+        ]
+      }
+    },
+    {
+      "recto": "民衆の抵抗が近代日本の政治に与えた影響として適切なものはどれか。",
+      "verso": "政府に譲歩を迫り、地租の引き下げや労働者保護の立法につながったこと",
+      "explanation": "一揆や争議は単なる混乱ではなく、政策を動かす力であった。声を上げる人々がいたからこそ、制度は少しずつ修正されていった。",
+      "tags": [
+        "近代",
+        "意義"
+      ],
+      "distractors": {
+        "easy": [
+          "政治に何の影響も与えなかった",
+          "政府を倒した",
+          "近代化を止めた"
+        ],
+        "medium": [
+          "徴兵令を廃止させた",
+          "地租を全廃させた",
+          "工場を閉鎖させた"
+        ],
+        "hard": [
+          "憲法制定を阻止した",
+          "議会を解散させた",
+          "財閥を解体させた"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、民衆の側から見た日本の近代化はどのようなものであったといえるか。",
+      "verso": "国家の急速な成長と引きかえに、多くの人々が重い負担と犠牲を担った過程",
+      "explanation": "近代化を「成功物語」としてだけ見ると、それを支えた人々の姿が消えてしまう。誰が担い、誰が犠牲になったのかを問うことが探究の課題である。",
+      "tags": [
+        "近代",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "誰も苦しまない理想的な過程",
+          "何も進まなかった過程",
+          "外国が主導した過程"
+        ],
+        "medium": [
+          "士族だけが犠牲となった過程",
+          "都市だけが変わった過程",
+          "農村には影響のない過程"
+        ],
+        "hard": [
+          "負担なしに達成された過程",
+          "民衆の抵抗がなかった過程",
+          "戦争のみが原因の過程"
+        ]
+      }
+    }
+  ]
+}

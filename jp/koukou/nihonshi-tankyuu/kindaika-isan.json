@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-nihonshi-tankyuu-kindaika-isan",
+  "title": "近代化遺産と歴史の継承",
+  "emoji": "🏭",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "産業遺産や建造物、公文書をどう残し伝えるかを通じて、歴史を継承するとはどういう営みかを考える。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>近代化遺産と歴史の継承</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>日本史探究<br>\n  <b>性格：</b>文化財と記録の継承\n</div>\n\n<blockquote>\n  <p><b>問い。</b>すべては残せないとすれば、何を、どのように残していけばよいのだろうか。</p>\n</blockquote>\n\n<p>工場や鉱山、鉄道施設といった<strong>近代化遺産</strong>は、長く「用済みの建物」と見なされ壊されてきた。実物を残す<strong>博物館</strong>と記録を残す<strong>文書館</strong>、そして<strong>公文書管理</strong>。何を残すかという選択そのものが、後世の歴史像をつくる行為である。</p>\n\n<h2>1・近代化遺産という発想</h2>\n\n<p>城や寺社と違い、近代の産業施設は「まだ新しく、使われなくなっただけの建物」と見られてきた。近代そのものが歴史として振り返られる時期に入り、ようやくその価値が見直された。<strong>何を価値あるものと見るかは時代によって変わる</strong>。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"実用の建物から用済みと見なされ、やがて歴史を語る遺産として評価されるまでの流れ\">\n  <defs>\n    <marker id=\"ar-nji1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">実用の施設</text>\n  <text x=\"54\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">工場・鉱山・鉄道</text>\n  <path d=\"M100,68 L118,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-nji1)\"/>\n  <rect x=\"122\" y=\"42\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.45;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">用済みと見なす</text>\n  <text x=\"170\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">多くが取り壊される</text>\n  <path d=\"M218,68 L236,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-nji1)\"/>\n  <rect x=\"240\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">遺産として評価</text>\n  <text x=\"286\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">歴史を語る資産へ</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">価値は後から見いだされる</text>\n</svg>\n<figcaption>失われてから気づくことが、あまりに多かった。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・使いながら残す</strong><br>\n  囲って触れないようにするだけでは維持費が続かず、結局失われる。<b>資料館や店舗として活用しながら手入れを続ける</b>方法が広がっている。凍結ではなく循環である。\n</div>\n\n<h2>2・モノと記録、両方が要る</h2>\n\n<p>実物を扱う<strong>博物館</strong>と、記録文書を扱う<strong>文書館</strong>は役割が異なる。紡績機を見れば作業の過酷さが想像でき、帳簿を読めば賃金と労働時間が分かる。両方があって初めて、その場所で何が起きていたかを描ける。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"博物館と文書館が保存するものの違い\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">役割の違う二つの器</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">博物館</text>\n  <text x=\"87\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">実物資料</text>\n  <text x=\"87\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">機械・遺品・建物</text>\n  <text x=\"87\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">質感と規模を伝える</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">文書館</text>\n  <text x=\"253\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">記録文書</text>\n  <text x=\"253\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">決裁文書・帳簿</text>\n  <text x=\"253\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">背景と経緯を伝える</text>\n</svg>\n<figcaption>モノだけでも記録だけでも、歴史は立ち上がらない。</figcaption>\n</figure>\n\n<h2>3・光と影の両方を伝える</h2>\n\n<p>産業遺産を技術の達成としてだけ語れば、そこで働いた人々の現実が見えなくなる。<strong>労働の実態や動員された人々の存在</strong>もあわせて示すことが、遺産を歴史として伝えるということである。デジタル化は保存を助けるが、媒体の劣化という新しい課題も生む。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 122\" role=\"img\" aria-label=\"残す・手入れする・伝えるという継承の三つの要素\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">継承のために必要なこと</text>\n  <rect x=\"6\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">残す</text>\n  <text x=\"58\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">調査と選択</text>\n  <text x=\"58\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">公文書管理</text>\n  <rect x=\"118\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">手入れする</text>\n  <text x=\"170\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">修復と活用</text>\n  <text x=\"170\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">デジタル化</text>\n  <rect x=\"230\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">伝える</text>\n  <text x=\"282\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">技術の達成</text>\n  <text x=\"282\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">労働の現実も</text>\n</svg>\n<figcaption>誇りだけを語る展示は、歴史ではなく宣伝に近づく。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>継承の手だて</h3>\n\n<table>\n  <tr><th>手だて</th><th>内容</th></tr>\n  <tr><td>近代化遺産</td><td>工場・鉱山・鉄道施設などの保存</td></tr>\n  <tr><td>博物館</td><td>実物資料の保存と展示</td></tr>\n  <tr><td>文書館</td><td>記録文書の保存と公開</td></tr>\n  <tr><td>公文書管理</td><td>決定過程を検証可能に保つ制度</td></tr>\n  <tr><td>デジタル化</td><td>分散保存と利用の容易化</td></tr>\n</table>\n\n<h3>失われる原因</h3>\n\n<table>\n  <tr><th>原因</th><th>内容</th></tr>\n  <tr><td>災害・戦災</td><td>火災・地震・空襲</td></tr>\n  <tr><td>開発</td><td>建て替え・取り壊し</td></tr>\n  <tr><td>無関心</td><td>価値に気づかれないまま廃棄</td></tr>\n</table>\n\n<h3>住民にできること</h3>\n\n<table>\n  <tr><th>行動</th><th>意味</th></tr>\n  <tr><td>古写真・道具を持ち寄る</td><td>家に眠る一次史料の発掘</td></tr>\n  <tr><td>体験談を聞き取る</td><td>文字に残らない記憶の記録</td></tr>\n  <tr><td>地域の記録として整理</td><td>公的機関が拾えない層を補う</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  文化財は<b>手をつけずに置けば守られるというものではない</b>。木造建築も産業設備も、使われず手入れされなければ急速に朽ちる。「凍結保存」ではなく、<b>使いながら手入れを続ける</b>ことが現実的な保存である。\n</div>\n\n<blockquote>\n  <p>何を残すかを決めることは、後世が何を知りうるかを決めることでもある。継承は懐古ではなく、社会が自らを点検し続けるための条件である。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "日本史探究",
+  "cards": [
+    {
+      "recto": "近代の工場・鉱山・鉄道施設など、産業の発展を伝える建造物や設備をまとめて何と呼ぶか。",
+      "verso": "近代化遺産（産業遺産）",
+      "explanation": "城や寺社と違い、長らく「古くて価値のないもの」と見なされ、取り壊されてきた。近年ようやく歴史を語る資産として評価されるようになった。",
+      "tags": [
+        "継承",
+        "概念"
+      ],
+      "distractors": {
+        "easy": [
+          "国宝",
+          "天然記念物",
+          "名勝"
+        ],
+        "medium": [
+          "古墳",
+          "城郭",
+          "社寺建築"
+        ],
+        "hard": [
+          "史跡のみ",
+          "重要美術品",
+          "登録有形文化財のみ"
+        ]
+      }
+    },
+    {
+      "recto": "近代化遺産が長く保存の対象とされてこなかった理由として適切なものはどれか。",
+      "verso": "まだ新しく、使われなくなった実用の建物と見なされてきたから",
+      "explanation": "文化財といえば古いものという通念のなかで、工場や倉庫は「用済みの建物」として壊された。何を価値あるものと見るかは時代によって変わる。",
+      "tags": [
+        "継承",
+        "課題"
+      ],
+      "distractors": {
+        "easy": [
+          "法律で保存が禁じられていたから",
+          "誰も知らなかったから",
+          "外国のものだったから"
+        ],
+        "medium": [
+          "すべて戦災で失われたから",
+          "個人所有が認められないから",
+          "記録が残っていないから"
+        ],
+        "hard": [
+          "国宝に指定されていたから",
+          "動産として扱われたから",
+          "宗教施設だったから"
+        ]
+      }
+    },
+    {
+      "recto": "文化財を守るために、社会全体で行うべきこととして適切なものはどれか。",
+      "verso": "調査・修復・活用を通じて、使いながら残していくこと",
+      "explanation": "囲って触れないようにするだけでは、維持費が続かず結局失われる。資料館や店舗として活用しながら手入れを続ける方法が広がっている。",
+      "tags": [
+        "継承",
+        "方法"
+      ],
+      "distractors": {
+        "easy": [
+          "立ち入りを完全に禁じること",
+          "取り壊して建て直すこと",
+          "何もしないこと"
+        ],
+        "medium": [
+          "複製に置き換えること",
+          "外国に移すこと",
+          "写真だけ残すこと"
+        ],
+        "hard": [
+          "現状のまま放置すること",
+          "所有者だけに任せること",
+          "国が全て買い上げること"
+        ]
+      }
+    },
+    {
+      "recto": "行政機関の意思決定を後世に検証できるようにするため、記録の作成と保存を義務づける制度を何というか。",
+      "verso": "公文書管理の制度",
+      "explanation": "何を決めたかだけでなく、どう決めたかを残すことが求められる。文書が失われれば、後世は政策の当否を検証できなくなる。",
+      "tags": [
+        "継承",
+        "制度"
+      ],
+      "distractors": {
+        "easy": [
+          "選挙制度",
+          "税制",
+          "教育制度"
+        ],
+        "medium": [
+          "情報公開制度のみ",
+          "個人情報保護制度",
+          "統計制度"
+        ],
+        "hard": [
+          "国立国会図書館法",
+          "著作権制度",
+          "文化財保護法"
+        ]
+      }
+    },
+    {
+      "recto": "文書や記録を体系的に保存し、公開する専門機関を何というか。",
+      "verso": "文書館（アーカイブズ）",
+      "explanation": "図書館が刊行物を、博物館が実物を扱うのに対し、文書館は記録そのものを保存する。歴史研究を支える基盤であり、市民が行政を検証する手段でもある。",
+      "tags": [
+        "継承",
+        "制度"
+      ],
+      "distractors": {
+        "easy": [
+          "体育館",
+          "映画館",
+          "水族館"
+        ],
+        "medium": [
+          "図書館",
+          "博物館",
+          "美術館"
+        ],
+        "hard": [
+          "資料館のみ",
+          "郷土館",
+          "記念館"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】博物館と文書館は、それぞれ何を保存し伝える施設か。",
+      "verso": "博物館は実物資料を、文書館は記録文書を保存し公開する",
+      "explanation": "遺品や機械は博物館が、決裁文書や帳簿は文書館が担う。両者がそろって初めて、モノと記録の両面から過去を確かめることができる。",
+      "tags": [
+        "comparaison",
+        "継承"
+      ],
+      "distractors": {
+        "easy": [
+          "どちらも本を貸し出す",
+          "どちらも同じものである",
+          "博物館が文書、文書館が実物を扱う"
+        ],
+        "medium": [
+          "どちらも刊行物を集める",
+          "どちらも非公開である",
+          "博物館は美術品のみを扱う"
+        ],
+        "hard": [
+          "文書館は個人蔵書を扱う",
+          "博物館は記録を保存しない",
+          "どちらも国のみが設置する"
+        ]
+      }
+    },
+    {
+      "recto": "文化財や記録が失われる原因として、災害と並んで大きいものは何か。",
+      "verso": "開発や建て替え、そして関心の低下による取り壊し・廃棄",
+      "explanation": "戦災や地震だけでなく、平時の無関心が多くのものを失わせてきた。誰かが価値に気づかなければ、記録も建物も静かに消える。",
+      "tags": [
+        "継承",
+        "課題"
+      ],
+      "distractors": {
+        "easy": [
+          "観光客の増加",
+          "研究の進展",
+          "法律の整備"
+        ],
+        "medium": [
+          "修復技術の発達",
+          "写真撮影",
+          "資料の公開"
+        ],
+        "hard": [
+          "デジタル化",
+          "国際的な評価",
+          "所有権の移転"
+        ]
+      }
+    },
+    {
+      "recto": "資料をデジタル化して保存・公開することの利点として適切なものはどれか。",
+      "verso": "原本を傷めずに多くの人が利用でき、災害時の消失にも備えられること",
+      "explanation": "デジタル化は複製を各地に分散でき、検索も容易になる。ただし記録媒体の劣化や形式の陳腐化という新しい課題も生む。",
+      "tags": [
+        "継承",
+        "方法"
+      ],
+      "distractors": {
+        "easy": [
+          "原本が不要になること",
+          "内容が変えられること",
+          "研究が不要になること"
+        ],
+        "medium": [
+          "保存費用がゼロになること",
+          "永久に劣化しないこと",
+          "解釈が一つに定まること"
+        ],
+        "hard": [
+          "原本の価値が高まること",
+          "著作権が消滅すること",
+          "史料批判が不要になること"
+        ]
+      }
+    },
+    {
+      "recto": "産業遺産を歴史として伝えるときに、あわせて示すべきこととして適切なものはどれか。",
+      "verso": "そこで働いた人々の労働の実態や、動員された人々の存在",
+      "explanation": "技術の達成だけを語れば、その施設を支えた労働の現実が見えなくなる。誇りと負の側面の双方を示すことが、遺産を歴史として伝えることである。",
+      "tags": [
+        "継承",
+        "課題"
+      ],
+      "distractors": {
+        "easy": [
+          "建物の値段",
+          "現在の所有者名",
+          "周辺の観光情報のみ"
+        ],
+        "medium": [
+          "技術の優秀さのみ",
+          "設計者の経歴のみ",
+          "建設費のみ"
+        ],
+        "hard": [
+          "国際的な評価のみ",
+          "生産量の記録のみ",
+          "企業の業績のみ"
+        ]
+      }
+    },
+    {
+      "recto": "地域の歴史を残す取り組みとして、住民が担いうる役割は何か。",
+      "verso": "古写真や道具、体験談を持ち寄り、地域の記録として整理すること",
+      "explanation": "公的機関だけでは地域の細かな記憶は拾えない。家に眠る写真や道具、祖父母の話が、その土地の近代史を語る一次史料になる。",
+      "tags": [
+        "継承",
+        "方法"
+      ],
+      "distractors": {
+        "easy": [
+          "行政に任せること",
+          "何もしないこと",
+          "古いものを処分すること"
+        ],
+        "medium": [
+          "観光客を増やすこと",
+          "建物を新しくすること",
+          "研究者を招くだけ"
+        ],
+        "hard": [
+          "国の指定を待つこと",
+          "資料を非公開にすること",
+          "専門家に売却すること"
+        ]
+      }
+    },
+    {
+      "recto": "歴史を継承するうえで、「何を残すか」を決めることがもつ意味は何か。",
+      "verso": "残されたものが後世の歴史像を形づくるため、選択そのものが歴史をつくる行為になること",
+      "explanation": "すべては残せない以上、選択は避けられない。誰が何を残すと決めるのかを意識することが、歴史との向き合い方を左右する。",
+      "tags": [
+        "継承",
+        "意義"
+      ],
+      "distractors": {
+        "easy": [
+          "予算の節約になること",
+          "作業が楽になること",
+          "特に意味はないこと"
+        ],
+        "medium": [
+          "観光資源になること",
+          "研究者が助かること",
+          "法律で決まっていること"
+        ],
+        "hard": [
+          "歴史像に影響しないこと",
+          "後世が自由に選び直せること",
+          "専門家だけの問題であること"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】文化財は、そのまま手をつけずに置いておけば守られるのか。",
+      "verso": "いいえ。修復と活用を続けなければ傷み、維持できずに失われていく",
+      "explanation": "よくある誤解である。木造建築も産業設備も、使われず手入れされなければ急速に朽ちる。「凍結保存」ではなく、使いながら手入れを続けることが現実的な保存である。",
+      "tags": [
+        "piege",
+        "継承"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。触らないのが一番よい",
+          "はい。放置すれば残る",
+          "はい。手入れは不要である"
+        ],
+        "medium": [
+          "はい。指定を受ければ安全である",
+          "はい。所有者に任せればよい",
+          "いいえ。だから保存は不可能である"
+        ],
+        "hard": [
+          "はい。デジタル化すれば原本は不要",
+          "はい。複製で置き換えればよい",
+          "いいえ。ただし修復は改変にあたる"
+        ]
+      }
+    },
+    {
+      "recto": "近代化遺産の保存が近年進んだ背景として適切なものはどれか。",
+      "verso": "近代そのものが歴史として振り返られる時期に入り、その価値が見直されたから",
+      "explanation": "同時代のものは歴史とは見なされにくい。時間が経ち、産業構造も変わったことで、ようやく近代の建物や設備が歴史の対象として認識された。",
+      "tags": [
+        "継承",
+        "意義"
+      ],
+      "distractors": {
+        "easy": [
+          "建物が古くなったから",
+          "土地が安くなったから",
+          "偶然である"
+        ],
+        "medium": [
+          "外国に指示されたから",
+          "新築が禁止されたから",
+          "税制が変わったから"
+        ],
+        "hard": [
+          "文化財保護法が廃止されたから",
+          "産業が復活したから",
+          "研究者が減ったから"
+        ]
+      }
+    },
+    {
+      "recto": "歴史の継承において、記録と実物の両方が必要とされる理由は何か。",
+      "verso": "実物は当時の質感や規模を、記録はその背景や経緯を伝えるから",
+      "explanation": "紡績機を見れば作業の過酷さが想像でき、帳簿を読めば賃金や労働時間が分かる。両方があって初めて、その場所で何が起きていたかを描ける。",
+      "tags": [
+        "継承",
+        "方法"
+      ],
+      "distractors": {
+        "easy": [
+          "数が多いほうがよいから",
+          "予算がつきやすいから",
+          "見た目がよいから"
+        ],
+        "medium": [
+          "観光に有利だから",
+          "研究が楽になるから",
+          "法律で定められているから"
+        ],
+        "hard": [
+          "実物だけで十分だから",
+          "記録だけで十分だから",
+          "どちらも同じ情報を持つから"
+        ]
+      }
+    },
+    {
+      "recto": "歴史を継承する営みが、現在の社会にとってもつ意味は何か。",
+      "verso": "過去の判断とその結果を検証できる状態を保ち、いまの選択に生かせること",
+      "explanation": "記録がなければ、何がなぜ起きたのかを問うことすらできない。継承は懐古ではなく、社会が自らを点検し続けるための条件である。",
+      "tags": [
+        "継承",
+        "意義"
+      ],
+      "distractors": {
+        "easy": [
+          "昔を懐かしむこと",
+          "観光収入を得ること",
+          "特に意味はないこと"
+        ],
+        "medium": [
+          "伝統をそのまま守ること",
+          "国の威信を示すこと",
+          "研究者を養成すること"
+        ],
+        "hard": [
+          "過去を美化すること",
+          "変化を止めること",
+          "議論を終わらせること"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、近代化遺産と歴史の継承はどのように整理できるか。",
+      "verso": "残すものを選び、手入れしながら活用し、光と影の両面を伝えていく営み",
+      "explanation": "何を残すかという選択が後世の歴史像をつくる。技術の誇りだけでなくそこで働いた人々の現実も含めて伝えることが、遺産を歴史として継承することである。",
+      "tags": [
+        "継承",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "古いものをすべて残す営み",
+          "何も残さない営み",
+          "建物を新しくする営み"
+        ],
+        "medium": [
+          "観光地をつくる営み",
+          "国が指定するだけの営み",
+          "研究者だけの営み"
+        ],
+        "hard": [
+          "技術の誇りだけを伝える営み",
+          "原状のまま凍結する営み",
+          "記録のみを残す営み"
+        ]
+      }
+    }
+  ]
+}

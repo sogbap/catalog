@@ -1,0 +1,432 @@
+{
+  "id": "kr-godeunghakgyo-hanguksa-ingu-hwangyeong",
+  "title": "인구·환경과 사람들의 삶",
+  "emoji": "🌾",
+  "subject": "history",
+  "country": "kr",
+  "courseDescription": "기근과 전염병, 농업 기술과 인구 변동, 산림과 환경의 변화를 통해 자연과 사람이 서로 주고받은 역사를 살펴본다.",
+  "lesson": "<style>\n  /* SVG 그림 스타일. currentColor(글자색)와 var(--accent)(과목 색)를 사용해\n     앱의 밝은/어두운 테마에 맞춰 표시된다. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Apple SD Gothic Neo\", \"Noto Sans KR\", \"Malgun Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>인구·환경과 사람들의 삶</h1>\n\n<div class=\"callout\">\n  <strong>학습 포인트</strong><br>\n  <b>수준:</b> 고등학교<br>\n  <b>주제:</b> 한국사<br>\n  <b>성격:</b> 인구·환경사 탐구\n</div>\n\n<blockquote>\n  <p><b>핵심 질문.</b> 날씨와 병, 그리고 땅의 변화는 우리 역사를 어떻게 움직였을까?</p>\n</blockquote>\n\n<p>전근대의 인구는 <strong>농업 생산력</strong>과 <strong>기근</strong>·<strong>전염병</strong>이 좌우했다. <strong>모내기법</strong>이 인구를 늘렸고 <strong>경신 대기근</strong>과 <strong>천연두</strong>가 그것을 꺾었다. 사람도 환경을 바꾸어 <strong>산림 황폐화</strong>를 낳았고, 오늘날에는 <strong>저출산·고령화</strong>와 기후 위기를 마주하고 있다.</p>\n\n<h2>1 · 먹을 것과 인구</h2>\n\n<p>전근대에는 먹을 것이 곧 인구였다. 조선 후기 <strong>모내기법</strong>이 퍼지며 수확이 늘어 인구가 증가했고, <strong>고구마</strong>·<strong>감자</strong> 같은 <strong>구황 작물</strong>이 굶주림을 덜어 주었다. <strong>환곡</strong>은 본래 굶주린 백성을 돕는 제도였으나 뒤에 수탈로 변질되었다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"농업 기술의 발달이 생산 증가와 인구 증가로 이어지는 과정\">\n  <defs>\n    <marker id=\"ar-kriw1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">모내기법</text>\n  <text x=\"54\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">구황 작물</text>\n  <path d=\"M100,68 L118,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-kriw1)\"/>\n  <rect x=\"122\" y=\"42\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">생산 증가</text>\n  <text x=\"170\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">먹을 것의 여유</text>\n  <path d=\"M218,68 L236,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-kriw1)\"/>\n  <rect x=\"240\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">인구 증가</text>\n  <text x=\"286\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">사회의 변동</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">밥이 곧 인구였다</text>\n</svg>\n<figcaption>농법 하나가 사회 전체의 규모를 바꾸었다.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>개념 · 구황 작물</strong><br>\n  흉년에 대비해 심는 작물. <b>고구마</b>(18세기)와 <b>감자</b>(19세기)는 척박한 땅에서도 자라 굶주림을 덜어 주었다. 새 작물의 도입이 인구를 지탱하였다.\n</div>\n\n<h2>2 · 기근과 전염병</h2>\n\n<p>1670~71년의 <strong>경신 대기근</strong>은 냉해와 가뭄이 겹쳐 수십만의 목숨을 앗았다. <strong>천연두</strong>는 '마마'라 높여 부를 만큼 두려운 병이었고, 19세기에는 교역로를 따라 <strong>콜레라</strong>가 들어왔다. 사람과 물자의 이동은 병도 함께 옮겼다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"기근과 전염병이 인구에 영향을 주는 방식의 비교\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">인구를 꺾은 두 힘</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">기근</text>\n  <text x=\"87\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">날씨와 흉작에서</text>\n  <text x=\"87\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">서서히 무너뜨림</text>\n  <text x=\"87\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">경신 대기근</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">전염병</text>\n  <text x=\"253\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">접촉과 이동에서</text>\n  <text x=\"253\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">빠르게 번짐</text>\n  <text x=\"253\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">천연두·콜레라</text>\n</svg>\n<figcaption>둘은 흔히 함께 닥쳐 피해를 키웠다.</figcaption>\n</figure>\n\n<h2>3 · 사람이 바꾼 환경</h2>\n\n<p>온돌이 퍼지고 화전이 늘면서 <strong>산림이 황폐해졌고</strong>, 홍수와 토사 유출로 농사에도 피해가 갔다. 산업화는 대기·수질 오염을 낳았다. 다만 대대적인 <strong>치산 녹화 사업</strong>으로 헐벗었던 산을 되살린 것은 드문 성공 사례이다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 122\" role=\"img\" aria-label=\"사람과 환경이 서로 영향을 주고받는 관계\">\n  <rect x=\"10\" y=\"44\" width=\"130\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"75\" y=\"64\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">환경 → 사람</text>\n  <text x=\"75\" y=\"82\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">기근·전염병·기후</text>\n  <rect x=\"200\" y=\"44\" width=\"130\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"265\" y=\"64\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">사람 → 환경</text>\n  <text x=\"265\" y=\"82\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">개간·남벌·오염</text>\n  <text x=\"170\" y=\"26\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">서로 주고받는 관계</text>\n  <text x=\"170\" y=\"112\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">오늘의 기후 위기도 이 관계의 연장선</text>\n</svg>\n<figcaption>환경은 배경이 아니라 역사를 움직인 힘이었다.</figcaption>\n</figure>\n\n<h2>핵심 정리</h2>\n\n<h3>인구를 움직인 요인</h3>\n\n<table>\n  <tr><th>요인</th><th>내용</th></tr>\n  <tr><td>농업 기술</td><td>모내기법 → 생산·인구 증가</td></tr>\n  <tr><td>구황 작물</td><td>고구마(18세기)·감자(19세기)</td></tr>\n  <tr><td>기근</td><td>경신 대기근(1670~71)</td></tr>\n  <tr><td>전염병</td><td>천연두, 홍역, 콜레라</td></tr>\n  <tr><td>오늘날</td><td>저출산·고령화</td></tr>\n</table>\n\n<h3>핵심 용어</h3>\n\n<table>\n  <tr><th>용어</th><th>뜻</th></tr>\n  <tr><td>구황 작물</td><td>흉년에 대비해 심는 작물</td></tr>\n  <tr><td>환곡</td><td>곡식을 빌려주던 구휼 제도</td></tr>\n  <tr><td>경신 대기근</td><td>17세기 후반의 대기근</td></tr>\n  <tr><td>산림 황폐화</td><td>땔감·화전으로 숲이 줄어든 일</td></tr>\n  <tr><td>치산 녹화</td><td>산에 나무를 심어 되살린 사업</td></tr>\n</table>\n\n<h3>환경과 사회</h3>\n\n<table>\n  <tr><th>변화</th><th>사회에 미친 영향</th></tr>\n  <tr><td>산림 황폐화</td><td>홍수·토사 유출, 농사 피해</td></tr>\n  <tr><td>산업화</td><td>대기·수질 오염, 공해 피해</td></tr>\n  <tr><td>치산 녹화</td><td>산림 복구의 드문 성공</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>주의</strong><br>\n  자연 환경은 <b>단순한 배경이 아니다</b>—경신 대기근은 수십만의 목숨을 앗았고, 전염병은 사회를 뒤흔들었으며, 산림 황폐화는 농사를 어렵게 했다. 사람도 환경을 바꾸었으니, 둘은 <b>서로 주고받는 관계</b>이다.\n</div>\n\n<blockquote>\n  <p>흉년을 견디고 병을 이겨 내며 살아온 사람들의 시간이 우리 역사의 바탕에 깔려 있다. 오늘의 저출산과 기후 위기도 그 긴 씨름의 한 장면이다.</p>\n</blockquote>\n",
+  "questionLang": "ko",
+  "answerLang": "ko",
+  "version": 1,
+  "level": "고등학교",
+  "theme": "한국사",
+  "cards": [
+    {
+      "recto": "전근대 사회에서 인구를 크게 좌우한 가장 근본적인 요인은 무엇인가?",
+      "verso": "농업 생산력과 기근·전염병",
+      "explanation": "전근대에는 먹을 것이 얼마나 나느냐가 인구를 결정했다. 농업 기술이 나아지면 인구가 늘고, 큰 기근이나 전염병이 닥치면 급격히 줄었다.",
+      "tags": [
+        "인구",
+        "개념"
+      ],
+      "distractors": {
+        "easy": [
+          "여가 활동",
+          "교통 수단",
+          "옷차림"
+        ],
+        "medium": [
+          "과거 제도",
+          "신분제",
+          "교육 제도"
+        ],
+        "hard": [
+          "화폐의 유통",
+          "국제 무역량",
+          "도시의 크기"
+        ]
+      }
+    },
+    {
+      "recto": "조선 후기에 인구가 늘어날 수 있었던 농업상의 배경을 설명하면?",
+      "verso": "모내기법이 퍼져 수확이 늘고 일손이 덜 들게 된 것",
+      "explanation": "모내기법은 수확을 늘렸을 뿐 아니라 김매기 품을 줄여 한 사람이 넓은 땅을 지을 수 있게 했다. 먹을 것의 여유가 곧 인구의 여유로 이어졌다.",
+      "tags": [
+        "인구",
+        "농업"
+      ],
+      "distractors": {
+        "easy": [
+          "사냥과 채집이 늘어난 것",
+          "농사를 짓지 않게 된 것",
+          "화전만 남은 것"
+        ],
+        "medium": [
+          "직파법으로 되돌아간 것",
+          "휴경지가 늘어난 것",
+          "밭농사만 짓게 된 것"
+        ],
+        "hard": [
+          "대동법으로 공납이 늘어난 것",
+          "간척으로만 땅이 늘어난 것",
+          "이모작이 금지된 것"
+        ]
+      }
+    },
+    {
+      "recto": "17세기 후반, 이상 기후로 흉년이 이어져 수많은 사람이 굶어 죽은 조선의 큰 기근은?",
+      "verso": "경신 대기근",
+      "explanation": "1670~71년의 경신 대기근은 냉해와 가뭄, 병충해가 겹쳐 일어났고 수십만 명이 목숨을 잃은 것으로 전해진다. 자연이 사회를 뒤흔든 대표적 사례이다.",
+      "tags": [
+        "인구",
+        "재해"
+      ],
+      "distractors": {
+        "easy": [
+          "임진왜란",
+          "6·25 전쟁",
+          "병자호란"
+        ],
+        "medium": [
+          "삼정의 문란",
+          "홍경래의 난",
+          "임술 농민 봉기"
+        ],
+        "hard": [
+          "을병 대기근은 1695년의 일이다",
+          "정묘호란",
+          "무오사화"
+        ]
+      }
+    },
+    {
+      "recto": "기근에 대비하여 나라가 백성에게 곡식을 빌려주었다가 가을에 돌려받던 제도는?",
+      "verso": "환곡",
+      "explanation": "환곡은 본래 굶주린 백성을 돕는 구휼 제도였다. 그러나 조선 후기에는 강제로 빌려주고 이자를 붙여 거두는 수탈 수단으로 변질되어 삼정의 문란 가운데 하나가 되었다.",
+      "tags": [
+        "인구",
+        "제도"
+      ],
+      "distractors": {
+        "easy": [
+          "과거제",
+          "호패법",
+          "향약"
+        ],
+        "medium": [
+          "대동법",
+          "균역법",
+          "영정법"
+        ],
+        "hard": [
+          "의창만",
+          "상평창",
+          "사창"
+        ]
+      }
+    },
+    {
+      "recto": "굶주릴 때를 대비해 심는 작물을 무엇이라 하며, 18세기 이후 들어온 대표적인 것은?",
+      "verso": "구황 작물 — 고구마와 감자",
+      "explanation": "고구마는 18세기에 일본을 통해, 감자는 19세기에 들어와 척박한 땅에서도 자라 굶주림을 덜어 주었다. 새 작물의 도입이 인구를 지탱한 것이다.",
+      "tags": [
+        "인구",
+        "농업"
+      ],
+      "distractors": {
+        "easy": [
+          "쌀과 보리",
+          "밀과 콩",
+          "인삼과 담배"
+        ],
+        "medium": [
+          "고추와 마늘",
+          "목화와 삼",
+          "차와 뽕나무"
+        ],
+        "hard": [
+          "옥수수와 메밀만",
+          "수수와 조",
+          "귀리와 호밀"
+        ]
+      }
+    },
+    {
+      "recto": "조선 시대에 사람들을 가장 두렵게 한 전염병으로, '마마'라고도 불린 병은?",
+      "verso": "천연두(두창)",
+      "explanation": "천연두는 치사율이 높고 흉터를 남겨 크게 두려워한 병으로, 함부로 부르지 못해 '마마'라 높여 불렀다. 홍역과 함께 어린아이의 목숨을 많이 앗아 갔다.",
+      "tags": [
+        "인구",
+        "질병"
+      ],
+      "distractors": {
+        "easy": [
+          "감기",
+          "충치",
+          "골절"
+        ],
+        "medium": [
+          "홍역",
+          "콜레라",
+          "결핵"
+        ],
+        "hard": [
+          "장티푸스",
+          "이질",
+          "말라리아"
+        ]
+      }
+    },
+    {
+      "recto": "19세기에 크게 번져 많은 이를 숨지게 한, '호열자'라 불린 전염병은?",
+      "verso": "콜레라",
+      "explanation": "콜레라는 19세기에 교역로를 따라 들어와 크게 번졌다. 사람과 물자의 이동이 늘면 전염병도 함께 퍼진다는 것을 보여 주는 사례이다.",
+      "tags": [
+        "인구",
+        "질병"
+      ],
+      "distractors": {
+        "easy": [
+          "감기",
+          "충치",
+          "빈혈"
+        ],
+        "medium": [
+          "천연두",
+          "홍역",
+          "결핵"
+        ],
+        "hard": [
+          "우역",
+          "장티푸스",
+          "발진티푸스"
+        ]
+      }
+    },
+    {
+      "recto": "[비교] 기근과 전염병은 인구에 각각 어떤 방식으로 영향을 주었는가?",
+      "verso": "기근은 흉작으로 굶주려 죽게 했고, 전염병은 사람 사이의 접촉으로 빠르게 번져 목숨을 앗았다",
+      "explanation": "기근은 날씨와 농사에서 비롯되어 서서히 사회를 무너뜨렸고, 전염병은 이동과 접촉을 통해 급격히 번졌다. 둘은 흔히 함께 닥쳐 피해를 키웠다.",
+      "tags": [
+        "comparaison",
+        "인구"
+      ],
+      "distractors": {
+        "easy": [
+          "둘 다 인구를 늘렸다",
+          "둘 다 아무 영향이 없었다",
+          "기근이 접촉으로, 전염병이 흉작으로 번졌다"
+        ],
+        "medium": [
+          "둘 다 전쟁 때만 일어났다",
+          "둘 다 근대에 처음 나타났다",
+          "기근만 인구에 영향을 주었다"
+        ],
+        "hard": [
+          "둘 다 서로 무관하게 일어났다",
+          "전염병은 인구를 늘리기도 했다",
+          "기근은 도시에서만 일어났다"
+        ]
+      }
+    },
+    {
+      "recto": "온돌이 널리 보급되고 화전이 늘면서 조선 후기에 나타난 환경 문제는?",
+      "verso": "산림의 황폐화",
+      "explanation": "난방과 취사에 쓸 땔감 수요가 늘고 화전이 확대되면서 산의 나무가 크게 줄었다. 이는 홍수와 토사 유출로 이어져 농사에도 영향을 주었다.",
+      "tags": [
+        "환경",
+        "조선"
+      ],
+      "distractors": {
+        "easy": [
+          "대기 오염",
+          "플라스틱 쓰레기",
+          "소음 공해"
+        ],
+        "medium": [
+          "수질 오염만",
+          "지진의 증가",
+          "사막화"
+        ],
+        "hard": [
+          "오존층 파괴",
+          "산성비",
+          "미세먼지"
+        ]
+      }
+    },
+    {
+      "recto": "산과 들의 나무가 줄어들 때 사람들의 삶에 미치는 영향으로 알맞은 것은?",
+      "verso": "홍수와 가뭄에 약해지고 농사에 피해가 커지는 것",
+      "explanation": "숲이 사라지면 비가 올 때 물을 머금지 못해 홍수가 나고, 흙이 쓸려 농토가 나빠진다. 환경의 변화는 곧 사람들의 생계에 닿는다.",
+      "tags": [
+        "환경",
+        "영향"
+      ],
+      "distractors": {
+        "easy": [
+          "농사가 더 잘되는 것",
+          "인구가 늘어나는 것",
+          "아무 영향이 없는 것"
+        ],
+        "medium": [
+          "기후가 따뜻해지는 것",
+          "땔감이 늘어나는 것",
+          "물이 풍부해지는 것"
+        ],
+        "hard": [
+          "토양이 비옥해지는 것",
+          "전염병이 사라지는 것",
+          "어획량이 느는 것"
+        ]
+      }
+    },
+    {
+      "recto": "산업화 이후 우리나라에서 대규모로 이루어져 성과를 거둔 환경 관련 사업은?",
+      "verso": "치산 녹화(산림 복구) 사업",
+      "explanation": "전쟁과 남벌로 헐벗었던 산에 나무를 심는 치산 녹화 사업이 대대적으로 이루어져 오늘날의 푸른 산이 되었다. 세계적으로도 드문 산림 복구 성공 사례로 꼽힌다.",
+      "tags": [
+        "환경",
+        "현대"
+      ],
+      "distractors": {
+        "easy": [
+          "산을 깎아 도시를 넓힌 일",
+          "숲을 없앤 일",
+          "아무 사업도 없었다"
+        ],
+        "medium": [
+          "새마을 운동만",
+          "간척 사업",
+          "댐 건설"
+        ],
+        "hard": [
+          "화전 정리만",
+          "국립공원 지정만",
+          "그린벨트 해제"
+        ]
+      }
+    },
+    {
+      "recto": "산업화 과정에서 공장과 도시가 늘며 나타난 환경 문제로 알맞은 것은?",
+      "verso": "대기·수질 오염과 공해병 등의 피해",
+      "explanation": "빠른 산업화는 공장 폐수와 매연을 낳아 강과 공기를 오염시켰고 주민들이 피해를 입었다. 성장의 대가를 누가 치렀는지 묻게 하는 대목이다.",
+      "tags": [
+        "환경",
+        "현대"
+      ],
+      "distractors": {
+        "easy": [
+          "공기가 맑아진 것",
+          "강물이 깨끗해진 것",
+          "아무 문제도 없던 것"
+        ],
+        "medium": [
+          "산림이 늘어난 것",
+          "인구가 줄어든 것",
+          "농토가 넓어진 것"
+        ],
+        "hard": [
+          "기후가 안정된 것",
+          "생물 종이 늘어난 것",
+          "자원이 풍부해진 것"
+        ]
+      }
+    },
+    {
+      "recto": "오늘날 우리나라의 인구 구조에서 나타나는 가장 큰 변화는?",
+      "verso": "저출산·고령화로 인구가 줄고 노인 비율이 높아지는 것",
+      "explanation": "전근대에는 기근과 전염병이 인구를 줄였다면, 오늘날에는 아이를 적게 낳는 선택이 인구 구조를 바꾸고 있다. 원인은 다르지만 인구는 여전히 사회의 큰 문제이다.",
+      "tags": [
+        "인구",
+        "현대"
+      ],
+      "distractors": {
+        "easy": [
+          "인구가 폭발적으로 느는 것",
+          "아이가 크게 늘어나는 것",
+          "아무 변화가 없는 것"
+        ],
+        "medium": [
+          "전염병으로 줄어드는 것",
+          "기근으로 줄어드는 것",
+          "이촌 향도가 심해지는 것"
+        ],
+        "hard": [
+          "출산율이 세계에서 가장 높은 것",
+          "노인 인구가 줄어드는 것",
+          "인구 이동이 사라진 것"
+        ]
+      }
+    },
+    {
+      "recto": "[주의] 역사에서 자연 환경은 사람들의 삶에 별다른 영향을 주지 않은 배경일 뿐이었는가?",
+      "verso": "아니다. 기근과 전염병, 기후 변화는 인구와 사회를 크게 바꾼 역사의 주요 요인이었다",
+      "explanation": "흔한 오해이다. 경신 대기근은 수십만의 목숨을 앗았고, 전염병은 사회를 뒤흔들었으며, 산림 황폐화는 농사를 어렵게 했다. 자연은 배경이 아니라 역사를 움직인 힘이었다.",
+      "tags": [
+        "piege",
+        "환경"
+      ],
+      "distractors": {
+        "easy": [
+          "그렇다. 자연은 배경일 뿐이다",
+          "그렇다. 역사는 사람만 만든다",
+          "그렇다. 기후는 늘 같았다"
+        ],
+        "medium": [
+          "그렇다. 기근은 큰 영향이 없었다",
+          "그렇다. 전염병은 드물었다",
+          "아니다. 그러나 사람의 선택은 무의미했다"
+        ],
+        "hard": [
+          "그렇다. 농업 기술이 모든 것을 해결했다",
+          "그렇다. 환경 문제는 현대만의 일이다",
+          "아니다. 그러나 인구와는 무관하다"
+        ]
+      }
+    },
+    {
+      "recto": "자연 환경과 사람의 관계를 역사에서 살펴볼 때 알 수 있는 것은?",
+      "verso": "사람은 환경의 영향을 받는 동시에 환경을 바꾸어 왔다는 점",
+      "explanation": "기근과 전염병이 사람을 덮치기도 했지만, 사람도 숲을 없애고 땅을 개간하며 환경을 바꾸었다. 이 상호 작용을 보는 것이 오늘의 기후 위기를 이해하는 데도 도움이 된다.",
+      "tags": [
+        "환경",
+        "의의"
+      ],
+      "distractors": {
+        "easy": [
+          "사람은 환경의 영향을 받지 않는다는 점",
+          "환경은 변하지 않는다는 점",
+          "둘은 무관하다는 점"
+        ],
+        "medium": [
+          "사람이 언제나 환경을 이겼다는 점",
+          "환경이 모든 것을 결정했다는 점",
+          "환경 문제는 현대만의 것이라는 점"
+        ],
+        "hard": [
+          "기술이 모든 문제를 해결했다는 점",
+          "인구는 환경과 무관하다는 점",
+          "농업은 환경을 바꾸지 않았다는 점"
+        ]
+      }
+    },
+    {
+      "recto": "전체적으로 인구와 환경의 눈으로 본 우리 역사는 어떤 모습인가?",
+      "verso": "굶주림과 질병, 자연의 변화와 씨름하며 살아온 사람들의 역사",
+      "explanation": "왕조의 교체와 전쟁 뒤편에는 흉년을 견디고 병을 이겨 내며 살아온 사람들이 있었다. 오늘의 저출산과 기후 위기도 그 긴 씨름의 연장선에 있다.",
+      "tags": [
+        "환경",
+        "정리"
+      ],
+      "distractors": {
+        "easy": [
+          "자연과 무관한 역사",
+          "굶주림이 없던 역사",
+          "질병이 없던 역사"
+        ],
+        "medium": [
+          "왕과 전쟁만의 역사",
+          "환경이 늘 풍요로웠던 역사",
+          "인구가 늘 일정했던 역사"
+        ],
+        "hard": [
+          "기술로 모두 극복한 역사",
+          "환경 문제가 없던 역사",
+          "현대에만 해당하는 역사"
+        ]
+      }
+    }
+  ]
+}

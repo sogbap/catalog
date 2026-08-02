@@ -1,0 +1,432 @@
+{
+  "id": "kr-godeunghakgyo-hanguksa-jiyeok-yeoksa",
+  "title": "지역으로 보는 한국사",
+  "emoji": "🗺️",
+  "subject": "history",
+  "country": "kr",
+  "courseDescription": "경주와 개성, 평양과 강화, 제주와 부산이 각각 겪은 역사를 통해 우리 역사를 지역의 눈으로 다시 살펴본다.",
+  "lesson": "<style>\n  /* SVG 그림 스타일. currentColor(글자색)와 var(--accent)(과목 색)를 사용해\n     앱의 밝은/어두운 테마에 맞춰 표시된다. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Apple SD Gothic Neo\", \"Noto Sans KR\", \"Malgun Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>지역으로 보는 한국사</h1>\n\n<div class=\"callout\">\n  <strong>학습 포인트</strong><br>\n  <b>수준:</b> 고등학교<br>\n  <b>주제:</b> 한국사<br>\n  <b>성격:</b> 지역사 탐구\n</div>\n\n<blockquote>\n  <p><b>핵심 질문.</b> 같은 시대를 살았어도 지역마다 겪은 역사는 달랐다. 그 차이는 무엇을 알려 줄까?</p>\n</blockquote>\n\n<p><strong>경주</strong>는 신라 천 년의 도읍이었고 <strong>개성</strong>은 고려의 도읍이자 국제 무역의 중심이었다. <strong>강화도</strong>는 외세와 마주한 관문, <strong>부산</strong>은 개항과 피란의 도시였다. <strong>제주</strong>와 <strong>광주</strong>가 겪은 아픔을 빼면 우리 현대사는 온전히 설명되지 않는다.</p>\n\n<h2>1 · 도읍의 도시들</h2>\n\n<p><strong>경주</strong>는 신라 천 년의 도읍으로 도시 전체가 유적이며, <strong>개성</strong>은 고려의 도읍이자 벽란도를 낀 국제 도시였다. <strong>평양</strong>은 고조선과 고구려의 중심지였고, 조선은 나라의 중앙이자 한강을 낀 <strong>한양</strong>을 도읍으로 삼았다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 122\" role=\"img\" aria-label=\"신라의 경주, 고려의 개성, 조선의 한양으로 이어지는 도읍의 변천\">\n  <defs>\n    <marker id=\"ar-krjy1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"170\" y=\"20\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">시대마다 바뀐 중심</text>\n  <rect x=\"8\" y=\"46\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"66\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">경주</text>\n  <text x=\"54\" y=\"84\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">신라 천 년</text>\n  <path d=\"M100,72 L118,72\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-krjy1)\"/>\n  <rect x=\"122\" y=\"46\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"66\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">개성</text>\n  <text x=\"170\" y=\"84\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">고려 · 벽란도</text>\n  <path d=\"M218,72 L236,72\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-krjy1)\"/>\n  <rect x=\"240\" y=\"46\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"66\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">한양</text>\n  <text x=\"286\" y=\"84\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">조선 · 한강</text>\n</svg>\n<figcaption>도읍이 옮겨 갈 때마다 나라의 성격도 달라졌다.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>개념 · 지역사</strong><br>\n  수도와 지배층 중심의 서술에서 벗어나 <b>각 지역이 겪은 고유한 경험</b>을 살피는 관점. 역사를 훨씬 두텁고 입체적으로 만들어 준다.\n</div>\n\n<h2>2 · 외세와 마주한 곳</h2>\n\n<p><strong>강화도</strong>는 몽골 항쟁의 임시 도읍이자 병인양요·신미양요의 전장, 그리고 강화도 조약의 무대였다. <strong>부산</strong>에는 조선 시대 왜관이 있었고 1876년 가장 먼저 개항했으며, 6·25 때는 임시 수도가 되어 피란민을 품었다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"강화도와 부산이 겪은 역사의 비교\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">바다가 맞닿은 두 관문</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">강화도</text>\n  <text x=\"87\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">대몽 항쟁의 임시 도읍</text>\n  <text x=\"87\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">병인·신미양요</text>\n  <text x=\"87\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">강화도 조약</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">부산</text>\n  <text x=\"253\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">왜관의 교역</text>\n  <text x=\"253\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">1876년 최초 개항</text>\n  <text x=\"253\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">6·25 임시 수도</text>\n</svg>\n<figcaption>바깥 세계와 먼저 부딪힌 곳에 역사가 겹겹이 쌓였다.</figcaption>\n</figure>\n\n<h2>3 · 아픔과 저항의 자리</h2>\n\n<p><strong>제주</strong>는 탐라국에서 삼별초의 마지막 항쟁지, 유배지를 거쳐 <strong>4·3 사건</strong>의 비극을 겪었다. <strong>마산</strong>의 시위가 4·19 혁명의 도화선이 되었고, <strong>광주</strong>는 <strong>5·18 민주화 운동</strong>으로 민주주의의 결정적 장면을 남겼다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 122\" role=\"img\" aria-label=\"제주, 마산, 광주가 현대사에서 겪은 사건\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">지역이 겪은 현대사</text>\n  <rect x=\"6\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">제주</text>\n  <text x=\"58\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">4·3 사건 (1948)</text>\n  <text x=\"58\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">분단의 비극</text>\n  <rect x=\"118\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">마산</text>\n  <text x=\"170\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">3·15 규탄 시위</text>\n  <text x=\"170\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">4·19의 도화선</text>\n  <rect x=\"230\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">광주</text>\n  <text x=\"282\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">5·18 (1980)</text>\n  <text x=\"282\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">민주화의 뿌리</text>\n</svg>\n<figcaption>이 지역들을 빼면 우리 현대사는 설명되지 않는다.</figcaption>\n</figure>\n\n<h2>핵심 정리</h2>\n\n<h3>지역과 역사</h3>\n\n<table>\n  <tr><th>지역</th><th>겪은 역사</th></tr>\n  <tr><td>경주</td><td>신라 천 년의 도읍</td></tr>\n  <tr><td>개성</td><td>고려의 도읍, 벽란도·개성 상인</td></tr>\n  <tr><td>평양</td><td>고조선·고구려의 중심, 오늘 북한 수도</td></tr>\n  <tr><td>강화도</td><td>대몽 항쟁, 양요, 강화도 조약</td></tr>\n  <tr><td>제주</td><td>탐라국, 삼별초, 유배지, 4·3</td></tr>\n  <tr><td>부산</td><td>왜관, 최초 개항, 6·25 임시 수도</td></tr>\n</table>\n\n<h3>핵심 용어</h3>\n\n<table>\n  <tr><th>용어</th><th>뜻</th></tr>\n  <tr><td>지역사</td><td>지역의 눈으로 본 역사</td></tr>\n  <tr><td>개성 상인</td><td>전국을 무대로 한 상인 집단</td></tr>\n  <tr><td>왜관</td><td>조선의 일본 교역 창구</td></tr>\n  <tr><td>제주 4·3 사건</td><td>1948년 제주에서의 비극</td></tr>\n  <tr><td>읍지</td><td>지역의 사정을 적은 옛 기록</td></tr>\n</table>\n\n<h3>지역사 탐구 방법</h3>\n\n<table>\n  <tr><th>자료</th><th>활용</th></tr>\n  <tr><td>지역 박물관·문화원</td><td>유물과 향토 자료</td></tr>\n  <tr><td>읍지·옛 지도</td><td>그 시대 지역의 모습</td></tr>\n  <tr><td>어른들의 증언</td><td>기록에 없는 구술 사료</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>주의</strong><br>\n  우리 역사는 <b>수도에서 일어난 일만으로 이해할 수 없다</b>—4·19의 도화선은 마산이었고, 민주화의 결정적 장면은 광주에 있었으며, 분단의 비극은 제주에서도 일어났다. 지역을 빼면 절반만 남는다.\n</div>\n\n<blockquote>\n  <p>역사는 서울에서만 일어나지 않았다. 내가 사는 고장에도 이야기가 있고, 그 이야기를 찾는 일에서 역사 탐구가 시작된다.</p>\n</blockquote>\n",
+  "questionLang": "ko",
+  "answerLang": "ko",
+  "version": 1,
+  "level": "고등학교",
+  "theme": "한국사",
+  "cards": [
+    {
+      "recto": "천 년 동안 신라의 도읍이었으며 불국사와 석굴암이 있는 도시는?",
+      "verso": "경주",
+      "explanation": "경주는 신라의 도읍으로 천 년을 이어 온 도시로, 도시 전체가 유적이라 할 만하다. 불국사·석굴암과 왕릉, 첨성대가 남아 있다.",
+      "tags": [
+        "지역사",
+        "도시"
+      ],
+      "distractors": {
+        "easy": [
+          "서울",
+          "부산",
+          "인천"
+        ],
+        "medium": [
+          "개성",
+          "평양",
+          "공주"
+        ],
+        "hard": [
+          "부여",
+          "김해",
+          "익산"
+        ]
+      }
+    },
+    {
+      "recto": "고려의 도읍으로, 벽란도를 통해 국제 무역이 이루어지고 상인 집단이 이름을 떨친 도시는?",
+      "verso": "개성",
+      "explanation": "개성은 고려의 도읍으로 벽란도와 가까워 국제 교류의 중심이었다. 조선 시대에도 개성 상인(송상)이 전국을 무대로 활약하였다.",
+      "tags": [
+        "지역사",
+        "도시"
+      ],
+      "distractors": {
+        "easy": [
+          "경주",
+          "부산",
+          "제주"
+        ],
+        "medium": [
+          "평양",
+          "한양",
+          "강화"
+        ],
+        "hard": [
+          "의주",
+          "동래",
+          "전주"
+        ]
+      }
+    },
+    {
+      "recto": "고조선과 고구려의 중심지였으며, 오늘날 북한의 수도인 도시는?",
+      "verso": "평양",
+      "explanation": "평양은 고조선의 중심지로 여겨지고 고구려가 도읍으로 삼았던 유서 깊은 도시이다. 분단 이후에는 북한의 수도가 되었다.",
+      "tags": [
+        "지역사",
+        "도시"
+      ],
+      "distractors": {
+        "easy": [
+          "서울",
+          "부산",
+          "대구"
+        ],
+        "medium": [
+          "개성",
+          "경주",
+          "의주"
+        ],
+        "hard": [
+          "국내성",
+          "함흥",
+          "원산"
+        ]
+      }
+    },
+    {
+      "recto": "고려의 대몽 항쟁부터 병인양요·신미양요, 강화도 조약까지 강화도가 되풀이해 맡은 역할은?",
+      "verso": "외세와 마주할 때마다 최전선이 된 관문",
+      "explanation": "강화도는 몽골 침입 때 임시 도읍이었고, 근대에는 프랑스·미국·일본이 차례로 들이닥친 곳이다. 수도로 들어가는 물길의 길목이라는 지리적 조건이 그 운명을 만들었다.",
+      "tags": [
+        "지역사",
+        "도시"
+      ],
+      "distractors": {
+        "easy": [
+          "평화롭기만 한 휴양지",
+          "농사만 짓던 곳",
+          "사람이 살지 않던 섬"
+        ],
+        "medium": [
+          "나라의 도읍으로 줄곧 쓰인 곳",
+          "외국과 교류가 없던 곳",
+          "유배지로만 쓰인 곳"
+        ],
+        "hard": [
+          "국제 무역항의 중심지",
+          "왜관이 설치된 교역 창구",
+          "삼별초의 마지막 근거지"
+        ]
+      }
+    },
+    {
+      "recto": "탐라국에서 시작해 삼별초의 마지막 항쟁지, 유배지, 그리고 4·3의 아픔을 겪은 섬은?",
+      "verso": "제주도",
+      "explanation": "제주는 독자적인 탐라국이었다가 고려에 편입되었고, 삼별초의 마지막 근거지이자 조선 시대 유배지였으며, 1948년 4·3 사건의 비극을 겪었다.",
+      "tags": [
+        "지역사",
+        "도시"
+      ],
+      "distractors": {
+        "easy": [
+          "강화도",
+          "울릉도",
+          "독도"
+        ],
+        "medium": [
+          "진도",
+          "거제도",
+          "완도"
+        ],
+        "hard": [
+          "흑산도",
+          "추자도",
+          "가파도"
+        ]
+      }
+    },
+    {
+      "recto": "조선 시대 왜관이 있었고 1876년 가장 먼저 개항했으며, 6·25 때 임시 수도가 된 도시는?",
+      "verso": "부산",
+      "explanation": "부산에는 조선 시대 일본과의 교역 창구인 왜관이 있었고, 강화도 조약으로 가장 먼저 개항하였다. 6·25 전쟁 때는 임시 수도로서 피란민을 품었다.",
+      "tags": [
+        "지역사",
+        "도시"
+      ],
+      "distractors": {
+        "easy": [
+          "서울",
+          "평양",
+          "개성"
+        ],
+        "medium": [
+          "인천",
+          "원산",
+          "목포"
+        ],
+        "hard": [
+          "동래는 부산의 옛 이름이다",
+          "마산",
+          "진해"
+        ]
+      }
+    },
+    {
+      "recto": "[비교] 경주와 개성은 각각 어느 나라의 도읍이었는가?",
+      "verso": "경주는 신라, 개성은 고려의 도읍이었다",
+      "explanation": "경주는 신라 천 년의 도읍이고, 개성은 고려의 도읍이다. 조선은 한양을 도읍으로 삼았으니, 세 도시가 각 시대를 대표한다.",
+      "tags": [
+        "comparaison",
+        "지역사"
+      ],
+      "distractors": {
+        "easy": [
+          "경주는 고려, 개성은 신라의 도읍이었다",
+          "둘 다 조선의 도읍이었다",
+          "둘 다 고구려의 도읍이었다"
+        ],
+        "medium": [
+          "경주는 백제, 개성은 고려의 도읍이었다",
+          "둘 다 신라의 도읍이었다",
+          "경주는 신라, 개성은 조선의 도읍이었다"
+        ],
+        "hard": [
+          "경주는 가야, 개성은 발해의 도읍이었다",
+          "둘 다 고려의 도읍이었다",
+          "경주는 신라, 개성은 후백제의 도읍이었다"
+        ]
+      }
+    },
+    {
+      "recto": "백제가 웅진(공주)과 사비(부여)로 도읍을 옮긴 까닭은 무엇인가?",
+      "verso": "고구려의 공격으로 한성을 잃었기 때문",
+      "explanation": "백제는 고구려의 남하로 한성을 잃고 웅진으로, 다시 사비로 도읍을 옮겼다. 도읍의 이동은 그 나라가 처한 상황을 그대로 보여 준다.",
+      "tags": [
+        "지역사",
+        "고대"
+      ],
+      "distractors": {
+        "easy": [
+          "바다가 좋아서",
+          "날씨가 따뜻해서",
+          "인구가 늘어서"
+        ],
+        "medium": [
+          "신라와 동맹을 맺으려고",
+          "당의 요구로",
+          "무역을 늘리려고"
+        ],
+        "hard": [
+          "왜의 침입 때문에",
+          "자연재해 때문에",
+          "불교를 받아들이려고"
+        ]
+      }
+    },
+    {
+      "recto": "조선이 한양을 도읍으로 정한 까닭으로 알맞은 것은?",
+      "verso": "한반도의 중앙에 있고 한강을 끼고 있어 교통과 방어에 유리했기 때문",
+      "explanation": "한양은 나라의 중앙에 있어 다스리기 좋고, 한강의 물길로 세곡을 옮기기 편했으며 산으로 둘러싸여 방어에도 유리하였다. 새 왕조의 새 출발이라는 뜻도 있었다.",
+      "tags": [
+        "지역사",
+        "조선"
+      ],
+      "distractors": {
+        "easy": [
+          "바다에 가까워서",
+          "가장 인구가 많아서",
+          "고려의 도읍이어서"
+        ],
+        "medium": [
+          "국경에 가까워서",
+          "산이 없어서",
+          "외국과 가까워서"
+        ],
+        "hard": [
+          "풍수지리를 무시해서",
+          "농사가 가장 잘돼서",
+          "왜관이 있어서"
+        ]
+      }
+    },
+    {
+      "recto": "양반 마을의 집과 생활 모습을 오늘까지 고스란히 전하여 세계 유산이 된 안동의 마을은?",
+      "verso": "하회마을",
+      "explanation": "하회마을은 종가와 서민의 집, 서원이 함께 남아 조선 시대 마을의 짜임을 보여 준다. 경주 양동마을과 함께 '한국의 역사 마을'로 세계 유산에 올랐다.",
+      "tags": [
+        "지역사",
+        "문화"
+      ],
+      "distractors": {
+        "easy": [
+          "여의도",
+          "해운대",
+          "인사동"
+        ],
+        "medium": [
+          "북촌 한옥마을",
+          "전주 한옥마을",
+          "남산골 한옥마을"
+        ],
+        "hard": [
+          "양동마을",
+          "외암마을",
+          "낙안읍성"
+        ]
+      }
+    },
+    {
+      "recto": "1980년 신군부에 맞서 시민들이 일어난 민주화 운동이 일어난 도시는?",
+      "verso": "광주",
+      "explanation": "광주는 1980년 5·18 민주화 운동의 무대로, 계엄군의 무력 진압에 맞서 시민들이 공동체를 이루어 저항하였다. 그 기록물은 세계 기록 유산이 되었다.",
+      "tags": [
+        "지역사",
+        "현대"
+      ],
+      "distractors": {
+        "easy": [
+          "서울",
+          "부산",
+          "제주"
+        ],
+        "medium": [
+          "대구",
+          "마산",
+          "인천"
+        ],
+        "hard": [
+          "전주",
+          "목포",
+          "여수"
+        ]
+      }
+    },
+    {
+      "recto": "1960년 3·15 부정 선거에 항의하는 시위가 일어나 4·19 혁명의 도화선이 된 도시는?",
+      "verso": "마산",
+      "explanation": "마산에서 부정 선거 규탄 시위가 일어났고, 김주열 학생의 죽음이 알려지면서 시위가 전국으로 번져 4·19 혁명으로 이어졌다.",
+      "tags": [
+        "지역사",
+        "현대"
+      ],
+      "distractors": {
+        "easy": [
+          "서울",
+          "제주",
+          "개성"
+        ],
+        "medium": [
+          "광주",
+          "대구",
+          "부산"
+        ],
+        "hard": [
+          "대전",
+          "청주",
+          "전주"
+        ]
+      }
+    },
+    {
+      "recto": "지역의 역사를 살펴보는 일이 지니는 뜻으로 알맞은 것은?",
+      "verso": "중앙 중심의 역사에서 보이지 않던 지역과 사람들의 경험을 드러내는 것",
+      "explanation": "역사는 흔히 수도와 지배층 중심으로 서술된다. 지역사를 보면 제주 4·3이나 광주 5·18처럼 지역이 겪은 고유한 경험이 드러나고, 역사가 훨씬 두터워진다.",
+      "tags": [
+        "지역사",
+        "의의"
+      ],
+      "distractors": {
+        "easy": [
+          "지역 자랑을 하기 위한 것",
+          "관광 안내를 위한 것",
+          "특별한 뜻은 없다"
+        ],
+        "medium": [
+          "수도의 역사를 더 잘 알기 위한 것",
+          "연도를 외우기 위한 것",
+          "행정 구역을 익히기 위한 것"
+        ],
+        "hard": [
+          "중앙의 역사를 대체하기 위한 것",
+          "지역 간 우열을 가리기 위한 것",
+          "세계사와 분리하기 위한 것"
+        ]
+      }
+    },
+    {
+      "recto": "[주의] 우리 역사는 수도에서 일어난 일만 알면 충분히 이해할 수 있는가?",
+      "verso": "아니다. 제주 4·3, 광주 5·18처럼 지역에서 일어난 일을 알아야 온전히 이해할 수 있다",
+      "explanation": "흔한 오해이다. 4·19의 도화선은 마산이었고, 민주화의 결정적 장면은 광주에 있었으며, 분단의 비극은 제주에서도 일어났다. 지역을 빼면 우리 역사는 절반만 남는다.",
+      "tags": [
+        "piege",
+        "지역사"
+      ],
+      "distractors": {
+        "easy": [
+          "그렇다. 수도만 알면 된다",
+          "그렇다. 지역사는 중요하지 않다",
+          "그렇다. 모든 일은 서울에서 일어났다"
+        ],
+        "medium": [
+          "그렇다. 지역은 중앙을 따라갔을 뿐이다",
+          "그렇다. 지역사는 향토 자료일 뿐이다",
+          "아니다. 그러나 지역사는 역사가 아니다"
+        ],
+        "hard": [
+          "그렇다. 4·19도 서울에서 시작되었다",
+          "그렇다. 5·18은 전국에서 같았다",
+          "아니다. 그러나 제주는 예외이다"
+        ]
+      }
+    },
+    {
+      "recto": "내가 사는 고장의 역사를 알아보려 할 때 찾아볼 수 있는 자료로 알맞은 것은?",
+      "verso": "지역의 박물관·향토 자료관, 읍지와 옛 지도, 어른들의 증언",
+      "explanation": "지역 박물관과 문화원의 자료, 조선 시대의 읍지와 옛 지도, 그리고 그곳에서 오래 살아온 분들의 증언이 좋은 사료가 된다. 가까운 곳에서 역사 탐구를 시작할 수 있다.",
+      "tags": [
+        "지역사",
+        "탐구"
+      ],
+      "distractors": {
+        "easy": [
+          "소설과 드라마만",
+          "광고 전단",
+          "일기 예보"
+        ],
+        "medium": [
+          "교과서만",
+          "세계사 연표",
+          "외국 자료만"
+        ],
+        "hard": [
+          "실록만",
+          "국사 편찬 자료만",
+          "인터넷 백과사전만"
+        ]
+      }
+    },
+    {
+      "recto": "전체적으로 지역으로 본 우리 역사는 어떤 모습이라고 할 수 있는가?",
+      "verso": "저마다 다른 경험을 지닌 지역들이 모여 이룬, 두텁고 다양한 역사",
+      "explanation": "경주와 개성이 도읍의 영광을, 강화와 부산이 외세와의 만남을, 제주와 광주가 아픔과 저항을 겪었다. 이 다양한 경험이 모여 우리 역사를 이룬다.",
+      "tags": [
+        "지역사",
+        "정리"
+      ],
+      "distractors": {
+        "easy": [
+          "수도만의 역사",
+          "어디나 똑같은 역사",
+          "지역과 무관한 역사"
+        ],
+        "medium": [
+          "중앙이 정해 준 역사",
+          "지역마다 단절된 역사",
+          "근대 이후에만 있는 역사"
+        ],
+        "hard": [
+          "지역 간 우열이 뚜렷한 역사",
+          "행정 구역의 역사",
+          "향토 자료에 그치는 역사"
+        ]
+      }
+    }
+  ]
+}

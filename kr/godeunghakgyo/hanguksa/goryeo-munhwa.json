@@ -1,0 +1,432 @@
+{
+  "id": "kr-godeunghakgyo-hanguksa-goryeo-munhwa",
+  "title": "고려의 문화와 국제 교류",
+  "emoji": "⛵",
+  "subject": "history",
+  "country": "kr",
+  "courseDescription": "벽란도를 통한 개방적 국제 교류와 불교·인쇄·공예의 발달 등, 다원적 국제 질서 속에서 꽃핀 고려 문화를 살펴본다.",
+  "lesson": "<style>\n  /* SVG 그림 스타일. currentColor(글자색)와 var(--accent)(과목 색)를 사용해\n     앱의 밝은/어두운 테마에 맞춰 표시된다. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Apple SD Gothic Neo\", \"Noto Sans KR\", \"Malgun Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>고려의 문화와 국제 교류</h1>\n\n<div class=\"callout\">\n  <strong>학습 포인트</strong><br>\n  <b>수준:</b> 고등학교<br>\n  <b>주제:</b> 한국사<br>\n  <b>시기:</b> 10세기 ~ 14세기\n</div>\n\n<blockquote>\n  <p><b>핵심 질문.</b> 여러 나라와 부딪히고 어울리는 사이, 고려는 어떻게 독창적인 문화를 만들어 냈을까?</p>\n</blockquote>\n\n<p>고려는 <strong>벽란도</strong>를 통해 송·일본은 물론 아라비아 상인과도 교류하여 <strong>코리아</strong>라는 이름을 세계에 남겼다. 불교에서는 <strong>의천</strong>과 <strong>지눌</strong>이 통합을 꾀했고, <strong>상감 기법</strong>과 <strong>『직지심체요절』</strong>, <strong>고려 불화</strong> 같은 독창적 성취를 이루었다.</p>\n\n<h2>1 · 열린 바다, 벽란도</h2>\n\n<p>예성강 어귀의 <strong>벽란도</strong>는 개경과 가까워 국제 무역항으로 번성하였다. 송·일본·여진은 물론 아라비아 상인까지 드나들며 고려를 <strong>코리아</strong>로 서방에 알렸다. 고려는 여러 세력 사이에서 <strong>실리를 얻는 외교</strong>를 폈다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"벽란도를 중심으로 송, 일본, 아라비아와 이어진 고려의 국제 교류\">\n  <defs>\n    <marker id=\"ar-krkm1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"118\" y=\"44\" width=\"104\" height=\"40\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"69\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10.5\" font-weight=\"700\">벽란도</text>\n  <path d=\"M118,58 L84,40\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-krkm1)\"/>\n  <path d=\"M222,58 L256,40\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-krkm1)\"/>\n  <path d=\"M170,84 L170,100\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-krkm1)\"/>\n  <text x=\"60\" y=\"30\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">송 · 거란</text>\n  <text x=\"280\" y=\"30\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">일본 · 여진</text>\n  <text x=\"170\" y=\"114\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">아라비아 상인 → 「코리아」</text>\n</svg>\n<figcaption>고려의 이름이 세계로 퍼져 나간 통로였다.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>개념 · 다원적 국제 질서</strong><br>\n  송·거란·여진·원이 번갈아 힘을 겨루던 국제 정세. 고려는 어느 한 나라만 섬기지 않고 <b>정세에 따라 실리를 얻는 외교</b>를 폈다.\n</div>\n\n<h2>2 · 불교와 사상</h2>\n\n<p><strong>의천</strong>은 교종을 중심으로 선종을 아우르는 천태종을 열었고, 무신 정권기에 <strong>지눌</strong>은 선종을 중심으로 <strong>수선사 결사</strong>를 이끌며 불교를 개혁하였다. <strong>초조대장경</strong>은 거란의 침입을 물리치려는 염원을 담아 만들어졌다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"의천과 지눌의 불교 통합 방향 비교\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">서로 반대에서 만나다</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">의천</text>\n  <text x=\"87\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">교종 중심</text>\n  <text x=\"87\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">천태종</text>\n  <text x=\"87\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">왕실의 후원</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">지눌</text>\n  <text x=\"253\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">선종 중심</text>\n  <text x=\"253\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">수선사 결사</text>\n  <text x=\"253\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">수행의 강조</text>\n</svg>\n<figcaption>같은 통합이라도 출발점이 정반대였다.</figcaption>\n</figure>\n\n<h2>3 · 기술과 예술의 성취</h2>\n\n<p>청자에 무늬를 새겨 넣는 <strong>상감 기법</strong>은 고려만의 기술이었고, <strong>『직지심체요절』</strong>은 세계에서 가장 오래된 금속 활자 인쇄본이다. <strong>고려 불화</strong>는 섬세함으로 이름높다. <strong>김부식</strong>의 『삼국사기』와 <strong>일연</strong>의 『삼국유사』가 역사를 정리했고, <strong>문익점</strong>의 목화와 <strong>최무선</strong>의 화약이 생활과 국방을 바꾸었다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 126\" role=\"img\" aria-label=\"고려의 세 가지 독창적 성취: 상감 청자, 금속 활자, 고려 불화\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">고려만의 것</text>\n  <rect x=\"6\" y=\"30\" width=\"104\" height=\"84\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">상감 기법</text>\n  <text x=\"58\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">파고 메워 굽기</text>\n  <text x=\"58\" y=\"95\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">상감 청자</text>\n  <rect x=\"118\" y=\"30\" width=\"104\" height=\"84\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">금속 활자</text>\n  <text x=\"170\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">직지심체요절</text>\n  <text x=\"170\" y=\"95\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">세계 최고(最古)</text>\n  <rect x=\"230\" y=\"30\" width=\"104\" height=\"84\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">고려 불화</text>\n  <text x=\"282\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">수월관음도</text>\n  <text x=\"282\" y=\"95\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">섬세하고 화려함</text>\n</svg>\n<figcaption>열려 있었기에 더 독창적일 수 있었다.</figcaption>\n</figure>\n\n<h2>핵심 정리</h2>\n\n<h3>분야별 성취</h3>\n\n<table>\n  <tr><th>분야</th><th>내용</th></tr>\n  <tr><td>교류</td><td>벽란도, 「코리아」의 유래</td></tr>\n  <tr><td>불교</td><td>의천(천태종), 지눌(수선사)</td></tr>\n  <tr><td>인쇄</td><td>초조대장경, 『직지심체요절』</td></tr>\n  <tr><td>공예</td><td>상감 기법, 고려 불화</td></tr>\n  <tr><td>역사</td><td>『삼국사기』, 『삼국유사』</td></tr>\n</table>\n\n<h3>핵심 용어</h3>\n\n<table>\n  <tr><th>용어</th><th>뜻</th></tr>\n  <tr><td>벽란도</td><td>고려의 국제 무역항</td></tr>\n  <tr><td>상감 기법</td><td>무늬를 파고 흙을 메우는 기술</td></tr>\n  <tr><td>수선사 결사</td><td>지눌이 이끈 불교 개혁 운동</td></tr>\n  <tr><td>초조대장경</td><td>거란 격퇴를 염원한 첫 대장경</td></tr>\n  <tr><td>다원적 국제 질서</td><td>여러 세력이 겨루던 국제 정세</td></tr>\n</table>\n\n<h3>인물</h3>\n\n<table>\n  <tr><th>인물</th><th>활동</th></tr>\n  <tr><td>의천</td><td>천태종, 교종 중심 통합</td></tr>\n  <tr><td>지눌</td><td>수선사, 선종 중심 개혁</td></tr>\n  <tr><td>김부식</td><td>『삼국사기』 편찬</td></tr>\n  <tr><td>일연</td><td>『삼국유사』, 단군 신화 수록</td></tr>\n  <tr><td>문익점·최무선</td><td>목화 도입, 화약·화포</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>주의</strong><br>\n  <b>고려는 폐쇄적인 나라가 아니었다</b>—벽란도에 아라비아 상인까지 드나든 개방적인 나라였고, 「코리아」라는 이름도 이때 알려졌다. 쇄국은 훨씬 뒤의 일이다. 또 <b>의천</b>(교종 중심)과 <b>지눌</b>(선종 중심)의 방향을 혼동하지 말자.\n</div>\n\n<blockquote>\n  <p>배가 드나드는 항구에서 세계의 소식이 들어오고, 그 자리에서 고려만의 빛깔이 태어났다. 열림과 독창성은 서로 반대말이 아니었다.</p>\n</blockquote>\n",
+  "questionLang": "ko",
+  "answerLang": "ko",
+  "version": 1,
+  "level": "고등학교",
+  "theme": "한국사",
+  "cards": [
+    {
+      "recto": "고려 시대에 송·일본은 물론 아라비아 상인까지 드나든 국제 무역항은?",
+      "verso": "벽란도",
+      "explanation": "예성강 어귀의 벽란도는 개경과 가까워 국제 무역항으로 번성하였다. 송·일본·아라비아 상인이 드나들며 고려의 개방성을 보여 주었다.",
+      "tags": [
+        "고려",
+        "교류"
+      ],
+      "distractors": {
+        "easy": [
+          "부산항",
+          "인천항",
+          "울산항"
+        ],
+        "medium": [
+          "청해진",
+          "제물포",
+          "원산"
+        ],
+        "hard": [
+          "당항성",
+          "울산항(신라)",
+          "삼포"
+        ]
+      }
+    },
+    {
+      "recto": "아라비아 상인들을 통해 고려가 서방 세계에 알려진 이름은?",
+      "verso": "코리아(Corea)",
+      "explanation": "벽란도를 드나든 아라비아 상인들이 고려를 '코리아'로 서방에 알렸다. 오늘날 우리나라를 부르는 영어 이름의 뿌리이다.",
+      "tags": [
+        "고려",
+        "교류"
+      ],
+      "distractors": {
+        "easy": [
+          "조선",
+          "한국",
+          "대한"
+        ],
+        "medium": [
+          "신라",
+          "발해",
+          "가야"
+        ],
+        "hard": [
+          "실라(Silla)",
+          "차이나",
+          "지팡구"
+        ]
+      }
+    },
+    {
+      "recto": "교종을 중심으로 선종을 아우르려 천태종을 세운 고려의 승려는?",
+      "verso": "의천",
+      "explanation": "의천은 왕실의 후원을 받아 교종을 중심으로 선종을 통합하려는 천태종을 열었다. 교리 공부와 수행을 함께해야 한다고 가르쳤다.",
+      "tags": [
+        "고려",
+        "사상"
+      ],
+      "distractors": {
+        "easy": [
+          "세종대왕",
+          "왕건",
+          "이성계"
+        ],
+        "medium": [
+          "원효",
+          "의상",
+          "혜초"
+        ],
+        "hard": [
+          "지눌",
+          "혜심",
+          "일연"
+        ]
+      }
+    },
+    {
+      "recto": "무신 정권기에 수선사 결사를 이끌며 선종을 중심으로 불교를 개혁한 승려는?",
+      "verso": "지눌",
+      "explanation": "지눌은 타락한 불교계를 비판하며 수행에 힘쓰자는 수선사 결사를 이끌었다. 선종을 중심으로 교종을 아우르는 조계종의 뿌리를 놓았다.",
+      "tags": [
+        "고려",
+        "사상"
+      ],
+      "distractors": {
+        "easy": [
+          "장보고",
+          "김유신",
+          "안중근"
+        ],
+        "medium": [
+          "의천",
+          "원효",
+          "의상"
+        ],
+        "hard": [
+          "일연",
+          "혜초",
+          "요세"
+        ]
+      }
+    },
+    {
+      "recto": "[비교] 의천과 지눌은 각각 무엇을 중심으로 불교를 통합하려 했는가?",
+      "verso": "의천은 교종을 중심으로, 지눌은 선종을 중심으로 통합하려 하였다",
+      "explanation": "의천은 교리 공부의 교종을 바탕으로 천태종을 열었고, 지눌은 수행의 선종을 바탕으로 수선사 결사를 이끌었다. 통합의 방향이 서로 반대였다.",
+      "tags": [
+        "comparaison",
+        "고려"
+      ],
+      "distractors": {
+        "easy": [
+          "둘 다 유교로 통합하려 했다",
+          "둘 다 도교를 따랐다",
+          "둘 다 불교를 없애려 했다"
+        ],
+        "medium": [
+          "의천이 선종, 지눌이 교종 중심이다",
+          "둘 다 교종 중심이었다",
+          "둘 다 선종 중심이었다"
+        ],
+        "hard": [
+          "의천은 조계종, 지눌은 천태종을 세웠다",
+          "둘 다 신라 시대 승려이다",
+          "의천은 화엄종, 지눌은 천태종을 세웠다"
+        ]
+      }
+    },
+    {
+      "recto": "현재 남아 있는 세계에서 가장 오래된 금속 활자 인쇄본은?",
+      "verso": "『직지심체요절』",
+      "explanation": "『직지심체요절』은 고려 말에 금속 활자로 찍은 불교 책으로, 구텐베르크보다 앞선 세계 최고(最古)의 금속 활자 인쇄본이다. 현재 프랑스에 있다.",
+      "tags": [
+        "고려",
+        "문화"
+      ],
+      "distractors": {
+        "easy": [
+          "훈민정음 해례본",
+          "조선왕조실록",
+          "동의보감"
+        ],
+        "medium": [
+          "팔만대장경",
+          "삼국사기",
+          "삼국유사"
+        ],
+        "hard": [
+          "초조대장경",
+          "무구정광대다라니경",
+          "상정고금예문"
+        ]
+      }
+    },
+    {
+      "recto": "청자 표면을 파내고 다른 색 흙을 메워 무늬를 넣은 고려의 독창적 기법은?",
+      "verso": "상감 기법",
+      "explanation": "상감 기법은 무늬를 파고 흰 흙과 붉은 흙을 메워 구워 내는 고려만의 기술이다. 이로써 만든 상감 청자는 고려 공예의 정수로 꼽힌다.",
+      "tags": [
+        "고려",
+        "문화"
+      ],
+      "distractors": {
+        "easy": [
+          "도장 찍기",
+          "물레 사용",
+          "가마 굽기"
+        ],
+        "medium": [
+          "분청 기법",
+          "청화 기법",
+          "철화 기법"
+        ],
+        "hard": [
+          "음각 기법만",
+          "양각 기법만",
+          "귀얄 기법"
+        ]
+      }
+    },
+    {
+      "recto": "섬세하고 화려한 아름다움으로 이름난, 「수월관음도」 같은 고려의 그림은?",
+      "verso": "고려 불화",
+      "explanation": "고려 불화는 금색과 화려한 색채, 섬세한 선으로 세계적 평가를 받는다. 왕실과 귀족의 후원 속에 발달했으며 상당수가 일본 등 국외에 있다.",
+      "tags": [
+        "고려",
+        "문화"
+      ],
+      "distractors": {
+        "easy": [
+          "풍속화",
+          "산수화",
+          "민화"
+        ],
+        "medium": [
+          "고분 벽화",
+          "몽유도원도",
+          "인물화"
+        ],
+        "hard": [
+          "진경산수화",
+          "책가도",
+          "문인화"
+        ]
+      }
+    },
+    {
+      "recto": "거란의 침입을 부처의 힘으로 물리치려는 염원을 담아 만든 고려 최초의 대장경은?",
+      "verso": "초조대장경",
+      "explanation": "초조대장경은 거란의 침입 때 만들어졌으나 몽골의 침입으로 불타 버렸다. 그 뒤 다시 만든 것이 오늘날 해인사에 있는 팔만대장경이다.",
+      "tags": [
+        "고려",
+        "문화"
+      ],
+      "distractors": {
+        "easy": [
+          "훈민정음",
+          "경국대전",
+          "동의보감"
+        ],
+        "medium": [
+          "팔만대장경",
+          "직지심체요절",
+          "삼국유사"
+        ],
+        "hard": [
+          "교장(속장경)",
+          "상정고금예문",
+          "무구정광대다라니경"
+        ]
+      }
+    },
+    {
+      "recto": "김부식이 유교적 관점에서 편찬한, 현존하는 우리나라에서 가장 오래된 역사서는?",
+      "verso": "『삼국사기』",
+      "explanation": "『삼국사기』는 김부식이 왕명을 받아 편찬한 삼국의 역사서로, 유교적 합리주의 관점에서 서술되었다. 현존하는 우리나라 최고(最古)의 역사서이다.",
+      "tags": [
+        "고려",
+        "역사서"
+      ],
+      "distractors": {
+        "easy": [
+          "조선왕조실록",
+          "훈민정음",
+          "경국대전"
+        ],
+        "medium": [
+          "삼국유사",
+          "고려사",
+          "동국통감"
+        ],
+        "hard": [
+          "제왕운기",
+          "동명왕편",
+          "해동고승전"
+        ]
+      }
+    },
+    {
+      "recto": "일연이 지어 단군 신화와 설화를 풍부하게 담은 역사서는?",
+      "verso": "『삼국유사』",
+      "explanation": "『삼국유사』는 승려 일연이 지은 책으로, 『삼국사기』에 빠진 설화와 불교 이야기를 담았다. 특히 단군 신화를 실어 우리 역사의 뿌리를 밝혔다.",
+      "tags": [
+        "고려",
+        "역사서"
+      ],
+      "distractors": {
+        "easy": [
+          "동의보감",
+          "목민심서",
+          "난중일기"
+        ],
+        "medium": [
+          "삼국사기",
+          "고려사",
+          "동국여지승람"
+        ],
+        "hard": [
+          "제왕운기",
+          "해동고승전",
+          "동명왕편"
+        ]
+      }
+    },
+    {
+      "recto": "원 간섭기에 원에서 목화씨를 들여와 옷감 생활을 바꾼 인물은?",
+      "verso": "문익점",
+      "explanation": "문익점이 들여온 목화는 무명옷을 널리 입게 하여 겨울나기를 크게 바꾸었다. 원과의 교류가 생활에 미친 영향을 보여 주는 사례이다.",
+      "tags": [
+        "고려",
+        "교류"
+      ],
+      "distractors": {
+        "easy": [
+          "세종대왕",
+          "장영실",
+          "이순신"
+        ],
+        "medium": [
+          "최무선",
+          "김부식",
+          "일연"
+        ],
+        "hard": [
+          "박위",
+          "이암",
+          "안향"
+        ]
+      }
+    },
+    {
+      "recto": "화약 제조법을 연구하여 화포를 만들고 왜구를 물리친 고려 말의 인물은?",
+      "verso": "최무선",
+      "explanation": "최무선은 화약과 화포를 만들어 진포에서 왜구의 배를 크게 무찔렀다. 기술의 발전이 국방에 직접 이바지한 사례이다.",
+      "tags": [
+        "고려",
+        "과학"
+      ],
+      "distractors": {
+        "easy": [
+          "이순신",
+          "강감찬",
+          "을지문덕"
+        ],
+        "medium": [
+          "문익점",
+          "윤관",
+          "서희"
+        ],
+        "hard": [
+          "박위",
+          "장영실",
+          "정몽주"
+        ]
+      }
+    },
+    {
+      "recto": "[주의] 고려는 외부와 교류하지 않은 폐쇄적인 나라였는가?",
+      "verso": "아니다. 벽란도에 아라비아 상인까지 드나든 매우 개방적인 나라였다",
+      "explanation": "흔한 오해이다. 고려는 송·거란·여진·일본과 교류했고 벽란도에는 아라비아 상인까지 왔다. '코리아'라는 이름이 서방에 알려진 것도 이 시기이다. 쇄국은 훨씬 뒤의 일이다.",
+      "tags": [
+        "piege",
+        "고려"
+      ],
+      "distractors": {
+        "easy": [
+          "그렇다. 문을 굳게 닫았다",
+          "그렇다. 아무와도 교류하지 않았다",
+          "그렇다. 바다에 나가지 않았다"
+        ],
+        "medium": [
+          "그렇다. 송하고만 교류하였다",
+          "그렇다. 무역을 금지하였다",
+          "아니다. 하지만 벽란도는 없었다"
+        ],
+        "hard": [
+          "그렇다. 척화비를 세웠다",
+          "그렇다. 조공만 주고받았다",
+          "아니다. 그러나 아라비아와는 무관하다"
+        ]
+      }
+    },
+    {
+      "recto": "고려가 송·거란·여진 등 여러 나라와 관계를 맺으며 취한 외교의 성격은?",
+      "verso": "여러 세력 사이에서 실리를 얻는 다원적·실리적 외교",
+      "explanation": "고려는 어느 한 나라만 섬기지 않고 송과는 문화·경제를, 거란·여진과는 정세에 따라 관계를 조절하였다. 다원적 국제 질서 속의 실리 외교였다.",
+      "tags": [
+        "고려",
+        "외교"
+      ],
+      "distractors": {
+        "easy": [
+          "어느 나라와도 관계를 맺지 않는 외교",
+          "무조건 전쟁을 벌이는 외교",
+          "일본만 섬기는 외교"
+        ],
+        "medium": [
+          "송에만 의존하는 외교",
+          "거란에만 복종하는 외교",
+          "외교 없이 무역만 하는 방식"
+        ],
+        "hard": [
+          "원에만 의존한 사대 외교",
+          "중립을 선언한 외교",
+          "해금 정책"
+        ]
+      }
+    },
+    {
+      "recto": "전체적으로 고려 문화는 어떤 특징을 지닌다고 볼 수 있는가?",
+      "verso": "개방적인 국제 교류 속에서 독창적인 기술과 예술을 꽃피운 문화",
+      "explanation": "벽란도로 세계와 이어지면서도 상감 청자와 금속 활자, 고려 불화 같은 독창적 성취를 이루었다. 열려 있었기에 더 독창적일 수 있었던 문화이다.",
+      "tags": [
+        "고려",
+        "정리"
+      ],
+      "distractors": {
+        "easy": [
+          "폐쇄적이고 단조로운 문화",
+          "중국을 그대로 따른 문화",
+          "문화가 없던 시기"
+        ],
+        "medium": [
+          "불교를 배척한 문화",
+          "유교만 발달한 문화",
+          "무역을 금지한 문화"
+        ],
+        "hard": [
+          "원의 문화만 받아들인 문화",
+          "삼국 문화를 그대로 이은 문화",
+          "조선 후기에야 시작된 문화"
+        ]
+      }
+    }
+  ]
+}

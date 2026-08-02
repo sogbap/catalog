@@ -1,0 +1,432 @@
+{
+  "id": "kr-godeunghakgyo-hanguksa-yeoksa-tamgu",
+  "title": "역사 탐구와 사료 읽기",
+  "emoji": "🔍",
+  "subject": "history",
+  "country": "kr",
+  "courseDescription": "사료의 종류와 비판 방법, 사실과 해석의 구분 등 역사를 탐구하는 방법을 익혀 스스로 역사를 읽는 힘을 기른다.",
+  "lesson": "<style>\n  /* SVG 그림 스타일. currentColor(글자색)와 var(--accent)(과목 색)를 사용해\n     앱의 밝은/어두운 테마에 맞춰 표시된다. */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: -apple-system, \"Apple SD Gothic Neo\", \"Noto Sans KR\", \"Malgun Gothic\", system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>역사 탐구와 사료 읽기</h1>\n\n<div class=\"callout\">\n  <strong>학습 포인트</strong><br>\n  <b>수준:</b> 고등학교<br>\n  <b>주제:</b> 한국사<br>\n  <b>성격:</b> 역사 탐구 방법\n</div>\n\n<blockquote>\n  <p><b>핵심 질문.</b> 우리는 직접 보지 못한 과거를 어떻게 알 수 있으며, 무엇을 조심해야 할까?</p>\n</blockquote>\n\n<p>역사는 <strong>사료</strong>에서 출발한다. 사료에는 당시에 만들어진 <strong>1차 사료</strong>와 뒷사람이 정리한 <strong>2차 사료</strong>가 있으며, 어느 쪽이든 <strong>사료 비판</strong>이 필요하다. 또 확인할 수 있는 <strong>사실</strong>과 관점이 담긴 <strong>해석</strong>을 구분하는 것이 역사를 읽는 기본이다.</p>\n\n<h2>1 · 사료의 종류</h2>\n\n<p><strong>1차 사료</strong>는 사건 당시에 만들어진 기록과 유물이다. 『난중일기』, 상소문, <strong>금석문</strong>이 여기에 든다. <strong>2차 사료</strong>는 이를 바탕으로 뒷사람이 연구해 쓴 것으로, 교과서와 연구서가 해당한다. 기록이 적은 사건에서는 <strong>구술 사료</strong>가 큰 몫을 한다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"1차 사료와 2차 사료의 비교\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">사료의 두 층</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">1차 사료</text>\n  <text x=\"87\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">당시에 만들어짐</text>\n  <text x=\"87\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">『난중일기』·금석문</text>\n  <text x=\"87\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">유물·고문서</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.45;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">2차 사료</text>\n  <text x=\"253\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">뒷사람이 정리함</text>\n  <text x=\"253\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">연구서·교과서</text>\n  <text x=\"253\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">해석이 담김</text>\n</svg>\n<figcaption>어느 쪽이든 그대로 믿는 것이 아니라 따져 읽어야 한다.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>개념 · 사료 비판</strong><br>\n  사료가 위조되지 않았는지 따지는 <b>외적 비판</b>과, 내용이 믿을 만한지·어떤 의도로 쓰였는지 따지는 <b>내적 비판</b>. 역사 연구의 첫걸음이다.\n</div>\n\n<h2>2 · 사실과 해석</h2>\n\n<p>'1592년에 임진왜란이 일어났다'는 확인할 수 있는 <strong>사실</strong>이고, '임진왜란은 큰 시련이었다'는 관점이 담긴 <strong>해석</strong>이다. 역사가 시대마다 다시 쓰이는 것은 사실이 바뀌어서가 아니라, 무엇을 중요하게 볼지가 달라지기 때문이다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"사료에서 사실을 확인하고 해석에 이르는 역사 탐구의 과정\">\n  <defs>\n    <marker id=\"ar-krys1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">사료</text>\n  <text x=\"54\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">기록·유물</text>\n  <path d=\"M100,68 L118,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-krys1)\"/>\n  <rect x=\"122\" y=\"42\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">사료 비판</text>\n  <text x=\"170\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">누가·왜 남겼나</text>\n  <path d=\"M218,68 L236,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-krys1)\"/>\n  <rect x=\"240\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">사실 → 해석</text>\n  <text x=\"286\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">근거를 들어</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">외우는 것이 아니라 따지는 것</text>\n</svg>\n<figcaption>역사 탐구는 사료에서 시작해 근거 있는 해석으로 나아간다.</figcaption>\n</figure>\n\n<h2>3 · 왜 이렇게 읽어야 하는가</h2>\n\n<p>승자의 기록은 자기를 미화하고 지배층의 기록에는 백성이 잘 보이지 않는다. 일제가 만든 <strong>식민 사관</strong>에 <strong>신채호</strong>·박은식이 맞섰던 것도 역사 해석이 힘을 지니기 때문이다. 오늘날 인터넷 정보를 다룰 때도 <strong>출처 확인</strong>이 같은 이유로 필요하다.</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 122\" role=\"img\" aria-label=\"사료를 읽을 때 던져야 할 세 가지 질문\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">사료 앞에서 던지는 물음</text>\n  <rect x=\"6\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">누가?</text>\n  <text x=\"58\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">기록자의 처지</text>\n  <text x=\"58\" y=\"97\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">신분·입장</text>\n  <rect x=\"118\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">왜?</text>\n  <text x=\"170\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">남긴 목적</text>\n  <text x=\"170\" y=\"97\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">숨은 의도</text>\n  <rect x=\"230\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">빠진 것은?</text>\n  <text x=\"282\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">기록되지 않은</text>\n  <text x=\"282\" y=\"97\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">사람들의 목소리</text>\n</svg>\n<figcaption>적혀 있는 것만큼 빠져 있는 것도 중요하다.</figcaption>\n</figure>\n\n<h2>핵심 정리</h2>\n\n<h3>사료의 종류</h3>\n\n<table>\n  <tr><th>종류</th><th>보기</th></tr>\n  <tr><td>1차 사료</td><td>『난중일기』, 상소문, 유물</td></tr>\n  <tr><td>2차 사료</td><td>연구서, 교과서</td></tr>\n  <tr><td>금석문</td><td>광개토대왕릉비, 순수비</td></tr>\n  <tr><td>구술 사료</td><td>4·3·5·18·강제 동원 증언</td></tr>\n</table>\n\n<h3>핵심 용어</h3>\n\n<table>\n  <tr><th>용어</th><th>뜻</th></tr>\n  <tr><td>사료</td><td>과거를 알려 주는 모든 자료</td></tr>\n  <tr><td>사료 비판</td><td>진위와 의도를 따져 읽는 일</td></tr>\n  <tr><td>사실</td><td>확인할 수 있는 일어난 일</td></tr>\n  <tr><td>해석</td><td>관점이 담긴 평가와 설명</td></tr>\n  <tr><td>식민 사관</td><td>식민 지배를 정당화한 왜곡된 역사관</td></tr>\n</table>\n\n<h3>탐구의 절차</h3>\n\n<table>\n  <tr><th>단계</th><th>할 일</th></tr>\n  <tr><td>1</td><td>사료를 모은다</td></tr>\n  <tr><td>2</td><td>누가·왜 남겼는지 비판한다</td></tr>\n  <tr><td>3</td><td>여러 사료를 견주어 사실을 밝힌다</td></tr>\n  <tr><td>4</td><td>근거를 들어 스스로 해석한다</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>주의</strong><br>\n  <b>사료에 적힌 것이 곧 사실은 아니다</b>—승자는 자기를 미화하고, 지배층의 기록에는 백성의 목소리가 빠진다. 사료는 진실 그 자체가 아니라 진실로 가는 <b>출발점</b>이다. 또 <b>사실</b>(1592년 발발)과 <b>해석</b>(큰 시련이었다)을 구분하는 습관을 들이자.\n</div>\n\n<blockquote>\n  <p>역사를 배운다는 것은 남이 내린 결론을 외우는 일이 아니라, 근거를 들고 스스로 판단하는 힘을 기르는 일이다.</p>\n</blockquote>\n",
+  "questionLang": "ko",
+  "answerLang": "ko",
+  "version": 1,
+  "level": "고등학교",
+  "theme": "한국사",
+  "cards": [
+    {
+      "recto": "과거를 알아내는 데 바탕이 되는, 그 시대가 남긴 모든 자료를 무엇이라 하는가?",
+      "verso": "사료",
+      "explanation": "사료는 문서와 유물, 그림, 구술 등 과거를 알려 주는 모든 자료를 뜻한다. 역사 연구는 사료에서 출발하며, 사료가 없으면 역사를 알기 어렵다.",
+      "tags": [
+        "탐구",
+        "개념"
+      ],
+      "distractors": {
+        "easy": [
+          "소설",
+          "만화",
+          "광고"
+        ],
+        "medium": [
+          "역사서만",
+          "교과서",
+          "논문"
+        ],
+        "hard": [
+          "연표",
+          "지도만",
+          "설화만"
+        ]
+      }
+    },
+    {
+      "recto": "사건이 일어난 당시에 직접 만들어진 사료를 무엇이라 하는가?",
+      "verso": "1차 사료",
+      "explanation": "1차 사료는 사건 당시에 만들어진 문서·유물·일기 등을 말한다. 『난중일기』나 상소문, 무덤에서 나온 유물이 여기에 해당한다.",
+      "tags": [
+        "탐구",
+        "개념"
+      ],
+      "distractors": {
+        "easy": [
+          "교과서",
+          "소설",
+          "영화"
+        ],
+        "medium": [
+          "2차 사료",
+          "연구 논문",
+          "해설서"
+        ],
+        "hard": [
+          "편찬 사료",
+          "구술 사료만",
+          "간접 사료"
+        ]
+      }
+    },
+    {
+      "recto": "뒷사람이 1차 사료를 바탕으로 연구하고 정리한 자료를 무엇이라 하는가?",
+      "verso": "2차 사료",
+      "explanation": "2차 사료는 역사가가 1차 사료를 분석해 쓴 연구서·교과서 등이다. 편리하지만 저자의 해석이 들어가 있으므로 비판적으로 읽어야 한다.",
+      "tags": [
+        "탐구",
+        "개념"
+      ],
+      "distractors": {
+        "easy": [
+          "유물",
+          "무덤",
+          "비석"
+        ],
+        "medium": [
+          "1차 사료",
+          "실록",
+          "일기"
+        ],
+        "hard": [
+          "금석문",
+          "고문서",
+          "구술 사료"
+        ]
+      }
+    },
+    {
+      "recto": "[비교] 『난중일기』와 오늘날의 역사 교과서는 각각 어떤 사료에 해당하는가?",
+      "verso": "『난중일기』는 1차 사료, 역사 교과서는 2차 사료이다",
+      "explanation": "『난중일기』는 이순신이 전쟁 당시 직접 쓴 기록이므로 1차 사료이고, 교과서는 여러 연구를 바탕으로 뒷사람이 정리한 것이므로 2차 사료이다.",
+      "tags": [
+        "comparaison",
+        "탐구"
+      ],
+      "distractors": {
+        "easy": [
+          "둘 다 1차 사료이다",
+          "둘 다 2차 사료이다",
+          "둘 다 사료가 아니다"
+        ],
+        "medium": [
+          "『난중일기』가 2차, 교과서가 1차 사료이다",
+          "둘 다 소설에 해당한다",
+          "『난중일기』만 사료이고 교과서는 아니다"
+        ],
+        "hard": [
+          "둘 다 금석문에 해당한다",
+          "『난중일기』는 구술 사료이다",
+          "교과서는 1차 사료가 될 수 있다"
+        ]
+      }
+    },
+    {
+      "recto": "사료가 진짜인지, 누가 왜 만들었는지 따져 보는 일을 무엇이라 하는가?",
+      "verso": "사료 비판",
+      "explanation": "사료 비판은 사료가 위조되지 않았는지(외적 비판), 내용이 믿을 만한지와 어떤 의도로 쓰였는지(내적 비판)를 따지는 일이다. 역사 연구의 기본이다.",
+      "tags": [
+        "탐구",
+        "방법"
+      ],
+      "distractors": {
+        "easy": [
+          "사료 수집",
+          "사료 보관",
+          "사료 전시"
+        ],
+        "medium": [
+          "역사 서술",
+          "연표 작성",
+          "유물 복원"
+        ],
+        "hard": [
+          "고증학",
+          "실증주의",
+          "사료 편찬"
+        ]
+      }
+    },
+    {
+      "recto": "어떤 사료를 읽을 때 '누가, 언제, 왜 이 기록을 남겼는가'를 먼저 살펴야 하는 까닭은?",
+      "verso": "기록한 사람의 처지와 의도에 따라 내용이 달라지기 때문",
+      "explanation": "같은 사건도 지배층과 백성, 침략한 쪽과 당한 쪽의 기록이 다르다. 누가 어떤 목적으로 남겼는지를 알아야 사료를 바르게 읽을 수 있다.",
+      "tags": [
+        "탐구",
+        "방법"
+      ],
+      "distractors": {
+        "easy": [
+          "글씨체를 알아보기 위해",
+          "종이의 값을 알기 위해",
+          "분량을 세기 위해"
+        ],
+        "medium": [
+          "연대를 외우기 위해",
+          "번역을 쉽게 하기 위해",
+          "보관 장소를 정하기 위해"
+        ],
+        "hard": [
+          "문체를 흉내 내기 위해",
+          "저작권을 확인하기 위해",
+          "전시 순서를 정하기 위해"
+        ]
+      }
+    },
+    {
+      "recto": "'1592년에 임진왜란이 일어났다'와 '임진왜란은 조선에 큰 시련이었다' 중 해석에 해당하는 것은?",
+      "verso": "'임진왜란은 조선에 큰 시련이었다'",
+      "explanation": "연도와 사건의 발생은 확인할 수 있는 사실이지만, 그것이 '시련'이었다는 평가는 관점이 담긴 해석이다. 역사를 읽을 때 둘을 구분하는 습관이 중요하다.",
+      "tags": [
+        "탐구",
+        "방법"
+      ],
+      "distractors": {
+        "easy": [
+          "'1592년에 임진왜란이 일어났다'",
+          "둘 다 해석이다",
+          "둘 다 사실이다"
+        ],
+        "medium": [
+          "둘 다 사료이다",
+          "둘 다 사료 비판의 대상이 아니다",
+          "연도가 들어가면 모두 해석이다"
+        ],
+        "hard": [
+          "해석은 사료에만 있다",
+          "사실과 해석은 구분할 수 없다",
+          "평가가 들어가면 모두 사실이다"
+        ]
+      }
+    },
+    {
+      "recto": "[주의] 사료에 적혀 있는 내용은 모두 있는 그대로의 사실로 믿어도 되는가?",
+      "verso": "아니다. 기록자의 처지와 의도가 담기므로 반드시 비판적으로 읽어야 한다",
+      "explanation": "흔한 오해이다. 승자가 남긴 기록은 자기를 미화하고, 지배층의 기록에는 백성의 목소리가 빠지기 쉽다. 사료는 출발점이지 그대로의 진실이 아니다.",
+      "tags": [
+        "piege",
+        "탐구"
+      ],
+      "distractors": {
+        "easy": [
+          "그렇다. 기록은 언제나 사실이다",
+          "그렇다. 옛 기록은 거짓이 없다",
+          "그렇다. 의심하면 안 된다"
+        ],
+        "medium": [
+          "그렇다. 1차 사료는 늘 정확하다",
+          "그렇다. 실록은 오류가 없다",
+          "아니다. 그래서 사료는 쓸모가 없다"
+        ],
+        "hard": [
+          "그렇다. 여러 사료가 같으면 반드시 사실이다",
+          "그렇다. 유물은 해석이 필요 없다",
+          "아니다. 따라서 역사는 알 수 없다"
+        ]
+      }
+    },
+    {
+      "recto": "하나의 사건을 이해할 때 여러 사료를 함께 살펴보아야 하는 까닭은?",
+      "verso": "서로 견주어 보아야 한쪽에 치우치지 않은 이해에 이를 수 있기 때문",
+      "explanation": "한 사료만 보면 그 기록자의 시각에 갇히기 쉽다. 여러 사료를 견주어 일치하는 점과 어긋나는 점을 살필 때 사건에 더 가까이 다가갈 수 있다.",
+      "tags": [
+        "탐구",
+        "방법"
+      ],
+      "distractors": {
+        "easy": [
+          "분량을 늘리기 위해",
+          "숙제를 채우기 위해",
+          "여러 나라 말을 배우기 위해"
+        ],
+        "medium": [
+          "가장 오래된 것을 고르기 위해",
+          "가장 긴 기록을 찾기 위해",
+          "외우기 쉽게 하기 위해"
+        ],
+        "hard": [
+          "다수결로 사실을 정하기 위해",
+          "해석을 없애기 위해",
+          "1차 사료만 남기기 위해"
+        ]
+      }
+    },
+    {
+      "recto": "비석이나 금속에 새겨진 글로, 조작이 어려워 귀중한 사료가 되는 것을 무엇이라 하는가?",
+      "verso": "금석문",
+      "explanation": "광개토대왕릉비나 진흥왕 순수비 같은 금석문은 당시에 새겨져 고치기 어려우므로 귀중한 1차 사료이다. 다만 세운 쪽의 관점이 담겼음도 함께 보아야 한다.",
+      "tags": [
+        "탐구",
+        "종류"
+      ],
+      "distractors": {
+        "easy": [
+          "소설",
+          "신문 기사",
+          "교과서"
+        ],
+        "medium": [
+          "고문서",
+          "구술 사료",
+          "회고록"
+        ],
+        "hard": [
+          "목간",
+          "죽간",
+          "탁본"
+        ]
+      }
+    },
+    {
+      "recto": "겪은 사람의 이야기를 직접 듣고 기록하는, 기록이 적은 사건을 밝히는 데 중요한 사료는?",
+      "verso": "구술 사료",
+      "explanation": "구술 사료는 일본군 '위안부' 피해자나 제주 4·3, 5·18의 증언처럼 문서가 적거나 감춰진 사건을 밝히는 데 큰 몫을 한다. 기억의 한계를 감안해 다른 사료와 견주어야 한다.",
+      "tags": [
+        "탐구",
+        "종류"
+      ],
+      "distractors": {
+        "easy": [
+          "금석문",
+          "유물",
+          "그림"
+        ],
+        "medium": [
+          "1차 문서 사료",
+          "관찬 사료",
+          "연구 논문"
+        ],
+        "hard": [
+          "목간",
+          "의궤",
+          "실록"
+        ]
+      }
+    },
+    {
+      "recto": "같은 사건을 두고 시대나 사람에 따라 평가가 달라지는 까닭은 무엇인가?",
+      "verso": "역사가가 살아가는 시대의 문제의식과 관점이 해석에 반영되기 때문",
+      "explanation": "역사는 사실 위에 세워지지만, 무엇을 중요하게 볼지는 시대와 사람에 따라 다르다. 그래서 역사는 끊임없이 다시 쓰이며, 이는 결함이 아니라 역사학의 성격이다.",
+      "tags": [
+        "탐구",
+        "개념"
+      ],
+      "distractors": {
+        "easy": [
+          "사실이 자꾸 바뀌기 때문에",
+          "사료가 사라지기 때문에",
+          "연도를 잘못 알기 때문에"
+        ],
+        "medium": [
+          "역사가 정해지지 않았기 때문에",
+          "교과서가 자주 바뀌기 때문에",
+          "번역이 어렵기 때문에"
+        ],
+        "hard": [
+          "1차 사료가 없기 때문에",
+          "역사에 사실이 없기 때문에",
+          "모든 해석이 똑같이 옳기 때문에"
+        ]
+      }
+    },
+    {
+      "recto": "일제가 우리 역사를 왜곡하려 만든 식민 사관에 맞선 우리 역사학의 흐름으로 알맞은 것은?",
+      "verso": "신채호·박은식의 민족주의 사학 등 주체적인 역사 연구",
+      "explanation": "신채호와 박은식은 우리 역사의 주체성을 밝히며 식민 사관에 맞섰다. 역사 연구가 곧 독립운동이 될 수 있음을 보여 준 사례이다.",
+      "tags": [
+        "탐구",
+        "역사학"
+      ],
+      "distractors": {
+        "easy": [
+          "일본 역사서를 그대로 번역한 것",
+          "역사 연구를 그만둔 것",
+          "중국 역사만 연구한 것"
+        ],
+        "medium": [
+          "동북공정에 참여한 것",
+          "실학을 되살린 것",
+          "고증학만 연구한 것"
+        ],
+        "hard": [
+          "조선어 학회의 사전 편찬",
+          "브나로드 운동",
+          "물산 장려 운동"
+        ]
+      }
+    },
+    {
+      "recto": "역사를 탐구할 때 인터넷에서 찾은 정보를 다룰 때 지켜야 할 태도로 알맞은 것은?",
+      "verso": "출처를 확인하고 여러 자료와 견주어 사실 여부를 따지는 것",
+      "explanation": "인터넷에는 검증되지 않은 주장이 많다. 누가 쓴 글인지, 무엇을 근거로 삼았는지 확인하고 신뢰할 만한 자료와 견주는 습관이 필요하다.",
+      "tags": [
+        "탐구",
+        "태도"
+      ],
+      "distractors": {
+        "easy": [
+          "가장 위에 나오는 글을 믿는 것",
+          "조회수가 많은 글을 믿는 것",
+          "그대로 옮겨 쓰는 것"
+        ],
+        "medium": [
+          "가장 긴 글을 고르는 것",
+          "댓글이 많은 글을 믿는 것",
+          "최신 글만 믿는 것"
+        ],
+        "hard": [
+          "백과사전만 믿는 것",
+          "출처가 없으면 더 믿는 것",
+          "여러 글이 같으면 무조건 사실로 보는 것"
+        ]
+      }
+    },
+    {
+      "recto": "역사를 배우는 일이 오늘을 살아가는 데 도움이 되는 까닭으로 알맞은 것은?",
+      "verso": "과거의 선택과 결과를 통해 오늘의 문제를 판단하는 힘을 기를 수 있기 때문",
+      "explanation": "역사는 정답을 알려 주지 않지만, 사람들이 어떤 상황에서 무엇을 선택했고 그 결과가 어떠했는지를 보여 준다. 그 경험이 오늘의 판단을 돕는다.",
+      "tags": [
+        "탐구",
+        "의의"
+      ],
+      "distractors": {
+        "easy": [
+          "연도를 많이 외울 수 있어서",
+          "시험 점수를 올릴 수 있어서",
+          "옛이야기가 재미있어서"
+        ],
+        "medium": [
+          "미래를 정확히 예측할 수 있어서",
+          "과거로 돌아갈 수 있어서",
+          "다른 나라를 이길 수 있어서"
+        ],
+        "hard": [
+          "역사가 똑같이 반복되기 때문에",
+          "정답이 정해져 있기 때문에",
+          "전통만 지키면 되기 때문에"
+        ]
+      }
+    },
+    {
+      "recto": "전체적으로 역사를 탐구한다는 것은 어떤 일이라고 정리할 수 있는가?",
+      "verso": "사료를 비판적으로 읽어 사실을 밝히고, 그 뜻을 스스로 해석해 보는 일",
+      "explanation": "역사 탐구는 남이 정리해 준 결론을 외우는 일이 아니라, 사료를 스스로 따져 읽고 근거를 들어 해석하는 일이다. 그 훈련이 역사를 배우는 진짜 목적이다.",
+      "tags": [
+        "탐구",
+        "정리"
+      ],
+      "distractors": {
+        "easy": [
+          "연도와 이름을 외우는 일",
+          "교과서를 그대로 믿는 일",
+          "옛이야기를 즐기는 일"
+        ],
+        "medium": [
+          "가장 오래된 사료를 찾는 일",
+          "해석을 모두 없애는 일",
+          "정답을 하나로 정하는 일"
+        ],
+        "hard": [
+          "1차 사료만 모으는 일",
+          "역사가의 결론을 따르는 일",
+          "사실만 나열하는 일"
+        ]
+      }
+    }
+  ]
+}

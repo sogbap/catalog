@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-nihonshi-tankyuu-genroku-bunka",
+  "title": "綱吉の政治と元禄文化",
+  "emoji": "🎭",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "武断政治から文治政治への転換と、上方の町人が担った元禄文化の広がりを、作家・画家たちの仕事を通して学ぶ。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>綱吉の政治と元禄文化</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>日本史探究<br>\n  <b>時期：</b>17世紀後半 〜 18世紀初め\n</div>\n\n<blockquote>\n  <p><b>問い。</b>戦がなくなった時代、支配のしかたと文化の担い手はどのように変わったのだろうか。</p>\n</blockquote>\n\n<p>戦国の気風が薄れると、幕府は力ではなく学問と礼で治める<strong>文治政治</strong>へ移った。<strong>徳川綱吉</strong>は<strong>朱子学</strong>を奨励する一方、<strong>生類憐みの令</strong>でも知られる。同じころ上方では、経済力をつけた町人が担う<strong>元禄文化</strong>が花開いた。</p>\n\n<h2>1・武断から文治へ</h2>\n\n<p>幕府は武力による威圧から、儒学と法・儀礼で秩序を保つ<strong>文治政治</strong>へと転換した。<strong>徳川綱吉</strong>は湯島聖堂を建てて<strong>朱子学</strong>を重んじたが、<strong>生類憐みの令</strong>は人々の反発を招いた。財政難から<strong>貨幣の改鋳</strong>が行われ、のちに<strong>新井白石</strong>が是正をはかる。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"武断政治から文治政治への転換の比較\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">支配のしかたの転換</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">武断政治</text>\n  <text x=\"87\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">17世紀前半</text>\n  <text x=\"87\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">武力による威圧</text>\n  <text x=\"87\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">改易・取りつぶし</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">文治政治</text>\n  <text x=\"253\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">綱吉のころ〜</text>\n  <text x=\"253\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">学問と礼で治める</text>\n  <text x=\"253\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">朱子学の奨励</text>\n</svg>\n<figcaption>長い平和が、支配のしかたそのものを変えた。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・朱子学</strong><br>\n  君臣・父子の秩序を重んじた儒学の一派。<b>幕府の身分秩序を支える学問</b>として重んじられ、林羅山の家が代々その中心を担った。\n</div>\n\n<h2>2・元禄文化の担い手</h2>\n\n<p><strong>元禄文化</strong>を担ったのは、公家でも武士でもなく<strong>上方の町人</strong>であった。<strong>井原西鶴</strong>は町人の恋と金銭を、<strong>近松門左衛門</strong>は義理と人情の板挟みを描き、<strong>松尾芭蕉</strong>は俳諧を芸術へと高めた。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 122\" role=\"img\" aria-label=\"元禄文化を代表する文芸・絵画・演劇の担い手\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">元禄文化の三つの柱</text>\n  <rect x=\"6\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">文芸</text>\n  <text x=\"58\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">井原西鶴</text>\n  <text x=\"58\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">松尾芭蕉</text>\n  <rect x=\"118\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">演劇</text>\n  <text x=\"170\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">近松門左衛門</text>\n  <text x=\"170\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">歌舞伎・人形浄瑠璃</text>\n  <rect x=\"230\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">絵画</text>\n  <text x=\"282\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">尾形光琳</text>\n  <text x=\"282\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">菱川師宣</text>\n</svg>\n<figcaption>描かれたのは理想ではなく、町人が生きる現実であった。</figcaption>\n</figure>\n\n<h2>3・西から東へ</h2>\n\n<p>元禄文化の中心は経済力のある<strong>上方</strong>にあった。のちに江戸が発展すると、文化の中心は東へ移り、庶民にまで広がる<strong>化政文化</strong>へとつながっていく。<strong>菱川師宣</strong>が確立した浮世絵は、版画として安く出回り、その橋渡しとなった。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"元禄文化から化政文化へ、文化の中心が上方から江戸へ移る流れ\">\n  <defs>\n    <marker id=\"ar-njg1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"16\" y=\"44\" width=\"130\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"81\" y=\"64\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">元禄文化</text>\n  <text x=\"81\" y=\"84\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">上方の町人</text>\n  <path d=\"M146,70 L194,70\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-njg1)\"/>\n  <rect x=\"198\" y=\"44\" width=\"130\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.45;stroke-width:1.5\"/>\n  <text x=\"263\" y=\"64\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">化政文化</text>\n  <text x=\"263\" y=\"84\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">江戸の庶民へ</text>\n  <text x=\"170\" y=\"26\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">文化の中心が移っていく</text>\n  <text x=\"170\" y=\"112\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">浮世絵の版画化がその橋渡しとなった</text>\n</svg>\n<figcaption>担い手はさらに広がり、やがて庶民の文化になる。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>年</th><th>できごと</th></tr>\n  <tr><td>1680</td><td>徳川綱吉が将軍となる</td></tr>\n  <tr><td>1685〜</td><td>生類憐みの令</td></tr>\n  <tr><td>1690</td><td>湯島聖堂の建立</td></tr>\n  <tr><td>17世紀末</td><td>元禄文化の隆盛</td></tr>\n  <tr><td>1709〜</td><td>正徳の治（新井白石）</td></tr>\n</table>\n\n<h3>重要用語</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>文治政治</td><td>学問と礼で秩序を保つ政治</td></tr>\n  <tr><td>朱子学</td><td>身分秩序を支えた儒学の一派</td></tr>\n  <tr><td>生類憐みの令</td><td>殺生を厳しく禁じた綱吉の法令</td></tr>\n  <tr><td>元禄文化</td><td>上方の町人が担った文化</td></tr>\n  <tr><td>正徳の治</td><td>新井白石による財政の立て直し</td></tr>\n</table>\n\n<h3>人物</h3>\n\n<table>\n  <tr><th>人物</th><th>はたらき</th></tr>\n  <tr><td>徳川綱吉</td><td>文治政治、生類憐みの令</td></tr>\n  <tr><td>井原西鶴</td><td>浮世草子に町人の暮らしを描く</td></tr>\n  <tr><td>松尾芭蕉</td><td>俳諧を芸術へ、『奥の細道』</td></tr>\n  <tr><td>近松門左衛門</td><td>義理と人情を描いた脚本</td></tr>\n  <tr><td>尾形光琳・菱川師宣</td><td>装飾画・浮世絵</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  元禄文化の担い手は公家でも上級武士でもなく、<b>経済力をつけた上方の町人</b>である。支配身分ではない人々が文化の主役になった点にこそ、この文化の新しさがある。\n</div>\n\n<blockquote>\n  <p>学問が支配を支え、町人が文化を担う。その安定は、しかし財政の行き詰まりとともに揺らぎ始める。次は改革の時代である。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "日本史探究",
+  "cards": [
+    {
+      "recto": "力による支配から学問と礼儀を重んじる政治へと転換した江戸幕府の方針を何というか。",
+      "verso": "文治政治",
+      "explanation": "戦国の気風が薄れ、幕府は武力による威圧（武断政治）から、儒学と法・儀礼によって秩序を保つ文治政治へと移った。平和が長く続いた結果である。",
+      "tags": [
+        "江戸",
+        "政治"
+      ],
+      "distractors": {
+        "easy": [
+          "軍国主義",
+          "民主政治",
+          "議会政治"
+        ],
+        "medium": [
+          "武断政治",
+          "摂関政治",
+          "院政"
+        ],
+        "hard": [
+          "幕藩体制の解体",
+          "公武合体",
+          "尊王攘夷"
+        ]
+      }
+    },
+    {
+      "recto": "文治政治を進め、学問を重んじた江戸幕府の第5代将軍は誰か。",
+      "verso": "徳川綱吉",
+      "explanation": "綱吉は湯島聖堂を建てて儒学を奨励する一方、生類憐みの令など極端な政策でも知られる。文治への転換を象徴する将軍である。",
+      "tags": [
+        "江戸",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "徳川家康",
+          "織田信長",
+          "豊臣秀吉"
+        ],
+        "medium": [
+          "徳川吉宗",
+          "徳川家光",
+          "徳川慶喜"
+        ],
+        "hard": [
+          "徳川家綱",
+          "徳川家宣",
+          "徳川秀忠"
+        ]
+      }
+    },
+    {
+      "recto": "綱吉が出した、動物の殺生を厳しく禁じた極端な法令を何というか。",
+      "verso": "生類憐みの令",
+      "explanation": "犬をはじめ生き物の保護を命じた法令で、違反者は厳しく罰された。人々の反発を招いた一方、捨て子や病人の保護を命じる側面もあった。",
+      "tags": [
+        "江戸",
+        "政治"
+      ],
+      "distractors": {
+        "easy": [
+          "刀狩令",
+          "楽市令",
+          "徴兵令"
+        ],
+        "medium": [
+          "武家諸法度",
+          "公事方御定書",
+          "禁中並公家諸法度"
+        ],
+        "hard": [
+          "棄捐令",
+          "上知令",
+          "人返しの法"
+        ]
+      }
+    },
+    {
+      "recto": "綱吉が奨励し、身分の上下や礼儀を重んじたため幕府の学問とされた儒学の一派は何か。",
+      "verso": "朱子学",
+      "explanation": "朱子学は君臣・父子の秩序を重んじたため、幕府の身分秩序を支える学問として重んじられた。林羅山の家が代々その中心を担った。",
+      "tags": [
+        "江戸",
+        "学問"
+      ],
+      "distractors": {
+        "easy": [
+          "仏教",
+          "神道",
+          "キリスト教"
+        ],
+        "medium": [
+          "国学",
+          "蘭学",
+          "陽明学"
+        ],
+        "hard": [
+          "古学",
+          "考証学",
+          "心学"
+        ]
+      }
+    },
+    {
+      "recto": "17世紀末から18世紀初め、上方（京都・大坂）の町人を担い手として栄えた文化を何というか。",
+      "verso": "元禄文化",
+      "explanation": "経済力をつけた上方の町人が、自分たちの現実の恋や金銭、笑いを描く文化を生み出した。武士や公家ではなく町人が主役となった点が画期的である。",
+      "tags": [
+        "江戸",
+        "文化"
+      ],
+      "distractors": {
+        "easy": [
+          "国風文化",
+          "飛鳥文化",
+          "天平文化"
+        ],
+        "medium": [
+          "化政文化",
+          "桃山文化",
+          "北山文化"
+        ],
+        "hard": [
+          "東山文化",
+          "寛永文化",
+          "鎌倉文化"
+        ]
+      }
+    },
+    {
+      "recto": "町人の恋愛や金銭をめぐる暮らしを浮世草子に描いた元禄期の作家は誰か。",
+      "verso": "井原西鶴",
+      "explanation": "井原西鶴は『日本永代蔵』『好色一代男』などで、金を稼ぎ恋に生きる町人の姿を生き生きと描いた。理想ではなく現実を書いた点が新しかった。",
+      "tags": [
+        "江戸",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "紫式部",
+          "清少納言",
+          "夏目漱石"
+        ],
+        "medium": [
+          "松尾芭蕉",
+          "近松門左衛門",
+          "滝沢馬琴"
+        ],
+        "hard": [
+          "十返舎一九",
+          "上田秋成",
+          "与謝蕪村"
+        ]
+      }
+    },
+    {
+      "recto": "俳諧を芸術の域に高め、『奥の細道』を残した元禄期の俳人は誰か。",
+      "verso": "松尾芭蕉",
+      "explanation": "芭蕉は各地を旅しながら自然と人生を短い句に凝縮した。遊びであった俳諧を、深い精神性をもつ文芸へと高めた。",
+      "tags": [
+        "江戸",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "紫式部",
+          "西行",
+          "鴨長明"
+        ],
+        "medium": [
+          "井原西鶴",
+          "近松門左衛門",
+          "与謝蕪村"
+        ],
+        "hard": [
+          "小林一茶",
+          "松永貞徳",
+          "山崎宗鑑"
+        ]
+      }
+    },
+    {
+      "recto": "人形浄瑠璃や歌舞伎の脚本を書き、義理と人情の板挟みを描いた元禄期の作者は誰か。",
+      "verso": "近松門左衛門",
+      "explanation": "近松は『曾根崎心中』などで、義理と人情のあいだで引き裂かれる町人を描いた。観客は舞台の上に自分たちの姿を見た。",
+      "tags": [
+        "江戸",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "世阿弥",
+          "紫式部",
+          "葛飾北斎"
+        ],
+        "medium": [
+          "井原西鶴",
+          "松尾芭蕉",
+          "滝沢馬琴"
+        ],
+        "hard": [
+          "竹田出雲",
+          "鶴屋南北",
+          "河竹黙阿弥"
+        ]
+      }
+    },
+    {
+      "recto": "華やかな装飾画で「燕子花図屏風」などを描いた元禄期の画家は誰か。",
+      "verso": "尾形光琳",
+      "explanation": "尾形光琳は大胆な構図と金銀を用いた装飾性で琳派を大成した。町人の富が、こうした華やかな美を支えていた。",
+      "tags": [
+        "江戸",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "葛飾北斎",
+          "歌川広重",
+          "ピカソ"
+        ],
+        "medium": [
+          "狩野永徳",
+          "雪舟",
+          "菱川師宣"
+        ],
+        "hard": [
+          "俵屋宗達",
+          "本阿弥光悦",
+          "円山応挙"
+        ]
+      }
+    },
+    {
+      "recto": "「見返り美人図」で知られ、浮世絵の祖とされる元禄期の画家は誰か。",
+      "verso": "菱川師宣",
+      "explanation": "菱川師宣は町人の風俗を描く浮世絵を確立した。版画として安く出回ったことで、絵は一部の富裕層のものから庶民のものへと変わっていく。",
+      "tags": [
+        "江戸",
+        "人物"
+      ],
+      "distractors": {
+        "easy": [
+          "雪舟",
+          "運慶",
+          "ゴッホ"
+        ],
+        "medium": [
+          "尾形光琳",
+          "葛飾北斎",
+          "歌川広重"
+        ],
+        "hard": [
+          "鈴木春信",
+          "喜多川歌麿",
+          "東洲斎写楽"
+        ]
+      }
+    },
+    {
+      "recto": "元禄期に人気を集め、市川団十郎や坂田藤十郎らの名優が現れた演劇は何か。",
+      "verso": "歌舞伎",
+      "explanation": "歌舞伎は町人の娯楽として発展し、江戸の荒事（市川団十郎）と上方の和事（坂田藤十郎）という異なる芸風が生まれた。",
+      "tags": [
+        "江戸",
+        "文化"
+      ],
+      "distractors": {
+        "easy": [
+          "オペラ",
+          "バレエ",
+          "映画"
+        ],
+        "medium": [
+          "能",
+          "狂言",
+          "雅楽"
+        ],
+        "hard": [
+          "人形浄瑠璃のみ",
+          "落語",
+          "講談"
+        ]
+      }
+    },
+    {
+      "recto": "綱吉の時代に幕府財政を補うため貨幣の質を落として行われた政策の結果は何か。",
+      "verso": "貨幣の改鋳による物価の上昇",
+      "explanation": "荻原重秀の主導で金の含有量を減らした貨幣が大量に発行され、一時的に幕府の収入は増えたが物価が上がり人々の生活を圧迫した。",
+      "tags": [
+        "江戸",
+        "経済"
+      ],
+      "distractors": {
+        "easy": [
+          "物価の下落",
+          "経済の完全な安定",
+          "貨幣の廃止"
+        ],
+        "medium": [
+          "年貢の増加",
+          "財政の完全な再建",
+          "貿易の拡大"
+        ],
+        "hard": [
+          "デフレの発生",
+          "金の含有量の増加",
+          "株仲間の解散"
+        ]
+      }
+    },
+    {
+      "recto": "貨幣の質を元に戻し、儒学者として財政の立て直しをはかった政治を何というか。",
+      "verso": "正徳の治（新井白石の政治）",
+      "explanation": "新井白石は貨幣の質を戻し、長崎貿易を制限して金銀の流出を抑えた。学者が政治を主導した点で、文治政治の到達点といえる。",
+      "tags": [
+        "江戸",
+        "政治"
+      ],
+      "distractors": {
+        "easy": [
+          "建武の新政",
+          "大化の改新",
+          "明治維新"
+        ],
+        "medium": [
+          "享保の改革",
+          "寛政の改革",
+          "天保の改革"
+        ],
+        "hard": [
+          "田沼時代",
+          "慶安の改革",
+          "元和偃武"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】元禄文化と化政文化は、担い手と中心地の点でどのように異なるか。",
+      "verso": "元禄文化は上方の町人が担い、化政文化は江戸の庶民が担った",
+      "explanation": "17世紀末の元禄文化は経済力のある上方（京都・大坂）の町人が中心であったのに対し、19世紀初めの化政文化は江戸の庶民にまで広がった。中心が西から東へ移った。",
+      "tags": [
+        "comparaison",
+        "江戸"
+      ],
+      "distractors": {
+        "easy": [
+          "どちらも公家が担った",
+          "どちらも武士が担った",
+          "元禄が江戸、化政が上方が中心"
+        ],
+        "medium": [
+          "どちらも上方が中心であった",
+          "どちらも江戸が中心であった",
+          "元禄が庶民、化政が貴族の文化"
+        ],
+        "hard": [
+          "元禄は室町期の文化である",
+          "化政は元禄より前の文化である",
+          "どちらも僧侶が担い手であった"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】元禄文化の担い手は、公家や上級武士だったのか。",
+      "verso": "いいえ。経済力をつけた上方の町人が主な担い手であった",
+      "explanation": "よくある誤解である。井原西鶴も近松門左衛門も、町人の恋や金銭、義理と人情を描いた。支配身分ではない人々が文化の主役になった点にこそ、元禄文化の新しさがある。",
+      "tags": [
+        "piege",
+        "江戸"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。公家が中心であった",
+          "はい。将軍が担い手であった",
+          "はい。武士だけのものであった"
+        ],
+        "medium": [
+          "はい。僧侶が担い手であった",
+          "はい。大名が保護して育てた",
+          "いいえ。しかし農民が担い手であった"
+        ],
+        "hard": [
+          "はい。朝廷の保護で栄えた",
+          "はい。町人は参加できなかった",
+          "いいえ。ただし江戸の庶民が担った"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、綱吉の時代と元禄文化はどのような意味をもったといえるか。",
+      "verso": "武力ではなく学問と秩序で治める段階に入り、町人が文化の主役となった",
+      "explanation": "戦国の気風が去り、幕府は儒学と法で秩序を保つようになった。同時に経済力を得た町人が自分たちの文化をつくり始める。支配のかたちも文化の担い手も変わった時代である。",
+      "tags": [
+        "江戸",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "再び戦乱の時代となった",
+          "文化が衰退した時代",
+          "何も変わらなかった時代"
+        ],
+        "medium": [
+          "武断政治が強化された時代",
+          "身分制が廃止された時代",
+          "鎖国が解かれた時代"
+        ],
+        "hard": [
+          "幕府が滅亡へ向かった時代",
+          "農民が支配層となった時代",
+          "西洋文化が中心となった時代"
+        ]
+      }
+    }
+  ]
+}

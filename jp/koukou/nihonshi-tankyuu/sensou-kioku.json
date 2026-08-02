@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-nihonshi-tankyuu-sensou-kioku",
+  "title": "戦争の記憶と歴史認識",
+  "emoji": "🕊️",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "戦争がどのように記憶され、語られ、近隣諸国との歴史認識をめぐる課題となってきたのかを、事実と解釈を分けて考える。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>戦争の記憶と歴史認識</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>日本史探究<br>\n  <b>時期：</b>戦後 〜 現代\n</div>\n\n<blockquote>\n  <p><b>問い。</b>同じ出来事をめぐって評価が分かれるとき、私たちは何を手がかりに考えればよいのだろうか。</p>\n</blockquote>\n\n<p>起きたことは<strong>歴史的事実</strong>として確かめられる。しかしそれが何を意味したかという<strong>歴史認識</strong>は、立場によって異なりうる。<strong>被害の記憶</strong>は語り継がれやすく、<strong>加害の記憶</strong>は語られにくい。<strong>教科書問題</strong>や謝罪をめぐる議論は、この非対称と深く関わっている。</p>\n\n<h2>1・事実と解釈を分ける</h2>\n\n<p>何年に何が起きたかは史料で確かめられる<strong>事実</strong>である。その出来事をどう位置づけるかが<strong>解釈</strong>であり、ここに違いが生じる。「解釈はさまざま」を口実に事実の確認を放棄すれば、議論そのものが成り立たなくなる。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"歴史的事実と歴史認識の違いを示す比較\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">議論の出発点</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">歴史的事実</text>\n  <text x=\"87\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">史料で確かめられる</text>\n  <text x=\"87\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">共有できる</text>\n  <text x=\"87\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">いつ・何が起きたか</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">歴史認識</text>\n  <text x=\"253\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">評価と意味づけ</text>\n  <text x=\"253\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">立場で異なりうる</text>\n  <text x=\"253\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">それが何を意味したか</text>\n</svg>\n<figcaption>まず事実を共有し、そのうえで解釈の違いを論じる。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・記憶の非対称</strong><br>\n  自分たちが受けた痛みは記憶されやすく、他者に与えた痛みは忘れられやすいという傾向。<b>どの国にも共通する</b>ものであり、それに自覚的であることが対話の前提となる。\n</div>\n\n<h2>2・語り継ぐことの難しさ</h2>\n\n<p>広島・長崎の式典や各地の<strong>慰霊</strong>の場、<strong>平和資料館</strong>が記憶を担ってきた。しかし<strong>体験者の高齢化</strong>によって直接の証言を聞く機会は急速に失われつつある。証言の記録と、体験のない世代がどう受け継ぐかが課題である。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"体験から証言の記録を経て次世代へ受け継がれる記憶の流れ\">\n  <defs>\n    <marker id=\"ar-njw1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">体験</text>\n  <text x=\"54\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">当事者の記憶</text>\n  <path d=\"M100,68 L118,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-njw1)\"/>\n  <rect x=\"122\" y=\"42\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">記録・展示</text>\n  <text x=\"170\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">証言・資料館</text>\n  <path d=\"M218,68 L236,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-njw1)\"/>\n  <rect x=\"240\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">次の世代へ</text>\n  <text x=\"286\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">自分の言葉で</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">記憶は自然には残らない</text>\n</svg>\n<figcaption>受け継ぐとは、確かめて言い直していく作業である。</figcaption>\n</figure>\n\n<h2>3・近隣諸国との対話</h2>\n\n<p><strong>教科書問題</strong>や謝罪・補償のあり方は、繰り返し外交上の課題となってきた。条約による法的処理と被害者個人の納得は必ずしも一致しない。<strong>共同研究</strong>や共通教材づくりのように、合意できない点も明示しながら対話を続ける試みが重ねられている。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 122\" role=\"img\" aria-label=\"被害の記憶と加害の記憶、そして対話という三つの要素\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">両面を見て、対話へ</text>\n  <rect x=\"6\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">被害の記憶</text>\n  <text x=\"58\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">空襲・原爆・沖縄戦</text>\n  <text x=\"58\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">語り継がれやすい</text>\n  <rect x=\"118\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.45;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">加害の記憶</text>\n  <text x=\"170\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">植民地支配・占領地</text>\n  <text x=\"170\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">語られにくい</text>\n  <rect x=\"230\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">対話</text>\n  <text x=\"282\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">共同研究</text>\n  <text x=\"282\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">事実の共有から</text>\n</svg>\n<figcaption>片方だけを見ていては、対話の入口に立てない。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>基本の区別</h3>\n\n<table>\n  <tr><th>区分</th><th>内容</th></tr>\n  <tr><td>歴史的事実</td><td>史料で確かめられ、共有できる</td></tr>\n  <tr><td>歴史認識</td><td>評価と意味づけ、立場で異なりうる</td></tr>\n  <tr><td>記憶</td><td>語られ、記録されて初めて残る</td></tr>\n</table>\n\n<h3>課題</h3>\n\n<table>\n  <tr><th>課題</th><th>内容</th></tr>\n  <tr><td>継承</td><td>体験者の高齢化、証言の記録</td></tr>\n  <tr><td>教科書問題</td><td>記述をめぐる外交上の論争</td></tr>\n  <tr><td>謝罪と補償</td><td>法的処理と個人の納得の隔たり</td></tr>\n  <tr><td>記憶の非対称</td><td>被害は語られ、加害は忘れられやすい</td></tr>\n</table>\n\n<h3>向き合う姿勢</h3>\n\n<table>\n  <tr><th>手順</th><th>内容</th></tr>\n  <tr><td>1</td><td>史料で事実を確かめる</td></tr>\n  <tr><td>2</td><td>被害と加害の両面を見る</td></tr>\n  <tr><td>3</td><td>相手の記憶にも耳を傾ける</td></tr>\n  <tr><td>4</td><td>合意できない点も明示して対話を続ける</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  認識が分かれることは、<b>事実そのものが人によって違うという意味ではない</b>。「解釈はさまざま」を口実に事実の確認を放棄すれば議論は成り立たない。<b>事実を共有し、そのうえで解釈を論じる</b>という順序を守りたい。\n</div>\n\n<blockquote>\n  <p>記憶は自然に残るものではない。何を記憶し、何を忘れてきたのか——それを問うこと自体が、歴史を学ぶという営みである。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "日本史探究",
+  "cards": [
+    {
+      "recto": "起きた出来事そのものと、それをどう意味づけるかとを区別する言葉の組み合わせはどれか。",
+      "verso": "歴史的事実と歴史認識（解釈）",
+      "explanation": "何年に何が起きたかは事実として確かめられる。しかしその出来事が何を意味したかの評価は、立場や時代によって異なりうる。両者を混同しないことが議論の出発点である。",
+      "tags": [
+        "記憶",
+        "概念"
+      ],
+      "distractors": {
+        "easy": [
+          "事実と作り話",
+          "本当と嘘",
+          "古いことと新しいこと"
+        ],
+        "medium": [
+          "一次史料と二次史料",
+          "記録と伝説",
+          "公文書と私文書"
+        ],
+        "hard": [
+          "史実と史料",
+          "実証と推論のみ",
+          "通史と個別史"
+        ]
+      }
+    },
+    {
+      "recto": "戦後の日本で、戦争の記憶が最も多く語られてきた場として代表的なものはどこか。",
+      "verso": "広島・長崎の平和記念式典や各地の慰霊の場",
+      "explanation": "被爆地の式典や慰霊碑は、犠牲を記憶し繰り返さないと誓う場となってきた。同時に、記憶が被害の側面に集まりやすいという指摘もある。",
+      "tags": [
+        "記憶",
+        "戦後"
+      ],
+      "distractors": {
+        "easy": [
+          "スポーツ大会",
+          "商店街の祭り",
+          "国際博覧会"
+        ],
+        "medium": [
+          "国会の議場",
+          "裁判所",
+          "大学の講義"
+        ],
+        "hard": [
+          "映画祭",
+          "文学賞の授賞式",
+          "外交交渉の場"
+        ]
+      }
+    },
+    {
+      "recto": "戦争の記憶を語り継ぐうえで、近年とくに困難となっている事情は何か。",
+      "verso": "体験者の高齢化と減少により、直接の証言を聞く機会が失われつつあること",
+      "explanation": "戦後80年近くを経て、体験を語れる人は急速に減っている。証言の記録・保存と、体験のない世代がどう受け継ぐかが課題となっている。",
+      "tags": [
+        "記憶",
+        "現代"
+      ],
+      "distractors": {
+        "easy": [
+          "史料が多すぎること",
+          "関心が高すぎること",
+          "特に困難はないこと"
+        ],
+        "medium": [
+          "記録技術がないこと",
+          "資料館が存在しないこと",
+          "教科書がないこと"
+        ],
+        "hard": [
+          "公文書が非公開であること",
+          "研究者がいないこと",
+          "外国語の壁があること"
+        ]
+      }
+    },
+    {
+      "recto": "日本の歴史教科書の記述をめぐって、近隣諸国から批判が寄せられてきた問題を何というか。",
+      "verso": "教科書問題（歴史教科書をめぐる論争）",
+      "explanation": "植民地支配や戦争の加害に関する記述の書き方が、繰り返し外交上の問題となってきた。歴史の記述が現在の関係に直結することを示している。",
+      "tags": [
+        "記憶",
+        "課題"
+      ],
+      "distractors": {
+        "easy": [
+          "入試制度の問題",
+          "少子化の問題",
+          "学費の問題"
+        ],
+        "medium": [
+          "学習指導要領の改訂のみ",
+          "教員不足の問題",
+          "デジタル教科書の問題"
+        ],
+        "hard": [
+          "漢字表記の問題",
+          "検定制度そのものの是非のみ",
+          "副教材の問題"
+        ]
+      }
+    },
+    {
+      "recto": "戦後日本が近隣諸国との関係を築くうえで、繰り返し焦点となってきた事柄は何か。",
+      "verso": "植民地支配と侵略に対する謝罪と補償のあり方",
+      "explanation": "条約による法的な処理と、被害者個人の納得とは必ずしも一致しない。この隔たりが、和解が容易に進まない理由のひとつとなっている。",
+      "tags": [
+        "記憶",
+        "課題"
+      ],
+      "distractors": {
+        "easy": [
+          "観光客の数",
+          "貿易額の統計",
+          "スポーツの勝敗"
+        ],
+        "medium": [
+          "通貨の交換比率",
+          "留学生の人数",
+          "航空路線の数"
+        ],
+        "hard": [
+          "漁業水域のみ",
+          "関税率のみ",
+          "査証の相互免除のみ"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】戦争の記憶において「被害の記憶」と「加害の記憶」はどう異なるか。",
+      "verso": "被害の記憶は自国の犠牲を、加害の記憶は他国や他者に与えた損害を語るものである",
+      "explanation": "空襲や原爆の記憶は語り継がれてきた一方、植民地支配や占領地での加害はより語られにくい。両方を見ることが、近隣諸国との対話の前提となる。",
+      "tags": [
+        "comparaison",
+        "記憶"
+      ],
+      "distractors": {
+        "easy": [
+          "両者はまったく同じものである",
+          "どちらも語られていない",
+          "被害の記憶は存在しない"
+        ],
+        "medium": [
+          "被害の記憶のほうが語られにくい",
+          "加害の記憶だけが公式である",
+          "どちらも外国が決めている"
+        ],
+        "hard": [
+          "加害の記憶は史料に残らない",
+          "被害の記憶は個人的なものだけ",
+          "両者は時期が異なるだけ"
+        ]
+      }
+    },
+    {
+      "recto": "戦争の経験を後世に伝えるために各地に設けられてきた施設を何というか。",
+      "verso": "平和資料館（戦争資料館）",
+      "explanation": "遺品や証言、写真を展示して体験を伝える。何を展示し何を展示しないかという選択そのものが、その社会の記憶のあり方を映している。",
+      "tags": [
+        "記憶",
+        "継承"
+      ],
+      "distractors": {
+        "easy": [
+          "映画館",
+          "図書館",
+          "体育館"
+        ],
+        "medium": [
+          "美術館",
+          "科学館",
+          "公民館"
+        ],
+        "hard": [
+          "文書館",
+          "郷土資料館のみ",
+          "国立博物館のみ"
+        ]
+      }
+    },
+    {
+      "recto": "歴史認識をめぐる対立を和らげるために、関係国のあいだで試みられてきた取り組みは何か。",
+      "verso": "共同研究や共通教材づくりなどの対話の試み",
+      "explanation": "日中・日韓の歴史共同研究や、市民レベルの共通教材づくりが行われてきた。合意に至らない点も含めて明示することに意味があるとされる。",
+      "tags": [
+        "記憶",
+        "和解"
+      ],
+      "distractors": {
+        "easy": [
+          "交流を断つこと",
+          "議論を避けること",
+          "相手国の教科書を無視すること"
+        ],
+        "medium": [
+          "経済援助のみ",
+          "スポーツ交流のみ",
+          "首脳会談のみ"
+        ],
+        "hard": [
+          "国際裁判に委ねること",
+          "第三国に判断を任せること",
+          "研究の中止"
+        ]
+      }
+    },
+    {
+      "recto": "歴史をめぐる議論で、事実に基づかない主張に対してとるべき態度はどれか。",
+      "verso": "史料と検証にもとづいて、事実と異なる点を具体的に示すこと",
+      "explanation": "感情的な応酬は対立を深めるだけである。何が確かめられ、何が争点なのかを史料に即して分けることが、建設的な議論の条件となる。",
+      "tags": [
+        "記憶",
+        "態度"
+      ],
+      "distractors": {
+        "easy": [
+          "感情的に反論すること",
+          "無視して黙ること",
+          "相手を非難すること"
+        ],
+        "medium": [
+          "多数派の意見に従うこと",
+          "政府の見解のみを引くこと",
+          "議論を打ち切ること"
+        ],
+        "hard": [
+          "同じ手法で反論すること",
+          "国際世論に訴えるのみ",
+          "教科書の記述に従うのみ"
+        ]
+      }
+    },
+    {
+      "recto": "戦争を体験していない世代が、記憶を受け継ぐうえで果たしうる役割は何か。",
+      "verso": "証言を記録し、資料を読み解いて、自分の言葉で次に伝えること",
+      "explanation": "体験の継承とは、体験を演じることではない。残された証言と史料を確かめ、自分の理解として言い直していく作業が受け継ぐということである。",
+      "tags": [
+        "記憶",
+        "継承"
+      ],
+      "distractors": {
+        "easy": [
+          "体験者と同じ経験をすること",
+          "何もしないこと",
+          "忘れること"
+        ],
+        "medium": [
+          "式典に参加するだけ",
+          "映画を見るだけ",
+          "教科書を暗記すること"
+        ],
+        "hard": [
+          "証言をそのまま繰り返すこと",
+          "研究者に任せること",
+          "議論を避けること"
+        ]
+      }
+    },
+    {
+      "recto": "歴史認識の問題が、単なる過去の問題にとどまらない理由は何か。",
+      "verso": "過去の評価が現在の外交関係や人々の感情に直接影響するから",
+      "explanation": "首脳の発言や教科書の一文が、外交問題や市民感情の悪化を招くことがある。歴史は過去についての学問でありながら、現在を動かす力をもつ。",
+      "tags": [
+        "記憶",
+        "現代"
+      ],
+      "distractors": {
+        "easy": [
+          "試験に出るから",
+          "本が売れるから",
+          "特に理由はない"
+        ],
+        "medium": [
+          "研究者の関心事だから",
+          "報道が取り上げるから",
+          "教科書に載るから"
+        ],
+        "hard": [
+          "条約で定められているから",
+          "法律で規制されるから",
+          "国際機関が扱うから"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】歴史認識に違いがあるということは、事実そのものが人によって違うということか。",
+      "verso": "いいえ。確かめられる事実は共有できるものであり、違うのは主に評価や意味づけである",
+      "explanation": "よくある誤解である。「解釈はさまざま」を口実に事実の確認を放棄すると議論は成り立たない。事実を史料で共有し、そのうえで解釈の違いを論じることが必要である。",
+      "tags": [
+        "piege",
+        "記憶"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。事実は人の数だけある",
+          "はい。何が起きたかは決められない",
+          "はい。史料も人それぞれである"
+        ],
+        "medium": [
+          "はい。だから議論は無意味である",
+          "はい。教科書ごとに事実が違う",
+          "いいえ。解釈も一つに決まる"
+        ],
+        "hard": [
+          "はい。統計も立場で変わる",
+          "はい。証言が食い違えば事実も変わる",
+          "いいえ。事実だけを見ればよい"
+        ]
+      }
+    },
+    {
+      "recto": "戦争の記憶が「被害」に偏りやすいと指摘される理由として適切なものはどれか。",
+      "verso": "自国の犠牲は語り継がれやすく、他者に与えた損害は語りにくいから",
+      "explanation": "どの国にも共通する傾向である。自分たちの痛みは記憶されやすく、加えた痛みは忘れられやすい。この非対称に自覚的であることが求められる。",
+      "tags": [
+        "記憶",
+        "課題"
+      ],
+      "distractors": {
+        "easy": [
+          "加害の史料が存在しないから",
+          "被害がなかったから",
+          "特に理由はない"
+        ],
+        "medium": [
+          "外国が禁じているから",
+          "法律で決まっているから",
+          "研究が進んでいないから"
+        ],
+        "hard": [
+          "加害は条約で解決したから",
+          "被害のほうが規模が大きいから",
+          "教科書が定めているから"
+        ]
+      }
+    },
+    {
+      "recto": "近隣諸国と歴史をめぐって向き合うときに必要な姿勢として適切なものはどれか。",
+      "verso": "事実を史料で確かめ、相手の記憶にも耳を傾けながら対話を続けること",
+      "explanation": "同意できない点が残ることもある。それでも事実の確認と相互の傾聴を積み重ねることでしか、関係は前に進まない。",
+      "tags": [
+        "記憶",
+        "態度"
+      ],
+      "distractors": {
+        "easy": [
+          "関係を断つこと",
+          "相手の主張を全て受け入れること",
+          "議論をしないこと"
+        ],
+        "medium": [
+          "自国の主張のみを繰り返すこと",
+          "経済関係だけを重視すること",
+          "第三国に任せること"
+        ],
+        "hard": [
+          "過去を問わないと決めること",
+          "政府間だけで処理すること",
+          "教科書から記述を削ること"
+        ]
+      }
+    },
+    {
+      "recto": "戦争の記憶を学ぶことが、私たちの現在にもつ意味は何か。",
+      "verso": "同じ過ちを繰り返さないための判断の材料を得ること",
+      "explanation": "戦争はある日突然始まるのではなく、社会の空気や制度の積み重ねのなかで準備された。その過程を知ることは、いまの社会を見る目を養うことでもある。",
+      "tags": [
+        "記憶",
+        "意義"
+      ],
+      "distractors": {
+        "easy": [
+          "過去を懐かしむこと",
+          "感動を得ること",
+          "試験に備えること"
+        ],
+        "medium": [
+          "他国を批判する材料を得ること",
+          "自国を誇ること",
+          "年号を覚えること"
+        ],
+        "hard": [
+          "外交交渉に勝つこと",
+          "国際世論を動かすこと",
+          "議論を終わらせること"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、戦争の記憶と歴史認識をめぐる課題はどのように整理できるか。",
+      "verso": "事実を史料で共有したうえで、被害と加害の両面を見つめ、対話を重ねていく課題",
+      "explanation": "記憶は自然に残るものではなく、語られ、記録され、受け継がれることで残る。何を記憶し何を忘れてきたかを問うこと自体が、歴史を学ぶ営みである。",
+      "tags": [
+        "記憶",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "すでに解決した課題",
+          "議論する必要のない課題",
+          "外国だけの課題"
+        ],
+        "medium": [
+          "政府だけが扱う課題",
+          "研究者だけの課題",
+          "過去だけの課題"
+        ],
+        "hard": [
+          "法的処理で完結した課題",
+          "被害の記憶だけの課題",
+          "教科書だけの課題"
+        ]
+      }
+    }
+  ]
+}
