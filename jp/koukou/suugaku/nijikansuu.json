@@ -1,0 +1,587 @@
+{
+  "id": "jp-koukou-suugaku-nijikansuu",
+  "title": "二次関数",
+  "emoji": "📈",
+  "subject": "mathematics",
+  "country": "jp",
+  "courseDescription": "平方完成によるグラフの読み取りから、最大・最小、判別式と共有点、二次不等式の解までを扱う。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>二次関数</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年<br>\n  <b>科目：</b>数学I<br>\n  <b>単元：</b>二次関数\n</div>\n\n<blockquote>\n  <p><b>問い。</b>二次不等式を解いて判別式が負になった。答えは「解なし」でよいのだろうか。</p>\n</blockquote>\n\n<p>この単元の中心はただ一つ、<b>平方完成</b>である。ここでグラフの形と位置を確定してしまえば、最大最小も、方程式の解も、不等式の範囲も、すべて<b>同じ一枚のグラフを読むだけ</b>で判断できる。式の操作と図の読み取りは、同じことの二つの表れにすぎない。</p>\n\n<h2>1・グラフの形を決めるもの</h2>\n\n<p>二次関数 <b>y ＝ a(x－p)²＋q</b> のグラフは<strong>放物線</strong>で、頂点は <b>(p, q)</b> にある。括弧の中が x－p なので頂点の x 座標は <b>＋p</b> である。符号を逆に読む誤りが多いが、<b>x－p ＝ 0 となる値</b>と考えれば間違えない。</p>\n\n<p>係数 a は二つの情報をもつ。<b>符号が向きを、絶対値が開き具合を決める</b>。</p>\n\n<ul>\n  <li>a ＞ 0　… 下に凸（上向き）</li>\n  <li>a ＜ 0　… 上に凸（下向き）</li>\n  <li>|a| が大きいほど細く、小さいほど平たくなる</li>\n</ul>\n\n<h2>2・平方完成</h2>\n\n<p>一般形 y ＝ ax²＋bx＋c を y ＝ a(x－p)²＋q の形に直す変形が<strong>平方完成</strong>である。この形にした瞬間、頂点の座標が読み取れる。</p>\n\n<div class=\"callout\">\n  <strong>手順・平方完成の考え方</strong><br>\n  x²＋bx に対して、<b>x の係数の半分を 2 乗した値</b>（b²／4）を<b>足して、そのまま引く</b>。<br>\n  x²＋bx ＝ (x＋b／2)² －b²／4<br>\n  足した分を引くので、もとの式との等しさは保たれる。a が 1 でない場合は、先に a でくくってから同じ操作を行う。\n</div>\n\n<p>この結果から、一般形の頂点の x 座標は次で与えられる。</p>\n\n<p style=\"text-align:center\"><strong>x ＝ －b／(2a)</strong></p>\n\n<p>この値は<b>軸の位置</b>であり、<b>最大値・最小値をとる x の値</b>でもある。なお、定数項 c は <strong>y 切片</strong>（x ＝ 0 のときの y の値）を表す。頂点と y 切片が分かれば、グラフの概形は描ける。</p>\n\n<p>グラフを x 軸方向に p、y 軸方向に q だけ平行移動するには、<b>x を x－p に、y を y－q に置き換える</b>。動かす向きと式の符号が逆になる点が理解の要である。</p>\n\n<h2>3・最大・最小</h2>\n\n<p>定義域が実数全体なら、下に凸のグラフは<b>頂点で最小値をとり、最大値は存在しない</b>（上へ限りなく伸びるため）。問題になるのは<b>定義域が制限されたとき</b>である。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 176\" role=\"img\" aria-label=\"軸が定義域の内側にあるときは頂点で最小値をとり軸が定義域の外側にあるときは端点で最小値をとることの比較\">\n  <text x=\"170\" y=\"14\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">軸が定義域の中か外かで、答えが変わる</text>\n  <rect x=\"8\" y=\"24\" width=\"156\" height=\"140\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.08;stroke:var(--accent);stroke-opacity:.35;stroke-width:1.5\"/>\n  <text x=\"86\" y=\"42\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">軸が定義域の内側</text>\n  <path d=\"M28,60 L28,132 L146,132\" style=\"fill:none;stroke:currentColor;stroke-opacity:.3;stroke-width:1\"/>\n  <path d=\"M38,66 Q86,148 134,66\" style=\"fill:none;stroke:var(--accent);stroke-width:2\"/>\n  <path d=\"M86,60 L86,138\" style=\"fill:none;stroke:var(--accent);stroke-opacity:.5;stroke-width:1;stroke-dasharray:3,3\"/>\n  <circle cx=\"86\" cy=\"114\" r=\"3.5\" style=\"fill:var(--accent)\"/>\n  <rect x=\"52\" y=\"136\" width=\"68\" height=\"5\" rx=\"2.5\" style=\"fill:var(--accent);fill-opacity:.5\"/>\n  <text x=\"86\" y=\"156\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">頂点で最小</text>\n  <rect x=\"176\" y=\"24\" width=\"156\" height=\"140\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.15;stroke:var(--accent);stroke-opacity:.55;stroke-width:1.5\"/>\n  <text x=\"254\" y=\"42\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">軸が定義域の外側</text>\n  <path d=\"M196,60 L196,132 L314,132\" style=\"fill:none;stroke:currentColor;stroke-opacity:.3;stroke-width:1\"/>\n  <path d=\"M206,66 Q240,148 288,60\" style=\"fill:none;stroke:var(--accent);stroke-width:2\"/>\n  <path d=\"M240,60 L240,138\" style=\"fill:none;stroke:var(--accent);stroke-opacity:.5;stroke-width:1;stroke-dasharray:3,3\"/>\n  <circle cx=\"266\" cy=\"88\" r=\"3.5\" style=\"fill:var(--accent)\"/>\n  <rect x=\"264\" y=\"136\" width=\"44\" height=\"5\" rx=\"2.5\" style=\"fill:var(--accent);fill-opacity:.5\"/>\n  <text x=\"254\" y=\"156\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">端点で最小</text>\n</svg>\n<figcaption>定義域が制限されたら、まず軸の位置を確認する。この場合分けを飛ばすのが最も多い誤り。</figcaption>\n</figure>\n\n<h2>4・判別式が語ること</h2>\n\n<p>二次方程式 ax²＋bx＋c ＝ 0 の解は、平方完成から導かれる<strong>解の公式</strong>で与えられる。</p>\n\n<p style=\"text-align:center\"><strong>x ＝ (－b±√(b²－4ac))／(2a)</strong></p>\n\n<p>この根号の中身 <b>b²－4ac</b> を<strong>判別式</strong>といい、D で表す。<b>D の符号だけで、実数解の個数もグラフと x 軸の位置関係も決まる。</b></p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 158\" role=\"img\" aria-label=\"判別式が正のとき放物線はx軸と二点で交わり零のとき接し負のとき交わらないという三つの場合\">\n  <text x=\"170\" y=\"14\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">判別式の符号 ＝ x 軸との交わり方</text>\n  <path d=\"M14,104 L106,104\" style=\"fill:none;stroke:currentColor;stroke-opacity:.35;stroke-width:1\"/>\n  <path d=\"M24,42 Q60,140 96,42\" style=\"fill:none;stroke:var(--accent);stroke-width:2\"/>\n  <circle cx=\"37\" cy=\"104\" r=\"3\" style=\"fill:var(--accent)\"/>\n  <circle cx=\"83\" cy=\"104\" r=\"3\" style=\"fill:var(--accent)\"/>\n  <text x=\"60\" y=\"126\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">D ＞ 0</text>\n  <text x=\"60\" y=\"142\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">交点 2 個・解 2 つ</text>\n  <path d=\"M124,104 L216,104\" style=\"fill:none;stroke:currentColor;stroke-opacity:.35;stroke-width:1\"/>\n  <path d=\"M134,42 Q170,166 206,42\" style=\"fill:none;stroke:var(--accent);stroke-width:2\"/>\n  <circle cx=\"170\" cy=\"104\" r=\"3\" style=\"fill:var(--accent)\"/>\n  <text x=\"170\" y=\"126\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">D ＝ 0</text>\n  <text x=\"170\" y=\"142\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">接する・重解</text>\n  <path d=\"M234,104 L326,104\" style=\"fill:none;stroke:currentColor;stroke-opacity:.35;stroke-width:1\"/>\n  <path d=\"M244,34 Q280,116 316,34\" style=\"fill:none;stroke:var(--accent);stroke-width:2\"/>\n  <text x=\"280\" y=\"126\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">D ＜ 0</text>\n  <text x=\"280\" y=\"142\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">交点なし・実数解なし</text>\n</svg>\n<figcaption>解の個数と交点の個数は同じことを述べている。共有点の x 座標が、方程式の実数解にほかならない。</figcaption>\n</figure>\n\n<p>また、2 解を α、β とすると<b>解と係数の関係</b>が成り立つ。</p>\n\n<p style=\"text-align:center\"><strong>α＋β ＝ －b／a　、　αβ ＝ c／a</strong></p>\n\n<p>解そのものを求めなくても、和や積、さらに α²＋β² ＝ (α＋β)²－2αβ のような対称式の値を計算できる。なお交点の x 座標が α、β と分かっている場合、関数は <b>y ＝ a(x－α)(x－β)</b> と書ける。</p>\n\n<h2>5・二次不等式</h2>\n\n<p>二次不等式は、<b>グラフのどこが x 軸より上（下）にあるか</b>を読む問題である。式変形で解こうとするより、グラフを描くほうが確実である。a ＞ 0、2 解を α ＜ β として：</p>\n\n<ul>\n  <li>ax²＋bx＋c ＜ 0　→　<b>α ＜ x ＜ β</b>（交点にはさまれた区間）</li>\n  <li>ax²＋bx＋c ＞ 0　→　<b>x ＜ α または x ＞ β</b>（解が 2 つに分かれる）</li>\n</ul>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 154\" role=\"img\" aria-label=\"下に凸の放物線でx軸より下の区間が二解にはさまれた範囲になりx軸より上の部分が二つに分かれることを示す図\">\n  <text x=\"170\" y=\"14\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">グラフの上下を見れば、解の範囲が読める</text>\n  <path d=\"M20,96 L320,96\" style=\"fill:none;stroke:currentColor;stroke-opacity:.35;stroke-width:1\"/>\n  <path d=\"M60,30 Q170,180 280,30\" style=\"fill:none;stroke:var(--accent);stroke-width:2\"/>\n  <circle cx=\"105\" cy=\"96\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <circle cx=\"235\" cy=\"96\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <text x=\"105\" y=\"88\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">α</text>\n  <text x=\"235\" y=\"88\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">β</text>\n  <rect x=\"105\" y=\"112\" width=\"130\" height=\"7\" rx=\"3.5\" style=\"fill:var(--accent);fill-opacity:.55\"/>\n  <text x=\"170\" y=\"133\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">y ＜ 0 → α ＜ x ＜ β</text>\n  <rect x=\"26\" y=\"112\" width=\"72\" height=\"7\" rx=\"3.5\" style=\"fill:var(--accent);fill-opacity:.22\"/>\n  <rect x=\"242\" y=\"112\" width=\"72\" height=\"7\" rx=\"3.5\" style=\"fill:var(--accent);fill-opacity:.22\"/>\n  <text x=\"62\" y=\"133\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">y ＞ 0</text>\n  <text x=\"278\" y=\"133\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">y ＞ 0</text>\n  <text x=\"170\" y=\"150\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">「＞ 0」の解は 2 つに分かれ、「＜ 0」の解は 1 つの区間になる</text>\n</svg>\n<figcaption>交点は解そのものではなく、範囲の境目としてはたらく点である。</figcaption>\n</figure>\n\n<p>判別式が負の場合が要注意である。a ＞ 0 かつ D ＜ 0 なら、<b>グラフ全体が x 軸より上</b>にある。したがって「＞ 0」の解は<b>すべての実数</b>、「＜ 0」の解は<b>解なし</b>となり、不等号の向きで答えが正反対になる。</p>\n\n<p>この性質から、<b>すべての実数 x について ax²＋bx＋c ＞ 0 が成り立つ条件</b>は次のように書ける。</p>\n\n<p style=\"text-align:center\"><strong>a ＞ 0 かつ D ＜ 0</strong></p>\n\n<p>下に凸であることと、x 軸と交わらないことの<b>両方が必要</b>で、どちらか一方だけでは足りない。</p>\n\n<h2>まとめ</h2>\n\n<h3>グラフの読み方</h3>\n\n<table>\n  <tr><th>要素</th><th>読み取り方</th></tr>\n  <tr><td>頂点</td><td>y ＝ a(x－p)²＋q の (p, q)</td></tr>\n  <tr><td>軸の x 座標</td><td>x ＝ －b／(2a)</td></tr>\n  <tr><td>向き</td><td>a ＞ 0 で下に凸、a ＜ 0 で上に凸</td></tr>\n  <tr><td>y 切片</td><td>定数項 c</td></tr>\n  <tr><td>平行移動</td><td>x → x－p、y → y－q</td></tr>\n</table>\n\n<h3>判別式 D ＝ b²－4ac</h3>\n\n<table>\n  <tr><th>D の符号</th><th>実数解</th><th>x 軸との共有点</th></tr>\n  <tr><td>D ＞ 0</td><td>異なる 2 つ</td><td>2 個で交わる</td></tr>\n  <tr><td>D ＝ 0</td><td>1 つ（重解）</td><td>1 個で接する</td></tr>\n  <tr><td>D ＜ 0</td><td>なし</td><td>0 個</td></tr>\n</table>\n\n<h3>二次不等式（a ＞ 0、α ＜ β）</h3>\n\n<table>\n  <tr><th>不等式</th><th>解</th></tr>\n  <tr><td>＜ 0（D ＞ 0）</td><td>α ＜ x ＜ β</td></tr>\n  <tr><td>＞ 0（D ＞ 0）</td><td>x ＜ α または x ＞ β</td></tr>\n  <tr><td>＞ 0（D ＜ 0）</td><td>すべての実数</td></tr>\n  <tr><td>＜ 0（D ＜ 0）</td><td>解なし</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  判別式が負だからといって、機械的に「解なし」と答えてはならない。a ＞ 0 で D ＜ 0 のとき、グラフは<b>完全に x 軸の上</b>にある。したがって <b>「＜ 0」なら解なし</b>だが、<b>「＞ 0」ならすべての実数</b>が解となる。<b>不等号の向きとグラフの位置を必ず確認する</b>こと——答えが正反対になる。\n</div>\n\n<blockquote>\n  <p>平方完成で一枚のグラフを手に入れれば、あとはそれを見るだけでよい。この単元が教えているのは公式の数々ではなく、<b>迷ったらグラフを描く</b>という一つの態度である。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "数学I ― 二次関数",
+  "cards": [
+    {
+      "recto": "二次関数 y ＝ a(x－p)²＋q のグラフは、どのような曲線で、頂点はどこにあるか。",
+      "verso": "放物線であり、頂点は点 (p, q) にある",
+      "explanation": "括弧の中は x－p なので、頂点の x 座標は ＋p である。符号を逆に読む誤りが多いので、x－p ＝ 0 となる値と考えるとよい。",
+      "tags": [
+        "二次関数",
+        "グラフ"
+      ],
+      "distractors": {
+        "easy": [
+          "直線であり、頂点は (p, q)",
+          "放物線であり、頂点は (0, 0)",
+          "双曲線であり、頂点は (p, q)"
+        ],
+        "medium": [
+          "放物線であり、頂点は (－p, q)",
+          "放物線であり、頂点は (p, －q)",
+          "放物線であり、頂点は (q, p)"
+        ],
+        "hard": [
+          "放物線であり、頂点は (－p, －q)",
+          "放物線であり、頂点は (a, q)",
+          "放物線であり、頂点は (p＋q, 0)"
+        ]
+      }
+    },
+    {
+      "recto": "二次関数 y ＝ ax²＋bx＋c のグラフの向きは、係数 a によってどう決まるか。",
+      "verso": "a ＞ 0 のとき下に凸（上向き）、a ＜ 0 のとき上に凸（下向き）",
+      "explanation": "a の符号が向きを、a の絶対値が開き具合を決める。|a| が大きいほどグラフは細くなる。",
+      "tags": [
+        "二次関数",
+        "グラフ"
+      ],
+      "distractors": {
+        "easy": [
+          "a の値に関係なく常に下に凸",
+          "a ＞ 0 で上に凸、a ＜ 0 で下に凸",
+          "b の符号によって決まる"
+        ],
+        "medium": [
+          "c の符号によって決まる",
+          "a ＝ 0 のときも放物線になる",
+          "頂点の位置によって決まる"
+        ],
+        "hard": [
+          "判別式の符号によって決まる",
+          "a の絶対値の大小によって向きが変わる",
+          "b² －4ac の符号によって決まる"
+        ]
+      }
+    },
+    {
+      "recto": "二次関数 y ＝ ax²＋bx＋c を y ＝ a(x－p)²＋q の形に変形することを何というか。",
+      "verso": "平方完成",
+      "explanation": "この変形によって頂点の座標が直ちに読み取れる。最大・最小、グラフの平行移動、二次不等式のいずれもこの形が出発点になる。",
+      "tags": [
+        "二次関数",
+        "変形"
+      ],
+      "distractors": {
+        "easy": [
+          "因数分解",
+          "展開",
+          "通分"
+        ],
+        "medium": [
+          "有理化",
+          "同類項の整理",
+          "係数比較"
+        ],
+        "hard": [
+          "判別式の計算と完全に同一の操作",
+          "解の公式の導出と完全に同一の操作",
+          "標準形への変換とは別の操作"
+        ]
+      }
+    },
+    {
+      "recto": "y ＝ x²＋bx を平方完成すると、どのような形になるか。",
+      "verso": "y ＝ (x＋b／2)²－b²／4",
+      "explanation": "x の係数の半分を 2 乗した値を足して引く。足した分をそのまま引くことで、もとの式と等しさが保たれる。",
+      "tags": [
+        "二次関数",
+        "変形"
+      ],
+      "distractors": {
+        "easy": [
+          "y ＝ (x＋b)²－b²",
+          "y ＝ (x＋b／2)²",
+          "y ＝ (x＋b／2)²＋b²／4"
+        ],
+        "medium": [
+          "y ＝ (x＋b／2)²－b／2",
+          "y ＝ (x＋2b)²－4b²",
+          "y ＝ (x－b／2)²－b²／4"
+        ],
+        "hard": [
+          "y ＝ (x＋b／2)²－b²／2",
+          "y ＝ (x＋b²／4)²－b／2",
+          "y ＝ (x＋b／4)²－b²／16"
+        ]
+      }
+    },
+    {
+      "recto": "二次関数 y ＝ ax²＋bx＋c の頂点の x 座標は、a、b を用いてどう表されるか。",
+      "verso": "x ＝ －b／(2a)",
+      "explanation": "平方完成の結果から得られる。この値は放物線の軸の位置でもあり、最大値・最小値をとる x の値でもある。",
+      "tags": [
+        "二次関数",
+        "グラフ"
+      ],
+      "distractors": {
+        "easy": [
+          "x ＝ b／(2a)",
+          "x ＝ －b／a",
+          "x ＝ －2a／b"
+        ],
+        "medium": [
+          "x ＝ －b／(2c)",
+          "x ＝ －c／(2a)",
+          "x ＝ (b²－4ac)／(2a)"
+        ],
+        "hard": [
+          "x ＝ －b／(4a)",
+          "x ＝ －2b／a",
+          "x ＝ (－b±√(b²－4ac))／(2a)"
+        ]
+      }
+    },
+    {
+      "recto": "二次関数のグラフを x 軸方向に p、y 軸方向に q だけ平行移動すると、式はどう変わるか。",
+      "verso": "x を x－p に、y を y－q に置き換えた式になる",
+      "explanation": "移動する向きと式の符号が逆になる点が理解の要である。右へ p 動かすなら x－p とする、と結びつけて覚える。",
+      "tags": [
+        "二次関数",
+        "移動"
+      ],
+      "distractors": {
+        "easy": [
+          "x を x＋p に、y を y＋q に置き換える",
+          "x に p を足し、y はそのまま",
+          "式は変わらない"
+        ],
+        "medium": [
+          "x を x－p に、y を y＋q に置き換える",
+          "x を x＋p に、y を y－q に置き換える",
+          "両辺に p＋q を足す"
+        ],
+        "hard": [
+          "x を px に、y を qy に置き換える",
+          "x を x－q に、y を y－p に置き換える",
+          "頂点だけを動かし式は変えない"
+        ]
+      }
+    },
+    {
+      "recto": "下に凸の二次関数について、定義域が実数全体のとき、最大値と最小値はどうなるか。",
+      "verso": "頂点の y 座標が最小値となり、最大値は存在しない",
+      "explanation": "下に凸のグラフは上へ限りなく伸びるため、最大値をもたない。定義域が制限されると事情が変わるので、まず定義域を確認する習慣をつけたい。",
+      "tags": [
+        "二次関数",
+        "最大最小"
+      ],
+      "distractors": {
+        "easy": [
+          "頂点が最大値となり、最小値は存在しない",
+          "最大値も最小値も頂点でとる",
+          "最大値も最小値も存在しない"
+        ],
+        "medium": [
+          "最小値は 0 で、最大値は存在しない",
+          "最大値は頂点、最小値は 0 になる",
+          "定義域に関係なく両方存在する"
+        ],
+        "hard": [
+          "軸の値が最小値になる",
+          "最小値は存在するが頂点の x 座標に等しい",
+          "a の値によって最大値をもつこともある"
+        ]
+      }
+    },
+    {
+      "recto": "定義域が制限された二次関数の最大・最小を求めるとき、何を最初に確認すべきか。",
+      "verso": "軸（頂点の x 座標）が定義域の内側にあるか外側にあるかを確認すること",
+      "explanation": "軸が定義域の中にあれば頂点で最小（下に凸の場合）をとるが、外にあれば端点で最小をとる。この場合分けを飛ばすことが最も多い誤りである。",
+      "tags": [
+        "二次関数",
+        "最大最小"
+      ],
+      "distractors": {
+        "easy": [
+          "判別式の符号を確認する",
+          "y 切片の値を確認する",
+          "特に確認は不要である"
+        ],
+        "medium": [
+          "定義域の幅が 1 より大きいかを確認する",
+          "係数 a が整数かを確認する",
+          "グラフが x 軸と交わるかを確認する"
+        ],
+        "hard": [
+          "定義域の中点と軸が一致するかだけを確認する",
+          "頂点の y 座標の符号を確認する",
+          "端点の値の大小だけを比べれば十分である"
+        ]
+      }
+    },
+    {
+      "recto": "二次方程式 ax²＋bx＋c ＝ 0 の解の公式はどう表されるか。",
+      "verso": "x ＝ (－b±√(b²－4ac))／(2a)",
+      "explanation": "平方完成から導かれる。分母が 2a であること、根号の中が b²－4ac であることの二点で誤りが起きやすい。",
+      "tags": [
+        "二次方程式",
+        "公式"
+      ],
+      "distractors": {
+        "easy": [
+          "x ＝ (b±√(b²－4ac))／(2a)",
+          "x ＝ (－b±√(b²＋4ac))／(2a)",
+          "x ＝ －b／(2a)"
+        ],
+        "medium": [
+          "x ＝ (－b±√(b²－4ac))／a",
+          "x ＝ (－b±√(b²－4ac))／(2c)",
+          "x ＝ (－b±√(4ac－b²))／(2a)"
+        ],
+        "hard": [
+          "x ＝ (－b±√(b²－2ac))／(2a)",
+          "x ＝ (－2b±√(b²－4ac))／(2a)",
+          "x ＝ (－b±(b²－4ac))／(2a)"
+        ]
+      }
+    },
+    {
+      "recto": "二次方程式 ax²＋bx＋c ＝ 0 において、b²－4ac の値を何といい、どのような記号で表すことが多いか。",
+      "verso": "判別式といい、D で表す",
+      "explanation": "解の公式の根号の中身にあたる。この値の符号だけで、実数解の個数が決まる点に価値がある。",
+      "tags": [
+        "二次方程式",
+        "判別式"
+      ],
+      "distractors": {
+        "easy": [
+          "解の公式といい、x で表す",
+          "係数といい、a で表す",
+          "定数項といい、c で表す"
+        ],
+        "medium": [
+          "頂点の座標といい、p で表す",
+          "軸の値といい、q で表す",
+          "解の和といい、S で表す"
+        ],
+        "hard": [
+          "解の積といい、P で表す",
+          "根号式といい、R で表す",
+          "平方完成の余りといい、E で表す"
+        ]
+      }
+    },
+    {
+      "recto": "判別式 D の符号と、二次方程式の実数解の個数には、どのような対応があるか。",
+      "verso": "D ＞ 0 で異なる 2 つ、D ＝ 0 で 1 つ（重解）、D ＜ 0 で実数解なし",
+      "explanation": "根号の中が正なら 2 通り、0 なら 1 通り、負なら実数の範囲では値が定まらない。グラフでは x 軸との共有点の個数に対応する。",
+      "tags": [
+        "二次方程式",
+        "判別式"
+      ],
+      "distractors": {
+        "easy": [
+          "D ＞ 0 で 1 つ、D ＝ 0 で 2 つ、D ＜ 0 でなし",
+          "D の符号は解の個数と無関係である",
+          "常に 2 つの実数解をもつ"
+        ],
+        "medium": [
+          "D ＞ 0 でなし、D ＝ 0 で 1 つ、D ＜ 0 で 2 つ",
+          "D ＞ 0 で 2 つ、D ＝ 0 でなし、D ＜ 0 で 1 つ",
+          "D ≧ 0 で必ず 2 つになる"
+        ],
+        "hard": [
+          "D ＞ 0 で 2 つ、D ＝ 0 で 2 つ（重複）、D ＜ 0 で 1 つ",
+          "D の絶対値が解の個数を決める",
+          "a の符号と組み合わせないと個数は決まらない"
+        ]
+      }
+    },
+    {
+      "recto": "二次関数のグラフと x 軸の共有点の個数は、判別式とどう対応するか。",
+      "verso": "D ＞ 0 で 2 個、D ＝ 0 で 1 個（接する）、D ＜ 0 で 0 個",
+      "explanation": "共有点の x 座標は方程式の実数解にほかならない。D ＝ 0 のとき、グラフは x 軸に接するという言い方をする。",
+      "tags": [
+        "二次関数",
+        "判別式"
+      ],
+      "distractors": {
+        "easy": [
+          "常に 2 個である",
+          "常に 1 個である",
+          "共有点の個数は判別式と無関係である"
+        ],
+        "medium": [
+          "D ＞ 0 で 1 個、D ＝ 0 で 2 個、D ＜ 0 で 0 個",
+          "D ＞ 0 で 0 個、D ＜ 0 で 2 個",
+          "D ≧ 0 なら必ず 2 個"
+        ],
+        "hard": [
+          "D ＝ 0 のときグラフは x 軸と交わらない",
+          "D ＜ 0 のとき 1 個で接する",
+          "共有点の個数は a の符号でも変わる"
+        ]
+      }
+    },
+    {
+      "recto": "二次方程式 ax²＋bx＋c ＝ 0 の 2 つの解を α、β とすると、解の和と積はどう表されるか。",
+      "verso": "α＋β ＝ －b／a、αβ ＝ c／a",
+      "explanation": "解と係数の関係と呼ばれる。解そのものを求めなくても、和や積、さらに α²＋β² などの対称式の値を計算できる点が便利である。",
+      "tags": [
+        "二次方程式",
+        "関係"
+      ],
+      "distractors": {
+        "easy": [
+          "α＋β ＝ b／a、αβ ＝ c／a",
+          "α＋β ＝ －b／a、αβ ＝ －c／a",
+          "α＋β ＝ c／a、αβ ＝ －b／a"
+        ],
+        "medium": [
+          "α＋β ＝ －b／(2a)、αβ ＝ c／a",
+          "α＋β ＝ －a／b、αβ ＝ a／c",
+          "α＋β ＝ －b、αβ ＝ c"
+        ],
+        "hard": [
+          "α＋β ＝ －c／a、αβ ＝ b／a",
+          "α＋β ＝ b／(2a)、αβ ＝ c／(2a)",
+          "α＋β ＝ －b／a、αβ ＝ b²－4ac"
+        ]
+      }
+    },
+    {
+      "recto": "下に凸の二次関数について、二次不等式 ax²＋bx＋c ＞ 0（a ＞ 0）の解は、グラフのどの部分に対応するか。",
+      "verso": "グラフが x 軸より上にある部分の x の範囲",
+      "explanation": "不等式を「y ＞ 0 となる x を探す」と読み替えれば、グラフを見るだけで解が読める。式変形で解こうとするより確実である。",
+      "tags": [
+        "二次不等式",
+        "解法"
+      ],
+      "distractors": {
+        "easy": [
+          "グラフが x 軸より下にある部分",
+          "グラフが y 軸より右にある部分",
+          "頂点の位置のみ"
+        ],
+        "medium": [
+          "グラフと x 軸の共有点のみ",
+          "グラフが y 軸と交わる点のみ",
+          "定義域全体"
+        ],
+        "hard": [
+          "グラフが x 軸に接する点のみ",
+          "頂点より右側の範囲すべて",
+          "軸より左側の範囲すべて"
+        ]
+      }
+    },
+    {
+      "recto": "a ＞ 0 で、二次方程式 ax²＋bx＋c ＝ 0 が異なる 2 解 α ＜ β をもつとき、ax²＋bx＋c ＜ 0 の解はどうなるか。",
+      "verso": "α ＜ x ＜ β",
+      "explanation": "下に凸のグラフが x 軸より下にあるのは、2 つの交点にはさまれた区間である。不等号の向きが逆の場合は x ＜ α または x ＞ β となり、解が 2 つに分かれる。",
+      "tags": [
+        "二次不等式",
+        "解法"
+      ],
+      "distractors": {
+        "easy": [
+          "x ＜ α または x ＞ β",
+          "x ＞ β のみ",
+          "x ＜ α のみ"
+        ],
+        "medium": [
+          "x ≦ α または x ≧ β",
+          "α ≦ x ≦ β",
+          "解は存在しない"
+        ],
+        "hard": [
+          "β ＜ x ＜ α",
+          "x ＜ α かつ x ＞ β",
+          "x ＝ α または x ＝ β"
+        ]
+      }
+    },
+    {
+      "recto": "a ＞ 0 かつ判別式 D ＜ 0 のとき、二次不等式 ax²＋bx＋c ＞ 0 の解はどうなるか。",
+      "verso": "すべての実数（常に成り立つ）",
+      "explanation": "下に凸で x 軸と交わらないなら、グラフ全体が x 軸より上にある。この場合、解なしと答える誤りが非常に多い。",
+      "tags": [
+        "二次不等式",
+        "解法"
+      ],
+      "distractors": {
+        "easy": [
+          "解なし",
+          "x ＞ 0 のみ",
+          "頂点の x 座標のみ"
+        ],
+        "medium": [
+          "x ≠ 0 であるすべての実数",
+          "0 ＜ x ＜ 1 の範囲",
+          "軸より右側のすべての実数"
+        ],
+        "hard": [
+          "x が頂点の x 座標に等しいときを除くすべての実数",
+          "実数解が存在しないので判定できない",
+          "a ＞ 0 のときは常に解なしとなる"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】二次不等式 ax²＋bx＋c ＜ 0（a ＞ 0）を解いたとき、判別式が負であれば「解なし」と答えてよいか。",
+      "verso": "はい。ただし不等号が逆の ＞ 0 の場合はすべての実数が解となるため、不等号の向きとグラフの位置を必ず確認する必要がある",
+      "explanation": "判別式が負なら下に凸のグラフは完全に x 軸の上にある。したがって「＜ 0」は解なし、「＞ 0」はすべての実数となり、答えが正反対になる。判別式の符号だけで機械的に「解なし」と決めるのが典型的な誤りである。",
+      "tags": [
+        "piege",
+        "二次不等式"
+      ],
+      "distractors": {
+        "easy": [
+          "いいえ。判別式が負なら常にすべての実数が解になる",
+          "はい。不等号の向きに関係なく常に解なしである",
+          "いいえ。判別式は不等式には使えない"
+        ],
+        "medium": [
+          "はい。ただし a ＜ 0 のときも同じ結論になる",
+          "いいえ。判別式が負のとき解は必ず 1 点になる",
+          "はい。不等号が ＞ 0 の場合も解なしとなる"
+        ],
+        "hard": [
+          "いいえ。判別式が負なら頂点の x 座標だけが解になる",
+          "はい。ただし c ＞ 0 のときに限る",
+          "いいえ。判別式が負のときは二次不等式を解けない"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】二次方程式 ax²＋bx＋c ＝ 0 と二次不等式 ax²＋bx＋c ＞ 0 は、求めるものの点でどう違うか。",
+      "verso": "方程式はグラフが x 軸と交わる点そのものを求めるのに対し、不等式はグラフが x 軸より上にある x の範囲を求める",
+      "explanation": "点を求めるのか範囲を求めるのかという違いである。不等式では、交点は範囲の境目としてはたらく点にすぎない。",
+      "tags": [
+        "comparaison",
+        "二次不等式"
+      ],
+      "distractors": {
+        "easy": [
+          "両者に違いはない",
+          "どちらも点を求める",
+          "どちらも範囲を求める"
+        ],
+        "medium": [
+          "方程式が範囲を、不等式が点を求める",
+          "違いは判別式を使うかどうかだけである",
+          "不等式では交点は解に含まれない点だけが違う"
+        ],
+        "hard": [
+          "方程式では平方完成を使わない点だけが違う",
+          "不等式は常に解が 2 つに分かれる点だけが違う",
+          "違いは定義域が制限されるかどうかである"
+        ]
+      }
+    },
+    {
+      "recto": "二次関数のグラフが x 軸と 2 点で交わり、その交点の x 座標が α、β であるとき、この関数は因数を用いてどう表せるか。",
+      "verso": "y ＝ a(x－α)(x－β)",
+      "explanation": "交点が分かっている場合、この形で書くと計算が簡単になる。展開して解と係数の関係を確かめることもできる。",
+      "tags": [
+        "二次関数",
+        "表現"
+      ],
+      "distractors": {
+        "easy": [
+          "y ＝ (x＋α)(x＋β)",
+          "y ＝ a(x＋α)(x＋β)",
+          "y ＝ a(x－α－β)"
+        ],
+        "medium": [
+          "y ＝ a(x－α)＋(x－β)",
+          "y ＝ (x－α)(x－β)＋a",
+          "y ＝ a(x－α)²(x－β)"
+        ],
+        "hard": [
+          "y ＝ a(αx－1)(βx－1)",
+          "y ＝ a(x－α)(x＋β)",
+          "y ＝ (x－α)(x－β)／a"
+        ]
+      }
+    },
+    {
+      "recto": "二次関数 y ＝ ax²＋bx＋c において、定数項 c はグラフのどの値を表すか。",
+      "verso": "y 切片（x ＝ 0 のときの y の値、すなわちグラフが y 軸と交わる点の y 座標）",
+      "explanation": "x に 0 を代入すれば直ちに c が得られる。グラフを描く際、頂点とともに最初に押さえられる点である。",
+      "tags": [
+        "二次関数",
+        "グラフ"
+      ],
+      "distractors": {
+        "easy": [
+          "頂点の y 座標",
+          "x 切片",
+          "軸の位置"
+        ],
+        "medium": [
+          "最小値そのもの",
+          "判別式の値",
+          "頂点の x 座標"
+        ],
+        "hard": [
+          "グラフの開き具合",
+          "2 つの解の積そのもの",
+          "対称軸との交点の x 座標"
+        ]
+      }
+    },
+    {
+      "recto": "すべての実数 x について ax²＋bx＋c ＞ 0 が成り立つための条件は何か。",
+      "verso": "a ＞ 0 かつ判別式 D ＜ 0",
+      "explanation": "下に凸で x 軸と交わらないという二つの条件が同時に必要である。a ＞ 0 だけ、あるいは D ＜ 0 だけでは足りない点に注意する。",
+      "tags": [
+        "二次不等式",
+        "条件"
+      ],
+      "distractors": {
+        "easy": [
+          "a ＞ 0 のみ",
+          "D ＜ 0 のみ",
+          "c ＞ 0 のみ"
+        ],
+        "medium": [
+          "a ＜ 0 かつ D ＜ 0",
+          "a ＞ 0 かつ D ＞ 0",
+          "a ＞ 0 かつ D ＝ 0"
+        ],
+        "hard": [
+          "a ＞ 0 かつ c ＞ 0",
+          "D ≦ 0 であればよい",
+          "b ＝ 0 かつ c ＞ 0"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、二次関数の学習はどのように整理できるか。",
+      "verso": "平方完成でグラフの形と位置を確定し、そのグラフを読むことで最大最小・方程式の解・不等式の範囲のすべてを判断できるようにすること",
+      "explanation": "式の操作と図の読み取りが同じことの二つの表れであると気づくのが要点である。迷ったらグラフを描くという手立てが、この単元全体を貫いている。",
+      "tags": [
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "公式を暗記するだけの単元であること",
+          "計算の速さだけが問われること",
+          "特に整理できない"
+        ],
+        "medium": [
+          "グラフは補助にすぎず式変形だけで解けること",
+          "判別式は方程式にしか使えないこと",
+          "最大最小は定義域と無関係であること"
+        ],
+        "hard": [
+          "平方完成は不等式には使えないこと",
+          "グラフの読み取りと式の操作は別々の技能であること",
+          "頂点の位置は最大最小の判断に関係しないこと"
+        ]
+      }
+    }
+  ]
+}

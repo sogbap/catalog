@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-sekaishi-tankyuu-chuusei-europe",
+  "title": "中世ヨーロッパ世界 ― 教会と封建の社会",
+  "emoji": "⛪",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "ゲルマン人の移動から西ヨーロッパ世界の成立、主従関係と教会の権威、十字軍と都市の発達、そして黒死病がもたらした転換をたどる。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>中世ヨーロッパ世界 ― 教会と封建の社会</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>世界史探究<br>\n  <b>単元：</b>大項目C 諸地域の交流・再編\n</div>\n\n<blockquote>\n  <p><b>問い。</b>強い王が不在だった社会は、何によって秩序を保っていたのだろうか。</p>\n</blockquote>\n\n<p>西ローマ帝国が滅びたあと、ヨーロッパには広い領域を治める強大な国家がなかった。それでも社会は成り立っていた。支えたのは二つの結びつきである。土地を介した<strong>封建的主従関係</strong>と、国境を越える<strong>教会の権威</strong>。そしてこの枠組みは、都市と交易の発達、そして一つの疫病によって内側から揺らいでいく。</p>\n\n<h2>1・西ヨーロッパ世界の成立</h2>\n\n<p>4世紀後半、東方からの遊牧民の圧迫を受けて<strong>ゲルマン人</strong>が大規模に移動を始め、西ローマ帝国は滅亡した。その跡地に並び立った王国のなかから、フランク王国が抜け出る。800年、<strong>カール大帝</strong>がローマ教皇から帝冠を授けられた。ゲルマンの王権・ローマの伝統・教会という三つの要素が結びついた瞬間であり、以後の西ヨーロッパの骨格となる。</p>\n\n<h2>2・土地と信仰が結ぶ社会</h2>\n\n<p><strong>封建的主従関係</strong>は、主君が家臣に土地を与え、家臣が軍務で応えるという結びつきである。重要なのは、これが<b>主君の側も義務を負う双務的な契約</b>だった点である。義務が果たされなければ関係は解消しえたし、一人の家臣が複数の主君に仕えることもあった。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 150\" role=\"img\" aria-label=\"ヨーロッパの双務的な封建的主従関係と日本の一人の主君への忠誠の比較\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">契約か、忠誠か</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">ヨーロッパ</text>\n  <text x=\"87\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">主君も義務を負う</text>\n  <text x=\"87\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">双務的な契約</text>\n  <text x=\"87\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">複数の主君に仕える</text>\n  <text x=\"87\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">義務違反で解消しうる</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">日本の武士</text>\n  <text x=\"253\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">御恩と奉公</text>\n  <text x=\"253\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">忠誠が重んじられる</text>\n  <text x=\"253\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">一人の主君に仕える</text>\n  <text x=\"253\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">主従の絆を重視</text>\n</svg>\n<figcaption>骨格は似ていても、関係の性格は異なっていた。</figcaption>\n</figure>\n\n<p>土地を耕したのは<strong>農奴</strong>である。奴隷とは異なり家族と生活の道具をもち、収穫の一部を自らのものとできたが、土地を離れることは許されず、結婚にも領主の許しが必要であった。耕地を三つに分けて順に休ませる<strong>三圃制</strong>が広まり、重い犂と組み合わさって収穫が増え、人口の増加を支えた。</p>\n\n<p>もう一つの柱が<strong>教会</strong>である。洗礼から埋葬まで人生のすべてに関わり、破門は共同体からの追放を意味した。国王すら逆らいにくい力をもったのはこのためである。聖職者を任命する権限をめぐる争いのなかで、皇帝が教皇に屈した<strong>カノッサの屈辱</strong>は、その力を象徴する出来事とされる。</p>\n\n<div class=\"callout\">\n  <strong>用語・破門</strong><br>\n  教会が信者を共同体から締め出すこと。<b>秘跡を受けられなくなるだけでなく、家臣が主君への義務から解かれる</b>効果もあった。宗教上の処分が政治を直接動かした点に、この時代の特徴が表れている。\n</div>\n\n<h2>3・揺らぎと転換</h2>\n\n<p>11世紀末から、聖地の回復を掲げた<strong>十字軍</strong>が繰り返し派遣された。当初の目的は達せられなかったが、東方との接触が広がり、商業と都市が活気づく。都市では商人や職人が<strong>ギルド</strong>を作って互いの利益を守り、12世紀ごろからは学ぶ者と教える者の団体として<strong>大学</strong>が生まれた。そこで教材となったのは、イスラーム世界を経て戻ってきた古代の学問である。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 132\" role=\"img\" aria-label=\"十字軍が東方との交流を広げ商業と都市と大学の発達につながった流れ\">\n  <defs>\n    <marker id=\"ar-sce1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">目的は果たせず、結果は大きかった</text>\n  <rect x=\"70\" y=\"26\" width=\"200\" height=\"26\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"43\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">十字軍と東方との接触</text>\n  <path d=\"M110,52 L84,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sce1)\"/>\n  <path d=\"M170,52 L170,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sce1)\"/>\n  <path d=\"M230,52 L256,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sce1)\"/>\n  <rect x=\"8\" y=\"72\" width=\"96\" height=\"42\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"56\" y=\"90\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">商業の活気</text>\n  <text x=\"56\" y=\"106\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">都市とギルド</text>\n  <rect x=\"122\" y=\"72\" width=\"96\" height=\"42\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"90\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">学問の再会</text>\n  <text x=\"170\" y=\"106\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">大学の成立</text>\n  <rect x=\"236\" y=\"72\" width=\"96\" height=\"42\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"284\" y=\"90\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">教皇権の傷</text>\n  <text x=\"284\" y=\"106\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">失敗の代償</text>\n  <text x=\"170\" y=\"128\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">高くそびえるゴシックの聖堂も、この都市の富に支えられた</text>\n</svg>\n<figcaption>接触は、意図しなかった変化をもたらした。</figcaption>\n</figure>\n\n<p>そして14世紀、<strong>黒死病</strong>が交易路を通って東方から広がり、人口の三分の一ほどが失われたとされる。働き手が不足したため、条件をよくしなければ人手を確保できなくなり、農民の立場は相対的に強まった。<b>土地に人を縛るという仕組みそのものが揺らぎ</b>、農奴の解放が進む地域も現れる。災厄が社会を動かした例である。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 132\" role=\"img\" aria-label=\"黒死病による人口の減少が労働力不足を招き農民の立場を強め領主の力を衰えさせた流れ\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">災厄が動かした社会</text>\n  <rect x=\"66\" y=\"26\" width=\"208\" height=\"24\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"42\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">黒死病の流行</text>\n  <path d=\"M170,50 L170,62\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sce1)\"/>\n  <rect x=\"66\" y=\"66\" width=\"208\" height=\"24\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"82\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">働き手の不足</text>\n  <path d=\"M170,90 L170,102\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sce1)\"/>\n  <rect x=\"66\" y=\"106\" width=\"208\" height=\"24\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"122\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">農民の立場が強まる</text>\n</svg>\n<figcaption>土地に人を縛る仕組みは、内側から緩んでいった。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>時期</th><th>できごと</th></tr>\n  <tr><td>4世紀後半〜</td><td>ゲルマン人の大移動、西ローマ帝国の滅亡</td></tr>\n  <tr><td>800年</td><td>カール大帝の戴冠、西ヨーロッパ世界の成立</td></tr>\n  <tr><td>11世紀後半</td><td>叙任権闘争、カノッサの屈辱</td></tr>\n  <tr><td>11世紀末〜</td><td>十字軍、都市と大学の発達</td></tr>\n  <tr><td>14世紀</td><td>黒死病の流行、社会の転換</td></tr>\n</table>\n\n<h3>社会のしくみ</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>封建的主従関係</td><td>土地と軍務を交換する双務的な契約</td></tr>\n  <tr><td>農奴</td><td>土地に縛られ移動の自由をもたない耕作者</td></tr>\n  <tr><td>三圃制</td><td>耕地を三つに分け順に休ませる農法</td></tr>\n  <tr><td>ギルド</td><td>都市の商人・職人による同業の組合</td></tr>\n</table>\n\n<h3>教会と文化</h3>\n\n<table>\n  <tr><th>事がら</th><th>意義</th></tr>\n  <tr><td>ローマ教皇</td><td>国境を越えて精神生活を支配した権威</td></tr>\n  <tr><td>カノッサの屈辱</td><td>教会の権威が世俗の権力を上回った象徴</td></tr>\n  <tr><td>大学</td><td>神学・法学・医学を学ぶ団体として成立</td></tr>\n  <tr><td>ゴシック様式</td><td>都市の富と技術を示す教会建築</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  中世を<b>進歩の止まった「暗黒時代」と呼ぶのは適切ではない</b>。農法と建築の技術は進み、都市と大学が生まれ、東方との交流も広がった。そもそも「暗黒時代」という呼び方は、のちの時代の人々が自分たちを輝かせるために使った言葉でもある。<b>誰がどの立場からその評価を下したのか</b>を問うことが大切である。\n</div>\n\n<blockquote>\n  <p>秩序は上から与えられるとは限らない。土地と信仰という二本の糸が、王のいない社会を数百年にわたって支えていた。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "世界史探究 ― 諸地域の交流・再編",
+  "cards": [
+    {
+      "recto": "4世紀後半、ローマ帝国の領内へ大規模に移動を始めた人々は誰か。",
+      "verso": "ゲルマン人",
+      "explanation": "東方からの遊牧民の圧迫が引き金となった。西ローマ帝国の滅亡につながり、その跡地に複数の王国が並び立つことになる。",
+      "tags": [
+        "中世ヨーロッパ",
+        "成立"
+      ],
+      "distractors": {
+        "easy": [
+          "日本人",
+          "アラブ人",
+          "インカの人々"
+        ],
+        "medium": [
+          "スラヴ人",
+          "ケルト人",
+          "ノルマン人"
+        ],
+        "hard": [
+          "フン人",
+          "マジャール人",
+          "ヴァンダル人のみ"
+        ]
+      }
+    },
+    {
+      "recto": "800年、ローマ教皇から帝冠を授けられ、西ヨーロッパ世界の成立を象徴づけた王は誰か。",
+      "verso": "カール大帝",
+      "explanation": "フランク王国の王である。ゲルマンの王権・ローマの伝統・教会という三つの要素が結びついた瞬間であり、以後の西ヨーロッパの骨格となった。",
+      "tags": [
+        "中世ヨーロッパ",
+        "成立"
+      ],
+      "distractors": {
+        "easy": [
+          "ナポレオン",
+          "アレクサンドロス",
+          "始皇帝"
+        ],
+        "medium": [
+          "クローヴィス",
+          "オットー1世",
+          "ユスティニアヌス"
+        ],
+        "hard": [
+          "ピピン",
+          "カール・マルテル",
+          "ハインリヒ4世"
+        ]
+      }
+    },
+    {
+      "recto": "中世ヨーロッパで、主君が家臣に土地を与え、家臣が軍務を果たすという関係を何というか。",
+      "verso": "封建的主従関係",
+      "explanation": "主君も義務を負う双務的な契約であり、義務が果たされなければ関係は解消しえた。一人の家臣が複数の主君に仕えることもあった点が、日本の主従関係との違いである。",
+      "tags": [
+        "中世ヨーロッパ",
+        "社会"
+      ],
+      "distractors": {
+        "easy": [
+          "雇用契約",
+          "郡県制",
+          "科挙"
+        ],
+        "medium": [
+          "奴隷制",
+          "身分制議会",
+          "同業組合の関係"
+        ],
+        "hard": [
+          "恩貸地制度のみ",
+          "従士制のみ",
+          "教会の叙任関係"
+        ]
+      }
+    },
+    {
+      "recto": "領主の土地に縛られ、移動の自由をもたずに耕作した人々を何というか。",
+      "verso": "農奴",
+      "explanation": "奴隷とは異なり、家族と生活の道具をもち、収穫の一部を自らのものとできた。しかし土地を離れることは許されず、結婚にも領主の許しが必要であった。",
+      "tags": [
+        "中世ヨーロッパ",
+        "社会"
+      ],
+      "distractors": {
+        "easy": [
+          "市民",
+          "貴族",
+          "商人"
+        ],
+        "medium": [
+          "奴隷",
+          "小作人",
+          "自作農"
+        ],
+        "hard": [
+          "ヨーマン",
+          "職人",
+          "徒弟"
+        ]
+      }
+    },
+    {
+      "recto": "耕地を三つに分け、順に休ませながら耕した中世ヨーロッパの農法を何というか。",
+      "verso": "三圃制",
+      "explanation": "重い犂と組み合わさって収穫が増え、人口の増加を支えた。休ませる土地に家畜を放つことで、肥料も得られる仕組みになっていた。",
+      "tags": [
+        "中世ヨーロッパ",
+        "経済"
+      ],
+      "distractors": {
+        "easy": [
+          "焼畑",
+          "水田耕作",
+          "灌漑農業"
+        ],
+        "medium": [
+          "二毛作",
+          "輪作",
+          "二圃制"
+        ],
+        "hard": [
+          "囲い込みによる牧羊",
+          "混合農業",
+          "地中海式農業"
+        ]
+      }
+    },
+    {
+      "recto": "中世ヨーロッパで、国境を越えて人々の精神生活を支配した権威は何か。",
+      "verso": "ローマ教皇を頂点とする教会",
+      "explanation": "洗礼から埋葬まで人生のすべてに関わり、破門は共同体からの追放を意味した。国王すら逆らいにくい力をもったのはこのためである。",
+      "tags": [
+        "中世ヨーロッパ",
+        "教会"
+      ],
+      "distractors": {
+        "easy": [
+          "商人の組合",
+          "大学",
+          "軍隊"
+        ],
+        "medium": [
+          "神聖ローマ皇帝",
+          "各国の国王",
+          "修道院のみ"
+        ],
+        "hard": [
+          "東方の総主教",
+          "公会議のみ",
+          "諸侯の連合"
+        ]
+      }
+    },
+    {
+      "recto": "聖職者を任命する権限をめぐって、皇帝が教皇に屈した出来事を何というか。",
+      "verso": "カノッサの屈辱",
+      "explanation": "叙任権闘争のなかで起きた。教会の権威が世俗の権力を上回った象徴とされるが、争いはその後も続き、決着はさらに後のことである。",
+      "tags": [
+        "中世ヨーロッパ",
+        "教会"
+      ],
+      "distractors": {
+        "easy": [
+          "本能寺の変",
+          "ワーテルローの戦い",
+          "大化の改新"
+        ],
+        "medium": [
+          "十字軍の失敗",
+          "教会大分裂",
+          "ウェストファリア条約"
+        ],
+        "hard": [
+          "ヴォルムス協約",
+          "アナーニ事件",
+          "クリュニー修道院の改革"
+        ]
+      }
+    },
+    {
+      "recto": "11世紀末から、聖地の回復を掲げて西ヨーロッパから繰り返し派遣された遠征を何というか。",
+      "verso": "十字軍",
+      "explanation": "当初の目的は達せられなかったが、東方との接触が広がり、商業と都市が活気づいた。教皇の権威はやがて失敗によって傷ついていく。",
+      "tags": [
+        "中世ヨーロッパ",
+        "交流"
+      ],
+      "distractors": {
+        "easy": [
+          "元寇",
+          "遣唐使",
+          "大航海"
+        ],
+        "medium": [
+          "百年戦争",
+          "レコンキスタ",
+          "民族大移動"
+        ],
+        "hard": [
+          "ノルマン征服",
+          "騎士修道会の遠征",
+          "アルビジョワ十字軍のみ"
+        ]
+      }
+    },
+    {
+      "recto": "中世の都市で、商人や職人が互いの利益を守るために作った同業の組合を何というか。",
+      "verso": "ギルド",
+      "explanation": "価格や品質、参入する人数まで取り決めて競争を制限した。安定をもたらす一方、新しい技術や参入をさまたげる面もあった。",
+      "tags": [
+        "中世ヨーロッパ",
+        "都市"
+      ],
+      "distractors": {
+        "easy": [
+          "株仲間",
+          "労働組合",
+          "議会"
+        ],
+        "medium": [
+          "ハンザ同盟",
+          "座",
+          "商社"
+        ],
+        "hard": [
+          "都市同盟",
+          "親方と徒弟の関係のみ",
+          "市参事会"
+        ]
+      }
+    },
+    {
+      "recto": "12世紀ごろから、学問を学ぶ者と教える者の団体としてヨーロッパに生まれたものは何か。",
+      "verso": "大学",
+      "explanation": "ボローニャやパリに始まり、神学・法学・医学が学ばれた。イスラーム世界から入った古代の学問が、その教材となった点は見落とせない。",
+      "tags": [
+        "中世ヨーロッパ",
+        "文化"
+      ],
+      "distractors": {
+        "easy": [
+          "寺子屋",
+          "藩校",
+          "図書館"
+        ],
+        "medium": [
+          "修道院",
+          "マドラサ",
+          "知恵の館"
+        ],
+        "hard": [
+          "ギルドの徒弟制度",
+          "宮廷学校",
+          "写字室"
+        ]
+      }
+    },
+    {
+      "recto": "14世紀にヨーロッパで流行し、人口の三分の一ほどを失わせたとされる疫病を何というか。",
+      "verso": "黒死病（ペスト）",
+      "explanation": "交易路を通って東方から広がった。働き手が減ったため農民の立場が相対的に強まり、農奴の解放が進む地域もあった。災厄が社会を動かした例である。",
+      "tags": [
+        "中世ヨーロッパ",
+        "転換"
+      ],
+      "distractors": {
+        "easy": [
+          "天然痘の根絶",
+          "飢饉のみ",
+          "地震"
+        ],
+        "medium": [
+          "スペイン風邪",
+          "コレラの流行",
+          "結核の蔓延"
+        ],
+        "hard": [
+          "マラリアの流行",
+          "ハンセン病の流行",
+          "発疹チフスの流行"
+        ]
+      }
+    },
+    {
+      "recto": "黒死病の流行が、ヨーロッパの社会にもたらした変化は何か。",
+      "verso": "働き手が減って農民の立場が強まり、領主の力がしだいに衰えたこと",
+      "explanation": "労働力が不足したため、条件をよくしなければ人手を確保できなくなった。土地に縛る仕組みそのものが揺らぎ、中世の社会は転換点を迎える。",
+      "tags": [
+        "中世ヨーロッパ",
+        "転換"
+      ],
+      "distractors": {
+        "easy": [
+          "何も変わらなかった",
+          "人口がすぐに回復した",
+          "農業が行われなくなった"
+        ],
+        "medium": [
+          "領主の力がいっそう強まった",
+          "都市がすべて消滅した",
+          "農奴制が全土で強化された"
+        ],
+        "hard": [
+          "教会の権威が絶対的になった",
+          "貨幣経済が停止した",
+          "十字軍が再び組織された"
+        ]
+      }
+    },
+    {
+      "recto": "高くそびえる塔と大きなステンドグラスを特徴とする、中世後期の教会建築の様式を何というか。",
+      "verso": "ゴシック様式",
+      "explanation": "都市の富と技術の高まりを示す建物でもある。文字を読めない人々にとって、窓の絵は聖書の物語を伝える教材でもあった。",
+      "tags": [
+        "中世ヨーロッパ",
+        "文化"
+      ],
+      "distractors": {
+        "easy": [
+          "書院造",
+          "寝殿造",
+          "校倉造"
+        ],
+        "medium": [
+          "ロマネスク様式",
+          "バロック様式",
+          "ビザンツ様式"
+        ],
+        "hard": [
+          "ルネサンス様式",
+          "ロココ様式",
+          "イスラームのアーチ様式"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】ヨーロッパの封建的主従関係と、日本の武士の主従関係はどう違うか。",
+      "verso": "ヨーロッパは主君も義務を負う双務的な契約で複数の主君に仕えることもできたが、日本は一人の主君への忠誠が重んじられた",
+      "explanation": "土地を与え軍務で応えるという骨格は似ているが、契約か忠誠かという性格が異なる。似た制度を並べて違いを見つけることが、比較という見方の要点である。",
+      "tags": [
+        "comparaison",
+        "中世ヨーロッパ"
+      ],
+      "distractors": {
+        "easy": [
+          "まったく同じ制度である",
+          "どちらも存在しなかった",
+          "違いは呼び名だけである"
+        ],
+        "medium": [
+          "ヨーロッパが忠誠、日本が契約を重んじた",
+          "どちらも複数の主君に仕えられた",
+          "どちらも土地を与えなかった"
+        ],
+        "hard": [
+          "ヨーロッパでは土地ではなく貨幣が与えられた",
+          "日本では主君のみが義務を負った",
+          "違いは家臣の身分の高さだけである"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】中世ヨーロッパは、進歩の止まった「暗黒時代」だったのか。",
+      "verso": "いいえ。農法や建築の技術が進み、都市と大学が生まれ、東方との交流も広がった",
+      "explanation": "よくある誤解である。「暗黒時代」という呼び方は、のちの時代の人々が自分たちを輝かせるために使った言葉でもあった。時代の評価は、誰がどの立場から下したのかを問う必要がある。",
+      "tags": [
+        "piege",
+        "中世ヨーロッパ"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。何も進歩しなかった",
+          "はい。人々は何も学ばなかった",
+          "はい。都市は存在しなかった"
+        ],
+        "medium": [
+          "はい。学問はすべて失われたから",
+          "はい。交易が行われなかったから",
+          "いいえ。ローマ時代より豊かだったから"
+        ],
+        "hard": [
+          "はい。教会が学問を完全に禁じたから",
+          "いいえ。技術の進歩は近代に始まったから",
+          "はい。人口が一貫して減り続けたから"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、中世ヨーロッパ世界はどのように整理できるか。",
+      "verso": "教会の権威と封建的な主従関係が社会を支え、都市と交易の発達がやがてその枠組みを揺るがしたこと",
+      "explanation": "土地と信仰に結ばれた秩序のなかから、貨幣と都市という別の原理が育った。中世の内側で、次の時代の条件が準備されていたのである。",
+      "tags": [
+        "中世ヨーロッパ",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "王が最初から絶対の権力をもっていたこと",
+          "都市が存在しなかったこと",
+          "外部と一切交流しなかったこと"
+        ],
+        "medium": [
+          "教会が経済をすべて支配していたこと",
+          "農業技術が停滞し続けたこと",
+          "封建制が近代まで変わらなかったこと"
+        ],
+        "hard": [
+          "都市の発達が封建制を強化したこと",
+          "十字軍が当初の目的を達成したこと",
+          "黒死病が社会に影響を与えなかったこと"
+        ]
+      }
+    }
+  ]
+}

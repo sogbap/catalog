@@ -1,0 +1,535 @@
+{
+  "id": "jp-koukou-suugaku-baai-kakuritsu",
+  "title": "場合の数と確率",
+  "emoji": "🎲",
+  "subject": "mathematics",
+  "country": "jp",
+  "courseDescription": "順列と組合せの数え方から、確率の基本性質、余事象と独立試行、条件付き確率と期待値までを扱う。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>場合の数と確率</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年<br>\n  <b>科目：</b>数学A<br>\n  <b>単元：</b>場合の数と確率\n</div>\n\n<blockquote>\n  <p><b>問い。</b>2 つの事象が「同時には起こらない」とき、それらは互いに影響し合わないといえるだろうか。</p>\n</blockquote>\n\n<p>この単元の誤りの大半は、計算の失敗ではない。<b>数え方の基準がそろっていない</b>ことから生じる。数え始める前に「何を区別するのか」を決めること——それがすべての土台になる。</p>\n\n<h2>1・二つの法則</h2>\n\n<p>場合の数の計算は、二つの法則の組み合わせに尽きる。</p>\n\n<ul>\n  <li><strong>積の法則</strong>　… 続けて起こる（「そして」）→　<b>m × n</b> 通り</li>\n  <li><strong>和の法則</strong>　… 同時には起こらないどちらか（「または」）→　<b>m ＋ n</b> 通り</li>\n</ul>\n\n<p>「そして」なら掛け算、「または」なら足し算である。ただし和の法則は<b>重なりがないこと</b>が前提で、重なる場合は重複した分を引く必要がある。</p>\n\n<h2>2・順列と組合せ</h2>\n\n<p>両者の違いはただ一点、<b>順序を区別するかどうか</b>である。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 168\" role=\"img\" aria-label=\"三人から二人を選ぶとき順列では役割の違いで六通りになり組合せでは順序を区別しないため三通りになることの比較\">\n  <text x=\"170\" y=\"14\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">A・B・C の 3 人から 2 人を選ぶと…</text>\n  <rect x=\"8\" y=\"26\" width=\"152\" height=\"128\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.16;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"84\" y=\"45\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">順列（順序を区別）</text>\n  <text x=\"84\" y=\"62\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">委員長と副委員長</text>\n  <text x=\"84\" y=\"82\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">AB　BA</text>\n  <text x=\"84\" y=\"98\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">AC　CA</text>\n  <text x=\"84\" y=\"114\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">BC　CB</text>\n  <text x=\"84\" y=\"140\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">6 通り</text>\n  <rect x=\"180\" y=\"26\" width=\"152\" height=\"128\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.16;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"256\" y=\"45\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">組合せ（区別しない）</text>\n  <text x=\"256\" y=\"62\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">委員 2 名</text>\n  <text x=\"256\" y=\"82\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">AB</text>\n  <text x=\"256\" y=\"98\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">AC</text>\n  <text x=\"256\" y=\"114\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">BC</text>\n  <text x=\"256\" y=\"140\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"11\" font-weight=\"700\">3 通り</text>\n</svg>\n<figcaption>組合せは順列を並べ方の数 r! で割ったもの。「役割」に言及があれば順列と見分ける。</figcaption>\n</figure>\n\n<table>\n  <tr><th>数え方</th><th>式</th><th>使う場面</th></tr>\n  <tr><td>順列</td><td>n! ÷ (n－r)!</td><td>役割・並び順がある</td></tr>\n  <tr><td>組合せ</td><td>n! ÷ (r!(n－r)!)</td><td>選ぶだけ</td></tr>\n  <tr><td>円順列</td><td>(n－1)!</td><td>円形に並べる</td></tr>\n  <tr><td>重複順列</td><td>n の r 乗</td><td>繰り返し選べる</td></tr>\n</table>\n\n<p><b>円順列</b>が (n－1)! になるのは、回転して重なる並べ方を同じとみなすため<b>1 人の位置を固定</b>するからである。<b>同じものを含む順列</b>では、同じものを入れ替えても見た目が変わらない分だけ重複して数えているので、n! を<b>同じものの個数の階乗の積で割る</b>。</p>\n\n<div class=\"callout\">\n  <strong>考え方・「割って重複を消す」</strong><br>\n  組合せ、円順列、同じものを含む順列——いずれも<b>いったん多めに数えてから、重複の分で割る</b>という同じ発想でできている。式を丸暗記せず、何を何で割っているのかを言えるようにしておきたい。\n</div>\n\n<h2>3・確率の基本</h2>\n\n<p>確率は<b>場合の数の比</b>で求められる。</p>\n\n<p style=\"text-align:center\"><strong>確率 ＝ その事象が起こる場合の数 ÷ 起こりうるすべての場合の数</strong></p>\n\n<p>ただしこれには前提がある。<b>すべての根元事象が同様に確からしい</b>ことである。だからこそ、見た目に区別がないもの（同じ色の玉など）も、<b>確率を数えるときは区別して扱う</b>のが原則になる。分母と分子で<b>数え方の基準をそろえる</b>ことが、誤りを防ぐ最大の要点である。</p>\n\n<p>確率の値は <b>0 以上 1 以下</b>で、全事象の確率は <b>1</b>。計算結果が 1 を超えたら、どこかで数え違えている。</p>\n\n<p>事象 A が起こらないという事象が<strong>余事象</strong>で、その確率は <b>1 － A の確率</b>である。<b>「少なくとも 1 つ」型の問題では、余事象（1 つも起こらない）を考えると計算が劇的に簡単になる</b>。</p>\n\n<h2>4・排反と独立 — 混同しやすい二語</h2>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 164\" role=\"img\" aria-label=\"排反は二つの事象が重ならないことを意味し独立は一方の結果が他方に影響しないことを意味するという別々の概念であることの比較\">\n  <text x=\"170\" y=\"14\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">まったく別の概念である</text>\n  <rect x=\"8\" y=\"26\" width=\"152\" height=\"130\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.55;stroke-width:1.5\"/>\n  <text x=\"84\" y=\"45\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">互いに排反</text>\n  <text x=\"84\" y=\"61\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">「同時には起こらない」</text>\n  <circle cx=\"56\" cy=\"92\" r=\"22\" style=\"fill:var(--accent);fill-opacity:.25;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.3\"/>\n  <circle cx=\"112\" cy=\"92\" r=\"22\" style=\"fill:var(--accent);fill-opacity:.25;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.3\"/>\n  <text x=\"56\" y=\"96\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">A</text>\n  <text x=\"112\" y=\"96\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">B</text>\n  <text x=\"84\" y=\"132\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">重なりがない</text>\n  <text x=\"84\" y=\"148\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">和事象の確率＝和</text>\n  <rect x=\"180\" y=\"26\" width=\"152\" height=\"130\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.55;stroke-width:1.5\"/>\n  <text x=\"256\" y=\"45\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">互いに独立</text>\n  <text x=\"256\" y=\"61\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">「影響し合わない」</text>\n  <circle cx=\"238\" cy=\"92\" r=\"22\" style=\"fill:var(--accent);fill-opacity:.25;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.3\"/>\n  <circle cx=\"276\" cy=\"92\" r=\"22\" style=\"fill:var(--accent);fill-opacity:.25;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.3\"/>\n  <text x=\"228\" y=\"96\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">A</text>\n  <text x=\"288\" y=\"96\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">B</text>\n  <text x=\"256\" y=\"132\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">重なってもよい</text>\n  <text x=\"256\" y=\"148\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">積事象の確率＝積</text>\n</svg>\n<figcaption>排反は「重ならない」、独立は「影響しない」。確率が 0 でない排反な 2 事象は、決して独立にならない。</figcaption>\n</figure>\n\n<p><strong>互いに排反</strong>なら、和事象の確率は<b>それぞれの確率の和</b>になる（排反でなければ重なりの分を引く。集合の包除原理と同じ構造）。<strong>互いに独立</strong>なら、ともに起こる確率は<b>それぞれの確率の積</b>になる。</p>\n\n<p>同じ試行を n 回繰り返す<strong>反復試行</strong>で、確率 p の事象がちょうど r 回起こる確率は次のように書ける。</p>\n\n<p style=\"text-align:center\"><strong>（n 個から r 個を選ぶ組合せの数）×（p の r 乗）×（(1－p) の (n－r) 乗）</strong></p>\n\n<p>組合せの数は<b>どの回で起こるかの選び方</b>にあたる。この因子を忘れるのが典型的な誤りである。</p>\n\n<h2>5・条件付き確率と期待値</h2>\n\n<p>事象 A が起こったという条件のもとで B が起こる確率が<strong>条件付き確率</strong>である。</p>\n\n<p style=\"text-align:center\"><strong>A のもとでの B の確率 ＝（A と B がともに起こる確率）÷（A の確率）</strong></p>\n\n<p>本質は、<b>分母が全事象ではなく A に置き換わる</b>ことである。すでに分かっている情報によって、考える範囲そのものが狭まったと捉えるとよい。この式を変形すると<strong>乗法定理</strong>が得られ、くじを続けて引くような「前の結果が後に影響する」問題で使う。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 142\" role=\"img\" aria-label=\"条件付き確率では分母が全事象から条件となる事象Aに置き換わり考える範囲が狭まることを示す図\">\n  <text x=\"170\" y=\"14\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">分母が、全事象から A に置き換わる</text>\n  <rect x=\"14\" y=\"26\" width=\"146\" height=\"86\" rx=\"8\" style=\"fill:var(--accent);fill-opacity:.07;stroke:var(--accent);stroke-opacity:.35;stroke-width:1.3\"/>\n  <text x=\"87\" y=\"40\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">全事象</text>\n  <circle cx=\"72\" cy=\"76\" r=\"26\" style=\"fill:var(--accent);fill-opacity:.2;stroke:var(--accent);stroke-opacity:.55;stroke-width:1.3\"/>\n  <circle cx=\"108\" cy=\"76\" r=\"26\" style=\"fill:var(--accent);fill-opacity:.2;stroke:var(--accent);stroke-opacity:.55;stroke-width:1.3\"/>\n  <text x=\"58\" y=\"80\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">A</text>\n  <text x=\"122\" y=\"80\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">B</text>\n  <text x=\"87\" y=\"128\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">ふつうの確率</text>\n  <rect x=\"180\" y=\"26\" width=\"146\" height=\"86\" rx=\"8\" style=\"fill:var(--accent);fill-opacity:.07;stroke:var(--accent);stroke-opacity:.2;stroke-width:1.3;stroke-dasharray:3,3\"/>\n  <text x=\"253\" y=\"40\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">A が起こったと分かった</text>\n  <circle cx=\"238\" cy=\"76\" r=\"26\" style=\"fill:var(--accent);fill-opacity:.28;stroke:var(--accent);stroke-opacity:.75;stroke-width:2\"/>\n  <circle cx=\"274\" cy=\"76\" r=\"26\" style=\"fill:none;stroke:var(--accent);stroke-opacity:.3;stroke-width:1.3;stroke-dasharray:3,3\"/>\n  <path d=\"M256,54 A26,26 0 0 0 256,98 A26,26 0 0 0 256,54 Z\" style=\"fill:var(--accent);fill-opacity:.45\"/>\n  <text x=\"224\" y=\"80\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">A</text>\n  <text x=\"253\" y=\"128\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">分母は A だけになる</text>\n</svg>\n<figcaption>すでに分かっている情報によって、考える範囲そのものが狭まったと捉える。</figcaption>\n</figure>\n\n<p><strong>期待値</strong>は<b>確率で重みをつけた平均</b>で、（値 × その確率）をすべての値について足し合わせる。1 回の試行で実際に得られる値ではなく、<b>多数回繰り返したときに近づく平均</b>を表す点に注意する。</p>\n\n<h2>まとめ</h2>\n\n<h3>数え方</h3>\n\n<table>\n  <tr><th>状況</th><th>数え方</th></tr>\n  <tr><td>そして（続けて起こる）</td><td>積の法則</td></tr>\n  <tr><td>または（重なりなし）</td><td>和の法則</td></tr>\n  <tr><td>順序を区別する</td><td>順列</td></tr>\n  <tr><td>順序を区別しない</td><td>組合せ</td></tr>\n</table>\n\n<h3>確率の性質</h3>\n\n<table>\n  <tr><th>事がら</th><th>内容</th></tr>\n  <tr><td>値の範囲</td><td>0 以上 1 以下（全事象は 1）</td></tr>\n  <tr><td>余事象</td><td>1 － もとの確率</td></tr>\n  <tr><td>排反な 2 事象の和</td><td>確率の和</td></tr>\n  <tr><td>独立な 2 事象の積</td><td>確率の積</td></tr>\n</table>\n\n<h3>発展的な計算</h3>\n\n<table>\n  <tr><th>用語</th><th>内容</th></tr>\n  <tr><td>反復試行</td><td>組合せの数 × p の r 乗 ×(1－p) の (n－r) 乗</td></tr>\n  <tr><td>条件付き確率</td><td>ともに起こる確率 ÷ 条件の確率</td></tr>\n  <tr><td>乗法定理</td><td>A の確率 × A のもとでの B の確率</td></tr>\n  <tr><td>期待値</td><td>（値 × 確率）の総和</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  <b>排反であれば独立、ではない。</b>むしろ逆である。排反な 2 事象は「一方が起これば他方は決して起こらない」のだから、<b>強く影響し合っている</b>。確率が 0 でない排反な 2 事象は、決して独立にならない。<b>排反は「同時に起こらない」、独立は「影響し合わない」</b>——別々の概念として区別すること。\n</div>\n\n<blockquote>\n  <p>確率の問題でつまずくとき、たいてい原因は計算より手前にある。何を区別して数えるのかを決めた瞬間に、答えの半分は決まっている。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "数学A ― 場合の数と確率",
+  "cards": [
+    {
+      "recto": "ある事がらの起こり方が m 通り、それぞれに対して次の事がらが n 通りあるとき、全体の場合の数はどうなるか。",
+      "verso": "m × n 通り（積の法則）",
+      "explanation": "続けて起こる事がらは掛け算になる。一方、同時には起こらない事がらのどちらかが起こる場合は足し算（和の法則）である。",
+      "tags": [
+        "場合の数",
+        "法則"
+      ],
+      "distractors": {
+        "easy": [
+          "m ＋ n 通り",
+          "m － n 通り",
+          "m 通り"
+        ],
+        "medium": [
+          "m ÷ n 通り",
+          "m の n 乗通り",
+          "(m＋n)÷2 通り"
+        ],
+        "hard": [
+          "m × n ÷ 2 通り",
+          "m × (n－1) 通り",
+          "m ＋ n －1 通り"
+        ]
+      }
+    },
+    {
+      "recto": "同時には起こらない 2 つの事がらがあり、一方が m 通り、他方が n 通りあるとき、どちらかが起こる場合の数はどうなるか。",
+      "verso": "m ＋ n 通り（和の法則）",
+      "explanation": "「または」でつながれ、重なりがない場合に足し算になる。重なりがある場合は、重複した分を引く必要がある。",
+      "tags": [
+        "場合の数",
+        "法則"
+      ],
+      "distractors": {
+        "easy": [
+          "m × n 通り",
+          "m × n ÷ 2 通り",
+          "m 通り"
+        ],
+        "medium": [
+          "m の n 乗通り",
+          "m － n 通り",
+          "(m×n)＋1 通り"
+        ],
+        "hard": [
+          "m ＋ n －1 通り",
+          "m ＋ n ＋ 1 通り",
+          "重なりの有無にかかわらず m × n 通り"
+        ]
+      }
+    },
+    {
+      "recto": "異なる n 個から r 個を取り出して 1 列に並べる方法の数を何といい、どのような式で表されるか。",
+      "verso": "順列といい、n×(n－1)×…×(n－r＋1)、すなわち n! ÷ (n－r)! で表される",
+      "explanation": "1 番目に n 通り、2 番目に n－1 通り…と選択肢が 1 つずつ減っていく。順序を区別する点が組合せとの決定的な違いである。",
+      "tags": [
+        "順列",
+        "定義"
+      ],
+      "distractors": {
+        "easy": [
+          "組合せといい、n! ÷ (r!(n－r)!) で表される",
+          "順列といい、n × r で表される",
+          "順列といい、n の r 乗で表される"
+        ],
+        "medium": [
+          "順列といい、n! ÷ r! で表される",
+          "順列といい、n! × (n－r)! で表される",
+          "順列といい、r! ÷ (n－r)! で表される"
+        ],
+        "hard": [
+          "順列といい、(n－r)! ÷ n! で表される",
+          "順列といい、n! ÷ (n＋r)! で表される",
+          "順列といい、順序を区別しない数え方である"
+        ]
+      }
+    },
+    {
+      "recto": "異なる n 個から r 個を取り出す組合せの数は、どのような式で表されるか。",
+      "verso": "n! ÷ (r! × (n－r)!)",
+      "explanation": "順列を求めたあと、並べ方 r! 通りで割ることで順序の区別を消している。「順列 ÷ r!」という導き方を理解しておくと式を忘れにくい。",
+      "tags": [
+        "組合せ",
+        "定義"
+      ],
+      "distractors": {
+        "easy": [
+          "n! ÷ (n－r)!",
+          "n × r",
+          "n の r 乗"
+        ],
+        "medium": [
+          "n! ÷ r!",
+          "n! × r! ÷ (n－r)!",
+          "r! ÷ (n! × (n－r)!)"
+        ],
+        "hard": [
+          "n! ÷ (r! ＋ (n－r)!)",
+          "(n－r)! ÷ (r! × n!)",
+          "n! ÷ (2r! × (n－r)!)"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】順列と組合せは、何を区別するかという点でどう違うか。",
+      "verso": "順列は取り出したものの順序を区別するが、組合せは順序を区別せず、どれを選んだかだけを問題にする",
+      "explanation": "「委員長と副委員長を選ぶ」なら順列、「委員 2 名を選ぶ」なら組合せである。問題文が役割や並び順に言及しているかが見分けの手がかりになる。",
+      "tags": [
+        "comparaison",
+        "場合の数"
+      ],
+      "distractors": {
+        "easy": [
+          "両者に違いはない",
+          "どちらも順序を区別する",
+          "どちらも順序を区別しない"
+        ],
+        "medium": [
+          "組合せが順序を区別し、順列が区別しない",
+          "違いは取り出す個数だけである",
+          "違いは元の個数が有限か無限かである"
+        ],
+        "hard": [
+          "順列は重複を許し、組合せは許さない点だけが違う",
+          "違いは計算式の分母が階乗かどうかだけである",
+          "順列は 2 個以上のときにしか使えない点が違う"
+        ]
+      }
+    },
+    {
+      "recto": "円形に n 人を並べる円順列の総数はどう表され、なぜそうなるか。",
+      "verso": "(n－1)! 通り。回転して重なる並べ方を同じとみなすため、1 人の位置を固定して残りを並べるから",
+      "explanation": "直線に並べる n! 通りを、回転による n 通りの重複で割ったものと考えてもよい。基準を 1 つ固定するという発想が要点である。",
+      "tags": [
+        "順列",
+        "応用"
+      ],
+      "distractors": {
+        "easy": [
+          "n! 通り",
+          "n 通り",
+          "(n＋1)! 通り"
+        ],
+        "medium": [
+          "n! ÷ 2 通り",
+          "(n－2)! 通り",
+          "n! ÷ n! 通り"
+        ],
+        "hard": [
+          "(n－1)! ÷ 2 通り（裏返しも同じとみなす場合を除く）",
+          "n! ÷ (n－1) 通り",
+          "(n－1)! × n 通り"
+        ]
+      }
+    },
+    {
+      "recto": "異なる n 個のものから重複を許して r 個を取り出して並べるとき、その総数はどう表されるか。",
+      "verso": "n の r 乗（重複順列）",
+      "explanation": "毎回すべての選択肢が使えるため、n 通りが r 回続く。3 桁の暗証番号や、各人に何度でも投票できる場合などが該当する。",
+      "tags": [
+        "順列",
+        "応用"
+      ],
+      "distractors": {
+        "easy": [
+          "r の n 乗",
+          "n × r",
+          "n!"
+        ],
+        "medium": [
+          "n! ÷ (n－r)!",
+          "n! ÷ r!",
+          "n × (n－1) × … × (n－r＋1)"
+        ],
+        "hard": [
+          "(n＋r－1)! ÷ (r!(n－1)!)",
+          "n の r 乗 ÷ r!",
+          "n の (r－1) 乗"
+        ]
+      }
+    },
+    {
+      "recto": "同じものを含む順列で、n 個のうち p 個、q 個…が同じものであるとき、並べ方の総数はどう求められるか。",
+      "verso": "n! を、同じものの個数の階乗の積 p!×q!×… で割る",
+      "explanation": "同じものを入れ替えても見た目が変わらない分、重複して数えているためである。この重複を割り算で取り除くという考え方は、組合せの式とも共通する。",
+      "tags": [
+        "順列",
+        "応用"
+      ],
+      "distractors": {
+        "easy": [
+          "n! をそのまま用いる",
+          "n! に p!×q! を掛ける",
+          "n! を n で割る"
+        ],
+        "medium": [
+          "n! を p＋q で割る",
+          "n! を (p＋q)! で割る",
+          "n! を p!－q! で割る"
+        ],
+        "hard": [
+          "n! を (p×q)! で割る",
+          "n! を p!÷q! で割る",
+          "(n－p－q)! を p!×q! で割る"
+        ]
+      }
+    },
+    {
+      "recto": "確率を求めるとき、根元事象について前提とされている条件は何か。",
+      "verso": "すべての根元事象が同様に確からしいこと",
+      "explanation": "この前提があるからこそ、確率が「場合の数の比」で求められる。区別のないように見えるものも、確率を数えるときは区別して扱うのが原則である。",
+      "tags": [
+        "確率",
+        "前提"
+      ],
+      "distractors": {
+        "easy": [
+          "根元事象の個数が偶数であること",
+          "試行を無限回行うこと",
+          "特に条件はない"
+        ],
+        "medium": [
+          "すべての事象が独立であること",
+          "事象が互いに排反であること",
+          "確率が必ず 1／2 になること"
+        ],
+        "hard": [
+          "根元事象が有限個であればよく、同様に確からしさは不要である",
+          "期待値が 0 であること",
+          "試行が繰り返し可能であること"
+        ]
+      }
+    },
+    {
+      "recto": "事象 A の確率は、どのような比で求められるか。",
+      "verso": "A の起こる場合の数 ÷ 起こりうるすべての場合の数",
+      "explanation": "分母は全事象の個数である。分母と分子で数え方の基準（区別するかしないか）をそろえることが、誤りを防ぐ最大の要点である。",
+      "tags": [
+        "確率",
+        "定義"
+      ],
+      "distractors": {
+        "easy": [
+          "すべての場合の数 ÷ A の起こる場合の数",
+          "A の起こる場合の数 × すべての場合の数",
+          "A の起こる場合の数そのもの"
+        ],
+        "medium": [
+          "A の起こる場合の数 ÷ A の起こらない場合の数",
+          "A の起こる場合の数 ÷ 2",
+          "A の起こる場合の数 ＋ 1 を全体で割った値"
+        ],
+        "hard": [
+          "A の起こる場合の数 ÷ (すべての場合の数 －1)",
+          "A の場合の数の平方根を全体で割った値",
+          "分母と分子で数え方の基準が異なってもよい"
+        ]
+      }
+    },
+    {
+      "recto": "事象 A が起こらないという事象を何といい、その確率はどう求められるか。",
+      "verso": "余事象といい、1 から A の確率を引いて求める",
+      "explanation": "「少なくとも 1 つ」という条件の問題では、余事象（1 つも起こらない）を考えると計算が大幅に簡単になることが多い。",
+      "tags": [
+        "確率",
+        "余事象"
+      ],
+      "distractors": {
+        "easy": [
+          "排反事象といい、A の確率を 2 倍する",
+          "独立事象といい、A の確率と等しい",
+          "全事象といい、常に 1 である"
+        ],
+        "medium": [
+          "余事象といい、A の確率の逆数をとる",
+          "余事象といい、A の確率を 1 で割る",
+          "余事象といい、1 に A の確率を足す"
+        ],
+        "hard": [
+          "余事象といい、A の確率を 1 から引いたあと 2 で割る",
+          "余事象といい、常に 1／2 になる",
+          "余事象といい、A の確率と足すと 0 になる"
+        ]
+      }
+    },
+    {
+      "recto": "2 つの事象 A と B が同時には起こらないとき、これらの関係を何といい、和事象の確率はどうなるか。",
+      "verso": "互いに排反といい、和事象の確率は A の確率と B の確率の和になる",
+      "explanation": "排反でない場合は、重なりの分（積事象の確率）を引く必要がある。集合の包除原理と同じ構造である。",
+      "tags": [
+        "確率",
+        "排反"
+      ],
+      "distractors": {
+        "easy": [
+          "互いに独立といい、和事象の確率は積になる",
+          "互いに排反といい、和事象の確率は積になる",
+          "従属といい、和事象の確率は 1 になる"
+        ],
+        "medium": [
+          "互いに排反といい、和事象の確率は差になる",
+          "互いに排反といい、確率を足したあと 2 で割る",
+          "互いに独立といい、和事象の確率は和になる"
+        ],
+        "hard": [
+          "互いに排反といい、重なりの分を引いた和になる",
+          "互いに排反といい、和事象の確率は必ず 1 になる",
+          "互いに排反といい、積事象の確率は 1 になる"
+        ]
+      }
+    },
+    {
+      "recto": "一方の結果が他方の起こりやすさに影響を与えないとき、2 つの事象の関係を何といい、ともに起こる確率はどうなるか。",
+      "verso": "互いに独立といい、ともに起こる確率はそれぞれの確率の積になる",
+      "explanation": "排反は「同時に起こらない」、独立は「影響し合わない」であり、まったく別の概念である。この二語の混同が非常に多い。",
+      "tags": [
+        "確率",
+        "独立"
+      ],
+      "distractors": {
+        "easy": [
+          "互いに排反といい、確率は積になる",
+          "互いに独立といい、確率は和になる",
+          "従属といい、確率は差になる"
+        ],
+        "medium": [
+          "互いに独立といい、確率は大きいほうを採用する",
+          "互いに排反といい、確率は和になり同時にも起こる",
+          "互いに独立といい、確率は必ず等しくなる"
+        ],
+        "hard": [
+          "互いに独立といい、確率の積を 2 で割る",
+          "互いに独立といい、同時には起こらない",
+          "互いに独立といい、条件付き確率が 0 になる"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】2 つの事象が互いに排反であるとき、それらは互いに独立でもあるといえるか。",
+      "verso": "いいえ。排反であれば一方が起これば他方は起こらないため、むしろ強く影響し合っており独立ではない",
+      "explanation": "よくある混同である。排反は「同時に起こらない」、独立は「影響し合わない」という別々の概念である。確率が 0 でない排反な 2 事象は、決して独立にならない。",
+      "tags": [
+        "piege",
+        "確率"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。排反ならば必ず独立である",
+          "はい。どちらも同じ意味の言葉だから",
+          "はい。確率を足せるから独立である"
+        ],
+        "medium": [
+          "はい。同時に起こらないので影響し合わないから",
+          "はい。積事象の確率が 0 なので独立の条件を満たすから",
+          "いいえ。排反な事象は確率が定義できないから"
+        ],
+        "hard": [
+          "はい。ただし確率がともに 1／2 のときに限るから",
+          "いいえ。排反ならば必ず従属だが独立とも呼べるから",
+          "はい。独立と排反は同値な条件だから"
+        ]
+      }
+    },
+    {
+      "recto": "同じ試行を n 回繰り返し、各回で確率 p の事象が r 回起こる確率はどう表されるか。",
+      "verso": "n 個から r 個を選ぶ組合せの数 × p の r 乗 × (1－p) の (n－r) 乗",
+      "explanation": "反復試行の確率と呼ばれる。どの回で起こるかの選び方が組合せの数にあたり、それに各回の確率の積を掛けている。",
+      "tags": [
+        "確率",
+        "反復試行"
+      ],
+      "distractors": {
+        "easy": [
+          "p の r 乗のみ",
+          "p × r",
+          "n × p × r"
+        ],
+        "medium": [
+          "組合せの数 × p の n 乗",
+          "組合せの数 × p の r 乗",
+          "p の r 乗 × (1－p) の (n－r) 乗（組合せの数を掛けない）"
+        ],
+        "hard": [
+          "順列の数 × p の r 乗 × (1－p) の (n－r) 乗",
+          "組合せの数 × p の (n－r) 乗 × (1－p) の r 乗",
+          "組合せの数 ÷ (p の r 乗)"
+        ]
+      }
+    },
+    {
+      "recto": "事象 A が起こったという条件のもとで事象 B が起こる確率を何といい、どのような式で求められるか。",
+      "verso": "条件付き確率といい、A と B がともに起こる確率を A の確率で割って求める",
+      "explanation": "分母が全事象ではなく A に置き換わる点が本質である。すでに分かっている情報によって、考える範囲が狭まったと捉えるとよい。",
+      "tags": [
+        "条件付き確率",
+        "定義"
+      ],
+      "distractors": {
+        "easy": [
+          "独立確率といい、2 つの確率を掛ける",
+          "余事象の確率といい、1 から引く",
+          "条件付き確率といい、2 つの確率を足す"
+        ],
+        "medium": [
+          "条件付き確率といい、A の確率を B の確率で割る",
+          "条件付き確率といい、ともに起こる確率を B の確率で割る",
+          "条件付き確率といい、ともに起こる確率をそのまま用いる"
+        ],
+        "hard": [
+          "条件付き確率といい、A の確率と B の確率の積を全事象で割る",
+          "条件付き確率といい、分母は常に全事象のままである",
+          "条件付き確率といい、B の確率から A の確率を引く"
+        ]
+      }
+    },
+    {
+      "recto": "2 つの事象がともに起こる確率は、条件付き確率を用いてどう表されるか。",
+      "verso": "A の確率 × A のもとでの B の条件付き確率（乗法定理）",
+      "explanation": "条件付き確率の定義を変形した形である。くじを続けて引く問題など、前の結果が後に影響する場面で用いる。",
+      "tags": [
+        "条件付き確率",
+        "定理"
+      ],
+      "distractors": {
+        "easy": [
+          "A の確率 ＋ B の確率",
+          "A の確率 － B の確率",
+          "A の確率 ÷ B の確率"
+        ],
+        "medium": [
+          "A の確率 × B の確率（条件を考えない）",
+          "A の条件付き確率のみ",
+          "A の確率 ÷ (A のもとでの B の条件付き確率)"
+        ],
+        "hard": [
+          "A の確率 × B の確率 ÷ 2",
+          "(A の確率 ＋ B の確率) × 条件付き確率",
+          "A のもとでの B の条件付き確率のみで表せる"
+        ]
+      }
+    },
+    {
+      "recto": "取りうる値とそれぞれの確率が分かっているとき、期待値はどう計算されるか。",
+      "verso": "（値 × その値をとる確率）をすべての値について足し合わせる",
+      "explanation": "確率で重みをつけた平均である。実際に 1 回の試行で得られる値ではなく、多数回繰り返したときに近づく平均値を表す。",
+      "tags": [
+        "期待値",
+        "定義"
+      ],
+      "distractors": {
+        "easy": [
+          "すべての値の単純な平均をとる",
+          "最大の値をとる",
+          "確率の合計をとる"
+        ],
+        "medium": [
+          "値の合計を確率の合計で割る",
+          "（値 ÷ 確率）をすべて足す",
+          "最も確率の高い値を採用する"
+        ],
+        "hard": [
+          "（値の 2 乗 × 確率）をすべて足す",
+          "（値 × 確率）を足したあと値の個数で割る",
+          "値の中央値を確率で重みづける"
+        ]
+      }
+    },
+    {
+      "recto": "確率の値がとりうる範囲はどこからどこまでで、全事象の確率はいくらか。",
+      "verso": "0 以上 1 以下であり、全事象の確率は 1 である",
+      "explanation": "確率が 0 は決して起こらないこと、1 は必ず起こることを意味する。計算結果が 1 を超えたら、どこかで数え間違いをしている。",
+      "tags": [
+        "確率",
+        "性質"
+      ],
+      "distractors": {
+        "easy": [
+          "0 以上 100 以下であり、全事象の確率は 100 である",
+          "－1 以上 1 以下であり、全事象の確率は 0 である",
+          "制限はなく、全事象の確率も定まらない"
+        ],
+        "medium": [
+          "0 より大きく 1 未満であり、全事象の確率は 1 である",
+          "0 以上 1 以下であり、全事象の確率は 0 である",
+          "0 以上 2 以下であり、全事象の確率は 2 である"
+        ],
+        "hard": [
+          "0 以上 1 以下だが、全事象の確率は事象の個数による",
+          "0 以上 1 以下であり、全事象の確率は 1／2 である",
+          "0 以上 1 未満であり、1 になることはない"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、場合の数と確率の学習はどのように整理できるか。",
+      "verso": "何を区別して数えるかを定めて場合の数を求め、その比として確率を捉えたうえで、余事象や条件付き確率によって計算しやすい形に言い換えられるようにすること",
+      "explanation": "多くの誤りは計算ではなく「数え方の基準がそろっていない」ことから生じる。数える前に何を区別するかを決めるという習慣が、この単元の核心である。",
+      "tags": [
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "公式を暗記するだけの単元であること",
+          "計算の速さだけが問われること",
+          "特に整理できない"
+        ],
+        "medium": [
+          "数え方の基準は結果に影響しないこと",
+          "余事象を使う必要はないこと",
+          "確率は場合の数とは無関係に定まること"
+        ],
+        "hard": [
+          "排反と独立は同じ概念として扱えること",
+          "条件付き確率では分母が変わらないこと",
+          "期待値は 1 回の試行で必ず得られる値であること"
+        ]
+      }
+    }
+  ]
+}

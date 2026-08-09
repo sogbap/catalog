@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-sekaishi-tankyuu-kaiiki-asia",
+  "title": "海域アジアの交易世界",
+  "emoji": "⛵",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "インド洋から東シナ海に広がる海の道を舞台に、港市国家・鄭和の遠征・海禁と倭寇・中継貿易が織りなした交易の世界をたどる。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>海域アジアの交易世界</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>世界史探究<br>\n  <b>単元：</b>大項目C 諸地域の交流・再編\n</div>\n\n<blockquote>\n  <p><b>問い。</b>国が交易を禁じたとき、商人たちはどうしたのだろうか。</p>\n</blockquote>\n\n<p>海から見ると、歴史は国別の枠に収まらなくなる。インド洋から東シナ海にかけて広がった<strong>海の道</strong>では、港市国家・中継貿易・密貿易・多国籍の海上集団が、国家の境界とは別の論理で動いていた。禁令はこの動きを消すのではなく、その形を変えるだけであった。</p>\n\n<h2>1・海の道と港市国家</h2>\n\n<p>陸の道は隊商が少量で高価な品を運ぶのに向いていたが、<strong>海の道</strong>は船が一度に大量の荷を運べる。かさばる陶磁器や、産地が限られた<strong>香辛料</strong>の輸送に適しており、船の技術が進むにつれて東西交易の主役はしだいに海へ移っていった。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 150\" role=\"img\" aria-label=\"陸の道と海の道の輸送量と扱う品物と制約の比較\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">運べる量が、主役を決めた</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">陸の道</text>\n  <text x=\"87\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">隊商が運ぶ</text>\n  <text x=\"87\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">少量で高価な品</text>\n  <text x=\"87\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">絹・宝石</text>\n  <text x=\"87\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">通行の安全に左右</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">海の道</text>\n  <text x=\"253\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">船が運ぶ</text>\n  <text x=\"253\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">大量でかさばる品も</text>\n  <text x=\"253\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">陶磁器・香辛料</text>\n  <text x=\"253\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">季節風に縛られる</text>\n</svg>\n<figcaption>それぞれの性質が、運ばれる品を決めていた。</figcaption>\n</figure>\n\n<p>この海に生まれたのが<strong>港市国家</strong>である。広い農地ではなく、海峡や湾という<b>位置そのものが富の源</b>であった。15世紀の<strong>マラッカ王国</strong>はその代表で、季節風の向きが変わる場所に位置し、東西から来た船が積み荷を交換する場となった。支配者がイスラームを受け入れたことで、この地域への信仰の広がりも加速する。<b>軍による征服ではなく、交易上の利点と都市の文化への参加</b>が、信仰を運んだのである。</p>\n\n<div class=\"callout\">\n  <strong>用語・香辛料</strong><br>\n  丁子や肉豆蔲は東南アジアの限られた島でしか産しなかった。<b>産地に近づくほど値が下がる</b>という価格差そのものが、のちにヨーロッパ人を海へ駆り立てる原動力となる。\n</div>\n\n<h2>2・明の選択 ― 遠征と海禁</h2>\n\n<p>15世紀初め、<strong>鄭和</strong>が明の大艦隊を率いて東南アジアからアフリカ東岸まで航海した。コロンブスより数十年早く、規模もはるかに大きい。しかしその目的は領土や植民地の獲得ではなく、<b>明の威光を示して朝貢を促すこと</b>にあった。遠征は数十年で打ち切られ、記録の一部も失われている。何を目的とするかが、その後の歴史を分けた例である。</p>\n\n<p>明はさらに<strong>海禁政策</strong>をとり、民間の海外渡航と貿易を禁じて、朝貢の形でのみ交易を認めた。交易を国家が独占して管理しようとしたのである。日本との<strong>勘合貿易</strong>は、この枠組みのなかで公認された交易であった。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 140\" role=\"img\" aria-label=\"海禁政策が密貿易と倭寇と琉球の中継貿易という三つの形を生んだこと\">\n  <defs>\n    <marker id=\"ar-ska1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">禁じても、需要は消えない</text>\n  <rect x=\"66\" y=\"26\" width=\"208\" height=\"26\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"43\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">海禁政策</text>\n  <path d=\"M110,52 L80,72\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ska1)\"/>\n  <path d=\"M170,52 L170,72\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ska1)\"/>\n  <path d=\"M230,52 L260,72\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ska1)\"/>\n  <rect x=\"8\" y=\"76\" width=\"96\" height=\"46\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"56\" y=\"95\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">密貿易</text>\n  <text x=\"56\" y=\"112\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">統制の外へ</text>\n  <rect x=\"122\" y=\"76\" width=\"96\" height=\"46\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"95\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">後期倭寇</text>\n  <text x=\"170\" y=\"112\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">中国人が多数</text>\n  <rect x=\"236\" y=\"76\" width=\"96\" height=\"46\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"284\" y=\"95\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">琉球の中継</text>\n  <text x=\"284\" y=\"112\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">制度を生かす</text>\n</svg>\n<figcaption>禁令は交易を消さず、その形を変えただけであった。</figcaption>\n</figure>\n\n<h2>3・禁令が生んだ担い手たち</h2>\n\n<p>東シナ海で活動した<strong>倭寇</strong>は、前期には日本人が多かったが、後期には中国人が多数を占めた。<b>「倭」の名がついていても実態は多国籍</b>であり、名称と実態のずれを教えてくれる例である。彼らの多くは、海禁によって表の道を閉ざされた商人でもあった。</p>\n\n<p><strong>琉球</strong>は自ら産する物こそ少なかったが、朝貢を許された立場を生かし、明・日本・朝鮮・東南アジアの産物を積み替える<strong>中継貿易</strong>で栄えた。位置と制度をあわせて読むことで、はじめてこの繁栄が理解できる。</p>\n\n<p>16世紀には、新しい精錬技術によって日本の<strong>銀</strong>の産出が急増し、中国の需要に応えて流れ込んだ。同じころ新大陸の銀も中国へ向かい、世界の銀が中国に吸い寄せられる構図が生まれる。海域アジアは、こうして地球規模の経済に接続していった。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 122\" role=\"img\" aria-label=\"日本の銀と新大陸の銀がともに中国へ流れ込んだ構図\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">世界の銀が向かった先</text>\n  <rect x=\"8\" y=\"34\" width=\"92\" height=\"44\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"54\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">日本の銀</text>\n  <text x=\"54\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">精錬技術の進歩</text>\n  <path d=\"M100,56 L124,60\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ska1)\"/>\n  <rect x=\"128\" y=\"34\" width=\"84\" height=\"44\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"54\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">中国</text>\n  <text x=\"170\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">銀への需要</text>\n  <path d=\"M240,56 L216,60\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ska1)\"/>\n  <rect x=\"240\" y=\"34\" width=\"92\" height=\"44\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"54\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">新大陸の銀</text>\n  <text x=\"286\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">太平洋を越えて</text>\n  <text x=\"170\" y=\"106\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">海域アジアは、地球規模の経済につながっていった</text>\n</svg>\n<figcaption>一国の産物が、世界の資金の流れを変えることがある。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>交易の舞台</h3>\n\n<table>\n  <tr><th>用語</th><th>内容</th></tr>\n  <tr><td>海の道</td><td>インド洋から東シナ海に至る交易路</td></tr>\n  <tr><td>港市国家</td><td>位置そのものが富の源となる国家</td></tr>\n  <tr><td>マラッカ王国</td><td>海峡を押さえた15世紀の交易の中心</td></tr>\n  <tr><td>香辛料</td><td>産地が限られ価格差が大きい交易品</td></tr>\n</table>\n\n<h3>明の政策とその影響</h3>\n\n<table>\n  <tr><th>事がら</th><th>内容</th></tr>\n  <tr><td>鄭和の遠征</td><td>朝貢を促すための大艦隊、数十年で終了</td></tr>\n  <tr><td>海禁政策</td><td>民間の渡航と貿易を禁じ朝貢のみ認める</td></tr>\n  <tr><td>勘合貿易</td><td>札で使節を証明した明と室町幕府の交易</td></tr>\n  <tr><td>後期倭寇</td><td>中国人が多数を占めた多国籍の海上集団</td></tr>\n</table>\n\n<h3>担い手と物資</h3>\n\n<table>\n  <tr><th>担い手・産物</th><th>役割</th></tr>\n  <tr><td>ムスリム商人</td><td>信仰と交易をともに運ぶ</td></tr>\n  <tr><td>琉球</td><td>各地の産物を積み替える中継貿易</td></tr>\n  <tr><td>銀</td><td>日本と新大陸から中国へ流れ込む</td></tr>\n  <tr><td>陶磁器</td><td>各地の出土品が交易の広がりを語る</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  海禁のもとで交易が<b>途絶えたと考えるのは誤り</b>である。禁令は需要を消せない。密貿易として続き、後期倭寇に中国人が多かったのも、琉球が中継貿易で栄えたのも、この禁令があったからこそである。<b>禁じることが別の形の交易を生んだ</b>という筋道を押さえたい。\n</div>\n\n<blockquote>\n  <p>境界線は陸に引かれる。だが人と荷を運ぶ船は、その線をまたいで往き来し続けた。海から見た歴史は、国の数だけには分かれない。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "世界史探究 ― 諸地域の交流・再編",
+  "cards": [
+    {
+      "recto": "インド洋から東南アジアを経て東アジアへ至る、海を通じた交易路を何というか。",
+      "verso": "海の道（南海路）",
+      "explanation": "陸の道より一度に多くの荷を運べたため、かさばる陶磁器や香辛料の輸送に向いていた。船の技術が進むにつれ、東西交易の主役はしだいに海へ移っていく。",
+      "tags": [
+        "海域アジア",
+        "交易"
+      ],
+      "distractors": {
+        "easy": [
+          "東海道",
+          "五街道",
+          "大運河"
+        ],
+        "medium": [
+          "シルクロード",
+          "草原の道",
+          "スエズ航路"
+        ],
+        "hard": [
+          "茶馬古道",
+          "琥珀の道",
+          "北回りの航路"
+        ]
+      }
+    },
+    {
+      "recto": "交易の拠点として港を中心に栄え、後背地をあまり必要としなかった国家の形を何というか。",
+      "verso": "港市国家",
+      "explanation": "広い農地ではなく、海峡や湾という位置そのものが富の源であった。通行する船から税を取り、物資を中継することで成り立っていた。",
+      "tags": [
+        "海域アジア",
+        "国家"
+      ],
+      "distractors": {
+        "easy": [
+          "農業国家",
+          "遊牧国家",
+          "都市国家としてのポリス"
+        ],
+        "medium": [
+          "領域国家",
+          "封建国家",
+          "オアシス都市"
+        ],
+        "hard": [
+          "朝貢国家",
+          "海賊の拠点",
+          "植民都市"
+        ]
+      }
+    },
+    {
+      "recto": "マレー半島とスマトラ島にはさまれた海峡を押さえ、15世紀に交易の中心として栄えた王国は何か。",
+      "verso": "マラッカ王国",
+      "explanation": "季節風の向きが変わる場所にあり、東西から来た船が積み荷を交換する場となった。支配者がイスラームを受け入れたことで、この地域への信仰の広がりも加速した。",
+      "tags": [
+        "海域アジア",
+        "東南アジア"
+      ],
+      "distractors": {
+        "easy": [
+          "高麗",
+          "琉球",
+          "百済"
+        ],
+        "medium": [
+          "アユタヤ朝",
+          "マジャパヒト王国",
+          "シュリーヴィジャヤ"
+        ],
+        "hard": [
+          "アチェ王国",
+          "バンテン王国",
+          "パガン朝"
+        ]
+      }
+    },
+    {
+      "recto": "東南アジアの島々で産し、ヨーロッパで金と同じほど珍重された交易品は何か。",
+      "verso": "香辛料（丁子・肉豆蔲など）",
+      "explanation": "産地が限られていたため、産地に近づくほど値が下がる。この価格差こそがのちにヨーロッパ人を海へ駆り立てる原動力となった。",
+      "tags": [
+        "海域アジア",
+        "交易"
+      ],
+      "distractors": {
+        "easy": [
+          "米",
+          "木材",
+          "塩"
+        ],
+        "medium": [
+          "絹",
+          "陶磁器",
+          "茶"
+        ],
+        "hard": [
+          "蘇木",
+          "白檀",
+          "べっ甲"
+        ]
+      }
+    },
+    {
+      "recto": "東南アジアの島々にイスラームが広まった主な経路は何か。",
+      "verso": "交易に来たムスリム商人との結びつきを通じて、港市の支配者から広まった",
+      "explanation": "軍による征服ではなく、交易上の利点と都市の文化への参加が動機となった。支配者が受け入れると、その周囲へと広がっていく形をとった。",
+      "tags": [
+        "海域アジア",
+        "宗教"
+      ],
+      "distractors": {
+        "easy": [
+          "軍隊による征服によって広まった",
+          "ヨーロッパ人が伝えた",
+          "広まっていない"
+        ],
+        "medium": [
+          "中国からの移民が伝えた",
+          "インドからの侵攻によって広まった",
+          "農民の反乱を通じて広まった"
+        ],
+        "hard": [
+          "宣教のための使節団が派遣された",
+          "王が他国との条約で受け入れた",
+          "内陸の農村から都市へ広まった"
+        ]
+      }
+    },
+    {
+      "recto": "15世紀初め、明の大艦隊を率いて東南アジアからアフリカ東岸まで航海した人物は誰か。",
+      "verso": "鄭和",
+      "explanation": "コロンブスより数十年早く、規模もはるかに大きい遠征であった。目的は領土の獲得ではなく、明の威光を示して朝貢を促すことにあった。",
+      "tags": [
+        "海域アジア",
+        "明"
+      ],
+      "distractors": {
+        "easy": [
+          "コロンブス",
+          "マゼラン",
+          "マルコ・ポーロ"
+        ],
+        "medium": [
+          "イブン・バットゥータ",
+          "バスコ・ダ・ガマ",
+          "玄奘"
+        ],
+        "hard": [
+          "永楽帝",
+          "洪武帝",
+          "王直"
+        ]
+      }
+    },
+    {
+      "recto": "鄭和の遠征がヨーロッパ人の航海と決定的に異なっていた点は何か。",
+      "verso": "領土や植民地の獲得ではなく、明の威光を示して朝貢を促すことが目的だった",
+      "explanation": "同じ大航海でも、背景にある国家の狙いが異なる。遠征は数十年で打ち切られ、記録の一部も失われた。何を目的とするかが、その後の歴史を分けた例である。",
+      "tags": [
+        "海域アジア",
+        "明"
+      ],
+      "distractors": {
+        "easy": [
+          "船が小さかったこと",
+          "航海の距離が短かったこと",
+          "違いはない"
+        ],
+        "medium": [
+          "民間の商人が主導したこと",
+          "宗教の布教が目的だったこと",
+          "新しい航路の発見が目的だったこと"
+        ],
+        "hard": [
+          "香辛料の独占が目的だったこと",
+          "軍事同盟の締結が目的だったこと",
+          "移民の送り出しが目的だったこと"
+        ]
+      }
+    },
+    {
+      "recto": "明が民間の海外渡航と貿易を禁じ、朝貢の形でのみ交易を認めた政策を何というか。",
+      "verso": "海禁政策",
+      "explanation": "交易を国家が独占して管理しようとしたものである。しかし需要は消えないため、禁じられた交易は密貿易として続き、かえって統制の外へ押し出される結果となった。",
+      "tags": [
+        "海域アジア",
+        "明"
+      ],
+      "distractors": {
+        "easy": [
+          "鎖国",
+          "開国",
+          "自由貿易"
+        ],
+        "medium": [
+          "朝貢貿易",
+          "海上封鎖",
+          "関税政策"
+        ],
+        "hard": [
+          "互市の制限",
+          "遷界令",
+          "市舶司の設置"
+        ]
+      }
+    },
+    {
+      "recto": "明と室町幕府とのあいだで、正式な使節であることを証明する札を用いて行われた交易を何というか。",
+      "verso": "勘合貿易",
+      "explanation": "海禁のもとで公認された交易であり、幕府に大きな利益をもたらした。同時に、日本が明の朝貢の枠組みに入ったことを意味する点も見落とせない。",
+      "tags": [
+        "海域アジア",
+        "東アジア"
+      ],
+      "distractors": {
+        "easy": [
+          "南蛮貿易",
+          "三角貿易",
+          "自由貿易"
+        ],
+        "medium": [
+          "日宋貿易",
+          "朱印船貿易",
+          "密貿易"
+        ],
+        "hard": [
+          "互市貿易",
+          "琉球の中継貿易",
+          "唐船貿易"
+        ]
+      }
+    },
+    {
+      "recto": "東シナ海で活動し、時期によって構成する人々が大きく変わった海上の集団を何というか。",
+      "verso": "倭寇",
+      "explanation": "前期は日本人が多かったが、後期は中国人が多数を占めた。「倭」の名がついていても実態は多国籍であり、名称と実態のずれを教えてくれる例である。",
+      "tags": [
+        "海域アジア",
+        "東アジア"
+      ],
+      "distractors": {
+        "easy": [
+          "武士団",
+          "御家人",
+          "海軍"
+        ],
+        "medium": [
+          "海賊としてのバイキング",
+          "商人の組合",
+          "水軍"
+        ],
+        "hard": [
+          "朱印船の船団",
+          "私貿易の商人団のみ",
+          "海禁の取締り部隊"
+        ]
+      }
+    },
+    {
+      "recto": "琉球が15世紀に東アジアの交易で果たした役割は何か。",
+      "verso": "明・日本・朝鮮・東南アジアを結ぶ中継貿易の拠点となった",
+      "explanation": "自ら産する物は少なかったが、海禁のもとで朝貢を許された立場を生かし、各地の産物を積み替えて栄えた。位置と制度をあわせて読むことが必要な例である。",
+      "tags": [
+        "海域アジア",
+        "東アジア"
+      ],
+      "distractors": {
+        "easy": [
+          "米の輸出国となった",
+          "軍事の拠点となった",
+          "交易に関わらなかった"
+        ],
+        "medium": [
+          "香辛料の産地として栄えた",
+          "陶磁器の生産地となった",
+          "明の直接支配下に入った"
+        ],
+        "hard": [
+          "日本の朱印船の基地となった",
+          "銀の産出地として栄えた",
+          "倭寇の取締りを担った"
+        ]
+      }
+    },
+    {
+      "recto": "16世紀に日本が大量に産出し、東アジアの交易を大きく動かした産物は何か。",
+      "verso": "銀",
+      "explanation": "精錬の新技術によって産出量が急増し、中国の需要に応えて流れ込んだ。同じころ新大陸の銀も中国へ向かい、世界の銀が中国に吸い寄せられる構図が生まれる。",
+      "tags": [
+        "海域アジア",
+        "交易"
+      ],
+      "distractors": {
+        "easy": [
+          "米",
+          "木材",
+          "茶"
+        ],
+        "medium": [
+          "金",
+          "銅",
+          "硫黄"
+        ],
+        "hard": [
+          "生糸",
+          "刀剣",
+          "漆器"
+        ]
+      }
+    },
+    {
+      "recto": "東南アジアや東アジアの各地で大量に出土する中国の陶磁器は、何を物語っているか。",
+      "verso": "海の道を通じて大量の物資が広い範囲へ運ばれていたこと",
+      "explanation": "文字の記録が乏しい地域でも、割れた器の破片が交易の広がりを教えてくれる。モノの資料が歴史を語る典型的な例である。",
+      "tags": [
+        "海域アジア",
+        "資料"
+      ],
+      "distractors": {
+        "easy": [
+          "各地で同じ器が作られていたこと",
+          "陶磁器が贈り物専用だったこと",
+          "とくに何も分からない"
+        ],
+        "medium": [
+          "中国が各地を支配していたこと",
+          "陸の道が使われていたこと",
+          "各地の技術が中国より高かったこと"
+        ],
+        "hard": [
+          "朝貢の使節だけが器を運んだこと",
+          "陶磁器は模造品が中心だったこと",
+          "海の道は16世紀に始まったこと"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】陸の道と海の道は、交易のあり方の点でどう違うか。",
+      "verso": "陸の道は隊商が少量で高価な品を運び、海の道は船が大量でかさばる品も運べた",
+      "explanation": "海の道は季節風に縛られて往復の時期が決まる一方、輸送量では圧倒的に有利であった。陶磁器や香辛料が主役となったのは、この性質による。",
+      "tags": [
+        "comparaison",
+        "海域アジア"
+      ],
+      "distractors": {
+        "easy": [
+          "どちらも同じ量を運んだ",
+          "どちらも使われなかった",
+          "違いは距離だけである"
+        ],
+        "medium": [
+          "陸の道が大量、海の道が少量を運んだ",
+          "どちらも季節に左右されなかった",
+          "どちらも国家が独占していた"
+        ],
+        "hard": [
+          "陸の道のほうが輸送費が安かった",
+          "海の道では高価な品は運ばれなかった",
+          "違いは扱う通貨だけである"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】海禁政策のもとで、東アジアの海上交易は途絶えたのか。",
+      "verso": "いいえ。密貿易や中継貿易として続き、かえって国家の統制の外へ広がった",
+      "explanation": "よくある誤解である。禁令は需要を消せない。倭寇の後期に中国人が多かったのも、琉球が栄えたのも、この禁令があったからこそである。禁じることが別の形の交易を生んだ点を押さえたい。",
+      "tags": [
+        "piege",
+        "海域アジア"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。完全に途絶えた",
+          "はい。船が造られなくなった",
+          "はい。港がすべて閉鎖された"
+        ],
+        "medium": [
+          "はい。朝貢だけになったから",
+          "はい。倭寇が取り締まられたから",
+          "いいえ。海禁は実施されなかったから"
+        ],
+        "hard": [
+          "はい。琉球も交易をやめたから",
+          "いいえ。密貿易は厳しく根絶されたから",
+          "はい。銀の流通が止まったから"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、海域アジアの交易世界はどのように整理できるか。",
+      "verso": "国家の枠を越えた商人の結びつきが海を舞台に広がり、禁令すらその形を変えるだけだったこと",
+      "explanation": "港市国家、中継貿易、密貿易、多国籍の海上集団。いずれも国家の境界とは別の論理で動いていた。海から見ると、歴史は国別の枠に収まらなくなる。",
+      "tags": [
+        "海域アジア",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "国家がすべての交易を支配していたこと",
+          "交易がほとんど行われなかったこと",
+          "陸の道だけが使われたこと"
+        ],
+        "medium": [
+          "各国が自国内でのみ取引していたこと",
+          "交易品が香辛料だけだったこと",
+          "海の交易は近代に始まったこと"
+        ],
+        "hard": [
+          "朝貢の枠組みがすべての交易を覆っていたこと",
+          "商人はつねに国家の代理人であったこと",
+          "海禁によって交易網が解体されたこと"
+        ]
+      }
+    }
+  ]
+}

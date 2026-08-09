@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-chiri-tankyuu-kougyou-ricchi",
+  "title": "工業の立地と産業構造の変化",
+  "emoji": "🏭",
+  "subject": "geography",
+  "country": "jp",
+  "courseDescription": "工場がどこに建つのかを費用の面から考え、産業構造の転換と国際的な分業が地域をどう変えてきたのかをたどる。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>工業の立地と産業構造の変化</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>地理探究<br>\n  <b>単元：</b>大項目A 現代世界の系統地理的考察（資源、産業）\n</div>\n\n<blockquote>\n  <p><b>問い。</b>この工場は、なぜここに建っているのだろうか。</p>\n</blockquote>\n\n<p>工場の場所は気まぐれに決まらない。基本の問いは一つ、<b>「原料と製品、どちらを運ぶほうが高くつくか」</b>である。この単純な基準から、正反対の立地が説明できる。そしてその費用の中身が時代とともに変わることで、世界の工業地図は書き換えられてきた。</p>\n\n<h2>1・何を運ぶのが高くつくか</h2>\n\n<p>原料の重量が製品より大幅に重くなる工業は、<strong>原料の産地</strong>に立地する。鉄鋼やセメントが典型だ。逆に原料が軽く製品がかさばる、あるいは鮮度が求められる場合は<strong>市場の近く</strong>に立地する。飲料がその例である。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 150\" role=\"img\" aria-label=\"原料指向型と市場指向型の工業の立地の違いとその理由の比較\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">一つの基準で、正反対の立地が決まる</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">原料指向型</text>\n  <text x=\"87\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">原料のほうが重い</text>\n  <text x=\"87\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">産地に立地する</text>\n  <text x=\"87\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">鉄鋼・セメント</text>\n  <text x=\"87\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">運ぶのは製品だけでよい</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">市場指向型</text>\n  <text x=\"253\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">製品がかさばる</text>\n  <text x=\"253\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">消費地に立地する</text>\n  <text x=\"253\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">飲料・鮮度の要る品</text>\n  <text x=\"253\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">運ぶのは原料だけでよい</text>\n</svg>\n<figcaption>「どちらを運ぶほうが安いか」がすべてを分ける。</figcaption>\n</figure>\n\n<p>労働費の割合が高い工業は<strong>賃金の安い地域</strong>へ向かう。衣類や組立の工程が典型で、<b>賃金が上がると別の国へ移る</b>。この移動が各国の工業化の順番を作ってきた。一方、製品が軽く輸送費を気にしなくてよい電子部品や医薬品は、<strong>研究機関や技術者が集まる場所</strong>に立地する。人材と情報が決め手となるのである。</p>\n\n<div class=\"callout\">\n  <strong>用語・産業の集積</strong><br>\n  同じ業種や関連する企業が一か所に集まること。部品や情報のやりとりが速くなり、熟練した労働力も確保しやすくなる。<b>いったん集まると新たな企業も引き寄せられる</b>ため、集積は自らを強める性質をもつ。逆に、衰退も連鎖しやすい。\n</div>\n\n<h2>2・産業構造の転換と、その痛み</h2>\n\n<p>発展にともなって、産業の比重は農林水産業から製造業へ、さらに商業やサービス、情報産業へと移っていく。ただし製造業を経ずにサービス業が伸びる国もあり、<b>必ずしも同じ順路をたどるとは限らない</b>。</p>\n\n<p>先進国では、生産費の安い国への移転と産業構造の転換によって、かつての重工業地帯から工場と雇用が失われた。跡地の再開発や職業の転換が課題となり、<b>政治的な不満の温床にもなっている</b>。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 134\" role=\"img\" aria-label=\"設計と部品と組立と販売が別々の国で行われる国際分業のしくみとその弱さ\">\n  <defs>\n    <marker id=\"ar-gkr1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">一つの製品を、複数の国で作る</text>\n  <rect x=\"6\" y=\"30\" width=\"72\" height=\"34\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"42\" y=\"51\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">設計</text>\n  <path d=\"M78,47 L92,47\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gkr1)\"/>\n  <rect x=\"96\" y=\"30\" width=\"72\" height=\"34\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"132\" y=\"51\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">部品</text>\n  <path d=\"M168,47 L182,47\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gkr1)\"/>\n  <rect x=\"186\" y=\"30\" width=\"72\" height=\"34\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"222\" y=\"51\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">組立</text>\n  <path d=\"M258,47 L272,47\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gkr1)\"/>\n  <rect x=\"276\" y=\"30\" width=\"58\" height=\"34\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"305\" y=\"51\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">販売</text>\n  <rect x=\"70\" y=\"82\" width=\"200\" height=\"26\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"99\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">一か所の災害や紛争が、世界の生産を止める</text>\n  <text x=\"170\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">効率の高さと、もろさは同じ構造から生じる</text>\n</svg>\n<figcaption>効率を追えば追うほど、切れやすい鎖になっていく。</figcaption>\n</figure>\n\n<p>各国は<strong>経済特区</strong>を設けて外国企業を誘致し、資本と技術を呼び込んで雇用と輸出を増やそうとしてきた。一方で労働条件や環境の基準が緩められることもあり、<b>恩恵の配分が課題</b>となる。</p>\n\n<h2>3・誰が得をして、誰が負担するのか</h2>\n\n<p>工業化がもたらす<strong>雇用と税収</strong>という利益と、<strong>環境の負荷や労働条件</strong>という負担は、しばしば異なる人々に分かれて生じる。公害の歴史も、現在の立地をめぐる議論も、この非対称をめぐるものである。</p>\n\n<p>環境規制についても、一国の環境が改善しても地球全体では改善していない場合がある。<b>汚染的な工程が規制の緩い国へ移っただけではないか</b>——問題を国境の外へ押し出しただけではないかを問う視点が必要になる。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 128\" role=\"img\" aria-label=\"工業化がもたらす利益と負担が異なる人々に分かれて生じること\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">同じ工場から、二つの結果が出る</text>\n  <rect x=\"80\" y=\"26\" width=\"180\" height=\"26\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"43\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">工業の立地</text>\n  <path d=\"M130,52 L86,74\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gkr1)\"/>\n  <path d=\"M210,52 L254,74\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gkr1)\"/>\n  <rect x=\"10\" y=\"78\" width=\"150\" height=\"42\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"85\" y=\"96\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">利益</text>\n  <text x=\"85\" y=\"112\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">雇用・税収・関連産業</text>\n  <rect x=\"180\" y=\"78\" width=\"150\" height=\"42\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"255\" y=\"96\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">負担</text>\n  <text x=\"255\" y=\"112\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">環境の負荷・労働条件</text>\n</svg>\n<figcaption>誰が得をして誰が負担するのかを、分けて見る。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>立地の類型</h3>\n\n<table>\n  <tr><th>類型</th><th>立地する場所</th></tr>\n  <tr><td>原料指向型</td><td>原料の産地（鉄鋼・セメント）</td></tr>\n  <tr><td>市場指向型</td><td>消費地（飲料・鮮度の要る品）</td></tr>\n  <tr><td>労働力指向型</td><td>賃金の安い地域（衣類・組立）</td></tr>\n  <tr><td>知識指向型</td><td>研究機関と人材の集まる場所</td></tr>\n</table>\n\n<h3>変化のしくみ</h3>\n\n<table>\n  <tr><th>用語</th><th>内容</th></tr>\n  <tr><td>産業の集積</td><td>集まることでさらに集まる、衰退も連鎖</td></tr>\n  <tr><td>国際分業</td><td>効率は高いが一点の障害で全体が止まる</td></tr>\n  <tr><td>経済特区</td><td>税と規制の優遇で外国企業を誘致</td></tr>\n  <tr><td>産業構造の転換</td><td>第一次→第二次→第三次、順路は一様でない</td></tr>\n</table>\n\n<h3>課題</h3>\n\n<table>\n  <tr><th>課題</th><th>内容</th></tr>\n  <tr><td>脱工業化した地域</td><td>雇用の喪失、再開発と職業転換</td></tr>\n  <tr><td>資源の呪い</td><td>通貨高で国内工業が競争力を失う</td></tr>\n  <tr><td>環境負荷の移転</td><td>規制の緩い国へ汚染的な工程が移る</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  工場の海外移転を<b>賃金の安さだけで説明するのは誤り</b>である。市場に近づくため、関税を避けるため、部品の供給網に加わるためなど理由は多様で、実際に賃金の高い国へ工場を建てる例も多い。<b>単一の原因で説明しようとすると、現実の立地の多様さを見落とす</b>。\n</div>\n\n<blockquote>\n  <p>工場の立地の論理は昔から変わっていない。変わったのは、何が高くつくかという費用の中身のほうである。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "地理探究 ― 現代世界の系統地理的考察",
+  "cards": [
+    {
+      "recto": "原料の重量が製品より大幅に重くなる工業が、原料の産地に立地しやすいのはなぜか。",
+      "verso": "原料を運ぶ費用のほうが製品を運ぶ費用より高くつくから",
+      "explanation": "鉄鋼やセメントが典型である。逆に原料が軽く製品がかさばる場合は市場の近くに立地する。立地は「どちらを運ぶほうが安いか」で決まる。",
+      "tags": [
+        "工業",
+        "立地"
+      ],
+      "distractors": {
+        "easy": [
+          "土地が安いから",
+          "労働者が多いから",
+          "偶然である"
+        ],
+        "medium": [
+          "市場に近いから",
+          "港があるから",
+          "気候がよいから"
+        ],
+        "hard": [
+          "製品を運ぶ費用のほうが高いから",
+          "税制が有利だから",
+          "電力が安いから"
+        ]
+      }
+    },
+    {
+      "recto": "労働費が製品の価格に占める割合が高い工業は、どこに立地しやすいか。",
+      "verso": "賃金の安い地域や国",
+      "explanation": "衣類や組立の工程が典型である。賃金が上がると別の国へ移ることが多く、この移動が各国の工業化の順番を作ってきた。",
+      "tags": [
+        "工業",
+        "立地"
+      ],
+      "distractors": {
+        "easy": [
+          "気候が涼しい地域",
+          "山の多い地域",
+          "人口の少ない地域"
+        ],
+        "medium": [
+          "原料の産地",
+          "大市場の近く",
+          "港湾の近く"
+        ],
+        "hard": [
+          "電力が安い地域",
+          "研究機関の近く",
+          "税率の高い地域"
+        ]
+      }
+    },
+    {
+      "recto": "製品の価格に比べて重量が軽く、輸送費をあまり気にしなくてよい工業はどこに立地するか。",
+      "verso": "研究機関や技術者が集まる場所",
+      "explanation": "電子部品や医薬品が典型で、航空機で運べるため立地の自由度が高い。人材と情報が集まるかどうかが決め手となる。",
+      "tags": [
+        "工業",
+        "立地"
+      ],
+      "distractors": {
+        "easy": [
+          "原料の産地",
+          "海岸沿い",
+          "農村地帯"
+        ],
+        "medium": [
+          "賃金の安い地域",
+          "石炭の産地",
+          "大河川の沿岸"
+        ],
+        "hard": [
+          "消費者に最も近い場所",
+          "港湾の近く",
+          "電力の豊富な地域"
+        ]
+      }
+    },
+    {
+      "recto": "同じ業種や関連する企業が一か所に集まることの利点は何か。",
+      "verso": "部品や情報のやりとりが速くなり、熟練した労働力も確保しやすくなること",
+      "explanation": "産業の集積という。いったん集まると新たな企業も引き寄せられるため、集積は自らを強める性質をもつ。逆に衰退も連鎖しやすい。",
+      "tags": [
+        "工業",
+        "集積"
+      ],
+      "distractors": {
+        "easy": [
+          "土地が広く使えること",
+          "競争がなくなること",
+          "利点はない"
+        ],
+        "medium": [
+          "原料が安くなること",
+          "税が免除されること",
+          "輸出が義務づけられること"
+        ],
+        "hard": [
+          "賃金が下がること",
+          "技術が秘密にできること",
+          "政府の管理が強まること"
+        ]
+      }
+    },
+    {
+      "recto": "先進国で製造業が衰え、工場や雇用が失われた地域を何と呼ぶことがあるか。",
+      "verso": "脱工業化が進んだ地域（かつての重工業地帯）",
+      "explanation": "生産費の安い国への移転と、産業構造の転換によって生じた。跡地の再開発や職業の転換が課題となり、政治的な不満の温床にもなっている。",
+      "tags": [
+        "工業",
+        "変化"
+      ],
+      "distractors": {
+        "easy": [
+          "観光地",
+          "農村地帯",
+          "新興工業地域"
+        ],
+        "medium": [
+          "経済特区",
+          "工業団地",
+          "臨海工業地域"
+        ],
+        "hard": [
+          "集積の進んだ地域",
+          "研究開発拠点",
+          "港湾都市"
+        ]
+      }
+    },
+    {
+      "recto": "一つの製品を複数の国で分担して作る仕組みを何というか。",
+      "verso": "国際分業（サプライチェーンの国際化）",
+      "explanation": "設計・部品・組立・販売が別々の国で行われる。効率は高いが、一か所の災害や紛争が世界の生産を止めるという弱さも同時に抱えている。",
+      "tags": [
+        "工業",
+        "国際"
+      ],
+      "distractors": {
+        "easy": [
+          "自給自足",
+          "物々交換",
+          "鎖国"
+        ],
+        "medium": [
+          "垂直統合",
+          "産業の集積",
+          "地産地消"
+        ],
+        "hard": [
+          "工程間分業のみ",
+          "水平的分業のみ",
+          "企業内取引のみ"
+        ]
+      }
+    },
+    {
+      "recto": "外国企業を誘致するために、税や規制を優遇した区域を何というか。",
+      "verso": "経済特区",
+      "explanation": "資本と技術を呼び込み、雇用と輸出を増やす狙いがある。一方で労働条件や環境の基準が緩められることもあり、恩恵の配分が課題となる。",
+      "tags": [
+        "工業",
+        "政策"
+      ],
+      "distractors": {
+        "easy": [
+          "国立公園",
+          "住宅地",
+          "農業振興地域"
+        ],
+        "medium": [
+          "工業団地",
+          "自由貿易協定",
+          "関税同盟"
+        ],
+        "hard": [
+          "輸出加工区のみ",
+          "保税地域",
+          "特別自治区"
+        ]
+      }
+    },
+    {
+      "recto": "資源の輸出に依存する国が工業化を目指すとき、直面しやすい困難は何か。",
+      "verso": "資源の輸出で通貨が高くなり、かえって国内の工業製品が国際競争で不利になること",
+      "explanation": "資源の呪いと呼ばれる現象の一つである。資源があることが必ずしも発展につながらないという逆説を示している。",
+      "tags": [
+        "工業",
+        "資源"
+      ],
+      "distractors": {
+        "easy": [
+          "資源が足りなくなること",
+          "人口が減ること",
+          "困難はない"
+        ],
+        "medium": [
+          "技術者が足りないことだけ",
+          "電力が不足することだけ",
+          "市場が小さいことだけ"
+        ],
+        "hard": [
+          "通貨が安くなりすぎること",
+          "輸出が禁止されること",
+          "資源価格が上がらないこと"
+        ]
+      }
+    },
+    {
+      "recto": "工業の発展にともなって生じる環境の問題に、各国はどう対応してきたか。",
+      "verso": "排出の規制や技術の改良を進める一方、規制の緩い国へ汚染的な工程が移ることもあった",
+      "explanation": "一国の環境が改善しても、地球全体では改善していない場合がある。問題を国境の外へ押し出しただけではないかを問う視点が必要である。",
+      "tags": [
+        "工業",
+        "環境"
+      ],
+      "distractors": {
+        "easy": [
+          "何も対応してこなかった",
+          "工業をやめた",
+          "問題は生じなかった"
+        ],
+        "medium": [
+          "すべての国が同時に規制した",
+          "国連が一括して管理した",
+          "企業が自主的に解決した"
+        ],
+        "hard": [
+          "規制によって汚染は世界的に消えた",
+          "汚染的な工程は移転しなかった",
+          "技術の改良だけで解決した"
+        ]
+      }
+    },
+    {
+      "recto": "産業構造が発展にともなって変化する一般的な方向は何か。",
+      "verso": "農林水産業から製造業へ、さらに商業やサービス、情報産業へと比重が移る",
+      "explanation": "第一次から第二次、第三次へという移行である。ただし製造業を経ずにサービス業が伸びる国もあり、必ずしも同じ順路をたどるとは限らない。",
+      "tags": [
+        "工業",
+        "産業構造"
+      ],
+      "distractors": {
+        "easy": [
+          "サービス業から農業へ移る",
+          "変化しない",
+          "工業から農業へ戻る"
+        ],
+        "medium": [
+          "第三次から第一次へ移る",
+          "第二次産業だけが増え続ける",
+          "すべての産業が同じ割合を保つ"
+        ],
+        "hard": [
+          "第一次から第三次へ直接移る国はない",
+          "移行の順路は世界共通である",
+          "産業構造は政策では変わらない"
+        ]
+      }
+    },
+    {
+      "recto": "工業の立地を考えるうえで、近年重要性を増している条件は何か。",
+      "verso": "安定した電力と通信網、そして高度な技能をもつ人材の存在",
+      "explanation": "原料や輸送よりも、情報と人材が決め手となる産業が増えた。立地の条件は時代とともに変わるという点が、この単元の要点である。",
+      "tags": [
+        "工業",
+        "変化"
+      ],
+      "distractors": {
+        "easy": [
+          "気候の暖かさ",
+          "土地の広さだけ",
+          "海に面していること"
+        ],
+        "medium": [
+          "石炭の産地に近いこと",
+          "人口が多いことだけ",
+          "港があることだけ"
+        ],
+        "hard": [
+          "原料の産地に近いこと",
+          "賃金が最も安いことだけ",
+          "立地条件は変わらない"
+        ]
+      }
+    },
+    {
+      "recto": "工業地域の盛衰を地図で読み取るとき、手がかりとなるものは何か。",
+      "verso": "人口の増減、失業率、工場跡地の再開発、そして交通網の変化",
+      "explanation": "統計と土地利用の変化を重ねると、地域の変容が立体的に見えてくる。同じ場所の新旧の地図を比べることも有効な方法である。",
+      "tags": [
+        "工業",
+        "技能"
+      ],
+      "distractors": {
+        "easy": [
+          "地図の色だけ",
+          "国境線の位置だけ",
+          "手がかりはない"
+        ],
+        "medium": [
+          "気候の記録だけ",
+          "地形の起伏だけ",
+          "河川の名前だけ"
+        ],
+        "hard": [
+          "経緯度の数値だけ",
+          "縮尺の違いだけ",
+          "地図の発行年だけ"
+        ]
+      }
+    },
+    {
+      "recto": "工業化が地域社会にもたらす利益と負担は、どのように配分されがちか。",
+      "verso": "雇用と税収という利益と、環境の負荷や労働条件という負担が、異なる人々に分かれて生じやすい",
+      "explanation": "誰が得をして誰が負担するのかを分けて見ることが必要である。この視点は公害の歴史からも、現在の立地をめぐる議論からも学べる。",
+      "tags": [
+        "工業",
+        "社会"
+      ],
+      "distractors": {
+        "easy": [
+          "全員に均等に配分される",
+          "利益だけが生じる",
+          "負担だけが生じる"
+        ],
+        "medium": [
+          "政府がすべて調整する",
+          "企業が負担をすべて引き受ける",
+          "住民が利益をすべて得る"
+        ],
+        "hard": [
+          "負担は工場内部にとどまる",
+          "利益と負担は同じ人に生じる",
+          "配分は市場が自動的に最適化する"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】原料指向型の工業と、市場指向型の工業はどう違うか。",
+      "verso": "原料指向型は原料の重量が製品より重い工業で産地に、市場指向型は製品がかさばるか鮮度が要る工業で消費地に立地する",
+      "explanation": "鉄鋼は前者、飲料やビールは後者の典型である。どちらを運ぶほうが安いかという一つの基準で、正反対の立地が説明できる点が面白い。",
+      "tags": [
+        "comparaison",
+        "工業"
+      ],
+      "distractors": {
+        "easy": [
+          "まったく同じである",
+          "どちらも市場に立地する",
+          "違いは規模だけである"
+        ],
+        "medium": [
+          "原料指向型が消費地に立地する",
+          "どちらも原料の産地に立地する",
+          "どちらも賃金で立地が決まる"
+        ],
+        "hard": [
+          "違いは製品の価格だけである",
+          "市場指向型は輸送費を考えない",
+          "立地は政府がすべて決める"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】工場が海外へ移転するのは、賃金が安いからだけなのか。",
+      "verso": "いいえ。市場に近づくため、関税を避けるため、部品の供給網に加わるためなど理由は多様である",
+      "explanation": "よくある誤解である。実際、賃金の高い国へ工場を建てる例も多い。単一の原因で説明しようとすると、現実の立地の多様さを見落とすことになる。",
+      "tags": [
+        "piege",
+        "工業"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。賃金だけが理由である",
+          "はい。ほかに理由はない",
+          "はい。安ければどこでもよい"
+        ],
+        "medium": [
+          "はい。輸送費は関係ないから",
+          "はい。市場の位置は無関係だから",
+          "いいえ。移転は行われていないから"
+        ],
+        "hard": [
+          "はい。関税は撤廃されているから",
+          "いいえ。理由は税制だけだから",
+          "はい。賃金の高い国へは移転しないから"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、工業の立地と産業構造の変化はどのように整理できるか。",
+      "verso": "何を運ぶのが高くつくかで立地が決まり、その条件が技術と国際関係の変化によって書き換えられ続けてきたこと",
+      "explanation": "石炭の産地に集まった工業が、いまは人材と情報の集まる場所に移る。立地の論理は変わらないが、費用の中身が変わったのである。",
+      "tags": [
+        "工業",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "立地は偶然で決まること",
+          "工場は一度建つと動かないこと",
+          "立地条件は昔から同じであること"
+        ],
+        "medium": [
+          "立地はすべて政府が決めること",
+          "賃金だけで立地が決まること",
+          "産業構造は変化しないこと"
+        ],
+        "hard": [
+          "立地の論理そのものが失われたこと",
+          "輸送費は現在では無関係であること",
+          "国際関係は立地に影響しないこと"
+        ]
+      }
+    }
+  ]
+}

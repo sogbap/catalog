@@ -1,0 +1,535 @@
+{
+  "id": "jp-koukou-suugaku-zukei-keiryou",
+  "title": "図形と計量",
+  "emoji": "📐",
+  "subject": "mathematics",
+  "country": "jp",
+  "courseDescription": "三角比の定義と拡張から、正弦定理・余弦定理による三角形の決定、面積公式と測量への応用までを扱う。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>図形と計量</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年<br>\n  <b>科目：</b>数学I<br>\n  <b>単元：</b>図形と計量\n</div>\n\n<blockquote>\n  <p><b>問い。</b>対岸までの距離を、川を渡らずに測ることはできるだろうか。</p>\n</blockquote>\n\n<p>三角比は、<b>角度と辺の長さを相互に翻訳する道具</b>である。この翻訳ができるようになると、直接測れない距離が計算で求まる。図形の問題が計算の問題に変わる——それがこの単元の中身である。</p>\n\n<h2>1・三角比の定義</h2>\n\n<p>直角三角形の鋭角 θ に対して、三つの比を定める。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 156\" role=\"img\" aria-label=\"直角三角形において斜辺と高さと底辺の比として正弦余弦正接を定義する図\">\n  <text x=\"170\" y=\"14\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">正接だけが斜辺を含まない</text>\n  <path d=\"M50,124 L250,124 L250,44 Z\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.6;stroke-width:2\"/>\n  <path d=\"M236,124 L236,110 L250,110\" style=\"fill:none;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.2\"/>\n  <path d=\"M50,124 A26,26 0 0 1 74,112\" style=\"fill:none;stroke:var(--accent);stroke-width:1.5\"/>\n  <text x=\"80\" y=\"118\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">θ</text>\n  <text x=\"150\" y=\"140\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">底辺</text>\n  <text x=\"266\" y=\"88\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">高さ</text>\n  <text x=\"140\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">斜辺</text>\n  <text x=\"60\" y=\"150\" class=\"s-muted\" font-size=\"8.5\">正弦 ＝ 高さ／斜辺　　余弦 ＝ 底辺／斜辺　　正接 ＝ 高さ／底辺</text>\n</svg>\n<figcaption>三角比の値は角の大きさだけで決まり、三角形の大きさには依存しない。</figcaption>\n</figure>\n\n<p>重要なのは、<b>三角比の値が三角形の大きさによらない</b>ことである。相似な直角三角形では対応する辺の比が等しいからで、<b>この性質があるからこそ、角度から辺の長さを求める測量が成り立つ</b>。</p>\n\n<h3>覚えておく値</h3>\n\n<table>\n  <tr><th>角</th><th>正弦</th><th>余弦</th><th>正接</th></tr>\n  <tr><td>30 度</td><td>1／2</td><td>√3／2</td><td>1／√3</td></tr>\n  <tr><td>45 度</td><td>1／√2</td><td>1／√2</td><td>1</td></tr>\n  <tr><td>60 度</td><td>√3／2</td><td>1／2</td><td>√3</td></tr>\n</table>\n\n<p>正弦は <b>1／2 ＜ 1／√2 ＜ √3／2</b> と<b>角が大きくなるほど大きく</b>なり、余弦は逆に小さくなる。この大小関係で覚えると取り違えを防げる。</p>\n\n<h2>2・鈍角への拡張</h2>\n\n<p>直角三角形の辺の比という定義では、鋭角しか扱えない。そこで<b>座標平面上の単位円</b>（半径 1 の円）を使う。円周上の点の <b>x 座標が余弦、y 座標が正弦</b>である。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 166\" role=\"img\" aria-label=\"単位円上の点の座標として三角比を定義し鈍角では余弦が負で正弦が正になることを示す図\">\n  <text x=\"170\" y=\"14\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">円周上の点の座標が、そのまま三角比になる</text>\n  <path d=\"M30,102 L310,102\" style=\"fill:none;stroke:currentColor;stroke-opacity:.3;stroke-width:1\"/>\n  <path d=\"M170,26 L170,152\" style=\"fill:none;stroke:currentColor;stroke-opacity:.3;stroke-width:1\"/>\n  <path d=\"M100,102 A70,70 0 0 1 240,102\" style=\"fill:none;stroke:var(--accent);stroke-opacity:.55;stroke-width:1.5\"/>\n  <path d=\"M170,102 L120,53\" style=\"fill:none;stroke:var(--accent);stroke-width:2\"/>\n  <circle cx=\"120\" cy=\"53\" r=\"4\" style=\"fill:var(--accent)\"/>\n  <path d=\"M120,53 L120,102\" style=\"fill:none;stroke:var(--accent);stroke-opacity:.5;stroke-width:1;stroke-dasharray:3,3\"/>\n  <path d=\"M186,102 A16,16 0 0 0 182,92\" style=\"fill:none;stroke:var(--accent);stroke-width:1.3\"/>\n  <text x=\"196\" y=\"96\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">θ</text>\n  <text x=\"112\" y=\"46\" text-anchor=\"end\" class=\"s-muted\" font-size=\"8.5\">(余弦, 正弦)</text>\n  <text x=\"120\" y=\"118\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">余弦 ＜ 0</text>\n  <text x=\"104\" y=\"80\" text-anchor=\"end\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">正弦 ＞ 0</text>\n  <text x=\"170\" y=\"162\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">鈍角では、余弦だけが負になる</text>\n</svg>\n<figcaption>鈍角の余弦が負になることが、余弦定理で鈍角を判定できる根拠になる。</figcaption>\n</figure>\n\n<p>これで 0 度から 180 度まで定義が拡張される。<b>鈍角では正弦は正、余弦は負</b>である（第 2 象限では x 座標が負、y 座標が正だから）。また、単位円上の点について三平方の定理を書き下すと、次の基本関係が得られる。</p>\n\n<p style=\"text-align:center\"><strong>（正弦）² ＋（余弦）² ＝ 1</strong></p>\n\n<h2>3・正弦定理と余弦定理</h2>\n\n<p>三角形を決定する二つの定理である。<b>使い分けは「何が与えられているか」で決まる。</b></p>\n\n<div class=\"callout\">\n  <strong>公式・二つの定理</strong><br>\n  <b>正弦定理</b>（R は外接円の半径）<br>\n  a／sin A ＝ b／sin B ＝ c／sin C ＝ <b>2R</b>　… R ではなく <b>2R</b><br><br>\n  <b>余弦定理</b><br>\n  a² ＝ b²＋c²－<b>2bc cos A</b><br>\n  A が直角なら余弦が 0 になり、<b>三平方の定理に一致</b>する。つまり余弦定理は三平方の定理を一般の角へ広げたものである。\n</div>\n\n<ul>\n  <li><b>正弦定理</b>を使う …「辺とその対角の組」が分かるとき、外接円の半径が絡むとき</li>\n  <li><b>余弦定理</b>を使う …「2 辺とその間の角」または「3 辺」が分かるとき</li>\n</ul>\n\n<p><b>対角がそろっているかどうか</b>が判断の分かれ目である。2 辺とその間の角から残りの辺を求める場面では、正弦定理では対応がとれず余弦定理が要る。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 160\" role=\"img\" aria-label=\"辺と対角の組が分かるときは正弦定理を二辺とその間の角または三辺が分かるときは余弦定理を使うという使い分けの図\">\n  <defs>\n    <marker id=\"ar-zukei1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"110\" y=\"6\" width=\"120\" height=\"28\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"25\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">何が分かっている？</text>\n  <path d=\"M140,34 L86,58\" style=\"fill:none;stroke:var(--accent);stroke-width:1.5\" marker-end=\"url(#ar-zukei1)\"/>\n  <path d=\"M200,34 L254,58\" style=\"fill:none;stroke:var(--accent);stroke-width:1.5\" marker-end=\"url(#ar-zukei1)\"/>\n  <rect x=\"8\" y=\"60\" width=\"152\" height=\"46\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.45;stroke-width:1.5\"/>\n  <text x=\"84\" y=\"79\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">辺とその対角の組</text>\n  <text x=\"84\" y=\"96\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">外接円の半径が絡む</text>\n  <rect x=\"180\" y=\"60\" width=\"152\" height=\"46\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.45;stroke-width:1.5\"/>\n  <text x=\"256\" y=\"79\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">2 辺とその間の角</text>\n  <text x=\"256\" y=\"96\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">または 3 辺</text>\n  <path d=\"M84,106 L84,120\" style=\"fill:none;stroke:var(--accent);stroke-width:1.5\" marker-end=\"url(#ar-zukei1)\"/>\n  <path d=\"M256,106 L256,120\" style=\"fill:none;stroke:var(--accent);stroke-width:1.5\" marker-end=\"url(#ar-zukei1)\"/>\n  <rect x=\"8\" y=\"122\" width=\"152\" height=\"30\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.2;stroke:var(--accent);stroke-opacity:.65;stroke-width:1.5\"/>\n  <text x=\"84\" y=\"142\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">正弦定理</text>\n  <rect x=\"180\" y=\"122\" width=\"152\" height=\"30\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.2;stroke:var(--accent);stroke-opacity:.65;stroke-width:1.5\"/>\n  <text x=\"256\" y=\"142\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">余弦定理</text>\n</svg>\n<figcaption>対角がそろっているかどうかが、二つの定理の分かれ目になる。</figcaption>\n</figure>\n\n<p>余弦定理を cos A について解くと、3 辺から角が求まる。</p>\n\n<p style=\"text-align:center\"><strong>cos A ＝ (b²＋c²－a²)／(2bc)</strong></p>\n\n<p>この<b>符号を見れば鋭角か鈍角かが判定できる</b>。<b>b²＋c² ＜ a²</b> なら角 A は鈍角である。なお三角形では<b>最大の辺の向かい合う角が最大の角</b>になり、3 辺で三角形が作れる条件は<b>どの 1 辺も他の 2 辺の和より短いこと</b>である。</p>\n\n<h2>4・面積を求める</h2>\n\n<p>面積公式は、与えられた情報に応じて三通りある。</p>\n\n<table>\n  <tr><th>与えられるもの</th><th>公式</th></tr>\n  <tr><td>2 辺とその間の角</td><td>S ＝ (1／2) bc sin A</td></tr>\n  <tr><td>3 辺（s は周の半分）</td><td>S ＝ √(s(s－a)(s－b)(s－c))　ヘロンの公式</td></tr>\n  <tr><td>内接円の半径 r と周の半分 s</td><td>S ＝ rs</td></tr>\n</table>\n\n<p>一つめは<b>高さを求めずに面積が出せる</b>点が便利で、使うのは<b>正弦</b>であって余弦ではない。ヘロンの公式は<b>角度が一つも分からなくても</b>面積を与える。三つめは、内心から各辺に下ろした半径を高さとする 3 つの三角形に分割すれば導ける。</p>\n\n<h2>5・測量への応用</h2>\n\n<p>対岸までの距離や山の高さのように<b>直接測れない長さ</b>も、測れる辺と角度から計算できる。三角比の値が角度だけで決まるという性質が、この応用を支えている。</p>\n\n<p>空間図形では、<b>適切な平面を取り出して平面の問題に帰着させる</b>のが基本方針である。立体のまま考えるのではなく、断面や特定の面に注目する。<b>どの平面を取り出すかの選択</b>が解法の要になる。</p>\n\n<h2>まとめ</h2>\n\n<h3>定理の使い分け</h3>\n\n<table>\n  <tr><th>与えられた条件</th><th>使う定理</th></tr>\n  <tr><td>辺と対角の組</td><td>正弦定理</td></tr>\n  <tr><td>2 辺とその間の角</td><td>余弦定理</td></tr>\n  <tr><td>3 辺</td><td>余弦定理（角を求める）</td></tr>\n  <tr><td>外接円の半径が絡む</td><td>正弦定理（＝ 2R）</td></tr>\n</table>\n\n<h3>角の判定</h3>\n\n<table>\n  <tr><th>条件</th><th>角 A の種類</th></tr>\n  <tr><td>b²＋c² ＞ a²</td><td>鋭角</td></tr>\n  <tr><td>b²＋c² ＝ a²</td><td>直角（三平方の定理）</td></tr>\n  <tr><td>b²＋c² ＜ a²</td><td>鈍角</td></tr>\n</table>\n\n<h3>三角比の性質</h3>\n\n<table>\n  <tr><th>事がら</th><th>内容</th></tr>\n  <tr><td>値の決まり方</td><td>角の大きさだけで決まる</td></tr>\n  <tr><td>鈍角のとき</td><td>正弦は正、余弦は負</td></tr>\n  <tr><td>基本関係</td><td>（正弦）²＋（余弦）² ＝ 1</td></tr>\n  <tr><td>辺と角の対応</td><td>最大の辺の対角が最大の角</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  正弦定理で sin B の値から角 B を求めるとき、<b>角は一通りには定まらない</b>。180 度から引いた角も同じ正弦の値をもつため、たとえば sin B ＝ 1／2 なら <b>30 度と 150 度の両方</b>が候補になる。三角形の内角の和や<b>辺の大小の条件</b>を使って、一方を除く検討が必要である。\n</div>\n\n<blockquote>\n  <p>三角比は、目で測れないものを計算で捉えるための言葉である。どの定理を選ぶかは、与えられた条件が決めてくれる——問題を解く前に、まず何が分かっているかを書き出すこと。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "数学I ― 図形と計量",
+  "cards": [
+    {
+      "recto": "直角三角形において、鋭角 θ に対する正弦・余弦・正接は、それぞれどの辺の比で定義されるか。",
+      "verso": "正弦は 高さ／斜辺、余弦は 底辺／斜辺、正接は 高さ／底辺",
+      "explanation": "いずれも斜辺を分母にとるか否かで区別される。正接だけが斜辺を含まない点を押さえると混同しにくい。",
+      "tags": [
+        "三角比",
+        "定義"
+      ],
+      "distractors": {
+        "easy": [
+          "正弦は 底辺／斜辺、余弦は 高さ／斜辺、正接は 底辺／高さ",
+          "三つとも斜辺を分母にとる",
+          "三つとも同じ比を表す"
+        ],
+        "medium": [
+          "正弦は 斜辺／高さ、余弦は 斜辺／底辺、正接は 底辺／高さ",
+          "正弦は 高さ／底辺、余弦は 底辺／高さ",
+          "正接は 斜辺／底辺で定義される"
+        ],
+        "hard": [
+          "正弦は 高さ／斜辺、余弦は 高さ／底辺、正接は 底辺／斜辺",
+          "正接は 高さ×底辺で定義される",
+          "定義は三角形の大きさによって変わる"
+        ]
+      }
+    },
+    {
+      "recto": "三角比の値は、三角形の大きさによって変わるか。",
+      "verso": "変わらない。角の大きさだけで決まる",
+      "explanation": "相似な直角三角形では対応する辺の比が等しいためである。この性質があるからこそ、角度から辺の長さを求める測量が成り立つ。",
+      "tags": [
+        "三角比",
+        "性質"
+      ],
+      "distractors": {
+        "easy": [
+          "三角形が大きいほど値も大きくなる",
+          "辺の長さに比例して変わる",
+          "面積によって変わる"
+        ],
+        "medium": [
+          "斜辺の長さによって変わる",
+          "直角三角形のときだけ変わらない",
+          "角度と辺の両方で決まる"
+        ],
+        "hard": [
+          "相似でない三角形では変わる",
+          "角度が 45 度のときだけ変わらない",
+          "単位の取り方によって変わる"
+        ]
+      }
+    },
+    {
+      "recto": "30 度・45 度・60 度の正弦の値は、それぞれいくらか。",
+      "verso": "30 度が 1／2、45 度が 1／√2、60 度が √3／2",
+      "explanation": "角が大きくなるほど正弦の値も大きくなる。1／2 ＜ 1／√2 ＜ √3／2 という大小関係で覚えると、値の取り違えを防げる。",
+      "tags": [
+        "三角比",
+        "値"
+      ],
+      "distractors": {
+        "easy": [
+          "30 度が √3／2、45 度が 1／√2、60 度が 1／2",
+          "三つとも 1／2 である",
+          "30 度が 1、45 度が 2、60 度が 3"
+        ],
+        "medium": [
+          "30 度が 1／2、45 度が √3／2、60 度が 1／√2",
+          "30 度が √3、45 度が 1、60 度が 1／√3",
+          "30 度が 1／√3、45 度が 1、60 度が √3"
+        ],
+        "hard": [
+          "30 度が 1／2、45 度が 1／2、60 度が √3／2",
+          "30 度が √2／2、45 度が √3／2、60 度が 1",
+          "角度が大きいほど正弦は小さくなる"
+        ]
+      }
+    },
+    {
+      "recto": "鈍角を含む角にも三角比を定義するために、どのような方法が用いられるか。",
+      "verso": "座標平面上の単位円を用い、円周上の点の座標で余弦と正弦を定める",
+      "explanation": "半径 1 の円周上の点の x 座標が余弦、y 座標が正弦にあたる。これにより 0 度から 180 度まで、鈍角も含めて定義が拡張される。",
+      "tags": [
+        "三角比",
+        "拡張"
+      ],
+      "distractors": {
+        "easy": [
+          "鈍角には三角比を定義しない",
+          "直角三角形の辺の比をそのまま使う",
+          "角を 90 度で割って定義する"
+        ],
+        "medium": [
+          "三角形の面積を用いて定義する",
+          "余弦定理を用いて定義する",
+          "半径 2 の円を用いて定義する"
+        ],
+        "hard": [
+          "単位円の接線の長さだけで定義する",
+          "円周上の点の x 座標を正弦とする",
+          "鈍角では正弦と余弦を入れ替えて定義する"
+        ]
+      }
+    },
+    {
+      "recto": "θ が鈍角（90 度 ＜ θ ＜ 180 度）のとき、正弦と余弦の符号はそれぞれどうなるか。",
+      "verso": "正弦は正、余弦は負になる",
+      "explanation": "単位円の第 2 象限では x 座標が負、y 座標が正だからである。鈍角の余弦が負になることが、余弦定理で鈍角を判定できる根拠になる。",
+      "tags": [
+        "三角比",
+        "拡張"
+      ],
+      "distractors": {
+        "easy": [
+          "どちらも正",
+          "どちらも負",
+          "正弦が負、余弦が正"
+        ],
+        "medium": [
+          "正弦は正、余弦は 0 になる",
+          "どちらも 0 になる",
+          "符号は角度によらず一定である"
+        ],
+        "hard": [
+          "正弦は負、余弦も負になる",
+          "正接だけが正になり他は 0 になる",
+          "鈍角では符号が定まらない"
+        ]
+      }
+    },
+    {
+      "recto": "正弦と余弦の間に成り立つ、最も基本的な関係式は何か。",
+      "verso": "正弦の 2 乗 ＋ 余弦の 2 乗 ＝ 1",
+      "explanation": "単位円上の点について、三平方の定理を書き下したものにほかならない。片方の値が分かれば、符号を考慮してもう片方が求められる。",
+      "tags": [
+        "三角比",
+        "相互関係"
+      ],
+      "distractors": {
+        "easy": [
+          "正弦 ＋ 余弦 ＝ 1",
+          "正弦 × 余弦 ＝ 1",
+          "正弦 － 余弦 ＝ 0"
+        ],
+        "medium": [
+          "正弦の 2 乗 － 余弦の 2 乗 ＝ 1",
+          "正弦の 2 乗 ＋ 余弦の 2 乗 ＝ 2",
+          "正弦の 2 乗 × 余弦の 2 乗 ＝ 1"
+        ],
+        "hard": [
+          "正接の 2 乗 ＋ 1 ＝ 正弦の 2 乗",
+          "正弦の 2 乗 ＋ 余弦の 2 乗 ＝ 半径",
+          "この関係は鋭角のときだけ成り立つ"
+        ]
+      }
+    },
+    {
+      "recto": "三角形 ABC において、外接円の半径を R とすると、正弦定理はどう表されるか。",
+      "verso": "a／sin A ＝ b／sin B ＝ c／sin C ＝ 2R",
+      "explanation": "辺とその対角の正弦の比が一定になり、その値が外接円の直径に等しい。2R であって R でない点に注意する。",
+      "tags": [
+        "正弦定理",
+        "公式"
+      ],
+      "distractors": {
+        "easy": [
+          "a／sin A ＝ b／sin B ＝ c／sin C ＝ R",
+          "a × sin A ＝ b × sin B ＝ c × sin C",
+          "sin A／a ＝ sin B／b ＝ 2R"
+        ],
+        "medium": [
+          "a／sin A ＝ b／sin B ＝ c／sin C ＝ R／2",
+          "a／cos A ＝ b／cos B ＝ c／cos C ＝ 2R",
+          "a／sin B ＝ b／sin C ＝ c／sin A ＝ 2R"
+        ],
+        "hard": [
+          "a／sin A ＝ b／sin B ＝ c／sin C ＝ 4R",
+          "a²／sin A ＝ b²／sin B ＝ 2R",
+          "a／sin A ＝ b／sin B ＝ c／sin C ＝ πR"
+        ]
+      }
+    },
+    {
+      "recto": "余弦定理は、辺 a と角 A について、どのような式で表されるか。",
+      "verso": "a² ＝ b²＋c²－2bc cos A",
+      "explanation": "A が直角のとき余弦は 0 になり、三平方の定理に一致する。つまり余弦定理は三平方の定理を一般の角に広げたものである。",
+      "tags": [
+        "余弦定理",
+        "公式"
+      ],
+      "distractors": {
+        "easy": [
+          "a² ＝ b²＋c²",
+          "a² ＝ b²＋c²＋2bc cos A",
+          "a ＝ b＋c－2bc cos A"
+        ],
+        "medium": [
+          "a² ＝ b²－c²－2bc cos A",
+          "a² ＝ b²＋c²－2bc sin A",
+          "a² ＝ b²＋c²－bc cos A"
+        ],
+        "hard": [
+          "a² ＝ b²＋c²－2bc cos B",
+          "a² ＝ b²＋c²－4bc cos A",
+          "a² ＝ (b＋c)²－2bc cos A"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】正弦定理と余弦定理は、どのような情報が与えられたときに使い分けるか。",
+      "verso": "正弦定理は「辺と対角の組」が分かるとき、余弦定理は「2 辺とその間の角」または「3 辺」が分かるときに使う",
+      "explanation": "対角がそろっているかどうかが判断の分かれ目である。2 辺とその間の角から残りの辺を求める場面では、正弦定理では対応がとれず余弦定理が必要になる。",
+      "tags": [
+        "comparaison",
+        "定理"
+      ],
+      "distractors": {
+        "easy": [
+          "どちらも同じ場面で使える",
+          "正弦定理は直角三角形にしか使えない",
+          "余弦定理は鈍角にしか使えない"
+        ],
+        "medium": [
+          "正弦定理は 3 辺、余弦定理は辺と対角のときに使う",
+          "正弦定理は面積、余弦定理は角度を求めるときに使う",
+          "どちらも 3 辺が分かるときにしか使えない"
+        ],
+        "hard": [
+          "正弦定理は 2 辺とその間の角のときに使う",
+          "余弦定理は外接円の半径が必要なときに使う",
+          "使い分けは三角形の大きさによって決まる"
+        ]
+      }
+    },
+    {
+      "recto": "三角形の 3 辺 a、b、c が分かっているとき、角 A の余弦はどう求められるか。",
+      "verso": "cos A ＝ (b²＋c²－a²)／(2bc)",
+      "explanation": "余弦定理を cos A について解いた形である。この値の符号を見れば、角 A が鋭角か鈍角かを判定できる。",
+      "tags": [
+        "余弦定理",
+        "応用"
+      ],
+      "distractors": {
+        "easy": [
+          "cos A ＝ (b²＋c²＋a²)／(2bc)",
+          "cos A ＝ (a²＋b²－c²)／(2bc)",
+          "cos A ＝ a／(b＋c)"
+        ],
+        "medium": [
+          "cos A ＝ (b²＋c²－a²)／(bc)",
+          "cos A ＝ (b²－c²－a²)／(2bc)",
+          "cos A ＝ (b²＋c²－a²)／(2ab)"
+        ],
+        "hard": [
+          "cos A ＝ (b²＋c²－a²)／(4bc)",
+          "cos A ＝ (2bc)／(b²＋c²－a²)",
+          "cos A ＝ √(b²＋c²－a²)／(2bc)"
+        ]
+      }
+    },
+    {
+      "recto": "3 辺の長さから角 A が鈍角であることを判定するには、何を確かめればよいか。",
+      "verso": "b²＋c² ＜ a²（すなわち cos A が負）であることを確かめる",
+      "explanation": "余弦定理から、角 A の余弦の符号は b²＋c²－a² の符号と一致する。この不等式が成り立てば、最大辺の対角が鈍角であると分かる。",
+      "tags": [
+        "余弦定理",
+        "応用"
+      ],
+      "distractors": {
+        "easy": [
+          "b²＋c² ＞ a² であること",
+          "b²＋c² ＝ a² であること",
+          "a が最小の辺であること"
+        ],
+        "medium": [
+          "b＋c ＜ a であること",
+          "a²＋b² ＜ c² であること",
+          "3 辺の和が奇数であること"
+        ],
+        "hard": [
+          "b²＋c² ＜ 2a² であること",
+          "sin A が負であること",
+          "a が b と c の平均より大きいこと"
+        ]
+      }
+    },
+    {
+      "recto": "2 辺 b、c とその間の角 A が分かっているとき、三角形の面積はどう表されるか。",
+      "verso": "S ＝ (1／2) bc sin A",
+      "explanation": "高さを求めずに面積が出せる公式である。使うのは正弦であって余弦ではない点に注意する。",
+      "tags": [
+        "面積",
+        "公式"
+      ],
+      "distractors": {
+        "easy": [
+          "S ＝ bc sin A",
+          "S ＝ (1／2) bc cos A",
+          "S ＝ (1／2) bc"
+        ],
+        "medium": [
+          "S ＝ (1／2) bc tan A",
+          "S ＝ (1／2)(b＋c) sin A",
+          "S ＝ (1／2) b² sin A"
+        ],
+        "hard": [
+          "S ＝ (1／4) bc sin A",
+          "S ＝ (1／2) bc sin B",
+          "S ＝ (1／2) abc sin A"
+        ]
+      }
+    },
+    {
+      "recto": "三角形の 3 辺の長さから面積を求める公式を何というか。",
+      "verso": "ヘロンの公式",
+      "explanation": "3 辺の和の半分を s とすると、面積は √(s(s－a)(s－b)(s－c)) で与えられる。角度が一つも分からなくても面積が求まる点が特徴である。",
+      "tags": [
+        "面積",
+        "公式"
+      ],
+      "distractors": {
+        "easy": [
+          "三平方の定理",
+          "正弦定理",
+          "余弦定理"
+        ],
+        "medium": [
+          "中線定理",
+          "方べきの定理",
+          "メネラウスの定理"
+        ],
+        "hard": [
+          "トレミーの定理",
+          "オイラーの公式",
+          "チェバの定理"
+        ]
+      }
+    },
+    {
+      "recto": "三角形の内接円の半径を r、3 辺の和を 2s とすると、面積 S はどう表されるか。",
+      "verso": "S ＝ rs",
+      "explanation": "内心から各辺に下ろした半径を高さとする 3 つの三角形に分割すると導ける。面積と半径を結ぶ関係として、内接円の半径を求める際に使う。",
+      "tags": [
+        "面積",
+        "公式"
+      ],
+      "distractors": {
+        "easy": [
+          "S ＝ r＋s",
+          "S ＝ 2rs",
+          "S ＝ r／s"
+        ],
+        "medium": [
+          "S ＝ (1／2) rs",
+          "S ＝ r²s",
+          "S ＝ rs²"
+        ],
+        "hard": [
+          "S ＝ 4rs",
+          "S ＝ rs／2",
+          "S ＝ r(s－a)"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】正弦定理を用いて sin B の値から角 B を求めるとき、角は一通りに定まるか。",
+      "verso": "いいえ。正弦の値が同じになる角は鋭角と鈍角の 2 つあり、条件から一方を除く検討が必要になる",
+      "explanation": "よくある誤りである。180 度から引いた角も同じ正弦の値をもつため、たとえば sin B ＝ 1／2 なら 30 度と 150 度の両方が候補になる。三角形の内角の和や辺の大小の条件を使って絞り込む必要がある。",
+      "tags": [
+        "piege",
+        "正弦定理"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。必ず一通りに定まる",
+          "はい。正弦の値と角は一対一に対応するから",
+          "はい。鋭角しか候補にならないから"
+        ],
+        "medium": [
+          "はい。三角形の内角なので自動的に決まるから",
+          "いいえ。候補は常に 3 つ以上あるから",
+          "はい。余弦定理を使えば一通りに定まるから"
+        ],
+        "hard": [
+          "いいえ。ただし候補が 2 つになるのは鈍角三角形のときだけだから",
+          "はい。最大辺の対角が最大角になるので自動的に定まるから",
+          "いいえ。正弦の値からは角を求められないから"
+        ]
+      }
+    },
+    {
+      "recto": "三角形において、最大の辺と最大の角の間にはどのような関係があるか。",
+      "verso": "最大の辺の向かい合う角が最大の角になる",
+      "explanation": "辺の大小と対角の大小が同じ順序で対応する。正弦定理で角の候補を絞り込むとき、この関係が判断材料になる。",
+      "tags": [
+        "三角形",
+        "性質"
+      ],
+      "distractors": {
+        "easy": [
+          "最大の辺に隣り合う角が最大になる",
+          "辺の長さと角の大きさは無関係である",
+          "最大の辺の向かい合う角が最小になる"
+        ],
+        "medium": [
+          "最大の辺の向かい合う角は必ず鈍角になる",
+          "最大の角は必ず 90 度より大きい",
+          "辺の比と角の比が等しくなる"
+        ],
+        "hard": [
+          "最大の辺の向かい合う角が最大になるのは鋭角三角形のときだけである",
+          "辺の 2 乗の比が角の比に等しい",
+          "最大の辺は他の 2 辺の和に等しい"
+        ]
+      }
+    },
+    {
+      "recto": "三角形が成立するために、3 辺 a、b、c が満たすべき条件は何か。",
+      "verso": "どの 1 辺も、他の 2 辺の和より短いこと",
+      "explanation": "最大辺について確かめれば十分である。この条件が成り立たなければ、3 辺で三角形を作ることはできない。",
+      "tags": [
+        "三角形",
+        "条件"
+      ],
+      "distractors": {
+        "easy": [
+          "3 辺がすべて等しいこと",
+          "どれか 1 辺が他の 2 辺の和に等しいこと",
+          "3 辺の和が偶数であること"
+        ],
+        "medium": [
+          "どの 1 辺も他の 2 辺の差より短いこと",
+          "どの 1 辺も他の 2 辺の積より短いこと",
+          "最大辺が最小辺の 2 倍以内であること"
+        ],
+        "hard": [
+          "どの 1 辺も他の 2 辺の和以下であること（等号を含む）",
+          "3 辺の 2 乗の和が一定であること",
+          "最大辺の 2 乗が他の 2 辺の 2 乗の和より小さいこと"
+        ]
+      }
+    },
+    {
+      "recto": "測量において、直接測れない距離を三角比で求められるのはなぜか。",
+      "verso": "測れる辺の長さと角度から、正弦定理や余弦定理を用いて残りの辺を計算できるから",
+      "explanation": "対岸までの距離や山の高さを求める場面で使われる。三角比の値が角度だけで決まるという性質が、この応用を支えている。",
+      "tags": [
+        "応用",
+        "測量"
+      ],
+      "distractors": {
+        "easy": [
+          "距離は必ず直接測れるから",
+          "三角比は測量には使えないから",
+          "角度だけで距離が決まるから"
+        ],
+        "medium": [
+          "三角形の面積から自動的に距離が決まるから",
+          "相似な三角形を実際に作図するから",
+          "外接円の半径が常に既知だから"
+        ],
+        "hard": [
+          "三角比の値が三角形の大きさに比例して変わるから",
+          "余弦定理は角度を使わずに計算できるから",
+          "測量では近似値しか得られないから"
+        ]
+      }
+    },
+    {
+      "recto": "空間図形の問題を三角比で扱うとき、基本となる方針は何か。",
+      "verso": "適切な平面を取り出し、その平面上の三角形について正弦定理・余弦定理を適用すること",
+      "explanation": "立体のまま考えるのではなく、断面や特定の面に注目して平面の問題に帰着させる。どの平面を取り出すかの選択が解法の要になる。",
+      "tags": [
+        "応用",
+        "空間"
+      ],
+      "distractors": {
+        "easy": [
+          "立体のまま公式を適用する",
+          "空間では三角比は使えない",
+          "体積だけを考えればよい"
+        ],
+        "medium": [
+          "すべての面について同時に定理を適用する",
+          "空間専用の正弦定理を用いる",
+          "座標を用いなければ解けない"
+        ],
+        "hard": [
+          "立体を必ず直方体に分割してから考える",
+          "空間では余弦定理だけが使える",
+          "断面を取ると角度が変わるため使えない"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、図形と計量の学習はどのように整理できるか。",
+      "verso": "角度と辺の長さを相互に結びつける道具として三角比を用い、正弦定理・余弦定理によって三角形を決定し、面積や測量に応用できるようにすること",
+      "explanation": "図形の問題を計算の問題に翻訳する技術である。どの定理を使うかは「何が与えられているか」で決まるという判断が、この単元の実用的な核心である。",
+      "tags": [
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "公式を暗記するだけの単元であること",
+          "作図の技術を学ぶ単元であること",
+          "特に整理できない"
+        ],
+        "medium": [
+          "三角比は直角三角形にしか使えないこと",
+          "正弦定理と余弦定理は同じ場面で使うこと",
+          "面積は必ず高さを求めてから計算すること"
+        ],
+        "hard": [
+          "与えられた条件は定理の選択に影響しないこと",
+          "三角比の値は三角形の大きさで変わること",
+          "測量には三角比は用いられないこと"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-sekaishi-tankyuu-kodai-bunmei",
+  "title": "古代文明の誕生 ― 大河のほとりで",
+  "emoji": "🏺",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "メソポタミア・エジプト・インダス・中国に生まれた古代文明を、大河と灌漑、文字と法、都市と王権という観点から比較しながらとらえる。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>古代文明の誕生 ― 大河のほとりで</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>世界史探究<br>\n  <b>単元：</b>大項目B 諸地域の歴史的特質の形成\n</div>\n\n<blockquote>\n  <p><b>問い。</b>なぜ最初の文明は、いずれも大きな川のほとりに生まれたのだろうか。</p>\n</blockquote>\n\n<p>大河は水と肥沃な土を運ぶが、同時に氾濫という脅威でもある。治水と灌漑という<strong>大がかりな共同作業</strong>が、人を束ねる者を必要とした。そこから都市・王権・文字が生まれる。西アジア、エジプト、インダス、中国。四つの地域の歩みを並べると、共通の筋道と、それぞれの個性が同時に見えてくる。</p>\n\n<h2>1・大河が生んだしくみ</h2>\n\n<p>灌漑農業は余りを生む。余りは食料をつくらない人々を養い、神官・戦士・職人・商人という<strong>分業</strong>を生んだ。人が集まる場所は<strong>都市</strong>となり、共同作業を指揮する者が<strong>王</strong>となる。そして税と契約を記録する必要から<strong>文字</strong>が生まれた。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 132\" role=\"img\" aria-label=\"大河の灌漑から余剰生産、都市と王権、文字の誕生へと至る流れ\">\n  <defs>\n    <marker id=\"ar-skb1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">文明が生まれる筋道</text>\n  <rect x=\"66\" y=\"26\" width=\"208\" height=\"26\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"43\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">大河のほとりの灌漑農業</text>\n  <path d=\"M170,52 L170,64\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-skb1)\"/>\n  <rect x=\"66\" y=\"68\" width=\"208\" height=\"26\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"85\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">余剰生産と分業</text>\n  <path d=\"M110,94 L86,106\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-skb1)\"/>\n  <path d=\"M170,94 L170,106\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-skb1)\"/>\n  <path d=\"M230,94 L254,106\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-skb1)\"/>\n  <text x=\"66\" y=\"124\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">都市</text>\n  <text x=\"170\" y=\"124\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">王権と身分</text>\n  <text x=\"272\" y=\"124\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">文字と法</text>\n</svg>\n<figcaption>環境が生産を、生産が社会を、社会が記録を求めた。</figcaption>\n</figure>\n\n<h2>2・西アジアとエジプト</h2>\n\n<p><strong>メソポタミア</strong>は「川のあいだの地」を意味し、ティグリス川とユーフラテス川にはさまれる。開けた土地であったため異民族の侵入が絶えず、支配者がしばしば交代した。粘土板に刻まれた<strong>楔形文字</strong>が実務の記録を残し、<strong>ハンムラビ法典</strong>は「目には目を」という復讐法の原則を成文で示した。ただし刑罰は身分によって異なっていた。</p>\n\n<p>いっぽう<strong>エジプト</strong>は、砂漠と海に守られて統一が長く続いた。ナイル川の定期的な増水が肥沃な土を運ぶため、「エジプトはナイルのたまもの」と語られる。増水の時期を知る必要が天文の観測を促し、1年を365日とする<strong>太陽暦</strong>が生まれた。王（ファラオ）のために<strong>ピラミッド</strong>が築かれ、神殿には<strong>神聖文字</strong>が刻まれた。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 150\" role=\"img\" aria-label=\"メソポタミアとエジプトの地形と国のまとまり方の比較\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">同じ大河の文明でも、地形が政治を分けた</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">メソポタミア</text>\n  <text x=\"87\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">開けた土地</text>\n  <text x=\"87\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">異民族の侵入が多い</text>\n  <text x=\"87\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">王朝の興亡が激しい</text>\n  <text x=\"87\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">楔形文字・太陰暦</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">エジプト</text>\n  <text x=\"253\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">砂漠と海に囲まれる</text>\n  <text x=\"253\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">侵入を受けにくい</text>\n  <text x=\"253\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">統一が長く続く</text>\n  <text x=\"253\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">神聖文字・太陽暦</text>\n</svg>\n<figcaption>閉じた地形は安定を、開けた地形は変転をもたらした。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・成文法</strong><br>\n  慣習として伝えられていた決まりを、<b>文字に記して公に示した法</b>を成文法という。ハンムラビ法典は石柱に刻まれ、支配の基準を誰もが見られる形にした点に意義がある。\n</div>\n\n<h2>3・インダスと中国</h2>\n\n<p><strong>インダス文明</strong>のモヘンジョ・ダロやハラッパーは、碁盤の目状の街路と焼きれんがの家、沐浴場と排水設備をそなえた計画都市であった。しかし<strong>インダス文字は未解読</strong>で、巨大な王墓も見つかっていないため、社会のしくみも衰退の理由もなお謎に包まれている。文字が読めないと歴史がどれほど見えなくなるかを教える例である。</p>\n\n<p>黄河の流域では、考古学的に実在が確かめられた最古の王朝<strong>殷（商）</strong>が栄えた。王は占いによって政治を行い、その結果を亀の甲や獣の骨に刻んだ。これが漢字の源流にあたる<strong>甲骨文字</strong>である。祭祀の器や武器には<strong>青銅器</strong>が用いられ、王の権威を目に見える形で示した。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 138\" role=\"img\" aria-label=\"メソポタミアとエジプトとインダスと中国の四つの文明の川と文字の一覧\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">四つの地域、四つの記録</text>\n  <rect x=\"8\" y=\"26\" width=\"76\" height=\"100\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"46\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">メソポタミア</text>\n  <text x=\"46\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">ティグリス</text>\n  <text x=\"46\" y=\"84\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">ユーフラテス</text>\n  <text x=\"46\" y=\"106\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">楔形文字</text>\n  <rect x=\"90\" y=\"26\" width=\"76\" height=\"100\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"128\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">エジプト</text>\n  <text x=\"128\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">ナイル川</text>\n  <text x=\"128\" y=\"84\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">ピラミッド</text>\n  <text x=\"128\" y=\"106\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">神聖文字</text>\n  <rect x=\"172\" y=\"26\" width=\"76\" height=\"100\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"210\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">インダス</text>\n  <text x=\"210\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">インダス川</text>\n  <text x=\"210\" y=\"84\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">計画都市</text>\n  <text x=\"210\" y=\"106\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">未解読の文字</text>\n  <rect x=\"254\" y=\"26\" width=\"78\" height=\"100\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"293\" y=\"48\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">中国</text>\n  <text x=\"293\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">黄河</text>\n  <text x=\"293\" y=\"84\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">殷（商）</text>\n  <text x=\"293\" y=\"106\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">甲骨文字</text>\n</svg>\n<figcaption>読める文字を残したかどうかが、今日見える歴史の量を左右した。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>四つの文明</h3>\n\n<table>\n  <tr><th>文明</th><th>川</th><th>文字</th></tr>\n  <tr><td>メソポタミア</td><td>ティグリス・ユーフラテス</td><td>楔形文字</td></tr>\n  <tr><td>エジプト</td><td>ナイル</td><td>神聖文字</td></tr>\n  <tr><td>インダス</td><td>インダス</td><td>インダス文字（未解読）</td></tr>\n  <tr><td>中国</td><td>黄河</td><td>甲骨文字</td></tr>\n</table>\n\n<h3>用語の整理</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>ハンムラビ法典</td><td>復讐法の原則を示した成文法</td></tr>\n  <tr><td>太陽暦</td><td>1年を365日とする暦（エジプト）</td></tr>\n  <tr><td>ピラミッド</td><td>王のために築かれた巨大な石造建造物</td></tr>\n  <tr><td>青銅器</td><td>祭祀と武器に用いられ王の権威を示した</td></tr>\n</table>\n\n<h3>それぞれの個性</h3>\n\n<table>\n  <tr><th>地域</th><th>際立つ特徴</th></tr>\n  <tr><td>メソポタミア</td><td>興亡が激しく、法と記録が発達</td></tr>\n  <tr><td>エジプト</td><td>統一が長く続き、来世を重んじる</td></tr>\n  <tr><td>インダス</td><td>高度な都市計画、王の姿が見えない</td></tr>\n  <tr><td>中国</td><td>占いと祭祀が政治と一体</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  「四大文明」は<b>世界共通の定説ではない</b>。日本の教科書で広まった便宜的な整理であり、エーゲ海の文明やアメリカ大陸のマヤ・アンデスの文明など、ほかにも独自の歩みをたどった地域は多い。数え方そのものを疑うことも探究の一部である。\n</div>\n\n<blockquote>\n  <p>大河は人を養い、同時に人を束ねた。恵みと脅威が背中合わせであったところに、最初の国家は生まれている。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "世界史探究 ― 諸地域の歴史的特質の形成",
+  "cards": [
+    {
+      "recto": "古代の文明が生まれた場所に共通してみられる自然条件は何か。",
+      "verso": "大河の流域で、灌漑によって豊かな農業ができたこと",
+      "explanation": "大河は水と肥沃な土をもたらす一方、氾濫の管理には大規模な共同作業を必要とした。この二つが余剰の生産と強い王権を生んだ。",
+      "tags": [
+        "古代文明",
+        "自然環境"
+      ],
+      "distractors": {
+        "easy": [
+          "高い山の上にあったこと",
+          "海に囲まれていたこと",
+          "森林が深かったこと"
+        ],
+        "medium": [
+          "鉄鉱石が豊富だったこと",
+          "寒冷な気候だったこと",
+          "火山が多かったこと"
+        ],
+        "hard": [
+          "交易路の交差点にあったこと",
+          "外敵から隔てられていたこと",
+          "牧畜に適した草原だったこと"
+        ]
+      }
+    },
+    {
+      "recto": "メソポタミア文明が生まれたのは、どの二つの川にはさまれた地域か。",
+      "verso": "ティグリス川とユーフラテス川",
+      "explanation": "「メソポタミア」とは「川のあいだの地」を意味する。開けた土地であったため異民族の侵入を受けやすく、支配者がしばしば交代した。",
+      "tags": [
+        "古代文明",
+        "西アジア"
+      ],
+      "distractors": {
+        "easy": [
+          "ナイル川とコンゴ川",
+          "長江と黄河",
+          "ドナウ川とライン川"
+        ],
+        "medium": [
+          "インダス川とガンジス川",
+          "ナイル川とヨルダン川",
+          "アムール川とレナ川"
+        ],
+        "hard": [
+          "アムダリア川とシルダリア川",
+          "ユーフラテス川とヨルダン川",
+          "ティグリス川とインダス川"
+        ]
+      }
+    },
+    {
+      "recto": "メソポタミアで粘土板に刻まれた、くさびのような形の文字を何というか。",
+      "verso": "楔形文字",
+      "explanation": "葦のペンで粘土板に押しつけて記した。契約や税の記録という実務の必要から生まれた文字で、焼き固められた粘土板が今日まで残っている。",
+      "tags": [
+        "古代文明",
+        "文字"
+      ],
+      "distractors": {
+        "easy": [
+          "ひらがな",
+          "アルファベット",
+          "ローマ数字"
+        ],
+        "medium": [
+          "神聖文字（ヒエログリフ）",
+          "甲骨文字",
+          "インダス文字"
+        ],
+        "hard": [
+          "線文字B",
+          "アラム文字",
+          "フェニキア文字"
+        ]
+      }
+    },
+    {
+      "recto": "「目には目を、歯には歯を」で知られる、バビロン第1王朝の王が定めた法典を何というか。",
+      "verso": "ハンムラビ法典",
+      "explanation": "同じ害を返すという復讐法の原則をとるが、刑罰は身分によって異なった。成文法として、支配の基準を万人に示した点に意義がある。",
+      "tags": [
+        "古代文明",
+        "法"
+      ],
+      "distractors": {
+        "easy": [
+          "十七条憲法",
+          "大宝律令",
+          "ナポレオン法典"
+        ],
+        "medium": [
+          "ローマ法大全",
+          "十二表法",
+          "マグナ・カルタ"
+        ],
+        "hard": [
+          "ウル・ナンム法典",
+          "マヌ法典",
+          "ヒッタイト法典"
+        ]
+      }
+    },
+    {
+      "recto": "「エジプトはナイルのたまもの」と述べられるのはなぜか。",
+      "verso": "ナイル川の定期的な増水が肥沃な土を運び、農業を支えたから",
+      "explanation": "ギリシアの歴史家ヘロドトスの言葉とされる。増水の時期を知る必要から天文の観測が進み、暦が発達した。",
+      "tags": [
+        "古代文明",
+        "エジプト"
+      ],
+      "distractors": {
+        "easy": [
+          "ナイル川で金が採れたから",
+          "ナイル川が国境になったから",
+          "ナイル川に橋がなかったから"
+        ],
+        "medium": [
+          "ナイル川が交易路になったから",
+          "ナイル川が外敵を防いだから",
+          "ナイル川に神殿が並んでいたから"
+        ],
+        "hard": [
+          "ナイル川が灌漑を不要にしたから",
+          "ナイル川の氾濫が不規則だったから",
+          "ナイル川が地中海と紅海を結んだから"
+        ]
+      }
+    },
+    {
+      "recto": "エジプトで、ナイル川の増水の時期を知るために発達した暦を何というか。",
+      "verso": "太陽暦",
+      "explanation": "1年を365日とする暦で、のちのローマを経て現在の暦につながった。月の満ち欠けによる太陰暦を用いたメソポタミアとは対照的である。",
+      "tags": [
+        "古代文明",
+        "エジプト"
+      ],
+      "distractors": {
+        "easy": [
+          "時間割",
+          "週の区切り",
+          "十二支"
+        ],
+        "medium": [
+          "太陰暦",
+          "太陰太陽暦",
+          "農事暦"
+        ],
+        "hard": [
+          "ユリウス暦",
+          "グレゴリオ暦",
+          "六十進法による暦"
+        ]
+      }
+    },
+    {
+      "recto": "エジプトで王（ファラオ）のために築かれた巨大な石造建造物を何というか。",
+      "verso": "ピラミッド",
+      "explanation": "王の墓とされるが、王権の強さと国家の動員力を示す事業でもあった。奴隷が鞭打たれて造ったという古い見方は、近年の研究では否定されつつある。",
+      "tags": [
+        "古代文明",
+        "エジプト"
+      ],
+      "distractors": {
+        "easy": [
+          "城壁",
+          "灯台",
+          "水道橋"
+        ],
+        "medium": [
+          "ジッグラト",
+          "神殿",
+          "陵墓としての古墳"
+        ],
+        "hard": [
+          "オベリスク",
+          "スフィンクス",
+          "王家の谷の岩窟墓"
+        ]
+      }
+    },
+    {
+      "recto": "エジプトで神殿や墓に刻まれた、絵に由来する文字を何というか。",
+      "verso": "神聖文字（ヒエログリフ）",
+      "explanation": "パピルスにも記された。ロゼッタ・ストーンの発見によって19世紀に解読され、エジプトの歴史が文字の側から明らかになった。",
+      "tags": [
+        "古代文明",
+        "文字"
+      ],
+      "distractors": {
+        "easy": [
+          "漢字",
+          "アルファベット",
+          "算用数字"
+        ],
+        "medium": [
+          "楔形文字",
+          "甲骨文字",
+          "金文"
+        ],
+        "hard": [
+          "線文字A",
+          "インダス文字",
+          "ヒッタイトの象形文字"
+        ]
+      }
+    },
+    {
+      "recto": "インダス文明を代表する、計画的に造られた都市の遺跡はどこか。",
+      "verso": "モヘンジョ・ダロ（ハラッパー）",
+      "explanation": "碁盤の目状の街路、焼きれんがの家、沐浴場と排水設備をそなえていた。都市の計画性の高さが、この文明の際立った特徴である。",
+      "tags": [
+        "古代文明",
+        "南アジア"
+      ],
+      "distractors": {
+        "easy": [
+          "ローマ",
+          "アテネ",
+          "京都"
+        ],
+        "medium": [
+          "バビロン",
+          "メンフィス",
+          "殷墟"
+        ],
+        "hard": [
+          "ウル",
+          "ニネヴェ",
+          "テーベ"
+        ]
+      }
+    },
+    {
+      "recto": "インダス文明について、今日なお分かっていないことは何か。",
+      "verso": "インダス文字が未解読で、社会のしくみや衰退の理由がはっきりしないこと",
+      "explanation": "巨大な王墓や王の像が見つかっていないため、強大な王がいたかどうかも定かでない。解読されていない文字は、歴史の限界を示している。",
+      "tags": [
+        "古代文明",
+        "南アジア"
+      ],
+      "distractors": {
+        "easy": [
+          "都市があったかどうか",
+          "農業を行っていたかどうか",
+          "川の名前"
+        ],
+        "medium": [
+          "れんがを使ったかどうか",
+          "排水設備があったかどうか",
+          "交易を行ったかどうか"
+        ],
+        "hard": [
+          "青銅器を用いたかどうか",
+          "印章を作ったかどうか",
+          "都市の規模の大きさ"
+        ]
+      }
+    },
+    {
+      "recto": "黄河の流域で栄え、考古学的に実在が確かめられている中国最古の王朝は何か。",
+      "verso": "殷（商）",
+      "explanation": "殷墟の発掘によって実在が裏づけられた。王は占いによって政治を行い、その記録が甲骨に刻まれている。",
+      "tags": [
+        "古代文明",
+        "東アジア"
+      ],
+      "distractors": {
+        "easy": [
+          "江戸幕府",
+          "ローマ帝国",
+          "高麗"
+        ],
+        "medium": [
+          "秦",
+          "周",
+          "隋"
+        ],
+        "hard": [
+          "夏",
+          "西周",
+          "春秋の諸国"
+        ]
+      }
+    },
+    {
+      "recto": "殷で、占いの結果を亀の甲や獣の骨に刻んだ文字を何というか。",
+      "verso": "甲骨文字",
+      "explanation": "現在の漢字の源流にあたる。祭祀と政治が結びついていたことを示す資料であり、王の関心事がそのまま記録されている点で貴重である。",
+      "tags": [
+        "古代文明",
+        "文字"
+      ],
+      "distractors": {
+        "easy": [
+          "ひらがな",
+          "ローマ字",
+          "数字"
+        ],
+        "medium": [
+          "楔形文字",
+          "神聖文字（ヒエログリフ）",
+          "インダス文字"
+        ],
+        "hard": [
+          "金文",
+          "篆書",
+          "隷書"
+        ]
+      }
+    },
+    {
+      "recto": "古代文明において、祭祀の器や武器に用いられ、王の権威を示した金属器は何か。",
+      "verso": "青銅器",
+      "explanation": "銅と錫の合金で、材料も技術も限られていたため、まず王や神に関わる場面で使われた。日常の農具に鉄が広まるのはのちのことである。",
+      "tags": [
+        "古代文明",
+        "技術"
+      ],
+      "distractors": {
+        "easy": [
+          "ガラス",
+          "紙",
+          "陶器"
+        ],
+        "medium": [
+          "鉄器",
+          "金貨",
+          "石器"
+        ],
+        "hard": [
+          "鋳鉄",
+          "真鍮",
+          "鉛の器"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】メソポタミアとエジプトでは、国のまとまり方にどのような違いがあったか。",
+      "verso": "メソポタミアは開けた土地で異民族の侵入が多く興亡が激しく、エジプトは砂漠と海に守られて統一が長く続いた",
+      "explanation": "同じ大河の文明でも、地形という条件が政治の安定を左右した。世界観にも違いが現れ、エジプトでは来世を重んじる思想が育った。",
+      "tags": [
+        "comparaison",
+        "古代文明"
+      ],
+      "distractors": {
+        "easy": [
+          "どちらも一度も統一されなかった",
+          "どちらも同じ王が支配した",
+          "違いはとくにない"
+        ],
+        "medium": [
+          "メソポタミアは統一が続き、エジプトは興亡が激しかった",
+          "どちらも外敵の侵入をまったく受けなかった",
+          "どちらも都市国家のまま統一されなかった"
+        ],
+        "hard": [
+          "メソポタミアは海に守られ、エジプトは開けていた",
+          "違いは用いた文字だけである",
+          "エジプトは異民族の支配を一度も受けなかった"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】「四大文明」は、世界の古代文明のすべてを示す枠組みなのか。",
+      "verso": "いいえ。四つに数える見方は便宜的なもので、ほかの地域にも文明は生まれた",
+      "explanation": "よくある誤解である。エーゲ海の文明、アメリカ大陸のマヤやアンデスの文明なども古くから栄えた。四大文明という区分は日本の教科書で広まった整理の仕方であり、世界共通の定説ではない。",
+      "tags": [
+        "piege",
+        "古代文明"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。文明は四つしかない",
+          "はい。世界中で決まっている",
+          "はい。ほかは文明ではない"
+        ],
+        "medium": [
+          "はい。大河のない文明は存在しない",
+          "はい。文字をもつのは四つだけだから",
+          "いいえ。実際は二つだけである"
+        ],
+        "hard": [
+          "はい。国際的に定められた区分だから",
+          "いいえ。四大文明はすべて同じ年に始まったから",
+          "はい。他の文明は四大文明から派生したから"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、古代文明の誕生はどのように整理できるか。",
+      "verso": "大河の灌漑が余剰を生み、都市と王権が成立し、記録のために文字が生まれたこと",
+      "explanation": "環境が生産を支え、生産が社会の分化を生み、支配と交易の必要が文字と法を求めた。この連なりは地域ごとに異なる形をとりながら共通している。",
+      "tags": [
+        "古代文明",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "王が一人で文明をつくったこと",
+          "偶然に同時に始まったこと",
+          "鉄器の発明から始まったこと"
+        ],
+        "medium": [
+          "交易だけが文明を生んだこと",
+          "戦争が文明の唯一の原因であること",
+          "宗教だけがすべてを決めたこと"
+        ],
+        "hard": [
+          "文字の発明が農耕より先に起きたこと",
+          "どの文明も同じ制度をもったこと",
+          "都市の成立が農耕より前であること"
+        ]
+      }
+    }
+  ]
+}

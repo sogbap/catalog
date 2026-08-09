@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-rekishi-sougou-rekishi-no-tobira",
+  "title": "歴史の扉 ― 歴史と私たち",
+  "emoji": "🚪",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "時代区分や暦の数え方、資料の種類、変化と継続・因果・比較という見方を通じて、歴史をどう学ぶのかという入口を確かめる。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>歴史の扉 ― 歴史と私たち</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年<br>\n  <b>科目：</b>歴史総合<br>\n  <b>単元：</b>大項目A 歴史の扉\n</div>\n\n<blockquote>\n  <p><b>問い。</b>歴史を学ぶとは、いったい何をすることなのだろうか。</p>\n</blockquote>\n\n<p>年号を覚えることが歴史の学習ではない。<strong>時代区分</strong>や<strong>元号と西暦</strong>で時間を位置づけ、<strong>資料</strong>で事実を確かめ、<strong>変化と継続</strong>・<strong>因果関係</strong>・<strong>比較</strong>という見方で意味を考える。この扉をくぐるところから、歴史総合の学びが始まる。</p>\n\n<h2>1・時間をとらえる</h2>\n\n<p><strong>時代区分</strong>は、後の人が理解のために設けた枠組みである。日本では<strong>元号</strong>が使われ、世界では<strong>西暦</strong>が共通の物差しとなる。<strong>世紀</strong>は100年をひとまとまりとし、20世紀は1901年から2000年までを指す。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"元号と西暦の性格の比較\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">二つの物差し</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">元号</text>\n  <text x=\"87\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">改元ごとに区切る</text>\n  <text x=\"87\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">国内の数え方</text>\n  <text x=\"87\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">時代の空気を伝える</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"90\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">西暦</text>\n  <text x=\"253\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">連続して数える</text>\n  <text x=\"253\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">世界共通</text>\n  <text x=\"253\" y=\"110\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">通史と国際比較に向く</text>\n</svg>\n<figcaption>目的に応じて使い分けると、見えるものが変わる。</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>用語・時代区分</strong><br>\n  古代・中世・近世・近代といった区切りは、<b>後の人が理解のために設けた枠組み</b>である。当時の人が「今は中世だ」と思って暮らしていたわけではない。\n</div>\n\n<h2>2・資料から確かめる</h2>\n\n<p>歴史は<strong>資料</strong>をもとに組み立てられる。文書や手紙だけでなく、<strong>遺跡・遺物・絵画・建造物</strong>も資料である。文字を残さなかった人々の暮らしを知るには、こうした<strong>文字によらない資料</strong>が欠かせない。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 122\" role=\"img\" aria-label=\"文字資料と文字によらない資料、そして現代の資料の三つの種類\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">歴史を知る手がかり</text>\n  <rect x=\"6\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">文字資料</text>\n  <text x=\"58\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">文書・手紙・碑文</text>\n  <text x=\"58\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">書いた人の立場</text>\n  <rect x=\"118\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">モノの資料</text>\n  <text x=\"170\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">遺跡・遺物・建造物</text>\n  <text x=\"170\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">暮らしが見える</text>\n  <rect x=\"230\" y=\"30\" width=\"104\" height=\"80\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"56\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">身近な資料</text>\n  <text x=\"282\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">食べ物・地名</text>\n  <text x=\"282\" y=\"93\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">年中行事の由来</text>\n</svg>\n<figcaption>文字だけを見ていては、歴史の一部しか見えない。</figcaption>\n</figure>\n\n<h2>3・三つの見方で問う</h2>\n\n<p><strong>変化と継続</strong>は何が変わり何が続いたかを、<strong>因果関係</strong>はなぜそうなったかを、<strong>比較</strong>は他と並べて何が特徴かを問う。そして「いつ・何が」から<strong>「なぜ・どのように」</strong>へと問いを広げていくとき、探究が始まる。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 120\" role=\"img\" aria-label=\"資料から事実を確かめ三つの見方で問いを立てるという学びの手順\">\n  <defs>\n    <marker id=\"ar-rtb1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"8\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"54\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">時間に置く</text>\n  <text x=\"54\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">時代区分・暦</text>\n  <path d=\"M100,68 L118,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-rtb1)\"/>\n  <rect x=\"122\" y=\"42\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">資料で確かめる</text>\n  <text x=\"170\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">文字・モノ・証言</text>\n  <path d=\"M218,68 L236,68\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-rtb1)\"/>\n  <rect x=\"240\" y=\"42\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"286\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">見方で問う</text>\n  <text x=\"286\" y=\"80\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">変化・因果・比較</text>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">暗記ではなく、手順である</text>\n</svg>\n<figcaption>この三段の手順が、これから学ぶ歴史全体の土台になる。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>時間のとらえ方</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>時代区分</td><td>後の人が設けた理解のための区切り</td></tr>\n  <tr><td>元号</td><td>改元ごとに区切る国内の数え方</td></tr>\n  <tr><td>西暦</td><td>連続して数える世界共通の数え方</td></tr>\n  <tr><td>世紀</td><td>100年の単位（20世紀＝1901〜2000年）</td></tr>\n</table>\n\n<h3>三つの見方</h3>\n\n<table>\n  <tr><th>見方</th><th>問い</th></tr>\n  <tr><td>変化と継続</td><td>何が変わり、何が変わらなかったか</td></tr>\n  <tr><td>因果関係</td><td>なぜそれが起きたのか</td></tr>\n  <tr><td>比較</td><td>他と並べると何が特徴か</td></tr>\n</table>\n\n<h3>問いの深め方</h3>\n\n<table>\n  <tr><th>段階</th><th>問い</th></tr>\n  <tr><td>出発点</td><td>いつ・どこで・何が</td></tr>\n  <tr><td>探究へ</td><td>なぜ・どのように</td></tr>\n  <tr><td>広げる</td><td>他の地域や時代と比べると</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  歴史は<b>すでに確定した事実の集まりではない</b>。発掘や文書の公開で分かることは増え、時代ごとに何を重要と見るかも変わる。歴史は完成した知識ではなく、<b>更新され続ける営み</b>である。\n</div>\n\n<blockquote>\n  <p>扉の向こうには、日本と世界の近現代が広がっている。年号の列としてではなく、問いの連なりとして歩いていこう。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "歴史総合 ― 歴史の扉",
+  "cards": [
+    {
+      "recto": "長い過去を理解しやすくするために、大きな時期に区切って考える方法を何というか。",
+      "verso": "時代区分",
+      "explanation": "古代・中世・近世・近代といった区切りは、後の人が理解のために設けた枠組みである。当時の人が「今は中世だ」と思って生きていたわけではない。",
+      "tags": [
+        "歴史の扉",
+        "方法"
+      ],
+      "distractors": {
+        "easy": [
+          "地域区分",
+          "身分制度",
+          "行政区画"
+        ],
+        "medium": [
+          "年表",
+          "編年体",
+          "紀伝体"
+        ],
+        "hard": [
+          "世紀区分のみ",
+          "王朝交代",
+          "元号の改元"
+        ]
+      }
+    },
+    {
+      "recto": "日本で用いられてきた、天皇の代や慶事などを機に定められる年の数え方を何というか。",
+      "verso": "元号",
+      "explanation": "元号は東アジアで用いられてきた数え方で、現在も日本で使われている。改元があると年の数え方が切り替わるため、通史を追うには西暦との換算が必要になる。",
+      "tags": [
+        "歴史の扉",
+        "方法"
+      ],
+      "distractors": {
+        "easy": [
+          "曜日",
+          "干支のみ",
+          "四季"
+        ],
+        "medium": [
+          "西暦",
+          "世紀",
+          "紀元前"
+        ],
+        "hard": [
+          "皇紀",
+          "太陰暦",
+          "節気"
+        ]
+      }
+    },
+    {
+      "recto": "20世紀とは、具体的に何年から何年までを指すか。",
+      "verso": "1901年から2000年まで",
+      "explanation": "1世紀が1年から100年までであるため、20世紀は1901年に始まり2000年に終わる。1900年は19世紀である点に注意したい。",
+      "tags": [
+        "歴史の扉",
+        "方法"
+      ],
+      "distractors": {
+        "easy": [
+          "1900年から1999年まで",
+          "1000年から2000年まで",
+          "1950年から2050年まで"
+        ],
+        "medium": [
+          "1901年から1999年まで",
+          "1900年から2000年まで",
+          "1899年から1999年まで"
+        ],
+        "hard": [
+          "1902年から2001年まで",
+          "1801年から1900年まで",
+          "2001年から2100年まで"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】元号と西暦は、それぞれどのような性格の数え方か。",
+      "verso": "元号は改元ごとに区切られる国内の数え方、西暦は連続して数える世界共通の数え方である",
+      "explanation": "元号は時代の空気を伝える一方、長い流れを追いにくい。西暦は通史や国際比較に向く。目的に応じて使い分けるとよい。",
+      "tags": [
+        "comparaison",
+        "歴史の扉"
+      ],
+      "distractors": {
+        "easy": [
+          "どちらも同じ数え方である",
+          "どちらも世界共通である",
+          "元号が世界共通、西暦が日本独自"
+        ],
+        "medium": [
+          "どちらも日本だけの数え方",
+          "元号は連続、西暦は区切られる",
+          "どちらも改元で切り替わる"
+        ],
+        "hard": [
+          "元号は太陰暦、西暦は太陽暦のこと",
+          "西暦は日本では使われない",
+          "元号は世紀と同じ長さである"
+        ]
+      }
+    },
+    {
+      "recto": "過去のできごとを知る手がかりとなるもの全般を何というか。",
+      "verso": "資料（史料）",
+      "explanation": "文書だけでなく、遺跡や道具、絵画、建造物、写真、証言も資料である。歴史は資料をもとに組み立てられる。",
+      "tags": [
+        "歴史の扉",
+        "資料"
+      ],
+      "distractors": {
+        "easy": [
+          "小説",
+          "うわさ",
+          "感想"
+        ],
+        "medium": [
+          "教科書のみ",
+          "年表",
+          "地図帳"
+        ],
+        "hard": [
+          "論文のみ",
+          "統計表のみ",
+          "口伝のみ"
+        ]
+      }
+    },
+    {
+      "recto": "文字で書かれていない資料の例として適切なものはどれか。",
+      "verso": "遺跡・遺物・絵画・建造物など",
+      "explanation": "文字のない時代や、文字を残さなかった人々の暮らしを知るには、こうした資料が欠かせない。文字資料だけでは歴史の一部しか見えない。",
+      "tags": [
+        "歴史の扉",
+        "資料"
+      ],
+      "distractors": {
+        "easy": [
+          "法律の条文",
+          "手紙",
+          "日記"
+        ],
+        "medium": [
+          "新聞記事",
+          "公文書",
+          "契約書"
+        ],
+        "hard": [
+          "碑文",
+          "木簡",
+          "帳簿"
+        ]
+      }
+    },
+    {
+      "recto": "以前と比べて何が変わり、何が変わらなかったかを問う歴史の見方を何というか。",
+      "verso": "変化と継続",
+      "explanation": "歴史というと変化ばかりに目が向くが、変わらずに続いたものを見ることも同じくらい大切である。両方を見ると時代の性格がつかめる。",
+      "tags": [
+        "歴史の扉",
+        "見方"
+      ],
+      "distractors": {
+        "easy": [
+          "暗記と復習",
+          "原因と結果",
+          "長所と短所"
+        ],
+        "medium": [
+          "因果関係",
+          "比較",
+          "時代区分"
+        ],
+        "hard": [
+          "実証と解釈",
+          "通史と個別史",
+          "事実と意見"
+        ]
+      }
+    },
+    {
+      "recto": "「なぜそれが起きたのか」を複数の要因から考える歴史の見方を何というか。",
+      "verso": "因果関係",
+      "explanation": "できごとの原因はふつう一つではない。政治・経済・思想・自然環境など複数の要因が重なって結果が生じたと考えるのが歴史の見方である。",
+      "tags": [
+        "歴史の扉",
+        "見方"
+      ],
+      "distractors": {
+        "easy": [
+          "感想",
+          "空想",
+          "予言"
+        ],
+        "medium": [
+          "変化と継続",
+          "比較",
+          "分類"
+        ],
+        "hard": [
+          "時代区分",
+          "年代測定",
+          "史料批判"
+        ]
+      }
+    },
+    {
+      "recto": "二つの地域や時代を並べて共通点と違いを考える歴史の見方を何というか。",
+      "verso": "比較",
+      "explanation": "同じ時期の日本と世界を並べたり、二つの改革を見比べたりすることで、それぞれの特徴がはっきりする。一つだけを見ていては気づけない。",
+      "tags": [
+        "歴史の扉",
+        "見方"
+      ],
+      "distractors": {
+        "easy": [
+          "暗記",
+          "要約",
+          "翻訳"
+        ],
+        "medium": [
+          "因果関係",
+          "変化と継続",
+          "時代区分"
+        ],
+        "hard": [
+          "編年",
+          "実証",
+          "類推のみ"
+        ]
+      }
+    },
+    {
+      "recto": "身の回りのものから歴史を考える例として適切なものはどれか。",
+      "verso": "食べ物や地名、年中行事の由来をたどること",
+      "explanation": "カレーや砂糖がいつどこから来たのか、町の名前に何が刻まれているのかを調べると、世界の動きと自分の暮らしがつながって見えてくる。",
+      "tags": [
+        "歴史の扉",
+        "方法"
+      ],
+      "distractors": {
+        "easy": [
+          "年号を暗記すること",
+          "教科書を読むだけ",
+          "テレビを見ること"
+        ],
+        "medium": [
+          "国会の議事録を読むこと",
+          "外国の統計を集めること",
+          "有名人の伝記を読むこと"
+        ],
+        "hard": [
+          "条約の原文を読むこと",
+          "考古学の発掘に参加すること",
+          "研究論文を検索すること"
+        ]
+      }
+    },
+    {
+      "recto": "日本の歴史を世界の歴史とあわせて学ぶことの意義として適切なものはどれか。",
+      "verso": "日本のできごとが世界の動きとどうつながっていたかが見えること",
+      "explanation": "開国も戦争も高度経済成長も、世界の情勢と切り離しては理解できない。日本史と世界史を往復することで、どちらの理解も深まる。",
+      "tags": [
+        "歴史の扉",
+        "意義"
+      ],
+      "distractors": {
+        "easy": [
+          "覚えることが増えること",
+          "教科書が厚くなること",
+          "特に意義はない"
+        ],
+        "medium": [
+          "外国語が上達すること",
+          "日本の優秀さが分かること",
+          "年号が覚えやすくなること"
+        ],
+        "hard": [
+          "世界史だけを学べばよいと分かること",
+          "日本史が不要になること",
+          "解釈が一つに定まること"
+        ]
+      }
+    },
+    {
+      "recto": "歴史を調べるときの問いを深めるには、どのように問いを変えていけばよいか。",
+      "verso": "「いつ・何が」から「なぜ・どのように」へと問いを広げていく",
+      "explanation": "年号や名称の確認は出発点にすぎない。なぜそうなったのか、どのように進んだのか、他と比べてどうかと問うことで探究が始まる。",
+      "tags": [
+        "歴史の扉",
+        "方法"
+      ],
+      "distractors": {
+        "easy": [
+          "問いを立てずに暗記する",
+          "答えを先に決める",
+          "問いを一つに絞らない"
+        ],
+        "medium": [
+          "「なぜ」から「いつ」へ戻る",
+          "感想だけを述べる",
+          "年号だけを詳しくする"
+        ],
+        "hard": [
+          "結論から逆算して資料を選ぶ",
+          "難しい用語を増やす",
+          "他人の解釈をそのまま使う"
+        ]
+      }
+    },
+    {
+      "recto": "年表と地図をあわせて使うことの利点は何か。",
+      "verso": "時間の流れと場所の広がりを同時にとらえられること",
+      "explanation": "年表だけでは「どこで」が抜け、地図だけでは「いつ」が抜ける。両方を並べると、同じ時期に各地で何が起きていたかが見えてくる。",
+      "tags": [
+        "歴史の扉",
+        "方法"
+      ],
+      "distractors": {
+        "easy": [
+          "覚える量が減ること",
+          "教科書が短くなること",
+          "試験に出やすいこと"
+        ],
+        "medium": [
+          "因果関係が自動的に分かること",
+          "解釈が不要になること",
+          "資料が要らなくなること"
+        ],
+        "hard": [
+          "年代測定が正確になること",
+          "史料批判が不要になること",
+          "時代区分が決まること"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】歴史とは、すでに確定した変わらない事実の集まりなのか。",
+      "verso": "いいえ。新しい資料の発見や新しい問いによって、理解は書き換えられていく",
+      "explanation": "よくある誤解である。発掘や文書の公開で分かることが増え、また時代ごとに関心が変わるため何を重要と見るかも変わる。歴史は完成した知識ではなく、更新され続ける営みである。",
+      "tags": [
+        "piege",
+        "歴史の扉"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。すべて決まっている",
+          "はい。教科書が正解である",
+          "はい。変わることはない"
+        ],
+        "medium": [
+          "はい。事実は一つだから",
+          "はい。研究は終わっている",
+          "いいえ。だから何でも言える"
+        ],
+        "hard": [
+          "はい。年号は変わらないから",
+          "はい。一次資料があれば確定する",
+          "いいえ。事実そのものが人によって違う"
+        ]
+      }
+    },
+    {
+      "recto": "歴史を学ぶことが、現在を生きるうえで役立つ理由として適切なものはどれか。",
+      "verso": "過去の選択とその結果を知ることで、今の問題を考える手がかりが得られるから",
+      "explanation": "歴史は未来を言い当てはしないが、人がどんな状況で何を選び、どうなったかを教えてくれる。その蓄積が判断の材料になる。",
+      "tags": [
+        "歴史の扉",
+        "意義"
+      ],
+      "distractors": {
+        "easy": [
+          "試験で点が取れるから",
+          "話題が増えるから",
+          "特に役立たない"
+        ],
+        "medium": [
+          "未来を正確に予測できるから",
+          "過去に戻れるから",
+          "同じことが必ず繰り返すから"
+        ],
+        "hard": [
+          "正解が一つに決まるから",
+          "伝統を守れるから",
+          "他国を批判できるから"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、この単元で確かめた「歴史の学び方」はどのように整理できるか。",
+      "verso": "時間のとらえ方と資料を確かめ、変化と継続・因果・比較の見方で問いを立てていくこと",
+      "explanation": "暦と時代区分で時間を位置づけ、資料で事実を確かめ、三つの見方で意味を考える。この手順を身につけることが、これから学ぶ歴史全体の土台となる。",
+      "tags": [
+        "歴史の扉",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "年号を順に暗記すること",
+          "教科書を丸暗記すること",
+          "有名人を覚えること"
+        ],
+        "medium": [
+          "資料を集めるだけのこと",
+          "年表を作るだけのこと",
+          "感想を述べること"
+        ],
+        "hard": [
+          "解釈を避けて事実だけ並べること",
+          "一つの正解を探すこと",
+          "世界史だけを学ぶこと"
+        ]
+      }
+    }
+  ]
+}

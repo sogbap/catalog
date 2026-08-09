@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-sekaishi-tankyuu-sekaishi-manazashi",
+  "title": "世界史へのまなざし ― 環境と日常から",
+  "emoji": "🌏",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "人類の誕生と拡散、農耕・牧畜の開始という自然環境とのかかわりをたどり、身近な食べ物や衣服の来歴から世界の結びつきを問い直す。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>世界史へのまなざし ― 環境と日常から</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>世界史探究<br>\n  <b>単元：</b>大項目A 世界史へのまなざし\n</div>\n\n<blockquote>\n  <p><b>問い。</b>世界の歴史は、遠い国の他人の物語なのだろうか。</p>\n</blockquote>\n\n<p>世界史は王朝の名前から始まるのではない。人類がどのような<strong>自然環境</strong>のもとで生まれ、どこへ広がり、どのようにして<strong>食料を自らつくる</strong>ようになったのか。そして今日の食卓に並ぶ砂糖やジャガイモが、どんな道をたどってここに届いたのか。この二つの入口から、世界史への扉を開く。</p>\n\n<h2>1・自然環境と人類の歩み</h2>\n\n<p>人類を他の霊長類から分けたのは<strong>直立二足歩行</strong>であった。手が自由になったことで道具を作り、運ぶことができるようになる。やがて原人が<strong>火</strong>を使い、寒冷地でも暮らせるようになった。私たちに直接つながる<strong>新人（ホモ・サピエンス）</strong>はアフリカに現れ、およそ10万年前から世界へ広がっていく。</p>\n\n<p>その移動を支えたのが<strong>氷期</strong>である。水が氷となって陸に留まったため海面は100メートル以上低下し、ベーリング海峡も日本列島も陸続きとなった。人類の拡散は、意志の力だけでなく<b>地球環境の変化</b>に支えられていた。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 126\" role=\"img\" aria-label=\"アフリカに現れた新人が氷期の陸橋を通って世界各地へ広がった経路\">\n  <defs>\n    <marker id=\"ar-swm1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">海面の低下が道をつくった</text>\n  <rect x=\"8\" y=\"44\" width=\"88\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"52\" y=\"66\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">アフリカ</text>\n  <text x=\"52\" y=\"84\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">新人の誕生</text>\n  <path d=\"M96,70 L116,70\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-swm1)\"/>\n  <rect x=\"120\" y=\"44\" width=\"92\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"166\" y=\"66\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">ユーラシア</text>\n  <text x=\"166\" y=\"84\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">氷期の陸橋を渡る</text>\n  <path d=\"M212,70 L232,70\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-swm1)\"/>\n  <rect x=\"236\" y=\"44\" width=\"96\" height=\"52\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"284\" y=\"66\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">南北アメリカ</text>\n  <text x=\"284\" y=\"84\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">オセアニアへも</text>\n  <text x=\"170\" y=\"116\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">およそ10万年前から数万年をかけて</text>\n</svg>\n<figcaption>人類の拡散は、地球環境の変化と重なって進んだ。</figcaption>\n</figure>\n\n<h2>2・食料生産の始まり</h2>\n\n<p>およそ1万年前、西アジアで麦の栽培と羊・山羊の飼育が始まった。自然の恵みを「とる」暮らしから、食料を「つくる」暮らしへ。<strong>農耕と牧畜の開始</strong>は、道具の改良にとどまらない生活そのものの転換であった。</p>\n\n<p>収穫を蓄え、翌年の種を守るには一つの場所に留まらねばならない。こうして<strong>定住</strong>が広がり、煮炊きと貯蔵のための<strong>土器</strong>が用いられ、村が生まれた。大河のほとりでは水路を引く<strong>灌漑農業</strong>が始まる。治水と灌漑には多くの人手と指揮する者が必要であり、その共同作業が国家の芽となった。</p>\n\n<div class=\"callout\">\n  <strong>用語・獲得経済と生産経済</strong><br>\n  狩猟・採集のように自然にあるものを得る暮らしを<b>獲得経済</b>、農耕・牧畜のように食料を生み出す暮らしを<b>生産経済</b>という。新石器時代の本質はこの転換にある。\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 150\" role=\"img\" aria-label=\"旧石器時代と新石器時代の道具と暮らし方の比較\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">とる暮らしから、つくる暮らしへ</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">旧石器時代</text>\n  <text x=\"87\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">打製石器</text>\n  <text x=\"87\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">狩猟・採集</text>\n  <text x=\"87\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">移動しながら暮らす</text>\n  <text x=\"87\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">獲得経済</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">新石器時代</text>\n  <text x=\"253\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">磨製石器・土器</text>\n  <text x=\"253\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">農耕・牧畜</text>\n  <text x=\"253\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">定住して村をつくる</text>\n  <text x=\"253\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">生産経済</text>\n</svg>\n<figcaption>石器の作り方の違いより、暮らし方の転換が本質である。</figcaption>\n</figure>\n\n<p>生産に余りが出ると、食料をつくらない人々が現れる。神官・戦士・職人・商人といった<strong>分業</strong>が生まれ、<strong>身分と貧富の差</strong>が生じ、やがて都市と国家が姿を現す。文明の成立は、この余剰の上に築かれている。</p>\n\n<h2>3・日常から世界史へ</h2>\n\n<p>世界の主食が地域ごとに異なるのは、それぞれの<strong>気候と土壌</strong>に適した作物が選ばれてきたからである。降水の多い地域では米、乾燥地では麦、高地や新大陸ではとうもろこしやいもが主食となった。</p>\n\n<p>身近な品の来歴をたどると、世界の結びつきが立ち上がってくる。<strong>サトウキビ</strong>は南アジアから新大陸の大農園へ渡り、甘さへの需要が奴隷貿易を支えた。<strong>ジャガイモ</strong>はアンデスからヨーロッパへ渡り人口を支えたが、依存が進んだ地域では凶作が大飢饉を招いた。<strong>綿花</strong>はインドの綿布への憧れが機械の発明を促し、その原料はアメリカ南部の奴隷労働に支えられていた。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 128\" role=\"img\" aria-label=\"サトウキビとジャガイモと綿花の三つの作物が結んだ世界のつながり\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">身近な品が結んだ世界</text>\n  <rect x=\"6\" y=\"30\" width=\"104\" height=\"84\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"54\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">サトウキビ</text>\n  <text x=\"58\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">南アジア → 新大陸</text>\n  <text x=\"58\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">大農園と奴隷貿易</text>\n  <rect x=\"118\" y=\"30\" width=\"104\" height=\"84\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"54\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">ジャガイモ</text>\n  <text x=\"170\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">アンデス → 欧州</text>\n  <text x=\"170\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">人口を支え、飢饉も</text>\n  <rect x=\"230\" y=\"30\" width=\"104\" height=\"84\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"54\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">綿花</text>\n  <text x=\"282\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">インド → 世界へ</text>\n  <text x=\"282\" y=\"92\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">機械と植民地支配</text>\n</svg>\n<figcaption>台所と衣服から、世界史への問いを立てることができる。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>人類の歩み</h3>\n\n<table>\n  <tr><th>段階</th><th>できごと</th></tr>\n  <tr><td>直立二足歩行</td><td>手が自由になり道具を作る</td></tr>\n  <tr><td>火の使用</td><td>食生活が変わり寒冷地へも進出</td></tr>\n  <tr><td>新人の登場</td><td>およそ20万年前のアフリカ</td></tr>\n  <tr><td>出アフリカ</td><td>氷期の陸橋も利用して世界へ拡散</td></tr>\n  <tr><td>農耕と牧畜</td><td>およそ1万年前の西アジアで開始</td></tr>\n</table>\n\n<h3>用語の整理</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>獲得経済</td><td>狩猟・採集で自然の恵みを得る暮らし</td></tr>\n  <tr><td>生産経済</td><td>農耕・牧畜で食料をつくる暮らし</td></tr>\n  <tr><td>灌漑農業</td><td>水路を引いて耕地に水を導く農業</td></tr>\n  <tr><td>余剰生産</td><td>分業・身分の差・国家を生んだ前提</td></tr>\n</table>\n\n<h3>日常から世界史へ</h3>\n\n<table>\n  <tr><th>品物</th><th>たどり着く歴史</th></tr>\n  <tr><td>サトウキビ</td><td>大農園と大西洋の奴隷貿易</td></tr>\n  <tr><td>ジャガイモ</td><td>新大陸から欧州へ、人口と飢饉</td></tr>\n  <tr><td>綿花</td><td>産業革命と植民地支配</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  農耕が始まって暮らしが<b>ただちに楽になったわけではない</b>。労働の時間はむしろ増え、栄養は偏り、家畜を通じた伝染病や身分の差も生まれた。歴史を一直線の進歩として読まないことが、探究の第一歩である。\n</div>\n\n<blockquote>\n  <p>世界史は遠い他人の物語ではない。今朝の食卓と着ている服が、そのまま問いの入口になっている。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "世界史探究 ― 世界史へのまなざし",
+  "cards": [
+    {
+      "recto": "人類が他の霊長類と分かれる、最も基本的な身体的特徴は何か。",
+      "verso": "直立二足歩行",
+      "explanation": "直立二足歩行によって手が自由になり、道具を作り運ぶことができるようになった。脳の大型化はそのあとに進んだ点に注意したい。",
+      "tags": [
+        "世界史へのまなざし",
+        "人類の誕生"
+      ],
+      "distractors": {
+        "easy": [
+          "尾があること",
+          "羽をもつこと",
+          "冬眠すること"
+        ],
+        "medium": [
+          "火を使うこと",
+          "言葉を話すこと",
+          "集団で暮らすこと"
+        ],
+        "hard": [
+          "大きな脳をもつこと",
+          "毛が少ないこと",
+          "雑食であること"
+        ]
+      }
+    },
+    {
+      "recto": "現在の私たちに直接つながる人類を何というか。",
+      "verso": "新人（ホモ・サピエンス）",
+      "explanation": "およそ20万年前のアフリカに現れ、洞穴絵画や装身具など高度な文化を残した。原人や旧人とは別の系統として世界に広がった。",
+      "tags": [
+        "世界史へのまなざし",
+        "人類の誕生"
+      ],
+      "distractors": {
+        "easy": [
+          "恐竜",
+          "類人猿",
+          "原生動物"
+        ],
+        "medium": [
+          "猿人",
+          "原人",
+          "旧人"
+        ],
+        "hard": [
+          "ネアンデルタール人",
+          "北京原人",
+          "ジャワ原人"
+        ]
+      }
+    },
+    {
+      "recto": "新人が誕生の地をあとにして世界各地へ広がっていったことを何というか。",
+      "verso": "出アフリカ（アフリカからの拡散）",
+      "explanation": "およそ10万年前から始まり、海面の低下でできた陸橋も利用しながら、ユーラシア・オセアニア・南北アメリカへと達した。",
+      "tags": [
+        "世界史へのまなざし",
+        "移動"
+      ],
+      "distractors": {
+        "easy": [
+          "大航海時代",
+          "産業革命",
+          "十字軍"
+        ],
+        "medium": [
+          "民族大移動",
+          "植民地化",
+          "シルクロード交易"
+        ],
+        "hard": [
+          "出エジプト",
+          "ゲルマン人の移動",
+          "三角貿易"
+        ]
+      }
+    },
+    {
+      "recto": "人類の大陸間の移動を可能にした、海面が今より低かった寒冷な時期を何というか。",
+      "verso": "氷期（氷河時代）",
+      "explanation": "水が氷となって陸に留まったため海面が100メートル以上低下し、ベーリング海峡や日本列島も陸続きとなった。人も動物も歩いて渡ることができた。",
+      "tags": [
+        "世界史へのまなざし",
+        "自然環境"
+      ],
+      "distractors": {
+        "easy": [
+          "梅雨",
+          "乾季",
+          "熱帯の季節"
+        ],
+        "medium": [
+          "間氷期",
+          "温暖期",
+          "地殻変動の時期"
+        ],
+        "hard": [
+          "完新世",
+          "縄文海進",
+          "小氷期"
+        ]
+      }
+    },
+    {
+      "recto": "原人の段階から用いられ、食生活と暮らせる場所を大きく広げた技術は何か。",
+      "verso": "火の使用",
+      "explanation": "加熱によって食べられるものが増え、寒冷地でも生活でき、夜の時間も使えるようになった。獣を遠ざける役割もあった。",
+      "tags": [
+        "世界史へのまなざし",
+        "技術"
+      ],
+      "distractors": {
+        "easy": [
+          "電気の利用",
+          "車輪の発明",
+          "文字の発明"
+        ],
+        "medium": [
+          "土器の製作",
+          "弓矢の使用",
+          "衣服の縫製"
+        ],
+        "hard": [
+          "磨製石器の製作",
+          "金属器の使用",
+          "家畜の飼育"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】旧石器時代と新石器時代は、道具と暮らし方の点でどう違うか。",
+      "verso": "旧石器時代は打製石器で狩猟・採集、新石器時代は磨製石器で農耕・牧畜を行った",
+      "explanation": "石器の作り方の違いだけが本質ではない。自然の恵みを「とる」暮らしから、食料を「つくる」暮らしへの転換こそが決定的であった。",
+      "tags": [
+        "comparaison",
+        "世界史へのまなざし"
+      ],
+      "distractors": {
+        "easy": [
+          "どちらも金属器を使っていた",
+          "どちらも都市に住んでいた",
+          "両者に違いはない"
+        ],
+        "medium": [
+          "旧石器時代に農耕、新石器時代に狩猟を行った",
+          "どちらも磨製石器を用いた",
+          "旧石器時代のほうが新しい"
+        ],
+        "hard": [
+          "旧石器時代は土器を用い、新石器時代は用いなかった",
+          "違いは石材の種類だけである",
+          "新石器時代はすでに文字をもっていた"
+        ]
+      }
+    },
+    {
+      "recto": "およそ1万年前の西アジアなどで始まった、食料を自ら生み出す暮らしへの転換を何というか。",
+      "verso": "農耕と牧畜の開始（食料生産の始まり）",
+      "explanation": "麦の栽培と羊・山羊の飼育が西アジアで始まった。自然のものを得るだけの獲得経済から、食料をつくる生産経済への転換である。",
+      "tags": [
+        "世界史へのまなざし",
+        "食料生産"
+      ],
+      "distractors": {
+        "easy": [
+          "産業革命",
+          "情報革命",
+          "交通革命"
+        ],
+        "medium": [
+          "都市の成立",
+          "文字の発明",
+          "金属器の使用開始"
+        ],
+        "hard": [
+          "灌漑農業の成立",
+          "三圃制の普及",
+          "遠隔地交易の開始"
+        ]
+      }
+    },
+    {
+      "recto": "農耕の開始にともなって、人々の住まい方はどう変わったか。",
+      "verso": "移動しながらの生活から定住へ変わり、土器による煮炊きと貯蔵が広まった",
+      "explanation": "収穫を蓄え、翌年の種を守るには一つの場所に留まる必要があった。こうして村（集落）が生まれ、のちの都市の土台となった。",
+      "tags": [
+        "世界史へのまなざし",
+        "食料生産"
+      ],
+      "distractors": {
+        "easy": [
+          "移動する範囲がさらに広がった",
+          "住まいをもたなくなった",
+          "とくに変化はなかった"
+        ],
+        "medium": [
+          "ただちに都市へ移り住むようになった",
+          "洞穴で暮らすようになった",
+          "家畜とともに移動を続けた"
+        ],
+        "hard": [
+          "季節ごとに移動する遊牧が各地に広がった",
+          "住居が地下に作られるようになった",
+          "集落が解体して人々が分散した"
+        ]
+      }
+    },
+    {
+      "recto": "大河のほとりで水路を引き、耕地に水を導いて行われた農業を何というか。",
+      "verso": "灌漑農業",
+      "explanation": "治水と灌漑には多くの人手と指揮する者が必要であった。この共同作業の必要が、余剰の生産と国家の成立につながっていく。",
+      "tags": [
+        "世界史へのまなざし",
+        "食料生産"
+      ],
+      "distractors": {
+        "easy": [
+          "焼畑農業",
+          "狩猟",
+          "採集"
+        ],
+        "medium": [
+          "天水農業",
+          "二毛作",
+          "輪作"
+        ],
+        "hard": [
+          "棚田による稲作",
+          "遊牧を伴う農業",
+          "干拓地の農業"
+        ]
+      }
+    },
+    {
+      "recto": "農業の生産に余りが出るようになったことで、社会にはどのような変化が生じたか。",
+      "verso": "食料生産に携わらない人々が現れ、身分や貧富の差が生まれた",
+      "explanation": "神官・戦士・職人・商人といった専業の人々が生まれ、やがて都市と国家が成立した。文明が生まれる前提はここにある。",
+      "tags": [
+        "世界史へのまなざし",
+        "社会"
+      ],
+      "distractors": {
+        "easy": [
+          "全員が平等になった",
+          "人口が減った",
+          "移動する生活に戻った"
+        ],
+        "medium": [
+          "全員が農業に従事するようになった",
+          "交易が行われなくなった",
+          "争いが起こらなくなった"
+        ],
+        "hard": [
+          "身分の差は生じたが貧富の差は生じなかった",
+          "分業は都市が成立したあとに始まった",
+          "余りはすべて交易に用いられた"
+        ]
+      }
+    },
+    {
+      "recto": "世界の主食が地域によって異なるのは、おもにどのような理由によるか。",
+      "verso": "それぞれの土地の気候や土壌に適した作物が選ばれてきたから",
+      "explanation": "降水の多い地域では米、乾燥した地域では麦、高地や新大陸ではとうもろこしやいもが主食となった。日常の食卓は自然環境の歴史でもある。",
+      "tags": [
+        "世界史へのまなざし",
+        "日常生活"
+      ],
+      "distractors": {
+        "easy": [
+          "好みが違うだけだから",
+          "国が主食を決めたから",
+          "偶然そうなっただけだから"
+        ],
+        "medium": [
+          "宗教がすべてを定めたから",
+          "交易路が届かなかったから",
+          "人口の多さが違うから"
+        ],
+        "hard": [
+          "政府の食料政策によるから",
+          "主食の違いは近代以降に生じたから",
+          "農業技術の優劣によるから"
+        ]
+      }
+    },
+    {
+      "recto": "南アジア原産で、のちに新大陸のプランテーションで大量に栽培され、奴隷貿易を支えた作物は何か。",
+      "verso": "サトウキビ（砂糖）",
+      "explanation": "甘さへの需要が大農園と奴隷貿易を生み、大西洋を結ぶ交易網の中心となった。身近な調味料の来歴が、世界の結びつきを映している。",
+      "tags": [
+        "世界史へのまなざし",
+        "日常生活"
+      ],
+      "distractors": {
+        "easy": [
+          "米",
+          "昆布",
+          "塩"
+        ],
+        "medium": [
+          "小麦",
+          "大豆",
+          "そば"
+        ],
+        "hard": [
+          "コーヒー",
+          "タバコ",
+          "カカオ"
+        ]
+      }
+    },
+    {
+      "recto": "アンデス原産で、ヨーロッパに伝わって人口の増加を支えた作物は何か。",
+      "verso": "ジャガイモ",
+      "explanation": "やせた土地や寒冷地でも育ち、主食を補った。一方で依存が進んだ地域では、疫病による凶作が大きな飢饉を招いた。",
+      "tags": [
+        "世界史へのまなざし",
+        "日常生活"
+      ],
+      "distractors": {
+        "easy": [
+          "稲",
+          "麦",
+          "茶"
+        ],
+        "medium": [
+          "とうもろこし",
+          "トマト",
+          "唐辛子"
+        ],
+        "hard": [
+          "サツマイモ",
+          "キャッサバ",
+          "カボチャ"
+        ]
+      }
+    },
+    {
+      "recto": "インド原産で、産業革命期に工業と植民地支配を結びつけた繊維の原料は何か。",
+      "verso": "綿花（木綿）",
+      "explanation": "インドの綿布がヨーロッパで人気を集め、その国産化が紡績機械の発明を促した。原料はアメリカ南部の奴隷労働に支えられていた。",
+      "tags": [
+        "世界史へのまなざし",
+        "日常生活"
+      ],
+      "distractors": {
+        "easy": [
+          "石炭",
+          "鉄鉱石",
+          "ゴム"
+        ],
+        "medium": [
+          "絹",
+          "羊毛",
+          "麻"
+        ],
+        "hard": [
+          "藍",
+          "黄麻（ジュート）",
+          "亜麻"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】農耕の始まりは、人々の暮らしをただちに豊かで楽なものにしたのか。",
+      "verso": "いいえ。労働の時間は増え、栄養は偏り、伝染病や身分の差も生まれた",
+      "explanation": "よくある誤解である。農耕は人口を増やし文明を生んだ一方で、飢饉・感染症・貧富の差という新しい問題も生んだ。歴史を一直線の進歩として見ないことが大切である。",
+      "tags": [
+        "piege",
+        "世界史へのまなざし"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。ただちに全員が豊かになった",
+          "はい。働かなくてよくなった",
+          "はい。病気がなくなった"
+        ],
+        "medium": [
+          "はい。狩猟より確実に食料が得られたから",
+          "はい。争いが起こらなくなったから",
+          "いいえ。農耕は失敗して放棄されたから"
+        ],
+        "hard": [
+          "はい。人口が増えたことが豊かさの証拠だから",
+          "いいえ。農耕は狩猟より生産力が低かったから",
+          "はい。定住によって病気が減ったから"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、この単元で確かめた世界史へのまなざしはどのように整理できるか。",
+      "verso": "自然環境とのかかわりから人類の歩みをとらえ、日常の品々の来歴から世界の結びつきを見ること",
+      "explanation": "気候や大河といった環境が人類の移動と生産を方向づけ、その積み重ねが今の食卓や衣服につながっている。この二つの視点が世界史探究の出発点となる。",
+      "tags": [
+        "世界史へのまなざし",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "国名と年号を順に覚えること",
+          "西洋の歴史だけを学ぶこと",
+          "地図を書き写すこと"
+        ],
+        "medium": [
+          "各地の歴史を別々に覚えること",
+          "戦争の経過だけを追うこと",
+          "王朝の交代を並べること"
+        ],
+        "hard": [
+          "環境の影響だけで歴史を説明すること",
+          "日常生活の話題だけに限って学ぶこと",
+          "日本の歴史と切り離して学ぶこと"
+        ]
+      }
+    }
+  ]
+}

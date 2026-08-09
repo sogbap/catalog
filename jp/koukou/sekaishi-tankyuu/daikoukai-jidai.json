@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-sekaishi-tankyuu-daikoukai-jidai",
+  "title": "大航海時代と世界の一体化",
+  "emoji": "🧭",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "香辛料を求めた航海が大西洋と太平洋を結び、銀と作物と疫病の交換を通じて地球規模の一つの網が生まれるまでをたどる。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>大航海時代と世界の一体化</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>世界史探究<br>\n  <b>単元：</b>大項目D 諸地域の結合・変容\n</div>\n\n<blockquote>\n  <p><b>問い。</b>世界が「一つ」になったのは、いつ、何によってなのだろうか。</p>\n</blockquote>\n\n<p>それまでも遠隔地の交易はあった。しかし大西洋と太平洋が航路で結ばれて初めて、世界は一続きになる。以後、一つの地域の出来事が遠い土地に波及するようになった。この時代を語るには、<b>つながりの拡大と、征服・疫病・強制労働という暴力を、同じ出来事の両面として</b>見る必要がある。</p>\n\n<h2>1・香辛料が動かした航海</h2>\n\n<p>動機は明快であった。<strong>香辛料</strong>は陸路では複数の商人を経るため値が何倍にもふくらむ。産地に近づけば莫大な利益が得られる——この価格差が、危険な航海に人を向かわせた。</p>\n\n<p><strong>バスコ・ダ・ガマ</strong>はアフリカ南端を回ってインドに到達した。ただしインド洋の航海術はムスリムの水先案内人に学んでいる。<b>ヨーロッパ人は未知の海を独力で切り開いたのではなく、既存の交易網に加わった</b>のである。<strong>コロンブス</strong>は西へ進めばアジアに至ると考えて大西洋を横断し、生涯そこをアジアの一部と信じたまま世を去った。<strong>マゼランの船隊</strong>は世界を一周し、理論として知られていた地球の球体を航跡によって確かめた。生還したのは5隻のうち1隻である。</p>\n\n<h2>2・銀と作物と疫病の交換</h2>\n\n<p>新大陸の銀が大量に流入すると、ヨーロッパでは物価が大きく上昇した。この<strong>価格革命</strong>によって、決まった額の地代を受け取る領主は打撃を受け、商工業者は利益を得る。交易の中心も<strong>地中海沿岸から大西洋沿岸へ</strong>移り、イタリアの諸都市が衰えてポルトガル・スペイン、のちにオランダやイギリスが台頭した。航路の変化が国の盛衰を決めたのである。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 136\" role=\"img\" aria-label=\"新旧の大陸のあいだで作物と家畜と疫病が交換されたコロンブス交換\">\n  <defs>\n    <marker id=\"ar-sdk1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">コロンブス交換</text>\n  <rect x=\"8\" y=\"36\" width=\"96\" height=\"56\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"56\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">新大陸</text>\n  <text x=\"56\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">とうもろこし・いも</text>\n  <path d=\"M106,50 L232,50\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sdk1)\"/>\n  <text x=\"169\" y=\"44\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">作物が東へ</text>\n  <path d=\"M232,72 L106,72\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sdk1)\"/>\n  <text x=\"169\" y=\"86\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">小麦・砂糖・家畜、そして疫病</text>\n  <rect x=\"236\" y=\"36\" width=\"96\" height=\"56\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"284\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">旧大陸</text>\n  <text x=\"284\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">小麦・馬・牛</text>\n  <text x=\"170\" y=\"112\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">交換は対等ではなかった</text>\n  <text x=\"170\" y=\"128\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">先住民の人口を激減させた最大の原因は、免疫のない疫病である</text>\n</svg>\n<figcaption>食卓を豊かにしたものと、社会を壊したものが同じ船で渡った。</figcaption>\n</figure>\n\n<p>この交換は対等ではなかった。とうもろこし・じゃがいも・トマトが旧大陸へ渡って人口を支えた一方、免疫をもたない<strong>天然痘などの疫病</strong>が新大陸の先住民の人口を激減させた。戦闘や酷使も大きな被害を生んだが、減少の規模を決めたのは病である。<b>大陸が長く隔てられていたことの代償</b>が、この形で現れた。生き残った人々は<strong>エンコミエンダ制</strong>のもとで使役され、ポトシなどの銀山で多くが命を落とした。</p>\n\n<div class=\"callout\">\n  <strong>用語・価格革命と商業革命</strong><br>\n  <b>価格革命</b>は銀の流入による物価の上昇、<b>商業革命</b>は交易の中心が地中海から大西洋へ移ったこと。名前が似ているが、前者は<b>貨幣と物価</b>の話、後者は<b>地理と主役</b>の話である。\n</div>\n\n<h2>3・太平洋が結ばれ、世界が一つの環になる</h2>\n\n<p><strong>アカプルコとマニラ</strong>を結ぶ航路によって、メキシコの銀が中国へ流れ、中国の絹や陶磁器が新大陸へ渡った。大西洋に続いて太平洋が交易の場となり、世界が一つの環につながる。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 128\" role=\"img\" aria-label=\"アメリカの銀がヨーロッパと太平洋の両方を経て中国へ流れ世界が一つの環になったこと\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">銀が閉じた環</text>\n  <rect x=\"8\" y=\"38\" width=\"88\" height=\"48\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"52\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">アメリカ</text>\n  <text x=\"52\" y=\"75\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">ポトシの銀</text>\n  <path d=\"M96,50 L124,50\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sdk1)\"/>\n  <text x=\"110\" y=\"42\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"7.5\">大西洋</text>\n  <rect x=\"128\" y=\"38\" width=\"84\" height=\"48\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">ヨーロッパ</text>\n  <text x=\"170\" y=\"75\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">価格革命</text>\n  <path d=\"M212,50 L240,50\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sdk1)\"/>\n  <rect x=\"244\" y=\"38\" width=\"88\" height=\"48\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"288\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">中国</text>\n  <text x=\"288\" y=\"75\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">銀への需要</text>\n  <path d=\"M52,86 L52,102 L288,102 L288,86\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sdk1)\"/>\n  <text x=\"170\" y=\"116\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">太平洋航路（アカプルコ ― マニラ）</text>\n</svg>\n<figcaption>二つの大洋がつながった瞬間、世界は一続きになった。</figcaption>\n</figure>\n\n<p>ただし、この時点でヨーロッパがアジアを圧倒していたわけではない。武装した船で拠点を押さえることはあっても、内陸の大国を征服する力はなく、<b>既存の交易網に加わった一参加者</b>にすぎなかった。力関係が逆転するのは、産業革命を経た19世紀のことである。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 150\" role=\"img\" aria-label=\"大航海以前の中継を介した地域ごとの交易圏と以後の大洋を越えて直接結ばれる交易の比較\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">つながり方が変わった</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">以前</text>\n  <text x=\"87\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">地域ごとの交易圏</text>\n  <text x=\"87\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">中継の商人が介在</text>\n  <text x=\"87\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">港市が富を得る</text>\n  <text x=\"87\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">地中海が中心</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">以後</text>\n  <text x=\"253\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">大洋を越えて直航</text>\n  <text x=\"253\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">中継が短絡される</text>\n  <text x=\"253\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">中継の港市は衰える</text>\n  <text x=\"253\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">大西洋が中心</text>\n</svg>\n<figcaption>直航は、間に立って栄えていた者から富を奪った。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>航海と人物</h3>\n\n<table>\n  <tr><th>人物</th><th>達成</th></tr>\n  <tr><td>バスコ・ダ・ガマ</td><td>アフリカ南端を回りインドへ到達</td></tr>\n  <tr><td>コロンブス</td><td>大西洋を横断しアメリカへ到達</td></tr>\n  <tr><td>マゼランの船隊</td><td>世界一周、地球の球体を航跡で確認</td></tr>\n</table>\n\n<h3>もたらされた変化</h3>\n\n<table>\n  <tr><th>用語</th><th>内容</th></tr>\n  <tr><td>価格革命</td><td>銀の流入による物価の上昇</td></tr>\n  <tr><td>商業革命</td><td>交易の中心が地中海から大西洋へ</td></tr>\n  <tr><td>コロンブス交換</td><td>新旧大陸間の作物・家畜・疫病の交換</td></tr>\n  <tr><td>エンコミエンダ制</td><td>先住民を使役したスペインの制度</td></tr>\n</table>\n\n<h3>世界の一体化</h3>\n\n<table>\n  <tr><th>観点</th><th>内容</th></tr>\n  <tr><td>太平洋航路</td><td>アカプルコとマニラを結び銀が中国へ</td></tr>\n  <tr><td>アジアでの立場</td><td>既存の交易網に加わった一参加者</td></tr>\n  <tr><td>長期の帰結</td><td>蓄積された富がのちの工業化の資本に</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  コロンブスがアメリカ大陸を<b>「発見」したという言い方は適切ではない</b>。数千年前から先住民が暮らしており、「発見」はヨーロッパ側から見た表現にすぎない。近年は「到達」や「遭遇」と言い換えることが多い。<b>言葉の選び方そのものが、誰の視点に立つかを示している</b>。\n</div>\n\n<blockquote>\n  <p>世界が一つになるということは、恵みも災いも同じ速さで届くようになるということでもあった。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "世界史探究 ― 諸地域の結合・変容",
+  "cards": [
+    {
+      "recto": "ヨーロッパ人が新しい航路を求めた最大の経済的な動機は何か。",
+      "verso": "香辛料を産地から直接手に入れること",
+      "explanation": "陸路では複数の商人を経るため値が何倍にもふくらんだ。産地に近づけば莫大な利益が得られるという価格差が、危険な航海に人を向かわせた。",
+      "tags": [
+        "大航海時代",
+        "動機"
+      ],
+      "distractors": {
+        "easy": [
+          "世界地図を完成させること",
+          "観光地を探すこと",
+          "魚を獲ること"
+        ],
+        "medium": [
+          "新しい大陸を発見すること",
+          "奴隷を獲得すること",
+          "金の産地を征服すること"
+        ],
+        "hard": [
+          "茶の産地に到達すること",
+          "絹の生産技術を得ること",
+          "陸の交易路を安全にすること"
+        ]
+      }
+    },
+    {
+      "recto": "アフリカ南端を回ってインドへ到達し、海路によるアジア航路を開いた人物は誰か。",
+      "verso": "バスコ・ダ・ガマ",
+      "explanation": "インド洋の航海術はムスリムの水先案内人に学んだ。ヨーロッパ人は未知の海を独力で切り開いたのではなく、既存の交易網に加わったのである。",
+      "tags": [
+        "大航海時代",
+        "航海"
+      ],
+      "distractors": {
+        "easy": [
+          "鄭和",
+          "マルコ・ポーロ",
+          "イブン・バットゥータ"
+        ],
+        "medium": [
+          "コロンブス",
+          "マゼラン",
+          "カブラル"
+        ],
+        "hard": [
+          "バルトロメウ・ディアス",
+          "エンリケ航海王子",
+          "アメリゴ・ヴェスプッチ"
+        ]
+      }
+    },
+    {
+      "recto": "西へ進めばアジアに至ると考え、大西洋を横断してアメリカに到達した人物は誰か。",
+      "verso": "コロンブス",
+      "explanation": "生涯そこをアジアの一部と信じていた。目的地を誤ったまま到達した土地が、その後の世界の姿を大きく変えることになる。",
+      "tags": [
+        "大航海時代",
+        "航海"
+      ],
+      "distractors": {
+        "easy": [
+          "鄭和",
+          "空海",
+          "マルコ・ポーロ"
+        ],
+        "medium": [
+          "バスコ・ダ・ガマ",
+          "マゼラン",
+          "カボット"
+        ],
+        "hard": [
+          "アメリゴ・ヴェスプッチ",
+          "コルテス",
+          "ピサロ"
+        ]
+      }
+    },
+    {
+      "recto": "初めて世界を一周し、地球が球体であることを航海によって示した船隊を率いたのは誰か。",
+      "verso": "マゼラン（の船隊）",
+      "explanation": "本人は航海の途中で死去し、生還したのは5隻のうち1隻であった。理論として知られていたことが、実際の航跡によって確かめられた出来事である。",
+      "tags": [
+        "大航海時代",
+        "航海"
+      ],
+      "distractors": {
+        "easy": [
+          "コロンブス",
+          "鄭和",
+          "ガリレオ"
+        ],
+        "medium": [
+          "バスコ・ダ・ガマ",
+          "ドレーク",
+          "クック"
+        ],
+        "hard": [
+          "エルカーノのみ",
+          "ヴェスプッチ",
+          "バルボア"
+        ]
+      }
+    },
+    {
+      "recto": "新大陸の銀が大量に流入したことで、16世紀のヨーロッパに起きた現象を何というか。",
+      "verso": "価格革命",
+      "explanation": "貨幣が増えて物価が大きく上昇した。決まった額の地代を受け取る領主は打撃を受け、商工業者は利益を得るなど、社会の力関係が組み替えられた。",
+      "tags": [
+        "大航海時代",
+        "経済"
+      ],
+      "distractors": {
+        "easy": [
+          "産業革命",
+          "情報革命",
+          "農業革命"
+        ],
+        "medium": [
+          "商業革命",
+          "囲い込み",
+          "金融恐慌"
+        ],
+        "hard": [
+          "価格の固定化",
+          "デフレーション",
+          "重商主義の確立"
+        ]
+      }
+    },
+    {
+      "recto": "大航海によって、ヨーロッパの交易の中心はどこからどこへ移ったか。",
+      "verso": "地中海沿岸から大西洋沿岸へ移った",
+      "explanation": "これを商業革命という。イタリアの諸都市が衰え、ポルトガル・スペイン、のちにオランダやイギリスが台頭した。航路の変化が国の盛衰を決めたのである。",
+      "tags": [
+        "大航海時代",
+        "経済"
+      ],
+      "distractors": {
+        "easy": [
+          "北から南へ移った",
+          "陸から山へ移った",
+          "移動しなかった"
+        ],
+        "medium": [
+          "大西洋沿岸から地中海沿岸へ移った",
+          "バルト海から黒海へ移った",
+          "西ヨーロッパから東ヨーロッパへ移った"
+        ],
+        "hard": [
+          "地中海沿岸からバルト海沿岸へ移った",
+          "内陸の都市から地中海へ移った",
+          "大西洋から太平洋沿岸へ移った"
+        ]
+      }
+    },
+    {
+      "recto": "ヨーロッパ人の到達後、アメリカ大陸の先住民の人口が激減した最大の原因は何か。",
+      "verso": "免疫をもたなかった天然痘などの疫病",
+      "explanation": "戦闘や酷使も大きな被害を生んだが、人口の減少の規模を決めたのは病である。大陸が長く隔てられていたことの代償が、この形で現れた。",
+      "tags": [
+        "大航海時代",
+        "アメリカ"
+      ],
+      "distractors": {
+        "easy": [
+          "気候の変化",
+          "火山の噴火",
+          "食料の不足のみ"
+        ],
+        "medium": [
+          "戦闘による死者",
+          "強制労働による死者",
+          "他の大陸への移住"
+        ],
+        "hard": [
+          "飢饉と凶作",
+          "出生率の低下",
+          "内部の争いの激化"
+        ]
+      }
+    },
+    {
+      "recto": "大航海の結果として起きた、新旧の大陸のあいだの作物や家畜の大規模な交換を何というか。",
+      "verso": "コロンブス交換",
+      "explanation": "とうもろこし・じゃがいも・トマト・唐辛子が旧大陸へ、小麦・砂糖・馬・牛が新大陸へ渡った。世界各地の食卓は、この交換の後に作り直されている。",
+      "tags": [
+        "大航海時代",
+        "交流"
+      ],
+      "distractors": {
+        "easy": [
+          "三角貿易",
+          "物々交換",
+          "朝貢貿易"
+        ],
+        "medium": [
+          "商業革命",
+          "価格革命",
+          "南蛮貿易"
+        ],
+        "hard": [
+          "大西洋交易圏の成立",
+          "プランテーションの成立",
+          "ガレオン貿易"
+        ]
+      }
+    },
+    {
+      "recto": "スペインがアメリカ大陸で先住民を労働に従事させた制度を何というか。",
+      "verso": "エンコミエンダ制",
+      "explanation": "キリスト教を教える見返りに労働をさせるという建前であったが、実際は過酷な使役であった。ポトシなどの銀山では多くの人が命を落としている。",
+      "tags": [
+        "大航海時代",
+        "支配"
+      ],
+      "distractors": {
+        "easy": [
+          "幕藩体制",
+          "封建制",
+          "郡県制"
+        ],
+        "medium": [
+          "プランテーション",
+          "農奴制",
+          "アシエンダ制"
+        ],
+        "hard": [
+          "レパルティミエント",
+          "ミタ制",
+          "奴隷制のみ"
+        ]
+      }
+    },
+    {
+      "recto": "アメリカ大陸の銀がアジアへ運ばれた太平洋の航路は、どこを結んでいたか。",
+      "verso": "アカプルコとマニラを結んでいた",
+      "explanation": "この航路を通ってメキシコの銀が中国へ流れ、中国の絹や陶磁器が新大陸へ渡った。太平洋が交易の場となり、世界が一つの環につながった。",
+      "tags": [
+        "大航海時代",
+        "交易"
+      ],
+      "distractors": {
+        "easy": [
+          "ロンドンとパリを結んでいた",
+          "長崎と江戸を結んでいた",
+          "地中海の東西を結んでいた"
+        ],
+        "medium": [
+          "リスボンとゴアを結んでいた",
+          "セビリアとハバナを結んでいた",
+          "広州とマラッカを結んでいた"
+        ],
+        "hard": [
+          "カリャオとマカオを結んでいた",
+          "ベラクルスとセビリアを結んでいた",
+          "長崎とバタヴィアを結んでいた"
+        ]
+      }
+    },
+    {
+      "recto": "16世紀のアジアにおいて、ヨーロッパ人はどのような立場にあったか。",
+      "verso": "既存の交易網に加わった一参加者にすぎず、広い領域を支配したわけではなかった",
+      "explanation": "武装した船で拠点を押さえることはあったが、内陸の大国を征服する力はなかった。ヨーロッパがアジアを圧倒するのは、産業革命を経た19世紀のことである。",
+      "tags": [
+        "大航海時代",
+        "アジア"
+      ],
+      "distractors": {
+        "easy": [
+          "アジア全域を支配していた",
+          "まったく到達しなかった",
+          "交易を禁じられていた"
+        ],
+        "medium": [
+          "各地に植民地を築いて統治した",
+          "中国と対等な同盟を結んだ",
+          "アジアの交易を独占した"
+        ],
+        "hard": [
+          "朝貢の使節としてのみ受け入れられた",
+          "内陸の帝国を軍事的に圧倒した",
+          "交易よりも布教のみを行った"
+        ]
+      }
+    },
+    {
+      "recto": "大航海時代がもたらした、世界史における最も大きな構造的変化は何か。",
+      "verso": "地域ごとに分かれていた交易圏が、地球規模の一つの網につながったこと",
+      "explanation": "それまでも遠隔地の交易はあったが、大西洋と太平洋が結ばれて初めて世界が一続きになった。以後、一地域の出来事が遠い土地に波及するようになる。",
+      "tags": [
+        "大航海時代",
+        "構造"
+      ],
+      "distractors": {
+        "easy": [
+          "ヨーロッパの人口が減ったこと",
+          "航海術が失われたこと",
+          "交易が縮小したこと"
+        ],
+        "medium": [
+          "陸の交易路が完全に消えたこと",
+          "アジアの交易が停止したこと",
+          "各地域がより孤立したこと"
+        ],
+        "hard": [
+          "交易の中心がアジアへ移ったこと",
+          "世界の通貨が統一されたこと",
+          "国家が交易を独占したこと"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】大航海以前と以後で、遠隔地交易のあり方はどう変わったか。",
+      "verso": "以前は地域ごとの交易圏が中継を介してつながっていたが、以後は大洋を越えて直接結ばれるようになった",
+      "explanation": "中継する商人が幾重にも介在していた仕組みが、直航によって短絡された。中継で栄えた港市が衰え、大洋に面した国が台頭したのはこのためである。",
+      "tags": [
+        "comparaison",
+        "大航海時代"
+      ],
+      "distractors": {
+        "easy": [
+          "まったく変わらなかった",
+          "以後は交易が行われなくなった",
+          "以前のほうが直接結ばれていた"
+        ],
+        "medium": [
+          "以前は大洋を越え、以後は陸路が中心となった",
+          "以後も中継の商人が不可欠であり続けた",
+          "どちらも国家が独占していた"
+        ],
+        "hard": [
+          "以後は交易品の種類が減った",
+          "以前から大西洋の定期航路が存在した",
+          "変化は19世紀まで起こらなかった"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】コロンブスはアメリカ大陸を「発見」したと言ってよいのか。",
+      "verso": "いいえ。数千年前から先住民が暮らしており、「発見」はヨーロッパ側から見た言い方にすぎない",
+      "explanation": "よくある誤解である。近年は「到達」や「遭遇」と言い換えることが多い。言葉の選び方そのものが誰の視点に立つかを示している点に、歴史を学ぶ者は敏感でありたい。",
+      "tags": [
+        "piege",
+        "大航海時代"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。誰も住んでいなかったから",
+          "はい。最初に着いたから",
+          "はい。地図になかったから"
+        ],
+        "medium": [
+          "はい。文字をもつ社会がなかったから",
+          "はい。ヨーロッパに知られていなかったから",
+          "いいえ。実際には到達していないから"
+        ],
+        "hard": [
+          "はい。国家が存在しなかったから",
+          "いいえ。先に到達したのはマゼランだから",
+          "はい。先住民は移住してきたばかりだったから"
+        ]
+      }
+    },
+    {
+      "recto": "大航海時代の富の獲得が、ヨーロッパにもたらした長期的な結果は何か。",
+      "verso": "蓄積された富と原料・市場が、のちの工業化の資本と条件になったこと",
+      "explanation": "銀・砂糖・奴隷労働から得た利益が、金融と造船と製造業に投じられた。この時代の獲得なしに、次の時代の工業化の速さは説明できない。",
+      "tags": [
+        "大航海時代",
+        "帰結"
+      ],
+      "distractors": {
+        "easy": [
+          "農業だけが発展したこと",
+          "人口が減り続けたこと",
+          "とくに結果はなかった"
+        ],
+        "medium": [
+          "交易が国家に独占され続けたこと",
+          "貨幣が使われなくなったこと",
+          "都市が衰退したこと"
+        ],
+        "hard": [
+          "工業化はこの富と無関係に始まったこと",
+          "利益がすべて王室の消費に消えたこと",
+          "資本の蓄積は19世紀に始まったこと"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、大航海時代はどのように整理できるか。",
+      "verso": "香辛料を求めた航海が大洋を結び、銀と作物と疫病の交換を通じて世界を一つの網に変えた時代",
+      "explanation": "つながりの拡大と、征服・疫病・強制労働という暴力は同じ出来事の両面である。どちらか一方だけを語ることは、この時代の理解を歪める。",
+      "tags": [
+        "大航海時代",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "ヨーロッパが平和的に世界を統一した時代",
+          "交易が衰えた時代",
+          "航海術だけが進歩した時代"
+        ],
+        "medium": [
+          "アジアがヨーロッパを支配した時代",
+          "各地域が孤立を深めた時代",
+          "銀の流通が止まった時代"
+        ],
+        "hard": [
+          "ヨーロッパがただちにアジアを支配した時代",
+          "疫病の影響がほとんどなかった時代",
+          "先住民の社会が変化しなかった時代"
+        ]
+      }
+    }
+  ]
+}

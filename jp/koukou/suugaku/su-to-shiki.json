@@ -1,0 +1,795 @@
+{
+  "id": "jp-koukou-suugaku-su-to-shiki",
+  "title": "数と式",
+  "emoji": "🔢",
+  "subject": "mathematics",
+  "country": "jp",
+  "courseDescription": "整式の展開と因数分解から、実数の分類、絶対値と平方根の扱い、そして一次不等式の解法までを扱う。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>数と式</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年<br>\n  <b>科目：</b>数学I<br>\n  <b>単元：</b>数と式\n</div>\n\n<blockquote>\n  <p><b>問い。</b>√（a²）を簡単にすると a になる。この変形は、いつでも正しいのだろうか。</p>\n</blockquote>\n\n<p>この単元は二本の柱でできている。<b>式を変形する技術</b>（展開と因数分解）と、<b>数の性質にもとづく扱い</b>（実数の分類・絶対値・不等式）である。前者は以後すべての単元で道具として使われ、後者は場合分けの判断を支える。</p>\n\n<h2>1・整式と次数</h2>\n\n<p>単項式の<strong>次数</strong>は、含まれる文字の個数（指数の和）で定まる。3x²y の次数は 2＋1 で 3 である。係数の大きさは次数に関係しない。</p>\n\n<p>注意が要るのは「x について整理する」場合である。このとき<b>着目した文字の指数だけを数え、他の文字は係数として扱う</b>。2ax³＋bx は、x について見れば 3 次式だが、a について見れば 1 次式である。<b>何に着目するかで次数が変わる。</b></p>\n\n<h2>2・展開の公式</h2>\n\n<p>展開公式は暗記の対象に見えるが、いずれも分配法則の結果にすぎない。とくに（a＋b）² で中央の 2ab を落とす誤りが多いので、なぜ 2 倍になるのかを図で確認しておきたい。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 172\" role=\"img\" aria-label=\"一辺がaプラスbの正方形を四つの長方形に分けるとa二乗とb二乗と面積abの長方形二つに分かれることを示す図\">\n  <text x=\"170\" y=\"14\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">面積で見れば、2ab が現れる理由が分かる</text>\n  <rect x=\"60\" y=\"26\" width=\"132\" height=\"88\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"126\" y=\"76\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"15\" font-weight=\"700\">a²</text>\n  <rect x=\"192\" y=\"26\" width=\"76\" height=\"88\" style=\"fill:var(--accent);fill-opacity:.1;stroke:var(--accent);stroke-opacity:.45;stroke-width:1.5\"/>\n  <text x=\"230\" y=\"76\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">ab</text>\n  <rect x=\"60\" y=\"114\" width=\"132\" height=\"42\" style=\"fill:var(--accent);fill-opacity:.1;stroke:var(--accent);stroke-opacity:.45;stroke-width:1.5\"/>\n  <text x=\"126\" y=\"141\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">ab</text>\n  <rect x=\"192\" y=\"114\" width=\"76\" height=\"42\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"230\" y=\"141\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"13\" font-weight=\"700\">b²</text>\n  <text x=\"126\" y=\"22\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">a</text>\n  <text x=\"230\" y=\"22\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">b</text>\n  <text x=\"52\" y=\"74\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">a</text>\n  <text x=\"52\" y=\"139\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">b</text>\n  <text x=\"170\" y=\"169\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">面積 ab の長方形が 2 つ ＝ 2ab</text>\n</svg>\n<figcaption>（a＋b）² ＝ a²＋2ab＋b²。中央の項は「2 つできる長方形」に対応する。</figcaption>\n</figure>\n\n<h3>おさえる公式</h3>\n\n<ul>\n  <li>（a＋b）² ＝ a²＋2ab＋b²、（a－b）² ＝ a²－2ab＋b²</li>\n  <li>（a＋b）（a－b） ＝ a²－b²　… 和と差の積</li>\n  <li>（x＋a）（x＋b） ＝ x²＋（a＋b）x＋ab</li>\n  <li>（a＋b）³ ＝ a³＋3a²b＋3ab²＋b³</li>\n  <li>（a＋b＋c）² ＝ a²＋b²＋c²＋2ab＋2bc＋2ca</li>\n</ul>\n\n<h2>3・因数分解</h2>\n\n<p>因数分解は展開の逆であるが、<b>手順の第一歩は必ず共通因数の確認</b>である。これを飛ばすと公式が当てはまらず、最後まで分解しきれない。</p>\n\n<p>x²＋（a＋b）x＋ab ＝（x＋a）（x＋b）では、<b>積が定数項、和が x の係数</b>になる 2 数を探す。最高次の係数が 1 でない場合は<strong>たすきがけ</strong>を用いる。3 次式では次の 2 つが要点になる。</p>\n\n<div class=\"callout\">\n  <strong>要注意・3 乗の因数分解</strong><br>\n  a³＋b³ ＝（a＋b）（a²<b>－</b>ab＋b²）　／　a³－b³ ＝（a－b）（a²<b>＋</b>ab＋b²）<br>\n  第 2 因数の中央の係数は <b>1</b> であって 2 ではない。（a±b）² の展開と混同しやすい。また、前の因数の符号と中央項の符号が<b>逆になる</b>ことに注意する。\n</div>\n\n<h2>4・実数の分類</h2>\n\n<p>整数 m と 0 でない整数 n を用いて m／n の形に表せる数が<strong>有理数</strong>、表せない数が<strong>無理数</strong>である。両者を合わせたものが実数である。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 158\" role=\"img\" aria-label=\"実数が有理数と無理数に分かれ有理数がさらに整数と有限小数と循環小数に分かれる分類の図\">\n  <defs>\n    <marker id=\"ar-sushiki1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"128\" y=\"6\" width=\"84\" height=\"26\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"24\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">実数</text>\n  <path d=\"M150,32 L96,52\" style=\"fill:none;stroke:var(--accent);stroke-width:1.5\" marker-end=\"url(#ar-sushiki1)\"/>\n  <path d=\"M190,32 L244,52\" style=\"fill:none;stroke:var(--accent);stroke-width:1.5\" marker-end=\"url(#ar-sushiki1)\"/>\n  <rect x=\"26\" y=\"54\" width=\"140\" height=\"28\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"96\" y=\"73\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">有理数</text>\n  <rect x=\"176\" y=\"54\" width=\"140\" height=\"28\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"246\" y=\"73\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">無理数</text>\n  <text x=\"246\" y=\"100\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">分数で表せない</text>\n  <text x=\"246\" y=\"116\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">循環しない無限小数</text>\n  <text x=\"246\" y=\"132\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">例：√2、π</text>\n  <text x=\"96\" y=\"100\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">整数</text>\n  <text x=\"96\" y=\"116\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">有限小数</text>\n  <text x=\"96\" y=\"132\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">循環小数</text>\n  <text x=\"170\" y=\"152\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">循環小数は分数に直せる ＝ 有理数である</text>\n</svg>\n<figcaption>「無限に続く小数だから無理数」という判断は誤り。循環すれば有理数である。</figcaption>\n</figure>\n\n<h2>5・絶対値と平方根</h2>\n\n<p>絶対値は「符号を外す操作」ではなく、<b>原点からの距離</b>である。定義は場合分けで与えられる。</p>\n\n<div class=\"callout\">\n  <strong>用語・絶対値の定義</strong><br>\n  a ≧ 0 のとき |a| ＝ a、　a ＜ 0 のとき |a| ＝ <b>－a</b><br>\n  負の数に <b>－</b> をつけることで結果が正になる。ここを「符号を消す」と覚えると、文字式の場合分けで必ずつまずく。\n</div>\n\n<p>正の数 a に対して √a は、<b>2 乗して a になる 2 つの数のうち正のほう</b>を表す。根号記号そのものが正の値だけを表すという約束から、次の関係が導かれる。</p>\n\n<p style=\"text-align:center\"><strong>√（a²） ＝ |a|</strong></p>\n\n<p>a が正なら a に等しいが、a が負なら －a に等しい。<b>文字式のままでは符号が確定しないため、絶対値を外すには a の符号の場合分けが必要になる。</b></p>\n\n<p>分母に根号を含む分数は<strong>分母の有理化</strong>で整理する。分母が √a なら √a を掛け、a＋√b の形なら a－√b を掛ける。後者では（和と差の積）の公式により根号が消える。</p>\n\n<h2>6・不等式</h2>\n\n<p>不等式の変形は等式とほぼ同じだが、<b>一点だけ決定的に異なる</b>。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 132\" role=\"img\" aria-label=\"不等式の両辺に正の数を掛けると不等号の向きは変わらないが負の数を掛けると向きが逆になることの比較\">\n  <text x=\"170\" y=\"14\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">分かれ目は、掛ける数の符号だけ</text>\n  <rect x=\"12\" y=\"26\" width=\"150\" height=\"94\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.1;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"45\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">正の数を掛ける</text>\n  <text x=\"87\" y=\"68\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">2 ＜ 5</text>\n  <text x=\"87\" y=\"86\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">×3</text>\n  <text x=\"87\" y=\"104\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">6 ＜ 15</text>\n  <rect x=\"178\" y=\"26\" width=\"150\" height=\"94\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"45\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">負の数を掛ける</text>\n  <text x=\"253\" y=\"68\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10\">2 ＜ 5</text>\n  <text x=\"253\" y=\"86\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">×（－3）</text>\n  <text x=\"253\" y=\"104\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">－6 ＞ －15</text>\n</svg>\n<figcaption>負の数を掛ける・割るときだけ、不等号の向きが逆になる。</figcaption>\n</figure>\n\n<p>移項や両辺への加減では向きは変わらない。<b>掛け算・割り算で負の数を使うときだけ</b>向きが逆になる。一次不等式で最も多い誤りがこの変え忘れである。</p>\n\n<p>絶対値を含む不等式は、距離として読むと理解しやすい。a ＞ 0 のとき、</p>\n\n<ul>\n  <li>|x| ＜ a　→　<b>－a ＜ x ＜ a</b>（原点を挟む一つの区間）</li>\n  <li>|x| ＞ a　→　<b>x ＜ －a または x ＞ a</b>（解が 2 つに分かれる）</li>\n</ul>\n\n<p>複数の不等式を同時に満たす範囲を求めるのが<strong>連立不等式</strong>で、答えは<b>それぞれの解の共通部分</b>である。数直線に書き込んで重なりを読み取るのが確実で、共通部分がなければ解なしとなる。</p>\n\n<h2>7・対称式と恒等式</h2>\n\n<p>a＋b と ab のように、文字を入れ替えても変わらない式を<strong>対称式</strong>という。2 文字の対称式は必ず和と積で表せる。代表的な変形が次である。</p>\n\n<p style=\"text-align:center\"><strong>a²＋b² ＝（a＋b）²－2ab</strong></p>\n\n<p>任意の値で常に成り立つ等式が<strong>恒等式</strong>で、特定の値でだけ成り立つ方程式と区別される。両辺の同じ次数の係数を比べる係数比較法が基本手段になる。整式の除法では、商を Q、余りを R として <b>A ＝ BQ＋R</b>（R の次数は B より小さい）が成り立つ。</p>\n\n<h2>まとめ</h2>\n\n<h3>展開と因数分解</h3>\n\n<table>\n  <tr><th>式</th><th>結果</th></tr>\n  <tr><td>（a＋b）²</td><td>a²＋2ab＋b²</td></tr>\n  <tr><td>（a＋b）（a－b）</td><td>a²－b²</td></tr>\n  <tr><td>（a＋b）³</td><td>a³＋3a²b＋3ab²＋b³</td></tr>\n  <tr><td>a³＋b³</td><td>（a＋b）（a²－ab＋b²）</td></tr>\n  <tr><td>a³－b³</td><td>（a－b）（a²＋ab＋b²）</td></tr>\n</table>\n\n<h3>実数と絶対値</h3>\n\n<table>\n  <tr><th>用語</th><th>内容</th></tr>\n  <tr><td>有理数</td><td>分数で表せる数（循環小数を含む）</td></tr>\n  <tr><td>無理数</td><td>分数で表せない数（√2、π）</td></tr>\n  <tr><td>|a| の定義</td><td>a ≧ 0 なら a、a ＜ 0 なら －a</td></tr>\n  <tr><td>√（a²）</td><td>|a|（a とは限らない）</td></tr>\n</table>\n\n<h3>不等式</h3>\n\n<table>\n  <tr><th>操作</th><th>不等号の向き</th></tr>\n  <tr><td>両辺に加減／正の数を掛ける</td><td>変わらない</td></tr>\n  <tr><td>負の数を掛ける・割る</td><td>逆になる</td></tr>\n  <tr><td>|x| ＜ a（a ＞ 0）</td><td>－a ＜ x ＜ a</td></tr>\n  <tr><td>|x| ＞ a（a ＞ 0）</td><td>x ＜ －a または x ＞ a</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  √（a²）を簡単にすると <b>a になるとは限らない</b>。正しくは <b>√（a²）＝|a|</b> であり、a が負のときは －a に等しい。根号は必ず 0 以上の値を表すからである。文字式のままでは符号が確定しないので、絶対値を外すには <b>a の符号による場合分け</b>が要る。\n</div>\n\n<blockquote>\n  <p>式変形は速さを競う作業に見えて、その実は「なぜその変形が許されるのか」を問い続ける作業である。符号と場合分けを言葉で説明できるかどうかが、この先の単元での差になる。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "数学I ― 数と式",
+  "cards": [
+    {
+      "recto": "整式において、単項式の次数とはどのように定められるか。",
+      "verso": "その単項式に含まれる文字の個数（指数の和）",
+      "explanation": "3x²y の次数は 2＋1 で 3 である。係数の大きさは次数に関係しない点に注意する。",
+      "tags": [
+        "整式",
+        "定義"
+      ],
+      "distractors": {
+        "easy": [
+          "係数の値そのもの",
+          "文字の種類の数",
+          "項の個数"
+        ],
+        "medium": [
+          "最も大きい指数だけを取った値",
+          "係数と指数の和",
+          "文字を除いた数値部分"
+        ],
+        "hard": [
+          "各文字の指数の積",
+          "定数項を含めた項数",
+          "最も小さい指数の値"
+        ]
+      }
+    },
+    {
+      "recto": "整式を「x について整理する」とき、次数はどのように数えるか。",
+      "verso": "着目した文字 x の指数だけを数え、他の文字は係数として扱う",
+      "explanation": "2ax³＋bx を x について見れば 3 次式だが、a について見れば 1 次式である。何に着目するかで次数が変わる点が要点である。",
+      "tags": [
+        "整式",
+        "定義"
+      ],
+      "distractors": {
+        "easy": [
+          "すべての文字の指数を合計する",
+          "文字の種類を数える",
+          "項の個数を数える"
+        ],
+        "medium": [
+          "最も高い次数の項の係数を数える",
+          "定数項を 1 次として数える",
+          "着目しない文字も指数に加える"
+        ],
+        "hard": [
+          "着目した文字を係数として扱う",
+          "指数の平均をとる",
+          "他の文字の指数だけを数える"
+        ]
+      }
+    },
+    {
+      "recto": "（a＋b）² を展開するとどうなるか。",
+      "verso": "a²＋2ab＋b²",
+      "explanation": "中央の 2ab を落とす誤りが最も多い。（a＋b）² は a と b を掛け合わせた組が 2 通りできることに由来する。",
+      "tags": [
+        "展開",
+        "公式"
+      ],
+      "distractors": {
+        "easy": [
+          "a²＋b²",
+          "a²－b²",
+          "2a＋2b"
+        ],
+        "medium": [
+          "a²＋ab＋b²",
+          "a²－2ab＋b²",
+          "a²＋2ab－b²"
+        ],
+        "hard": [
+          "a²＋4ab＋b²",
+          "2a²＋2ab＋2b²",
+          "a²＋2a b²＋b²"
+        ]
+      }
+    },
+    {
+      "recto": "（a－b）² を展開するとどうなるか。",
+      "verso": "a²－2ab＋b²",
+      "explanation": "最後の項は （－b）² なので符号は正になる。中央の項だけが負である点を確認したい。",
+      "tags": [
+        "展開",
+        "公式"
+      ],
+      "distractors": {
+        "easy": [
+          "a²－b²",
+          "a²＋b²",
+          "a²－2ab－b²"
+        ],
+        "medium": [
+          "a²＋2ab－b²",
+          "a²－ab＋b²",
+          "a²＋2ab＋b²"
+        ],
+        "hard": [
+          "－a²＋2ab－b²",
+          "a²－2ab＋2b²",
+          "a²－4ab＋b²"
+        ]
+      }
+    },
+    {
+      "recto": "（a＋b）（a－b） を展開するとどうなるか。",
+      "verso": "a²－b²",
+      "explanation": "中央の項が打ち消し合うため 2 項だけが残る。この形は「和と差の積」と呼ばれ、因数分解でも頻繁に使う。",
+      "tags": [
+        "展開",
+        "公式"
+      ],
+      "distractors": {
+        "easy": [
+          "a²＋b²",
+          "a²－2ab＋b²",
+          "a－b"
+        ],
+        "medium": [
+          "a²＋2ab－b²",
+          "a²－ab－b²",
+          "a²＋ab－b²"
+        ],
+        "hard": [
+          "b²－a²",
+          "a²－2b²",
+          "（a－b）²"
+        ]
+      }
+    },
+    {
+      "recto": "（x＋a）（x＋b） を展開するとどうなるか。",
+      "verso": "x²＋（a＋b）x＋ab",
+      "explanation": "x の係数が a と b の和、定数項が積になる。この対応が、後のたすきがけによる因数分解の土台になる。",
+      "tags": [
+        "展開",
+        "公式"
+      ],
+      "distractors": {
+        "easy": [
+          "x²＋ab",
+          "x²＋（a＋b）x",
+          "x²＋abx"
+        ],
+        "medium": [
+          "x²＋（ab）x＋（a＋b）",
+          "x²＋（a－b）x＋ab",
+          "x²＋（a＋b）x－ab"
+        ],
+        "hard": [
+          "x²＋2abx＋ab",
+          "x²＋（a＋b）x²＋ab",
+          "x＋（a＋b）＋ab"
+        ]
+      }
+    },
+    {
+      "recto": "（a＋b）³ を展開するとどうなるか。",
+      "verso": "a³＋3a²b＋3ab²＋b³",
+      "explanation": "中央の 2 項の係数がともに 3 になる。（a－b）³ の場合は符号が交互に変わり a³－3a²b＋3ab²－b³ となる。",
+      "tags": [
+        "展開",
+        "公式"
+      ],
+      "distractors": {
+        "easy": [
+          "a³＋b³",
+          "a³＋3ab＋b³",
+          "3a＋3b"
+        ],
+        "medium": [
+          "a³＋2a²b＋2ab²＋b³",
+          "a³＋a²b＋ab²＋b³",
+          "a³－3a²b＋3ab²－b³"
+        ],
+        "hard": [
+          "a³＋3a²b²＋3ab＋b³",
+          "a³＋3a²b＋3ab²－b³",
+          "a³＋6a²b＋6ab²＋b³"
+        ]
+      }
+    },
+    {
+      "recto": "（a＋b＋c）² を展開するとどうなるか。",
+      "verso": "a²＋b²＋c²＋2ab＋2bc＋2ca",
+      "explanation": "3 つの文字から 2 つを選ぶ組が 3 通りあり、それぞれに係数 2 がつく。項の数え落としが起きやすい公式である。",
+      "tags": [
+        "展開",
+        "公式"
+      ],
+      "distractors": {
+        "easy": [
+          "a²＋b²＋c²",
+          "（a＋b＋c）×2",
+          "a²＋b²＋c²＋abc"
+        ],
+        "medium": [
+          "a²＋b²＋c²＋ab＋bc＋ca",
+          "a²＋b²＋c²＋2abc",
+          "a²＋b²＋c²＋3ab＋3bc＋3ca"
+        ],
+        "hard": [
+          "a²＋b²＋c²＋2ab＋2bc",
+          "a²＋b²＋c²＋2（abc）",
+          "2a²＋2b²＋2c²＋ab＋bc＋ca"
+        ]
+      }
+    },
+    {
+      "recto": "因数分解を行うとき、最初に確認すべきことは何か。",
+      "verso": "すべての項に共通な因数（共通因数）がないかを調べ、あればくくり出すこと",
+      "explanation": "共通因数を先に外さないと、その後の公式が当てはまらなかったり、因数分解が最後まで進まなかったりする。手順の第一歩として固定したい。",
+      "tags": [
+        "因数分解",
+        "手順"
+      ],
+      "distractors": {
+        "easy": [
+          "いきなり公式に当てはめること",
+          "たすきがけを試すこと",
+          "次数を下げること"
+        ],
+        "medium": [
+          "定数項を素因数分解すること",
+          "最高次の係数を 1 にすること",
+          "文字を数値に置き換えること"
+        ],
+        "hard": [
+          "判別式を計算すること",
+          "両辺を微分すること",
+          "平方完成を行うこと"
+        ]
+      }
+    },
+    {
+      "recto": "x²＋（a＋b）x＋ab を因数分解するとどうなるか。",
+      "verso": "（x＋a）（x＋b）",
+      "explanation": "定数項の積が ab、一次の係数の和が a＋b になる 2 数を探す。「積が定数項、和が x の係数」という対応が探索の指針になる。",
+      "tags": [
+        "因数分解",
+        "公式"
+      ],
+      "distractors": {
+        "easy": [
+          "（x＋ab）（x＋a＋b）",
+          "（x＋a＋b）²",
+          "x（x＋a＋b）"
+        ],
+        "medium": [
+          "（x－a）（x－b）",
+          "（x＋a）（x－b）",
+          "（x＋a）²＋b"
+        ],
+        "hard": [
+          "（x＋a）（x＋b）＋ab",
+          "（ax＋1）（bx＋1）",
+          "（x＋a＋b）（x＋ab）"
+        ]
+      }
+    },
+    {
+      "recto": "acx²＋（ad＋bc）x＋bd の形の式を因数分解する方法を何というか。",
+      "verso": "たすきがけ",
+      "explanation": "最高次の係数を ac、定数項を bd に分け、たすきに掛けた和が一次の係数になる組を探す。符号の取り違えが最も起きやすい箇所である。",
+      "tags": [
+        "因数分解",
+        "手法"
+      ],
+      "distractors": {
+        "easy": [
+          "平方完成",
+          "通分",
+          "移項"
+        ],
+        "medium": [
+          "共通因数のくくり出し",
+          "置き換えによる因数分解",
+          "組み合わせによる因数分解"
+        ],
+        "hard": [
+          "因数定理の利用",
+          "組立除法",
+          "部分分数分解"
+        ]
+      }
+    },
+    {
+      "recto": "a³＋b³ を因数分解するとどうなるか。",
+      "verso": "（a＋b）（a²－ab＋b²）",
+      "explanation": "第 2 因数の中央の項の係数が 1 であり、2ab ではない点に注意する。（a＋b）² の展開と混同しやすい。",
+      "tags": [
+        "因数分解",
+        "公式"
+      ],
+      "distractors": {
+        "easy": [
+          "（a＋b）³",
+          "（a＋b）（a²＋b²）",
+          "（a＋b）（a－b）"
+        ],
+        "medium": [
+          "（a＋b）（a²＋ab＋b²）",
+          "（a－b）（a²＋ab＋b²）",
+          "（a＋b）（a²－2ab＋b²）"
+        ],
+        "hard": [
+          "（a－b）（a²－ab＋b²）",
+          "（a＋b）（a²－ab－b²）",
+          "（a²＋b²）（a＋b）"
+        ]
+      }
+    },
+    {
+      "recto": "a³－b³ を因数分解するとどうなるか。",
+      "verso": "（a－b）（a²＋ab＋b²）",
+      "explanation": "前の因数が差のとき、後ろの因数の中央項は正になる。a³＋b³ とは符号の位置が入れ替わる関係にある。",
+      "tags": [
+        "因数分解",
+        "公式"
+      ],
+      "distractors": {
+        "easy": [
+          "（a－b）³",
+          "（a－b）（a²－b²）",
+          "（a＋b）（a－b）"
+        ],
+        "medium": [
+          "（a－b）（a²－ab＋b²）",
+          "（a＋b）（a²＋ab＋b²）",
+          "（a－b）（a²＋2ab＋b²）"
+        ],
+        "hard": [
+          "（a＋b）（a²－ab＋b²）",
+          "（a－b）（a²＋ab－b²）",
+          "（a²－b²）（a－b）"
+        ]
+      }
+    },
+    {
+      "recto": "整数 m と 0 でない整数 n を用いて m／n の形に表せる数を何というか。",
+      "verso": "有理数",
+      "explanation": "整数も分母を 1 とすれば有理数に含まれる。有限小数と循環小数は、いずれも分数に直せるため有理数である。",
+      "tags": [
+        "実数",
+        "分類"
+      ],
+      "distractors": {
+        "easy": [
+          "無理数",
+          "虚数",
+          "自然数のみ"
+        ],
+        "medium": [
+          "実数すべて",
+          "整数のみを指す語",
+          "小数すべて"
+        ],
+        "hard": [
+          "代数的数と完全に同一の語",
+          "循環小数のみを指す語",
+          "分数という表記そのもののみを指す語"
+        ]
+      }
+    },
+    {
+      "recto": "循環小数は有理数と無理数のどちらに分類されるか。",
+      "verso": "有理数",
+      "explanation": "循環する部分を文字でおいて計算すれば、必ず分数の形に直せる。「小数が無限に続く＝無理数」という判断は誤りである。",
+      "tags": [
+        "実数",
+        "分類"
+      ],
+      "distractors": {
+        "easy": [
+          "無理数",
+          "虚数",
+          "どちらでもない"
+        ],
+        "medium": [
+          "場合によって変わる",
+          "循環の周期が長ければ無理数になる",
+          "整数でないので分類できない"
+        ],
+        "hard": [
+          "無限に続くので無理数である",
+          "小数点以下が有限でないため有理数ではない",
+          "循環小数は実数ではない"
+        ]
+      }
+    },
+    {
+      "recto": "√2 や円周率 π のように、分数の形に表せない実数を何というか。",
+      "verso": "無理数",
+      "explanation": "小数で表すと循環せずに無限に続く。有理数と無理数を合わせたものが実数である。",
+      "tags": [
+        "実数",
+        "分類"
+      ],
+      "distractors": {
+        "easy": [
+          "有理数",
+          "整数",
+          "自然数"
+        ],
+        "medium": [
+          "虚数",
+          "複素数",
+          "循環小数"
+        ],
+        "hard": [
+          "超越数と完全に同一の語",
+          "実数と完全に同一の語",
+          "無限小数すべてを指す語"
+        ]
+      }
+    },
+    {
+      "recto": "実数 a に対する絶対値 |a| は、どのように定義されるか。",
+      "verso": "a ≧ 0 のとき |a|＝a、a ＜ 0 のとき |a|＝－a",
+      "explanation": "「符号を外すこと」ではなく「原点からの距離」を表す。負の数に対しては －a とすることで結果が正になる点が要点である。",
+      "tags": [
+        "絶対値",
+        "定義"
+      ],
+      "distractors": {
+        "easy": [
+          "常に |a|＝a である",
+          "常に |a|＝－a である",
+          "符号を消すという操作そのもの"
+        ],
+        "medium": [
+          "a ＞ 0 のとき a、a ≦ 0 のとき 0 とする",
+          "a を 2 乗した値と等しい",
+          "a の逆数をとった値"
+        ],
+        "hard": [
+          "a ≧ 0 のとき －a、a ＜ 0 のとき a とする",
+          "a の平方根と等しい",
+          "a が整数のときのみ定義される"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】実数 a について √（a²） を簡単にすると a になるといえるか。",
+      "verso": "いいえ。√（a²）＝|a| であり、a が負のときは a と一致しない",
+      "explanation": "よくある誤りである。根号は必ず 0 以上の値を表すため、a が負なら √（a²） は －a に等しくなる。文字式のままでは符号を確定できないので、絶対値を外すには a の符号の場合分けが要る。",
+      "tags": [
+        "piege",
+        "平方根"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。常に a になる",
+          "はい。根号と 2 乗は必ず打ち消し合うから",
+          "はい。符号は関係ないから"
+        ],
+        "medium": [
+          "はい。a が実数であれば必ず成り立つから",
+          "いいえ。√（a²）＝a² だから",
+          "いいえ。√（a²）＝－a だから"
+        ],
+        "hard": [
+          "はい。ただし a が無理数のときだけ例外となるから",
+          "いいえ。√（a²）は定義されないから",
+          "はい。絶対値は根号を外すと自動的に消えるから"
+        ]
+      }
+    },
+    {
+      "recto": "正の数 a に対して、√a はどのような数を表すか。",
+      "verso": "2 乗すると a になる 2 つの数のうち、正のほうの数",
+      "explanation": "2 乗して a になる数は ±√a の 2 つあるが、根号記号そのものは正の値だけを表す。この約束が √（a²）＝|a| の根拠になる。",
+      "tags": [
+        "平方根",
+        "定義"
+      ],
+      "distractors": {
+        "easy": [
+          "2 乗すると a になる数すべて",
+          "a を 2 で割った数",
+          "a の半分の数"
+        ],
+        "medium": [
+          "2 乗すると a になる数のうち負のほう",
+          "a を 2 乗した数",
+          "a の逆数"
+        ],
+        "hard": [
+          "a の 2 分の 1 乗のうち符号を問わないもの",
+          "a が負でも定義される値",
+          "a の平方の絶対値"
+        ]
+      }
+    },
+    {
+      "recto": "分母に根号を含む分数を、分母に根号がない形に変形することを何というか。",
+      "verso": "分母の有理化",
+      "explanation": "分母が √a なら √a を、a＋√b の形なら a－√b を分母分子に掛ける。後者では（和と差の積）の公式によって根号が消える。",
+      "tags": [
+        "平方根",
+        "計算"
+      ],
+      "distractors": {
+        "easy": [
+          "通分",
+          "約分",
+          "移項"
+        ],
+        "medium": [
+          "因数分解",
+          "平方完成",
+          "分子の有理化とは無関係な別の操作"
+        ],
+        "hard": [
+          "二重根号を外す操作と完全に同一",
+          "部分分数分解と完全に同一",
+          "実数化と完全に同一の語"
+        ]
+      }
+    },
+    {
+      "recto": "不等式の両辺に同じ正の数を掛けても、不等号の向きはどうなるか。",
+      "verso": "変わらない",
+      "explanation": "正の数を掛ける操作は大小関係を保つ。同じ数を両辺に足す・引く場合も向きは変わらない。",
+      "tags": [
+        "不等式",
+        "性質"
+      ],
+      "distractors": {
+        "easy": [
+          "必ず逆になる",
+          "等号に変わる",
+          "向きは定まらなくなる"
+        ],
+        "medium": [
+          "掛ける数が 1 より大きいときだけ逆になる",
+          "掛ける数が 1 未満のときだけ逆になる",
+          "両辺が正のときだけ変わらない"
+        ],
+        "hard": [
+          "左辺が負のときだけ逆になる",
+          "掛ける数が整数のときだけ変わらない",
+          "両辺の差が正のときだけ変わらない"
+        ]
+      }
+    },
+    {
+      "recto": "不等式の両辺に同じ負の数を掛けたとき、不等号の向きはどうなるか。",
+      "verso": "逆向きになる",
+      "explanation": "一次不等式で最も多い誤りがこの向きの変え忘れである。両辺を負の数で割るときも同様に向きが変わる。",
+      "tags": [
+        "不等式",
+        "性質"
+      ],
+      "distractors": {
+        "easy": [
+          "変わらない",
+          "等号になる",
+          "不等式が成り立たなくなる"
+        ],
+        "medium": [
+          "掛ける数が －1 のときだけ逆になる",
+          "両辺が負のときだけ逆になる",
+          "整数を掛けたときだけ逆になる"
+        ],
+        "hard": [
+          "向きは変わらないが等号が付く",
+          "左辺だけ符号が変わる",
+          "絶対値をとれば向きは保たれる"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】等式の変形と不等式の変形は、両辺に負の数を掛ける場面でどう違うか。",
+      "verso": "等式は両辺に何を掛けても等号のまま変わらないが、不等式は負の数を掛けると不等号の向きが逆になる",
+      "explanation": "等式の感覚のまま不等式を扱うと、この一点で誤る。移項や足し算では両者に違いはなく、掛け算・割り算の符号だけが分かれ目になる。",
+      "tags": [
+        "comparaison",
+        "不等式"
+      ],
+      "distractors": {
+        "easy": [
+          "両者に違いはない",
+          "等式のほうが向きが変わる",
+          "どちらも向きが変わる"
+        ],
+        "medium": [
+          "不等式は正の数を掛けたときに向きが変わる",
+          "等式は 0 を掛けると成り立たなくなる点だけが違う",
+          "違いは移項のときにだけ現れる"
+        ],
+        "hard": [
+          "不等式は足し算のときにも向きが変わる",
+          "等式は負の数を掛けると符号が入れ替わる",
+          "違いは両辺が整数のときにだけ生じる"
+        ]
+      }
+    },
+    {
+      "recto": "a ＞ 0 のとき、不等式 |x| ＜ a の解はどう表されるか。",
+      "verso": "－a ＜ x ＜ a",
+      "explanation": "原点からの距離が a 未満という意味なので、数直線上で原点を挟む区間になる。不等号の向きが逆の |x| ＞ a では x ＜ －a または x ＞ a と、解が 2 つに分かれる。",
+      "tags": [
+        "絶対値",
+        "不等式"
+      ],
+      "distractors": {
+        "easy": [
+          "x ＜ a",
+          "x ＞ －a",
+          "x ＝ ±a"
+        ],
+        "medium": [
+          "x ＜ －a または x ＞ a",
+          "0 ＜ x ＜ a",
+          "－a ≦ x ≦ a"
+        ],
+        "hard": [
+          "x ＞ a のみ",
+          "－a ＜ x ＜ 0",
+          "|x| の値によらず解は存在しない"
+        ]
+      }
+    },
+    {
+      "recto": "2 つ以上の不等式を同時に満たす x の範囲を求める問題を何といい、答えはどう定めるか。",
+      "verso": "連立不等式といい、それぞれの解の共通部分をとって定める",
+      "explanation": "数直線に各解を書き込み、重なった範囲を読み取るのが確実である。共通部分が存在しない場合、解なしとなることもある。",
+      "tags": [
+        "不等式",
+        "解法"
+      ],
+      "distractors": {
+        "easy": [
+          "連立方程式といい、和をとって定める",
+          "連立不等式といい、すべての解を合わせて定める",
+          "同値変形といい、片方だけを採用する"
+        ],
+        "medium": [
+          "連立不等式といい、範囲の広いほうの解を採用する",
+          "連立不等式といい、常に解は存在する",
+          "連立不等式といい、平均をとって定める"
+        ],
+        "hard": [
+          "連立不等式といい、和集合をとって定める",
+          "連立不等式といい、差集合をとって定める",
+          "連立不等式といい、最初の式の解を優先する"
+        ]
+      }
+    },
+    {
+      "recto": "a＋b と ab のように、文字を入れ替えても変わらない式を何というか。",
+      "verso": "対称式",
+      "explanation": "2 文字の対称式は、必ず和 a＋b と積 ab の 2 つ（基本対称式）で表せる。a²＋b² を （a＋b）²－2ab に直す変形がその代表例である。",
+      "tags": [
+        "整式",
+        "対称式"
+      ],
+      "distractors": {
+        "easy": [
+          "交代式",
+          "多項式",
+          "単項式"
+        ],
+        "medium": [
+          "同次式",
+          "既約式",
+          "恒等式"
+        ],
+        "hard": [
+          "基本対称式と完全に同一の語",
+          "循環式と完全に同一の語",
+          "交換式という別の概念"
+        ]
+      }
+    },
+    {
+      "recto": "a²＋b² を、和 a＋b と積 ab を用いて表すとどうなるか。",
+      "verso": "（a＋b）²－2ab",
+      "explanation": "（a＋b）² を展開すると a²＋2ab＋b² なので、余分な 2ab を引けばよい。対称式の値を求める問題の基本となる変形である。",
+      "tags": [
+        "整式",
+        "対称式"
+      ],
+      "distractors": {
+        "easy": [
+          "（a＋b）²",
+          "（a＋b）²＋2ab",
+          "（a－b）²"
+        ],
+        "medium": [
+          "（a＋b）²－ab",
+          "（a＋b）²－4ab",
+          "（a＋b）（a－b）"
+        ],
+        "hard": [
+          "（a－b）²＋2ab と表すのは誤りである",
+          "（a＋b）²÷2ab",
+          "2（a＋b）－ab"
+        ]
+      }
+    },
+    {
+      "recto": "任意の文字の値に対して常に成り立つ等式を何というか。",
+      "verso": "恒等式",
+      "explanation": "特定の値のときだけ成り立つ方程式とは区別される。両辺の同じ次数の係数を比べる「係数比較法」が、恒等式の問題の基本手段になる。",
+      "tags": [
+        "整式",
+        "定義"
+      ],
+      "distractors": {
+        "easy": [
+          "方程式",
+          "不等式",
+          "関数"
+        ],
+        "medium": [
+          "対称式",
+          "同次式",
+          "既約式"
+        ],
+        "hard": [
+          "条件付き等式と完全に同一の語",
+          "定義式と完全に同一の語",
+          "解が無数にある方程式と完全に同一"
+        ]
+      }
+    },
+    {
+      "recto": "整式 A を整式 B で割ったときの商を Q、余りを R とすると、これらの間にどのような関係が成り立つか。",
+      "verso": "A ＝ BQ＋R（ただし R の次数は B の次数より小さい）",
+      "explanation": "余りの次数が割る式より小さいという条件が、割り算を最後まで進めた印になる。この関係は後に学ぶ因数定理の土台になる。",
+      "tags": [
+        "整式",
+        "除法"
+      ],
+      "distractors": {
+        "easy": [
+          "A ＝ B＋Q＋R",
+          "A ＝ BQ－R",
+          "A ＝ B（Q＋R）"
+        ],
+        "medium": [
+          "A ＝ BQ＋R（R の次数は B より大きい）",
+          "A ＝ BR＋Q",
+          "A ＝ Q＋BR"
+        ],
+        "hard": [
+          "A ＝ BQ＋R（R は必ず定数）",
+          "A ＝ BQ×R",
+          "A ＝ B÷Q＋R"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、この単元で扱う「数と式」はどのように整理できるか。",
+      "verso": "式を変形する技術（展開・因数分解）と、数の性質にもとづく扱い（実数の分類・絶対値・不等式）の二本の柱からなること",
+      "explanation": "式変形は後のすべての単元で道具として使われ、数の性質の理解は場合分けの判断を支える。どちらも計算の速さより、根拠を言えることが重要である。",
+      "tags": [
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "公式を暗記するだけの単元であること",
+          "計算の速さだけが問われること",
+          "特に整理できない"
+        ],
+        "medium": [
+          "展開と因数分解だけを扱う単元であること",
+          "実数の分類は他の単元と無関係であること",
+          "不等式は等式と同じ規則で扱えること"
+        ],
+        "hard": [
+          "絶対値は符号を外す記号にすぎないこと",
+          "式変形は根拠を問わず結果だけが重要であること",
+          "場合分けは必要にならないこと"
+        ]
+      }
+    }
+  ]
+}

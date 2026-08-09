@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-sekaishi-tankyuu-nishi-asia-chichuukai",
+  "title": "西アジアと地中海世界 ― ポリスとローマ",
+  "emoji": "🏛️",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "オリエントの統一からギリシアのポリス、アレクサンドロスの遠征、ローマの共和政と帝国までをたどり、市民・法・宗教という地中海世界の遺産を考える。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>西アジアと地中海世界 ― ポリスとローマ</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>世界史探究<br>\n  <b>単元：</b>大項目B 諸地域の歴史的特質の形成\n</div>\n\n<blockquote>\n  <p><b>問い。</b>市民が政治に参加するという考え方は、どこで、どのようにして生まれたのだろうか。</p>\n</blockquote>\n\n<p>オリエントでは巨大な王権が広い領域を治めた。その西に位置するギリシアでは、市民が武具を自弁して戦い、自ら政治を決める小さな共同体が生まれる。そしてローマは、征服した人々にも市民権を広げ、<strong>法</strong>によって多様な人々をまとめる方法を見いだした。この三つの重なりが、のちのヨーロッパの土台となる。</p>\n\n<h2>1・オリエントの統一とその遺産</h2>\n\n<p>前6世紀、<strong>アケメネス朝ペルシア</strong>がオリエントを統一した。各地に総督を置きながら、服属した民族の宗教や慣習には寛容であり、「王の道」と駅伝の制度が広大な領域を結んだ。<b>寛容もまた支配の技術であった</b>という点は、力による征服ばかりに目を向けがちな見方を正してくれる。</p>\n\n<p>地中海の交易で栄えた<strong>フェニキア人</strong>は、記録を手早く残すために少ない文字数の表音文字を用いた。これがギリシアに伝わって母音の文字が加えられ、今日の<strong>アルファベット</strong>となる。実務の必要が文字を単純にしたのである。</p>\n\n<h2>2・ギリシアのポリス</h2>\n\n<p>山がちで平地が乏しいギリシアでは統一国家は生まれず、多数の<strong>ポリス</strong>が並び立った。アテネでは成年男性市民が直接集まる<strong>民会</strong>が最高の機関となり、役職の多くは抽選で選ばれた。<strong>ペルシア戦争</strong>で重装歩兵や軍船の漕ぎ手として戦った市民の力が、この参加をいっそう広げた。</p>\n\n<div class=\"callout\">\n  <strong>用語・市民</strong><br>\n  ポリスにおける市民とは、<b>武具を自弁して共同体を守る成年男性</b>を指した。守る義務と決める権利が結びついていた点が、近代の市民概念との大きな違いである。\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 140\" role=\"img\" aria-label=\"アテネの民主政に参加できた成年男性市民と除外された女性と在留外国人と奴隷\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">誰が「市民」だったのか</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"98\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">参加できた</text>\n  <text x=\"87\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">成年男性市民</text>\n  <text x=\"87\" y=\"96\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">民会に直接出席</text>\n  <text x=\"87\" y=\"114\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">役職は抽選で担当</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"98\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">除かれた</text>\n  <text x=\"253\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">女性</text>\n  <text x=\"253\" y=\"96\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">在留外国人</text>\n  <text x=\"253\" y=\"114\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">奴隷</text>\n</svg>\n<figcaption>参加の広さと、その外側にある大きな排除を同時に見る。</figcaption>\n</figure>\n\n<p>ポリスの争いが続くなか、北方のマケドニアが台頭する。<strong>アレクサンドロス大王</strong>はアケメネス朝を滅ぼし、ギリシアからインドの近くまでを一つに結んだ。帝国はその死後すぐに分裂したが、ギリシアとオリエントの文化が融け合う<strong>ヘレニズム文化</strong>が生まれ、東方の仏像づくりにまで影響を及ぼした。</p>\n\n<h2>3・ローマ ― 法による統合</h2>\n\n<p>ローマは王政から<strong>共和政</strong>へ移り、任期1年の執政官と民会を置きながら、実権は<strong>元老院</strong>が握った。<strong>ポエニ戦争</strong>でカルタゴを破って地中海の覇権を得るが、長い従軍で中小の農民が没落し、大土地所有が広がって内乱の時代を招く。<b>勝利が社会の危機を生んだ</b>という逆説である。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 152\" role=\"img\" aria-label=\"ローマが共和政から帝政を経て東西分裂に至るまでの流れ\">\n  <defs>\n    <marker id=\"ar-snc1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">拡大がもたらしたもの</text>\n  <rect x=\"70\" y=\"26\" width=\"200\" height=\"26\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"43\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">共和政と元老院</text>\n  <path d=\"M170,52 L170,64\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-snc1)\"/>\n  <rect x=\"70\" y=\"68\" width=\"200\" height=\"26\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"85\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">ポエニ戦争と農民の没落</text>\n  <path d=\"M170,94 L170,106\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-snc1)\"/>\n  <rect x=\"70\" y=\"110\" width=\"200\" height=\"26\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"127\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">帝政とローマの平和</text>\n  <text x=\"170\" y=\"148\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">395年、帝国は東西に分裂する</text>\n</svg>\n<figcaption>領域の拡大は、統治のかたちそのものを変えていった。</figcaption>\n</figure>\n\n<p>アウグストゥス以後、およそ200年にわたる<strong>ローマの平和</strong>が地中海世界を覆った。街道と貨幣と法が広い領域を結び、都市と交易が栄えた。ただしその繁栄は属州からの収奪と奴隷労働にも支えられていたことを忘れてはならない。</p>\n\n<p>ローマ最大の遺産は<strong>ローマ法</strong>である。はじめは市民だけに適用されたが、領域の拡大とともに帝国内の人々に及ぶ万民法へ発展した。313年の<strong>ミラノ勅令</strong>は、それまで迫害されていた宗教を公認し、帝国を思想の面からまとめ直そうとするものであった。しかし広すぎる領域は一人では治めきれず、395年に帝国は東西に分かれる。西は5世紀に滅び、東はその後1000年以上続いた。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 150\" role=\"img\" aria-label=\"ギリシアのポリスとローマの領域国家の規模とまとまり方の比較\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">小さな共同体と、巨大な領域国家</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">ポリス</text>\n  <text x=\"87\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">市民が直接参加</text>\n  <text x=\"87\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">市民権を外に広げず</text>\n  <text x=\"87\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">統一されず争い続ける</text>\n  <text x=\"87\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">共同体の絆が強い</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">ローマ</text>\n  <text x=\"253\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">代表者と元老院</text>\n  <text x=\"253\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">市民権を征服地へ拡大</text>\n  <text x=\"253\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">巨大な領域国家へ</text>\n  <text x=\"253\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">法が統合の手段</text>\n</svg>\n<figcaption>「誰を仲間に入れるか」の違いが、国家の運命を分けた。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>時期</th><th>できごと</th></tr>\n  <tr><td>前6世紀</td><td>アケメネス朝がオリエントを統一</td></tr>\n  <tr><td>前5世紀</td><td>ペルシア戦争、アテネの民主政の発展</td></tr>\n  <tr><td>前4世紀</td><td>アレクサンドロスの東方遠征、ヘレニズム</td></tr>\n  <tr><td>前3〜前2世紀</td><td>ポエニ戦争、ローマの地中海支配</td></tr>\n  <tr><td>313年／395年</td><td>ミラノ勅令／帝国の東西分裂</td></tr>\n</table>\n\n<h3>用語の整理</h3>\n\n<table>\n  <tr><th>用語</th><th>意味</th></tr>\n  <tr><td>ポリス</td><td>アクロポリスと広場を中心とする都市国家</td></tr>\n  <tr><td>民会</td><td>成年男性市民が直接参加した最高機関</td></tr>\n  <tr><td>元老院</td><td>共和政ローマで実権を握った有力者の会議</td></tr>\n  <tr><td>ローマ法</td><td>帝国内の人々に及んだ法、近代法の源流</td></tr>\n</table>\n\n<h3>人物</h3>\n\n<table>\n  <tr><th>人物</th><th>はたらき</th></tr>\n  <tr><td>アレクサンドロス大王</td><td>東方遠征、ヘレニズム文化の契機</td></tr>\n  <tr><td>アウグストゥス</td><td>帝政の開始、ローマの平和の出発点</td></tr>\n  <tr><td>コンスタンティヌス帝</td><td>ミラノ勅令で迫害された宗教を公認</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  アテネの民主政を<b>近代の民主主義と同じものと考えるのは誤り</b>である。参加できたのは成年男性市民に限られ、女性・在留外国人・奴隷は除かれていた。むしろ奴隷の労働が、市民に政治へ参加する時間を与えていた面もある。\n</div>\n\n<blockquote>\n  <p>ギリシアは「市民が決める」ことを、ローマは「法が結ぶ」ことを残した。どちらも完全ではなかったが、その不完全さごと今日に受け継がれている。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "世界史探究 ― 諸地域の歴史的特質の形成",
+  "cards": [
+    {
+      "recto": "前6世紀にオリエントを統一し、服属した民族の宗教や慣習に寛容な統治を行った王朝は何か。",
+      "verso": "アケメネス朝ペルシア",
+      "explanation": "各地に総督を置きつつ、「王の道」と駅伝の制度で広大な領域を結んだ。力による統一だけでなく、寛容が支配の技術でもあったことを示している。",
+      "tags": [
+        "西アジア",
+        "オリエント"
+      ],
+      "distractors": {
+        "easy": [
+          "ローマ帝国",
+          "秦",
+          "モンゴル帝国"
+        ],
+        "medium": [
+          "アッシリア",
+          "バビロン第1王朝",
+          "ヒッタイト"
+        ],
+        "hard": [
+          "ササン朝ペルシア",
+          "パルティア",
+          "セレウコス朝"
+        ]
+      }
+    },
+    {
+      "recto": "地中海の交易で栄え、現在のアルファベットのもととなる表音文字を伝えた民族は何か。",
+      "verso": "フェニキア人",
+      "explanation": "交易の記録を手早く残す必要から、少ない文字数で書ける表音文字が使われた。ギリシアに伝わって母音の文字が加えられ、今日のアルファベットとなった。",
+      "tags": [
+        "西アジア",
+        "文字"
+      ],
+      "distractors": {
+        "easy": [
+          "エジプト人",
+          "モンゴル人",
+          "ゲルマン人"
+        ],
+        "medium": [
+          "ヘブライ人",
+          "アラム人",
+          "ギリシア人"
+        ],
+        "hard": [
+          "リディア人",
+          "ミケーネ人",
+          "エトルリア人"
+        ]
+      }
+    },
+    {
+      "recto": "古代ギリシアで、アクロポリスと広場を中心に成立した小規模な都市国家を何というか。",
+      "verso": "ポリス",
+      "explanation": "山がちで平地が乏しい地形のため、統一国家ではなく多数の小国家が並び立った。市民が武具を自弁して戦う共同体であった点が、政治のあり方を左右した。",
+      "tags": [
+        "地中海",
+        "ギリシア"
+      ],
+      "distractors": {
+        "easy": [
+          "城下町",
+          "植民地",
+          "帝国"
+        ],
+        "medium": [
+          "都市国家としての共和国",
+          "自治都市",
+          "オアシス都市"
+        ],
+        "hard": [
+          "デーモス",
+          "アゴラ",
+          "コロニア"
+        ]
+      }
+    },
+    {
+      "recto": "アテネで、成年男性市民が直接集まって国の方針を決めた最高の機関を何というか。",
+      "verso": "民会",
+      "explanation": "代表を選ぶのではなく、市民自身が集まって議論し採決した。役職の多くは抽選で選ばれ、誰もが順に担うことが前提とされていた。",
+      "tags": [
+        "地中海",
+        "ギリシア"
+      ],
+      "distractors": {
+        "easy": [
+          "国会",
+          "幕府",
+          "教会"
+        ],
+        "medium": [
+          "元老院",
+          "評議会",
+          "陪審法廷"
+        ],
+        "hard": [
+          "五百人評議会",
+          "アレオパゴス会議",
+          "監督官の会議"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】アテネの民主政では、そこに暮らすすべての人が政治に参加できたのか。",
+      "verso": "いいえ。女性・在留外国人・奴隷は除かれ、参加できたのは成年男性市民に限られた",
+      "explanation": "よくある誤解である。人口の多数を占めた奴隷の労働が、市民に政治へ参加する時間を与えていた面もある。近代の民主主義と同じものと考えないことが大切である。",
+      "tags": [
+        "piege",
+        "地中海"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。全員が平等に参加できた",
+          "はい。子どもも参加した",
+          "はい。外国人も市民だった"
+        ],
+        "medium": [
+          "はい。奴隷にも参加が認められた",
+          "はい。女性にも参政権があった",
+          "いいえ。貴族だけが参加できた"
+        ],
+        "hard": [
+          "はい。財産のある者はすべて参加できた",
+          "いいえ。参加できたのは抽選に当たった者だけである",
+          "はい。在留外国人は納税すれば参加できた"
+        ]
+      }
+    },
+    {
+      "recto": "前5世紀、ギリシアの諸ポリスがアケメネス朝の遠征を退けた戦いを何というか。",
+      "verso": "ペルシア戦争",
+      "explanation": "マラトンやサラミスの勝利は、重装歩兵や軍船の漕ぎ手を務めた市民の力によるものであった。この経験がアテネの民主政をさらに前進させた。",
+      "tags": [
+        "地中海",
+        "ギリシア"
+      ],
+      "distractors": {
+        "easy": [
+          "百年戦争",
+          "十字軍",
+          "アヘン戦争"
+        ],
+        "medium": [
+          "ペロポネソス戦争",
+          "ポエニ戦争",
+          "トロイア戦争"
+        ],
+        "hard": [
+          "コリントス戦争",
+          "デロス同盟の内戦",
+          "アレクサンドロスの東方遠征"
+        ]
+      }
+    },
+    {
+      "recto": "東方へ遠征してアケメネス朝を滅ぼし、ギリシアからインドの近くまでを結んだ人物は誰か。",
+      "verso": "アレクサンドロス大王",
+      "explanation": "行く先々にギリシア風の都市を建設し、現地の人々との融合をはかった。帝国は死後すぐ分裂したが、文化の交流はその後も長く続いた。",
+      "tags": [
+        "地中海",
+        "ヘレニズム"
+      ],
+      "distractors": {
+        "easy": [
+          "ナポレオン",
+          "チンギス・ハン",
+          "始皇帝"
+        ],
+        "medium": [
+          "カエサル",
+          "ペリクレス",
+          "ダレイオス1世"
+        ],
+        "hard": [
+          "フィリッポス2世",
+          "セレウコス",
+          "プトレマイオス"
+        ]
+      }
+    },
+    {
+      "recto": "アレクサンドロスの遠征以後、ギリシアの文化とオリエントの文化が融合して生まれた文化を何というか。",
+      "verso": "ヘレニズム文化",
+      "explanation": "ポリスの枠を越えた世界市民の意識や、実用的な自然科学が育った。この文化は東へ伝わり、インドの仏像づくりにも影響を与えた。",
+      "tags": [
+        "地中海",
+        "ヘレニズム"
+      ],
+      "distractors": {
+        "easy": [
+          "ルネサンス",
+          "国風文化",
+          "唐風文化"
+        ],
+        "medium": [
+          "ビザンツ文化",
+          "オリエント文化",
+          "ローマ文化"
+        ],
+        "hard": [
+          "ミケーネ文明の文化",
+          "ガンダーラ美術のみ",
+          "アルカイック期の文化"
+        ]
+      }
+    },
+    {
+      "recto": "共和政期のローマで、貴族出身の有力者が集まり国政を実質的に動かした機関を何というか。",
+      "verso": "元老院",
+      "explanation": "任期1年の執政官と民会もあったが、経験と権威を備えた元老院が長く実権を握った。市民の身分闘争を通じて平民の権利も少しずつ拡大した。",
+      "tags": [
+        "地中海",
+        "ローマ"
+      ],
+      "distractors": {
+        "easy": [
+          "幕府",
+          "民会",
+          "教会"
+        ],
+        "medium": [
+          "護民官",
+          "執政官",
+          "五百人評議会"
+        ],
+        "hard": [
+          "ケントゥリア民会",
+          "監察官",
+          "独裁官"
+        ]
+      }
+    },
+    {
+      "recto": "ローマが地中海の覇権をめぐってカルタゴと三度にわたって戦った戦争を何というか。",
+      "verso": "ポエニ戦争",
+      "explanation": "ハンニバルの侵入に苦しみながら勝利したが、長い従軍で中小の農民が没落し、大土地所有が広がった。勝利が社会の危機を招いた例である。",
+      "tags": [
+        "地中海",
+        "ローマ"
+      ],
+      "distractors": {
+        "easy": [
+          "ペルシア戦争",
+          "十字軍",
+          "百年戦争"
+        ],
+        "medium": [
+          "ペロポネソス戦争",
+          "ガリア戦争",
+          "内乱の一世紀"
+        ],
+        "hard": [
+          "マケドニア戦争",
+          "ミトリダテス戦争",
+          "同盟市戦争"
+        ]
+      }
+    },
+    {
+      "recto": "アウグストゥス以後およそ200年続いた、地中海世界の政治的な安定と繁栄の時期を何というか。",
+      "verso": "ローマの平和（パクス・ロマーナ）",
+      "explanation": "街道と貨幣と法が広い領域を結び、交易と都市が栄えた。ただしその繁栄は、属州からの収奪と奴隷労働にも支えられていた。",
+      "tags": [
+        "地中海",
+        "ローマ"
+      ],
+      "distractors": {
+        "easy": [
+          "元禄時代",
+          "冷戦",
+          "大航海時代"
+        ],
+        "medium": [
+          "ヘレニズム時代",
+          "共和政期",
+          "帝政後期"
+        ],
+        "hard": [
+          "五賢帝時代のみ",
+          "軍人皇帝時代",
+          "四分統治の時代"
+        ]
+      }
+    },
+    {
+      "recto": "ローマが後世に残した最大の遺産の一つとされる、市民のみならず帝国内の人々に適用された法を何というか。",
+      "verso": "ローマ法",
+      "explanation": "はじめは市民だけに適用されたが、領域の拡大とともに万民法へ発展した。近代ヨーロッパの法の土台となり、私法の考え方の源流となっている。",
+      "tags": [
+        "地中海",
+        "ローマ"
+      ],
+      "distractors": {
+        "easy": [
+          "律令",
+          "ハンムラビ法典",
+          "十七条憲法"
+        ],
+        "medium": [
+          "教会法",
+          "慣習法",
+          "マグナ・カルタ"
+        ],
+        "hard": [
+          "十二表法のみ",
+          "ナポレオン法典",
+          "コモン・ロー"
+        ]
+      }
+    },
+    {
+      "recto": "313年、それまで迫害されていた宗教をローマ帝国が公認した法令を何というか。",
+      "verso": "ミラノ勅令",
+      "explanation": "コンスタンティヌス帝によるもので、帝国の広い領域を思想の面からまとめ直すねらいがあった。のちに国教とされ、ヨーロッパの精神的な土台となっていく。",
+      "tags": [
+        "地中海",
+        "ローマ"
+      ],
+      "distractors": {
+        "easy": [
+          "禁教令",
+          "廃藩置県",
+          "権利章典"
+        ],
+        "medium": [
+          "ナントの王令",
+          "ウェストファリア条約",
+          "十二表法"
+        ],
+        "hard": [
+          "テオドシウスの国教化",
+          "ニケーア公会議の決定",
+          "アントニヌス勅令"
+        ]
+      }
+    },
+    {
+      "recto": "395年にローマ帝国に起きた大きな変化は何か。",
+      "verso": "帝国が東西に分裂した",
+      "explanation": "広すぎる領域を一人で治めることが難しくなり、東西に分けて統治された。西は5世紀に滅び、東はビザンツ帝国として1000年以上続く。",
+      "tags": [
+        "地中海",
+        "ローマ"
+      ],
+      "distractors": {
+        "easy": [
+          "共和政が始まった",
+          "都がアテネに移った",
+          "帝国が消滅した"
+        ],
+        "medium": [
+          "帝政が始まった",
+          "属州が独立した",
+          "首都がローマに戻った"
+        ],
+        "hard": [
+          "帝国が三つに分かれた",
+          "軍人皇帝の時代が始まった",
+          "西方が東方を併合した"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】ギリシアのポリスとローマの国家は、規模とまとまり方の点でどう違うか。",
+      "verso": "ポリスは市民が直接参加する小さな共同体にとどまり、ローマは市民権を広げながら巨大な領域国家へ発展した",
+      "explanation": "ポリスは互いに統一されず争いを繰り返した。ローマは征服した人々にも市民権を与え、法によって多様な人々をまとめる方法を見いだした点が決定的に異なる。",
+      "tags": [
+        "comparaison",
+        "地中海"
+      ],
+      "distractors": {
+        "easy": [
+          "どちらも同じ大きさの国家だった",
+          "どちらも王が支配し続けた",
+          "違いはとくにない"
+        ],
+        "medium": [
+          "ポリスが領域国家、ローマが都市国家である",
+          "どちらも市民権を外部に与えなかった",
+          "どちらも直接民主政を最後まで維持した"
+        ],
+        "hard": [
+          "ローマは市民権を最後まで都市ローマの住民に限った",
+          "ポリスは連合して一つの帝国となった",
+          "違いは公用語だけである"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、西アジアと地中海世界が後世に残したものはどのように整理できるか。",
+      "verso": "市民が政治に参加するという考え方と、多様な人々をまとめる法の考え方",
+      "explanation": "オリエントは文字と統治の技術を、ギリシアは市民の参加を、ローマは法による統合を残した。三つが重なって、のちのヨーロッパの土台となっている。",
+      "tags": [
+        "地中海",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "建築の技術だけ",
+          "戦争の記録だけ",
+          "とくに残したものはない"
+        ],
+        "medium": [
+          "宗教の教義だけ",
+          "貨幣の制度だけ",
+          "文字の発明だけ"
+        ],
+        "hard": [
+          "中央集権的な官僚制度の完成",
+          "科挙による官吏の登用",
+          "封建的な主従関係の確立"
+        ]
+      }
+    }
+  ]
+}

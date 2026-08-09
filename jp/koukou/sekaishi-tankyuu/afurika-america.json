@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-sekaishi-tankyuu-afurika-america",
+  "title": "アフリカとアメリカの諸文明",
+  "emoji": "🌍",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "サハラ縦断交易とインド洋に開かれたアフリカの諸王国、そして独自に発展したマヤ・アステカ・インカの文明をたどり、記録の偏りそのものを問い直す。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>アフリカとアメリカの諸文明</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>世界史探究<br>\n  <b>単元：</b>大項目C 諸地域の交流・再編\n</div>\n\n<blockquote>\n  <p><b>問い。</b>史料が少ない地域は、歴史も少なかったのだろうか。</p>\n</blockquote>\n\n<p>世界史はユーラシアだけの物語ではない。サハラを越える隊商とインド洋の船はアフリカを外の世界に結び、大洋に隔てられたアメリカでは独自の文明が精密な暦と長大な道路網を築いた。それでも教科書での扱いは小さい。<b>史料が乏しいのは歴史が乏しかったからではなく、記録が失われ、あるいは残す側が偏っていたから</b>である。</p>\n\n<h2>1・砂漠と海に開かれたアフリカ</h2>\n\n<p>内陸では塩が手に入りにくく、金と交換されるほど貴重であった。ラクダの隊商が北から<strong>岩塩</strong>を、南から<strong>金</strong>を運ぶ<strong>サハラ縦断交易</strong>によって、砂漠は障壁ではなく交易路として機能する。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 126\" role=\"img\" aria-label=\"サハラ砂漠を越えて北から岩塩が南から金が運ばれた交易\">\n  <defs>\n    <marker id=\"ar-saa1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">砂漠は壁ではなく、道であった</text>\n  <rect x=\"12\" y=\"40\" width=\"96\" height=\"48\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"60\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">北アフリカ</text>\n  <text x=\"60\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">岩塩を産する</text>\n  <path d=\"M110,54 L228,54\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-saa1)\"/>\n  <text x=\"169\" y=\"48\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">岩塩が南へ</text>\n  <path d=\"M228,76 L110,76\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-saa1)\"/>\n  <text x=\"169\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">金が北へ</text>\n  <rect x=\"232\" y=\"40\" width=\"96\" height=\"48\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"280\" y=\"60\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">西アフリカ</text>\n  <text x=\"280\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">金を産する</text>\n  <text x=\"170\" y=\"114\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">ラクダの隊商がこの交換を担った</text>\n</svg>\n<figcaption>手に入りにくいものほど、遠くまで運ぶ価値がある。</figcaption>\n</figure>\n\n<p>この富の上に<strong>マリ王国</strong>が栄えた。王マンサ・ムーサの巡礼は、途中で金を配りすぎて相場を崩したと伝えられ、この地域の富がイスラーム世界とヨーロッパに知られる契機となる。ニジェール川流域の<strong>トンブクトゥ</strong>にはモスクと学院が集まり、各地から学者が集まって多くの写本が生み出された。<b>文字による学問の伝統がアフリカに存在した</b>ことを示す重要な事例である。</p>\n\n<p>東岸ではインド洋交易によって港町が栄え、現地の言葉にアラビア語が交ざって<strong>スワヒリ語</strong>が成立した。言語そのものが、どの地域とどれほど深く交わったかを示す資料になっている。内陸には、接合材を使わずに石を積み上げた<strong>大ジンバブエ</strong>の遺跡が残る。</p>\n\n<div class=\"callout\">\n  <strong>用語・大ジンバブエ</strong><br>\n  植民地時代には、現地の人々がこれを築いたことを認めない主張もなされた。<b>考古学によって否定された</b>が、遺跡の解釈が政治的な意図に左右されうることを示す例として記憶しておきたい。\n</div>\n\n<h2>2・大洋に隔てられたアメリカ</h2>\n\n<p>アメリカ大陸の文明は、他の大陸とほぼ交渉をもたずに発展した。<strong>マヤ文明</strong>は二十進法とゼロの概念をもち、天体の観測にもとづく精密な暦と独自の文字を発達させている。<strong>アステカ王国</strong>の都テノチティトランは湖の上に築かれ、人工の島で耕作し、堤と水道を備えた大都市であった。到達したヨーロッパ人が当時の自国の都市より整っていると驚いた記録が残る。</p>\n\n<p><strong>インカ帝国</strong>はアンデス一帯を統一し、総延長数万キロに及ぶ道路網と吊り橋、走者による伝達で広い領域を結んだ。記録には縄の結び目による<strong>キープ</strong>が用いられ、色と結び方と位置によって数量や種類が表された。<b>文字とは異なる形の記録の技術</b>である。農業では標高差を利用し、段々畑を築いて高さごとに異なる作物を育てた。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 134\" role=\"img\" aria-label=\"マヤとアステカとインカの三つの文明のそれぞれ際立つ特徴\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">それぞれの際立った達成</text>\n  <rect x=\"6\" y=\"28\" width=\"104\" height=\"82\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">マヤ</text>\n  <text x=\"58\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">二十進法とゼロ</text>\n  <text x=\"58\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">精密な暦と文字</text>\n  <rect x=\"118\" y=\"28\" width=\"104\" height=\"82\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">アステカ</text>\n  <text x=\"170\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">湖上の都</text>\n  <text x=\"170\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">堤と水道の整備</text>\n  <rect x=\"230\" y=\"28\" width=\"104\" height=\"82\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">インカ</text>\n  <text x=\"282\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">数万キロの道路網</text>\n  <text x=\"282\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">キープによる記録</text>\n  <text x=\"170\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">車輪も大型の荷役獣も鉄器ももたずに達成された</text>\n</svg>\n<figcaption>使える資源が違えば、たどる道も違ってくる。</figcaption>\n</figure>\n\n<p>これらの文明は、車輪を実用の道具として用いず、大型の荷役獣も鉄器ももたなかった。馬や牛にあたる動物が大陸にいなかったからである。<b>技術の優劣ではなく、利用できる動植物という環境の条件</b>が違ったのだと理解したい。一方でこの大陸は<strong>とうもろこし</strong>を栽培化し、それはやがて世界各地へ渡って主食や飼料となり、地球の人口を支えることになる。</p>\n\n<h2>3・記録の偏りを問う</h2>\n\n<p>これらの文明について残された記録は乏しい。しかしそれは、彼らが何も記さなかったからではない。<strong>マヤの絵文書の多くは征服の際に焼却された</strong>。そして今日伝わっている記述の多くは、征服者やその同行者の手によるものである。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 150\" role=\"img\" aria-label=\"交易でユーラシアと結ばれたアフリカと大洋に隔てられて独自に発展したアメリカの比較\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">外の世界とどうつながっていたか</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">アフリカ</text>\n  <text x=\"87\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">サハラの隊商</text>\n  <text x=\"87\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">インド洋の船</text>\n  <text x=\"87\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">信仰と文字が流入</text>\n  <text x=\"87\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">ユーラシアと結ばれる</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">アメリカ</text>\n  <text x=\"253\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">大洋に隔てられる</text>\n  <text x=\"253\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">独自に発展</text>\n  <text x=\"253\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">独特の暦と記録法</text>\n  <text x=\"253\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">免疫をもたなかった</text>\n</svg>\n<figcaption>孤立は独自性を生み、同時に弱点も生んだ。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>アフリカ</h3>\n\n<table>\n  <tr><th>事がら</th><th>内容</th></tr>\n  <tr><td>サハラ縦断交易</td><td>北から岩塩、南から金</td></tr>\n  <tr><td>マリ王国</td><td>14世紀の西アフリカ、金の富</td></tr>\n  <tr><td>トンブクトゥ</td><td>学院と写本が集まる学問の都</td></tr>\n  <tr><td>スワヒリ文化</td><td>インド洋交易が生んだ港町の文化</td></tr>\n  <tr><td>大ジンバブエ</td><td>石を積み上げた大規模な遺跡</td></tr>\n</table>\n\n<h3>アメリカ</h3>\n\n<table>\n  <tr><th>文明</th><th>際立つ特徴</th></tr>\n  <tr><td>マヤ</td><td>二十進法・ゼロ・精密な暦・独自の文字</td></tr>\n  <tr><td>アステカ</td><td>湖上の都テノチティトラン</td></tr>\n  <tr><td>インカ</td><td>数万キロの道路網、キープによる記録</td></tr>\n</table>\n\n<h3>環境という条件</h3>\n\n<table>\n  <tr><th>観点</th><th>アメリカの場合</th></tr>\n  <tr><td>荷役獣</td><td>馬や牛にあたる動物がいなかった</td></tr>\n  <tr><td>車輪と鉄器</td><td>実用の道具としては用いられなかった</td></tr>\n  <tr><td>農業</td><td>標高差を生かした育て分け、とうもろこし</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  文字や鉄器をもたない社会を<b>「遅れている」と評価するのは誤り</b>である。インカは車輪も鉄器ももたずに数万キロの道路網と精密な石造建築を実現した。そもそも<b>何を「発展」と呼ぶかという物差しそのものが、測る側の文化に属している</b>。この点を意識することが、世界史を学ぶ姿勢そのものを変える。\n</div>\n\n<blockquote>\n  <p>史料が少ないことは、歴史が少なかったことを意味しない。何が語られていないかに目を向けたとき、世界史の地図はもう一度描き直される。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "世界史探究 ― 諸地域の交流・再編",
+  "cards": [
+    {
+      "recto": "サハラ砂漠を越えて行われた交易で、南北から運ばれた主な二つの品は何か。",
+      "verso": "北からの岩塩と、南からの金",
+      "explanation": "内陸では塩が手に入りにくく、金と交換されるほど貴重であった。ラクダの隊商がこの交換を担い、砂漠は障壁ではなく交易路として機能した。",
+      "tags": [
+        "アフリカ",
+        "交易"
+      ],
+      "distractors": {
+        "easy": [
+          "米と麦",
+          "石炭と鉄",
+          "水と木材"
+        ],
+        "medium": [
+          "絹と陶磁器",
+          "香辛料と象牙",
+          "銀と銅"
+        ],
+        "hard": [
+          "奴隷と武器のみ",
+          "ナツメヤシと皮革",
+          "銅と綿布"
+        ]
+      }
+    },
+    {
+      "recto": "14世紀に西アフリカで栄え、その王が莫大な金をたずさえて巡礼したことで知られる王国は何か。",
+      "verso": "マリ王国",
+      "explanation": "王マンサ・ムーサの巡礼は、途中で金を配りすぎて相場を崩したと伝えられる。この地域の富がイスラーム世界とヨーロッパに知られる契機となった。",
+      "tags": [
+        "アフリカ",
+        "国家"
+      ],
+      "distractors": {
+        "easy": [
+          "ローマ帝国",
+          "マウリヤ朝",
+          "インカ帝国"
+        ],
+        "medium": [
+          "ガーナ王国",
+          "ソンガイ王国",
+          "エチオピア王国"
+        ],
+        "hard": [
+          "カネム・ボルヌ王国",
+          "ベニン王国",
+          "アクスム王国"
+        ]
+      }
+    },
+    {
+      "recto": "ニジェール川流域にあり、モスクと学院が集まる学問の都として栄えた都市はどこか。",
+      "verso": "トンブクトゥ",
+      "explanation": "各地から学者が集まり、多くの写本が生み出され蓄えられた。文字による学問の伝統がアフリカに存在したことを示す重要な事例である。",
+      "tags": [
+        "アフリカ",
+        "文化"
+      ],
+      "distractors": {
+        "easy": [
+          "ローマ",
+          "京都",
+          "バグダード"
+        ],
+        "medium": [
+          "カイロ",
+          "アレクサンドリア",
+          "マラケシュ"
+        ],
+        "hard": [
+          "ジェンネ",
+          "ガオ",
+          "キルワ"
+        ]
+      }
+    },
+    {
+      "recto": "アフリカ東岸でインド洋交易によって栄え、共通の言語を生んだ港町の文化を何というか。",
+      "verso": "スワヒリ文化",
+      "explanation": "現地の言葉にアラビア語が交ざってスワヒリ語が成立した。言語そのものが、どの地域とどれほど深く交わったかを示す資料となる。",
+      "tags": [
+        "アフリカ",
+        "交易"
+      ],
+      "distractors": {
+        "easy": [
+          "ヘレニズム文化",
+          "国風文化",
+          "元禄文化"
+        ],
+        "medium": [
+          "イスラーム文化",
+          "ガンダーラ美術",
+          "港市の文化としてのマラッカ"
+        ],
+        "hard": [
+          "ヌビア文化",
+          "エチオピアのキリスト教文化",
+          "ベルベルの文化"
+        ]
+      }
+    },
+    {
+      "recto": "アフリカ南部に石を積み上げて築かれた大規模な遺跡は何か。",
+      "verso": "大ジンバブエ",
+      "explanation": "接合材を使わずに石を積んだ壁が残る。植民地時代には現地の人々が築いたことを認めない主張もなされたが、考古学によって否定されている。",
+      "tags": [
+        "アフリカ",
+        "遺跡"
+      ],
+      "distractors": {
+        "easy": [
+          "ピラミッド",
+          "万里の長城",
+          "コロッセウム"
+        ],
+        "medium": [
+          "マチュ・ピチュ",
+          "テオティワカン",
+          "アンコール・ワット"
+        ],
+        "hard": [
+          "キルワの遺跡",
+          "アクスムの石柱",
+          "メロエの遺跡"
+        ]
+      }
+    },
+    {
+      "recto": "中央アメリカで精密な暦と独自の文字を発達させた文明は何か。",
+      "verso": "マヤ文明",
+      "explanation": "二十進法を用い、ゼロの概念をもち、天体の観測にもとづく暦を作り上げた。数学と天文の水準は同時代の他地域と比べても際立っている。",
+      "tags": [
+        "アメリカ",
+        "文明"
+      ],
+      "distractors": {
+        "easy": [
+          "エジプト文明",
+          "インダス文明",
+          "メソポタミア文明"
+        ],
+        "medium": [
+          "アステカ王国",
+          "インカ帝国",
+          "オルメカ文明"
+        ],
+        "hard": [
+          "テオティワカン文明",
+          "トルテカ文明",
+          "サポテカ文明"
+        ]
+      }
+    },
+    {
+      "recto": "湖の上に築かれた都テノチティトランを中心に栄えた国は何か。",
+      "verso": "アステカ王国",
+      "explanation": "湖上に人工の島を造って耕作し、堤や水道を整えた大都市であった。到達したヨーロッパ人が当時の自国の都市より整っていると驚いた記録が残る。",
+      "tags": [
+        "アメリカ",
+        "文明"
+      ],
+      "distractors": {
+        "easy": [
+          "ローマ帝国",
+          "唐",
+          "モンゴル帝国"
+        ],
+        "medium": [
+          "マヤの都市国家",
+          "インカ帝国",
+          "オルメカ文明"
+        ],
+        "hard": [
+          "トルテカ王国",
+          "ミシュテカの王国",
+          "タラスコ王国"
+        ]
+      }
+    },
+    {
+      "recto": "アンデス一帯を統一し、険しい山岳に長大な道路網を築いた帝国は何か。",
+      "verso": "インカ帝国",
+      "explanation": "総延長数万キロに及ぶ道と吊り橋、そして走者による伝達で広い領域を結んだ。車輪も大型の荷役獣ももたずに、この規模の統治を実現した点が驚異である。",
+      "tags": [
+        "アメリカ",
+        "文明"
+      ],
+      "distractors": {
+        "easy": [
+          "エジプト王国",
+          "秦",
+          "フランク王国"
+        ],
+        "medium": [
+          "アステカ王国",
+          "マヤ文明",
+          "チャビン文化"
+        ],
+        "hard": [
+          "チムー王国",
+          "ティワナク",
+          "ナスカの文化"
+        ]
+      }
+    },
+    {
+      "recto": "インカで、記録や集計のために用いられた縄の結び目による道具を何というか。",
+      "verso": "キープ（結縄）",
+      "explanation": "色と結び方と位置によって数量や種類を表した。文字とは異なる形の記録の技術であり、「文字がない＝記録がない」ではないことを教えてくれる。",
+      "tags": [
+        "アメリカ",
+        "記録"
+      ],
+      "distractors": {
+        "easy": [
+          "そろばん",
+          "木簡",
+          "石板"
+        ],
+        "medium": [
+          "結び目のない縄",
+          "絵文字",
+          "楔形文字"
+        ],
+        "hard": [
+          "マヤの絵文書",
+          "アステカの絵文字",
+          "貝殻の帯"
+        ]
+      }
+    },
+    {
+      "recto": "アンデスの人々が険しい山地で行った農業の特徴は何か。",
+      "verso": "標高差を利用して、高さごとに異なる作物を育てた",
+      "explanation": "段々畑を築き、低地ではとうもろこし、高地ではいも類というように育て分けた。垂直の環境を資源として使いこなした知恵である。",
+      "tags": [
+        "アメリカ",
+        "農業"
+      ],
+      "distractors": {
+        "easy": [
+          "平地だけで耕作した",
+          "農業を行わなかった",
+          "水耕栽培を行った"
+        ],
+        "medium": [
+          "一種類の作物だけを大量に育てた",
+          "焼畑だけを行った",
+          "灌漑を用いなかった"
+        ],
+        "hard": [
+          "低地で高山の作物を育てた",
+          "肥料を一切使わなかった",
+          "家畜を用いた大規模耕作を行った"
+        ]
+      }
+    },
+    {
+      "recto": "アメリカ大陸の文明が、ユーラシアの文明と異なっていた技術上の条件は何か。",
+      "verso": "車輪を実用の道具として用いず、大型の荷役獣も鉄器ももたなかった",
+      "explanation": "馬や牛にあたる動物が大陸にいなかったことが大きい。技術の差ではなく、利用できる動植物という環境の条件が違ったのである。",
+      "tags": [
+        "アメリカ",
+        "技術"
+      ],
+      "distractors": {
+        "easy": [
+          "文字も暦ももたなかった",
+          "農業を知らなかった",
+          "都市を築かなかった"
+        ],
+        "medium": [
+          "金属をまったく知らなかった",
+          "天文の知識をもたなかった",
+          "交易を行わなかった"
+        ],
+        "hard": [
+          "石造の建築技術をもたなかった",
+          "数の概念をもたなかった",
+          "灌漑の技術をもたなかった"
+        ]
+      }
+    },
+    {
+      "recto": "アメリカ大陸で栽培化され、のちに世界の食を大きく変えた作物は何か。",
+      "verso": "とうもろこし",
+      "explanation": "野生の草から長い年月をかけて改良された。ヨーロッパやアフリカ、アジアへ渡って各地の主食や飼料となり、世界の人口を支えることになる。",
+      "tags": [
+        "アメリカ",
+        "農業"
+      ],
+      "distractors": {
+        "easy": [
+          "稲",
+          "小麦",
+          "大麦"
+        ],
+        "medium": [
+          "大豆",
+          "そば",
+          "きび"
+        ],
+        "hard": [
+          "キヌア",
+          "アマランサス",
+          "落花生"
+        ]
+      }
+    },
+    {
+      "recto": "これらの文明について残された記録が乏しいのは、主にどのような理由によるか。",
+      "verso": "征服の際に記録が焼かれ、記録を残したのが征服した側に偏ったから",
+      "explanation": "マヤの絵文書の多くは焼却された。伝わっている記述の多くが征服者やその同行者の手によることを踏まえ、誰の視点かを意識して読む必要がある。",
+      "tags": [
+        "アメリカ",
+        "資料"
+      ],
+      "distractors": {
+        "easy": [
+          "もともと何も記録しなかったから",
+          "記録する必要がなかったから",
+          "人口が少なかったから"
+        ],
+        "medium": [
+          "文字をもつ文明が一つもなかったから",
+          "気候のせいですべて朽ちたから",
+          "記録が地中に埋まったままだから"
+        ],
+        "hard": [
+          "記録が石にしか刻まれなかったから",
+          "記録がすべて口伝だったから",
+          "研究がまだ始まっていないから"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】アフリカの交易国家とアメリカの諸文明は、外部との関係の点でどう違うか。",
+      "verso": "アフリカは交易を通じてユーラシアと結ばれていたが、アメリカは大洋に隔てられて独自に発展した",
+      "explanation": "サハラを越える隊商とインド洋の船がアフリカを外の世界に接続していたのに対し、アメリカの文明は他の大陸とほぼ交渉をもたなかった。孤立が独自性を生み、同時に免疫の不在という弱点も生んだ。",
+      "tags": [
+        "comparaison",
+        "アフリカ"
+      ],
+      "distractors": {
+        "easy": [
+          "どちらも完全に孤立していた",
+          "どちらも活発に交易していた",
+          "違いはとくにない"
+        ],
+        "medium": [
+          "アフリカが孤立し、アメリカが交易していた",
+          "どちらもヨーロッパとだけ交易していた",
+          "どちらも海の交易を行わなかった"
+        ],
+        "hard": [
+          "アフリカはインド洋とのみ、アメリカは太平洋とのみ交易した",
+          "どちらも中国と直接交易していた",
+          "違いは用いた通貨だけである"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】文字や鉄器をもたない社会は、「遅れている」と評価してよいのか。",
+      "verso": "いいえ。それぞれの環境で必要な技術を発達させており、単一の物差しで並べることはできない",
+      "explanation": "よくある誤解である。インカは車輪も鉄器ももたずに数万キロの道路網と精密な石造建築を実現した。何を「発展」と呼ぶかという物差しそのものが、測る側の文化に属している点を意識したい。",
+      "tags": [
+        "piege",
+        "アメリカ"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。文字がなければ文明ではない",
+          "はい。鉄がすべてを決める",
+          "はい。技術の順位は明らかである"
+        ],
+        "medium": [
+          "はい。ユーラシアの基準で測るべきだから",
+          "はい。都市を築けなかったから",
+          "いいえ。実際には鉄器をもっていたから"
+        ],
+        "hard": [
+          "はい。人口の規模で優劣が決まるから",
+          "いいえ。文字は口伝より劣るから",
+          "はい。征服されたことが証拠だから"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、アフリカとアメリカの諸文明を学ぶ意義はどのように整理できるか。",
+      "verso": "世界史がユーラシアだけの物語ではないことを知り、記録の偏りそのものを問い直すこと",
+      "explanation": "史料が乏しいのは歴史が乏しかったからではなく、記録が失われ、あるいは残す側が偏っていたからである。何が語られていないかに目を向けることが、探究の姿勢につながる。",
+      "tags": [
+        "アフリカ",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "覚える地域が増えること",
+          "地図を広く見られること",
+          "とくに意義はない"
+        ],
+        "medium": [
+          "ユーラシアの優位を確かめること",
+          "征服の経過を詳しく知ること",
+          "作物の起源だけを知ること"
+        ],
+        "hard": [
+          "すべての文明が同じ道をたどると確かめること",
+          "文字のない社会には歴史がないと知ること",
+          "史料の少なさは研究の不足によると知ること"
+        ]
+      }
+    }
+  ]
+}

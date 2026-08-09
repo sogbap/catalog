@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-chiri-tankyuu-kikou-seitai",
+  "title": "気候区分と植生・土壌",
+  "emoji": "🌦️",
+  "subject": "geography",
+  "country": "jp",
+  "courseDescription": "気温と降水がなぜその分布になるのかを大気の循環から理解し、気候区分と植生・土壌・農業の対応をつかむ。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>気候区分と植生・土壌</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>地理探究<br>\n  <b>単元：</b>大項目A 現代世界の系統地理的考察（自然環境）\n</div>\n\n<blockquote>\n  <p><b>問い。</b>世界の大砂漠が、なぜ同じような緯度に帯状に並んでいるのだろうか。</p>\n</blockquote>\n\n<p>気候の記号を暗記しても意味がない。<b>なぜそこがその気候になるのか</b>を大気の循環から説明でき、そこから<strong>植生</strong>と<strong>土壌</strong>と<strong>農業</strong>まで一本の線でつなげること。それがこの単元の目標である。</p>\n\n<h2>1・大気の循環が分布を決める</h2>\n\n<p>赤道付近では強い日射で空気があたためられて上昇し、上空で冷えて雨を降らせる。上昇した空気は上空を移動し、<strong>緯度20〜30度付近で下降</strong>して高気圧となる。下降する空気の下では雨が降らない。<b>赤道の多雨と回帰線付近の乾燥は、一つの循環がセットで生み出している</b>のである。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 140\" role=\"img\" aria-label=\"赤道での上昇気流と緯度二十度から三十度付近での下降気流が多雨帯と砂漠帯を生む仕組み\">\n  <defs>\n    <marker id=\"ar-gkk1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">一つの循環が、二つの気候を作る</text>\n  <path d=\"M170,104 L170,42\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gkk1)\"/>\n  <path d=\"M178,38 L268,38\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gkk1)\"/>\n  <path d=\"M272,44 L272,98\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gkk1)\"/>\n  <path d=\"M162,38 L72,38\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gkk1)\"/>\n  <path d=\"M68,44 L68,98\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gkk1)\"/>\n  <rect x=\"120\" y=\"106\" width=\"100\" height=\"24\" rx=\"11\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"122\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">赤道・多雨</text>\n  <rect x=\"228\" y=\"106\" width=\"88\" height=\"24\" rx=\"11\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"272\" y=\"122\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">砂漠帯</text>\n  <rect x=\"24\" y=\"106\" width=\"88\" height=\"24\" rx=\"11\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"68\" y=\"122\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">砂漠帯</text>\n  <text x=\"170\" y=\"60\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">上空を高緯度側へ</text>\n</svg>\n<figcaption>サハラもアラビアも豪州中央部も、同じ緯度帯にそろう。</figcaption>\n</figure>\n\n<p>ただし緯度だけでは決まらない。同じ緯度でも<strong>西ヨーロッパ</strong>が冬に温和なのは、暖流とその上を吹く<strong>偏西風</strong>が熱を内陸まで運ぶからである。北海道より高緯度のロンドンやパリが温和なのはこのためだ。また<strong>季節風</strong>は夏に海から陸へ、冬に陸から海へ吹き、南アジアや東アジアの稲作はこの夏の雨に依存して成り立ってきた。</p>\n\n<div class=\"callout\">\n  <strong>用語・エルニーニョ現象</strong><br>\n  数年に一度、太平洋の赤道域で海面水温が変化し、世界各地の天候に影響する現象。南米沖の海水温が上がると大気の循環が変わり、<b>遠く離れた地域で干ばつや大雨が起きる</b>。海と大気が世界規模でつながっている証拠である。\n</div>\n\n<h2>2・気候区分と、その読み方</h2>\n\n<p><strong>ケッペンの気候区分</strong>は気温と降水量の組み合わせで世界を区分するが、その手がかりは<b>植生の分布</b>にあった。だから気候区分は植生と農業を読み解く道具として使うのが正しい。</p>\n\n<p>たとえば<strong>サバナ気候</strong>は雨季と乾季がはっきり分かれ、丈の高い草原が広がる。赤道付近の低気圧帯と回帰線付近の高気圧帯が季節によって南北に移動するために生じる現象で、野生動物の大移動もこの季節の変化に対応している。</p>\n\n<p><strong>地中海性気候</strong>は夏に乾燥し冬に雨が降るという、他に例の少ない気候である。夏は高気圧に、冬は偏西風の影響下に入るためだ。夏の乾燥に耐えるオリーブ・ぶどう・コルクがしの栽培が、この気候にぴたりと対応している。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 150\" role=\"img\" aria-label=\"砂漠気候とステップ気候の降水量と植生と砂漠化の危険の比較\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">わずかな雨の差が、風景を変える</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">砂漠気候</text>\n  <text x=\"87\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">ほとんど降水なし</text>\n  <text x=\"87\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">植生はごくわずか</text>\n  <text x=\"87\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">オアシスに人が集まる</text>\n  <text x=\"87\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">灌漑がなければ耕せない</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">ステップ気候</text>\n  <text x=\"253\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">わずかな雨季がある</text>\n  <text x=\"253\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">丈の短い草原</text>\n  <text x=\"253\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">遊牧と小麦の栽培</text>\n  <text x=\"253\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">砂漠化が進みやすい</text>\n</svg>\n<figcaption>ステップは砂漠の周縁であり、過放牧の影響を受けやすい。</figcaption>\n</figure>\n\n<h2>3・植生から土壌へ、土壌から農業へ</h2>\n\n<p>気候は植生を決め、植生と気温は土壌を決める。<strong>熱帯雨林</strong>の土壌は高温多雨で養分が流されやすく、やせた赤色の土になる。豊かな森が育つのは落ち葉が速やかに分解されて循環しているからであり、<b>森を切り開くとその循環が断たれ、土地はすぐに衰える</b>。</p>\n\n<p>対照的に<strong>チェルノーゼム</strong>は、草原の草が枯れて有機物が蓄積し、乾燥のため分解が進みすぎない条件で生まれる黒く肥沃な土壌である。世界有数の穀倉地帯が、この土壌の分布と重なっている。<strong>冷帯の針葉樹林帯</strong>では低温で分解が進まず、酸性の強いやせた土になるため、広大な森林資源はあっても耕作には向かない。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 132\" role=\"img\" aria-label=\"大気の循環から気候そして植生と土壌を経て農業に至る連鎖\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">暗記ではなく、因果でつなぐ</text>\n  <rect x=\"10\" y=\"30\" width=\"70\" height=\"30\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"45\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">大気の循環</text>\n  <path d=\"M80,45 L96,45\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gkk1)\"/>\n  <rect x=\"100\" y=\"30\" width=\"70\" height=\"30\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"135\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">気温と降水</text>\n  <path d=\"M170,45 L186,45\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gkk1)\"/>\n  <rect x=\"190\" y=\"30\" width=\"60\" height=\"30\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"220\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">植生</text>\n  <path d=\"M250,45 L266,45\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gkk1)\"/>\n  <rect x=\"270\" y=\"30\" width=\"60\" height=\"30\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"300\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">土壌</text>\n  <path d=\"M300,60 L300,80 L170,80 L170,92\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gkk1)\"/>\n  <rect x=\"100\" y=\"96\" width=\"140\" height=\"28\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"114\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">農業と暮らし</text>\n</svg>\n<figcaption>この連鎖をたどれば、世界地図のどこでも説明がつく。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>気候を決める要因</h3>\n\n<table>\n  <tr><th>要因</th><th>はたらき</th></tr>\n  <tr><td>大気の循環</td><td>赤道の多雨と回帰線付近の乾燥</td></tr>\n  <tr><td>海流と偏西風</td><td>同緯度でも西ヨーロッパを温和にする</td></tr>\n  <tr><td>季節風</td><td>雨季と乾季、アジアの稲作を支える</td></tr>\n  <tr><td>標高</td><td>100mの上昇が緯度1度の北上に相当</td></tr>\n</table>\n\n<h3>代表的な気候</h3>\n\n<table>\n  <tr><th>気候</th><th>特徴と対応する農業</th></tr>\n  <tr><td>サバナ気候</td><td>雨季と乾季、丈の高い草原</td></tr>\n  <tr><td>ステップ気候</td><td>わずかな雨季、遊牧と小麦</td></tr>\n  <tr><td>砂漠気候</td><td>ほとんど降水なし、灌漑が必須</td></tr>\n  <tr><td>地中海性気候</td><td>夏乾燥・冬雨、オリーブとぶどう</td></tr>\n</table>\n\n<h3>土壌と農業</h3>\n\n<table>\n  <tr><th>土壌</th><th>性質</th></tr>\n  <tr><td>熱帯の赤色土</td><td>養分が流され、やせている</td></tr>\n  <tr><td>チェルノーゼム</td><td>黒く肥沃、世界の穀倉地帯</td></tr>\n  <tr><td>冷帯の土壌</td><td>酸性が強くやせている、耕作に不向き</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  気候が<b>緯度によって決まると考えるのは誤り</b>である。海流・風・標高・大陸の内部か沿岸かによって、同じ緯度でも大きく異なる。西ヨーロッパは温和で、同緯度の大陸内部は寒暖の差が激しい。<b>緯度は出発点にすぎず</b>、複数の要因を重ねて考える必要がある。\n</div>\n\n<blockquote>\n  <p>砂漠の位置も、オリーブの畑も、黒い土の広がりも、すべて空気の動きから説明できる。世界地図は、大気の循環が描いた図でもある。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "地理探究 ― 現代世界の系統地理的考察",
+  "cards": [
+    {
+      "recto": "赤道付近で上昇気流が生じ、年間を通じて雨が多くなるのはなぜか。",
+      "verso": "強い日射で空気があたためられて上昇し、上空で冷えて雨を降らせるから",
+      "explanation": "上昇した空気は上空を移動し、緯度20〜30度付近で下降する。この循環が、赤道の多雨と回帰線付近の乾燥をセットで生み出している。",
+      "tags": [
+        "気候",
+        "大気の循環"
+      ],
+      "distractors": {
+        "easy": [
+          "海が近いから",
+          "標高が高いから",
+          "偶然そうなっている"
+        ],
+        "medium": [
+          "偏西風が吹くから",
+          "季節風の影響を受けるから",
+          "海流が暖かいから"
+        ],
+        "hard": [
+          "下降気流が生じるから",
+          "高気圧におおわれるから",
+          "極からの寒気が届くから"
+        ]
+      }
+    },
+    {
+      "recto": "緯度20〜30度付近に世界の大砂漠が帯状に分布するのはなぜか。",
+      "verso": "赤道で上昇した空気がこの緯度で下降し、高気圧となって雨が降りにくいから",
+      "explanation": "サハラ、アラビア、オーストラリア中央部が同じ緯度帯にそろう理由である。地図上の砂漠の並びを見れば、大気の循環の存在が読み取れる。",
+      "tags": [
+        "気候",
+        "乾燥帯"
+      ],
+      "distractors": {
+        "easy": [
+          "海から遠いから",
+          "標高が高いから",
+          "人が住んでいないから"
+        ],
+        "medium": [
+          "寒流が流れているから",
+          "山脈にさえぎられているから",
+          "内陸に位置するから"
+        ],
+        "hard": [
+          "上昇気流が生じるから",
+          "低気圧が停滞するから",
+          "偏西風が届かないから"
+        ]
+      }
+    },
+    {
+      "recto": "気温と降水量の組み合わせによって世界の気候を区分した代表的な方式は何か。",
+      "verso": "ケッペンの気候区分",
+      "explanation": "植生の分布を手がかりに区分された点に特徴がある。気候の記号は暗記の対象ではなく、植生と農業を読み解く道具として使いたい。",
+      "tags": [
+        "気候",
+        "区分"
+      ],
+      "distractors": {
+        "easy": [
+          "メルカトル図法",
+          "等高線",
+          "時差の区分"
+        ],
+        "medium": [
+          "土壌の区分",
+          "植生帯の区分",
+          "農業地域の区分"
+        ],
+        "hard": [
+          "アリソフの区分",
+          "サンソン図法",
+          "気圧配置による区分"
+        ]
+      }
+    },
+    {
+      "recto": "熱帯のうち、雨季と乾季がはっきり分かれ、丈の高い草原が広がる気候を何というか。",
+      "verso": "サバナ気候",
+      "explanation": "赤道付近の低気圧帯と回帰線付近の高気圧帯が季節によって南北に移動するために生じる。野生動物の大移動もこの季節の変化に対応している。",
+      "tags": [
+        "気候",
+        "熱帯"
+      ],
+      "distractors": {
+        "easy": [
+          "ツンドラ気候",
+          "氷雪気候",
+          "地中海性気候"
+        ],
+        "medium": [
+          "熱帯雨林気候",
+          "砂漠気候",
+          "ステップ気候"
+        ],
+        "hard": [
+          "弱い乾季のある熱帯雨林気候",
+          "温暖冬季少雨気候",
+          "熱帯モンスーン気候"
+        ]
+      }
+    },
+    {
+      "recto": "夏に乾燥して冬に雨が降るという、他に例の少ない気候を何というか。",
+      "verso": "地中海性気候",
+      "explanation": "夏は高気圧に、冬は偏西風の影響下に入るために生じる。夏の乾燥に耐えるオリーブ・ぶどう・コルクがしの栽培がこの気候に対応している。",
+      "tags": [
+        "気候",
+        "温帯"
+      ],
+      "distractors": {
+        "easy": [
+          "熱帯雨林気候",
+          "氷雪気候",
+          "砂漠気候"
+        ],
+        "medium": [
+          "西岸海洋性気候",
+          "温暖湿潤気候",
+          "温暖冬季少雨気候"
+        ],
+        "hard": [
+          "ステップ気候",
+          "亜寒帯冬季少雨気候",
+          "高山気候"
+        ]
+      }
+    },
+    {
+      "recto": "同じ緯度でも西ヨーロッパが冬に温和なのはなぜか。",
+      "verso": "暖流とその上を吹く偏西風が、熱を内陸まで運ぶから",
+      "explanation": "北海道より高緯度のロンドンやパリが温和なのはこのためである。緯度だけでは気候を説明できないことを示す代表的な例といえる。",
+      "tags": [
+        "気候",
+        "海流と風"
+      ],
+      "distractors": {
+        "easy": [
+          "赤道に近いから",
+          "標高が低いから",
+          "人口が多いから"
+        ],
+        "medium": [
+          "季節風の影響を受けるから",
+          "山脈に囲まれているから",
+          "内陸に位置するから"
+        ],
+        "hard": [
+          "寒流が流れているから",
+          "高気圧が停滞するから",
+          "貿易風が吹くから"
+        ]
+      }
+    },
+    {
+      "recto": "季節によって風向きが逆転し、雨季と乾季をもたらす風を何というか。",
+      "verso": "季節風（モンスーン）",
+      "explanation": "夏は海から陸へ、冬は陸から海へ吹く。南アジアや東アジアの稲作は、この夏の雨に依存して成り立ってきた。",
+      "tags": [
+        "気候",
+        "風"
+      ],
+      "distractors": {
+        "easy": [
+          "台風",
+          "つむじ風",
+          "海風のみ"
+        ],
+        "medium": [
+          "偏西風",
+          "貿易風",
+          "極東風"
+        ],
+        "hard": [
+          "フェーン",
+          "からっ風",
+          "やませ"
+        ]
+      }
+    },
+    {
+      "recto": "数年に一度、太平洋の赤道域で海面水温が変化し、世界各地の天候に影響する現象を何というか。",
+      "verso": "エルニーニョ現象",
+      "explanation": "南米沖の海水温が上がることで大気の循環が変わり、遠く離れた地域で干ばつや大雨が起きる。海と大気が世界規模でつながっている証拠である。",
+      "tags": [
+        "気候",
+        "変動"
+      ],
+      "distractors": {
+        "easy": [
+          "オーロラ",
+          "潮の満ち引き",
+          "日食"
+        ],
+        "medium": [
+          "地球温暖化",
+          "ヒートアイランド現象",
+          "フェーン現象"
+        ],
+        "hard": [
+          "偏西風の蛇行のみ",
+          "海洋大循環の停止",
+          "黒潮の大蛇行"
+        ]
+      }
+    },
+    {
+      "recto": "熱帯雨林の土壌が農業に適さないことが多いのはなぜか。",
+      "verso": "高温多雨で養分が流されやすく、やせた赤色の土になるから",
+      "explanation": "豊かな森が育つのは、落ち葉が速やかに分解されて循環しているためである。森を切り開くとその循環が断たれ、土地はすぐに衰える。",
+      "tags": [
+        "気候",
+        "土壌"
+      ],
+      "distractors": {
+        "easy": [
+          "寒すぎるから",
+          "土が凍っているから",
+          "雨が降らないから"
+        ],
+        "medium": [
+          "塩分が多いから",
+          "土が硬すぎるから",
+          "傾斜が急だから"
+        ],
+        "hard": [
+          "養分が多すぎるから",
+          "有機物が分解されず堆積するから",
+          "石灰分が多いから"
+        ]
+      }
+    },
+    {
+      "recto": "ウクライナから西シベリアにかけて分布する、黒く肥沃な土壌を何というか。",
+      "verso": "チェルノーゼム（黒土）",
+      "explanation": "草原の草が枯れて有機物が蓄積し、乾燥のため分解が進みすぎない条件で生まれる。世界有数の穀倉地帯がこの土壌の分布と重なる。",
+      "tags": [
+        "気候",
+        "土壌"
+      ],
+      "distractors": {
+        "easy": [
+          "砂",
+          "火山灰",
+          "粘土"
+        ],
+        "medium": [
+          "ラトソル",
+          "ポドゾル",
+          "レグール土"
+        ],
+        "hard": [
+          "テラロッサ",
+          "テラローシャ",
+          "ツンドラ土"
+        ]
+      }
+    },
+    {
+      "recto": "冷帯の針葉樹林帯の土壌が農業に不向きなのはなぜか。",
+      "verso": "低温で分解が進まず、酸性の強いやせた土になるから",
+      "explanation": "広大な森林資源はあっても耕作には向かない。気候が植生を決め、植生が土壌を決め、土壌が農業を決めるという連鎖を確認したい。",
+      "tags": [
+        "気候",
+        "土壌"
+      ],
+      "distractors": {
+        "easy": [
+          "雨が多すぎるから",
+          "日照が強すぎるから",
+          "土が黒すぎるから"
+        ],
+        "medium": [
+          "塩害が起きるから",
+          "養分が流されるから",
+          "石が多いから"
+        ],
+        "hard": [
+          "アルカリ性が強すぎるから",
+          "有機物がまったくないから",
+          "永久凍土がないから"
+        ]
+      }
+    },
+    {
+      "recto": "標高が上がるにつれて植生が変わるという現象は、何と対応しているか。",
+      "verso": "緯度が高くなるにつれて植生が変わるのと同じ仕組み",
+      "explanation": "標高100メートルの上昇はおよそ緯度1度の北上に相当する。高山を登ることが、緯度方向の移動を縮めて体験することになる。",
+      "tags": [
+        "気候",
+        "植生"
+      ],
+      "distractors": {
+        "easy": [
+          "経度の変化と対応する",
+          "季節の変化と対応する",
+          "対応するものはない"
+        ],
+        "medium": [
+          "降水量の変化のみと対応する",
+          "海からの距離と対応する",
+          "土壌の色と対応する"
+        ],
+        "hard": [
+          "気圧の変化のみと対応する",
+          "日照時間の長さと対応する",
+          "対応関係は逆である"
+        ]
+      }
+    },
+    {
+      "recto": "気候区分を学ぶことが、農業や生活文化の理解にどうつながるか。",
+      "verso": "その土地で何が育ち、どのような住居や衣服が必要かを説明できるようになる",
+      "explanation": "地中海性気候のオリーブ、モンスーンの稲、乾燥帯の遊牧。気候の記号を覚えることが目的ではなく、暮らしの条件を読むことが目的である。",
+      "tags": [
+        "気候",
+        "生活"
+      ],
+      "distractors": {
+        "easy": [
+          "記号を暗記できるようになる",
+          "天気を予測できるようになる",
+          "つながらない"
+        ],
+        "medium": [
+          "気温を正確に計算できる",
+          "国境の位置が分かる",
+          "人口の数が分かる"
+        ],
+        "hard": [
+          "農業の生産量が計算できる",
+          "気候は生活文化と無関係だと分かる",
+          "住居の形は気候で決まらないと分かる"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】乾燥帯の砂漠気候とステップ気候は、どう違うか。",
+      "verso": "砂漠気候はほとんど降水がなく、ステップ気候はわずかな雨季があって丈の短い草原が広がる",
+      "explanation": "ステップは砂漠の周縁にあたる。降水がわずかに増減するだけで草原にも砂漠にもなるため、過放牧や気候変動によって砂漠化が進みやすい地帯でもある。",
+      "tags": [
+        "comparaison",
+        "気候"
+      ],
+      "distractors": {
+        "easy": [
+          "まったく同じ気候である",
+          "どちらも降水が多い",
+          "違いは気温だけである"
+        ],
+        "medium": [
+          "砂漠気候に草原が広がる",
+          "ステップ気候に降水がまったくない",
+          "どちらも樹林におおわれる"
+        ],
+        "hard": [
+          "ステップは砂漠より降水が少ない",
+          "違いは土壌の色だけである",
+          "どちらも農業に適している"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】気候は緯度によって決まると考えてよいのか。",
+      "verso": "いいえ。海流・風・標高・大陸の内部か沿岸かによって、同じ緯度でも大きく異なる",
+      "explanation": "よくある誤解である。同緯度でも西ヨーロッパは温和で、大陸内部は寒暖の差が激しい。緯度は出発点にすぎず、複数の要因を重ねて考える必要がある。",
+      "tags": [
+        "piege",
+        "気候"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。緯度だけで決まる",
+          "はい。赤道に近いほど暑い",
+          "はい。例外はない"
+        ],
+        "medium": [
+          "はい。海流の影響は小さいから",
+          "はい。標高は関係ないから",
+          "いいえ。標高だけで決まるから"
+        ],
+        "hard": [
+          "はい。風の影響は局地的だから",
+          "いいえ。海流だけで決まるから",
+          "はい。大陸の内陸と沿岸で差はないから"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、気候と植生・土壌の関係はどのように整理できるか。",
+      "verso": "大気の循環が気温と降水の分布を決め、それが植生を決め、植生と気温が土壌を決め、土壌が農業を左右する",
+      "explanation": "この連鎖をたどれるようになると、世界地図のどこを見ても「なぜここでこれを作っているのか」が説明できる。暗記ではなく因果でつなぐことが要点である。",
+      "tags": [
+        "気候",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "それぞれ無関係に決まっている",
+          "すべて偶然である",
+          "人間が決めている"
+        ],
+        "medium": [
+          "土壌が気候を決めている",
+          "植生が大気の循環を決めている",
+          "農業が気候を決めている"
+        ],
+        "hard": [
+          "気候と土壌に関係はない",
+          "植生は土壌とは無関係に決まる",
+          "連鎖は緯度だけで説明できる"
+        ]
+      }
+    }
+  ]
+}

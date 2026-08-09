@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-chiri-tankyuu-jinkou-toshi",
+  "title": "人口と都市・村落",
+  "emoji": "🏙️",
+  "subject": "geography",
+  "country": "jp",
+  "courseDescription": "人口の推移と移動を統計から読み解き、都市がどのように広がり、内部でどう分化していくのかをとらえる。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>人口と都市・村落</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>地理探究<br>\n  <b>単元：</b>大項目A 現代世界の系統地理的考察（人口、都市・村落）\n</div>\n\n<blockquote>\n  <p><b>問い。</b>人口が減ることは、その地域にとって本当に「問題」なのだろうか。</p>\n</blockquote>\n\n<p>人口統計は数字の羅列ではない。<b>その背後にある人の選択</b>——どこで暮らし、どこへ移るかという判断の集積である。この単元では、人口の推移と移動が都市の形と農村の姿をどう決めるのかをたどる。</p>\n\n<h2>1・人口はどう変わるか</h2>\n\n<p><strong>人口転換</strong>とは、社会の発展にともなって出生率と死亡率がたどる変化のことである。医療の普及でまず死亡率が下がり、遅れて出生率が下がる。<b>この時間差の期間に人口が急増する</b>——途上国の人口爆発はこの段階にあたる。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 136\" role=\"img\" aria-label=\"死亡率が先に下がり出生率が遅れて下がることで人口が急増する人口転換の仕組み\">\n  <defs>\n    <marker id=\"ar-gjt1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">時間差が、人口爆発を生む</text>\n  <rect x=\"10\" y=\"30\" width=\"94\" height=\"38\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"57\" y=\"47\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">多産多死</text>\n  <text x=\"57\" y=\"61\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">人口は横ばい</text>\n  <path d=\"M104,49 L120,49\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gjt1)\"/>\n  <rect x=\"124\" y=\"30\" width=\"94\" height=\"38\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"171\" y=\"47\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">多産少死</text>\n  <text x=\"171\" y=\"61\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">人口が急増する</text>\n  <path d=\"M218,49 L234,49\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gjt1)\"/>\n  <rect x=\"238\" y=\"30\" width=\"94\" height=\"38\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"285\" y=\"47\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">少産少死</text>\n  <text x=\"285\" y=\"61\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">高齢化が進む</text>\n  <rect x=\"60\" y=\"84\" width=\"220\" height=\"26\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"101\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">医療は先に届き、出生の慣行は遅れて変わる</text>\n  <text x=\"170\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">働く世代が厚くなる一時期が「人口ボーナス」である</text>\n</svg>\n<figcaption>人口爆発は、豊かさが届き始めた印でもある。</figcaption>\n</figure>\n\n<p>働く世代の割合が高い<strong>人口ボーナス</strong>の時期は経済成長に有利にはたらくが、<b>一時的なもの</b>で、やがて高齢化によって逆の局面に転じる。<strong>人口ピラミッド</strong>を見れば、その社会の出生率・死亡率の状況と将来の見通しが読み取れる。過去の戦争や政策の影響が、へこみとして現れることもある。</p>\n\n<p>人の移動は、<b>出身地から押し出す要因と、目的地へ引き寄せる要因</b>の組み合わせで説明される。紛争や失業が押し出し、雇用や教育の機会が引き寄せる。どちらか一方ではなく、両者の差が移動を生むと考えるとよい。</p>\n\n<h2>2・都市はどう広がり、どう分化するか</h2>\n\n<p>都市の人口が急増すると、周辺の農地へ無秩序に広がる<strong>スプロール現象</strong>が起きる。道路や上下水道の整備が追いつかず虫食い状に開発が進むため、<b>あとから基盤を整えるほうが費用がかかる</b>。</p>\n\n<p>都心では地価の高さや住環境の悪化から居住人口が減り、郊外の人口が増える<strong>ドーナツ化現象</strong>が生じた。都心は昼間人口が多く夜間人口が少ない状態になり、通勤の集中を招く。近年は再開発と高層住宅の供給によって<strong>都心回帰</strong>も進んでいるが、住めるのは一定の所得層に限られ、<b>もともとの住民が住み続けられなくなる</b>問題も指摘されている。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 132\" role=\"img\" aria-label=\"都心と郊外のあいだで居住人口が移動するドーナツ化と都心回帰の動き\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">人は、都心と郊外を行き来する</text>\n  <rect x=\"118\" y=\"52\" width=\"104\" height=\"46\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"72\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">都心</text>\n  <text x=\"170\" y=\"89\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">地価が高い</text>\n  <rect x=\"6\" y=\"52\" width=\"100\" height=\"46\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"56\" y=\"72\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">郊外</text>\n  <text x=\"56\" y=\"89\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">住宅地の拡大</text>\n  <rect x=\"234\" y=\"52\" width=\"100\" height=\"46\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"284\" y=\"72\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">周辺の農地</text>\n  <text x=\"284\" y=\"89\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">スプロール</text>\n  <path d=\"M116,62 L108,62\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gjt1)\"/>\n  <text x=\"112\" y=\"42\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"7.5\">ドーナツ化</text>\n  <path d=\"M108,88 L116,88\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gjt1)\"/>\n  <text x=\"112\" y=\"114\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"7.5\">都心回帰</text>\n  <path d=\"M224,75 L232,75\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gjt1)\"/>\n</svg>\n<figcaption>どちらの動きも、住める人と住めない人を選り分ける。</figcaption>\n</figure>\n\n<p>都心周辺の古い市街地では、建物の老朽化や治安の悪化という<strong>インナーシティ問題</strong>が生じる。産業の転換で職を失った人々が残され、税収も減って公共サービスが低下する悪循環に陥りやすい。<b>再開発は解決策であると同時に、住民の追い出しという別の問題も生む</b>。</p>\n\n<div class=\"callout\">\n  <strong>用語・昼間人口と夜間人口</strong><br>\n  同じ都市でも、通勤・通学で入ってくる人を含めた<b>昼間人口</b>と、そこに住む<b>夜間人口</b>は大きく異なる。この差は通勤の集中を示すと同時に、<b>災害時の避難計画</b>に直結する情報でもある。\n</div>\n\n<h2>3・集中と過疎、そして村落の形</h2>\n\n<p>発展途上国の大都市では、農村に仕事がないために流入が続き、上下水道や電気の基盤が乏しく住む権利も不安定な地区が広がる。<b>都市だけを整備しても解決せず</b>、農村の雇用と生活の改善を同時に進める必要がある。</p>\n\n<p>一国の中で人口や機能が特定の都市に集まる<strong>一極集中</strong>は、効率を高める一方で<b>災害時の危険も一点に集める</b>。逆に農村部では、人が減ればサービスが減り、サービスが減ればさらに人が減るという過疎の悪循環が進む。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 132\" role=\"img\" aria-label=\"人口の減少が生活サービスの縮小を招きさらに人口が減るという過疎の悪循環\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">悪循環をどこで断つか</text>\n  <rect x=\"98\" y=\"26\" width=\"144\" height=\"26\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"43\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">人口の減少</text>\n  <path d=\"M242,42 L286,60\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gjt1)\"/>\n  <rect x=\"216\" y=\"66\" width=\"118\" height=\"26\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"275\" y=\"83\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">店・医療・交通の縮小</text>\n  <path d=\"M256,92 L184,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gjt1)\"/>\n  <rect x=\"60\" y=\"98\" width=\"118\" height=\"26\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"119\" y=\"115\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">暮らしにくさ</text>\n  <path d=\"M78,98 L108,54\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gjt1)\"/>\n</svg>\n<figcaption>減少そのものより、速さと年齢の偏りが困難を生む。</figcaption>\n</figure>\n\n<p>村落の形にも歴史が刻まれている。<b>水の得やすさや開拓の方式が、家の並び方として形に残る</b>。湧水線に沿う列状の村、開拓地の碁盤目状の区画——地形図の集落の形は、それ自体が歴史の資料である。</p>\n\n<h2>まとめ</h2>\n\n<h3>人口</h3>\n\n<table>\n  <tr><th>用語</th><th>内容</th></tr>\n  <tr><td>人口転換</td><td>死亡率が先に、出生率が遅れて下がる</td></tr>\n  <tr><td>人口ボーナス</td><td>働く世代が厚い一時期、成長に有利</td></tr>\n  <tr><td>人口ピラミッド</td><td>出生・死亡の状況と将来の見通しを示す</td></tr>\n  <tr><td>移動の要因</td><td>押し出す要因と引き寄せる要因の差</td></tr>\n</table>\n\n<h3>都市の変化</h3>\n\n<table>\n  <tr><th>現象</th><th>内容</th></tr>\n  <tr><td>スプロール現象</td><td>周辺農地への無秩序な拡大</td></tr>\n  <tr><td>ドーナツ化現象</td><td>都心の居住人口が減り郊外が増える</td></tr>\n  <tr><td>都心回帰</td><td>再開発による都心の人口の回復</td></tr>\n  <tr><td>インナーシティ問題</td><td>老朽化と公共サービスの低下の悪循環</td></tr>\n  <tr><td>一極集中</td><td>効率と、災害時の危険の集中</td></tr>\n</table>\n\n<h3>村落と過疎</h3>\n\n<table>\n  <tr><th>観点</th><th>内容</th></tr>\n  <tr><td>過疎の悪循環</td><td>人口減→サービス減→さらに人口減</td></tr>\n  <tr><td>村落の形</td><td>水の得やすさと開拓の方式が形に残る</td></tr>\n  <tr><td>途上国の流入</td><td>農村の雇用改善と同時に進める必要</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  人口が減ることが<b>悪いことばかりだと決めつけるのは早い</b>。過密の緩和や環境負荷の軽減という面もある。困難を生むのは減少そのものより、<b>急激さと若年層の流出による年齢の偏り</b>である。だから対策も「増やす」だけでなく、「支えられる形に整える」方向が要る。\n</div>\n\n<blockquote>\n  <p>統計の数字は、誰かがどこで暮らすかを決めた選択の積み重ねである。その選択の理由まで読めたとき、地図は人の顔をもちはじめる。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "地理探究 ― 現代世界の系統地理的考察",
+  "cards": [
+    {
+      "recto": "人口転換の過程で、人口が急激に増える時期が生じるのはなぜか。",
+      "verso": "医療の普及で死亡率が先に下がり、出生率が下がるまでに時間差があるから",
+      "explanation": "多産少死の段階にあたる。途上国の人口爆発はこの時間差の産物であり、豊かさが届き始めた印でもあるという見方ができる。",
+      "tags": [
+        "人口",
+        "推移"
+      ],
+      "distractors": {
+        "easy": [
+          "出生率が急に上がるから",
+          "移民が大量に来るから",
+          "偶然である"
+        ],
+        "medium": [
+          "出生率が先に下がるから",
+          "死亡率が上がるから",
+          "医療が普及しないから"
+        ],
+        "hard": [
+          "両方が同時に下がるから",
+          "死亡率だけが変化しないから",
+          "時間差は生じないから"
+        ]
+      }
+    },
+    {
+      "recto": "働く世代の割合が高く、経済成長に有利にはたらく時期を何というか。",
+      "verso": "人口ボーナスの時期",
+      "explanation": "支える側が多く支えられる側が少ない状態である。ただし一時的なもので、やがて高齢化によって逆の局面に転じる点を押さえておきたい。",
+      "tags": [
+        "人口",
+        "構成"
+      ],
+      "distractors": {
+        "easy": [
+          "高度経済成長",
+          "産業革命",
+          "都市化"
+        ],
+        "medium": [
+          "人口爆発",
+          "人口転換の第一段階",
+          "少子高齢化"
+        ],
+        "hard": [
+          "人口オーナスの時期",
+          "自然増加の停滞期",
+          "移民受入れ期"
+        ]
+      }
+    },
+    {
+      "recto": "人口ピラミッドの形から読み取れることは何か。",
+      "verso": "その社会の出生率・死亡率の状況と、将来の人口構成の見通し",
+      "explanation": "富士山型は多産多死、つぼ型は少子高齢化を示す。過去の戦争や政策の影響が、へこみとして現れることもある。",
+      "tags": [
+        "人口",
+        "統計"
+      ],
+      "distractors": {
+        "easy": [
+          "国土の面積",
+          "気候の特徴",
+          "何も読み取れない"
+        ],
+        "medium": [
+          "経済成長率",
+          "都市の数",
+          "国民の平均所得"
+        ],
+        "hard": [
+          "人口密度のみ",
+          "移民の出身国",
+          "産業構造そのもの"
+        ]
+      }
+    },
+    {
+      "recto": "人が移動する理由を説明する枠組みとして、よく用いられるものは何か。",
+      "verso": "出身地から押し出す要因と、目的地へ引き寄せる要因の組み合わせ",
+      "explanation": "紛争や失業が押し出し、雇用や教育の機会が引き寄せる。どちらか一方ではなく、両者の差が移動を生むと考えるとよい。",
+      "tags": [
+        "人口",
+        "移動"
+      ],
+      "distractors": {
+        "easy": [
+          "移動する人の性格",
+          "移動する季節",
+          "説明はできない"
+        ],
+        "medium": [
+          "距離の遠さだけ",
+          "交通費の安さだけ",
+          "言語の共通性だけ"
+        ],
+        "hard": [
+          "目的地の要因のみ",
+          "出身地の要因のみ",
+          "政策のみで決まる"
+        ]
+      }
+    },
+    {
+      "recto": "都市の人口が急増して周辺の農地へ無秩序に広がる現象を何というか。",
+      "verso": "スプロール現象",
+      "explanation": "道路や上下水道の整備が追いつかず、虫食い状に開発が進む。あとから基盤を整えるほうが費用がかかるため、計画的な誘導が求められる。",
+      "tags": [
+        "都市",
+        "拡大"
+      ],
+      "distractors": {
+        "easy": [
+          "過疎化",
+          "少子化",
+          "空洞化"
+        ],
+        "medium": [
+          "ドーナツ化現象",
+          "都心回帰",
+          "再開発"
+        ],
+        "hard": [
+          "インナーシティ問題",
+          "ジェントリフィケーション",
+          "都市の再集中"
+        ]
+      }
+    },
+    {
+      "recto": "都心の居住人口が減り、郊外の人口が増える現象を何というか。",
+      "verso": "ドーナツ化現象",
+      "explanation": "地価の高さや住環境の悪化によって生じる。都心は昼間人口が多く夜間人口が少ないという状態になり、通勤の集中を招く。",
+      "tags": [
+        "都市",
+        "内部構造"
+      ],
+      "distractors": {
+        "easy": [
+          "過疎化",
+          "人口爆発",
+          "少子高齢化"
+        ],
+        "medium": [
+          "スプロール現象",
+          "都心回帰",
+          "スラム化"
+        ],
+        "hard": [
+          "インナーシティ問題",
+          "郊外の空洞化",
+          "職住近接"
+        ]
+      }
+    },
+    {
+      "recto": "近年の大都市で、都心の居住人口が再び増えている理由は何か。",
+      "verso": "再開発や高層住宅の供給により、通勤の負担を避けて都心に住む選択が広がったから",
+      "explanation": "都心回帰と呼ばれる。ただし住めるのは一定の所得層に限られる面があり、もともとの住民が住み続けられなくなる問題も指摘されている。",
+      "tags": [
+        "都市",
+        "内部構造"
+      ],
+      "distractors": {
+        "easy": [
+          "郊外がなくなったから",
+          "地価が下がったから",
+          "人口が増えたから"
+        ],
+        "medium": [
+          "工場が都心に戻ったから",
+          "農業が都心で始まったから",
+          "交通機関が廃止されたから"
+        ],
+        "hard": [
+          "郊外の地価が高騰したから",
+          "都心の再開発が行われなかったから",
+          "通勤の距離が短くなったから"
+        ]
+      }
+    },
+    {
+      "recto": "都心周辺の古い市街地で、建物の老朽化や治安の悪化が問題となる現象を何というか。",
+      "verso": "インナーシティ問題",
+      "explanation": "産業の転換で職を失った人々が残され、税収も減って公共サービスが低下する悪循環に陥りやすい。再開発は解決策であると同時に、住民の追い出しという別の問題も生む。",
+      "tags": [
+        "都市",
+        "内部構造"
+      ],
+      "distractors": {
+        "easy": [
+          "過疎化",
+          "スプロール現象",
+          "都心回帰"
+        ],
+        "medium": [
+          "ドーナツ化現象",
+          "スラムの形成",
+          "ニュータウンの高齢化"
+        ],
+        "hard": [
+          "ジェントリフィケーション",
+          "職住分離",
+          "都市の多核化"
+        ]
+      }
+    },
+    {
+      "recto": "発展途上国の大都市で、農村からの流入者が住みつく居住地区の課題は何か。",
+      "verso": "上下水道や電気の基盤が乏しく、住む権利も不安定であること",
+      "explanation": "農村に仕事がないため流入が続く。都市だけを整備しても解決せず、農村の雇用と生活の改善を同時に進める必要がある。",
+      "tags": [
+        "都市",
+        "途上国"
+      ],
+      "distractors": {
+        "easy": [
+          "家賃が高すぎること",
+          "人が少なすぎること",
+          "課題はない"
+        ],
+        "medium": [
+          "交通渋滞だけが問題であること",
+          "土地が余っていること",
+          "住民が農業をしていること"
+        ],
+        "hard": [
+          "基盤は整備されているが人が住まないこと",
+          "住む権利が法で保障されていること",
+          "流入がすでに止まっていること"
+        ]
+      }
+    },
+    {
+      "recto": "一国の中で人口や機能が特定の都市に極端に集中することを何というか。",
+      "verso": "一極集中（プライメートシティの形成）",
+      "explanation": "首都に政治・経済・文化・教育が集まると、地方から人が流出し続ける。集中は効率を高める一方、災害時の危険も一点に集めることになる。",
+      "tags": [
+        "都市",
+        "分布"
+      ],
+      "distractors": {
+        "easy": [
+          "過疎化",
+          "分散",
+          "都市の消滅"
+        ],
+        "medium": [
+          "ドーナツ化現象",
+          "スプロール現象",
+          "多核化"
+        ],
+        "hard": [
+          "階層的な都市システム",
+          "都市の均衡ある発展",
+          "衛星都市の形成"
+        ]
+      }
+    },
+    {
+      "recto": "農村部の過疎化が進むと生じる問題は何か。",
+      "verso": "生活に必要な店や医療、公共交通が維持できなくなり、さらに人口が流出すること",
+      "explanation": "人が減ればサービスが減り、サービスが減ればさらに人が減る。この悪循環に歯止めをかけることが、地域政策の中心的な課題となっている。",
+      "tags": [
+        "村落",
+        "過疎"
+      ],
+      "distractors": {
+        "easy": [
+          "土地が余ること",
+          "静かになること",
+          "問題は生じない"
+        ],
+        "medium": [
+          "農地が拡大すること",
+          "地価が上がること",
+          "若者が増えること"
+        ],
+        "hard": [
+          "公共サービスが充実すること",
+          "人口が自然に回復すること",
+          "過疎は都市の問題であること"
+        ]
+      }
+    },
+    {
+      "recto": "村落の形態から、その土地の歴史を読み取ることができるのはなぜか。",
+      "verso": "水の得やすさや開拓の方式が、家の並び方として形に残っているから",
+      "explanation": "湧水線に沿う列状の村、開拓地の碁盤目状の区画など、形が来歴を語る。地形図の集落の形は、それ自体が歴史の資料である。",
+      "tags": [
+        "村落",
+        "形態"
+      ],
+      "distractors": {
+        "easy": [
+          "家の色が違うから",
+          "偶然そうなっているから",
+          "読み取れない"
+        ],
+        "medium": [
+          "建築の様式が違うから",
+          "人口の多さが違うから",
+          "気候が違うから"
+        ],
+        "hard": [
+          "行政区画に従って作られたから",
+          "形態は近代に一律に定められたから",
+          "形と歴史は無関係だから"
+        ]
+      }
+    },
+    {
+      "recto": "都市問題を考えるとき、人口の統計だけでは足りないのはなぜか。",
+      "verso": "同じ人口でも、年齢構成や所得の分布、昼夜の人口差によって課題がまったく異なるから",
+      "explanation": "総数ではなく中身を見ることが必要である。昼間人口と夜間人口の差は、通勤の集中と災害時の避難計画に直結する情報でもある。",
+      "tags": [
+        "都市",
+        "統計"
+      ],
+      "distractors": {
+        "easy": [
+          "統計は間違っているから",
+          "人口は変わらないから",
+          "足りないことはない"
+        ],
+        "medium": [
+          "面積が分からないから",
+          "国境が変わるから",
+          "統計が古いから"
+        ],
+        "hard": [
+          "人口の総数だけで課題は決まるから",
+          "年齢構成は都市問題に影響しないから",
+          "昼夜の人口差は生じないから"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】先進国の都市問題と、発展途上国の都市問題はどう違うか。",
+      "verso": "先進国は老朽化した市街地と高齢化が中心、途上国は急激な流入に基盤の整備が追いつかないことが中心である",
+      "explanation": "同じ「都市問題」でも、人口が減りつつある都市と増え続ける都市では処方箋が正反対になる。都市の成長段階を確かめてから対策を考える必要がある。",
+      "tags": [
+        "comparaison",
+        "都市"
+      ],
+      "distractors": {
+        "easy": [
+          "まったく同じ問題である",
+          "どちらも人口が減っている",
+          "違いは規模だけである"
+        ],
+        "medium": [
+          "先進国が急増、途上国が高齢化に悩む",
+          "どちらも基盤が不足している",
+          "どちらも人口が増え続けている"
+        ],
+        "hard": [
+          "途上国では市街地の老朽化のみが問題である",
+          "先進国では流入が最大の問題である",
+          "違いは気候だけである"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】人口が減ることは、その地域にとって悪いことばかりなのか。",
+      "verso": "いいえ。過密の緩和や環境負荷の軽減という面もあり、問題は減り方の速さと年齢の偏りにある",
+      "explanation": "よくある誤解である。困難を生むのは人口の減少そのものより、急激さと若年層の流出による偏りである。だから対策も「増やす」だけでなく「支えられる形に整える」方向が要る。",
+      "tags": [
+        "piege",
+        "人口"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。減ることはすべて悪い",
+          "はい。良い面は何もない",
+          "はい。人口は多いほどよい"
+        ],
+        "medium": [
+          "はい。経済が必ず縮むから",
+          "はい。土地が余るから",
+          "いいえ。減少は起きていないから"
+        ],
+        "hard": [
+          "はい。環境負荷は人口と無関係だから",
+          "いいえ。減少は常に望ましいから",
+          "はい。年齢構成は影響しないから"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、人口と都市・村落はどのように整理できるか。",
+      "verso": "人口の推移と移動が都市の形と農村の姿を決め、その変化が新たな課題を生み続けていること",
+      "explanation": "都市の内部構造も、過疎の進行も、人の動きの結果である。統計の数字の背後にある人の選択を読むことが、この単元の要点である。",
+      "tags": [
+        "人口",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "人口は都市と無関係であること",
+          "都市の形は昔から同じであること",
+          "村落は変化しないこと"
+        ],
+        "medium": [
+          "人口は自然に一定に保たれること",
+          "移動は都市の形に影響しないこと",
+          "課題はすでに解決したこと"
+        ],
+        "hard": [
+          "都市の内部構造は政策だけで決まること",
+          "人口統計だけで課題が分かること",
+          "農村と都市の問題は無関係であること"
+        ]
+      }
+    }
+  ]
+}

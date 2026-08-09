@@ -1,0 +1,665 @@
+{
+  "id": "jp-koukou-jouhou-network-security",
+  "title": "ネットワークのしくみと情報セキュリティ",
+  "emoji": "🔐",
+  "subject": "informatics",
+  "country": "jp",
+  "courseDescription": "LANとインターネットの構造、通信を成り立たせるプロトコルの階層、そして暗号化と認証によって安全を確保するしくみを一通り扱う。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>ネットワークのしくみと情報セキュリティ</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校1年<br>\n  <b>科目：</b>情報I<br>\n  <b>単元：</b>情報通信ネットワークとデータの活用\n</div>\n\n<blockquote>\n  <p><b>問い。</b>ブラウザの鍵マークが表示されていれば、そのサイトは信頼できるのだろうか。</p>\n</blockquote>\n\n<p>この章は二つの層でできている。まず<b>通信を成り立たせるしくみ</b>（住所・プロトコル）、次に<b>その通信を守るしくみ</b>（暗号化・認証）である。二つを混同すると、冒頭の問いのような誤解が生まれる。</p>\n\n<h2>1・住所と手順 ― 通信が届くしくみ</h2>\n\n<p>家庭や学校のように限られた範囲を結ぶのが<strong>LAN</strong>、地理的に離れたLANどうしを結ぶのが<strong>WAN</strong>である。世界中のLANとWANが結び合わさったものが<strong>インターネット</strong>にほかならない。</p>\n\n<p>ネットワーク上の機器一つひとつには、手紙の宛先住所にあたる<strong>IPアドレス</strong>が割り当てられる。覚えにくい数字の代わりに人間が読みやすい<strong>ドメイン名</strong>を使い、これを<strong>DNS</strong>がIPアドレスへ変換する。電話帳のように、名前から番号を引く役割である。</p>\n\n<p>通信のやり取りには、あらかじめ決められた手順である<strong>プロトコル</strong>が要る。データは<strong>パケット交換方式</strong>で小さな単位に分割して送られ、宛先までの経路を<strong>IP</strong>が、届いたかどうかの確認と再送を<strong>TCP</strong>が担当する。この二つが常にセットで働くため<b>TCP/IP</b>と呼ばれる。役割ごとにプロトコルが分かれ、ウェブ閲覧には<strong>HTTP</strong>、メール送信には<strong>SMTP</strong>が使われる。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 132\" role=\"img\" aria-label=\"ドメイン名がDNSによってIPアドレスに変換されTCPとIPがそれぞれ信頼性と経路を担当する通信の流れ\">\n  <defs>\n    <marker id=\"ar-jns1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">名前から番号へ、番号から相手へ</text>\n  <rect x=\"10\" y=\"30\" width=\"90\" height=\"40\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"55\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">ドメイン名</text>\n  <text x=\"55\" y=\"66\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"7.5\">人間が読める形</text>\n  <path d=\"M104,50 L118,50\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-jns1)\"/>\n  <text x=\"111\" y=\"42\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"7\">DNS</text>\n  <rect x=\"122\" y=\"30\" width=\"90\" height=\"40\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"167\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">IPアドレス</text>\n  <text x=\"167\" y=\"66\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"7.5\">宛先の住所</text>\n  <path d=\"M216,50 L230,50\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-jns1)\"/>\n  <rect x=\"234\" y=\"30\" width=\"96\" height=\"40\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"52\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">TCP/IP</text>\n  <text x=\"282\" y=\"66\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"7.5\">経路＋信頼性</text>\n  <text x=\"170\" y=\"98\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">パケットに分けて送り、宛先で組み立て直す</text>\n  <text x=\"170\" y=\"118\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">HTTPやSMTPは、この上に載る役割ごとの約束ごと</text>\n</svg>\n<figcaption>プロトコルは階層をなして、初めて通信を成立させる。</figcaption>\n</figure>\n\n<h2>2・暗号化 ― 内容を守るしくみ</h2>\n\n<p>第三者が通信内容を読み取れないよう変換する処理が<strong>暗号化</strong>である。<strong>共通鍵暗号方式</strong>は暗号化と復号に同じ鍵を使い処理が速いが、<b>鍵を安全に相手へ渡す方法が課題</b>になる。</p>\n\n<p>この課題を解決するのが<strong>公開鍵暗号方式</strong>である。鍵を公開鍵と秘密鍵に分け、<b>一方で暗号化したデータは対になるもう一方の鍵でしか復号できない</b>。公開鍵で暗号化すれば秘密鍵をもつ本人だけが読め、秘密鍵で暗号化すれば公開鍵で誰でも検証できる。後者の性質が電子署名の土台になる。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 150\" role=\"img\" aria-label=\"共通鍵暗号方式と公開鍵暗号方式の鍵の数と受け渡しの課題の比較\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">鍵をどう扱うか</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">共通鍵暗号方式</text>\n  <text x=\"87\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">鍵は一つ</text>\n  <text x=\"87\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">処理が速い</text>\n  <text x=\"87\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">受け渡しが課題</text>\n  <text x=\"87\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">本文の暗号化に向く</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">公開鍵暗号方式</text>\n  <text x=\"253\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">鍵は二つ（公開・秘密）</text>\n  <text x=\"253\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">受け渡しの問題を解決</text>\n  <text x=\"253\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">処理はやや遅い</text>\n  <text x=\"253\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">鍵の配送・署名に向く</text>\n</svg>\n<figcaption>実際の通信では、両者を組み合わせて弱点を補い合う。</figcaption>\n</figure>\n\n<p>ウェブサイトが本物であることを保証するのが<strong>デジタル証明書</strong>で、信頼できる第三者機関が発行する。ブラウザの鍵マークは<b>この証明書が有効であること、つまり通信が暗号化されていることだけを示す</b>。</p>\n\n<div class=\"callout\">\n  <strong>要注意・鍵マークが保証すること／しないこと</strong><br>\n  鍵マークが示すのは<b>通信経路の暗号化</b>のみである。サイトの内容が正しいか、運営者が信頼できるかは<b>別の問題</b>である。悪意のあるサイトでも通信そのものは暗号化できてしまう。\n</div>\n\n<h2>3・改ざんと本人確認</h2>\n\n<p>元のデータから決まった長さの短い値を計算する<strong>ハッシュ関数</strong>は、改ざんの検出に使われる。データが少しでも変われば値が大きく変わり、元のデータへ逆算することも極めて難しい。パスワードそのものを保存せず、この値だけを保存する用途にも使われる。</p>\n\n<p>本人確認では、パスワードに加えてスマートフォンへの通知など別の要素も使う<strong>二段階認証</strong>が広まっている。<b>単独の対策より複数を組み合わせるほうが安全</b>という原則の具体例である。</p>\n\n<h2>4・脅威と、日常の備え</h2>\n\n<p>コンピュータに感染し不正に動作する<strong>マルウェア</strong>には、感染したファイルを暗号化して金銭を要求する<strong>ランサムウェア</strong>などが含まれる。外部からの不正なアクセスを検知・遮断する<strong>ファイアウォール</strong>が、内部のネットワークを守る。</p>\n\n<p>日常の備えとして意識したいのは二つである。公衆Wi-Fiでは、<b>暗号化されていない通信は同じ回線を使う第三者に読み取られるおそれ</b>がある。OSやアプリの更新は、<b>発見された弱点（脆弱性）を修正する</b>直接の対策であり、新機能の追加より安全にとって重要である。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 132\" role=\"img\" aria-label=\"マルウェアという脅威に対してファイアウォールでの遮断とソフトウェアの更新で弱点を塞ぐという二段の備え\">\n  <defs>\n    <marker id=\"ar-jns2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">入り口で防ぎ、弱点をふさぐ</text>\n  <rect x=\"120\" y=\"26\" width=\"100\" height=\"26\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"43\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">マルウェア</text>\n  <path d=\"M130,52 L86,74\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-jns2)\"/>\n  <path d=\"M210,52 L254,74\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-jns2)\"/>\n  <rect x=\"10\" y=\"78\" width=\"150\" height=\"42\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"85\" y=\"97\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">ファイアウォール</text>\n  <text x=\"85\" y=\"113\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">侵入を検知・遮断</text>\n  <rect x=\"180\" y=\"78\" width=\"150\" height=\"42\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"255\" y=\"97\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">ソフトウェアの更新</text>\n  <text x=\"255\" y=\"113\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">既知の弱点をふさぐ</text>\n</svg>\n<figcaption>どちらか一方だけでは、備えとして不十分である。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>ネットワークの基本</h3>\n\n<table>\n  <tr><th>用語</th><th>内容</th></tr>\n  <tr><td>LAN / WAN</td><td>限られた範囲 / 離れたLANを結ぶ広い範囲</td></tr>\n  <tr><td>IPアドレス</td><td>機器ごとの識別番号（宛先住所）</td></tr>\n  <tr><td>DNS</td><td>ドメイン名をIPアドレスに変換</td></tr>\n  <tr><td>TCP/IP</td><td>信頼性の確保と経路の制御をセットで担う</td></tr>\n</table>\n\n<h3>暗号化と認証</h3>\n\n<table>\n  <tr><th>用語</th><th>内容</th></tr>\n  <tr><td>共通鍵暗号方式</td><td>同じ鍵で暗号化と復号、受け渡しが課題</td></tr>\n  <tr><td>公開鍵暗号方式</td><td>鍵を二つに分けて受け渡しの問題を解決</td></tr>\n  <tr><td>デジタル証明書</td><td>サイトの実在と通信の暗号化を保証</td></tr>\n  <tr><td>ハッシュ関数</td><td>改ざんの検出、逆算がほぼ不可能</td></tr>\n</table>\n\n<h3>脅威と対策</h3>\n\n<table>\n  <tr><th>事がら</th><th>内容</th></tr>\n  <tr><td>マルウェア／ランサムウェア</td><td>不正なプログラム、身代金要求型</td></tr>\n  <tr><td>ファイアウォール</td><td>不正アクセスの検知と遮断</td></tr>\n  <tr><td>公衆Wi-Fi</td><td>暗号化されていない通信は読み取られうる</td></tr>\n  <tr><td>ソフトウェアの更新</td><td>既知の脆弱性を修正する直接の対策</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  鍵マークが表示されているウェブサイトが<b>内容も含めて完全に安全とは限らない</b>。鍵マークは通信が暗号化されていることを示すだけで、サイトの内容や運営者が信頼できることまでは保証しない。<b>暗号化の有無と、サイトの信頼性は別の問題</b>として確かめる必要がある。\n</div>\n\n<blockquote>\n  <p>安全な通信は、住所を示すしくみ、届ける手順、内容を守る暗号化という、役割の異なる複数のしくみが重なって初めて成り立つ。どれか一つを見て安心してはいけない。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校1年",
+  "theme": "情報I ― 情報通信ネットワークとデータの活用",
+  "cards": [
+    {
+      "recto": "家庭や学校のように、限られた範囲を結ぶネットワークを何というか。",
+      "verso": "LAN（ローカルエリアネットワーク）",
+      "explanation": "自分たちで機器を設置し管理できる範囲のネットワークである。これを広い範囲で結んだものがインターネットにあたる。",
+      "tags": [
+        "ネットワーク",
+        "基礎"
+      ],
+      "distractors": {
+        "easy": [
+          "WAN",
+          "インターネットそのもの",
+          "クラウド"
+        ],
+        "medium": [
+          "VPN",
+          "イントラネット",
+          "エクストラネット"
+        ],
+        "hard": [
+          "PAN",
+          "MAN",
+          "SAN"
+        ]
+      }
+    },
+    {
+      "recto": "地理的に離れたLANどうしを結ぶ、広い範囲のネットワークを何というか。",
+      "verso": "WAN（ワイドエリアネットワーク）",
+      "explanation": "電話会社などが提供する回線を使って構築される。世界中のLANとWANが結び合わさったものがインターネットである。",
+      "tags": [
+        "ネットワーク",
+        "基礎"
+      ],
+      "distractors": {
+        "easy": [
+          "LAN",
+          "USB",
+          "Bluetooth"
+        ],
+        "medium": [
+          "イントラネット",
+          "サブネット",
+          "VLAN"
+        ],
+        "hard": [
+          "PAN",
+          "MAN単独",
+          "ピアツーピア網"
+        ]
+      }
+    },
+    {
+      "recto": "ネットワークに接続する機器一つひとつに割り当てられる識別番号を何というか。",
+      "verso": "IPアドレス",
+      "explanation": "手紙の宛先住所にあたる。世界のどの機器も重複しない番号をもつことで、データを正しい相手まで届けられる。",
+      "tags": [
+        "ネットワーク",
+        "しくみ"
+      ],
+      "distractors": {
+        "easy": [
+          "パスワード",
+          "ユーザー名",
+          "ファイル名"
+        ],
+        "medium": [
+          "MACアドレス",
+          "ポート番号",
+          "ドメイン名"
+        ],
+        "hard": [
+          "サブネットマスク",
+          "デフォルトゲートウェイ",
+          "DNSサーバーのアドレス"
+        ]
+      }
+    },
+    {
+      "recto": "覚えにくいIPアドレスの代わりに、人間が読みやすい文字列で表したものを何というか。",
+      "verso": "ドメイン名",
+      "explanation": "example.co.jpのような形式である。この文字列とIPアドレスを対応づける後述のしくみによって、数字を覚えなくてもサイトへたどり着ける。",
+      "tags": [
+        "ネットワーク",
+        "しくみ"
+      ],
+      "distractors": {
+        "easy": [
+          "パスワード",
+          "IPアドレスそのもの",
+          "ファイル名"
+        ],
+        "medium": [
+          "URLそのもの",
+          "メールアドレス",
+          "ホスト名のみ"
+        ],
+        "hard": [
+          "サブドメインのみ",
+          "プロトコルの一部",
+          "ポート番号"
+        ]
+      }
+    },
+    {
+      "recto": "ドメイン名をIPアドレスに変換するしくみを何というか。",
+      "verso": "DNS（ドメインネームシステム）",
+      "explanation": "電話帳のように、名前から番号を引く役割を果たす。このしくみが止まると、ドメイン名でのアクセスができなくなる。",
+      "tags": [
+        "ネットワーク",
+        "しくみ"
+      ],
+      "distractors": {
+        "easy": [
+          "HTTP",
+          "TCP",
+          "IPアドレスそのもの"
+        ],
+        "medium": [
+          "SMTP",
+          "FTP",
+          "DHCP"
+        ],
+        "hard": [
+          "ARP",
+          "NAT",
+          "ルーティングプロトコル"
+        ]
+      }
+    },
+    {
+      "recto": "通信を行うために、送り手と受け手があらかじめ取り決めた手順や規約を何というか。",
+      "verso": "プロトコル",
+      "explanation": "言語や通信の作法が一致していなければ意思疎通できないのと同じである。インターネットは複数のプロトコルが階層をなして機能している。",
+      "tags": [
+        "ネットワーク",
+        "しくみ"
+      ],
+      "distractors": {
+        "easy": [
+          "アプリケーション",
+          "OS",
+          "ハードウェア"
+        ],
+        "medium": [
+          "アルゴリズム",
+          "プログラム言語",
+          "ファイル形式"
+        ],
+        "hard": [
+          "API",
+          "ライブラリ",
+          "フレームワーク"
+        ]
+      }
+    },
+    {
+      "recto": "データを小さな単位に分割して送り、宛先で組み立て直す通信方式を何というか。",
+      "verso": "パケット交換方式",
+      "explanation": "一つの回線を多くの通信で分け合えるため効率がよい。回線を占有する電話網の交換方式とは異なる考え方である。",
+      "tags": [
+        "ネットワーク",
+        "しくみ"
+      ],
+      "distractors": {
+        "easy": [
+          "回線交換方式",
+          "郵便方式",
+          "放送方式"
+        ],
+        "medium": [
+          "同報通信方式のみ",
+          "専用線方式",
+          "衛星通信方式"
+        ],
+        "hard": [
+          "セル交換方式のみ",
+          "バースト転送方式のみ",
+          "ストリーミング方式"
+        ]
+      }
+    },
+    {
+      "recto": "データを届ける・失われた分を再送するといった信頼性を担当するプロトコルは何か。",
+      "verso": "TCP",
+      "explanation": "IPが宛先までの経路を担当するのに対し、TCPは届いたかどうかの確認と再送を担当する。この二つは常にセットで働くため、TCP/IPと呼ばれる。",
+      "tags": [
+        "ネットワーク",
+        "プロトコル"
+      ],
+      "distractors": {
+        "easy": [
+          "HTML",
+          "CSS",
+          "URL"
+        ],
+        "medium": [
+          "HTTP",
+          "FTP",
+          "SMTP"
+        ],
+        "hard": [
+          "UDP",
+          "ICMP",
+          "ARP"
+        ]
+      }
+    },
+    {
+      "recto": "ウェブページを閲覧する際に、ブラウザとサーバーの間でページのデータをやり取りするプロトコルは何か。",
+      "verso": "HTTP",
+      "explanation": "リクエストとレスポンスという単純な形式で成り立つ。暗号化を加えた版がHTTPSであり、現在のウェブでは標準になっている。",
+      "tags": [
+        "ネットワーク",
+        "プロトコル"
+      ],
+      "distractors": {
+        "easy": [
+          "TCP",
+          "IP",
+          "DNS"
+        ],
+        "medium": [
+          "SMTP",
+          "FTP",
+          "POP"
+        ],
+        "hard": [
+          "SSH",
+          "Telnet",
+          "SNMP"
+        ]
+      }
+    },
+    {
+      "recto": "電子メールを送信するときに使われるプロトコルは何か。",
+      "verso": "SMTP",
+      "explanation": "送信を担当し、受信の確認にはPOPやIMAPといった別のプロトコルが使われる。役割ごとにプロトコルが分かれている点が通信のしくみの特徴である。",
+      "tags": [
+        "ネットワーク",
+        "プロトコル"
+      ],
+      "distractors": {
+        "easy": [
+          "HTTP",
+          "URL",
+          "DNS"
+        ],
+        "medium": [
+          "FTP",
+          "TCP単独",
+          "IP単独"
+        ],
+        "hard": [
+          "IMAP",
+          "POP",
+          "NTP"
+        ]
+      }
+    },
+    {
+      "recto": "第三者が通信内容を読み取れないよう、データを変換するしくみを何というか。",
+      "verso": "暗号化",
+      "explanation": "元に戻す操作を復号という。通信の盗聴という脅威に対する、最も基本的な防御の手段である。",
+      "tags": [
+        "セキュリティ",
+        "暗号"
+      ],
+      "distractors": {
+        "easy": [
+          "圧縮",
+          "バックアップ",
+          "フォーマット"
+        ],
+        "medium": [
+          "符号化そのもの",
+          "標本化",
+          "ハッシュ化と同一の語"
+        ],
+        "hard": [
+          "署名のみ",
+          "認証のみ",
+          "改ざん検知のみ"
+        ]
+      }
+    },
+    {
+      "recto": "暗号化と復号に、同じ鍵を使う方式を何というか。",
+      "verso": "共通鍵暗号方式",
+      "explanation": "処理は高速だが、鍵を安全に相手へ渡す方法が課題になる。この課題を解決するために公開鍵暗号方式が生まれた。",
+      "tags": [
+        "セキュリティ",
+        "暗号"
+      ],
+      "distractors": {
+        "easy": [
+          "公開鍵暗号方式",
+          "ハッシュ関数",
+          "電子署名"
+        ],
+        "medium": [
+          "非対称暗号方式",
+          "デジタル証明書",
+          "多要素認証"
+        ],
+        "hard": [
+          "ハイブリッド暗号方式",
+          "楕円曲線暗号のみ",
+          "ワンタイムパッド"
+        ]
+      }
+    },
+    {
+      "recto": "暗号化に使う鍵と復号に使う鍵を別々にする方式を何というか。",
+      "verso": "公開鍵暗号方式",
+      "explanation": "誰でも使える公開鍵で暗号化し、本人だけがもつ秘密鍵で復号する。鍵を安全に渡す必要がないため、インターネット上の通信で広く使われる。",
+      "tags": [
+        "セキュリティ",
+        "暗号"
+      ],
+      "distractors": {
+        "easy": [
+          "共通鍵暗号方式",
+          "圧縮方式",
+          "認証方式のみ"
+        ],
+        "medium": [
+          "対称暗号方式",
+          "ハッシュ方式",
+          "ストリーム暗号方式"
+        ],
+        "hard": [
+          "ブロック暗号方式のみ",
+          "秘密鍵暗号方式と同一の語",
+          "共通鍵の別名"
+        ]
+      }
+    },
+    {
+      "recto": "公開鍵暗号方式で、暗号化と復号に使う二つの鍵にはどのような関係があるか。",
+      "verso": "一方で暗号化したデータは、対になるもう一方の鍵でしか復号できない",
+      "explanation": "公開鍵で暗号化すれば秘密鍵をもつ本人だけが読め、秘密鍵で暗号化すれば公開鍵で誰でも検証できる。後者の性質が電子署名の土台になる。",
+      "tags": [
+        "セキュリティ",
+        "暗号"
+      ],
+      "distractors": {
+        "easy": [
+          "どちらの鍵でも復号できる",
+          "鍵は一つしか存在しない",
+          "関係はない"
+        ],
+        "medium": [
+          "同じ鍵でなければ復号できない",
+          "公開鍵だけで復号が完結する",
+          "秘密鍵は不要である"
+        ],
+        "hard": [
+          "鍵は毎回変える必要はない",
+          "公開鍵は秘密にする必要がある",
+          "秘密鍵は複数人で共有する"
+        ]
+      }
+    },
+    {
+      "recto": "ウェブサイトが本物であることと、通信が暗号化されていることを示す証明書を発行するしくみを何というか。",
+      "verso": "デジタル証明書（SSL/TLS証明書）",
+      "explanation": "信頼できる第三者機関が発行し、なりすましサイトでないことを保証する。ブラウザの鍵マークは、この証明書が有効であることを示している。",
+      "tags": [
+        "セキュリティ",
+        "認証"
+      ],
+      "distractors": {
+        "easy": [
+          "パスワード",
+          "IPアドレス",
+          "ドメイン名"
+        ],
+        "medium": [
+          "ハッシュ値",
+          "電子署名そのもの",
+          "共通鍵"
+        ],
+        "hard": [
+          "Cookieのみ",
+          "セッションIDのみ",
+          "APIキー"
+        ]
+      }
+    },
+    {
+      "recto": "パスワードに加えて、スマートフォンへの通知など別の要素も使って本人確認を行う方式を何というか。",
+      "verso": "二段階認証（多要素認証）",
+      "explanation": "パスワードが漏れても、もう一つの要素がなければ突破されにくい。単独の対策より複数を組み合わせるほうが安全という原則の具体例である。",
+      "tags": [
+        "セキュリティ",
+        "認証"
+      ],
+      "distractors": {
+        "easy": [
+          "単純なパスワード認証",
+          "IPアドレスの確認のみ",
+          "認証は不要である"
+        ],
+        "medium": [
+          "共通鍵暗号方式",
+          "公開鍵暗号方式",
+          "暗号化そのもの"
+        ],
+        "hard": [
+          "シングルサインオンのみ",
+          "セッション管理のみ",
+          "生体認証単独の別名"
+        ]
+      }
+    },
+    {
+      "recto": "元のデータから、決まった長さの短い値を計算する処理で、改ざんの検出に使われるものを何というか。",
+      "verso": "ハッシュ関数（ハッシュ値）",
+      "explanation": "データが少しでも変われば値が大きく変わり、また元のデータへ逆算することも極めて難しい。パスワードそのものを保存せず、この値だけを保存する用途にも使われる。",
+      "tags": [
+        "セキュリティ",
+        "しくみ"
+      ],
+      "distractors": {
+        "easy": [
+          "圧縮",
+          "暗号化そのもの",
+          "標本化"
+        ],
+        "medium": [
+          "電子署名そのもの",
+          "公開鍵",
+          "共通鍵"
+        ],
+        "hard": [
+          "デジタル証明書",
+          "チェックサムと完全に同一の語",
+          "誤り訂正符号"
+        ]
+      }
+    },
+    {
+      "recto": "コンピュータに感染し、自己増殖や外部からの不正操作を可能にする不正なプログラムを総称して何というか。",
+      "verso": "マルウェア",
+      "explanation": "ウイルス・ワーム・トロイの木馬などが含まれる。それぞれ感染や拡散の方法が異なるが、いずれも利用者の意図に反して動作する点は共通する。",
+      "tags": [
+        "セキュリティ",
+        "脅威"
+      ],
+      "distractors": {
+        "easy": [
+          "OS",
+          "アプリケーション一般",
+          "ドライバ"
+        ],
+        "medium": [
+          "ファイアウォール",
+          "アンチウイルスソフト",
+          "セキュリティパッチ"
+        ],
+        "hard": [
+          "バックドアのみ",
+          "エクスプロイトのみ",
+          "ボットのみを指す語"
+        ]
+      }
+    },
+    {
+      "recto": "感染したファイルやシステムを勝手に暗号化し、復元と引きかえに金銭を要求するマルウェアを何というか。",
+      "verso": "ランサムウェア",
+      "explanation": "身代金を意味する語に由来する。支払っても復元される保証はなく、日頃のバックアップが最も現実的な備えとなる。",
+      "tags": [
+        "セキュリティ",
+        "脅威"
+      ],
+      "distractors": {
+        "easy": [
+          "アンチウイルスソフト",
+          "ファイアウォール",
+          "圧縮ソフト"
+        ],
+        "medium": [
+          "スパイウェアと完全に同一の語",
+          "アドウェアと完全に同一の語",
+          "トロイの木馬と完全に同一の語"
+        ],
+        "hard": [
+          "ワームのみを指す語",
+          "ボットネットのみを指す語",
+          "キーロガーのみを指す語"
+        ]
+      }
+    },
+    {
+      "recto": "外部からの不正なアクセスを検知・遮断し、内部のネットワークを守るしくみを何というか。",
+      "verso": "ファイアウォール",
+      "explanation": "通過してよい通信とそうでない通信を、あらかじめ定めた基準で選別する。建物の防火壁になぞらえてこう呼ばれる。",
+      "tags": [
+        "セキュリティ",
+        "対策"
+      ],
+      "distractors": {
+        "easy": [
+          "OS",
+          "ブラウザ",
+          "検索エンジン"
+        ],
+        "medium": [
+          "アンチウイルスソフトそのもの",
+          "ルーターそのもの",
+          "VPNそのもの"
+        ],
+        "hard": [
+          "プロキシサーバーと完全に同一の語",
+          "ロードバランサー",
+          "DNSサーバー"
+        ]
+      }
+    },
+    {
+      "recto": "公衆のWi-Fiを利用するときに注意すべきことは何か。",
+      "verso": "暗号化されていない通信は、同じ回線を使う第三者に読み取られるおそれがあること",
+      "explanation": "パスワードなしで接続できる回線ほど注意が必要である。重要な情報を扱うときはHTTPSの利用や信頼できる回線への切り替えが望ましい。",
+      "tags": [
+        "セキュリティ",
+        "実践"
+      ],
+      "distractors": {
+        "easy": [
+          "通信速度が遅いことだけ",
+          "料金がかかることだけ",
+          "特に注意すべき点はない"
+        ],
+        "medium": [
+          "電池の消耗だけ",
+          "接続できる機器の数だけ",
+          "画質が下がることだけ"
+        ],
+        "hard": [
+          "暗号化されていれば常に安全とは限らない点は考慮不要",
+          "公衆Wi-Fiには危険がないこと",
+          "個人情報とは無関係であること"
+        ]
+      }
+    },
+    {
+      "recto": "OSやアプリを最新の状態に保つことが、セキュリティ上重要である理由は何か。",
+      "verso": "発見された弱点（脆弱性）を修正する更新が、攻撃を防ぐ直接の対策になるから",
+      "explanation": "更新を怠ると、既に知られている弱点を突かれる危険が残り続ける。新しい機能の追加よりも、この修正の面が安全にとって重要である。",
+      "tags": [
+        "セキュリティ",
+        "実践"
+      ],
+      "distractors": {
+        "easy": [
+          "見た目が新しくなるだけだから",
+          "動作が速くなるだけだから",
+          "重要ではない"
+        ],
+        "medium": [
+          "容量が増えるだけだから",
+          "広告が減るだけだから",
+          "対応機種が増えるだけだから"
+        ],
+        "hard": [
+          "更新しても弱点は残り続けるから",
+          "弱点は自然に消えるものだから",
+          "更新は任意で構わないから"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】共通鍵暗号方式と公開鍵暗号方式は、鍵の扱いの点でどう違うか。",
+      "verso": "共通鍵は暗号化と復号に同じ鍵を使い安全な受け渡しが課題になるが、公開鍵は鍵を二つに分けて受け渡しの問題を解決している",
+      "explanation": "実際の通信では、処理が速い共通鍵で本文を、公開鍵でその鍵自体を安全に届けるという組み合わせがよく使われる。互いの弱点を補い合う関係にある。",
+      "tags": [
+        "comparaison",
+        "セキュリティ"
+      ],
+      "distractors": {
+        "easy": [
+          "まったく同じしくみである",
+          "どちらも鍵を一つしか使わない",
+          "違いはない"
+        ],
+        "medium": [
+          "共通鍵は鍵を二つ使い、公開鍵は一つで済む",
+          "どちらも鍵の受け渡しが不要である",
+          "公開鍵のほうが処理が速い"
+        ],
+        "hard": [
+          "共通鍵のほうが安全に鍵を配布できる",
+          "公開鍵は暗号化にしか使えない",
+          "違いは処理速度だけである"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】鍵マークが表示されているウェブサイトなら、内容も含めて完全に安全と言えるのか。",
+      "verso": "いいえ。鍵マークは通信が暗号化されていることを示すだけで、サイトの内容や運営者が信頼できることまでは保証しない",
+      "explanation": "よくある誤解である。悪意のあるサイトでも通信そのものは暗号化できる。暗号化の有無と、サイトの信頼性は別の問題として確かめる必要がある。",
+      "tags": [
+        "piege",
+        "セキュリティ"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。鍵マークがあれば安全",
+          "はい。暗号化されていれば信頼できる",
+          "はい。詐欺サイトには表示されない"
+        ],
+        "medium": [
+          "はい。証明書があれば内容も正しいから",
+          "はい。鍵マークは運営者を審査した証だから",
+          "いいえ。鍵マークに意味はないから"
+        ],
+        "hard": [
+          "はい。暗号化と信頼性は同じ意味だから",
+          "いいえ。暗号化は現在使われていないから",
+          "はい。詐欺サイトは暗号化できないから"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、ネットワークとセキュリティのしくみはどのように整理できるか。",
+      "verso": "プロトコルの階層が通信を成り立たせ、暗号化と認証がその通信の安全を確保していること",
+      "explanation": "住所を示すIPアドレス、届ける手順を定めるプロトコル、内容を守る暗号化。それぞれ役割が異なる複数のしくみが重なって、初めて安全な通信が成り立つ。",
+      "tags": [
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "一つの技術だけで安全が保たれること",
+          "暗号化だけで通信が成立すること",
+          "プロトコルは不要であること"
+        ],
+        "medium": [
+          "認証だけで通信が成立すること",
+          "IPアドレスだけで安全が保たれること",
+          "セキュリティは技術だけの問題であること"
+        ],
+        "hard": [
+          "階層構造は不要であること",
+          "暗号化は通信の成立に関与しないこと",
+          "認証と暗号化は同じものであること"
+        ]
+      }
+    }
+  ]
+}

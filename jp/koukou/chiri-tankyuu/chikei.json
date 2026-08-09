@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-chiri-tankyuu-chikei",
+  "title": "地形 ― 大地形と小地形",
+  "emoji": "🏔️",
+  "subject": "geography",
+  "country": "jp",
+  "courseDescription": "プレートの動きが生む大地形と、流水や氷河が刻む小地形を、そこに人がどう住みついてきたかとあわせてとらえる。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>地形 ― 大地形と小地形</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>地理探究<br>\n  <b>単元：</b>大項目A 現代世界の系統地理的考察（自然環境）\n</div>\n\n<blockquote>\n  <p><b>問い。</b>なぜここに集落があり、なぜここが水田なのだろうか。</p>\n</blockquote>\n\n<p>地形は風景の話ではない。<b>どこに住めるか、何を作れるか、どこが浸水するか</b>を決める条件である。地球規模のプレートの動きが作る<strong>大地形</strong>と、流水や氷河が刻む<strong>小地形</strong>。この二つのスケールを行き来できるようになることが、この単元の目標である。</p>\n\n<h2>1・プレートが作る大地形</h2>\n\n<p><strong>プレートテクトニクス</strong>は、地球の表面をおおう厚い岩板の動きによって大地形を説明する考え方である。大陸の移動、山脈の形成、地震や火山の分布が一つの理屈で説明できる。<b>世界の地形図と地震の分布図を重ねてみる</b>と、この理論の説明力が実感できる。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 148\" role=\"img\" aria-label=\"プレートが離れる境界とぶつかる境界とずれる境界で生じる地形の違い\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">境界のかたちが、地形を決める</text>\n  <rect x=\"6\" y=\"28\" width=\"104\" height=\"82\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">離れる境界</text>\n  <text x=\"58\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">海嶺</text>\n  <text x=\"58\" y=\"87\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">大地溝帯</text>\n  <text x=\"58\" y=\"103\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">新しい地面ができる</text>\n  <rect x=\"118\" y=\"28\" width=\"104\" height=\"82\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">ぶつかる境界</text>\n  <text x=\"170\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">大山脈</text>\n  <text x=\"170\" y=\"87\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">海溝と弧状列島</text>\n  <text x=\"170\" y=\"103\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">地震・火山が集中</text>\n  <rect x=\"230\" y=\"28\" width=\"104\" height=\"82\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">安定した陸地</text>\n  <text x=\"282\" y=\"70\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">安定陸塊</text>\n  <text x=\"282\" y=\"87\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">なだらかな地形</text>\n  <text x=\"282\" y=\"103\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">古い鉱産資源</text>\n  <text x=\"170\" y=\"136\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">ヒマラヤも日本列島も、同じ理屈の異なる現れである</text>\n</svg>\n<figcaption>地震の分布図を重ねると、境界の位置が浮かび上がる。</figcaption>\n</figure>\n\n<p><strong>安定陸塊</strong>は長い年月の侵食を受けた古い陸地で、地殻変動が乏しく地震も少ない。鉄鉱石など古い時代の鉱産資源に恵まれ、大規模な農業にも適している。一方、<strong>日本列島</strong>は複数のプレートが集まり沈み込む境界に位置する。<b>災害の多さと、温泉・地熱・肥沃な火山灰土壌という恵みは同じ原因から生じている</b>。</p>\n\n<h2>2・流水が刻む小地形</h2>\n\n<p>河川の堆積による地形は、<b>粒の大きさ</b>で性格が決まる。山地から平地へ出る谷の出口では粗い土砂が扇形に積もって<strong>扇状地</strong>となり、水がしみ込みやすいため中央部は水が得にくい。河口では細かい土砂が積もって<strong>三角州</strong>となり、水はけが悪いぶん水田に適する。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 150\" role=\"img\" aria-label=\"扇状地と三角州の堆積する場所と土砂の粒の大きさと土地利用の比較\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">粒の大きさが、利用を分ける</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">扇状地</text>\n  <text x=\"87\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">山地の出口</text>\n  <text x=\"87\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">粗い土砂</text>\n  <text x=\"87\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">水はけがよい</text>\n  <text x=\"87\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">果樹・畑</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">三角州</text>\n  <text x=\"253\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">河口</text>\n  <text x=\"253\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">細かい土砂</text>\n  <text x=\"253\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">水はけが悪い</text>\n  <text x=\"253\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">水田・高い人口密度</text>\n</svg>\n<figcaption>堆積の場所が上流側か河口かで、粒の大きさが決まる。</figcaption>\n</figure>\n\n<p>平野の内部にも高低差がある。洪水のたびに河川の両岸に土砂が積もった<strong>自然堤防</strong>は水はけがよく浸水しにくいため、古くから集落や道路が立地してきた。その背後の低い<strong>後背湿地</strong>は水田に利用される。<b>数メートルの標高差が、浸水するかどうかを分ける</b>。</p>\n\n<div class=\"callout\">\n  <strong>用語・カルスト地形</strong><br>\n  石灰岩が雨水に溶かされてできる、くぼ地や鍾乳洞をともなう地形。<b>地表の水がすぐ地下へ抜ける</b>ため水が得にくく、農業には不向きなことが多い。石灰岩はセメントの原料として採掘される。\n</div>\n\n<h2>3・海岸の地形と、地図を読む技能</h2>\n\n<p>氷河に削られた谷が沈水すると細長く奥深い<strong>フィヨルド</strong>となり、水深が深く波が穏やかなため良港となる。起伏の多い山地が沈水すると<strong>リアス海岸</strong>となり、波が穏やかで養殖に適する一方、<b>湾の奥で津波の高さが増幅されやすい</b>。利点と危険が同じ地形の性質から生じている点が重要である。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"地形図から等高線と旧河道と地名と土地利用を手がかりに土地の成り立ちを読む手順\">\n  <defs>\n    <marker id=\"ar-gck1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">地図は、過去の資料でもある</text>\n  <rect x=\"6\" y=\"28\" width=\"76\" height=\"40\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"44\" y=\"53\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">等高線</text>\n  <rect x=\"90\" y=\"28\" width=\"76\" height=\"40\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"128\" y=\"53\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">旧河道</text>\n  <rect x=\"174\" y=\"28\" width=\"76\" height=\"40\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"212\" y=\"53\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">地名</text>\n  <rect x=\"258\" y=\"28\" width=\"76\" height=\"40\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"296\" y=\"53\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">土地利用</text>\n  <path d=\"M44,68 L150,88\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gck1)\"/>\n  <path d=\"M128,68 L164,88\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gck1)\"/>\n  <path d=\"M212,68 L180,88\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gck1)\"/>\n  <path d=\"M296,68 L192,88\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gck1)\"/>\n  <rect x=\"70\" y=\"92\" width=\"200\" height=\"28\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"110\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">土地の成り立ちと危険を読む</text>\n</svg>\n<figcaption>「〜島」「〜谷」という地名が、過去の地形を語ることがある。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>大地形</h3>\n\n<table>\n  <tr><th>用語</th><th>特徴</th></tr>\n  <tr><td>ぶつかる境界</td><td>大山脈、海溝と弧状列島、地震と火山</td></tr>\n  <tr><td>離れる境界</td><td>海嶺、大地溝帯</td></tr>\n  <tr><td>安定陸塊</td><td>なだらか、地震が少ない、古い鉱産資源</td></tr>\n</table>\n\n<h3>小地形</h3>\n\n<table>\n  <tr><th>地形</th><th>性質と利用</th></tr>\n  <tr><td>扇状地</td><td>粗い土砂、水はけ良、果樹・畑、集落は末端</td></tr>\n  <tr><td>三角州</td><td>細かい土砂、水はけ悪、水田、高い人口密度</td></tr>\n  <tr><td>自然堤防</td><td>微高地、浸水しにくい、集落と道路</td></tr>\n  <tr><td>後背湿地</td><td>低地、水田、浸水しやすい</td></tr>\n  <tr><td>カルスト地形</td><td>石灰岩の溶食、水が得にくい</td></tr>\n</table>\n\n<h3>海岸の地形</h3>\n\n<table>\n  <tr><th>地形</th><th>成り立ちと性質</th></tr>\n  <tr><td>フィヨルド</td><td>氷食谷の沈水、水深が深く良港</td></tr>\n  <tr><td>リアス海岸</td><td>山地の沈水、養殖に適し津波が増幅</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  平野が<b>どこも同じように安全だと考えるのは誤り</b>である。同じ平野の中でも、自然堤防と後背湿地では浸水の危険がまったく異なる。地形図では平坦に見えても、数メートルの標高差が命運を分ける。<b>古い集落の立地は、その土地の危険を知る手がかり</b>になる。\n</div>\n\n<blockquote>\n  <p>土地は黙っているが、記録している。等高線と地名と田畑の並びを読めば、その土地が何を経験してきたかが見えてくる。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "地理探究 ― 現代世界の系統地理的考察",
+  "cards": [
+    {
+      "recto": "地球の表面をおおう厚い岩板が動くことで大地形が作られるという考え方を何というか。",
+      "verso": "プレートテクトニクス",
+      "explanation": "大陸の移動、山脈の形成、地震や火山の分布が一つの理屈で説明できる。世界の地形図と地震の分布図を重ねると、この理論の説明力が実感できる。",
+      "tags": [
+        "地形",
+        "大地形"
+      ],
+      "distractors": {
+        "easy": [
+          "天動説",
+          "進化論",
+          "温室効果"
+        ],
+        "medium": [
+          "大陸移動説のみ",
+          "地向斜説",
+          "侵食輪廻説"
+        ],
+        "hard": [
+          "マントル対流説のみ",
+          "ホットスポット説",
+          "アイソスタシー"
+        ]
+      }
+    },
+    {
+      "recto": "二つのプレートがぶつかり合う境界で生じる地形はどれか。",
+      "verso": "険しい大山脈や、深い海溝",
+      "explanation": "大陸どうしがぶつかれば大山脈が、海洋のプレートが沈み込めば海溝と弧状の列島ができる。ヒマラヤと日本列島は、同じ理屈の異なる現れである。",
+      "tags": [
+        "地形",
+        "大地形"
+      ],
+      "distractors": {
+        "easy": [
+          "広大な平原",
+          "砂漠",
+          "干潟"
+        ],
+        "medium": [
+          "海嶺と地溝帯",
+          "台地と盆地",
+          "三角州と扇状地"
+        ],
+        "hard": [
+          "安定陸塊の楯状地",
+          "カルスト地形",
+          "モレーンと氷河湖"
+        ]
+      }
+    },
+    {
+      "recto": "プレートが左右に離れていく境界に生じる地形は何か。",
+      "verso": "海嶺や大地溝帯",
+      "explanation": "地下から物質が上がってきて新しい地面が作られる。大西洋の中央を走る海嶺と、アフリカ東部の大地溝帯が代表的な例である。",
+      "tags": [
+        "地形",
+        "大地形"
+      ],
+      "distractors": {
+        "easy": [
+          "高い山脈",
+          "深い海溝",
+          "砂丘"
+        ],
+        "medium": [
+          "弧状列島",
+          "褶曲山脈",
+          "断層崖のみ"
+        ],
+        "hard": [
+          "トランスフォーム断層",
+          "海底火山のみ",
+          "堆積平野"
+        ]
+      }
+    },
+    {
+      "recto": "長い年月にわたって侵食を受け、なだらかな地形が広がる古い安定した陸地を何というか。",
+      "verso": "安定陸塊",
+      "explanation": "地殻変動が乏しく地震も少ない。鉄鉱石など古い時代の鉱産資源に恵まれることが多く、大規模な農業にも適している。",
+      "tags": [
+        "地形",
+        "大地形"
+      ],
+      "distractors": {
+        "easy": [
+          "火山帯",
+          "変動帯",
+          "海溝"
+        ],
+        "medium": [
+          "古期造山帯",
+          "新期造山帯",
+          "弧状列島"
+        ],
+        "hard": [
+          "構造平野のみ",
+          "卓状地のみ",
+          "楯状地のみ"
+        ]
+      }
+    },
+    {
+      "recto": "山地から平地へ出る谷の出口に、土砂が扇形に堆積してできる地形を何というか。",
+      "verso": "扇状地",
+      "explanation": "粒が粗く水がしみ込みやすいため、中央部は水が得にくい。古くは果樹園や桑畑に利用され、集落は水の湧く末端に立地することが多かった。",
+      "tags": [
+        "地形",
+        "小地形"
+      ],
+      "distractors": {
+        "easy": [
+          "火口",
+          "砂丘",
+          "洞窟"
+        ],
+        "medium": [
+          "三角州",
+          "自然堤防",
+          "河岸段丘"
+        ],
+        "hard": [
+          "氾濫原",
+          "後背湿地",
+          "谷底平野"
+        ]
+      }
+    },
+    {
+      "recto": "河川が海や湖に注ぐ河口部に、細かい土砂が堆積してできる地形を何というか。",
+      "verso": "三角州",
+      "explanation": "粒が細かく水はけが悪いため水田に適する。人口密度が高い一方、標高が低く高潮や洪水の危険が大きいという課題を抱えている。",
+      "tags": [
+        "地形",
+        "小地形"
+      ],
+      "distractors": {
+        "easy": [
+          "火山",
+          "砂漠",
+          "氷河"
+        ],
+        "medium": [
+          "扇状地",
+          "河岸段丘",
+          "リアス海岸"
+        ],
+        "hard": [
+          "自然堤防",
+          "三日月湖",
+          "干潟のみ"
+        ]
+      }
+    },
+    {
+      "recto": "洪水のたびに河川の両岸に土砂が積もってできる、周囲よりやや高い微高地を何というか。",
+      "verso": "自然堤防",
+      "explanation": "水はけがよく浸水しにくいため、古くから集落や道路が立地してきた。その背後の低い後背湿地は水田に利用される。",
+      "tags": [
+        "地形",
+        "小地形"
+      ],
+      "distractors": {
+        "easy": [
+          "ダム",
+          "堤防としての人工構造物",
+          "橋"
+        ],
+        "medium": [
+          "扇状地",
+          "三角州",
+          "河岸段丘"
+        ],
+        "hard": [
+          "天井川",
+          "後背湿地",
+          "旧河道"
+        ]
+      }
+    },
+    {
+      "recto": "石灰岩が雨水に溶かされてできる、くぼ地や鍾乳洞をともなう地形を何というか。",
+      "verso": "カルスト地形",
+      "explanation": "地表の水がすぐ地下へ抜けるため水が得にくく、農業には不向きなことが多い。石灰岩はセメントの原料として採掘される。",
+      "tags": [
+        "地形",
+        "小地形"
+      ],
+      "distractors": {
+        "easy": [
+          "火山地形",
+          "砂丘地形",
+          "氷河地形"
+        ],
+        "medium": [
+          "溶岩台地",
+          "河岸段丘",
+          "海岸段丘"
+        ],
+        "hard": [
+          "ケスタ",
+          "メサとビュート",
+          "モレーン"
+        ]
+      }
+    },
+    {
+      "recto": "氷河に削られた谷が沈水してできる、細長く奥深い入り江を何というか。",
+      "verso": "フィヨルド",
+      "explanation": "水深が深く波が穏やかなため、良港となりやすい。ノルウェーやチリ南部、ニュージーランド南島に典型的にみられる。",
+      "tags": [
+        "地形",
+        "海岸"
+      ],
+      "distractors": {
+        "easy": [
+          "砂浜",
+          "干潟",
+          "サンゴ礁"
+        ],
+        "medium": [
+          "リアス海岸",
+          "ラグーン",
+          "三角江"
+        ],
+        "hard": [
+          "エスチュアリー",
+          "海岸段丘",
+          "陸繋島"
+        ]
+      }
+    },
+    {
+      "recto": "起伏の多い山地が沈水してできた、のこぎりの歯のような出入りの多い海岸を何というか。",
+      "verso": "リアス海岸",
+      "explanation": "波が穏やかで養殖に適する一方、湾の奥で津波の高さが増幅されやすい。利点と危険が同じ地形の性質から生じている点が重要である。",
+      "tags": [
+        "地形",
+        "海岸"
+      ],
+      "distractors": {
+        "easy": [
+          "砂丘海岸",
+          "サンゴ礁海岸",
+          "直線的な砂浜海岸"
+        ],
+        "medium": [
+          "フィヨルド",
+          "三角江",
+          "海岸平野"
+        ],
+        "hard": [
+          "多島海のみ",
+          "陸繋砂州",
+          "潟湖海岸"
+        ]
+      }
+    },
+    {
+      "recto": "地形が人間の居住の仕方をどのように左右してきたか、扇状地を例に説明せよ。",
+      "verso": "水の得にくい中央部を避け、湧水のある末端部に集落が立地してきた",
+      "explanation": "地形図で集落の並びを読むと、地下水の状況が推測できる。地形と土地利用を結びつけて読むことが、地理の基本的な技能である。",
+      "tags": [
+        "地形",
+        "土地利用"
+      ],
+      "distractors": {
+        "easy": [
+          "どこにでも均等に集落ができた",
+          "集落は作られなかった",
+          "山の上に集落ができた"
+        ],
+        "medium": [
+          "中央部にこそ集落が集中した",
+          "河川のすぐそばだけに立地した",
+          "地形とは無関係に立地した"
+        ],
+        "hard": [
+          "扇状地の上端に集落が集中した",
+          "水田が中央部に広がった",
+          "集落は近代以降に成立した"
+        ]
+      }
+    },
+    {
+      "recto": "日本列島が地震と火山活動の多い地域である理由は何か。",
+      "verso": "複数のプレートが集まり、沈み込む境界に位置しているから",
+      "explanation": "災害の多さと、温泉・地熱・肥沃な火山灰土壌という恵みは同じ原因から生じている。危険と恵みを切り離せないことが、日本の国土の条件である。",
+      "tags": [
+        "地形",
+        "日本"
+      ],
+      "distractors": {
+        "easy": [
+          "島国だから",
+          "山が多いから",
+          "気候が温暖だから"
+        ],
+        "medium": [
+          "安定陸塊に位置するから",
+          "古期造山帯に属するから",
+          "海に囲まれているから"
+        ],
+        "hard": [
+          "ホットスポットの上にあるから",
+          "海嶺が通っているから",
+          "大陸から分離したばかりだから"
+        ]
+      }
+    },
+    {
+      "recto": "地形図から土地の成り立ちを読み取る際、手がかりとなるものは何か。",
+      "verso": "等高線の間隔と形、旧河道や地名、そして土地利用の分布",
+      "explanation": "「〜島」「〜谷」といった地名や、水田と畑の分かれ方が過去の地形を語ることがある。地図は現在の情報であると同時に、過去の資料でもある。",
+      "tags": [
+        "地形",
+        "技能"
+      ],
+      "distractors": {
+        "easy": [
+          "地図の色だけ",
+          "地図の大きさだけ",
+          "手がかりはない"
+        ],
+        "medium": [
+          "方位記号のみ",
+          "縮尺の表示のみ",
+          "図の凡例のみ"
+        ],
+        "hard": [
+          "等高線の本数のみ",
+          "経緯線の間隔のみ",
+          "地図の発行年のみ"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】扇状地と三角州は、成り立ちと土地利用の点でどう違うか。",
+      "verso": "扇状地は山地の出口に粗い土砂が積もり水はけがよく果樹などに、三角州は河口に細かい土砂が積もり水はけが悪く水田に利用される",
+      "explanation": "どちらも河川の堆積による地形だが、粒の大きさが利用を分ける。堆積の場所が上流側か河口かで、粒の大きさが決まる点を押さえたい。",
+      "tags": [
+        "comparaison",
+        "地形"
+      ],
+      "distractors": {
+        "easy": [
+          "どちらも同じ地形である",
+          "どちらも山の上にできる",
+          "違いは大きさだけである"
+        ],
+        "medium": [
+          "扇状地が河口、三角州が山地の出口にできる",
+          "どちらも水はけが悪い",
+          "どちらも水田に利用される"
+        ],
+        "hard": [
+          "扇状地は海底に、三角州は陸上にできる",
+          "扇状地は侵食、三角州は堆積による",
+          "違いは形成された年代だけである"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】平野は、すべて同じように安全で住みやすい土地なのか。",
+      "verso": "いいえ。同じ平野の中でも自然堤防と後背湿地では浸水の危険がまったく異なる",
+      "explanation": "よくある誤解である。地形図では平坦に見えても、数メートルの標高差が浸水するかどうかを分ける。古い集落の立地は、その土地の危険を知る手がかりになる。",
+      "tags": [
+        "piege",
+        "地形"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。平野はどこも同じである",
+          "はい。平らなら安全である",
+          "はい。標高差がないから"
+        ],
+        "medium": [
+          "はい。堤防があれば同じである",
+          "はい。地形図で判別できないから",
+          "いいえ。平野には人が住めないから"
+        ],
+        "hard": [
+          "はい。土壌が均一だから",
+          "いいえ。すべての平野が危険だから",
+          "はい。危険は河川からの距離だけで決まるから"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、地形を学ぶことの意味はどのように整理できるか。",
+      "verso": "土地の成り立ちを知ることで、土地利用の理由と災害の危険を同時に読み取れるようになること",
+      "explanation": "なぜここに田があり、なぜここに集落があるのか。そしてどこが浸水しやすいのか。地形は暮らしの条件と危険の両方を説明する鍵である。",
+      "tags": [
+        "地形",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "山や川の名前を覚えられること",
+          "地図を美しく描けること",
+          "とくに意味はない"
+        ],
+        "medium": [
+          "地震の日時を予測できること",
+          "地名の由来だけが分かること",
+          "観光地の位置が分かること"
+        ],
+        "hard": [
+          "土地の価格が計算できること",
+          "地形は災害とは無関係だと分かること",
+          "地形は人間の活動に影響しないと分かること"
+        ]
+      }
+    }
+  ]
+}

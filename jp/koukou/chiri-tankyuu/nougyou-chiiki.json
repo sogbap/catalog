@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-chiri-tankyuu-nougyou-chiiki",
+  "title": "農業の地域性と食料の生産",
+  "emoji": "🌾",
+  "subject": "geography",
+  "country": "jp",
+  "courseDescription": "自給的農業から企業的農業までの地域性を、自然条件と市場と技術の組み合わせから読み解き、世界の食料をめぐる構造を考える。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>農業の地域性と食料の生産</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>地理探究<br>\n  <b>単元：</b>大項目A 現代世界の系統地理的考察（資源、産業）\n</div>\n\n<blockquote>\n  <p><b>問い。</b>食料は足りているのに、なぜ飢える人がいるのだろうか。</p>\n</blockquote>\n\n<p>農業の形は気候だけでは決まらない。<b>市場までの距離、労働力の量、技術と資本、そして政策や歴史的な経緯</b>が重なって、地域ごとに異なる形が生まれてきた。この重なりを読み解くことが、地理的な見方である。</p>\n\n<h2>1・自給から商業へ、そして企業的農業へ</h2>\n\n<p><strong>焼畑農業</strong>は熱帯の森林を焼き、灰を肥料として数年耕したのち移動する。人口が少なければ持続可能な方式だが、<b>人口増加で休閑の期間が短くなると森林が回復できなくなる</b>。アジアの<strong>集約的稲作農業</strong>は、季節風による夏の雨と高い人口密度が生んだ形である。乾燥地帯の<strong>遊牧</strong>は、耕作に適さない土地を家畜の力で利用する合理的な方式といえる。</p>\n\n<p>ヨーロッパの<strong>混合農業</strong>は、穀物の栽培と家畜の飼育を組み合わせる。家畜の飼料を自分で作り、家畜の糞を肥料にするという循環が成り立つ形で、中世の三圃制から発展した。一方、北アメリカやオーストラリアの<strong>企業的穀物農業</strong>は広大な土地に大型機械を用い、国際市場向けに輸出する。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 150\" role=\"img\" aria-label=\"集約的稲作農業と企業的穀物農業の労働と面積と生産性の対照\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">「生産性」は、測り方で逆転する</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">集約的稲作農業</text>\n  <text x=\"87\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">狭い耕地</text>\n  <text x=\"87\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">多くの労働力</text>\n  <text x=\"87\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">面積あたりの収穫は多い</text>\n  <text x=\"87\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">一人あたりは少ない</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">企業的穀物農業</text>\n  <text x=\"253\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">広大な耕地</text>\n  <text x=\"253\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">大型機械</text>\n  <text x=\"253\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">面積あたりは少ない</text>\n  <text x=\"253\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">一人あたりは非常に多い</text>\n</svg>\n<figcaption>どちらが優れているかではなく、条件に応じた合理的な形である。</figcaption>\n</figure>\n\n<p>熱帯・亜熱帯の<strong>プランテーション農業</strong>は、植民地時代に本国向けの作物を作らせるために整えられた。国際価格の変動に収入が左右され、<b>食料を輸入に頼るという弱さ</b>を今も抱えている。大都市の近くでは、鮮度が求められる野菜や花を作る<strong>近郊農業</strong>が営まれるが、輸送と保冷の技術が進めば産地は遠方へ広がる。<b>立地は技術によって変化しうる</b>のである。</p>\n\n<div class=\"callout\">\n  <strong>用語・モノカルチャー経済</strong><br>\n  特定の作物や鉱産物の輸出に依存する経済。<b>国際価格が変動すると国の収入が大きく揺れ、しかも自国では調整できない</b>。天候や他国の生産量、投機的な取引によって、努力とは無関係に収入が変わってしまう。\n</div>\n\n<h2>2・食料をめぐる構造</h2>\n\n<p>国際的な穀物の取引を担う巨大企業は、生産から貯蔵・輸送・取引までを握り、価格の形成に大きな力をもつ。<b>情報と設備を握る側が有利になる</b>構造である。生産者は価格の決定に関われず、消費国は輸入先の判断に左右される。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 138\" role=\"img\" aria-label=\"世界の食料は総量では足りているが買う力と流通によって偏って配分されるという構造\">\n  <defs>\n    <marker id=\"ar-gnc1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">足りているのに、届かない</text>\n  <rect x=\"80\" y=\"26\" width=\"180\" height=\"26\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"43\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">世界の食料の総量は足りる</text>\n  <path d=\"M170,52 L170,64\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gnc1)\"/>\n  <rect x=\"60\" y=\"68\" width=\"220\" height=\"24\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"84\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">買う力と流通の仕組みが配分を決める</text>\n  <path d=\"M120,92 L86,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gnc1)\"/>\n  <path d=\"M220,92 L254,108\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gnc1)\"/>\n  <text x=\"76\" y=\"128\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">飢餓</text>\n  <text x=\"264\" y=\"128\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">大量の廃棄</text>\n</svg>\n<figcaption>だから増産だけでは解決しない。</figcaption>\n</figure>\n\n<p>食料自給率が低い国は、平時には安く買えるという利点を得るが、<b>輸出国の不作や輸出制限、紛争によって食料が届かなくなる</b>可能性を抱える。効率と安全保障のどちらを重視するかという選択が、この問題の核心にある。</p>\n\n<h2>3・持続可能性という問い</h2>\n\n<p>乾燥地では、地下水のくみ上げすぎで水位が下がり、灌漑の継続が難しくなっている地域がある。<b>長い年月をかけて蓄えられた地下水は、いったん使い切ると簡単には戻らない</b>。塩害の発生とあわせて、灌漑農業の持続性が問われている。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 136\" role=\"img\" aria-label=\"自然条件と市場と労働力と技術と政策や歴史が重なって農業の地域性が決まること\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">重なりとして読む</text>\n  <rect x=\"6\" y=\"28\" width=\"76\" height=\"40\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"44\" y=\"53\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">自然条件</text>\n  <rect x=\"90\" y=\"28\" width=\"76\" height=\"40\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"128\" y=\"53\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">市場への距離</text>\n  <rect x=\"174\" y=\"28\" width=\"76\" height=\"40\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"212\" y=\"53\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">労働力と技術</text>\n  <rect x=\"258\" y=\"28\" width=\"76\" height=\"40\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"296\" y=\"53\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">政策と歴史</text>\n  <path d=\"M44,68 L150,92\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gnc1)\"/>\n  <path d=\"M128,68 L164,92\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gnc1)\"/>\n  <path d=\"M212,68 L180,92\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gnc1)\"/>\n  <path d=\"M296,68 L192,92\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gnc1)\"/>\n  <rect x=\"90\" y=\"96\" width=\"160\" height=\"28\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"114\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">その地域の農業の形</text>\n</svg>\n<figcaption>植民地時代の遺産が、今の作物を決めている地域もある。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>農業の類型</h3>\n\n<table>\n  <tr><th>類型</th><th>特徴</th></tr>\n  <tr><td>焼畑農業</td><td>森林を焼き移動、人口増で持続が困難に</td></tr>\n  <tr><td>集約的稲作農業</td><td>狭い耕地に多くの労働力、季節風の雨</td></tr>\n  <tr><td>遊牧</td><td>耕作不適地を家畜で利用、定住化が進む</td></tr>\n  <tr><td>混合農業</td><td>穀物と家畜の循環、ヨーロッパ</td></tr>\n  <tr><td>企業的穀物農業</td><td>広大な土地と機械、輸出向け</td></tr>\n  <tr><td>プランテーション農業</td><td>単一の商品作物、植民地に由来</td></tr>\n</table>\n\n<h3>食料をめぐる問題</h3>\n\n<table>\n  <tr><th>問題</th><th>要因</th></tr>\n  <tr><td>飢餓と廃棄の並存</td><td>総量ではなく買う力と配分の仕組み</td></tr>\n  <tr><td>モノカルチャー経済</td><td>国際価格の変動に収入が左右される</td></tr>\n  <tr><td>低い自給率</td><td>不作・輸出制限・紛争に弱い</td></tr>\n</table>\n\n<h3>持続可能性</h3>\n\n<table>\n  <tr><th>課題</th><th>内容</th></tr>\n  <tr><td>地下水の枯渇</td><td>くみ上げすぎで灌漑が続けられない</td></tr>\n  <tr><td>塩害</td><td>乾燥地の灌漑で塩分が地表に集まる</td></tr>\n  <tr><td>森林の減少</td><td>休閑期間の短縮と農地の拡大</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  飢餓をなくすために<b>まず増産すればよい、というのは誤り</b>である。世界の食料の総量はすでに足りており、問題は買う力と配分の仕組みにある。増産だけを進めても買えない人には届かない。<b>貧困・流通・紛争・価格の変動に同時に取り組まなければ解決しない</b>という点に、この問題の難しさがある。\n</div>\n\n<blockquote>\n  <p>畑の形は、その土地の空と市場と歴史の三つを同時に映している。作物の名前ではなく、その組み合わせを読みたい。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "地理探究 ― 現代世界の系統地理的考察",
+  "cards": [
+    {
+      "recto": "熱帯の森林を焼き払い、数年耕したのち移動する農業を何というか。",
+      "verso": "焼畑農業",
+      "explanation": "灰が肥料となり、地力が衰えると移動して森林の回復を待つ。人口が少なければ持続可能な方式だが、人口増加で休閑の期間が短くなると森林が回復できなくなる。",
+      "tags": [
+        "農業",
+        "自給的農業"
+      ],
+      "distractors": {
+        "easy": [
+          "水田農業",
+          "温室栽培",
+          "水耕栽培"
+        ],
+        "medium": [
+          "遊牧",
+          "オアシス農業",
+          "混合農業"
+        ],
+        "hard": [
+          "プランテーション農業",
+          "集約的稲作農業",
+          "移牧"
+        ]
+      }
+    },
+    {
+      "recto": "アジアの稲作地帯で、狭い耕地に多くの労働力を投入する農業を何というか。",
+      "verso": "集約的稲作農業",
+      "explanation": "季節風による夏の雨と、高い人口密度がこの形を生んだ。単位面積あたりの収穫は多いが、一人あたりの生産量は少ないという特徴をもつ。",
+      "tags": [
+        "農業",
+        "アジア"
+      ],
+      "distractors": {
+        "easy": [
+          "遊牧",
+          "焼畑農業",
+          "狩猟採集"
+        ],
+        "medium": [
+          "企業的穀物農業",
+          "混合農業",
+          "地中海式農業"
+        ],
+        "hard": [
+          "集約的畑作農業",
+          "園芸農業",
+          "酪農"
+        ]
+      }
+    },
+    {
+      "recto": "乾燥地帯で家畜とともに移動しながら暮らす農業の形を何というか。",
+      "verso": "遊牧",
+      "explanation": "耕作に適さない土地を家畜の力で利用する合理的な方式である。近年は国境の画定や定住化政策によって、移動できる範囲が狭まっている。",
+      "tags": [
+        "農業",
+        "乾燥帯"
+      ],
+      "distractors": {
+        "easy": [
+          "稲作",
+          "果樹栽培",
+          "温室栽培"
+        ],
+        "medium": [
+          "酪農",
+          "混合農業",
+          "オアシス農業"
+        ],
+        "hard": [
+          "移牧",
+          "企業的牧畜",
+          "放牧を伴う混合農業"
+        ]
+      }
+    },
+    {
+      "recto": "ヨーロッパで発達した、穀物の栽培と家畜の飼育を組み合わせた農業を何というか。",
+      "verso": "混合農業",
+      "explanation": "家畜の飼料を自分で作り、家畜の糞を肥料にするという循環が成り立つ。中世の三圃制から発展した形であり、地力の維持と収入の安定を両立させている。",
+      "tags": [
+        "農業",
+        "ヨーロッパ"
+      ],
+      "distractors": {
+        "easy": [
+          "焼畑農業",
+          "遊牧",
+          "水田農業"
+        ],
+        "medium": [
+          "酪農",
+          "地中海式農業",
+          "園芸農業"
+        ],
+        "hard": [
+          "企業的穀物農業",
+          "商業的混合農業のみ",
+          "近郊農業"
+        ]
+      }
+    },
+    {
+      "recto": "北アメリカやオーストラリアで見られる、広大な土地に大型機械を用いる農業を何というか。",
+      "verso": "企業的穀物農業",
+      "explanation": "一人あたりの生産量が非常に多く、国際市場向けに輸出される。単位面積あたりの収穫はアジアの稲作より少ないが、規模で圧倒する構造である。",
+      "tags": [
+        "農業",
+        "企業的農業"
+      ],
+      "distractors": {
+        "easy": [
+          "家庭菜園",
+          "焼畑農業",
+          "遊牧"
+        ],
+        "medium": [
+          "混合農業",
+          "集約的稲作農業",
+          "園芸農業"
+        ],
+        "hard": [
+          "プランテーション農業",
+          "企業的牧畜",
+          "地中海式農業"
+        ]
+      }
+    },
+    {
+      "recto": "熱帯・亜熱帯で単一の商品作物を大規模に栽培する農業の形を何というか。",
+      "verso": "プランテーション農業",
+      "explanation": "植民地時代に本国向けの作物を作らせるために整えられた。国際価格の変動に収入が左右され、食料を輸入に頼るという弱さを今も抱えている。",
+      "tags": [
+        "農業",
+        "熱帯"
+      ],
+      "distractors": {
+        "easy": [
+          "家庭菜園",
+          "水田農業",
+          "遊牧"
+        ],
+        "medium": [
+          "混合農業",
+          "企業的穀物農業",
+          "園芸農業"
+        ],
+        "hard": [
+          "焼畑農業",
+          "オアシス農業",
+          "集約的畑作農業"
+        ]
+      }
+    },
+    {
+      "recto": "大都市の近くで、輸送に時間をかけられない作物を作る農業を何というか。",
+      "verso": "近郊農業（園芸農業）",
+      "explanation": "鮮度が求められる野菜や花が中心となる。輸送と保冷の技術が進むと産地は遠方へ広がるため、この立地は技術によって変化しうる。",
+      "tags": [
+        "農業",
+        "立地"
+      ],
+      "distractors": {
+        "easy": [
+          "遊牧",
+          "焼畑農業",
+          "企業的穀物農業"
+        ],
+        "medium": [
+          "混合農業",
+          "地中海式農業",
+          "酪農"
+        ],
+        "hard": [
+          "輸送園芸農業",
+          "施設園芸のみ",
+          "プランテーション農業"
+        ]
+      }
+    },
+    {
+      "recto": "国際的な穀物の取引を担う巨大企業が、世界の食料に及ぼす影響は何か。",
+      "verso": "生産から貯蔵・輸送・取引までを握り、価格の形成に大きな力をもつこと",
+      "explanation": "情報と設備を握る側が有利になる構造である。生産者は価格の決定に関われず、消費国は輸入先の判断に左右されるという非対称が生じる。",
+      "tags": [
+        "農業",
+        "国際"
+      ],
+      "distractors": {
+        "easy": [
+          "影響はまったくない",
+          "農家の収入を保証する",
+          "価格を常に下げる"
+        ],
+        "medium": [
+          "生産者が価格を決められるようにする",
+          "各国政府が価格を統制する",
+          "国連が取引を管理する"
+        ],
+        "hard": [
+          "輸送だけを担い価格には関与しない",
+          "生産者と消費者を直接つなぐ",
+          "取引量は各国の合意で決まる"
+        ]
+      }
+    },
+    {
+      "recto": "同じ地球上で飢餓と食料の廃棄が同時に起きているのはなぜか。",
+      "verso": "食料の総量は足りているが、買う力と流通の仕組みによって偏って配分されるから",
+      "explanation": "生産量の不足ではなく分配の問題である。だから増産だけでは解決せず、価格・輸送・貧困への対応が同時に必要になる。",
+      "tags": [
+        "農業",
+        "食料問題"
+      ],
+      "distractors": {
+        "easy": [
+          "食料の総量が足りないから",
+          "農地が足りないから",
+          "偶然である"
+        ],
+        "medium": [
+          "天候不順が続いているから",
+          "人口が増えすぎたから",
+          "農業技術が遅れているから"
+        ],
+        "hard": [
+          "輸送手段が存在しないから",
+          "各国が輸出を禁じているから",
+          "生産量が年々減っているから"
+        ]
+      }
+    },
+    {
+      "recto": "特定の作物の輸出に依存する国が、経済的に不安定になりやすいのはなぜか。",
+      "verso": "国際価格が変動すると国の収入が大きく揺れ、自国では調整できないから",
+      "explanation": "モノカルチャー経済と呼ばれる。天候や他国の生産量、投機的な取引によって価格が動くため、努力とは無関係に収入が変わってしまう。",
+      "tags": [
+        "農業",
+        "食料問題"
+      ],
+      "distractors": {
+        "easy": [
+          "作物が育たないから",
+          "輸送費が高いから",
+          "不安定にはならない"
+        ],
+        "medium": [
+          "国内消費が多すぎるから",
+          "労働力が不足するから",
+          "土地が狭いから"
+        ],
+        "hard": [
+          "価格を自国で決められるから",
+          "複数の作物を作っているから",
+          "国際機関が価格を保証するから"
+        ]
+      }
+    },
+    {
+      "recto": "食料自給率が低い国が抱えるリスクは何か。",
+      "verso": "輸出国の不作や輸出制限、紛争によって食料が届かなくなる可能性があること",
+      "explanation": "平時は安く買えることが利点だが、危機のときには弱点になる。効率と安全保障のどちらを重視するかという選択が、この問題の核心である。",
+      "tags": [
+        "農業",
+        "食料問題"
+      ],
+      "distractors": {
+        "easy": [
+          "食べ物がまずくなること",
+          "農地が余ること",
+          "リスクはない"
+        ],
+        "medium": [
+          "国内の農業が発展しすぎること",
+          "輸入品の価格が下がりすぎること",
+          "農産物が余ること"
+        ],
+        "hard": [
+          "国際価格の変動から守られること",
+          "輸出国との関係が強まりすぎること",
+          "自給率が高い国のほうが危険であること"
+        ]
+      }
+    },
+    {
+      "recto": "農業に用いる水の確保が、世界的な課題となっている理由は何か。",
+      "verso": "地下水のくみ上げすぎで水位が下がり、灌漑の継続が難しくなっている地域があるから",
+      "explanation": "長い年月をかけて蓄えられた地下水は、いったん使い切ると簡単には戻らない。塩害の発生とあわせて、乾燥地の灌漑農業の持続性が問われている。",
+      "tags": [
+        "農業",
+        "環境"
+      ],
+      "distractors": {
+        "easy": [
+          "雨が降らなくなったから",
+          "川がなくなったから",
+          "課題ではない"
+        ],
+        "medium": [
+          "海水が使えないから",
+          "水道料金が高いから",
+          "水質が悪化したから"
+        ],
+        "hard": [
+          "地下水は無限にあるから",
+          "灌漑が行われなくなったから",
+          "水は農業には使われないから"
+        ]
+      }
+    },
+    {
+      "recto": "農業の地域性を考えるとき、自然条件のほかに何を見る必要があるか。",
+      "verso": "市場までの距離、労働力の量、技術と資本、そして政策や歴史的な経緯",
+      "explanation": "同じ気候でも、都市に近ければ野菜を、遠ければ日もちする穀物を作る。植民地時代の遺産が作物を決めている地域もある。自然だけでは説明がつかない。",
+      "tags": [
+        "農業",
+        "立地"
+      ],
+      "distractors": {
+        "easy": [
+          "何も見る必要はない",
+          "気候だけを見ればよい",
+          "土壌だけを見ればよい"
+        ],
+        "medium": [
+          "人口の数だけ",
+          "国土の広さだけ",
+          "国の豊かさだけ"
+        ],
+        "hard": [
+          "自然条件がすべてを決める",
+          "政策は農業に影響しない",
+          "歴史的経緯は関係ない"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】集約的稲作農業と企業的穀物農業は、何が対照的か。",
+      "verso": "前者は狭い土地に多くの労働力を投じて単位面積あたりの収穫が多く、後者は広い土地を機械で耕して一人あたりの生産量が多い",
+      "explanation": "どちらが優れているかではなく、人口密度と土地の広さに応じた合理的な形である。生産性という言葉が、面積あたりか一人あたりかで逆転する点が重要である。",
+      "tags": [
+        "comparaison",
+        "農業"
+      ],
+      "distractors": {
+        "easy": [
+          "まったく同じ農業である",
+          "どちらも機械を使う",
+          "違いは作物だけである"
+        ],
+        "medium": [
+          "前者が機械化、後者が労働集約である",
+          "どちらも一人あたりの生産量が多い",
+          "どちらも単位面積あたりの収穫が少ない"
+        ],
+        "hard": [
+          "前者のほうが一人あたりの生産量が多い",
+          "後者のほうが単位面積あたりの収穫が多い",
+          "違いは輸出するかどうかだけである"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】飢餓をなくすには、まず食料の増産をすればよいのか。",
+      "verso": "いいえ。世界の食料の総量は足りており、問題は買う力と配分の仕組みにある",
+      "explanation": "よくある誤解である。増産だけを進めても、買えない人には届かない。貧困、流通、紛争、価格の変動に同時に取り組まなければ解決しないという点が、この問題の難しさである。",
+      "tags": [
+        "piege",
+        "農業"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。食料が足りないから",
+          "はい。増産だけで解決する",
+          "はい。農地を増やせばよい"
+        ],
+        "medium": [
+          "はい。技術革新が唯一の答えだから",
+          "はい。人口が多すぎるから",
+          "いいえ。食料は減らすべきだから"
+        ],
+        "hard": [
+          "はい。配分は市場が自動的に解決するから",
+          "いいえ。総量はすでに不足しているから",
+          "はい。廃棄を減らせば増産と同じだから"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、世界の農業の地域性はどのように整理できるか。",
+      "verso": "自然条件を土台に、市場・労働力・技術・歴史が組み合わさって、地域ごとに異なる形が生まれてきたこと",
+      "explanation": "気候だけでも、市場だけでも説明できない。複数の条件の重なりとして読むことが、地理的な見方である。",
+      "tags": [
+        "農業",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "すべて気候で決まっていること",
+          "すべて偶然であること",
+          "世界中で同じ農業が行われていること"
+        ],
+        "medium": [
+          "すべて政府が決めていること",
+          "すべて技術で決まっていること",
+          "土壌だけで決まっていること"
+        ],
+        "hard": [
+          "歴史的経緯は影響しないこと",
+          "市場までの距離は関係ないこと",
+          "地域差は近年なくなったこと"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-sekaishi-tankyuu-higashi-asia",
+  "title": "東アジア世界の形成 ― 秦・漢と冊封",
+  "emoji": "🐉",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "春秋・戦国の争乱から秦の統一と漢の発展までをたどり、冊封と交易、科挙と文化の共有によって東アジア世界がどう形づくられたかを考える。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>東アジア世界の形成 ― 秦・漢と冊封</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>世界史探究<br>\n  <b>単元：</b>大項目B 諸地域の歴史的特質の形成\n</div>\n\n<blockquote>\n  <p><b>問い。</b>日本・朝鮮・ベトナムが漢字や律令を共有するようになったのは、なぜだろうか。</p>\n</blockquote>\n\n<p>東アジアには、言語も民族も異なる国々が、<strong>漢字・儒学・仏教・律令</strong>という共通の道具立てを分かち合う世界が生まれた。それは征服の結果ではない。中国の統一王朝が生み出した制度と文化が、<strong>冊封</strong>と交易という関係を通じて広がり、各地でそれぞれの形に作り変えられていった結果である。</p>\n\n<h2>1・争乱が生んだ思想</h2>\n\n<p>周の権威が衰えると、諸侯が覇を競う<strong>春秋・戦国時代</strong>が550年にわたって続いた。鉄製農具と牛耕が広まって生産力が高まり、家柄によらず実力のある者が登用されるようになる。乱世をどう治めるかという問いに、多くの思想家が答えを競った。これが<strong>諸子百家</strong>である。</p>\n\n<p><strong>孔子</strong>に始まる儒家は、仁と礼を重んじ、徳のある人が模範を示すことで社会は治まると説いた。これに対し<strong>法家</strong>は、人は利によって動くと考え、明確な賞罰で秩序を保とうとした。この二つの答えの対立は、以後の中国の政治を貫くことになる。</p>\n\n<div class=\"callout\">\n  <strong>用語・諸子百家</strong><br>\n  春秋・戦国の争乱期に現れた思想家と学派の総称。儒家・道家・法家・墨家など。<b>争いが長く続いたからこそ、統治の原理が真剣に問われた</b>という背景を押さえておきたい。\n</div>\n\n<h2>2・統一と拡大</h2>\n\n<p>法家を採用した秦は、紀元前221年に中国を統一する。<strong>始皇帝</strong>は文字・貨幣・度量衡を統一し、諸侯に土地を分ける方式をやめて、中央から派遣した官吏が直接治める<strong>郡県制</strong>をしいた。北方の<strong>匈奴</strong>に備えて<strong>万里の長城</strong>を修築したが、その厳しい統治への反発から王朝は短命に終わった。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 150\" role=\"img\" aria-label=\"封建制と郡県制の統治のしくみの比較\">\n  <defs>\n    <marker id=\"ar-sha1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">誰が地方を治めるのか</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">封建制</text>\n  <text x=\"87\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">一族・功臣に土地を与える</text>\n  <text x=\"87\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">世襲で支配を任せる</text>\n  <text x=\"87\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">広い地域を治めやすい</text>\n  <text x=\"87\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">諸侯が自立し争いやすい</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">郡県制</text>\n  <text x=\"253\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">中央から官吏を派遣</text>\n  <text x=\"253\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">皇帝が直接治める</text>\n  <text x=\"253\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">中央集権を実現できる</text>\n  <text x=\"253\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">官僚組織を必要とする</text>\n</svg>\n<figcaption>漢はこの二つを組み合わせた郡国制から出発した。</figcaption>\n</figure>\n\n<p>秦を継いだ漢のもとで、<strong>武帝</strong>は匈奴を攻め、西域や朝鮮半島へも勢力を伸ばした。官吏に儒学の素養を求めたことで、儒学は国家の正統な学問となっていく。この時期に開かれた<strong>シルクロード</strong>を通って絹が西へ運ばれ、西方からは馬やぶどう、のちには仏教が伝わった。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 124\" role=\"img\" aria-label=\"中国から西方へ絹が運ばれ西方から馬やぶどうや仏教が伝わったシルクロードの双方向の交流\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">物だけでなく、技術も宗教も行き交った</text>\n  <rect x=\"12\" y=\"42\" width=\"104\" height=\"56\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"64\" y=\"66\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">中国（漢）</text>\n  <text x=\"64\" y=\"86\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">絹・製紙の技術</text>\n  <path d=\"M118,58 L220,58\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sha1)\"/>\n  <path d=\"M220,82 L118,82\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sha1)\"/>\n  <text x=\"170\" y=\"52\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">絹が西へ</text>\n  <text x=\"170\" y=\"96\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">馬・ぶどう・仏教が東へ</text>\n  <rect x=\"224\" y=\"42\" width=\"104\" height=\"56\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"276\" y=\"66\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">西域・西方</text>\n  <text x=\"276\" y=\"86\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">オアシス都市</text>\n</svg>\n<figcaption>交易路は、一方通行ではなく往復の道であった。</figcaption>\n</figure>\n\n<h2>3・冊封と共通の文化</h2>\n\n<p>周辺の国の王が皇帝に貢ぎ物を差し出す<strong>朝貢</strong>を行い、その見返りに王の称号を与えられる関係を<strong>冊封</strong>という。形の上では上下の関係だが、周辺の国にとっては王としての権威の裏づけであり、また実利のある交易の機会でもあった。</p>\n\n<p>隋で始まった<strong>科挙</strong>は、家柄によらず学力で官吏を選ぼうとする制度であり、儒学の古典の理解が問われた。唐で整えられた<strong>律令</strong>とあわせ、これらの制度は日本・朝鮮・ベトナムへ伝わる。各国はそれをそのまま写しとったのではなく、自らの社会に合わせて作り変えた。日本が科挙を採用せず貴族の家柄を重んじ続けたことは、その典型である。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 128\" role=\"img\" aria-label=\"中国を中心に日本と朝鮮とベトナムが漢字と儒学と仏教と律令を共有した東アジア世界\">\n  <rect x=\"118\" y=\"24\" width=\"104\" height=\"34\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"46\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">中国の統一王朝</text>\n  <path d=\"M140,58 L86,74\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sha1)\"/>\n  <path d=\"M170,58 L170,74\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sha1)\"/>\n  <path d=\"M200,58 L254,74\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-sha1)\"/>\n  <rect x=\"10\" y=\"78\" width=\"92\" height=\"34\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"56\" y=\"99\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">朝鮮半島</text>\n  <rect x=\"124\" y=\"78\" width=\"92\" height=\"34\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"99\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">日本列島</text>\n  <rect x=\"238\" y=\"78\" width=\"92\" height=\"34\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"284\" y=\"99\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">ベトナム</text>\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">漢字・儒学・仏教・律令</text>\n  <text x=\"170\" y=\"124\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">受け入れつつ、それぞれの形に作り変えた</text>\n</svg>\n<figcaption>共通性と独自性は、対立せずに同居している。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>年表</h3>\n\n<table>\n  <tr><th>時期</th><th>できごと</th></tr>\n  <tr><td>前8〜前3世紀</td><td>春秋・戦国時代、諸子百家</td></tr>\n  <tr><td>前221年</td><td>秦の統一、郡県制、万里の長城</td></tr>\n  <tr><td>前2世紀</td><td>漢の武帝、シルクロードの発展</td></tr>\n  <tr><td>6〜7世紀</td><td>隋で科挙が始まる、唐で律令が整う</td></tr>\n</table>\n\n<h3>制度の整理</h3>\n\n<table>\n  <tr><th>制度</th><th>内容</th></tr>\n  <tr><td>郡県制</td><td>中央から官吏を派遣して直接治める</td></tr>\n  <tr><td>冊封</td><td>朝貢と引きかえに王の称号を与える</td></tr>\n  <tr><td>科挙</td><td>学力によって官吏を選ぶ試験制度</td></tr>\n  <tr><td>律令</td><td>刑罰と行政の法典、唐で完成</td></tr>\n</table>\n\n<h3>人物</h3>\n\n<table>\n  <tr><th>人物</th><th>はたらき</th></tr>\n  <tr><td>孔子</td><td>儒家の祖、仁と礼を説く</td></tr>\n  <tr><td>始皇帝</td><td>中国を統一、文字と度量衡を統一</td></tr>\n  <tr><td>武帝</td><td>領域を拡大し、儒学を国家の学問に</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  朝貢を<b>一方的に搾取される屈従の関係と考えるのは誤り</b>である。皇帝からの返礼はしばしば貢ぎ物を上回り、周辺の国はそれを交易の機会として求めた。近代の植民地支配とは性格の異なる関係であることに注意したい。\n</div>\n\n<blockquote>\n  <p>制度は輸出されるのではなく、受け取る側が選び取る。東アジアの共通性は、押しつけの跡ではなく、選択の積み重ねである。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "世界史探究 ― 諸地域の歴史的特質の形成",
+  "cards": [
+    {
+      "recto": "周の権威が衰え、諸侯が長く争い続けた紀元前8世紀からの時代を何というか。",
+      "verso": "春秋・戦国時代",
+      "explanation": "550年にわたる争乱の時代である。鉄製農具と牛耕の広まりで生産力が高まり、実力のある者が身分に関わりなく登用されるようになった。",
+      "tags": [
+        "東アジア",
+        "中国"
+      ],
+      "distractors": {
+        "easy": [
+          "明治時代",
+          "鎌倉時代",
+          "産業革命期"
+        ],
+        "medium": [
+          "三国時代",
+          "五胡十六国時代",
+          "南北朝時代"
+        ],
+        "hard": [
+          "西周",
+          "秦漢時代",
+          "五代十国"
+        ]
+      }
+    },
+    {
+      "recto": "春秋・戦国時代に、乱世をどう治めるかをめぐって現れた多くの思想家たちを何と総称するか。",
+      "verso": "諸子百家",
+      "explanation": "儒家・道家・法家・墨家などが並び立った。争乱が続いたからこそ、統治の原理が真剣に問われたのである。",
+      "tags": [
+        "東アジア",
+        "思想"
+      ],
+      "distractors": {
+        "easy": [
+          "武士団",
+          "貴族",
+          "宣教師"
+        ],
+        "medium": [
+          "科挙官僚",
+          "文人画家",
+          "士大夫"
+        ],
+        "hard": [
+          "清談の士",
+          "竹林の七賢",
+          "五経博士"
+        ]
+      }
+    },
+    {
+      "recto": "仁と礼を重んじ、家族の秩序を政治の基本に据えた儒家の祖は誰か。",
+      "verso": "孔子",
+      "explanation": "その言行は『論語』にまとめられた。徳のある人が模範を示すことで社会が治まるという考えは、のちに東アジア各地の統治の理念となった。",
+      "tags": [
+        "東アジア",
+        "思想"
+      ],
+      "distractors": {
+        "easy": [
+          "ソクラテス",
+          "釈迦",
+          "始皇帝"
+        ],
+        "medium": [
+          "老子",
+          "荘子",
+          "墨子"
+        ],
+        "hard": [
+          "孟子",
+          "荀子",
+          "韓非"
+        ]
+      }
+    },
+    {
+      "recto": "厳しい法と刑罰によって国を治めるべきだと説き、秦に採用された学派は何か。",
+      "verso": "法家",
+      "explanation": "徳に頼る儒家とは正反対に、人は利によって動くと考え、明確な賞罰で秩序を保とうとした。秦の急速な統一を支えたが、その厳しさが反発も招いた。",
+      "tags": [
+        "東アジア",
+        "思想"
+      ],
+      "distractors": {
+        "easy": [
+          "武家",
+          "農家",
+          "商家"
+        ],
+        "medium": [
+          "儒家",
+          "道家",
+          "墨家"
+        ],
+        "hard": [
+          "兵家",
+          "陰陽家",
+          "縦横家"
+        ]
+      }
+    },
+    {
+      "recto": "紀元前221年に中国を初めて統一し、みずから「皇帝」と称した人物は誰か。",
+      "verso": "始皇帝",
+      "explanation": "文字・貨幣・度量衡を統一し、広い領域を一つの基準で治めようとした。統一の期間は短かったが、その枠組みはのちの王朝に受け継がれた。",
+      "tags": [
+        "東アジア",
+        "中国"
+      ],
+      "distractors": {
+        "easy": [
+          "聖徳太子",
+          "チンギス・ハン",
+          "アレクサンドロス"
+        ],
+        "medium": [
+          "漢の武帝",
+          "唐の太宗",
+          "隋の煬帝"
+        ],
+        "hard": [
+          "劉邦",
+          "項羽",
+          "孝公"
+        ]
+      }
+    },
+    {
+      "recto": "秦が全国に役人を派遣して直接治めるためにしいた制度を何というか。",
+      "verso": "郡県制",
+      "explanation": "土地を郡と県に分け、中央から派遣した官吏に治めさせた。一族を諸侯として封じる従来のやり方をやめ、皇帝への中央集権を徹底したのである。",
+      "tags": [
+        "東アジア",
+        "制度"
+      ],
+      "distractors": {
+        "easy": [
+          "幕藩体制",
+          "議会制",
+          "身分制"
+        ],
+        "medium": [
+          "封建制",
+          "郡国制",
+          "州県制"
+        ],
+        "hard": [
+          "均田制",
+          "府兵制",
+          "三省六部"
+        ]
+      }
+    },
+    {
+      "recto": "秦が北方からの侵入に備えて修築した長大な防壁を何というか。",
+      "verso": "万里の長城",
+      "explanation": "既存の城壁をつないで築かれた。農耕を営む中国と、草原の遊牧民との境界を目に見える形にしたものであり、両者の関係は以後の中国史を貫く主題となる。",
+      "tags": [
+        "東アジア",
+        "中国"
+      ],
+      "distractors": {
+        "easy": [
+          "ピラミッド",
+          "コロッセウム",
+          "大仏"
+        ],
+        "medium": [
+          "阿房宮",
+          "兵馬俑",
+          "大運河"
+        ],
+        "hard": [
+          "玉門関",
+          "都城の城壁",
+          "土塁と烽火台のみ"
+        ]
+      }
+    },
+    {
+      "recto": "秦・漢を悩ませた、モンゴル高原の騎馬遊牧民を何というか。",
+      "verso": "匈奴",
+      "explanation": "馬を駆る機動力で農耕地帯を圧迫した。漢は当初、絹や食料を贈って和平を保ち、のちに武力による対抗へ転じた。",
+      "tags": [
+        "東アジア",
+        "遊牧民"
+      ],
+      "distractors": {
+        "easy": [
+          "バイキング",
+          "ゲルマン人",
+          "倭人"
+        ],
+        "medium": [
+          "鮮卑",
+          "契丹",
+          "女真"
+        ],
+        "hard": [
+          "月氏",
+          "烏孫",
+          "突厥"
+        ]
+      }
+    },
+    {
+      "recto": "領域を大きく広げ、儒学を国家の学問として重んじた前漢の皇帝は誰か。",
+      "verso": "武帝",
+      "explanation": "匈奴を攻め、西域や朝鮮半島にも進出した。官吏に儒学の素養を求めたことで、儒学が長く国家の正統な学問となる出発点となった。",
+      "tags": [
+        "東アジア",
+        "中国"
+      ],
+      "distractors": {
+        "easy": [
+          "始皇帝",
+          "神武天皇",
+          "カエサル"
+        ],
+        "medium": [
+          "劉邦（高祖）",
+          "光武帝",
+          "唐の太宗"
+        ],
+        "hard": [
+          "文帝",
+          "景帝",
+          "宣帝"
+        ]
+      }
+    },
+    {
+      "recto": "漢の時代に開かれた、中国と西方を結ぶ内陸の交易路を何というか。",
+      "verso": "シルクロード（絹の道）",
+      "explanation": "絹が西へ運ばれ、西方からは馬やぶどう、のちに仏教が伝わった。物だけでなく技術・宗教・病も行き来した道である。",
+      "tags": [
+        "東アジア",
+        "交流"
+      ],
+      "distractors": {
+        "easy": [
+          "東海道",
+          "大西洋航路",
+          "スエズ運河"
+        ],
+        "medium": [
+          "海の道（南海路）",
+          "草原の道",
+          "大運河"
+        ],
+        "hard": [
+          "茶馬古道",
+          "香料の道",
+          "琥珀の道"
+        ]
+      }
+    },
+    {
+      "recto": "周辺の国の王が中国の皇帝に貢ぎ物を差し出し、代わりに王の称号を与えられる関係を何というか。",
+      "verso": "冊封",
+      "explanation": "貢ぎ物を差し出すことを朝貢という。この関係を通じて中国を中心とする国際秩序が形づくられ、周辺の国も権威と交易の利益を得た。",
+      "tags": [
+        "東アジア",
+        "国際関係"
+      ],
+      "distractors": {
+        "easy": [
+          "同盟",
+          "植民地支配",
+          "併合"
+        ],
+        "medium": [
+          "保護国",
+          "属州",
+          "封建関係"
+        ],
+        "hard": [
+          "互市",
+          "羈縻政策",
+          "和親"
+        ]
+      }
+    },
+    {
+      "recto": "隋で始まり、家柄によらず学力で官吏を選ぼうとした試験制度を何というか。",
+      "verso": "科挙",
+      "explanation": "儒学の古典の理解が問われ、合格者が官僚となった。実際には長い勉学を支えられる富裕な家の出身者が多かったが、身分を越える道が制度として開かれた意義は大きい。",
+      "tags": [
+        "東アジア",
+        "制度"
+      ],
+      "distractors": {
+        "easy": [
+          "徴兵制",
+          "参勤交代",
+          "義務教育"
+        ],
+        "medium": [
+          "九品中正法",
+          "推薦による登用",
+          "世襲の官職"
+        ],
+        "hard": [
+          "郷挙里選",
+          "蔭位の制",
+          "武挙のみ"
+        ]
+      }
+    },
+    {
+      "recto": "東アジアの国々が共有するようになった文化の要素として、代表的なものは何か。",
+      "verso": "漢字・儒学・仏教・律令",
+      "explanation": "日本・朝鮮・ベトナムは、中国から制度と文化を受け入れながら、それぞれの土地に合わせて作り変えていった。共通性と独自性の両方を見ることが大切である。",
+      "tags": [
+        "東アジア",
+        "文化"
+      ],
+      "distractors": {
+        "easy": [
+          "アルファベット・議会・キリスト教",
+          "ラテン語・ローマ法・元老院",
+          "楔形文字・太陰暦・ジッグラト"
+        ],
+        "medium": [
+          "漢字・道教・封建制・貨幣",
+          "仏教・カースト・サンスクリット語",
+          "科挙・宦官・纏足"
+        ],
+        "hard": [
+          "漢字・儒学・道教・郡県制",
+          "仏教・律令・アラビア文字・暦法",
+          "儒学・律令・仏教・アルファベット"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】諸侯に土地を与える封建制と、秦の郡県制はどう違うか。",
+      "verso": "封建制は一族や功臣に土地と支配を任せる方式、郡県制は中央から派遣した官吏が直接治める方式である",
+      "explanation": "封建制は広い地域を統治しやすいが、諸侯が自立して争いやすい。郡県制は中央集権を実現できるが、行き届いた官僚組織を必要とする。漢はこの二つを組み合わせた郡国制から出発した。",
+      "tags": [
+        "comparaison",
+        "東アジア"
+      ],
+      "distractors": {
+        "easy": [
+          "どちらも同じ制度である",
+          "どちらも選挙で統治者を選ぶ",
+          "違いは名前だけである"
+        ],
+        "medium": [
+          "封建制は官吏を派遣し、郡県制は諸侯に任せる",
+          "どちらも中央から官吏を派遣する",
+          "どちらも土地を諸侯に分け与える"
+        ],
+        "hard": [
+          "封建制は秦、郡県制は周が採用した",
+          "郡県制は皇帝が世襲を認める制度である",
+          "違いは徴税の方法だけである"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】朝貢とは、周辺の国が一方的に貢ぎ物を取られる屈従の関係だったのか。",
+      "verso": "いいえ。皇帝からの返礼の品はしばしば貢ぎ物を上回り、交易の機会としても求められた",
+      "explanation": "よくある誤解である。形の上では上下の関係だが、周辺の国にとっては王としての権威の裏づけと、実利のある交易の場でもあった。近代の植民地支配とは性格が異なる。",
+      "tags": [
+        "piege",
+        "東アジア"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。すべて奪われるだけだった",
+          "はい。軍が常に駐留していた",
+          "はい。税を毎年取り立てられた"
+        ],
+        "medium": [
+          "はい。内政もすべて中国が決めた",
+          "はい。中国が官吏を派遣して直接治めた",
+          "いいえ。実際には中国が貢ぎ物を差し出した"
+        ],
+        "hard": [
+          "はい。返礼はまったくなかった",
+          "はい。冊封を受けた国は独自の年号をもてなかったから",
+          "いいえ。上下の関係はまったくなかった"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、東アジア世界の形成はどのように整理できるか。",
+      "verso": "中国の統一王朝が制度と文化の基準となり、冊封と交易を通じて周辺の国々がそれを受け入れ作り変えていったこと",
+      "explanation": "秦・漢が枠組みをつくり、隋・唐が制度を整え、周辺の国はそれを受け入れつつ自らの形に変えた。中心と周辺のやりとりが、この地域の共通性を生んだのである。",
+      "tags": [
+        "東アジア",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "中国が武力で周辺をすべて征服したこと",
+          "各国がまったく交流せずに歩んだこと",
+          "西方の文化がすべてを決めたこと"
+        ],
+        "medium": [
+          "周辺の国が中国の制度をそのまま写しとったこと",
+          "遊牧民の侵入だけが歴史を動かしたこと",
+          "交易がまったく行われなかったこと"
+        ],
+        "hard": [
+          "中国の制度が近代まで一度も変わらなかったこと",
+          "冊封が軍事同盟として機能したこと",
+          "共通の文化はすべて仏教に由来すること"
+        ]
+      }
+    }
+  ]
+}

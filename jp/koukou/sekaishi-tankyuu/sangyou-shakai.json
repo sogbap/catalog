@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-sekaishi-tankyuu-sangyou-shakai",
+  "title": "産業革命と資本主義社会の成立",
+  "emoji": "⚙️",
+  "subject": "history",
+  "country": "jp",
+  "courseDescription": "機械と石炭が生産のあり方を変え、都市と労働と時間の感覚まで作り替えた過程を、そこから生まれた批判の思想とともにたどる。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>産業革命と資本主義社会の成立</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>世界史探究<br>\n  <b>単元：</b>大項目D 諸地域の結合・変容\n</div>\n\n<blockquote>\n  <p><b>問い。</b>朝、決まった時刻に起きて通学するという習慣は、いつ生まれたのだろうか。</p>\n</blockquote>\n\n<p>産業革命は機械の話にとどまらない。<b>住まい方も、働き方も、一日の過ごし方も、国と国の関係も</b>、ここで組み替えられた。私たちが当たり前と思っている日常の多くが、この転換の延長線上にある。</p>\n\n<h2>1・なぜイギリスで始まったのか</h2>\n\n<p>一つの発明が起こしたのではない。石炭と鉄の資源、海外の市場と原料、大西洋交易などで蓄えられた資本、そして農業の変化によって生じた働き手——これらが重なった結果である。とくに<b>囲い込みで土地を失った人々が都市の労働力となった</b>点は見落とせない。</p>\n\n<p>動力としては<strong>蒸気機関</strong>が決定的であった。水車と違って場所を選ばないため、工場を炭鉱や都市の近くに建てられる。<b>動力の自由が、産業の立地そのものを変えた</b>のである。<strong>鉄道と蒸気船</strong>が続いて普及すると、原料と製品を安く速く運べるようになり、市場は地球規模に広がった。</p>\n\n<h2>2・工場が変えた暮らし</h2>\n\n<p>ものづくりの場は、家内での手仕事から機械を備えた工場へ移った。職人が自分の時間で働く形から、<strong>時計に合わせて大勢が同じ作業に従う</strong>形へ。工場は全員が同時に働かなければ動かない。時間の感覚そのものが、ここで作り替えられた。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 150\" role=\"img\" aria-label=\"産業革命前の裁量のある働き方と産業革命後の工場での時刻に従う働き方の比較\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">得たものと、失ったもの</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">産業革命前</text>\n  <text x=\"87\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">家内での手仕事</text>\n  <text x=\"87\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">季節に応じて働く</text>\n  <text x=\"87\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">自分の裁量がある</text>\n  <text x=\"87\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">収入は不安定</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">産業革命後</text>\n  <text x=\"253\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">工場での集団作業</text>\n  <text x=\"253\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">決まった時刻に通う</text>\n  <text x=\"253\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">監督のもとで働く</text>\n  <text x=\"253\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">収入は安定へ</text>\n</svg>\n<figcaption>両方を数えなければ、この転換は正しく評価できない。</figcaption>\n</figure>\n\n<p>都市には人口が急増したが、住宅も上下水道も追いつかなかった。過密と不衛生が広がり、疫病が繰り返し流行して、<b>平均寿命が農村より短かった時期もある</b>。この経験が、のちの都市計画や公衆衛生の制度を生む出発点となる。</p>\n\n<p>工場では長時間労働と低賃金が広がり、女性や子どもも危険な作業に従事した。小さな体でしかできない作業があるとして、子どもが機械の下に入る仕事に就かされている。のちの工場法が、まず年少者の保護から始まったのはこのためである。</p>\n\n<div class=\"callout\">\n  <strong>用語・機械の打ち壊し</strong><br>\n  無知な破壊行為として片づけられがちだが、当時は<b>失業への救済がなかった</b>。機械の導入は職と収入を直ちに奪う。行動の背景にある事情を見ずに評価しないことが、歴史を読む姿勢である。\n</div>\n\n<h2>3・新しい分断と、それへの批判</h2>\n\n<p>身分による区別が薄れた代わりに、<strong>生産手段を持つ者と労働力を売って生きる者</strong>という新しい区別が生まれた。平等を掲げた社会に、別の形の不平等が現れたのである。この現実を批判し、生産手段の共有を説く<strong>社会主義</strong>が生まれた。<b>工業化が生んだ現実が、それを批判する思想を同時に生んだ</b>。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 136\" role=\"img\" aria-label=\"工業化が生んだ問題と、それに対する制度の整備と思想の登場\">\n  <defs>\n    <marker id=\"ar-ssz1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">現実が、それへの応答を生んだ</text>\n  <rect x=\"66\" y=\"26\" width=\"208\" height=\"26\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"43\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">長時間労働・低賃金・不衛生</text>\n  <path d=\"M130,52 L88,74\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ssz1)\"/>\n  <path d=\"M170,52 L170,74\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ssz1)\"/>\n  <path d=\"M210,52 L252,74\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ssz1)\"/>\n  <rect x=\"8\" y=\"78\" width=\"100\" height=\"46\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"58\" y=\"97\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">機械の打ち壊し</text>\n  <text x=\"58\" y=\"113\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">直接の抵抗</text>\n  <rect x=\"120\" y=\"78\" width=\"100\" height=\"46\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"97\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">工場法・労働組合</text>\n  <text x=\"170\" y=\"113\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">制度による対応</text>\n  <rect x=\"232\" y=\"78\" width=\"100\" height=\"46\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"282\" y=\"97\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">社会主義</text>\n  <text x=\"282\" y=\"113\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">思想による批判</text>\n</svg>\n<figcaption>工場法は当初、年少者の保護に限られ実効性も乏しかった。</figcaption>\n</figure>\n\n<p>世界に目を転じれば、<strong>イギリス</strong>は「世界の工場」と呼ばれ、圧倒的な生産力を背景に自国に有利な自由貿易を各国に求めた。<b>強い者にとって自由な競争は有利である</b>という点が、この主張の裏側にある。安価な工業製品が各地に流入して現地の手工業は衰え、その地域は原料の供給地に組み替えられた。インドの綿織物業がその代表例である。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 124\" role=\"img\" aria-label=\"工業化した国と原料を供給する地域という非対称な関係の成立\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">非対称な関係の成立</text>\n  <rect x=\"10\" y=\"38\" width=\"120\" height=\"50\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"70\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">工業化した国</text>\n  <text x=\"70\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">製品を作り、売る</text>\n  <path d=\"M132,52 L206,52\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ssz1)\"/>\n  <text x=\"169\" y=\"46\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">安価な工業製品</text>\n  <path d=\"M206,76 L132,76\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-ssz1)\"/>\n  <text x=\"169\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">原料</text>\n  <rect x=\"210\" y=\"38\" width=\"120\" height=\"50\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"270\" y=\"58\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">その他の地域</text>\n  <text x=\"270\" y=\"76\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">手工業が衰える</text>\n  <text x=\"170\" y=\"112\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">この構図が、次の時代の帝国主義の土台になる</text>\n</svg>\n<figcaption>技術の差が、そのまま国と国の力の差になっていく。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>成立の条件と技術</h3>\n\n<table>\n  <tr><th>要素</th><th>内容</th></tr>\n  <tr><td>資源</td><td>石炭と鉄</td></tr>\n  <tr><td>資本</td><td>海外交易で蓄積された富</td></tr>\n  <tr><td>労働力</td><td>農業の変化で土地を離れた人々</td></tr>\n  <tr><td>動力</td><td>蒸気機関（場所を選ばない）</td></tr>\n  <tr><td>輸送</td><td>鉄道と蒸気船</td></tr>\n</table>\n\n<h3>社会に生じた問題</h3>\n\n<table>\n  <tr><th>領域</th><th>問題</th></tr>\n  <tr><td>都市</td><td>過密と不衛生、疫病の流行</td></tr>\n  <tr><td>労働</td><td>長時間労働、低賃金、年少者の就労</td></tr>\n  <tr><td>社会</td><td>資本家と労働者への階級の分化</td></tr>\n</table>\n\n<h3>応答</h3>\n\n<table>\n  <tr><th>形</th><th>内容</th></tr>\n  <tr><td>直接の抵抗</td><td>機械の打ち壊し</td></tr>\n  <tr><td>制度</td><td>工場法、労働組合の合法化</td></tr>\n  <tr><td>思想</td><td>社会主義による批判</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  産業革命によって人々の暮らしが<b>ただちに豊かになったわけではない</b>。初期には労働時間が延び、都市の衛生は悪化し、生活水準の改善が実感されるまで数十年を要した。統計上の生産量が伸びても、その果実が広く行き渡るには制度の整備と長い闘いが必要だった。<b>技術の進歩と生活の向上を自動的に結びつけない</b>ことが大切である。\n</div>\n\n<blockquote>\n  <p>時計を見て家を出る。その何気ない習慣が、二百年前の工場の始業の合図につながっている。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "世界史探究 ― 諸地域の結合・変容",
+  "cards": [
+    {
+      "recto": "産業革命が最初にイギリスで起きた条件として、適切なものはどれか。",
+      "verso": "石炭と鉄の資源、海外市場と原料、蓄積された資本、そして農業の変化で生じた働き手",
+      "explanation": "一つの発明ではなく複数の条件が重なった結果である。とくに囲い込みで土地を失った人々が都市の労働力となった点は見落とせない。",
+      "tags": [
+        "産業社会",
+        "条件"
+      ],
+      "distractors": {
+        "easy": [
+          "気候が温暖だったから",
+          "人口が少なかったから",
+          "戦争がなかったから"
+        ],
+        "medium": [
+          "国土が広かったから",
+          "石油が産出したから",
+          "王が発明を命じたから"
+        ],
+        "hard": [
+          "職人の同業組合が強かったから",
+          "国内市場だけで十分だったから",
+          "労働者の賃金が高かったから"
+        ]
+      }
+    },
+    {
+      "recto": "工業化の初期に、動力として決定的な役割を果たした機械は何か。",
+      "verso": "蒸気機関",
+      "explanation": "水車と違って場所を選ばないため、工場を炭鉱や都市の近くに建てられるようになった。動力の自由が、産業の立地そのものを変えたのである。",
+      "tags": [
+        "産業社会",
+        "技術"
+      ],
+      "distractors": {
+        "easy": [
+          "風車",
+          "水車",
+          "電動機"
+        ],
+        "medium": [
+          "内燃機関",
+          "紡績機のみ",
+          "織機のみ"
+        ],
+        "hard": [
+          "タービン",
+          "電信機",
+          "ガス機関"
+        ]
+      }
+    },
+    {
+      "recto": "産業革命によって、ものづくりの場はどのように変わったか。",
+      "verso": "家内での手仕事から、機械を備えた工場での集団作業へ変わった",
+      "explanation": "職人が自分の時間で働く形から、時計に合わせて大勢が同じ作業に従う形へ移った。労働の中身だけでなく、時間の感覚そのものが作り替えられた。",
+      "tags": [
+        "産業社会",
+        "労働"
+      ],
+      "distractors": {
+        "easy": [
+          "工場から家内の手仕事へ戻った",
+          "生産が行われなくなった",
+          "変化はなかった"
+        ],
+        "medium": [
+          "都市から農村へ生産が移った",
+          "職人の同業組合が強化された",
+          "手工業だけが残った"
+        ],
+        "hard": [
+          "問屋制家内工業に一本化された",
+          "生産はすべて国営となった",
+          "分業がなくなり一人で完成させるようになった"
+        ]
+      }
+    },
+    {
+      "recto": "「世界の工場」と呼ばれたイギリスが、各国に自由貿易を求めたのはなぜか。",
+      "verso": "圧倒的な生産力をもつ側にとって、自由な競争が最も有利だったから",
+      "explanation": "自由貿易は中立な原則のように見えるが、条件が対等でなければ強い者を利する。掲げられた原則が誰の利益に沿うかを問う視点が要る。",
+      "tags": [
+        "産業社会",
+        "国際"
+      ],
+      "distractors": {
+        "easy": [
+          "外国の製品が欲しかったから",
+          "工業をやめたかったから",
+          "とくに理由はない"
+        ],
+        "medium": [
+          "国内の産業を保護するため",
+          "関税収入を増やすため",
+          "植民地を手放すため"
+        ],
+        "hard": [
+          "各国の産業を育てるため",
+          "生産力で劣っていたため",
+          "国際的な取り決めに従ったため"
+        ]
+      }
+    },
+    {
+      "recto": "鉄道と蒸気船の普及が、経済にもたらした変化は何か。",
+      "verso": "原料と製品を安く速く運べるようになり、市場が地球規模に広がったこと",
+      "explanation": "遠隔地の穀物が都市に届き、工業製品が世界の隅々まで売られた。距離という制約が縮んだことで、各地の生産のあり方まで組み替えられた。",
+      "tags": [
+        "産業社会",
+        "交通"
+      ],
+      "distractors": {
+        "easy": [
+          "旅行が快適になっただけ",
+          "軍隊の移動が速くなっただけ",
+          "変化はなかった"
+        ],
+        "medium": [
+          "国内の交易だけが活発になった",
+          "各国が自給自足に向かった",
+          "海の交易が衰えた"
+        ],
+        "hard": [
+          "輸送費が上がり交易が減った",
+          "市場が地域ごとに分断された",
+          "原料の産地が本国に移った"
+        ]
+      }
+    },
+    {
+      "recto": "工業化にともなって都市に生じた問題は何か。",
+      "verso": "人口の急増に住宅や上下水道が追いつかず、過密と不衛生が広がったこと",
+      "explanation": "疫病が繰り返し流行し、平均寿命は農村より短かった時期もある。この経験が、のちの都市計画や公衆衛生の制度を生む出発点となった。",
+      "tags": [
+        "産業社会",
+        "都市"
+      ],
+      "distractors": {
+        "easy": [
+          "人口が減って都市が消えた",
+          "住宅が余った",
+          "問題は生じなかった"
+        ],
+        "medium": [
+          "農村の人口が増えすぎた",
+          "都市の土地が余った",
+          "労働力が不足し続けた"
+        ],
+        "hard": [
+          "上下水道が先に整備された",
+          "衛生状態は農村より良かった",
+          "都市の人口は横ばいだった"
+        ]
+      }
+    },
+    {
+      "recto": "工場での労働について、当初どのような問題が生じたか。",
+      "verso": "長時間労働と低賃金が広がり、女性や子どもも危険な作業に従事した",
+      "explanation": "小さな体でしかできない作業があるとして、子どもが機械の下に入る仕事に就かされた。のちの工場法は、まずこの年少者の保護から始まっている。",
+      "tags": [
+        "産業社会",
+        "労働"
+      ],
+      "distractors": {
+        "easy": [
+          "賃金が高すぎた",
+          "労働時間が短すぎた",
+          "問題は生じなかった"
+        ],
+        "medium": [
+          "熟練工しか雇われなかった",
+          "女性の就労が禁じられた",
+          "労働組合が最初から強かった"
+        ],
+        "hard": [
+          "最低賃金が定められていた",
+          "子どもの労働は法で禁じられていた",
+          "労働時間は当初から規制されていた"
+        ]
+      }
+    },
+    {
+      "recto": "労働者が機械を打ち壊した行動は、何を示しているか。",
+      "verso": "機械の導入によって職と収入を奪われるという切実な危機感",
+      "explanation": "無知な破壊行為として片づけられがちだが、当時は失業への救済がなかった。行動の背景にある事情を見ずに評価しないことが、歴史を読む姿勢である。",
+      "tags": [
+        "産業社会",
+        "抵抗"
+      ],
+      "distractors": {
+        "easy": [
+          "機械が嫌いだったこと",
+          "遊びのつもりだったこと",
+          "何も示していない"
+        ],
+        "medium": [
+          "技術を理解できなかったこと",
+          "工場主への個人的な恨み",
+          "宗教上の理由による反対"
+        ],
+        "hard": [
+          "機械の品質が悪かったこと",
+          "賃金の上昇を求めたこと",
+          "労働時間の延長への抗議"
+        ]
+      }
+    },
+    {
+      "recto": "工場労働の問題に対して、19世紀に少しずつ整えられていった制度は何か。",
+      "verso": "労働時間や年少者の就労を制限する法律と、労働組合の合法化",
+      "explanation": "はじめは年少者の保護に限られ、実効性も乏しかった。それでも国家が労働条件に介入するという原則が立てられた点に意味がある。",
+      "tags": [
+        "産業社会",
+        "制度"
+      ],
+      "distractors": {
+        "easy": [
+          "工場を閉鎖する法律",
+          "機械を禁止する法律",
+          "何も作られなかった"
+        ],
+        "medium": [
+          "最低賃金の全面的な保障",
+          "完全な社会保障制度",
+          "労働時間の完全な自由化"
+        ],
+        "hard": [
+          "団体交渉権の即時確立",
+          "失業保険の一斉導入",
+          "8時間労働制の即時実現"
+        ]
+      }
+    },
+    {
+      "recto": "生産手段を持つ者と、労働力を売って生きる者とに社会が分かれた構造を何というか。",
+      "verso": "資本家と労働者への階級の分化",
+      "explanation": "身分による区別が薄れた代わりに、財産のあり方による新しい区別が生まれた。平等を掲げた社会に、別の形の不平等が現れたのである。",
+      "tags": [
+        "産業社会",
+        "社会"
+      ],
+      "distractors": {
+        "easy": [
+          "士農工商の身分制",
+          "貴族と農奴の区別",
+          "都市と農村の区別"
+        ],
+        "medium": [
+          "カースト制度",
+          "封建的主従関係",
+          "官僚と庶民の区別"
+        ],
+        "hard": [
+          "ギルドの親方と徒弟の関係",
+          "地主と小作の関係のみ",
+          "宗教による区別"
+        ]
+      }
+    },
+    {
+      "recto": "資本主義のあり方を批判し、生産手段の共有を説いた思想を何というか。",
+      "verso": "社会主義",
+      "explanation": "理想の共同体を構想する立場から、歴史の必然として変革を説く立場まで幅がある。工業化が生んだ現実が、それを批判する思想を同時に生んだのである。",
+      "tags": [
+        "産業社会",
+        "思想"
+      ],
+      "distractors": {
+        "easy": [
+          "重商主義",
+          "封建主義",
+          "人文主義"
+        ],
+        "medium": [
+          "自由主義",
+          "保護主義",
+          "国民主義"
+        ],
+        "hard": [
+          "功利主義",
+          "無政府主義のみ",
+          "実証主義"
+        ]
+      }
+    },
+    {
+      "recto": "工業化が世界のほかの地域に及ぼした影響は何か。",
+      "verso": "安価な工業製品が流入して現地の手工業が衰え、原料の供給地に組み替えられたこと",
+      "explanation": "インドの綿織物業がその代表的な例である。工業化した国と原料を供給する地域という非対称な関係が、この時期に決定的なものとなった。",
+      "tags": [
+        "産業社会",
+        "世界"
+      ],
+      "distractors": {
+        "easy": [
+          "各地でも同時に工業化が進んだ",
+          "影響はまったくなかった",
+          "各地の手工業が栄えた"
+        ],
+        "medium": [
+          "各地が保護貿易で自国産業を守った",
+          "工業製品の輸出が各地から増えた",
+          "原料の価格が高騰し産地が豊かになった"
+        ],
+        "hard": [
+          "各地が独自の機械工業を確立した",
+          "貿易が縮小し各地が自給に向かった",
+          "非対称な関係は20世紀に生じた"
+        ]
+      }
+    },
+    {
+      "recto": "産業革命が人々の時間の感覚に与えた変化は何か。",
+      "verso": "日の出と日没に沿う暮らしから、時計と始業の合図に従う暮らしへ変わった",
+      "explanation": "工場は全員が同時に働かなければ動かない。時計に合わせて生活を組み立てるという、私たちが当たり前と思う習慣はここで身についたものである。",
+      "tags": [
+        "産業社会",
+        "生活"
+      ],
+      "distractors": {
+        "easy": [
+          "時間を気にしなくなった",
+          "季節の感覚が強まった",
+          "変化はなかった"
+        ],
+        "medium": [
+          "暦が新しく作られた",
+          "週休制がなくなった",
+          "夜間の労働が禁じられた"
+        ],
+        "hard": [
+          "時計が使われなくなった",
+          "労働時間が季節ごとに変わるようになった",
+          "時間の感覚は近代以前から同じだった"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】産業革命前後で、人々の働き方はどう変わったか。",
+      "verso": "自分の裁量で季節に応じて働く形から、決まった時刻に工場へ通い監督のもとで働く形へ変わった",
+      "explanation": "収入が安定した面もあるが、働き方を自ら決める余地は失われた。得たものと失ったものを両方数えることが、この転換を正しく評価する条件である。",
+      "tags": [
+        "comparaison",
+        "産業社会"
+      ],
+      "distractors": {
+        "easy": [
+          "まったく変わらなかった",
+          "働く必要がなくなった",
+          "全員が農業に戻った"
+        ],
+        "medium": [
+          "工場から家内の仕事へ移った",
+          "労働時間が一律に短くなった",
+          "監督されない働き方が広がった"
+        ],
+        "hard": [
+          "季節による繁閑がより強まった",
+          "賃金より現物での支払いが主流になった",
+          "熟練の重要性がいっそう高まった"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】産業革命によって、人々の暮らしはただちに豊かになったのか。",
+      "verso": "いいえ。初期には労働時間が延び、都市の衛生は悪化し、生活水準の改善が実感されるまで数十年を要した",
+      "explanation": "よくある誤解である。統計上の生産量は伸びても、その果実が広く行き渡るには制度の整備と長い闘いが必要だった。技術の進歩と生活の向上を自動的に結びつけないことが大切である。",
+      "tags": [
+        "piege",
+        "産業社会"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。すぐに全員が豊かになった",
+          "はい。労働時間が短くなった",
+          "はい。都市の環境が改善した"
+        ],
+        "medium": [
+          "はい。賃金がただちに上昇したから",
+          "はい。生産量が増えたから",
+          "いいえ。生産量も増えなかったから"
+        ],
+        "hard": [
+          "はい。工場法が最初から機能したから",
+          "いいえ。改善はついに起こらなかったから",
+          "はい。都市の平均寿命が伸びたから"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、産業革命はどのように整理できるか。",
+      "verso": "生産の方法だけでなく、住まい方・働き方・時間の感覚、そして世界の力関係までを作り替えた転換",
+      "explanation": "機械の話にとどまらない。都市の風景も、一日の過ごし方も、国と国の関係も、ここで組み替えられた。私たちの日常の多くがこの転換の延長線上にある。",
+      "tags": [
+        "産業社会",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "機械が発明されただけの出来事",
+          "イギリス国内だけの出来事",
+          "生活に影響しなかった出来事"
+        ],
+        "medium": [
+          "農業だけが変化した出来事",
+          "都市の景観だけが変わった出来事",
+          "20世紀に始まった出来事"
+        ],
+        "hard": [
+          "世界の力関係を変えなかった出来事",
+          "労働のあり方だけが変わった出来事",
+          "思想には影響しなかった出来事"
+        ]
+      }
+    }
+  ]
+}

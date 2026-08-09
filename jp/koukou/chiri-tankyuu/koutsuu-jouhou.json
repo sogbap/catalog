@@ -1,0 +1,432 @@
+{
+  "id": "jp-koukou-chiri-tankyuu-koutsuu-jouhou",
+  "title": "交通・通信と地域の結びつき",
+  "emoji": "🛰️",
+  "subject": "geography",
+  "country": "jp",
+  "courseDescription": "交通と通信の発達が距離の意味を変え、結節点となる場所とそこから外れる場所を同時に生み出してきた過程をたどる。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>交通・通信と地域の結びつき</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>地理探究<br>\n  <b>単元：</b>大項目A 現代世界の系統地理的考察（交通・通信、観光）\n</div>\n\n<blockquote>\n  <p><b>問い。</b>どこでも働けるはずの時代に、なぜ人はまだ都市に集まるのだろうか。</p>\n</blockquote>\n\n<p>交通と通信の発達は、距離の意味を<strong>時間</strong>と<strong>費用</strong>に置き換えた。だがそれは世界を均等にはしなかった。<b>結節点となる場所と、そこから外れる場所を同時に生み出した</b>のである。誰がつながり誰が外れるのかを問うことが、この分野を学ぶ意味になる。</p>\n\n<h2>1・距離の意味が変わる</h2>\n\n<p><strong>時間距離</strong>とは、地理的な距離とは別に測られる移動の所要時間である。高速鉄道が開通すればキロメートルは変わらないのに移動の時間は半分になる。<b>地図上の距離ではなく、この時間距離が人の行動を実際に左右する</b>。</p>\n\n<p>交通網の中で多くの路線が集まる<strong>結節点</strong>には、人と物と情報が集中して都市が発達しやすい。逆にどの路線からも外れた場所は、距離が近くても取り残されることがある。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 138\" role=\"img\" aria-label=\"結節点に路線が集まり人と物と情報が集中する一方で網から外れた地域が取り残されること\">\n  <defs>\n    <marker id=\"ar-gkj1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">つながる場所と、外れる場所</text>\n  <rect x=\"128\" y=\"56\" width=\"84\" height=\"34\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"77\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">結節点</text>\n  <path d=\"M40,40 L124,62\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gkj1)\"/>\n  <path d=\"M40,104 L124,84\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gkj1)\"/>\n  <path d=\"M300,40 L216,62\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gkj1)\"/>\n  <path d=\"M300,104 L216,84\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gkj1)\"/>\n  <text x=\"30\" y=\"36\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">路線</text>\n  <text x=\"30\" y=\"112\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">路線</text>\n  <text x=\"310\" y=\"36\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">路線</text>\n  <text x=\"310\" y=\"112\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">路線</text>\n  <rect x=\"120\" y=\"112\" width=\"100\" height=\"20\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.10;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">網から外れた地域</text>\n</svg>\n<figcaption>地図の空白は、必ず何らかの理由を抱えている。</figcaption>\n</figure>\n\n<p>輸送手段は品物の性質で選ばれる。<strong>航空輸送</strong>は軽くて高価で速さの要る品——電子部品、医薬品、生花——に向き、<strong>海上輸送</strong>は重くてかさばり価格の安い品を担う。<b>運賃の差が数十倍あるため、品物の価格に対する運賃の割合で選ばれる</b>のである。</p>\n\n<div class=\"callout\">\n  <strong>用語・コンテナ化</strong><br>\n  規格の統一された箱を用いることで<b>積み替えの手間と時間が大幅に減り</b>、船・鉄道・トラックを一貫して結べるようになった。港での荷役の日数が劇的に短縮され輸送費が下がったこの技術が、部品を各国で作って組み立てる国際分業を可能にしている。\n</div>\n\n<p>海上輸送では運河や海峡が戦略的に重要となる。航路を大幅に短縮できる一方、<b>封鎖されれば代替が難しい</b>。効率のよい経路に依存するほど、その一点が止まったときの影響が大きくなるという構造が、ここにも現れている。</p>\n\n<h2>2・通信が変えたもの、変えなかったもの</h2>\n\n<p>国際通信の主役は今も<strong>海底ケーブル</strong>である。衛星より大量のデータを速く安く送れるためで、インターネットの通信の大部分は海底を通っている。<b>目に見えない線が国と国を結んでおり</b>、その敷設ルートは地政学的な意味ももつ。</p>\n\n<p>通信の発達によって、企業は本社や研究部門と、生産や事務の部門を離れた場所に置けるようになった。機能ごとに最適な場所を選べるのである。一方、情報通信網の整備の差は<strong>情報格差</strong>を生む。教育・医療・行政の手続きが情報網に移るほど、つながれない人が不利になる。<b>技術の普及が新たな不平等を生む</b>例といえる。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"通信の発達によって機能の分散が可能になった一方で人と情報の集まる場所への集中も進んだこと\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">分散できるのに、集中する</text>\n  <rect x=\"80\" y=\"26\" width=\"180\" height=\"26\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"43\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">通信の発達</text>\n  <path d=\"M130,52 L86,74\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gkj1)\"/>\n  <path d=\"M210,52 L254,74\" style=\"fill:none;stroke:var(--accent);stroke-width:2\" marker-end=\"url(#ar-gkj1)\"/>\n  <rect x=\"10\" y=\"78\" width=\"150\" height=\"44\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"85\" y=\"97\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">機能の分散</text>\n  <text x=\"85\" y=\"113\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">本社と生産の分離</text>\n  <rect x=\"180\" y=\"78\" width=\"150\" height=\"44\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"255\" y=\"97\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">場所への集中</text>\n  <text x=\"255\" y=\"113\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">研究開発・金融</text>\n</svg>\n<figcaption>直接会って生まれる信頼と偶然の出会いは、代替できていない。</figcaption>\n</figure>\n\n<h2>3・つながることの両面</h2>\n\n<p>交通網の整備が、必ずしも地方の発展につながるとは限らない。移動が便利になることで、<b>人や購買が大都市へ吸い寄せられる</b>場合がある。ストロー現象と呼ばれるもので、道は双方向であり、来てもらうつもりが出て行かれることもある。</p>\n\n<p>観光もまた両面をもつ。雇用と収入をもたらす一方、混雑や環境の悪化、住民の暮らしへの影響も生じる。<b>地域の許容量を超えれば住民が離れてしまう</b>ため、どこまで受け入れるかを決めるのは地域自身である。近年は名所を巡る形から、自然や生活文化を体験し学ぶ形へ広がっており、<b>この形は収入がその土地に残りやすい</b>という利点をもつ。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 150\" role=\"img\" aria-label=\"航空輸送と海上輸送の運賃と適した貨物の比較\">\n  <text x=\"170\" y=\"16\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">運賃の差が、選択を決める</text>\n  <rect x=\"12\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"87\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">航空輸送</text>\n  <text x=\"87\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">速いが運賃が高い</text>\n  <text x=\"87\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">軽くて高価な品</text>\n  <text x=\"87\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">電子部品・医薬品</text>\n  <text x=\"87\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">鮮度が要る生花</text>\n  <rect x=\"178\" y=\"28\" width=\"150\" height=\"110\" rx=\"12\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.5\"/>\n  <text x=\"253\" y=\"50\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">海上輸送</text>\n  <text x=\"253\" y=\"72\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">遅いが運賃が安い</text>\n  <text x=\"253\" y=\"90\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">重くかさばる品</text>\n  <text x=\"253\" y=\"108\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">石炭・鉄鉱石・穀物</text>\n  <text x=\"253\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">コンテナ貨物</text>\n</svg>\n<figcaption>同じ距離でも、何を運ぶかで最適な手段が変わる。</figcaption>\n</figure>\n\n<h2>まとめ</h2>\n\n<h3>交通</h3>\n\n<table>\n  <tr><th>用語</th><th>内容</th></tr>\n  <tr><td>時間距離</td><td>地理的距離とは別の、所要時間による距離</td></tr>\n  <tr><td>結節点</td><td>路線が集まり人と物と情報が集中する場所</td></tr>\n  <tr><td>コンテナ化</td><td>積み替えを減らし一貫輸送を可能にした</td></tr>\n  <tr><td>ストロー現象</td><td>整備が大都市への吸引を招くことがある</td></tr>\n</table>\n\n<h3>通信</h3>\n\n<table>\n  <tr><th>事がら</th><th>内容</th></tr>\n  <tr><td>海底ケーブル</td><td>国際通信の主役、地政学的な意味ももつ</td></tr>\n  <tr><td>情報格差</td><td>つながれないことが不利につながる</td></tr>\n  <tr><td>機能の分散</td><td>本社・研究と生産・事務を分けて配置</td></tr>\n</table>\n\n<h3>観光</h3>\n\n<table>\n  <tr><th>観点</th><th>内容</th></tr>\n  <tr><td>効果</td><td>雇用と収入</td></tr>\n  <tr><td>課題</td><td>混雑、環境の悪化、住民の暮らしへの影響</td></tr>\n  <tr><td>変化</td><td>名所巡りから体験・学習型へ</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  通信技術が発達すれば<b>場所の重要性がなくなる、というのは誤り</b>である。どこでも働けるはずなのに、研究開発も金融も特定の都市に集まり続けている。<b>直接会って生まれる信頼や偶然の出会いが、なお重要だから</b>である。むしろ人と情報が集まる場所の価値は高まっている。\n</div>\n\n<blockquote>\n  <p>ネットワークは世界を均す道具ではない。つながる場所をいっそう強くし、外れた場所をいっそう遠くする道具でもある。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "地理探究 ― 現代世界の系統地理的考察",
+  "cards": [
+    {
+      "recto": "交通の発達によって、地理的な距離とは別に短くなった距離を何というか。",
+      "verso": "時間距離",
+      "explanation": "高速鉄道が開通すると、キロメートルは変わらないのに移動の時間は半分になる。地図上の距離ではなく、この時間距離が人の行動を実際に左右する。",
+      "tags": [
+        "交通",
+        "概念"
+      ],
+      "distractors": {
+        "easy": [
+          "直線距離",
+          "海里",
+          "標高差"
+        ],
+        "medium": [
+          "経済距離",
+          "実距離",
+          "測地距離"
+        ],
+        "hard": [
+          "費用距離",
+          "心理的距離",
+          "認知距離"
+        ]
+      }
+    },
+    {
+      "recto": "交通網の中で、多くの路線が集まって乗り換えの拠点となる場所を何というか。",
+      "verso": "結節点（ハブ）",
+      "explanation": "ここに人と物と情報が集中するため、都市が発達しやすい。逆にどの路線からも外れた場所は、距離が近くても取り残されることがある。",
+      "tags": [
+        "交通",
+        "構造"
+      ],
+      "distractors": {
+        "easy": [
+          "終点",
+          "国境",
+          "山頂"
+        ],
+        "medium": [
+          "起点",
+          "中継地",
+          "境界"
+        ],
+        "hard": [
+          "デルタ地帯",
+          "分水嶺",
+          "航路の変針点"
+        ]
+      }
+    },
+    {
+      "recto": "航空輸送が得意とする貨物はどのようなものか。",
+      "verso": "軽くて価格が高く、速さが求められる品",
+      "explanation": "電子部品、医薬品、生花などが典型である。逆に重くてかさばり価格の安い品は海上輸送が担う。輸送手段は品物の性質で選ばれる。",
+      "tags": [
+        "交通",
+        "貨物"
+      ],
+      "distractors": {
+        "easy": [
+          "石炭と鉄鉱石",
+          "石油",
+          "木材"
+        ],
+        "medium": [
+          "自動車",
+          "小麦",
+          "セメント"
+        ],
+        "hard": [
+          "冷凍水産物のみ",
+          "コンテナ貨物一般",
+          "液体貨物"
+        ]
+      }
+    },
+    {
+      "recto": "規格の統一された箱を用いる海上輸送が、物流を大きく変えたのはなぜか。",
+      "verso": "積み替えの手間と時間が大幅に減り、船・鉄道・トラックを一貫して結べるようになったから",
+      "explanation": "港での荷役の日数が劇的に短縮され、輸送費が下がった。この技術が、部品を各国で作って組み立てる国際分業を可能にしている。",
+      "tags": [
+        "交通",
+        "海運"
+      ],
+      "distractors": {
+        "easy": [
+          "船が大きくなったから",
+          "港が増えたから",
+          "変わっていない"
+        ],
+        "medium": [
+          "船の速度が上がったから",
+          "航路が短くなったから",
+          "燃料が安くなったから"
+        ],
+        "hard": [
+          "荷役の人員が増えたから",
+          "関税が撤廃されたから",
+          "保険料が下がったから"
+        ]
+      }
+    },
+    {
+      "recto": "海上輸送において、運河や海峡が戦略的に重要とされるのはなぜか。",
+      "verso": "航路を大幅に短縮できる一方、封鎖されれば代替が難しいから",
+      "explanation": "スエズやマラッカが代表例である。効率のよい経路に依存するほど、その一点が止まったときの影響が大きくなるという構造がここにもある。",
+      "tags": [
+        "交通",
+        "海運"
+      ],
+      "distractors": {
+        "easy": [
+          "景色がよいから",
+          "観光地だから",
+          "重要ではない"
+        ],
+        "medium": [
+          "水深が深いから",
+          "港が多いから",
+          "気候が安定しているから"
+        ],
+        "hard": [
+          "代替の航路が多数あるから",
+          "通行料が無料だから",
+          "軍事的な意味しかないから"
+        ]
+      }
+    },
+    {
+      "recto": "海底ケーブルが現在も国際通信の主役である理由は何か。",
+      "verso": "衛星より大量のデータを速く安く送れるから",
+      "explanation": "インターネットの通信の大部分は海底を通っている。目に見えない線が国と国を結んでおり、その敷設ルートは地政学的な意味ももつ。",
+      "tags": [
+        "通信",
+        "基盤"
+      ],
+      "distractors": {
+        "easy": [
+          "衛星が存在しないから",
+          "電波が届かないから",
+          "主役ではない"
+        ],
+        "medium": [
+          "衛星より安全だから",
+          "設置が簡単だから",
+          "電力を使わないから"
+        ],
+        "hard": [
+          "衛星のほうが大容量だが高価だから",
+          "遅延が大きいほうが有利だから",
+          "海底ケーブルは廃止されたから"
+        ]
+      }
+    },
+    {
+      "recto": "情報通信網の整備の差によって生じる格差を何というか。",
+      "verso": "情報格差（デジタルデバイド）",
+      "explanation": "教育・医療・行政の手続きが情報網に移るほど、つながれない人が不利になる。技術の普及が新たな不平等を生むという例である。",
+      "tags": [
+        "通信",
+        "格差"
+      ],
+      "distractors": {
+        "easy": [
+          "南北問題",
+          "所得格差",
+          "地域差"
+        ],
+        "medium": [
+          "教育格差",
+          "医療格差",
+          "都市と農村の格差一般"
+        ],
+        "hard": [
+          "情報の非対称性",
+          "電波の届かない地域の問題",
+          "通信費の地域差のみ"
+        ]
+      }
+    },
+    {
+      "recto": "通信の発達によって、企業の立地はどう変わったか。",
+      "verso": "本社や研究部門と、生産や事務の部門を離れた場所に置けるようになった",
+      "explanation": "遠隔でのやりとりが可能になったため、機能ごとに最適な場所を選べる。事務処理を海外へ委託する動きも、この変化の一つの現れである。",
+      "tags": [
+        "通信",
+        "立地"
+      ],
+      "distractors": {
+        "easy": [
+          "すべて同じ場所に集まった",
+          "変わっていない",
+          "工場だけが移動した"
+        ],
+        "medium": [
+          "すべて都心に集中した",
+          "すべて農村へ移った",
+          "本社だけが海外へ移った"
+        ],
+        "hard": [
+          "機能の分離はできなくなった",
+          "立地の自由度が下がった",
+          "通信は立地に影響しない"
+        ]
+      }
+    },
+    {
+      "recto": "交通網の整備が、必ずしも地方の発展につながらないことがあるのはなぜか。",
+      "verso": "移動が便利になることで、人や購買が大都市へ吸い寄せられる場合があるから",
+      "explanation": "ストロー現象と呼ばれる。道は双方向であり、来てもらうつもりが出て行かれることもある。整備の効果は一方向には決まらない。",
+      "tags": [
+        "交通",
+        "地域"
+      ],
+      "distractors": {
+        "easy": [
+          "道路が使われないから",
+          "工事費が高いから",
+          "必ず発展する"
+        ],
+        "medium": [
+          "交通量が増えすぎるから",
+          "環境が悪化するから",
+          "維持費がかかるから"
+        ],
+        "hard": [
+          "移動時間が長くなるから",
+          "大都市の人が地方へ移るから",
+          "交通網は地域に影響しないから"
+        ]
+      }
+    },
+    {
+      "recto": "観光が地域にもたらす効果と課題を、あわせて説明せよ。",
+      "verso": "雇用と収入をもたらす一方、混雑や環境の悪化、住民の暮らしへの影響も生じる",
+      "explanation": "受け入れ数を増やすほど収入は増えるが、地域の許容量を超えれば住民が離れてしまう。どこまで受け入れるかを決めるのは地域自身である。",
+      "tags": [
+        "観光",
+        "地域"
+      ],
+      "distractors": {
+        "easy": [
+          "効果しかない",
+          "課題しかない",
+          "何も生じない"
+        ],
+        "medium": [
+          "収入だけをもたらす",
+          "環境を必ず改善する",
+          "住民には影響しない"
+        ],
+        "hard": [
+          "雇用は生まれないが収入は増える",
+          "課題は観光客の数と無関係である",
+          "地域の許容量は考えなくてよい"
+        ]
+      }
+    },
+    {
+      "recto": "観光の形が近年多様化しているのは、どのような方向へか。",
+      "verso": "名所を巡る形から、自然や生活文化を体験し学ぶ形へ広がっている",
+      "explanation": "生態系や農村の暮らしを体験する形は、地域への収入がその土地に残りやすいという利点をもつ。何を観光の対象とするかは、地域の選択でもある。",
+      "tags": [
+        "観光",
+        "変化"
+      ],
+      "distractors": {
+        "easy": [
+          "名所を巡る形だけに戻っている",
+          "多様化していない",
+          "観光が減っている"
+        ],
+        "medium": [
+          "都市の観光だけが伸びている",
+          "団体旅行だけが増えている",
+          "国内旅行だけになっている"
+        ],
+        "hard": [
+          "体験型は収入が地域に残りにくい",
+          "学ぶ形の観光は減少している",
+          "観光の形は世界共通である"
+        ]
+      }
+    },
+    {
+      "recto": "交通と通信の発達が、地域の間の関係にもたらした両面の効果は何か。",
+      "verso": "結びつきが強まって機会が広がる一方、結節点から外れた地域との差も広がったこと",
+      "explanation": "つながる場所はいっそうつながり、外れた場所は取り残される。ネットワークの発達は、均等化ではなく新たな偏りを生むという点が重要である。",
+      "tags": [
+        "交通",
+        "地域"
+      ],
+      "distractors": {
+        "easy": [
+          "すべての地域が均等になった",
+          "何も変わらなかった",
+          "差だけが縮まった"
+        ],
+        "medium": [
+          "結節点も周辺も等しく発展した",
+          "地域間の関係は弱まった",
+          "都市だけが取り残された"
+        ],
+        "hard": [
+          "結節点から外れた地域が有利になった",
+          "ネットワークは常に均等化をもたらす",
+          "偏りは政策で完全に解消された"
+        ]
+      }
+    },
+    {
+      "recto": "交通網の地図を読むとき、注目すべき点は何か。",
+      "verso": "路線の密度と結節点の位置、そしてどの地域が網から外れているか",
+      "explanation": "描かれている線だけでなく、線のない空白に目を向けたい。空白は自然条件、政治、経済のいずれかの理由を必ず抱えている。",
+      "tags": [
+        "交通",
+        "技能"
+      ],
+      "distractors": {
+        "easy": [
+          "線の色だけ",
+          "地図の大きさだけ",
+          "注目すべき点はない"
+        ],
+        "medium": [
+          "路線の長さだけ",
+          "駅の名前だけ",
+          "地図の発行年だけ"
+        ],
+        "hard": [
+          "描かれた線だけを見ればよい",
+          "空白部分は無視してよい",
+          "結節点の位置は重要でない"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】航空輸送と海上輸送は、それぞれどのような貨物に向いているか。",
+      "verso": "航空輸送は軽くて高価で速さの要る品に、海上輸送は重くてかさばり価格の安い品に向いている",
+      "explanation": "運賃の差が数十倍あるため、品物の価格に対する運賃の割合で選ばれる。同じ距離でも、何を運ぶかによって最適な手段が変わる。",
+      "tags": [
+        "comparaison",
+        "交通"
+      ],
+      "distractors": {
+        "easy": [
+          "どちらも同じ貨物を運ぶ",
+          "どちらも軽い品だけを運ぶ",
+          "違いは速度だけである"
+        ],
+        "medium": [
+          "航空が重い品、海上が軽い品を運ぶ",
+          "どちらも価格の安い品に向く",
+          "どちらも速さが最優先である"
+        ],
+        "hard": [
+          "運賃の差はほとんどない",
+          "海上輸送のほうが速い",
+          "品物の性質は選択に影響しない"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】通信技術が発達すれば、場所の重要性はなくなるのか。",
+      "verso": "いいえ。むしろ人と情報が集まる場所の価値は高まり、集中が進んでいる",
+      "explanation": "よくある誤解である。どこでも働けるはずなのに、研究開発も金融も特定の都市に集まり続けている。直接会って生まれる信頼や偶然の出会いが、なお重要だからである。",
+      "tags": [
+        "piege",
+        "通信"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。どこでも同じになる",
+          "はい。都市は不要になる",
+          "はい。距離は消滅した"
+        ],
+        "medium": [
+          "はい。企業はすべて分散したから",
+          "はい。対面の必要がなくなったから",
+          "いいえ。通信は発達していないから"
+        ],
+        "hard": [
+          "はい。集積の利益は失われたから",
+          "いいえ。場所の重要性は変わらないから",
+          "はい。金融は分散したから"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、交通・通信と地域の結びつきはどのように整理できるか。",
+      "verso": "距離の意味が時間と費用に置き換わり、結節点となる場所とそこから外れる場所を同時に生み出してきたこと",
+      "explanation": "つながることは均等をもたらさない。誰がつながり誰が外れるのかを問うことが、この分野を学ぶ意味である。",
+      "tags": [
+        "交通",
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "世界が均等に発展したこと",
+          "距離が完全になくなったこと",
+          "何も変わらなかったこと"
+        ],
+        "medium": [
+          "すべての地域が結節点になったこと",
+          "交通は地域に影響しないこと",
+          "格差は完全に解消したこと"
+        ],
+        "hard": [
+          "距離の意味は変わらなかったこと",
+          "結節点は自然に分散すること",
+          "つながりは常に均等をもたらすこと"
+        ]
+      }
+    }
+  ]
+}
