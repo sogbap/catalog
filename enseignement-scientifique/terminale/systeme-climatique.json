@@ -1,0 +1,666 @@
+{
+  "id": "enseignement-scientifique-terminale-systeme-climatique",
+  "title": "La complexité du système climatique",
+  "emoji": "🌡️",
+  "subject": "science",
+  "country": "fr",
+  "courseDescription": "Bilan radiatif, effet de serre, rétroactions et variabilité naturelle : pourquoi le climat est un système couplé difficile à prévoir.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>La complexité du système climatique</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · enseignement scientifique<br>\n  <b>Thème 1&nbsp;:</b> Science, climat et société<br>\n  <b>Chapitre 1.2</b> · environ 8 heures\n</div>\n\n<blockquote><p><b>Problématique.</b> Pourquoi un système dont on connaît si bien les lois physiques reste-t-il difficile à prévoir&nbsp;?</p></blockquote>\n\n<p>Le point de départ est d'une simplicité désarmante&nbsp;: la Terre reçoit de l'énergie du Soleil et en réémet vers l'espace. À l'équilibre, les deux se compensent. Toute la difficulté vient de ce qui se passe entre les deux&nbsp;: une atmosphère qui filtre selon la longueur d'onde, cinq compartiments couplés qui réagissent à des rythmes différents, et des <strong>rétroactions</strong> qui amplifient ou amortissent la moindre perturbation. Le climat n'est pas compliqué&nbsp;: il est <em>complexe</em>, ce qui n'est pas la même chose.</p>\n\n<h2>1 · Le bilan radiatif</h2>\n\n<p>Le Soleil délivre au niveau de la Terre une puissance surfacique d'environ <strong>1361&nbsp;W/m²</strong>, la <em>constante solaire</em>. Mais la Terre n'intercepte ce flux que sur un disque, alors qu'elle le répartit sur toute sa sphère&nbsp;: la puissance moyenne reçue par mètre carré vaut donc le <strong>quart</strong> de cette valeur, soit environ <strong>340&nbsp;W/m²</strong>. Oublier ce facteur quatre est l'erreur de calcul la plus fréquente du chapitre.</p>\n\n<p>De ces 340&nbsp;W/m², environ 30&nbsp;% repartent directement par réflexion&nbsp;: c'est l'<strong>albédo</strong> planétaire, dû surtout aux nuages et aux surfaces glacées. Restent environ <strong>240&nbsp;W/m²</strong> réellement absorbés, que la Terre doit réémettre pour rester à l'équilibre.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 186\" role=\"img\" aria-label=\"Bilan radiatif de la Terre : la constante solaire vaut 1361 watts par mètre carré, la puissance moyenne reçue par unité de surface terrestre en est le quart soit 340 watts par mètre carré, environ 30 pour cent est réfléchi par l'albédo planétaire ce qui laisse environ 240 watts par mètre carré absorbés, puissance que la Terre doit réémettre sous forme de rayonnement infrarouge pour rester à l'équilibre\">\n    <rect x=\"18\" y=\"10\" width=\"304\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"170\" y=\"29\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">Constante solaire : 1361 W/m2</text>\n    <line x1=\"170\" y1=\"42\" x2=\"170\" y2=\"52\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-tes12)\"/>\n    <text x=\"188\" y=\"50\" font-size=\"8\" class=\"s-muted\">division par 4</text>\n    <rect x=\"18\" y=\"54\" width=\"304\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"73\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">Reçu en moyenne : 340 W/m2</text>\n    <line x1=\"170\" y1=\"86\" x2=\"170\" y2=\"96\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-tes12)\"/>\n    <text x=\"196\" y=\"94\" font-size=\"8\" class=\"s-muted\">albédo 0,3</text>\n    <rect x=\"18\" y=\"98\" width=\"304\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".30\" stroke=\"var(--accent)\" stroke-opacity=\".7\"/>\n    <text x=\"170\" y=\"117\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">Absorbé : environ 240 W/m2</text>\n    <line x1=\"8\" y1=\"142\" x2=\"332\" y2=\"142\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"160\" font-size=\"9\" fill=\"currentColor\">À l'équilibre, la Terre réémet ces 240 W/m2 en infrarouge.</text>\n    <text x=\"8\" y=\"176\" font-size=\"9\" class=\"s-muted\">Un déséquilibre, même faible, se traduit par un stockage d'énergie.</text>\n    <defs>\n      <marker id=\"ar-tes12\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n  </svg>\n  <figcaption>Trois nombres à savoir enchaîner&nbsp;: 1361, 340, 240.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Notion · Loi de Stefan-Boltzmann</strong><br>\n  La puissance rayonnée par unité de surface d'un corps noir est proportionnelle à la <strong>puissance quatrième</strong> de sa température absolue. Cette dépendance très forte explique qu'une hausse modeste de température suffise à rétablir l'équilibre.\n</div>\n\n<h2>2 · L'effet de serre</h2>\n\n<p>Appliquée aux 240&nbsp;W/m² absorbés, la loi de Stefan-Boltzmann donne une température d'équilibre d'environ <strong>−18&nbsp;°C</strong>. Or la température moyenne réelle de surface est d'environ <strong>+15&nbsp;°C</strong>. L'écart de <strong>33&nbsp;°C</strong> est l'<strong>effet de serre</strong> naturel — sans lui, la Terre serait gelée.</p>\n\n<p>Le mécanisme repose sur une <em>asymétrie spectrale</em>&nbsp;: l'atmosphère est largement transparente au rayonnement solaire visible, mais absorbe une grande partie du rayonnement <strong>infrarouge</strong> réémis par la surface, et en renvoie une fraction vers le sol. Le sol reçoit donc deux apports, ce qui élève sa température d'équilibre.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Mécanisme de l'effet de serre : le rayonnement solaire visible traverse l'atmosphère et est absorbé par la surface terrestre, la surface réémet un rayonnement infrarouge, les gaz à effet de serre absorbent une grande partie de cet infrarouge et en renvoient une fraction vers le sol, si bien que la surface reçoit deux apports d'énergie et que sa température d'équilibre passe de moins 18 degrés à plus 15 degrés Celsius\">\n    <rect x=\"12\" y=\"12\" width=\"316\" height=\"46\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"24\" y=\"30\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">ATMOSPHÈRE</text>\n    <text x=\"24\" y=\"46\" font-size=\"9\" fill=\"currentColor\">transparente au visible, absorbante dans l'infrarouge</text>\n    <line x1=\"60\" y1=\"60\" x2=\"60\" y2=\"128\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.8\" marker-end=\"url(#ar-tes12b)\"/>\n    <text x=\"68\" y=\"98\" font-size=\"9\" fill=\"currentColor\">visible</text>\n    <line x1=\"180\" y1=\"126\" x2=\"180\" y2=\"62\" stroke=\"currentColor\" stroke-opacity=\".45\" stroke-width=\"1.6\" marker-end=\"url(#ar-tes12b)\"/>\n    <text x=\"188\" y=\"98\" font-size=\"9\" fill=\"currentColor\">infrarouge</text>\n    <line x1=\"270\" y1=\"60\" x2=\"270\" y2=\"128\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.8\" stroke-dasharray=\"4 3\" marker-end=\"url(#ar-tes12b)\"/>\n    <text x=\"222\" y=\"86\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">renvoyé</text>\n    <text x=\"222\" y=\"100\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">vers le sol</text>\n    <rect x=\"12\" y=\"130\" width=\"316\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".30\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"149\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">SURFACE TERRESTRE</text>\n    <text x=\"8\" y=\"178\" font-size=\"9\" fill=\"currentColor\">Sans effet de serre : environ moins 18 degrés Celsius.</text>\n    <text x=\"8\" y=\"194\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">Avec : environ plus 15 degrés Celsius. Écart de 33 degrés.</text>\n    <defs>\n      <marker id=\"ar-tes12b\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n  </svg>\n  <figcaption>L'effet de serre n'est pas le problème&nbsp;: son <em>renforcement</em> l'est.</figcaption>\n</figure>\n\n<p>Détail contre-intuitif&nbsp;: les gaz majoritaires, <strong>diazote et dioxygène</strong>, ne sont <em>pas</em> des gaz à effet de serre. Symétriques et formées de deux atomes identiques, ces molécules n'absorbent pas l'infrarouge. Les gaz actifs sont la <strong>vapeur d'eau</strong>, le <strong>dioxyde de carbone</strong>, le <strong>méthane</strong>, le <strong>protoxyde d'azote</strong> et l'<strong>ozone</strong> — tous minoritaires, voire à l'état de traces.</p>\n\n<h2>3 · Forçages et rétroactions</h2>\n\n<p>Distinction centrale du chapitre, et source d'innombrables confusions&nbsp;:</p>\n\n<ul>\n  <li>Un <strong>forçage radiatif</strong> est une perturbation <em>imposée</em> au système&nbsp;: variation de l'activité solaire, éruption volcanique, émission de gaz à effet de serre.</li>\n  <li>Une <strong>rétroaction</strong> est une réponse <em>interne</em> du système, qui amplifie (rétroaction positive) ou atténue (rétroaction négative) la perturbation initiale.</li>\n</ul>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 176\" role=\"img\" aria-label=\"Rétroaction positive de l'albédo des glaces : le réchauffement provoque la fonte de la glace, la fonte abaisse l'albédo de la surface, l'abaissement de l'albédo augmente l'énergie solaire absorbée, ce qui accentue encore le réchauffement et referme la boucle en l'amplifiant\">\n    <rect x=\"90\" y=\"10\" width=\"160\" height=\"28\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".30\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"28\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">réchauffement</text>\n    <line x1=\"250\" y1=\"24\" x2=\"292\" y2=\"52\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-tes12c)\"/>\n    <rect x=\"196\" y=\"56\" width=\"132\" height=\"28\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"262\" y=\"74\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">fonte de la glace</text>\n    <line x1=\"262\" y1=\"86\" x2=\"262\" y2=\"104\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-tes12c)\"/>\n    <rect x=\"196\" y=\"108\" width=\"132\" height=\"28\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"262\" y=\"126\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">albédo plus faible</text>\n    <line x1=\"196\" y1=\"122\" x2=\"140\" y2=\"122\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-tes12c)\"/>\n    <rect x=\"12\" y=\"108\" width=\"122\" height=\"28\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"73\" y=\"126\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">plus d'énergie</text>\n    <line x1=\"73\" y1=\"106\" x2=\"73\" y2=\"42\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-tes12c)\"/>\n    <line x1=\"73\" y1=\"24\" x2=\"86\" y2=\"24\" stroke=\"var(--accent)\" stroke-opacity=\".5\" stroke-width=\"1.4\"/>\n    <text x=\"170\" y=\"162\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">Boucle amplificatrice : rétroaction positive</text>\n    <text x=\"170\" y=\"174\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">L'Arctique se réchauffe bien plus vite que la moyenne.</text>\n    <defs>\n      <marker id=\"ar-tes12c\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n  </svg>\n  <figcaption>Positive ne veut pas dire bénéfique&nbsp;: cela veut dire amplificatrice.</figcaption>\n</figure>\n\n<p>Autres rétroactions à connaître&nbsp;: la <strong>vapeur d'eau</strong> (une atmosphère plus chaude en contient davantage, ce qui renforce l'effet de serre — amplificatrice)&nbsp;; le <strong>pergélisol</strong>, dont le dégel libère méthane et dioxyde de carbone (amplificatrice, et mal quantifiée)&nbsp;; et l'augmentation du rayonnement infrarouge émis quand la surface se réchauffe, qui tend au contraire à rétablir l'équilibre (<em>négative</em>).</p>\n\n<h2>4 · Un système à cinq compartiments</h2>\n\n<p>Le climat couple l'<strong>atmosphère</strong>, l'<strong>hydrosphère</strong>, la <strong>cryosphère</strong>, la <strong>biosphère</strong> et la <strong>lithosphère</strong> de surface. Chacun réagit à son propre rythme&nbsp;: quelques jours pour l'atmosphère, des siècles pour l'océan profond.</p>\n\n<p>L'<strong>océan</strong> joue un rôle décisif&nbsp;: il stocke l'essentiel de l'excès de chaleur, absorbe une part importante du dioxyde de carbone émis et redistribue l'énergie par ses courants. Son inertie thermique retarde la réponse du climat — une partie du réchauffement est déjà engagée, même à émissions nulles.</p>\n\n<p>Sur la cryosphère, une distinction s'impose&nbsp;: la fonte de la <strong>banquise</strong>, qui flotte déjà, n'élève pas le niveau marin&nbsp;; seules la fonte des <em>glaces continentales</em> et la <em>dilatation thermique</em> de l'eau le font monter. La banquise, elle, agit sur l'albédo.</p>\n\n<h2>5 · La variabilité naturelle</h2>\n\n<p>Trois causes naturelles bien identifiées&nbsp;:</p>\n\n<ul>\n  <li>Les <strong>paramètres orbitaux de Milankovitch</strong>&nbsp;: excentricité (période d'environ 100&nbsp;000 ans), obliquité (41&nbsp;000 ans), précession (21&nbsp;000 ans). Ils rythment les glaciations.</li>\n  <li>Les variations de l'<strong>activité solaire</strong>.</li>\n  <li>Le <strong>volcanisme explosif</strong>, dont les aérosols soufrés stratosphériques provoquent un refroidissement de un à trois ans — le Pinatubo, en 1991, a abaissé la température moyenne d'environ 0,5&nbsp;°C.</li>\n</ul>\n\n<p>Ces facteurs sont quantifiés. C'est précisément parce qu'ils <em>ne suffisent pas</em> à rendre compte de la hausse d'environ <strong>1,1&nbsp;°C</strong> observée depuis 1850-1900 que l'origine humaine s'impose comme la seule explication cohérente.</p>\n\n<p>Le passé se reconstitue par des <strong>marqueurs indirects</strong>&nbsp;: isotopes de l'oxygène dans les glaces et les sédiments, pollens fossiles, cernes des arbres. Les bulles d'air des carottes antarctiques livrent directement la composition de l'atmosphère sur plus de 800&nbsp;000 ans.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Chiffres du bilan radiatif</h3>\n\n<table>\n  <tr><th>Grandeur</th><th>Valeur</th></tr>\n  <tr><td>Constante solaire</td><td>environ 1361 W/m²</td></tr>\n  <tr><td>Puissance moyenne reçue</td><td>environ 340 W/m²</td></tr>\n  <tr><td>Albédo planétaire</td><td>environ 0,3</td></tr>\n  <tr><td>Puissance absorbée</td><td>environ 240 W/m²</td></tr>\n  <tr><td>Effet de serre naturel</td><td>environ 33&nbsp;°C</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition en une ligne</th></tr>\n  <tr><td>Bilan radiatif</td><td>Égalité entre puissance absorbée et réémise</td></tr>\n  <tr><td>Albédo</td><td>Fraction du rayonnement solaire réfléchie</td></tr>\n  <tr><td>Forçage radiatif</td><td>Perturbation imposée au système</td></tr>\n  <tr><td>Rétroaction positive</td><td>Réponse interne qui amplifie la perturbation</td></tr>\n  <tr><td>Marqueur indirect</td><td>Indicateur permettant de reconstituer un climat passé</td></tr>\n</table>\n\n<h3>Variabilité naturelle</h3>\n\n<table>\n  <tr><th>Cause</th><th>Échelle de temps</th></tr>\n  <tr><td>Excentricité de l'orbite</td><td>environ 100&nbsp;000 ans</td></tr>\n  <tr><td>Obliquité de l'axe</td><td>environ 41&nbsp;000 ans</td></tr>\n  <tr><td>Précession des équinoxes</td><td>environ 21&nbsp;000 ans</td></tr>\n  <tr><td>Activité solaire</td><td>décennies à siècles</td></tr>\n  <tr><td>Volcanisme explosif</td><td>1 à 3 ans</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Confondre l'<strong>effet de serre</strong> et le <strong>trou dans la couche d'ozone</strong>. Deux phénomènes distincts, à des altitudes différentes, avec des causes différentes&nbsp;: l'effet de serre est le piégeage de l'<em>infrarouge</em> par certains gaz de la basse atmosphère&nbsp;; le trou d'ozone est l'appauvrissement, par des composés chlorés, du bouclier <em>stratosphérique</em> qui filtre les ultraviolets. Le trou d'ozone ne réchauffe pas le climat. Piège voisin&nbsp;: croire que «&nbsp;rétroaction positive&nbsp;» signifie «&nbsp;favorable&nbsp;» — cela signifie <em>amplificatrice</em>.\n</div>\n\n<blockquote><p>La physique du bilan radiatif tient en trois lignes. C'est le couplage entre cinq compartiments aux temps de réponse incommensurables qui fait toute la difficulté&nbsp;— et tout l'intérêt&nbsp;— de la science du climat.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Science, climat et société",
+  "cards": [
+    {
+      "recto": "Piège classique : ne pas confondre l'effet de serre et le trou dans la couche d'ozone. Quelle est la différence ?",
+      "verso": "L'effet de serre est le piégeage du rayonnement infrarouge par certains gaz dans la basse atmosphère, tandis que le trou d'ozone est l'appauvrissement du bouclier stratosphérique qui filtre les ultraviolets",
+      "explanation": "Deux phénomènes distincts, à des altitudes différentes et avec des causes différentes : gaz à effet de serre d'un côté, composés chlorés de l'autre. Le trou d'ozone ne réchauffe pas le climat.",
+      "tags": [
+        "effet de serre",
+        "piege"
+      ],
+      "distractors": {
+        "easy": [
+          "Ce sont deux noms différents pour le même phénomène",
+          "L'effet de serre concerne l'hiver, le trou d'ozone l'été",
+          "L'effet de serre est artificiel, le trou d'ozone naturel"
+        ],
+        "medium": [
+          "L'effet de serre laisse entrer les ultraviolets, le trou d'ozone les infrarouges",
+          "Le trou d'ozone est la cause principale du réchauffement climatique",
+          "L'effet de serre se produit dans la stratosphère, le trou d'ozone au sol"
+        ],
+        "hard": [
+          "L'effet de serre est dû aux composés chlorés, le trou d'ozone au dioxyde de carbone",
+          "Le trou d'ozone piège les infrarouges et amplifie l'effet de serre",
+          "L'effet de serre concerne l'ozone troposphérique, le trou d'ozone le dioxygène"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que le bilan radiatif de la Terre ?",
+      "verso": "L'égalité, à l'équilibre, entre la puissance rayonnante reçue du Soleil et absorbée par la Terre et la puissance qu'elle réémet vers l'espace",
+      "explanation": "Un déséquilibre, même faible, se traduit par un stockage ou un déstockage d'énergie, donc par une variation de température moyenne. C'est le cadre de tout raisonnement climatique.",
+      "tags": [
+        "bilan radiatif",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La différence entre le jour et la nuit sur une année",
+          "Le nombre d'heures d'ensoleillement annuel d'un lieu",
+          "La quantité de lumière visible reçue par les plantes"
+        ],
+        "medium": [
+          "La quantité totale d'énergie stockée dans les océans",
+          "La différence de température entre l'équateur et les pôles",
+          "La puissance produite par la chaleur interne de la Terre"
+        ],
+        "hard": [
+          "L'égalité entre puissance reçue et puissance réfléchie par l'atmosphère",
+          "Le rapport entre l'énergie solaire reçue et l'énergie consommée par l'humanité",
+          "La différence entre le rayonnement ultraviolet reçu et le rayonnement visible émis"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la valeur de la constante solaire et quelle puissance moyenne reçoit un mètre carré de la Terre ?",
+      "verso": "La constante solaire vaut environ 1361 watts par mètre carré, mais la puissance moyenne reçue par unité de surface terrestre vaut le quart de cette valeur, soit environ 340 watts par mètre carré",
+      "explanation": "Le facteur quatre vient du rapport entre la surface d'un disque intercepteur et celle de la sphère terrestre. Oublier cette division est l'erreur de calcul la plus fréquente du chapitre.",
+      "tags": [
+        "bilan radiatif",
+        "chiffres"
+      ],
+      "distractors": {
+        "easy": [
+          "100 watts par mètre carré dans les deux cas",
+          "1361 watts par mètre carré dans les deux cas",
+          "1 watt par mètre carré, comme une ampoule"
+        ],
+        "medium": [
+          "1361 watts par mètre carré et 680 en moyenne, soit la moitié",
+          "340 watts par mètre carré et 1361 en moyenne",
+          "240 watts par mètre carré et 60 en moyenne"
+        ],
+        "hard": [
+          "1361 watts par mètre carré et 240 en moyenne, après réflexion",
+          "1000 watts par mètre carré et 250 en moyenne",
+          "1361 watts par mètre carré et 453 en moyenne, soit le tiers"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que l'albédo ?",
+      "verso": "La fraction du rayonnement solaire incident réfléchie par une surface, comprise entre 0 pour un corps parfaitement absorbant et 1 pour un corps parfaitement réfléchissant",
+      "explanation": "L'albédo moyen de la Terre vaut environ 0,3 : près d'un tiers du rayonnement reçu repart sans être absorbé, notamment à cause des nuages et des surfaces glacées.",
+      "tags": [
+        "albédo",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La quantité de chaleur produite par le Soleil",
+          "La température moyenne d'une surface éclairée",
+          "La durée d'ensoleillement d'une région"
+        ],
+        "medium": [
+          "La fraction du rayonnement absorbée par une surface",
+          "Le rapport entre rayonnement infrarouge et rayonnement visible",
+          "La proportion de rayonnement transmise à travers l'atmosphère"
+        ],
+        "hard": [
+          "La fraction du rayonnement infrarouge réémise par une surface",
+          "Le rapport entre puissance émise et puissance reçue à l'équilibre",
+          "La fraction du rayonnement réfléchie par les gaz à effet de serre"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles surfaces ont l'albédo le plus élevé et le plus faible ?",
+      "verso": "La neige fraîche et la glace ont l'albédo le plus élevé, proche de 0,8, tandis que l'océan et les forêts sombres ont l'albédo le plus faible, de l'ordre de 0,1",
+      "explanation": "C'est ce contraste qui rend la fonte des glaces si importante : remplacer une surface très réfléchissante par une surface très absorbante augmente l'énergie captée.",
+      "tags": [
+        "albédo",
+        "chiffres"
+      ],
+      "distractors": {
+        "easy": [
+          "Le sable a le plus fort albédo, la neige le plus faible",
+          "Toutes les surfaces ont le même albédo",
+          "Les nuages ont un albédo nul"
+        ],
+        "medium": [
+          "Les forêts ont le plus fort albédo, les déserts le plus faible",
+          "L'océan a le plus fort albédo, la neige le plus faible",
+          "Les nuages ont le plus faible albédo, les océans le plus fort"
+        ],
+        "hard": [
+          "La neige a un albédo proche de 0,3 et l'océan proche de 0,5",
+          "La glace a un albédo proche de 0,8 et le désert proche de 0,05",
+          "La neige fraîche a un albédo de 0,4, la forêt de 0,6"
+        ]
+      }
+    },
+    {
+      "recto": "Que dit la loi de Stefan-Boltzmann ?",
+      "verso": "La puissance rayonnée par unité de surface d'un corps noir est proportionnelle à la puissance quatrième de sa température absolue",
+      "explanation": "Cette dépendance très forte explique qu'une petite hausse de température suffise à rétablir l'équilibre radiatif, et permet de calculer la température théorique de la Terre.",
+      "tags": [
+        "rayonnement",
+        "loi"
+      ],
+      "distractors": {
+        "easy": [
+          "La chaleur monte toujours vers le haut",
+          "Un corps chaud refroidit toujours en une heure",
+          "La lumière se déplace en ligne droite"
+        ],
+        "medium": [
+          "La puissance rayonnée est proportionnelle à la température absolue",
+          "La puissance rayonnée est proportionnelle au carré de la température",
+          "La longueur d'onde émise est proportionnelle à la température"
+        ],
+        "hard": [
+          "La puissance rayonnée est inversement proportionnelle à la puissance quatrième de la température",
+          "La puissance rayonnée est proportionnelle à la puissance quatrième de la température exprimée en degrés Celsius",
+          "La puissance rayonnée est proportionnelle au cube de la température absolue"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle serait la température moyenne de surface de la Terre sans effet de serre, et quelle est-elle réellement ?",
+      "verso": "Environ moins 18 degrés Celsius sans effet de serre, contre environ 15 degrés Celsius en réalité, soit un écart d'environ 33 degrés",
+      "explanation": "Cet écart montre que l'effet de serre naturel est la condition de l'habitabilité de la planète. Le problème actuel n'est pas son existence mais son renforcement.",
+      "tags": [
+        "effet de serre",
+        "chiffres"
+      ],
+      "distractors": {
+        "easy": [
+          "0 degré sans effet de serre, 15 degrés en réalité",
+          "Moins 100 degrés sans effet de serre, 50 degrés en réalité",
+          "15 degrés dans les deux cas"
+        ],
+        "medium": [
+          "Moins 33 degrés sans effet de serre, 15 degrés en réalité",
+          "Moins 18 degrés sans effet de serre, 33 degrés en réalité",
+          "Moins 5 degrés sans effet de serre, 15 degrés en réalité"
+        ],
+        "hard": [
+          "Moins 18 degrés sans effet de serre, 0 degré en réalité",
+          "Moins 15 degrés sans effet de serre, 18 degrés en réalité",
+          "Moins 18 degrés Kelvin sans effet de serre, 15 degrés Celsius en réalité"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi le diazote et le dioxygène ne sont-ils pas des gaz à effet de serre ?",
+      "verso": "Parce que ces molécules symétriques formées de deux atomes identiques n'absorbent pas le rayonnement infrarouge terrestre",
+      "explanation": "L'absorption suppose une variation du moment dipolaire lors de la vibration de la molécule, ce qui exclut les molécules diatomiques homonucléaires. D'où le paradoxe : les gaz majoritaires ne jouent aucun rôle climatique direct.",
+      "tags": [
+        "effet de serre",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'ils sont invisibles",
+          "Parce qu'ils sont trop légers pour rester dans l'atmosphère",
+          "Parce qu'ils sont produits par les êtres vivants"
+        ],
+        "medium": [
+          "Parce qu'ils sont trop abondants pour absorber la chaleur",
+          "Parce qu'ils réfléchissent le rayonnement au lieu de l'absorber",
+          "Parce qu'ils se dissolvent dans les océans"
+        ],
+        "hard": [
+          "Parce qu'ils absorbent l'ultraviolet et non l'infrarouge",
+          "Parce que leur concentration est constante et n'a donc pas d'effet",
+          "Parce que leur masse molaire est trop faible pour vibrer"
+        ]
+      }
+    },
+    {
+      "recto": "Quels sont les principaux gaz à effet de serre de l'atmosphère ?",
+      "verso": "La vapeur d'eau, le dioxyde de carbone, le méthane, le protoxyde d'azote et l'ozone",
+      "explanation": "La vapeur d'eau est le premier par son abondance, mais sa concentration dépend de la température : c'est une rétroaction, pas un forçage que l'humanité contrôle directement.",
+      "tags": [
+        "effet de serre",
+        "gaz"
+      ],
+      "distractors": {
+        "easy": [
+          "Le diazote, le dioxygène et l'argon",
+          "L'hélium, le néon et le krypton",
+          "Le dihydrogène et l'hélium uniquement"
+        ],
+        "medium": [
+          "Le dioxyde de carbone, le dioxygène et le méthane",
+          "La vapeur d'eau, le diazote et l'ozone",
+          "Le dioxyde de carbone et l'argon principalement"
+        ],
+        "hard": [
+          "La vapeur d'eau, le dioxyde de carbone, le méthane et le dioxygène",
+          "Le dioxyde de carbone, le méthane, l'ozone et le diazote",
+          "La vapeur d'eau, le méthane, le protoxyde d'azote et l'argon"
+        ]
+      }
+    },
+    {
+      "recto": "Comment fonctionne l'effet de serre atmosphérique ?",
+      "verso": "L'atmosphère laisse passer le rayonnement solaire visible, mais absorbe une grande partie du rayonnement infrarouge réémis par la surface et en renvoie une fraction vers le sol",
+      "explanation": "Le sol reçoit donc deux apports : le rayonnement solaire et le rayonnement infrarouge atmosphérique. C'est ce second terme qui élève sa température d'équilibre.",
+      "tags": [
+        "effet de serre",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "L'atmosphère empêche l'air chaud de s'échapper vers le haut",
+          "Les nuages retiennent la chaleur comme une couverture physique",
+          "Le Soleil chauffe davantage à cause de la pollution"
+        ],
+        "medium": [
+          "L'atmosphère réfléchit le rayonnement solaire vers la surface",
+          "Les gaz emprisonnent l'air chaud près du sol par convection",
+          "L'atmosphère absorbe les ultraviolets et les convertit en chaleur"
+        ],
+        "hard": [
+          "L'atmosphère absorbe le rayonnement visible et réémet de l'infrarouge vers l'espace",
+          "L'atmosphère bloque le rayonnement solaire entrant et retient la chaleur produite au sol",
+          "L'atmosphère absorbe l'infrarouge et le réémet intégralement vers l'espace"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : qu'est-ce qui distingue un forçage radiatif d'une rétroaction climatique ?",
+      "verso": "Le forçage est une perturbation imposée au système, comme une variation de l'activité solaire ou une émission de gaz, tandis que la rétroaction est une réponse interne du système qui amplifie ou atténue cette perturbation",
+      "explanation": "Confondre les deux conduit à des raisonnements circulaires. La vapeur d'eau, par exemple, est une rétroaction et non un forçage.",
+      "tags": [
+        "climat",
+        "comparaison"
+      ],
+      "distractors": {
+        "easy": [
+          "Le forçage est rapide, la rétroaction est lente",
+          "Le forçage est naturel, la rétroaction artificielle",
+          "Le forçage concerne l'atmosphère, la rétroaction les océans"
+        ],
+        "medium": [
+          "Le forçage est une réponse du système, la rétroaction une perturbation extérieure",
+          "Le forçage réchauffe, la rétroaction refroidit toujours",
+          "Le forçage concerne le passé, la rétroaction le futur"
+        ],
+        "hard": [
+          "Le forçage amplifie une perturbation, la rétroaction l'impose au système",
+          "Le forçage est mesuré en degrés, la rétroaction en watts par mètre carré",
+          "Le forçage est toujours positif, la rétroaction toujours négative"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que la rétroaction de l'albédo des glaces ?",
+      "verso": "Un mécanisme amplificateur par lequel le réchauffement fait fondre la glace, ce qui abaisse l'albédo, augmente l'énergie absorbée et accentue le réchauffement",
+      "explanation": "C'est la rétroaction positive la mieux documentée. Elle explique en partie pourquoi l'Arctique se réchauffe nettement plus vite que la moyenne planétaire.",
+      "tags": [
+        "rétroaction",
+        "albédo"
+      ],
+      "distractors": {
+        "easy": [
+          "Un mécanisme par lequel la glace repousse chaque hiver",
+          "Un phénomène qui refroidit les pôles en permanence",
+          "Une variation saisonnière de la couverture neigeuse"
+        ],
+        "medium": [
+          "Un mécanisme par lequel la fonte des glaces refroidit l'océan et freine le réchauffement",
+          "Un phénomène par lequel la glace réfléchit davantage lorsqu'elle fond",
+          "Une rétroaction négative qui stabilise la température des pôles"
+        ],
+        "hard": [
+          "Un mécanisme amplificateur par lequel la fonte augmente l'albédo et l'énergie absorbée",
+          "Une rétroaction où la fonte libère du méthane et augmente l'albédo",
+          "Un mécanisme où la glace fond, ce qui augmente la couverture nuageuse et le refroidissement"
+        ]
+      }
+    },
+    {
+      "recto": "Donnez un exemple de rétroaction climatique négative.",
+      "verso": "L'augmentation du rayonnement infrarouge émis par la surface lorsque sa température s'élève, qui tend à rétablir l'équilibre radiatif",
+      "explanation": "Cette rétroaction découle directement de la loi de Stefan-Boltzmann. Elle stabilise le système, mais ne suffit pas à compenser l'ensemble des rétroactions amplificatrices.",
+      "tags": [
+        "rétroaction",
+        "climat"
+      ],
+      "distractors": {
+        "easy": [
+          "La fonte des glaces au printemps",
+          "L'augmentation des précipitations en hiver",
+          "Le refroidissement nocturne de l'air"
+        ],
+        "medium": [
+          "La libération du méthane par le dégel du pergélisol",
+          "L'augmentation de la vapeur d'eau avec la température",
+          "La diminution de l'albédo liée à la fonte des neiges"
+        ],
+        "hard": [
+          "L'absorption accrue de dioxyde de carbone par un océan qui se réchauffe",
+          "L'augmentation de la couverture nuageuse de haute altitude",
+          "La diminution du rayonnement infrarouge émis quand la surface se réchauffe"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la vapeur d'eau constitue-t-elle une rétroaction amplificatrice ?",
+      "verso": "Parce qu'une atmosphère plus chaude contient davantage de vapeur d'eau, gaz à effet de serre, ce qui renforce encore le réchauffement",
+      "explanation": "Sa concentration n'est donc pas pilotée par les émissions humaines mais par la température : elle amplifie un forçage sans jamais en être un.",
+      "tags": [
+        "rétroaction",
+        "vapeur d'eau"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que la pluie réchauffe le sol en tombant",
+          "Parce que les nuages produisent de la chaleur",
+          "Parce que l'eau conduit bien l'électricité"
+        ],
+        "medium": [
+          "Parce que la vapeur d'eau détruit la couche d'ozone",
+          "Parce que l'évaporation libère du dioxyde de carbone dissous",
+          "Parce que la vapeur d'eau abaisse l'albédo des océans"
+        ],
+        "hard": [
+          "Parce qu'une atmosphère plus chaude contient moins de vapeur d'eau, ce qui réduit les nuages réfléchissants",
+          "Parce que la vapeur d'eau est émise en quantité croissante par l'industrie",
+          "Parce que sa durée de séjour atmosphérique est très longue"
+        ]
+      }
+    },
+    {
+      "recto": "Quels sont les cinq compartiments couplés du système climatique ?",
+      "verso": "L'atmosphère, l'hydrosphère, la cryosphère, la biosphère et la lithosphère de surface, qui échangent en permanence énergie et matière",
+      "explanation": "C'est ce couplage qui fait la complexité du système : une perturbation dans un compartiment se propage dans tous les autres avec des délais très différents.",
+      "tags": [
+        "système climatique",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le nord, le sud, l'est, l'ouest et le centre",
+          "Le printemps, l'été, l'automne, l'hiver et la mousson",
+          "Les continents, les mers, les montagnes, les plaines et les déserts"
+        ],
+        "medium": [
+          "L'atmosphère, l'océan, les nuages, le vent et la pluie",
+          "L'atmosphère, la stratosphère, la troposphère, la mésosphère et l'exosphère",
+          "L'air, l'eau, la terre, le feu et la vie"
+        ],
+        "hard": [
+          "L'atmosphère, l'hydrosphère, la cryosphère, la biosphère et le noyau terrestre",
+          "L'atmosphère, l'hydrosphère, la lithosphère, la magnétosphère et la biosphère",
+          "L'atmosphère, l'océan de surface, l'océan profond, la banquise et les forêts"
+        ]
+      }
+    },
+    {
+      "recto": "Quel rôle l'océan joue-t-il dans le système climatique ?",
+      "verso": "Il stocke l'essentiel de l'excès de chaleur du système et absorbe une part importante du dioxyde de carbone émis, tout en redistribuant l'énergie par ses courants",
+      "explanation": "Son inertie thermique considérable retarde la réponse du climat aux perturbations, ce qui signifie qu'une partie du réchauffement est déjà engagée même à émissions nulles.",
+      "tags": [
+        "océan",
+        "système climatique"
+      ],
+      "distractors": {
+        "easy": [
+          "Il produit l'essentiel des nuages du globe",
+          "Il refroidit l'atmosphère par évaporation uniquement",
+          "Il n'a pas d'influence notable sur le climat"
+        ],
+        "medium": [
+          "Il réfléchit la majeure partie du rayonnement solaire",
+          "Il émet du dioxyde de carbone en quantité croissante",
+          "Il fixe la composition de l'atmosphère par dégazage permanent"
+        ],
+        "hard": [
+          "Il stocke l'essentiel de la chaleur mais n'échange pas de carbone avec l'atmosphère",
+          "Il absorbe le dioxyde de carbone sans effet sur son acidité",
+          "Il redistribue l'énergie uniquement par les vents de surface"
+        ]
+      }
+    },
+    {
+      "recto": "Que sont les paramètres orbitaux de Milankovitch ?",
+      "verso": "L'excentricité de l'orbite terrestre, l'obliquité de l'axe de rotation et la précession des équinoxes, dont les variations périodiques modifient la répartition du rayonnement reçu",
+      "explanation": "Leurs périodes valent respectivement environ 100 000, 41 000 et 21 000 ans. Ils expliquent l'alternance des glaciations, mais pas le réchauffement rapide observé depuis un siècle et demi.",
+      "tags": [
+        "variabilité",
+        "paléoclimat"
+      ],
+      "distractors": {
+        "easy": [
+          "La distance Terre-Lune, la durée du jour et la vitesse du vent",
+          "La latitude, la longitude et l'altitude d'un lieu",
+          "La pression, la température et l'humidité de l'air"
+        ],
+        "medium": [
+          "L'excentricité, la vitesse de rotation et la distance au Soleil",
+          "L'obliquité, la masse terrestre et l'albédo planétaire",
+          "La précession, l'activité solaire et le volcanisme"
+        ],
+        "hard": [
+          "L'excentricité, l'obliquité et la nutation de l'axe terrestre",
+          "L'excentricité de période 41 000 ans et l'obliquité de période 100 000 ans",
+          "L'obliquité, la précession et la variation de la constante solaire"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles sont les principales causes naturelles de variabilité climatique ?",
+      "verso": "Les variations de l'activité solaire, le volcanisme explosif qui injecte des aérosols dans la stratosphère et les paramètres orbitaux",
+      "explanation": "Ces facteurs sont bien identifiés et quantifiés : c'est parce qu'ils ne suffisent pas à expliquer la hausse observée depuis 1850 que l'origine humaine s'impose.",
+      "tags": [
+        "variabilité",
+        "causes"
+      ],
+      "distractors": {
+        "easy": [
+          "Les saisons, les marées et les vents dominants",
+          "Les éclipses de Soleil et de Lune",
+          "La rotation de la Terre sur elle-même"
+        ],
+        "medium": [
+          "Les courants marins, les nuages et la déforestation",
+          "Le champ magnétique terrestre et les aurores polaires",
+          "La tectonique des plaques seule"
+        ],
+        "hard": [
+          "L'activité solaire, le volcanisme effusif et l'obliquité",
+          "Les paramètres orbitaux, les aérosols industriels et le méthane",
+          "L'activité solaire, les paramètres orbitaux et la vapeur d'eau"
+        ]
+      }
+    },
+    {
+      "recto": "Quel est l'effet climatique d'une éruption volcanique explosive majeure ?",
+      "verso": "Un refroidissement temporaire de un à trois ans, dû aux aérosols soufrés injectés dans la stratosphère qui réfléchissent une partie du rayonnement solaire",
+      "explanation": "L'éruption du Pinatubo en 1991 a ainsi abaissé la température moyenne d'environ 0,5 degré. Les volcans ne réchauffent donc pas le climat à court terme, contrairement à une idée répandue.",
+      "tags": [
+        "variabilité",
+        "volcanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Un réchauffement durable dû à la lave en fusion",
+          "Aucun effet mesurable sur le climat",
+          "Un réchauffement local limité au voisinage du volcan"
+        ],
+        "medium": [
+          "Un réchauffement de plusieurs années dû aux rejets de dioxyde de carbone",
+          "Un refroidissement permanent des régions polaires",
+          "Une augmentation durable des précipitations mondiales"
+        ],
+        "hard": [
+          "Un refroidissement de plusieurs décennies dû aux cendres troposphériques",
+          "Un réchauffement temporaire suivi d'un refroidissement de longue durée",
+          "Un refroidissement dû aux aérosols injectés dans la troposphère"
+        ]
+      }
+    },
+    {
+      "recto": "Comment reconstitue-t-on les températures du passé lointain ?",
+      "verso": "Par l'analyse d'indicateurs indirects comme les isotopes de l'oxygène dans les glaces et les sédiments, les pollens fossiles et la largeur des cernes des arbres",
+      "explanation": "Ces indicateurs sont appelés marqueurs indirects ou proxys. Ils permettent de remonter bien avant les mesures instrumentales, qui ne commencent qu'au XIXe siècle.",
+      "tags": [
+        "paléoclimat",
+        "méthodes"
+      ],
+      "distractors": {
+        "easy": [
+          "Par les archives des bulletins météorologiques anciens",
+          "Par les récits des explorateurs et des navigateurs",
+          "Par les peintures représentant des paysages d'hiver"
+        ],
+        "medium": [
+          "Par la mesure directe de la température dans les carottes de glace",
+          "Par le comptage des éruptions volcaniques passées",
+          "Par la datation au carbone 14 des roches sédimentaires"
+        ],
+        "hard": [
+          "Par les isotopes du carbone dans les coraux et les cernes des arbres",
+          "Par les isotopes de l'oxygène dans les roches magmatiques",
+          "Par la teneur en dioxygène des bulles d'air piégées dans la glace"
+        ]
+      }
+    },
+    {
+      "recto": "Que mesure le rapport isotopique de l'oxygène dans les glaces polaires ?",
+      "verso": "Il constitue un indicateur de la température au moment de la formation de la neige, l'eau contenant l'isotope léger s'évaporant et se condensant différemment de l'eau lourde",
+      "explanation": "Ce thermomètre chimique est calibré sur les périodes récentes, ce qui permet d'étendre la reconstitution sur plus de 800 000 ans dans les carottes antarctiques.",
+      "tags": [
+        "paléoclimat",
+        "méthodes"
+      ],
+      "distractors": {
+        "easy": [
+          "L'âge exact de la glace en années",
+          "La quantité de neige tombée chaque hiver",
+          "La pureté chimique de l'eau de fonte"
+        ],
+        "medium": [
+          "La teneur en dioxyde de carbone de l'atmosphère du passé",
+          "L'épaisseur de la calotte glaciaire au moment du dépôt",
+          "La vitesse des vents polaires du passé"
+        ],
+        "hard": [
+          "La température de l'océan au moment de la formation de la glace continentale",
+          "Le niveau marin au moment du dépôt de la neige",
+          "La concentration en méthane de l'air piégé"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la température moyenne globale ne suffit-elle pas à décrire le changement climatique ?",
+      "verso": "Parce qu'elle masque de fortes disparités régionales et saisonnières, ainsi que les modifications du cycle de l'eau et de la fréquence des événements extrêmes",
+      "explanation": "L'Arctique se réchauffe plusieurs fois plus vite que la moyenne, et certaines régions connaissent surtout un changement de régime des précipitations. La moyenne est un indicateur, non une description.",
+      "tags": [
+        "climat",
+        "analyse"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les thermomètres ne sont pas assez précis",
+          "Parce que la température varie chaque jour",
+          "Parce qu'il fait plus chaud le jour que la nuit"
+        ],
+        "medium": [
+          "Parce que les mesures ne couvrent pas les océans",
+          "Parce que la température des villes fausse les moyennes",
+          "Parce que les satellites ne mesurent que la haute atmosphère"
+        ],
+        "hard": [
+          "Parce que la moyenne globale n'intègre pas la chaleur stockée par l'océan",
+          "Parce qu'elle est calculée sur une période trop courte pour être significative",
+          "Parce qu'elle exclut les régions polaires, mal couvertes par les stations"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que le pergélisol et pourquoi son dégel inquiète-t-il ?",
+      "verso": "Un sol gelé en permanence des régions froides, dont le dégel libère du méthane et du dioxyde de carbone longtemps piégés dans la matière organique",
+      "explanation": "C'est une rétroaction amplificatrice potentiellement importante et difficile à quantifier, ce qui en fait l'une des grandes incertitudes des projections climatiques.",
+      "tags": [
+        "rétroaction",
+        "cryosphère"
+      ],
+      "distractors": {
+        "easy": [
+          "Un glacier de montagne qui recule chaque année",
+          "La banquise flottante de l'océan Arctique",
+          "Une couche de neige tassée en altitude"
+        ],
+        "medium": [
+          "Un sol gelé dont le dégel élève directement le niveau des mers",
+          "Une couche de glace continentale dont la fonte modifie l'albédo seulement",
+          "Un sol gelé dont le dégel absorbe du dioxyde de carbone"
+        ],
+        "hard": [
+          "Un sol gelé en permanence dont le dégel libère surtout de la vapeur d'eau",
+          "Un sol gelé saisonnièrement dont le dégel annuel est sans conséquence",
+          "Un sol gelé dont le dégel augmente l'albédo des régions arctiques"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la fonte de la banquise n'élève-t-elle pas le niveau de la mer ?",
+      "verso": "Parce que la banquise flotte déjà sur l'océan et déplace un volume d'eau égal à son poids, contrairement aux glaces continentales qui reposent sur un sol",
+      "explanation": "Seules la fonte des calottes et des glaciers continentaux, ainsi que la dilatation thermique de l'eau, font monter le niveau marin. La banquise, elle, agit sur l'albédo.",
+      "tags": [
+        "cryosphère",
+        "niveau marin"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que la banquise ne fond jamais complètement",
+          "Parce que l'eau de mer s'évapore aussitôt",
+          "Parce que la banquise est trop peu épaisse"
+        ],
+        "medium": [
+          "Parce que la fonte de la banquise est compensée par les précipitations neigeuses",
+          "Parce que l'eau douce issue de la fonte reste en surface",
+          "Parce que la banquise fond en été et se reforme en hiver"
+        ],
+        "hard": [
+          "Parce que la banquise repose sur le fond marin et non sur l'eau",
+          "Parce que la dilatation thermique compense exactement son volume",
+          "Parce que la banquise est constituée d'eau salée, de même densité que l'océan"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est l'ampleur du réchauffement observé depuis l'ère préindustrielle ?",
+      "verso": "Une hausse de la température moyenne mondiale d'environ 1,1 degré Celsius par rapport à la période 1850-1900",
+      "explanation": "Cette hausse n'est pas uniforme : les continents se réchauffent plus que les océans, et les hautes latitudes plus que les tropiques.",
+      "tags": [
+        "climat",
+        "chiffres"
+      ],
+      "distractors": {
+        "easy": [
+          "Environ 10 degrés Celsius",
+          "Environ 0,01 degré Celsius",
+          "Aucune hausse mesurable"
+        ],
+        "medium": [
+          "Environ 3 degrés Celsius",
+          "Environ 0,3 degré Celsius",
+          "Environ 5 degrés Celsius aux pôles et zéro ailleurs"
+        ],
+        "hard": [
+          "Environ 1,1 degré Celsius par rapport à la moyenne du XXe siècle",
+          "Environ 2 degrés Celsius par rapport à 1850-1900",
+          "Environ 1,5 degré Celsius par rapport à 1950"
+        ]
+      }
+    }
+  ]
+}

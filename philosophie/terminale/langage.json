@@ -1,0 +1,536 @@
+{
+  "id": "philosophie-terminale-langage",
+  "title": "Le langage",
+  "emoji": "💬",
+  "subject": "philosophy",
+  "country": "fr",
+  "courseDescription": "Philosophie · Terminale — le langage : signe et arbitraire, langue et parole, langage et pensée, communication animale, pouvoir des mots.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Le langage</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale (voie générale et technologique)<br>\n  <b>Thème&nbsp;:</b> Philosophie — L'existence humaine et la culture<br>\n  <b>Notion</b> · environ 4 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> Le langage exprime-t-il ma pensée&nbsp;— ou contribue-t-il à la former&nbsp;?</p></blockquote>\n\n<p>On se représente volontiers le langage comme un <em>vêtement</em>&nbsp;: la pensée existerait d'abord, toute formée, puis chercherait des mots pour se rendre visible. Cette image explique la plainte familière — «&nbsp;je le pense mais je n'arrive pas à le dire&nbsp;». Elle résiste mal à l'examen. Chercher ses mots, ce n'est pas habiller une idée déjà là&nbsp;: c'est souvent la préciser, parfois la découvrir. Reste alors à savoir jusqu'où va cette dépendance&nbsp;: si le langage forme la pensée, sommes-nous prisonniers de notre langue&nbsp;? Le chapitre montre que non — et pourquoi le langage n'est ni un simple outil ni une prison, mais le <strong>milieu</strong> où la pensée devient partageable et donc contestable.</p>\n\n<h2>1 · Trois mots à ne pas confondre</h2>\n\n<ul>\n  <li>Le <strong>langage</strong>&nbsp;: la faculté humaine de signifier. Universelle.</li>\n  <li>Une <strong>langue</strong>&nbsp;: un système particulier qui réalise cette faculté — le français, le japonais. Historique et multiple.</li>\n  <li>La <strong>parole</strong>&nbsp;: l'usage individuel qu'un locuteur fait de sa langue.</li>\n</ul>\n\n<p>Dire que le langage est propre à l'homme ne signifie donc pas qu'une langue particulière lui soit naturelle&nbsp;: il apprend celle de son milieu. Et l'opposition <strong>langue / parole</strong>, formulée par <strong>Saussure</strong>, éclaire un rapport précis&nbsp;: la langue est sociale, contraignante, relativement stable&nbsp;; la parole est libre, singulière, variable. On ne peut pas décider seul du sens d'un mot, mais chacun combine à sa guise ce que la langue met à disposition.</p>\n\n<h3>Le signe</h3>\n\n<p>Un signe linguistique unit un <strong>signifiant</strong> — l'image acoustique du mot — et un <strong>signifié</strong> — le concept qu'il évoque. Il faut noter la précision&nbsp;: le signe n'unit <em>pas</em> un mot et une chose. C'est ce qui permet de parler d'une licorne, d'un nombre ou d'un événement futur.</p>\n\n<p>Ce rapport est <strong>arbitraire</strong>&nbsp;: aucun lien naturel n'unit le signifiant au signifié, comme le confirme la diversité des langues. Attention au faux sens&nbsp;: arbitraire ne veut pas dire <em>facultatif</em>. Le locuteur ne peut rien changer seul, car l'usage collectif s'impose à lui.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Schéma du signe linguistique selon Saussure : le signe unit un signifiant, image acoustique, et un signifié, concept ; le lien entre les deux est arbitraire, comme le montre la diversité des mots employés dans différentes langues pour le même concept ; la chose réelle reste hors du signe\">\n    <rect x=\"90\" y=\"14\" width=\"160\" height=\"88\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"36\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Le signe</text>\n    <text x=\"170\" y=\"58\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">signifié — le concept</text>\n    <line x1=\"102\" y1=\"68\" x2=\"238\" y2=\"68\" stroke=\"var(--accent)\" stroke-opacity=\".6\" stroke-width=\"1.4\"/>\n    <text x=\"170\" y=\"88\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">signifiant — l'image sonore</text>\n    <text x=\"170\" y=\"120\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">lien arbitraire, institué par l'usage</text>\n    <rect x=\"16\" y=\"134\" width=\"88\" height=\"30\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"60\" y=\"153\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">arbre</text>\n    <rect x=\"126\" y=\"134\" width=\"88\" height=\"30\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"170\" y=\"153\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">tree</text>\n    <rect x=\"236\" y=\"134\" width=\"88\" height=\"30\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"280\" y=\"153\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">Baum</text>\n    <text x=\"170\" y=\"182\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">même concept, signifiants sans ressemblance</text>\n  </svg>\n  <figcaption>Le signe ne relie pas un mot à une chose, mais une image sonore à un concept&nbsp;: c'est ce qui permet de parler de ce qui n'existe pas.</figcaption>\n</figure>\n\n<h2>2 · Ce que le langage humain a de propre</h2>\n\n<p><strong>Benveniste</strong> compare la danse des abeilles au langage humain. L'abeille transmet bien une information sur la direction et la distance d'une source de nourriture. Mais&nbsp;:</p>\n\n<ul>\n  <li>son message est <strong>fixe</strong>, lié à une <strong>situation immédiate</strong>&nbsp;;</li>\n  <li>il n'appelle <strong>aucune réponse</strong>&nbsp;: aucune abeille ne réplique à une autre.</li>\n</ul>\n\n<p>Le langage humain se caractérise au contraire par la <strong>réciprocité des rôles</strong> — celui qui reçoit peut devenir celui qui parle — et par la capacité d'évoquer ce qui n'est <strong>pas là</strong>&nbsp;: le passé, l'ailleurs, l'hypothétique.</p>\n\n<p>S'y ajoute une propriété structurelle, la <strong>double articulation</strong>&nbsp;: un nombre limité de sons dépourvus de signification se combine en unités signifiantes, elles-mêmes combinables en phrases indéfiniment nouvelles. Quelques dizaines de sons suffisent ainsi à dire ce qui n'a jamais été dit. Aucun système de communication animal connu ne possède cette économie.</p>\n\n<p>C'est la même propriété — un signe détaché de la situation présente — qui rend possible le <strong>mensonge</strong>. Un animal peut feindre&nbsp;; il ne peut pas affirmer un état de choses inexistant. Fiction, hypothèse, promesse et mensonge partagent cette racine&nbsp;: le langage n'est pas rivé au présent.</p>\n\n<h2>3 · Langage et pensée</h2>\n\n<p>Revenons au problème initial. Contre l'image du vêtement, on observe que <strong>la pensée reste confuse tant qu'elle n'est pas formulée</strong>. C'est en cherchant ses mots que l'on précise ce que l'on pense&nbsp;; l'expérience de l'écriture le confirme, où l'on découvre souvent ce que l'on voulait dire en le disant. Hegel va jusqu'à soutenir que nous ne connaissons vraiment notre pensée qu'une fois objectivée dans le mot.</p>\n\n<p>À qui invoque l'<strong>ineffable</strong> — «&nbsp;les mots sont impuissants&nbsp;» —, on oppose une remarque simple&nbsp;: celui qui prétend penser mieux qu'il ne parle emploie encore des mots pour le dire, et confond souvent la <em>confusion</em> de sa pensée avec la richesse d'un indicible.</p>\n\n<p>L'objection n'est cependant pas close. <strong>Bergson</strong> maintient qu'une part du vécu — la durée intérieure, la nuance singulière d'un sentiment — résiste au découpage de mots faits pour le commun. Le débat porte donc sur <em>ce qui reste hors du langage</em>, non sur l'existence d'un lien étroit entre les deux.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Comparaison de deux conceptions du rapport entre langage et pensée : selon la conception instrumentale, la pensée est déjà formée et le langage l'habille sans la modifier ; selon la conception formatrice, la pensée est d'abord confuse et se précise en se formulant\">\n    <defs>\n      <marker id=\"ar-phlg1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n    <text x=\"8\" y=\"14\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Le langage comme vêtement</text>\n    <rect x=\"8\" y=\"22\" width=\"112\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"64\" y=\"43\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">pensée complète</text>\n    <path d=\"M124,39 L152,39\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-phlg1)\"/>\n    <rect x=\"156\" y=\"22\" width=\"112\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"212\" y=\"43\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">mots</text>\n    <text x=\"278\" y=\"43\" font-size=\"9\" class=\"s-muted\">inchangée</text>\n    <line x1=\"8\" y1=\"74\" x2=\"332\" y2=\"74\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"96\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Le langage comme formation</text>\n    <rect x=\"8\" y=\"104\" width=\"100\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-dasharray=\"4 3\"/>\n    <text x=\"58\" y=\"125\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">pensée confuse</text>\n    <path d=\"M112,121 L136,121\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-phlg1)\"/>\n    <rect x=\"140\" y=\"104\" width=\"88\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"184\" y=\"125\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">formulation</text>\n    <path d=\"M232,121 L256,121\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-phlg1)\"/>\n    <rect x=\"260\" y=\"104\" width=\"72\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"296\" y=\"125\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">pensée précisée</text>\n    <text x=\"170\" y=\"162\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">chercher ses mots, c'est souvent découvrir ce que l'on pense</text>\n  </svg>\n  <figcaption>Le langage n'est pas seulement un moyen d'exprimer&nbsp;: il est aussi un moyen de penser.</figcaption>\n</figure>\n\n<h3>La relativité linguistique</h3>\n\n<p>Si la langue forme la pensée, chaque langue enferme-t-elle ses locuteurs&nbsp;? C'est l'hypothèse de la <strong>relativité linguistique</strong>&nbsp;: la langue que l'on parle oriente la manière dont on découpe et perçoit le monde. L'idée est féconde — les catégories grammaticales et lexicales attirent l'attention sur certaines distinctions plutôt que d'autres.</p>\n\n<p>Mais sa <em>version forte</em> est réfutée. Les locuteurs peuvent apprendre des distinctions absentes de leur langue, les rendre par périphrase, créer des mots. La preuve pratique en est la <strong>traduction</strong>&nbsp;: ce que l'on traduit n'est pas un mot terme à terme mais un <em>sens</em>, que l'on rend par d'autres moyens. L'intraduisible ponctuel — un jeu de mots, une connotation — n'interdit pas la traduction&nbsp;: il oblige à choisir ce que l'on privilégie.</p>\n\n<h2>4 · Parler, c'est agir</h2>\n\n<p><strong>Austin</strong> repère une classe d'énoncés qui n'décrivent rien&nbsp;: les <strong>performatifs</strong>. Dire «&nbsp;je promets&nbsp;», «&nbsp;je te baptise&nbsp;», «&nbsp;la séance est ouverte&nbsp;», c'est <em>accomplir</em> l'acte, non le rapporter. Ces énoncés ne sont ni vrais ni faux mais <strong>réussis ou manqués</strong>, selon que les conditions sont réunies&nbsp;: celui qui parle doit en avoir l'autorité, et la situation doit s'y prêter.</p>\n\n<p>Cela éclaire plus largement le <strong>pouvoir des mots</strong>. Nommer n'est jamais neutre&nbsp;: le choix d'un terme pour désigner un groupe ou un événement engage déjà un jugement, oriente la perception, légitime un découpage du réel. C'est pourquoi les luttes politiques sont souvent d'abord des luttes sur les mots.</p>\n\n<p>D'où l'ancienneté du soupçon. Platon reproche aux <strong>sophistes</strong> de viser la persuasion et la victoire plutôt que le vrai&nbsp;: leur technique du discours est indifférente à son contenu, puisqu'elle permet de soutenir une thèse et son contraire avec la même habileté. Cela n'interdit pas toute rhétorique&nbsp;: faire entendre le vrai demande aussi de l'art.</p>\n\n<div class=\"callout\">\n  <strong>Repère · Persuader / convaincre</strong><br>\n  Persuader agit sur les sentiments et vise l'efficacité&nbsp;; convaincre s'appuie sur des raisons que l'interlocuteur peut examiner. La distinction n'est pas d'abord morale&nbsp;: elle décrit deux mécanismes, dont l'un seulement laisse l'auditeur libre de vérifier.\n</div>\n\n<h2>5 · Le sens ne tient pas dans les mots seuls</h2>\n\n<p>Une même phrase change de sens selon la situation&nbsp;: «&nbsp;il fait froid ici&nbsp;» est un constat, un reproche ou une demande de fermer la fenêtre. Le <strong>contexte</strong>, l'intonation et la situation d'énonciation déterminent le sens précis d'un énoncé toujours ambigu hors situation.</p>\n\n<p>Le <strong>silence</strong> lui-même signifie&nbsp;: ne pas répondre est une réponse dès lors qu'une parole était attendue. Il n'est pas hors du langage&nbsp;; il signifie par ce qu'il refuse.</p>\n\n<p>Enfin, une raison de principe interdit de concevoir un langage purement privé. <strong>Wittgenstein</strong> montre qu'un locuteur isolé ne pourrait jamais distinguer l'application <em>correcte</em> d'une règle de ce qu'il <em>croit</em> correct, faute de critère extérieur. Le sens suppose une pratique commune&nbsp;: un signe n'a de sens que s'il est partagé.</p>\n\n<p>C'est pourquoi apprendre une langue n'est pas apprendre une liste de mots. On acquiert en même temps des manières de découper le réel, des expressions figées, des usages de politesse, des références partagées&nbsp;— toute une histoire déposée dans une pratique.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Le fil du problème</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Frise du parcours du chapitre : la distinction entre langage, langue et parole et la théorie du signe, puis ce qui est propre au langage humain selon Benveniste, puis le rapport entre langage et pensée, puis les actes de langage et le pouvoir des mots, enfin le rôle du contexte et de la communauté\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"186\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Distinguer</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Langage, langue, parole ; le signe</text>\n    <circle cx=\"26\" cy=\"62\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"59\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Le propre de l'homme</text>\n    <text x=\"44\" y=\"72\" font-size=\"10\" fill=\"currentColor\">Benveniste, la double articulation</text>\n    <circle cx=\"26\" cy=\"104\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"101\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Langage et pensée</text>\n    <text x=\"44\" y=\"114\" font-size=\"10\" fill=\"currentColor\">Vêtement ou formation ?</text>\n    <circle cx=\"26\" cy=\"146\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"143\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Parler, c'est agir</text>\n    <text x=\"44\" y=\"156\" font-size=\"10\" fill=\"currentColor\">Austin, sophistes, pouvoir des mots</text>\n    <circle cx=\"26\" cy=\"184\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"181\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Le sens partagé</text>\n    <text x=\"44\" y=\"194\" font-size=\"10\" fill=\"currentColor\">Contexte, silence, communauté</text>\n  </svg>\n  <figcaption>Le chapitre passe de la structure du signe à ce que parler engage entre les personnes.</figcaption>\n</figure>\n\n<h3>Distinctions à tenir</h3>\n\n<table>\n  <tr><th>Distinction</th><th>Ce qui se joue</th></tr>\n  <tr><td>Langage / langue</td><td>La faculté universelle contre un système particulier</td></tr>\n  <tr><td>Langue / parole</td><td>Le code social contre l'usage individuel</td></tr>\n  <tr><td>Signifiant / signifié</td><td>L'image sonore contre le concept</td></tr>\n  <tr><td>Signe / chose</td><td>Le signe ne contient pas son référent</td></tr>\n  <tr><td>Constatif / performatif</td><td>Décrire un fait, ou accomplir un acte</td></tr>\n  <tr><td>Persuader / convaincre</td><td>Agir sur les sentiments, ou donner des raisons</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition</th></tr>\n  <tr><td>Signe</td><td>Union d'un signifiant et d'un signifié</td></tr>\n  <tr><td>Arbitraire du signe</td><td>Absence de lien naturel entre signifiant et signifié</td></tr>\n  <tr><td>Double articulation</td><td>Sons non signifiants combinés en unités de sens, elles-mêmes combinables</td></tr>\n  <tr><td>Performatif</td><td>Énoncé qui accomplit l'acte qu'il énonce</td></tr>\n  <tr><td>Relativité linguistique</td><td>Thèse selon laquelle la langue oriente la perception du monde</td></tr>\n  <tr><td>Ineffable</td><td>Ce qui résisterait par principe à toute formulation</td></tr>\n  <tr><td>Contexte d'énonciation</td><td>Situation qui détermine le sens d'un énoncé ambigu</td></tr>\n  <tr><td>Langage privé</td><td>Hypothèse impossible&nbsp;: sans usage partagé, pas de critère de correction</td></tr>\n  <tr><td>Sophistique</td><td>Art du discours indifférent à la vérité de ce qu'il soutient</td></tr>\n  <tr><td>Traduction</td><td>Transposition d'un sens, non substitution terme à terme</td></tr>\n</table>\n\n<h3>Les auteurs</h3>\n\n<table>\n  <tr><th>Auteur</th><th>Thèse à retenir</th></tr>\n  <tr><td>Platon</td><td>Les sophistes visent la persuasion, non le vrai</td></tr>\n  <tr><td>Saussure</td><td>Langue et parole&nbsp;; le signe unit signifiant et signifié, arbitrairement</td></tr>\n  <tr><td>Benveniste</td><td>Le langage humain permet le dialogue et l'évocation de l'absent</td></tr>\n  <tr><td>Hegel</td><td>Nous connaissons notre pensée une fois objectivée dans le mot</td></tr>\n  <tr><td>Bergson</td><td>Les mots communs manquent la singularité du vécu</td></tr>\n  <tr><td>Austin</td><td>Certains énoncés accomplissent l'acte qu'ils énoncent</td></tr>\n  <tr><td>Wittgenstein</td><td>Un langage privé est impossible&nbsp;: le sens suppose un usage partagé</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Confondre le <em>langage</em> et une <em>langue</em>. Le langage est la faculté de signifier, universelle&nbsp;; une langue est un système historique et particulier. Sans cette distinction, on croit qu'affirmer le langage propre à l'homme reviendrait à rendre naturelle une langue donnée. Deux autres erreurs&nbsp;: prendre l'arbitraire du signe pour une liberté individuelle — l'usage collectif s'impose au locuteur —, et invoquer l'ineffable sans voir qu'on l'invoque encore avec des mots.\n</div>\n\n<blockquote><p>Le langage n'est donc ni un outil neutre qu'on prendrait après coup, ni une geôle dont les murs seraient nos mots. C'est le lieu où la pensée sort de soi et devient examinable&nbsp;— y compris par celui qui l'a formulée.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Philosophie — L'existence humaine et la culture",
+  "cards": [
+    {
+      "recto": "Piège classique : le langage et la langue désignent-ils la même chose ?",
+      "verso": "Non : le langage est la faculté humaine de signifier, une langue est un système particulier qui réalise cette faculté",
+      "explanation": "C'est la confusion la plus fréquente du chapitre. Le langage est universel, les langues sont multiples et historiques. Dire que le langage est propre à l'homme ne signifie donc pas qu'une langue particulière lui soit naturelle : il apprend celle de son milieu.",
+      "tags": [
+        "piege",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, ce sont deux mots pour la même chose",
+          "Oui, le second est plus savant",
+          "Non, la langue est parlée et le langage écrit"
+        ],
+        "medium": [
+          "Oui, car chaque langue est un langage complet",
+          "Non, le langage désigne un système particulier et la langue la faculté",
+          "Oui, sauf pour les langues étrangères"
+        ],
+        "hard": [
+          "Non, le langage désigne l'usage individuel et la langue le code social",
+          "Oui, car la faculté de signifier se confond avec son système",
+          "Non, le langage est acquis et la langue est innée"
+        ]
+      }
+    },
+    {
+      "recto": "Ne pas confondre : qu'oppose Saussure entre la langue et la parole ?",
+      "verso": "La langue est le système de signes partagé par une communauté, la parole l'usage individuel qu'en fait chaque locuteur",
+      "explanation": "La langue est sociale, contraignante, relativement stable ; la parole est libre, singulière, variable. On ne peut pas inventer seul le sens d'un mot, mais chacun combine à sa guise ce que la langue met à sa disposition.",
+      "tags": [
+        "comparaison",
+        "Saussure"
+      ],
+      "distractors": {
+        "easy": [
+          "La langue est orale, la parole est écrite",
+          "La langue est ancienne, la parole moderne",
+          "La langue est difficile, la parole est facile"
+        ],
+        "medium": [
+          "La parole est le système partagé, la langue l'usage individuel",
+          "La langue concerne le vocabulaire, la parole la grammaire",
+          "La langue est naturelle, la parole est apprise"
+        ],
+        "hard": [
+          "La langue est l'acte de discours, la parole la structure sous-jacente",
+          "La parole est contraignante et la langue est libre",
+          "La langue désigne le sens et la parole le son"
+        ]
+      }
+    },
+    {
+      "recto": "De quels deux éléments un signe linguistique est-il composé selon Saussure ?",
+      "verso": "Un signifiant, l'image acoustique du mot, et un signifié, le concept qu'il évoque",
+      "explanation": "Le signe n'unit pas un mot et une chose, mais une image sonore et un concept. Cette précision est décisive : c'est ce qui permet de parler de ce qui n'existe pas, comme une licorne ou un nombre.",
+      "tags": [
+        "notion",
+        "Saussure"
+      ],
+      "distractors": {
+        "easy": [
+          "Le mot et la chose désignée",
+          "La lettre et le son",
+          "Le sujet et le verbe"
+        ],
+        "medium": [
+          "Le symbole et son interprétation",
+          "Le mot écrit et le mot prononcé",
+          "Le sens propre et le sens figuré"
+        ],
+        "hard": [
+          "L'image acoustique et l'objet réel correspondant",
+          "Le concept et le référent existant",
+          "Le signe et son contexte d'énonciation"
+        ]
+      }
+    },
+    {
+      "recto": "Que signifie l'arbitraire du signe linguistique ?",
+      "verso": "Aucun lien naturel n'unit le signifiant au signifié : le rapport est institué par l'usage d'une communauté",
+      "explanation": "Rien dans les sons du mot arbre ne ressemble à un arbre, ce que confirme la diversité des langues. Arbitraire ne signifie pas facultatif : le locuteur ne peut rien changer seul, car l'usage collectif s'impose à lui.",
+      "tags": [
+        "notion",
+        "Saussure"
+      ],
+      "distractors": {
+        "easy": [
+          "Chacun peut donner aux mots le sens qu'il veut",
+          "Les mots ont été choisis au hasard par un savant",
+          "Le langage n'a aucune règle"
+        ],
+        "medium": [
+          "Le sens des mots change tous les jours",
+          "Les mots imitent les bruits qu'ils désignent",
+          "Chaque mot a plusieurs sens possibles"
+        ],
+        "hard": [
+          "Le rapport entre signifiant et signifié est naturellement motivé",
+          "L'arbitraire autorise chacun à modifier la langue à sa guise",
+          "L'arbitraire implique que toute traduction est impossible"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles différences Benveniste relève-t-il entre la danse des abeilles et le langage humain ?",
+      "verso": "Le message des abeilles est fixe, lié à une situation immédiate et sans réponse possible, alors que le langage humain permet le dialogue et parle de l'absent",
+      "explanation": "L'abeille transmet une information, elle ne converse pas : aucune abeille ne répond à une autre. Le langage humain se caractérise au contraire par la réciprocité des rôles et par la capacité d'évoquer ce qui n'est pas là.",
+      "tags": [
+        "auteur",
+        "Benveniste"
+      ],
+      "distractors": {
+        "easy": [
+          "Les abeilles ne communiquent pas du tout",
+          "Les abeilles parlent mais moins bien",
+          "Le langage humain est plus rapide"
+        ],
+        "medium": [
+          "Les abeilles utilisent des sons et non des gestes",
+          "Le langage humain comporte plus de mots",
+          "Les abeilles ne transmettent que des ordres"
+        ],
+        "hard": [
+          "Le message des abeilles permet le dialogue mais non l'évocation de l'absent",
+          "Le code des abeilles est arbitraire comme le langage humain",
+          "Les abeilles décomposent leur message en unités combinables"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on la double articulation du langage humain ?",
+      "verso": "Un nombre limité de sons sans signification se combine en unités signifiantes, elles-mêmes combinables en phrases indéfiniment nouvelles",
+      "explanation": "C'est ce qui rend le langage économique et infiniment productif : quelques dizaines de sons permettent de dire ce qui n'a jamais été dit. Aucun système de communication animal connu ne possède cette propriété.",
+      "tags": [
+        "notion",
+        "linguistique"
+      ],
+      "distractors": {
+        "easy": [
+          "Le fait de parler deux langues",
+          "L'usage de la voix et des gestes",
+          "La prononciation et l'écriture"
+        ],
+        "medium": [
+          "La distinction entre le sujet et le prédicat",
+          "La combinaison du sens propre et du sens figuré",
+          "L'existence de la parole et de l'écrit"
+        ],
+        "hard": [
+          "La combinaison d'unités signifiantes en sons dépourvus de sens",
+          "Le doublement du signifiant par un second signifié",
+          "La correspondance entre l'ordre des mots et l'ordre des choses"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi soutient-on que le langage ne se contente pas d'exprimer une pensée déjà formée ?",
+      "verso": "Parce que la pensée reste confuse tant qu'elle n'est pas formulée : c'est en cherchant ses mots que l'on précise ce que l'on pense",
+      "explanation": "L'expérience de l'écriture le confirme : on découvre souvent ce que l'on voulait dire en le disant. Hegel va jusqu'à soutenir que nous ne savons vraiment notre pensée que lorsque nous l'avons objectivée dans le mot.",
+      "tags": [
+        "pensée",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les mots sont plus beaux que les idées",
+          "Parce qu'on parle plus vite qu'on ne pense",
+          "Parce que la pensée n'existe pas"
+        ],
+        "medium": [
+          "Parce que la pensée précède toujours entièrement son expression",
+          "Parce que les mots trahissent nécessairement la pensée",
+          "Parce que la pensée est purement visuelle"
+        ],
+        "hard": [
+          "Parce que la pensée formée cherche seulement un vêtement verbal",
+          "Parce que toute pensée est intégralement traduisible sans reste",
+          "Parce que le langage se contente de transmettre un contenu inchangé"
+        ]
+      }
+    },
+    {
+      "recto": "Quel argument oppose-t-on à l'idée que les mots trahiraient la pensée ?",
+      "verso": "Celui qui prétend penser mieux qu'il ne parle emploie encore des mots pour le dire, et confond souvent la confusion de sa pensée avec la richesse d'un indicible",
+      "explanation": "Bergson maintient pourtant qu'une part du vécu, notamment la durée intérieure, résiste au découpage des mots communs. La discussion porte donc sur ce qui reste hors du langage, non sur l'existence d'un lien étroit entre les deux.",
+      "tags": [
+        "argument",
+        "pensée"
+      ],
+      "distractors": {
+        "easy": [
+          "Que les mots sont toujours suffisants",
+          "Que personne n'a jamais rien ressenti d'indicible",
+          "Que la pensée est identique au langage"
+        ],
+        "medium": [
+          "Que le vocabulaire s'enrichit continuellement",
+          "Que les langues étrangères ont plus de mots",
+          "Que seuls les poètes atteignent l'indicible"
+        ],
+        "hard": [
+          "Que l'ineffable prouve l'antériorité complète de la pensée",
+          "Que la durée intérieure se dit parfaitement dans le langage courant",
+          "Que l'indicible se démontre par des arguments non verbaux"
+        ]
+      }
+    },
+    {
+      "recto": "Que soutient l'hypothèse de la relativité linguistique ?",
+      "verso": "Que la langue que l'on parle oriente la manière dont on découpe et perçoit le monde",
+      "explanation": "L'idée est féconde : les catégories grammaticales et lexicales attirent l'attention sur certaines distinctions. Sa version forte est cependant réfutée, puisque les locuteurs peuvent apprendre des distinctions absentes de leur langue et les traduire par périphrase.",
+      "tags": [
+        "hypothèse",
+        "linguistique"
+      ],
+      "distractors": {
+        "easy": [
+          "Que toutes les langues disent exactement la même chose",
+          "Que les langues sont toutes issues d'une seule",
+          "Que la langue n'a aucun effet sur la pensée"
+        ],
+        "medium": [
+          "Que la traduction est toujours parfaite",
+          "Que la grammaire est universelle et identique partout",
+          "Que le vocabulaire détermine l'intelligence"
+        ],
+        "hard": [
+          "Que la langue empêche définitivement de concevoir ce qu'elle ne nomme pas",
+          "Que les catégories grammaticales dérivent de la perception seule",
+          "Que la pensée est indépendante de toute langue particulière"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la traduction est-elle possible malgré la diversité des langues ?",
+      "verso": "Parce que ce que l'on traduit n'est pas un mot terme à terme mais un sens, que l'on peut rendre par d'autres moyens dans la langue d'arrivée",
+      "explanation": "L'intraduisible ponctuel — un jeu de mots, une connotation — n'interdit pas la traduction : il oblige à choisir ce que l'on privilégie. Traduire est un travail d'interprétation, non une substitution mécanique.",
+      "tags": [
+        "traduction",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que toutes les langues ont les mêmes mots",
+          "Parce que les traducteurs sont très savants",
+          "Parce que les langues se ressemblent toutes"
+        ],
+        "medium": [
+          "Parce que chaque mot a un équivalent exact ailleurs",
+          "Parce que la grammaire est identique dans toutes les langues",
+          "Parce qu'on traduit toujours mot à mot"
+        ],
+        "hard": [
+          "Parce que le signifiant est identique d'une langue à l'autre",
+          "Parce que la traduction supprime toute perte de sens",
+          "Parce que le sens est indépendant de toute formulation"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un énoncé performatif selon Austin ?",
+      "verso": "Un énoncé qui accomplit l'acte qu'il énonce au lieu de décrire un fait, comme promettre, baptiser ou déclarer la séance ouverte",
+      "explanation": "Dire je promets, c'est promettre. Ces énoncés ne sont ni vrais ni faux mais réussis ou manqués, selon que les conditions sont réunies : celui qui parle doit en avoir l'autorité et la situation doit s'y prêter.",
+      "tags": [
+        "auteur",
+        "Austin"
+      ],
+      "distractors": {
+        "easy": [
+          "Un énoncé prononcé avec force",
+          "Une phrase bien construite",
+          "Un énoncé de théâtre"
+        ],
+        "medium": [
+          "Un énoncé qui décrit une action en cours",
+          "Une phrase toujours vraie",
+          "Un ordre donné à quelqu'un"
+        ],
+        "hard": [
+          "Un énoncé descriptif dont la vérité dépend du locuteur",
+          "Un énoncé qui rapporte fidèlement un acte accompli",
+          "Une phrase dont la valeur de vérité dépend du contexte"
+        ]
+      }
+    },
+    {
+      "recto": "Que reproche Platon aux sophistes dans leur usage du langage ?",
+      "verso": "De viser la persuasion et la victoire dans le discours plutôt que la recherche du vrai",
+      "explanation": "L'accusation vise une technique du discours indifférente à son contenu : le sophiste peut soutenir une thèse et son contraire avec la même habileté. Cela n'exclut pas que la rhétorique soit légitime lorsqu'elle sert à faire entendre le vrai.",
+      "tags": [
+        "auteur",
+        "Platon"
+      ],
+      "distractors": {
+        "easy": [
+          "De parler trop lentement",
+          "D'écrire au lieu de parler",
+          "De se taire devant les puissants"
+        ],
+        "medium": [
+          "De refuser toute discussion publique",
+          "D'utiliser un vocabulaire trop simple",
+          "De ne s'adresser qu'aux savants"
+        ],
+        "hard": [
+          "De rechercher la vérité au détriment de l'efficacité",
+          "De confondre la démonstration avec l'argumentation rigoureuse",
+          "De renoncer à toute technique du discours"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi persuader et convaincre ne produisent-ils pas le même type d'adhésion ?",
+      "verso": "Persuader agit sur les sentiments et obtient un assentiment que l'auditeur ne peut pas contrôler, convaincre lui soumet des raisons qu'il peut examiner lui-même",
+      "explanation": "La différence n'est pas d'abord morale : elle décrit deux mécanismes. Le second laisse à l'auditeur les moyens de vérifier, donc de refuser à bon droit ; c'est pourquoi une même thèse vraie peut être défendue de façon irrecevable si elle est imposée par la seule émotion.",
+      "tags": [
+        "repère",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Convaincre est plus rapide que persuader",
+          "Persuader s'écrit, convaincre se dit",
+          "Aucune différence réelle entre les deux"
+        ],
+        "medium": [
+          "Persuader s'appuie sur des raisons examinables, convaincre sur les sentiments",
+          "Persuader concerne les foules, convaincre les individus",
+          "Convaincre suppose l'accord préalable de l'interlocuteur"
+        ],
+        "hard": [
+          "Persuader garantit la vérité de ce qui est soutenu",
+          "Convaincre emporte l'adhésion sans laisser de moyen de vérification",
+          "Les deux exigent également que l'auditeur puisse contrôler les raisons"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi le langage peut-il exercer un pouvoir sur ceux à qui il s'adresse ?",
+      "verso": "En imposant des catégories qui orientent la perception, en nommant, en classant et en légitimant certains découpages du réel",
+      "explanation": "Nommer n'est jamais neutre : le choix d'un mot pour désigner un groupe ou un événement engage déjà un jugement. C'est pourquoi les luttes politiques sont souvent d'abord des luttes sur les mots.",
+      "tags": [
+        "pouvoir",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "En parlant plus fort que les autres",
+          "En utilisant des mots compliqués",
+          "En répétant toujours la même chose"
+        ],
+        "medium": [
+          "En s'adressant uniquement aux savants",
+          "En employant une langue étrangère",
+          "En interdisant à autrui de parler"
+        ],
+        "hard": [
+          "En décrivant le réel sans jamais l'interpréter",
+          "En imposant des catégories neutres et sans effet",
+          "En se limitant à transmettre une information brute"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la possibilité de mentir suppose-t-elle le langage ?",
+      "verso": "Parce qu'il faut pouvoir dire ce qui n'est pas, ce que permet seul un signe détaché de la situation présente",
+      "explanation": "Un animal peut feindre, mais il ne peut pas affirmer un état de choses inexistant. C'est la même propriété qui rend possibles la fiction, l'hypothèse et la promesse : le langage n'est pas rivé au présent.",
+      "tags": [
+        "notion",
+        "vérité"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que mentir demande du vocabulaire",
+          "Parce qu'il faut parler fort pour mentir",
+          "Parce que les animaux sont honnêtes"
+        ],
+        "medium": [
+          "Parce que le mensonge exige une bonne mémoire",
+          "Parce que mentir suppose d'écrire",
+          "Parce que le langage sert d'abord à tromper"
+        ],
+        "hard": [
+          "Parce que le signe reste attaché à la situation présente",
+          "Parce que la fiction et le mensonge sont un seul et même acte",
+          "Parce que seule l'écriture permet d'affirmer l'inexistant"
+        ]
+      }
+    },
+    {
+      "recto": "Comment expliquer la richesse d'une conversation malgré le caractère commun des mots employés ?",
+      "verso": "Par le contexte, l'intonation et la situation d'énonciation, qui déterminent le sens précis d'un énoncé toujours ambigu hors situation",
+      "explanation": "La phrase il fait froid ici peut être un constat, un reproche ou une demande de fermer la fenêtre. Le sens n'est donc pas contenu tout entier dans les mots : il se construit dans l'échange.",
+      "tags": [
+        "usage",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Par le nombre de mots employés",
+          "Par la vitesse de la parole",
+          "Par la beauté des phrases"
+        ],
+        "medium": [
+          "Par la richesse du vocabulaire de chacun",
+          "Par la correction grammaticale des phrases",
+          "Par la longueur de la conversation"
+        ],
+        "hard": [
+          "Par le sens littéral, qui suffit à déterminer l'énoncé",
+          "Par l'absence totale d'ambiguïté dans la langue",
+          "Par le seul signifié attaché à chaque signifiant"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi le langage est-il indissociable de la vie en société ?",
+      "verso": "Parce qu'un signe n'a de sens que s'il est partagé : une langue purement privée serait inutilisable même par celui qui l'aurait inventée",
+      "explanation": "Wittgenstein montre qu'un locuteur isolé ne pourrait jamais distinguer l'application correcte d'une règle de ce qu'il croit être correct, faute de critère extérieur. Le sens suppose donc une pratique commune.",
+      "tags": [
+        "société",
+        "Wittgenstein"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'on parle plus quand on est nombreux",
+          "Parce que la solitude rend muet",
+          "Parce que les langues sont enseignées à l'école"
+        ],
+        "medium": [
+          "Parce que la société impose un vocabulaire officiel",
+          "Parce que le langage sert uniquement à donner des ordres",
+          "Parce que les mots sont créés par les académies"
+        ],
+        "hard": [
+          "Parce qu'un locuteur isolé disposerait d'un critère intérieur suffisant",
+          "Parce que le sens privé se vérifie par la mémoire seule",
+          "Parce que la règle s'applique indépendamment de tout usage"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi apprendre une langue n'est-il pas seulement apprendre des mots ?",
+      "verso": "Parce qu'on acquiert en même temps des manières de découper le réel, des usages et des références partagées",
+      "explanation": "Une langue transporte une histoire, des expressions figées, des façons de politesse. C'est pourquoi la maîtrise d'une langue étrangère suppose une familiarité avec les situations où elle se parle, non seulement un lexique.",
+      "tags": [
+        "culture",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'il faut aussi apprendre l'écriture",
+          "Parce que la grammaire est difficile",
+          "Parce que les mots sont trop nombreux"
+        ],
+        "medium": [
+          "Parce qu'il faut connaître la littérature du pays",
+          "Parce que la prononciation demande un long entraînement",
+          "Parce qu'il faut vivre à l'étranger"
+        ],
+        "hard": [
+          "Parce que le lexique suffit à garantir l'usage correct",
+          "Parce que les usages se déduisent des règles grammaticales",
+          "Parce que les découpages du réel sont identiques dans toutes les langues"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi le silence peut-il être signifiant ?",
+      "verso": "Parce qu'il prend son sens à l'intérieur d'un échange : ne pas répondre est une réponse dès lors qu'une parole était attendue",
+      "explanation": "Le silence n'est pas hors du langage mais dans son champ : il signifie par ce qu'il refuse. Cela confirme que la signification tient à la situation d'échange autant qu'aux signes employés.",
+      "tags": [
+        "notion",
+        "usage"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'il fait réfléchir",
+          "Parce qu'il repose les oreilles",
+          "Le silence n'a jamais de sens"
+        ],
+        "medium": [
+          "Parce qu'il exprime toujours l'accord",
+          "Parce qu'il signifie l'absence de pensée",
+          "Parce qu'il remplace les mots manquants"
+        ],
+        "hard": [
+          "Parce qu'il possède un signifié fixe indépendant du contexte",
+          "Parce qu'il se situe entièrement hors du champ du langage",
+          "Parce qu'il équivaut toujours à un refus de communiquer"
+        ]
+      }
+    },
+    {
+      "recto": "Quel bilan peut-on dresser sur le langage ?",
+      "verso": "Il n'est ni un simple outil de transmission ni une prison, mais le milieu dans lequel la pensée se forme, s'expose à autrui et devient contestable",
+      "explanation": "Le réduire à un instrument méconnaît qu'il façonne ce qu'il exprime ; en faire une prison méconnaît que nous pouvons créer des mots, traduire et critiquer nos propres formulations.",
+      "tags": [
+        "synthèse",
+        "bilan"
+      ],
+      "distractors": {
+        "easy": [
+          "C'est un simple outil de communication",
+          "C'est un obstacle à la pensée",
+          "C'est un don naturel sans apprentissage"
+        ],
+        "medium": [
+          "Il traduit fidèlement une pensée déjà complète",
+          "Il détermine entièrement ce que l'on peut penser",
+          "Il se réduit à un système de signes sans usage social"
+        ],
+        "hard": [
+          "Il est un instrument neutre indifférent à ce qu'il exprime",
+          "Il enferme le locuteur dans les découpages de sa langue maternelle",
+          "Il transmet un sens intégralement contenu dans les mots"
+        ]
+      }
+    }
+  ]
+}

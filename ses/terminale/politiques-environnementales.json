@@ -1,0 +1,614 @@
+{
+  "id": "ses-terminale-politiques-environnementales",
+  "title": "Quelle action publique pour l'environnement ?",
+  "emoji": "🌍",
+  "subject": "ses",
+  "country": "fr",
+  "courseDescription": "Spé SES · Terminale — environnement comme bien commun, acteurs et échelles de l'action climatique, réglementation, taxation et marchés de quotas, coopération internationale et justice environnementale.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Quelle action publique pour l'environnement&nbsp;?</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · spécialité SES<br>\n  <b>Thème&nbsp;:</b> Science économique — chapitre 4<br>\n  <b>Chapitre</b> · environ 3 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> Pourquoi faut-il une contrainte collective pour préserver ce dont tout le monde dépend&nbsp;?</p></blockquote>\n\n<p>Personne ne souhaite un climat déréglé, et pourtant chacun a intérêt à ce que l'effort soit fait par les autres. Ce paradoxe n'est pas une faiblesse morale&nbsp;: c'est la conséquence logique du statut de l'environnement, <strong>bien commun</strong> dont nul ne peut être exclu mais que chaque usage dégrade. Le chapitre en tire deux conséquences. D'abord une justification économique de l'intervention publique&nbsp;: le prix de marché est <em>faux</em>. Ensuite un problème politique&nbsp;: les instruments existent, mais leur mise en œuvre suppose une coordination — entre échelles, entre États, entre groupes sociaux — qui est précisément ce qui manque.</p>\n\n<h2>1 · Pourquoi le marché ne suffit pas</h2>\n\n<div class=\"callout\">\n  <strong>Notion · Bien commun</strong><br>\n  Bien dont il est difficile d'exclure les usagers (<em>non-exclusion</em>) mais dont l'usage par l'un réduit ce qui reste disponible pour les autres (<em>rivalité</em>). Un climat stable, une réserve de poissons, une nappe phréatique.\n</div>\n\n<p>Cette combinaison est exactement ce qui conduit à la <strong>surexploitation</strong>&nbsp;: nul ne peut être empêché de prélever, et chaque prélèvement appauvrit les autres.</p>\n\n<p>S'y ajoute le mécanisme des <strong>externalités négatives</strong>&nbsp;: une activité fait subir à des tiers un dommage dont son auteur ne supporte pas le coût. Le prix payé par le consommateur ne reflète alors pas le <em>coût social</em> réel, si bien que l'économie produit <strong>trop</strong> du bien polluant.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Mécanisme de l'externalité négative : le coût privé supporté par le producteur est inférieur au coût social qui inclut le dommage subi par les tiers, si bien que le prix de marché est trop bas et la quantité produite trop élevée ; l'action publique consiste à internaliser cet écart\">\n    <rect x=\"8\" y=\"20\" width=\"130\" height=\"46\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"73\" y=\"40\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">coût privé</text>\n    <text x=\"73\" y=\"56\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">ce que paie le producteur</text>\n    <rect x=\"8\" y=\"80\" width=\"230\" height=\"46\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".25\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"123\" y=\"100\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">coût social</text>\n    <text x=\"123\" y=\"116\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">coût privé + dommage subi par les tiers</text>\n    <line x1=\"140\" y1=\"43\" x2=\"236\" y2=\"43\" stroke=\"var(--accent)\" stroke-opacity=\".55\" stroke-dasharray=\"4 3\"/>\n    <line x1=\"238\" y1=\"26\" x2=\"238\" y2=\"120\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"248\" y=\"46\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">l'écart :</text>\n    <text x=\"248\" y=\"60\" font-size=\"9\" fill=\"currentColor\">l'externalité</text>\n    <text x=\"248\" y=\"80\" font-size=\"9\" fill=\"currentColor\">prix trop bas,</text>\n    <text x=\"248\" y=\"93\" font-size=\"9\" fill=\"currentColor\">quantité trop</text>\n    <text x=\"248\" y=\"106\" font-size=\"9\" fill=\"currentColor\">élevée</text>\n    <line x1=\"8\" y1=\"140\" x2=\"332\" y2=\"140\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"158\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Internaliser l'externalité</text>\n    <text x=\"8\" y=\"171\" font-size=\"9\" fill=\"currentColor\">= faire porter le coût du dommage à celui qui le provoque.</text>\n  </svg>\n  <figcaption>Ce n'est pas une critique morale du marché&nbsp;: c'est un constat technique sur le signal-prix.</figcaption>\n</figure>\n\n<p>Cette <strong>défaillance du marché</strong> fonde la légitimité économique de l'action publique. Et elle explique aussi pourquoi les seuls <em>comportements individuels</em> ne peuvent suffire&nbsp;: chacun a intérêt à ce que les autres fassent l'effort. La contrainte collective ne remplace pas les gestes individuels&nbsp;— elle en est la condition d'efficacité.</p>\n\n<h2>2 · Trois familles d'instruments</h2>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 205\" role=\"img\" aria-label=\"Les trois instruments de la politique environnementale : la réglementation fixe une norme obligatoire, la taxation fixe un prix de la pollution et laisse la quantité s'ajuster, le marché de quotas fixe une quantité totale et laisse le prix s'établir ; taxe et quotas sont deux dispositifs symétriques\">\n    <rect x=\"8\" y=\"14\" width=\"102\" height=\"120\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"59\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">réglementation</text>\n    <text x=\"59\" y=\"58\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">fixe une</text>\n    <text x=\"59\" y=\"70\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">norme</text>\n    <text x=\"59\" y=\"94\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">interdictions,</text>\n    <text x=\"59\" y=\"106\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">seuils, normes</text>\n    <text x=\"59\" y=\"126\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">effort uniforme</text>\n    <rect x=\"118\" y=\"14\" width=\"102\" height=\"120\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"169\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">taxation</text>\n    <text x=\"169\" y=\"58\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">fixe le PRIX</text>\n    <text x=\"169\" y=\"70\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">de la pollution</text>\n    <text x=\"169\" y=\"94\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">la quantité</text>\n    <text x=\"169\" y=\"106\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">s'ajuste</text>\n    <text x=\"169\" y=\"126\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">baisse non garantie</text>\n    <rect x=\"228\" y=\"14\" width=\"104\" height=\"120\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"280\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">marché de quotas</text>\n    <text x=\"280\" y=\"58\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">fixe la QUANTITÉ</text>\n    <text x=\"280\" y=\"70\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">totale émise</text>\n    <text x=\"280\" y=\"94\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">le prix</text>\n    <text x=\"280\" y=\"106\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">s'établit</text>\n    <text x=\"280\" y=\"126\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">prix imprévisible</text>\n    <line x1=\"140\" y1=\"146\" x2=\"308\" y2=\"146\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"224\" y=\"162\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">deux dispositifs symétriques</text>\n    <text x=\"8\" y=\"186\" font-size=\"9\" fill=\"currentColor\">L'un fixe le prix et subit la quantité ; l'autre fixe la quantité et subit le prix.</text>\n    <text x=\"8\" y=\"199\" font-size=\"9\" class=\"s-muted\">C'est le point le plus souvent inversé en copie.</text>\n  </svg>\n  <figcaption>Trois logiques distinctes&nbsp;: une norme, un prix, une quantité.</figcaption>\n</figure>\n\n<h3>La taxation</h3>\n\n<p>La taxe fait payer un montant proportionnel aux émissions&nbsp;: le coût social entre dans le calcul économique du pollueur. Chaque agent réduit ses émissions <em>tant que le coût de la réduction reste inférieur à la taxe évitée</em>, ce qui concentre spontanément l'effort là où il coûte le moins cher. Son inconvénient est symétrique de son avantage&nbsp;: on ne sait pas à l'avance quelle baisse d'émissions on obtiendra.</p>\n\n<h3>Le marché de quotas</h3>\n\n<p>L'autorité fixe un <strong>plafond global</strong>, distribue ou vend les quotas correspondants, et les acteurs les échangent. Une entreprise qui réduit à faible coût vend ses quotas excédentaires à une entreprise pour qui réduire coûterait davantage&nbsp;: l'objectif quantitatif est atteint au moindre coût collectif. En contrepartie, le prix du carbone fluctue, ce qui complique les décisions d'investissement de long terme.</p>\n\n<h3>La réglementation</h3>\n\n<p>Elle garde toute sa place lorsque le risque est <strong>grave ou irréversible</strong> et qu'aucun niveau de pollution n'est acceptable&nbsp;: on n'ouvre pas de marché de quotas pour un poison mortel, on l'interdit. Les instruments économiques ont toutefois un avantage général sur elle&nbsp;: en laissant chaque acteur choisir <em>comment</em> réduire, ils révèlent l'information dispersée sur les coûts et stimulent l'innovation, là où une norme uniforme impose le même effort à tous.</p>\n\n<p>Dans les faits, ces instruments sont <strong>complémentaires</strong> et non concurrents&nbsp;: on interdit les substances les plus dangereuses, on taxe les pollutions diffuses, on plafonne les émissions des grands sites industriels, on subventionne les technologies naissantes. La question n'est pas de choisir un instrument, mais d'en définir le <em>dosage</em>.</p>\n\n<p>Une politique exigeante peut d'ailleurs devenir un atout&nbsp;: en renchérissant la pollution, elle rend rentables des innovations propres qui ne l'étaient pas, et avantage les entreprises qui s'y adaptent tôt. L'objection est le risque de délocalisation vers des pays moins exigeants&nbsp;— autrement dit, un problème de <strong>coordination internationale</strong>.</p>\n\n<h2>3 · Acteurs et échelles</h2>\n\n<p>Les politiques climatiques ne sont pas décidées par un acteur unique. <strong>Pouvoirs publics</strong> (pouvoir de contrainte), <strong>experts scientifiques</strong> (autorité de la connaissance), <strong>entreprises</strong> (poids économique), <strong>ONG et mouvements citoyens</strong> (mobilisation, recours au droit), <strong>partis politiques</strong> (mise à l'agenda) disposent de ressources différentes, et leurs relations sont autant conflictuelles que coopératives.</p>\n\n<p>Deux précisions utiles en dissertation&nbsp;:</p>\n\n<ul>\n  <li>les <strong>experts</strong> ne décident pas&nbsp;: ils produisent un <em>diagnostic partagé</em>, sans lequel aucune négociation entre États aux intérêts divergents ne serait possible&nbsp;;</li>\n  <li>il n'existe pas d'<strong>intérêt patronal unique</strong>&nbsp;: certaines entreprises défendent des activités menacées, d'autres trouvent dans les technologies propres un marché en croissance. Des coalitions se forment donc dans les deux sens.</li>\n</ul>\n\n<p>L'action se déploie enfin à <strong>toutes les échelles</strong>, du local au mondial. Une pollution locale se traite localement&nbsp;; le climat, lui, exige une coordination mondiale, aucun pays ne pouvant agir seul efficacement.</p>\n\n<h2>4 · Coopérer, et à quel prix pour qui&nbsp;?</h2>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 180\" role=\"img\" aria-label=\"Le problème du passager clandestin dans les négociations climatiques : chaque pays bénéficie des réductions consenties par les autres sans en supporter le coût, ce qui rend rationnel de ne rien faire ; s'y ajoutent l'asymétrie entre coûts immédiats et nationaux et bénéfices différés et partagés, et l'absence d'autorité capable de sanctionner\">\n    <rect x=\"8\" y=\"14\" width=\"150\" height=\"60\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"83\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">coûts de la réduction</text>\n    <text x=\"83\" y=\"52\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">immédiats</text>\n    <text x=\"83\" y=\"65\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">et nationaux</text>\n    <rect x=\"182\" y=\"14\" width=\"150\" height=\"60\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"257\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">bénéfices du climat</text>\n    <text x=\"257\" y=\"52\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">différés</text>\n    <text x=\"257\" y=\"65\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">et partagés par tous</text>\n    <text x=\"170\" y=\"96\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">d'où le passager clandestin</text>\n    <rect x=\"40\" y=\"106\" width=\"260\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".25\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"127\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">profiter des efforts des autres sans en payer le prix</text>\n    <text x=\"8\" y=\"160\" font-size=\"9\" fill=\"currentColor\">Aucune autorité supranationale ne peut imposer ni sanctionner :</text>\n    <text x=\"8\" y=\"173\" font-size=\"9\" fill=\"currentColor\">les accords reposent sur des engagements volontaires.</text>\n  </svg>\n  <figcaption>La difficulté n'est pas de savoir quoi faire&nbsp;: c'est de faire tenir un engagement collectif.</figcaption>\n</figure>\n\n<p>Comme le climat est un bien commun mondial, chacun bénéficie des réductions faites ailleurs&nbsp;: il devient rationnel de ne rien faire soi-même. C'est le <strong>passager clandestin</strong>, principale explication de la difficulté à conclure et surtout à <em>faire respecter</em> des accords contraignants.</p>\n\n<p>S'y ajoute la <strong>divergence des intérêts</strong>. Les pays en développement invoquent une <em>responsabilité différenciée</em>&nbsp;: les pays anciennement industrialisés ont émis l'essentiel du <strong>stock accumulé</strong> de gaz à effet de serre et disposent de plus de moyens pour agir. Les pays développés objectent que les <strong>flux actuels</strong> viennent largement des émergents. Cette tension entre responsabilité historique et émissions présentes structure toutes les négociations.</p>\n\n<h3>La justice environnementale</h3>\n\n<p>La même question se pose à l'intérieur des sociétés. Une <strong>taxe environnementale</strong> pèse proportionnellement plus lourd sur les ménages modestes, dont les dépenses d'énergie et de transport sont <em>contraintes</em>&nbsp;: ne pouvant guère modifier leur comportement, ils subissent la taxe sans pouvoir l'éviter — elle devient punitive plutôt qu'incitative. L'acceptabilité dépend donc de deux conditions&nbsp;: l'existence d'<strong>alternatives accessibles</strong>, et des <strong>compensations ciblées</strong>.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Le raisonnement du chapitre</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Frise du raisonnement du chapitre : qualifier l'environnement de bien commun, identifier la défaillance de marché due aux externalités, présenter les trois instruments et leurs logiques, recenser les acteurs et les échelles, puis analyser les obstacles à la coopération et la question de la justice\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"176\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">1. Qualifier le bien</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Non-exclusion et rivalité</text>\n    <circle cx=\"26\" cy=\"60\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"57\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">2. Repérer la défaillance</text>\n    <text x=\"44\" y=\"70\" font-size=\"10\" fill=\"currentColor\">Coût privé inférieur au coût social</text>\n    <circle cx=\"26\" cy=\"100\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"97\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">3. Choisir les instruments</text>\n    <text x=\"44\" y=\"110\" font-size=\"10\" fill=\"currentColor\">Norme, prix, quantité — et leur dosage</text>\n    <circle cx=\"26\" cy=\"140\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"137\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">4. Situer les acteurs</text>\n    <text x=\"44\" y=\"150\" font-size=\"10\" fill=\"currentColor\">Ressources différentes, échelles emboîtées</text>\n    <circle cx=\"26\" cy=\"176\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"173\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">5. Discuter la mise en œuvre</text>\n    <text x=\"44\" y=\"186\" font-size=\"10\" fill=\"currentColor\">Passager clandestin, acceptabilité, justice</text>\n  </svg>\n  <figcaption>Les étapes 1 et 2 sont économiques&nbsp;; les étapes 4 et 5 sont politiques. Le chapitre tient dans ce passage.</figcaption>\n</figure>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition en une ligne</th></tr>\n  <tr><td>Bien commun</td><td>Non excluable mais rival</td></tr>\n  <tr><td>Externalité négative</td><td>Dommage subi par un tiers, non payé par son auteur</td></tr>\n  <tr><td>Défaillance de marché</td><td>Le signal-prix conduit à une allocation inefficace</td></tr>\n  <tr><td>Marché de quotas</td><td>Plafond global d'émissions, quotas échangeables</td></tr>\n  <tr><td>Passager clandestin</td><td>Profiter des efforts des autres sans en payer le coût</td></tr>\n  <tr><td>Justice environnementale</td><td>Répartition équitable des coûts et des bénéfices</td></tr>\n</table>\n\n<h3>Les instruments en un coup d'œil</h3>\n\n<table>\n  <tr><th>Instrument</th><th>Ce qu'il fixe</th><th>Point faible</th></tr>\n  <tr><td>Réglementation</td><td>Une norme obligatoire</td><td>Effort uniforme, coût élevé</td></tr>\n  <tr><td>Taxation</td><td>Le prix de la pollution</td><td>Baisse d'émissions non garantie</td></tr>\n  <tr><td>Marché de quotas</td><td>La quantité totale émise</td><td>Prix volatil, plafond à calibrer</td></tr>\n  <tr><td>Subvention</td><td>Un soutien aux technologies propres</td><td>Coût budgétaire, effets d'aubaine</td></tr>\n  <tr><td>Combinaison</td><td>Un dosage par type de pollution</td><td>Cohérence d'ensemble à assurer</td></tr>\n</table>\n\n<h3>Mécanismes à savoir rédiger</h3>\n\n<table>\n  <tr><th>Enchaînement</th><th>Étapes</th></tr>\n  <tr><td>Surexploitation d'un bien commun</td><td>Non-exclusion → prélèvement libre → rivalité → épuisement</td></tr>\n  <tr><td>Internalisation par la taxe</td><td>Taxe → coût privé rejoint le coût social → moindre production polluante</td></tr>\n  <tr><td>Efficacité du marché de quotas</td><td>Plafond → échange → effort là où il coûte le moins → objectif atteint au moindre coût</td></tr>\n  <tr><td>Contrainte et innovation</td><td>Pollution renchérie → innovation propre rentable → avantage aux premiers adaptés</td></tr>\n  <tr><td>Blocage international</td><td>Bénéfices partagés → intérêt à ne rien faire → accords non contraignants</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Décrire un marché de quotas comme un <strong>droit à polluer</strong>. C'est le <em>plafond global</em> fixé par l'autorité qui détermine la pollution totale&nbsp;; l'échange ne fait que répartir l'effort là où il coûte le moins cher. L'objection confond l'existence d'un prix avec l'absence de contrainte. Les vraies critiques du dispositif sont ailleurs&nbsp;: un plafond mal calibré, ou des quotas distribués trop généreusement. Deux erreurs voisines&nbsp;: intervertir taxe et quotas — l'une fixe le prix, l'autre la quantité&nbsp;; et présenter les instruments comme exclusifs alors qu'ils sont combinés.\n</div>\n\n<blockquote><p>Le climat n'appartient à personne, ce qui le rend indéfendable par chacun. Toute la politique environnementale consiste à fabriquer, par la règle et par le prix, la contrainte que le marché ne produit pas de lui-même.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Spécialité SES — Science économique",
+  "cards": [
+    {
+      "recto": "Pourquoi qualifie-t-on l'environnement de bien commun ?",
+      "verso": "Parce qu'il est difficile d'en exclure les usagers alors que son usage par l'un réduit ce qui reste disponible pour les autres",
+      "explanation": "Cette combinaison de non-exclusion et de rivalité est précisément ce qui conduit à la surexploitation. Un climat stable ou une réserve de poissons illustrent parfaitement ce statut particulier.",
+      "tags": [
+        "bien commun",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'il appartient juridiquement à l'État",
+          "Parce qu'il est gratuit pour tout le monde",
+          "Parce qu'il est partagé entre les entreprises"
+        ],
+        "medium": [
+          "Parce qu'il est à la fois non rival et non excluable",
+          "Parce qu'il est rival et excluable, comme tout bien marchand",
+          "Parce qu'il est produit par les pouvoirs publics"
+        ],
+        "hard": [
+          "Parce qu'il est non excluable et non rival, ce qui empêche toute surexploitation",
+          "Parce qu'il est rival et excluable, ce qui justifie une gestion par le marché",
+          "Parce qu'il est non excluable et rival, statut qui garantit sa préservation spontanée"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on une externalité négative en matière d'environnement ?",
+      "verso": "Un effet nuisible qu'une activité fait subir à des tiers sans que ce coût soit supporté par celui qui le provoque",
+      "explanation": "Le prix de marché ne reflète alors pas le coût réel pour la société, ce qui conduit à produire trop du bien polluant. Corriger cet écart entre coût privé et coût social est l'objectif de toute politique environnementale.",
+      "tags": [
+        "externalité",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Une perte financière subie par une entreprise polluante",
+          "Une amende infligée à un pollueur",
+          "Une dépense de l'État pour l'environnement"
+        ],
+        "medium": [
+          "Un effet bénéfique dont profite un tiers sans le payer",
+          "Un coût de production supporté par l'entreprise elle-même",
+          "Une taxe payée par les consommateurs sur un produit polluant"
+        ],
+        "hard": [
+          "Un effet nuisible subi par des tiers, dont le coût est intégré au prix de marché",
+          "Un effet nuisible subi par des tiers, qui rend le prix de marché supérieur au coût social",
+          "Un effet nuisible subi par des tiers, situation qui ne constitue pas une défaillance du marché"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi les externalités environnementales constituent-elles une défaillance du marché ?",
+      "verso": "Parce que le marché laissé à lui-même conduit à produire trop d'activités polluantes, leur prix ne tenant pas compte du dommage infligé à la collectivité",
+      "explanation": "Ce n'est donc pas une critique morale du marché, mais un constat technique : le signal-prix est faux. C'est cette défaillance qui fonde la légitimité économique d'une intervention publique.",
+      "tags": [
+        "défaillance",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les entreprises polluantes font faillite",
+          "Parce que les consommateurs refusent les produits polluants",
+          "Parce que les prix des produits polluants sont trop élevés"
+        ],
+        "medium": [
+          "Parce que le marché produit trop peu d'activités polluantes",
+          "Parce que les entreprises ignorent l'existence de la pollution",
+          "Parce que la concurrence est insuffisante sur ces marchés"
+        ],
+        "hard": [
+          "Parce que le prix de marché intègre le dommage collectif, ce qui décourage excessivement la production",
+          "Parce que le marché produit trop d'activités polluantes, défaillance qui disparaît avec la concurrence pure et parfaite",
+          "Parce que le signal-prix est faux, ce qui rend toute intervention publique inefficace"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : quelles sont les trois grandes familles d'instruments de la politique climatique et sur quoi agit chacune ?",
+      "verso": "La réglementation fixe une norme à respecter, la taxation donne un prix à la pollution en laissant la quantité s'ajuster, et le marché de quotas fixe une quantité totale en laissant le prix s'établir",
+      "explanation": "Taxe et marché de quotas sont symétriques : l'une fixe le prix et subit la quantité, l'autre fixe la quantité et subit le prix. Ce point est le plus souvent inversé dans les copies.",
+      "tags": [
+        "comparaison",
+        "instruments"
+      ],
+      "distractors": {
+        "easy": [
+          "Les trois instruments agissent exactement de la même manière",
+          "La réglementation, la publicité et l'éducation",
+          "La taxation, la subvention et la nationalisation"
+        ],
+        "medium": [
+          "La réglementation fixe un prix, la taxation une quantité, le marché de quotas une norme",
+          "La réglementation fixe une norme, la taxation fixe une quantité, le marché de quotas fixe un prix",
+          "La réglementation et la taxation fixent des quantités, le marché de quotas une norme technique"
+        ],
+        "hard": [
+          "La réglementation fixe une norme, la taxation donne un prix, le marché de quotas fixe une quantité et un prix garanti",
+          "La réglementation fixe une norme, la taxation donne un prix en fixant aussi la quantité émise",
+          "La réglementation fixe une norme, le marché de quotas donne un prix, la taxation fixe la quantité totale d'émissions"
+        ]
+      }
+    },
+    {
+      "recto": "Comment fonctionne une taxe sur les émissions polluantes ?",
+      "verso": "Elle fait payer au pollueur un montant proportionnel à ses émissions, ce qui intègre le coût social dans son calcul économique et l'incite à réduire sa pollution",
+      "explanation": "Chaque agent réduit ses émissions tant que le coût de la réduction reste inférieur à la taxe évitée, ce qui concentre l'effort là où il est le moins coûteux. Son inconvénient est qu'on ne connaît pas à l'avance la baisse d'émissions obtenue.",
+      "tags": [
+        "taxation",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle interdit purement et simplement de polluer",
+          "Elle rembourse les entreprises qui polluent moins",
+          "Elle finance directement la dépollution par l'État"
+        ],
+        "medium": [
+          "Elle fixe la quantité maximale d'émissions autorisées",
+          "Elle taxe uniformément toutes les entreprises quel que soit leur niveau d'émission",
+          "Elle taxe les consommateurs sans toucher aux producteurs"
+        ],
+        "hard": [
+          "Elle fait payer le pollueur, ce qui permet de connaître à l'avance la baisse d'émissions obtenue",
+          "Elle fait payer le pollueur, chaque agent réduisant ses émissions jusqu'à ce que le coût de réduction dépasse la taxe évitée",
+          "Elle fait payer le pollueur proportionnellement à son chiffre d'affaires, et non à ses émissions"
+        ]
+      }
+    },
+    {
+      "recto": "Comment fonctionne un marché de quotas d'émission ?",
+      "verso": "L'autorité publique fixe un plafond global d'émissions, distribue ou vend des quotas correspondants, et les acteurs peuvent ensuite les échanger entre eux",
+      "explanation": "Une entreprise capable de réduire à faible coût vend ses quotas excédentaires à une entreprise pour qui la réduction coûterait plus cher. L'objectif quantitatif est ainsi atteint au moindre coût pour la collectivité.",
+      "tags": [
+        "quotas",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "L'État vend un droit illimité de polluer",
+          "Les entreprises fixent elles-mêmes leur niveau d'émission",
+          "Les consommateurs achètent des quotas pour leurs achats"
+        ],
+        "medium": [
+          "L'autorité fixe un prix du carbone que les entreprises doivent payer",
+          "L'autorité impose une norme technique identique à toutes les entreprises",
+          "L'autorité distribue des subventions aux entreprises les moins polluantes"
+        ],
+        "hard": [
+          "L'autorité fixe un plafond global, mais les quotas ne peuvent pas être échangés entre acteurs",
+          "L'autorité fixe un plafond global et le prix des quotas, qui reste constant dans le temps",
+          "L'autorité fixe un plafond global, chaque entreprise devant réduire ses émissions de la même proportion"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : un marché de quotas revient-il à autoriser la pollution ?",
+      "verso": "Non : c'est le plafond global fixé par l'autorité publique qui détermine la pollution totale, et l'échange ne fait que répartir l'effort là où il coûte le moins cher",
+      "explanation": "L'objection du droit à polluer confond l'existence d'un prix avec l'absence de contrainte, alors que la contrainte est justement la quantité fixée. Un plafond mal calibré ou des quotas distribués trop généreusement sont en revanche de vraies critiques du dispositif.",
+      "tags": [
+        "piege",
+        "quotas"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, puisque les entreprises achètent le droit de polluer",
+          "Oui, car aucune limite n'est fixée",
+          "Non, car les quotas sont gratuits"
+        ],
+        "medium": [
+          "Oui, mais la pollution reste inférieure à celle qu'entraînerait une taxe",
+          "Non, car chaque entreprise doit réduire ses émissions dans la même proportion",
+          "Oui, l'échange de quotas augmentant nécessairement la pollution totale"
+        ],
+        "hard": [
+          "Non, le plafond global déterminant la pollution totale, ce qui rend le calibrage du plafond sans importance",
+          "Non, mais l'échange concentre l'effort là où il coûte le plus cher",
+          "Non, car le prix des quotas fixe à lui seul le niveau total d'émissions"
+        ]
+      }
+    },
+    {
+      "recto": "Quel avantage la taxation et les marchés de quotas présentent-ils sur la réglementation ?",
+      "verso": "Ils laissent chaque acteur choisir comment réduire ses émissions, ce qui concentre l'effort là où il est le moins coûteux et stimule l'innovation",
+      "explanation": "Une norme uniforme impose le même effort à tous, y compris à ceux pour qui il est très coûteux. Les instruments économiques révèlent au contraire l'information dispersée sur les coûts de réduction.",
+      "tags": [
+        "instruments",
+        "efficacité"
+      ],
+      "distractors": {
+        "easy": [
+          "Ils sont plus faciles à comprendre pour les citoyens",
+          "Ils ne coûtent rien aux entreprises",
+          "Ils suppriment totalement la pollution"
+        ],
+        "medium": [
+          "Ils garantissent une baisse identique des émissions dans chaque entreprise",
+          "Ils permettent à l'État de contrôler directement les techniques employées",
+          "Ils imposent la même contrainte technique à tous les acteurs"
+        ],
+        "hard": [
+          "Ils laissent chaque acteur choisir, ce qui rend l'effort plus coûteux mais mieux réparti",
+          "Ils laissent chaque acteur choisir, avantage qui disparaît lorsque les coûts de réduction diffèrent entre entreprises",
+          "Ils concentrent l'effort là où il est le moins coûteux, ce qui décourage l'innovation en supprimant la contrainte"
+        ]
+      }
+    },
+    {
+      "recto": "Dans quels cas la réglementation reste-t-elle préférable aux instruments économiques ?",
+      "verso": "Lorsque le risque est grave ou irréversible et qu'aucun niveau de pollution n'est acceptable, ou lorsque le contrôle par les prix serait trop complexe à mettre en œuvre",
+      "explanation": "On n'ouvre pas de marché de quotas pour un poison mortel : on l'interdit. L'interdiction de substances toxiques ou les normes de sécurité relèvent de cette logique du seuil absolu.",
+      "tags": [
+        "réglementation",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Lorsque les entreprises sont trop nombreuses",
+          "Lorsque la pollution est faible",
+          "Lorsque l'État manque de moyens financiers"
+        ],
+        "medium": [
+          "Lorsque l'on souhaite laisser les acteurs choisir leurs moyens",
+          "Lorsque les coûts de réduction diffèrent beaucoup entre entreprises",
+          "Lorsque l'on cherche à stimuler l'innovation technologique"
+        ],
+        "hard": [
+          "Lorsque le risque est grave ou irréversible, situation qui justifie plutôt un prix très élevé du carbone",
+          "Lorsque le risque est irréversible, la réglementation étant alors moins coûteuse que la taxe pour la collectivité",
+          "Lorsque le contrôle par les prix serait complexe, cas rare qui ne concerne pas les substances toxiques"
+        ]
+      }
+    },
+    {
+      "recto": "Quel effet une politique environnementale exigeante peut-elle avoir sur l'innovation ?",
+      "verso": "En renchérissant la pollution, elle rend rentables des innovations propres qui ne l'étaient pas, et peut donner un avantage aux entreprises qui s'y adaptent les premières",
+      "explanation": "C'est l'argument selon lequel la contrainte environnementale peut être un stimulant de compétitivité et non seulement un coût. L'objection est le risque de délocalisation vers des pays moins exigeants, si la contrainte n'est pas coordonnée.",
+      "tags": [
+        "innovation",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle empêche toute innovation en pesant sur les profits",
+          "Elle n'a aucun effet sur les choix technologiques",
+          "Elle oblige les entreprises à fermer"
+        ],
+        "medium": [
+          "Elle rend les innovations propres moins rentables en augmentant leur coût",
+          "Elle favorise uniquement les entreprises déjà installées sur le marché",
+          "Elle stimule l'innovation seulement si elle est appliquée mondialement"
+        ],
+        "hard": [
+          "Elle rend rentables des innovations propres, sans qu'aucun risque de délocalisation ne puisse apparaître",
+          "Elle rend rentables des innovations propres, effet limité aux entreprises bénéficiant de subventions publiques",
+          "Elle donne un avantage aux entreprises qui s'adaptent tôt, ce qui suppose que la contrainte soit annoncée sans préavis"
+        ]
+      }
+    },
+    {
+      "recto": "Quels acteurs interviennent dans la construction des politiques climatiques ?",
+      "verso": "Les pouvoirs publics, les entreprises, les organisations non gouvernementales, les mouvements citoyens, les experts scientifiques et les partis politiques",
+      "explanation": "Ces acteurs disposent de ressources différentes : contrainte légale pour l'État, expertise pour les scientifiques, mobilisation pour les associations, poids économique pour les entreprises. Leur interaction, coopérative ou conflictuelle, façonne les décisions effectivement prises.",
+      "tags": [
+        "acteurs",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Uniquement l'État et les entreprises",
+          "Uniquement les organisations internationales",
+          "Uniquement les scientifiques"
+        ],
+        "medium": [
+          "Uniquement les pouvoirs publics, seuls détenteurs du pouvoir de contrainte",
+          "Uniquement les entreprises et les consommateurs, par leurs choix de marché",
+          "Uniquement les organisations non gouvernementales et les mouvements citoyens"
+        ],
+        "hard": [
+          "Les pouvoirs publics, les entreprises et les experts, les mouvements citoyens n'ayant aucune influence documentée",
+          "Une pluralité d'acteurs dont les relations sont exclusivement coopératives",
+          "Une pluralité d'acteurs disposant tous des mêmes ressources d'influence"
+        ]
+      }
+    },
+    {
+      "recto": "Quel rôle jouent les experts scientifiques dans l'action climatique ?",
+      "verso": "Ils établissent et synthétisent les connaissances sur le changement climatique, ce qui fournit une base commune aux négociations et pèse sur la définition des objectifs",
+      "explanation": "Leur influence tient à l'autorité de la connaissance et non à un pouvoir de décision. La production d'un diagnostic partagé est ce qui rend possible une négociation entre États aux intérêts divergents.",
+      "tags": [
+        "acteurs",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Ils décident des politiques à appliquer",
+          "Ils financent les politiques environnementales",
+          "Ils contrôlent le respect des engagements des États"
+        ],
+        "medium": [
+          "Ils fixent les objectifs contraignants que les États doivent respecter",
+          "Ils négocient directement les accords internationaux",
+          "Ils sanctionnent les États qui ne respectent pas leurs engagements"
+        ],
+        "hard": [
+          "Ils établissent les connaissances, ce qui leur confère un pouvoir de décision sur les objectifs",
+          "Ils synthétisent les connaissances, mais leur diagnostic n'a aucune influence sur les négociations",
+          "Ils produisent un diagnostic partagé, qui suffit à faire converger les intérêts des États"
+        ]
+      }
+    },
+    {
+      "recto": "À quelles échelles l'action publique environnementale se déploie-t-elle ?",
+      "verso": "De l'échelle locale à l'échelle mondiale, en passant par les niveaux national et européen, chaque échelle disposant d'instruments propres",
+      "explanation": "Une pollution locale peut être traitée localement, mais le climat exige une coordination mondiale, aucun pays ne pouvant agir seul efficacement. L'articulation entre échelles est une difficulté centrale de la politique climatique.",
+      "tags": [
+        "échelles",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Uniquement à l'échelle nationale",
+          "Uniquement à l'échelle mondiale",
+          "Uniquement à l'échelle locale"
+        ],
+        "medium": [
+          "Aux échelles nationale et mondiale seulement, l'échelon local étant sans pertinence",
+          "À l'échelle européenne uniquement, qui a compétence exclusive en la matière",
+          "À toutes les échelles, qui disposent toutes des mêmes instruments"
+        ],
+        "hard": [
+          "À toutes les échelles, l'échelle locale étant la plus efficace pour le climat",
+          "À toutes les échelles, l'articulation entre elles ne posant aucune difficulté particulière",
+          "À toutes les échelles, mais les instruments économiques relèvent exclusivement du niveau mondial"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on le comportement de passager clandestin dans les négociations climatiques ?",
+      "verso": "L'attitude d'un pays qui profite des efforts de réduction consentis par les autres sans en supporter le coût",
+      "explanation": "Comme le climat est un bien commun mondial, chacun bénéficie des réductions faites ailleurs, ce qui rend rationnel de ne rien faire soi-même. C'est la principale explication de la difficulté à conclure et à faire respecter des accords contraignants.",
+      "tags": [
+        "coopération",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Un pays qui refuse de participer aux conférences internationales",
+          "Un pays qui pollue plus que la moyenne",
+          "Un pays qui exporte ses déchets"
+        ],
+        "medium": [
+          "Un pays qui réduit ses émissions plus vite que les autres",
+          "Un pays qui délocalise ses industries polluantes à l'étranger",
+          "Un pays qui refuse de financer l'adaptation des pays pauvres"
+        ],
+        "hard": [
+          "Un pays qui profite des efforts des autres, comportement irrationnel du point de vue de son intérêt propre",
+          "Un pays qui profite des efforts des autres, situation impossible lorsqu'un accord a été signé",
+          "Un pays qui supporte le coût des réductions sans en tirer aucun bénéfice"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi les négociations climatiques internationales sont-elles difficiles à conclure ?",
+      "verso": "Parce que les intérêts des États divergent selon leur niveau de développement et leur dépendance aux énergies fossiles, et qu'aucune autorité supranationale ne peut imposer ni sanctionner",
+      "explanation": "Les coûts de la réduction sont immédiats et nationaux, tandis que les bénéfices sont différés et partagés par tous. Cette asymétrie temporelle et géographique explique la lenteur du processus autant que les divergences d'intérêts.",
+      "tags": [
+        "coopération",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les scientifiques ne sont pas d'accord entre eux",
+          "Parce que les conférences sont trop rares",
+          "Parce que le changement climatique n'est pas mesurable"
+        ],
+        "medium": [
+          "Parce que tous les pays ont exactement les mêmes intérêts",
+          "Parce que les bénéfices de la réduction sont immédiats et les coûts différés",
+          "Parce qu'une autorité mondiale impose des objectifs jugés trop stricts"
+        ],
+        "hard": [
+          "Parce que les intérêts divergent, alors même qu'une autorité supranationale peut sanctionner les manquements",
+          "Parce que les coûts sont immédiats et partagés, tandis que les bénéfices sont différés et nationaux",
+          "Parce que les intérêts divergent, divergence qui disparaît entre pays de niveau de développement comparable"
+        ]
+      }
+    },
+    {
+      "recto": "Que revendiquent les pays en développement dans les négociations climatiques ?",
+      "verso": "Une responsabilité différenciée, au motif que les pays développés ont émis l'essentiel du stock accumulé de gaz à effet de serre et disposent de plus de moyens pour agir",
+      "explanation": "L'argument distingue le stock accumulé, largement imputable aux pays anciennement industrialisés, et les flux actuels, où les émergents pèsent désormais lourd. Cette tension entre responsabilité historique et émissions présentes structure les négociations.",
+      "tags": [
+        "coopération",
+        "justice"
+      ],
+      "distractors": {
+        "easy": [
+          "L'interdiction totale des énergies fossiles partout",
+          "La suppression de toute contrainte pour tous les pays",
+          "Le droit de polluer sans aucune limite"
+        ],
+        "medium": [
+          "Une réduction identique en pourcentage pour tous les pays",
+          "Le transfert de toutes les industries polluantes vers les pays développés",
+          "La priorité donnée aux flux actuels d'émissions sur le stock accumulé"
+        ],
+        "hard": [
+          "Une responsabilité différenciée, fondée exclusivement sur les émissions actuelles et non sur le stock accumulé",
+          "Une responsabilité différenciée, argument qui ne concerne pas les moyens financiers disponibles",
+          "Une responsabilité commune et identique, le stock accumulé étant réparti également entre tous les pays"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on la justice environnementale ?",
+      "verso": "L'exigence que les coûts et les bénéfices des politiques environnementales soient répartis équitablement, entre groupes sociaux comme entre pays",
+      "explanation": "Une taxe environnementale est mécaniquement plus lourde pour les ménages modestes, dont les dépenses contraintes en énergie et en transport pèsent davantage dans le budget. C'est pourquoi ces taxes sont souvent accompagnées de compensations ciblées.",
+      "tags": [
+        "justice",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Les tribunaux spécialisés dans les affaires d'environnement",
+          "Les amendes infligées aux entreprises polluantes",
+          "Le droit de chacun à un environnement sain"
+        ],
+        "medium": [
+          "L'égalité stricte des efforts demandés à chaque acteur",
+          "La priorité donnée à l'environnement sur toute autre considération",
+          "La répartition équitable des ressources naturelles entre entreprises"
+        ],
+        "hard": [
+          "La répartition équitable des coûts, exigence qui rend toute taxe environnementale nécessairement progressive",
+          "La répartition équitable des coûts entre pays uniquement, la dimension sociale relevant d'une autre politique",
+          "La répartition équitable des coûts, principe qui interdit toute compensation ciblée"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi une taxe environnementale peut-elle être socialement contestée ?",
+      "verso": "Parce qu'elle pèse proportionnellement plus lourd sur les ménages modestes, dont les dépenses d'énergie et de transport sont difficilement compressibles",
+      "explanation": "Le caractère contraint de ces dépenses limite la possibilité de modifier son comportement pour éviter la taxe, qui devient alors punitive plutôt qu'incitative. L'acceptabilité dépend donc largement de l'existence d'alternatives accessibles et de compensations.",
+      "tags": [
+        "justice",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les ménages aisés la paient intégralement",
+          "Parce qu'elle rapporte trop d'argent à l'État",
+          "Parce qu'elle est illégale"
+        ],
+        "medium": [
+          "Parce qu'elle pèse proportionnellement plus sur les ménages aisés",
+          "Parce qu'elle ne modifie jamais les comportements",
+          "Parce qu'elle est plus lourde pour les entreprises que pour les ménages"
+        ],
+        "hard": [
+          "Parce qu'elle pèse plus lourd sur les ménages modestes, dont les dépenses d'énergie sont pourtant facilement compressibles",
+          "Parce qu'elle pèse plus lourd sur les ménages modestes, difficulté qu'aucune compensation ne peut atténuer",
+          "Parce qu'elle est incitative pour les ménages aisés et punitive pour les entreprises"
+        ]
+      }
+    },
+    {
+      "recto": "Comment les mouvements citoyens influencent-ils les politiques environnementales ?",
+      "verso": "En mobilisant l'opinion publique, en portant la question à l'agenda politique et en exerçant une pression sur les décideurs et les entreprises",
+      "explanation": "Leur ressource principale est la capacité à rendre un problème visible et politiquement coûteux à ignorer. Ils agissent aussi par le recours au droit, en engageant des procédures contre les États ou les entreprises.",
+      "tags": [
+        "acteurs",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "En votant les lois environnementales",
+          "En finançant les politiques publiques",
+          "En fixant le montant des taxes"
+        ],
+        "medium": [
+          "En négociant directement les accords internationaux au nom des États",
+          "En appliquant des sanctions aux entreprises polluantes",
+          "En produisant les expertises scientifiques officielles"
+        ],
+        "hard": [
+          "En mobilisant l'opinion, sans jamais pouvoir recourir aux procédures judiciaires",
+          "En portant la question à l'agenda politique, influence qui suppose un pouvoir de décision institutionnel",
+          "En exerçant une pression sur les décideurs, action dont l'efficacité est limitée à l'échelle locale"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi les entreprises peuvent-elles être à la fois obstacle et moteur de la transition écologique ?",
+      "verso": "Certaines défendent des activités menacées par la contrainte environnementale, tandis que d'autres trouvent dans les technologies propres un marché en croissance",
+      "explanation": "Il n'existe donc pas un intérêt patronal unique face au climat, mais des intérêts divergents selon les secteurs. Cette division explique que des coalitions se forment aussi bien pour que contre le durcissement des normes.",
+      "tags": [
+        "acteurs",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que toutes les entreprises s'opposent aux politiques environnementales",
+          "Parce que toutes les entreprises soutiennent la transition",
+          "Parce que les entreprises n'ont aucune influence sur les politiques"
+        ],
+        "medium": [
+          "Parce que les entreprises changent d'avis selon la conjoncture économique",
+          "Parce que les entreprises industrielles s'opposent et les entreprises de services soutiennent",
+          "Parce que les entreprises soutiennent la transition uniquement si elles sont subventionnées"
+        ],
+        "hard": [
+          "Parce que leurs intérêts divergent selon les secteurs, divergence qui n'a jamais donné lieu à des coalitions organisées",
+          "Parce que certaines trouvent un marché dans les technologies propres, situation limitée aux grandes entreprises",
+          "Parce que leurs intérêts divergent selon les secteurs, ce qui rend leur influence globale nulle"
+        ]
+      }
+    },
+    {
+      "recto": "Que signifie l'idée de complémentarité des instruments de politique environnementale ?",
+      "verso": "Les instruments réglementaires, fiscaux, de marché et de subvention ne s'excluent pas et sont le plus souvent combinés pour couvrir des situations différentes",
+      "explanation": "On interdit les substances les plus dangereuses, on taxe les pollutions diffuses, on plafonne les émissions des grands sites industriels et on subventionne les technologies naissantes. La question n'est donc pas de choisir un instrument, mais de définir le bon dosage.",
+      "tags": [
+        "instruments",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Un seul instrument doit être choisi et appliqué partout",
+          "Les instruments se contredisent et ne peuvent coexister",
+          "Les instruments donnent tous exactement les mêmes résultats"
+        ],
+        "medium": [
+          "La réglementation doit toujours précéder les instruments de marché",
+          "Les subventions remplacent avantageusement tous les autres instruments",
+          "Les instruments de marché rendent la réglementation inutile"
+        ],
+        "hard": [
+          "Les instruments se combinent, la question étant de choisir lequel appliquer à l'ensemble de l'économie",
+          "Les instruments se combinent, combinaison qui doit être identique dans tous les secteurs",
+          "Les instruments se combinent, ce qui suppose de renoncer aux objectifs quantitatifs"
+        ]
+      }
+    },
+    {
+      "recto": "Quel est le principal inconvénient d'une taxe par rapport à un marché de quotas ?",
+      "verso": "On ne sait pas à l'avance quelle réduction d'émissions elle produira, puisqu'elle fixe le prix et laisse la quantité s'ajuster",
+      "explanation": "Si l'objectif est chiffré, comme un plafond d'émissions à ne pas dépasser, le marché de quotas garantit son atteinte tandis que la taxe doit être ajustée par tâtonnements. Symétriquement, le marché de quotas laisse le prix fluctuer, ce qui complique les décisions d'investissement.",
+      "tags": [
+        "instruments",
+        "limites"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle coûte plus cher à mettre en place",
+          "Elle est plus difficile à comprendre",
+          "Elle ne rapporte rien à l'État"
+        ],
+        "medium": [
+          "Elle fixe la quantité d'émissions sans permettre au prix de s'ajuster",
+          "Elle impose la même contrainte technique à toutes les entreprises",
+          "Elle ne peut s'appliquer qu'aux grandes entreprises industrielles"
+        ],
+        "hard": [
+          "On ne connaît pas à l'avance la réduction obtenue, incertitude qui affecte aussi le marché de quotas",
+          "On ne connaît pas à l'avance la réduction obtenue, alors que le prix du carbone reste imprévisible",
+          "Elle fixe le prix, ce qui complique davantage les décisions d'investissement qu'un marché de quotas"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi l'action publique environnementale ne peut-elle reposer sur les seuls comportements individuels ?",
+      "verso": "Parce que l'environnement est un bien commun : chacun a intérêt à ce que les autres fassent l'effort, si bien que les gestes volontaires ne suffisent pas à atteindre un objectif collectif",
+      "explanation": "C'est la version individuelle du problème du passager clandestin qui bloque les négociations entre États. La contrainte collective ne remplace pas les comportements individuels, mais elle en est la condition d'efficacité.",
+      "tags": [
+        "bien commun",
+        "raisonnement"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les individus ne se soucient pas de l'environnement",
+          "Parce que les gestes individuels n'ont aucun effet mesurable",
+          "Parce que seuls les États peuvent polluer"
+        ],
+        "medium": [
+          "Parce que les comportements individuels sont interdits par la loi",
+          "Parce que les individus ne disposent d'aucune information sur la pollution",
+          "Parce que les gestes individuels suffiraient si tous les citoyens étaient informés"
+        ],
+        "hard": [
+          "Parce que l'environnement est un bien commun, statut qui rend pourtant les comportements individuels suffisants",
+          "Parce que chacun a intérêt à ce que les autres agissent, problème distinct de celui du passager clandestin",
+          "Parce que la contrainte collective rend inutiles les comportements individuels"
+        ]
+      }
+    }
+  ]
+}

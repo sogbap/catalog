@@ -1,0 +1,640 @@
+{
+  "id": "mathematiques-terminale-limites-fonctions",
+  "title": "Limites de fonctions et continuité",
+  "emoji": "📉",
+  "subject": "mathematics",
+  "country": "fr",
+  "courseDescription": "Spé Maths · Terminale — limites en l'infini et en un point, asymptotes, continuité, théorème des valeurs intermédiaires et dichotomie.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Limites de fonctions et continuité</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · spécialité Mathématiques<br>\n  <b>Thème&nbsp;:</b> Analyse — fonctions<br>\n  <b>Chapitre</b> · environ 4 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> Que devient une courbe loin de l'origine, ou près d'un point où la fonction n'est pas définie&nbsp;?</p></blockquote>\n\n<p>Deux questions distinctes se cachent sous le mot «&nbsp;limite&nbsp;». Loin de l'origine, on demande vers quoi tend la courbe&nbsp;: c'est la question des <strong>asymptotes</strong>. Près d'un point critique, on demande ce qui se passe là où la formule échoue&nbsp;: c'est la question du <strong>comportement local</strong>. La <strong>continuité</strong> réunit ensuite les deux registres en une seule exigence — que la limite coïncide avec la valeur — et débouche sur le théorème le plus utile du programme, celui des valeurs intermédiaires.</p>\n\n<h2>1 · Limites en l'infini et asymptotes horizontales</h2>\n\n<p>La fonction <em>f</em> a pour <strong>limite le réel L en +∞</strong> lorsque tout intervalle ouvert contenant L contient toutes les valeurs f(x) dès que x est assez grand. La structure est identique à celle des suites&nbsp;: un voisinage aussi petit qu'on veut, et une condition à partir d'un certain point.</p>\n\n<p>Géométriquement, la courbe admet la droite d'équation <strong>y = L</strong> pour <strong>asymptote horizontale</strong>.</p>\n\n<div class=\"callout\">\n  <strong>Une asymptote n'est pas une barrière</strong><br>\n  La courbe peut parfaitement <em>couper</em> son asymptote, y compris une infinité de fois. La fonction sin(x)/x tend vers 0 en +∞ tout en traversant l'axe des abscisses sans fin. L'asymptote décrit un comportement à l'infini, pas une position relative fixe.\n</div>\n\n<h2>2 · Limites infinies et asymptotes verticales</h2>\n\n<p>Lorsque f tend vers +∞ (ou −∞) quand x tend vers a, la courbe admet la droite d'équation <strong>x = a</strong> pour <strong>asymptote verticale</strong>.</p>\n\n<p>Cette situation apparaît typiquement quand le dénominateur d'un quotient s'annule en a sans que le numérateur s'annule. Il faut alors <strong>étudier séparément la limite à gauche et à droite</strong>&nbsp;: si le dénominateur change de signe en s'annulant, on obtient +∞ d'un côté et −∞ de l'autre. Une étude de signe du dénominateur devient indispensable.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Schéma des deux types d'asymptote : à gauche, une asymptote horizontale d'équation y égale L que la courbe approche à l'infini en pouvant la couper ; à droite, une asymptote verticale d'équation x égale a près de laquelle la courbe part vers plus l'infini d'un côté et moins l'infini de l'autre\">\n    <text x=\"8\" y=\"14\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Asymptote horizontale</text>\n    <line x1=\"14\" y1=\"60\" x2=\"160\" y2=\"60\" stroke=\"var(--accent)\" stroke-opacity=\".45\" stroke-dasharray=\"4 4\"/>\n    <text x=\"164\" y=\"63\" font-size=\"8\" class=\"s-muted\">y = L</text>\n    <path d=\"M16,32 C50,88 80,42 110,66 C130,56 145,62 158,60\" stroke=\"var(--accent)\" stroke-width=\"2\" fill=\"none\"/>\n    <text x=\"8\" y=\"88\" font-size=\"9\" class=\"s-muted\">la courbe peut couper l'asymptote</text>\n    <text x=\"192\" y=\"14\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Asymptote verticale</text>\n    <line x1=\"262\" y1=\"24\" x2=\"262\" y2=\"96\" stroke=\"var(--accent)\" stroke-opacity=\".45\" stroke-dasharray=\"4 4\"/>\n    <text x=\"266\" y=\"106\" font-size=\"8\" class=\"s-muted\">x = a</text>\n    <path d=\"M200,90 C238,88 254,76 258,26\" stroke=\"var(--accent)\" stroke-width=\"2\" fill=\"none\"/>\n    <path d=\"M266,94 C270,44 286,32 324,30\" stroke=\"var(--accent)\" stroke-width=\"2\" fill=\"none\"/>\n    <text x=\"192\" y=\"122\" font-size=\"9\" class=\"s-muted\">limites à gauche et à droite distinctes</text>\n    <line x1=\"8\" y1=\"136\" x2=\"332\" y2=\"136\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"170\" y=\"158\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">limite finie en l'infini → horizontale</text>\n    <text x=\"170\" y=\"170\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">limite infinie en un réel → verticale</text>\n  </svg>\n  <figcaption>Deux questions différentes&nbsp;: où va la courbe très loin, et que fait-elle près d'un point interdit.</figcaption>\n</figure>\n\n<h2>3 · Opérations, indéterminations, croissances comparées</h2>\n\n<p>Les théorèmes d'opération valent comme pour les suites, avec les mêmes <strong>quatre formes indéterminées</strong>&nbsp;: ∞ − ∞, 0 × ∞, ∞/∞, 0/0.</p>\n\n<h3>Les trois techniques de levée</h3>\n\n<ul>\n  <li><strong>Factoriser par le terme dominant</strong>&nbsp;: pour les polynômes et les quotients de polynômes.</li>\n  <li><strong>Multiplier par la quantité conjuguée</strong>&nbsp;: dès qu'une racine carrée intervient dans une différence. L'identité remarquable simplifie le numérateur et transforme la différence en quotient.</li>\n  <li><strong>Invoquer une croissance comparée</strong>&nbsp;: quand exponentielle et puissance se rencontrent.</li>\n</ul>\n\n<h3>Croissances comparées</h3>\n\n<p>Le quotient e<sup>x</sup>/x<sup>n</sup> tend vers <strong>+∞</strong> en +∞, pour tout entier naturel n. L'exponentielle l'emporte donc sur n'importe quelle puissance, si grande soit-elle. Symétriquement, x<sup>n</sup>e<sup>x</sup> tend vers 0 en −∞.</p>\n\n<p>Ces résultats lèvent directement les indéterminations où ces deux fonctions se disputent, sans factorisation.</p>\n\n<h3>Composées et encadrement</h3>\n\n<p>Pour une <strong>composée</strong>, on procède en deux temps clairement séparés&nbsp;: limite de la fonction intérieure, puis limite de la fonction extérieure au point ainsi obtenu.</p>\n\n<p>Le <strong>théorème des gendarmes</strong> s'énonce comme pour les suites&nbsp;: si f est encadrée par g et h au voisinage de a, et si g et h ont la <em>même</em> limite L, alors f tend vers L. Son usage typique concerne les expressions contenant un sinus ou un cosinus, encadrés par −1 et 1.</p>\n\n<h2>4 · La continuité</h2>\n\n<p><em>f</em> est <strong>continue en a</strong> lorsque trois conditions sont réunies&nbsp;: f est définie en a, la limite de f en a existe, et cette limite <strong>vaut f(a)</strong>.</p>\n\n<div class=\"callout\">\n  <strong>Limite et valeur ne sont pas la même chose</strong><br>\n  La fonction (x² − 1)/(x − 1) n'est <em>pas définie</em> en 1, et pourtant sa limite y vaut 2. On peut aussi construire une fonction définie en a dont la valeur diffère de la limite. Dire que les deux coïncident, c'est précisément <em>définir</em> la continuité&nbsp;— une propriété supplémentaire, jamais une évidence.\n</div>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Trois situations en un point a : à gauche une fonction continue où la limite égale la valeur, au centre une fonction non définie en a mais admettant une limite donc prolongeable par continuité, à droite une fonction définie en a dont la valeur diffère de la limite\">\n    <text x=\"170\" y=\"14\" text-anchor=\"middle\" font-size=\"10\" class=\"s-muted\">Trois situations au point a</text>\n    <rect x=\"6\" y=\"24\" width=\"102\" height=\"100\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <path d=\"M18,104 C40,74 66,60 96,50\" stroke=\"var(--accent)\" stroke-width=\"2\" fill=\"none\"/>\n    <circle cx=\"57\" cy=\"76\" r=\"4\" fill=\"var(--accent)\"/>\n    <text x=\"57\" y=\"140\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">continue</text>\n    <text x=\"57\" y=\"154\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">limite = valeur</text>\n    <rect x=\"119\" y=\"24\" width=\"102\" height=\"100\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <path d=\"M131,104 C153,74 179,60 209,50\" stroke=\"var(--accent)\" stroke-width=\"2\" fill=\"none\"/>\n    <circle cx=\"170\" cy=\"76\" r=\"4\" fill=\"none\" stroke=\"var(--accent)\" stroke-width=\"1.6\"/>\n    <text x=\"170\" y=\"140\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">non définie</text>\n    <text x=\"170\" y=\"154\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">prolongeable</text>\n    <rect x=\"232\" y=\"24\" width=\"102\" height=\"100\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <path d=\"M244,104 C266,74 292,60 322,50\" stroke=\"var(--accent)\" stroke-width=\"2\" fill=\"none\"/>\n    <circle cx=\"283\" cy=\"76\" r=\"4\" fill=\"none\" stroke=\"var(--accent)\" stroke-width=\"1.6\"/>\n    <circle cx=\"283\" cy=\"40\" r=\"4\" fill=\"var(--accent)\"/>\n    <text x=\"283\" y=\"140\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">définie ailleurs</text>\n    <text x=\"283\" y=\"154\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">valeur ≠ limite</text>\n  </svg>\n  <figcaption>Seul le premier cas est la continuité. Le deuxième se répare par prolongement&nbsp;; le troisième non.</figcaption>\n</figure>\n\n<p><strong>Fonctions continues de référence</strong>&nbsp;: polynômes, rationnelles, racine carrée, valeur absolue, exponentielle, logarithme, sinus et cosinus — ainsi que leurs sommes, produits, quotients et composées, sur tout intervalle où elles sont définies. Autant dire que la continuité est presque toujours acquise&nbsp;; les cas intéressants sont les fonctions <em>définies par morceaux</em>, où il faut vérifier le raccord.</p>\n\n<p><strong>Le contre-exemple de référence</strong> est la fonction <em>partie entière</em>&nbsp;: définie partout, elle saute en chaque entier n, où la limite à gauche vaut n − 1 alors que la valeur et la limite à droite valent n.</p>\n\n<h3>Continuité et dérivabilité</h3>\n\n<p>Toute fonction <strong>dérivable</strong> en un point y est <strong>continue</strong>. La réciproque est fausse&nbsp;: la valeur absolue est continue en 0 sans y être dérivable, la courbe présentant un point anguleux.</p>\n\n<h3>Continuité et suites</h3>\n\n<p>Si u converge vers L et si f est continue en L, alors f(u(n)) converge vers f(L). C'est ce résultat — et lui seul — qui autorise, dans l'étude d'une suite u(n+1) = f(u(n)), à passer à la limite pour obtenir l'équation L = f(L).</p>\n\n<h2>5 · Le théorème des valeurs intermédiaires</h2>\n\n<p><strong>Théorème.</strong> Si f est continue sur [a&nbsp;; b], alors pour tout réel k compris entre f(a) et f(b), l'équation f(x) = k admet <strong>au moins une</strong> solution dans [a&nbsp;; b].</p>\n\n<p><strong>Corollaire (avec stricte monotonie).</strong> Si de plus f est strictement monotone sur [a&nbsp;; b], cette solution est <strong>unique</strong>.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Comparaison entre le théorème des valeurs intermédiaires et son corollaire : à gauche une fonction continue non monotone coupe la droite horizontale d'ordonnée k en trois points, à droite une fonction continue strictement croissante la coupe en un seul point\">\n    <text x=\"8\" y=\"14\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Continue seulement</text>\n    <line x1=\"14\" y1=\"62\" x2=\"156\" y2=\"62\" stroke=\"var(--accent)\" stroke-opacity=\".45\" stroke-dasharray=\"4 4\"/>\n    <text x=\"160\" y=\"65\" font-size=\"8\" class=\"s-muted\">k</text>\n    <path d=\"M18,96 C42,20 62,98 88,34 C110,88 130,44 152,54\" stroke=\"var(--accent)\" stroke-width=\"2\" fill=\"none\"/>\n    <circle cx=\"35\" cy=\"62\" r=\"3.5\" fill=\"var(--accent)\"/>\n    <circle cx=\"74\" cy=\"62\" r=\"3.5\" fill=\"var(--accent)\"/>\n    <circle cx=\"119\" cy=\"62\" r=\"3.5\" fill=\"var(--accent)\"/>\n    <text x=\"8\" y=\"120\" font-size=\"9\" class=\"s-muted\">au moins une solution — ici trois</text>\n    <text x=\"192\" y=\"14\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">+ strictement monotone</text>\n    <line x1=\"196\" y1=\"62\" x2=\"330\" y2=\"62\" stroke=\"var(--accent)\" stroke-opacity=\".45\" stroke-dasharray=\"4 4\"/>\n    <path d=\"M200,100 C240,90 268,44 326,26\" stroke=\"var(--accent)\" stroke-width=\"2\" fill=\"none\"/>\n    <circle cx=\"264\" cy=\"62\" r=\"3.5\" fill=\"var(--accent)\"/>\n    <text x=\"192\" y=\"120\" font-size=\"9\" class=\"s-muted\">exactement une solution</text>\n    <line x1=\"8\" y1=\"134\" x2=\"332\" y2=\"134\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"170\" y=\"156\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">la continuité donne l'existence</text>\n    <text x=\"170\" y=\"168\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">la stricte monotonie donne l'unicité</text>\n  </svg>\n  <figcaption>Deux hypothèses, deux conclusions différentes&nbsp;: il faut annoncer laquelle des deux versions on applique.</figcaption>\n</figure>\n\n<h3>Rédaction attendue</h3>\n\n<p>Pour montrer qu'une équation admet <em>exactement une</em> solution, quatre étapes doivent apparaître&nbsp;:</p>\n\n<ul>\n  <li>la <strong>continuité</strong> de f sur l'intervalle&nbsp;;</li>\n  <li>la <strong>stricte monotonie</strong>, justifiée par le signe strictement constant de la dérivée&nbsp;;</li>\n  <li>le fait que k est <strong>compris entre les images des bornes</strong>&nbsp;;</li>\n  <li>la <strong>conclusion</strong> par le corollaire.</li>\n</ul>\n\n<p>Un tableau de variations complet présente les trois premières d'un seul coup.</p>\n\n<h3>La dichotomie</h3>\n\n<p>Pour approcher la solution, on coupe l'intervalle en deux et on conserve la moitié aux bornes de laquelle f <strong>change de signe</strong>, en répétant jusqu'à la précision voulue.</p>\n\n<p>Chaque étape divise l'amplitude par 2&nbsp;: après n étapes, elle vaut l'amplitude initiale divisée par 2<sup>n</sup>. Pour passer d'une amplitude 1 à moins d'un millième, il faut donc <strong>10 étapes</strong>, puisque 2<sup>10</sup> = 1024.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>La démarche</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Frise méthodique du calcul de limite : identifier le point d'étude, reconnaître une limite usuelle, appliquer les opérations, lever l'indétermination par la technique adaptée à la forme, puis interpréter le résultat en termes d'asymptote\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"186\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">1. Situer</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">En l'infini, ou en un réel ?</text>\n    <circle cx=\"26\" cy=\"62\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"59\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">2. Reconnaître</text>\n    <text x=\"44\" y=\"72\" font-size=\"10\" fill=\"currentColor\">Limite usuelle ou opérations</text>\n    <circle cx=\"26\" cy=\"104\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"101\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">3. Lever</text>\n    <text x=\"44\" y=\"114\" font-size=\"10\" fill=\"currentColor\">Factoriser, conjuguer, comparer</text>\n    <circle cx=\"26\" cy=\"146\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"143\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">4. Séparer</text>\n    <text x=\"44\" y=\"156\" font-size=\"10\" fill=\"currentColor\">Gauche et droite si besoin</text>\n    <circle cx=\"26\" cy=\"184\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"181\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">5. Interpréter</text>\n    <text x=\"44\" y=\"194\" font-size=\"10\" fill=\"currentColor\">Asymptote horizontale ou verticale</text>\n  </svg>\n  <figcaption>La forme de l'expression désigne la technique&nbsp;: une racine appelle la conjuguée, une exponentielle appelle la croissance comparée.</figcaption>\n</figure>\n\n<h3>Limites de référence</h3>\n\n<table>\n  <tr><th>Fonction</th><th>En −∞</th><th>En +∞</th></tr>\n  <tr><td>e<sup>x</sup></td><td>0</td><td>+∞</td></tr>\n  <tr><td>1/x</td><td>0</td><td>0</td></tr>\n  <tr><td>√x</td><td>—</td><td>+∞</td></tr>\n  <tr><td>e<sup>x</sup>/x<sup>n</sup></td><td>—</td><td>+∞</td></tr>\n  <tr><td>x<sup>n</sup>e<sup>x</sup></td><td>0</td><td>+∞</td></tr>\n</table>\n\n<h3>Théorèmes clés</h3>\n\n<table>\n  <tr><th>Théorème</th><th>Hypothèses</th><th>Conclusion</th></tr>\n  <tr><td>Gendarmes</td><td>g ≤ f ≤ h, g et h → L</td><td>f → L</td></tr>\n  <tr><td>Valeurs intermédiaires</td><td>f continue sur [a&nbsp;; b]</td><td>Au moins une solution</td></tr>\n  <tr><td>Corollaire</td><td>+ strictement monotone</td><td>Solution unique</td></tr>\n  <tr><td>Dérivabilité</td><td>f dérivable en a</td><td>f continue en a (réciproque fausse)</td></tr>\n  <tr><td>Suites et continuité</td><td>u → L, f continue en L</td><td>f(u(n)) → f(L)</td></tr>\n</table>\n\n<h3>Notions à distinguer</h3>\n\n<table>\n  <tr><th>Distinction</th><th>Ce qui se joue</th></tr>\n  <tr><td>Limite en a / valeur en a</td><td>Leur égalité <em>est</em> la continuité</td></tr>\n  <tr><td>TVI / son corollaire</td><td>Existence contre existence et unicité</td></tr>\n  <tr><td>Continue / dérivable</td><td>Dérivable implique continue, pas l'inverse</td></tr>\n  <tr><td>Limite à gauche / à droite</td><td>Leur différence interdit une limite globale</td></tr>\n  <tr><td>Asymptote / barrière</td><td>La courbe peut la couper</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Croire qu'une fonction admettant une limite L en a prend nécessairement la valeur L en a. La limite décrit le comportement <em>au voisinage</em> de a, sans rien dire de la valeur en a — qui peut différer, ou ne pas exister du tout. Trois erreurs voisines&nbsp;: appliquer le corollaire du TVI sans justifier la stricte monotonie&nbsp;; oublier de séparer limite à gauche et limite à droite quand le dénominateur change de signe&nbsp;; et croire qu'une courbe ne peut pas couper son asymptote.\n</div>\n\n<blockquote><p>La continuité paraît naturelle parce que la plupart de nos fonctions la vérifient. C'est justement pour cela qu'il faut la démontrer&nbsp;: le théorème des valeurs intermédiaires n'a de force que parce qu'il repose sur une hypothèse qui, ailleurs, tombe en défaut.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Spécialité Mathématiques — Analyse",
+  "cards": [
+    {
+      "recto": "Que signifie « la fonction f a pour limite le réel L en plus l'infini » ?",
+      "verso": "Tout intervalle ouvert contenant L contient toutes les valeurs f(x) dès que x est assez grand",
+      "explanation": "La structure est la même que pour les suites : un voisinage aussi petit qu'on veut, et une condition à partir d'un certain point. La différence est que la variable parcourt les réels et non les entiers.",
+      "tags": [
+        "limite",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "f atteint la valeur L",
+          "f se rapproche parfois de L",
+          "f est croissante et majorée par L"
+        ],
+        "medium": [
+          "f est égale à L pour x assez grand",
+          "La distance entre f(x) et L diminue continûment",
+          "f prend des valeurs proches de L en certains points"
+        ],
+        "hard": [
+          "Il existe un intervalle contenant L qui contient toutes les valeurs de f",
+          "Tout intervalle contenant L contient une infinité de valeurs f(x)",
+          "f est bornée au voisinage de plus l'infini"
+        ]
+      }
+    },
+    {
+      "recto": "Que traduit géométriquement une limite finie L de f en plus l'infini ?",
+      "verso": "La courbe admet la droite d'équation y = L comme asymptote horizontale en plus l'infini",
+      "explanation": "La courbe se rapproche indéfiniment de cette droite sans nécessairement la rejoindre — mais elle peut aussi la couper, y compris une infinité de fois. Une asymptote n'est pas une barrière.",
+      "tags": [
+        "asymptote",
+        "graphique"
+      ],
+      "distractors": {
+        "easy": [
+          "La courbe s'arrête au point d'ordonnée L",
+          "La courbe coupe l'axe des abscisses en L",
+          "La courbe devient une droite"
+        ],
+        "medium": [
+          "La courbe admet une asymptote verticale d'équation x = L",
+          "La courbe est au-dessus de la droite y = L",
+          "La courbe touche la droite y = L sans jamais la couper"
+        ],
+        "hard": [
+          "La courbe admet une asymptote oblique de coefficient L",
+          "La droite y = L est tangente à la courbe en l'infini",
+          "La courbe reste strictement d'un même côté de la droite y = L"
+        ]
+      }
+    },
+    {
+      "recto": "Que traduit géométriquement le fait que f tende vers plus l'infini quand x tend vers a ?",
+      "verso": "La courbe admet la droite d'équation x = a comme asymptote verticale",
+      "explanation": "Cette situation apparaît typiquement quand le dénominateur d'un quotient s'annule en a sans que le numérateur s'annule. Il faut alors étudier séparément la limite à gauche et à droite, qui peuvent différer en signe.",
+      "tags": [
+        "asymptote",
+        "graphique"
+      ],
+      "distractors": {
+        "easy": [
+          "La courbe passe par le point d'abscisse a",
+          "La courbe est croissante en a",
+          "La fonction est continue en a"
+        ],
+        "medium": [
+          "La courbe admet une asymptote horizontale d'équation y = a",
+          "La courbe coupe l'axe des ordonnées en a",
+          "La courbe admet une tangente verticale en a"
+        ],
+        "hard": [
+          "La droite x = a est tangente à la courbe au point d'abscisse a",
+          "La courbe admet une asymptote oblique passant par a",
+          "La fonction est prolongeable par continuité en a"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : une fonction qui admet une limite L en a prend-elle nécessairement la valeur L en a ?",
+      "verso": "Non : la limite décrit le comportement au voisinage de a sans tenir compte de la valeur en a, qui peut être différente ou même ne pas exister",
+      "explanation": "C'est le contresens central du chapitre. La fonction définie par f(x) = (x² - 1) sur (x - 1) n'est pas définie en 1 et pourtant sa limite y vaut 2. On peut aussi construire une fonction définie en a avec une valeur qui ne coïncide pas avec la limite. Dire que limite et valeur coïncident, c'est précisément définir la continuité — ce qui est une propriété supplémentaire, non une évidence.",
+      "tags": [
+        "piege",
+        "continuité"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, toujours",
+          "Oui, si f est définie en a",
+          "Non, la limite n'existe jamais en un point"
+        ],
+        "medium": [
+          "Oui, dès que f est définie sur un intervalle contenant a",
+          "Oui, sauf si f est une fonction rationnelle",
+          "Non, la valeur en a est toujours différente de la limite"
+        ],
+        "hard": [
+          "Oui, car la limite se calcule en remplaçant x par a",
+          "Oui, à condition que f admette une limite finie",
+          "Non, car la continuité est une conséquence automatique de l'existence de la limite"
+        ]
+      }
+    },
+    {
+      "recto": "Que signifie « f est continue en a » ?",
+      "verso": "f est définie en a et la limite de f en a existe et vaut f(a)",
+      "explanation": "Trois conditions sont donc requises : l'existence de f(a), l'existence de la limite, et leur égalité. C'est exactement ce qui permet, pour une fonction continue, de calculer une limite en remplaçant x par a.",
+      "tags": [
+        "continuité",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "La courbe se trace sans lever le crayon en a",
+          "f est dérivable en a",
+          "f est croissante autour de a"
+        ],
+        "medium": [
+          "f admet une limite finie en a",
+          "f est définie en a",
+          "f admet la même limite à gauche et à droite en a"
+        ],
+        "hard": [
+          "La limite de f en a existe, sans condition sur f(a)",
+          "f est définie en a et bornée au voisinage de a",
+          "f admet une tangente au point d'abscisse a"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles familles de fonctions sont continues sur tout intervalle où elles sont définies ?",
+      "verso": "Les fonctions polynômes, rationnelles, racine carrée, valeur absolue, exponentielle, logarithme, sinus et cosinus, ainsi que leurs sommes, produits, quotients et composées",
+      "explanation": "Cette liste couvre l'essentiel des fonctions rencontrées, ce qui rend la continuité presque toujours acquise. Les cas intéressants sont les fonctions définies par morceaux, où il faut vérifier le raccord aux points de jonction.",
+      "tags": [
+        "continuité",
+        "référence"
+      ],
+      "distractors": {
+        "easy": [
+          "Seules les fonctions affines",
+          "Seules les fonctions croissantes",
+          "Toutes les fonctions sans exception"
+        ],
+        "medium": [
+          "Toutes les fonctions définies par une formule",
+          "Les polynômes uniquement",
+          "Toutes les fonctions dérivables, à l'exclusion des autres"
+        ],
+        "hard": [
+          "Les fonctions usuelles et la fonction partie entière",
+          "Toutes les fonctions monotones sur un intervalle",
+          "Les fonctions bornées sur leur ensemble de définition"
+        ]
+      }
+    },
+    {
+      "recto": "La fonction partie entière est-elle continue sur l'ensemble des réels ?",
+      "verso": "Non : elle présente un saut en chaque entier, où la limite à gauche et la limite à droite diffèrent",
+      "explanation": "En un entier n, la limite à gauche vaut n - 1 alors que la valeur et la limite à droite valent n. C'est l'exemple de référence d'une fonction définie partout mais discontinue en une infinité de points.",
+      "tags": [
+        "continuité",
+        "contre-exemple"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, elle est continue partout",
+          "Oui, car elle est définie partout",
+          "Non, elle n'est définie que sur les entiers"
+        ],
+        "medium": [
+          "Oui, car elle est croissante",
+          "Non, elle est discontinue en un seul point",
+          "Oui, sauf en zéro"
+        ],
+        "hard": [
+          "Non, car elle n'admet aucune limite en un entier",
+          "Oui, car elle est constante par morceaux",
+          "Non, car la limite à gauche en n vaut n et la valeur vaut n - 1"
+        ]
+      }
+    },
+    {
+      "recto": "Quel lien existe entre continuité et dérivabilité ?",
+      "verso": "Toute fonction dérivable en un point y est continue, mais la réciproque est fausse",
+      "explanation": "La fonction valeur absolue est le contre-exemple standard : elle est continue en zéro mais n'y est pas dérivable, la courbe présentant un point anguleux. Il faut donc retenir l'implication dans un seul sens.",
+      "tags": [
+        "continuité",
+        "dérivabilité"
+      ],
+      "distractors": {
+        "easy": [
+          "Ce sont deux mots pour la même propriété",
+          "Toute fonction continue est dérivable",
+          "Il n'y a aucun lien entre les deux"
+        ],
+        "medium": [
+          "Toute fonction continue en un point y est dérivable",
+          "La dérivabilité et la continuité sont équivalentes sur un intervalle",
+          "Une fonction dérivable peut être discontinue"
+        ],
+        "hard": [
+          "Toute fonction continue sur un intervalle y est dérivable sauf en un nombre fini de points",
+          "La dérivabilité entraîne la continuité et réciproquement pour les fonctions monotones",
+          "La valeur absolue est dérivable en zéro mais non continue"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'énonce le théorème des valeurs intermédiaires ?",
+      "verso": "Si f est continue sur un intervalle [a ; b], alors pour tout réel k compris entre f(a) et f(b), l'équation f(x) = k admet au moins une solution dans [a ; b]",
+      "explanation": "Le théorème donne l'existence, pas l'unicité : il peut y avoir plusieurs solutions si la fonction n'est pas monotone. La continuité est essentielle, comme le montre la fonction partie entière qui saute des valeurs.",
+      "tags": [
+        "TVI",
+        "théorème"
+      ],
+      "distractors": {
+        "easy": [
+          "Toute fonction continue est croissante",
+          "Toute équation admet une solution",
+          "Une fonction continue atteint son maximum"
+        ],
+        "medium": [
+          "L'équation f(x) = k admet exactement une solution",
+          "Toute fonction définie sur [a ; b] prend toutes les valeurs intermédiaires",
+          "Le théorème s'applique à toute fonction monotone"
+        ],
+        "hard": [
+          "L'équation admet au moins une solution même si f est discontinue",
+          "L'existence d'une solution entraîne son unicité",
+          "Le théorème garantit une solution pour tout réel k"
+        ]
+      }
+    },
+    {
+      "recto": "Ne pas confondre : que garantit le théorème des valeurs intermédiaires et que garantit son corollaire avec la stricte monotonie ?",
+      "verso": "Le théorème seul garantit l'existence d'au moins une solution, tandis que le corollaire, ajoutant la stricte monotonie, garantit l'existence et l'unicité",
+      "explanation": "L'hypothèse supplémentaire est décisive dans les exercices : une équation peut avoir trois solutions sur un intervalle où la fonction est continue mais non monotone. Pour rédiger correctement, il faut donc annoncer laquelle des deux versions on applique, et justifier la monotonie par le signe de la dérivée.",
+      "tags": [
+        "comparaison",
+        "TVI"
+      ],
+      "distractors": {
+        "easy": [
+          "Le théorème garantit l'unicité, le corollaire l'existence",
+          "Ce sont deux formulations équivalentes",
+          "Le corollaire s'applique aux fonctions discontinues"
+        ],
+        "medium": [
+          "Le théorème garantit l'unicité et le corollaire le nombre exact de solutions",
+          "Le corollaire supprime l'hypothèse de continuité",
+          "Le théorème s'applique aux fonctions monotones uniquement"
+        ],
+        "hard": [
+          "Le corollaire garantit l'existence sans donner l'unicité",
+          "La stricte monotonie remplace l'hypothèse de continuité",
+          "Le théorème donne le nombre exact de solutions dans tous les cas"
+        ]
+      }
+    },
+    {
+      "recto": "Comment justifie-t-on la stricte monotonie d'une fonction pour appliquer le corollaire du théorème des valeurs intermédiaires ?",
+      "verso": "En montrant que la dérivée garde un signe strictement constant sur l'intervalle considéré",
+      "explanation": "Un tableau de variations complet est la rédaction attendue : il affiche la continuité, la monotonie et les valeurs aux bornes. Il suffit ensuite de vérifier que le réel cherché est bien compris entre ces valeurs.",
+      "tags": [
+        "TVI",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En traçant la courbe à la calculatrice",
+          "En calculant quelques images",
+          "En vérifiant que la fonction est continue"
+        ],
+        "medium": [
+          "En montrant que la dérivée s'annule une seule fois",
+          "En vérifiant que la fonction est positive",
+          "En montrant que la dérivée est de signe constant au sens large"
+        ],
+        "hard": [
+          "En établissant que la dérivée seconde garde un signe constant",
+          "En vérifiant que la fonction est bornée sur l'intervalle",
+          "En montrant que la fonction est continue et non constante"
+        ]
+      }
+    },
+    {
+      "recto": "Sur quel principe repose la méthode de dichotomie ?",
+      "verso": "On coupe l'intervalle en deux et on conserve la moitié aux bornes de laquelle la fonction change de signe, en répétant jusqu'à obtenir la précision voulue",
+      "explanation": "Chaque étape divise l'amplitude par deux, ce qui garantit une convergence rapide et prévisible. La méthode suppose la continuité et un changement de signe aux bornes de départ, sans quoi rien n'assure la présence d'une solution.",
+      "tags": [
+        "dichotomie",
+        "algorithmique"
+      ],
+      "distractors": {
+        "easy": [
+          "On teste toutes les valeurs une par une",
+          "On trace la courbe et on lit la solution",
+          "On calcule la moyenne des bornes"
+        ],
+        "medium": [
+          "On divise l'intervalle en dix parties égales",
+          "On conserve la moitié où la fonction est positive",
+          "On répète jusqu'à obtenir une valeur exacte"
+        ],
+        "hard": [
+          "On conserve la moitié où la fonction garde un signe constant",
+          "On applique la méthode sans hypothèse de continuité",
+          "On divise l'intervalle jusqu'à ce que la dérivée s'annule"
+        ]
+      }
+    },
+    {
+      "recto": "Combien d'étapes de dichotomie faut-il pour ramener un intervalle d'amplitude 1 à une amplitude inférieure à un millième ?",
+      "verso": "Dix étapes, car deux puissance dix vaut 1024, ce qui dépasse mille",
+      "explanation": "L'amplitude après n étapes vaut l'amplitude initiale divisée par deux puissance n. On résout donc une inéquation en cherchant le plus petit entier n tel que la puissance de deux dépasse le seuil voulu.",
+      "tags": [
+        "dichotomie",
+        "calcul"
+      ],
+      "distractors": {
+        "easy": [
+          "Mille étapes",
+          "Trois étapes",
+          "Cent étapes"
+        ],
+        "medium": [
+          "Neuf étapes",
+          "Douze étapes",
+          "Cinq étapes"
+        ],
+        "hard": [
+          "Onze étapes, car il faut une marge de sécurité",
+          "Dix étapes, car dix au carré vaut cent",
+          "Huit étapes, car deux puissance huit vaut 256"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle propriété relie une suite convergente et une fonction continue ?",
+      "verso": "Si la suite u converge vers L et si f est continue en L, alors la suite des images f(u(n)) converge vers f(L)",
+      "explanation": "Ce résultat justifie l'étape finale de l'étude des suites définies par récurrence : c'est lui qui permet de passer à la limite dans la relation u(n+1) = f(u(n)) et d'obtenir l'équation L = f(L).",
+      "tags": [
+        "continuité",
+        "suites"
+      ],
+      "distractors": {
+        "easy": [
+          "Toute suite d'images converge",
+          "La limite des images vaut toujours zéro",
+          "Il n'y a aucun lien entre les deux notions"
+        ],
+        "medium": [
+          "Si f est croissante, la suite des images converge",
+          "La suite des images converge vers L",
+          "La continuité de f sur tout l'intervalle est nécessaire"
+        ],
+        "hard": [
+          "Si f est continue en L, la suite u converge nécessairement",
+          "La suite des images converge vers f(L) même si f est discontinue en L",
+          "La convergence des images entraîne celle de u"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la limite de la fonction exponentielle en moins l'infini ?",
+      "verso": "Zéro, et la courbe admet l'axe des abscisses pour asymptote horizontale",
+      "explanation": "En plus l'infini, la limite vaut au contraire plus l'infini. Ces deux limites, avec la stricte positivité de l'exponentielle, suffisent à tracer l'allure de la courbe.",
+      "tags": [
+        "limites usuelles",
+        "exponentielle"
+      ],
+      "distractors": {
+        "easy": [
+          "Moins l'infini",
+          "Plus l'infini",
+          "Un"
+        ],
+        "medium": [
+          "Une valeur strictement négative",
+          "La fonction n'a pas de limite",
+          "La limite dépend de la base choisie"
+        ],
+        "hard": [
+          "Zéro, avec une asymptote verticale",
+          "Zéro seulement par valeurs négatives",
+          "Une limite finie non nulle"
+        ]
+      }
+    },
+    {
+      "recto": "Que dit le théorème de croissance comparée entre l'exponentielle et les puissances ?",
+      "verso": "Le quotient de l'exponentielle de x par x puissance n tend vers plus l'infini quand x tend vers plus l'infini, pour tout entier naturel n",
+      "explanation": "L'exponentielle l'emporte donc sur n'importe quelle puissance, si grande soit-elle. Ce résultat lève les indéterminations de type infini sur infini où interviennent ces deux fonctions, sans qu'il soit besoin de factoriser.",
+      "tags": [
+        "croissances comparées",
+        "théorème"
+      ],
+      "distractors": {
+        "easy": [
+          "Les deux fonctions ont la même limite",
+          "Le quotient tend vers zéro",
+          "Le quotient tend vers un"
+        ],
+        "medium": [
+          "Le quotient tend vers plus l'infini seulement pour n inférieur à 3",
+          "Les puissances l'emportent sur l'exponentielle",
+          "Le quotient tend vers n"
+        ],
+        "hard": [
+          "Le quotient tend vers plus l'infini uniquement si n est pair",
+          "Le résultat vaut aussi en moins l'infini avec la même conclusion",
+          "Le quotient admet une limite finie dépendant de n"
+        ]
+      }
+    },
+    {
+      "recto": "Comment lever une indétermination du type infini moins infini pour une fonction ?",
+      "verso": "En factorisant par le terme dominant, ou en multipliant par la quantité conjuguée lorsqu'une racine carrée intervient",
+      "explanation": "La quantité conjuguée transforme une différence en quotient dont le numérateur se simplifie grâce à l'identité remarquable. C'est la technique de référence pour les expressions contenant une racine.",
+      "tags": [
+        "indétermination",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En remplaçant x par une grande valeur",
+          "En dérivant l'expression",
+          "En traçant la courbe"
+        ],
+        "medium": [
+          "En appliquant directement le théorème des gendarmes",
+          "En séparant les deux limites et en les soustrayant",
+          "En simplifiant par le terme de plus bas degré"
+        ],
+        "hard": [
+          "En multipliant par la quantité conjuguée pour toute forme indéterminée",
+          "En factorisant par le terme dominant du seul numérateur",
+          "En appliquant la croissance comparée sans vérifier les fonctions en jeu"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'énonce le théorème des gendarmes pour les fonctions ?",
+      "verso": "Si f est encadrée par g et h au voisinage de a, et si g et h ont la même limite L en a, alors f a pour limite L en a",
+      "explanation": "L'usage typique concerne les fonctions contenant un sinus ou un cosinus, que l'on encadre par -1 et 1 avant de multiplier par une fonction tendant vers zéro. L'égalité des deux limites encadrantes reste indispensable.",
+      "tags": [
+        "gendarmes",
+        "théorème"
+      ],
+      "distractors": {
+        "easy": [
+          "Toute fonction encadrée admet une limite",
+          "Une fonction bornée admet toujours une limite",
+          "L'encadrement donne la moyenne des deux limites"
+        ],
+        "medium": [
+          "Si f est inférieure à g et si g admet une limite, f admet la même",
+          "L'encadrement doit être valable sur tout l'ensemble de définition",
+          "Les deux fonctions encadrantes peuvent avoir des limites différentes"
+        ],
+        "hard": [
+          "Le théorème conclut à la continuité de f en a",
+          "L'encadrement au voisinage de a suffit sans hypothèse sur g et h",
+          "Le théorème s'applique aussi avec des limites infinies distinctes"
+        ]
+      }
+    },
+    {
+      "recto": "Comment détermine-t-on la limite d'une fonction composée ?",
+      "verso": "On calcule la limite de la fonction intérieure, puis la limite de la fonction extérieure au point ainsi obtenu",
+      "explanation": "Le raisonnement s'écrit en deux temps clairement séparés, en précisant vers quoi tend chaque étage. C'est la seule manière d'éviter les erreurs sur des expressions comme l'exponentielle d'un quotient.",
+      "tags": [
+        "composée",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "On multiplie les deux limites",
+          "On additionne les deux limites",
+          "On prend la plus grande des deux"
+        ],
+        "medium": [
+          "On calcule d'abord la limite de la fonction extérieure",
+          "On compose les deux limites dans n'importe quel ordre",
+          "On dérive la composée"
+        ],
+        "hard": [
+          "On applique la formule de dérivation des fonctions composées",
+          "On calcule la limite de la fonction intérieure au point d'arrivée",
+          "On sépare la composée en somme de deux limites"
+        ]
+      }
+    },
+    {
+      "recto": "Une fonction peut-elle admettre une limite en un point sans y être définie ?",
+      "verso": "Oui, et l'on peut alors la prolonger par continuité en lui attribuant cette limite comme valeur en ce point",
+      "explanation": "Le prolongement par continuité est une nouvelle fonction, égale à l'ancienne partout ailleurs. C'est la situation des quotients dont numérateur et dénominateur s'annulent simultanément, après simplification.",
+      "tags": [
+        "prolongement",
+        "continuité"
+      ],
+      "distractors": {
+        "easy": [
+          "Non, il faut être défini pour avoir une limite",
+          "Oui, mais la limite est alors toujours nulle",
+          "Non, la limite serait alors infinie"
+        ],
+        "medium": [
+          "Oui, mais on ne peut rien en faire",
+          "Non, sauf pour les fonctions rationnelles",
+          "Oui, et la fonction devient automatiquement dérivable"
+        ],
+        "hard": [
+          "Oui, et le prolongement conserve la même fonction initiale",
+          "Non, car l'existence de la limite suppose celle de l'image",
+          "Oui, mais le prolongement n'est pas continu au point ajouté"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi faut-il parfois distinguer limite à gauche et limite à droite en un point ?",
+      "verso": "Parce que les deux peuvent différer, auquel cas la fonction n'admet pas de limite en ce point",
+      "explanation": "C'est systématique pour les quotients dont le dénominateur change de signe en s'annulant : la limite vaut plus l'infini d'un côté et moins l'infini de l'autre. Une étude de signe du dénominateur est alors indispensable.",
+      "tags": [
+        "limite",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que le calcul est plus rapide",
+          "Parce que la fonction n'est définie que d'un côté",
+          "Parce que la courbe est symétrique"
+        ],
+        "medium": [
+          "Parce que la limite à gauche est toujours la plus petite",
+          "Parce que la fonction est dérivable d'un seul côté",
+          "Parce que la limite à droite détermine la continuité"
+        ],
+        "hard": [
+          "Parce que l'égalité des deux limites est automatique pour les fonctions définies partout",
+          "Parce que la limite globale est la moyenne des deux limites latérales",
+          "Parce que seule la limite à droite intervient dans la continuité"
+        ]
+      }
+    },
+    {
+      "recto": "Une courbe peut-elle couper son asymptote horizontale ?",
+      "verso": "Oui, et même une infinité de fois : l'asymptote décrit le comportement à l'infini, pas une position relative fixe",
+      "explanation": "La fonction définie par le quotient du sinus de x par x en fournit l'exemple : elle oscille en coupant l'axe des abscisses tout en tendant vers zéro. Confondre asymptote et barrière infranchissable est une erreur fréquente.",
+      "tags": [
+        "asymptote",
+        "erreur"
+      ],
+      "distractors": {
+        "easy": [
+          "Non, jamais",
+          "Non, sauf une seule fois",
+          "Oui, mais seulement au point de départ"
+        ],
+        "medium": [
+          "Non, car la courbe reste d'un même côté",
+          "Oui, mais alors ce n'est plus une asymptote",
+          "Non, car l'asymptote est une tangente à l'infini"
+        ],
+        "hard": [
+          "Non, car la définition impose une position relative constante",
+          "Oui, mais uniquement pour les fonctions non continues",
+          "Non, car couper l'asymptote contredirait l'existence de la limite"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle démarche suivre pour montrer qu'une équation admet exactement une solution sur un intervalle ?",
+      "verso": "Étudier la continuité, établir la stricte monotonie par le signe de la dérivée, vérifier que la valeur cherchée est comprise entre les images des bornes, puis conclure par le corollaire du théorème des valeurs intermédiaires",
+      "explanation": "Les quatre étapes doivent apparaître dans la rédaction, sans quoi la conclusion n'est pas justifiée. Un tableau de variations complet permet de les présenter d'un seul coup.",
+      "tags": [
+        "méthode",
+        "TVI"
+      ],
+      "distractors": {
+        "easy": [
+          "Tracer la courbe et compter les intersections",
+          "Calculer les images de quelques points",
+          "Résoudre l'équation exactement"
+        ],
+        "medium": [
+          "Vérifier seulement la continuité et le changement de signe",
+          "Appliquer le théorème des valeurs intermédiaires sans étudier la monotonie",
+          "Montrer que la dérivée s'annule une seule fois"
+        ],
+        "hard": [
+          "Établir la monotonie puis appliquer le théorème sans vérifier la continuité",
+          "Vérifier que la dérivée est de signe constant au sens large",
+          "Conclure à l'unicité par le seul théorème des valeurs intermédiaires"
+        ]
+      }
+    },
+    {
+      "recto": "Quel bilan méthodique retenir pour le calcul d'une limite de fonction ?",
+      "verso": "Reconnaître une limite usuelle, appliquer les opérations, et en cas d'indétermination factoriser, utiliser la quantité conjuguée, invoquer une croissance comparée ou encadrer",
+      "explanation": "Le choix de la technique se lit dans la forme de l'expression : une racine appelle la conjuguée, un mélange exponentielle et polynôme appelle la croissance comparée, une fonction trigonométrique appelle un encadrement.",
+      "tags": [
+        "synthèse",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Toujours remplacer x par une grande valeur",
+          "Toujours appliquer le théorème des gendarmes",
+          "Toujours dériver la fonction"
+        ],
+        "medium": [
+          "Commencer systématiquement par la quantité conjuguée",
+          "Factoriser dans tous les cas, y compris sans indétermination",
+          "Utiliser la croissance comparée pour toute forme indéterminée"
+        ],
+        "hard": [
+          "Traiter toute forme indéterminée comme une absence de limite",
+          "Appliquer les opérations sans vérifier l'absence d'indétermination",
+          "Encadrer avant d'avoir identifié la forme de l'expression"
+        ]
+      }
+    }
+  ]
+}

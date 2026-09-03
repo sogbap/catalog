@@ -1,0 +1,536 @@
+{
+  "id": "philosophie-terminale-conscience",
+  "title": "La conscience",
+  "emoji": "🪞",
+  "subject": "philosophy",
+  "country": "fr",
+  "courseDescription": "Philosophie · Terminale — la conscience comme savoir de soi : le cogito, l'illusion de transparence, la conscience morale, autrui et la conscience de soi.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>La conscience</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale (voie générale et technologique)<br>\n  <b>Thème&nbsp;:</b> Philosophie — L'existence humaine et la culture<br>\n  <b>Notion</b> · environ 4 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> La conscience me donne-t-elle accès à moi-même&nbsp;?</p></blockquote>\n\n<p>Rien ne semble plus assuré que la conscience&nbsp;: je sais ce que je pense, ce que je veux, ce que je ressens. C'est même la seule chose que je paraisse connaître de l'intérieur. De cette évidence, la philosophie moderne a tiré un fondement — le sujet pensant devient le point de départ de toute certitude. Mais la même évidence se retourne aussitôt en problème. Car si la conscience me livre <strong>ce que j'éprouve</strong>, rien ne garantit qu'elle me livre <strong>pourquoi</strong> je l'éprouve. Un accès n'est pas un miroir. Il faut donc examiner à la fois ce que la conscience fonde — le sujet, la personne, la responsabilité — et ce qu'elle manque&nbsp;: ses causes, son histoire, sa dépendance à l'égard du temps et d'autrui.</p>\n\n<h2>1 · Ce que veut dire «&nbsp;être conscient&nbsp;»</h2>\n\n<p>Le mot vient du latin <em>cum scientia</em>&nbsp;: un savoir <strong>accompagné</strong>. Percevoir un arbre, ce n'est pas seulement enregistrer une image&nbsp;: c'est en même temps savoir qu'on la perçoit. La conscience n'est donc pas un contenu de plus dans l'esprit, mais un <strong>redoublement du savoir sur lui-même</strong>.</p>\n\n<p>On distingue deux degrés de ce redoublement.</p>\n\n<ul>\n  <li>La <strong>conscience immédiate</strong> accompagne spontanément l'expérience&nbsp;: je marche, je vois, j'ai froid, et ce vécu m'est présent sans que j'aie à y revenir.</li>\n  <li>La <strong>conscience réfléchie</strong> prend cette expérience elle-même pour objet&nbsp;: je m'aperçois que je suis en train de voir, je m'interroge sur ce que je ressens.</li>\n</ul>\n\n<p>C'est ce second degré qui rend possible tout le reste&nbsp;: le doute, l'examen de soi, le jugement moral. Un être qui vivrait sans jamais revenir sur ce qu'il vit aurait des états, non une intériorité.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Sujet</strong><br>\n  Est sujet l'être qui peut dire «&nbsp;je&nbsp;», c'est-à-dire rapporter ses états à un même centre et en répondre. Le sujet n'est pas une chose observable&nbsp;: c'est ce à quoi les expériences sont rapportées.\n</div>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Schéma des deux degrés de la conscience : en bas l'expérience vécue, au-dessus la conscience immédiate qui l'accompagne, au-dessus encore la conscience réfléchie qui prend cette conscience pour objet, avec une flèche de retour vers le bas figurant le retour sur soi\">\n    <defs>\n      <marker id=\"ar-phco1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n    <rect x=\"40\" y=\"140\" width=\"230\" height=\"40\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"155\" y=\"165\" text-anchor=\"middle\" font-size=\"12\" fill=\"currentColor\">Expérience vécue (je vois, j'ai froid)</text>\n    <path d=\"M155,140 L155,118\" stroke=\"var(--accent)\" stroke-width=\"1.6\" fill=\"none\" marker-end=\"url(#ar-phco1)\"/>\n    <rect x=\"40\" y=\"75\" width=\"230\" height=\"40\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"155\" y=\"100\" text-anchor=\"middle\" font-size=\"12\" fill=\"currentColor\">Conscience immédiate</text>\n    <path d=\"M155,75 L155,53\" stroke=\"var(--accent)\" stroke-width=\"1.6\" fill=\"none\" marker-end=\"url(#ar-phco1)\"/>\n    <rect x=\"40\" y=\"10\" width=\"230\" height=\"40\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"155\" y=\"35\" text-anchor=\"middle\" font-size=\"12\" fill=\"currentColor\">Conscience réfléchie</text>\n    <path d=\"M275,30 L300,30 L300,160 L275,160\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" stroke-opacity=\".7\" marker-end=\"url(#ar-phco1)\"/>\n    <text x=\"308\" y=\"98\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\" transform=\"rotate(90 308 98)\">retour sur soi</text>\n    <text x=\"30\" y=\"98\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\" transform=\"rotate(-90 30 98)\">degrés</text>\n  </svg>\n  <figcaption>La conscience réfléchie ne s'ajoute pas au vécu&nbsp;: elle le prend pour objet.</figcaption>\n</figure>\n\n<h2>2 · La conscience comme fondement&nbsp;: Descartes</h2>\n\n<p>Descartes cherche un point fixe pour la connaissance. Sa méthode est le <strong>doute</strong>&nbsp;: rejeter provisoirement comme faux tout ce dont on peut douter. Les sens trompent parfois — donc toujours peut-être. Les raisonnements comportent des erreurs. Le rêve imite si bien la veille qu'aucun signe ne les distingue avec certitude. Un <em>malin génie</em> pourrait même me tromper sur les vérités les plus simples.</p>\n\n<p>Mais ce doute se heurte à une limite&nbsp;: <strong>je ne peux pas douter que je doute</strong>. Douter, c'est penser&nbsp;; et pour penser, il faut être. La certitude se confirme dans sa contestation même. C'est le <strong>cogito</strong>&nbsp;: je pense, donc je suis.</p>\n\n<p>Il faut mesurer exactement ce qui est acquis. Le cogito n'établit pas que le monde extérieur existe, ni que j'ai un corps&nbsp;: il établit seulement que, aussi longtemps que je pense, j'existe comme <strong>chose pensante</strong>. Le sujet devient le premier principe, avant même les objets qu'il connaît.</p>\n\n<h3>L'analyse du morceau de cire</h3>\n\n<p>Descartes prolonge cette découverte. Un morceau de cire tiré de la ruche a une couleur, une odeur, une forme, une dureté. Approché du feu, il perd tout cela&nbsp;: il coule, s'échauffe, change d'apparence. Aucune de ses qualités sensibles n'a subsisté — et pourtant <strong>je juge que c'est la même cire</strong>.</p>\n\n<p>Ce jugement ne peut donc venir des sens, puisque tout ce que les sens donnaient a disparu. Il vient de l'<strong>entendement</strong>. Conclusion décisive&nbsp;: même la connaissance des corps passe par l'esprit, et l'esprit se connaît d'autant mieux qu'il connaît autre chose.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Cogito</strong><br>\n  Certitude première selon laquelle, du seul fait que je pense, il est impossible que je n'existe pas. Elle fonde le sujet, non le monde.\n</div>\n\n<h2>3 · Ce que la conscience de soi rend possible</h2>\n\n<p>Kant tire de cette unité une conséquence morale majeure&nbsp;: le pouvoir de dire «&nbsp;je&nbsp;» élève l'homme au-dessus de tous les autres êtres vivants, parce qu'il lui permet de se poser comme <strong>une seule et même personne</strong> à travers tous les changements qu'il subit. Un être qui ne peut pas se dire identique dans le temps ne peut rien se voir imputer.</p>\n\n<p>De là découlent deux notions liées.</p>\n\n<ul>\n  <li>La <strong>personne</strong>&nbsp;: elle n'est pas une chose, elle ne s'échange pas, elle a une dignité et non un prix.</li>\n  <li>La <strong>responsabilité</strong>&nbsp;: un être qui sait ce qu'il fait et se reconnaît le même hier et aujourd'hui peut être tenu de répondre de ses actes. C'est pourquoi le droit atténue la responsabilité lorsque la conscience était altérée.</li>\n</ul>\n\n<h3>Conscience psychologique et conscience morale</h3>\n\n<p>Il faut distinguer deux emplois du mot.</p>\n\n<ul>\n  <li>La <strong>conscience psychologique</strong> est le savoir de ce que j'éprouve et de ce que je fais&nbsp;: elle constate.</li>\n  <li>La <strong>conscience morale</strong> est le jugement porté sur la <strong>valeur</strong> de mes actes&nbsp;: elle apprécie.</li>\n</ul>\n\n<p>L'écart entre les deux est parfaitement possible&nbsp;: je peux avoir une conscience nette de commettre une mauvaise action. Savoir n'est pas vouloir. Le <strong>remords</strong> manifeste précisément cet écart&nbsp;: la conscience morale se fait entendre après coup, sur un acte que la conscience psychologique accompagnait très bien.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 165\" role=\"img\" aria-label=\"Comparaison en deux colonnes entre la conscience psychologique, qui constate ce que je fais et éprouve, et la conscience morale, qui juge la valeur de mes actes ; en bas, le remords figure l'écart possible entre les deux\">\n    <rect x=\"12\" y=\"10\" width=\"150\" height=\"95\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"87\" y=\"32\" text-anchor=\"middle\" font-size=\"11\" fill=\"var(--accent)\" font-weight=\"bold\">Psychologique</text>\n    <text x=\"87\" y=\"55\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">elle constate<tspan x=\"87\" dy=\"14\">« je sais</tspan><tspan x=\"87\" dy=\"14\">ce que je fais »</tspan></text>\n    <rect x=\"178\" y=\"10\" width=\"150\" height=\"95\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"253\" y=\"32\" text-anchor=\"middle\" font-size=\"11\" fill=\"var(--accent)\" font-weight=\"bold\">Morale</text>\n    <text x=\"253\" y=\"55\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">elle juge<tspan x=\"253\" dy=\"14\">« ce que je fais</tspan><tspan x=\"253\" dy=\"14\">est-il bien ? »</tspan></text>\n    <rect x=\"70\" y=\"122\" width=\"200\" height=\"34\" rx=\"12\" fill=\"none\" stroke=\"var(--accent)\" stroke-opacity=\".5\" stroke-dasharray=\"4 3\"/>\n    <text x=\"170\" y=\"143\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">le remords : l'écart entre les deux</text>\n    <path d=\"M87,105 L120,122\" stroke=\"var(--accent)\" stroke-opacity=\".5\" stroke-width=\"1.2\" fill=\"none\"/>\n    <path d=\"M253,105 L220,122\" stroke=\"var(--accent)\" stroke-opacity=\".5\" stroke-width=\"1.2\" fill=\"none\"/>\n  </svg>\n  <figcaption>Avoir conscience de mal faire n'empêche pas de mal faire&nbsp;: les deux consciences ne se recouvrent pas.</figcaption>\n</figure>\n\n<h2>4 · Les limites de la conscience</h2>\n\n<p>L'évidence initiale se fissure ici. La conscience me donne bien ce que j'éprouve — mais non les <strong>causes</strong> de ce que j'éprouve.</p>\n\n<h3>Spinoza&nbsp;: l'illusion de la liberté</h3>\n\n<p>Les hommes, écrit Spinoza, se croient libres parce qu'ils <strong>ont conscience de leurs désirs</strong> et <strong>ignorent les causes qui les déterminent</strong>. L'illusion ne vient pas d'un défaut de conscience, mais de sa limite&nbsp;: elle saisit l'effet sans la cause. Une pierre lancée qui aurait conscience de son mouvement se croirait libre de continuer sa course.</p>\n\n<h3>Freud&nbsp;: l'inconscient psychique</h3>\n\n<p>Freud pousse l'objection plus loin. Certains phénomènes — rêves, lapsus, actes manqués, symptômes — ont un sens, mais ce sens échappe au sujet qui les produit. Il faut donc admettre des représentations <strong>actives</strong> et pourtant <strong>inaccessibles à la conscience</strong>&nbsp;: c'est l'inconscient au sens propre.</p>\n\n<p>Attention à la définition. L'inconscient n'est ni le sommeil, ni l'inattention, ni le simple oubli&nbsp;: ce qui est distrait peut revenir par un effort d'attention. L'inconscient est <strong>maintenu à l'écart par le refoulement</strong>, et continue d'agir depuis cet écart. La conscience cesse alors d'être le tout du psychisme&nbsp;: elle en devient une partie.</p>\n\n<h3>Sartre&nbsp;: se mentir sans être inconscient</h3>\n\n<p>Sartre conteste cette solution. Pour lui, l'homme n'a pas de nature donnée d'avance&nbsp;: <strong>l'existence précède l'essence</strong>. Un objet fabriqué a une essence avant d'exister, car l'artisan sait ce qu'il produit&nbsp;; l'homme, lui, se fait par ses choix. D'où une liberté entière, et une responsabilité qui l'est tout autant.</p>\n\n<p>Cette liberté angoisse. Pour la fuir, le sujet se raconte qu'il ne pouvait pas faire autrement, qu'il est ce qu'il est, que son rôle le définit&nbsp;: c'est la <strong>mauvaise foi</strong>. Le garçon de café qui se fait tout entier garçon de café joue à être une chose pour n'avoir plus à choisir. La mauvaise foi n'est possible que parce que la conscience peut <strong>se dissimuler à elle-même</strong> sans cesser d'être conscience.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Intentionnalité</strong><br>\n  Toute conscience est conscience <em>de quelque chose</em>. Elle n'est pas un contenant refermé sur ses états&nbsp;: elle est un mouvement vers le monde. Il n'y a pas de conscience vide.\n</div>\n\n<h2>5 · Le détour par autrui et par le temps</h2>\n\n<p>Si la conscience n'est pas transparente, comment se connaître&nbsp;? Non par la seule <strong>introspection</strong>, mais par des <strong>médiations</strong>.</p>\n\n<h3>Autrui</h3>\n\n<p>Le regard d'autrui me révèle à moi-même comme un être qui peut être <strong>vu et jugé</strong> — dimension que je ne pourrais découvrir seul. La honte en est l'exemple privilégié&nbsp;: je ne rougis pas devant moi-même, mais devant un autre. Autrui n'est donc pas un obstacle à la conscience de soi&nbsp;: il en est une <strong>condition</strong>.</p>\n\n<p>Hegel radicalise&nbsp;: chaque conscience cherche dans l'autre la <strong>reconnaissance</strong>, c'est-à-dire d'être reconnue comme conscience libre. Cette exigence engage d'abord une lutte, puis le rapport inégal du maître et du serviteur. Le désir proprement humain n'est pas seulement désir de choses&nbsp;: il est désir du désir d'autrui.</p>\n\n<h3>Les actes et les œuvres</h3>\n\n<p>Je me connais aussi par ce que je fais. Mes actes et mes œuvres manifestent au-dehors ce que mes intentions me racontaient au-dedans — et souvent le démentent. La connaissance de soi passe donc par le <strong>détour de l'extérieur</strong>.</p>\n\n<h3>Le temps</h3>\n\n<p>Reste la difficulté de l'identité. Rien de ce qui me compose ne demeure identique, et je dis pourtant «&nbsp;je&nbsp;» comme il y a dix ans. La <strong>mémoire</strong> assure une part de cette continuité, mais elle est lacunaire et reconstruit autant qu'elle conserve. L'identité personnelle n'est pas une donnée&nbsp;: elle est une tâche.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Schéma en étoile : au centre la conscience de soi, alimentée par quatre médiations disposées autour d'elle, l'introspection, autrui, les actes et les œuvres, et le temps et la mémoire\">\n    <defs>\n      <marker id=\"ar-phco2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n    <rect x=\"105\" y=\"70\" width=\"130\" height=\"38\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"94\" text-anchor=\"middle\" font-size=\"12\" fill=\"currentColor\" font-weight=\"bold\">Conscience de soi</text>\n    <rect x=\"10\" y=\"8\" width=\"140\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"80\" y=\"29\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Introspection</text>\n    <rect x=\"190\" y=\"8\" width=\"140\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"260\" y=\"29\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Autrui, son regard</text>\n    <rect x=\"10\" y=\"136\" width=\"140\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"80\" y=\"157\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Actes et œuvres</text>\n    <rect x=\"190\" y=\"136\" width=\"140\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"260\" y=\"157\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Temps et mémoire</text>\n    <path d=\"M80,42 L128,70\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-phco2)\"/>\n    <path d=\"M260,42 L212,70\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-phco2)\"/>\n    <path d=\"M80,136 L128,108\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-phco2)\"/>\n    <path d=\"M260,136 L212,108\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-phco2)\"/>\n  </svg>\n  <figcaption>Le savoir de soi n'est pas immédiat&nbsp;: il passe par des médiations, dont l'introspection n'est qu'une parmi d'autres.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Repère · Immédiat / médiat</strong><br>\n  Est immédiat ce qui est atteint sans intermédiaire&nbsp;; est médiat ce qui passe par un terme tiers. La conscience <em>paraît</em> immédiate&nbsp;: c'est précisément ce que le chapitre met en question.\n</div>\n\n<h2>L'essentiel</h2>\n\n<h3>Le fil du problème</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 230\" role=\"img\" aria-label=\"Frise du parcours conceptuel du chapitre : la conscience comme évidence, puis le cogito de Descartes qui en fait un fondement, puis la personne et la responsabilité chez Kant, puis les objections de Spinoza et Freud sur les limites de la conscience, puis la mauvaise foi chez Sartre, enfin la reconnaissance par autrui et par le temps chez Hegel\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"216\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Évidence</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Je sais ce que j'éprouve</text>\n    <circle cx=\"26\" cy=\"60\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"57\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Descartes</text>\n    <text x=\"44\" y=\"70\" font-size=\"10\" fill=\"currentColor\">Le cogito : un fondement</text>\n    <circle cx=\"26\" cy=\"100\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"97\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Kant</text>\n    <text x=\"44\" y=\"110\" font-size=\"10\" fill=\"currentColor\">Personne et responsabilité</text>\n    <circle cx=\"26\" cy=\"140\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"137\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Spinoza, Freud</text>\n    <text x=\"44\" y=\"150\" font-size=\"10\" fill=\"currentColor\">La conscience n'est pas le tout</text>\n    <circle cx=\"26\" cy=\"180\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"177\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Sartre</text>\n    <text x=\"44\" y=\"190\" font-size=\"10\" fill=\"currentColor\">Liberté et mauvaise foi</text>\n    <circle cx=\"26\" cy=\"214\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"211\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Hegel, autrui</text>\n    <text x=\"44\" y=\"224\" font-size=\"10\" fill=\"currentColor\">Se connaître par médiation</text>\n  </svg>\n  <figcaption>Le chapitre va d'une évidence à un problème, puis d'un problème à une reconstruction.</figcaption>\n</figure>\n\n<h3>Étapes clés</h3>\n\n<table>\n  <tr><th>Moment</th><th>Ce qui est établi</th></tr>\n  <tr><td>Étymologie (<em>cum scientia</em>)</td><td>Tout savoir est aussi savoir de soi sachant</td></tr>\n  <tr><td>Doute méthodique</td><td>On ne peut douter que l'on doute</td></tr>\n  <tr><td>Cogito</td><td>Le sujet pensant est la première certitude</td></tr>\n  <tr><td>Morceau de cire</td><td>C'est l'entendement, non les sens, qui connaît</td></tr>\n  <tr><td>Le pouvoir de dire «&nbsp;je&nbsp;»</td><td>L'homme est personne, donc responsable</td></tr>\n  <tr><td>Objection de Spinoza</td><td>On ignore les causes de ses désirs</td></tr>\n  <tr><td>Hypothèse de l'inconscient</td><td>La conscience n'est qu'une partie du psychisme</td></tr>\n  <tr><td>Mauvaise foi</td><td>On peut se dissimuler à soi-même sans être inconscient</td></tr>\n  <tr><td>Regard d'autrui, actes, temps</td><td>Le savoir de soi est médiat</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition</th></tr>\n  <tr><td>Conscience immédiate</td><td>Savoir spontané qui accompagne l'expérience vécue</td></tr>\n  <tr><td>Conscience réfléchie</td><td>Savoir qui prend l'expérience elle-même pour objet</td></tr>\n  <tr><td>Cogito</td><td>Certitude que je suis dès lors que je pense</td></tr>\n  <tr><td>Sujet</td><td>Être capable de dire «&nbsp;je&nbsp;» et de rapporter ses états à un même centre</td></tr>\n  <tr><td>Personne</td><td>Sujet identique dans le temps, doté d'une dignité et non d'un prix</td></tr>\n  <tr><td>Conscience morale</td><td>Jugement porté sur la valeur de ses propres actes</td></tr>\n  <tr><td>Inconscient</td><td>Représentations actives mais inaccessibles à la conscience</td></tr>\n  <tr><td>Intentionnalité</td><td>Propriété de la conscience d'être toujours conscience de quelque chose</td></tr>\n  <tr><td>Mauvaise foi</td><td>Mensonge à soi-même par lequel on fuit sa liberté</td></tr>\n  <tr><td>Reconnaissance</td><td>Exigence d'être reconnu par autrui comme conscience libre</td></tr>\n</table>\n\n<h3>Les auteurs</h3>\n\n<table>\n  <tr><th>Auteur</th><th>Thèse à retenir</th></tr>\n  <tr><td>Descartes</td><td>Le doute conduit au cogito&nbsp;: le sujet pensant fonde la connaissance</td></tr>\n  <tr><td>Kant</td><td>Le pouvoir de dire «&nbsp;je&nbsp;» fait de l'homme une personne</td></tr>\n  <tr><td>Spinoza</td><td>On se croit libre parce qu'on ignore les causes de ses désirs</td></tr>\n  <tr><td>Freud</td><td>La conscience n'est qu'une partie du psychisme&nbsp;; le refoulement en écarte le reste</td></tr>\n  <tr><td>Sartre</td><td>L'existence précède l'essence&nbsp;; la mauvaise foi fuit cette liberté</td></tr>\n  <tr><td>Hegel</td><td>La conscience de soi passe par la lutte pour la reconnaissance</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Croire que la conscience est un <em>miroir fidèle</em> de soi. Elle donne ce que l'on éprouve, non les causes de ce que l'on éprouve&nbsp;: se sentir libre n'est pas savoir qu'on l'est. Deux erreurs symétriques sont à écarter&nbsp;: dire que la conscience nous rend transparents à nous-mêmes, et dire qu'avec l'inconscient toute connaissance de soi devient impossible. La conscience est un <strong>accès partiel</strong>, à compléter par des médiations. Autre confusion fréquente&nbsp;: l'inconscient freudien n'est ni l'inattention ni l'oubli — ce qui est distrait revient par un effort d'attention, ce qui est refoulé non.\n</div>\n\n<blockquote><p>Le sujet n'est donc ni un fond transparent ni une illusion&nbsp;: il est ce qui se cherche à travers ce qu'il fait, ce qu'il dit et ce que les autres lui renvoient. Se connaître n'est pas regarder en soi&nbsp;— c'est se reprendre.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Philosophie — L'existence humaine et la culture",
+  "cards": [
+    {
+      "recto": "Que signifie étymologiquement le mot « conscience » ?",
+      "verso": "Un savoir accompagné : le préfixe latin cum indique que tout savoir est aussi savoir de soi sachant",
+      "explanation": "Cette étymologie contient déjà le problème : la conscience n'est pas un objet parmi d'autres, mais un redoublement du savoir sur lui-même. Percevoir, c'est aussi savoir qu'on perçoit.",
+      "tags": [
+        "définition",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Un savoir certain",
+          "Une connaissance morale",
+          "Un état de veille"
+        ],
+        "medium": [
+          "Une science de l'âme",
+          "Un savoir sans preuve",
+          "Une perception immédiate du monde"
+        ],
+        "hard": [
+          "Un savoir contre soi-même",
+          "Une réflexion sur les autres",
+          "Un jugement de valeur intérieur"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle distinction sépare la conscience immédiate de la conscience réfléchie ?",
+      "verso": "La conscience immédiate accompagne spontanément l'expérience, la conscience réfléchie prend cette expérience elle-même pour objet",
+      "explanation": "Je perçois un arbre : conscience immédiate. Je m'aperçois que je suis en train de percevoir : conscience réfléchie. Ce second degré rend possible le retour sur soi, donc le doute et l'examen.",
+      "tags": [
+        "distinction",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "L'immédiate est vraie, la réfléchie est fausse",
+          "L'immédiate est rapide, la réfléchie est lente",
+          "Ce sont deux mots pour la même chose"
+        ],
+        "medium": [
+          "L'immédiate est morale, la réfléchie est théorique",
+          "La réfléchie accompagne l'expérience, l'immédiate la prend pour objet",
+          "L'immédiate est humaine, la réfléchie est animale"
+        ],
+        "hard": [
+          "L'immédiate est discursive, la réfléchie est intuitive",
+          "L'immédiate suppose déjà le langage, la réfléchie non",
+          "La réfléchie est inconsciente"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle certitude Descartes atteint-il au terme du doute méthodique ?",
+      "verso": "Que même en doutant de tout, il est certain qu'il pense, donc qu'il existe",
+      "explanation": "Le doute lui-même est un acte de pensée : je ne peux douter que je doute. Cette certitude, indubitable parce qu'elle se confirme dans sa contestation même, sert de premier principe à toute connaissance.",
+      "tags": [
+        "auteur",
+        "Descartes"
+      ],
+      "distractors": {
+        "easy": [
+          "Que le monde extérieur existe",
+          "Que Dieu existe nécessairement",
+          "Que rien ne peut être connu"
+        ],
+        "medium": [
+          "Que les sens ne trompent jamais",
+          "Que son corps existe avec certitude",
+          "Que la mathématique est infaillible"
+        ],
+        "hard": [
+          "Qu'il connaît la nature de son âme avant son existence",
+          "Que toute pensée est nécessairement vraie",
+          "Que le doute est impossible à soutenir jusqu'au bout"
+        ]
+      }
+    },
+    {
+      "recto": "Comment nomme-t-on la formule par laquelle Descartes exprime cette première certitude ?",
+      "verso": "Le cogito",
+      "explanation": "Elle établit le sujet pensant comme fondement de la connaissance. Elle ne prouve pas encore l'existence du monde ni celle du corps : seule la pensée est atteinte d'abord.",
+      "tags": [
+        "auteur",
+        "Descartes"
+      ],
+      "distractors": {
+        "easy": [
+          "Le doute hyperbolique",
+          "L'évidence sensible",
+          "Le libre arbitre"
+        ],
+        "medium": [
+          "Le malin génie",
+          "La table rase",
+          "L'impératif catégorique"
+        ],
+        "hard": [
+          "L'aperception transcendantale",
+          "La réduction phénoménologique",
+          "L'idée innée"
+        ]
+      }
+    },
+    {
+      "recto": "Que révèle l'analyse du morceau de cire chez Descartes ?",
+      "verso": "Que la connaissance d'un objet vient de l'entendement et non des sens, puisque toutes ses qualités sensibles changent alors qu'on le reconnaît identique",
+      "explanation": "Approchée du feu, la cire perd couleur, odeur, forme, dureté — et pourtant je juge que c'est la même cire. Ce jugement ne vient donc pas des sens mais de l'esprit.",
+      "tags": [
+        "auteur",
+        "Descartes"
+      ],
+      "distractors": {
+        "easy": [
+          "Que les sens sont toujours fiables",
+          "Que la matière n'existe pas",
+          "Que la cire est un être vivant"
+        ],
+        "medium": [
+          "Que l'imagination suffit à connaître",
+          "Que la chaleur détruit la substance",
+          "Que seules les qualités sensibles sont réelles"
+        ],
+        "hard": [
+          "Que l'entendement dépend entièrement de l'expérience sensible",
+          "Que la connaissance est toujours probable",
+          "Que le corps connaît mieux que l'esprit"
+        ]
+      }
+    },
+    {
+      "recto": "Selon Kant, qu'est-ce que le pouvoir de dire « je » élève l'homme au-dessus de tous les autres êtres vivants ?",
+      "verso": "Le fait de se poser comme une seule et même personne à travers tous les changements qu'il subit",
+      "explanation": "L'unité du « je » fait de l'homme une personne, non une chose. C'est de cette unité que découleront la responsabilité et la dignité : un sujet qui peut se dire identique dans le temps peut répondre de ses actes.",
+      "tags": [
+        "auteur",
+        "Kant"
+      ],
+      "distractors": {
+        "easy": [
+          "Sa capacité à parler une langue",
+          "Sa force physique supérieure",
+          "Sa capacité à fabriquer des outils"
+        ],
+        "medium": [
+          "Sa capacité à ressentir des émotions",
+          "Son aptitude à vivre en société",
+          "Sa domination sur la nature"
+        ],
+        "hard": [
+          "Sa capacité à connaître les choses en soi",
+          "Son inconscience des changements qu'il subit",
+          "Sa faculté d'imaginer des mondes possibles"
+        ]
+      }
+    },
+    {
+      "recto": "En quel sens la conscience de soi rend-elle possible la responsabilité morale ?",
+      "verso": "Parce qu'un être qui sait ce qu'il fait et se reconnaît identique dans le temps peut être tenu de répondre de ses actes",
+      "explanation": "Sans conscience de soi, il y aurait des comportements mais pas d'actes imputables. C'est pourquoi le droit atténue la responsabilité quand la conscience est altérée.",
+      "tags": [
+        "morale",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'elle rend l'homme naturellement bon",
+          "Parce qu'elle supprime les mauvais désirs",
+          "Parce qu'elle donne le sens du devoir sans effort"
+        ],
+        "medium": [
+          "Parce qu'elle garantit que l'on choisit toujours le bien",
+          "Parce qu'elle rend les lois inutiles",
+          "Parce qu'elle empêche toute erreur de jugement"
+        ],
+        "hard": [
+          "Parce qu'elle permet de connaître les conséquences de tous ses actes",
+          "Parce qu'elle supprime le rôle des circonstances",
+          "Parce qu'elle rend la sanction injuste"
+        ]
+      }
+    },
+    {
+      "recto": "Que distingue-t-on entre la conscience psychologique et la conscience morale ?",
+      "verso": "La conscience psychologique est le savoir de ce que l'on éprouve et fait, la conscience morale est le jugement porté sur la valeur de ses actes",
+      "explanation": "Je peux avoir parfaitement conscience de commettre une mauvaise action : la première fonctionne sans que la seconde soit écoutée. Le remords manifeste précisément l'écart entre les deux.",
+      "tags": [
+        "distinction",
+        "morale"
+      ],
+      "distractors": {
+        "easy": [
+          "Ce sont deux noms pour la même chose",
+          "La psychologique est fausse, la morale est vraie",
+          "La psychologique concerne le corps, la morale l'âme"
+        ],
+        "medium": [
+          "La morale est le savoir de ce qu'on éprouve, la psychologique le jugement de valeur",
+          "La psychologique est innée, la morale est acquise",
+          "La morale est immédiate, la psychologique est réfléchie"
+        ],
+        "hard": [
+          "Avoir conscience de mal faire empêche nécessairement de mal faire",
+          "La conscience morale est un simple sentiment sans jugement",
+          "La psychologique suppose la morale pour exister"
+        ]
+      }
+    },
+    {
+      "recto": "Ne pas confondre : quelle différence sépare la conscience de l'inconscient au sens freudien ?",
+      "verso": "La conscience est ce dont le sujet peut rendre compte, l'inconscient désigne des représentations actives mais inaccessibles à la conscience",
+      "explanation": "L'inconscient n'est pas ce qui est simplement oublié ou distrait : c'est ce qui est maintenu hors de la conscience par le refoulement, tout en continuant d'agir. La conscience cesse alors d'être le tout du psychisme.",
+      "tags": [
+        "comparaison",
+        "Freud"
+      ],
+      "distractors": {
+        "easy": [
+          "L'inconscient est le sommeil, la conscience la veille",
+          "L'inconscient est ce qu'on a oublié",
+          "L'inconscient désigne les actes involontaires du corps"
+        ],
+        "medium": [
+          "L'inconscient est ce à quoi on ne fait pas attention",
+          "L'inconscient est la part animale de l'homme",
+          "L'inconscient est une conscience affaiblie"
+        ],
+        "hard": [
+          "L'inconscient est inactif tant qu'il reste inconscient",
+          "L'inconscient est accessible par un simple effort d'attention",
+          "L'inconscient et la conscience se confondent dans le rêve"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : la conscience nous donne-t-elle une connaissance transparente de nous-mêmes ?",
+      "verso": "Non : elle nous livre ce que nous éprouvons, mais pas nécessairement les causes réelles de ce que nous éprouvons",
+      "explanation": "C'est le contresens le plus répandu sur la notion. Se sentir libre n'est pas savoir qu'on l'est ; Spinoza objecte que les hommes se croient libres parce qu'ils ignorent les causes qui les déterminent. La conscience est un accès, non un miroir fidèle.",
+      "tags": [
+        "piege",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, on se connaît toujours parfaitement soi-même",
+          "Oui, la conscience est un miroir fidèle",
+          "Oui, sinon elle ne servirait à rien"
+        ],
+        "medium": [
+          "Oui, sauf pendant le sommeil",
+          "Oui, car nul ne peut se mentir à soi-même",
+          "Non, mais seulement chez les personnes malades"
+        ],
+        "hard": [
+          "Oui, car l'introspection est une méthode scientifique certaine",
+          "Non, mais l'inconscient rend toute connaissance de soi impossible",
+          "Oui, car le cogito garantit la transparence du sujet à lui-même"
+        ]
+      }
+    },
+    {
+      "recto": "Selon Spinoza, pourquoi les hommes se croient-ils libres ?",
+      "verso": "Parce qu'ils ont conscience de leurs désirs mais ignorent les causes qui les déterminent",
+      "explanation": "L'illusion ne vient pas d'un défaut de conscience mais de sa limite : elle saisit le désir sans saisir sa cause. La conscience est donc partielle, et cette partialité produit une croyance erronée.",
+      "tags": [
+        "auteur",
+        "Spinoza"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'ils sont effectivement libres",
+          "Parce qu'ils sont ignorants de tout",
+          "Parce que Dieu leur a donné le libre arbitre"
+        ],
+        "medium": [
+          "Parce qu'ils confondent liberté et hasard",
+          "Parce qu'ils n'ont pas conscience de leurs désirs",
+          "Parce que la société le leur enseigne"
+        ],
+        "hard": [
+          "Parce qu'ils connaissent les causes mais les refusent",
+          "Parce que la liberté est une illusion propre aux savants",
+          "Parce que la conscience leur cache leurs désirs"
+        ]
+      }
+    },
+    {
+      "recto": "Comment nomme-t-on l'idée que la conscience est toujours conscience de quelque chose, jamais un contenant refermé sur lui-même ?",
+      "verso": "L'intentionnalité de la conscience",
+      "explanation": "Formulée par la phénoménologie, cette thèse renverse l'image de la conscience comme boîte intérieure : elle est un mouvement vers le monde. On n'a jamais une conscience vide, mais toujours conscience de quelque chose.",
+      "tags": [
+        "notion",
+        "phénoménologie"
+      ],
+      "distractors": {
+        "easy": [
+          "L'introspection",
+          "La réflexivité",
+          "L'attention"
+        ],
+        "medium": [
+          "L'aperception",
+          "La subjectivité",
+          "L'imagination"
+        ],
+        "hard": [
+          "Le solipsisme",
+          "L'immanence de la conscience",
+          "L'intériorité pure"
+        ]
+      }
+    },
+    {
+      "recto": "Selon Sartre, que signifie la formule selon laquelle l'existence précède l'essence ?",
+      "verso": "Que l'homme n'a pas de nature définie d'avance : il existe d'abord, puis se définit par ce qu'il fait de lui-même",
+      "explanation": "Un objet fabriqué a une essence avant d'exister — l'artisan sait ce qu'il fait. L'homme, lui, se fait. Cette absence de nature fixée est la source de la liberté, mais aussi d'une responsabilité entière.",
+      "tags": [
+        "auteur",
+        "Sartre"
+      ],
+      "distractors": {
+        "easy": [
+          "Que l'homme a une nature fixée dès la naissance",
+          "Que l'existence est plus importante que l'essence",
+          "Que l'essence est un concept inutile"
+        ],
+        "medium": [
+          "Que l'homme est déterminé par sa condition sociale",
+          "Que l'essence de l'homme est d'être conscient",
+          "Que l'homme est créé par Dieu avec un projet"
+        ],
+        "hard": [
+          "Que l'homme est libre uniquement en pensée",
+          "Que l'essence précède l'existence chez les êtres conscients",
+          "Que l'existence humaine est dépourvue de sens et de projet"
+        ]
+      }
+    },
+    {
+      "recto": "Chez Sartre, comment nomme-t-on la conduite qui consiste à se mentir à soi-même pour fuir sa liberté ?",
+      "verso": "La mauvaise foi",
+      "explanation": "Le garçon de café qui se fait entièrement garçon de café joue son rôle pour n'avoir pas à choisir. La mauvaise foi n'est possible que parce que la conscience peut se dissimuler à elle-même sans être inconsciente.",
+      "tags": [
+        "auteur",
+        "Sartre"
+      ],
+      "distractors": {
+        "easy": [
+          "Le mensonge",
+          "L'hypocrisie",
+          "L'inconscience"
+        ],
+        "medium": [
+          "Le refoulement",
+          "La dissimulation",
+          "L'aliénation"
+        ],
+        "hard": [
+          "La mauvaise conscience",
+          "La dénégation",
+          "L'angoisse existentielle"
+        ]
+      }
+    },
+    {
+      "recto": "Quel rôle autrui joue-t-il dans la formation de la conscience de soi ?",
+      "verso": "Le regard d'autrui me révèle à moi-même comme un être qui peut être vu et jugé, dimension que je ne pourrais découvrir seul",
+      "explanation": "La honte est l'exemple privilégié : je ne rougis pas devant moi-même, mais devant un autre. Autrui n'est donc pas un obstacle à la conscience de soi, il en est une condition.",
+      "tags": [
+        "autrui",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Autrui n'a aucun rôle : la conscience se suffit à elle-même",
+          "Autrui empêche toute conscience de soi authentique",
+          "Autrui est seulement un objet de connaissance"
+        ],
+        "medium": [
+          "Autrui ne fait que confirmer ce que je sais déjà de moi",
+          "Autrui rend la conscience de soi impossible",
+          "Autrui est un obstacle qu'il faut supprimer pour se connaître"
+        ],
+        "hard": [
+          "Autrui me révèle mon essence véritable et définitive",
+          "La conscience de soi précède nécessairement toute rencontre d'autrui",
+          "Le regard d'autrui ne concerne que l'apparence physique"
+        ]
+      }
+    },
+    {
+      "recto": "Selon Hegel, que recherche chaque conscience dans sa rencontre avec une autre conscience ?",
+      "verso": "La reconnaissance : être reconnue par l'autre comme conscience libre",
+      "explanation": "Cette exigence engage d'abord une lutte, puis le rapport inégal du maître et du serviteur. Le désir humain n'est donc pas seulement désir de choses, mais désir du désir d'autrui.",
+      "tags": [
+        "auteur",
+        "Hegel"
+      ],
+      "distractors": {
+        "easy": [
+          "La domination physique",
+          "L'indifférence",
+          "La fusion avec l'autre"
+        ],
+        "medium": [
+          "La connaissance objective de l'autre",
+          "L'amitié",
+          "L'égalité juridique"
+        ],
+        "hard": [
+          "L'anéantissement de l'autre conscience",
+          "La reconnaissance de sa propre finitude",
+          "L'oubli de soi dans le travail"
+        ]
+      }
+    },
+    {
+      "recto": "Comment le sujet peut-il se connaître autrement que par la seule introspection ?",
+      "verso": "Par ses actes, ses œuvres et le regard d'autrui, qui manifestent ce qu'il est au-dehors",
+      "explanation": "L'intériorité n'est pas le seul accès à soi. Ce que je fais me révèle souvent mieux que ce que je crois éprouver : c'est pourquoi la connaissance de soi passe aussi par le détour de l'extérieur.",
+      "tags": [
+        "méthode",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Il ne le peut pas : seule l'introspection donne accès à soi",
+          "En interrogeant sa mémoire uniquement",
+          "En consultant sa conscience morale seulement"
+        ],
+        "medium": [
+          "En observant les autres et en se comparant à eux",
+          "Par la seule analyse de ses rêves",
+          "En se fiant à ses sentiments immédiats"
+        ],
+        "hard": [
+          "Par une intuition immédiate de son essence",
+          "En supprimant toute médiation extérieure",
+          "En se connaissant uniquement par ses intentions"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi le temps pose-t-il un problème à l'identité de la conscience de soi ?",
+      "verso": "Le sujet change continuellement, et doit pourtant se reconnaître comme le même à travers ces changements",
+      "explanation": "Rien de ce qui me compose ne demeure identique, et je dis pourtant « je » de la même façon qu'il y a dix ans. La mémoire assure une part de cette continuité, mais elle est lacunaire et reconstruit autant qu'elle conserve.",
+      "tags": [
+        "temps",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le temps ne pose aucun problème à l'identité",
+          "Le sujet ne change jamais",
+          "L'identité est garantie par le corps"
+        ],
+        "medium": [
+          "La mémoire garantit parfaitement l'identité personnelle",
+          "Le temps supprime toute identité",
+          "L'identité est purement juridique"
+        ],
+        "hard": [
+          "L'identité est assurée par l'inconscient",
+          "Le changement est une illusion de la conscience",
+          "Seuls les êtres sans mémoire ont une identité stable"
+        ]
+      }
+    },
+    {
+      "recto": "Quel repère du programme permet de formuler le problème central de cette notion ?",
+      "verso": "L'opposition entre l'immédiat et le médiat : la conscience semble un accès immédiat à soi, alors qu'elle passe peut-être par des médiations",
+      "explanation": "Si le savoir de soi passe par le langage, autrui, les actes et l'interprétation, alors l'apparente immédiateté de la conscience est trompeuse. Le repère transforme une évidence en problème.",
+      "tags": [
+        "repère",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Le repère légal / légitime",
+          "Le repère genre / espèce / individu",
+          "Le repère ressemblance / analogie"
+        ],
+        "medium": [
+          "Le repère cause / fin",
+          "Le repère universel / général",
+          "Le repère acte / puissance"
+        ],
+        "hard": [
+          "Le repère transcendant / immanent",
+          "Le repère formel / matériel",
+          "Le repère persuader / convaincre"
+        ]
+      }
+    },
+    {
+      "recto": "Quel bilan peut-on dresser sur la conscience ?",
+      "verso": "Elle est le propre du sujet humain et la condition de sa responsabilité, mais elle n'est ni transparente ni sans dehors : elle se construit par la médiation du temps, des actes et d'autrui",
+      "explanation": "Deux mouvements se croisent : la conscience fonde le sujet comme personne, et elle est en même temps limitée, illusionnée, dépendante. Reconnaître ces deux dimensions sans sacrifier l'une à l'autre est l'enjeu de la notion.",
+      "tags": [
+        "synthèse",
+        "bilan"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle donne une connaissance parfaite de soi",
+          "Elle est une illusion sans aucune valeur",
+          "Elle n'a aucun rapport avec la responsabilité"
+        ],
+        "medium": [
+          "Elle se réduit à la conscience morale",
+          "Elle est entièrement déterminée par l'inconscient",
+          "Elle est indépendante d'autrui et du temps"
+        ],
+        "hard": [
+          "Elle est transparente à elle-même mais sans portée morale",
+          "Elle fonde la responsabilité sans être conscience de soi",
+          "Elle est un simple effet du langage sans réalité propre"
+        ]
+      }
+    }
+  ]
+}

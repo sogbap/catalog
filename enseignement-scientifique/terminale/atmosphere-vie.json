@@ -1,0 +1,640 @@
+{
+  "id": "enseignement-scientifique-terminale-atmosphere-vie",
+  "title": "L'atmosphère terrestre et la vie",
+  "emoji": "🌍",
+  "subject": "science",
+  "country": "fr",
+  "courseDescription": "Comment la vie a transformé l'atmosphère terrestre, du dégazage primitif à l'apparition du dioxygène et de la couche d'ozone.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>L'atmosphère terrestre et la vie</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · enseignement scientifique<br>\n  <b>Thème 1&nbsp;:</b> Science, climat et société<br>\n  <b>Chapitre 1.1</b> · environ 6 heures\n</div>\n\n<blockquote><p><b>Problématique.</b> Comment la vie a-t-elle fabriqué l'air que nous respirons&nbsp;?</p></blockquote>\n\n<p>L'air actuel — 78&nbsp;% de diazote, 21&nbsp;% de dioxygène — semble aller de soi. Il n'a pourtant rien d'originel&nbsp;: l'atmosphère des débuts était chaude, dense, riche en <strong>dioxyde de carbone</strong> et absolument dépourvue de dioxygène. Ce que nous respirons est le produit d'une histoire de quatre milliards d'années où le vivant a été un acteur géologique majeur. C'est un renversement d'intuition&nbsp;: le dioxygène n'est pas la condition de la vie, il en est le déchet.</p>\n\n<h2>1 · L'atmosphère primitive</h2>\n\n<p>La Terre se forme il y a environ <strong>4,6 milliards d'années</strong>. Un intense <strong>dégazage volcanique</strong> libère de la vapeur d'eau, du dioxyde de carbone et du diazote. Quand la surface refroidit assez, la vapeur d'eau se condense&nbsp;: les <strong>océans</strong> se forment.</p>\n\n<p>Cette atmosphère est dite <strong>réductrice</strong>&nbsp;: sans dioxygène libre, les éléments chimiques y sont sous forme réduite — méthane, fer dissous. L'atmosphère actuelle est au contraire <strong>oxydante</strong>. Le passage de l'une à l'autre est le fait chimique le plus important de l'histoire de la planète, et c'est la vie qui l'a provoqué.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Dégazage</strong><br>\n  Libération, par le volcanisme, des gaz dissous dans le magma. C'est la source principale de l'atmosphère primitive&nbsp;— les apports cométaires n'y ont joué qu'un rôle secondaire.\n</div>\n\n<h2>2 · Où est passé le dioxyde de carbone&nbsp;?</h2>\n\n<p>Le dioxyde de carbone initial représentait l'essentiel de l'atmosphère&nbsp;; il en constitue aujourd'hui 0,04&nbsp;%. Deux mécanismes l'ont retiré&nbsp;:</p>\n\n<ul>\n  <li>Sa <strong>dissolution dans les océans</strong>, suivie de la précipitation de <strong>roches carbonatées</strong> — le calcaire piège durablement le carbone.</li>\n  <li>L'<strong>enfouissement de matière organique</strong> produite par photosynthèse et soustraite à la décomposition&nbsp;: charbon, pétrole, gaz.</li>\n</ul>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 196\" role=\"img\" aria-label=\"Les deux voies de piégeage du carbone atmosphérique : le dioxyde de carbone se dissout dans l'océan puis précipite sous forme de roches carbonatées comme le calcaire, et il est aussi fixé par la photosynthèse puis enfoui sous forme de matière organique donnant les combustibles fossiles ; ces deux réservoirs géologiques stockent le carbone sur des millions d'années, alors que sa combustion actuelle le relâche en quelques décennies\">\n    <rect x=\"70\" y=\"10\" width=\"200\" height=\"32\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"30\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">CO2 ATMOSPHÉRIQUE</text>\n    <line x1=\"130\" y1=\"44\" x2=\"85\" y2=\"62\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-tes11)\"/>\n    <line x1=\"210\" y1=\"44\" x2=\"255\" y2=\"62\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-tes11)\"/>\n    <rect x=\"12\" y=\"66\" width=\"146\" height=\"46\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"85\" y=\"85\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">dissolution océanique</text>\n    <text x=\"85\" y=\"101\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">voie chimique</text>\n    <rect x=\"182\" y=\"66\" width=\"146\" height=\"46\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"255\" y=\"85\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">photosynthèse</text>\n    <text x=\"255\" y=\"101\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">voie biologique</text>\n    <line x1=\"85\" y1=\"114\" x2=\"85\" y2=\"128\" stroke=\"var(--accent)\" stroke-opacity=\".6\" stroke-width=\"1.5\" marker-end=\"url(#ar-tes11)\"/>\n    <line x1=\"255\" y1=\"114\" x2=\"255\" y2=\"128\" stroke=\"var(--accent)\" stroke-opacity=\".6\" stroke-width=\"1.5\" marker-end=\"url(#ar-tes11)\"/>\n    <rect x=\"12\" y=\"130\" width=\"146\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".30\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"85\" y=\"151\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">roches carbonatées</text>\n    <rect x=\"182\" y=\"130\" width=\"146\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".30\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"255\" y=\"151\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">combustibles fossiles</text>\n    <text x=\"170\" y=\"184\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">Stockage sur des millions d'années — déstockage en deux siècles.</text>\n    <defs>\n      <marker id=\"ar-tes11\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n  </svg>\n  <figcaption>Ces deux réservoirs relèvent du <em>cycle long</em> du carbone&nbsp;— à ne pas confondre avec les échanges annuels du cycle court.</figcaption>\n</figure>\n\n<h2>3 · L'irruption du dioxygène</h2>\n\n<p>Il y a environ <strong>3,5 milliards d'années</strong>, les <strong>cyanobactéries</strong> — premiers organismes photosynthétiques — commencent à rejeter du dioxygène. Les <strong>stromatolithes</strong>, structures rocheuses feuilletées qu'elles construisent, en gardent la trace&nbsp;; il en existe encore aujourd'hui en Australie.</p>\n\n<p>Mais ce dioxygène ne s'accumule pas tout de suite&nbsp;: il oxyde d'abord le <strong>fer dissous</strong> dans les océans, qui précipite en couches alternées. Ces <strong>fers rubanés</strong>, datés d'environ 3,8 à 1,8 milliard d'années, sont la preuve que la production a longtemps été entièrement consommée. Une fois les océans saturés, la teneur atmosphérique grimpe brutalement&nbsp;: c'est la <strong>Grande Oxydation</strong>, il y a environ <strong>2,4 milliards d'années</strong>.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Frise de l'histoire de l'atmosphère terrestre : formation de la Terre et dégazage volcanique il y a 4,6 milliards d'années, formation des océans il y a 4,4 milliards d'années, apparition des cyanobactéries photosynthétiques il y a 3,5 milliards d'années, Grande Oxydation avec accumulation du dioxygène atmosphérique il y a 2,4 milliards d'années, formation de la couche d'ozone puis colonisation des continents il y a 450 millions d'années\">\n    <line x1=\"30\" y1=\"14\" x2=\"30\" y2=\"186\" stroke=\"currentColor\" stroke-opacity=\".25\" stroke-width=\"1.5\"/>\n    <circle cx=\"30\" cy=\"24\" r=\"4.5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"21\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">−4,6 Ga</text>\n    <text x=\"44\" y=\"34\" font-size=\"9\" fill=\"currentColor\">Formation de la Terre, dégazage volcanique</text>\n    <circle cx=\"30\" cy=\"62\" r=\"4.5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"59\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">−4,4 Ga</text>\n    <text x=\"44\" y=\"72\" font-size=\"9\" fill=\"currentColor\">Condensation des océans</text>\n    <circle cx=\"30\" cy=\"100\" r=\"4.5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"97\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">−3,5 Ga</text>\n    <text x=\"44\" y=\"110\" font-size=\"9\" fill=\"currentColor\">Cyanobactéries, premiers rejets de O2</text>\n    <circle cx=\"30\" cy=\"138\" r=\"5.5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"135\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">−2,4 Ga</text>\n    <text x=\"44\" y=\"148\" font-size=\"9\" fill=\"currentColor\">Grande Oxydation, O2 dans l'atmosphère</text>\n    <circle cx=\"30\" cy=\"176\" r=\"4.5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"173\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">−450 Ma</text>\n    <text x=\"44\" y=\"186\" font-size=\"9\" fill=\"currentColor\">Couche d'ozone, sortie des eaux</text>\n  </svg>\n  <figcaption>Un milliard d'années séparent les premiers rejets de dioxygène de son accumulation atmosphérique.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Notion · Photosynthèse</strong><br>\n  Le dioxyde de carbone et l'eau, en présence de lumière, produisent de la matière organique et du <strong>dioxygène</strong>. C'est l'inverse exact de la respiration&nbsp;— d'où l'inversion progressive de la chimie atmosphérique.\n</div>\n\n<h2>4 · L'ozone et la sortie des eaux</h2>\n\n<p>Une fois le dioxygène présent en haute atmosphère, le rayonnement ultraviolet le dissocie, et les atomes libérés se recombinent en <strong>ozone</strong>, molécule à trois atomes d'oxygène. La <strong>couche d'ozone</strong> filtre alors les ultraviolets les plus énergétiques.</p>\n\n<p>Conséquence décisive&nbsp;: avant elle, seule l'eau protégeait suffisamment le vivant. La <strong>colonisation des continents</strong>, vers <strong>−450 millions d'années</strong>, suppose donc ce bouclier atmosphérique préalable. Attention toutefois à ne pas confondre les deux ozones&nbsp;: celui de la stratosphère protège, celui qui se forme près du sol est un <em>polluant</em>.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 158\" role=\"img\" aria-label=\"Composition de l'air sec actuel représentée en barres horizontales : le diazote occupe 78 pour cent, le dioxygène 21 pour cent, l'argon environ 0,93 pour cent et le dioxyde de carbone environ 0,04 pour cent ; malgré sa proportion infime le dioxyde de carbone joue un rôle climatique majeur, et la vapeur d'eau très variable est comptée à part\">\n    <line x1=\"8\" y1=\"22\" x2=\"332\" y2=\"22\" stroke=\"currentColor\" stroke-opacity=\".15\"/>\n    <line x1=\"8\" y1=\"56\" x2=\"332\" y2=\"56\" stroke=\"currentColor\" stroke-opacity=\".15\"/>\n    <line x1=\"8\" y1=\"90\" x2=\"332\" y2=\"90\" stroke=\"currentColor\" stroke-opacity=\".15\"/>\n    <text x=\"8\" y=\"18\" font-size=\"9\" fill=\"currentColor\">Diazote</text>\n    <rect x=\"8\" y=\"26\" width=\"234\" height=\"16\" rx=\"5\" fill=\"var(--accent)\" fill-opacity=\".45\" stroke=\"var(--accent)\" stroke-opacity=\".7\"/>\n    <text x=\"249\" y=\"38\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">78 %</text>\n    <text x=\"8\" y=\"52\" font-size=\"9\" fill=\"currentColor\">Dioxygène</text>\n    <rect x=\"8\" y=\"60\" width=\"63\" height=\"16\" rx=\"5\" fill=\"var(--accent)\" fill-opacity=\".30\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"78\" y=\"72\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">21 %</text>\n    <text x=\"8\" y=\"86\" font-size=\"9\" fill=\"currentColor\">Argon</text>\n    <rect x=\"8\" y=\"94\" width=\"6\" height=\"16\" rx=\"2\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"21\" y=\"106\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">0,93 %</text>\n    <text x=\"8\" y=\"128\" font-size=\"9\" fill=\"currentColor\">Dioxyde de carbone : 0,04 % — soit plus de 410 ppm</text>\n    <text x=\"8\" y=\"144\" font-size=\"9\" class=\"s-muted\">Proportion infime, rôle climatique majeur. La vapeur d'eau,</text>\n    <text x=\"8\" y=\"156\" font-size=\"9\" class=\"s-muted\">trop variable, est comptée à part.</text>\n  </svg>\n  <figcaption>L'air sec est écrasé par deux gaz&nbsp;— mais le climat se joue sur la ligne du bas.</figcaption>\n</figure>\n\n<h2>5 · Pourquoi le diazote domine-t-il&nbsp;?</h2>\n\n<p>Non parce qu'il aurait été massivement produit, mais parce qu'il est <strong>chimiquement très peu réactif</strong>&nbsp;: il s'est accumulé pendant que la vapeur d'eau se condensait et que le dioxyde de carbone partait dans les roches. La stabilité, ici, tient lieu d'abondance.</p>\n\n<p>Enfin, si la Terre a conservé son atmosphère quand Mars a largement perdu la sienne, c'est par la conjonction de deux facteurs&nbsp;: une <strong>masse suffisante</strong> pour retenir les molécules par gravité, et un <strong>champ magnétique</strong> qui dévie le vent solaire.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Repères chronologiques</h3>\n\n<table>\n  <tr><th>Date</th><th>Événement</th></tr>\n  <tr><td>−4,6 Ga</td><td>Formation de la Terre, dégazage volcanique</td></tr>\n  <tr><td>−4,4 Ga</td><td>Condensation des océans</td></tr>\n  <tr><td>−3,5 Ga</td><td>Cyanobactéries et premiers stromatolithes</td></tr>\n  <tr><td>−2,4 Ga</td><td>Grande Oxydation</td></tr>\n  <tr><td>−450 Ma</td><td>Couche d'ozone, colonisation des continents</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition en une ligne</th></tr>\n  <tr><td>Dégazage</td><td>Libération volcanique des gaz du magma</td></tr>\n  <tr><td>Atmosphère réductrice</td><td>Sans dioxygène libre, éléments sous forme réduite</td></tr>\n  <tr><td>Fers rubanés</td><td>Dépôts alternés témoignant de l'oxydation des océans</td></tr>\n  <tr><td>Grande Oxydation</td><td>Accumulation atmosphérique du dioxygène</td></tr>\n  <tr><td>Cycle long du carbone</td><td>Échanges avec les roches, sur des millions d'années</td></tr>\n</table>\n\n<h3>Chiffres à retenir</h3>\n\n<table>\n  <tr><th>Grandeur</th><th>Valeur</th></tr>\n  <tr><td>Diazote dans l'air sec</td><td>78&nbsp;%</td></tr>\n  <tr><td>Dioxygène dans l'air sec</td><td>21&nbsp;%</td></tr>\n  <tr><td>Dioxyde de carbone actuel</td><td>plus de 410 ppm</td></tr>\n  <tr><td>Dioxyde de carbone préindustriel</td><td>environ 280 ppm</td></tr>\n  <tr><td>Âge de la Terre</td><td>4,6 milliards d'années</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Croire que le <strong>dioxygène était là avant la vie</strong>. C'est l'inverse&nbsp;: l'atmosphère primitive en était dépourvue, et le dioxygène actuel est un <em>produit</em> de la photosynthèse. Inverser la cause et la conséquence rend inintelligible toute l'histoire de l'atmosphère — et, du même coup, celle de la couche d'ozone, qui ne peut se former qu'à partir du dioxygène déjà accumulé.\n</div>\n\n<blockquote><p>Une atmosphère hors équilibre chimique, comme la nôtre, est la signature la plus fiable d'une planète vivante&nbsp;: c'est ce déséquilibre que les astronomes cherchent ailleurs.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Science, climat et société",
+  "cards": [
+    {
+      "recto": "Piège classique : le dioxygène de l'atmosphère est-il à l'origine de la vie ou une conséquence de la vie ?",
+      "verso": "Une conséquence : le dioxygène atmosphérique résulte de la photosynthèse des organismes chlorophylliens, il n'existait pas avant l'apparition de la vie",
+      "explanation": "L'atmosphère primitive était dépourvue de dioxygène. Inverser la cause et la conséquence rend incompréhensible toute l'histoire de l'atmosphère terrestre.",
+      "tags": [
+        "atmosphère",
+        "piege"
+      ],
+      "distractors": {
+        "easy": [
+          "Une cause, car la vie ne peut apparaître sans respiration",
+          "Un phénomène sans lien avec la vie, dû au rayonnement solaire",
+          "Une conséquence du volcanisme des premiers âges"
+        ],
+        "medium": [
+          "Une cause, le dioxygène provenant du dégazage volcanique initial",
+          "Une conséquence de la dissociation de l'eau par les rayons ultraviolets uniquement",
+          "Une cause, car la couche d'ozone protégeait déjà les premiers organismes"
+        ],
+        "hard": [
+          "Une conséquence de la respiration cellulaire des premiers organismes",
+          "Une cause, le dioxygène ayant permis la formation des océans",
+          "Une conséquence de la précipitation des carbonates dans l'océan primitif"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la composition actuelle de l'atmosphère terrestre en gaz majoritaires ?",
+      "verso": "Environ 78 pour cent de diazote, 21 pour cent de dioxygène, moins de 1 pour cent d'argon et environ 0,04 pour cent de dioxyde de carbone",
+      "explanation": "Ces proportions sont celles de l'air sec : la vapeur d'eau, très variable, est comptée à part. Le dioxyde de carbone est minoritaire mais joue un rôle climatique majeur.",
+      "tags": [
+        "atmosphère",
+        "composition"
+      ],
+      "distractors": {
+        "easy": [
+          "50 pour cent de dioxygène et 50 pour cent de diazote",
+          "80 pour cent de dioxyde de carbone et 20 pour cent de dioxygène",
+          "100 pour cent d'air pur, considéré comme un corps unique"
+        ],
+        "medium": [
+          "78 pour cent de dioxygène, 21 pour cent de diazote, 1 pour cent d'autres gaz",
+          "21 pour cent de diazote, 78 pour cent de vapeur d'eau, 1 pour cent d'argon",
+          "60 pour cent de diazote, 30 pour cent de dioxygène, 10 pour cent d'argon"
+        ],
+        "hard": [
+          "78 pour cent de diazote, 21 pour cent de dioxygène et 4 pour cent de dioxyde de carbone",
+          "78 pour cent de diazote, 20 pour cent de dioxygène, 2 pour cent de méthane",
+          "77 pour cent de diazote, 21 pour cent de dioxygène, 2 pour cent de vapeur d'eau"
+        ]
+      }
+    },
+    {
+      "recto": "D'où provient l'atmosphère primitive de la Terre ?",
+      "verso": "Du dégazage volcanique intense des premiers temps de la planète, qui a libéré vapeur d'eau, dioxyde de carbone et diazote",
+      "explanation": "Cette atmosphère très différente de l'actuelle ne contenait pratiquement pas de dioxygène. Les apports de comètes ont pu s'y ajouter, sans être la source principale.",
+      "tags": [
+        "atmosphère",
+        "origine"
+      ],
+      "distractors": {
+        "easy": [
+          "De la respiration des premiers animaux terrestres",
+          "Du vent solaire capturé par le champ magnétique",
+          "De l'évaporation des premiers océans uniquement"
+        ],
+        "medium": [
+          "De la photosynthèse des cyanobactéries",
+          "De la nébuleuse solaire, conservée telle quelle depuis la formation de la Terre",
+          "De la fonte des glaces apportées par les astéroïdes"
+        ],
+        "hard": [
+          "Du dégazage volcanique, riche en dioxygène et en méthane",
+          "De l'altération chimique des roches de la croûte primitive",
+          "De la dissociation de l'eau océanique par les ultraviolets"
+        ]
+      }
+    },
+    {
+      "recto": "Quel processus explique la disparition de l'essentiel du dioxyde de carbone de l'atmosphère primitive ?",
+      "verso": "Sa dissolution dans les océans puis son piégeage durable sous forme de roches carbonatées comme le calcaire",
+      "explanation": "Une partie a aussi été enfouie sous forme de matière organique fossile. Le carbone atmosphérique est ainsi passé dans les réservoirs géologiques, où il séjourne des millions d'années.",
+      "tags": [
+        "carbone",
+        "réservoirs"
+      ],
+      "distractors": {
+        "easy": [
+          "Sa fuite dans l'espace, faute d'attraction terrestre suffisante",
+          "Sa destruction par les rayons du Soleil",
+          "Son absorption par le noyau terrestre"
+        ],
+        "medium": [
+          "Sa transformation en dioxygène par les cyanobactéries",
+          "Sa condensation à la surface des calottes polaires",
+          "Sa combinaison avec le diazote pour former des nitrates"
+        ],
+        "hard": [
+          "Sa dissolution dans les océans, sans piégeage minéral durable",
+          "Son enfouissement exclusif sous forme de charbon et de pétrole",
+          "Sa précipitation sous forme d'oxydes de fer rubanés"
+        ]
+      }
+    },
+    {
+      "recto": "Quel organisme est à l'origine des premiers rejets massifs de dioxygène ?",
+      "verso": "Les cyanobactéries, premiers organismes photosynthétiques, apparues il y a environ 3,5 milliards d'années",
+      "explanation": "La photosynthèse convertit le dioxyde de carbone et l'eau en matière organique en libérant du dioxygène. Ce rejet fut d'abord entièrement consommé par l'oxydation des océans.",
+      "tags": [
+        "vie",
+        "photosynthèse"
+      ],
+      "distractors": {
+        "easy": [
+          "Les premiers arbres du Carbonifère",
+          "Les dinosaures herbivores",
+          "Les algues brunes des côtes actuelles"
+        ],
+        "medium": [
+          "Les archées méthanogènes des sources hydrothermales",
+          "Les premiers champignons décomposeurs",
+          "Les foraminifères planctoniques"
+        ],
+        "hard": [
+          "Les stromatolithes, considérés comme des organismes à part entière",
+          "Les bactéries sulfato-réductrices des fonds océaniques",
+          "Les premières plantes vasculaires terrestres"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle trace géologique témoigne de la consommation du dioxygène par l'océan primitif ?",
+      "verso": "Les fers rubanés, dépôts alternant couches riches et pauvres en oxydes de fer, formés entre environ 3,8 et 1,8 milliard d'années",
+      "explanation": "Le dioxygène produit oxydait d'abord le fer dissous dans l'eau, qui précipitait. Ce n'est qu'une fois l'océan saturé que le gaz a pu s'accumuler dans l'atmosphère.",
+      "tags": [
+        "indices",
+        "géologie"
+      ],
+      "distractors": {
+        "easy": [
+          "Les fossiles de dinosaures des couches récentes",
+          "Les coulées de lave basaltique océaniques",
+          "Les dépôts de sel des mers évaporées"
+        ],
+        "medium": [
+          "Les stromatolithes des plateformes carbonatées",
+          "Les charbons du Carbonifère",
+          "Les carottes de glace des calottes polaires"
+        ],
+        "hard": [
+          "Les gisements d'uranium détritique, indicateurs d'une atmosphère oxydante",
+          "Les paléosols rouges antérieurs à 3 milliards d'années",
+          "Les schistes noirs riches en matière organique"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on la Grande Oxydation ?",
+      "verso": "L'augmentation rapide de la teneur atmosphérique en dioxygène il y a environ 2,4 milliards d'années, une fois les océans saturés en fer oxydé",
+      "explanation": "Cet événement a bouleversé la chimie de surface et provoqué une crise majeure pour les organismes anaérobies, pour lesquels le dioxygène est toxique.",
+      "tags": [
+        "dioxygène",
+        "chronologie"
+      ],
+      "distractors": {
+        "easy": [
+          "L'apparition des premiers animaux à respiration pulmonaire",
+          "L'oxydation des roches par les pluies acides récentes",
+          "La formation de l'océan primitif"
+        ],
+        "medium": [
+          "L'explosion cambrienne de la biodiversité animale",
+          "La colonisation des continents par les végétaux",
+          "La formation du trou dans la couche d'ozone"
+        ],
+        "hard": [
+          "L'augmentation du dioxygène il y a environ 540 millions d'années",
+          "La saturation de l'atmosphère en dioxyde de carbone au Carbonifère",
+          "Le pic d'oxygène atmosphérique atteint au Permien"
+        ]
+      }
+    },
+    {
+      "recto": "Comment se forme la couche d'ozone dans la haute atmosphère ?",
+      "verso": "À partir du dioxygène, dissocié par le rayonnement ultraviolet solaire puis recombiné en molécules d'ozone comportant trois atomes d'oxygène",
+      "explanation": "Elle n'a donc pu apparaître qu'après l'accumulation du dioxygène atmosphérique. Sa formation résulte d'un équilibre entre production et destruction permanentes.",
+      "tags": [
+        "ozone",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Par condensation de la vapeur d'eau en altitude",
+          "Par les émissions volcaniques riches en soufre",
+          "Par la combustion des météorites entrant dans l'atmosphère"
+        ],
+        "medium": [
+          "Par la réaction du dioxygène avec le dioxyde de carbone",
+          "Par l'action des rayons infrarouges sur le diazote",
+          "Par la photosynthèse des végétaux de haute altitude"
+        ],
+        "hard": [
+          "À partir du dioxyde de carbone dissocié par les ultraviolets",
+          "À partir du dioxygène dissocié par le rayonnement infrarouge",
+          "Par recombinaison du diazote et du dioxygène sous l'effet des éclairs"
+        ]
+      }
+    },
+    {
+      "recto": "Quel événement biologique majeur la couche d'ozone a-t-elle rendu possible ?",
+      "verso": "La colonisation des continents par les êtres vivants, à partir d'environ 450 millions d'années, en filtrant les ultraviolets les plus énergétiques",
+      "explanation": "Avant elle, seule l'eau protégeait suffisamment le vivant. La sortie des eaux suppose donc un bouclier atmosphérique préalable.",
+      "tags": [
+        "ozone",
+        "conséquence"
+      ],
+      "distractors": {
+        "easy": [
+          "L'apparition de la photosynthèse",
+          "L'apparition des premières cellules vivantes",
+          "La formation des océans"
+        ],
+        "medium": [
+          "L'explosion cambrienne des animaux marins",
+          "L'apparition de la respiration cellulaire",
+          "La diversification des mammifères"
+        ],
+        "hard": [
+          "La colonisation des continents il y a environ 2,4 milliards d'années",
+          "L'apparition des premiers vertébrés dans les océans",
+          "La formation des premiers récifs coralliens"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi le diazote est-il devenu le gaz majoritaire de l'atmosphère ?",
+      "verso": "Parce qu'il est chimiquement très peu réactif et qu'il s'est accumulé pendant que le dioxyde de carbone et la vapeur d'eau quittaient l'atmosphère",
+      "explanation": "Sa dominance n'est donc pas due à une production massive mais à sa stabilité : la triple liaison de la molécule la rend peu réactive dans les conditions de surface.",
+      "tags": [
+        "atmosphère",
+        "composition"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les volcans en émettent en quantité croissante",
+          "Parce que les êtres vivants en rejettent en respirant",
+          "Parce qu'il est le plus léger des gaz atmosphériques"
+        ],
+        "medium": [
+          "Parce que les plantes en produisent lors de la photosynthèse",
+          "Parce qu'il se forme par oxydation du dioxygène",
+          "Parce qu'il provient de la désintégration radioactive des roches"
+        ],
+        "hard": [
+          "Parce qu'il est très réactif et se renouvelle en permanence",
+          "Parce que sa masse molaire l'empêche de s'échapper vers l'espace",
+          "Parce que le cycle de l'azote biologique le régénère en excès"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre chronologique : quelles sont les grandes étapes de l'évolution de l'atmosphère terrestre ?",
+      "verso": "Dégazage volcanique et atmosphère riche en dioxyde de carbone, puis condensation des océans et piégeage du carbone, puis production de dioxygène par photosynthèse, puis formation de la couche d'ozone",
+      "explanation": "L'ordre est contraint par la logique : sans océan pas de piégeage du carbone, sans photosynthèse pas de dioxygène, sans dioxygène pas d'ozone.",
+      "tags": [
+        "chronologie",
+        "comparaison"
+      ],
+      "distractors": {
+        "easy": [
+          "Formation des océans, apparition des dinosaures, apparition de l'Homme, industrialisation",
+          "Atmosphère de dioxygène, puis de diazote, puis de dioxyde de carbone",
+          "Refroidissement, réchauffement, glaciation, réchauffement actuel"
+        ],
+        "medium": [
+          "Photosynthèse, dégazage volcanique, formation des océans, couche d'ozone",
+          "Couche d'ozone, colonisation des continents, dégazage, photosynthèse",
+          "Dégazage, formation de la couche d'ozone, océans, photosynthèse"
+        ],
+        "hard": [
+          "Dégazage, photosynthèse, océans, piégeage du carbone, ozone",
+          "Océans, dégazage volcanique, ozone, dioxygène atmosphérique",
+          "Dégazage, océans, ozone, photosynthèse, colonisation des continents"
+        ]
+      }
+    },
+    {
+      "recto": "Quels réservoirs de carbone échangent avec l'atmosphère à l'échelle de l'année ?",
+      "verso": "La biosphère continentale, l'océan de surface et les sols, dont les échanges rapides constituent le cycle court du carbone",
+      "explanation": "Le cycle long, lui, met en jeu les roches carbonatées et les combustibles fossiles sur des millions d'années. Confondre les deux échelles fausse tout raisonnement climatique.",
+      "tags": [
+        "carbone",
+        "cycle"
+      ],
+      "distractors": {
+        "easy": [
+          "Le noyau terrestre et le manteau profond",
+          "Les calottes polaires uniquement",
+          "Les météorites et la poussière interplanétaire"
+        ],
+        "medium": [
+          "Les roches calcaires et les gisements de charbon",
+          "L'océan profond et les sédiments abyssaux seuls",
+          "Le manteau supérieur par l'intermédiaire des volcans"
+        ],
+        "hard": [
+          "La biosphère, l'océan de surface et les combustibles fossiles",
+          "Les sols, l'océan profond et les roches carbonatées",
+          "L'océan de surface et le manteau, par les dorsales océaniques"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un stromatolithe ?",
+      "verso": "Une structure rocheuse feuilletée construite par l'activité de communautés microbiennes, notamment de cyanobactéries, qui témoigne d'une vie photosynthétique ancienne",
+      "explanation": "Certains dépassent 3 milliards d'années et comptent parmi les plus anciennes traces d'activité biologique. Il en existe encore aujourd'hui, en Australie notamment.",
+      "tags": [
+        "indices",
+        "vie"
+      ],
+      "distractors": {
+        "easy": [
+          "Un fossile de poisson primitif",
+          "Un cristal de quartz de grande taille",
+          "Un type de météorite riche en carbone"
+        ],
+        "medium": [
+          "Un dépôt de fer oxydé en couches alternées",
+          "Un fossile de plante du Carbonifère",
+          "Une roche volcanique formée sous l'eau"
+        ],
+        "hard": [
+          "Une structure rocheuse construite par des algues pluricellulaires",
+          "Un dépôt carbonaté d'origine purement chimique",
+          "Un récif corallien fossilisé du Précambrien"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est l'équation bilan de la photosynthèse ?",
+      "verso": "Le dioxyde de carbone et l'eau, en présence de lumière, produisent de la matière organique glucidique et du dioxygène",
+      "explanation": "C'est la réaction qui a fait basculer la chimie de l'atmosphère : elle prélève du carbone et libère du dioxygène, exactement l'inverse de la respiration.",
+      "tags": [
+        "photosynthèse",
+        "chimie"
+      ],
+      "distractors": {
+        "easy": [
+          "L'eau et le sel produisent du dioxygène et du sucre",
+          "Le dioxygène et l'eau produisent du dioxyde de carbone",
+          "La lumière seule produit de la matière organique"
+        ],
+        "medium": [
+          "Le dioxyde de carbone et le diazote produisent de la matière organique et du dioxygène",
+          "La matière organique et le dioxygène produisent du dioxyde de carbone et de l'eau",
+          "Le méthane et l'eau produisent du dioxyde de carbone et du dihydrogène"
+        ],
+        "hard": [
+          "Le dioxyde de carbone et l'eau produisent de la matière organique et de l'ozone",
+          "Le dioxyde de carbone et le dioxygène produisent de la matière organique et de l'eau",
+          "L'eau et la lumière produisent du dioxygène et du dihydrogène uniquement"
+        ]
+      }
+    },
+    {
+      "recto": "Comment se sont formés les combustibles fossiles ?",
+      "verso": "Par enfouissement et transformation, sur des millions d'années, de matière organique produite par la photosynthèse et soustraite à la décomposition",
+      "explanation": "Le charbon vient surtout de forêts du Carbonifère, le pétrole et le gaz de plancton marin. Les brûler libère en quelques décennies un carbone piégé depuis des centaines de millions d'années.",
+      "tags": [
+        "carbone",
+        "fossiles"
+      ],
+      "distractors": {
+        "easy": [
+          "Par refroidissement du magma en profondeur",
+          "Par compression de sable et de gravier",
+          "Par accumulation de météorites carbonées"
+        ],
+        "medium": [
+          "Par précipitation chimique du carbone dissous dans l'océan",
+          "Par transformation des roches calcaires sous forte pression",
+          "Par fossilisation directe des squelettes animaux"
+        ],
+        "hard": [
+          "Par enfouissement de matière organique intégralement décomposée au préalable",
+          "Par accumulation de carbonates biogènes dans les bassins sédimentaires",
+          "Par métamorphisme des schistes riches en fer"
+        ]
+      }
+    },
+    {
+      "recto": "Quel gaz de l'atmosphère primitive est aujourd'hui présent à l'état de traces mais reste un puissant gaz à effet de serre ?",
+      "verso": "Le méthane, dont la concentration est très faible mais dont le pouvoir de réchauffement par molécule est bien supérieur à celui du dioxyde de carbone",
+      "explanation": "Sa durée de séjour dans l'atmosphère est en revanche beaucoup plus courte, de l'ordre d'une dizaine d'années, ce qui change la stratégie d'action climatique le concernant.",
+      "tags": [
+        "gaz",
+        "effet de serre"
+      ],
+      "distractors": {
+        "easy": [
+          "Le diazote",
+          "L'argon",
+          "L'hélium"
+        ],
+        "medium": [
+          "Le dioxygène",
+          "Le monoxyde de carbone",
+          "Le dihydrogène"
+        ],
+        "hard": [
+          "Le protoxyde d'azote, principal gaz de l'atmosphère primitive",
+          "L'ozone stratosphérique",
+          "Le dioxyde de soufre volcanique"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la vapeur d'eau n'est-elle pas comptée dans la composition de l'air sec ?",
+      "verso": "Parce que sa proportion varie fortement dans le temps et dans l'espace, de quasiment zéro à plusieurs pour cent selon le lieu et la température",
+      "explanation": "C'est pourtant le premier gaz à effet de serre en abondance. Sa variabilité vient de ses changements d'état permanents entre les océans, l'atmosphère et les continents.",
+      "tags": [
+        "atmosphère",
+        "composition"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'elle n'est pas un gaz mais un liquide",
+          "Parce qu'elle est trop lourde pour rester en altitude",
+          "Parce qu'elle n'a aucun effet sur le climat"
+        ],
+        "medium": [
+          "Parce qu'elle est produite uniquement par les êtres vivants",
+          "Parce qu'elle se dissocie immédiatement sous l'effet du Soleil",
+          "Parce que sa concentration est trop faible pour être mesurée"
+        ],
+        "hard": [
+          "Parce qu'elle est chimiquement instable dans la troposphère",
+          "Parce que sa concentration est constante et sert de référence",
+          "Parce qu'elle n'absorbe pas le rayonnement infrarouge"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle était la teneur atmosphérique en dioxyde de carbone avant l'ère industrielle, et quelle est-elle aujourd'hui ?",
+      "verso": "Environ 280 parties par million avant 1850, contre plus de 410 parties par million aujourd'hui",
+      "explanation": "Cette augmentation d'environ 45 pour cent en moins de deux siècles n'a pas d'équivalent dans les 800 000 dernières années documentées par les carottes de glace.",
+      "tags": [
+        "carbone",
+        "chiffres"
+      ],
+      "distractors": {
+        "easy": [
+          "Environ 21 pour cent, comme aujourd'hui",
+          "Environ 1 pour cent avant, 10 pour cent aujourd'hui",
+          "Zéro avant l'industrialisation, 1 pour cent aujourd'hui"
+        ],
+        "medium": [
+          "Environ 180 parties par million avant, 280 aujourd'hui",
+          "Environ 400 parties par million avant, 280 aujourd'hui",
+          "Environ 100 parties par million avant, 200 aujourd'hui"
+        ],
+        "hard": [
+          "Environ 280 parties par million avant, 320 aujourd'hui",
+          "Environ 250 parties par million avant, 600 aujourd'hui",
+          "Environ 300 parties par million avant, 410 aujourd'hui"
+        ]
+      }
+    },
+    {
+      "recto": "Que nous apprennent les bulles d'air piégées dans les carottes de glace ?",
+      "verso": "La composition de l'atmosphère du passé, notamment sa teneur en dioxyde de carbone et en méthane, sur plusieurs centaines de milliers d'années",
+      "explanation": "Ces bulles sont des échantillons directs de l'air ancien. Associées à la mesure des isotopes de l'oxygène, elles relient composition atmosphérique et température passée.",
+      "tags": [
+        "indices",
+        "paléoclimat"
+      ],
+      "distractors": {
+        "easy": [
+          "La date exacte des éruptions volcaniques historiques",
+          "La position des continents dans le passé",
+          "La vitesse de rotation de la Terre autrefois"
+        ],
+        "medium": [
+          "La composition chimique de l'océan primitif",
+          "L'abondance des espèces animales du passé",
+          "L'intensité du champ magnétique terrestre"
+        ],
+        "hard": [
+          "La composition de l'atmosphère sur plusieurs dizaines de millions d'années",
+          "La teneur en dioxygène de l'atmosphère depuis la Grande Oxydation",
+          "La température de l'air directement mesurée dans les bulles"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une atmosphère réductrice ?",
+      "verso": "Une atmosphère dépourvue de dioxygène libre, dans laquelle les éléments chimiques se trouvent sous forme réduite comme le méthane ou le fer dissous",
+      "explanation": "L'atmosphère primitive était réductrice, l'actuelle est oxydante. Ce basculement, provoqué par la vie, est le fait chimique le plus important de l'histoire de la planète.",
+      "tags": [
+        "chimie",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Une atmosphère qui diminue de volume au cours du temps",
+          "Une atmosphère plus fine que l'atmosphère actuelle",
+          "Une atmosphère refroidie par les éruptions volcaniques"
+        ],
+        "medium": [
+          "Une atmosphère pauvre en dioxyde de carbone",
+          "Une atmosphère dont la pression diminue avec l'altitude",
+          "Une atmosphère riche en ozone protecteur"
+        ],
+        "hard": [
+          "Une atmosphère riche en dioxygène mais pauvre en ozone",
+          "Une atmosphère où les éléments sont sous forme oxydée",
+          "Une atmosphère dont la teneur en diazote diminue"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la Terre a-t-elle pu conserver son atmosphère alors que Mars l'a en grande partie perdue ?",
+      "verso": "Parce que sa masse plus élevée assure une gravité suffisante et parce que son champ magnétique la protège de l'érosion par le vent solaire",
+      "explanation": "Les deux facteurs comptent : la gravité retient les molécules, le champ magnétique dévie les particules chargées qui arrachent les gaz de la haute atmosphère.",
+      "tags": [
+        "comparaison planétaire",
+        "atmosphère"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que la Terre est plus proche du Soleil que Mars",
+          "Parce que la Terre tourne plus vite sur elle-même",
+          "Parce que Mars n'a jamais eu d'atmosphère"
+        ],
+        "medium": [
+          "Parce que la Terre possède une couche d'ozone et pas Mars",
+          "Parce que la Terre a une atmosphère plus légère, donc plus stable",
+          "Parce que Mars est dépourvue de volcanisme"
+        ],
+        "hard": [
+          "Parce que la Terre possède un champ magnétique, la gravité n'ayant aucun rôle",
+          "Parce que la masse de Mars est plus élevée mais son champ magnétique nul",
+          "Parce que la Terre a une température de surface plus basse"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la différence entre l'ozone stratosphérique et l'ozone troposphérique ?",
+      "verso": "L'ozone de la stratosphère protège le vivant en filtrant les ultraviolets, tandis que l'ozone formé près du sol est un polluant nocif pour la santé",
+      "explanation": "Même molécule, effets opposés selon l'altitude. On résume souvent la distinction par le bon ozone en haut, le mauvais ozone en bas.",
+      "tags": [
+        "ozone",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "L'un est un gaz, l'autre un liquide",
+          "L'un est naturel, l'autre n'existe pas",
+          "L'un est visible, l'autre invisible"
+        ],
+        "medium": [
+          "L'ozone du sol filtre les ultraviolets, celui de la stratosphère est un polluant",
+          "L'ozone stratosphérique est produit par l'industrie, l'autre par la nature",
+          "L'ozone troposphérique protège du réchauffement, l'autre l'accentue"
+        ],
+        "hard": [
+          "L'ozone stratosphérique est composé de deux atomes d'oxygène, l'autre de trois",
+          "Seul l'ozone troposphérique absorbe les ultraviolets, mais en faible quantité",
+          "L'ozone stratosphérique est un polluant, celui du sol un protecteur"
+        ]
+      }
+    },
+    {
+      "recto": "Quel est l'ordre de grandeur de l'âge de la Terre et celui de l'apparition de la vie ?",
+      "verso": "La Terre s'est formée il y a environ 4,6 milliards d'années et les premières traces de vie datent d'environ 3,8 à 3,5 milliards d'années",
+      "explanation": "La vie est donc apparue relativement tôt, quelques centaines de millions d'années après la formation des océans, mais est restée microscopique pendant des milliards d'années.",
+      "tags": [
+        "chronologie",
+        "ordres de grandeur"
+      ],
+      "distractors": {
+        "easy": [
+          "6 000 ans pour la Terre, 4 000 ans pour la vie",
+          "1 million d'années pour la Terre, 500 000 ans pour la vie",
+          "13,8 milliards d'années pour la Terre, comme l'Univers"
+        ],
+        "medium": [
+          "4,6 milliards d'années pour la Terre, 540 millions d'années pour la vie",
+          "2,4 milliards d'années pour la Terre, 1 milliard pour la vie",
+          "4,6 milliards d'années pour la Terre, 66 millions pour la vie"
+        ],
+        "hard": [
+          "4,6 milliards d'années pour la Terre, 2,4 milliards pour la vie",
+          "4,5 milliards d'années pour la Terre, 4,4 milliards pour la vie",
+          "3,8 milliards d'années pour la Terre, 3,5 milliards pour la vie"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi dit-on que l'atmosphère actuelle est un produit de l'histoire de la vie ?",
+      "verso": "Parce que sa composition résulte de l'activité biologique, la photosynthèse ayant produit le dioxygène et l'enfouissement de matière organique ayant retiré le carbone",
+      "explanation": "Aucune planète voisine ne présente une telle composition hors équilibre chimique : c'est précisément ce déséquilibre qui signale la présence du vivant.",
+      "tags": [
+        "synthèse",
+        "vie"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les êtres vivants respirent de l'air",
+          "Parce que l'atmosphère contient de la poussière organique",
+          "Parce que les animaux ont besoin d'oxygène pour vivre"
+        ],
+        "medium": [
+          "Parce que les volcans émettent des gaz issus de la biosphère",
+          "Parce que les océans se sont formés grâce aux êtres vivants",
+          "Parce que le diazote provient de la décomposition des organismes"
+        ],
+        "hard": [
+          "Parce que le dioxyde de carbone actuel provient uniquement de la respiration",
+          "Parce que le diazote majoritaire est un rejet biologique direct",
+          "Parce que la couche d'ozone est produite par les végétaux terrestres"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,666 @@
+{
+  "id": "ses-terminale-ecole",
+  "title": "L'action de l'école sur les destins individuels et sur la société",
+  "emoji": "🎓",
+  "subject": "ses",
+  "country": "fr",
+  "courseDescription": "Spé SES · Terminale — massification et démocratisation scolaires, inégalités de réussite, capital culturel et stratégies familiales, dévaluation des diplômes, école et mobilité sociale.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>L'action de l'école sur les destins individuels et sur la société</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · spécialité SES<br>\n  <b>Thème&nbsp;:</b> Sociologie et science politique — chapitre 2<br>\n  <b>Chapitre</b> · environ 3 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> L'école libère-t-elle les individus de leur origine sociale, ou la confirme-t-elle&nbsp;?</p></blockquote>\n\n<p>Jamais autant de jeunes n'ont été scolarisés aussi longtemps, et jamais l'origine sociale n'a autant pesé sur ce que chacun devient. Ce constat paradoxal est le cœur du chapitre. Il tient en une distinction qu'il faut poser d'emblée&nbsp;: <strong>plus d'élèves</strong> n'est pas la même chose que <strong>moins d'inégalités</strong>. Le reste consiste à expliquer pourquoi les écarts résistent — deux grandes explications, complémentaires — puis à examiner ce que le diplôme vaut réellement une fois obtenu.</p>\n\n<h2>1 · Massification n'est pas démocratisation</h2>\n\n<div class=\"callout\">\n  <strong>Notion · Massification / démocratisation</strong><br>\n  La <em>massification</em> est un fait quantitatif&nbsp;: plus d'élèves accèdent aux différents niveaux d'enseignement.<br>\n  La <em>démocratisation</em> suppose une <strong>réduction des écarts</strong> de réussite et d'orientation entre groupes sociaux. Elle est <em>quantitative</em> (accès) ou <em>qualitative</em> (écarts).\n</div>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Distinction entre massification et démocratisation : la massification élargit l'accès pour tous les groupes sociaux sans réduire les écarts entre eux, tandis que la démocratisation qualitative suppose un resserrement de ces écarts ; la démocratisation ségrégative correspond à un accès élargi mais concentré dans des filières moins valorisées\">\n    <text x=\"8\" y=\"16\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Accès au baccalauréat, par origine sociale</text>\n    <text x=\"14\" y=\"42\" font-size=\"9\" fill=\"currentColor\">hier</text>\n    <rect x=\"54\" y=\"32\" width=\"46\" height=\"14\" rx=\"7\" fill=\"var(--accent)\" fill-opacity=\".45\"/>\n    <text x=\"106\" y=\"42\" font-size=\"8\" class=\"s-muted\">favorisés</text>\n    <rect x=\"54\" y=\"52\" width=\"16\" height=\"14\" rx=\"7\" fill=\"var(--accent)\" fill-opacity=\".22\"/>\n    <text x=\"106\" y=\"62\" font-size=\"8\" class=\"s-muted\">modestes</text>\n    <text x=\"14\" y=\"98\" font-size=\"9\" fill=\"currentColor\">aujourd'hui</text>\n    <rect x=\"54\" y=\"88\" width=\"132\" height=\"14\" rx=\"7\" fill=\"var(--accent)\" fill-opacity=\".45\"/>\n    <rect x=\"54\" y=\"108\" width=\"92\" height=\"14\" rx=\"7\" fill=\"var(--accent)\" fill-opacity=\".22\"/>\n    <text x=\"200\" y=\"98\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">tous progressent</text>\n    <text x=\"200\" y=\"118\" font-size=\"9\" fill=\"currentColor\">l'écart demeure</text>\n    <line x1=\"8\" y1=\"136\" x2=\"332\" y2=\"136\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"154\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">Massification :</text>\n    <text x=\"104\" y=\"154\" font-size=\"9\" fill=\"currentColor\">les barres s'allongent.</text>\n    <text x=\"8\" y=\"170\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">Démocratisation :</text>\n    <text x=\"116\" y=\"170\" font-size=\"9\" fill=\"currentColor\">l'écart entre elles se resserre.</text>\n    <text x=\"8\" y=\"186\" font-size=\"9\" class=\"s-muted\">Ségrégative : l'écart se déplace de l'accès vers la filière.</text>\n  </svg>\n  <figcaption>Deux barres qui s'allongent ensemble ne se rapprochent pas pour autant.</figcaption>\n</figure>\n\n<p>Quand l'accès à un niveau se généralise, la distinction se déplace&nbsp;: du baccalauréat vers le <em>type</em> de baccalauréat, puis vers la filière du supérieur. C'est ce qu'on appelle une <strong>démocratisation ségrégative</strong>&nbsp;— l'accès s'élargit, mais les élèves d'origine modeste se concentrent dans les filières les moins valorisées.</p>\n\n<p>D'où une exigence méthodologique&nbsp;: mesurer les inégalités scolaires suppose de <strong>croiser trois indicateurs</strong> — taux d'accès aux diplômes, résultats aux évaluations, répartition entre filières. Le seul taux d'accès masque les écarts d'orientation&nbsp;; les seuls résultats masquent les écarts de parcours.</p>\n\n<h2>2 · Deux explications complémentaires</h2>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Articulation des explications de Bourdieu et de Boudon : l'héritage culturel inégal produit d'abord des écarts de réussite scolaire, puis les choix d'orientation différenciés amplifient ces écarts à niveau scolaire équivalent, les deux mécanismes intervenant à des moments successifs du parcours\">\n    <rect x=\"8\" y=\"20\" width=\"146\" height=\"60\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"81\" y=\"40\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">Bourdieu</text>\n    <text x=\"81\" y=\"57\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">capital culturel hérité</text>\n    <text x=\"81\" y=\"71\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">décalage avec l'école</text>\n    <rect x=\"186\" y=\"20\" width=\"146\" height=\"60\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"259\" y=\"40\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">Boudon</text>\n    <text x=\"259\" y=\"57\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">choix d'orientation</text>\n    <text x=\"259\" y=\"71\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">coûts, bénéfices, risques</text>\n    <line x1=\"81\" y1=\"84\" x2=\"81\" y2=\"104\" stroke=\"var(--accent)\" stroke-opacity=\".55\"/>\n    <line x1=\"259\" y1=\"84\" x2=\"259\" y2=\"104\" stroke=\"var(--accent)\" stroke-opacity=\".55\"/>\n    <rect x=\"8\" y=\"108\" width=\"146\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"81\" y=\"129\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">écarts de réussite</text>\n    <rect x=\"186\" y=\"108\" width=\"146\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"259\" y=\"123\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">écarts d'orientation</text>\n    <text x=\"259\" y=\"136\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">à niveau scolaire égal</text>\n    <line x1=\"154\" y1=\"125\" x2=\"184\" y2=\"125\" stroke=\"var(--accent)\" stroke-opacity=\".6\" stroke-width=\"1.5\"/>\n    <text x=\"170\" y=\"164\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">deux mécanismes successifs, donc cumulatifs</text>\n    <text x=\"170\" y=\"182\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">Les opposer frontalement, c'est manquer leur complémentarité.</text>\n  </svg>\n  <figcaption>L'inégalité précède le choix (Bourdieu), puis se construit dans le choix (Boudon).</figcaption>\n</figure>\n\n<h3>Bourdieu&nbsp;: l'héritage culturel</h3>\n\n<p>Les inégalités de réussite s'expliquent par la transmission familiale d'un <strong>capital culturel</strong> inégalement réparti, que l'école <em>valorise implicitement sans l'enseigner</em>. Les élèves des milieux favorisés arrivent avec un rapport au langage, à la culture et au savoir déjà conforme aux attentes scolaires. L'école paraît neutre alors qu'elle sanctionne des différences produites en amont.</p>\n\n<p>S'y ajoute la <strong>violence symbolique</strong>&nbsp;: la culture des groupes dominants s'impose comme culture <em>légitime</em>, acceptée comme naturelle par ceux-là mêmes qu'elle défavorise. Sa force tient à ce qu'elle n'est pas perçue comme une violence — l'échec est vécu comme un manque personnel plutôt que comme un effet social.</p>\n\n<h3>Boudon&nbsp;: les choix rationnels</h3>\n\n<p>À <em>résultats scolaires identiques</em>, les familles n'évaluent pas de la même façon le <strong>coût</strong> des études, le <strong>bénéfice</strong> attendu et le <strong>risque</strong> d'échec. Pour une famille modeste, des études longues représentent un coût relatif plus lourd, un risque perçu plus élevé, un bénéfice moins évident. Les décisions divergent donc, sans qu'aucune ne soit irrationnelle.</p>\n\n<p>L'<strong>autocensure</strong> prolonge les deux explications&nbsp;: renoncer de soi-même à une filière ambitieuse, faute de s'y sentir légitime ou par anticipation d'un échec. Elle explique qu'à résultats égaux, les élèves d'origine modeste demandent moins souvent les filières les plus sélectives.</p>\n\n<h3>Ce que les familles et les établissements ajoutent</h3>\n\n<p>Les <strong>stratégies familiales</strong> — choix de l'établissement, recours au privé, options rares, soutien scolaire — supposent à la fois de l'<em>information</em> sur le système et des <em>moyens</em>&nbsp;: deux ressources concentrées dans les milieux favorisés. Elles nourrissent la ségrégation entre établissements, et donc l'<strong>effet d'établissement</strong>&nbsp;: l'influence propre de l'établissement fréquenté sur la réussite, indépendamment des caractéristiques individuelles des élèves.</p>\n\n<p>Enfin, les inégalités de <strong>genre</strong> inversent le schéma habituel&nbsp;: les filles réussissent mieux et sont plus diplômées, mais s'orientent moins vers les filières scientifiques et techniques les plus valorisées sur le marché du travail. L'inégalité porte ici sur l'orientation, pas sur la réussite&nbsp;— et se traduit ensuite en écarts de carrière.</p>\n\n<h2>3 · Que vaut le diplôme&nbsp;?</h2>\n\n<div class=\"callout\">\n  <strong>Notion · Dévaluation des diplômes</strong><br>\n  Baisse de la valeur <em>relative</em> d'un diplôme quand le nombre de ses titulaires croît plus vite que celui des emplois correspondants. Le diplôme donne accès à des positions moins élevées qu'avant&nbsp;— mais reste toujours plus rentable que son absence.\n</div>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Le paradoxe d'Anderson : un enfant plus diplômé que ses parents n'occupe pas nécessairement une position sociale supérieure, parce que le niveau de diplôme de l'ensemble de sa génération s'est élevé et que la comparaison pertinente se fait avec ses contemporains et non avec la génération précédente\">\n    <text x=\"8\" y=\"18\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Le paradoxe d'Anderson</text>\n    <rect x=\"8\" y=\"30\" width=\"130\" height=\"46\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".14\" stroke=\"var(--accent)\" stroke-opacity=\".45\"/>\n    <text x=\"73\" y=\"48\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">parents</text>\n    <text x=\"73\" y=\"64\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">baccalauréat</text>\n    <rect x=\"196\" y=\"30\" width=\"130\" height=\"46\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".25\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"261\" y=\"48\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">enfant</text>\n    <text x=\"261\" y=\"64\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">licence</text>\n    <line x1=\"140\" y1=\"53\" x2=\"192\" y2=\"53\" stroke=\"var(--accent)\" stroke-opacity=\".55\" stroke-width=\"1.5\"/>\n    <text x=\"166\" y=\"46\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">plus diplômé</text>\n    <rect x=\"60\" y=\"92\" width=\"220\" height=\"32\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"112\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">et pourtant : position sociale équivalente</text>\n    <text x=\"8\" y=\"146\" font-size=\"9\" fill=\"currentColor\">Toute la génération s'est élevée en même temps.</text>\n    <text x=\"8\" y=\"164\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">La comparaison qui compte est celle avec ses contemporains.</text>\n  </svg>\n  <figcaption>Ce paradoxe éclaire le sentiment de déclassement de jeunes pourtant plus formés que leurs parents.</figcaption>\n</figure>\n\n<p>Attention à ne pas déduire de la dévaluation que le diplôme serait devenu inutile&nbsp;: à chaque époque, <strong>chômage et revenu restent fortement liés au niveau de diplôme</strong>. La dévaluation est <em>relative</em>&nbsp;; elle n'annule pas l'avantage du diplôme sur le non-diplôme.</p>\n\n<h2>4 · École, mobilité et justice</h2>\n\n<p>L'école contribue réellement à la <strong>mobilité sociale</strong> en offrant par le diplôme une voie d'accès à des positions différentes de celles des parents. Cette contribution reste limitée par les inégalités de réussite et d'orientation en amont. D'où la formule&nbsp;: l'école est à la fois <strong>émancipatrice et reproductrice</strong>&nbsp;— le premier constat porte sur des trajectoires individuelles, le second sur des régularités statistiques d'ensemble. Les deux sont compatibles.</p>\n\n<p>L'<strong>idéal méritocratique</strong> veut que les positions soient attribuées selon le mérite, mesuré par les résultats scolaires. Il fonde la légitimité du diplôme, mais suppose que la compétition soit équitable&nbsp;— or le mérite mesuré reflète en partie l'héritage.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Égalité des chances / égalité des positions</strong><br>\n  L'<em>égalité des chances</em> vise des possibilités identiques d'accéder à toutes les positions&nbsp;: elle accepte la hiérarchie et cherche à en rendre l'accès équitable.<br>\n  L'<em>égalité des positions</em> vise à réduire les écarts entre les positions elles-mêmes. Une compétition parfaitement équitable pour des positions très inégales resterait socialement très dure.\n</div>\n\n<p>Les <strong>politiques d'éducation prioritaire</strong> appliquent le principe de discrimination positive&nbsp;: donner davantage aux établissements accueillant les publics les plus défavorisés. Leur efficacité fait débat, notamment parce que le renforcement des moyens peut être annulé par l'<em>évitement scolaire</em> des familles les mieux informées.</p>\n\n<p>Enfin, l'action de l'école ne se limite pas aux destins individuels&nbsp;: en élevant le niveau général de qualification, en transmettant des valeurs communes et en socialisant les jeunes générations, elle nourrit la croissance par le capital humain et contribue à l'intégration sociale.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Le raisonnement du chapitre</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Frise du raisonnement du chapitre : distinguer massification et démocratisation, mesurer les inégalités en croisant trois indicateurs, expliquer par l'héritage culturel puis par les choix d'orientation, examiner la valeur du diplôme obtenu, puis discuter méritocratie et politiques éducatives\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"176\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">1. Distinguer</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Massification, démocratisation, ségrégation</text>\n    <circle cx=\"26\" cy=\"60\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"57\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">2. Mesurer</text>\n    <text x=\"44\" y=\"70\" font-size=\"10\" fill=\"currentColor\">Accès, résultats, filières : les trois</text>\n    <circle cx=\"26\" cy=\"100\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"97\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">3. Expliquer</text>\n    <text x=\"44\" y=\"110\" font-size=\"10\" fill=\"currentColor\">Héritage culturel, puis choix d'orientation</text>\n    <circle cx=\"26\" cy=\"140\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"137\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">4. Évaluer le diplôme</text>\n    <text x=\"44\" y=\"150\" font-size=\"10\" fill=\"currentColor\">Dévaluation relative, paradoxe d'Anderson</text>\n    <circle cx=\"26\" cy=\"176\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"173\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">5. Discuter</text>\n    <text x=\"44\" y=\"186\" font-size=\"10\" fill=\"currentColor\">Méritocratie, égalité des chances, politiques</text>\n  </svg>\n  <figcaption>L'étape 3 est le cœur du chapitre&nbsp;: deux auteurs, articulés et non opposés.</figcaption>\n</figure>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition en une ligne</th></tr>\n  <tr><td>Massification</td><td>Hausse de la proportion d'élèves scolarisés</td></tr>\n  <tr><td>Démocratisation ségrégative</td><td>Accès élargi, filières inégalement réparties</td></tr>\n  <tr><td>Violence symbolique</td><td>Culture dominante imposée comme légitime</td></tr>\n  <tr><td>Autocensure</td><td>Renoncement anticipé à une orientation ambitieuse</td></tr>\n  <tr><td>Effet d'établissement</td><td>Influence propre de l'établissement fréquenté</td></tr>\n  <tr><td>Dévaluation des diplômes</td><td>Baisse de la valeur relative d'un diplôme</td></tr>\n</table>\n\n<h3>Auteurs et mécanismes</h3>\n\n<table>\n  <tr><th>Référence</th><th>Mécanisme</th></tr>\n  <tr><td>Pierre Bourdieu</td><td>Capital culturel hérité, violence symbolique, reproduction</td></tr>\n  <tr><td>Raymond Boudon</td><td>Choix rationnels d'orientation, coûts-bénéfices-risques</td></tr>\n  <tr><td>Paradoxe d'Anderson</td><td>Plus diplômé que ses parents, position équivalente</td></tr>\n  <tr><td>Méritocratie</td><td>Positions attribuées selon le mérite scolaire</td></tr>\n  <tr><td>Éducation prioritaire</td><td>Discrimination positive, moyens renforcés</td></tr>\n</table>\n\n<h3>Mécanismes à savoir rédiger</h3>\n\n<table>\n  <tr><th>Enchaînement</th><th>Étapes</th></tr>\n  <tr><td>Reproduction culturelle</td><td>Socialisation familiale → capital culturel → conformité aux attentes → réussite</td></tr>\n  <tr><td>Inégalités d'orientation</td><td>Résultats égaux → évaluation différente des risques → choix divergents → écarts amplifiés</td></tr>\n  <tr><td>Ségrégation scolaire</td><td>Information et moyens → stratégies d'évitement → composition des établissements → effet d'établissement</td></tr>\n  <tr><td>Déplacement des inégalités</td><td>Accès généralisé → distinction par la filière → écarts relatifs maintenus</td></tr>\n  <tr><td>Dévaluation</td><td>Diplômés plus nombreux que les emplois → position moins élevée → sentiment de déclassement</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Confondre <strong>massification</strong> et <strong>démocratisation</strong>. Davantage d'élèves accèdent aux études, mais les écarts de réussite et d'orientation peuvent persister et simplement se déplacer vers des filières hiérarchisées. Deux erreurs voisines&nbsp;: déduire de la dévaluation des diplômes qu'ils seraient devenus inutiles, alors que chômage et revenu restent fortement liés au diplôme&nbsp;; et opposer frontalement Bourdieu et Boudon, alors que leurs mécanismes interviennent à des moments <em>successifs</em> du parcours et se cumulent.\n</div>\n\n<blockquote><p>L'école a tenu sa promesse d'accueillir tout le monde&nbsp;; elle n'a pas tenu celle de rendre l'origine sociale indifférente. C'est entre ces deux vérités, également documentées, que se joue tout le chapitre.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Spécialité SES — Sociologie et science politique",
+  "cards": [
+    {
+      "recto": "Qu'appelle-t-on la massification scolaire ?",
+      "verso": "L'augmentation du nombre et de la proportion d'élèves accédant aux différents niveaux d'enseignement, notamment au secondaire et au supérieur",
+      "explanation": "Elle se mesure par la hausse des taux de scolarisation et de la part d'une génération obtenant le baccalauréat. C'est un fait quantitatif incontestable, qui ne dit rien à lui seul de la réduction des inégalités.",
+      "tags": [
+        "massification",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "L'augmentation du nombre d'enseignants",
+          "La construction de nouveaux établissements",
+          "L'allongement des vacances scolaires"
+        ],
+        "medium": [
+          "La réduction des inégalités d'accès selon l'origine sociale",
+          "L'uniformisation des programmes sur tout le territoire",
+          "L'augmentation du nombre d'élèves par classe"
+        ],
+        "hard": [
+          "L'augmentation de la proportion d'élèves accédant aux différents niveaux, ce qui implique une réduction des inégalités",
+          "L'augmentation de la scolarisation, phénomène limité à l'enseignement primaire",
+          "L'augmentation du nombre d'élèves, mesurée en effectifs absolus et non en proportion d'une génération"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : la massification scolaire équivaut-elle à une démocratisation ?",
+      "verso": "Non : davantage d'élèves accèdent aux études, mais les écarts de réussite et d'orientation selon l'origine sociale peuvent persister, voire se déplacer vers des filières hiérarchisées",
+      "explanation": "La démocratisation suppose une réduction des écarts entre groupes sociaux, ce que la seule hausse des effectifs ne garantit pas. C'est la confusion la plus fréquente du chapitre, et elle fausse tout le raisonnement qui suit.",
+      "tags": [
+        "piege",
+        "démocratisation"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, les deux mots sont synonymes",
+          "Oui, dès lors que l'école est gratuite",
+          "Non, car la massification concerne uniquement le primaire"
+        ],
+        "medium": [
+          "Oui, à condition que le taux d'accès au baccalauréat dépasse la moitié d'une génération",
+          "Non, car la massification réduit mécaniquement le niveau des élèves",
+          "Oui, puisque tous les élèves suivent désormais les mêmes programmes"
+        ],
+        "hard": [
+          "Non, les écarts pouvant persister, ce qui signifie qu'aucune démocratisation n'a eu lieu en France",
+          "Non, mais la massification garantit au moins une démocratisation qualitative",
+          "Non, la démocratisation supposant une hausse du nombre d'élèves plus rapide que celle des diplômes délivrés"
+        ]
+      }
+    },
+    {
+      "recto": "Que distingue-t-on entre démocratisation quantitative et démocratisation qualitative ?",
+      "verso": "La démocratisation quantitative désigne l'accès d'un plus grand nombre à un niveau d'études, la démocratisation qualitative la réduction des écarts de réussite et d'orientation entre groupes sociaux",
+      "explanation": "La première peut être atteinte sans la seconde, si les élèves d'origine modeste accèdent aux études mais dans des filières moins valorisées. C'est ce que l'on appelle parfois une démocratisation ségrégative.",
+      "tags": [
+        "démocratisation",
+        "distinction"
+      ],
+      "distractors": {
+        "easy": [
+          "La quantitative concerne le primaire, la qualitative le secondaire",
+          "La quantitative est ancienne, la qualitative est récente",
+          "Les deux notions désignent la même chose"
+        ],
+        "medium": [
+          "La quantitative réduit les écarts entre groupes, la qualitative augmente le nombre d'élèves",
+          "La quantitative concerne les effectifs enseignants, la qualitative leur formation",
+          "La quantitative mesure la réussite, la qualitative l'accès"
+        ],
+        "hard": [
+          "La quantitative désigne l'accès du plus grand nombre, la qualitative la réduction des écarts, la première entraînant nécessairement la seconde",
+          "La quantitative concerne l'accès, la qualitative le niveau réel des élèves mesuré par les évaluations",
+          "La quantitative désigne la réduction des écarts d'accès, la qualitative celle des écarts de diplômes obtenus"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on une démocratisation ségrégative ?",
+      "verso": "Une situation où l'accès aux études s'élargit, mais où les élèves d'origine modeste se concentrent dans les filières les moins valorisées",
+      "explanation": "Les inégalités ne disparaissent pas : elles se déplacent de l'accès vers l'orientation. C'est pourquoi il faut examiner non seulement le taux d'accès à un diplôme, mais aussi la filière dans laquelle il est obtenu.",
+      "tags": [
+        "démocratisation",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Une école réservée à certains élèves",
+          "La séparation des filles et des garçons",
+          "La création d'établissements privés"
+        ],
+        "medium": [
+          "Une situation où l'accès aux études se restreint pour tous",
+          "Une situation où les inégalités disparaissent complètement",
+          "Une situation où les élèves modestes accèdent aux filières les plus valorisées"
+        ],
+        "hard": [
+          "Une situation où l'accès s'élargit et où les inégalités disparaissent au profit d'une hiérarchie de filières neutre",
+          "Une situation où l'accès s'élargit, les inégalités se déplaçant de l'orientation vers l'accès",
+          "Une situation où l'accès s'élargit uniquement dans les filières générales"
+        ]
+      }
+    },
+    {
+      "recto": "Comment Pierre Bourdieu explique-t-il les inégalités de réussite scolaire ?",
+      "verso": "Par la transmission familiale d'un capital culturel inégalement réparti, que l'école valorise implicitement sans l'enseigner",
+      "explanation": "Les élèves des milieux favorisés arrivent avec un rapport au langage, à la culture et au savoir déjà conforme aux attentes scolaires. L'école apparaît alors neutre alors qu'elle sanctionne des différences produites en amont.",
+      "tags": [
+        "Bourdieu",
+        "théorie"
+      ],
+      "distractors": {
+        "easy": [
+          "Par les différences de capacités intellectuelles innées",
+          "Par le manque de travail des élèves en difficulté",
+          "Par la qualité inégale des enseignants"
+        ],
+        "medium": [
+          "Par des choix d'orientation rationnels effectués par les familles",
+          "Par le manque de moyens financiers des familles modestes",
+          "Par l'absence d'ambition des élèves d'origine populaire"
+        ],
+        "hard": [
+          "Par la transmission d'un capital culturel inégal, que l'école enseigne explicitement à tous les élèves",
+          "Par la transmission d'un capital culturel inégal, mécanisme qui rend l'école effectivement neutre",
+          "Par la transmission d'un capital économique inégal, dont dépend l'accès aux établissements les plus réputés"
+        ]
+      }
+    },
+    {
+      "recto": "Que désigne la violence symbolique dans l'analyse de l'école ?",
+      "verso": "L'imposition de la culture des groupes dominants comme culture légitime, acceptée comme naturelle par ceux-là mêmes qu'elle défavorise",
+      "explanation": "Sa force tient précisément à ce qu'elle n'est pas perçue comme une violence : l'échec est vécu comme un manque personnel plutôt que comme un effet social. C'est ce qui rend la reproduction acceptable aux yeux de ceux qui la subissent.",
+      "tags": [
+        "Bourdieu",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Les violences physiques dans les établissements scolaires",
+          "Les sanctions disciplinaires prononcées par l'école",
+          "Les menaces verbales entre élèves"
+        ],
+        "medium": [
+          "L'imposition de règles disciplinaires strictes aux élèves",
+          "La sélection par les notes et les examens",
+          "L'obligation scolaire imposée par la loi jusqu'à seize ans"
+        ],
+        "hard": [
+          "L'imposition de la culture dominante comme légitime, imposition perçue comme telle par ceux qu'elle défavorise",
+          "L'imposition d'une culture légitime, mécanisme qui rend l'échec scolaire perçu comme un effet social",
+          "L'imposition de la culture dominante, qui ne concerne que l'enseignement supérieur"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : qu'est-ce qui distingue l'explication de Bourdieu de celle de Boudon sur les inégalités scolaires ?",
+      "verso": "Bourdieu explique les inégalités par un héritage culturel inégal qui produit un décalage avec les attentes de l'école, tandis que Boudon les explique par des choix d'orientation rationnels, les familles n'évaluant pas de la même façon les coûts, les bénéfices et les risques des études",
+      "explanation": "Chez Bourdieu, l'inégalité précède le choix ; chez Boudon, elle se construit dans le choix lui-même, à niveau scolaire équivalent. Les deux explications sont complémentaires plutôt que contradictoires, et une bonne copie les articule.",
+      "tags": [
+        "comparaison",
+        "théories"
+      ],
+      "distractors": {
+        "easy": [
+          "Bourdieu étudie le primaire et Boudon le secondaire",
+          "Bourdieu est sociologue et Boudon économiste",
+          "Les deux explications sont identiques"
+        ],
+        "medium": [
+          "Bourdieu explique les inégalités par des choix rationnels, Boudon par l'héritage culturel",
+          "Bourdieu insiste sur les capacités innées, Boudon sur le milieu familial",
+          "Bourdieu analyse l'orientation, Boudon la réussite aux examens"
+        ],
+        "hard": [
+          "Bourdieu explique par l'héritage culturel et Boudon par des choix rationnels, ces deux explications étant contradictoires et exclusives",
+          "Bourdieu explique par l'héritage culturel, Boudon par des choix rationnels effectués à niveau scolaire différent",
+          "Bourdieu explique par les stratégies familiales, Boudon par le décalage avec la culture scolaire"
+        ]
+      }
+    },
+    {
+      "recto": "Comment Raymond Boudon analyse-t-il les choix d'orientation des familles ?",
+      "verso": "Comme des décisions rationnelles où chaque famille compare le coût des études, le bénéfice attendu et le risque d'échec, ces éléments n'ayant pas le même poids selon le milieu social",
+      "explanation": "Pour une famille modeste, poursuivre des études longues représente un coût relatif plus lourd et un risque perçu plus élevé, tandis que le bénéfice paraît moins évident. À résultats scolaires identiques, les décisions divergent donc selon l'origine sociale.",
+      "tags": [
+        "Boudon",
+        "théorie"
+      ],
+      "distractors": {
+        "easy": [
+          "Comme des décisions imposées par les enseignants",
+          "Comme des choix effectués au hasard",
+          "Comme des décisions dictées par la loi"
+        ],
+        "medium": [
+          "Comme des décisions déterminées uniquement par le capital culturel hérité",
+          "Comme des décisions dépendant exclusivement des résultats scolaires",
+          "Comme des choix identiques dans tous les milieux à résultats équivalents"
+        ],
+        "hard": [
+          "Comme des décisions rationnelles comparant coûts, bénéfices et risques, ces éléments ayant le même poids dans tous les milieux",
+          "Comme des décisions rationnelles, dans lesquelles le risque d'échec ne joue aucun rôle",
+          "Comme des décisions rationnelles, qui ne se distinguent qu'entre élèves de niveaux scolaires différents"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on l'autocensure scolaire ?",
+      "verso": "Le fait pour un élève de renoncer de lui-même à une filière ou à une orientation ambitieuse, faute de s'y sentir légitime ou par anticipation d'un échec",
+      "explanation": "Elle prolonge les deux explications du chapitre : elle traduit à la fois un rapport à l'école hérité et une évaluation subjective des risques. Elle explique qu'à résultats égaux, les élèves d'origine modeste demandent moins souvent les filières les plus sélectives.",
+      "tags": [
+        "orientation",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "L'interdiction faite à certains élèves de choisir une filière",
+          "La suppression de certaines options par l'établissement",
+          "Le contrôle des devoirs par les parents"
+        ],
+        "medium": [
+          "Le refus par un conseil de classe d'une orientation demandée",
+          "Le choix d'une filière imposée par les résultats scolaires",
+          "Le fait pour un élève de viser une filière au-dessus de son niveau"
+        ],
+        "hard": [
+          "Le renoncement volontaire à une filière ambitieuse, phénomène qui ne concerne que les élèves aux résultats faibles",
+          "Le renoncement à une filière ambitieuse, qui traduit uniquement une évaluation objective des chances de réussite",
+          "Le renoncement à une filière ambitieuse, phénomène indépendant de l'origine sociale de l'élève"
+        ]
+      }
+    },
+    {
+      "recto": "Comment les stratégies familiales renforcent-elles les inégalités scolaires ?",
+      "verso": "Par le choix de l'établissement, le recours au privé, aux options rares ou au soutien scolaire, ressources inégalement accessibles selon le milieu social",
+      "explanation": "Ces stratégies supposent à la fois de l'information sur le fonctionnement du système et des moyens financiers, deux ressources concentrées dans les milieux favorisés. Elles expliquent une part de la ségrégation entre établissements.",
+      "tags": [
+        "stratégies",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Par le nombre d'enfants dans la famille",
+          "Par l'heure du coucher imposée aux enfants",
+          "Par le type de repas servi à la maison"
+        ],
+        "medium": [
+          "Par le seul niveau de revenu des familles",
+          "Par les décisions d'orientation prises par les enseignants",
+          "Par la localisation aléatoire des établissements sur le territoire"
+        ],
+        "hard": [
+          "Par le choix de l'établissement et des options, stratégies également accessibles à toutes les familles informées",
+          "Par le recours au soutien scolaire, ressource dont l'effet sur la ségrégation entre établissements est nul",
+          "Par le choix de l'établissement, stratégie qui suppose des moyens financiers mais aucune information particulière"
+        ]
+      }
+    },
+    {
+      "recto": "Que désigne l'effet d'établissement ?",
+      "verso": "L'influence propre de l'établissement fréquenté sur la réussite et l'orientation des élèves, indépendamment de leurs caractéristiques individuelles",
+      "explanation": "Il tient à la composition sociale du public accueilli, au climat scolaire et aux pratiques pédagogiques. Il justifie les politiques visant à limiter la ségrégation entre établissements plutôt qu'à agir sur les seuls élèves.",
+      "tags": [
+        "établissement",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "La taille des locaux d'un établissement",
+          "Le nombre d'élèves inscrits dans un établissement",
+          "L'ancienneté du bâtiment scolaire"
+        ],
+        "medium": [
+          "L'influence du niveau initial des élèves sur leurs résultats",
+          "L'effet de la taille des classes sur la réussite",
+          "L'influence du budget alloué par l'État à chaque établissement"
+        ],
+        "hard": [
+          "L'influence propre de l'établissement, entièrement expliquée par les caractéristiques individuelles des élèves",
+          "L'influence propre de l'établissement, qui tient uniquement aux pratiques pédagogiques des enseignants",
+          "L'influence propre de l'établissement, dont l'existence justifie de renoncer à toute politique de mixité"
+        ]
+      }
+    },
+    {
+      "recto": "Comment les inégalités scolaires se manifestent-elles selon le genre ?",
+      "verso": "Les filles réussissent en moyenne mieux et sont plus diplômées, mais s'orientent moins vers les filières scientifiques et techniques les plus valorisées sur le marché du travail",
+      "explanation": "L'inégalité ne porte donc pas sur la réussite mais sur l'orientation, ce qui inverse le schéma habituel. Ces écarts d'orientation, façonnés par la socialisation différenciée, se traduisent ensuite en écarts de carrière et de salaire.",
+      "tags": [
+        "genre",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Les garçons réussissent systématiquement mieux que les filles",
+          "Il n'existe plus aucune différence entre filles et garçons",
+          "Les filles quittent l'école plus tôt que les garçons"
+        ],
+        "medium": [
+          "Les filles réussissent moins bien mais s'orientent vers des filières plus valorisées",
+          "Les filles et les garçons s'orientent désormais de façon identique",
+          "Les filles réussissent mieux, ce qui supprime tout écart de salaire ultérieur"
+        ],
+        "hard": [
+          "Les filles réussissent mieux et s'orientent davantage vers les filières scientifiques, sans effet sur les carrières",
+          "Les filles réussissent mieux mais s'orientent moins vers les filières scientifiques, écart sans lien avec la socialisation",
+          "Les filles réussissent mieux et sont plus diplômées, ce qui leur assure des salaires équivalents à ceux des hommes"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on la dévaluation des diplômes ?",
+      "verso": "La baisse de la valeur relative d'un diplôme sur le marché du travail lorsque le nombre de ses titulaires augmente plus vite que le nombre d'emplois correspondants",
+      "explanation": "Un même diplôme donne alors accès à des positions moins élevées qu'auparavant, ce qui peut susciter un sentiment de déclassement. La dévaluation est relative : le diplôme reste plus rentable que son absence.",
+      "tags": [
+        "diplômes",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "La suppression de certains diplômes par l'État",
+          "La baisse du niveau des épreuves d'examen",
+          "La réduction de la durée des formations"
+        ],
+        "medium": [
+          "La baisse de la valeur absolue de tous les diplômes",
+          "La hausse du nombre d'emplois qualifiés disponibles",
+          "La baisse du nombre de diplômés dans une génération"
+        ],
+        "hard": [
+          "La baisse de la valeur relative d'un diplôme, qui rend le diplôme moins rentable que son absence",
+          "La baisse de la valeur relative d'un diplôme, phénomène indépendant du nombre de ses titulaires",
+          "La baisse de la valeur d'un diplôme lorsque le nombre d'emplois correspondants augmente plus vite que celui des diplômés"
+        ]
+      }
+    },
+    {
+      "recto": "Que dit le paradoxe d'Anderson sur la relation entre diplôme et position sociale ?",
+      "verso": "Être plus diplômé que ses parents ne garantit pas d'occuper une position sociale supérieure à la leur, en raison de l'élévation générale du niveau de diplôme",
+      "explanation": "La comparaison pertinente n'est pas avec la génération précédente mais avec les autres membres de sa propre génération. Ce paradoxe éclaire le sentiment de déclassement de jeunes diplômés pourtant plus formés que leurs parents.",
+      "tags": [
+        "diplômes",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Un diplôme élevé garantit toujours une position sociale élevée",
+          "Les diplômes ne servent à rien sur le marché du travail",
+          "Les enfants sont toujours moins diplômés que leurs parents"
+        ],
+        "medium": [
+          "Être moins diplômé que ses parents garantit une position sociale inférieure",
+          "L'élévation du niveau de diplôme garantit une mobilité sociale ascendante",
+          "La position sociale dépend uniquement du diplôme obtenu"
+        ],
+        "hard": [
+          "Être plus diplômé que ses parents ne garantit pas une position supérieure, la comparaison pertinente étant celle avec la génération précédente",
+          "Être plus diplômé que ses parents garantit une position supérieure dès lors que le diplôme est du supérieur",
+          "Être plus diplômé que ses parents ne garantit rien, ce qui prouve que le diplôme a perdu toute valeur"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi le diplôme reste-t-il malgré tout déterminant sur le marché du travail ?",
+      "verso": "Parce qu'à chaque époque, le taux de chômage et le niveau de revenu restent fortement liés au niveau de diplôme obtenu",
+      "explanation": "La dévaluation est un phénomène relatif, qui n'annule pas l'avantage du diplôme sur le non-diplôme. Confondre dévaluation relative et inutilité du diplôme est une erreur courante en dissertation.",
+      "tags": [
+        "diplômes",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les diplômes sont obligatoires pour travailler",
+          "Parce que les employeurs vérifient rarement les diplômes",
+          "Parce que le diplôme fixe directement le salaire par la loi"
+        ],
+        "medium": [
+          "Parce que le diplôme garantit un emploi à vie",
+          "Parce que la dévaluation a totalement disparu depuis les années 2000",
+          "Parce que le diplôme est le seul facteur d'accès à l'emploi"
+        ],
+        "hard": [
+          "Parce que chômage et revenu restent liés au diplôme, ce qui signifie que la dévaluation n'existe pas",
+          "Parce que le diplôme reste déterminant, son rendement étant identique quel que soit le niveau atteint",
+          "Parce que le diplôme reste déterminant, la dévaluation ne concernant que les diplômes du supérieur"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi l'école contribue-t-elle à la mobilité sociale ?",
+      "verso": "En offrant par le diplôme une voie d'accès à des positions différentes de celles des parents, ce qui rend possible la mobilité ascendante",
+      "explanation": "Cette contribution est réelle mais limitée par les inégalités de réussite et d'orientation qui subsistent en amont. L'école est donc à la fois un instrument de mobilité et un lieu de reproduction, sans contradiction.",
+      "tags": [
+        "mobilité",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "En imposant à chacun le métier de ses parents",
+          "En distribuant des aides financières aux familles",
+          "En supprimant toute forme de sélection"
+        ],
+        "medium": [
+          "En garantissant à chaque élève une position supérieure à celle de ses parents",
+          "En supprimant totalement les effets de l'origine sociale",
+          "En reproduisant à l'identique la structure sociale existante"
+        ],
+        "hard": [
+          "En offrant par le diplôme une voie d'accès à d'autres positions, ce qui exclut qu'elle soit aussi un lieu de reproduction",
+          "En rendant possible la mobilité ascendante, contribution qui supprime toute inégalité en amont",
+          "En rendant possible la mobilité, effet limité aux seules générations nées avant les années 1980"
+        ]
+      }
+    },
+    {
+      "recto": "Que signifie l'idéal méritocratique appliqué à l'école ?",
+      "verso": "L'idée que les positions sociales doivent être attribuées selon le mérite, mesuré par les résultats scolaires, et non selon l'origine sociale",
+      "explanation": "Il fonde la légitimité du diplôme comme critère d'accès aux positions, mais suppose que la compétition scolaire soit équitable. Or les inégalités en amont de l'école font que le mérite mesuré reflète en partie l'héritage.",
+      "tags": [
+        "méritocratie",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "L'idée que tous les élèves doivent obtenir les mêmes notes",
+          "L'idée que l'école doit être gratuite",
+          "L'idée que les enseignants doivent être bien payés"
+        ],
+        "medium": [
+          "L'idée que les positions doivent être attribuées selon l'origine sociale",
+          "L'idée que chacun doit occuper la position de ses parents",
+          "L'idée que les résultats scolaires ne doivent jouer aucun rôle"
+        ],
+        "hard": [
+          "L'idée que les positions doivent être attribuées selon le mérite, idéal qui suppose acquise l'équité de la compétition scolaire",
+          "L'idée que les positions doivent suivre le mérite, ce qui garantit que le mérite mesuré est indépendant de l'héritage",
+          "L'idée que les positions doivent suivre le mérite, mesuré par le seul niveau de revenu atteint"
+        ]
+      }
+    },
+    {
+      "recto": "Comment distingue-t-on l'égalité des chances de l'égalité des positions ?",
+      "verso": "L'égalité des chances vise à donner à chacun les mêmes possibilités d'accéder à toutes les positions, l'égalité des positions à réduire les écarts entre les positions elles-mêmes",
+      "explanation": "La première accepte la hiérarchie sociale et cherche à en rendre l'accès équitable, la seconde s'attaque à l'ampleur de cette hiérarchie. Une compétition parfaitement équitable pour des positions très inégales resterait socialement très dure.",
+      "tags": [
+        "justice",
+        "distinction"
+      ],
+      "distractors": {
+        "easy": [
+          "Les deux expressions désignent la même chose",
+          "L'égalité des chances concerne l'école, celle des positions l'entreprise",
+          "L'égalité des chances est ancienne, celle des positions est récente"
+        ],
+        "medium": [
+          "L'égalité des chances réduit les écarts entre positions, l'égalité des positions ouvre la compétition",
+          "L'égalité des chances suppose la suppression de toute hiérarchie sociale",
+          "L'égalité des positions consiste à donner à chacun la même position de départ"
+        ],
+        "hard": [
+          "L'égalité des chances ouvre la compétition, l'égalité des positions réduit les écarts, la première rendant la seconde inutile",
+          "L'égalité des chances vise des possibilités identiques, ce qui suppose de refuser toute hiérarchie sociale",
+          "L'égalité des positions réduit les écarts, objectif qui rend la compétition scolaire nécessairement équitable"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi consistent les politiques d'éducation prioritaire ?",
+      "verso": "À donner davantage de moyens humains et pédagogiques aux établissements accueillant les publics les plus défavorisés, afin de compenser les inégalités",
+      "explanation": "Elles appliquent le principe de discrimination positive : traiter différemment pour réduire les écarts. Leur efficacité fait débat, notamment parce que le renforcement des moyens peut être annulé par l'évitement scolaire des familles informées.",
+      "tags": [
+        "politiques",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "À réserver certains établissements aux meilleurs élèves",
+          "À supprimer les examens dans certains territoires",
+          "À réduire les moyens dans les établissements en difficulté"
+        ],
+        "medium": [
+          "À donner à tous les établissements exactement les mêmes moyens",
+          "À sélectionner les élèves à l'entrée des établissements réputés",
+          "À imposer aux familles un établissement tiré au sort"
+        ],
+        "hard": [
+          "À donner davantage de moyens aux établissements défavorisés, politique dont l'efficacité fait l'unanimité",
+          "À compenser les inégalités par des moyens supplémentaires, sans que l'évitement scolaire ne puisse en réduire l'effet",
+          "À appliquer une discrimination positive, ce qui suppose de traiter tous les établissements de façon identique"
+        ]
+      }
+    },
+    {
+      "recto": "Comment l'école agit-elle sur l'évolution d'ensemble de la société ?",
+      "verso": "En élevant le niveau général de qualification, en transmettant des valeurs communes et en participant à la socialisation des jeunes générations",
+      "explanation": "Son action ne se limite donc pas aux destins individuels : elle nourrit la croissance par le capital humain et contribue à l'intégration sociale. Ces effets collectifs justifient l'investissement public dans l'éducation.",
+      "tags": [
+        "société",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "En fixant le niveau des salaires dans l'économie",
+          "En organisant les élections nationales",
+          "En répartissant la population sur le territoire"
+        ],
+        "medium": [
+          "En agissant uniquement sur les trajectoires individuelles",
+          "En transmettant exclusivement des savoirs techniques",
+          "En reproduisant la structure sociale sans aucun autre effet"
+        ],
+        "hard": [
+          "En élevant le niveau de qualification et en socialisant, effets qui ne concernent pas la croissance économique",
+          "En transmettant des valeurs communes, action qui exclut toute contribution au capital humain",
+          "En élevant le niveau de qualification, ce qui suffit à garantir l'intégration sociale de tous les jeunes"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi le rapport à l'école varie-t-il selon les milieux sociaux ?",
+      "verso": "Parce que la familiarité avec les codes scolaires, les attentes placées dans les études et la confiance dans l'institution sont inégalement transmises par les familles",
+      "explanation": "Un élève dont les parents ont fait des études longues dispose d'un rapport d'évidence à l'école que d'autres doivent construire. Cette différence se joue avant tout apprentissage explicite, ce qui la rend difficile à corriger par la seule pédagogie.",
+      "tags": [
+        "socialisation",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que certaines familles habitent plus loin de l'école",
+          "Parce que les fournitures scolaires coûtent cher",
+          "Parce que les horaires de cours ne conviennent pas à tous"
+        ],
+        "medium": [
+          "Parce que les capacités intellectuelles varient selon les milieux",
+          "Parce que les enseignants notent différemment selon l'origine des élèves",
+          "Parce que les programmes scolaires diffèrent selon les territoires"
+        ],
+        "hard": [
+          "Parce que les codes scolaires sont inégalement transmis, transmission qui s'effectue principalement à l'école",
+          "Parce que la confiance dans l'institution est inégale, différence facilement corrigée par la pédagogie",
+          "Parce que les attentes placées dans les études varient, variations sans effet sur les choix d'orientation"
+        ]
+      }
+    },
+    {
+      "recto": "Comment mesure-t-on l'ampleur des inégalités scolaires ?",
+      "verso": "En comparant, selon l'origine sociale, les taux d'accès aux différents diplômes, les résultats aux évaluations et la répartition entre filières",
+      "explanation": "Combiner ces trois mesures est indispensable : le seul taux d'accès masque les écarts d'orientation, et les seuls résultats masquent les écarts de parcours. C'est cette combinaison qui permet de distinguer massification et démocratisation.",
+      "tags": [
+        "mesure",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En comptant le nombre d'élèves par établissement",
+          "En mesurant la distance entre le domicile et l'école",
+          "En comparant les budgets des établissements"
+        ],
+        "medium": [
+          "En comparant uniquement les taux d'accès au baccalauréat",
+          "En comparant uniquement les résultats aux évaluations nationales",
+          "En mesurant le nombre de redoublements par niveau"
+        ],
+        "hard": [
+          "En comparant taux d'accès, résultats et filières, ces trois mesures donnant nécessairement le même diagnostic",
+          "En comparant les taux d'accès aux diplômes, mesure suffisante pour distinguer massification et démocratisation",
+          "En comparant la répartition entre filières, seule mesure pertinente puisque les diplômes se sont dévalués"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi dit-on que l'école est à la fois émancipatrice et reproductrice ?",
+      "verso": "Parce qu'elle permet à des individus d'accéder à des positions différentes de celles de leurs parents, tout en tendant globalement à reproduire la hiérarchie sociale existante",
+      "explanation": "Les deux constats sont compatibles : le premier porte sur des trajectoires individuelles, le second sur des régularités statistiques d'ensemble. Confondre le cas particulier et la tendance générale est l'erreur classique du chapitre.",
+      "tags": [
+        "débat",
+        "raisonnement"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que certains élèves réussissent et d'autres échouent",
+          "Parce que les enseignants ont des méthodes différentes",
+          "Parce que les établissements ne se valent pas tous"
+        ],
+        "medium": [
+          "Parce qu'elle émancipe les garçons et reproduit les positions des filles",
+          "Parce qu'elle a été émancipatrice avant de devenir reproductrice",
+          "Parce qu'elle émancipe dans le supérieur et reproduit dans le secondaire"
+        ],
+        "hard": [
+          "Parce qu'elle permet des trajectoires ascendantes tout en reproduisant la hiérarchie, ces deux constats étant contradictoires",
+          "Parce qu'elle reproduit la hiérarchie sociale, ce qui interdit toute trajectoire individuelle ascendante",
+          "Parce qu'elle permet des trajectoires ascendantes, ce qui prouve que la reproduction statistique a disparu"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi les inégalités scolaires ne se réduisent-elles pas malgré la hausse du niveau d'éducation ?",
+      "verso": "Parce que tous les groupes sociaux progressent simultanément, si bien que les écarts relatifs se maintiennent en se déplaçant vers des niveaux et des filières plus élevés",
+      "explanation": "Quand l'accès au baccalauréat se généralise, la distinction se joue sur le type de baccalauréat, puis sur la filière du supérieur. Ce déplacement continu explique la persistance des écarts derrière une progression générale bien réelle.",
+      "tags": [
+        "démocratisation",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que le niveau d'éducation n'a en réalité pas augmenté",
+          "Parce que les élèves travaillent moins qu'avant",
+          "Parce que les enseignants sont moins nombreux"
+        ],
+        "medium": [
+          "Parce que seuls les milieux favorisés ont vu leur niveau progresser",
+          "Parce que les milieux modestes ont cessé de scolariser leurs enfants",
+          "Parce que les écarts relatifs se réduisent alors que les écarts absolus augmentent"
+        ],
+        "hard": [
+          "Parce que tous les groupes progressent, ce qui fait disparaître les écarts relatifs au profit des seuls écarts absolus",
+          "Parce que les écarts se déplacent vers des filières plus élevées, déplacement qui a cessé avec la généralisation du baccalauréat",
+          "Parce que tous les groupes progressent simultanément, progression qui suffit à démontrer une démocratisation qualitative"
+        ]
+      }
+    },
+    {
+      "recto": "Comment articuler les explications de Bourdieu et de Boudon dans une démonstration ?",
+      "verso": "En montrant que l'héritage culturel produit d'abord des écarts de réussite, puis que des choix d'orientation différenciés amplifient ces écarts à niveau scolaire équivalent",
+      "explanation": "Les deux mécanismes interviennent à des moments distincts du parcours, ce qui les rend cumulatifs plutôt que rivaux. Une copie qui oppose frontalement les deux auteurs manque cette complémentarité chronologique.",
+      "tags": [
+        "méthode",
+        "raisonnement"
+      ],
+      "distractors": {
+        "easy": [
+          "En choisissant l'un des deux auteurs et en ignorant l'autre",
+          "En affirmant que les deux se contredisent totalement",
+          "En les citant sans expliquer leurs mécanismes"
+        ],
+        "medium": [
+          "En montrant que les choix d'orientation précèdent toujours les écarts de réussite",
+          "En montrant que l'héritage culturel explique aussi les choix d'orientation, ce qui rend Boudon inutile",
+          "En montrant que les deux mécanismes s'annulent mutuellement"
+        ],
+        "hard": [
+          "En montrant que les deux mécanismes interviennent au même moment du parcours et sont donc concurrents",
+          "En montrant que l'héritage produit des écarts de réussite, écarts que les choix d'orientation viennent ensuite corriger",
+          "En montrant que les choix d'orientation amplifient les écarts, mécanisme qui ne joue qu'entre élèves de niveaux différents"
+        ]
+      }
+    }
+  ]
+}

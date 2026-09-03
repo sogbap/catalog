@@ -1,0 +1,822 @@
+{
+  "id": "francais-premiere-roman",
+  "title": "Le roman et le récit du Moyen Âge au XXI siècle",
+  "emoji": "📖",
+  "subject": "literature",
+  "country": "fr",
+  "courseDescription": "Français · Première — narrateur et points de vue, temps du récit, discours rapportés, construction du personnage, réalisme, naturalisme et renouvellements du XX siècle.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Le roman et le récit du Moyen Âge au XXI<sup>e</sup> siècle</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Première · français<br>\n  <b>Objet d'étude&nbsp;:</b> le roman et le récit du Moyen Âge au XXI<sup>e</sup> siècle<br>\n  <b>Épreuve&nbsp;:</b> écrit et oral du bac de français (épreuve anticipée)\n</div>\n\n<blockquote><p><b>Problématique.</b> Qui parle dans un roman, et que sait celui qui parle&nbsp;?</p></blockquote>\n\n<p>Le roman est le plus souple des genres&nbsp;: il n'impose ni forme fixe, ni longueur, ni sujet. Sa définition est donc largement négative — et c'est ailleurs qu'il faut chercher ce qui se laisse analyser. Ce chapitre repose sur une conviction de méthode&nbsp;: dans un récit, presque tout se joue sur <strong>l'instance qui raconte</strong> et sur <strong>le savoir dont elle dispose</strong>. Qui parle&nbsp;? Que voit-il&nbsp;? Que nous cache-t-il, et quand&nbsp;? Répondre à ces questions donne la clé de la plupart des passages.</p>\n\n<h2>1 · Qui raconte&nbsp;?</h2>\n\n<div class=\"callout\">\n  <strong>Notion · Auteur, narrateur, personnage</strong><br>\n  L'<em>auteur</em> est une personne réelle qui écrit. Le <em>narrateur</em> est une instance <strong>fictive</strong>, créée par lui pour raconter — même lorsqu'elle dit «&nbsp;je&nbsp;». Le <em>personnage</em> est un être de papier dont on parle.\n</div>\n\n<p>Cette distinction n'est pas une subtilité d'école&nbsp;: un romancier peut confier son récit à un enfant, à un criminel ou à un menteur sans partager leurs vues. Confondre auteur et narrateur est l'erreur la plus lourdement sanctionnée au commentaire.</p>\n\n<p>Le narrateur peut être <strong>interne</strong> à l'histoire (il dit «&nbsp;je&nbsp;», comme personnage principal ou témoin) ou <strong>extérieur</strong> à elle (troisième personne). Ce choix engage la crédibilité du récit&nbsp;: avec un narrateur interne, le lecteur ne dispose que d'un seul regard.</p>\n\n<h2>2 · Que sait-il&nbsp;?</h2>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 195\" role=\"img\" aria-label=\"Les trois focalisations comparées selon le savoir du narrateur : en focalisation zéro le narrateur sait tout et accède aux pensées de tous les personnages, en focalisation interne il ne sait que ce que sait un personnage donné, en focalisation externe il ne rapporte que ce qui est visible de l'extérieur sans accéder à aucune pensée\">\n    <rect x=\"8\" y=\"14\" width=\"102\" height=\"120\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".35\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"59\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">zéro</text>\n    <text x=\"59\" y=\"48\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">omnisciente</text>\n    <text x=\"59\" y=\"70\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">le narrateur</text>\n    <text x=\"59\" y=\"83\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">sait TOUT</text>\n    <line x1=\"24\" y1=\"94\" x2=\"94\" y2=\"94\" stroke=\"var(--accent)\" stroke-opacity=\".45\"/>\n    <text x=\"59\" y=\"110\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">pensées de tous,</text>\n    <text x=\"59\" y=\"122\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">passé et avenir</text>\n    <rect x=\"118\" y=\"14\" width=\"102\" height=\"120\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".22\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"169\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">interne</text>\n    <text x=\"169\" y=\"48\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">un seul relais</text>\n    <text x=\"169\" y=\"70\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">il sait ce que</text>\n    <text x=\"169\" y=\"83\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">sait UN personnage</text>\n    <line x1=\"134\" y1=\"94\" x2=\"204\" y2=\"94\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"169\" y=\"110\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">suspense, malentendu,</text>\n    <text x=\"169\" y=\"122\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">sympathie orientée</text>\n    <rect x=\"228\" y=\"14\" width=\"104\" height=\"120\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"280\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">externe</text>\n    <text x=\"280\" y=\"48\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">caméra</text>\n    <text x=\"280\" y=\"70\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">il ne voit que</text>\n    <text x=\"280\" y=\"83\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">le VISIBLE</text>\n    <line x1=\"244\" y1=\"94\" x2=\"316\" y2=\"94\" stroke=\"var(--accent)\" stroke-opacity=\".35\"/>\n    <text x=\"280\" y=\"110\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">aucune pensée,</text>\n    <text x=\"280\" y=\"122\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">effet d'énigme</text>\n    <text x=\"170\" y=\"158\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">Un même roman alterne les trois.</text>\n    <text x=\"170\" y=\"180\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Repérer un changement de focalisation est souvent la clé d'un passage.</text>\n  </svg>\n  <figcaption>Le critère unique&nbsp;: le savoir du narrateur comparé à celui des personnages.</figcaption>\n</figure>\n\n<h2>3 · Le temps du récit</h2>\n\n<p>Un récit ne suit jamais exactement le déroulement des faits. Trois écarts s'analysent séparément.</p>\n\n<p><strong>L'ordre</strong> — l'<em>analepse</em> revient en arrière, la <em>prolepse</em> anticipe. Une prolepse installe une tension en annonçant un malheur avant qu'il ne survienne.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 185\" role=\"img\" aria-label=\"Les quatre vitesses du récit comparées : la pause arrête l'histoire pendant que le récit continue avec une description, la scène fait coïncider le temps du récit et celui de l'histoire notamment dans le dialogue, le sommaire résume rapidement une longue durée, et l'ellipse passe une portion de l'histoire entièrement sous silence\">\n    <text x=\"8\" y=\"16\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Les vitesses du récit</text>\n    <text x=\"8\" y=\"40\" font-size=\"9\" fill=\"currentColor\">pause</text>\n    <rect x=\"86\" y=\"30\" width=\"200\" height=\"14\" rx=\"7\" fill=\"var(--accent)\" fill-opacity=\".45\"/>\n    <rect x=\"86\" y=\"30\" width=\"6\" height=\"14\" rx=\"3\" fill=\"var(--accent)\" fill-opacity=\".8\"/>\n    <text x=\"292\" y=\"40\" font-size=\"8\" class=\"s-muted\">description</text>\n    <text x=\"8\" y=\"66\" font-size=\"9\" fill=\"currentColor\">scène</text>\n    <rect x=\"86\" y=\"56\" width=\"120\" height=\"14\" rx=\"7\" fill=\"var(--accent)\" fill-opacity=\".45\"/>\n    <rect x=\"86\" y=\"56\" width=\"120\" height=\"14\" rx=\"7\" fill=\"none\" stroke=\"var(--accent)\" stroke-opacity=\".7\"/>\n    <text x=\"212\" y=\"66\" font-size=\"8\" class=\"s-muted\">dialogue : les deux temps coïncident</text>\n    <text x=\"8\" y=\"92\" font-size=\"9\" fill=\"currentColor\">sommaire</text>\n    <rect x=\"86\" y=\"82\" width=\"44\" height=\"14\" rx=\"7\" fill=\"var(--accent)\" fill-opacity=\".45\"/>\n    <rect x=\"86\" y=\"82\" width=\"200\" height=\"14\" rx=\"7\" fill=\"none\" stroke=\"var(--accent)\" stroke-opacity=\".3\" stroke-dasharray=\"3 3\"/>\n    <text x=\"292\" y=\"92\" font-size=\"8\" class=\"s-muted\">on résume</text>\n    <text x=\"8\" y=\"118\" font-size=\"9\" fill=\"currentColor\">ellipse</text>\n    <rect x=\"86\" y=\"108\" width=\"200\" height=\"14\" rx=\"7\" fill=\"none\" stroke=\"var(--accent)\" stroke-opacity=\".3\" stroke-dasharray=\"3 3\"/>\n    <text x=\"292\" y=\"118\" font-size=\"8\" class=\"s-muted\">on saute</text>\n    <line x1=\"8\" y1=\"136\" x2=\"332\" y2=\"136\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"154\" font-size=\"9\" fill=\"currentColor\">Barre pleine : ce que le récit raconte. Pointillés : la durée de l'histoire.</text>\n    <text x=\"8\" y=\"170\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">Ce que le roman ralentit, il le juge important.</text>\n    <text x=\"8\" y=\"182\" font-size=\"9\" class=\"s-muted\">Une ellipse dit autant qu'une scène : elle dit ce qui ne mérite pas d'être raconté.</text>\n  </svg>\n  <figcaption>La vitesse n'est jamais neutre&nbsp;: elle hiérarchise.</figcaption>\n</figure>\n\n<h2>4 · Rapporter la parole</h2>\n\n<p>Trois régimes principaux, du plus détaché au plus fondu&nbsp;:</p>\n\n<ul>\n  <li><strong>Discours direct</strong>&nbsp;: guillemets ou tirets, verbe de parole, propos rapportés tels quels. Effet d'immédiateté — on entend la voix.</li>\n  <li><strong>Discours indirect</strong>&nbsp;: les propos sont subordonnés et fondus dans le récit, filtrés par le narrateur.</li>\n  <li><strong>Discours indirect libre</strong>&nbsp;: ni verbe introducteur ni subordination. La voix du personnage et celle du narrateur se mêlent au point qu'on ne peut plus les départager — et cette indécision <em>est</em> l'effet recherché. Flaubert en fait un usage systématique dans <em>Madame Bovary</em>.</li>\n</ul>\n\n<h2>5 · Personnages et structure</h2>\n\n<p>Un personnage n'est pas une personne&nbsp;: c'est un <strong>effet de texte</strong>, construit par son nom, son portrait, ses paroles et le regard que les autres portent sur lui. L'analyser consiste à décrire ces procédés, non à juger sa moralité.</p>\n\n<p>L'<strong>antihéros</strong> — personnage principal dépourvu des qualités du héros, par médiocrité ou insignifiance — accompagne la montée du roman réaliste puis du XX<sup>e</sup> siècle. Ce n'est pas un personnage <em>négatif</em>, mais un personnage <em>ordinaire</em> porté au premier plan.</p>\n\n<p>Deux outils structurels&nbsp;: le <strong>schéma narratif</strong> (situation initiale, élément perturbateur, péripéties, résolution, situation finale) et le <strong>schéma actantiel</strong> (un sujet cherche un objet, aidé d'adjuvants, gêné par des opposants, la quête étant lancée par un destinateur au profit d'un destinataire). Ces modèles décrivent&nbsp;; ils ne prescrivent pas. Leur intérêt est de repérer <em>où un texte s'en écarte</em>.</p>\n\n<h2>6 · Histoire du genre</h2>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Frise de l'histoire du roman : la chanson de geste et le roman de chevalerie au Moyen Âge avec Chrétien de Troyes, le roman épistolaire et philosophique au dix-huitième siècle avec Laclos, le réalisme au dix-neuvième siècle avec Balzac Stendhal et Flaubert, le naturalisme avec Zola, Proust et la mémoire au début du vingtième siècle, puis le Nouveau Roman qui conteste les conventions\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"182\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Moyen Âge</text>\n    <text x=\"44\" y=\"30\" font-size=\"9\" fill=\"currentColor\">Chanson de geste, roman de chevalerie</text>\n    <circle cx=\"26\" cy=\"58\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"55\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">XVIIIe siècle</text>\n    <text x=\"44\" y=\"68\" font-size=\"9\" fill=\"currentColor\">Roman épistolaire, roman philosophique</text>\n    <circle cx=\"26\" cy=\"96\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"93\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Réalisme</text>\n    <text x=\"44\" y=\"106\" font-size=\"9\" fill=\"currentColor\">Balzac, Stendhal, Flaubert</text>\n    <circle cx=\"26\" cy=\"134\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"131\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Naturalisme</text>\n    <text x=\"44\" y=\"144\" font-size=\"9\" fill=\"currentColor\">Zola : hérédité et milieu</text>\n    <circle cx=\"26\" cy=\"172\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"169\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">XXe siècle</text>\n    <text x=\"44\" y=\"182\" font-size=\"9\" fill=\"currentColor\">Proust, puis le Nouveau Roman</text>\n    <text x=\"44\" y=\"196\" font-size=\"9\" class=\"s-muted\">« Roman » désignait d'abord la langue vulgaire, non un genre.</text>\n  </svg>\n  <figcaption>Un genre qui n'a cessé de contester ses propres conventions.</figcaption>\n</figure>\n\n<p>Le <strong>réalisme</strong> veut représenter la société de son temps dans sa vérité, y compris déplaisante. Ce n'est pas une copie du réel&nbsp;: c'est une <em>construction qui donne l'illusion du vrai</em>. Le <strong>naturalisme</strong> y ajoute une méthode revendiquée d'inspiration scientifique&nbsp;— l'individu déterminé par son hérédité et son milieu. La différence n'est donc pas de sujet, mais de démarche.</p>\n\n<div class=\"callout\">\n  <strong>Notion · L'effet de réel</strong><br>\n  Des détails concrets <em>apparemment inutiles à l'intrigue</em> attestent que le monde décrit existe indépendamment du récit. Un baromètre sur un mur ne sert à rien dans l'action&nbsp;— et c'est précisément pour cela qu'il fait vrai.\n</div>\n\n<h2>L'essentiel</h2>\n\n<h3>La méthode d'analyse</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Frise méthodique de l'analyse d'un extrait romanesque : identifier d'abord qui raconte et selon quel point de vue, observer le rythme et l'ordre du récit, repérer le traitement de la parole rapportée, analyser la construction du personnage, puis construire une interprétation appuyée sur le texte\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"176\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">1. Qui raconte ?</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Narrateur interne ou externe, focalisation</text>\n    <circle cx=\"26\" cy=\"60\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"57\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">2. À quel rythme ?</text>\n    <text x=\"44\" y=\"70\" font-size=\"10\" fill=\"currentColor\">Scène, sommaire, ellipse, pause</text>\n    <circle cx=\"26\" cy=\"100\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"97\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">3. Qui parle ?</text>\n    <text x=\"44\" y=\"110\" font-size=\"10\" fill=\"currentColor\">Direct, indirect, indirect libre</text>\n    <circle cx=\"26\" cy=\"140\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"137\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">4. Comment le personnage existe-t-il ?</text>\n    <text x=\"44\" y=\"150\" font-size=\"10\" fill=\"currentColor\">Nom, portrait, paroles, regard des autres</text>\n    <circle cx=\"26\" cy=\"176\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"173\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">5. Interpréter</text>\n    <text x=\"44\" y=\"186\" font-size=\"10\" fill=\"currentColor\">Citer, puis expliquer l'effet — dans cet ordre</text>\n  </svg>\n  <figcaption>Les quatre premières questions se posent au texte&nbsp;; la cinquième est celle qu'on note.</figcaption>\n</figure>\n\n<h3>Le vocabulaire technique</h3>\n\n<table>\n  <tr><th>Terme</th><th>Définition en une ligne</th></tr>\n  <tr><td>Focalisation zéro</td><td>Le narrateur sait tout</td></tr>\n  <tr><td>Focalisation interne</td><td>Le narrateur sait ce que sait un personnage</td></tr>\n  <tr><td>Analepse / prolepse</td><td>Retour en arrière / anticipation</td></tr>\n  <tr><td>Ellipse</td><td>Portion d'histoire passée sous silence</td></tr>\n  <tr><td>Discours indirect libre</td><td>Voix du personnage fondue dans le récit</td></tr>\n  <tr><td>Effet de réel</td><td>Détail inutile qui atteste la réalité du monde</td></tr>\n</table>\n\n<h3>Les mouvements et leur projet</h3>\n\n<table>\n  <tr><th>Mouvement</th><th>Ce qu'il cherche</th></tr>\n  <tr><td>Roman de chevalerie</td><td>Célébrer la prouesse et l'idéal courtois</td></tr>\n  <tr><td>Roman épistolaire</td><td>Multiplier les points de vue, sans arbitre</td></tr>\n  <tr><td>Réalisme</td><td>Représenter la société dans sa vérité</td></tr>\n  <tr><td>Naturalisme</td><td>Y appliquer une méthode scientifique</td></tr>\n  <tr><td>Nouveau Roman</td><td>Défaire personnage, intrigue et narrateur explicatif</td></tr>\n</table>\n\n<h3>Structure d'un récit</h3>\n\n<table>\n  <tr><th>Élément</th><th>Ce qu'il faut observer</th></tr>\n  <tr><td>Incipit</td><td>Ce qui est donné, ce qui est retenu</td></tr>\n  <tr><td>Schéma narratif</td><td>Les cinq étapes — et les écarts</td></tr>\n  <tr><td>Schéma actantiel</td><td>Sujet, objet, adjuvants, opposants</td></tr>\n  <tr><td>Portrait</td><td>Les détails choisis orientent le jugement</td></tr>\n  <tr><td>Explicit</td><td>Fin ouverte ou fermée&nbsp;; écho à l'incipit</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Confondre le <strong>narrateur</strong> et l'<strong>auteur</strong>. Le narrateur est une instance <em>fictive</em>, même quand il dit «&nbsp;je&nbsp;»&nbsp;: un romancier peut confier son récit à un menteur sans partager ses vues. Écrire «&nbsp;l'auteur pense que…&nbsp;» à propos d'un propos du narrateur est l'erreur la plus coûteuse du commentaire. Deux erreurs voisines&nbsp;: juger un personnage au lieu d'analyser <em>comment le texte le construit</em>&nbsp;; et citer un passage sans expliquer l'effet qu'il produit, alors que la citation ne se suffit jamais à elle-même.\n</div>\n\n<blockquote><p>Un roman ne raconte pas une histoire&nbsp;: il choisit qui la raconte, ce qu'il en sait, et dans quel ordre il consent à le dire. Toute l'analyse tient dans ces trois choix.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Première",
+  "theme": "Français — objet d'étude : le roman et le récit",
+  "cards": [
+    {
+      "recto": "Piège classique : le narrateur d'un roman est-il l'auteur ?",
+      "verso": "Non : le narrateur est une instance fictive créée par l'auteur pour raconter, même lorsqu'il dit je",
+      "explanation": "Un romancier peut confier son récit à un enfant, à un criminel ou à un menteur sans partager leurs vues. Écrire que l'auteur pense ce que dit le narrateur est l'erreur la plus lourdement sanctionnée en commentaire.",
+      "tags": [
+        "piege",
+        "narration"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, le narrateur est toujours l'auteur",
+          "Oui, sauf dans les romans historiques",
+          "Non, le narrateur est le personnage principal"
+        ],
+        "medium": [
+          "Oui dès lors que le récit est écrit à la première personne",
+          "Non, sauf dans les autobiographies romancées",
+          "Oui, le narrateur étant le porte-parole désigné de l'auteur"
+        ],
+        "hard": [
+          "Non, le narrateur est une instance fictive, sauf lorsqu'il dit je",
+          "Non, mais l'auteur partage nécessairement les valeurs de son narrateur",
+          "Non, le narrateur étant une instance fictive identique au personnage principal"
+        ]
+      }
+    },
+    {
+      "recto": "Comment définit-on le roman comme genre littéraire ?",
+      "verso": "Un récit de fiction en prose, généralement long, qui met en scène des personnages dans une intrigue développée",
+      "explanation": "Le genre est le plus souple de tous : il n'impose ni forme fixe ni longueur canonique, ce qui explique sa capacité à absorber tous les sujets. C'est aussi ce qui rend sa définition largement négative.",
+      "tags": [
+        "genre",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Un récit en vers destiné à être chanté",
+          "Un texte destiné à être joué sur scène",
+          "Un ouvrage documentaire sur une période historique"
+        ],
+        "medium": [
+          "Un récit bref centré sur un seul épisode",
+          "Un récit de fiction en vers, généralement long",
+          "Un texte argumentatif illustré par une histoire"
+        ],
+        "hard": [
+          "Un récit de fiction en prose, soumis à une longueur canonique définie",
+          "Un récit de fiction en prose, dont la définition est strictement positive",
+          "Un récit de fiction en prose, nécessairement écrit à la troisième personne"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : que voit-on avec une focalisation zéro, interne et externe ?",
+      "verso": "En focalisation zéro le narrateur sait tout, en focalisation interne il ne sait que ce que sait un personnage, en focalisation externe il ne rapporte que ce qui est visible de l'extérieur",
+      "explanation": "Le critère est la quantité d'information dont dispose le narrateur par rapport aux personnages. Un même roman peut alterner les trois, et repérer un changement de focalisation est souvent la clé d'un passage.",
+      "tags": [
+        "comparaison",
+        "points de vue"
+      ],
+      "distractors": {
+        "easy": [
+          "Les trois focalisations donnent exactement le même récit",
+          "La focalisation zéro concerne les romans courts, l'interne les longs",
+          "Les focalisations désignent la position du lecteur, pas du narrateur"
+        ],
+        "medium": [
+          "En focalisation zéro le narrateur ne sait rien, en interne il sait tout, en externe il sait autant que le personnage",
+          "En focalisation interne le narrateur sait tout, en zéro il ne sait que ce que voit un personnage",
+          "En focalisation externe le narrateur connaît les pensées de tous les personnages"
+        ],
+        "hard": [
+          "En focalisation zéro le narrateur sait tout, en interne il suit un personnage, en externe il accède aux pensées de ce personnage",
+          "Les trois focalisations se distinguent par le savoir du narrateur, un roman ne pouvant en employer qu'une seule",
+          "En focalisation zéro le narrateur sait tout, savoir qui se limite toutefois aux actions visibles"
+        ]
+      }
+    },
+    {
+      "recto": "Que signale un narrateur qui dit je dans un récit ?",
+      "verso": "Qu'il participe à l'histoire qu'il raconte, en tant que personnage principal ou témoin",
+      "explanation": "On parle alors de narrateur interne à l'histoire, par opposition au narrateur extérieur qui emploie la troisième personne. Ce choix engage la crédibilité du récit, puisque le lecteur ne dispose que d'un seul regard.",
+      "tags": [
+        "narration",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Que le texte est une autobiographie de l'auteur",
+          "Que le roman est écrit au présent",
+          "Que le personnage principal va mourir"
+        ],
+        "medium": [
+          "Qu'il connaît les pensées de tous les personnages",
+          "Qu'il raconte une histoire vraie",
+          "Qu'il s'agit nécessairement d'un roman épistolaire"
+        ],
+        "hard": [
+          "Qu'il participe à l'histoire, position qui lui donne accès à toutes les informations",
+          "Qu'il participe à l'histoire, nécessairement comme personnage principal",
+          "Qu'il participe à l'histoire, ce qui garantit la fiabilité de son récit"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une analepse et une prolepse ?",
+      "verso": "L'analepse est un retour en arrière dans le récit, la prolepse une anticipation sur des événements à venir",
+      "explanation": "Ces écarts créent une différence entre l'ordre des événements et l'ordre de leur récit, souvent porteuse de sens. Une prolepse peut ainsi installer une tension en annonçant un malheur avant qu'il ne survienne.",
+      "tags": [
+        "temps",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "L'analepse est un chapitre, la prolepse une partie",
+          "L'analepse est un dialogue, la prolepse une description",
+          "Les deux termes désignent la même chose"
+        ],
+        "medium": [
+          "L'analepse est une anticipation, la prolepse un retour en arrière",
+          "L'analepse est une accélération du récit, la prolepse un ralentissement",
+          "L'analepse est une description, la prolepse un résumé"
+        ],
+        "hard": [
+          "L'analepse est un retour en arrière, la prolepse une anticipation, ces écarts n'affectant pas l'ordre du récit",
+          "L'analepse est un retour en arrière, procédé réservé au récit à la première personne",
+          "L'analepse et la prolepse désignent des variations de vitesse et non d'ordre"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on une ellipse narrative ?",
+      "verso": "Le passage sous silence d'une portion de l'histoire, que le récit franchit sans la raconter",
+      "explanation": "Elle accélère le récit et laisse au lecteur le soin de combler le vide. Un roman peut ainsi passer de l'enfance à l'âge adulte en une phrase, ce qui souligne ce que le récit juge digne d'être raconté.",
+      "tags": [
+        "temps",
+        "rythme"
+      ],
+      "distractors": {
+        "easy": [
+          "L'absence de ponctuation dans une phrase",
+          "La suppression d'un personnage secondaire",
+          "Un chapitre volontairement laissé blanc"
+        ],
+        "medium": [
+          "Le résumé rapide d'une longue période",
+          "L'interruption d'une description par un dialogue",
+          "La suppression du nom d'un personnage"
+        ],
+        "hard": [
+          "Le passage sous silence d'une portion de l'histoire, procédé qui ralentit le récit",
+          "Le passage sous silence d'un événement, qui doit toujours être explicitement signalé au lecteur",
+          "Le résumé d'événements en quelques lignes, forme la plus rapide du récit"
+        ]
+      }
+    },
+    {
+      "recto": "Que distingue le sommaire de la scène dans le rythme du récit ?",
+      "verso": "Le sommaire résume rapidement une longue durée, tandis que la scène fait coïncider approximativement le temps du récit et celui de l'histoire",
+      "explanation": "La scène, souvent portée par le dialogue, marque les moments décisifs ; le sommaire relie ces moments entre eux. Le passage de l'un à l'autre signale ce que le roman veut mettre en avant.",
+      "tags": [
+        "temps",
+        "rythme"
+      ],
+      "distractors": {
+        "easy": [
+          "Le sommaire est en début de livre, la scène au théâtre",
+          "Le sommaire est la table des matières, la scène un décor",
+          "Les deux termes sont synonymes"
+        ],
+        "medium": [
+          "Le sommaire fait coïncider les deux temps, la scène résume une longue durée",
+          "Le sommaire est un dialogue, la scène une description",
+          "Le sommaire ralentit le récit, la scène l'accélère"
+        ],
+        "hard": [
+          "Le sommaire résume une longue durée, la scène l'étire au-delà du temps réel",
+          "Le sommaire résume une longue durée et la scène fait coïncider les deux temps, la scène étant réservée aux moments secondaires",
+          "Le sommaire et la scène désignent des variations d'ordre et non de vitesse"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on une pause dans le récit ?",
+      "verso": "Un moment où le récit s'arrête sur une description ou un commentaire, sans que l'histoire progresse",
+      "explanation": "La description balzacienne d'une pension ou d'un visage relève de ce régime. Loin d'être un ornement, elle prépare souvent la compréhension du personnage ou de l'intrigue.",
+      "tags": [
+        "temps",
+        "rythme"
+      ],
+      "distractors": {
+        "easy": [
+          "Un blanc typographique entre deux chapitres",
+          "Un silence dans un dialogue",
+          "La fin d'une partie du roman"
+        ],
+        "medium": [
+          "Un résumé rapide d'une longue période",
+          "Un retour en arrière sur le passé d'un personnage",
+          "Une accélération soudaine de l'action"
+        ],
+        "hard": [
+          "Un arrêt du récit sur une description, qui reste sans lien avec l'intrigue",
+          "Un arrêt de l'histoire pendant que le récit continue de progresser",
+          "Un moment où le temps du récit devient plus court que celui de l'histoire"
+        ]
+      }
+    },
+    {
+      "recto": "Comment reconnaît-on le discours direct dans un récit ?",
+      "verso": "Aux marques typographiques comme les guillemets ou les tirets, et à la présence d'un verbe de parole, les propos étant rapportés tels quels",
+      "explanation": "Il donne une impression d'immédiateté en laissant entendre la voix du personnage. Le discours indirect, à l'inverse, subordonne les propos et les fond dans le récit.",
+      "tags": [
+        "discours",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "À l'absence totale de ponctuation",
+          "À l'emploi exclusif du présent",
+          "À la longueur des phrases"
+        ],
+        "medium": [
+          "À la subordination des propos par une conjonction",
+          "À la disparition des marques de personne",
+          "À l'emploi systématique de la troisième personne"
+        ],
+        "hard": [
+          "Aux guillemets et au verbe de parole, les propos étant reformulés par le narrateur",
+          "Aux guillemets, marques dont la présence est facultative en discours direct",
+          "Aux marques typographiques, procédé qui fond la parole dans le récit"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que le discours indirect libre ?",
+      "verso": "Une forme qui rapporte les paroles ou les pensées d'un personnage sans verbe introducteur ni subordination, mêlant sa voix à celle du narrateur",
+      "explanation": "Flaubert en fait un usage systématique dans Madame Bovary, ce qui rend souvent indécidable la part du personnage et celle du narrateur. Cette ambiguïté est précisément l'effet recherché.",
+      "tags": [
+        "discours",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Un dialogue sans guillemets",
+          "Un monologue prononcé à voix haute",
+          "Une lettre insérée dans le récit"
+        ],
+        "medium": [
+          "Un discours rapporté entre guillemets sans verbe de parole",
+          "Un discours introduit par une conjonction de subordination",
+          "Un résumé des propos tenus par un personnage"
+        ],
+        "hard": [
+          "Une forme sans verbe introducteur, qui distingue toujours nettement la voix du personnage de celle du narrateur",
+          "Une forme sans subordination, employée pour la première fois au XX siècle",
+          "Une forme qui rapporte les paroles avec verbe introducteur mais sans subordination"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles fonctions un incipit de roman remplit-il ?",
+      "verso": "Informer le lecteur, l'intéresser et fixer un contrat de lecture en annonçant le genre et le ton du récit",
+      "explanation": "Certains incipit retardent volontairement l'information pour créer un effet d'attente. L'analyse d'une ouverture consiste précisément à repérer ce qui est donné et ce qui est retenu.",
+      "tags": [
+        "structure",
+        "incipit"
+      ],
+      "distractors": {
+        "easy": [
+          "Résumer l'ensemble du roman",
+          "Présenter la biographie de l'auteur",
+          "Donner la liste des personnages"
+        ],
+        "medium": [
+          "Dévoiler le dénouement pour créer une attente",
+          "Fournir toutes les informations nécessaires sans exception",
+          "Exposer la thèse défendue par le roman"
+        ],
+        "hard": [
+          "Informer, intéresser et fixer un contrat de lecture, en livrant toujours l'ensemble des informations",
+          "Informer et intéresser, le contrat de lecture ne s'établissant qu'au dénouement",
+          "Informer le lecteur, fonction qui interdit tout effet de retardement"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un antihéros ?",
+      "verso": "Un personnage principal dépourvu des qualités traditionnellement attachées au héros, par sa médiocrité, sa lâcheté ou son insignifiance",
+      "explanation": "Sa montée accompagne celle du roman réaliste puis du roman du XX siècle, qui refusent l'exemplarité. Il ne s'agit pas d'un personnage négatif, mais d'un personnage ordinaire porté au premier plan.",
+      "tags": [
+        "personnage",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Le principal opposant du héros",
+          "Un personnage qui meurt au début du roman",
+          "Un personnage secondaire sans importance"
+        ],
+        "medium": [
+          "Un héros doté de pouvoirs surnaturels inversés",
+          "Un personnage méchant qui triomphe à la fin",
+          "Un héros qui échoue dans sa quête"
+        ],
+        "hard": [
+          "Un personnage principal dépourvu des qualités du héros, c'est-à-dire un personnage nécessairement négatif",
+          "Un personnage principal ordinaire, figure apparue avec le roman médiéval",
+          "Un personnage principal sans qualités, qui s'oppose au protagoniste du récit"
+        ]
+      }
+    },
+    {
+      "recto": "À quoi sert le portrait d'un personnage dans un roman ?",
+      "verso": "À caractériser le personnage physiquement et moralement, les détails choisis orientant le jugement du lecteur",
+      "explanation": "Aucun détail n'est neutre : un vêtement usé ou un regard fuyant construisent une interprétation. Chez Balzac, le portrait et le décor se répondent pour désigner une place sociale.",
+      "tags": [
+        "personnage",
+        "description"
+      ],
+      "distractors": {
+        "easy": [
+          "À ralentir le récit sans autre but",
+          "À permettre au lecteur de dessiner le personnage",
+          "À remplir les pages du roman"
+        ],
+        "medium": [
+          "À décrire objectivement le personnage sans orienter le lecteur",
+          "À annoncer systématiquement la mort du personnage",
+          "À dissimuler les intentions du narrateur"
+        ],
+        "hard": [
+          "À caractériser le personnage, les détails étant choisis pour leur neutralité descriptive",
+          "À caractériser le personnage physiquement, sa dimension morale relevant du dialogue seul",
+          "À orienter le jugement du lecteur, fonction propre au seul roman naturaliste"
+        ]
+      }
+    },
+    {
+      "recto": "Quel projet anime le roman réaliste du XIX siècle ?",
+      "verso": "Représenter la société de son temps dans sa vérité, y compris dans ses aspects ordinaires ou déplaisants",
+      "explanation": "Balzac, Stendhal et Flaubert en sont les figures majeures. Le réalisme n'est pas une copie du réel mais une construction qui donne l'illusion du vrai, par le détail vrai et l'ancrage social.",
+      "tags": [
+        "mouvements",
+        "réalisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Raconter des légendes anciennes",
+          "Décrire des mondes imaginaires",
+          "Célébrer les exploits de héros mythologiques"
+        ],
+        "medium": [
+          "Exprimer les sentiments intimes de l'auteur",
+          "Appliquer la méthode expérimentale au roman",
+          "Explorer le rêve et l'inconscient"
+        ],
+        "hard": [
+          "Représenter la société de son temps, en copiant fidèlement le réel sans construction",
+          "Représenter la société, projet dont Zola est le principal théoricien",
+          "Représenter la société de son temps, en écartant ses aspects déplaisants"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'ajoute le naturalisme au projet réaliste ?",
+      "verso": "L'ambition d'appliquer au roman une méthode d'inspiration scientifique, en montrant l'individu déterminé par son hérédité et son milieu",
+      "explanation": "Zola en est le théoricien et le praticien, notamment dans le cycle des Rougon-Macquart. La différence avec le réalisme n'est donc pas de sujet mais de méthode revendiquée.",
+      "tags": [
+        "mouvements",
+        "naturalisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Le retour aux sujets mythologiques",
+          "L'abandon de toute description",
+          "Le refus de représenter la société"
+        ],
+        "medium": [
+          "L'expression des sentiments personnels de l'auteur",
+          "L'exploration systématique du fantastique",
+          "L'usage exclusif du récit à la première personne"
+        ],
+        "hard": [
+          "Une méthode d'inspiration scientifique, ce qui constitue une différence de sujet et non de démarche",
+          "Une méthode d'inspiration scientifique, théorisée par Balzac avant Zola",
+          "L'idée que l'individu échappe entièrement aux déterminations de son milieu"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un roman épistolaire ?",
+      "verso": "Un roman composé de lettres échangées entre les personnages, sans narrateur extérieur pour les commenter",
+      "explanation": "Cette forme, très prisée au XVIII siècle, multiplie les points de vue et laisse au lecteur le soin de trancher. Les Liaisons dangereuses de Laclos en offrent l'exemple le plus achevé.",
+      "tags": [
+        "formes",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Un roman écrit sous forme de journal intime",
+          "Un roman publié en plusieurs volumes",
+          "Un roman écrit par plusieurs auteurs"
+        ],
+        "medium": [
+          "Un roman qui contient quelques lettres insérées dans le récit",
+          "Un roman raconté par un narrateur omniscient",
+          "Un roman dont chaque chapitre suit un personnage différent"
+        ],
+        "hard": [
+          "Un roman composé de lettres, dont un narrateur extérieur commente les échanges",
+          "Un roman composé de lettres, forme apparue au XIX siècle avec le réalisme",
+          "Un roman composé de lettres, qui impose un point de vue unique au lecteur"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles formes le récit prend-il au Moyen Âge ?",
+      "verso": "La chanson de geste en vers, puis le roman de chevalerie, d'abord versifié avant de passer à la prose",
+      "explanation": "Le mot roman désigne à l'origine la langue vulgaire, par opposition au latin, et non un genre. Chrétien de Troyes est la figure majeure du roman arthurien.",
+      "tags": [
+        "histoire du genre",
+        "Moyen Âge"
+      ],
+      "distractors": {
+        "easy": [
+          "Le roman réaliste et le roman naturaliste",
+          "Le roman épistolaire et le roman-mémoires",
+          "La nouvelle et le conte philosophique"
+        ],
+        "medium": [
+          "Le roman picaresque et le roman d'apprentissage",
+          "Le roman précieux et le roman libertin",
+          "Le roman historique et le roman policier"
+        ],
+        "hard": [
+          "La chanson de geste puis le roman de chevalerie, le mot roman désignant dès l'origine un genre",
+          "Le roman de chevalerie, écrit en prose dès ses premières apparitions",
+          "La chanson de geste, écrite en prose, puis le roman de chevalerie en vers"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un roman d'apprentissage ?",
+      "verso": "Un roman qui suit la formation d'un personnage jeune, confronté au monde et transformé par cette expérience",
+      "explanation": "L'Éducation sentimentale de Flaubert en propose une version désenchantée, où l'apprentissage échoue. Le genre suppose donc une évolution, réussie ou non, et non une simple succession d'aventures.",
+      "tags": [
+        "formes",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Un roman destiné à l'enseignement scolaire",
+          "Un manuel déguisé en récit",
+          "Un roman écrit par un apprenti écrivain"
+        ],
+        "medium": [
+          "Un roman qui raconte les aventures d'un héros immuable",
+          "Un roman consacré à la vie d'un enseignant",
+          "Un roman qui expose une doctrine philosophique"
+        ],
+        "hard": [
+          "Un roman qui suit la formation d'un personnage, dont l'apprentissage doit nécessairement aboutir",
+          "Un roman de formation, forme incompatible avec un dénouement désenchanté",
+          "Un roman qui suit un personnage jeune, sans exiger qu'il évolue"
+        ]
+      }
+    },
+    {
+      "recto": "Que cherche Marcel Proust dans À la recherche du temps perdu ?",
+      "verso": "À explorer le fonctionnement de la mémoire et la manière dont le passé ressurgit involontairement dans le présent",
+      "explanation": "L'épisode de la madeleine illustre cette mémoire involontaire, déclenchée par une sensation. Le roman y devient une enquête sur la conscience autant qu'un récit d'événements.",
+      "tags": [
+        "mouvements",
+        "XX siècle"
+      ],
+      "distractors": {
+        "easy": [
+          "À raconter l'histoire de la Révolution française",
+          "À décrire la vie des mineurs du Nord",
+          "À dénoncer les injustices coloniales"
+        ],
+        "medium": [
+          "À appliquer la méthode expérimentale au roman",
+          "À supprimer le personnage et l'intrigue du roman",
+          "À reconstituer fidèlement la société de province"
+        ],
+        "hard": [
+          "À explorer la mémoire volontaire, déclenchée par un effort de rappel",
+          "À explorer la mémoire involontaire, démarche qui écarte toute dimension romanesque",
+          "À explorer la mémoire, projet mené dans un récit strictement chronologique"
+        ]
+      }
+    },
+    {
+      "recto": "Que remettent en cause les auteurs du Nouveau Roman au milieu du XX siècle ?",
+      "verso": "Les conventions du roman traditionnel : le personnage cohérent, l'intrigue linéaire et le narrateur qui explique",
+      "explanation": "Robbe-Grillet, Sarraute et Butor en sont les principaux représentants. Le lecteur y devient actif, contraint de construire lui-même ce que le récit refuse de livrer.",
+      "tags": [
+        "mouvements",
+        "XX siècle"
+      ],
+      "distractors": {
+        "easy": [
+          "L'usage de la prose au profit du vers",
+          "La publication des romans en librairie",
+          "L'existence même de la littérature"
+        ],
+        "medium": [
+          "La représentation réaliste de la société, au profit du fantastique",
+          "L'emploi du passé simple, au profit du présent",
+          "La longueur excessive des romans du XIX siècle"
+        ],
+        "hard": [
+          "Les conventions du roman traditionnel, tout en conservant l'intrigue linéaire",
+          "Le personnage et l'intrigue, remise en cause qui rend le lecteur passif",
+          "Les conventions romanesques, mouvement dont Proust est le fondateur"
+        ]
+      }
+    },
+    {
+      "recto": "Comment le récit peut-il produire un effet de réel ?",
+      "verso": "Par des détails concrets apparemment inutiles à l'intrigue, qui donnent l'impression que le monde décrit existe indépendamment du récit",
+      "explanation": "Un baromètre sur un mur ne sert à rien dans l'action, mais atteste que la pièce est vraie. C'est ce paradoxe qui fonde l'illusion réaliste : ce qui ne sert à rien sert à faire vrai.",
+      "tags": [
+        "réalisme",
+        "procédés"
+      ],
+      "distractors": {
+        "easy": [
+          "En affirmant que l'histoire est vraie",
+          "En citant des sources historiques",
+          "En publiant le roman comme un document"
+        ],
+        "medium": [
+          "En supprimant tous les détails superflus du récit",
+          "En multipliant les dialogues au détriment des descriptions",
+          "En employant un narrateur à la première personne"
+        ],
+        "hard": [
+          "Par des détails concrets utiles à l'intrigue, qui renforcent la vraisemblance",
+          "Par des détails inutiles, procédé propre au seul roman du XX siècle",
+          "Par des détails concrets, qui prouvent que le monde décrit a réellement existé"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on le schéma actantiel d'un récit ?",
+      "verso": "La répartition des rôles autour d'une quête : un sujet cherche un objet, aidé par des adjuvants et gêné par des opposants",
+      "explanation": "Il s'y ajoute le destinateur, qui lance la quête, et le destinataire, qui en bénéficie. Un même personnage peut occuper plusieurs rôles, et ces rôles peuvent changer au cours du récit.",
+      "tags": [
+        "structure",
+        "outil"
+      ],
+      "distractors": {
+        "easy": [
+          "Le résumé du roman chapitre par chapitre",
+          "La liste des lieux où se déroule l'action",
+          "L'ordre d'apparition des personnages"
+        ],
+        "medium": [
+          "La succession des cinq étapes de l'intrigue",
+          "Le classement des personnages par importance",
+          "La répartition des chapitres entre les narrateurs"
+        ],
+        "hard": [
+          "La répartition des rôles autour d'une quête, chaque personnage occupant un seul rôle fixe",
+          "La répartition des rôles, modèle qui ne comprend ni destinateur ni destinataire",
+          "La succession des étapes du récit, de la situation initiale au dénouement"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles sont les cinq étapes du schéma narratif ?",
+      "verso": "La situation initiale, l'élément perturbateur, les péripéties, l'élément de résolution et la situation finale",
+      "explanation": "Ce modèle décrit une structure, il ne prescrit pas une qualité : de grands romans le contournent délibérément. Il sert surtout à repérer où un texte s'en écarte et pourquoi.",
+      "tags": [
+        "structure",
+        "outil"
+      ],
+      "distractors": {
+        "easy": [
+          "L'introduction, le développement et la conclusion",
+          "Le début, le milieu et la fin",
+          "La thèse, l'antithèse et la synthèse"
+        ],
+        "medium": [
+          "L'exposition, le nœud, les péripéties, le dénouement et l'épilogue",
+          "La situation initiale, les péripéties et la situation finale",
+          "L'incipit, l'intrigue, le climax, la chute et l'explicit"
+        ],
+        "hard": [
+          "Les cinq étapes classiques, modèle que tout roman réussi doit respecter",
+          "Situation initiale, élément perturbateur, péripéties, résolution et situation finale, schéma propre au seul conte",
+          "Situation initiale, nœud, péripéties, résolution et dénouement"
+        ]
+      }
+    },
+    {
+      "recto": "Comment distingue-t-on le roman de la nouvelle ?",
+      "verso": "La nouvelle est brève, resserrée sur un nombre réduit de personnages et d'épisodes, et vise souvent une chute frappante",
+      "explanation": "La différence n'est pas seulement de longueur mais de construction : la nouvelle élimine, le roman développe. Maupassant illustre parfaitement cette économie du récit bref.",
+      "tags": [
+        "genre",
+        "distinction"
+      ],
+      "distractors": {
+        "easy": [
+          "La nouvelle est écrite en vers, le roman en prose",
+          "La nouvelle est destinée aux enfants",
+          "La nouvelle raconte des faits d'actualité"
+        ],
+        "medium": [
+          "La nouvelle est longue et le roman court",
+          "La nouvelle comporte plusieurs intrigues parallèles",
+          "La nouvelle est toujours écrite à la première personne"
+        ],
+        "hard": [
+          "La nouvelle est brève et resserrée, différence qui tient uniquement à la longueur",
+          "La nouvelle est brève, forme qui exclut par nature toute chute frappante",
+          "La nouvelle développe ses personnages tandis que le roman les élimine"
+        ]
+      }
+    },
+    {
+      "recto": "Quel effet produit le choix du présent de narration dans un récit ?",
+      "verso": "Il rapproche les événements du lecteur en les donnant comme actuels, créant une impression d'immédiateté",
+      "explanation": "Le passé simple, à l'inverse, installe une distance et signale un récit achevé. Le passage de l'un à l'autre à l'intérieur d'un même texte est toujours signifiant.",
+      "tags": [
+        "narration",
+        "temps verbaux"
+      ],
+      "distractors": {
+        "easy": [
+          "Il indique que l'histoire est vraie",
+          "Il rend le texte plus court",
+          "Il supprime la présence du narrateur"
+        ],
+        "medium": [
+          "Il installe une distance entre le lecteur et les événements",
+          "Il signale que le récit est achevé",
+          "Il annonce un retour en arrière"
+        ],
+        "hard": [
+          "Il crée une impression d'immédiateté, effet identique à celui du passé simple",
+          "Il rapproche les événements du lecteur, effet qui interdit toute alternance de temps",
+          "Il donne les événements comme actuels, ce qui garantit leur véracité"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que le registre pathétique dans un récit ?",
+      "verso": "Un registre qui cherche à émouvoir le lecteur en suscitant la pitié devant la souffrance d'un personnage",
+      "explanation": "Il s'appuie sur le lexique de la douleur, les exclamations et les détails concrets du malheur. Le registre tragique s'en distingue par la présence d'une fatalité contre laquelle le personnage ne peut rien.",
+      "tags": [
+        "registres",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Un registre qui fait rire le lecteur",
+          "Un registre qui décrit des paysages",
+          "Un registre qui expose une démonstration"
+        ],
+        "medium": [
+          "Un registre qui suscite l'admiration devant un exploit",
+          "Un registre qui provoque la peur devant le surnaturel",
+          "Un registre qui dénonce par la moquerie"
+        ],
+        "hard": [
+          "Un registre qui suscite la pitié, identique au registre tragique",
+          "Un registre qui suscite la pitié, en excluant tout détail concret du malheur",
+          "Un registre qui émeut par la présence d'une fatalité insurmontable"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi un roman peut-il porter une dimension critique ou politique ?",
+      "verso": "En donnant à voir les mécanismes d'une société par le destin de ses personnages, sans avoir à formuler explicitement une thèse",
+      "explanation": "Germinal fait comprendre la condition ouvrière par une expérience partagée plutôt que par un raisonnement. C'est la force propre du récit : il convainc par l'incarnation.",
+      "tags": [
+        "fonctions",
+        "engagement"
+      ],
+      "distractors": {
+        "easy": [
+          "En publiant des tracts à la fin du livre",
+          "En citant des discours politiques",
+          "En donnant un titre politique au roman"
+        ],
+        "medium": [
+          "En interrompant le récit pour exposer une thèse argumentée",
+          "En supprimant tout personnage pour ne garder que l'analyse",
+          "En imposant au lecteur la conclusion à tirer"
+        ],
+        "hard": [
+          "En donnant à voir les mécanismes sociaux, ce qui suppose de formuler explicitement une thèse",
+          "En incarnant une critique dans des personnages, force propre au genre argumentatif",
+          "En représentant la société, dimension critique réservée au seul roman naturaliste"
+        ]
+      }
+    },
+    {
+      "recto": "Que signifie analyser la construction d'un personnage plutôt que le juger ?",
+      "verso": "Décrire les procédés par lesquels le texte le fait exister — nom, portrait, paroles, regard des autres — au lieu de commenter sa moralité",
+      "explanation": "Un personnage n'est pas une personne : il est un effet de texte. Écrire qu'il est antipathique n'apprend rien tant que l'on n'a pas montré comment le récit produit cette impression.",
+      "tags": [
+        "méthode",
+        "personnage"
+      ],
+      "distractors": {
+        "easy": [
+          "Raconter sa vie du début à la fin",
+          "Chercher s'il a existé réellement",
+          "Comparer son caractère au sien"
+        ],
+        "medium": [
+          "Évaluer la cohérence psychologique du personnage",
+          "Déterminer si l'auteur l'aime ou non",
+          "Résumer ses actions principales dans l'intrigue"
+        ],
+        "hard": [
+          "Décrire les procédés qui le font exister, en concluant par un jugement moral",
+          "Décrire les procédés du texte, démarche qui suppose que le personnage soit une personne réelle",
+          "Analyser le portrait uniquement, les paroles relevant de l'étude du dialogue"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi repérer un changement de focalisation dans un extrait ?",
+      "verso": "Parce qu'il modifie ce que le lecteur sait et à quel moment, ce qui oriente sa sympathie et sa compréhension de la scène",
+      "explanation": "Passer en focalisation interne enferme le lecteur dans le savoir limité d'un personnage, ce qui peut créer suspense ou malentendu. Le changement est donc toujours un choix de sens, jamais une négligence.",
+      "tags": [
+        "méthode",
+        "points de vue"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que c'est une figure de style à relever",
+          "Parce que cela indique la fin d'un chapitre",
+          "Parce que cela révèle l'identité de l'auteur"
+        ],
+        "medium": [
+          "Parce que cela signale un changement de narrateur",
+          "Parce que cela indique un retour en arrière",
+          "Parce que cela annonce la mort d'un personnage"
+        ],
+        "hard": [
+          "Parce qu'il modifie le savoir du lecteur, changement le plus souvent involontaire chez l'auteur",
+          "Parce qu'il modifie ce que le lecteur sait, sans effet sur sa sympathie pour les personnages",
+          "Parce qu'il signale toujours le passage du récit au discours rapporté"
+        ]
+      }
+    },
+    {
+      "recto": "Comment justifier une interprétation d'un passage romanesque ?",
+      "verso": "En l'appuyant sur des éléments précis du texte — mots, temps verbaux, construction — cités et analysés, jamais sur une impression générale",
+      "explanation": "Une interprétation non ancrée dans la lettre du texte reste une opinion. Citer sans analyser ne vaut pas mieux : la citation doit être suivie de l'explication de son effet.",
+      "tags": [
+        "méthode",
+        "commentaire"
+      ],
+      "distractors": {
+        "easy": [
+          "En donnant son ressenti personnel de lecteur",
+          "En résumant le passage avec ses propres mots",
+          "En comparant le roman à un film"
+        ],
+        "medium": [
+          "En s'appuyant sur la biographie de l'auteur",
+          "En citant l'avis d'un critique reconnu",
+          "En citant longuement le texte sans commentaire"
+        ],
+        "hard": [
+          "En l'appuyant sur des éléments précis du texte, la citation se suffisant à elle-même",
+          "En citant le texte, à condition que l'interprétation précède toujours la citation",
+          "En s'appuyant sur des éléments du texte et sur l'intention déclarée de l'auteur"
+        ]
+      }
+    },
+    {
+      "recto": "Que faut-il observer dans un explicit de roman ?",
+      "verso": "La manière dont le récit se clôt : résolution ou ouverture, retour au point de départ, dernière image et effet laissé au lecteur",
+      "explanation": "Une fin ouverte transfère au lecteur la charge de conclure, une fin fermée impose une lecture. Comparer l'explicit à l'incipit révèle souvent le trajet accompli par le personnage.",
+      "tags": [
+        "structure",
+        "explicit"
+      ],
+      "distractors": {
+        "easy": [
+          "Le nombre de pages du dernier chapitre",
+          "La date de publication imprimée à la fin",
+          "Le nom de l'éditeur"
+        ],
+        "medium": [
+          "Uniquement le sort réservé au personnage principal",
+          "Uniquement la présence ou non d'un épilogue",
+          "La longueur de la dernière phrase du roman"
+        ],
+        "hard": [
+          "La manière dont le récit se clôt, une fin ouverte imposant au lecteur une lecture unique",
+          "La clôture du récit, dont la comparaison avec l'incipit n'apporte rien",
+          "La dernière image du roman, seul élément véritablement analysable"
+        ]
+      }
+    }
+  ]
+}

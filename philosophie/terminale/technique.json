@@ -1,0 +1,536 @@
+{
+  "id": "philosophie-terminale-technique",
+  "title": "La technique",
+  "emoji": "⚙️",
+  "subject": "philosophy",
+  "country": "fr",
+  "courseDescription": "Philosophie · Terminale — la technique : outil et machine, maîtrise de la nature, neutralité en question, progrès technique et responsabilité.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>La technique</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale (voie générale et technologique)<br>\n  <b>Thème&nbsp;:</b> Philosophie — L'existence humaine et la culture<br>\n  <b>Notion</b> · environ 4 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> La technique est-elle un moyen que nous employons&nbsp;— ou un monde dans lequel nous vivons&nbsp;?</p></blockquote>\n\n<p>On répète volontiers que la technique n'est ni bonne ni mauvaise, que tout dépend de l'usage. La formule rassure&nbsp;: elle laisse la responsabilité entière aux personnes et l'objet hors de cause. Elle est pourtant fausse à la lettre. Un dispositif technique n'attend pas passivement qu'on décide de son emploi&nbsp;: il rend certaines conduites faciles et d'autres coûteuses, il structure les rapports de travail, il suscite des attentes qui n'existaient pas. Reconnaître cela n'oblige pas à basculer dans la thèse inverse — une technique qui déciderait à notre place. Entre le moyen inerte et la puissance autonome, le chapitre cherche la place réelle des <strong>choix</strong>.</p>\n\n<h2>1 · La technique, propre de l'homme</h2>\n\n<p>La technique est un ensemble de <strong>procédés appris, transmis et perfectionnés</strong> en vue de produire un effet. Le mot décisif est <em>transmis</em>&nbsp;: l'abeille bâtit toujours la même alvéole, alors que l'homme modifie ses procédés et les lègue. Cette <strong>cumulativité</strong> fait de la technique un fait de culture, et rend possible une histoire des techniques.</p>\n\n<p>Le mythe de <strong>Prométhée</strong>, dans le <em>Protagoras</em> de Platon, en donne la formule imagée. Épiméthée ayant distribué toutes les qualités aux animaux — griffes, fourrure, vitesse —, l'homme reste nu et désarmé&nbsp;; Prométhée lui donne alors le feu et les arts. La technique n'est donc pas un supplément ajouté à sa nature&nbsp;: <strong>elle lui tient lieu de nature</strong>.</p>\n\n<p>Cela ruine d'avance le rejet en bloc de la technique au nom de la nature&nbsp;: il n'existe pas d'état pré-technique auquel revenir. Cultiver, tisser, bâtir sont déjà des techniques. La critique pertinente ne vise pas la technique en général mais des <em>orientations particulières</em>, qu'il faut nommer.</p>\n\n<h3>Outil et machine</h3>\n\n<p>La différence n'est pas de taille mais de principe.</p>\n\n<ul>\n  <li>L'<strong>outil</strong> prolonge le geste&nbsp;: l'homme reste la source du mouvement, il impose son rythme.</li>\n  <li>La <strong>machine</strong> possède sa propre source d'énergie&nbsp;: le travailleur devient l'auxiliaire d'un fonctionnement qui le précède et lui impose sa cadence.</li>\n</ul>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 165\" role=\"img\" aria-label=\"Comparaison entre l'outil et la machine : avec l'outil, l'homme est la source du mouvement et l'outil prolonge son geste sur la matière ; avec la machine, l'énergie vient de la machine elle-même et l'homme devient l'auxiliaire qui la sert\">\n    <defs>\n      <marker id=\"ar-phtc1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n    <text x=\"8\" y=\"14\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">L'outil</text>\n    <rect x=\"8\" y=\"22\" width=\"86\" height=\"30\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"51\" y=\"41\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">l'homme</text>\n    <path d=\"M98,37 L124,37\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-phtc1)\"/>\n    <rect x=\"128\" y=\"22\" width=\"86\" height=\"30\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"171\" y=\"41\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">l'outil</text>\n    <path d=\"M218,37 L244,37\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-phtc1)\"/>\n    <rect x=\"248\" y=\"22\" width=\"86\" height=\"30\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"291\" y=\"41\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">la matière</text>\n    <text x=\"8\" y=\"70\" font-size=\"9\" class=\"s-muted\">l'homme est la source du mouvement</text>\n    <line x1=\"8\" y1=\"82\" x2=\"332\" y2=\"82\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"104\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">La machine</text>\n    <rect x=\"8\" y=\"112\" width=\"86\" height=\"30\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"51\" y=\"131\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">l'homme</text>\n    <path d=\"M128,127 L102,127\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-phtc1)\"/>\n    <rect x=\"132\" y=\"112\" width=\"86\" height=\"30\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"175\" y=\"131\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">la machine</text>\n    <path d=\"M222,127 L248,127\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-phtc1)\"/>\n    <rect x=\"252\" y=\"112\" width=\"82\" height=\"30\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"293\" y=\"131\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">la matière</text>\n    <text x=\"8\" y=\"160\" font-size=\"9\" class=\"s-muted\">la machine impose son rythme à celui qui la sert</text>\n  </svg>\n  <figcaption>Le sens de la flèche change tout&nbsp;: avec la machine, l'homme cesse d'être le principe du mouvement.</figcaption>\n</figure>\n\n<p>C'est ce déplacement que <strong>Marx</strong> analyse dans le travail industriel. Découpé en gestes séparés, le travail prive l'ouvrier de la maîtrise du produit et de toute vue d'ensemble&nbsp;: il ne se reconnaît plus dans ce qu'il fabrique. C'est l'<strong>aliénation</strong>. Attention à la nuance&nbsp;: ce n'est pas la machine en elle-même qui est en cause, mais l'<em>organisation</em> qui l'emploie.</p>\n\n<h2>2 · Maîtriser la nature</h2>\n\n<p>Descartes formule le programme moderne&nbsp;: les hommes doivent se rendre «&nbsp;<strong>comme maîtres et possesseurs de la nature</strong>&nbsp;». Le mot <em>comme</em> compte&nbsp;: il marque une comparaison, non une propriété absolue. Descartes vise l'utilité — et d'abord la médecine, pour affranchir les hommes «&nbsp;d'une infinité de maladies&nbsp;». On lui a souvent prêté à tort un projet de domination sans limite.</p>\n\n<p><strong>Heidegger</strong> porte l'analyse ailleurs. Son reproche à la technique moderne ne concerne pas ses dommages, mais le <em>rapport au monde</em> qu'elle installe&nbsp;: tout, y compris la nature et l'homme, n'apparaît plus que comme un <strong>fonds disponible</strong> à exploiter. Un fleuve devient une réserve d'énergie avant d'être un paysage. Le danger n'est pas qu'un tel dévoilement existe&nbsp;: c'est qu'il devienne le seul.</p>\n\n<h2>3 · La technique est-elle neutre&nbsp;?</h2>\n\n<p>Nous voici au cœur du chapitre. La thèse de la neutralité soutient qu'un objet ne fait rien par lui-même et que tout dépend de l'intention. Elle bute sur une observation simple&nbsp;: <strong>un dispositif oriente les usages possibles</strong>. Une arme automatique et un couteau ne rendent pas les mêmes conduites disponibles&nbsp;; un réseau qui mesure l'attention ne favorise pas les mêmes contenus qu'une bibliothèque.</p>\n\n<p><b>Mais il faut tenir les deux bouts.</b> Reconnaître qu'une technique n'est pas neutre ne signifie pas qu'elle <em>détermine</em> son usage, ni que la responsabilité des acteurs s'évanouisse. Entre le moyen inerte et la fatalité, il y a la marge où les choix se font — et où l'on peut demander des comptes.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Schéma de trois positions sur la neutralité de la technique : la thèse de la neutralité pour laquelle seul l'usage compte, la thèse du déterminisme technique pour laquelle le dispositif impose les conduites, et la position intermédiaire selon laquelle la technique oriente les possibles sans supprimer les choix\">\n    <text x=\"170\" y=\"14\" text-anchor=\"middle\" font-size=\"10\" class=\"s-muted\">Trois positions</text>\n    <rect x=\"6\" y=\"26\" width=\"102\" height=\"104\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"57\" y=\"48\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Neutralité</text>\n    <text x=\"57\" y=\"70\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">« tout dépend<tspan x=\"57\" dy=\"12\">de l'usage »</tspan></text>\n    <text x=\"57\" y=\"106\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">ignore ce que<tspan x=\"57\" dy=\"11\">l'objet rend facile</tspan></text>\n    <rect x=\"232\" y=\"26\" width=\"102\" height=\"104\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"283\" y=\"48\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Déterminisme</text>\n    <text x=\"283\" y=\"70\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">« la technique<tspan x=\"283\" dy=\"12\">décide »</tspan></text>\n    <text x=\"283\" y=\"106\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">supprime toute<tspan x=\"283\" dy=\"11\">responsabilité</tspan></text>\n    <rect x=\"119\" y=\"26\" width=\"102\" height=\"104\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"48\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Orientation</text>\n    <text x=\"170\" y=\"70\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">le dispositif rend<tspan x=\"170\" dy=\"12\">certains usages</tspan><tspan x=\"170\" dy=\"12\">plus probables</tspan></text>\n    <text x=\"170\" y=\"118\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">les choix restent</text>\n    <text x=\"170\" y=\"158\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">c'est dans cette marge que la délibération a lieu</text>\n  </svg>\n  <figcaption>Les deux positions extrêmes se rejoignent par leur effet&nbsp;: elles dispensent également d'examiner les orientations techniques.</figcaption>\n</figure>\n\n<p>Un phénomène le confirme&nbsp;: la technique modifie <strong>ce que nous désirons</strong>, et pas seulement ce que nous pouvons. Personne ne désirait être joignable en permanence avant que ce soit possible. Les possibilités nouvelles deviennent des attentes, puis des besoins ressentis comme naturels. Une technique ne se contente donc pas de satisfaire des besoins préexistants&nbsp;: elle en suscite.</p>\n\n<div class=\"callout\">\n  <strong>Repère · Moyens / fins</strong><br>\n  La technique relève par définition des <em>moyens</em>&nbsp;: elle rend efficace la poursuite d'un but sans se prononcer sur ce but. Le risque propre aux sociétés techniciennes est que les moyens disponibles finissent par dicter les fins qu'on se donne.\n</div>\n\n<h2>4 · Puissance et responsabilité</h2>\n\n<p>Premier point à établir&nbsp;: le <strong>progrès technique n'est pas le progrès moral</strong>. L'augmentation des moyens ne dit rien de la valeur des fins auxquelles ils servent, et le vingtième siècle en a fourni la démonstration la plus sombre — les moyens les plus perfectionnés ont servi les entreprises les plus destructrices.</p>\n\n<p><strong>Günther Anders</strong> et <strong>Hans Jonas</strong> repèrent un décalage plus troublant encore&nbsp;: nous pouvons produire des conséquences dont nous sommes <em>incapables de nous représenter l'ampleur</em>. Notre imagination et notre compassion ont été formées pour des situations proches et visibles&nbsp;; face à des effets différés, diffus, planétaires, elles ne s'activent pas d'elles-mêmes. La morale spontanée ne suffit plus&nbsp;: il faut un effort réfléchi de représentation.</p>\n\n<p>De là le <strong>principe de précaution</strong>&nbsp;: l'incertitude scientifique ne justifie pas de différer des mesures face à un risque de dommage grave et irréversible. Il ne prescrit pas l'abstention systématique, ce qui bloquerait toute innovation&nbsp;: il <em>inverse la charge de la preuve</em> pour les risques majeurs. Sa difficulté est d'évaluer ce qui compte comme grave et irréversible.</p>\n\n<h3>Qui décide&nbsp;?</h3>\n\n<p>Les experts ne peuvent pas trancher seuls&nbsp;: leur compétence porte sur les faits et les risques, non sur les <strong>valeurs</strong> qui déterminent ce qui est acceptable. Savoir qu'un procédé comporte tel risque ne dit pas si ce risque vaut d'être pris — c'est une question de priorités collectives, donc politique.</p>\n\n<p>La difficulté est que dans les systèmes complexes, la <strong>responsabilité se dilue</strong>&nbsp;: elle se répartit entre concepteurs, décideurs, utilisateurs et institutions, sans qu'aucun ne maîtrise l'ensemble. Cette dilution ne l'annule pas&nbsp;: elle oblige à la penser comme partagée et institutionnelle. C'est pourquoi les procédures d'évaluation et de contrôle comptent autant que les intentions.</p>\n\n<h2>5 · Débats contemporains</h2>\n\n<p><strong>Automatisation.</strong> Le débat sur la fin du travail suppose souvent que les tâches disparaissent sans être remplacées. L'histoire montre plutôt des <em>déplacements</em>&nbsp;— vers la conception, la surveillance, la réparation — avec des coûts sociaux réels pour ceux dont la qualification devient obsolète, et une dépendance nouvelle aux systèmes.</p>\n\n<p><strong>Libération ou vulnérabilité.</strong> La technique nous affranchit de tâches pénibles&nbsp;: santé, transport, communication en témoignent. Mais l'allègement s'accompagne d'une dépendance croissante à des systèmes que nul individu ne comprend entièrement. La liberté gagnée sur la nécessité naturelle se paie d'une vulnérabilité en cas de défaillance.</p>\n\n<p><strong>Techniques du vivant.</strong> Elles posent une question spécifique&nbsp;: jusqu'où peut-on modifier ce qui, jusqu'ici, était <em>reçu</em> et non choisi&nbsp;? Soigner rétablit un état&nbsp;; augmenter ou sélectionner engage une décision sur ce que doit être un être humain. La difficulté est que la frontière entre les deux se déplace avec les techniques disponibles.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Le fil du problème</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Frise du parcours du chapitre : la technique comme propre de l'homme avec le mythe de Prométhée, puis le projet moderne de maîtrise de la nature, puis la question de la neutralité de la technique, puis le décalage entre puissance et représentation des effets, enfin les débats contemporains sur le travail et le vivant\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"186\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Une seconde nature</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Prométhée, outil et machine</text>\n    <circle cx=\"26\" cy=\"62\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"59\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Maîtriser</text>\n    <text x=\"44\" y=\"72\" font-size=\"10\" fill=\"currentColor\">Descartes, puis Heidegger</text>\n    <circle cx=\"26\" cy=\"104\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"101\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">La neutralité en question</text>\n    <text x=\"44\" y=\"114\" font-size=\"10\" fill=\"currentColor\">Le dispositif oriente les usages</text>\n    <circle cx=\"26\" cy=\"146\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"143\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Répondre de sa puissance</text>\n    <text x=\"44\" y=\"156\" font-size=\"10\" fill=\"currentColor\">Anders, Jonas, précaution</text>\n    <circle cx=\"26\" cy=\"184\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"181\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Décider ensemble</text>\n    <text x=\"44\" y=\"194\" font-size=\"10\" fill=\"currentColor\">Travail, vivant, expertise</text>\n  </svg>\n  <figcaption>Le chapitre conduit d'une anthropologie de l'outil à une question politique&nbsp;: qui oriente les techniques&nbsp;?</figcaption>\n</figure>\n\n<h3>Distinctions à tenir</h3>\n\n<table>\n  <tr><th>Distinction</th><th>Ce qui se joue</th></tr>\n  <tr><td>Outil / machine</td><td>Qui est la source du mouvement et du rythme</td></tr>\n  <tr><td>Technique / instinct</td><td>La transmissibilité et la cumulativité</td></tr>\n  <tr><td>Progrès technique / progrès moral</td><td>Des moyens accrus ne valident pas les fins</td></tr>\n  <tr><td>Neutre / orienté</td><td>Un dispositif rend certains usages plus probables</td></tr>\n  <tr><td>Soigner / augmenter</td><td>Rétablir un état, ou décider de ce que doit être l'humain</td></tr>\n  <tr><td>Faits / valeurs</td><td>Ce que l'expert évalue, ce que la société arbitre</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition</th></tr>\n  <tr><td>Technique</td><td>Procédés appris, transmis et perfectionnés en vue d'un effet</td></tr>\n  <tr><td>Outil</td><td>Objet qui prolonge le geste de celui qui l'emploie</td></tr>\n  <tr><td>Machine</td><td>Dispositif ayant sa propre énergie et imposant son rythme</td></tr>\n  <tr><td>Aliénation</td><td>Perte de la maîtrise du produit et de la vue d'ensemble</td></tr>\n  <tr><td>Fonds disponible</td><td>Mode d'apparaître où tout devient réserve exploitable</td></tr>\n  <tr><td>Principe de précaution</td><td>L'incertitude ne dispense pas d'agir face à un risque grave</td></tr>\n  <tr><td>Irréversibilité</td><td>Caractère de ce qui ne peut plus être défait</td></tr>\n  <tr><td>Besoin induit</td><td>Attente créée par la disponibilité d'une possibilité nouvelle</td></tr>\n  <tr><td>Responsabilité partagée</td><td>Imputation répartie entre acteurs d'un système complexe</td></tr>\n</table>\n\n<h3>Les auteurs</h3>\n\n<table>\n  <tr><th>Auteur</th><th>Thèse à retenir</th></tr>\n  <tr><td>Platon</td><td>Le mythe de Prométhée&nbsp;: la technique tient lieu de nature à l'homme</td></tr>\n  <tr><td>Descartes</td><td>Se rendre <em>comme</em> maîtres et possesseurs de la nature, pour l'utilité</td></tr>\n  <tr><td>Marx</td><td>L'organisation du travail industriel aliène le producteur</td></tr>\n  <tr><td>Heidegger</td><td>La technique moderne fait apparaître le monde comme fonds disponible</td></tr>\n  <tr><td>Anders</td><td>Notre puissance excède notre capacité à nous représenter ses effets</td></tr>\n  <tr><td>Jonas</td><td>Une puissance nouvelle exige une responsabilité élargie à l'avenir</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Croire que la technique est un <em>moyen neutre</em> dont tout dépendrait de l'usage. Un dispositif oriente les usages possibles, structure les rapports sociaux et suscite des besoins&nbsp;: il n'attend pas passivement notre décision. Mais l'excès inverse est tout aussi commode&nbsp;: faire de la technique une puissance autonome qui déciderait à notre place dispense pareillement d'examiner les choix. Autre confusion à écarter&nbsp;: prendre le progrès des moyens pour un progrès des fins.\n</div>\n\n<blockquote><p>La technique n'est donc ni notre serviteur ni notre destin. Elle est le milieu que nous fabriquons et qui nous fabrique en retour&nbsp;— ce qui fait de son orientation une question politique, et non une simple affaire d'ingénieurs.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Philosophie — L'existence humaine et la culture",
+  "cards": [
+    {
+      "recto": "Comment définir la technique par rapport à la simple habileté naturelle ?",
+      "verso": "Un ensemble de procédés appris, transmis et perfectionnés en vue de produire un effet, et non un comportement instinctif",
+      "explanation": "L'abeille bâtit toujours la même alvéole ; l'homme modifie ses procédés et les transmet, ce qui rend possible une accumulation. C'est la transmissibilité qui fait de la technique un fait de culture et non de nature.",
+      "tags": [
+        "définition",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "L'usage de machines électriques",
+          "Le travail effectué en usine",
+          "Ce que fabriquent les ingénieurs"
+        ],
+        "medium": [
+          "L'application directe des découvertes scientifiques",
+          "L'ensemble des gestes du corps humain",
+          "Le savoir-faire propre aux artisans uniquement"
+        ],
+        "hard": [
+          "Un comportement inné perfectionné par l'usage",
+          "Une activité dont les procédés ne se transmettent pas",
+          "Une production sans finalité déterminée"
+        ]
+      }
+    },
+    {
+      "recto": "Que raconte le mythe de Prométhée dans le Protagoras de Platon ?",
+      "verso": "Que l'homme, né sans qualités naturelles, reçoit le feu et les arts techniques qui compensent son dénuement",
+      "explanation": "Épiméthée ayant distribué toutes les qualités aux animaux, l'homme reste nu et désarmé. La technique n'est donc pas un luxe ajouté à sa nature : elle est ce qui lui tient lieu de nature.",
+      "tags": [
+        "mythe",
+        "Platon"
+      ],
+      "distractors": {
+        "easy": [
+          "Que les dieux interdisent la technique aux hommes",
+          "Que l'homme est le plus fort des animaux",
+          "Que le feu a été découvert par hasard"
+        ],
+        "medium": [
+          "Que la technique corrompt une nature humaine parfaite",
+          "Que les hommes reçoivent la justice avant les arts",
+          "Que Prométhée invente les machines modernes"
+        ],
+        "hard": [
+          "Que l'homme naît pourvu de qualités que la technique perfectionne",
+          "Que la technique découle directement de la vie politique",
+          "Que le dénuement humain est compensé par la seule raison"
+        ]
+      }
+    },
+    {
+      "recto": "Ne pas confondre : qu'est-ce qui distingue l'outil de la machine ?",
+      "verso": "L'outil prolonge le geste de celui qui l'emploie, la machine possède sa propre source d'énergie et impose son rythme au travailleur",
+      "explanation": "Avec l'outil, l'homme reste le principe du mouvement ; avec la machine, il devient l'auxiliaire d'un fonctionnement qui le précède. Ce déplacement explique pourquoi le travail industriel transforme la nature même de l'activité, et non seulement son rendement.",
+      "tags": [
+        "comparaison",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "L'outil est petit, la machine est grande",
+          "L'outil est ancien, la machine est moderne",
+          "L'outil est en bois, la machine en métal"
+        ],
+        "medium": [
+          "La machine prolonge le geste, l'outil impose son rythme",
+          "L'outil est individuel, la machine collective",
+          "L'outil est manuel, la machine est électrique"
+        ],
+        "hard": [
+          "La machine dépend entièrement de l'énergie du travailleur",
+          "L'outil possède sa propre source de mouvement",
+          "La distinction tient uniquement à la complexité du dispositif"
+        ]
+      }
+    },
+    {
+      "recto": "Que signifie la formule cartésienne selon laquelle les hommes doivent se rendre comme maîtres et possesseurs de la nature ?",
+      "verso": "Que la connaissance des lois naturelles doit servir à améliorer la condition humaine, notamment la santé",
+      "explanation": "Le mot comme est essentiel : il marque une comparaison, non une propriété absolue. Descartes vise l'utilité, et d'abord la médecine ; on lui a souvent prêté à tort un projet de domination sans limite.",
+      "tags": [
+        "auteur",
+        "Descartes"
+      ],
+      "distractors": {
+        "easy": [
+          "Que l'homme doit détruire la nature",
+          "Que la nature appartient aux rois",
+          "Que la science est inutile"
+        ],
+        "medium": [
+          "Que l'homme doit renoncer à connaître la nature",
+          "Que la technique doit rester subordonnée à la religion",
+          "Que la nature obéit spontanément à l'homme"
+        ],
+        "hard": [
+          "Que l'homme possède la nature absolument et sans réserve",
+          "Que la maîtrise technique se substitue à la connaissance des lois",
+          "Que la nature doit être imitée plutôt qu'utilisée"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : la technique est-elle un simple moyen neutre dont tout dépend de l'usage ?",
+      "verso": "Non : un dispositif technique oriente les usages possibles, structure les rapports sociaux et rend certaines conduites plus faciles que d'autres",
+      "explanation": "C'est le contresens le plus tenace du chapitre. Dire qu'une arme automatique et un couteau sont également neutres ignore que leurs possibilités d'emploi diffèrent. Attention cependant à l'excès inverse : reconnaître qu'une technique n'est pas neutre ne signifie pas qu'elle détermine mécaniquement son usage, ni que la responsabilité des acteurs disparaisse.",
+      "tags": [
+        "piege",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, tout dépend uniquement de l'intention",
+          "Oui, un objet ne fait rien par lui-même",
+          "Non, la technique décide de tout à notre place"
+        ],
+        "medium": [
+          "Oui, car les objets n'ont pas de valeurs",
+          "Non, car toute technique est nuisible",
+          "Oui, à condition que la loi encadre les usages"
+        ],
+        "hard": [
+          "Oui, car l'orientation des usages relève de la seule décision individuelle",
+          "Non, car le dispositif technique détermine mécaniquement les conduites",
+          "Oui, car la neutralité de l'objet garantit celle de ses effets"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi le travail à la chaîne modifie-t-il le rapport du travailleur à son activité selon Marx ?",
+      "verso": "Il le prive de la maîtrise du produit et de la vue d'ensemble, transformant son travail en simple exécution répétitive",
+      "explanation": "Ce n'est pas la machine en elle-même qui est en cause mais l'organisation qui découpe le travail en gestes séparés. L'ouvrier ne se reconnaît plus dans ce qu'il produit : c'est ce que Marx nomme l'aliénation.",
+      "tags": [
+        "auteur",
+        "Marx"
+      ],
+      "distractors": {
+        "easy": [
+          "Il rend le travail plus fatigant physiquement",
+          "Il diminue les salaires",
+          "Il rend les usines plus bruyantes"
+        ],
+        "medium": [
+          "Il supprime tout besoin de compétence technique",
+          "Il donne au travailleur la propriété des machines",
+          "Il permet à chacun de choisir son poste"
+        ],
+        "hard": [
+          "Il donne à l'ouvrier une vue d'ensemble du processus productif",
+          "Il restitue au travailleur la maîtrise de son produit",
+          "Il supprime la division du travail au profit de l'artisanat"
+        ]
+      }
+    },
+    {
+      "recto": "Que reproche Heidegger à la technique moderne au-delà de ses effets néfastes ?",
+      "verso": "D'imposer un rapport au monde où tout, y compris la nature et l'homme, n'apparaît plus que comme un fonds disponible à exploiter",
+      "explanation": "L'analyse ne porte pas sur les dommages mais sur la manière dont la technique fait apparaître les choses : un fleuve devient une réserve d'énergie avant d'être un paysage. Le danger serait que ce mode de dévoilement devienne le seul.",
+      "tags": [
+        "auteur",
+        "Heidegger"
+      ],
+      "distractors": {
+        "easy": [
+          "De polluer l'environnement",
+          "De coûter trop cher",
+          "De supprimer des emplois"
+        ],
+        "medium": [
+          "D'être moins efficace que la technique ancienne",
+          "De ne pas s'appuyer sur la science",
+          "De rendre les hommes paresseux"
+        ],
+        "hard": [
+          "De constituer un simple moyen dont l'usage seul importe",
+          "De faire apparaître la nature comme un objet de contemplation",
+          "De se réduire à une application des lois physiques"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi le progrès technique ne se confond-il pas avec le progrès moral ?",
+      "verso": "Parce que l'augmentation des moyens ne dit rien de la valeur des fins auxquelles ils servent",
+      "explanation": "Le vingtième siècle a fourni la démonstration : les moyens les plus perfectionnés ont servi les entreprises les plus destructrices. Progresser en puissance et progresser en humanité sont deux ordres distincts.",
+      "tags": [
+        "progrès",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que la technique est toujours mauvaise",
+          "Parce que la morale n'évolue jamais",
+          "Parce que le progrès n'existe pas"
+        ],
+        "medium": [
+          "Parce que la technique se développe trop lentement",
+          "Parce que la morale précède toujours la technique",
+          "Parce que les techniciens ignorent la morale"
+        ],
+        "hard": [
+          "Parce que l'augmentation des moyens implique celle des fins",
+          "Parce que le progrès moral se déduit du progrès matériel",
+          "Parce que la valeur des fins se mesure à l'efficacité des moyens"
+        ]
+      }
+    },
+    {
+      "recto": "Quel décalage Günther Anders et Hans Jonas repèrent-ils entre notre puissance et notre représentation de ses effets ?",
+      "verso": "Nous pouvons produire des conséquences dont nous sommes incapables de nous représenter l'ampleur, ce qui rend nos sentiments moraux inadaptés",
+      "explanation": "L'imagination et la compassion ont été formées pour des situations proches et visibles. Face à des effets différés et diffus, elles ne s'activent pas, ce qui appelle un effort réfléchi de représentation.",
+      "tags": [
+        "contemporain",
+        "responsabilité"
+      ],
+      "distractors": {
+        "easy": [
+          "Nous ne savons pas utiliser les machines",
+          "Nous manquons de connaissances scientifiques",
+          "Nous produisons trop lentement"
+        ],
+        "medium": [
+          "Nos moyens sont inférieurs à nos ambitions",
+          "Nos sentiments moraux sont trop développés",
+          "Nous prévoyons parfaitement les conséquences mais les ignorons"
+        ],
+        "hard": [
+          "Notre imagination est spontanément adaptée aux effets globaux",
+          "Notre puissance reste inférieure à notre capacité de représentation",
+          "Nos sentiments moraux s'activent d'eux-mêmes devant les effets différés"
+        ]
+      }
+    },
+    {
+      "recto": "Sur quoi repose le principe de précaution dans les débats sur les techniques nouvelles ?",
+      "verso": "Sur l'idée que l'incertitude scientifique ne justifie pas de différer des mesures face à un risque de dommage grave et irréversible",
+      "explanation": "Il ne prescrit pas l'abstention systématique, ce qui bloquerait toute innovation : il inverse la charge de la preuve pour les risques majeurs. La difficulté est d'évaluer ce qui compte comme grave et irréversible.",
+      "tags": [
+        "contemporain",
+        "éthique"
+      ],
+      "distractors": {
+        "easy": [
+          "Sur l'interdiction de toute technique nouvelle",
+          "Sur l'obligation de tester les produits",
+          "Sur le refus du progrès"
+        ],
+        "medium": [
+          "Sur la certitude scientifique préalable à toute action",
+          "Sur l'idée que le risque zéro doit être atteint",
+          "Sur la nécessité d'attendre l'accord unanime des experts"
+        ],
+        "hard": [
+          "Sur l'idée que l'incertitude justifie de reporter toute mesure",
+          "Sur la présomption que les dommages réversibles priment les irréversibles",
+          "Sur le transfert de la décision aux seuls scientifiques"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi les experts ne peuvent-ils pas décider seuls des choix techniques d'une société ?",
+      "verso": "Parce que leur compétence porte sur les faits et les risques, non sur les valeurs qui déterminent ce qui est acceptable",
+      "explanation": "Savoir qu'un procédé comporte un risque de tel ordre ne dit pas si ce risque vaut d'être pris. La décision engage des priorités collectives, ce qui la rend politique et non technique.",
+      "tags": [
+        "politique",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'ils se trompent souvent",
+          "Parce qu'ils ne sont pas élus",
+          "Parce qu'ils ne s'entendent jamais"
+        ],
+        "medium": [
+          "Parce que la population comprend mieux les techniques",
+          "Parce que leurs analyses sont toujours partiales",
+          "Parce que la science ne peut rien prévoir"
+        ],
+        "hard": [
+          "Parce que l'évaluation des risques détermine à elle seule la décision",
+          "Parce que les valeurs se déduisent des données scientifiques",
+          "Parce que la compétence technique inclut le jugement sur les fins"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi une technique peut-elle modifier ce que nous désirons et non seulement ce que nous pouvons ?",
+      "verso": "En rendant disponibles des possibilités qui deviennent rapidement des attentes, puis des besoins ressentis comme naturels",
+      "explanation": "Personne ne désirait être joignable en permanence avant que ce soit possible. La technique ne se contente donc pas de satisfaire des besoins préexistants : elle en suscite, ce qui complique l'idée qu'elle serait un simple serviteur.",
+      "tags": [
+        "désir",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "En rendant les objets plus beaux",
+          "En baissant les prix",
+          "En faisant de la publicité"
+        ],
+        "medium": [
+          "En satisfaisant uniquement des besoins préexistants",
+          "En obligeant légalement à consommer",
+          "En supprimant les anciens désirs sans en créer"
+        ],
+        "hard": [
+          "En laissant inchangée la structure de nos besoins",
+          "En créant des besoins qui restent perçus comme artificiels",
+          "En rendant les possibilités moins désirables à mesure qu'elles se répandent"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi l'automatisation ne supprime-t-elle pas nécessairement la compétence humaine ?",
+      "verso": "Parce qu'elle déplace le travail vers la conception, la surveillance et la réparation, tout en créant une dépendance nouvelle",
+      "explanation": "Le débat sur la fin du travail suppose souvent que les tâches disparaissent sans être remplacées. L'histoire montre plutôt des déplacements — avec des coûts sociaux réels pour ceux dont la qualification devient obsolète.",
+      "tags": [
+        "travail",
+        "contemporain"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les machines tombent souvent en panne",
+          "Parce que les hommes travaillent mieux",
+          "Parce que l'automatisation est trop chère"
+        ],
+        "medium": [
+          "Parce que les emplois supprimés reviennent identiques",
+          "Parce que l'automatisation reste marginale",
+          "Parce que les machines ont besoin d'être encouragées"
+        ],
+        "hard": [
+          "Parce que les compétences détruites sont exactement compensées sans coût social",
+          "Parce que l'automatisation supprime toute dépendance technique",
+          "Parce que la conception et la maintenance ne requièrent aucune qualification"
+        ]
+      }
+    },
+    {
+      "recto": "Quel argument s'oppose à l'idée que la technique nous rendrait libres en nous libérant des tâches pénibles ?",
+      "verso": "Que l'allègement des tâches s'accompagne d'une dépendance croissante à des systèmes que nul individu ne maîtrise ni ne comprend entièrement",
+      "explanation": "L'argument ne nie pas les libérations réelles — santé, transport, communication. Il souligne que la liberté gagnée sur la nécessité naturelle se paie d'une vulnérabilité nouvelle en cas de défaillance du système.",
+      "tags": [
+        "débat",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Que la technique fatigue davantage",
+          "Que les tâches pénibles sont agréables",
+          "Que la liberté n'a pas d'importance"
+        ],
+        "medium": [
+          "Que la technique n'allège aucune tâche réelle",
+          "Que la dépendance technique est facilement réversible",
+          "Que chacun comprend parfaitement les systèmes qu'il utilise"
+        ],
+        "hard": [
+          "Que la libération obtenue supprime toute forme de nécessité",
+          "Que la dépendance aux systèmes accroît la maîtrise individuelle",
+          "Que les libérations techniques sont entièrement illusoires"
+        ]
+      }
+    },
+    {
+      "recto": "Quel repère du programme éclaire le rapport entre technique et finalité ?",
+      "verso": "L'opposition entre les moyens et les fins",
+      "explanation": "La technique relève par définition des moyens : elle rend efficace la poursuite d'un but sans se prononcer sur ce but. Le risque propre aux sociétés techniciennes est que les moyens disponibles finissent par dicter les fins qu'on se donne.",
+      "tags": [
+        "repère",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Le repère croire / savoir",
+          "Le repère genre / espèce / individu",
+          "Le repère idéal / réel"
+        ],
+        "medium": [
+          "Le repère universel / général",
+          "Le repère analyse / synthèse",
+          "Le repère médiat / immédiat"
+        ],
+        "hard": [
+          "Le repère essentiel / accidentel",
+          "Le repère transcendant / immanent",
+          "Le repère ressemblance / analogie"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle question spécifique posent les techniques qui portent sur le vivant humain ?",
+      "verso": "Celle de savoir jusqu'où l'on peut modifier ce qui, jusqu'ici, était reçu et non choisi",
+      "explanation": "Soigner rétablit un état ; augmenter ou sélectionner engage une décision sur ce que doit être un être humain. La difficulté est que la frontière entre les deux est mouvante et se déplace avec les techniques disponibles.",
+      "tags": [
+        "bioéthique",
+        "contemporain"
+      ],
+      "distractors": {
+        "easy": [
+          "Celle du coût des traitements",
+          "Celle du nombre de médecins",
+          "Celle de la durée des études"
+        ],
+        "medium": [
+          "Celle de l'efficacité des soins",
+          "Celle de la répartition géographique des hôpitaux",
+          "Celle de la formation des chercheurs"
+        ],
+        "hard": [
+          "Celle de savoir si soigner et augmenter relèvent d'une frontière fixe",
+          "Celle de la neutralité axiologique des sciences du vivant",
+          "Celle de la supériorité du choix sur ce qui est reçu"
+        ]
+      }
+    },
+    {
+      "recto": "Comment répondre à ceux qui rejettent en bloc la technique au nom de la nature ?",
+      "verso": "En rappelant que l'homme n'a pas de condition naturelle antérieure à la technique, qui a toujours fait partie de son mode de vie",
+      "explanation": "Il n'existe pas d'état pré-technique auquel revenir : cultiver, tisser, bâtir sont déjà des techniques. La critique pertinente ne vise donc pas la technique en général mais des orientations particulières, qu'il faut nommer.",
+      "tags": [
+        "argument",
+        "nature"
+      ],
+      "distractors": {
+        "easy": [
+          "En rappelant que la technique est utile",
+          "En montrant que la nature n'existe pas",
+          "En affirmant que le progrès est inévitable"
+        ],
+        "medium": [
+          "En prouvant que toute technique est bénéfique",
+          "En montrant que la nature est hostile à l'homme",
+          "En affirmant que la critique de la technique est illégitime"
+        ],
+        "hard": [
+          "En rappelant qu'un état pré-technique de l'humanité est documenté",
+          "En montrant que la technique s'oppose par essence à la culture",
+          "En établissant que toute critique doit viser la technique en général"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la responsabilité technique est-elle difficile à attribuer dans les systèmes complexes ?",
+      "verso": "Parce que la décision se répartit entre concepteurs, décideurs, utilisateurs et institutions, sans qu'aucun ne maîtrise l'ensemble",
+      "explanation": "Cette dilution ne supprime pas la responsabilité : elle oblige à la penser comme partagée et institutionnelle plutôt qu'individuelle. C'est pourquoi les procédures d'évaluation et de contrôle deviennent aussi importantes que les intentions.",
+      "tags": [
+        "responsabilité",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les machines sont responsables",
+          "Parce que personne ne veut décider",
+          "Parce que les lois sont mal écrites"
+        ],
+        "medium": [
+          "Parce que seul l'utilisateur final est concerné",
+          "Parce que les concepteurs sont anonymes",
+          "Parce que la responsabilité disparaît dans les systèmes complexes"
+        ],
+        "hard": [
+          "Parce que la dilution des décisions supprime toute imputation possible",
+          "Parce qu'un acteur unique maîtrise nécessairement l'ensemble du système",
+          "Parce que la responsabilité institutionnelle exclut la responsabilité individuelle"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi la technique appartient-elle à la culture et non à la nature ?",
+      "verso": "Parce que ses procédés sont appris, transmis d'une génération à l'autre et transformés, ce qui rend possible une histoire des techniques",
+      "explanation": "Une aptitude instinctive ne s'améliore pas d'une génération à l'autre ; un savoir-faire transmis se perfectionne et se diversifie. C'est cette cumulativité qui distingue les techniques humaines des comportements animaux.",
+      "tags": [
+        "culture",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'elle utilise des matériaux artificiels",
+          "Parce qu'elle est enseignée à l'école",
+          "Parce qu'elle est récente"
+        ],
+        "medium": [
+          "Parce qu'elle s'oppose entièrement à la nature",
+          "Parce qu'elle est propre aux sociétés industrielles",
+          "Parce qu'elle exige des connaissances scientifiques"
+        ],
+        "hard": [
+          "Parce qu'elle repose sur des aptitudes instinctives perfectionnées",
+          "Parce que ses procédés ne se transforment pas au fil du temps",
+          "Parce que les comportements animaux sont eux aussi cumulatifs"
+        ]
+      }
+    },
+    {
+      "recto": "Quel bilan peut-on dresser sur la technique ?",
+      "verso": "Elle n'est ni un simple instrument neutre ni une puissance autonome : elle ouvre des possibles qu'il revient à la délibération collective d'orienter",
+      "explanation": "La croire neutre dispense d'examiner ce qu'elle rend probable ; la croire autonome dispense de décider. Entre les deux, il reste à évaluer les orientations techniques comme des choix politiques, ce qu'elles sont.",
+      "tags": [
+        "synthèse",
+        "bilan"
+      ],
+      "distractors": {
+        "easy": [
+          "C'est un simple moyen sans effet propre",
+          "C'est une force qui décide de tout",
+          "C'est un mal dont il faudrait se passer"
+        ],
+        "medium": [
+          "Elle progresse indépendamment de toute décision humaine",
+          "Elle se réduit à l'application des sciences",
+          "Elle garantit le progrès moral de l'humanité"
+        ],
+        "hard": [
+          "Elle détermine mécaniquement les usages qui en sont faits",
+          "Sa neutralité rend inutile toute évaluation collective",
+          "Ses orientations relèvent des experts et non de la délibération"
+        ]
+      }
+    }
+  ]
+}

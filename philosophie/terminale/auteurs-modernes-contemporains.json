@@ -1,0 +1,640 @@
+{
+  "id": "philosophie-terminale-auteurs-modernes-contemporains",
+  "title": "Les auteurs · Modernes et contemporains",
+  "emoji": "📚",
+  "subject": "philosophy",
+  "country": "fr",
+  "courseDescription": "Philosophie · Terminale — repérage des auteurs modernes et contemporains du programme : courants, œuvres et concepts signatures.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Les auteurs · Modernes et contemporains</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale (voie générale et technologique)<br>\n  <b>Thème&nbsp;:</b> Philosophie — Les auteurs du programme<br>\n  <b>Fiche transversale</b> · à consulter tout au long de l'année\n</div>\n\n<blockquote><p><b>Problématique.</b> Que devient le sujet, une fois qu'on a montré tout ce qui le conditionne&nbsp;?</p></blockquote>\n\n<p>Un fil traverse ces quatre siècles. Descartes place le <strong>sujet</strong> au fondement de la connaissance&nbsp;: rien n'est certain avant lui, tout se règle après lui. Puis, un à un, les auteurs exhibent ce qui le conditionne — l'expérience, la société, l'histoire, l'inconscient, le langage, les rapports de production. Ce déplacement n'aboutit pourtant pas à la disparition du sujet&nbsp;: aucune de ces critiques ne se soutiendrait sans quelqu'un pour la formuler et en répondre. Voilà le mouvement qu'il faut suivre pour situer chaque auteur, plutôt que d'accumuler des noms.</p>\n\n<h2>1 · L'âge classique&nbsp;: fonder</h2>\n\n<p><strong>Montaigne</strong> ouvre la période par un geste inattendu&nbsp;: les <em>Essais</em>, où l'auteur se prend lui-même pour matière d'un examen sans système. Le mot «&nbsp;essai&nbsp;» désigne une tentative, non un traité — un modèle durable de philosophie non doctrinale, et écrite en français.</p>\n\n<p><strong>Descartes</strong> publie le <em>Discours de la méthode</em> en français lui aussi, et ce n'est pas une commodité&nbsp;: cela suppose que la raison est également répartie et que chacun peut suivre le raisonnement. Le doute méthodique conduit au <em>cogito</em>, première certitude sur laquelle bâtir.</p>\n\n<p><strong>Spinoza</strong> écrit une <em>Éthique</em> «&nbsp;démontrée selon l'ordre géométrique&nbsp;»&nbsp;: définitions, axiomes, propositions. La forme veut soustraire la morale à l'arbitraire. Le livre identifie aussi Dieu et la Nature, ce qui lui vaudra une condamnation durable.</p>\n\n<p><strong>Hobbes</strong>, dans le <em>Léviathan</em>, fait naître l'État d'un pacte entre des individus que la peur réciproque conduit à renoncer à leur droit sur toute chose.</p>\n\n<h3>Rationalistes et empiristes</h3>\n\n<p>Le grand partage de la période&nbsp;:</p>\n\n<ul>\n  <li>les <strong>rationalistes</strong> — Descartes, Spinoza, Leibniz — admettent des principes que l'esprit ne tire pas de l'expérience&nbsp;;</li>\n  <li>les <strong>empiristes</strong> — Locke, Berkeley, Hume — font dériver toutes nos idées des impressions sensibles.</li>\n</ul>\n\n<p>L'enjeu est précis&nbsp;: l'expérience peut-elle fournir l'<em>universalité</em> et la <em>nécessité</em>&nbsp;? <strong>Hume</strong> rend le débat inévitable en s'attaquant à la causalité&nbsp;: nous n'observons jamais la liaison nécessaire elle-même, seulement une succession constante à laquelle l'habitude nous fait croire. Nous voyons une boule en heurter une autre&nbsp;; nous ne voyons aucun lien qui <em>oblige</em>.</p>\n\n<h2>2 · Kant&nbsp;: le partage</h2>\n\n<p>Kant appelle <strong>critique</strong> l'examen des pouvoirs et des limites de la raison <em>avant</em> d'en faire usage sur des objets. Critiquer ne signifie pas dénigrer&nbsp;: c'est délimiter le domaine où une faculté est légitime — d'où les trois <em>Critiques</em>, consacrées à la raison théorique, à la raison pratique et à la faculté de juger.</p>\n\n<p>Sa <strong>révolution copernicienne</strong> renverse le rapport ordinaire&nbsp;: ce n'est pas la connaissance qui se règle sur les objets, mais les objets qui se règlent sur les conditions de notre connaissance. Cela permet d'expliquer des connaissances à la fois universelles et applicables au réel.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Schéma de la révolution copernicienne de Kant : dans la conception ancienne, l'esprit se règle passivement sur les objets ; dans la conception kantienne, ce sont les objets qui se règlent sur les formes que l'esprit impose\">\n    <defs>\n      <marker id=\"ar-phau1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n    <text x=\"8\" y=\"14\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Avant</text>\n    <rect x=\"8\" y=\"22\" width=\"120\" height=\"32\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"68\" y=\"42\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">les objets</text>\n    <path d=\"M132,38 L188,38\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-phau1)\"/>\n    <rect x=\"194\" y=\"22\" width=\"120\" height=\"32\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"254\" y=\"42\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">l'esprit se règle</text>\n    <text x=\"8\" y=\"72\" font-size=\"9\" class=\"s-muted\">l'esprit reçoit passivement ce qui est donné</text>\n    <line x1=\"8\" y1=\"84\" x2=\"332\" y2=\"84\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"106\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Après Kant</text>\n    <rect x=\"8\" y=\"114\" width=\"120\" height=\"32\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"68\" y=\"134\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">les formes de l'esprit</text>\n    <path d=\"M132,130 L188,130\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-phau1)\"/>\n    <rect x=\"194\" y=\"114\" width=\"120\" height=\"32\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"254\" y=\"134\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">les objets s'y règlent</text>\n    <text x=\"8\" y=\"166\" font-size=\"9\" class=\"s-muted\">d'où des connaissances universelles et pourtant applicables</text>\n  </svg>\n  <figcaption>Le renversement kantien ne rend pas la connaissance moins fiable&nbsp;: il explique pourquoi elle vaut nécessairement pour tout objet d'expérience.</figcaption>\n</figure>\n\n<p>Entre-temps, la philosophie politique s'est reconfigurée. <strong>Rousseau</strong>, dans le <em>Contrat social</em>, cherche la forme d'association légitime au problème que le <em>Discours sur l'origine de l'inégalité</em> avait construit&nbsp;: les deux textes se lisent ensemble.</p>\n\n<h2>3 · Le dix-neuvième siècle&nbsp;: soupçonner</h2>\n\n<p><strong>Hegel</strong> pense l'histoire comme le développement de l'esprit par contradictions successives. <strong>Marx</strong> conserve la structure du mouvement mais en change le moteur&nbsp;: ce sont les <em>rapports matériels de production</em> dont les conflits font l'histoire. Il dira avoir remis la dialectique «&nbsp;sur ses pieds&nbsp;», Hegel la faisant marcher sur la tête.</p>\n\n<p><strong>Tocqueville</strong>, dans <em>De la démocratie en Amérique</em>, montre que la démocratie n'est pas seulement un régime mais un <em>état social</em>, qui transforme les mœurs, la famille, l'autorité — avec des risques propres, dont la tyrannie de la majorité.</p>\n\n<p><strong>Mill</strong>, dans <em>De la liberté</em>, défend le principe selon lequel la souveraineté de l'individu sur lui-même ne peut être limitée que pour prévenir un tort causé à autrui. Il vise en particulier la tyrannie de l'opinion, plus insidieuse que celle des lois&nbsp;— et défend la liberté d'expression par un argument original&nbsp;: même une opinion fausse est utile, car elle oblige à réexaminer les raisons de ce que l'on croit.</p>\n\n<h3>Nietzsche</h3>\n\n<p>Sa méthode est la <strong>généalogie</strong>&nbsp;: examiner la provenance historique des valeurs pour montrer qu'elles sont apparues dans des rapports de force, et non tombées du ciel. Elle ne prétend pas <em>réfuter</em> une valeur&nbsp;: elle en défait l'évidence, et demande ce qu'elle sert et à qui elle profite.</p>\n\n<p><b>Le contresens à éviter absolument&nbsp;:</b> Nietzsche n'est pas un partisan du <strong>nihilisme</strong>. Il le <em>diagnostique</em> comme la dévaluation des valeurs supérieures dans la culture occidentale, et cherche à le surmonter. Annoncer que Dieu est mort, c'est constater qu'un fondement ne fonctionne plus — non s'en réjouir naïvement.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Schéma du déplacement opéré par les philosophies du soupçon : au centre le sujet conscient posé comme fondement par Descartes, autour de lui les conditions exhibées par Marx avec les rapports de production, Nietzsche avec la généalogie des valeurs, Freud avec l'inconscient et les sciences sociales avec le milieu\">\n    <defs>\n      <marker id=\"ar-phau2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n    <rect x=\"106\" y=\"70\" width=\"128\" height=\"38\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"88\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\" font-weight=\"bold\">Le sujet conscient</text>\n    <text x=\"170\" y=\"101\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">posé comme fondement</text>\n    <rect x=\"10\" y=\"10\" width=\"140\" height=\"32\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"80\" y=\"30\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">Marx : la production</text>\n    <rect x=\"190\" y=\"10\" width=\"140\" height=\"32\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"260\" y=\"30\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">Nietzsche : les valeurs</text>\n    <rect x=\"10\" y=\"136\" width=\"140\" height=\"32\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"80\" y=\"156\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">Freud : l'inconscient</text>\n    <rect x=\"190\" y=\"136\" width=\"140\" height=\"32\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"260\" y=\"156\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">Durkheim : le social</text>\n    <path d=\"M80,42 L128,70\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-phau2)\"/>\n    <path d=\"M260,42 L212,70\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-phau2)\"/>\n    <path d=\"M80,136 L128,108\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-phau2)\"/>\n    <path d=\"M260,136 L212,108\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-phau2)\"/>\n  </svg>\n  <figcaption>Quatre manières d'exhiber ce qui conditionne le sujet&nbsp;— sans qu'aucune puisse se passer d'un sujet pour l'énoncer.</figcaption>\n</figure>\n\n<h2>4 · Le vingtième siècle</h2>\n\n<p><strong>Husserl</strong> fonde la <strong>phénoménologie</strong>&nbsp;: revenir «&nbsp;aux choses mêmes&nbsp;» en décrivant les phénomènes tels qu'ils apparaissent à la conscience, en suspendant les théories préalables. Ce programme donnera des œuvres très différentes chez Heidegger, Sartre et Merleau-Ponty.</p>\n\n<p><strong>Bergson</strong> oppose la <em>durée</em> vécue au temps mesuré de la science, et critique la spatialisation du temps par l'intelligence, qui découpe en instants ce qui est continu.</p>\n\n<p><strong>Bachelard</strong> montre que la connaissance scientifique se construit <em>contre</em> les évidences premières, en franchissant des obstacles internes à l'esprit. Son analyse est autant psychologique que logique&nbsp;: ce qui empêche de comprendre est souvent l'attachement à des images.</p>\n\n<p><strong>Wittgenstein</strong>, dans le <em>Tractatus</em>, écrit que les limites de son langage signifient les limites de son monde&nbsp;; son œuvre tardive prendra un tout autre chemin, en étudiant le langage ordinaire comme un ensemble de pratiques réglées.</p>\n\n<p><strong>Arendt</strong>, dans <em>Les Origines du totalitarisme</em>, établit que le totalitarisme est un phénomène inédit et non une tyrannie aggravée. <em>La Condition de l'homme moderne</em> prolongera l'analyse en distinguant le travail, l'œuvre et l'action.</p>\n\n<p><strong>Simone de Beauvoir</strong> applique le principe existentialiste à la situation des femmes&nbsp;: «&nbsp;on ne naît pas femme, on le devient&nbsp;». La condition féminine résulte d'une construction sociale et non d'une nature donnée.</p>\n\n<p><strong>Foucault</strong> étudie des institutions concrètes — la prison, l'asile, la clinique — pour montrer que le pouvoir ne se contente pas d'interdire&nbsp;: il <em>produit</em> des savoirs, des normes et des types d'individus. Plutôt que de demander qui détient le pouvoir, il examine comment il s'exerce.</p>\n\n<p>Enfin, le <strong>structuralisme</strong>, illustré par <strong>Lévi-Strauss</strong> en anthropologie, s'attache aux systèmes de relations plutôt qu'aux intentions des individus. Le modèle vient de la linguistique&nbsp;: un élément n'a de valeur que par sa place dans un système.</p>\n\n<h2>5 · Se servir de cette liste</h2>\n\n<p>Le programme distingue trois périodes pour une raison précise&nbsp;: garantir que les références mobilisées ne se limitent pas à une époque. Une dissertation qui ne citerait que des contemporains manquerait l'<em>origine</em> des questions&nbsp;; une qui ne citerait que des Anciens manquerait leur <em>reformulation</em>. La confrontation des périodes fait partie du travail attendu.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Repères chronologiques</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 215\" role=\"img\" aria-label=\"Frise chronologique des auteurs modernes et contemporains : l'âge classique avec Montaigne, Descartes, Hobbes et Spinoza, les Lumières avec Locke, Hume, Rousseau et Montesquieu, Kant au tournant critique, le dix-neuvième siècle avec Hegel, Marx, Mill, Tocqueville, Nietzsche et Freud, et le vingtième siècle avec Husserl, Bergson, Bachelard, Wittgenstein, Arendt, Beauvoir et Foucault\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"200\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Âge classique</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Montaigne, Descartes, Hobbes, Spinoza</text>\n    <circle cx=\"26\" cy=\"62\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"59\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Lumières</text>\n    <text x=\"44\" y=\"72\" font-size=\"10\" fill=\"currentColor\">Locke, Hume, Montesquieu, Rousseau</text>\n    <circle cx=\"26\" cy=\"104\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"101\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Le tournant critique</text>\n    <text x=\"44\" y=\"114\" font-size=\"10\" fill=\"currentColor\">Kant</text>\n    <circle cx=\"26\" cy=\"146\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"143\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Dix-neuvième siècle</text>\n    <text x=\"44\" y=\"156\" font-size=\"10\" fill=\"currentColor\">Hegel, Marx, Mill, Nietzsche, Freud</text>\n    <circle cx=\"26\" cy=\"198\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"188\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Vingtième siècle</text>\n    <text x=\"44\" y=\"201\" font-size=\"10\" fill=\"currentColor\">Husserl, Bergson, Arendt, Foucault</text>\n    <text x=\"44\" y=\"213\" font-size=\"10\" fill=\"currentColor\">Beauvoir, Wittgenstein, Lévi-Strauss</text>\n  </svg>\n  <figcaption>Cinq moments, un même déplacement&nbsp;: du sujet fondateur vers ses conditions.</figcaption>\n</figure>\n\n<h3>Auteurs et œuvres</h3>\n\n<table>\n  <tr><th>Auteur</th><th>Œuvre repère</th></tr>\n  <tr><td>Montaigne</td><td><em>Essais</em></td></tr>\n  <tr><td>Descartes</td><td><em>Discours de la méthode</em>, <em>Méditations métaphysiques</em></td></tr>\n  <tr><td>Hobbes</td><td><em>Léviathan</em></td></tr>\n  <tr><td>Spinoza</td><td><em>Éthique</em>, <em>Traité théologico-politique</em></td></tr>\n  <tr><td>Rousseau</td><td><em>Du contrat social</em>, <em>Discours sur l'origine de l'inégalité</em></td></tr>\n  <tr><td>Kant</td><td><em>Critique de la raison pure</em>, <em>Fondements de la métaphysique des mœurs</em></td></tr>\n  <tr><td>Tocqueville</td><td><em>De la démocratie en Amérique</em></td></tr>\n  <tr><td>Mill</td><td><em>De la liberté</em></td></tr>\n  <tr><td>Nietzsche</td><td><em>Généalogie de la morale</em>, <em>Le Gai Savoir</em></td></tr>\n  <tr><td>Arendt</td><td><em>Les Origines du totalitarisme</em>, <em>La Condition de l'homme moderne</em></td></tr>\n  <tr><td>Beauvoir</td><td><em>Le Deuxième Sexe</em></td></tr>\n  <tr><td>Foucault</td><td><em>Surveiller et punir</em></td></tr>\n</table>\n\n<h3>Concepts signatures</h3>\n\n<table>\n  <tr><th>Concept</th><th>Auteur</th></tr>\n  <tr><td>Cogito, doute méthodique</td><td>Descartes</td></tr>\n  <tr><td>État de nature et pacte</td><td>Hobbes</td></tr>\n  <tr><td>Volonté générale</td><td>Rousseau</td></tr>\n  <tr><td>Habitude et causalité</td><td>Hume</td></tr>\n  <tr><td>Révolution copernicienne, autonomie</td><td>Kant</td></tr>\n  <tr><td>Dialectique de l'esprit</td><td>Hegel</td></tr>\n  <tr><td>Aliénation, rapports de production</td><td>Marx</td></tr>\n  <tr><td>Généalogie, nihilisme</td><td>Nietzsche</td></tr>\n  <tr><td>Durée</td><td>Bergson</td></tr>\n  <tr><td>Obstacle épistémologique</td><td>Bachelard</td></tr>\n  <tr><td>Totalitarisme, condition moderne</td><td>Arendt</td></tr>\n  <tr><td>Pouvoir et normalisation</td><td>Foucault</td></tr>\n</table>\n\n<h3>Courants en un tableau</h3>\n\n<table>\n  <tr><th>Courant</th><th>Point de départ</th><th>Auteurs</th></tr>\n  <tr><td>Rationalisme</td><td>Des principes non tirés de l'expérience</td><td>Descartes, Spinoza, Leibniz</td></tr>\n  <tr><td>Empirisme</td><td>Les impressions sensibles</td><td>Locke, Berkeley, Hume</td></tr>\n  <tr><td>Criticisme</td><td>Les conditions de la connaissance</td><td>Kant</td></tr>\n  <tr><td>Philosophies du soupçon</td><td>Ce qui conditionne la conscience</td><td>Marx, Nietzsche, Freud</td></tr>\n  <tr><td>Phénoménologie</td><td>Le vécu tel qu'il apparaît</td><td>Husserl, Merleau-Ponty, Sartre</td></tr>\n  <tr><td>Structuralisme</td><td>Les systèmes de relations</td><td>Lévi-Strauss</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Faire de Nietzsche un <em>partisan</em> du nihilisme. Il le diagnostique comme la dévaluation des valeurs supérieures et cherche à le surmonter&nbsp;: annoncer que Dieu est mort, c'est constater qu'un fondement ne fonctionne plus. Mais l'excès inverse est faux aussi&nbsp;: cela n'en fait pas un défenseur des valeurs traditionnelles, qu'il soumet à une généalogie sévère. Autre confusion&nbsp;: croire que Marx conserve la dialectique de Hegel telle quelle — il en garde la structure et en change le moteur.\n</div>\n\n<blockquote><p>Ces auteurs ne forment pas une file où chacun réfuterait le précédent. Ils forment un déplacement&nbsp;: on cesse de demander ce que le sujet fonde pour demander ce qui le rend possible&nbsp;— sans jamais pouvoir se passer de lui pour poser la question.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Philosophie — Les auteurs du programme",
+  "cards": [
+    {
+      "recto": "Quelle œuvre de Montaigne inaugure une forme d'écriture philosophique nouvelle ?",
+      "verso": "Les Essais, où l'auteur se prend lui-même pour matière d'un examen sans système",
+      "explanation": "Le mot essai désigne une tentative, non un traité : la pensée s'y déploie par digressions et retours. C'est un modèle durable de philosophie non doctrinale, écrite en français plutôt qu'en latin.",
+      "tags": [
+        "Montaigne",
+        "œuvre"
+      ],
+      "distractors": {
+        "easy": [
+          "Le Discours de la méthode",
+          "Les Pensées",
+          "Le Contrat social"
+        ],
+        "medium": [
+          "Les Maximes",
+          "Les Caractères",
+          "Les Provinciales"
+        ],
+        "hard": [
+          "Les Méditations métaphysiques",
+          "L'Apologie de Raymond Sebond publiée séparément",
+          "Le Novum Organum"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle œuvre de Descartes expose sa méthode en français, à destination d'un large public ?",
+      "verso": "Le Discours de la méthode",
+      "explanation": "Publier en français plutôt qu'en latin est un geste philosophique : il suppose que la raison est également répartie et que chacun peut suivre le raisonnement. Les Méditations métaphysiques, plus techniques, paraîtront en latin.",
+      "tags": [
+        "Descartes",
+        "œuvre"
+      ],
+      "distractors": {
+        "easy": [
+          "L'Éthique",
+          "Le Léviathan",
+          "La Monadologie"
+        ],
+        "medium": [
+          "Les Méditations métaphysiques",
+          "Les Principes de la philosophie",
+          "Les Passions de l'âme"
+        ],
+        "hard": [
+          "Les Règles pour la direction de l'esprit, publiées de son vivant",
+          "Le Traité du monde publié en 1633",
+          "La Recherche de la vérité par la lumière naturelle"
+        ]
+      }
+    },
+    {
+      "recto": "Quel titre porte l'œuvre majeure de Hobbes sur l'origine de l'État ?",
+      "verso": "Le Léviathan",
+      "explanation": "Le titre emprunte au monstre biblique pour désigner la puissance publique née du pacte. Le frontispice célèbre représente un souverain dont le corps est composé de la multitude des sujets.",
+      "tags": [
+        "Hobbes",
+        "œuvre"
+      ],
+      "distractors": {
+        "easy": [
+          "Le Prince",
+          "La République",
+          "Le Contrat social"
+        ],
+        "medium": [
+          "Le Second Traité du gouvernement civil",
+          "De l'esprit des lois",
+          "L'Utopie"
+        ],
+        "hard": [
+          "Le De cive, qui contient le pacte fondateur",
+          "Le Béhémoth, sur l'origine de l'État",
+          "Le Traité théologico-politique"
+        ]
+      }
+    },
+    {
+      "recto": "Quel penseur écrit une Éthique démontrée selon l'ordre géométrique ?",
+      "verso": "Spinoza",
+      "explanation": "La forme n'est pas un ornement : définitions, axiomes, propositions et démonstrations veulent soustraire la morale à l'arbitraire. Le livre affirme aussi l'identité de Dieu et de la Nature, ce qui lui vaudra une condamnation durable.",
+      "tags": [
+        "Spinoza",
+        "œuvre"
+      ],
+      "distractors": {
+        "easy": [
+          "Descartes",
+          "Kant",
+          "Aristote"
+        ],
+        "medium": [
+          "Leibniz",
+          "Malebranche",
+          "Hobbes"
+        ],
+        "hard": [
+          "Pascal, dans les Pensées",
+          "Locke, dans l'Essai",
+          "Berkeley, dans les Principes"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qui sépare le rationalisme classique de l'empirisme britannique ?",
+      "verso": "Les rationalistes admettent des principes que l'esprit ne tire pas de l'expérience, les empiristes font dériver toutes nos idées des impressions sensibles",
+      "explanation": "Descartes, Spinoza et Leibniz d'un côté ; Locke, Berkeley et Hume de l'autre. L'enjeu porte sur l'universalité et la nécessité : l'expérience peut-elle les fournir ? La question de Hume sur la causalité rendra le débat inévitable.",
+      "tags": [
+        "courants",
+        "distinction"
+      ],
+      "distractors": {
+        "easy": [
+          "Les rationalistes sont français, les empiristes anglais",
+          "Les rationalistes croient en Dieu, les empiristes non",
+          "Les rationalistes écrivent en latin, les empiristes en anglais"
+        ],
+        "medium": [
+          "Les empiristes admettent des idées innées que les rationalistes refusent",
+          "Les rationalistes refusent toute expérience, les empiristes toute raison",
+          "Les rationalistes s'occupent de morale, les empiristes de politique"
+        ],
+        "hard": [
+          "Les empiristes fondent l'universalité sur des principes a priori",
+          "Les rationalistes font dériver toutes les idées des impressions",
+          "Les deux courants s'accordent sur l'origine sensible des principes"
+        ]
+      }
+    },
+    {
+      "recto": "Que met en question Hume à propos de la relation de cause à effet ?",
+      "verso": "Que nous n'observons jamais la liaison nécessaire elle-même, mais seulement une succession constante à laquelle l'habitude nous fait croire",
+      "explanation": "Nous voyons la boule en heurter une autre et cette dernière se mouvoir ; nous ne voyons aucun lien qui obligerait. La causalité serait donc une habitude projetée sur les faits, ce qui ébranle la prétention de la science à établir des nécessités.",
+      "tags": [
+        "Hume",
+        "thèse"
+      ],
+      "distractors": {
+        "easy": [
+          "Que les causes n'existent pas du tout",
+          "Que les effets précèdent les causes",
+          "Que la science est inutile"
+        ],
+        "medium": [
+          "Que la causalité se démontre par la raison seule",
+          "Que l'expérience fournit directement la nécessité",
+          "Que la causalité est une idée innée"
+        ],
+        "hard": [
+          "Que la liaison nécessaire est observée mais mal interprétée",
+          "Que l'habitude produit une nécessité objective dans les choses",
+          "Que la succession constante démontre logiquement la causalité"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle œuvre de Rousseau expose le problème du passage de l'état de nature à l'état civil ?",
+      "verso": "Du contrat social",
+      "explanation": "Le Discours sur l'origine de l'inégalité en avait posé le diagnostic ; le Contrat social cherche la forme d'association légitime. Les deux textes se lisent ensemble, le second répondant au problème que le premier a construit.",
+      "tags": [
+        "Rousseau",
+        "œuvre"
+      ],
+      "distractors": {
+        "easy": [
+          "Les Confessions",
+          "La Nouvelle Héloïse",
+          "Les Rêveries"
+        ],
+        "medium": [
+          "L'Émile",
+          "Le Discours sur les sciences et les arts",
+          "Les Lettres écrites de la montagne"
+        ],
+        "hard": [
+          "Le Discours sur l'origine de l'inégalité, qui expose le contrat",
+          "Le Projet de constitution pour la Corse",
+          "L'Essai sur l'origine des langues"
+        ]
+      }
+    },
+    {
+      "recto": "Quel projet philosophique Kant désigne-t-il par le mot critique ?",
+      "verso": "L'examen des pouvoirs et des limites de la raison elle-même, avant d'en faire usage sur des objets",
+      "explanation": "Critiquer ne signifie pas dénigrer : c'est délimiter le domaine où une faculté est légitime. D'où les trois Critiques, consacrées à la raison théorique, à la raison pratique et à la faculté de juger.",
+      "tags": [
+        "Kant",
+        "projet"
+      ],
+      "distractors": {
+        "easy": [
+          "La dénonciation des erreurs des autres philosophes",
+          "L'analyse des œuvres d'art",
+          "La réfutation de la religion"
+        ],
+        "medium": [
+          "L'examen des sciences expérimentales uniquement",
+          "La critique des institutions politiques de son temps",
+          "L'étude historique des systèmes antérieurs"
+        ],
+        "hard": [
+          "L'usage de la raison sur ses objets avant d'en examiner les pouvoirs",
+          "La démonstration que la raison n'a aucune limite",
+          "La réduction de la philosophie à la logique formelle"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on la révolution copernicienne opérée par Kant en philosophie ?",
+      "verso": "L'idée que ce n'est pas la connaissance qui se règle sur les objets, mais les objets qui se règlent sur les conditions de notre connaissance",
+      "explanation": "Le renversement est du même ordre que celui de Copernic : au lieu de supposer l'esprit passif devant un monde donné, on montre que l'esprit impose ses formes à ce qu'il reçoit. C'est ce qui permet d'expliquer des connaissances à la fois universelles et applicables au réel.",
+      "tags": [
+        "Kant",
+        "thèse"
+      ],
+      "distractors": {
+        "easy": [
+          "La découverte que la Terre tourne autour du Soleil",
+          "L'invention du télescope philosophique",
+          "Le rejet de toute astronomie"
+        ],
+        "medium": [
+          "L'idée que la connaissance se règle entièrement sur les objets",
+          "L'affirmation que tout savoir vient de l'expérience",
+          "La thèse que la raison est sans pouvoir"
+        ],
+        "hard": [
+          "L'idée que les objets existent indépendamment de toute forme de connaissance",
+          "La réduction des conditions de la connaissance à des lois physiques",
+          "L'affirmation que l'esprit reçoit passivement les formes du réel"
+        ]
+      }
+    },
+    {
+      "recto": "Ne pas confondre : qu'oppose-t-on entre la dialectique de Hegel et celle de Marx ?",
+      "verso": "Chez Hegel, c'est l'esprit qui se développe par contradictions successives ; chez Marx, ce sont les rapports matériels de production dont les conflits font l'histoire",
+      "explanation": "Marx dit avoir remis la dialectique sur ses pieds, Hegel la faisant marcher sur la tête. La structure du mouvement est conservée, mais son moteur change entièrement de nature : idées d'un côté, conditions matérielles de l'autre.",
+      "tags": [
+        "comparaison",
+        "dialectique"
+      ],
+      "distractors": {
+        "easy": [
+          "Hegel est allemand, Marx est français",
+          "Hegel écrit avant Platon",
+          "Ils défendent exactement la même position"
+        ],
+        "medium": [
+          "Chez Hegel les rapports matériels priment, chez Marx l'esprit",
+          "Hegel refuse la dialectique que Marx invente",
+          "Marx abandonne toute idée de contradiction historique"
+        ],
+        "hard": [
+          "Marx conserve le moteur hégélien en changeant la structure",
+          "Hegel fonde l'histoire sur les conflits de production",
+          "Les deux font de l'esprit le moteur des transformations sociales"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle œuvre de Tocqueville analyse les effets de l'égalité des conditions ?",
+      "verso": "De la démocratie en Amérique",
+      "explanation": "Tocqueville y montre que la démocratie n'est pas seulement un régime mais un état social, qui transforme les mœurs, la famille et le rapport à l'autorité. Il y repère aussi des risques propres, dont la tyrannie de la majorité.",
+      "tags": [
+        "Tocqueville",
+        "œuvre"
+      ],
+      "distractors": {
+        "easy": [
+          "Le Contrat social",
+          "De l'esprit des lois",
+          "Le Capital"
+        ],
+        "medium": [
+          "L'Ancien Régime et la Révolution uniquement",
+          "La Démocratie et ses critiques",
+          "Les Considérations sur le gouvernement représentatif"
+        ],
+        "hard": [
+          "De la liberté, de Mill",
+          "Le Cours de philosophie positive",
+          "L'Essai sur les révolutions"
+        ]
+      }
+    },
+    {
+      "recto": "Quel principe Mill défend-il dans son essai De la liberté ?",
+      "verso": "Que la souveraineté de l'individu sur lui-même ne peut être limitée que pour prévenir un tort causé à autrui",
+      "explanation": "Mill vise en particulier la tyrannie de l'opinion, plus insidieuse que celle des lois. Il défend aussi la liberté d'expression par un argument original : même une opinion fausse est utile, car elle oblige à réexaminer les raisons de ce que l'on croit.",
+      "tags": [
+        "Mill",
+        "thèse"
+      ],
+      "distractors": {
+        "easy": [
+          "Que chacun doit obéir à la majorité",
+          "Que la liberté est un privilège des riches",
+          "Que l'État doit tout contrôler"
+        ],
+        "medium": [
+          "Que la société peut interdire ce qui nuit à l'intéressé",
+          "Que la liberté d'expression doit être limitée aux opinions vraies",
+          "Que la coutume fixe les limites de la liberté"
+        ],
+        "hard": [
+          "Que l'opinion fausse doit être supprimée pour préserver la vérité",
+          "Que la souveraineté individuelle cède devant l'utilité collective",
+          "Que seule la loi peut exercer une tyrannie sur les esprits"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : Nietzsche est-il un partisan du nihilisme ?",
+      "verso": "Non : il le diagnostique comme la dévaluation des valeurs supérieures dans la culture occidentale, et cherche au contraire à le surmonter",
+      "explanation": "C'est le contresens le plus lourd sur cet auteur. Annoncer que Dieu est mort, c'est constater qu'un fondement ne fonctionne plus, non s'en réjouir naïvement ; Nietzsche redoute au contraire le vide qui suit. Attention à l'excès inverse : cela n'en fait pas un défenseur des valeurs traditionnelles, qu'il soumet à une généalogie sévère.",
+      "tags": [
+        "piege",
+        "Nietzsche"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, il veut détruire toutes les valeurs",
+          "Oui, il enseigne que rien n'a de sens",
+          "Non, il défend la morale traditionnelle"
+        ],
+        "medium": [
+          "Oui, car il annonce la mort de Dieu avec satisfaction",
+          "Non, car il ignore la question du nihilisme",
+          "Oui, car il refuse toute création de valeurs"
+        ],
+        "hard": [
+          "Oui, car sa généalogie de la morale conclut à l'équivalence des valeurs",
+          "Non, car il restaure les fondements métaphysiques traditionnels",
+          "Oui, car le diagnostic du nihilisme équivaut à son adhésion"
+        ]
+      }
+    },
+    {
+      "recto": "Que désigne la méthode généalogique chez Nietzsche ?",
+      "verso": "L'examen de la provenance historique des valeurs, pour montrer qu'elles sont apparues dans des rapports de force et non tombées du ciel",
+      "explanation": "La généalogie ne prétend pas réfuter une valeur : elle en défait l'évidence en montrant qu'elle a une histoire. Elle interroge alors ce que cette valeur sert et à qui elle profite.",
+      "tags": [
+        "Nietzsche",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "L'étude des arbres généalogiques des familles",
+          "L'histoire des rois d'Europe",
+          "La recherche des ancêtres de la philosophie"
+        ],
+        "medium": [
+          "La démonstration logique de la fausseté des valeurs",
+          "La classification des morales par ordre de mérite",
+          "La déduction des valeurs à partir de la nature"
+        ],
+        "hard": [
+          "La preuve qu'une valeur est fausse par son origine",
+          "L'établissement des valeurs éternelles antérieures à toute histoire",
+          "La réduction des valeurs à des préférences individuelles"
+        ]
+      }
+    },
+    {
+      "recto": "Quel auteur oppose la durée vécue au temps mesuré de la science ?",
+      "verso": "Bergson",
+      "explanation": "Sa critique porte sur la spatialisation du temps par l'intelligence, qui découpe en instants ce qui est continu. Il en tire une conception de la liberté comme acte exprimant la personne tout entière, et non choix entre deux possibles juxtaposés.",
+      "tags": [
+        "Bergson",
+        "thèse"
+      ],
+      "distractors": {
+        "easy": [
+          "Kant",
+          "Descartes",
+          "Aristote"
+        ],
+        "medium": [
+          "Husserl",
+          "Heidegger",
+          "Merleau-Ponty"
+        ],
+        "hard": [
+          "Alain, dans les Propos",
+          "Sartre, dans L'Être et le Néant",
+          "Bachelard, dans La Dialectique de la durée"
+        ]
+      }
+    },
+    {
+      "recto": "Quel courant Husserl fonde-t-il et quel est son mot d'ordre ?",
+      "verso": "La phénoménologie, qui veut revenir aux choses mêmes en décrivant les phénomènes tels qu'ils apparaissent à la conscience",
+      "explanation": "Il s'agit de suspendre les théories préalables pour décrire l'expérience avant qu'elle ne soit expliquée. Ce programme donnera naissance à des œuvres très différentes chez Heidegger, Sartre et Merleau-Ponty.",
+      "tags": [
+        "Husserl",
+        "courant"
+      ],
+      "distractors": {
+        "easy": [
+          "Le positivisme, qui veut mesurer les faits",
+          "Le romantisme, qui exalte le sentiment",
+          "Le matérialisme, qui réduit tout à la matière"
+        ],
+        "medium": [
+          "L'existentialisme, qui part de la liberté",
+          "Le structuralisme, qui étudie les systèmes",
+          "Le pragmatisme, qui juge par les effets"
+        ],
+        "hard": [
+          "La phénoménologie, qui explique les phénomènes par leurs causes",
+          "L'idéalisme absolu, qui déduit le monde de l'esprit",
+          "La philosophie analytique, qui part du langage ordinaire"
+        ]
+      }
+    },
+    {
+      "recto": "Quel apport Bachelard fait-il à la réflexion sur les sciences ?",
+      "verso": "L'idée que la connaissance scientifique se construit contre les évidences premières, en franchissant des obstacles internes à l'esprit",
+      "explanation": "Sa réflexion double l'analyse logique d'une analyse psychologique : ce qui empêche de comprendre n'est pas seulement l'insuffisance des données mais l'attachement à des images. Il a aussi consacré une œuvre entière à l'imagination poétique.",
+      "tags": [
+        "Bachelard",
+        "thèse"
+      ],
+      "distractors": {
+        "easy": [
+          "L'invention de la méthode expérimentale",
+          "La découverte de la relativité",
+          "La création de la logique moderne"
+        ],
+        "medium": [
+          "La démonstration que la science prolonge le sens commun",
+          "L'affirmation que la science est purement inductive",
+          "La thèse que les théories se vérifient définitivement"
+        ],
+        "hard": [
+          "L'idée que les obstacles à la connaissance sont uniquement matériels",
+          "La réduction de l'épistémologie à la logique formelle",
+          "La thèse que l'imagination est étrangère à son œuvre"
+        ]
+      }
+    },
+    {
+      "recto": "Quel philosophe autrichien a soutenu que les limites de son langage signifient les limites de son monde ?",
+      "verso": "Wittgenstein",
+      "explanation": "La formule appartient au Tractatus, qui délimite ce qui peut être dit avec sens. Son œuvre tardive prendra un tout autre chemin, en étudiant le langage ordinaire comme un ensemble de pratiques réglées.",
+      "tags": [
+        "Wittgenstein",
+        "thèse"
+      ],
+      "distractors": {
+        "easy": [
+          "Freud",
+          "Husserl",
+          "Nietzsche"
+        ],
+        "medium": [
+          "Popper",
+          "Russell",
+          "Heidegger"
+        ],
+        "hard": [
+          "Carnap, dans la Construction logique du monde",
+          "Frege, dans les Fondements de l'arithmétique",
+          "Schlick, dans les écrits du Cercle de Vienne"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle œuvre d'Arendt analyse les régimes totalitaires du vingtième siècle ?",
+      "verso": "Les Origines du totalitarisme",
+      "explanation": "Elle y montre que le totalitarisme est un phénomène inédit et non une tyrannie aggravée. La Condition de l'homme moderne prolongera cette analyse en distinguant le travail, l'œuvre et l'action.",
+      "tags": [
+        "Arendt",
+        "œuvre"
+      ],
+      "distractors": {
+        "easy": [
+          "Le Deuxième Sexe",
+          "L'Être et le Néant",
+          "Surveiller et punir"
+        ],
+        "medium": [
+          "La Condition de l'homme moderne uniquement",
+          "La Crise de la culture",
+          "Eichmann à Jérusalem"
+        ],
+        "hard": [
+          "La Dialectique de la Raison, d'Adorno et Horkheimer",
+          "Le Principe responsabilité, de Jonas",
+          "L'Obsolescence de l'homme, d'Anders"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle thèse Simone de Beauvoir formule-t-elle dans Le Deuxième Sexe ?",
+      "verso": "Qu'on ne naît pas femme, on le devient : la condition féminine résulte d'une construction sociale et non d'une nature donnée",
+      "explanation": "La formule applique à la situation des femmes le principe existentialiste selon lequel aucune essence ne précède l'existence. Elle a rendu pensable la distinction ultérieure entre sexe biologique et rôles socialement construits.",
+      "tags": [
+        "Beauvoir",
+        "thèse"
+      ],
+      "distractors": {
+        "easy": [
+          "Que les femmes sont naturellement différentes",
+          "Que la biologie détermine les rôles sociaux",
+          "Que la question ne se pose pas en philosophie"
+        ],
+        "medium": [
+          "Que la condition féminine résulte d'une essence à découvrir",
+          "Que l'égalité juridique suffit à supprimer les inégalités",
+          "Que la maternité définit la femme"
+        ],
+        "hard": [
+          "Qu'une nature féminine précède toute construction sociale",
+          "Que l'existence féminine se déduit d'une essence antérieure",
+          "Que la construction sociale reproduit fidèlement la nature"
+        ]
+      }
+    },
+    {
+      "recto": "Que montre Foucault en étudiant les institutions comme la prison ou l'asile ?",
+      "verso": "Que le pouvoir ne se contente pas d'interdire : il produit des savoirs, des normes et des types d'individus",
+      "explanation": "Son analyse déplace la question du pouvoir : plutôt que de demander qui le détient, il examine comment il s'exerce à travers des dispositifs concrets. La normalisation devient une notion centrale, plus efficace que la répression.",
+      "tags": [
+        "Foucault",
+        "thèse"
+      ],
+      "distractors": {
+        "easy": [
+          "Que les prisons sont mal entretenues",
+          "Que les asiles doivent être supprimés",
+          "Que le pouvoir appartient au roi"
+        ],
+        "medium": [
+          "Que le pouvoir se réduit à la répression légale",
+          "Que les institutions n'ont aucun effet sur les individus",
+          "Que le savoir est indépendant du pouvoir"
+        ],
+        "hard": [
+          "Que le pouvoir se définit par sa détention plutôt que par son exercice",
+          "Que la normalisation est moins efficace que la répression",
+          "Que les dispositifs concrets sont indifférents à la production des savoirs"
+        ]
+      }
+    },
+    {
+      "recto": "Quel courant s'attache à l'étude des systèmes de relations plutôt qu'aux intentions des individus ?",
+      "verso": "Le structuralisme, illustré notamment par Lévi-Strauss en anthropologie",
+      "explanation": "Le modèle vient de la linguistique : un élément n'a de valeur que par sa place dans un système. Appliqué aux mythes ou à la parenté, il fait apparaître des régularités que les acteurs ne perçoivent pas.",
+      "tags": [
+        "structuralisme",
+        "courant"
+      ],
+      "distractors": {
+        "easy": [
+          "L'existentialisme",
+          "Le romantisme",
+          "Le positivisme"
+        ],
+        "medium": [
+          "La phénoménologie, illustrée par Merleau-Ponty",
+          "Le pragmatisme américain",
+          "L'école de Francfort"
+        ],
+        "hard": [
+          "Le structuralisme, fondé sur l'analyse des intentions individuelles",
+          "L'herméneutique, centrée sur l'interprétation des textes",
+          "L'empirisme logique du Cercle de Vienne"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi le programme distingue-t-il trois périodes dans sa liste d'auteurs ?",
+      "verso": "Pour garantir que les références mobilisées ne se limitent pas à une époque, chaque période ayant reformulé les problèmes à sa manière",
+      "explanation": "L'exigence n'est pas décorative : une dissertation qui ne citerait que des contemporains manquerait l'origine des questions, et une qui ne citerait que des Anciens manquerait leur reformulation. La confrontation des périodes fait partie du travail.",
+      "tags": [
+        "méthode",
+        "programme"
+      ],
+      "distractors": {
+        "easy": [
+          "Pour faire apprendre plus de noms",
+          "Parce que c'est plus facile à corriger",
+          "Pour équilibrer les nationalités"
+        ],
+        "medium": [
+          "Parce que les périodes se contredisent entre elles",
+          "Pour montrer que la philosophie progresse linéairement",
+          "Parce que seules les périodes récentes comptent"
+        ],
+        "hard": [
+          "Parce que chaque période a définitivement résolu ses problèmes",
+          "Pour établir une hiérarchie de valeur entre les époques",
+          "Parce que les problèmes changent entièrement d'une période à l'autre"
+        ]
+      }
+    },
+    {
+      "recto": "Quel bilan peut-on dresser du parcours des auteurs modernes et contemporains ?",
+      "verso": "Il montre un déplacement du sujet fondateur vers ses conditions : langage, société, inconscient, histoire, sans que la question du sujet disparaisse",
+      "explanation": "Descartes plaçait le sujet au fondement ; les critiques modernes et contemporaines exhibent ce qui le conditionne. Mais aucune de ces critiques ne se soutiendrait sans quelqu'un pour la formuler et en répondre.",
+      "tags": [
+        "synthèse",
+        "bilan"
+      ],
+      "distractors": {
+        "easy": [
+          "La philosophie moderne a réfuté toutes les anciennes",
+          "Chaque auteur contredit simplement le précédent",
+          "La philosophie contemporaine a renoncé à toute question"
+        ],
+        "medium": [
+          "Le sujet a été définitivement supprimé de la philosophie",
+          "Les conditions du sujet sont indifférentes à sa constitution",
+          "La modernité se réduit à la philosophie des sciences"
+        ],
+        "hard": [
+          "Le déplacement vers les conditions dissout entièrement la question du sujet",
+          "Les critiques du sujet se formulent sans aucun sujet qui les énonce",
+          "Le sujet fondateur est restauré tel quel par la philosophie contemporaine"
+        ]
+      }
+    }
+  ]
+}

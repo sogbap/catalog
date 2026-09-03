@@ -1,0 +1,536 @@
+{
+  "id": "philosophie-terminale-art",
+  "title": "L'art",
+  "emoji": "🎨",
+  "subject": "philosophy",
+  "country": "fr",
+  "courseDescription": "Philosophie · Terminale — l'art : le beau et le goût, imitation et création, génie et règle, statut de l'œuvre et art contemporain.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>L'art</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale (voie générale et technologique)<br>\n  <b>Thème&nbsp;:</b> Philosophie — L'existence humaine et la culture<br>\n  <b>Notion</b> · environ 4 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> Si le goût est affaire de sentiment, pourquoi discutons-nous des œuvres&nbsp;?</p></blockquote>\n\n<p>«&nbsp;Des goûts et des couleurs on ne discute pas&nbsp;» — et pourtant on ne fait que cela. Nous défendons des œuvres, en attaquons d'autres, changeons d'avis, tenons certaines admirations pour mieux fondées que d'autres. Ce simple fait suffit à écarter les deux réponses extrêmes&nbsp;: si le beau relevait du pur caprice, la discussion n'aurait aucun objet&nbsp;; s'il obéissait à une règle démontrable, elle serait déjà close. Toute la difficulté du chapitre tient dans cet entre-deux&nbsp;: un jugement <strong>subjectif sans être arbitraire</strong>.</p>\n\n<h2>1 · Le beau et le jugement de goût</h2>\n\n<h3>Beau et agréable</h3>\n\n<p>La première distinction commande tout le reste. L'<strong>agréable</strong> satisfait un intérêt personnel&nbsp;: dire «&nbsp;j'aime le chocolat&nbsp;» n'engage personne d'autre, et nul ne songerait à me contredire. Le jugement de goût, lui, <strong>prétend valoir pour tout le monde</strong>&nbsp;: dire «&nbsp;cette œuvre est belle&nbsp;» appelle l'assentiment d'autrui — sinon la discussion esthétique n'existerait pas.</p>\n\n<h3>Les caractères du jugement esthétique selon Kant</h3>\n\n<ul>\n  <li>Il est <strong>désintéressé</strong>&nbsp;: il porte sur la représentation de l'objet sans dépendre du désir de le posséder. Trouver un plat appétissant engage un intérêt pour son existence&nbsp;; trouver un tableau beau ne suppose pas qu'on veuille l'emporter. Désintéressé ne veut donc pas dire indifférent&nbsp;: c'est la suspension du rapport utilitaire.</li>\n  <li>Il est <strong>universel sans concept</strong>&nbsp;: on attend l'accord d'autrui sans pouvoir invoquer une règle qui prouverait la beauté. Si une telle règle existait, il suffirait de l'appliquer&nbsp;; si aucune prétention à l'accord n'existait, il n'y aurait rien à discuter.</li>\n</ul>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 180\" role=\"img\" aria-label=\"Comparaison entre l'agréable et le beau : l'agréable satisfait un intérêt personnel et n'engage que celui qui l'éprouve, tandis que le beau est désintéressé et prétend à l'accord d'autrui sans pouvoir invoquer une règle démontrable\">\n    <text x=\"170\" y=\"14\" text-anchor=\"middle\" font-size=\"10\" class=\"s-muted\">Deux plaisirs, deux prétentions</text>\n    <rect x=\"6\" y=\"26\" width=\"156\" height=\"118\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"84\" y=\"48\" text-anchor=\"middle\" font-size=\"11\" fill=\"var(--accent)\" font-weight=\"bold\">L'agréable</text>\n    <text x=\"84\" y=\"70\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">« j'aime cela »</text>\n    <text x=\"84\" y=\"94\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">lié à un intérêt<tspan x=\"84\" dy=\"13\">pour l'existence</tspan></text>\n    <text x=\"84\" y=\"128\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">n'engage que moi</text>\n    <rect x=\"178\" y=\"26\" width=\"156\" height=\"118\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"256\" y=\"48\" text-anchor=\"middle\" font-size=\"11\" fill=\"var(--accent)\" font-weight=\"bold\">Le beau</text>\n    <text x=\"256\" y=\"70\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">« cela est beau »</text>\n    <text x=\"256\" y=\"94\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">désintéressé<tspan x=\"256\" dy=\"13\">quant à l'existence</tspan></text>\n    <text x=\"256\" y=\"128\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">appelle l'accord d'autrui</text>\n    <text x=\"170\" y=\"168\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">universel sans concept : on attend l'accord sans pouvoir le prouver</text>\n  </svg>\n  <figcaption>Le beau ne se démontre pas, mais il se soutient&nbsp;: c'est ce qui rend la discussion esthétique possible sans la rendre concluante.</figcaption>\n</figure>\n\n<h3>Le sublime</h3>\n\n<p>Le beau tient à une <em>forme</em> que le regard embrasse. Le <strong>sublime</strong> naît au contraire d'un débordement&nbsp;: devant l'immensité d'une montagne ou la puissance d'une tempête, l'imagination échoue à totaliser ce qu'elle perçoit. Kant y voit un <em>plaisir négatif</em>&nbsp;: la sensibilité échoue, et cet échec même révèle en nous une destination qui la dépasse.</p>\n\n<div class=\"callout\">\n  <strong>Repère · Objectif / subjectif</strong><br>\n  Le jugement de goût est <em>subjectif</em>&nbsp;: il repose sur un sentiment, non sur une propriété mesurable de l'objet. Mais subjectif ne veut pas dire <em>indiscutable</em>&nbsp;: il prétend valoir pour autrui et s'appuie sur des raisons qu'on peut exposer.\n</div>\n\n<h2>2 · L'œuvre, l'objet, l'artisan</h2>\n\n<p>Qu'est-ce qui sépare une œuvre d'art d'un objet d'artisanat&nbsp;? Ni la qualité ni la beauté&nbsp;: un meuble d'ébéniste peut être superbe. La différence tient à la <strong>règle</strong>.</p>\n\n<ul>\n  <li>L'<strong>artisan</strong> réalise un modèle défini d'avance, selon des règles transmissibles&nbsp;: il sait ce qu'il doit faire avant de le faire.</li>\n  <li>L'<strong>artiste</strong> produit une œuvre dont la règle n'existe pas avant elle&nbsp;: on ne la découvre qu'après coup, dans l'œuvre achevée.</li>\n</ul>\n\n<p>C'est le sens du <strong>génie</strong> chez Kant&nbsp;: la disposition naturelle par laquelle un artiste donne à l'art des règles nouvelles, <em>sans pouvoir expliquer comment il procède</em>. L'œuvre devient exemplaire, elle fait école. Cela n'annule pas le métier — le talent sans travail ne produit rien — mais explique qu'on ne puisse pas enseigner à créer.</p>\n\n<p>Il faut d'ailleurs se garder du romantisme du génie inspiré, qui fait oublier le travail. Une idée ne devient une œuvre qu'en se réalisant dans une <strong>matière</strong>, ce qui exige un savoir-faire. Et la contrainte du matériau n'est pas seulement un obstacle&nbsp;: elle suggère des solutions et oriente l'invention.</p>\n\n<h2>3 · L'art et le réel</h2>\n\n<h3>La critique de Platon</h3>\n\n<p>Dans la <em>République</em>, l'art est doublement disqualifié. Le peintre représente un lit particulier, qui n'est déjà qu'une copie de l'<em>idée</em> de lit&nbsp;: sa production est une <strong>copie de copie</strong>, éloignée du vrai de deux degrés. S'y ajoute un grief moral&nbsp;: l'art flatte les passions au lieu de former le jugement.</p>\n\n<h3>La réponse&nbsp;: l'écart comme moyen</h3>\n\n<p>L'objection suppose que la valeur de l'art tiendrait à sa fidélité. Or l'art peut être <strong>plus vrai que la copie exacte</strong>&nbsp;: en choisissant, en accentuant, en écartant, il fait apparaître ce qu'une reproduction laisserait passer inaperçu. Un portrait qui déforme les traits rend parfois un caractère qu'une photographie d'identité manque. L'écart avec l'apparence n'est pas un défaut&nbsp;: c'est un moyen de rendre visible.</p>\n\n<p>De là aussi la réponse à ceux qui exigent de l'art qu'il <em>serve</em>. Une œuvre vaut par ce qu'elle donne à percevoir et à penser, non par une fonction extérieure. Cela ne veut pas dire qu'elle soit sans effets&nbsp;: elle transforme le regard, ce qui est autre chose qu'une utilité.</p>\n\n<p>C'est aussi ce qui permet à l'art d'avoir une <strong>portée critique</strong> sans devenir un discours&nbsp;: en donnant à percevoir autrement une situation, plutôt qu'en énonçant une thèse sur elle. Une œuvre qui se réduit à son message cesse d'être une œuvre pour devenir une illustration&nbsp;; sa force propre est de faire <em>éprouver</em> ce qu'un argument se contente d'affirmer.</p>\n\n<h2>4 · Qu'est-ce qui fait qu'une chose est une œuvre&nbsp;?</h2>\n\n<p>La question devient aiguë avec l'art contemporain. Le <strong>ready-made</strong> — un objet ordinaire présenté comme œuvre — oblige à demander si c'est l'objet ou son <em>exposition</em> qui fait l'art. Le geste de Duchamp déplace le problème&nbsp;: ce qui compte n'est plus la fabrication mais le déplacement dans un contexte qui change le statut de l'objet.</p>\n\n<p>D'où l'<strong>approche institutionnelle</strong>&nbsp;: est œuvre ce qui est reçu comme tel par un <em>monde de l'art</em> — artistes, critiques, musées, public. Elle rend bien compte des cas où aucune propriété visible ne distingue l'œuvre de l'objet. Son coût est d'apparaître circulaire&nbsp;: elle définit l'art par ce que reconnaissent ceux qui s'occupent d'art.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Trois réponses à la question de ce qui fait d'un objet une œuvre d'art : la beauté de l'objet lui-même, l'intention de l'artiste qui le produit, et la reconnaissance par un monde de l'art composé de critiques, musées et public\">\n    <text x=\"170\" y=\"14\" text-anchor=\"middle\" font-size=\"10\" class=\"s-muted\">Qu'est-ce qui fait l'œuvre ?</text>\n    <rect x=\"6\" y=\"26\" width=\"102\" height=\"100\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"57\" y=\"48\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">L'objet</text>\n    <text x=\"57\" y=\"70\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">ses propriétés<tspan x=\"57\" dy=\"12\">sensibles</tspan></text>\n    <text x=\"57\" y=\"106\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">échoue sur<tspan x=\"57\" dy=\"11\">le ready-made</tspan></text>\n    <rect x=\"119\" y=\"26\" width=\"102\" height=\"100\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"170\" y=\"48\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">L'intention</text>\n    <text x=\"170\" y=\"70\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">le projet de<tspan x=\"170\" dy=\"12\">l'artiste</tspan></text>\n    <text x=\"170\" y=\"106\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">l'œuvre excède<tspan x=\"170\" dy=\"11\">ce projet</tspan></text>\n    <rect x=\"232\" y=\"26\" width=\"102\" height=\"100\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"283\" y=\"48\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">La réception</text>\n    <text x=\"283\" y=\"70\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">un monde<tspan x=\"283\" dy=\"12\">de l'art</tspan></text>\n    <text x=\"283\" y=\"106\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">risque de<tspan x=\"283\" dy=\"11\">circularité</tspan></text>\n    <text x=\"170\" y=\"160\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">aucune réponse ne suffit seule</text>\n  </svg>\n  <figcaption>Chacune des trois réponses éclaire un aspect et bute sur un cas&nbsp;: c'est ce qui rend la question toujours ouverte.</figcaption>\n</figure>\n\n<p><strong>Walter Benjamin</strong> ajoute une dimension historique&nbsp;: à l'époque de sa reproductibilité technique, l'œuvre perd son <strong>aura</strong>, cette autorité liée à son unicité et à sa présence en un lieu donné. Photographie et cinéma ne la dégradent pas seulement&nbsp;: ils la rendent accessible et politisent sa réception. La transformation est ambivalente, non une simple perte.</p>\n\n<p>Reste enfin la difficulté des œuvres qui heurtent délibérément&nbsp;: distinguer la provocation qui <em>ouvre une perception nouvelle</em> de celle qui cherche seulement un effet. L'histoire montre que des œuvres scandaleuses sont devenues des références&nbsp;— on ne peut donc pas écarter une œuvre au seul motif qu'elle choque. Mais l'argument ne fonctionne pas comme garantie&nbsp;: toute provocation n'annonce pas un chef-d'œuvre.</p>\n\n<h2>5 · Pourquoi les goûts se discutent</h2>\n\n<p>La discussion esthétique ne prouve pas, mais elle <strong>éduque le regard</strong>&nbsp;: montrer un détail, situer une œuvre, proposer une lecture peut modifier ce qu'autrui perçoit. C'est pourquoi les goûts se transforment — ce qui serait inexplicable s'ils étaient de purs réflexes.</p>\n\n<p>Le goût est aussi un <strong>fait social</strong>&nbsp;: les préférences esthétiques sont liées à l'éducation reçue et à la position sociale, et servent souvent de marqueurs de distinction. Attention&nbsp;: cette approche explique la <em>genèse</em> des goûts, non la <em>valeur</em> des œuvres. Croire qu'expliquer d'où vient une préférence suffit à la disqualifier serait retomber sur la confusion origine / fondement.</p>\n\n<p>Enfin, une œuvre continue de signifier longtemps après son auteur, parce que son sens n'est pas épuisé par ses intentions&nbsp;: chaque époque y trouve des questions nouvelles. Cela ne rend pas toutes les lectures équivalentes — une interprétation doit s'appuyer sur l'œuvre —, mais explique qu'une œuvre survive au monde qui l'a produite.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Le fil du problème</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Frise du parcours du chapitre : la distinction entre le beau et l'agréable et le jugement de goût kantien, puis la différence entre l'œuvre et l'objet d'artisanat et la notion de génie, puis le rapport de l'art au réel et la critique platonicienne, puis la question du statut de l'œuvre dans l'art contemporain, enfin les conditions de la discussion esthétique\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"186\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Le jugement</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Beau, agréable, sublime</text>\n    <circle cx=\"26\" cy=\"62\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"59\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">L'œuvre</text>\n    <text x=\"44\" y=\"72\" font-size=\"10\" fill=\"currentColor\">Artisan, artiste, génie</text>\n    <circle cx=\"26\" cy=\"104\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"101\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">L'art et le réel</text>\n    <text x=\"44\" y=\"114\" font-size=\"10\" fill=\"currentColor\">Platon, l'écart qui révèle</text>\n    <circle cx=\"26\" cy=\"146\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"143\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">L'art contemporain</text>\n    <text x=\"44\" y=\"156\" font-size=\"10\" fill=\"currentColor\">Ready-made, institution, aura</text>\n    <circle cx=\"26\" cy=\"184\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"181\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Discuter</text>\n    <text x=\"44\" y=\"194\" font-size=\"10\" fill=\"currentColor\">Éduquer le regard</text>\n  </svg>\n  <figcaption>Le chapitre part du jugement pour aboutir à ce qui le rend partageable.</figcaption>\n</figure>\n\n<h3>Distinctions à tenir</h3>\n\n<table>\n  <tr><th>Distinction</th><th>Ce qui se joue</th></tr>\n  <tr><td>Beau / agréable</td><td>Prétendre à l'accord d'autrui, ou non</td></tr>\n  <tr><td>Beau / sublime</td><td>Une forme embrassée, ou un débordement de la forme</td></tr>\n  <tr><td>Art / artisanat</td><td>La règle vient-elle avant ou après l'œuvre&nbsp;?</td></tr>\n  <tr><td>Subjectif / arbitraire</td><td>Reposer sur un sentiment n'est pas être indiscutable</td></tr>\n  <tr><td>Origine / valeur du goût</td><td>Expliquer d'où vient une préférence ne la juge pas</td></tr>\n  <tr><td>Œuvre / illustration</td><td>Donner à percevoir, ou véhiculer un message</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition</th></tr>\n  <tr><td>Jugement de goût</td><td>Jugement fondé sur un sentiment mais prétendant à l'universel</td></tr>\n  <tr><td>Désintéressement</td><td>Indifférence à l'existence de l'objet, non au plaisir qu'il donne</td></tr>\n  <tr><td>Universalité sans concept</td><td>Attendre l'accord sans pouvoir invoquer de règle</td></tr>\n  <tr><td>Sublime</td><td>Sentiment né de ce qui excède l'imagination</td></tr>\n  <tr><td>Génie</td><td>Disposition à donner à l'art des règles nouvelles</td></tr>\n  <tr><td>Mimèsis</td><td>Imitation&nbsp;; ce que Platon reproche à l'art</td></tr>\n  <tr><td>Ready-made</td><td>Objet ordinaire présenté comme œuvre</td></tr>\n  <tr><td>Monde de l'art</td><td>Ensemble des instances qui reconnaissent une œuvre</td></tr>\n  <tr><td>Aura</td><td>Autorité de l'œuvre liée à son unicité et à son lieu</td></tr>\n  <tr><td>Distinction</td><td>Usage social du goût comme marqueur de position</td></tr>\n</table>\n\n<h3>Les auteurs</h3>\n\n<table>\n  <tr><th>Auteur</th><th>Thèse à retenir</th></tr>\n  <tr><td>Platon</td><td>L'art imite les apparences&nbsp;: il éloigne doublement du vrai</td></tr>\n  <tr><td>Aristote</td><td>L'imitation instruit et procure un plaisir propre</td></tr>\n  <tr><td>Kant</td><td>Le jugement de goût est désintéressé et universel sans concept</td></tr>\n  <tr><td>Hegel</td><td>L'art donne une forme sensible à une pensée&nbsp;; il a une histoire</td></tr>\n  <tr><td>Benjamin</td><td>La reproductibilité technique fait perdre à l'œuvre son aura</td></tr>\n  <tr><td>Duchamp</td><td>Le ready-made déplace la question de l'objet vers son exposition</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Confondre le <em>beau</em> et l'<em>agréable</em>. L'agréable satisfait un intérêt personnel et n'engage que celui qui l'éprouve&nbsp;; le jugement de goût prétend valoir pour autrui — sans quoi il n'y aurait rien à discuter. Mais l'excès inverse guette&nbsp;: cette prétention à l'universel ne signifie pas qu'une règle démontre le beau. Autre confusion&nbsp;: croire que l'origine sociale d'un goût suffit à le disqualifier — expliquer d'où vient une préférence n'est pas juger l'œuvre.\n</div>\n\n<blockquote><p>Nous discutons donc des œuvres non pour trancher, mais parce que discuter est le seul moyen de voir ce que nous n'avions pas vu. L'art ne prouve rien&nbsp;— il apprend à regarder, ce qui est peut-être plus difficile.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Philosophie — L'existence humaine et la culture",
+  "cards": [
+    {
+      "recto": "Piège classique : le beau se confond-il avec l'agréable ?",
+      "verso": "Non : l'agréable satisfait un intérêt personnel, alors que le jugement de goût prétend valoir pour tout le monde",
+      "explanation": "C'est le contresens central du chapitre. Dire j'aime le chocolat n'engage personne d'autre ; dire cette œuvre est belle appelle l'assentiment d'autrui, sinon la discussion esthétique n'aurait aucun sens. Attention à l'excès inverse : cette prétention à l'universel ne signifie pas qu'il existe une règle prouvant le beau.",
+      "tags": [
+        "piege",
+        "Kant"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, est beau ce qui plaît",
+          "Oui, sinon les goûts seraient identiques",
+          "Non, le beau ne plaît jamais"
+        ],
+        "medium": [
+          "Oui, car les deux dépendent du plaisir",
+          "Non, car le beau se démontre objectivement",
+          "Oui, à condition que le plaisir soit partagé"
+        ],
+        "hard": [
+          "Oui, car le jugement de goût n'engage que celui qui le porte",
+          "Non, car le beau se déduit d'un concept déterminé",
+          "Oui, car l'intérêt personnel fonde l'universalité du jugement"
+        ]
+      }
+    },
+    {
+      "recto": "Que signifie l'affirmation kantienne selon laquelle le jugement esthétique est désintéressé ?",
+      "verso": "Il porte sur la représentation de l'objet sans dépendre du désir de le posséder ou de le consommer",
+      "explanation": "Trouver un plat appétissant engage un intérêt pour son existence ; trouver un tableau beau ne suppose pas qu'on veuille l'emporter. Le désintéressement n'est donc pas l'indifférence : c'est la suspension du rapport utilitaire.",
+      "tags": [
+        "notion",
+        "Kant"
+      ],
+      "distractors": {
+        "easy": [
+          "Il ne procure aucun plaisir",
+          "Il est porté sans y penser",
+          "Il est indifférent à l'objet"
+        ],
+        "medium": [
+          "Il ne dépend d'aucun sentiment",
+          "Il est identique chez tous les spectateurs",
+          "Il concerne uniquement la valeur marchande de l'œuvre"
+        ],
+        "hard": [
+          "Il repose sur un concept déterminé de la perfection",
+          "Il suppose que l'objet soit utile à celui qui le juge",
+          "Il exclut toute forme de satisfaction"
+        ]
+      }
+    },
+    {
+      "recto": "Comment Kant caractérise-t-il l'universalité propre au jugement de goût ?",
+      "verso": "Une universalité sans concept : on attend l'accord d'autrui sans pouvoir invoquer une règle qui prouverait la beauté",
+      "explanation": "Si une règle existait, il suffirait de l'appliquer et la discussion serait close ; si aucune prétention à l'accord n'existait, il n'y aurait rien à discuter. Le jugement esthétique se tient exactement entre les deux.",
+      "tags": [
+        "notion",
+        "Kant"
+      ],
+      "distractors": {
+        "easy": [
+          "Tout le monde aime les mêmes œuvres",
+          "Le beau est décidé par les experts",
+          "Chacun a raison de son côté"
+        ],
+        "medium": [
+          "Une universalité fondée sur des règles de composition",
+          "Un accord obtenu par le vote du public",
+          "Une universalité limitée aux personnes cultivées"
+        ],
+        "hard": [
+          "Une universalité déduite du concept de perfection de l'objet",
+          "Une universalité démontrable par l'analyse de l'œuvre",
+          "Un accord garanti par l'éducation esthétique reçue"
+        ]
+      }
+    },
+    {
+      "recto": "Ne pas confondre : qu'est-ce qui distingue l'œuvre d'art de l'objet d'artisanat ?",
+      "verso": "L'artisan réalise un modèle défini d'avance selon des règles transmissibles, l'artiste produit une œuvre dont la règle n'existe pas avant elle",
+      "explanation": "La distinction ne tient ni à la qualité ni à la beauté : un meuble d'ébéniste peut être superbe. Elle tient au fait que l'artisan sait ce qu'il doit faire avant de le faire, alors que l'œuvre invente sa propre norme, que l'on ne découvre qu'après coup.",
+      "tags": [
+        "comparaison",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "L'art est beau, l'artisanat est utile et laid",
+          "L'art coûte cher, l'artisanat est bon marché",
+          "L'art est ancien, l'artisanat est moderne"
+        ],
+        "medium": [
+          "L'artiste travaille seul, l'artisan en atelier",
+          "L'art est unique, l'artisanat est toujours produit en série",
+          "L'artisan improvise, l'artiste suit un modèle"
+        ],
+        "hard": [
+          "L'artiste applique des règles transmissibles que l'artisan ignore",
+          "L'artisanat produit des œuvres dont la règle n'existe pas d'avance",
+          "La distinction tient exclusivement à la valeur marchande de l'objet"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on le génie chez Kant ?",
+      "verso": "La disposition naturelle par laquelle un artiste donne à l'art des règles nouvelles, sans pouvoir expliquer comment il procède",
+      "explanation": "Le génie ne suit pas de méthode, il en institue une : l'œuvre devient exemplaire, elle fait école. Cela ne dispense pas du métier — le talent sans travail ne produit rien — mais explique qu'on ne puisse pas enseigner à créer.",
+      "tags": [
+        "notion",
+        "Kant"
+      ],
+      "distractors": {
+        "easy": [
+          "Un homme très intelligent",
+          "Un artiste célèbre",
+          "Quelqu'un qui travaille beaucoup"
+        ],
+        "medium": [
+          "La maîtrise parfaite d'une technique enseignée",
+          "Le talent d'imiter fidèlement la nature",
+          "La capacité de plaire au plus grand nombre"
+        ],
+        "hard": [
+          "La disposition à appliquer des règles esthétiques déjà établies",
+          "Le pouvoir d'expliquer méthodiquement sa propre création",
+          "La faculté de juger les œuvres d'autrui avec justesse"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi Platon se méfie-t-il des artistes dans la République ?",
+      "verso": "Parce que l'art imite les apparences sensibles, elles-mêmes copies des Idées, et éloigne donc doublement du vrai",
+      "explanation": "Le peintre représente un lit particulier, qui n'est déjà qu'une copie de l'idée de lit : sa production est une copie de copie. À quoi s'ajoute un grief moral, celui de flatter les passions plutôt que de former le jugement.",
+      "tags": [
+        "auteur",
+        "Platon"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'ils gagnent trop d'argent",
+          "Parce qu'ils travaillent la nuit",
+          "Parce qu'ils ne savent pas dessiner"
+        ],
+        "medium": [
+          "Parce que l'art n'imite pas assez fidèlement la nature",
+          "Parce que les artistes refusent d'obéir aux lois",
+          "Parce que l'art est un savoir technique réservé aux experts"
+        ],
+        "hard": [
+          "Parce que l'art donne un accès direct aux Idées sans passer par le sensible",
+          "Parce que l'imitation produit une connaissance supérieure au discours",
+          "Parce que l'art forme le jugement au détriment des passions"
+        ]
+      }
+    },
+    {
+      "recto": "En quel sens l'art peut-il être plus vrai que la reproduction fidèle du réel ?",
+      "verso": "Parce qu'en choisissant, en accentuant et en écartant, il fait apparaître ce qu'une copie exacte laisserait passer inaperçu",
+      "explanation": "Un portrait qui déforme les traits peut rendre un caractère qu'une photographie d'identité manque. L'écart avec l'apparence n'est donc pas un défaut de fidélité mais un moyen de rendre visible.",
+      "tags": [
+        "vérité",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les artistes inventent tout",
+          "Parce que la réalité est laide",
+          "Parce que l'art ne parle jamais du réel"
+        ],
+        "medium": [
+          "Parce que l'art copie le réel plus soigneusement",
+          "Parce que l'art dit toujours la vérité",
+          "Parce que l'art remplace la science"
+        ],
+        "hard": [
+          "Parce que la fidélité littérale garantit la révélation du sens",
+          "Parce que l'art atteint les Idées sans passer par la sensibilité",
+          "Parce que l'œuvre décrit le réel sans aucune sélection"
+        ]
+      }
+    },
+    {
+      "recto": "Que désigne le sublime par différence avec le beau ?",
+      "verso": "Le sentiment éprouvé devant ce qui excède notre imagination, comme l'immensité ou la puissance déchaînée, mêlant effroi et élévation",
+      "explanation": "Le beau tient à une forme que l'on embrasse ; le sublime naît au contraire d'un débordement de la forme. Kant y voit un plaisir négatif : la sensibilité échoue, et cet échec révèle en nous une destination qui la dépasse.",
+      "tags": [
+        "notion",
+        "esthétique"
+      ],
+      "distractors": {
+        "easy": [
+          "Une beauté particulièrement réussie",
+          "Un très grand tableau",
+          "Une œuvre religieuse"
+        ],
+        "medium": [
+          "Le beau des œuvres anciennes",
+          "Une émotion agréable et paisible",
+          "La perfection technique d'une exécution"
+        ],
+        "hard": [
+          "Un plaisir purement positif tenant à la forme de l'objet",
+          "Le sentiment d'une harmonie parfaitement proportionnée",
+          "Une beauté objective indépendante du spectateur"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi l'art n'a-t-il pas besoin d'être utile pour avoir de la valeur ?",
+      "verso": "Parce que son sens ne réside pas dans une fonction extérieure : une œuvre vaut par ce qu'elle donne à percevoir et à penser, non par ce qu'elle sert",
+      "explanation": "Exiger de l'art qu'il serve à quelque chose reviendrait à le juger selon un critère qui n'est pas le sien. Cela ne signifie pas qu'il soit sans effets : il transforme le regard, ce qui est autre chose qu'une utilité.",
+      "tags": [
+        "valeur",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que l'art est un simple divertissement",
+          "Parce que l'art est réservé aux riches",
+          "Parce que l'art ne sert vraiment à rien"
+        ],
+        "medium": [
+          "Parce que l'utilité est une notion sans importance",
+          "Parce que l'art doit être décoratif avant tout",
+          "Parce que les œuvres ont une valeur marchande"
+        ],
+        "hard": [
+          "Parce que l'œuvre remplit une fonction sociale mesurable",
+          "Parce que la valeur esthétique se déduit de l'efficacité pratique",
+          "Parce que l'art n'a aucun effet sur celui qui le reçoit"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un ready-made et quelle question pose-t-il ?",
+      "verso": "Un objet ordinaire présenté comme œuvre, qui oblige à demander si c'est l'objet ou son exposition qui fait l'art",
+      "explanation": "Le geste de Duchamp déplace la question : ce qui compte n'est plus la fabrication mais le déplacement de l'objet dans un contexte qui change son statut. Il rend visible le rôle des institutions dans la définition de ce qui est reçu comme art.",
+      "tags": [
+        "contemporain",
+        "Duchamp"
+      ],
+      "distractors": {
+        "easy": [
+          "Un tableau peint rapidement",
+          "Une œuvre inachevée",
+          "Une copie d'un chef-d'œuvre"
+        ],
+        "medium": [
+          "Une sculpture fabriquée en série par l'artiste",
+          "Une œuvre réalisée par plusieurs artistes",
+          "Une œuvre destinée au commerce"
+        ],
+        "hard": [
+          "Un objet transformé matériellement par l'artiste avant exposition",
+          "Une œuvre dont la valeur tient à la virtuosité d'exécution",
+          "Un objet dont le statut d'œuvre est indépendant de tout contexte"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qui permet de dire qu'un objet est une œuvre d'art, selon l'approche institutionnelle ?",
+      "verso": "Le fait qu'il soit reçu comme tel par un monde de l'art : artistes, critiques, musées, public",
+      "explanation": "Cette approche a le mérite de rendre compte de l'art contemporain, où aucune propriété visible ne distingue l'œuvre de l'objet. Son coût est de paraître circulaire, puisqu'elle définit l'art par ce que reconnaissent ceux qui s'occupent d'art.",
+      "tags": [
+        "contemporain",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Sa beauté visible",
+          "Son prix élevé",
+          "Sa présence dans un livre"
+        ],
+        "medium": [
+          "La maîtrise technique dont il témoigne",
+          "Sa ressemblance avec le réel",
+          "Le nombre de personnes qui l'apprécient"
+        ],
+        "hard": [
+          "Une propriété esthétique objective décelable à l'examen",
+          "L'intention de l'artiste indépendamment de toute réception",
+          "Sa conformité aux règles classiques de composition"
+        ]
+      }
+    },
+    {
+      "recto": "Que devient l'œuvre selon Walter Benjamin à l'époque de sa reproductibilité technique ?",
+      "verso": "Elle perd son aura, c'est-à-dire l'autorité liée à son unicité et à sa présence en un lieu donné",
+      "explanation": "La photographie et le cinéma ne dégradent pas seulement l'œuvre : ils la rendent accessible et politisent sa réception. Benjamin décrit une transformation ambivalente, non une simple perte à déplorer.",
+      "tags": [
+        "auteur",
+        "Benjamin"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle devient plus belle",
+          "Elle disparaît complètement",
+          "Elle coûte moins cher"
+        ],
+        "medium": [
+          "Elle gagne en valeur marchande",
+          "Elle devient impossible à exposer",
+          "Elle perd toute signification"
+        ],
+        "hard": [
+          "Elle acquiert une aura renforcée par sa diffusion",
+          "Elle échappe désormais à toute réception politique",
+          "Elle retrouve son unicité par la multiplication des copies"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la discussion sur les œuvres reste-t-elle possible malgré la diversité des goûts ?",
+      "verso": "Parce qu'on peut donner des raisons : montrer un détail, situer l'œuvre, proposer une lecture, ce qui modifie parfois la perception d'autrui",
+      "explanation": "La discussion esthétique ne prouve pas, mais elle éduque le regard : elle rend perceptible ce qui ne l'était pas. C'est pourquoi les goûts se transforment, ce qui serait inexplicable s'ils étaient de purs réflexes.",
+      "tags": [
+        "jugement",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les experts tranchent",
+          "Parce que la majorité décide",
+          "Parce que les goûts sont identiques au fond"
+        ],
+        "medium": [
+          "Parce qu'une règle objective permet de démontrer la beauté",
+          "Parce que la discussion aboutit toujours à un accord",
+          "Parce que seuls les spécialistes ont un goût légitime"
+        ],
+        "hard": [
+          "Parce que le jugement esthétique se déduit de propriétés mesurables",
+          "Parce que les goûts sont des réflexes que la discussion ne modifie pas",
+          "Parce que l'accord obtenu prouve la valeur de l'œuvre"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi le goût est-il aussi un fait social ?",
+      "verso": "Parce que les préférences esthétiques sont liées à l'éducation reçue et à la position sociale, et servent souvent de marqueurs de distinction",
+      "explanation": "Cette approche sociologique explique la genèse des goûts, non la valeur des œuvres. Confondre les deux reviendrait à croire qu'expliquer d'où vient une préférence suffit à la disqualifier.",
+      "tags": [
+        "sociologie",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que l'art coûte cher",
+          "Parce qu'on va au musée en groupe",
+          "Parce que les artistes vivent en société"
+        ],
+        "medium": [
+          "Parce que la société impose officiellement des goûts",
+          "Parce que les goûts sont identiques dans une même classe",
+          "Parce que l'art est financé par l'État"
+        ],
+        "hard": [
+          "Parce que l'origine sociale d'un goût détermine la valeur de l'œuvre",
+          "Parce que la distinction sociale se déduit de la qualité esthétique",
+          "Parce que les préférences esthétiques sont indépendantes de l'éducation"
+        ]
+      }
+    },
+    {
+      "recto": "Quel repère du programme permet de préciser le statut du jugement de goût ?",
+      "verso": "L'opposition entre l'objectif et le subjectif",
+      "explanation": "Le jugement de goût est subjectif — il repose sur un sentiment — sans être arbitraire, puisqu'il prétend valoir pour autrui et s'appuie sur des raisons. Subjectif ne signifie donc pas indiscutable.",
+      "tags": [
+        "repère",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Le repère cause / fin",
+          "Le repère genre / espèce / individu",
+          "Le repère légal / légitime"
+        ],
+        "medium": [
+          "Le repère acte / puissance",
+          "Le repère principe / conséquence",
+          "Le repère obligation / contrainte"
+        ],
+        "hard": [
+          "Le repère transcendant / immanent",
+          "Le repère médiat / immédiat",
+          "Le repère analyse / synthèse"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi une œuvre continue-t-elle de signifier longtemps après son auteur ?",
+      "verso": "Parce que son sens n'est pas épuisé par les intentions de celui qui l'a faite : chaque époque y trouve des questions nouvelles",
+      "explanation": "Cela ne signifie pas que toutes les lectures se valent : une interprétation doit s'appuyer sur l'œuvre. Mais l'œuvre excède le projet de son auteur, ce qui explique sa capacité à survivre au monde qui l'a produite.",
+      "tags": [
+        "interprétation",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'elle est conservée dans un musée",
+          "Parce qu'elle devient de plus en plus chère",
+          "Parce que les artistes sont éternels"
+        ],
+        "medium": [
+          "Parce que l'intention de l'auteur est connue avec précision",
+          "Parce que le sens des œuvres ne change jamais",
+          "Parce que les interprétations sont toutes équivalentes"
+        ],
+        "hard": [
+          "Parce que le sens de l'œuvre est intégralement fixé par son auteur",
+          "Parce que l'interprétation est indépendante de l'œuvre elle-même",
+          "Parce que chaque époque y projette un sens sans aucun appui"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la difficulté propre aux œuvres qui heurtent délibérément le public ?",
+      "verso": "Distinguer la provocation qui ouvre une perception nouvelle de celle qui ne fait que chercher un effet",
+      "explanation": "L'histoire montre que des œuvres scandaleuses sont devenues des références, ce qui interdit d'écarter une œuvre au seul motif qu'elle choque. Mais l'argument ne vaut pas comme garantie : toute provocation n'annonce pas un chef-d'œuvre.",
+      "tags": [
+        "contemporain",
+        "débat"
+      ],
+      "distractors": {
+        "easy": [
+          "Savoir si elles sont légales",
+          "Savoir combien elles coûtent",
+          "Savoir qui les a peintes"
+        ],
+        "medium": [
+          "Déterminer si le public a le droit de protester",
+          "Décider si l'État doit les financer",
+          "Savoir si elles ressemblent au réel"
+        ],
+        "hard": [
+          "Établir que toute œuvre qui choque finira par être reconnue",
+          "Prouver qu'aucune provocation n'a de valeur artistique",
+          "Démontrer objectivement l'intention de l'artiste"
+        ]
+      }
+    },
+    {
+      "recto": "Comment l'art peut-il avoir une portée critique sans devenir un discours ?",
+      "verso": "En donnant à percevoir autrement une situation, plutôt qu'en énonçant une thèse sur elle",
+      "explanation": "Une œuvre qui se réduit à son message cesse d'être une œuvre pour devenir une illustration. Sa force propre tient à ce qu'elle fait éprouver ce qu'un argument se contente d'affirmer.",
+      "tags": [
+        "politique",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "En écrivant des slogans sur les tableaux",
+          "En s'engageant dans un parti",
+          "En refusant d'être exposé"
+        ],
+        "medium": [
+          "En énonçant clairement une thèse politique",
+          "En illustrant fidèlement une doctrine",
+          "En renonçant à toute dimension esthétique"
+        ],
+        "hard": [
+          "En se réduisant à son message pour être efficace",
+          "En remplaçant l'argumentation par l'émotion pure",
+          "En s'interdisant toute portée sur le réel"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la technique reste-t-elle nécessaire à l'art malgré la place accordée à la création ?",
+      "verso": "Parce qu'une idée ne devient une œuvre qu'en se réalisant dans une matière, ce qui exige un savoir-faire",
+      "explanation": "Le romantisme du génie inspiré fait souvent oublier le travail. Or la contrainte du matériau n'est pas seulement un obstacle : elle suggère des solutions et oriente l'invention.",
+      "tags": [
+        "technique",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'il faut acheter du matériel",
+          "Parce que les artistes vont à l'école",
+          "Parce que la technique remplace l'idée"
+        ],
+        "medium": [
+          "Parce que la maîtrise technique suffit à faire une œuvre",
+          "Parce que l'art se réduit à un savoir-faire",
+          "Parce que l'inspiration ne joue aucun rôle"
+        ],
+        "hard": [
+          "Parce que la matière n'oppose aucune contrainte à l'idée",
+          "Parce que l'œuvre existe entièrement avant sa réalisation",
+          "Parce que le savoir-faire détermine à lui seul la valeur de l'œuvre"
+        ]
+      }
+    },
+    {
+      "recto": "Quel bilan peut-on dresser sur l'art ?",
+      "verso": "Il n'est ni un simple ornement ni un discours déguisé : il produit des objets qui donnent à percevoir et à penser, et dont le jugement est subjectif sans être arbitraire",
+      "explanation": "Le réduire au plaisir personnel rend inexplicable qu'on en discute ; y chercher une vérité démontrable manque ce qui le distingue de la science. Son statut tient précisément à cette position intermédiaire.",
+      "tags": [
+        "synthèse",
+        "bilan"
+      ],
+      "distractors": {
+        "easy": [
+          "C'est une affaire de goût personnel sans discussion possible",
+          "C'est une décoration agréable",
+          "C'est une science du beau"
+        ],
+        "medium": [
+          "C'est une imitation fidèle de la nature",
+          "C'est un discours politique en images",
+          "C'est un savoir-faire technique perfectionné"
+        ],
+        "hard": [
+          "C'est un domaine où le jugement est objectif et démontrable",
+          "C'est une production dont la valeur se déduit de son utilité",
+          "C'est un langage dont le sens est fixé par l'intention de l'auteur"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,640 @@
+{
+  "id": "enseignement-scientifique-terminale-modeles-demographiques",
+  "title": "Les modèles démographiques",
+  "emoji": "📊",
+  "subject": "science",
+  "country": "fr",
+  "courseDescription": "Croissance linéaire, exponentielle et logistique : construire un modèle de population, mesurer ses limites et lire une projection démographique.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Les modèles démographiques</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · enseignement scientifique<br>\n  <b>Thème 3&nbsp;:</b> Une histoire du vivant<br>\n  <b>Chapitre 3.4</b> · environ 5 heures\n</div>\n\n<blockquote><p><b>Problématique.</b> Comment une poignée d'équations peut-elle éclairer l'avenir de huit milliards de personnes&nbsp;?</p></blockquote>\n\n<p>Ce chapitre est celui où le programme met le mot <strong>modèle</strong> au centre. Trois équations très simples — linéaire, exponentielle, logistique — suffisent à comprendre l'essentiel des dynamiques de population, humaines comme animales. Mais l'objet du chapitre n'est pas de les appliquer&nbsp;: c'est de comprendre ce qu'un modèle fait, ce qu'il suppose, et pourquoi ses hypothèses comptent autant que ses résultats.</p>\n\n<h2>1 · Qu'est-ce qu'un modèle&nbsp;?</h2>\n\n<p>Une <strong>représentation simplifiée</strong> d'un phénomène, construite pour en comprendre le fonctionnement et faire des prévisions, au prix d'hypothèses explicites. Un modèle n'est ni vrai ni faux&nbsp;: il est plus ou moins <em>adapté</em> à la question posée. Le juger suppose donc d'examiner ses hypothèses autant que ses courbes.</p>\n\n<h2>2 · Trois modèles de croissance</h2>\n\n<ul>\n  <li><strong>Linéaire</strong>&nbsp;: l'effectif suivant est l'effectif actuel <em>augmenté d'une quantité constante</em>. L'accroissement absolu ne dépend pas de la taille de la population — hypothèse qui n'a de sens que sur de courtes durées.</li>\n  <li><strong>Exponentiel</strong>&nbsp;: l'effectif suivant est l'effectif actuel <em>multiplié par un facteur constant</em>. L'accroissement absolu augmente donc avec l'effectif&nbsp;: la courbe s'emballe.</li>\n  <li><strong>Logistique</strong>&nbsp;: croissance quasi exponentielle au début, puis freinage progressif jusqu'à une <strong>capacité limite</strong>.</li>\n</ul>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Comparaison graphique des trois modèles de croissance d'une population : le modèle linéaire donne une droite de pente constante, le modèle exponentiel une courbe qui s'emballe et croît de plus en plus vite, le modèle logistique une courbe en forme de S qui suit d'abord l'exponentielle puis ralentit et se stabilise au niveau de la capacité limite du milieu\">\n    <line x1=\"30\" y1=\"150\" x2=\"332\" y2=\"150\" stroke=\"currentColor\" stroke-opacity=\".3\"/>\n    <line x1=\"30\" y1=\"14\" x2=\"30\" y2=\"150\" stroke=\"currentColor\" stroke-opacity=\".3\"/>\n    <text x=\"8\" y=\"20\" font-size=\"8\" class=\"s-muted\">N</text>\n    <text x=\"320\" y=\"166\" font-size=\"8\" class=\"s-muted\">t</text>\n    <line x1=\"30\" y1=\"40\" x2=\"332\" y2=\"40\" stroke=\"var(--accent)\" stroke-opacity=\".35\" stroke-dasharray=\"5 4\"/>\n    <text x=\"240\" y=\"35\" font-size=\"8\" fill=\"var(--accent)\" font-weight=\"bold\">capacité limite</text>\n    <path d=\"M30,150 L320,88\" fill=\"none\" stroke=\"currentColor\" stroke-opacity=\".45\" stroke-width=\"1.8\"/>\n    <text x=\"286\" y=\"102\" font-size=\"8\" fill=\"currentColor\">linéaire</text>\n    <path d=\"M30,150 C140,148 220,130 288,18\" fill=\"none\" stroke=\"var(--accent)\" stroke-opacity=\".85\" stroke-width=\"2.2\"/>\n    <text x=\"250\" y=\"60\" font-size=\"8\" fill=\"var(--accent)\" font-weight=\"bold\">exponentiel</text>\n    <path d=\"M30,148 C90,146 120,60 180,48 C240,40 270,42 320,41\" fill=\"none\" stroke=\"var(--accent)\" stroke-opacity=\".55\" stroke-width=\"2\"/>\n    <text x=\"96\" y=\"118\" font-size=\"8\" fill=\"currentColor\">logistique</text>\n    <circle cx=\"132\" cy=\"94\" r=\"3\" fill=\"var(--accent)\"/>\n    <text x=\"138\" y=\"90\" font-size=\"8\" class=\"s-muted\">inflexion</text>\n    <text x=\"8\" y=\"182\" font-size=\"9\" fill=\"currentColor\">Le logistique suit d'abord l'exponentiel, puis freine et se stabilise.</text>\n  </svg>\n  <figcaption>Le modèle logistique n'est pas intermédiaire&nbsp;: il est plus riche, contenant une phase exponentielle <em>et</em> une stabilisation.</figcaption>\n</figure>\n\n<p>Le <strong>temps de doublement</strong> — durée nécessaire pour que l'effectif soit multiplié par deux — est la signature de l'exponentielle&nbsp;: il reste <em>constant</em>, que la population compte mille ou un million d'individus. Dans le modèle logistique, au contraire, le <strong>taux d'accroissement diminue</strong> à mesure qu'on approche de la capacité limite, jusqu'à s'annuler.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Capacité limite</strong><br>\n  Effectif maximal qu'un milieu peut soutenir durablement compte tenu de ses ressources. Ce n'est pas une constante absolue&nbsp;: elle dépend des ressources disponibles et des techniques employées, et peut varier au cours du temps.\n</div>\n\n<h2>3 · Appliquer aux populations humaines</h2>\n\n<p>Le <strong>taux d'accroissement naturel</strong> est la différence entre natalité et mortalité, exprimée pour mille habitants et par an. Il ignore les migrations&nbsp;: la variation réelle d'une population combine accroissement naturel <em>et</em> solde migratoire.</p>\n\n<p>Le phénomène central du chapitre est la <strong>transition démographique</strong>&nbsp;: le passage d'un régime à forte natalité et forte mortalité à un régime où les deux sont faibles. La croissance intermédiaire vient d'un simple <em>décalage</em>&nbsp;: la mortalité baisse avant la natalité, creusant un écart temporaire mais considérable.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Schéma de la transition démographique : dans le régime ancien la natalité et la mortalité sont toutes deux élevées et la population croît peu, puis la mortalité baisse la première sous l'effet des progrès sanitaires et alimentaires tandis que la natalité reste élevée, ce qui creuse un écart entre les deux courbes et provoque une forte croissance de la population, puis la natalité baisse à son tour et rejoint la mortalité, la population se stabilisant à un niveau élevé dans le régime moderne\">\n    <line x1=\"30\" y1=\"126\" x2=\"332\" y2=\"126\" stroke=\"currentColor\" stroke-opacity=\".3\"/>\n    <line x1=\"30\" y1=\"14\" x2=\"30\" y2=\"126\" stroke=\"currentColor\" stroke-opacity=\".3\"/>\n    <path d=\"M30,32 C110,32 150,44 200,84 C240,104 280,110 320,112\" fill=\"none\" stroke=\"var(--accent)\" stroke-opacity=\".85\" stroke-width=\"2.2\"/>\n    <text x=\"34\" y=\"26\" font-size=\"8\" fill=\"var(--accent)\" font-weight=\"bold\">natalité</text>\n    <path d=\"M30,36 C90,38 120,72 160,96 C210,112 270,114 320,116\" fill=\"none\" stroke=\"currentColor\" stroke-opacity=\".5\" stroke-width=\"2\"/>\n    <text x=\"60\" y=\"90\" font-size=\"8\" fill=\"currentColor\">mortalité</text>\n    <path d=\"M120,52 L120,80\" fill=\"none\" stroke=\"var(--accent)\" stroke-opacity=\".5\" stroke-width=\"1.4\"/>\n    <path d=\"M150,54 L150,92\" fill=\"none\" stroke=\"var(--accent)\" stroke-opacity=\".5\" stroke-width=\"1.4\"/>\n    <path d=\"M180,66 L180,102\" fill=\"none\" stroke=\"var(--accent)\" stroke-opacity=\".5\" stroke-width=\"1.4\"/>\n    <text x=\"152\" y=\"48\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">forte croissance</text>\n    <text x=\"40\" y=\"142\" font-size=\"8\" class=\"s-muted\">régime ancien</text>\n    <text x=\"150\" y=\"142\" font-size=\"8\" class=\"s-muted\">transition</text>\n    <text x=\"268\" y=\"142\" font-size=\"8\" class=\"s-muted\">régime moderne</text>\n    <text x=\"8\" y=\"164\" font-size=\"9\" fill=\"currentColor\">La mortalité baisse la première : c'est ce décalage, et lui seul,</text>\n    <text x=\"8\" y=\"178\" font-size=\"9\" fill=\"currentColor\">qui produit la croissance — non une hausse de la fécondité.</text>\n  </svg>\n  <figcaption>L'écart hachuré entre les deux courbes est exactement la croissance de la population.</figcaption>\n</figure>\n\n<p>Ce point est souvent mal compris&nbsp;: la population mondiale a explosé depuis deux siècles <em>non</em> parce qu'on a fait plus d'enfants, mais parce qu'on en a beaucoup moins perdu. La baisse de la mortalité infantile y tient la première place.</p>\n\n<p>Deux outils complètent la lecture. L'<strong>indice de fécondité</strong> — nombre moyen d'enfants par femme — dont la valeur de simple renouvellement se situe autour de <strong>2,1</strong> dans les pays à faible mortalité&nbsp;: légèrement plus que deux, pour compenser la mortalité avant l'âge de procréer. Et la <strong>pyramide des âges</strong>, qui répartit la population par âge et par sexe&nbsp;: une base large signale une natalité élevée, un rétrécissement garde la trace d'un événement passé.</p>\n\n<p>Le <strong>vieillissement</strong> d'une population n'est pas seulement le fait qu'on vive plus vieux&nbsp;: c'est un changement de <em>structure</em>, produit conjointement par la baisse de la fécondité et l'allongement de l'espérance de vie.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 178\" role=\"img\" aria-label=\"Lecture d'une pyramide des âges : elle représente la répartition de la population par âge et par sexe, les hommes d'un côté et les femmes de l'autre, chaque barre correspondant à une tranche d'âge ; une base large indique une natalité élevée, un rétrécissement à un âge donné garde la trace d'un événement passé comme une guerre ou une chute brutale de la natalité, et un sommet épais signale le vieillissement de la population\">\n    <line x1=\"170\" y1=\"14\" x2=\"170\" y2=\"128\" stroke=\"currentColor\" stroke-opacity=\".3\" stroke-width=\"1.2\"/>\n    <text x=\"104\" y=\"12\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">hommes</text>\n    <text x=\"236\" y=\"12\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">femmes</text>\n    <rect x=\"140\" y=\"18\" width=\"28\" height=\"12\" fill=\"var(--accent)\" fill-opacity=\".22\"/>\n    <rect x=\"172\" y=\"18\" width=\"30\" height=\"12\" fill=\"var(--accent)\" fill-opacity=\".22\"/>\n    <text x=\"252\" y=\"28\" font-size=\"8\" fill=\"currentColor\">sommet : vieillissement</text>\n    <rect x=\"126\" y=\"32\" width=\"42\" height=\"12\" fill=\"var(--accent)\" fill-opacity=\".30\"/>\n    <rect x=\"172\" y=\"32\" width=\"46\" height=\"12\" fill=\"var(--accent)\" fill-opacity=\".30\"/>\n    <rect x=\"146\" y=\"46\" width=\"22\" height=\"12\" fill=\"var(--accent)\" fill-opacity=\".30\"/>\n    <rect x=\"172\" y=\"46\" width=\"24\" height=\"12\" fill=\"var(--accent)\" fill-opacity=\".30\"/>\n    <text x=\"252\" y=\"56\" font-size=\"8\" fill=\"var(--accent)\" font-weight=\"bold\">creux : trace d'un événement</text>\n    <rect x=\"112\" y=\"60\" width=\"56\" height=\"12\" fill=\"var(--accent)\" fill-opacity=\".38\"/>\n    <rect x=\"172\" y=\"60\" width=\"58\" height=\"12\" fill=\"var(--accent)\" fill-opacity=\".38\"/>\n    <rect x=\"106\" y=\"74\" width=\"62\" height=\"12\" fill=\"var(--accent)\" fill-opacity=\".38\"/>\n    <rect x=\"172\" y=\"74\" width=\"64\" height=\"12\" fill=\"var(--accent)\" fill-opacity=\".38\"/>\n    <rect x=\"98\" y=\"88\" width=\"70\" height=\"12\" fill=\"var(--accent)\" fill-opacity=\".45\"/>\n    <rect x=\"172\" y=\"88\" width=\"72\" height=\"12\" fill=\"var(--accent)\" fill-opacity=\".45\"/>\n    <rect x=\"92\" y=\"102\" width=\"76\" height=\"12\" fill=\"var(--accent)\" fill-opacity=\".45\"/>\n    <rect x=\"172\" y=\"102\" width=\"78\" height=\"12\" fill=\"var(--accent)\" fill-opacity=\".45\"/>\n    <rect x=\"88\" y=\"116\" width=\"80\" height=\"12\" fill=\"var(--accent)\" fill-opacity=\".50\"/>\n    <rect x=\"172\" y=\"116\" width=\"82\" height=\"12\" fill=\"var(--accent)\" fill-opacity=\".50\"/>\n    <text x=\"262\" y=\"126\" font-size=\"8\" fill=\"currentColor\">base : natalité</text>\n    <line x1=\"8\" y1=\"144\" x2=\"332\" y2=\"144\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"162\" font-size=\"9\" fill=\"currentColor\">La forme raconte le passé démographique du pays</text>\n    <text x=\"8\" y=\"176\" font-size=\"9\" fill=\"currentColor\">autant qu'elle annonce son avenir probable.</text>\n  </svg>\n  <figcaption>Une pyramide des âges se lit dans les deux sens du temps.</figcaption>\n</figure>\n\n<h2>4 · Ce que valent les projections</h2>\n\n<p>Les modèles projettent, pour le XXI<sup>e</sup> siècle, une poursuite de la croissance jusqu'à un maximum de l'ordre de <strong>10 milliards</strong> d'habitants, suivi d'une stabilisation puis d'un possible déclin&nbsp;— la forme même d'une courbe logistique, la baisse mondiale de la fécondité jouant le rôle de freinage.</p>\n\n<p>Ces projections sont relativement fiables à quelques décennies, pour une raison structurelle&nbsp;: <strong>la population de demain est en grande partie déjà née</strong>. Cette inertie a toutefois une limite&nbsp;: au-delà d'une génération, tout dépend d'hypothèses sur la fécondité future.</p>\n\n<p>D'où deux exigences méthodologiques, identiques à celles de la climatologie&nbsp;:</p>\n\n<ul>\n  <li>Un modèle doit <strong>expliciter ses hypothèses</strong> — fécondité, mortalité, migrations sont des <em>choix</em>, non des mesures. C'est pourquoi les organismes publient plusieurs scénarios, haut, moyen, bas.</li>\n  <li>Une <strong>projection</strong> n'est pas une <strong>prévision</strong>&nbsp;: elle calcule ce qui adviendrait <em>si</em> les hypothèses se vérifiaient. Les démographes projettent sous conditions, ils ne prédisent pas.</li>\n</ul>\n\n<p>Comme en climatologie encore, un modèle se valide en vérifiant qu'il <strong>reproduit le passé observé</strong> avant d'être lancé vers l'avenir.</p>\n\n<p>Reste une limite propre à l'espèce humaine&nbsp;: la <em>capacité limite</em> n'y est pas fixe, puisqu'elle dépend des techniques et des modes de vie. L'histoire le montre — les progrès agricoles ont repoussé plusieurs fois des limites présentées comme infranchissables, sans pour autant les abolir. Enfin, la croissance n'est pas uniforme&nbsp;: les pays ne sont pas au même stade de leur transition, ce qui explique des projections régionales très contrastées.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Les trois modèles</h3>\n\n<table>\n  <tr><th>Modèle</th><th>Règle</th><th>Courbe</th></tr>\n  <tr><td>Linéaire</td><td>On ajoute une quantité constante</td><td>droite</td></tr>\n  <tr><td>Exponentiel</td><td>On multiplie par un facteur constant</td><td>emballement</td></tr>\n  <tr><td>Logistique</td><td>Freinage vers la capacité limite</td><td>courbe en S</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition en une ligne</th></tr>\n  <tr><td>Capacité limite</td><td>Effectif maximal soutenable par le milieu</td></tr>\n  <tr><td>Temps de doublement</td><td>Durée pour multiplier l'effectif par deux</td></tr>\n  <tr><td>Accroissement naturel</td><td>Natalité moins mortalité, hors migrations</td></tr>\n  <tr><td>Transition démographique</td><td>Passage d'un régime à forts taux à un régime à faibles taux</td></tr>\n  <tr><td>Projection</td><td>Ce qui adviendrait si les hypothèses se vérifiaient</td></tr>\n</table>\n\n<h3>Chiffres à retenir</h3>\n\n<table>\n  <tr><th>Grandeur</th><th>Valeur</th></tr>\n  <tr><td>Seuil de renouvellement des générations</td><td>environ 2,1 enfants par femme</td></tr>\n  <tr><td>Maximum projeté au XXI<sup>e</sup> siècle</td><td>de l'ordre de 10 milliards</td></tr>\n  <tr><td>Taux d'accroissement à la capacité limite</td><td>nul</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Confondre croissance <strong>linéaire</strong> et croissance <strong>exponentielle</strong>. La première ajoute une quantité constante à chaque période&nbsp;; la seconde multiplie par un facteur constant. L'intuition trompe, parce qu'une exponentielle paraît lente au départ avant de devenir brutale&nbsp;: c'est exactement pourquoi elle est si souvent sous-estimée. Piège voisin&nbsp;: prendre une <em>projection</em> pour une <em>prévision</em> — une projection dit ce qui arriverait sous certaines hypothèses, rien de plus.\n</div>\n\n<blockquote><p>Un modèle simple ne prédit pas le réel&nbsp;: il rend un mécanisme intelligible. C'est à la fois beaucoup moins et beaucoup plus utile qu'une prophétie.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Une histoire du vivant",
+  "cards": [
+    {
+      "recto": "Piège classique : ne pas confondre une croissance linéaire et une croissance exponentielle. Qu'est-ce qui les sépare ?",
+      "verso": "Dans une croissance linéaire l'effectif augmente d'une quantité constante à chaque période, tandis que dans une croissance exponentielle il est multiplié par un facteur constant",
+      "explanation": "L'intuition est trompeuse : une croissance exponentielle paraît lente au début puis devient brutale, alors qu'une croissance linéaire garde toujours la même pente.",
+      "tags": [
+        "modèles",
+        "piege"
+      ],
+      "distractors": {
+        "easy": [
+          "La croissance linéaire est rapide, l'exponentielle est lente",
+          "La linéaire concerne les animaux, l'exponentielle les humains",
+          "Ce sont deux noms pour le même modèle"
+        ],
+        "medium": [
+          "La croissance linéaire multiplie l'effectif, l'exponentielle y ajoute une constante",
+          "La croissance exponentielle est toujours plus lente au bout d'un certain temps",
+          "La croissance linéaire suppose des ressources illimitées, l'exponentielle non"
+        ],
+        "hard": [
+          "La croissance linéaire ajoute un pourcentage constant, l'exponentielle une quantité constante",
+          "La croissance exponentielle est linéaire à long terme, une fois les ressources limitées",
+          "La croissance linéaire double à intervalles réguliers, l'exponentielle non"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un modèle en science ?",
+      "verso": "Une représentation simplifiée d'un phénomène, construite pour en comprendre le fonctionnement et faire des prévisions, au prix d'hypothèses explicites",
+      "explanation": "Un modèle n'est jamais vrai ni faux mais plus ou moins adapté à une question donnée. Le juger suppose d'examiner ses hypothèses autant que ses résultats.",
+      "tags": [
+        "modèles",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Une maquette réduite d'un objet réel",
+          "Une personne qui pose pour un photographe",
+          "Un exemple à suivre pour les élèves"
+        ],
+        "medium": [
+          "Une description exacte et complète d'un phénomène naturel",
+          "Une hypothèse non encore vérifiée par l'expérience",
+          "Une théorie démontrée mathématiquement"
+        ],
+        "hard": [
+          "Une représentation qui devient vraie dès qu'elle est validée par les données",
+          "Une simplification dont les hypothèses restent implicites par construction",
+          "Une reproduction fidèle du phénomène à une échelle différente"
+        ]
+      }
+    },
+    {
+      "recto": "Comment s'écrit un modèle de croissance linéaire d'une population ?",
+      "verso": "L'effectif de la période suivante est égal à l'effectif actuel augmenté d'un nombre constant d'individus",
+      "explanation": "Ce modèle suppose un accroissement absolu constant, indépendant de la taille de la population, ce qui n'a de sens que sur de courtes durées.",
+      "tags": [
+        "modèles",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "L'effectif reste constant d'une période à l'autre",
+          "L'effectif diminue d'une quantité constante",
+          "L'effectif est multiplié par deux à chaque période"
+        ],
+        "medium": [
+          "L'effectif suivant est le produit de l'effectif actuel par un facteur constant",
+          "L'effectif suivant est le carré de l'effectif actuel",
+          "L'effectif suivant est l'effectif actuel divisé par un nombre constant"
+        ],
+        "hard": [
+          "L'effectif suivant est l'effectif actuel augmenté d'un pourcentage constant",
+          "L'effectif suivant est l'effectif actuel augmenté d'une quantité proportionnelle à sa taille",
+          "L'effectif suivant est la somme des deux effectifs précédents"
+        ]
+      }
+    },
+    {
+      "recto": "Comment s'écrit un modèle de croissance exponentielle d'une population ?",
+      "verso": "L'effectif de la période suivante est égal à l'effectif actuel multiplié par un facteur constant supérieur à un",
+      "explanation": "L'accroissement absolu augmente donc avec la taille de la population, ce qui produit une courbe qui s'emballe : c'est le modèle des populations en milieu non limitant.",
+      "tags": [
+        "modèles",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "L'effectif augmente d'un individu à chaque période",
+          "L'effectif reste identique mais les individus changent",
+          "L'effectif diminue de moitié à chaque période"
+        ],
+        "medium": [
+          "L'effectif suivant est l'effectif actuel augmenté d'une quantité constante",
+          "L'effectif suivant est proportionnel au temps écoulé",
+          "L'effectif suivant est l'effectif actuel élevé au carré"
+        ],
+        "hard": [
+          "L'effectif suivant est multiplié par un facteur qui décroît avec la population",
+          "L'effectif suivant est multiplié par un facteur constant inférieur à un",
+          "L'effectif suivant est l'effectif actuel multiplié par le taux d'accroissement"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que le temps de doublement d'une population ?",
+      "verso": "La durée nécessaire pour que l'effectif soit multiplié par deux, grandeur constante dans un modèle exponentiel quel que soit l'effectif de départ",
+      "explanation": "Sa constance est la signature d'une croissance exponentielle : que la population compte mille ou un million d'individus, la durée du doublement est la même.",
+      "tags": [
+        "modèles",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le temps qu'un individu met à devenir adulte",
+          "La durée de vie moyenne des individus",
+          "Le temps entre deux recensements successifs"
+        ],
+        "medium": [
+          "La durée nécessaire pour que la population revienne à son effectif initial",
+          "Le temps nécessaire pour que la population atteigne la capacité limite",
+          "L'intervalle entre deux générations successives"
+        ],
+        "hard": [
+          "La durée du doublement, qui augmente avec la taille de la population",
+          "La durée nécessaire pour que le taux d'accroissement double",
+          "La durée du doublement, qui diminue au fur et à mesure de la croissance"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi le modèle exponentiel devient-il irréaliste sur le long terme ?",
+      "verso": "Parce qu'il suppose des ressources illimitées, alors que tout milieu impose des contraintes qui finissent par freiner la croissance",
+      "explanation": "Aucune population réelle ne croît indéfiniment de façon exponentielle : ce modèle décrit correctement une phase, jamais toute l'histoire d'une population.",
+      "tags": [
+        "modèles",
+        "limites"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les calculs deviennent trop compliqués",
+          "Parce que les individus finissent par mourir",
+          "Parce que les scientifiques préfèrent les modèles simples"
+        ],
+        "medium": [
+          "Parce que le taux d'accroissement devient négatif au bout d'un certain temps",
+          "Parce que le modèle ne tient pas compte de la mortalité",
+          "Parce que les populations réelles diminuent toujours après une phase de croissance"
+        ],
+        "hard": [
+          "Parce qu'il suppose un taux d'accroissement variable, contrairement à la réalité",
+          "Parce qu'il surestime la croissance initiale et la sous-estime ensuite",
+          "Parce que les ressources illimitées existent mais l'espace ne l'est pas"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que la capacité limite d'un milieu ?",
+      "verso": "L'effectif maximal qu'un milieu peut soutenir durablement compte tenu de ses ressources, vers lequel la population tend à se stabiliser",
+      "explanation": "Elle n'est pas une constante absolue : elle dépend des ressources disponibles, des techniques employées et peut varier au cours du temps.",
+      "tags": [
+        "logistique",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La surface totale du milieu considéré",
+          "Le nombre d'espèces différentes présentes dans le milieu",
+          "La quantité d'eau contenue dans le milieu"
+        ],
+        "medium": [
+          "Le nombre maximal d'individus atteint historiquement dans le milieu",
+          "Le taux d'accroissement maximal possible pour une population",
+          "L'effectif à partir duquel la population commence à croître"
+        ],
+        "hard": [
+          "L'effectif maximal soutenable, valeur constante et indépendante des techniques",
+          "L'effectif au-delà duquel la population s'éteint immédiatement",
+          "L'effectif pour lequel la vitesse de croissance de la population est maximale"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : qu'est-ce qui distingue les modèles linéaire, exponentiel et logistique ?",
+      "verso": "Le modèle linéaire ajoute une quantité constante, le modèle exponentiel multiplie par un facteur constant, le modèle logistique combine une croissance rapide initiale avec un freinage progressif vers une capacité limite",
+      "explanation": "Le logistique n'est pas un modèle intermédiaire mais un modèle plus riche : il inclut une phase quasi exponentielle au début et une stabilisation à la fin.",
+      "tags": [
+        "modèles",
+        "comparaison"
+      ],
+      "distractors": {
+        "easy": [
+          "Le premier est lent, le deuxième moyen, le troisième rapide",
+          "Ils correspondent respectivement au passé, au présent et au futur",
+          "Le premier concerne les plantes, le deuxième les animaux, le troisième les humains"
+        ],
+        "medium": [
+          "Le modèle logistique multiplie par un facteur constant, l'exponentiel ajoute une quantité",
+          "Le modèle linéaire tend vers une capacité limite, contrairement aux deux autres",
+          "Le modèle exponentiel se stabilise, le logistique s'emballe"
+        ],
+        "hard": [
+          "Le modèle logistique décrit une croissance lente puis rapide sans stabilisation",
+          "Le modèle linéaire est un cas particulier du modèle exponentiel de facteur un",
+          "Le modèle logistique combine un freinage initial et une accélération finale"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle forme a la courbe d'un modèle logistique ?",
+      "verso": "Une courbe en forme de S, avec une croissance d'abord lente, puis rapide, puis ralentie jusqu'à se stabiliser au niveau de la capacité limite",
+      "explanation": "Le point d'inflexion, où la croissance est la plus rapide, se situe à mi-chemin de la capacité limite dans le modèle logistique classique.",
+      "tags": [
+        "logistique",
+        "graphique"
+      ],
+      "distractors": {
+        "easy": [
+          "Une ligne droite montante",
+          "Un cercle fermé",
+          "Une courbe descendante"
+        ],
+        "medium": [
+          "Une courbe en cloche, symétrique autour d'un maximum",
+          "Une courbe qui monte indéfiniment de plus en plus vite",
+          "Une courbe en escalier, par paliers successifs"
+        ],
+        "hard": [
+          "Une courbe en S dont le point d'inflexion coïncide avec la capacité limite",
+          "Une courbe en S décroissante tendant vers zéro",
+          "Une courbe en S dont la stabilisation dépasse la capacité limite avant d'y revenir"
+        ]
+      }
+    },
+    {
+      "recto": "Comment le taux d'accroissement évolue-t-il dans un modèle logistique ?",
+      "verso": "Il diminue progressivement à mesure que l'effectif se rapproche de la capacité limite, jusqu'à s'annuler lorsqu'elle est atteinte",
+      "explanation": "C'est ce freinage dépendant de la densité qui distingue le modèle logistique du modèle exponentiel, où le taux reste constant.",
+      "tags": [
+        "logistique",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Il reste constant tout au long de la croissance",
+          "Il augmente indéfiniment avec la population",
+          "Il devient immédiatement nul dès le départ"
+        ],
+        "medium": [
+          "Il augmente jusqu'à la capacité limite puis s'annule brutalement",
+          "Il diminue puis augmente à nouveau après stabilisation",
+          "Il oscille régulièrement autour d'une valeur moyenne"
+        ],
+        "hard": [
+          "Il diminue proportionnellement au temps écoulé et non à l'effectif",
+          "Il s'annule à mi-chemin de la capacité limite",
+          "Il devient négatif dès que la moitié de la capacité limite est atteinte"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que le taux d'accroissement naturel d'une population humaine ?",
+      "verso": "La différence entre le taux de natalité et le taux de mortalité, exprimée en général pour mille habitants et par an",
+      "explanation": "Il ne prend pas en compte les migrations : la variation réelle d'une population combine accroissement naturel et solde migratoire.",
+      "tags": [
+        "démographie",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le nombre total de naissances dans l'année",
+          "L'âge moyen de la population",
+          "Le nombre d'habitants par kilomètre carré"
+        ],
+        "medium": [
+          "La somme du taux de natalité et du taux de mortalité",
+          "La différence entre les entrées et les sorties du territoire",
+          "Le nombre moyen d'enfants par femme"
+        ],
+        "hard": [
+          "La différence entre natalité et mortalité, migrations comprises",
+          "Le rapport entre le taux de natalité et le taux de mortalité",
+          "La variation totale de la population sur une année, toutes causes confondues"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que la transition démographique ?",
+      "verso": "Le passage d'un régime à forte natalité et forte mortalité à un régime à faible natalité et faible mortalité, avec entre les deux une phase de forte croissance",
+      "explanation": "La croissance intermédiaire vient du décalage : la mortalité baisse avant la natalité, ce qui crée un écart temporaire mais considérable entre les deux courbes.",
+      "tags": [
+        "démographie",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le déplacement des populations d'un pays à un autre",
+          "Le passage de la campagne à la ville",
+          "Le changement de génération au pouvoir"
+        ],
+        "medium": [
+          "Le passage d'une faible natalité à une forte natalité",
+          "La stabilisation immédiate de la population à un niveau constant",
+          "La diminution simultanée et parallèle de la natalité et de la mortalité"
+        ],
+        "hard": [
+          "Le passage à un régime moderne où la natalité baisse avant la mortalité",
+          "Une transition sans phase de croissance intermédiaire",
+          "Le passage d'un régime à forte mortalité à un régime où seule la natalité diminue"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la population mondiale a-t-elle fortement augmenté depuis deux siècles ?",
+      "verso": "Parce que la mortalité a baissé bien avant la natalité, sous l'effet des progrès sanitaires, alimentaires et médicaux, creusant un écart durable entre les deux",
+      "explanation": "La croissance n'est donc pas due à une hausse de la fécondité mais à une baisse de la mortalité, en particulier de la mortalité infantile.",
+      "tags": [
+        "démographie",
+        "histoire"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les femmes ont eu beaucoup plus d'enfants qu'avant",
+          "Parce que les guerres ont cessé partout dans le monde",
+          "Parce que les gens vivent désormais éternellement"
+        ],
+        "medium": [
+          "Parce que la natalité a augmenté plus vite que la mortalité",
+          "Parce que les migrations internationales ont augmenté la population mondiale",
+          "Parce que la fécondité a doublé au XXe siècle"
+        ],
+        "hard": [
+          "Parce que la natalité a baissé avant la mortalité, créant un écart temporaire",
+          "Parce que la mortalité et la natalité ont baissé simultanément",
+          "Parce que l'allongement de l'espérance de vie est la seule cause de la croissance"
+        ]
+      }
+    },
+    {
+      "recto": "Que projettent les modèles démographiques pour la population mondiale au cours du XXIe siècle ?",
+      "verso": "Une poursuite de la croissance jusqu'à un maximum de l'ordre de 10 milliards d'habitants, suivi d'une stabilisation puis d'un possible déclin",
+      "explanation": "Cette forme générale correspond à un modèle logistique, la baisse mondiale de la fécondité jouant le rôle de freinage progressif.",
+      "tags": [
+        "démographie",
+        "projections"
+      ],
+      "distractors": {
+        "easy": [
+          "Une croissance illimitée jusqu'à 100 milliards",
+          "Une disparition complète de l'espèce humaine",
+          "Un retour à un milliard d'habitants"
+        ],
+        "medium": [
+          "Une croissance exponentielle sans stabilisation prévisible",
+          "Une stabilisation immédiate au niveau actuel",
+          "Un maximum de l'ordre de 20 milliards d'habitants"
+        ],
+        "hard": [
+          "Un maximum d'environ 10 milliards atteint dès 2030",
+          "Un maximum d'environ 10 milliards puis une croissance linéaire",
+          "Une décroissance continue à partir de 2025"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi les projections démographiques sont-elles plus fiables que les projections économiques ?",
+      "verso": "Parce que la population de demain est en grande partie déjà née, ce qui rend l'inertie démographique très forte à l'échelle de quelques décennies",
+      "explanation": "Cette inertie a une limite : au-delà d'une génération, les projections dépendent d'hypothèses sur la fécondité future, qui restent incertaines.",
+      "tags": [
+        "démographie",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les démographes se trompent moins souvent",
+          "Parce que la population ne change jamais",
+          "Parce que les recensements sont faits chaque jour"
+        ],
+        "medium": [
+          "Parce que la fécondité future est parfaitement connue",
+          "Parce que les migrations sont entièrement prévisibles",
+          "Parce que les modèles démographiques n'utilisent aucune hypothèse"
+        ],
+        "hard": [
+          "Parce que l'inertie démographique reste forte même au-delà d'un siècle",
+          "Parce que la mortalité est constante et la natalité prévisible",
+          "Parce que la population de demain est intégralement déterminée par celle d'aujourd'hui"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que l'indice de fécondité et quelle est sa valeur de renouvellement ?",
+      "verso": "Le nombre moyen d'enfants par femme, dont la valeur assurant le simple renouvellement des générations se situe autour de 2,1 dans les pays à faible mortalité",
+      "explanation": "La valeur dépasse légèrement deux pour compenser la mortalité avant l'âge de procréer et le léger déséquilibre du sexe à la naissance.",
+      "tags": [
+        "démographie",
+        "chiffres"
+      ],
+      "distractors": {
+        "easy": [
+          "Le nombre d'habitants par famille, environ 4",
+          "Le nombre de naissances par jour dans un pays",
+          "L'âge moyen des mères à la naissance"
+        ],
+        "medium": [
+          "Le nombre moyen d'enfants par femme, dont le renouvellement est fixé à 2 exactement",
+          "Le taux de natalité rapporté à la population totale",
+          "Le nombre moyen d'enfants par couple, soit environ 3"
+        ],
+        "hard": [
+          "Le nombre moyen d'enfants par femme, dont le renouvellement est de 1,5",
+          "Le nombre moyen d'enfants par femme en âge de procréer, avec un seuil de 2,5",
+          "Le nombre d'enfants par femme nécessaire pour faire croître la population, soit 2,1"
+        ]
+      }
+    },
+    {
+      "recto": "Comment se lit une pyramide des âges ?",
+      "verso": "Elle représente la répartition de la population par âge et par sexe, sa forme renseignant sur l'histoire démographique et sur l'avenir probable du pays",
+      "explanation": "Une base large indique une natalité élevée, un rétrécissement à un âge donné garde la trace d'un événement passé, guerre ou baisse brutale de natalité.",
+      "tags": [
+        "démographie",
+        "outil"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle représente la richesse des habitants par tranche d'âge",
+          "Elle indique le nombre de monuments par région",
+          "Elle classe les habitants selon leur taille"
+        ],
+        "medium": [
+          "Elle représente l'évolution de la population au cours du temps",
+          "Elle indique la répartition de la population par région",
+          "Elle représente la mortalité par catégorie socioprofessionnelle"
+        ],
+        "hard": [
+          "Elle représente la répartition par âge, sans distinction de sexe",
+          "Elle projette la population future sans refléter le passé",
+          "Elle représente la répartition par génération, indépendamment de l'âge atteint"
+        ]
+      }
+    },
+    {
+      "recto": "Que signifie le vieillissement d'une population ?",
+      "verso": "L'augmentation de la part des personnes âgées dans la population totale, sous l'effet conjoint de la baisse de la fécondité et de l'allongement de l'espérance de vie",
+      "explanation": "Ce n'est pas seulement le fait que les gens vivent plus vieux : c'est un changement de structure, qui dépend autant du nombre de naissances que de la longévité.",
+      "tags": [
+        "démographie",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le fait que chaque individu prend un an chaque année",
+          "L'augmentation du nombre total d'habitants",
+          "La diminution du nombre de naissances uniquement"
+        ],
+        "medium": [
+          "L'allongement de l'espérance de vie, seule cause du phénomène",
+          "L'augmentation du nombre absolu de personnes âgées, quelle que soit leur part",
+          "La diminution de la population active due aux migrations"
+        ],
+        "hard": [
+          "L'augmentation de la part des personnes âgées, indépendante de la fécondité",
+          "L'augmentation de l'âge moyen due exclusivement à la baisse de la mortalité infantile",
+          "Le déplacement de la pyramide des âges vers le haut sans changement de structure"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi un modèle démographique doit-il expliciter ses hypothèses ?",
+      "verso": "Parce que ses résultats dépendent entièrement des valeurs retenues pour la fécondité, la mortalité et les migrations, qui sont des choix et non des mesures",
+      "explanation": "C'est pourquoi les organismes publient plusieurs scénarios : haut, moyen, bas. Présenter une seule courbe sans ses hypothèses est trompeur.",
+      "tags": [
+        "modèles",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que la loi l'exige pour toute publication scientifique",
+          "Parce que les lecteurs aiment lire les détails techniques",
+          "Parce que cela rend le rapport plus long"
+        ],
+        "medium": [
+          "Parce que les hypothèses sont mesurées et non choisies",
+          "Parce que le modèle est faux si ses hypothèses sont explicites",
+          "Parce que seule la fécondité influence réellement le résultat"
+        ],
+        "hard": [
+          "Parce que les hypothèses n'influencent que les projections au-delà d'un siècle",
+          "Parce que la publication d'un scénario unique suffit si les hypothèses sont moyennes",
+          "Parce que les hypothèses déterminent la forme mais non le niveau des projections"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle différence sépare une projection et une prévision démographique ?",
+      "verso": "Une projection calcule ce qui adviendrait si les hypothèses retenues se vérifiaient, tandis qu'une prévision affirme ce qui va se produire",
+      "explanation": "La distinction est la même qu'en climatologie : les démographes projettent sous conditions, ils ne prédisent pas. La confusion nourrit les procès en fausse prophétie.",
+      "tags": [
+        "modèles",
+        "épistémologie"
+      ],
+      "distractors": {
+        "easy": [
+          "La projection porte sur un an, la prévision sur un siècle",
+          "La projection est faite par ordinateur, la prévision à la main",
+          "Ce sont deux mots strictement équivalents"
+        ],
+        "medium": [
+          "Une projection affirme ce qui va se produire, une prévision explore des hypothèses",
+          "Une projection est certaine, une prévision est probable",
+          "Une projection concerne le passé, une prévision le futur"
+        ],
+        "hard": [
+          "Une projection intègre les incertitudes, une prévision les hypothèses",
+          "Une projection est validée statistiquement, contrairement à une prévision",
+          "Une projection porte sur des populations, une prévision sur des individus"
+        ]
+      }
+    },
+    {
+      "recto": "Comment un modèle démographique se valide-t-il ?",
+      "verso": "En vérifiant qu'il reproduit correctement les évolutions passées observées, avant d'être utilisé pour explorer l'avenir",
+      "explanation": "Cette étape est identique à celle des modèles climatiques : un modèle incapable de retrouver le passé n'a aucune autorité sur ce qui vient.",
+      "tags": [
+        "modèles",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En attendant plusieurs décennies pour comparer avec la réalité",
+          "En demandant l'avis des habitants concernés",
+          "En vérifiant que le résultat correspond aux attentes politiques"
+        ],
+        "medium": [
+          "En comparant ses résultats à ceux d'un autre modèle uniquement",
+          "En vérifiant la cohérence interne de ses équations",
+          "En ajustant ses paramètres jusqu'à obtenir la courbe souhaitée"
+        ],
+        "hard": [
+          "En vérifiant qu'il reproduit les projections d'autres organismes internationaux",
+          "En testant sa capacité à prédire les cinq années suivantes seulement",
+          "En s'assurant que ses hypothèses sont conformes aux moyennes historiques"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles limites présente l'application d'un modèle logistique à la population humaine ?",
+      "verso": "La capacité limite n'est pas fixe puisqu'elle dépend des techniques, des modes de vie et des ressources exploitables, qui évoluent avec la société",
+      "explanation": "L'histoire l'illustre : les progrès agricoles ont repoussé plusieurs fois des limites présentées comme infranchissables, sans pour autant les supprimer.",
+      "tags": [
+        "logistique",
+        "limites"
+      ],
+      "distractors": {
+        "easy": [
+          "Le modèle est trop simple pour être utile à quoi que ce soit",
+          "Les êtres humains ne se reproduisent pas comme les animaux",
+          "Il est impossible de compter la population mondiale"
+        ],
+        "medium": [
+          "Le modèle logistique ne prévoit aucune stabilisation, contrairement à la réalité",
+          "Le modèle suppose une fécondité croissante, contraire aux observations",
+          "La population humaine ne présente aucune phase de croissance rapide"
+        ],
+        "hard": [
+          "La capacité limite est fixe mais impossible à mesurer précisément",
+          "Le modèle logistique s'applique bien mais uniquement à l'échelle nationale",
+          "Le modèle suppose un freinage brutal alors que la réalité est progressive"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la croissance démographique n'est-elle pas uniforme dans le monde ?",
+      "verso": "Parce que les pays ne sont pas au même stade de leur transition démographique, certains connaissant encore une forte croissance quand d'autres stagnent ou déclinent",
+      "explanation": "Le décalage entre les trajectoires nationales explique les projections régionales très contrastées, et par conséquent les enjeux migratoires et économiques associés.",
+      "tags": [
+        "démographie",
+        "géographie"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que le climat est différent selon les pays",
+          "Parce que certains pays comptent les habitants et d'autres non",
+          "Parce que les frontières changent régulièrement"
+        ],
+        "medium": [
+          "Parce que la fécondité est identique partout mais la mortalité varie",
+          "Parce que seules les migrations expliquent les écarts entre pays",
+          "Parce que les pays riches connaissent la plus forte croissance"
+        ],
+        "hard": [
+          "Parce que tous les pays sont au même stade mais avec des rythmes différents",
+          "Parce que la transition démographique se déroule en sens inverse selon les continents",
+          "Parce que la capacité limite est identique dans tous les pays"
+        ]
+      }
+    },
+    {
+      "recto": "Que retenir de l'usage des modèles en démographie comme en écologie ?",
+      "verso": "Qu'un modèle simple éclaire un mécanisme mais ne prédit pas le réel, et que sa valeur se juge à la pertinence de ses hypothèses autant qu'à ses résultats",
+      "explanation": "C'est la leçon commune à tout le programme : un modèle est un instrument de compréhension, sa simplicité étant à la fois sa force et sa limite.",
+      "tags": [
+        "synthèse",
+        "épistémologie"
+      ],
+      "distractors": {
+        "easy": [
+          "Qu'un modèle donne toujours la bonne réponse",
+          "Que les modèles sont inutiles car jamais exacts",
+          "Qu'un modèle compliqué est toujours meilleur qu'un modèle simple"
+        ],
+        "medium": [
+          "Qu'un modèle validé sur le passé prédit nécessairement le futur",
+          "Qu'un modèle simple est toujours préférable à un modèle détaillé",
+          "Que la valeur d'un modèle se juge uniquement à l'exactitude de ses résultats"
+        ],
+        "hard": [
+          "Qu'un modèle éclaire un mécanisme et permet de prédire le réel s'il est bien validé",
+          "Qu'un modèle dont les hypothèses sont fausses peut néanmoins être prédictif",
+          "Que la pertinence des hypothèses importe moins que l'ajustement aux données observées"
+        ]
+      }
+    }
+  ]
+}

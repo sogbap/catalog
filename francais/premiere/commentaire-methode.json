@@ -1,0 +1,692 @@
+{
+  "id": "francais-premiere-commentaire-methode",
+  "title": "Méthode du commentaire littéraire",
+  "emoji": "✍️",
+  "subject": "literature",
+  "country": "fr",
+  "courseDescription": "Français · Première — nature de l'exercice, construction du plan, rédaction de l'introduction et des paragraphes, citations et transitions, lecture linéaire à l'oral.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Méthode du commentaire littéraire</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Première · français<br>\n  <b>Exercice&nbsp;:</b> commentaire littéraire (écrit) et lecture linéaire (oral)<br>\n  <b>Épreuve&nbsp;:</b> épreuve anticipée du bac de français, 4 heures à l'écrit\n</div>\n\n<blockquote><p><b>Problématique.</b> Comment passe-t-on de ce qu'un texte <em>dit</em> à ce qu'il <em>fait</em>&nbsp;?</p></blockquote>\n\n<p>Le commentaire n'est pas un résumé enrichi&nbsp;: c'est une <strong>démonstration</strong>. Le correcteur connaît le texte&nbsp;; ce qu'il attend, c'est qu'on lui montre <em>comment</em> ce texte produit son sens et son effet. Toute la méthode tient dans un déplacement&nbsp;: cesser de raconter le contenu, commencer à analyser l'écriture. Ce déplacement a un nom en creux — la <strong>paraphrase</strong> — et l'essentiel du travail consiste à s'en tenir éloigné, phrase après phrase.</p>\n\n<h2>1 · Ce que l'exercice demande vraiment</h2>\n\n<p>Un commentaire réussi articule constamment trois niveaux&nbsp;: une <strong>observation</strong> précise dans le texte, l'<strong>analyse</strong> de son fonctionnement, l'<strong>interprétation</strong> qui la relie au sens d'ensemble. Un devoir qui s'arrête au premier niveau est un relevé&nbsp;; au deuxième, un catalogue de procédés. Seul le troisième niveau construit une lecture.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Les trois niveaux du commentaire littéraire : l'observation relève un fait de langue dans le texte, l'analyse explique comment il fonctionne, l'interprétation relie ce fonctionnement au sens d'ensemble ; s'arrêter au premier niveau produit un relevé, s'arrêter au deuxième un catalogue de procédés\">\n    <rect x=\"18\" y=\"14\" width=\"304\" height=\"42\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"30\" y=\"33\" font-size=\"11\" fill=\"var(--accent)\" font-weight=\"bold\">1. OBSERVER</text>\n    <text x=\"30\" y=\"48\" font-size=\"9\" fill=\"currentColor\">un fait précis, localisable, citable dans le texte</text>\n    <line x1=\"170\" y1=\"58\" x2=\"170\" y2=\"70\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.8\" marker-end=\"url(#ar-fcm1)\"/>\n    <rect x=\"18\" y=\"72\" width=\"304\" height=\"42\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"30\" y=\"91\" font-size=\"11\" fill=\"var(--accent)\" font-weight=\"bold\">2. ANALYSER</text>\n    <text x=\"30\" y=\"106\" font-size=\"9\" fill=\"currentColor\">comment ce fait fonctionne, quel effet il produit</text>\n    <line x1=\"170\" y1=\"116\" x2=\"170\" y2=\"128\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.8\" marker-end=\"url(#ar-fcm1)\"/>\n    <rect x=\"18\" y=\"130\" width=\"304\" height=\"42\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"30\" y=\"149\" font-size=\"11\" fill=\"var(--accent)\" font-weight=\"bold\">3. INTERPRÉTER</text>\n    <text x=\"30\" y=\"164\" font-size=\"9\" fill=\"currentColor\">ce que cela apporte au sens et à la problématique</text>\n    <text x=\"170\" y=\"190\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">Sans le niveau 3, le devoir reste un catalogue.</text>\n    <defs>\n      <marker id=\"ar-fcm1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n  </svg>\n  <figcaption>Chaque paragraphe du développement doit parcourir les trois étages, pas seulement le premier.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Notion · Paraphrase</strong><br>\n  Redire le contenu du texte avec d'autres mots au lieu d'analyser son écriture. Test infaillible&nbsp;: si la phrase reste vraie sans qu'on ait lu le texte lui-même, c'est de la paraphrase.\n</div>\n\n<h2>2 · Du brouillon au plan</h2>\n\n<p>L'ordre du travail n'est pas celui de la rédaction. On <strong>observe d'abord, on organise ensuite</strong>&nbsp;: chercher un plan avant d'avoir relevé, c'est plaquer une grille sur le texte au lieu de l'écouter.</p>\n\n<h3>Les quatre temps du brouillon</h3>\n\n<ul>\n  <li><strong>Lire plusieurs fois</strong>, crayon en main, sans idée préconçue.</li>\n  <li><strong>Relever</strong> tout ce qui frappe&nbsp;: répétitions, oppositions, ruptures de ton, images, temps verbaux, marques d'énonciation, rythme.</li>\n  <li><strong>Regrouper</strong> les observations par convergence&nbsp;: celles qui vont dans le même sens forment un axe.</li>\n  <li><strong>Formuler</strong> la problématique <em>après</em> ce regroupement, et la vérifier&nbsp;: le plan y répond-il vraiment&nbsp;?</li>\n</ul>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 196\" role=\"img\" aria-label=\"Du relevé au plan : des observations dispersées relevées dans le texte sont regroupées par convergence en deux ou trois axes d'analyse, chaque axe rassemblant des observations qui vont dans le même sens ; la problématique se formule après ce regroupement et non avant\">\n    <text x=\"8\" y=\"16\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Observations dispersées</text>\n    <rect x=\"12\" y=\"24\" width=\"72\" height=\"22\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"48\" y=\"39\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">répétitions</text>\n    <rect x=\"92\" y=\"24\" width=\"72\" height=\"22\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"128\" y=\"39\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">temps verbaux</text>\n    <rect x=\"172\" y=\"24\" width=\"72\" height=\"22\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"208\" y=\"39\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">antithèses</text>\n    <rect x=\"252\" y=\"24\" width=\"76\" height=\"22\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"290\" y=\"39\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">rythme</text>\n    <line x1=\"100\" y1=\"52\" x2=\"100\" y2=\"76\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-fcm2)\"/>\n    <line x1=\"240\" y1=\"52\" x2=\"240\" y2=\"76\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-fcm2)\"/>\n    <text x=\"170\" y=\"66\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">regroupement par convergence</text>\n    <rect x=\"18\" y=\"80\" width=\"140\" height=\"52\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"88\" y=\"100\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">AXE 1</text>\n    <text x=\"88\" y=\"116\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">ce qui se voit</text>\n    <text x=\"88\" y=\"128\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">d'abord</text>\n    <rect x=\"182\" y=\"80\" width=\"140\" height=\"52\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"252\" y=\"100\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">AXE 2</text>\n    <text x=\"252\" y=\"116\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">ce que cela révèle</text>\n    <text x=\"252\" y=\"128\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">ensuite</text>\n    <line x1=\"8\" y1=\"146\" x2=\"332\" y2=\"146\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"166\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">La problématique vient après</text>\n    <text x=\"8\" y=\"182\" font-size=\"9\" fill=\"currentColor\">Elle nomme ce que le regroupement a fait apparaître.</text>\n    <defs>\n      <marker id=\"ar-fcm2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n  </svg>\n  <figcaption>Le plan naît du texte&nbsp;; il ne lui est jamais appliqué de l'extérieur.</figcaption>\n</figure>\n\n<p>Deux ou trois axes, jamais davantage&nbsp;: le nombre est dicté par ce que le texte permet de démontrer, non par une règle. Et surtout, <strong>on ne sépare pas le fond de la forme</strong>&nbsp;: un plan «&nbsp;I. ce que dit le texte / II. comment il le dit&nbsp;» condamne la seconde partie à énumérer des procédés détachés de leur sens.</p>\n\n<h2>3 · La structure rédigée</h2>\n\n<h3>L'introduction</h3>\n\n<ul>\n  <li>Une <strong>amorce</strong> précise, qui conduit naturellement au texte — un fait littéraire, un mouvement, une question de genre. Jamais une généralité sur «&nbsp;la littérature de tous les temps&nbsp;».</li>\n  <li>La <strong>présentation</strong>&nbsp;: auteur, œuvre, date, genre, et situation de l'extrait dans l'œuvre.</li>\n  <li>La <strong>problématique</strong>, formulée comme une question portant sur l'intérêt majeur du texte.</li>\n  <li>L'<strong>annonce du plan</strong>, en une ou deux phrases.</li>\n</ul>\n\n<h3>Le développement</h3>\n\n<p>Chaque paragraphe suit le même mouvement, aussi rigoureux qu'un raisonnement&nbsp;: <strong>idée directrice</strong> énoncée d'abord, <strong>citation brève</strong> à l'appui, <strong>analyse</strong> du procédé, <strong>retour à l'idée</strong> pour montrer ce qui vient d'être démontré. Une citation posée sans commentaire ne prouve rien&nbsp;; une affirmation sans citation non plus.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Transition</strong><br>\n  Entre deux axes, une ou deux phrases qui font le bilan de la partie achevée et justifient le passage à la suivante. Elle montre que le plan progresse au lieu de juxtaposer.\n</div>\n\n<h3>La conclusion</h3>\n\n<p>Un <strong>bilan</strong> qui répond explicitement à la problématique — pas un résumé du devoir —, puis une <strong>ouverture</strong> vers un texte, une œuvre ou une question réellement voisine. Une ouverture artificielle vaut moins qu'une absence d'ouverture.</p>\n\n<h2>4 · Commentaire composé et lecture linéaire</h2>\n\n<p>Les deux exercices portent sur les mêmes textes et mobilisent les mêmes analyses, mais ils <strong>n'organisent pas</strong> le propos de la même façon. Confondre leurs plans est une erreur coûteuse, à l'écrit comme à l'oral.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 178\" role=\"img\" aria-label=\"Comparaison entre le commentaire composé et la lecture linéaire : le commentaire composé est un exercice écrit qui organise l'analyse en axes thématiques transversaux, la lecture linéaire est un exercice oral qui suit l'ordre du texte en mouvements successifs dont le découpage doit être justifié ; les deux reposent sur les mêmes observations\">\n    <rect x=\"12\" y=\"14\" width=\"152\" height=\"112\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"88\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">COMMENTAIRE</text>\n    <text x=\"88\" y=\"47\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">COMPOSÉ</text>\n    <text x=\"88\" y=\"66\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">écrit · 4 heures</text>\n    <text x=\"88\" y=\"82\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">axes thématiques</text>\n    <text x=\"88\" y=\"96\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">on traverse le texte</text>\n    <text x=\"88\" y=\"114\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">l'ordre du texte est ignoré</text>\n    <rect x=\"176\" y=\"14\" width=\"152\" height=\"112\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"252\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">LECTURE</text>\n    <text x=\"252\" y=\"47\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">LINÉAIRE</text>\n    <text x=\"252\" y=\"66\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">oral · 12 minutes</text>\n    <text x=\"252\" y=\"82\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">mouvements du texte</text>\n    <text x=\"252\" y=\"96\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">on suit le texte</text>\n    <text x=\"252\" y=\"114\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">le découpage se justifie</text>\n    <line x1=\"8\" y1=\"140\" x2=\"332\" y2=\"140\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"170\" y=\"160\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Mêmes observations, deux mises en ordre.</text>\n    <text x=\"170\" y=\"174\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">Ni l'une ni l'autre n'autorise la paraphrase.</text>\n  </svg>\n  <figcaption>Le plan change&nbsp;; l'exigence d'analyse, jamais.</figcaption>\n</figure>\n\n<p>Un <strong>mouvement</strong>, en lecture linéaire, est une unité de sens du texte&nbsp;: le découpage doit être <em>justifié</em> par un changement repérable — de ton, d'énonciation, de temps, de rythme. Découper en parts égales ou selon la ponctuation typographique ne vaut rien.</p>\n\n<h2>5 · Les fautes qui coûtent le plus</h2>\n\n<ul>\n  <li><strong>La paraphrase</strong>&nbsp;: la faute majeure, celle qui disqualifie le devoir entier.</li>\n  <li><strong>La biographie de l'auteur</strong>&nbsp;: l'exercice porte sur le texte. Rien ne prouve qu'un texte exprime le vécu de qui l'a écrit.</li>\n  <li><strong>Les jugements de valeur</strong>&nbsp;: dire qu'un texte est beau ou émouvant ne démontre rien. Il faut montrer <em>par quels moyens</em> l'émotion est produite.</li>\n  <li><strong>Le contexte historique envahissant</strong>&nbsp;: il n'intervient que lorsqu'il éclaire réellement un passage, et toujours au service de l'analyse.</li>\n  <li><strong>Le catalogue de procédés</strong>&nbsp;: nommer une figure sans expliquer son effet ne rapporte rien.</li>\n</ul>\n\n<h2>6 · Gérer l'épreuve</h2>\n\n<p>Sur quatre heures, environ <strong>un tiers du temps</strong> va au brouillon et à la construction du plan, la <strong>moitié</strong> à la rédaction, le reste à la relecture. Rédiger sans plan fait perdre bien plus de temps qu'on n'en gagne.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 150\" role=\"img\" aria-label=\"Répartition indicative des quatre heures de l'épreuve écrite du commentaire : environ une heure vingt pour la lecture, le relevé et la construction du plan, environ deux heures pour la rédaction, environ quarante minutes pour la relecture orthographique et la vérification de la cohérence\">\n    <line x1=\"8\" y1=\"24\" x2=\"332\" y2=\"24\" stroke=\"currentColor\" stroke-opacity=\".15\"/>\n    <line x1=\"8\" y1=\"62\" x2=\"332\" y2=\"62\" stroke=\"currentColor\" stroke-opacity=\".15\"/>\n    <line x1=\"8\" y1=\"100\" x2=\"332\" y2=\"100\" stroke=\"currentColor\" stroke-opacity=\".15\"/>\n    <text x=\"8\" y=\"20\" font-size=\"9\" fill=\"currentColor\">Brouillon, relevé, plan</text>\n    <rect x=\"8\" y=\"28\" width=\"107\" height=\"18\" rx=\"6\" fill=\"var(--accent)\" fill-opacity=\".30\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"122\" y=\"41\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">1 h 20</text>\n    <text x=\"8\" y=\"58\" font-size=\"9\" fill=\"currentColor\">Rédaction</text>\n    <rect x=\"8\" y=\"66\" width=\"162\" height=\"18\" rx=\"6\" fill=\"var(--accent)\" fill-opacity=\".45\" stroke=\"var(--accent)\" stroke-opacity=\".7\"/>\n    <text x=\"177\" y=\"79\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">2 h</text>\n    <text x=\"8\" y=\"96\" font-size=\"9\" fill=\"currentColor\">Relecture</text>\n    <rect x=\"8\" y=\"104\" width=\"54\" height=\"18\" rx=\"6\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"69\" y=\"117\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">40 min</text>\n    <text x=\"8\" y=\"142\" font-size=\"9\" class=\"s-muted\">Repères indicatifs pour une épreuve de 4 heures.</text>\n  </svg>\n  <figcaption>Le temps du brouillon n'est pas du temps perdu&nbsp;: c'est lui qui rend la rédaction rapide.</figcaption>\n</figure>\n\n<h2>L'essentiel</h2>\n\n<h3>La structure attendue</h3>\n\n<table>\n  <tr><th>Partie</th><th>Ce qu'elle doit contenir</th></tr>\n  <tr><td>Introduction</td><td>Amorce, présentation du texte, problématique, annonce du plan</td></tr>\n  <tr><td>Paragraphe</td><td>Idée directrice, citation brève, analyse, retour à l'idée</td></tr>\n  <tr><td>Transition</td><td>Bilan de la partie, justification du passage à la suivante</td></tr>\n  <tr><td>Conclusion</td><td>Réponse explicite à la problématique, puis ouverture</td></tr>\n</table>\n\n<h3>Les notions de méthode</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition en une ligne</th></tr>\n  <tr><td>Problématique</td><td>Question portant sur l'intérêt majeur du texte</td></tr>\n  <tr><td>Axe d'analyse</td><td>Regroupement d'observations qui convergent</td></tr>\n  <tr><td>Mouvement</td><td>Unité de sens du texte, au découpage justifié</td></tr>\n  <tr><td>Énonciation</td><td>Qui parle, à qui, dans quelle situation</td></tr>\n  <tr><td>Paraphrase</td><td>Redire le contenu au lieu d'analyser l'écriture</td></tr>\n</table>\n\n<h3>Les fautes à ne pas commettre</h3>\n\n<table>\n  <tr><th>Faute</th><th>Pourquoi elle coûte cher</th></tr>\n  <tr><td>Paraphraser</td><td>Le devoir n'analyse plus rien</td></tr>\n  <tr><td>Séparer fond et forme</td><td>Les procédés se détachent du sens</td></tr>\n  <tr><td>Raconter la vie de l'auteur</td><td>L'exercice porte sur le texte seul</td></tr>\n  <tr><td>Juger le texte</td><td>Une appréciation ne démontre rien</td></tr>\n  <tr><td>Citer sans commenter</td><td>La citation ne prouve rien toute seule</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  La <strong>paraphrase</strong> est la faute qui disqualifie le plus sûrement un commentaire&nbsp;: redire le contenu du texte avec d'autres mots au lieu d'analyser <em>comment</em> il est écrit. Le test est simple — si la phrase resterait vraie sans le texte sous les yeux, elle ne commente rien. Deux dérives voisines&nbsp;: le catalogue de procédés, qui nomme sans expliquer&nbsp;; et le devoir biographique, qui parle de l'auteur au lieu de l'œuvre.\n</div>\n\n<blockquote><p>Un très bon commentaire ne relève pas davantage qu'un commentaire correct&nbsp;: il relie mieux ce qu'il a relevé.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Première",
+  "theme": "Français — méthode : le commentaire",
+  "cards": [
+    {
+      "recto": "Piège classique : quelle est la faute qui disqualifie le plus sûrement un commentaire ?",
+      "verso": "La paraphrase, c'est-à-dire redire le contenu du texte avec d'autres mots au lieu d'analyser comment il est écrit",
+      "explanation": "Écrire que le poète dit sa tristesse ne fait que traduire le texte ; montrer par quels moyens il la fait éprouver relève du commentaire. Le signe d'alerte est simple : si la phrase reste vraie sans mentionner aucun procédé, c'est de la paraphrase.",
+      "tags": [
+        "piege",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Écrire trop long",
+          "Employer trop de vocabulaire technique",
+          "Citer le texte trop souvent"
+        ],
+        "medium": [
+          "Ne pas connaître la biographie de l'auteur",
+          "Proposer un plan en trois parties plutôt qu'en deux",
+          "Commencer par une accroche trop générale"
+        ],
+        "hard": [
+          "La paraphrase, faute qui consiste à analyser les procédés sans citer le texte",
+          "La paraphrase, reconnaissable au fait que la phrase mentionne un procédé",
+          "La paraphrase, qui devient acceptable dès lors qu'elle est suivie d'une citation"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'attend-on exactement d'un commentaire littéraire ?",
+      "verso": "Une analyse organisée qui montre comment le texte produit du sens, en articulant des observations précises à une interprétation d'ensemble",
+      "explanation": "L'exercice ne demande ni résumé, ni avis personnel, ni exposé de connaissances sur l'auteur. Il demande de rendre compte d'un travail d'écriture et de ses effets.",
+      "tags": [
+        "exercice",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Un résumé fidèle du texte",
+          "Un avis personnel sur le texte",
+          "Une biographie de l'auteur"
+        ],
+        "medium": [
+          "Une explication mot à mot du vocabulaire difficile",
+          "Une comparaison avec d'autres textes du même auteur",
+          "Un exposé sur le mouvement littéraire du texte"
+        ],
+        "hard": [
+          "Une analyse organisée du sens, en dispensant de toute observation précise",
+          "Une analyse des procédés, sans qu'il soit nécessaire de les relier entre eux",
+          "Une interprétation d'ensemble, formulée avant tout travail d'observation"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une problématique de commentaire ?",
+      "verso": "Une question qui porte sur l'intérêt majeur du texte et à laquelle l'ensemble du devoir répond",
+      "explanation": "Elle ne doit pas se contenter de demander de quoi parle le texte, mais interroger la manière dont il traite son sujet. Une bonne problématique appelle un développement, non une réponse en une phrase.",
+      "tags": [
+        "structure",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Le titre donné au commentaire",
+          "La première phrase de l'introduction",
+          "Le résumé du texte en une question"
+        ],
+        "medium": [
+          "Une question portant sur le sujet du texte",
+          "Une question à laquelle le texte lui-même répond explicitement",
+          "L'annonce des différentes parties du devoir"
+        ],
+        "hard": [
+          "Une question sur l'intérêt du texte, à laquelle une seule phrase doit suffire à répondre",
+          "Une question qui porte sur l'intérêt majeur du texte, formulée après la rédaction du devoir",
+          "Une question sur la manière dont le texte traite son sujet, qui remplace l'annonce du plan"
+        ]
+      }
+    },
+    {
+      "recto": "Comment construit-on le plan d'un commentaire ?",
+      "verso": "En dégageant des axes d'analyse thématiques, chacun rassemblant des observations convergentes, et non en suivant l'ordre du texte",
+      "explanation": "Un plan qui suit le texte ligne à ligne aboutit presque toujours à de la paraphrase. Les axes doivent progresser, du plus manifeste au plus profond, et non se juxtaposer.",
+      "tags": [
+        "plan",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En suivant l'ordre des paragraphes du texte",
+          "En faisant une partie par personnage",
+          "En classant les procédés par ordre alphabétique"
+        ],
+        "medium": [
+          "En consacrant une partie au fond et une autre à la forme",
+          "En faisant une partie par figure de style repérée",
+          "En suivant l'ordre chronologique de la vie de l'auteur"
+        ],
+        "hard": [
+          "En dégageant des axes thématiques, qui doivent se juxtaposer sans hiérarchie",
+          "En dégageant des axes convergents, en suivant néanmoins l'ordre du texte",
+          "En construisant des axes progressifs, chacun consacré à un procédé unique"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi un plan qui sépare le fond et la forme est-il déconseillé ?",
+      "verso": "Parce qu'il conduit à traiter les procédés indépendamment du sens, alors que le commentaire consiste précisément à les relier",
+      "explanation": "Une partie sur les figures de style détachée du propos revient à faire un catalogue. Chaque axe doit au contraire porter une idée d'interprétation, appuyée par des procédés.",
+      "tags": [
+        "plan",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'il est trop long à rédiger",
+          "Parce qu'il n'a que deux parties",
+          "Parce que les correcteurs le trouvent ennuyeux"
+        ],
+        "medium": [
+          "Parce que le fond est plus important que la forme",
+          "Parce que la forme d'un texte ne s'analyse pas",
+          "Parce qu'un commentaire doit compter trois parties"
+        ],
+        "hard": [
+          "Parce qu'il sépare procédés et sens, alors que l'analyse consiste à les traiter séparément",
+          "Parce qu'il conduit à un catalogue, défaut que corrige l'ajout d'une troisième partie",
+          "Parce que chaque axe doit porter une idée, idée qui doit rester indépendante des procédés"
+        ]
+      }
+    },
+    {
+      "recto": "Que doit contenir l'introduction d'un commentaire ?",
+      "verso": "Une amorce, la présentation du texte et de son contexte, la problématique et l'annonce du plan",
+      "explanation": "Ces quatre éléments s'enchaînent dans un même paragraphe, sans titres ni tirets. L'annonce du plan doit être formulée en une phrase claire, sans reprendre mot pour mot les titres des parties.",
+      "tags": [
+        "introduction",
+        "structure"
+      ],
+      "distractors": {
+        "easy": [
+          "Uniquement le titre du texte et le nom de l'auteur",
+          "Un résumé complet du texte",
+          "La conclusion du devoir annoncée à l'avance"
+        ],
+        "medium": [
+          "Une amorce et la problématique uniquement",
+          "La présentation du texte et l'analyse du premier procédé",
+          "La biographie détaillée de l'auteur et le contexte historique"
+        ],
+        "hard": [
+          "Amorce, présentation, problématique et annonce du plan, présentés sous forme de liste à tirets",
+          "Amorce, présentation et problématique, l'annonce du plan relevant de la conclusion",
+          "Amorce, présentation, problématique et annonce du plan, cette dernière reprenant les titres exacts des parties"
+        ]
+      }
+    },
+    {
+      "recto": "Comment se construit un paragraphe d'analyse dans le développement ?",
+      "verso": "Une idée directrice énoncée, une citation brève à l'appui, l'analyse de l'effet produit, puis un retour à l'idée",
+      "explanation": "L'analyse doit occuper plus de place que la citation, et non l'inverse. Un paragraphe sans idée directrice explicite devient une suite d'observations sans direction.",
+      "tags": [
+        "développement",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Une longue citation suivie d'un commentaire libre",
+          "Un résumé du passage puis un avis personnel",
+          "Une liste des procédés relevés dans l'ordre"
+        ],
+        "medium": [
+          "Une citation, puis le nom du procédé, sans analyse de l'effet",
+          "Une idée générale illustrée par un exemple tiré d'un autre texte",
+          "Une analyse de l'effet, la citation étant facultative"
+        ],
+        "hard": [
+          "Une idée, une citation, une analyse, la citation devant occuper l'essentiel du paragraphe",
+          "Une idée directrice et une analyse, l'idée pouvant rester implicite",
+          "Une citation, une analyse et un retour à l'idée, dans cet ordre imposé"
+        ]
+      }
+    },
+    {
+      "recto": "Comment intègre-t-on correctement une citation dans un commentaire ?",
+      "verso": "En la gardant brève, entre guillemets, et en l'insérant dans une phrase de rédaction dont elle respecte la syntaxe",
+      "explanation": "Une citation posée seule, sans être reliée grammaticalement, rompt la lecture et signale un devoir mal construit. Pour un poème, on indique les vers concernés.",
+      "tags": [
+        "citations",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En recopiant un long passage du texte",
+          "En citant de mémoire sans guillemets",
+          "En reformulant le passage avec ses propres mots"
+        ],
+        "medium": [
+          "En plaçant la citation seule entre deux phrases d'analyse",
+          "En citant systématiquement le texte en début de paragraphe",
+          "En citant sans guillemets mais en italique"
+        ],
+        "hard": [
+          "En la gardant brève et intégrée, sans avoir à respecter la syntaxe de la phrase d'accueil",
+          "En l'insérant dans une phrase rédigée, la brièveté n'ayant pas d'importance",
+          "En la citant entre guillemets, l'indication des vers étant réservée à la prose"
+        ]
+      }
+    },
+    {
+      "recto": "À quoi sert une transition entre deux parties d'un commentaire ?",
+      "verso": "À faire le bilan de la partie achevée et à justifier le passage à la suivante, en montrant la progression du raisonnement",
+      "explanation": "Elle prouve que le plan est construit et non juxtaposé. Une transition qui se contente d'annoncer la partie suivante sans lien logique manque son objet.",
+      "tags": [
+        "développement",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "À séparer visuellement les paragraphes",
+          "À indiquer la fin du devoir",
+          "À reprendre le titre de la partie"
+        ],
+        "medium": [
+          "À résumer l'ensemble du texte étudié",
+          "À annoncer simplement le thème de la partie suivante",
+          "À introduire une nouvelle citation"
+        ],
+        "hard": [
+          "À faire le bilan et justifier la suite, sans avoir à montrer de progression",
+          "À justifier le passage à la partie suivante, en se limitant à son annonce",
+          "À montrer la progression du raisonnement, opération réservée à la conclusion"
+        ]
+      }
+    },
+    {
+      "recto": "Que doit contenir la conclusion d'un commentaire ?",
+      "verso": "Un bilan qui répond explicitement à la problématique, puis une ouverture sur une autre œuvre, un autre genre ou une autre question",
+      "explanation": "Le bilan reprend la progression des axes sans les recopier. L'ouverture doit être précise et justifiée : une formule vague vaut moins que pas d'ouverture du tout.",
+      "tags": [
+        "conclusion",
+        "structure"
+      ],
+      "distractors": {
+        "easy": [
+          "Un résumé du texte étudié",
+          "Un avis personnel sur la qualité du texte",
+          "La biographie de l'auteur"
+        ],
+        "medium": [
+          "Un bilan uniquement, l'ouverture étant interdite",
+          "Une nouvelle analyse de procédé non traité avant",
+          "La reprise mot pour mot de l'introduction"
+        ],
+        "hard": [
+          "Un bilan et une ouverture, cette dernière pouvant rester volontairement vague",
+          "Un bilan qui répond à la problématique, en recopiant les titres des axes",
+          "Une ouverture sur une autre œuvre, le bilan relevant de la dernière partie"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : qu'est-ce qui distingue le commentaire composé de la lecture linéaire ?",
+      "verso": "Le commentaire composé, exercice écrit, organise l'analyse en axes thématiques, tandis que la lecture linéaire, exercice oral, suit le déroulement du texte en dégageant des mouvements",
+      "explanation": "La lecture linéaire n'est pas une paraphrase déguisée : elle analyse au fil du texte, en justifiant un découpage en mouvements. Confondre les deux formats conduit à produire l'exercice attendu à l'autre épreuve.",
+      "tags": [
+        "comparaison",
+        "exercices"
+      ],
+      "distractors": {
+        "easy": [
+          "Les deux exercices sont identiques",
+          "Le commentaire est oral, la lecture linéaire écrite",
+          "L'un porte sur la poésie, l'autre sur le roman"
+        ],
+        "medium": [
+          "Le commentaire suit le texte, la lecture linéaire organise des axes",
+          "Le commentaire est plus court que la lecture linéaire",
+          "La lecture linéaire consiste à paraphraser le texte au fil de la lecture"
+        ],
+        "hard": [
+          "Le commentaire organise des axes et la lecture linéaire suit le texte, cette dernière se dispensant de tout découpage",
+          "Le commentaire composé est écrit et la lecture linéaire orale, les deux organisant l'analyse en axes",
+          "Le commentaire est écrit et la lecture linéaire orale, cette dernière consistant à expliquer le texte mot à mot"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on les mouvements d'un texte dans une lecture linéaire ?",
+      "verso": "Les unités de sens successives qui composent l'extrait, dont le découpage doit être justifié par des indices précis",
+      "explanation": "Un changement de temps, d'énonciation, de thème ou de rythme signale généralement une frontière. Annoncer les mouvements dès l'introduction structure toute l'explication qui suit.",
+      "tags": [
+        "lecture linéaire",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Les déplacements des personnages dans le texte",
+          "Les paragraphes du texte imprimé",
+          "Les phrases les plus importantes"
+        ],
+        "medium": [
+          "Les figures de style relevées dans l'ordre",
+          "Les différentes parties d'un plan thématique",
+          "Les changements de narrateur dans l'extrait"
+        ],
+        "hard": [
+          "Les unités de sens successives, dont le découpage n'a pas à être justifié",
+          "Les unités de sens du texte, qui coïncident toujours avec les paragraphes",
+          "Les unités de sens successives, à annoncer seulement en conclusion"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles sont les étapes du travail au brouillon avant de rédiger ?",
+      "verso": "Lire plusieurs fois, relever les observations, les regrouper par convergence, formuler la problématique puis construire le plan",
+      "explanation": "La problématique se dégage des observations, elle ne les précède pas. Commencer par plaquer une problématique toute faite conduit à forcer le texte pour qu'il y réponde.",
+      "tags": [
+        "méthode",
+        "brouillon"
+      ],
+      "distractors": {
+        "easy": [
+          "Lire une fois puis rédiger directement",
+          "Chercher des informations sur l'auteur avant de lire",
+          "Recopier le texte au brouillon"
+        ],
+        "medium": [
+          "Formuler la problématique avant toute lecture attentive",
+          "Construire le plan, puis chercher des citations pour l'illustrer",
+          "Relever tous les procédés sans chercher à les regrouper"
+        ],
+        "hard": [
+          "Lire, relever, regrouper puis problématiser, la problématique devant précéder les observations",
+          "Lire et relever, le regroupement des observations relevant de la rédaction",
+          "Lire plusieurs fois puis construire le plan, la problématique se dégageant à la conclusion"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la biographie de l'auteur ne doit-elle pas nourrir un commentaire ?",
+      "verso": "Parce que l'exercice porte sur le texte et non sur son auteur, et qu'un fait biographique n'explique jamais un effet d'écriture",
+      "explanation": "Savoir que Hugo a perdu sa fille n'aide pas à analyser un poème s'il ne s'appuie pas sur le texte lui-même. Un élément de contexte n'a sa place que s'il éclaire une observation précise.",
+      "tags": [
+        "méthode",
+        "hors-sujet"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les biographies sont souvent fausses",
+          "Parce qu'on ne connaît pas toujours l'auteur",
+          "Parce que cela allonge inutilement le devoir"
+        ],
+        "medium": [
+          "Parce que le contexte historique est toujours hors sujet",
+          "Parce qu'il est interdit de citer le nom de l'auteur",
+          "Parce que la biographie appartient à la dissertation et non au commentaire"
+        ],
+        "hard": [
+          "Parce que l'exercice porte sur le texte, ce qui interdit toute référence au contexte",
+          "Parce qu'un fait biographique n'explique pas un effet d'écriture, sauf lorsqu'il est mentionné dans le texte",
+          "Parce que la biographie n'a pas sa place, l'analyse devant se passer de toute connaissance extérieure"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi faut-il éviter les jugements de valeur dans un commentaire ?",
+      "verso": "Parce que dire qu'un texte est beau ou émouvant ne démontre rien, alors que montrer comment il produit cet effet constitue l'analyse attendue",
+      "explanation": "Le jugement peut figurer en conclusion, à condition d'être appuyé sur la démonstration. Employé en cours de développement, il remplace l'analyse au lieu de la porter.",
+      "tags": [
+        "méthode",
+        "posture"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les correcteurs n'aiment pas les opinions",
+          "Parce qu'il faut rester neutre en toute circonstance",
+          "Parce que les textes étudiés sont tous de qualité égale"
+        ],
+        "medium": [
+          "Parce qu'un lecteur ne peut pas juger un texte classique",
+          "Parce que le jugement doit figurer uniquement dans l'introduction",
+          "Parce qu'il est impossible de justifier une impression de lecture"
+        ],
+        "hard": [
+          "Parce que le jugement ne démontre rien, ce qui l'interdit également en conclusion",
+          "Parce qu'il faut montrer comment l'effet est produit, démonstration qui rend le jugement obligatoire",
+          "Parce qu'un jugement de valeur remplace l'analyse, sauf s'il porte sur la forme du texte"
+        ]
+      }
+    },
+    {
+      "recto": "Comment repérer les axes d'analyse d'un texte inconnu ?",
+      "verso": "En cherchant ce qui, dans le texte, se répète, s'oppose ou surprend, ces convergences dessinant les grandes directions de l'interprétation",
+      "explanation": "La répétition signale une insistance, l'opposition une tension, la surprise un effet travaillé. Ces trois entrées suffisent le plus souvent à construire un plan.",
+      "tags": [
+        "plan",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En cherchant le titre du texte",
+          "En comptant les paragraphes",
+          "En cherchant la date de publication"
+        ],
+        "medium": [
+          "En relevant toutes les figures de style dans l'ordre",
+          "En identifiant le mouvement littéraire du texte",
+          "En résumant chaque paragraphe en une phrase"
+        ],
+        "hard": [
+          "En cherchant ce qui se répète, s'oppose ou surprend, indices dont un seul suffit à conclure",
+          "En cherchant les convergences, méthode qui suppose de connaître le mouvement littéraire du texte",
+          "En repérant les répétitions et les oppositions, la surprise relevant du jugement personnel"
+        ]
+      }
+    },
+    {
+      "recto": "Que faire lorsqu'une observation ne rentre dans aucun axe du plan ?",
+      "verso": "L'écarter si elle est marginale, ou revoir le plan si elle touche à un aspect important du texte",
+      "explanation": "Un plan est un instrument au service du texte, non une contrainte à laquelle le texte devrait obéir. Forcer une observation dans un axe où elle ne va pas produit un paragraphe artificiel, immédiatement perceptible.",
+      "tags": [
+        "plan",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "L'ajouter en conclusion",
+          "La placer dans une quatrième partie",
+          "L'ignorer systématiquement"
+        ],
+        "medium": [
+          "La forcer dans l'axe le plus proche",
+          "Ajouter une sous-partie spécifique dans chaque axe",
+          "La mentionner en note de bas de page"
+        ],
+        "hard": [
+          "L'écarter ou revoir le plan, le plan devant toutefois primer sur le texte",
+          "Revoir le plan systématiquement, aucune observation ne pouvant être écartée",
+          "L'écarter si elle est marginale, et la forcer dans un axe si elle est importante"
+        ]
+      }
+    },
+    {
+      "recto": "Combien de parties un commentaire doit-il comporter ?",
+      "verso": "Deux ou trois axes, le nombre étant dicté par ce que le texte permet de démontrer et non par une règle fixe",
+      "explanation": "Deux axes solides valent mieux que trois dont le dernier est artificiel. Chaque axe comporte généralement deux ou trois sous-parties, elles-mêmes appuyées sur des citations analysées.",
+      "tags": [
+        "plan",
+        "structure"
+      ],
+      "distractors": {
+        "easy": [
+          "Exactement trois, toujours",
+          "Une seule partie continue",
+          "Autant de parties que de paragraphes du texte"
+        ],
+        "medium": [
+          "Exactement deux, une pour le fond et une pour la forme",
+          "Quatre parties au minimum pour être complet",
+          "Trois parties, dont une consacrée à la biographie"
+        ],
+        "hard": [
+          "Deux ou trois axes, trois valant systématiquement mieux que deux",
+          "Deux ou trois axes, chaque axe devant comporter exactement trois sous-parties",
+          "Deux ou trois axes, nombre imposé par le genre du texte étudié"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une amorce réussie en introduction ?",
+      "verso": "Une entrée en matière précise qui conduit naturellement au texte, à partir d'un genre, d'un mouvement ou d'une question littéraire",
+      "explanation": "Une généralité sur la littérature ou sur la condition humaine ne prépare rien et se repère immédiatement. L'amorce doit pouvoir être reliée en une phrase au texte étudié.",
+      "tags": [
+        "introduction",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Une phrase sur la beauté de la littérature",
+          "Une citation célèbre sans rapport avec le texte",
+          "Le résumé du texte en une phrase"
+        ],
+        "medium": [
+          "Une réflexion générale sur la condition humaine",
+          "Une présentation détaillée de la vie de l'auteur",
+          "L'annonce directe de la problématique sans introduction"
+        ],
+        "hard": [
+          "Une entrée précise conduisant au texte, dont le lien avec le texte reste implicite",
+          "Une entrée en matière à partir d'un genre ou d'un mouvement, formulée en termes très généraux",
+          "Une amorce qui conduit au texte, en reprenant obligatoirement une citation d'auteur"
+        ]
+      }
+    },
+    {
+      "recto": "Comment présenter le texte en introduction ?",
+      "verso": "En indiquant l'auteur, l'œuvre, la date et le genre, ainsi que la situation de l'extrait s'il s'agit d'une œuvre suivie",
+      "explanation": "Ces informations doivent être rédigées, non listées, et rester brèves. Situer l'extrait dans l'œuvre est particulièrement utile pour un roman ou une pièce de théâtre.",
+      "tags": [
+        "introduction",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En donnant uniquement le titre du texte",
+          "En racontant l'histoire complète de l'œuvre",
+          "En recopiant la quatrième de couverture"
+        ],
+        "medium": [
+          "En détaillant la vie de l'auteur avant l'écriture du texte",
+          "En listant les informations sous forme de tirets",
+          "En indiquant uniquement le genre et la date"
+        ],
+        "hard": [
+          "En indiquant auteur, œuvre, date et genre, informations qu'il vaut mieux présenter sous forme de liste",
+          "En situant l'extrait dans l'œuvre, précision réservée aux textes poétiques",
+          "En présentant le texte de façon détaillée, la brièveté nuisant à la clarté"
+        ]
+      }
+    },
+    {
+      "recto": "Quel est l'ordre de progression attendu entre les axes d'un commentaire ?",
+      "verso": "Du plus immédiatement perceptible au plus profond, chaque axe éclairant et dépassant le précédent",
+      "explanation": "Un plan qui commence par l'interprétation la plus fine laisse les axes suivants sans force. La progression doit se sentir dans les transitions, qui montrent pourquoi l'analyse doit aller plus loin.",
+      "tags": [
+        "plan",
+        "progression"
+      ],
+      "distractors": {
+        "easy": [
+          "Du plus long au plus court",
+          "Dans l'ordre d'apparition dans le texte",
+          "Du plus facile à rédiger au plus difficile"
+        ],
+        "medium": [
+          "Du plus profond au plus immédiat",
+          "Sans ordre particulier, les axes étant équivalents",
+          "En alternant un axe de forme et un axe de fond"
+        ],
+        "hard": [
+          "Du plus perceptible au plus profond, les axes devant rester indépendants les uns des autres",
+          "Du plus perceptible au plus profond, progression qui n'a pas à apparaître dans les transitions",
+          "Du plus général au plus particulier, chaque axe reprenant le précédent"
+        ]
+      }
+    },
+    {
+      "recto": "Comment traiter un texte dont on ne comprend pas certains passages ?",
+      "verso": "En s'appuyant sur ce qu'on comprend et sur les indices formels, sans inventer un sens ni signaler son incompréhension",
+      "explanation": "Un texte difficile se laisse toujours aborder par sa construction, son lexique dominant ou son énonciation. Avouer son incompréhension dans la copie n'apporte rien, tandis qu'une analyse partielle mais juste est valorisée.",
+      "tags": [
+        "méthode",
+        "difficulté"
+      ],
+      "distractors": {
+        "easy": [
+          "Rendre copie blanche",
+          "Recopier le passage sans le commenter",
+          "Écrire que le passage est incompréhensible"
+        ],
+        "medium": [
+          "Inventer une interprétation plausible du passage",
+          "Éviter soigneusement le passage difficile dans tout le devoir",
+          "Résumer le passage à défaut de l'analyser"
+        ],
+        "hard": [
+          "S'appuyer sur ce qu'on comprend, en signalant honnêtement les passages obscurs",
+          "S'appuyer sur les indices formels, méthode inapplicable à un texte difficile",
+          "S'appuyer sur ce qu'on comprend, en complétant par une interprétation inventée"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle place accorder au contexte historique dans un commentaire ?",
+      "verso": "Une place limitée et subordonnée : il n'intervient que lorsqu'il éclaire directement un élément du texte",
+      "explanation": "Un développement historique autonome constitue un hors-sujet, même exact. La règle est simple : toute information extérieure doit être immédiatement rattachée à une observation textuelle.",
+      "tags": [
+        "méthode",
+        "contexte"
+      ],
+      "distractors": {
+        "easy": [
+          "Une place centrale, en première partie",
+          "Aucune place, le contexte étant toujours interdit",
+          "Une place en conclusion uniquement"
+        ],
+        "medium": [
+          "Une place importante, pour montrer ses connaissances",
+          "Une place systématique en introduction, sous forme de paragraphe",
+          "Une place variable selon la longueur du devoir"
+        ],
+        "hard": [
+          "Une place limitée, le contexte pouvant néanmoins faire l'objet d'un développement autonome",
+          "Une place subordonnée, à condition que le contexte soit exact et détaillé",
+          "Une place limitée au seul contexte de publication de l'œuvre"
+        ]
+      }
+    },
+    {
+      "recto": "Que signifie analyser l'énonciation d'un texte ?",
+      "verso": "Identifier qui parle, à qui, dans quelle situation, et repérer les marques de personne, de temps et de lieu qui l'indiquent",
+      "explanation": "C'est souvent l'entrée la plus rapide dans un texte inconnu, tous genres confondus. Un changement d'énonciation en cours d'extrait est presque toujours signifiant.",
+      "tags": [
+        "méthode",
+        "énonciation"
+      ],
+      "distractors": {
+        "easy": [
+          "Compter le nombre de mots prononcés",
+          "Vérifier la prononciation des mots difficiles",
+          "Identifier le nom de l'auteur"
+        ],
+        "medium": [
+          "Relever uniquement les pronoms personnels",
+          "Déterminer le registre de langue employé",
+          "Analyser le rythme des phrases du texte"
+        ],
+        "hard": [
+          "Identifier qui parle et à qui, sans avoir à repérer les marques qui l'indiquent",
+          "Repérer les marques de personne et de temps, méthode réservée aux textes narratifs",
+          "Identifier la situation d'énonciation, dont les changements en cours de texte sont sans portée"
+        ]
+      }
+    },
+    {
+      "recto": "Comment gérer son temps lors de l'épreuve écrite du commentaire ?",
+      "verso": "En consacrant environ un tiers du temps au brouillon et à la construction du plan, et le reste à la rédaction et à la relecture",
+      "explanation": "Un plan solide fait gagner du temps à la rédaction, alors qu'un plan bâclé oblige à improviser. Réserver quelques minutes à la relecture permet de corriger les fautes les plus coûteuses.",
+      "tags": [
+        "épreuve",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En rédigeant immédiatement sans brouillon",
+          "En passant tout le temps au brouillon",
+          "En rédigeant au brouillon puis en recopiant"
+        ],
+        "medium": [
+          "En consacrant la moitié du temps à la lecture du texte",
+          "En rédigeant l'introduction en dernier, après le développement",
+          "En réservant le plus clair du temps à la conclusion"
+        ],
+        "hard": [
+          "Un tiers au brouillon, le reste à la rédaction, sans prévoir de temps de relecture",
+          "Un tiers au brouillon, méthode qui suppose de rédiger intégralement le devoir au brouillon",
+          "Un tiers au plan, à condition de rédiger l'introduction avant d'avoir lu le texte"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qui fait la différence entre un commentaire correct et un très bon commentaire ?",
+      "verso": "La capacité à relier les observations entre elles pour proposer une interprétation d'ensemble, plutôt qu'à juxtaposer des analyses justes",
+      "explanation": "Un devoir peut être exact partout et rester une liste. Ce qui distingue les meilleures copies est la présence d'une lecture personnelle du texte, construite et défendue.",
+      "tags": [
+        "méthode",
+        "exigence"
+      ],
+      "distractors": {
+        "easy": [
+          "La longueur du devoir",
+          "Le nombre de figures de style relevées",
+          "La beauté de l'écriture manuscrite"
+        ],
+        "medium": [
+          "Le nombre de citations employées",
+          "La connaissance de la biographie de l'auteur",
+          "L'emploi d'un vocabulaire technique abondant"
+        ],
+        "hard": [
+          "La capacité à relier les observations, en évitant toute lecture personnelle du texte",
+          "La justesse de chaque analyse prise isolément, qui suffit à distinguer une copie",
+          "La proposition d'une interprétation d'ensemble, formulée sans appui sur des observations"
+        ]
+      }
+    }
+  ]
+}

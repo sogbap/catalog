@@ -1,0 +1,640 @@
+{
+  "id": "ses-terminale-mobilite-sociale",
+  "title": "Les caractéristiques et les facteurs de la mobilité sociale",
+  "emoji": "🪜",
+  "subject": "ses",
+  "country": "fr",
+  "courseDescription": "Spé SES · Terminale — mobilité intergénérationnelle, tables de destinée et de recrutement, mobilité structurelle et fluidité sociale, reproduction, déclassement et facteurs de la mobilité.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Les caractéristiques et les facteurs de la mobilité sociale</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · spécialité SES<br>\n  <b>Thème&nbsp;:</b> Sociologie et science politique — chapitre 3<br>\n  <b>Chapitre</b> · environ 3 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> Beaucoup de mobilité veut-il dire beaucoup d'égalité des chances&nbsp;?</p></blockquote>\n\n<p>La France a connu au XX<sup>e</sup> siècle des mouvements sociaux considérables&nbsp;: des millions d'enfants d'agriculteurs et d'ouvriers ont occupé des positions très différentes de celles de leurs parents. On serait tenté d'y voir la preuve d'une société ouverte. C'est précisément l'inférence que ce chapitre interdit. Il faut d'abord <strong>mesurer</strong> — avec un outil, la table de mobilité, dont la lecture s'apprend —, puis <strong>séparer</strong> ce qui, dans ces mouvements, vient de la transformation des emplois et ce qui traduit un affaiblissement réel du poids de l'origine sociale. Ce sont deux choses distinctes, et elles n'ont pas évolué de la même façon.</p>\n\n<h2>1 · De quoi parle-t-on&nbsp;?</h2>\n\n<div class=\"callout\">\n  <strong>Notion · Mobilité sociale</strong><br>\n  Changement de position sociale d'un individu, <em>intergénérationnel</em> (par rapport à ses parents) ou <em>intragénérationnel</em> (au cours de sa propre carrière). Les tables de mobilité mesurent le premier — celui qui intéresse la question de la reproduction.\n</div>\n\n<p>Une <strong>table de mobilité</strong> croise la catégorie sociale des individus avec celle de leur père. En France, elle porte traditionnellement sur les hommes de 40 à 59 ans&nbsp;: c'est une limite importante, que la hausse de l'activité féminine rend de plus en plus gênante. Les travaux récents comparent les femmes à leur père, ou aux deux parents, et font apparaître des trajectoires en partie différentes.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Lecture d'une table de mobilité : la lecture en ligne à partir d'une origine donne la table de destinée qui indique ce que sont devenus les fils, la lecture en colonne à partir d'une position d'arrivée donne la table de recrutement qui indique d'où viennent les membres d'une catégorie, et la diagonale rassemble les situations de reproduction sociale\">\n    <text x=\"70\" y=\"16\" font-size=\"9\" class=\"s-muted\">position du fils</text>\n    <text x=\"8\" y=\"60\" font-size=\"9\" class=\"s-muted\">origine</text>\n    <text x=\"8\" y=\"72\" font-size=\"9\" class=\"s-muted\">(père)</text>\n    <rect x=\"58\" y=\"24\" width=\"72\" height=\"34\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".40\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <rect x=\"134\" y=\"24\" width=\"72\" height=\"34\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".14\" stroke=\"var(--accent)\" stroke-opacity=\".3\"/>\n    <rect x=\"210\" y=\"24\" width=\"72\" height=\"34\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".14\" stroke=\"var(--accent)\" stroke-opacity=\".3\"/>\n    <rect x=\"58\" y=\"62\" width=\"72\" height=\"34\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".14\" stroke=\"var(--accent)\" stroke-opacity=\".3\"/>\n    <rect x=\"134\" y=\"62\" width=\"72\" height=\"34\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".40\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <rect x=\"210\" y=\"62\" width=\"72\" height=\"34\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".14\" stroke=\"var(--accent)\" stroke-opacity=\".3\"/>\n    <rect x=\"58\" y=\"100\" width=\"72\" height=\"34\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".14\" stroke=\"var(--accent)\" stroke-opacity=\".3\"/>\n    <rect x=\"134\" y=\"100\" width=\"72\" height=\"34\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".14\" stroke=\"var(--accent)\" stroke-opacity=\".3\"/>\n    <rect x=\"210\" y=\"100\" width=\"72\" height=\"34\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".40\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"294\" y=\"45\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">destinée</text>\n    <text x=\"294\" y=\"58\" font-size=\"8\" class=\"s-muted\">en ligne</text>\n    <line x1=\"58\" y1=\"146\" x2=\"130\" y2=\"146\" stroke=\"var(--accent)\" stroke-opacity=\".6\" stroke-width=\"2\"/>\n    <text x=\"94\" y=\"160\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">recrutement</text>\n    <text x=\"94\" y=\"172\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">en colonne</text>\n    <text x=\"8\" y=\"192\" font-size=\"9\" fill=\"currentColor\">Les cases foncées forment la diagonale : même catégorie que le père,</text>\n    <text x=\"8\" y=\"200\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">c'est-à-dire la reproduction sociale.</text>\n  </svg>\n  <figcaption>Deux lectures, deux questions différentes&nbsp;— les intervertir produit un contresens.</figcaption>\n</figure>\n\n<p>La <strong>table de destinée</strong> se lit <em>en ligne</em>&nbsp;: sur 100 fils de telle origine, tant occupent telle position. La <strong>table de recrutement</strong> se lit <em>en colonne</em>&nbsp;: sur 100 individus de telle position, tant ont un père de telle catégorie. Lire un chiffre correctement exige de nommer les deux termes et la base de 100.</p>\n\n<p>Deux limites doivent accompagner toute lecture. Le nombre restreint de catégories <strong>écrase une partie des mouvements</strong>&nbsp;: un fils de cadre supérieur devenu cadre modeste reste dans la même case, alors que sa trajectoire est descendante. Et la table ne dit rien de la mobilité intragénérationnelle.</p>\n\n<h2>2 · Le partage décisif</h2>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 185\" role=\"img\" aria-label=\"Décomposition de la mobilité observée : une partie est de la mobilité structurelle imposée par la transformation de la structure des emplois entre générations, le reste correspond à la fluidité sociale qui mesure l'égalité des chances une fois les effets de structure neutralisés\">\n    <text x=\"8\" y=\"16\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Mobilité observée</text>\n    <rect x=\"8\" y=\"26\" width=\"324\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"46\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">tous les changements de position constatés</text>\n    <line x1=\"100\" y1=\"60\" x2=\"100\" y2=\"78\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <line x1=\"240\" y1=\"60\" x2=\"240\" y2=\"78\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <rect x=\"8\" y=\"82\" width=\"160\" height=\"58\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"88\" y=\"100\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">mobilité structurelle</text>\n    <text x=\"88\" y=\"116\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">imposée par l'évolution</text>\n    <text x=\"88\" y=\"128\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">des emplois</text>\n    <rect x=\"176\" y=\"82\" width=\"156\" height=\"58\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".28\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"254\" y=\"100\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">fluidité sociale</text>\n    <text x=\"254\" y=\"116\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">égalité des chances</text>\n    <text x=\"254\" y=\"128\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">selon l'origine</text>\n    <text x=\"88\" y=\"158\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">ne dit rien de l'ouverture</text>\n    <text x=\"254\" y=\"158\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">mesurée par les odds ratios</text>\n    <text x=\"170\" y=\"180\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">La France : beaucoup de mobilité, peu de progrès de la fluidité.</text>\n  </svg>\n  <figcaption>Tout le chapitre tient dans ce partage&nbsp;— et dans le refus de confondre les deux moitiés.</figcaption>\n</figure>\n\n<p>La <strong>mobilité structurelle</strong> est celle qu'<em>impose</em> la transformation des emplois. Si les emplois agricoles disparaissent et que les postes de cadres se multiplient, des fils d'agriculteurs doivent changer de catégorie&nbsp;— y compris dans une société parfaitement fermée. Cette part de la mobilité ne dit donc rien de l'égalité des chances.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Fluidité sociale</strong><br>\n  Mesure de l'égalité des chances d'accéder aux différentes positions, quelle que soit l'origine, une fois <strong>neutralisés</strong> les effets de la transformation des emplois. On la mesure par des <em>odds ratios</em>&nbsp;: des rapports de chances relatives, qu'une valeur de 1 rendrait parfaitement égales.\n</div>\n\n<p>Le résultat français est net&nbsp;: la mobilité observée reste importante, mais la <strong>fluidité n'a guère progressé</strong> depuis plusieurs décennies. L'explication rejoint directement le chapitre sur l'école&nbsp;: les inégalités de réussite et d'orientation se sont maintenues en se <em>déplaçant</em> vers des niveaux d'études plus élevés. Tous les groupes ont progressé&nbsp;; les écarts relatifs, non.</p>\n\n<h2>3 · Les facteurs de la mobilité</h2>\n\n<p><strong>La transformation de la structure des emplois</strong> a été le moteur principal&nbsp;: recul massif des emplois agricoles et ouvriers, forte progression des cadres et professions intermédiaires. Elle a rendu inévitable une abondante mobilité ascendante — et son ralentissement actuel réduit d'autant les possibilités d'ascension.</p>\n\n<p><strong>L'école</strong> constitue le principal canal d'accès aux positions. Comme la réussite scolaire dépend en partie de l'origine sociale, le diplôme est à la fois un <em>vecteur de mobilité</em> et un <em>relais de la reproduction</em>&nbsp;— les deux, sans contradiction.</p>\n\n<p><strong>La famille</strong> agit au-delà du diplôme&nbsp;: patrimoine, réseaux relationnels, aspirations, normes. Ces ressources expliquent qu'à <em>diplôme équivalent</em>, les trajectoires diffèrent encore selon l'origine. Le capital social facilite l'accès à certains emplois par l'information et la recommandation.</p>\n\n<h2>4 · Reproduction, descente et déclassement</h2>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 180\" role=\"img\" aria-label=\"La reproduction sociale est particulièrement forte aux deux extrémités de la structure sociale, les enfants de cadres accédant souvent à des positions élevées et les enfants d'ouvriers restant fréquemment dans les catégories populaires, tandis que les catégories intermédiaires connaissent une mobilité importante dans les deux sens\">\n    <rect x=\"90\" y=\"14\" width=\"160\" height=\"38\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".35\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"32\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">cadres, professions supérieures</text>\n    <text x=\"170\" y=\"46\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">reproduction forte</text>\n    <rect x=\"90\" y=\"66\" width=\"160\" height=\"42\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".12\" stroke=\"var(--accent)\" stroke-opacity=\".35\" stroke-dasharray=\"4 3\"/>\n    <text x=\"170\" y=\"84\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">catégories intermédiaires</text>\n    <text x=\"170\" y=\"99\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">mobilité dans les deux sens</text>\n    <rect x=\"90\" y=\"122\" width=\"160\" height=\"38\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".35\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"140\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">employés, ouvriers</text>\n    <text x=\"170\" y=\"154\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">reproduction forte</text>\n    <text x=\"20\" y=\"88\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">extrémités</text>\n    <text x=\"20\" y=\"100\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">fermées</text>\n    <text x=\"266\" y=\"88\" font-size=\"9\" fill=\"currentColor\">milieu</text>\n    <text x=\"266\" y=\"100\" font-size=\"9\" fill=\"currentColor\">ouvert</text>\n    <text x=\"170\" y=\"176\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">Un résultat classique et stable des tables de mobilité.</text>\n  </svg>\n  <figcaption>La société française n'est ni fermée ni ouverte&nbsp;: elle l'est différemment selon l'étage.</figcaption>\n</figure>\n\n<p>Un point de logique important&nbsp;: la <strong>mobilité descendante existe nécessairement</strong>. Le nombre de positions élevées est limité&nbsp;; si des individus d'origine modeste y accèdent, d'autres issus de ces positions doivent en descendre. Ascension et descente sont donc mécaniquement liées dès que la structure des emplois cesse de se transformer — ce qui explique que l'ouverture sociale puisse être vécue comme une menace par les catégories les mieux dotées.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Déclassement</strong><br>\n  Occuper une position <em>inférieure à celle de ses parents</em> (déclassement intergénérationnel, lu dans les tables) ou <em>inférieure à celle qu'annonçait son diplôme</em> (déclassement scolaire). Deux mesures distinctes, à ne pas confondre en commentaire de document.\n</div>\n\n<p>Le <em>sentiment</em> de déclassement est souvent plus répandu que le déclassement mesuré, parce que les individus se comparent à leurs <strong>attentes</strong> et à leurs <strong>contemporains</strong>, pas seulement à leurs parents. Un diplômé occupant un emploi conforme à son origine mais inférieur à ses espérances se vivra comme déclassé.</p>\n\n<p>Enfin, la mobilité ascendante n'est pas un pur gain&nbsp;: elle s'accompagne souvent d'un sentiment de décalage vis-à-vis du milieu d'origine comme du milieu d'arrivée. Ce tiraillement rappelle que la position sociale engage des manières de vivre, et pas seulement des revenus.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Le raisonnement du chapitre</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Frise du raisonnement du chapitre : définir les formes de mobilité, apprendre à lire une table de destinée et de recrutement, séparer mobilité structurelle et fluidité sociale, identifier les facteurs de la mobilité, puis analyser reproduction, descente et déclassement\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"176\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">1. Définir</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Inter et intragénérationnelle</text>\n    <circle cx=\"26\" cy=\"60\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"57\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">2. Lire la table</text>\n    <text x=\"44\" y=\"70\" font-size=\"10\" fill=\"currentColor\">Destinée en ligne, recrutement en colonne</text>\n    <circle cx=\"26\" cy=\"100\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"97\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">3. Séparer</text>\n    <text x=\"44\" y=\"110\" font-size=\"10\" fill=\"currentColor\">Mobilité structurelle / fluidité sociale</text>\n    <circle cx=\"26\" cy=\"140\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"137\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">4. Expliquer</text>\n    <text x=\"44\" y=\"150\" font-size=\"10\" fill=\"currentColor\">Emplois, école, famille</text>\n    <circle cx=\"26\" cy=\"176\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"173\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">5. Nuancer</text>\n    <text x=\"44\" y=\"186\" font-size=\"10\" fill=\"currentColor\">Reproduction, descente, déclassement vécu</text>\n  </svg>\n  <figcaption>L'étape 3 est le point de bascule&nbsp;: sans elle, tous les chiffres sont mal interprétés.</figcaption>\n</figure>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition en une ligne</th></tr>\n  <tr><td>Mobilité intergénérationnelle</td><td>Position comparée à celle des parents</td></tr>\n  <tr><td>Table de destinée</td><td>Ce que sont devenus les fils d'une origine donnée</td></tr>\n  <tr><td>Table de recrutement</td><td>D'où viennent les membres d'une position donnée</td></tr>\n  <tr><td>Mobilité structurelle</td><td>Mobilité imposée par l'évolution des emplois</td></tr>\n  <tr><td>Fluidité sociale</td><td>Égalité des chances, effets de structure neutralisés</td></tr>\n  <tr><td>Déclassement</td><td>Position inférieure aux parents, ou au diplôme</td></tr>\n</table>\n\n<h3>Résultats à retenir</h3>\n\n<table>\n  <tr><th>Constat</th><th>Interprétation</th></tr>\n  <tr><td>Mobilité observée importante</td><td>Largement due à la transformation des emplois</td></tr>\n  <tr><td>Fluidité peu améliorée</td><td>Le poids de l'origine sociale résiste</td></tr>\n  <tr><td>Diagonale bien remplie</td><td>Reproduction sociale forte</td></tr>\n  <tr><td>Extrémités fermées, milieu ouvert</td><td>La reproduction varie selon l'étage</td></tr>\n  <tr><td>Ralentissement des transformations</td><td>Moins d'ascension possible demain</td></tr>\n</table>\n\n<h3>Mécanismes à savoir rédiger</h3>\n\n<table>\n  <tr><th>Enchaînement</th><th>Étapes</th></tr>\n  <tr><td>Mobilité structurelle</td><td>Disparition d'emplois → obligation de changer de catégorie → mobilité sans ouverture</td></tr>\n  <tr><td>École et mobilité</td><td>Diplôme → accès aux positions ; mais réussite liée à l'origine → reproduction</td></tr>\n  <tr><td>Reproduction familiale</td><td>Patrimoine, réseaux, aspirations → trajectoires distinctes à diplôme égal</td></tr>\n  <tr><td>Liaison ascension-descente</td><td>Positions élevées limitées → toute montée implique une descente</td></tr>\n  <tr><td>Sentiment de déclassement</td><td>Diplôme élevé → attentes élevées → écart avec la position obtenue</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Conclure d'une <strong>forte mobilité observée</strong> à une <strong>société ouverte</strong>. Une large part de cette mobilité est <em>imposée</em> par la transformation de la structure des emplois&nbsp;: la disparition des emplois agricoles a produit des millions de changements de catégorie sans réduire le poids de l'origine sociale. Seule la <em>fluidité</em>, mesurée par les odds ratios, répond à la question de l'égalité des chances. Deux erreurs voisines&nbsp;: intervertir table de destinée et table de recrutement&nbsp;; et lire un chiffre sans nommer l'origine, la position atteinte et la base de 100.\n</div>\n\n<blockquote><p>La société française a beaucoup bougé sans beaucoup s'ouvrir. Distinguer le mouvement de l'ouverture&nbsp;— c'est-à-dire ce que la structure impose de ce que les origines permettent&nbsp;— est tout le métier de ce chapitre.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Spécialité SES — Sociologie et science politique",
+  "cards": [
+    {
+      "recto": "Qu'appelle-t-on la mobilité sociale ?",
+      "verso": "Le changement de position sociale d'un individu, soit par rapport à celle de ses parents, soit au cours de sa propre carrière",
+      "explanation": "Le terme désigne un déplacement dans la structure sociale, sans préjuger de son sens ascendant ou descendant. Il se distingue de la simple mobilité géographique ou professionnelle sans changement de position.",
+      "tags": [
+        "mobilité",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Le déménagement d'un individu vers une autre région",
+          "Le changement d'entreprise au cours d'une carrière",
+          "Le passage d'un contrat court à un contrat long"
+        ],
+        "medium": [
+          "L'amélioration du niveau de vie d'un ménage au fil du temps",
+          "Le changement de profession sans changement de position sociale",
+          "La progression salariale au sein d'une même entreprise"
+        ],
+        "hard": [
+          "Le changement de position sociale, nécessairement ascendant",
+          "Le changement de position sociale d'un individu par rapport à ses parents uniquement",
+          "Le changement de position sociale d'un groupe entier au sein de la structure sociale"
+        ]
+      }
+    },
+    {
+      "recto": "Que distingue-t-on entre mobilité intergénérationnelle et mobilité intragénérationnelle ?",
+      "verso": "La mobilité intergénérationnelle compare la position d'un individu à celle de ses parents, la mobilité intragénérationnelle compare les positions successives d'un même individu au cours de sa carrière",
+      "explanation": "Les tables de mobilité mesurent la première, celle qui intéresse la question de la reproduction sociale. La seconde relève plutôt de l'analyse des carrières et des promotions internes.",
+      "tags": [
+        "mobilité",
+        "distinction"
+      ],
+      "distractors": {
+        "easy": [
+          "L'une concerne les hommes, l'autre les femmes",
+          "L'une est ascendante, l'autre descendante",
+          "Les deux notions désignent la même chose"
+        ],
+        "medium": [
+          "L'intergénérationnelle compare les positions successives d'un individu, l'intragénérationnelle celle des parents",
+          "L'intergénérationnelle concerne les frères et sœurs, l'intragénérationnelle les parents",
+          "L'intergénérationnelle se mesure sur dix ans, l'intragénérationnelle sur une vie entière"
+        ],
+        "hard": [
+          "L'intergénérationnelle compare l'individu à ses parents, l'intragénérationnelle compare les individus d'une même génération entre eux",
+          "L'intergénérationnelle compare l'individu à ses parents, comparaison qui exclut les grands-parents et donc toute reproduction de long terme",
+          "L'intergénérationnelle porte sur les positions au premier emploi, l'intragénérationnelle sur les positions en fin de carrière"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une table de mobilité ?",
+      "verso": "Un tableau croisant la catégorie sociale des individus avec celle de leur père, ce qui permet de mesurer les trajectoires entre générations",
+      "explanation": "En France, ces tables portent traditionnellement sur les hommes de quarante à cinquante-neuf ans, comparés à leur père, ce qui constitue une limite importante. Elles reposent sur les catégories socioprofessionnelles, dont le nombre limité écrase une partie des mouvements.",
+      "tags": [
+        "tables",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Un classement des professions par niveau de salaire",
+          "Une liste des déménagements enregistrés dans l'année",
+          "Un tableau des créations d'emplois par secteur"
+        ],
+        "medium": [
+          "Un tableau comparant les revenus des ménages sur plusieurs années",
+          "Un tableau croisant le diplôme et la profession d'un individu",
+          "Un tableau des positions successives occupées par un individu"
+        ],
+        "hard": [
+          "Un tableau croisant la catégorie sociale des individus et celle de leur père, portant en France sur l'ensemble de la population active",
+          "Un tableau croisant les positions des individus et de leurs parents, construit à partir des niveaux de revenu et non des catégories socioprofessionnelles",
+          "Un tableau croisant les positions de deux générations, dont le nombre de catégories est suffisamment fin pour saisir tous les mouvements"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : que lit-on dans une table de destinée et dans une table de recrutement ?",
+      "verso": "La table de destinée indique ce que sont devenus les fils d'une origine donnée, la table de recrutement indique d'où viennent les membres d'une catégorie donnée",
+      "explanation": "La première se lit en ligne à partir de l'origine, la seconde en colonne à partir de la position d'arrivée. Confondre les deux revient à intervertir la question posée, ce qui rend toute lecture chiffrée fausse.",
+      "tags": [
+        "comparaison",
+        "tables"
+      ],
+      "distractors": {
+        "easy": [
+          "Les deux tables donnent exactement les mêmes chiffres",
+          "La destinée concerne les hommes, le recrutement les femmes",
+          "La destinée porte sur les revenus, le recrutement sur les diplômes"
+        ],
+        "medium": [
+          "La table de destinée indique d'où viennent les membres d'une catégorie, la table de recrutement ce que sont devenus les fils",
+          "La table de destinée se lit en colonne, la table de recrutement en ligne, mais les questions posées sont identiques",
+          "La table de destinée mesure la mobilité ascendante, la table de recrutement la mobilité descendante"
+        ],
+        "hard": [
+          "La table de destinée indique ce que sont devenus les fils d'une origine donnée, lecture qui se fait en colonne à partir de la position d'arrivée",
+          "La table de destinée indique le devenir des fils et la table de recrutement l'origine des membres d'une catégorie, ces deux lectures donnant des pourcentages identiques",
+          "La table de destinée indique le devenir des fils, la table de recrutement l'origine des pères de ces mêmes fils"
+        ]
+      }
+    },
+    {
+      "recto": "Comment interprète-t-on la diagonale d'une table de mobilité ?",
+      "verso": "Elle rassemble les individus qui occupent la même catégorie sociale que leur père, c'est-à-dire les situations d'immobilité ou de reproduction sociale",
+      "explanation": "Plus les effectifs se concentrent sur la diagonale, plus la reproduction est forte. Les cases hors diagonale correspondent à toutes les formes de mobilité, ascendante comme descendante.",
+      "tags": [
+        "tables",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle rassemble les individus les plus riches",
+          "Elle indique le nombre total d'individus étudiés",
+          "Elle mesure l'écart de revenus entre générations"
+        ],
+        "medium": [
+          "Elle rassemble les individus ayant connu une mobilité ascendante",
+          "Elle rassemble les individus ayant changé de catégorie sociale",
+          "Elle indique la moyenne des positions atteintes par génération"
+        ],
+        "hard": [
+          "Elle rassemble les individus de même catégorie que leur père, concentration qui traduit une forte fluidité sociale",
+          "Elle rassemble les cas d'immobilité, les cases hors diagonale correspondant à la seule mobilité ascendante",
+          "Elle rassemble les cas d'immobilité, dont l'importance ne dépend pas du nombre de catégories retenues"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on la mobilité observée ?",
+      "verso": "L'ensemble des changements de position sociale effectivement constatés entre les individus et leurs parents, quelle qu'en soit la cause",
+      "explanation": "Elle additionne les mouvements dus à la transformation de la structure des emplois et ceux qui traduisent une véritable ouverture sociale. C'est pourquoi elle ne suffit pas à conclure sur l'égalité des chances.",
+      "tags": [
+        "mobilité observée",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "La mobilité géographique enregistrée par les recensements",
+          "Le nombre de changements d'emploi dans une carrière",
+          "La mobilité perçue par les individus eux-mêmes"
+        ],
+        "medium": [
+          "La part de la mobilité qui traduit une ouverture sociale réelle",
+          "La mobilité due uniquement à la transformation des emplois",
+          "La mobilité mesurée après neutralisation des effets de structure"
+        ],
+        "hard": [
+          "L'ensemble des changements de position constatés, mesure qui suffit à conclure sur l'égalité des chances",
+          "L'ensemble des changements de position, à l'exclusion de ceux dus à l'évolution de la structure des emplois",
+          "L'ensemble des changements de position, mesurés uniquement pour les trajectoires ascendantes"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on la mobilité structurelle ?",
+      "verso": "La part de la mobilité imposée par la transformation de la structure des emplois entre les générations, indépendamment de toute ouverture sociale",
+      "explanation": "Si les emplois agricoles disparaissent et que les postes de cadres se multiplient, des fils d'agriculteurs doivent changer de catégorie, même dans une société parfaitement fermée. Cette part de la mobilité ne dit donc rien de l'égalité des chances.",
+      "tags": [
+        "mobilité structurelle",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "La mobilité organisée par les entreprises entre leurs sites",
+          "La mobilité des bâtiments et des équipements",
+          "La mobilité imposée par la loi aux fonctionnaires"
+        ],
+        "medium": [
+          "La part de la mobilité qui traduit une ouverture sociale réelle",
+          "La mobilité qui subsiste après neutralisation des effets de structure",
+          "La mobilité liée aux seuls changements de diplôme entre générations"
+        ],
+        "hard": [
+          "La part de la mobilité imposée par la transformation des emplois, part qui témoigne d'une plus grande égalité des chances",
+          "La part de la mobilité imposée par la transformation des emplois, phénomène disparu depuis la fin de l'exode rural",
+          "La part de la mobilité imposée par la transformation des emplois, qui ne concerne que la mobilité descendante"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : une forte mobilité observée signifie-t-elle une société ouverte ?",
+      "verso": "Non : une partie de cette mobilité est imposée par la transformation de la structure des emplois, et seule la fluidité sociale mesure l'égalité des chances entre origines",
+      "explanation": "La disparition des emplois agricoles a mécaniquement produit de la mobilité sans réduire pour autant le poids de l'origine sociale. C'est pourquoi les sociologues raisonnent en odds ratios, qui neutralisent les effets de structure.",
+      "tags": [
+        "piege",
+        "fluidité"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, plus il y a de mobilité, plus la société est ouverte",
+          "Oui, dès lors que la mobilité est ascendante",
+          "Non, car la mobilité observée n'est pas mesurable"
+        ],
+        "medium": [
+          "Oui, à condition que la mobilité concerne toutes les catégories sociales",
+          "Non, car la mobilité observée mesure uniquement la mobilité descendante",
+          "Oui, la transformation des emplois traduisant elle-même une ouverture sociale"
+        ],
+        "hard": [
+          "Non, une partie étant imposée par la structure, ce qui rend la mobilité observée inutile à mesurer",
+          "Non, seule la fluidité sociale mesurant l'égalité des chances, laquelle se lit directement dans la table de destinée",
+          "Non, mais la mobilité structurelle traduit malgré tout un affaiblissement du poids de l'origine sociale"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on la fluidité sociale ?",
+      "verso": "La mesure de l'égalité des chances d'accéder aux différentes positions sociales, quelle que soit l'origine, une fois neutralisés les effets de la transformation des emplois",
+      "explanation": "Une société est d'autant plus fluide que l'origine sociale pèse peu sur la position atteinte. En France, la fluidité a peu progressé depuis plusieurs décennies, alors même que la mobilité observée reste importante.",
+      "tags": [
+        "fluidité",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "La rapidité avec laquelle on change d'emploi",
+          "La facilité de déplacement entre les régions",
+          "La souplesse du marché du travail"
+        ],
+        "medium": [
+          "L'ensemble des changements de position constatés entre générations",
+          "La part de la mobilité due à la transformation des emplois",
+          "La proportion d'individus occupant la même position que leur père"
+        ],
+        "hard": [
+          "L'égalité des chances d'accéder aux positions, mesurée sans neutraliser les effets de structure",
+          "L'égalité des chances d'accéder aux positions, qui a fortement progressé en France depuis les années 1980",
+          "L'égalité des chances d'accéder aux positions, qui se confond avec la mobilité observée dès lors que la structure des emplois est stable"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un odds ratio en sociologie de la mobilité ?",
+      "verso": "Un rapport de chances relatives, qui compare les chances qu'ont deux individus d'origines différentes d'atteindre une position plutôt qu'une autre",
+      "explanation": "Un rapport égal à un signifierait une fluidité parfaite, les origines n'ayant aucun effet. Cet indicateur a l'avantage d'être insensible à la transformation de la structure des emplois.",
+      "tags": [
+        "fluidité",
+        "outil"
+      ],
+      "distractors": {
+        "easy": [
+          "Le nombre total d'individus mobiles dans une génération",
+          "La différence de revenu entre deux catégories sociales",
+          "Le pourcentage de fils de cadres devenus cadres"
+        ],
+        "medium": [
+          "La part de la mobilité structurelle dans la mobilité observée",
+          "Le rapport entre mobilité ascendante et mobilité descendante",
+          "La proportion d'individus situés sur la diagonale de la table"
+        ],
+        "hard": [
+          "Un rapport de chances relatives, indicateur sensible aux transformations de la structure des emplois",
+          "Un rapport de chances relatives, dont une valeur nulle signalerait une fluidité parfaite",
+          "Un rapport de chances relatives, calculé à partir des seuls effectifs de la table de recrutement"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle a été la contribution principale de l'évolution de la structure des emplois à la mobilité en France ?",
+      "verso": "Le recul massif des emplois agricoles et ouvriers et la forte progression des cadres et professions intermédiaires ont rendu inévitable une abondante mobilité ascendante",
+      "explanation": "Cette transformation a permis à de nombreux enfants d'agriculteurs et d'ouvriers d'accéder à d'autres positions, sans que le poids relatif de l'origine sociale ait diminué d'autant. Le ralentissement de cette transformation réduit aujourd'hui les possibilités de mobilité ascendante.",
+      "tags": [
+        "facteurs",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "L'augmentation du nombre d'agriculteurs",
+          "La disparition complète des emplois de cadres",
+          "La stabilité parfaite de la structure des emplois"
+        ],
+        "medium": [
+          "La progression des emplois ouvriers au détriment des cadres",
+          "Le recul des professions intermédiaires au profit des agriculteurs",
+          "Une transformation qui a réduit d'autant le poids de l'origine sociale"
+        ],
+        "hard": [
+          "Le recul des emplois agricoles et la progression des cadres, transformation qui se poursuit aujourd'hui au même rythme",
+          "Le recul des emplois agricoles et ouvriers, qui a produit surtout de la mobilité descendante",
+          "Le recul des emplois agricoles, transformation dont l'effet sur la mobilité est resté marginal"
+        ]
+      }
+    },
+    {
+      "recto": "Quel rôle l'école joue-t-elle dans la mobilité sociale ?",
+      "verso": "Le diplôme constitue le principal canal d'accès aux positions sociales, ce qui en fait à la fois un vecteur de mobilité et un relais de la reproduction",
+      "explanation": "Comme la réussite scolaire dépend en partie de l'origine sociale, le diplôme transmet une part de l'héritage tout en offrant une voie d'ascension. C'est ce double rôle qu'il faut restituer plutôt que d'en retenir un seul.",
+      "tags": [
+        "facteurs",
+        "école"
+      ],
+      "distractors": {
+        "easy": [
+          "L'école n'a aucun effet sur la mobilité sociale",
+          "L'école garantit à chacun une position supérieure à celle de ses parents",
+          "L'école détermine uniquement le revenu, pas la position sociale"
+        ],
+        "medium": [
+          "Le diplôme est un vecteur de mobilité sans jamais relayer la reproduction",
+          "Le diplôme relaie la reproduction sans jamais permettre de mobilité",
+          "Le diplôme joue un rôle secondaire par rapport au réseau familial"
+        ],
+        "hard": [
+          "Le diplôme est le principal canal d'accès aux positions, ce qui garantit une fluidité sociale croissante",
+          "Le diplôme est à la fois vecteur de mobilité et relais de reproduction, ce double rôle ayant disparu avec la massification",
+          "Le diplôme est le principal canal d'accès aux positions, canal dont l'effet est indépendant de l'origine sociale des élèves"
+        ]
+      }
+    },
+    {
+      "recto": "Comment la famille influence-t-elle les trajectoires de mobilité au-delà de l'école ?",
+      "verso": "Par la transmission d'un patrimoine, de réseaux relationnels, d'aspirations et de normes qui orientent les choix scolaires et professionnels",
+      "explanation": "Ces ressources agissent en complément du diplôme et expliquent qu'à diplôme équivalent, les trajectoires diffèrent encore selon l'origine sociale. Le capital social, en particulier, facilite l'accès à certains emplois par l'information et la recommandation.",
+      "tags": [
+        "facteurs",
+        "famille"
+      ],
+      "distractors": {
+        "easy": [
+          "Par le nombre d'enfants du ménage uniquement",
+          "Par le lieu de vacances choisi chaque année",
+          "Par l'ordre de naissance des enfants"
+        ],
+        "medium": [
+          "Par la seule transmission d'un patrimoine financier",
+          "Par la transmission du nom de famille",
+          "Par des ressources dont l'effet cesse une fois le diplôme obtenu"
+        ],
+        "hard": [
+          "Par la transmission de patrimoine, de réseaux et de normes, ressources dont l'effet est nul à diplôme équivalent",
+          "Par la transmission de réseaux relationnels, dont l'effet ne joue que pour les catégories les plus modestes",
+          "Par la transmission d'aspirations et de normes, transmission qui se substitue entièrement au rôle du diplôme"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la mesure de la mobilité sociale des femmes pose-t-elle un problème méthodologique ?",
+      "verso": "Parce que les tables de mobilité ont longtemps comparé les hommes à leur père, laissant de côté les trajectoires féminines et la position de la mère",
+      "explanation": "La forte hausse de l'activité féminine rend cette convention de plus en plus inadaptée. Les travaux récents comparent les femmes à leur père ou à leurs deux parents, et font apparaître des trajectoires en partie différentes.",
+      "tags": [
+        "genre",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les femmes ne travaillent pas",
+          "Parce que les femmes changent de nom en se mariant",
+          "Parce que les femmes sont moins diplômées que les hommes"
+        ],
+        "medium": [
+          "Parce que les femmes occupent les mêmes positions que leur mère",
+          "Parce que la mobilité féminine est trop faible pour être mesurée",
+          "Parce que les catégories socioprofessionnelles ne s'appliquent pas aux femmes"
+        ],
+        "hard": [
+          "Parce que les tables ont longtemps comparé les hommes à leur père, convention devenue inadaptée avec la baisse de l'activité féminine",
+          "Parce que les tables comparent les femmes à leur mère, ce qui surestime la reproduction sociale",
+          "Parce que les trajectoires féminines sont identiques à celles des hommes, ce qui rend leur mesure redondante"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on le déclassement social ?",
+      "verso": "La situation d'un individu qui occupe une position sociale inférieure à celle de ses parents, ou inférieure à celle que son diplôme laissait attendre",
+      "explanation": "Le déclassement intergénérationnel se mesure dans les tables, tandis que le déclassement scolaire compare le diplôme obtenu à l'emploi occupé. Distinguer les deux évite des confusions fréquentes dans les commentaires de documents.",
+      "tags": [
+        "déclassement",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "La perte d'un emploi à la suite d'un licenciement",
+          "Le passage à la retraite d'un travailleur",
+          "Le déménagement vers un quartier moins cher"
+        ],
+        "medium": [
+          "La baisse du revenu d'un ménage d'une année sur l'autre",
+          "La situation d'un individu occupant une position supérieure à celle de ses parents",
+          "Le passage d'un contrat à durée indéterminée à un contrat court"
+        ],
+        "hard": [
+          "L'occupation d'une position inférieure à celle des parents, définition qui exclut la comparaison avec le diplôme obtenu",
+          "L'occupation d'une position inférieure à celle qu'annonçait le diplôme, seule forme de déclassement mesurable",
+          "L'occupation d'une position inférieure à celle des parents, situation qui ne peut apparaître qu'en période de récession"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi le sentiment de déclassement peut-il être plus répandu que le déclassement mesuré ?",
+      "verso": "Parce que les individus comparent leur situation à leurs attentes et à celle de leurs contemporains, et non seulement à la position de leurs parents",
+      "explanation": "Un diplômé qui occupe un emploi conforme à sa position d'origine mais inférieur à ses espérances se vivra comme déclassé. Le décalage entre mesure objective et vécu subjectif est un point d'analyse attendu en dissertation.",
+      "tags": [
+        "déclassement",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les individus ignorent la position de leurs parents",
+          "Parce que les statistiques sont mal construites",
+          "Parce que les individus exagèrent volontairement leurs difficultés"
+        ],
+        "medium": [
+          "Parce que le déclassement mesuré ne concerne que les cadres",
+          "Parce que le sentiment de déclassement précède toujours le déclassement réel",
+          "Parce que les individus comparent uniquement leur revenu à celui de leurs parents"
+        ],
+        "hard": [
+          "Parce que les individus comparent leur situation à leurs attentes, comparaison qui coïncide avec la mesure objective",
+          "Parce que les individus se comparent à leurs contemporains, comparaison qui rend le déclassement objectif impossible à mesurer",
+          "Parce que le sentiment de déclassement traduit toujours un déclassement intergénérationnel effectif"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la mobilité descendante existe-t-elle nécessairement dans une société ?",
+      "verso": "Parce que le nombre de positions élevées est limité : si des individus d'origine modeste y accèdent, d'autres issus de ces positions doivent en descendre",
+      "explanation": "La mobilité ascendante et la mobilité descendante sont donc mécaniquement liées lorsque la structure des emplois cesse de se transformer. Cela explique que l'ouverture sociale puisse être vécue comme une menace par les catégories les mieux dotées.",
+      "tags": [
+        "mobilité",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que certains individus refusent de travailler",
+          "Parce que les entreprises licencient régulièrement",
+          "Parce que les diplômes se dévaluent"
+        ],
+        "medium": [
+          "Parce que la mobilité ascendante et descendante sont indépendantes l'une de l'autre",
+          "Parce que les positions élevées sont en nombre illimité",
+          "Parce que la structure des emplois se transforme sans cesse"
+        ],
+        "hard": [
+          "Parce que les positions élevées sont limitées, contrainte qui disparaît lorsque la structure des emplois se transforme rapidement",
+          "Parce que les positions élevées sont limitées, ce qui rend impossible toute mobilité ascendante",
+          "Parce que la mobilité descendante compense exactement la mobilité ascendante à chaque génération"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi les tables de mobilité sous-estiment-elles l'immobilité sociale ?",
+      "verso": "Parce que le nombre limité de catégories regroupe des positions très différentes, si bien que des changements réels ne sont pas enregistrés et que des changements enregistrés sont mineurs",
+      "explanation": "Un fils de cadre supérieur devenu cadre modeste reste dans la même case, alors que sa trajectoire est descendante. Toute lecture de table doit donc s'accompagner d'une remarque sur la finesse de la nomenclature employée.",
+      "tags": [
+        "tables",
+        "limites"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les tables comportent trop de catégories",
+          "Parce que les données sont recueillies trop souvent",
+          "Parce que les tables portent sur des effectifs trop importants"
+        ],
+        "medium": [
+          "Parce que les tables ne portent que sur les hommes",
+          "Parce que les tables mesurent le revenu et non la position sociale",
+          "Parce que les tables surestiment systématiquement la mobilité descendante"
+        ],
+        "hard": [
+          "Parce que le nombre limité de catégories regroupe des positions différentes, limite qui conduit à surestimer l'immobilité",
+          "Parce que le nombre de catégories est trop fin, ce qui enregistre comme mobilité des changements insignifiants",
+          "Parce que les catégories retenues sont trop homogènes pour laisser apparaître une quelconque mobilité"
+        ]
+      }
+    },
+    {
+      "recto": "Que signifie l'expression reproduction sociale ?",
+      "verso": "La tendance des individus à occuper une position sociale proche de celle de leurs parents, d'une génération à l'autre",
+      "explanation": "Elle se lit sur la diagonale des tables et dans la persistance de fortes différences de chances selon l'origine. Elle n'exclut pas des trajectoires individuelles très mobiles, qui restent minoritaires par rapport à la tendance d'ensemble.",
+      "tags": [
+        "reproduction",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Le renouvellement des générations par la natalité",
+          "La transmission du nom de famille entre générations",
+          "La reproduction des mêmes emplois d'une année sur l'autre"
+        ],
+        "medium": [
+          "L'obligation légale d'exercer le métier de ses parents",
+          "L'impossibilité pour un individu de changer de position sociale",
+          "La reconstitution à l'identique de la structure des emplois"
+        ],
+        "hard": [
+          "La tendance à occuper une position proche de celle des parents, tendance qui interdit toute trajectoire individuelle mobile",
+          "La tendance à occuper une position proche de celle des parents, qui se lit hors de la diagonale des tables",
+          "La tendance à occuper la même position que ses parents, phénomène limité aux catégories les plus favorisées"
+        ]
+      }
+    },
+    {
+      "recto": "Comment la reproduction sociale se manifeste-t-elle différemment en haut et en bas de la structure sociale ?",
+      "verso": "Elle est particulièrement forte aux deux extrémités, les enfants de cadres accédant très souvent à des positions élevées et les enfants d'ouvriers restant fréquemment dans les catégories populaires",
+      "explanation": "Les catégories intermédiaires connaissent au contraire une mobilité plus importante dans les deux sens. Ce contraste entre extrémités fermées et milieu ouvert est un résultat classique des tables de mobilité.",
+      "tags": [
+        "reproduction",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle est identique dans toutes les catégories sociales",
+          "Elle ne concerne que les catégories les plus riches",
+          "Elle ne concerne que les catégories les plus pauvres"
+        ],
+        "medium": [
+          "Elle est plus forte dans les catégories intermédiaires que dans les extrêmes",
+          "Elle est forte en haut et faible en bas de la structure sociale",
+          "Elle est faible en haut et forte en bas de la structure sociale"
+        ],
+        "hard": [
+          "Elle est forte aux deux extrémités, les catégories intermédiaires connaissant une mobilité exclusivement ascendante",
+          "Elle est forte aux deux extrémités, résultat qui ne se vérifie que dans les tables de recrutement",
+          "Elle est forte aux deux extrémités, contraste qui a disparu avec la massification scolaire"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la fluidité sociale a-t-elle peu progressé en France malgré la massification scolaire ?",
+      "verso": "Parce que les inégalités de réussite et d'orientation selon l'origine sociale se sont maintenues en se déplaçant vers des niveaux d'études plus élevés",
+      "explanation": "L'élargissement de l'accès aux diplômes a profité à tous les groupes sans réduire les écarts relatifs entre eux. C'est le point de jonction direct entre le chapitre sur l'école et celui sur la mobilité.",
+      "tags": [
+        "fluidité",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que la massification scolaire n'a pas eu lieu",
+          "Parce que les diplômes ne servent à rien",
+          "Parce que les élèves travaillent moins qu'avant"
+        ],
+        "medium": [
+          "Parce que seuls les milieux favorisés ont accédé aux diplômes",
+          "Parce que la structure des emplois a cessé d'évoluer",
+          "Parce que la fluidité sociale a en réalité fortement progressé"
+        ],
+        "hard": [
+          "Parce que les inégalités scolaires se sont maintenues, ce qui prouve que la massification n'a bénéficié qu'aux plus favorisés",
+          "Parce que les inégalités se sont déplacées vers des niveaux plus élevés, déplacement qui a réduit les écarts relatifs",
+          "Parce que la massification a réduit les inégalités scolaires, sans effet sur la fluidité en raison de la dévaluation des diplômes"
+        ]
+      }
+    },
+    {
+      "recto": "Quels effets la mobilité sociale ascendante peut-elle avoir sur les individus qui la vivent ?",
+      "verso": "Une amélioration de la position et des ressources, mais aussi parfois un sentiment de décalage vis-à-vis du milieu d'origine comme du milieu d'arrivée",
+      "explanation": "Ce vécu ambivalent, souvent décrit par les sociologues comme un tiraillement entre deux mondes, montre que la mobilité n'est pas seulement un gain. Il rappelle que la position sociale engage des manières de vivre et pas seulement des revenus.",
+      "tags": [
+        "effets",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Uniquement une amélioration du revenu, sans autre effet",
+          "Uniquement une perte de repères, sans aucun gain",
+          "Aucun effet particulier sur les individus"
+        ],
+        "medium": [
+          "Une amélioration de la position, accompagnée d'une intégration immédiate au nouveau milieu",
+          "Une amélioration de la position, sans jamais de décalage avec le milieu d'origine",
+          "Une dégradation systématique des relations professionnelles"
+        ],
+        "hard": [
+          "Une amélioration des ressources et un sentiment de décalage, ce dernier ne concernant que le milieu d'origine",
+          "Une amélioration des ressources et un décalage, vécu limité aux individus issus des catégories les plus modestes",
+          "Une amélioration des ressources et un décalage, ce qui montre que la position sociale se réduit au niveau de revenu"
+        ]
+      }
+    },
+    {
+      "recto": "Comment lit-on correctement un chiffre extrait d'une table de destinée ?",
+      "verso": "En précisant l'origine sociale considérée, la position atteinte et la formule sur cent fils de telle catégorie, tant occupent telle position",
+      "explanation": "L'oubli de l'origine transforme la phrase en lecture de table de recrutement, donc en contresens. Cette rigueur de formulation est explicitement attendue dans les épreuves.",
+      "tags": [
+        "méthode",
+        "tables"
+      ],
+      "distractors": {
+        "easy": [
+          "En donnant simplement le nombre lu dans la case",
+          "En comparant ce chiffre à celui de la case voisine",
+          "En calculant la moyenne de la ligne"
+        ],
+        "medium": [
+          "En précisant la position atteinte uniquement, sans mentionner l'origine",
+          "En formulant sur cent individus occupant telle position, tant ont un père de telle catégorie",
+          "En exprimant le chiffre en effectifs plutôt qu'en pourcentages"
+        ],
+        "hard": [
+          "En précisant l'origine et la position atteinte, avec la formule sur cent individus de telle position, tant ont un père de telle catégorie",
+          "En précisant l'origine et la position, formulation qui vaut indifféremment pour les deux types de tables",
+          "En précisant l'origine sociale et la position atteinte, sans avoir à rapporter le chiffre à une base de cent"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi faut-il croiser mobilité observée et fluidité sociale dans une démonstration ?",
+      "verso": "Parce que la première décrit l'ampleur des mouvements effectivement constatés et la seconde le poids réel de l'origine sociale, deux questions distinctes qui appellent chacune leurs indicateurs",
+      "explanation": "Une société peut connaître beaucoup de mobilité tout en restant peu fluide, ce qui est précisément le cas français. Ne mobiliser qu'un seul des deux indicateurs conduit à une conclusion incomplète, voire fausse.",
+      "tags": [
+        "méthode",
+        "raisonnement"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les deux mesures donnent toujours le même résultat",
+          "Parce que la fluidité sociale est impossible à mesurer",
+          "Parce que la mobilité observée est plus fiable"
+        ],
+        "medium": [
+          "Parce que la mobilité observée mesure le poids de l'origine et la fluidité l'ampleur des mouvements",
+          "Parce que la fluidité sociale se déduit directement du taux de mobilité observée",
+          "Parce qu'une société très mobile est nécessairement très fluide"
+        ],
+        "hard": [
+          "Parce que les deux indicateurs répondent à des questions distinctes, distinction qui n'a pas d'incidence dans le cas français",
+          "Parce que la mobilité observée décrit les mouvements et la fluidité le poids de l'origine, cette dernière étant mesurée sans neutraliser la structure",
+          "Parce que la mobilité observée et la fluidité varient toujours dans le même sens au cours du temps"
+        ]
+      }
+    }
+  ]
+}

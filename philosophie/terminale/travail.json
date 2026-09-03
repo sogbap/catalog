@@ -1,0 +1,536 @@
+{
+  "id": "philosophie-terminale-travail",
+  "title": "Le travail",
+  "emoji": "🛠️",
+  "subject": "philosophy",
+  "country": "fr",
+  "courseDescription": "Philosophie · Terminale — le travail : nécessité et formation de soi, division du travail et aliénation, emploi et reconnaissance, sens et avenir du travail.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Le travail</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale (voie générale et technologique)<br>\n  <b>Thème&nbsp;:</b> Philosophie — L'existence humaine et la culture<br>\n  <b>Notion</b> · environ 4 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> Le travail est-il ce qui nous prend notre vie&nbsp;— ou ce qui nous permet d'en faire quelque chose&nbsp;?</p></blockquote>\n\n<p>Le mot porte encore la trace de son origine&nbsp;: le <em>tripalium</em> était un instrument de torture. Le travail a longtemps été une peine réservée à ceux qui n'étaient pas libres. Nos sociétés en ont fait l'inverse&nbsp;: une valeur centrale, un devoir, une source d'identité, au point qu'en être privé blesse davantage que la seule perte de revenu. Ces deux images ne sont pas contradictoires&nbsp;— elles décrivent deux faces du même phénomène. Le problème n'est donc pas de choisir entre elles, mais de comprendre <strong>à quelles conditions</strong> une activité contrainte par la nécessité peut aussi former celui qui l'exerce.</p>\n\n<h2>1 · Définir le travail</h2>\n\n<p>Le travail est une activité par laquelle l'homme <strong>transforme la nature en vue d'une fin</strong>, au prix d'un effort et selon un <strong>projet conçu à l'avance</strong>. C'est cette dernière clause que Marx souligne&nbsp;: le plus mauvais architecte se distingue de la meilleure abeille en ce qu'il a bâti l'édifice dans sa tête avant de le réaliser dans la cire.</p>\n\n<h3>Travail et emploi</h3>\n\n<p>La distinction la plus lourde de conséquences. Le <strong>travail</strong> est une activité de transformation&nbsp;; l'<strong>emploi</strong> est un statut juridique et rémunéré, une forme historique parmi d'autres. Élever un enfant, cultiver son jardin, écrire un livre non publié sont des travaux sans être des emplois.</p>\n\n<p>Confondre les deux a deux effets&nbsp;: cela conduit à dire qu'un chômeur «&nbsp;ne travaille pas&nbsp;», et cela fait disparaître tout ce qui n'est pas salarié — au premier rang duquel le travail domestique.</p>\n\n<h3>La distinction d'Arendt</h3>\n\n<p>Hannah Arendt affine encore, en séparant deux régimes d'activité productive.</p>\n\n<ul>\n  <li>Le <strong>travail</strong> (au sens du <em>labeur</em>) produit des biens consommés dans le cycle de la vie&nbsp;: faire un repas, entretenir un lieu. Le produit disparaît dans sa consommation, le geste doit recommencer.</li>\n  <li>L'<strong>œuvre</strong> fabrique des objets <em>durables</em> qui constituent un monde commun&nbsp;: une table, une maison, un livre subsistent et forment le décor stable d'une existence humaine.</li>\n</ul>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 180\" role=\"img\" aria-label=\"Comparaison entre le labeur, qui produit des biens consommés dans un cycle qui doit recommencer, et l'œuvre, qui fabrique des objets durables constituant un monde commun qui survit à ceux qui l'ont fait\">\n    <defs>\n      <marker id=\"ar-phtv1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n    <text x=\"8\" y=\"14\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Le labeur</text>\n    <rect x=\"8\" y=\"22\" width=\"94\" height=\"30\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"55\" y=\"41\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">produire</text>\n    <path d=\"M106,37 L130,37\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-phtv1)\"/>\n    <rect x=\"134\" y=\"22\" width=\"94\" height=\"30\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"181\" y=\"41\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">consommer</text>\n    <path d=\"M228,44 L262,44 L262,62 L46,62 L46,54\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-phtv1)\"/>\n    <text x=\"290\" y=\"41\" font-size=\"9\" class=\"s-muted\">rien ne reste</text>\n    <text x=\"8\" y=\"80\" font-size=\"9\" class=\"s-muted\">le cycle doit recommencer</text>\n    <line x1=\"8\" y1=\"92\" x2=\"332\" y2=\"92\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"114\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">L'œuvre</text>\n    <rect x=\"8\" y=\"122\" width=\"94\" height=\"30\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"55\" y=\"141\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">fabriquer</text>\n    <path d=\"M106,137 L130,137\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-phtv1)\"/>\n    <rect x=\"134\" y=\"122\" width=\"94\" height=\"30\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"181\" y=\"141\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">objet durable</text>\n    <path d=\"M232,137 L256,137\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-phtv1)\"/>\n    <rect x=\"260\" y=\"122\" width=\"74\" height=\"30\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"297\" y=\"141\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">un monde</text>\n    <text x=\"8\" y=\"172\" font-size=\"9\" class=\"s-muted\">ce qui survit à ceux qui l'ont fait</text>\n  </svg>\n  <figcaption>Une même journée de travail peut relever des deux régimes&nbsp;: ce qui s'efface et ce qui demeure ne pèsent pas de la même façon.</figcaption>\n</figure>\n\n<h2>2 · Une inversion historique</h2>\n\n<p>La tradition biblique présente le travail comme une <strong>peine consécutive à la faute</strong>&nbsp;: l'homme gagnera son pain à la sueur de son front. Chez les Grecs, l'homme libre se définit par son <em>exemption</em> du travail&nbsp;: il se consacre à la politique et à la contemplation, tandis que la nécessité est laissée aux esclaves.</p>\n\n<p>L'époque moderne renverse complètement cette échelle. L'éthique protestante en fait une vocation, la société industrielle en fait le cœur de l'organisation sociale, et la citoyenneté sociale s'y adosse&nbsp;: droits, retraite, protection dérivent du travail. Cette <strong>inversion</strong> explique que le travail structure aujourd'hui les identités.</p>\n\n<h3>Hegel&nbsp;: le travail forme la conscience</h3>\n\n<p>Un argument décisif contre la seule vision de la peine. En transformant la matière, le travailleur y <strong>imprime sa marque</strong> et se reconnaît dans un résultat extérieur qui lui renvoie ce qu'il vaut. C'est le sens de la dialectique du maître et du serviteur&nbsp;: celui qui jouit sans travailler reste dépendant des choses et de celui qui les lui procure, tandis que le travailleur acquiert une maîtrise réelle.</p>\n\n<p>Le travail devient ainsi <strong>formateur</strong> et non seulement productif&nbsp;: il développe des capacités, il apprend la patience de la matière, il donne une prise sur le monde.</p>\n\n<h2>3 · La division du travail et ses effets</h2>\n\n<p><strong>Adam Smith</strong> décrit le gain d'efficacité&nbsp;: dans la manufacture d'épingles, dix ouvriers spécialisés produisent infiniment plus que dix ouvriers isolés réalisant chacun l'épingle entière. Chaque opération est répétée, donc perfectionnée. Smith lui-même signale pourtant le coût&nbsp;: l'homme qui répète deux ou trois gestes toute sa vie perd l'exercice de son intelligence.</p>\n\n<h3>Marx&nbsp;: les figures de l'aliénation</h3>\n\n<p>Marx systématise cette critique. Le travailleur est séparé&nbsp;:</p>\n\n<ul>\n  <li>du <strong>produit</strong>, qui ne lui appartient pas et lui fait face comme une puissance étrangère&nbsp;;</li>\n  <li>de son <strong>activité</strong>, qu'il ne dirige pas&nbsp;;</li>\n  <li>des <strong>autres</strong>, transformés en concurrents&nbsp;;</li>\n  <li>de ce qui fait sa nature d'<strong>être créateur</strong>.</li>\n</ul>\n\n<p>L'aliénation ne se réduit donc pas à la pénibilité&nbsp;: elle décrit un rapport où l'activité la plus propre à l'homme devient un moyen étranger de survivre.</p>\n\n<h3>Le taylorisme</h3>\n\n<p>Il radicalise le mouvement en séparant la <strong>conception</strong> de l'<strong>exécution</strong>&nbsp;: chaque geste est prescrit, chronométré, et le savoir-faire ouvrier est transféré au bureau des méthodes. L'ouvrier gagne parfois en salaire, mais perd la maîtrise de son métier — une dépossession plus profonde que la seule répétition.</p>\n\n<p><b>Un point important&nbsp;:</b> ces critiques ne visent pas la <em>technique</em> elle-même. C'est l'<strong>organisation</strong> qui découpe les tâches et retire la maîtrise, non la machine considérée isolément. Les mêmes machines peuvent servir des organisations qui rendent au travailleur des marges de décision. La question devient donc un choix collectif.</p>\n\n<h2>4 · Ce que le travail apporte au-delà du salaire</h2>\n\n<p><strong>Reconnaissance.</strong> En produisant quelque chose d'utile à d'autres, le travailleur obtient une place et une valeur reconnues. C'est ce qui rend le chômage douloureux au-delà de la perte de revenu&nbsp;: c'est l'inutilité ressentie qui blesse, et aucune allocation ne la compense entièrement.</p>\n\n<p><strong>Identité.</strong> Répondre à «&nbsp;qui êtes-vous&nbsp;?&nbsp;» par un métier n'est pas un hasard&nbsp;: le travail engage des compétences, une position, une durée. Cela a une contrepartie&nbsp;: une identification excessive au métier expose à tout perdre en le perdant.</p>\n\n<p><strong>Coopération.</strong> Aucun objet courant n'est produit par une seule personne. La division des tâches rend chacun dépendant du travail des autres&nbsp;: produire suppose de s'ajuster à eux. C'est pourquoi les conflits sur l'organisation du travail sont d'emblée des conflits politiques.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 180\" role=\"img\" aria-label=\"Schéma en étoile montrant ce que le travail apporte au-delà du salaire : la subsistance, la reconnaissance sociale par la contribution à autrui, la formation de capacités personnelles, et l'insertion dans une coopération avec les autres\">\n    <defs>\n      <marker id=\"ar-phtv2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n    <rect x=\"112\" y=\"72\" width=\"116\" height=\"36\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"95\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\" font-weight=\"bold\">Travailler</text>\n    <rect x=\"10\" y=\"10\" width=\"140\" height=\"32\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"80\" y=\"30\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">subsister</text>\n    <rect x=\"190\" y=\"10\" width=\"140\" height=\"32\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"260\" y=\"30\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">être reconnu utile</text>\n    <rect x=\"10\" y=\"138\" width=\"140\" height=\"32\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"80\" y=\"158\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">se former</text>\n    <rect x=\"190\" y=\"138\" width=\"140\" height=\"32\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"260\" y=\"158\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">coopérer</text>\n    <path d=\"M80,42 L134,72\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-phtv2)\"/>\n    <path d=\"M260,42 L206,72\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-phtv2)\"/>\n    <path d=\"M80,138 L134,108\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-phtv2)\"/>\n    <path d=\"M260,138 L206,108\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-phtv2)\"/>\n  </svg>\n  <figcaption>Un revenu remplace la première fonction&nbsp;; il ne remplace pas les trois autres.</figcaption>\n</figure>\n\n<h3>Travail, temps libre, loisir</h3>\n\n<p>Le <strong>temps libre</strong> est une durée soustraite au travail&nbsp;; le <strong>loisir</strong> est une activité choisie qui a sa valeur en elle-même. Un temps libre entièrement occupé à récupérer reste défini par le travail qu'il compense. Les Anciens réservaient le mot <em>skholè</em> à une activité libre — étude, discussion — qui n'était pas un repos mais une autre forme d'occupation.</p>\n\n<p>Un point de méthode&nbsp;: la <strong>maîtrise du rythme</strong> discrimine plus sûrement que la nature de la tâche. Dans le travail contraint, le temps est subi et compté par un autre&nbsp;; dans le travail choisi, on en règle la durée. Une même tâche peut être éprouvante ou satisfaisante selon qu'on la mène ou qu'on la subit.</p>\n\n<h2>5 · Débats contemporains</h2>\n\n<p>On entend souvent que le travail serait une punition dont il faudrait se libérer entièrement. L'objection est empirique&nbsp;: l'expérience du chômage de longue durée montre que la libération de la contrainte ne produit pas spontanément l'épanouissement. Ce qui est en cause n'est pas le travail en soi mais ses <strong>conditions</strong>.</p>\n\n<p>La question du <strong>sens</strong> se pose pourtant avec une acuité nouvelle&nbsp;: quand un salarié ne voit ni ce qu'il produit ni à qui cela sert, la reconnaissance par l'utilité s'effondre — et cela sans que la pénibilité physique soit en cause. Le débat porte sur la <em>lisibilité de la contribution</em>.</p>\n\n<p>C'est le contexte des propositions de <strong>revenu universel</strong>&nbsp;: la subsistance et la reconnaissance ne devraient pas dépendre entièrement de l'occupation d'un emploi rémunéré. L'objection principale ne porte pas sur le financement mais sur le reste&nbsp;: le travail fournit une <em>place sociale</em> qu'un versement ne remplace pas.</p>\n\n<div class=\"callout\">\n  <strong>Repère · Moyens / fins</strong><br>\n  Le travail est un <em>moyen</em> de subsister, mais il peut aussi valoir comme <em>fin</em>, par ce qu'il développe chez celui qui l'exerce. Une organisation qui le réduit à un pur moyen traite le travailleur comme un instrument.\n</div>\n\n<h2>L'essentiel</h2>\n\n<h3>Le fil du problème</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Frise du parcours du chapitre : la définition du travail et sa distinction d'avec l'emploi, puis l'inversion historique de sa valeur et la thèse hégélienne, puis la division du travail et l'aliénation, puis ce que le travail apporte au-delà du salaire, enfin les débats contemporains sur le sens et le revenu\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"186\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Définir</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Travail, emploi, labeur, œuvre</text>\n    <circle cx=\"26\" cy=\"62\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"59\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Une inversion</text>\n    <text x=\"44\" y=\"72\" font-size=\"10\" fill=\"currentColor\">De la peine à la valeur ; Hegel</text>\n    <circle cx=\"26\" cy=\"104\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"101\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Diviser</text>\n    <text x=\"44\" y=\"114\" font-size=\"10\" fill=\"currentColor\">Smith, Marx, taylorisme</text>\n    <circle cx=\"26\" cy=\"146\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"143\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Au-delà du salaire</text>\n    <text x=\"44\" y=\"156\" font-size=\"10\" fill=\"currentColor\">Reconnaissance, identité, coopération</text>\n    <circle cx=\"26\" cy=\"184\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"181\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Aujourd'hui</text>\n    <text x=\"44\" y=\"194\" font-size=\"10\" fill=\"currentColor\">Sens du travail, revenu universel</text>\n  </svg>\n  <figcaption>Le chapitre déplace la question&nbsp;: non pas «&nbsp;faut-il travailler&nbsp;?&nbsp;» mais «&nbsp;comment organiser le travail&nbsp;?&nbsp;»</figcaption>\n</figure>\n\n<h3>Distinctions à tenir</h3>\n\n<table>\n  <tr><th>Distinction</th><th>Ce qui se joue</th></tr>\n  <tr><td>Travail / emploi</td><td>Une activité contre un statut rémunéré</td></tr>\n  <tr><td>Labeur / œuvre</td><td>Ce qui se consomme contre ce qui demeure</td></tr>\n  <tr><td>Temps libre / loisir</td><td>Une durée soustraite contre une activité choisie</td></tr>\n  <tr><td>Technique / organisation</td><td>La machine n'est pas le découpage des tâches</td></tr>\n  <tr><td>Conception / exécution</td><td>Leur séparation est le cœur du taylorisme</td></tr>\n  <tr><td>Moyens / fins</td><td>Subsister, ou aussi se former</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition</th></tr>\n  <tr><td>Travail</td><td>Transformation de la nature selon un projet préalable</td></tr>\n  <tr><td>Emploi</td><td>Statut juridique et rémunéré d'une activité</td></tr>\n  <tr><td>Œuvre</td><td>Production d'objets durables constituant un monde commun</td></tr>\n  <tr><td>Division du travail</td><td>Spécialisation des tâches accroissant la productivité</td></tr>\n  <tr><td>Aliénation</td><td>Séparation d'avec le produit, l'activité, les autres et soi</td></tr>\n  <tr><td>Taylorisme</td><td>Séparation de la conception et de l'exécution</td></tr>\n  <tr><td>Reconnaissance</td><td>Valeur sociale obtenue par la contribution à autrui</td></tr>\n  <tr><td>Skholè</td><td>Loisir studieux des Anciens, activité libre et non repos</td></tr>\n  <tr><td>Revenu universel</td><td>Subsistance découplée de l'occupation d'un emploi</td></tr>\n</table>\n\n<h3>Les auteurs</h3>\n\n<table>\n  <tr><th>Auteur</th><th>Thèse à retenir</th></tr>\n  <tr><td>Hegel</td><td>Le travail forme la conscience de soi&nbsp;; le serviteur acquiert la maîtrise</td></tr>\n  <tr><td>Smith</td><td>La division du travail accroît la productivité, au prix de l'abrutissement</td></tr>\n  <tr><td>Marx</td><td>L'homme conçoit avant de produire&nbsp;; le travail aliéné le sépare de lui-même</td></tr>\n  <tr><td>Arendt</td><td>Distinguer le labeur, l'œuvre et l'action</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Confondre le <em>travail</em> et l'<em>emploi</em>. Le travail est une activité de transformation&nbsp;; l'emploi un statut rémunéré, forme historique parmi d'autres. Sans cette distinction, on dit d'un chômeur qu'il ne travaille pas, et le travail domestique disparaît des comptes. Deux autres confusions&nbsp;: imputer à la machine ce qui relève de l'organisation, et croire que supprimer la contrainte produirait mécaniquement l'épanouissement — l'expérience du chômage durable montre le contraire.\n</div>\n\n<blockquote><p>Le travail n'est donc ni une malédiction dont on se délivre, ni une vocation qu'il faudrait célébrer sans réserve. Il est ce par quoi la nécessité peut devenir capacité&nbsp;— à condition que son organisation le permette, ce qui n'est jamais donné d'avance.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Philosophie — L'existence humaine et la culture",
+  "cards": [
+    {
+      "recto": "Comment définir le travail par rapport à une simple activité ?",
+      "verso": "Une activité par laquelle l'homme transforme la nature en vue d'une fin, au prix d'un effort et selon un projet conçu à l'avance",
+      "explanation": "Marx souligne que le plus mauvais architecte se distingue de la meilleure abeille en ce qu'il a bâti l'édifice dans sa tête avant de le réaliser. La représentation préalable du résultat est le trait décisif.",
+      "tags": [
+        "définition",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Toute activité fatigante",
+          "Ce que l'on fait contre de l'argent",
+          "Ce que l'on fait sans plaisir"
+        ],
+        "medium": [
+          "Toute activité pratiquée en groupe",
+          "L'activité exercée dans une entreprise",
+          "Le contraire du repos et du sommeil"
+        ],
+        "hard": [
+          "Une activité instinctive perfectionnée par la répétition",
+          "Une transformation de la nature dépourvue de projet préalable",
+          "Une activité définie par sa seule pénibilité"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : le travail et l'emploi désignent-ils la même chose ?",
+      "verso": "Non : le travail est une activité de transformation, l'emploi un statut juridique et rémunéré qui n'en est qu'une forme historique",
+      "explanation": "C'est la confusion la plus lourde de conséquences. Élever un enfant, cultiver son jardin, écrire un livre non publié sont des travaux sans être des emplois. Confondre les deux revient à dire qu'un chômeur ne travaille pas, et à faire disparaître tout ce qui n'est pas salarié.",
+      "tags": [
+        "piege",
+        "distinction"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, travailler c'est avoir un emploi",
+          "Oui, sinon on ne serait pas payé",
+          "Non, le travail est plus fatigant que l'emploi"
+        ],
+        "medium": [
+          "Oui, car tout travail donne lieu à rémunération",
+          "Non, car l'emploi précède historiquement le travail",
+          "Oui, sauf pour les travailleurs indépendants"
+        ],
+        "hard": [
+          "Oui, car le statut juridique définit l'activité productive",
+          "Non, car l'emploi désigne l'activité et le travail son cadre légal",
+          "Oui, car toute activité de transformation est salariée"
+        ]
+      }
+    },
+    {
+      "recto": "Comment la tradition biblique présente-t-elle le travail ?",
+      "verso": "Comme une peine consécutive à la faute : l'homme gagnera son pain à la sueur de son front",
+      "explanation": "Cette conception fait du travail un châtiment, non une valeur. Elle explique la longue dépréciation du travail manuel dans les sociétés anciennes, où l'homme libre se consacrait à la politique et à la contemplation.",
+      "tags": [
+        "histoire",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Comme une bénédiction divine",
+          "Comme un jeu offert aux hommes",
+          "Comme une invention des rois"
+        ],
+        "medium": [
+          "Comme la vocation la plus haute de l'homme",
+          "Comme un devoir moral envers la communauté",
+          "Comme le moyen d'atteindre le salut"
+        ],
+        "hard": [
+          "Comme une activité par laquelle l'homme se réalise pleinement",
+          "Comme un privilège réservé aux hommes libres",
+          "Comme la condition de la liberté politique"
+        ]
+      }
+    },
+    {
+      "recto": "Ne pas confondre : que distingue Hannah Arendt entre le travail et l'œuvre ?",
+      "verso": "Le travail produit des biens consommés dans le cycle de la vie, l'œuvre fabrique des objets durables qui constituent un monde commun",
+      "explanation": "Faire un repas relève du premier : le produit disparaît dans sa consommation et le geste doit recommencer. Fabriquer une table relève du second : l'objet subsiste et forme un monde qui survit à ceux qui l'habitent. La distinction éclaire la différence entre la peine sans trace et la construction durable.",
+      "tags": [
+        "comparaison",
+        "Arendt"
+      ],
+      "distractors": {
+        "easy": [
+          "Le travail est payé, l'œuvre est bénévole",
+          "Le travail est manuel, l'œuvre est intellectuelle",
+          "Le travail est collectif, l'œuvre est solitaire"
+        ],
+        "medium": [
+          "L'œuvre produit des biens consommables, le travail des objets durables",
+          "Le travail est artistique, l'œuvre est industrielle",
+          "Le travail concerne la nature, l'œuvre la société"
+        ],
+        "hard": [
+          "Le travail fabrique un monde commun que l'œuvre consomme",
+          "La distinction repose uniquement sur la pénibilité de l'activité",
+          "L'œuvre désigne l'action politique et le travail la fabrication"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi le travail forme-t-il la conscience de soi selon Hegel ?",
+      "verso": "En transformant la matière, le travailleur y imprime sa marque et se reconnaît dans un résultat extérieur qui lui renvoie ce qu'il vaut",
+      "explanation": "C'est le sens de la dialectique du maître et du serviteur : celui qui jouit sans travailler reste dépendant des choses, tandis que celui qui travaille acquiert une maîtrise réelle. Le travail devient formateur, non seulement productif.",
+      "tags": [
+        "auteur",
+        "Hegel"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'il fatigue et rend humble",
+          "Parce qu'il rapporte de l'argent",
+          "Parce qu'il occupe le temps"
+        ],
+        "medium": [
+          "Parce qu'il permet de rencontrer d'autres personnes",
+          "Parce qu'il obéit aux ordres reçus",
+          "Parce qu'il fait oublier ses problèmes"
+        ],
+        "hard": [
+          "Parce que celui qui jouit sans travailler acquiert la maîtrise véritable",
+          "Parce que le travail supprime le rapport aux choses",
+          "Parce que le travailleur reste dépendant de la matière qu'il transforme"
+        ]
+      }
+    },
+    {
+      "recto": "Quel avantage Adam Smith attribue-t-il à la division du travail ?",
+      "verso": "Une augmentation considérable de la productivité, chaque opération étant spécialisée, répétée et perfectionnée",
+      "explanation": "L'exemple de la manufacture d'épingles est célèbre : dix ouvriers spécialisés produisent infiniment plus que dix ouvriers isolés réalisant chacun l'épingle entière. L'efficacité est réelle, mais elle a un coût que Smith lui-même signale : l'abrutissement des tâches répétées.",
+      "tags": [
+        "économie",
+        "Smith"
+      ],
+      "distractors": {
+        "easy": [
+          "Une réduction du temps de travail",
+          "Une augmentation des salaires",
+          "Une meilleure ambiance dans l'atelier"
+        ],
+        "medium": [
+          "Une plus grande polyvalence des ouvriers",
+          "Une amélioration de la qualité de chaque produit",
+          "Une plus grande autonomie des travailleurs"
+        ],
+        "hard": [
+          "Une augmentation de la productivité sans aucun coût humain",
+          "Une diminution de la spécialisation des tâches",
+          "Un enrichissement du contenu de chaque poste"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles formes l'aliénation du travailleur prend-elle chez Marx ?",
+      "verso": "Le travailleur est séparé du produit qui ne lui appartient pas, de son activité qu'il ne dirige pas, des autres et de ce qui fait sa nature d'être créateur",
+      "explanation": "L'aliénation ne se réduit donc pas à la pénibilité : elle décrit un rapport où l'activité la plus propre à l'homme devient un moyen étranger de survivre. Le travail cesse d'être un besoin pour devenir une contrainte extérieure.",
+      "tags": [
+        "auteur",
+        "Marx"
+      ],
+      "distractors": {
+        "easy": [
+          "Un salaire trop faible et des horaires longs",
+          "Un manque de vacances",
+          "Un mauvais climat social"
+        ],
+        "medium": [
+          "Une absence de formation professionnelle",
+          "Un défaut d'équipement des ateliers",
+          "Un manque de reconnaissance de la hiérarchie"
+        ],
+        "hard": [
+          "Une séparation d'avec le produit compensée par la rémunération",
+          "Une perte de compétence sans conséquence sur le rapport à soi",
+          "Une contrainte purement juridique liée au contrat de travail"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi le taylorisme radicalise-t-il la division du travail ?",
+      "verso": "Il sépare la conception de l'exécution, prescrit chaque geste et son temps, et retire à l'ouvrier tout savoir sur l'ensemble du processus",
+      "explanation": "Le savoir-faire ouvrier est transféré au bureau des méthodes. L'ouvrier gagne parfois en salaire, mais perd la maîtrise de son métier, ce qui rend la dépossession plus profonde que la seule répétition des gestes.",
+      "tags": [
+        "histoire",
+        "organisation"
+      ],
+      "distractors": {
+        "easy": [
+          "Il augmente la durée des journées de travail",
+          "Il supprime les pauses",
+          "Il interdit les syndicats"
+        ],
+        "medium": [
+          "Il confie la conception aux ouvriers eux-mêmes",
+          "Il élargit les tâches de chaque poste",
+          "Il remplace les machines par des outils manuels"
+        ],
+        "hard": [
+          "Il réunit la conception et l'exécution dans un même poste",
+          "Il transfère le savoir des méthodes vers l'atelier",
+          "Il augmente l'autonomie du travailleur sur le rythme"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi le travail est-il aussi une source de reconnaissance sociale ?",
+      "verso": "Parce qu'en produisant quelque chose d'utile à d'autres, le travailleur obtient une place et une valeur reconnues dans la société",
+      "explanation": "C'est ce qui rend le chômage douloureux au-delà de la perte de revenu : c'est l'inutilité ressentie qui blesse. La reconnaissance passe par la contribution, ce qu'aucune allocation ne remplace entièrement.",
+      "tags": [
+        "reconnaissance",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que le salaire permet d'acheter des choses",
+          "Parce que les collègues sont sympathiques",
+          "Parce que travailler est bien vu"
+        ],
+        "medium": [
+          "Parce que la société impose de travailler",
+          "Parce que le travail donne un titre professionnel",
+          "Parce que la loi protège les travailleurs"
+        ],
+        "hard": [
+          "Parce que la reconnaissance découle du seul niveau de rémunération",
+          "Parce que la contribution à autrui est indifférente à l'estime de soi",
+          "Parce que le statut social précède toute activité productive"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi le travail participe-t-il à la construction de l'identité personnelle ?",
+      "verso": "Parce qu'il engage des compétences, une position et une durée qui donnent au sujet une réponse concrète à la question de ce qu'il est",
+      "explanation": "Répondre à la question qui êtes-vous par un métier n'est pas un hasard : le travail inscrit dans une histoire et dans un collectif. C'est aussi ce qui rend l'identification excessive au métier risquée, car elle expose à tout perdre en le perdant.",
+      "tags": [
+        "identité",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'on porte un uniforme",
+          "Parce qu'on a des horaires réguliers",
+          "Parce qu'on gagne de l'argent"
+        ],
+        "medium": [
+          "Parce que l'identité se réduit entièrement au métier exercé",
+          "Parce que le travail remplace la vie privée",
+          "Parce que le travail est imposé par la famille"
+        ],
+        "hard": [
+          "Parce que l'identité personnelle est indépendante de toute activité",
+          "Parce que les compétences acquises n'engagent pas le rapport à soi",
+          "Parce que la position professionnelle est sans effet sur la durée d'une vie"
+        ]
+      }
+    },
+    {
+      "recto": "Que distingue-t-on entre le loisir et le simple temps libre ?",
+      "verso": "Le temps libre est une durée soustraite au travail, le loisir une activité choisie qui a sa valeur en elle-même",
+      "explanation": "Un temps libre entièrement occupé à récupérer reste défini par le travail qu'il compense. Les Anciens réservaient le mot skholè à une activité libre — étude, discussion — qui n'était pas un repos mais une autre forme d'occupation.",
+      "tags": [
+        "distinction",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le loisir est payant, le temps libre est gratuit",
+          "Le loisir dure plus longtemps",
+          "Ce sont deux mots pour la même chose"
+        ],
+        "medium": [
+          "Le temps libre est choisi, le loisir est imposé",
+          "Le loisir concerne les vacances, le temps libre les soirées",
+          "Le temps libre est une activité, le loisir une durée"
+        ],
+        "hard": [
+          "Le loisir se définit par l'absence de toute activité",
+          "Le temps libre a sa valeur en lui-même indépendamment du travail",
+          "Le loisir est un repos destiné à restaurer la force de travail"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la valorisation moderne du travail constitue-t-elle une rupture historique ?",
+      "verso": "Parce que le travail, longtemps réservé aux esclaves et méprisé, devient une valeur centrale et un devoir social",
+      "explanation": "Chez les Grecs, l'homme libre se définissait par l'exemption du travail ; l'éthique protestante puis la société industrielle en font au contraire une vocation. Cette inversion explique que le travail structure aujourd'hui les identités et les droits sociaux.",
+      "tags": [
+        "histoire",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'on travaille plus longtemps qu'avant",
+          "Parce que les machines sont apparues",
+          "Parce que les salaires ont augmenté"
+        ],
+        "medium": [
+          "Parce que le travail était valorisé chez les Grecs comme aujourd'hui",
+          "Parce que la religion a toujours prescrit le travail",
+          "Parce que le travail est devenu moins pénible"
+        ],
+        "hard": [
+          "Parce que l'homme libre antique se définissait par son activité productive",
+          "Parce que la valorisation du travail est constante dans toutes les sociétés",
+          "Parce que le mépris du travail manuel est une invention moderne"
+        ]
+      }
+    },
+    {
+      "recto": "Que reproche-t-on à l'idée selon laquelle le travail serait une punition dont il faudrait se libérer entièrement ?",
+      "verso": "Qu'elle méconnaît que l'activité productive développe des capacités et procure une satisfaction que la seule oisiveté ne fournit pas",
+      "explanation": "L'expérience du chômage de longue durée le confirme : la libération de la contrainte ne produit pas spontanément l'épanouissement. Ce qui est en cause n'est pas le travail en soi mais ses conditions.",
+      "tags": [
+        "débat",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Que l'oisiveté est interdite par la loi",
+          "Que sans travail on s'ennuie",
+          "Que le travail est agréable"
+        ],
+        "medium": [
+          "Que la libération du travail est techniquement impossible",
+          "Que le repos suffit à développer les capacités humaines",
+          "Que l'oisiveté est le but de toute existence"
+        ],
+        "hard": [
+          "Que la suppression de la contrainte produit mécaniquement l'épanouissement",
+          "Que ce sont les conditions du travail et non le travail qui font problème",
+          "Que l'activité productive n'engage aucune capacité personnelle"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi une organisation qui réduit le travail à un pur moyen manque-t-elle quelque chose d'essentiel ?",
+      "verso": "Elle traite le travailleur comme un instrument, alors que son activité vaut aussi comme fin par les capacités qu'elle développe en lui",
+      "explanation": "Le travail est bien un moyen de subsister, mais il n'est pas que cela. C'est le repère moyens et fins qui permet de formuler ce reproche sans nier la nécessité économique : on peut admettre l'utilité d'une organisation et lui reprocher de ne voir que des instruments.",
+      "tags": [
+        "repère",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle ne paie pas assez ses employés",
+          "Elle ne respecte pas les horaires légaux",
+          "Elle ne fournit pas de bons outils"
+        ],
+        "medium": [
+          "Elle empêche l'entreprise d'être rentable",
+          "Elle contredit les lois du marché",
+          "Elle néglige la formation professionnelle continue"
+        ],
+        "hard": [
+          "Elle confond la fin poursuivie avec la valeur de l'activité",
+          "Elle traite le travail comme une fin alors qu'il n'est qu'un moyen",
+          "Elle suppose à tort que le travail développe des capacités"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la question du sens du travail se pose-t-elle avec une acuité nouvelle aujourd'hui ?",
+      "verso": "Parce que la contribution réelle de certaines activités devient difficile à percevoir, alors même que l'engagement demandé s'intensifie",
+      "explanation": "Quand un salarié ne voit ni ce qu'il produit ni à qui cela sert, la reconnaissance par l'utilité s'effondre. Le débat contemporain porte moins sur la pénibilité que sur cette perte de lisibilité de la contribution.",
+      "tags": [
+        "contemporain",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les gens sont paresseux",
+          "Parce que les salaires sont bas",
+          "Parce qu'il y a trop de réunions"
+        ],
+        "medium": [
+          "Parce que le travail est physiquement plus pénible qu'autrefois",
+          "Parce que la durée du travail a augmenté",
+          "Parce que les métiers manuels ont disparu"
+        ],
+        "hard": [
+          "Parce que la lisibilité de la contribution s'est renforcée",
+          "Parce que l'intensification du travail réduit l'engagement demandé",
+          "Parce que la pénibilité physique explique seule la crise du sens"
+        ]
+      }
+    },
+    {
+      "recto": "Quel argument soutient les propositions de revenu universel dans le débat sur le travail ?",
+      "verso": "Que la reconnaissance et la subsistance ne devraient pas dépendre entièrement de l'occupation d'un emploi rémunéré",
+      "explanation": "L'objection principale est que le travail ne fournit pas seulement un revenu mais une place sociale, qu'un versement ne remplace pas. Le débat porte donc sur ce que le travail apporte au-delà du salaire.",
+      "tags": [
+        "contemporain",
+        "débat"
+      ],
+      "distractors": {
+        "easy": [
+          "Que l'argent doit être distribué également",
+          "Que le travail doit être interdit",
+          "Que les impôts sont trop élevés"
+        ],
+        "medium": [
+          "Que tous les emplois se valent",
+          "Que le travail salarié doit être obligatoire",
+          "Que la reconnaissance sociale est sans importance"
+        ],
+        "hard": [
+          "Que le versement d'un revenu remplace intégralement la place sociale",
+          "Que la subsistance doit rester conditionnée à l'emploi",
+          "Que le travail n'apporte rien au-delà de la rémunération"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la coopération est-elle constitutive du travail et non un simple accompagnement ?",
+      "verso": "Parce que la division des tâches rend chacun dépendant du travail des autres, de sorte que produire suppose de s'ajuster à eux",
+      "explanation": "Aucun objet courant n'est produit par une seule personne. Cette interdépendance donne au travail une dimension sociale immédiate, qui explique aussi pourquoi les conflits sur son organisation sont des conflits politiques.",
+      "tags": [
+        "société",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'on travaille mieux à plusieurs",
+          "Parce que les entreprises sont grandes",
+          "Parce que les collègues aident"
+        ],
+        "medium": [
+          "Parce que la loi impose le travail en équipe",
+          "Parce que la coopération augmente les salaires",
+          "Parce que travailler seul est interdit"
+        ],
+        "hard": [
+          "Parce que la division des tâches rend chacun indépendant des autres",
+          "Parce que la coopération relève d'un choix ajouté à l'activité",
+          "Parce que l'interdépendance est sans effet sur l'organisation du travail"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi le rapport au temps distingue-t-il le travail contraint du travail choisi ?",
+      "verso": "Dans le travail contraint, le temps est subi et compté par un autre, alors que le travail choisi permet d'en régler le rythme et la durée",
+      "explanation": "C'est pourquoi une même tâche peut être éprouvante ou satisfaisante selon qu'on la mène ou qu'on la subit. La maîtrise du rythme est un critère plus discriminant que la nature de la tâche elle-même.",
+      "tags": [
+        "temps",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le travail choisi dure moins longtemps",
+          "Le travail contraint est plus fatigant",
+          "Le travail choisi rapporte davantage"
+        ],
+        "medium": [
+          "Le travail contraint permet de régler son rythme",
+          "La nature de la tâche détermine seule la satisfaction",
+          "Le travail choisi ne comporte aucune contrainte de temps"
+        ],
+        "hard": [
+          "La maîtrise du rythme est indifférente à l'expérience du travail",
+          "Le travail contraint se définit par la seule pénibilité physique",
+          "Le temps du travail choisi est compté par un autre"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi les critiques du travail aliéné ne visent-elles pas nécessairement la technique elle-même ?",
+      "verso": "Parce que c'est l'organisation qui découpe les tâches et retire la maîtrise, non la machine considérée isolément",
+      "explanation": "Les mêmes machines peuvent être employées dans des organisations qui rendent au travailleur des marges de décision. Cela déplace la question vers un choix collectif : ce qui est en cause est ce que l'on fait des moyens disponibles.",
+      "tags": [
+        "technique",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les machines sont utiles",
+          "Parce que la technique est neutre en tout",
+          "Parce que les machines coûtent cher"
+        ],
+        "medium": [
+          "Parce que la machine détermine entièrement l'organisation",
+          "Parce que la technique ne concerne pas le travail",
+          "Parce que l'organisation découle mécaniquement de l'outil employé"
+        ],
+        "hard": [
+          "Parce que les mêmes machines produisent nécessairement la même organisation",
+          "Parce que l'aliénation tient à la nature de la machine et non à son usage",
+          "Parce que le choix collectif ne joue aucun rôle dans l'organisation productive"
+        ]
+      }
+    },
+    {
+      "recto": "Quel bilan peut-on dresser sur le travail ?",
+      "verso": "Il est à la fois une contrainte imposée par la nécessité et une activité par laquelle l'homme se forme et prend place parmi les autres",
+      "explanation": "Le voir seulement comme une peine conduit à espérer une libération qui laisse un vide ; le célébrer sans réserve revient à justifier des conditions inacceptables. La question pertinente porte donc sur son organisation.",
+      "tags": [
+        "synthèse",
+        "bilan"
+      ],
+      "distractors": {
+        "easy": [
+          "C'est une punition dont il faut se libérer",
+          "C'est le but de l'existence humaine",
+          "C'est un simple moyen de gagner de l'argent"
+        ],
+        "medium": [
+          "Il se réduit à l'occupation d'un emploi rémunéré",
+          "Il est aliénant par nature en toute circonstance",
+          "Il n'a aucun rapport avec l'identité personnelle"
+        ],
+        "hard": [
+          "Sa valeur est indépendante de ses conditions d'exercice",
+          "Il constitue une fin en soi que ses conditions ne peuvent altérer",
+          "Sa suppression produirait mécaniquement l'épanouissement de chacun"
+        ]
+      }
+    }
+  ]
+}

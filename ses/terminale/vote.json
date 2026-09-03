@@ -1,0 +1,640 @@
+{
+  "id": "ses-terminale-vote",
+  "title": "Voter : une affaire individuelle ou collective ?",
+  "emoji": "🗳️",
+  "subject": "ses",
+  "country": "fr",
+  "courseDescription": "Spé SES · Terminale — le vote comme acte individuel et collectif, variables lourdes et socialisation politique, abstention et volatilité, vote sur enjeux et individualisation.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Voter&nbsp;: une affaire individuelle ou collective&nbsp;?</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · spécialité SES<br>\n  <b>Thème&nbsp;:</b> Sociologie et science politique — chapitre 4<br>\n  <b>Chapitre</b> · environ 3 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> Un geste secret et personnel peut-il être socialement prévisible&nbsp;?</p></blockquote>\n\n<p>Rien de plus individuel qu'un bulletin glissé seul dans une urne. Rien de plus régulier, pourtant, que les écarts de vote entre catégories sociales, générations ou territoires, d'un scrutin à l'autre. Le titre du chapitre pose une alternative&nbsp;— et la réponse attendue n'est ni l'un ni l'autre terme, mais leur <strong>articulation</strong>&nbsp;: les appartenances sociales délimitent un <em>espace de choix probables</em>, à l'intérieur duquel l'électeur tranche selon les enjeux et l'offre du moment. Reste à voir comment cet espace s'est déformé depuis quarante ans, et pourquoi une partie croissante des électeurs choisit de ne pas trancher du tout.</p>\n\n<h2>1 · Le vote, acte encadré</h2>\n\n<p>Le <strong>suffrage universel</strong> — droit de vote reconnu à l'ensemble des citoyens, sans condition de fortune, de capacité ni de sexe — s'est construit par étapes&nbsp;: fin du suffrage censitaire, vote des femmes en 1944, majorité à dix-huit ans en 1974. Son universalité reste bornée par la nationalité et par l'âge.</p>\n\n<p>Le vote est <em>individuel</em> par son secret et sa personnalité&nbsp;; il est <em>collectif</em> par le cadre institutionnel commun dans lequel il s'exerce et par la structuration sociale des choix. Les <strong>règles du scrutin</strong> font d'ailleurs partie des déterminants&nbsp;: le scrutin majoritaire à deux tours encourage le <em>vote stratégique</em> au second tour, si bien qu'un même électeur peut voter différemment aux deux tours sans avoir changé d'avis.</p>\n\n<h2>2 · Ce qui structure le vote</h2>\n\n<div class=\"callout\">\n  <strong>Notion · Variables lourdes</strong><br>\n  Caractéristiques sociales durablement associées aux orientations de vote&nbsp;: profession, diplôme, âge, pratique religieuse, patrimoine, lieu de résidence. Elles ne <em>déterminent</em> pas un vote&nbsp;— elles rendent certains choix statistiquement plus probables.\n</div>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Les variables lourdes du comportement électoral et leur recomposition : la profession et la pratique religieuse structuraient fortement le vote autrefois, tandis que le diplôme, le patrimoine et le territoire jouent aujourd'hui un rôle croissant, la position sociale continuant d'orienter le vote par d'autres canaux\">\n    <text x=\"86\" y=\"18\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">hier</text>\n    <rect x=\"14\" y=\"28\" width=\"144\" height=\"26\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".40\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"86\" y=\"45\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">profession : vote de classe</text>\n    <rect x=\"14\" y=\"60\" width=\"144\" height=\"26\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".40\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"86\" y=\"77\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">pratique religieuse</text>\n    <rect x=\"14\" y=\"92\" width=\"144\" height=\"24\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".14\" stroke=\"var(--accent)\" stroke-opacity=\".35\"/>\n    <text x=\"86\" y=\"108\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">diplôme, territoire</text>\n    <text x=\"254\" y=\"18\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">aujourd'hui</text>\n    <rect x=\"182\" y=\"28\" width=\"144\" height=\"24\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".14\" stroke=\"var(--accent)\" stroke-opacity=\".35\"/>\n    <text x=\"254\" y=\"44\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">profession : lien affaibli</text>\n    <rect x=\"182\" y=\"58\" width=\"144\" height=\"24\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".14\" stroke=\"var(--accent)\" stroke-opacity=\".35\"/>\n    <text x=\"254\" y=\"74\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">pratique religieuse en recul</text>\n    <rect x=\"182\" y=\"88\" width=\"144\" height=\"28\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".40\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"254\" y=\"106\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">diplôme, patrimoine, territoire</text>\n    <line x1=\"170\" y1=\"24\" x2=\"170\" y2=\"124\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"170\" y=\"150\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">recomposition, non disparition</text>\n    <text x=\"170\" y=\"172\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Le lien entre position sociale et vote passe par d'autres variables qu'autrefois.</text>\n  </svg>\n  <figcaption>Le vote de classe s'est affaibli&nbsp;; les déterminants sociaux, eux, se sont déplacés.</figcaption>\n</figure>\n\n<p>Deux exemples classiques&nbsp;: une <strong>pratique religieuse régulière</strong> reste associée à un vote plus fréquent à droite, indépendamment du revenu&nbsp;— héritage du clivage entre cléricaux et anticléricaux&nbsp;; et le <strong>vote de classe</strong>, notamment le vote ouvrier historiquement à gauche, s'est nettement affaibli depuis les années 1980 avec la recomposition du salariat et le recul des organisations qui l'encadraient.</p>\n\n<p>Le <strong>territoire</strong> illustre bien cette recomposition&nbsp;: métropoles, périphéries périurbaines et espaces ruraux présentent des orientations nettement contrastées. Ce clivage ne remplace pas les déterminants sociaux&nbsp;— il en est une expression spatiale.</p>\n\n<h3>Comment ces appartenances agissent-elles&nbsp;?</h3>\n\n<p>Par la <strong>socialisation politique</strong>&nbsp;: acquisition d'attitudes et de repères politiques, d'abord par la famille — transmission d'autant plus forte que les deux parents partagent la même orientation et en parlent — puis par l'école, les pairs et les expériences vécues.</p>\n\n<p>Et par l'<strong>identification partisane</strong>&nbsp;: le sentiment durable de proximité à un parti, qui fonctionne comme un <em>filtre</em>. L'électeur juge les événements à travers sa proximité partisane, plutôt que l'inverse.</p>\n\n<h2>3 · Ce qui fait varier le vote</h2>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 180\" role=\"img\" aria-label=\"Articulation entre variables lourdes et vote sur enjeux : les appartenances sociales délimitent un espace de choix probables représenté par une zone large, à l'intérieur duquel le jugement de l'électeur sur les enjeux et l'offre politique du moment détermine le choix final\">\n    <rect x=\"30\" y=\"24\" width=\"280\" height=\"76\" rx=\"16\" fill=\"var(--accent)\" fill-opacity=\".14\" stroke=\"var(--accent)\" stroke-opacity=\".45\" stroke-dasharray=\"5 4\"/>\n    <text x=\"170\" y=\"44\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">espace de choix probables</text>\n    <text x=\"170\" y=\"58\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">délimité par les appartenances sociales</text>\n    <rect x=\"120\" y=\"66\" width=\"100\" height=\"26\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".40\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"83\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">le choix effectif</text>\n    <text x=\"170\" y=\"120\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">tranché selon les enjeux, la campagne, l'offre du moment</text>\n    <line x1=\"30\" y1=\"136\" x2=\"310\" y2=\"136\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"170\" y=\"156\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Les appartenances expliquent la stabilité, les enjeux la variabilité.</text>\n    <text x=\"170\" y=\"172\" font-size=\"9\" class=\"s-muted\" text-anchor=\"middle\">Ni déterminisme intégral, ni libre choix sans contexte.</text>\n  </svg>\n  <figcaption>La formulation à retenir pour toute conclusion de dissertation sur ce chapitre.</figcaption>\n</figure>\n\n<p>Le <strong>vote sur enjeux</strong> désigne un choix fondé sur la position des candidats sur des questions précises jugées importantes au moment du scrutin. Il suppose un électeur informé et explique les variations d'un scrutin à l'autre. Il joue <em>à l'intérieur</em> de l'espace délimité par les appartenances, il ne le remplace pas.</p>\n\n<p>S'y ajoute la <strong>volatilité électorale</strong>&nbsp;: la tendance croissante à changer de choix d'un scrutin à l'autre, conséquence de l'affaiblissement des identifications partisanes. Elle rend les résultats moins prévisibles et les majorités plus fragiles.</p>\n\n<p>Ces évolutions relèvent d'une <strong>individualisation</strong> des comportements&nbsp;: se déterminer au cas par cas plutôt que par fidélité durable. Elle accompagne le recul des <em>organisations d'encadrement</em> — partis de masse, syndicats — qui transmettaient des grilles d'interprétation stables. Attention&nbsp;: individualisation ne veut pas dire disparition de toute détermination sociale, mais expression moins mécanique de celle-ci.</p>\n\n<h2>4 · L'abstention</h2>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 195\" role=\"img\" aria-label=\"Les formes de l'abstention : l'abstention systématique liée à un fort éloignement social et politique, l'abstention intermittente qui traduit une participation sélective selon l'enjeu du scrutin, et la mal-inscription qui relève d'un obstacle matériel et non d'un choix politique\">\n    <rect x=\"8\" y=\"14\" width=\"104\" height=\"92\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".28\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"60\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">systématique</text>\n    <text x=\"60\" y=\"54\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">ne vote jamais</text>\n    <text x=\"60\" y=\"74\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">précarité, faible diplôme,</text>\n    <text x=\"60\" y=\"86\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">isolement, sentiment</text>\n    <text x=\"60\" y=\"98\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">d'incompétence</text>\n    <rect x=\"120\" y=\"14\" width=\"104\" height=\"92\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"172\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">intermittente</text>\n    <text x=\"172\" y=\"54\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">vote selon l'enjeu</text>\n    <text x=\"172\" y=\"74\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">électeurs informés,</text>\n    <text x=\"172\" y=\"86\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">participation sélective</text>\n    <text x=\"172\" y=\"98\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">et non apathie</text>\n    <rect x=\"232\" y=\"14\" width=\"100\" height=\"92\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"282\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">mal-inscription</text>\n    <text x=\"282\" y=\"54\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">obstacle matériel</text>\n    <text x=\"282\" y=\"74\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">inscrit là où l'on</text>\n    <text x=\"282\" y=\"86\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">ne réside plus ;</text>\n    <text x=\"282\" y=\"98\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">jeunes et mobiles</text>\n    <line x1=\"8\" y1=\"122\" x2=\"332\" y2=\"122\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"142\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">Le problème n'est pas le niveau de l'abstention, mais sa répartition.</text>\n    <text x=\"8\" y=\"160\" font-size=\"9\" fill=\"currentColor\">Elle est socialement concentrée : les catégories les plus fragiles votent moins,</text>\n    <text x=\"8\" y=\"174\" font-size=\"9\" fill=\"currentColor\">si bien que le corps électoral effectif ne reflète pas la population.</text>\n    <text x=\"8\" y=\"192\" font-size=\"9\" class=\"s-muted\">Les élus sont désignés par un électorat socialement biaisé.</text>\n  </svg>\n  <figcaption>Trois situations très différentes, souvent additionnées dans un même chiffre.</figcaption>\n</figure>\n\n<p>Les facteurs sociaux de l'abstention se cumulent souvent chez les mêmes personnes&nbsp;: faible diplôme, précarité de l'emploi, jeunesse, isolement social, faible sentiment de compétence politique. D'où sa très forte concentration sociale.</p>\n\n<p>Le taux de participation varie enfin fortement <strong>selon le type d'élection</strong>&nbsp;: la présidentielle mobilise nettement plus que les scrutins locaux ou européens. Cette hiérarchie perçue rend l'abstention intermittente parfaitement rationnelle du point de vue de l'électeur, et montre que la participation dépend autant de l'<em>offre politique</em> que du profil des électeurs.</p>\n\n<p>Un mot sur les <strong>sondages</strong>&nbsp;: ils mesurent des intentions à un instant donné, non un résultat. Prévoir suppose de savoir non seulement ce que les gens préfèrent, mais <em>qui se déplacera</em>&nbsp;— l'inconnue majeure, à laquelle s'ajoutent la volatilité, les décisions tardives et la sous-déclaration de certains votes.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Le raisonnement du chapitre</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Frise du raisonnement du chapitre : poser la double nature du vote, présenter les variables lourdes et la socialisation politique, montrer leur recomposition et la montée du vote sur enjeux, analyser l'abstention et ses formes, puis articuler les dimensions individuelle et collective\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"176\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">1. Poser la double nature</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Secret et personnel, mais socialement structuré</text>\n    <circle cx=\"26\" cy=\"60\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"57\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">2. Les variables lourdes</text>\n    <text x=\"44\" y=\"70\" font-size=\"10\" fill=\"currentColor\">Socialisation, identification partisane</text>\n    <circle cx=\"26\" cy=\"100\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"97\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">3. Leur recomposition</text>\n    <text x=\"44\" y=\"110\" font-size=\"10\" fill=\"currentColor\">Vote sur enjeux, volatilité, individualisation</text>\n    <circle cx=\"26\" cy=\"140\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"137\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">4. L'abstention</text>\n    <text x=\"44\" y=\"150\" font-size=\"10\" fill=\"currentColor\">Systématique, intermittente, mal-inscription</text>\n    <circle cx=\"26\" cy=\"176\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"173\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">5. Articuler</text>\n    <text x=\"44\" y=\"186\" font-size=\"10\" fill=\"currentColor\">Espace de choix probables, puis arbitrage</text>\n  </svg>\n  <figcaption>L'étape 5 n'est pas un compromis&nbsp;: c'est la réponse attendue à la question du titre.</figcaption>\n</figure>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition en une ligne</th></tr>\n  <tr><td>Variables lourdes</td><td>Caractéristiques sociales associées au vote</td></tr>\n  <tr><td>Socialisation politique</td><td>Acquisition d'attitudes et de repères politiques</td></tr>\n  <tr><td>Identification partisane</td><td>Sentiment durable de proximité à un parti</td></tr>\n  <tr><td>Vote sur enjeux</td><td>Choix fondé sur des questions précises du moment</td></tr>\n  <tr><td>Volatilité électorale</td><td>Changement de choix d'un scrutin à l'autre</td></tr>\n  <tr><td>Mal-inscription</td><td>Inscrit là où l'on ne réside plus</td></tr>\n</table>\n\n<h3>Les formes de non-participation</h3>\n\n<table>\n  <tr><th>Forme</th><th>Ce qu'elle traduit</th></tr>\n  <tr><td>Abstention systématique</td><td>Éloignement social et politique durable</td></tr>\n  <tr><td>Abstention intermittente</td><td>Participation sélective selon l'enjeu</td></tr>\n  <tr><td>Mal-inscription</td><td>Obstacle matériel, non choix politique</td></tr>\n  <tr><td>Vote blanc ou nul</td><td>Participation sans soutien à une offre</td></tr>\n  <tr><td>Concentration sociale</td><td>Corps électoral effectif non représentatif</td></tr>\n</table>\n\n<h3>Mécanismes à savoir rédiger</h3>\n\n<table>\n  <tr><th>Enchaînement</th><th>Étapes</th></tr>\n  <tr><td>Transmission familiale</td><td>Parents concordants et politisés → repères stables → orientation durable</td></tr>\n  <tr><td>Recomposition des clivages</td><td>Déclin du vote ouvrier → montée du diplôme, du patrimoine, du territoire</td></tr>\n  <tr><td>Individualisation</td><td>Recul des organisations d'encadrement → moindre structuration → vote au cas par cas</td></tr>\n  <tr><td>Abstention différentielle</td><td>Précarité et faible diplôme → moindre participation → électorat biaisé</td></tr>\n  <tr><td>Vote stratégique</td><td>Scrutin à deux tours → vote utile au second tour → écart entre les deux tours</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Lire toute <strong>abstention</strong> comme un <strong>désintérêt pour la politique</strong>. Une large part est <em>intermittente</em> et sélective&nbsp;: l'électeur se mobilise selon l'enjeu du scrutin, ce qui suppose au contraire une forme d'intérêt et d'information. Il faut distinguer l'abstention systématique — liée à un fort éloignement social — de l'abstention intermittente, et réserver une place à la mal-inscription, simple obstacle matériel. Deux erreurs voisines&nbsp;: conclure de l'affaiblissement du vote de classe que les déterminants sociaux ont disparu, alors qu'ils se sont <em>recomposés</em>&nbsp;; et opposer variables lourdes et vote sur enjeux, alors que les secondes jouent à l'intérieur de l'espace délimité par les premières.\n</div>\n\n<blockquote><p>On ne vote jamais tout à fait seul&nbsp;: on tranche seul, à l'intérieur d'un espace qu'on n'a pas choisi. C'est ce qui rend le vote à la fois libre et prévisible.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Spécialité SES — Sociologie et science politique",
+  "cards": [
+    {
+      "recto": "Pourquoi dit-on que le vote est à la fois un acte individuel et un acte collectif ?",
+      "verso": "Individuel parce qu'il est secret et personnel, collectif parce qu'il s'exerce dans un cadre institutionnel commun et que les choix sont fortement structurés par l'appartenance sociale",
+      "explanation": "Cette double nature est la problématique même du chapitre : ni pur choix libre, ni pure détermination sociale. Toute la difficulté consiste à articuler les deux dimensions plutôt qu'à choisir l'une contre l'autre.",
+      "tags": [
+        "vote",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'on vote en famille",
+          "Parce que le vote se déroule dans un lieu public",
+          "Parce que le vote est obligatoire dans certains pays"
+        ],
+        "medium": [
+          "Parce que le résultat dépend de la somme des voix individuelles uniquement",
+          "Parce que le vote est secret mais que le dépouillement est public",
+          "Parce que chacun vote librement sans aucune influence sociale"
+        ],
+        "hard": [
+          "Individuel car secret, collectif car les choix sont structurés socialement, ces deux dimensions s'excluant l'une l'autre",
+          "Individuel car personnel, collectif car les électeurs se concertent avant de voter",
+          "Individuel car libre, collectif parce que le vote se déroule le même jour pour tous"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on le suffrage universel ?",
+      "verso": "Un mode de désignation dans lequel le droit de vote est reconnu à l'ensemble des citoyens, sans condition de fortune, de capacité ou de sexe",
+      "explanation": "Son extension progressive, du suffrage censitaire au vote des femmes en 1944 en France puis à l'abaissement de la majorité à dix-huit ans en 1974, est un marqueur de la démocratisation. L'universalité reste bornée par la nationalité et par l'âge.",
+      "tags": [
+        "suffrage",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Un vote organisé dans tous les pays du monde",
+          "Un vote portant sur toutes les questions politiques",
+          "Un vote où chacun peut se présenter comme candidat"
+        ],
+        "medium": [
+          "Un mode de désignation réservé aux citoyens payant l'impôt",
+          "Un mode de désignation où le vote est obligatoire",
+          "Un mode de désignation où chaque électeur dispose de plusieurs voix"
+        ],
+        "hard": [
+          "Un droit de vote reconnu à tous les citoyens, sans aucune restriction d'âge ni de nationalité",
+          "Un droit de vote reconnu à tous les résidents d'un pays, quelle que soit leur nationalité",
+          "Un droit de vote reconnu à tous les citoyens, universalité acquise en France dès la Révolution"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on les variables lourdes du comportement électoral ?",
+      "verso": "Les caractéristiques sociales durablement associées aux orientations de vote, comme la profession, le diplôme, l'âge, la pratique religieuse, le patrimoine ou le lieu de résidence",
+      "explanation": "Elles ne déterminent pas mécaniquement un vote, mais rendent certains choix statistiquement plus probables. Leur pouvoir explicatif s'est affaibli sans disparaître, ce qui nourrit le débat central du chapitre.",
+      "tags": [
+        "variables lourdes",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Les questions les plus importantes d'une campagne électorale",
+          "Les partis politiques les plus puissants",
+          "Les électeurs les plus âgés d'une circonscription"
+        ],
+        "medium": [
+          "Les thèmes de campagne qui pèsent le plus sur le résultat",
+          "Les sondages réalisés à la veille d'un scrutin",
+          "Les caractéristiques psychologiques individuelles des électeurs"
+        ],
+        "hard": [
+          "Les caractéristiques sociales associées au vote, qui déterminent mécaniquement le choix de l'électeur",
+          "Les caractéristiques sociales associées au vote, dont le pouvoir explicatif a totalement disparu",
+          "Les caractéristiques sociales associées au vote, à l'exclusion de la pratique religieuse"
+        ]
+      }
+    },
+    {
+      "recto": "Comment la pratique religieuse influence-t-elle historiquement le vote en France ?",
+      "verso": "Une pratique religieuse régulière est associée à un vote plus fréquent en faveur de la droite, indépendamment du niveau de revenu",
+      "explanation": "Cette association, longtemps l'une des plus robustes de la sociologie électorale française, tient à l'héritage du clivage entre cléricaux et anticléricaux. Elle s'est affaiblie avec le recul général de la pratique religieuse.",
+      "tags": [
+        "variables lourdes",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La religion n'a jamais eu aucun effet sur le vote",
+          "Les pratiquants votent tous de la même manière",
+          "La religion détermine le vote uniquement dans les campagnes"
+        ],
+        "medium": [
+          "Une pratique religieuse régulière est associée à un vote plus fréquent à gauche",
+          "L'effet de la pratique religieuse disparaît dès qu'on tient compte du revenu",
+          "La pratique religieuse influence l'abstention mais pas l'orientation du vote"
+        ],
+        "hard": [
+          "Une pratique régulière est associée à un vote de droite, association qui s'est renforcée avec le recul de la pratique",
+          "Une pratique régulière est associée à un vote de droite, effet qui s'explique entièrement par le niveau de patrimoine",
+          "Une pratique régulière est associée à un vote de droite, lien apparu seulement après les années 1980"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on le vote de classe ?",
+      "verso": "L'association statistique entre l'appartenance à une catégorie sociale et une orientation politique, notamment le vote ouvrier historiquement à gauche",
+      "explanation": "Cette association s'est nettement affaiblie depuis les années 1980, sous l'effet de la recomposition du salariat et du déclin des organisations qui l'encadraient. Son affaiblissement ne signifie pas que la position sociale ait cessé de compter, mais qu'elle s'exprime autrement.",
+      "tags": [
+        "vote de classe",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Le vote organisé dans les salles de classe",
+          "Le vote des élus de l'Assemblée nationale",
+          "Le classement des candidats par ordre de préférence"
+        ],
+        "medium": [
+          "L'obligation pour les membres d'une catégorie sociale de voter identiquement",
+          "Le vote réservé aux membres d'une profession donnée",
+          "L'association entre le niveau de diplôme et le taux de participation"
+        ],
+        "hard": [
+          "L'association entre catégorie sociale et orientation politique, association qui s'est renforcée depuis les années 1980",
+          "L'association entre catégorie sociale et orientation politique, dont l'affaiblissement prouve que la position sociale ne compte plus",
+          "L'association entre catégorie sociale et vote, phénomène limité aux élections locales"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on la socialisation politique ?",
+      "verso": "Le processus par lequel un individu acquiert des attitudes, des valeurs et des repères politiques, principalement par la famille puis par l'école, les pairs et les expériences vécues",
+      "explanation": "La transmission familiale est particulièrement forte lorsque les deux parents partagent la même orientation et en parlent. C'est l'un des principaux mécanismes par lesquels un acte individuel se trouve socialement structuré.",
+      "tags": [
+        "socialisation",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "L'inscription automatique sur les listes électorales",
+          "La campagne électorale menée par les partis",
+          "L'organisation matérielle des bureaux de vote"
+        ],
+        "medium": [
+          "L'apprentissage des règles juridiques du vote à l'école",
+          "L'adhésion formelle à un parti politique",
+          "La formation des militants par leur organisation"
+        ],
+        "hard": [
+          "L'acquisition d'attitudes politiques, processus qui s'achève à la majorité électorale",
+          "L'acquisition d'attitudes politiques, dont la famille est le seul agent",
+          "L'acquisition d'attitudes politiques, transmission d'autant plus forte que les parents ont des orientations opposées"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on l'identification partisane ?",
+      "verso": "Le sentiment durable d'appartenance ou de proximité à un parti politique, qui oriente la perception des enjeux et le choix électoral",
+      "explanation": "Elle fonctionne comme un filtre : l'électeur juge les événements à travers sa proximité partisane plutôt que l'inverse. Son affaiblissement est l'une des causes de la volatilité électorale contemporaine.",
+      "tags": [
+        "identification",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "L'adhésion payante à un parti politique",
+          "L'inscription d'un candidat sur une liste électorale",
+          "Le fait de connaître le nom des dirigeants politiques"
+        ],
+        "medium": [
+          "Le vote effectué en faveur du même parti à deux scrutins consécutifs",
+          "L'obligation de déclarer son orientation politique",
+          "La participation régulière aux réunions publiques d'un parti"
+        ],
+        "hard": [
+          "Le sentiment durable de proximité à un parti, sentiment qui découle du jugement porté sur les enjeux",
+          "Le sentiment durable de proximité à un parti, dont le renforcement explique la volatilité électorale",
+          "Le sentiment durable de proximité à un parti, nécessairement accompagné d'une adhésion formelle"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : qu'oppose l'explication du vote par les variables lourdes à l'explication par le vote sur enjeux ?",
+      "verso": "L'explication par les variables lourdes rapporte le vote à des appartenances sociales durables, tandis que l'explication par le vote sur enjeux le rapporte à un jugement ponctuel de l'électeur sur des questions et des candidats",
+      "explanation": "La première rend compte de la stabilité des comportements, la seconde de leur variabilité d'un scrutin à l'autre. Les deux sont nécessaires : les appartenances définissent un espace de choix probables, à l'intérieur duquel les enjeux tranchent.",
+      "tags": [
+        "comparaison",
+        "théories"
+      ],
+      "distractors": {
+        "easy": [
+          "Les deux explications disent exactement la même chose",
+          "L'une concerne les élections locales, l'autre les nationales",
+          "L'une concerne les jeunes, l'autre les personnes âgées"
+        ],
+        "medium": [
+          "Les variables lourdes rapportent le vote à un jugement ponctuel, les enjeux à des appartenances durables",
+          "Les variables lourdes expliquent la variabilité, le vote sur enjeux la stabilité des comportements",
+          "Les variables lourdes concernent l'abstention, le vote sur enjeux l'orientation du vote"
+        ],
+        "hard": [
+          "Les variables lourdes rapportent le vote aux appartenances et le vote sur enjeux à un jugement ponctuel, ces deux explications étant exclusives l'une de l'autre",
+          "Les variables lourdes rapportent le vote aux appartenances, appartenances qui rendent tout jugement sur les enjeux impossible",
+          "Le vote sur enjeux rapporte le choix à un jugement ponctuel, jugement entièrement indépendant de la position sociale de l'électeur"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on la volatilité électorale ?",
+      "verso": "La tendance croissante des électeurs à changer de choix d'un scrutin à l'autre, au lieu de soutenir durablement le même camp",
+      "explanation": "Elle traduit l'affaiblissement des identifications partisanes et l'importance accrue des enjeux de campagne. Elle rend les résultats moins prévisibles et les majorités plus fragiles.",
+      "tags": [
+        "volatilité",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "La variation du nombre d'inscrits sur les listes électorales",
+          "L'instabilité des résultats des sondages",
+          "Le changement de bureau de vote entre deux élections"
+        ],
+        "medium": [
+          "La tendance des électeurs à voter toujours pour le même parti",
+          "La variation du taux d'abstention d'un scrutin à l'autre",
+          "Le changement fréquent des règles électorales par le législateur"
+        ],
+        "hard": [
+          "La tendance à changer de choix d'un scrutin à l'autre, tendance qui accompagne un renforcement des identifications partisanes",
+          "La tendance à changer de choix d'un scrutin à l'autre, phénomène qui rend les résultats plus prévisibles",
+          "La tendance à changer de choix, limitée aux électeurs sans aucune préférence partisane initiale"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : l'abstention traduit-elle nécessairement un désintérêt pour la politique ?",
+      "verso": "Non : une large part de l'abstention est intermittente et sélective, l'électeur choisissant de se mobiliser selon l'enjeu du scrutin, ce qui suppose au contraire une forme d'intérêt",
+      "explanation": "Il faut distinguer l'abstention systématique, souvent liée à un fort éloignement social et politique, et l'abstention intermittente, qui touche des électeurs informés. Assimiler toute abstention à de l'apathie fausse complètement l'analyse.",
+      "tags": [
+        "piege",
+        "abstention"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, s'abstenir c'est se désintéresser de la politique",
+          "Oui, car seuls les ignorants s'abstiennent",
+          "Non, car l'abstention est illégale"
+        ],
+        "medium": [
+          "Oui, sauf pour les électeurs mal inscrits sur les listes",
+          "Non, car l'abstention est toujours un acte de protestation délibéré",
+          "Oui, l'abstention étant par définition un refus de la vie politique"
+        ],
+        "hard": [
+          "Non, une part de l'abstention étant intermittente, ce qui signifie que l'abstention systématique n'existe plus",
+          "Non, l'abstention intermittente touchant exclusivement les électeurs les moins informés",
+          "Non, toute abstention étant sélective et donc politiquement motivée"
+        ]
+      }
+    },
+    {
+      "recto": "Comment distingue-t-on l'abstention systématique de l'abstention intermittente ?",
+      "verso": "L'abstention systématique désigne le fait de ne jamais voter, l'abstention intermittente le fait de participer à certains scrutins et pas à d'autres",
+      "explanation": "La première est fortement associée à la précarité, au faible niveau de diplôme et à un sentiment d'incompétence politique. La seconde traduit une participation devenue sélective, mesurée à l'aune de l'intérêt perçu du scrutin.",
+      "tags": [
+        "abstention",
+        "distinction"
+      ],
+      "distractors": {
+        "easy": [
+          "L'une est légale, l'autre ne l'est pas",
+          "L'une concerne les élections locales, l'autre les nationales",
+          "Les deux notions désignent la même chose"
+        ],
+        "medium": [
+          "La systématique consiste à voter blanc, l'intermittente à ne pas se déplacer",
+          "La systématique concerne les jeunes, l'intermittente les personnes âgées",
+          "La systématique désigne l'abstention à un scrutin, l'intermittente à tous"
+        ],
+        "hard": [
+          "La systématique désigne le fait de ne jamais voter, comportement associé aux électeurs les plus diplômés",
+          "La systématique désigne le fait de ne jamais voter, l'intermittente celui de voter à toutes les élections sauf une",
+          "L'intermittente traduit une participation sélective, sélection qui ne dépend pas de l'enjeu perçu du scrutin"
+        ]
+      }
+    },
+    {
+      "recto": "Quels facteurs sociaux favorisent l'abstention ?",
+      "verso": "Un faible niveau de diplôme, la précarité de l'emploi, la jeunesse, l'isolement social et un faible sentiment de compétence politique",
+      "explanation": "Ces facteurs se cumulent souvent chez les mêmes personnes, ce qui rend l'abstention socialement très concentrée. Il en résulte que le corps électoral effectif ne reflète pas fidèlement la population.",
+      "tags": [
+        "abstention",
+        "facteurs"
+      ],
+      "distractors": {
+        "easy": [
+          "L'éloignement du bureau de vote uniquement",
+          "Le mauvais temps le jour du scrutin",
+          "L'absence de candidat connu"
+        ],
+        "medium": [
+          "Un niveau de diplôme élevé et une forte intégration sociale",
+          "La possession d'un patrimoine important",
+          "L'appartenance à une organisation syndicale ou associative"
+        ],
+        "hard": [
+          "Un faible diplôme et la précarité, facteurs qui se répartissent uniformément dans la population",
+          "Un faible diplôme et l'isolement social, sans conséquence sur la représentativité du corps électoral effectif",
+          "Un faible sentiment de compétence politique, seul facteur documenté de l'abstention"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on la mal-inscription sur les listes électorales ?",
+      "verso": "Le fait d'être inscrit dans une commune où l'on ne réside plus, ce qui rend le vote matériellement difficile et gonfle mécaniquement l'abstention mesurée",
+      "explanation": "Elle touche particulièrement les jeunes et les personnes mobiles, qui ne réactualisent pas leur inscription après un déménagement. Une part non négligeable de l'abstention relève donc d'un obstacle pratique et non d'un choix politique.",
+      "tags": [
+        "abstention",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Une erreur d'orthographe sur la carte d'électeur",
+          "Le refus de s'inscrire sur les listes électorales",
+          "L'inscription de mineurs sur les listes"
+        ],
+        "medium": [
+          "L'inscription simultanée dans deux communes différentes",
+          "Le fait de ne pas être inscrit du tout sur les listes",
+          "L'inscription tardive intervenue après la clôture des listes"
+        ],
+        "hard": [
+          "L'inscription dans une commune où l'on ne réside plus, phénomène qui réduit l'abstention mesurée",
+          "L'inscription dans une commune où l'on ne réside plus, situation qui concerne surtout les personnes âgées sédentaires",
+          "L'inscription dans une commune de résidence secondaire, seul cas reconnu de mal-inscription"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi le taux de participation varie-t-il fortement selon le type d'élection ?",
+      "verso": "Parce que les électeurs jugent inégalement l'importance des enjeux et la portée du scrutin, la présidentielle mobilisant nettement plus que les élections locales ou européennes",
+      "explanation": "Cette hiérarchie perçue des scrutins est ce qui rend l'abstention intermittente rationnelle du point de vue de l'électeur. Elle montre que la participation dépend autant de l'offre politique que des caractéristiques des électeurs.",
+      "tags": [
+        "participation",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que certaines élections ont lieu en semaine",
+          "Parce que les bureaux de vote sont moins nombreux",
+          "Parce que certains scrutins ne sont pas médiatisés"
+        ],
+        "medium": [
+          "Parce que le droit de vote diffère selon le type d'élection",
+          "Parce que les listes électorales changent d'une élection à l'autre",
+          "Parce que la participation dépend uniquement du profil des électeurs"
+        ],
+        "hard": [
+          "Parce que les enjeux sont perçus inégalement, hiérarchie qui place les élections européennes au premier rang",
+          "Parce que les enjeux sont perçus inégalement, ce qui rend l'abstention intermittente irrationnelle",
+          "Parce que les enjeux sont perçus inégalement, variation indépendante de l'offre politique disponible"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on le vote sur enjeux ?",
+      "verso": "Un choix électoral fondé sur la position des candidats sur des questions précises jugées importantes par l'électeur au moment du scrutin",
+      "explanation": "Il suppose un électeur informé, capable de comparer des offres politiques, et il explique les variations d'un scrutin à l'autre. Il ne remplace pas les appartenances sociales, il joue à l'intérieur de l'espace de choix qu'elles délimitent.",
+      "tags": [
+        "vote sur enjeux",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Un vote décidé au dernier moment dans l'isoloir",
+          "Un vote portant sur un référendum",
+          "Un vote effectué sans connaître les candidats"
+        ],
+        "medium": [
+          "Un choix fondé sur l'appartenance sociale de l'électeur",
+          "Un choix fondé sur la fidélité à un parti politique",
+          "Un choix déterminé par la socialisation familiale"
+        ],
+        "hard": [
+          "Un choix fondé sur des questions précises, qui remplace entièrement l'effet des appartenances sociales",
+          "Un choix fondé sur des questions précises, jugé pertinent uniquement lors des élections locales",
+          "Un choix fondé sur les positions des candidats, qui suppose une identification partisane forte"
+        ]
+      }
+    },
+    {
+      "recto": "Comment expliquer que la position sociale continue d'orienter le vote malgré l'affaiblissement du vote de classe ?",
+      "verso": "Parce que les clivages se sont recomposés autour du diplôme, du patrimoine, du secteur d'activité et du territoire, plutôt que de disparaître",
+      "explanation": "Le lien entre position sociale et vote n'a pas cessé : il passe par d'autres variables qu'autrefois. Conclure de l'affaiblissement du vote ouvrier à gauche que les déterminants sociaux ont disparu est une erreur de raisonnement fréquente.",
+      "tags": [
+        "variables lourdes",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les électeurs votent au hasard",
+          "Parce que les partis politiques ont tous le même programme",
+          "Parce que le vote est désormais obligatoire"
+        ],
+        "medium": [
+          "Parce que la position sociale n'a en réalité jamais influencé le vote",
+          "Parce que le vote de classe s'est en fait renforcé depuis les années 1980",
+          "Parce que seul l'âge structure désormais les comportements électoraux"
+        ],
+        "hard": [
+          "Parce que les clivages se sont recomposés, recomposition qui signifie que la position sociale a cessé de compter",
+          "Parce que les clivages se sont recomposés autour du seul niveau de diplôme, à l'exclusion du territoire",
+          "Parce que les clivages sociaux ont disparu et ont été remplacés par des clivages purement culturels sans base sociale"
+        ]
+      }
+    },
+    {
+      "recto": "Comment le lieu de résidence structure-t-il aujourd'hui les comportements électoraux ?",
+      "verso": "Les grandes métropoles, les périphéries périurbaines et les espaces ruraux présentent des orientations politiques nettement contrastées, liées à leur composition sociale et à leur rapport aux services",
+      "explanation": "Ce clivage territorial s'est renforcé à mesure que le vote de classe s'affaiblissait, ce qui illustre la recomposition des variables lourdes. Il ne remplace pas les déterminants sociaux : il en est une expression spatiale.",
+      "tags": [
+        "territoire",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le lieu de résidence n'a aucun effet sur le vote",
+          "Les habitants d'une même région votent tous à l'identique",
+          "Seule la distance au bureau de vote compte"
+        ],
+        "medium": [
+          "Les métropoles et les espaces ruraux votent de manière identique",
+          "Le clivage territorial s'est affaibli en même temps que le vote de classe",
+          "Le lieu de résidence détermine le vote indépendamment de toute composition sociale"
+        ],
+        "hard": [
+          "Les territoires présentent des orientations contrastées, contraste qui se substitue entièrement aux déterminants sociaux",
+          "Les territoires présentent des orientations contrastées, clivage qui s'est affaibli depuis les années 2000",
+          "Les territoires présentent des orientations contrastées, expliquées uniquement par la distance aux services publics"
+        ]
+      }
+    },
+    {
+      "recto": "Comment le sexe et l'âge influencent-ils les comportements électoraux ?",
+      "verso": "L'écart de vote entre hommes et femmes s'est déplacé et inversé au cours du temps, tandis que les jeunes s'abstiennent davantage et votent différemment de leurs aînés",
+      "explanation": "L'effet de l'âge combine un effet de cycle de vie, lié à l'intégration sociale progressive, et un effet de génération, propre aux expériences politiques d'une cohorte. Distinguer ces deux effets est indispensable pour interpréter correctement les données.",
+      "tags": [
+        "genre",
+        "âge"
+      ],
+      "distractors": {
+        "easy": [
+          "Le sexe et l'âge n'ont aucun effet documenté",
+          "Les hommes et les femmes votent exactement de la même façon",
+          "Les jeunes votent davantage que leurs aînés"
+        ],
+        "medium": [
+          "L'écart entre hommes et femmes est resté strictement stable dans le temps",
+          "L'effet de l'âge est entièrement un effet de cycle de vie",
+          "L'effet de l'âge est entièrement un effet de génération"
+        ],
+        "hard": [
+          "L'écart entre les sexes s'est déplacé et les jeunes s'abstiennent davantage, effet d'âge qui exclut tout effet de génération",
+          "L'écart entre les sexes s'est inversé, inversion sans lien avec l'évolution des positions sociales des femmes",
+          "Les jeunes s'abstiennent davantage, comportement qui traduit un pur effet de génération sans effet de cycle de vie"
+        ]
+      }
+    },
+    {
+      "recto": "Que signifie l'individualisation des comportements électoraux ?",
+      "verso": "Le fait que les électeurs se déterminent davantage au cas par cas, en fonction des campagnes et des enjeux, plutôt que par fidélité durable à un camp",
+      "explanation": "Elle accompagne l'affaiblissement des identifications partisanes et des organisations d'encadrement comme les syndicats ou les partis de masse. Elle ne signifie pas que le vote échappe à toute détermination sociale, mais que celle-ci s'exprime de façon moins mécanique.",
+      "tags": [
+        "individualisation",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Le fait de voter seul dans l'isoloir",
+          "L'obligation de voter en personne",
+          "La possibilité de voter par correspondance"
+        ],
+        "medium": [
+          "Le fait que les électeurs votent désormais en famille",
+          "Le renforcement de la fidélité partisane des électeurs",
+          "La disparition totale de toute influence sociale sur le vote"
+        ],
+        "hard": [
+          "Le fait de se déterminer au cas par cas, ce qui signifie que le vote échappe désormais à toute détermination sociale",
+          "Le fait de se déterminer au cas par cas, tendance qui accompagne un renforcement des partis de masse",
+          "Le fait de se déterminer au cas par cas, phénomène limité aux électeurs les plus âgés"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la baisse de la participation pose-t-elle un problème de représentativité ?",
+      "verso": "Parce que l'abstention est socialement concentrée : les catégories les plus fragiles votent moins, si bien que les électeurs effectifs ne reflètent pas la population",
+      "explanation": "Les élus sont alors désignés par un corps électoral socialement biaisé, ce qui peut orienter les politiques publiques. Le problème n'est donc pas seulement le niveau de l'abstention, mais sa répartition sociale.",
+      "tags": [
+        "participation",
+        "enjeu"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les résultats deviennent impossibles à calculer",
+          "Parce que les élections coûtent trop cher",
+          "Parce que le dépouillement prend plus de temps"
+        ],
+        "medium": [
+          "Parce que l'abstention est répartie uniformément dans la population",
+          "Parce que les élus sont alors désignés à l'unanimité",
+          "Parce qu'un seuil légal de participation invaliderait le scrutin"
+        ],
+        "hard": [
+          "Parce que l'abstention est socialement concentrée, concentration qui rend pourtant le corps électoral plus représentatif",
+          "Parce que l'abstention est socialement concentrée, problème qui tient uniquement à son niveau global",
+          "Parce que les catégories les plus fragiles votent moins, sans que cela puisse influencer les politiques publiques"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi le mode de scrutin influence-t-il le comportement des électeurs ?",
+      "verso": "Il oriente les choix en rendant certains votes utiles ou inutiles, le scrutin majoritaire à deux tours encourageant par exemple le vote stratégique au second tour",
+      "explanation": "Les règles institutionnelles font donc partie des déterminants du vote, au même titre que les caractéristiques sociales. Un même électeur peut voter différemment au premier et au second tour sans avoir changé d'avis.",
+      "tags": [
+        "institutions",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le mode de scrutin ne concerne que le dépouillement",
+          "Le mode de scrutin fixe le nombre de candidats autorisés",
+          "Le mode de scrutin détermine la date des élections"
+        ],
+        "medium": [
+          "Le mode de scrutin n'a aucun effet sur le comportement des électeurs",
+          "Le mode de scrutin détermine directement l'orientation politique des électeurs",
+          "Le mode de scrutin influence uniquement le taux de participation"
+        ],
+        "hard": [
+          "Il rend certains votes utiles ou inutiles, ce qui signifie qu'un électeur votant différemment aux deux tours a changé d'avis",
+          "Il encourage le vote stratégique, effet limité au scrutin proportionnel",
+          "Il oriente les choix, mais ne constitue pas un déterminant du vote au même titre que les variables sociales"
+        ]
+      }
+    },
+    {
+      "recto": "Comment articuler la dimension individuelle et la dimension collective du vote dans une démonstration ?",
+      "verso": "En montrant que les appartenances sociales délimitent un espace de choix probables, à l'intérieur duquel l'électeur tranche en fonction des enjeux et de l'offre politique du moment",
+      "explanation": "Cette articulation évite les deux impasses symétriques : le déterminisme social intégral et le libre choix sans contexte. C'est la formulation attendue en conclusion de dissertation sur ce chapitre.",
+      "tags": [
+        "méthode",
+        "raisonnement"
+      ],
+      "distractors": {
+        "easy": [
+          "En choisissant l'une des deux dimensions et en ignorant l'autre",
+          "En affirmant que le vote est totalement imprévisible",
+          "En listant les deux dimensions sans les relier"
+        ],
+        "medium": [
+          "En montrant que les appartenances sociales déterminent entièrement le choix final",
+          "En montrant que l'électeur choisit librement sans aucune contrainte sociale",
+          "En montrant que les deux dimensions se contredisent et doivent être départagées"
+        ],
+        "hard": [
+          "En montrant que les appartenances délimitent un espace de choix, espace à l'intérieur duquel l'électeur ne dispose d'aucune marge",
+          "En montrant que l'électeur tranche selon les enjeux, arbitrage qui précède et conditionne ses appartenances sociales",
+          "En montrant que les deux dimensions jouent, mais que la dimension individuelle a désormais entièrement remplacé la dimension collective"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi les enquêtes par sondage peinent-elles parfois à prévoir les résultats électoraux ?",
+      "verso": "En raison de la volatilité des électeurs, de la décision tardive d'une partie d'entre eux, de la difficulté à anticiper la participation et de la sous-déclaration de certains votes",
+      "explanation": "La prévision suppose de connaître non seulement les préférences mais aussi qui se déplacera effectivement, ce qui est l'inconnue majeure. Les sondages mesurent des intentions à un instant donné, non un résultat.",
+      "tags": [
+        "mesure",
+        "limites"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les sondeurs interrogent trop de personnes",
+          "Parce que les sondages sont interdits en période électorale",
+          "Parce que les électeurs ne comprennent pas les questions"
+        ],
+        "medium": [
+          "Parce que les sondages mesurent des résultats et non des intentions",
+          "Parce que la participation est parfaitement prévisible mais les préférences non",
+          "Parce que les électeurs déclarent toujours fidèlement leur intention de vote"
+        ],
+        "hard": [
+          "En raison de la volatilité et de la participation incertaine, difficultés qui disparaissent à l'approche du scrutin",
+          "En raison de la sous-déclaration de certains votes, seul facteur d'erreur documenté",
+          "En raison de la volatilité des électeurs, laquelle rend inutile toute mesure des intentions de vote"
+        ]
+      }
+    },
+    {
+      "recto": "Que traduit l'affaiblissement des organisations d'encadrement comme les partis de masse et les syndicats ?",
+      "verso": "Une moindre structuration collective des opinions politiques, qui laisse davantage de place aux médias, aux campagnes et aux jugements individuels",
+      "explanation": "Ces organisations transmettaient des grilles d'interprétation stables et mobilisaient durablement leurs adhérents. Leur recul est l'un des mécanismes qui relient l'individualisation du vote à l'affaiblissement des variables lourdes.",
+      "tags": [
+        "individualisation",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "La disparition complète des partis politiques",
+          "L'interdiction légale des syndicats",
+          "La baisse du nombre d'élections organisées"
+        ],
+        "medium": [
+          "Un renforcement de la structuration collective des opinions",
+          "Une hausse mécanique du taux de participation électorale",
+          "Une disparition de toute influence des médias sur le vote"
+        ],
+        "hard": [
+          "Une moindre structuration collective, qui laisse plus de place aux jugements individuels et renforce les identifications partisanes",
+          "Une moindre structuration collective, phénomène sans lien avec l'affaiblissement des variables lourdes",
+          "Une moindre structuration collective, qui explique à elle seule l'ensemble de l'abstention contemporaine"
+        ]
+      }
+    }
+  ]
+}

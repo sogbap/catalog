@@ -1,0 +1,640 @@
+{
+  "id": "mathematiques-terminale-suites-limites",
+  "title": "Suites numériques et limites",
+  "emoji": "📈",
+  "subject": "mathematics",
+  "country": "fr",
+  "courseDescription": "Spé Maths · Terminale — raisonnement par récurrence, limites de suites, théorèmes de comparaison et limite monotone.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Suites numériques et limites</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · spécialité Mathématiques<br>\n  <b>Thème&nbsp;:</b> Analyse — suites<br>\n  <b>Chapitre</b> · environ 4 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> Comment décrire rigoureusement ce que devient une suite «&nbsp;quand n devient grand&nbsp;»&nbsp;?</p></blockquote>\n\n<p>Calculer les vingt premiers termes d'une suite ne prouve rien&nbsp;: une suite peut sembler se stabiliser puis repartir. Il faut donc un outil qui parle de <em>tous</em> les rangs à partir d'un certain point — c'est ce que fournit la définition de la limite. Ce chapitre installe deux instruments&nbsp;: un mode de démonstration adapté aux entiers, le <strong>raisonnement par récurrence</strong>, et une batterie de <strong>théorèmes de limite</strong> qui permettent de conclure quand le calcul direct échoue.</p>\n\n<h2>1 · Le raisonnement par récurrence</h2>\n\n<p>Pour démontrer qu'une propriété P(n) est vraie pour tout entier n supérieur ou égal à n₀, deux étapes sont nécessaires.</p>\n\n<ul>\n  <li><strong>Initialisation</strong>&nbsp;: on vérifie que P(n₀) est vraie.</li>\n  <li><strong>Hérédité</strong>&nbsp;: on suppose P(n) vraie pour un entier n quelconque supérieur ou égal à n₀ — c'est l'<em>hypothèse de récurrence</em> — et on démontre P(n+1).</li>\n</ul>\n\n<p>La <strong>conclusion</strong> doit être écrite&nbsp;: par le principe de récurrence, P(n) est vraie pour tout n supérieur ou égal à n₀.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 165\" role=\"img\" aria-label=\"Schéma du principe de récurrence : l'initialisation établit la propriété au premier rang, puis l'hérédité fait passer de chaque rang au suivant comme une chaîne de dominos ; sans l'initialisation, la chaîne existe mais rien ne la déclenche\">\n    <defs>\n      <marker id=\"ar-msul1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n    <text x=\"8\" y=\"14\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Avec initialisation</text>\n    <rect x=\"8\" y=\"24\" width=\"52\" height=\"30\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".3\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"34\" y=\"43\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">P(0) ✓</text>\n    <path d=\"M64,39 L84,39\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-msul1)\"/>\n    <rect x=\"88\" y=\"24\" width=\"52\" height=\"30\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".22\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"114\" y=\"43\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">P(1) ✓</text>\n    <path d=\"M144,39 L164,39\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-msul1)\"/>\n    <rect x=\"168\" y=\"24\" width=\"52\" height=\"30\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".16\" stroke=\"var(--accent)\" stroke-opacity=\".45\"/>\n    <text x=\"194\" y=\"43\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">P(2) ✓</text>\n    <path d=\"M224,39 L244,39\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-msul1)\"/>\n    <text x=\"270\" y=\"43\" font-size=\"10\" class=\"s-muted\">… tout n</text>\n    <line x1=\"8\" y1=\"76\" x2=\"332\" y2=\"76\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"98\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Sans initialisation</text>\n    <rect x=\"8\" y=\"108\" width=\"52\" height=\"30\" rx=\"10\" fill=\"none\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-dasharray=\"4 3\"/>\n    <text x=\"34\" y=\"127\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">P(0) ?</text>\n    <path d=\"M64,123 L84,123\" stroke=\"currentColor\" stroke-opacity=\".3\" stroke-width=\"1.4\" stroke-dasharray=\"3 3\" fill=\"none\"/>\n    <rect x=\"88\" y=\"108\" width=\"52\" height=\"30\" rx=\"10\" fill=\"none\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-dasharray=\"4 3\"/>\n    <text x=\"114\" y=\"127\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">P(1) ?</text>\n    <path d=\"M144,123 L164,123\" stroke=\"currentColor\" stroke-opacity=\".3\" stroke-width=\"1.4\" stroke-dasharray=\"3 3\" fill=\"none\"/>\n    <text x=\"176\" y=\"127\" font-size=\"9\" class=\"s-muted\">la chaîne existe, rien ne la déclenche</text>\n  </svg>\n  <figcaption>L'hérédité est la chaîne de dominos&nbsp;; l'initialisation est le doigt qui pousse le premier. Sans elle, rien ne tombe.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Le contre-exemple à retenir</strong><br>\n  Soit P(n)&nbsp;: «&nbsp;2 divise 2n+1&nbsp;». Si P(n) est vraie, alors 2n+1 est pair&nbsp;; or 2(n+1)+1 = (2n+1) + 2, donc P(n+1) est vraie aussi. La propriété est <em>parfaitement héréditaire</em> — et fausse à tous les rangs. L'hérédité ne fait que <strong>transmettre</strong> une vérité qu'il faut d'abord établir.\n</div>\n\n<h2>2 · Définir la limite</h2>\n\n<h3>Limite finie</h3>\n\n<p>La suite <em>u</em> <strong>converge vers le réel L</strong> lorsque tout intervalle ouvert contenant L contient <strong>tous les termes de la suite à partir d'un certain rang</strong>.</p>\n\n<p>Deux exigences se cachent dans cette formule&nbsp;: l'intervalle peut être aussi petit qu'on veut, et les termes doivent <em>y rester</em>. Il ne suffit donc pas que la suite s'approche parfois de L.</p>\n\n<h3>Limite infinie</h3>\n\n<p>La suite <em>u</em> <strong>tend vers +∞</strong> lorsque tout intervalle [A&nbsp;; +∞[ contient tous les termes à partir d'un certain rang&nbsp;: quel que soit le seuil A, la suite finit par le dépasser <em>et ne redescend plus</em>.</p>\n\n<p><b>Attention&nbsp;:</b> une suite non majorée ne tend pas nécessairement vers +∞. La suite de terme général <em>n</em>&nbsp;×&nbsp;sin²(n) prend des valeurs arbitrairement grandes mais redescend indéfiniment près de zéro.</p>\n\n<h3>Vocabulaire</h3>\n\n<p>Une suite est <strong>divergente</strong> lorsqu'elle n'est pas convergente. Cela recouvre <em>deux</em> cas&nbsp;: tendre vers un infini, ou n'avoir aucune limite — comme (-1)<sup>n</sup>, qui oscille entre -1 et 1.</p>\n\n<h2>3 · Les limites de référence</h2>\n\n<table>\n  <tr><th>Suite</th><th>Limite</th></tr>\n  <tr><td>n, n², n³, √n</td><td>+∞</td></tr>\n  <tr><td>1/n, 1/n², 1/n³, 1/√n</td><td>0</td></tr>\n  <tr><td>q<sup>n</sup> avec -1 &lt; q &lt; 1</td><td>0</td></tr>\n  <tr><td>q<sup>n</sup> avec q &gt; 1</td><td>+∞</td></tr>\n  <tr><td>q<sup>n</sup> avec q = 1</td><td>1</td></tr>\n  <tr><td>q<sup>n</sup> avec q ≤ -1</td><td>pas de limite</td></tr>\n</table>\n\n<p>Le dernier cas est celui qu'on oublie&nbsp;: pour q ≤ -1, la suite alterne de signe avec des valeurs de plus en plus grandes en valeur absolue. Elle diverge <em>sans</em> tendre vers un infini.</p>\n\n<h3>Démonstration&nbsp;: q<sup>n</sup> tend vers +∞ pour q &gt; 1</h3>\n\n<p>On utilise l'<strong>inégalité de Bernoulli</strong>&nbsp;: pour tout réel a ≥ 0 et tout entier naturel n, (1 + a)<sup>n</sup> ≥ 1 + na. Elle se démontre par récurrence.</p>\n\n<p>Posons q = 1 + a avec a &gt; 0. Alors q<sup>n</sup> ≥ 1 + na. Or 1 + na tend vers +∞&nbsp;; par théorème de comparaison, q<sup>n</sup> tend vers +∞.</p>\n\n<h2>4 · Opérations et formes indéterminées</h2>\n\n<p>Les théorèmes d'opération (somme, produit, quotient) permettent de conclure dans la plupart des cas. Quatre situations font exception&nbsp;: ce sont les <strong>formes indéterminées</strong>.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 160\" role=\"img\" aria-label=\"Tableau des quatre formes indéterminées : infini moins infini, zéro fois l'infini, infini sur infini, et zéro sur zéro ; en dessous, la méthode de levée par factorisation du terme dominant\">\n    <text x=\"170\" y=\"14\" text-anchor=\"middle\" font-size=\"10\" class=\"s-muted\">Les quatre formes indéterminées</text>\n    <rect x=\"6\" y=\"24\" width=\"76\" height=\"34\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"44\" y=\"46\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">∞ − ∞</text>\n    <rect x=\"90\" y=\"24\" width=\"76\" height=\"34\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"128\" y=\"46\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">0 × ∞</text>\n    <rect x=\"174\" y=\"24\" width=\"76\" height=\"34\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"212\" y=\"46\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">∞ / ∞</text>\n    <rect x=\"258\" y=\"24\" width=\"76\" height=\"34\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"296\" y=\"46\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">0 / 0</text>\n    <text x=\"170\" y=\"80\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">indéterminée ≠ sans limite : il faut transformer l'écriture</text>\n    <rect x=\"30\" y=\"94\" width=\"280\" height=\"50\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"170\" y=\"114\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\" font-weight=\"bold\">Technique dominante</text>\n    <text x=\"170\" y=\"132\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">factoriser par le terme de plus haut degré</text>\n  </svg>\n  <figcaption>Une forme indéterminée n'annonce pas l'absence de limite&nbsp;: elle signale que les théorèmes d'opération ne suffisent pas.</figcaption>\n</figure>\n\n<p><b>Exemple.</b> Pour la suite de terme général (3n² − n + 1)&nbsp;/&nbsp;(2n² + 5), on factorise haut et bas par n²&nbsp;:</p>\n\n<p>n²(3 − 1/n + 1/n²)&nbsp;/&nbsp;n²(2 + 5/n²), puis on simplifie par n². Tous les termes en 1/n tendent vers 0, donc la limite vaut 3/2 — le rapport des coefficients dominants.</p>\n\n<h2>5 · Les théorèmes de limite</h2>\n\n<h3>Comparaison</h3>\n\n<p>Si u(n) ≥ v(n) à partir d'un certain rang et si v tend vers +∞, alors u tend vers +∞. Symétriquement avec une majoration pour −∞. <strong>Une seule inégalité suffit</strong>&nbsp;: on pousse la suite vers l'infini.</p>\n\n<h3>Théorème des gendarmes</h3>\n\n<p>Si u(n) ≤ v(n) ≤ w(n) à partir d'un certain rang, et si u et w convergent <strong>vers la même limite L</strong>, alors v converge vers L.</p>\n\n<p>Ici, une seule inégalité ne dit rien&nbsp;: il faut <em>encadrer des deux côtés</em>, et l'égalité des deux limites est indispensable. Avec des gendarmes de limites différentes, aucune conclusion.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Comparaison des deux théorèmes : à gauche, le théorème de comparaison où une seule minoration par une suite tendant vers l'infini suffit à conclure ; à droite, le théorème des gendarmes où deux suites de même limite finie encadrent la suite étudiée\">\n    <text x=\"8\" y=\"14\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Comparaison — une inégalité</text>\n    <line x1=\"14\" y1=\"62\" x2=\"326\" y2=\"62\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <path d=\"M20,58 C90,48 180,34 320,24\" stroke=\"var(--accent)\" stroke-width=\"1.6\" fill=\"none\" stroke-opacity=\".5\"/>\n    <text x=\"300\" y=\"20\" font-size=\"8\" class=\"s-muted\">v → +∞</text>\n    <path d=\"M20,54 C100,42 200,28 320,18\" stroke=\"var(--accent)\" stroke-width=\"2\" fill=\"none\"/>\n    <text x=\"284\" y=\"38\" font-size=\"8\" fill=\"var(--accent)\">u ≥ v</text>\n    <text x=\"8\" y=\"78\" font-size=\"9\" class=\"s-muted\">u est poussée vers l'infini</text>\n    <line x1=\"8\" y1=\"90\" x2=\"332\" y2=\"90\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"110\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Gendarmes — deux inégalités</text>\n    <line x1=\"14\" y1=\"146\" x2=\"326\" y2=\"146\" stroke=\"var(--accent)\" stroke-opacity=\".45\" stroke-dasharray=\"4 4\"/>\n    <text x=\"300\" y=\"158\" font-size=\"8\" class=\"s-muted\">L</text>\n    <path d=\"M20,124 C110,138 210,144 320,145\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" stroke-opacity=\".5\"/>\n    <path d=\"M20,168 C110,154 210,148 320,147\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" stroke-opacity=\".5\"/>\n    <path d=\"M20,134 C90,150 160,140 320,146\" stroke=\"var(--accent)\" stroke-width=\"2\" fill=\"none\"/>\n    <text x=\"34\" y=\"120\" font-size=\"8\" class=\"s-muted\">w</text>\n    <text x=\"34\" y=\"172\" font-size=\"8\" class=\"s-muted\">u</text>\n  </svg>\n  <figcaption>Pousser vers l'infini demande un seul appui&nbsp;; coincer sur une valeur finie en demande deux, et de même limite.</figcaption>\n</figure>\n\n<h3>Théorème de la limite monotone</h3>\n\n<p><strong>Toute suite croissante et majorée converge&nbsp;; toute suite décroissante et minorée converge.</strong> C'est un théorème d'<em>existence</em>&nbsp;: il garantit la limite sans la donner.</p>\n\n<div class=\"callout\">\n  <strong>L'erreur à ne pas commettre</strong><br>\n  Une suite croissante majorée par 5 ne converge <em>pas</em> nécessairement vers 5&nbsp;: elle converge vers un réel <strong>inférieur ou égal</strong> à 5. La suite de terme général 1 − 1/n est croissante et majorée par 5, et converge vers 1. Le majorant est une borne, pas la limite.\n</div>\n\n<p>Le théorème se complète&nbsp;: une suite croissante <em>non majorée</em> tend vers +∞.</p>\n\n<p>À retenir aussi&nbsp;: <strong>toute suite convergente est bornée</strong>. La réciproque est fausse — (-1)<sup>n</sup> est bornée sans converger.</p>\n\n<h2>6 · Suites définies par récurrence</h2>\n\n<p>Pour u(n+1) = f(u(n)), la méthode se déroule dans un ordre <strong>impératif</strong>.</p>\n\n<ul>\n  <li>Établir d'abord un encadrement, souvent par récurrence, puis la monotonie.</li>\n  <li>Conclure à la convergence par le théorème de la limite monotone.</li>\n  <li><em>Alors seulement</em>, si f est continue, résoudre L = f(L) pour identifier la limite.</li>\n</ul>\n\n<p><b>Pourquoi cet ordre&nbsp;?</b> L'équation L = f(L) ne prouve <em>jamais</em> la convergence&nbsp;: elle identifie les limites <em>possibles</em>. Une suite peut osciller autour d'un point fixe sans jamais s'en rapprocher. Résoudre cette équation sans avoir montré la convergence est une faute de raisonnement, pas une maladresse de rédaction.</p>\n\n<h3>Inégalités et passage à la limite</h3>\n\n<p>Le passage à la limite conserve les inégalités mais <strong>transforme les inégalités strictes en inégalités larges</strong>. Les suites −1/n et 1/n vérifient u(n) &lt; v(n) pour tout n, et convergent toutes deux vers 0.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>La démarche</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Frise méthodique pour déterminer la limite d'une suite : reconnaître une limite usuelle, appliquer les opérations, lever l'indétermination par factorisation, recourir aux théorèmes de comparaison ou des gendarmes, et en dernier ressort au théorème de la limite monotone\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"186\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">1. Reconnaître</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Limite usuelle ou géométrique ?</text>\n    <circle cx=\"26\" cy=\"62\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"59\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">2. Opérer</text>\n    <text x=\"44\" y=\"72\" font-size=\"10\" fill=\"currentColor\">Somme, produit, quotient</text>\n    <circle cx=\"26\" cy=\"104\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"101\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">3. Lever l'indétermination</text>\n    <text x=\"44\" y=\"114\" font-size=\"10\" fill=\"currentColor\">Factoriser le terme dominant</text>\n    <circle cx=\"26\" cy=\"146\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"143\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">4. Encadrer</text>\n    <text x=\"44\" y=\"156\" font-size=\"10\" fill=\"currentColor\">Comparaison ou gendarmes</text>\n    <circle cx=\"26\" cy=\"184\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"181\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">5. En dernier recours</text>\n    <text x=\"44\" y=\"194\" font-size=\"10\" fill=\"currentColor\">Monotonie et bornes</text>\n  </svg>\n  <figcaption>Suivre cet ordre évite de construire un encadrement compliqué là où une factorisation suffisait.</figcaption>\n</figure>\n\n<h3>Formules à connaître</h3>\n\n<table>\n  <tr><th>Objet</th><th>Formule</th></tr>\n  <tr><td>Suite arithmétique</td><td>u(n) = u(0) + nr&nbsp;; limite +∞ si r &gt; 0</td></tr>\n  <tr><td>Suite géométrique</td><td>u(n) = u(0)&nbsp;×&nbsp;q<sup>n</sup></td></tr>\n  <tr><td>Somme géométrique</td><td>1 + q + … + q<sup>n</sup> = (1 − q<sup>n+1</sup>)&nbsp;/&nbsp;(1 − q), pour q ≠ 1</td></tr>\n  <tr><td>Inégalité de Bernoulli</td><td>(1 + a)<sup>n</sup> ≥ 1 + na, pour a ≥ 0</td></tr>\n  <tr><td>Croissance</td><td>u(n+1) − u(n) ≥ 0, ou u(n+1)/u(n) ≥ 1 si u(n) &gt; 0</td></tr>\n</table>\n\n<h3>Théorèmes clés</h3>\n\n<table>\n  <tr><th>Théorème</th><th>Hypothèses</th><th>Conclusion</th></tr>\n  <tr><td>Comparaison</td><td>u ≥ v et v → +∞</td><td>u → +∞</td></tr>\n  <tr><td>Gendarmes</td><td>u ≤ v ≤ w, u et w → L</td><td>v → L</td></tr>\n  <tr><td>Limite monotone</td><td>Croissante et majorée</td><td>Converge (limite non donnée)</td></tr>\n  <tr><td>Divergence monotone</td><td>Croissante non majorée</td><td>Tend vers +∞</td></tr>\n  <tr><td>Convergence et bornes</td><td>u converge</td><td>u est bornée (réciproque fausse)</td></tr>\n</table>\n\n<h3>Notions à distinguer</h3>\n\n<table>\n  <tr><th>Distinction</th><th>Ce qui se joue</th></tr>\n  <tr><td>Divergente / sans limite</td><td>Divergente inclut les limites infinies</td></tr>\n  <tr><td>Non majorée / tend vers +∞</td><td>La seconde interdit de redescendre</td></tr>\n  <tr><td>Comparaison / gendarmes</td><td>Une inégalité contre un encadrement</td></tr>\n  <tr><td>Majorant / limite</td><td>Une borne n'est pas la valeur atteinte</td></tr>\n  <tr><td>Point fixe / limite</td><td>L = f(L) identifie, ne prouve pas</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Rédiger une récurrence <em>sans initialisation</em>. La propriété «&nbsp;2 divise 2n+1&nbsp;» est héréditaire et fausse partout&nbsp;: l'hérédité seule ne démontre rien. Trois autres erreurs classiques&nbsp;: croire qu'une suite croissante majorée par 5 converge vers 5 (elle converge vers un réel ≤ 5)&nbsp;; conclure d'une suite non majorée qu'elle tend vers +∞&nbsp;; et résoudre L = f(L) avant d'avoir établi la convergence.\n</div>\n\n<blockquote><p>Une limite ne se lit pas sur les premiers termes&nbsp;: elle se démontre. Tout le chapitre consiste à remplacer l'impression que donne un tableau de valeurs par un raisonnement qui vaut pour <em>tous</em> les rangs suivants.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Spécialité Mathématiques — Analyse",
+  "cards": [
+    {
+      "recto": "Quelles sont les deux étapes d'une démonstration par récurrence ?",
+      "verso": "L'initialisation, qui vérifie la propriété au premier rang, et l'hérédité, qui montre que si elle est vraie au rang n alors elle l'est au rang n+1",
+      "explanation": "Les deux sont indispensables : une propriété héréditaire mais fausse au départ reste fausse partout, et une propriété vraie au départ sans hérédité ne se propage pas. Il faut aussi conclure explicitement en invoquant le principe de récurrence.",
+      "tags": [
+        "récurrence",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Le calcul et la vérification",
+          "L'hypothèse et la conclusion",
+          "La lecture et l'application"
+        ],
+        "medium": [
+          "L'initialisation et la conclusion, l'hérédité étant facultative",
+          "L'hérédité et la conclusion, l'initialisation étant évidente",
+          "Le calcul des premiers termes et la généralisation"
+        ],
+        "hard": [
+          "L'initialisation et la démonstration directe au rang général",
+          "L'hérédité du rang n-1 au rang n uniquement",
+          "La vérification pour tous les rangs jusqu'à un seuil"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : que se passe-t-il si l'on oublie l'initialisation dans une récurrence ?",
+      "verso": "La démonstration est fausse : une propriété peut être héréditaire sans être jamais vraie, comme « 2 divise 2n+1 »",
+      "explanation": "C'est l'erreur la plus lourdement sanctionnée du chapitre. Si 2 divise 2n+1, alors 2 divise 2(n+1)+1 puisque la différence vaut 2 : la propriété est parfaitement héréditaire, et pourtant fausse à tout rang. L'hérédité seule ne dit rien ; elle ne fait que transmettre une vérité qu'il faut d'abord établir.",
+      "tags": [
+        "piege",
+        "récurrence"
+      ],
+      "distractors": {
+        "easy": [
+          "Rien, l'initialisation est une formalité",
+          "La démonstration reste valable à partir du rang 1",
+          "Il suffit de le signaler au correcteur"
+        ],
+        "medium": [
+          "La propriété devient vraie à partir d'un certain rang",
+          "La démonstration reste valable si la suite est croissante",
+          "L'hérédité compense l'absence d'initialisation"
+        ],
+        "hard": [
+          "La conclusion reste valable pour les rangs pairs uniquement",
+          "L'hérédité entraîne la vérité de la propriété au rang 0",
+          "La démonstration prouve seulement la contraposée"
+        ]
+      }
+    },
+    {
+      "recto": "Que signifie l'énoncé « la suite u converge vers le réel L » ?",
+      "verso": "Tout intervalle ouvert contenant L contient tous les termes de la suite à partir d'un certain rang",
+      "explanation": "La formulation exige deux choses : un intervalle aussi petit qu'on veut, et le fait que tous les termes suivants y restent. Il ne suffit donc pas que la suite s'approche parfois de L : elle doit finir par y rester.",
+      "tags": [
+        "limite",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "La suite atteint la valeur L",
+          "La suite se rapproche parfois de L",
+          "La suite est égale à L à partir d'un rang"
+        ],
+        "medium": [
+          "La suite est croissante et majorée par L",
+          "La distance entre u(n) et L diminue à chaque étape",
+          "La suite prend des valeurs de plus en plus proches de L sans condition de rang"
+        ],
+        "hard": [
+          "Il existe un intervalle contenant L qui contient tous les termes",
+          "Tout intervalle contenant L contient une infinité de termes",
+          "La suite est monotone et admet L pour borne"
+        ]
+      }
+    },
+    {
+      "recto": "Que signifie « la suite u tend vers plus l'infini » ?",
+      "verso": "Tout intervalle de la forme [A ; +∞[ contient tous les termes de la suite à partir d'un certain rang",
+      "explanation": "Autrement dit : quel que soit le seuil A choisi, la suite finit par le dépasser et ne redescend plus en dessous. C'est ce qui distingue la divergence vers l'infini d'une suite simplement non bornée, qui pourrait redescendre indéfiniment.",
+      "tags": [
+        "limite",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "La suite est croissante",
+          "La suite n'a pas de limite",
+          "La suite dépasse une fois toute valeur"
+        ],
+        "medium": [
+          "La suite est strictement croissante et non majorée",
+          "La suite prend des valeurs arbitrairement grandes",
+          "La suite est positive à partir d'un certain rang"
+        ],
+        "hard": [
+          "Il existe un seuil A dépassé par tous les termes",
+          "Tout intervalle [A ; +∞[ contient une infinité de termes",
+          "La suite est non majorée"
+        ]
+      }
+    },
+    {
+      "recto": "Une suite non majorée tend-elle nécessairement vers plus l'infini ?",
+      "verso": "Non : elle prend des valeurs arbitrairement grandes, mais peut redescendre indéfiniment, comme la suite de terme général n multiplié par le carré du sinus de n",
+      "explanation": "Le contre-exemple type est une suite qui alterne entre de très grandes valeurs et des valeurs proches de zéro. Elle n'est pas majorée, et pourtant elle ne finit pas par rester au-dessus d'un seuil donné.",
+      "tags": [
+        "limite",
+        "contre-exemple"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, toujours",
+          "Oui, si elle est positive",
+          "Non, car une suite non majorée n'existe pas"
+        ],
+        "medium": [
+          "Oui, dès qu'elle est croissante à partir d'un rang",
+          "Oui, car non majorée signifie sans limite finie",
+          "Non, elle tend alors vers moins l'infini"
+        ],
+        "hard": [
+          "Oui, car le dépassement de tout seuil est définitif",
+          "Non, mais elle admet nécessairement une limite finie",
+          "Oui, à condition que la suite soit définie par récurrence"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la limite de la suite de terme général 1 sur n quand n tend vers l'infini ?",
+      "verso": "Zéro",
+      "explanation": "C'est une limite de référence, à savoir sans démonstration. Il faut y ajouter les autres inverses classiques : l'inverse de n au carré, de la racine de n et de n au cube tendent également vers zéro.",
+      "tags": [
+        "limites usuelles",
+        "référence"
+      ],
+      "distractors": {
+        "easy": [
+          "Un",
+          "Plus l'infini",
+          "La suite n'a pas de limite"
+        ],
+        "medium": [
+          "Un nombre strictement positif très petit",
+          "Moins l'infini",
+          "La limite dépend du premier terme"
+        ],
+        "hard": [
+          "Zéro seulement si n est pair",
+          "Un sur l'infini, qui n'est pas défini",
+          "Une valeur non déterminée car il s'agit d'une forme indéterminée"
+        ]
+      }
+    },
+    {
+      "recto": "Comment la limite de la suite géométrique de terme général q puissance n dépend-elle de q ?",
+      "verso": "Elle vaut zéro si q est strictement compris entre -1 et 1, plus l'infini si q est strictement supérieur à 1, un si q vaut 1, et il n'y a pas de limite si q est inférieur ou égal à -1",
+      "explanation": "Le cas q inférieur ou égal à -1 est celui qu'on oublie : la suite alterne de signe avec des valeurs de plus en plus grandes en valeur absolue, elle diverge sans tendre vers un infini. Ce résultat commande toute l'étude des suites géométriques.",
+      "tags": [
+        "suites géométriques",
+        "référence"
+      ],
+      "distractors": {
+        "easy": [
+          "La limite est toujours zéro",
+          "La limite est toujours plus l'infini",
+          "La limite vaut toujours q"
+        ],
+        "medium": [
+          "Elle vaut zéro si q est négatif et l'infini si q est positif",
+          "Elle vaut plus l'infini dès que q est différent de zéro",
+          "Elle vaut zéro si q est inférieur à 1 sans autre condition"
+        ],
+        "hard": [
+          "Elle vaut moins l'infini si q est strictement inférieur à -1",
+          "Elle vaut zéro pour q égal à -1",
+          "Elle vaut un pour toute valeur de q comprise entre -1 et 1"
+        ]
+      }
+    },
+    {
+      "recto": "Quel outil permet de démontrer que q puissance n tend vers l'infini lorsque q est strictement supérieur à 1 ?",
+      "verso": "L'inégalité de Bernoulli : pour tout réel a positif et tout entier naturel n, (1 + a) puissance n est supérieur ou égal à 1 + na",
+      "explanation": "En posant q = 1 + a avec a strictement positif, on minore q puissance n par une expression affine qui tend vers l'infini. Le théorème de comparaison conclut. L'inégalité elle-même se démontre par récurrence.",
+      "tags": [
+        "Bernoulli",
+        "démonstration"
+      ],
+      "distractors": {
+        "easy": [
+          "La calculatrice",
+          "Un tableau de valeurs",
+          "La formule de la somme des termes"
+        ],
+        "medium": [
+          "Le théorème des gendarmes",
+          "Le théorème de la limite monotone",
+          "La formule du binôme uniquement"
+        ],
+        "hard": [
+          "L'inégalité de Bernoulli sous la forme (1 + a) puissance n inférieur à 1 + na",
+          "L'inégalité triangulaire appliquée aux puissances",
+          "Le théorème de comparaison avec une suite convergente"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles sont les quatre formes indéterminées à connaître pour les limites ?",
+      "verso": "Infini moins infini, zéro multiplié par l'infini, infini divisé par l'infini, et zéro divisé par zéro",
+      "explanation": "Indéterminée ne veut pas dire sans limite : cela veut dire que les théorèmes d'opération ne concluent pas et qu'il faut transformer l'écriture. Factoriser par le terme dominant est la technique la plus fréquente.",
+      "tags": [
+        "opérations",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Toutes les divisions par zéro",
+          "Les limites infinies uniquement",
+          "Les racines de nombres négatifs"
+        ],
+        "medium": [
+          "Infini plus infini, zéro plus zéro, un puissance infini, infini puissance zéro",
+          "Les sommes et les produits de limites infinies en général",
+          "Les quotients dont le dénominateur tend vers zéro"
+        ],
+        "hard": [
+          "Infini moins infini, infini plus infini, zéro sur l'infini, infini sur zéro",
+          "Zéro sur l'infini et infini sur zéro uniquement",
+          "Toute expression contenant un infini"
+        ]
+      }
+    },
+    {
+      "recto": "Comment lever l'indétermination dans la limite d'un quotient de deux polynômes en n ?",
+      "verso": "En factorisant numérateur et dénominateur par le terme de plus haut degré, puis en simplifiant",
+      "explanation": "Après factorisation, tous les autres termes deviennent des inverses de puissances de n qui tendent vers zéro. La limite ne dépend donc que du rapport des termes dominants, ce qui donne une règle rapide mais qu'il faut justifier.",
+      "tags": [
+        "méthode",
+        "opérations"
+      ],
+      "distractors": {
+        "easy": [
+          "En remplaçant n par une grande valeur",
+          "En dérivant le quotient",
+          "En calculant les premiers termes"
+        ],
+        "medium": [
+          "En factorisant par le terme de plus bas degré",
+          "En développant entièrement les deux polynômes",
+          "En appliquant directement le théorème des gendarmes"
+        ],
+        "hard": [
+          "En factorisant le numérateur seulement",
+          "En appliquant le théorème de la limite monotone",
+          "En comparant les coefficients constants"
+        ]
+      }
+    },
+    {
+      "recto": "Ne pas confondre : qu'obtient-on avec un théorème de comparaison et avec le théorème des gendarmes ?",
+      "verso": "La comparaison avec une seule suite donne une divergence vers un infini, alors que l'encadrement par deux suites de même limite finie donne une convergence",
+      "explanation": "Si u est supérieure à v et que v tend vers plus l'infini, alors u tend vers plus l'infini : une seule minoration suffit. Mais pour établir une limite finie, une seule inégalité ne dit rien : il faut encadrer des deux côtés par deux suites convergeant vers la même valeur.",
+      "tags": [
+        "comparaison",
+        "théorèmes"
+      ],
+      "distractors": {
+        "easy": [
+          "Ce sont deux noms du même théorème",
+          "La comparaison est plus précise que les gendarmes",
+          "Les gendarmes servent aux suites croissantes"
+        ],
+        "medium": [
+          "La comparaison donne une limite finie, les gendarmes une limite infinie",
+          "Les gendarmes nécessitent une seule inégalité",
+          "La comparaison exige deux suites encadrantes"
+        ],
+        "hard": [
+          "Les gendarmes s'appliquent avec deux suites de limites différentes",
+          "La comparaison avec une suite convergente donne la même limite",
+          "Les gendarmes permettent de conclure à une divergence vers l'infini"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'énonce précisément le théorème des gendarmes pour les suites ?",
+      "verso": "Si à partir d'un certain rang v est comprise entre u et w, et si u et w convergent vers la même limite L, alors v converge aussi vers L",
+      "explanation": "Deux conditions sont indispensables : l'encadrement, valable seulement à partir d'un certain rang, et surtout l'égalité des deux limites. Si les gendarmes ont des limites différentes, on ne peut rien conclure.",
+      "tags": [
+        "gendarmes",
+        "théorème"
+      ],
+      "distractors": {
+        "easy": [
+          "Toute suite encadrée converge",
+          "Une suite comprise entre deux suites bornées est bornée",
+          "Deux suites encadrantes donnent la moyenne des limites"
+        ],
+        "medium": [
+          "Si u est inférieure à v et si u converge, alors v converge",
+          "Si v est encadrée par deux suites convergentes, elle converge",
+          "L'encadrement doit être valable pour tout rang sans exception"
+        ],
+        "hard": [
+          "Si u et w ont des limites distinctes, v converge vers leur moyenne",
+          "L'encadrement suffit sans hypothèse sur les limites de u et w",
+          "Le théorème conclut à la monotonie de v"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'affirme le théorème de la limite monotone ?",
+      "verso": "Toute suite croissante et majorée converge, et toute suite décroissante et minorée converge",
+      "explanation": "Le théorème garantit l'existence de la limite mais ne la donne pas : c'est un résultat d'existence. Il se complète par le cas divergent, une suite croissante non majorée tendant vers plus l'infini.",
+      "tags": [
+        "limite monotone",
+        "théorème"
+      ],
+      "distractors": {
+        "easy": [
+          "Toute suite monotone converge",
+          "Toute suite majorée converge",
+          "Toute suite croissante tend vers l'infini"
+        ],
+        "medium": [
+          "Toute suite croissante et minorée converge",
+          "Toute suite bornée converge",
+          "Toute suite croissante et majorée converge vers son majorant"
+        ],
+        "hard": [
+          "Toute suite croissante et majorée admet une limite égale à son plus grand terme",
+          "Toute suite monotone et bornée est stationnaire",
+          "Toute suite décroissante et majorée converge"
+        ]
+      }
+    },
+    {
+      "recto": "Une suite croissante et majorée par 5 converge-t-elle nécessairement vers 5 ?",
+      "verso": "Non : elle converge vers un réel inférieur ou égal à 5, qui n'est pas nécessairement 5",
+      "explanation": "C'est l'erreur la plus fréquente sur ce théorème. La suite de terme général 1 - 1 sur n est croissante et majorée par 5, mais converge vers 1. Le majorant est une borne, pas la limite.",
+      "tags": [
+        "limite monotone",
+        "erreur"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, vers 5",
+          "Oui, si elle est strictement croissante",
+          "Non, elle ne converge pas"
+        ],
+        "medium": [
+          "Oui, car 5 est le plus petit majorant",
+          "Oui, sauf si la suite est stationnaire",
+          "Non, elle converge vers un réel supérieur à 5"
+        ],
+        "hard": [
+          "Oui, car toute suite croissante majorée atteint sa borne",
+          "Non, elle converge vers 5 uniquement si 5 est atteint",
+          "Oui, car la limite est toujours le majorant utilisé"
+        ]
+      }
+    },
+    {
+      "recto": "Toute suite convergente est-elle bornée ?",
+      "verso": "Oui : au-delà d'un certain rang tous les termes sont dans un intervalle autour de la limite, et les termes précédents sont en nombre fini",
+      "explanation": "La réciproque est fausse : la suite de terme général (-1) puissance n est bornée sans converger. Il faut donc retenir l'implication dans un seul sens.",
+      "tags": [
+        "propriété",
+        "théorème"
+      ],
+      "distractors": {
+        "easy": [
+          "Non, jamais",
+          "Oui, et réciproquement toute suite bornée converge",
+          "Non, sauf si elle est monotone"
+        ],
+        "medium": [
+          "Oui, uniquement si elle est monotone",
+          "Non, car la limite peut être infinie",
+          "Oui, et la réciproque est vraie pour les suites positives"
+        ],
+        "hard": [
+          "Non, car les premiers termes peuvent être arbitrairement grands",
+          "Oui, mais seulement si la limite est nulle",
+          "Oui, et toute suite bornée admet une limite"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la limite d'une suite arithmétique de raison r strictement positive ?",
+      "verso": "Plus l'infini",
+      "explanation": "Le terme général s'écrit u(0) + nr : c'est une expression affine en n dont le coefficient directeur est strictement positif. Une suite arithmétique n'est donc jamais convergente sauf si sa raison est nulle.",
+      "tags": [
+        "suites arithmétiques",
+        "référence"
+      ],
+      "distractors": {
+        "easy": [
+          "Zéro",
+          "La raison r",
+          "Le premier terme"
+        ],
+        "medium": [
+          "Une limite finie dépendant du premier terme",
+          "Moins l'infini",
+          "La suite n'a pas de limite"
+        ],
+        "hard": [
+          "Plus l'infini seulement si le premier terme est positif",
+          "Une limite finie si la raison est inférieure à 1",
+          "Zéro si la raison est très petite"
+        ]
+      }
+    },
+    {
+      "recto": "Comment étudier la limite d'une suite définie par récurrence u(n+1) = f(u(n)) ?",
+      "verso": "On établit d'abord la convergence, souvent par monotonie et bornes, puis on résout l'équation L = f(L) si f est continue",
+      "explanation": "L'ordre est impératif : l'équation L = f(L) ne prouve pas la convergence, elle identifie seulement la limite si elle existe. Résoudre cette équation sans avoir montré la convergence est une faute de raisonnement.",
+      "tags": [
+        "récurrence",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "On calcule beaucoup de termes à la calculatrice",
+          "On dérive la fonction f",
+          "On applique directement le théorème des gendarmes"
+        ],
+        "medium": [
+          "On résout L = f(L), ce qui suffit à conclure",
+          "On vérifie que f est croissante, ce qui garantit la convergence",
+          "On calcule la limite de f en l'infini"
+        ],
+        "hard": [
+          "On résout L = f(L) puis on vérifie la convergence, dans cet ordre",
+          "On applique le théorème de la limite monotone sans étudier les bornes",
+          "On identifie la limite par la seule continuité de f"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi une suite définie par récurrence peut-elle vérifier L = f(L) sans converger ?",
+      "verso": "Parce que l'équation ne fait qu'identifier les limites possibles : elle est vérifiée par des points fixes que la suite peut ne jamais approcher",
+      "explanation": "Une suite peut osciller autour d'un point fixe sans s'en rapprocher, ou diverger. L'équation des points fixes est une condition nécessaire de la limite, jamais une condition suffisante de convergence.",
+      "tags": [
+        "récurrence",
+        "raisonnement"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que le calcul est faux",
+          "Parce que la fonction n'est pas définie partout",
+          "Parce que le premier terme est mal choisi"
+        ],
+        "medium": [
+          "Parce que l'équation admet toujours plusieurs solutions",
+          "Parce que la continuité de f n'est pas assurée",
+          "Parce que la suite n'est pas monotone"
+        ],
+        "hard": [
+          "Parce que l'équation est une condition suffisante mais non nécessaire",
+          "Parce qu'un point fixe est nécessairement une limite",
+          "Parce que la convergence découle du seul calcul de f"
+        ]
+      }
+    },
+    {
+      "recto": "Comment démontre-t-on qu'une suite est croissante ?",
+      "verso": "En montrant que la différence u(n+1) - u(n) est positive, ou pour une suite strictement positive que le quotient u(n+1) sur u(n) est supérieur ou égal à 1",
+      "explanation": "La méthode du quotient exige impérativement que les termes soient strictement positifs, sans quoi l'inégalité change de sens. Pour une suite définie explicitement par une fonction, on peut aussi étudier les variations de cette fonction sur les réels positifs.",
+      "tags": [
+        "monotonie",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En calculant les cinq premiers termes",
+          "En traçant la courbe",
+          "En vérifiant qu'elle est majorée"
+        ],
+        "medium": [
+          "En montrant que u(n+1) - u(n) est négative",
+          "En vérifiant que le quotient est inférieur à 1",
+          "En montrant que la suite converge"
+        ],
+        "hard": [
+          "En utilisant le quotient sans condition de signe des termes",
+          "En montrant que u(n) est positive pour tout n",
+          "En vérifiant que la limite est supérieure au premier terme"
+        ]
+      }
+    },
+    {
+      "recto": "Que vaut la somme des n+1 premiers termes d'une suite géométrique de raison q différente de 1, de premier terme 1 ?",
+      "verso": "Le quotient de 1 - q puissance (n+1) par 1 - q",
+      "explanation": "La condition q différent de 1 est indispensable, faute de quoi le dénominateur s'annule ; dans ce cas la somme vaut simplement n+1. Combinée à la limite de q puissance n, cette formule donne la somme d'une série géométrique convergente.",
+      "tags": [
+        "somme",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "n multiplié par q",
+          "q puissance n",
+          "La moyenne des termes"
+        ],
+        "medium": [
+          "Le quotient de 1 - q puissance n par 1 - q",
+          "Le quotient de q puissance (n+1) - 1 par q",
+          "Le produit de (n+1) par q puissance n"
+        ],
+        "hard": [
+          "Le quotient de 1 - q puissance (n+1) par q - 1",
+          "Le quotient de 1 + q puissance (n+1) par 1 - q",
+          "Le quotient de 1 - q puissance (n+1) par 1 - q, valable aussi pour q égal à 1"
+        ]
+      }
+    },
+    {
+      "recto": "À quoi sert un algorithme de seuil dans l'étude d'une suite ?",
+      "verso": "À déterminer le plus petit rang à partir duquel les termes dépassent une valeur donnée ou s'approchent de la limite à une précision donnée",
+      "explanation": "La boucle incrémente le rang tant que la condition n'est pas remplie. Un tel algorithme suppose que la suite atteint effectivement le seuil, ce qui doit être justifié mathématiquement au préalable pour garantir la terminaison.",
+      "tags": [
+        "algorithmique",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "À calculer la limite exacte",
+          "À tracer la courbe de la suite",
+          "À vérifier que la suite est croissante"
+        ],
+        "medium": [
+          "À démontrer la convergence de la suite",
+          "À calculer la somme des termes",
+          "À trouver la raison d'une suite géométrique"
+        ],
+        "hard": [
+          "À déterminer le plus grand rang vérifiant une condition",
+          "À démontrer l'existence de la limite sans preuve mathématique",
+          "À calculer la limite par valeurs approchées successives"
+        ]
+      }
+    },
+    {
+      "recto": "Deux suites u et v telles que u(n) est strictement inférieur à v(n) pour tout n peuvent-elles avoir la même limite ?",
+      "verso": "Oui : le passage à la limite conserve les inégalités mais transforme les inégalités strictes en inégalités larges",
+      "explanation": "Les suites de termes généraux -1 sur n et 1 sur n vérifient l'inégalité stricte et convergent toutes deux vers zéro. C'est pourquoi on n'écrit jamais une inégalité stricte entre deux limites obtenues par passage à la limite.",
+      "tags": [
+        "inégalités",
+        "piège"
+      ],
+      "distractors": {
+        "easy": [
+          "Non, jamais",
+          "Oui, si elles sont croissantes",
+          "Non, car les limites héritent de l'inégalité stricte"
+        ],
+        "medium": [
+          "Non, la limite de u est toujours strictement inférieure",
+          "Oui, uniquement si les suites sont constantes",
+          "Non, sauf si les suites ne convergent pas"
+        ],
+        "hard": [
+          "Non, car le passage à la limite conserve la stricte inégalité",
+          "Oui, mais seulement si les suites sont adjacentes",
+          "Non, car deux suites distinctes ont des limites distinctes"
+        ]
+      }
+    },
+    {
+      "recto": "Que peut-on dire d'une suite qui n'est ni convergente ni divergente vers un infini ?",
+      "verso": "Elle est divergente sans limite, comme une suite qui oscille entre deux valeurs distinctes",
+      "explanation": "Le vocabulaire est source de confusion : divergente signifie simplement non convergente, ce qui englobe les suites tendant vers un infini et celles qui n'ont aucune limite. La suite de terme général (-1) puissance n est le contre-exemple de référence.",
+      "tags": [
+        "vocabulaire",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle n'existe pas",
+          "Elle est constante",
+          "Elle est nécessairement bornée et convergente"
+        ],
+        "medium": [
+          "Elle converge vers la moyenne de ses valeurs",
+          "Elle est nécessairement non bornée",
+          "Elle admet une limite qu'on ne sait pas calculer"
+        ],
+        "hard": [
+          "Elle est convergente au sens large",
+          "Divergente signifie exclusivement tendre vers un infini",
+          "Elle admet nécessairement deux limites distinctes"
+        ]
+      }
+    },
+    {
+      "recto": "Quel bilan méthodique retenir pour déterminer la limite d'une suite ?",
+      "verso": "Reconnaître d'abord une forme usuelle ou géométrique, puis tenter les opérations, et en cas d'indétermination transformer l'écriture ou recourir aux théorèmes de comparaison et de monotonie",
+      "explanation": "L'ordre évite de se lancer dans un encadrement compliqué quand une factorisation suffit. Les théorèmes de comparaison et de limite monotone sont les recours quand aucun calcul direct n'aboutit.",
+      "tags": [
+        "synthèse",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Calculer les termes jusqu'à voir la tendance",
+          "Toujours utiliser le théorème des gendarmes",
+          "Toujours dériver la fonction associée"
+        ],
+        "medium": [
+          "Commencer systématiquement par une récurrence",
+          "Appliquer d'abord le théorème de la limite monotone",
+          "Chercher toujours un encadrement avant de calculer"
+        ],
+        "hard": [
+          "Traiter les formes indéterminées comme des absences de limite",
+          "Conclure directement par les opérations sans vérifier l'indétermination",
+          "Utiliser les théorèmes de comparaison avant les limites usuelles"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,536 @@
+{
+  "id": "philosophie-terminale-nature",
+  "title": "La nature",
+  "emoji": "🌿",
+  "subject": "philosophy",
+  "country": "fr",
+  "courseDescription": "Philosophie · Terminale — la nature : nature et culture, nature humaine, finalisme et mécanisme, le naturel comme norme et le rapport écologique.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>La nature</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale (voie générale et technologique)<br>\n  <b>Thème&nbsp;:</b> Philosophie — La raison et le réel<br>\n  <b>Notion</b> · environ 4 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> La nature nous dit-elle ce que nous sommes&nbsp;— et ce que nous devons faire&nbsp;?</p></blockquote>\n\n<p>Le mot est parmi les plus employés et les plus équivoques du vocabulaire philosophique. Il sert à décrire — «&nbsp;la nature d'un métal&nbsp;» — et à juger — «&nbsp;ce n'est pas naturel&nbsp;». C'est ce glissement du descriptif au normatif qui fait tout le danger de la notion&nbsp;: en qualifiant une conduite ou une hiérarchie de naturelle, on la soustrait à la discussion. Le chapitre a donc deux tâches&nbsp;: <strong>clarifier les sens du mot</strong>, et <strong>examiner ce que la nature peut ou ne peut pas fonder</strong>.</p>\n\n<h2>1 · Deux sens du mot</h2>\n\n<ul>\n  <li>La nature comme <strong>totalité</strong>&nbsp;: l'ensemble de ce qui existe indépendamment de l'homme et de ses productions.</li>\n  <li>La nature comme <strong>essence</strong>&nbsp;: ce qui fait qu'une chose est ce qu'elle est — la nature du triangle, la nature humaine.</li>\n</ul>\n\n<p>Ne pas repérer lequel des deux sens est employé produit des raisonnements confus, où l'on passe subrepticement d'un constat sur le monde à une affirmation sur ce que doit être un être particulier.</p>\n\n<div class=\"callout\">\n  <strong>Repère · Genre / espèce / individu</strong><br>\n  La nature-<em>essence</em> répond à la question de ce qu'un être est en tant que membre d'une espèce&nbsp;; la nature-<em>totalité</em> rassemble tous les êtres. Distinguer les niveaux évite de conclure indûment de l'un à l'autre.\n</div>\n\n<h2>2 · Nature et culture</h2>\n\n<p>La distinction s'établit sur un <strong>double critère</strong>&nbsp;:</p>\n\n<ul>\n  <li>relève de la <strong>nature</strong> ce qui est <em>universel</em> et transmis <em>biologiquement</em>&nbsp;;</li>\n  <li>relève de la <strong>culture</strong> ce qui <em>varie</em> selon les groupes et se transmet par <em>apprentissage</em>.</li>\n</ul>\n\n<p>Le double critère est nécessaire&nbsp;: l'universalité seule ne suffit pas, puisque certaines règles culturelles se retrouvent partout. C'est précisément ce que révèle le cas embarrassant analysé par <strong>Lévi-Strauss</strong>&nbsp;: la <strong>prohibition de l'inceste</strong> est universelle comme un fait de nature, mais c'est une <em>règle instituée</em>, variable dans ses formes, comme un fait de culture.</p>\n\n<p>Elle constitue ainsi le point où la nature se dépasse elle-même&nbsp;: en interdisant l'alliance à l'intérieur du groupe, elle impose l'échange entre les groupes — et institue la société. La frontière n'est donc pas une ligne mais un <strong>passage</strong>.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 185\" role=\"img\" aria-label=\"Schéma du double critère distinguant nature et culture : à gauche ce qui est universel et transmis biologiquement, à droite ce qui varie et se transmet par apprentissage ; au centre, la prohibition de l'inceste relève des deux, universelle comme la nature et instituée comme la culture\">\n    <rect x=\"6\" y=\"26\" width=\"102\" height=\"98\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"57\" y=\"48\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Nature</text>\n    <text x=\"57\" y=\"70\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">universel<tspan x=\"57\" dy=\"13\">transmis</tspan><tspan x=\"57\" dy=\"13\">biologiquement</tspan></text>\n    <rect x=\"232\" y=\"26\" width=\"102\" height=\"98\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"283\" y=\"48\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Culture</text>\n    <text x=\"283\" y=\"70\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">variable<tspan x=\"283\" dy=\"13\">transmis par</tspan><tspan x=\"283\" dy=\"13\">apprentissage</tspan></text>\n    <rect x=\"119\" y=\"26\" width=\"102\" height=\"98\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"48\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Le passage</text>\n    <text x=\"170\" y=\"70\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">prohibition<tspan x=\"170\" dy=\"13\">de l'inceste</tspan></text>\n    <text x=\"170\" y=\"112\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">universelle<tspan x=\"170\" dy=\"10\">et instituée</tspan></text>\n    <text x=\"170\" y=\"152\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">la règle qui impose l'échange entre les groupes</text>\n    <text x=\"170\" y=\"170\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">c'est là que la nature se dépasse elle-même</text>\n  </svg>\n  <figcaption>Un seul critère ne suffit pas&nbsp;: c'est leur croisement qui rend visible le point de passage.</figcaption>\n</figure>\n\n<h3>Y a-t-il une nature humaine&nbsp;?</h3>\n\n<p>La difficulté est réelle&nbsp;: l'homme se caractérise précisément par sa capacité à <em>se transformer</em>, ce qui rend problématique l'idée d'une essence fixée. Les deux réponses ont un coût.</p>\n\n<ul>\n  <li>Affirmer une nature humaine risque de <strong>figer en essence des traits historiques</strong>&nbsp;: c'est ainsi qu'on a naturalisé des rôles sociaux et des hiérarchies.</li>\n  <li>La nier entièrement rend difficile de fonder des <strong>droits communs</strong> à tous les hommes.</li>\n</ul>\n\n<p><strong>Sartre</strong> tire de l'absence de nature donnée une conséquence morale&nbsp;: l'homme est entièrement responsable de ce qu'il devient, ne pouvant invoquer aucune essence pour justifier ses conduites. L'excuse «&nbsp;c'est ma nature&nbsp;» reviendrait à se traiter soi-même comme une chose.</p>\n\n<h3>L'homme et l'animal</h3>\n\n<p><strong>Descartes</strong> considère l'animal comme une machine&nbsp;: ses conduites s'expliquent par des mécanismes corporels sans supposer une pensée. Son critère est l'usage de <em>mots combinés</em> pour répondre à toute situation, qu'il n'observe pas chez l'animal.</p>\n\n<p>L'<strong>éthologie contemporaine</strong> conteste largement cette thèse&nbsp;: elle documente des usages d'outils, des transmissions sociales, des apprentissages longtemps tenus pour propres à l'homme. La frontière devient une affaire de <em>degrés</em> plutôt qu'une coupure nette — ce qui ne supprime pas les différences, comme la double articulation du langage ou l'institution de règles, mais interdit de les poser sans examen.</p>\n\n<h2>3 · Comment expliquer la nature</h2>\n\n<p>Deux modèles s'affrontent dans l'histoire des sciences.</p>\n\n<ul>\n  <li>L'explication <strong>finaliste</strong>&nbsp;: les êtres naturels tendent vers une fin qui explique leur organisation. L'œil serait <em>fait pour</em> voir&nbsp;; la nature, dit Aristote, ne fait rien en vain.</li>\n  <li>L'explication <strong>mécaniste</strong>&nbsp;: les phénomènes s'expliquent par des causes antérieures et des lois mesurables. On cesse de demander <em>en vue de quoi</em> un corps tombe pour établir <em>comment</em> il tombe.</li>\n</ul>\n\n<p>La science moderne a écarté le finalisme, sans que la question disparaisse. La biologie continue d'employer un vocabulaire de <strong>fonctions</strong> — dire à quoi sert un organe reste indispensable pour le comprendre. Mais la sélection naturelle explique cette apparence de finalité&nbsp;: les organes efficaces se sont conservés <em>parce qu'ils l'étaient</em>. La fonction est donc un <strong>résultat, non un projet</strong>.</p>\n\n<h2>4 · La nature fait-elle norme&nbsp;?</h2>\n\n<p>Nous voici au cœur du chapitre. De ce qui <em>est</em>, on ne peut pas déduire ce qui <em>doit être</em>&nbsp;: c'est le <strong>sophisme naturaliste</strong>. L'argument «&nbsp;c'est naturel, donc c'est bien&nbsp;» a servi à justifier l'esclavage, les hiérarchies sociales et l'exclusion&nbsp;; et il se retourne aisément, puisque la maladie, la prédation et la mort sont parfaitement naturelles.</p>\n\n<p><b>Mais attention à l'excès inverse.</b> Dire que le naturel ne fonde pas la valeur ne signifie pas que les faits naturels soient sans pertinence&nbsp;: connaître les conditions biologiques d'une existence importe pour délibérer. Ce qui est interdit, c'est le <em>passage automatique</em> du fait à la norme.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 170\" role=\"img\" aria-label=\"Schéma du sophisme naturaliste : d'un constat portant sur ce qui est, on ne peut pas déduire directement une norme portant sur ce qui doit être ; le passage exige un jugement de valeur explicite qui ne se lit pas dans les faits\">\n    <defs>\n      <marker id=\"ar-phnt1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n    <rect x=\"6\" y=\"30\" width=\"120\" height=\"44\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"66\" y=\"50\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Ce qui est</text>\n    <text x=\"66\" y=\"66\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">un constat</text>\n    <path d=\"M130,52 L204,52\" stroke=\"currentColor\" stroke-opacity=\".35\" stroke-width=\"1.4\" stroke-dasharray=\"4 3\" fill=\"none\"/>\n    <text x=\"167\" y=\"42\" text-anchor=\"middle\" font-size=\"12\" class=\"s-muted\">interdit</text>\n    <rect x=\"212\" y=\"30\" width=\"120\" height=\"44\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"272\" y=\"50\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Ce qui doit être</text>\n    <text x=\"272\" y=\"66\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">une norme</text>\n    <path d=\"M66,74 L66,100\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-phnt1)\"/>\n    <rect x=\"94\" y=\"104\" width=\"152\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"125\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">un jugement de valeur explicite</text>\n    <path d=\"M250,116 L272,116 L272,80\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-phnt1)\"/>\n    <text x=\"170\" y=\"160\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">le passage n'est légitime que s'il est assumé et discuté</text>\n  </svg>\n  <figcaption>La maladie, la prédation et la mort sont naturelles&nbsp;: c'est assez pour montrer que «&nbsp;naturel&nbsp;» ne veut pas dire «&nbsp;bon&nbsp;».</figcaption>\n</figure>\n\n<p>De là une méfiance nécessaire envers l'usage courant du mot <strong>naturel</strong>&nbsp;: il désigne le plus souvent ce qui est <em>habituel</em> dans une société donnée, présenté à tort comme donné. Dénaturaliser une évidence, c'est rendre à nouveau possible de l'examiner.</p>\n\n<p>C'est aussi ce qui éclaire l'<strong>état de nature</strong> des philosophes modernes&nbsp;: une <em>fiction méthodologique</em> décrivant la condition humaine hors de toute institution, afin d'éclairer ce que la société apporte ou coûte. Rousseau le dit explicitement — il s'agit d'écarter tous les faits pour raisonner. Le prendre pour une époque historique est un contresens qui rend les théories du contrat absurdes, et qui fait croire à un «&nbsp;retour à la nature&nbsp;» que Rousseau ne prescrit nulle part.</p>\n\n<h2>5 · Que faire de la nature&nbsp;?</h2>\n\n<p>La <strong>connaissance des lois naturelles</strong> augmente notre liberté plutôt qu'elle ne la restreint&nbsp;: connaître une nécessité permet d'agir en conséquence, alors que l'ignorer revient à la subir. C'est le sens de la formule de Bacon&nbsp;: on ne commande à la nature qu'en lui obéissant.</p>\n\n<p>Reste la question de sa <strong>protection</strong>. L'argument par l'intérêt humain est efficace mais fragile&nbsp;: il n'oblige plus dès que la ressource cesse d'être utile. Reconnaître aux êtres vivants une <em>valeur propre</em> engage davantage, au prix d'une difficulté&nbsp;: dire jusqu'où cette valeur s'étend.</p>\n\n<p>La notion d'<strong>Anthropocène</strong> déplace le problème&nbsp;: l'activité humaine étant devenue une force géologique, aucune nature n'échappe plus à son influence. On ne peut donc plus opposer un domaine naturel intact à un domaine humain&nbsp;— et toute politique de la nature devient une <em>décision</em> sur ce que nous voulons en faire.</p>\n\n<p>Enfin, à l'objection selon laquelle protéger la nature sacrifierait des intérêts humains légitimes, on peut répondre que la dégradation des milieux atteint d'abord les populations les plus vulnérables. L'opposition entre écologie et justice sociale n'est pas donnée&nbsp;: elle dépend des mesures adoptées — ce qui n'annule pas les arbitrages réels.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Le fil du problème</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Frise du parcours du chapitre : les deux sens du mot nature, puis la distinction entre nature et culture et le cas de la prohibition de l'inceste, puis les deux modèles d'explication finaliste et mécaniste, puis le sophisme naturaliste, enfin les questions écologiques contemporaines\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"186\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Clarifier</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Totalité ou essence</text>\n    <circle cx=\"26\" cy=\"62\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"59\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Séparer</text>\n    <text x=\"44\" y=\"72\" font-size=\"10\" fill=\"currentColor\">Nature et culture ; Lévi-Strauss</text>\n    <circle cx=\"26\" cy=\"104\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"101\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Expliquer</text>\n    <text x=\"44\" y=\"114\" font-size=\"10\" fill=\"currentColor\">Finalisme et mécanisme</text>\n    <circle cx=\"26\" cy=\"146\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"143\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Se garder</text>\n    <text x=\"44\" y=\"156\" font-size=\"10\" fill=\"currentColor\">Le sophisme naturaliste</text>\n    <circle cx=\"26\" cy=\"184\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"181\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Décider</text>\n    <text x=\"44\" y=\"194\" font-size=\"10\" fill=\"currentColor\">Anthropocène et protection</text>\n  </svg>\n  <figcaption>Le chapitre va d'une clarification de vocabulaire à une question politique.</figcaption>\n</figure>\n\n<h3>Distinctions à tenir</h3>\n\n<table>\n  <tr><th>Distinction</th><th>Ce qui se joue</th></tr>\n  <tr><td>Nature-totalité / nature-essence</td><td>Deux emplois qu'il ne faut pas mélanger</td></tr>\n  <tr><td>Nature / culture</td><td>Universel et biologique contre variable et appris</td></tr>\n  <tr><td>Finalisme / mécanisme</td><td>Expliquer par une fin, ou par des causes antérieures</td></tr>\n  <tr><td>Fait / norme</td><td>Le naturel ne fonde pas le bien</td></tr>\n  <tr><td>Naturel / habituel</td><td>Ce qui est donné contre ce qui est simplement usuel</td></tr>\n  <tr><td>État de nature / époque historique</td><td>Une fiction méthodologique, non un passé</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition</th></tr>\n  <tr><td>Nature</td><td>Totalité de ce qui existe hors de l'homme, ou essence d'une chose</td></tr>\n  <tr><td>Culture</td><td>Ce qui varie selon les groupes et se transmet par apprentissage</td></tr>\n  <tr><td>Prohibition de l'inceste</td><td>Règle universelle et instituée&nbsp;: le passage nature-culture</td></tr>\n  <tr><td>Finalisme</td><td>Explication des êtres par les fins qu'ils réalisent</td></tr>\n  <tr><td>Mécanisme</td><td>Explication par causes antérieures et lois mesurables</td></tr>\n  <tr><td>Fonction</td><td>Effet conservé par la sélection&nbsp;: un résultat, non un projet</td></tr>\n  <tr><td>Sophisme naturaliste</td><td>Déduire une norme d'un simple constat</td></tr>\n  <tr><td>État de nature</td><td>Fiction servant à évaluer ce que la société apporte</td></tr>\n  <tr><td>Anthropocène</td><td>Époque où l'action humaine est devenue une force géologique</td></tr>\n</table>\n\n<h3>Les auteurs</h3>\n\n<table>\n  <tr><th>Auteur</th><th>Thèse à retenir</th></tr>\n  <tr><td>Aristote</td><td>La nature ne fait rien en vain&nbsp;: explication par les fins</td></tr>\n  <tr><td>Descartes</td><td>L'animal-machine&nbsp;; le langage comme critère de la pensée</td></tr>\n  <tr><td>Rousseau</td><td>L'état de nature est une fiction destinée à éclairer le présent</td></tr>\n  <tr><td>Lévi-Strauss</td><td>La prohibition de l'inceste est le passage de la nature à la culture</td></tr>\n  <tr><td>Sartre</td><td>Sans nature donnée, l'homme répond entièrement de ce qu'il devient</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Croire que ce qui est <em>naturel</em> est pour cela <em>bon</em> ou <em>légitime</em>. D'un constat sur ce qui est, on ne déduit pas ce qui doit être&nbsp;: sinon la maladie et la violence seraient justifiées, et l'argument a effectivement servi à défendre l'esclavage et bien des hiérarchies. Mais l'excès inverse est faux aussi&nbsp;: les faits naturels ne sont pas hors de propos dans une délibération, ils n'en dispensent simplement pas. Se méfier enfin du mot «&nbsp;naturel&nbsp;» au sens courant, qui désigne le plus souvent ce qui est habituel.\n</div>\n\n<blockquote><p>La nature ne nous dicte donc rien&nbsp;— elle nous met des conditions. Savoir ce que nous en ferons n'est pas une question qu'elle peut trancher à notre place&nbsp;; c'est même exactement ce qu'elle nous laisse à décider.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Philosophie — La raison et le réel",
+  "cards": [
+    {
+      "recto": "Quels sens principaux le mot nature reçoit-il en philosophie ?",
+      "verso": "L'ensemble de ce qui existe indépendamment de l'homme, et l'essence propre d'une chose qui fait ce qu'elle est",
+      "explanation": "On parle ainsi de la nature comme d'un tout — les montagnes, les vivants — et de la nature d'un être — la nature du triangle, la nature humaine. Ne pas repérer lequel des deux sens est employé conduit à des raisonnements confus.",
+      "tags": [
+        "définition",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La campagne et les forêts uniquement",
+          "Ce que l'on voit à la télévision",
+          "Les animaux sauvages"
+        ],
+        "medium": [
+          "Ce qui existe depuis longtemps",
+          "Ce qui n'a pas été modifié récemment",
+          "L'ensemble des lois physiques seulement"
+        ],
+        "hard": [
+          "L'ensemble des artefacts humains et leur essence",
+          "Ce qui est produit par la culture et transmis",
+          "Le domaine du possible par opposition au réel"
+        ]
+      }
+    },
+    {
+      "recto": "Ne pas confondre : sur quoi repose la distinction entre nature et culture ?",
+      "verso": "Relève de la nature ce qui est universel et transmis biologiquement, relève de la culture ce qui varie selon les groupes et se transmet par apprentissage",
+      "explanation": "Le double critère est nécessaire : l'universalité seule ne suffit pas, puisque certaines règles culturelles se retrouvent partout. C'est précisément ce qui rend le cas de la prohibition de l'inceste si embarrassant, comme le montre Lévi-Strauss.",
+      "tags": [
+        "comparaison",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La nature est verte, la culture est urbaine",
+          "La nature est ancienne, la culture est récente",
+          "La nature est belle, la culture est utile"
+        ],
+        "medium": [
+          "Relève de la nature ce qui varie selon les groupes, de la culture ce qui est universel",
+          "La nature concerne le corps, la culture l'esprit",
+          "La nature est individuelle, la culture est collective"
+        ],
+        "hard": [
+          "L'universalité suffit à elle seule à établir le caractère naturel",
+          "La transmission par apprentissage caractérise les faits naturels",
+          "La distinction repose exclusivement sur le critère de variabilité"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la prohibition de l'inceste pose-t-elle un problème à cette distinction selon Lévi-Strauss ?",
+      "verso": "Elle est universelle comme un fait de nature, mais c'est une règle instituée et variable dans ses formes comme un fait de culture",
+      "explanation": "Elle est le point où la nature se dépasse elle-même : en imposant l'échange entre les groupes, elle institue la société. Ce cas montre que la frontière n'est pas une ligne mais un passage.",
+      "tags": [
+        "auteur",
+        "Lévi-Strauss"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle n'existe que dans certaines sociétés",
+          "Elle est récente dans l'histoire humaine",
+          "Elle est purement biologique"
+        ],
+        "medium": [
+          "Elle varie tellement qu'on ne peut la définir",
+          "Elle est imposée par les religions uniquement",
+          "Elle s'explique entièrement par des raisons génétiques"
+        ],
+        "hard": [
+          "Elle est particulière comme un fait de culture et innée comme un fait de nature",
+          "Elle relève exclusivement de la nature puisqu'elle est universelle",
+          "Elle constitue une exception sans portée théorique"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : ce qui est naturel est-il pour autant bon ou légitime ?",
+      "verso": "Non : d'un constat sur ce qui est on ne peut pas déduire ce qui doit être, sans quoi la maladie et la violence seraient justifiées",
+      "explanation": "C'est le sophisme naturaliste, l'erreur la plus fréquente du chapitre. L'argument « c'est naturel donc c'est bien » a servi à justifier l'esclavage, les hiérarchies sociales et l'exclusion. Attention à l'excès inverse : dire que le naturel ne fonde pas la valeur ne signifie pas que les faits naturels soient sans pertinence pour la délibération.",
+      "tags": [
+        "piege",
+        "morale"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, la nature est toujours bien faite",
+          "Oui, sinon la nature serait mauvaise",
+          "Non, le naturel est toujours nuisible"
+        ],
+        "medium": [
+          "Oui, à condition que ce soit universel",
+          "Oui, car la nature poursuit des fins bonnes",
+          "Non, car rien n'est réellement naturel"
+        ],
+        "hard": [
+          "Oui, car ce qui est constant dans la nature possède une valeur normative",
+          "Non, car les faits naturels sont sans pertinence pour toute délibération",
+          "Oui, car l'observation d'une régularité fonde une obligation"
+        ]
+      }
+    },
+    {
+      "recto": "Que soutient l'explication finaliste de la nature ?",
+      "verso": "Que les êtres naturels tendent vers une fin qui explique leur organisation, comme l'œil serait fait pour voir",
+      "explanation": "Aristote en fait le principe de sa physique : la nature ne fait rien en vain. La science moderne a écarté ce type d'explication au profit des causes mécaniques, sans que la question du finalisme disparaisse en biologie, où l'on parle encore de fonctions.",
+      "tags": [
+        "explication",
+        "Aristote"
+      ],
+      "distractors": {
+        "easy": [
+          "Que la nature a une fin proche",
+          "Que tout finit par disparaître",
+          "Que la nature est éternelle"
+        ],
+        "medium": [
+          "Que tout s'explique par des causes mécaniques antérieures",
+          "Que la nature est le produit du hasard",
+          "Que les êtres naturels sont sans organisation"
+        ],
+        "hard": [
+          "Que les organes s'expliquent par leurs causes efficientes seules",
+          "Que la finalité observée est une illusion à écarter",
+          "Que les fins naturelles se réduisent aux lois physiques"
+        ]
+      }
+    },
+    {
+      "recto": "Que substitue la science moderne à l'explication par les fins ?",
+      "verso": "L'explication mécaniste, qui rend compte des phénomènes par des causes antérieures et des lois mesurables",
+      "explanation": "On cesse de demander en vue de quoi un corps tombe pour établir comment il tombe. Ce déplacement n'affirme pas que la nature soit dépourvue d'ordre : il change la manière d'en rendre compte.",
+      "tags": [
+        "explication",
+        "science"
+      ],
+      "distractors": {
+        "easy": [
+          "L'explication par la volonté divine",
+          "L'explication par le hasard pur",
+          "L'abandon de toute explication"
+        ],
+        "medium": [
+          "L'explication par les qualités sensibles des corps",
+          "L'explication par les fins poursuivies par la nature",
+          "L'explication par l'analogie avec l'homme"
+        ],
+        "hard": [
+          "L'explication téléologique fondée sur des fonctions",
+          "L'explication par les causes finales quantifiées",
+          "L'explication par la seule observation sans loi"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la biologie continue-t-elle d'employer un vocabulaire de fonctions malgré le mécanisme ?",
+      "verso": "Parce que dire à quoi sert un organe reste indispensable pour le comprendre, sans supposer une intention qui l'aurait conçu",
+      "explanation": "La sélection naturelle explique cette apparence de finalité : les organes efficaces se sont conservés parce qu'ils l'étaient. La fonction est donc un résultat, non un projet.",
+      "tags": [
+        "biologie",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les biologistes sont croyants",
+          "Parce que le vocabulaire est ancien",
+          "Parce que la biologie n'est pas une science"
+        ],
+        "medium": [
+          "Parce que la nature poursuit réellement des intentions",
+          "Parce que les fonctions sont indémontrables mais commodes",
+          "Parce que la biologie refuse l'explication mécaniste"
+        ],
+        "hard": [
+          "Parce que la sélection naturelle suppose un projet préalable",
+          "Parce que la fonction est une cause antérieure à l'organe",
+          "Parce que le finalisme est démontré par la génétique"
+        ]
+      }
+    },
+    {
+      "recto": "Que désigne l'état de nature dans la philosophie politique moderne ?",
+      "verso": "Une fiction méthodologique décrivant la condition humaine hors de toute institution, afin d'éclairer ce que la société apporte ou coûte",
+      "explanation": "Rousseau le dit explicitement : il s'agit d'écarter tous les faits pour raisonner. Prendre cet état pour une époque historique est un contresens qui rend les théories du contrat absurdes.",
+      "tags": [
+        "politique",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La préhistoire de l'humanité",
+          "La vie des peuples sans écriture",
+          "La vie à la campagne"
+        ],
+        "medium": [
+          "Une période historique attestée par l'archéologie",
+          "L'enfance de chaque individu",
+          "La condition des animaux sauvages"
+        ],
+        "hard": [
+          "Une description empirique des sociétés sans État",
+          "Un état historique documenté par les récits de voyage",
+          "Une hypothèse falsifiable sur l'origine des sociétés"
+        ]
+      }
+    },
+    {
+      "recto": "Existe-t-il une nature humaine, et pourquoi la question est-elle difficile ?",
+      "verso": "Parce que l'homme se caractérise précisément par sa capacité à se transformer, ce qui rend problématique l'idée d'une essence fixée",
+      "explanation": "Affirmer une nature humaine risque de figer en essence des traits historiques ; la nier entièrement rend difficile de fonder des droits communs à tous. La discussion porte sur ce que l'on peut tenir pour invariant sans naturaliser des conventions.",
+      "tags": [
+        "anthropologie",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les hommes se ressemblent tous",
+          "Parce que la nature humaine est inconnue",
+          "Parce que l'homme n'est pas un animal"
+        ],
+        "medium": [
+          "Parce que la biologie n'a pas encore tranché",
+          "Parce que les cultures sont trop nombreuses à comparer",
+          "Parce que la nature humaine varie selon les individus"
+        ],
+        "hard": [
+          "Parce que l'essence de l'homme se déduit de ses comportements observés",
+          "Parce que la capacité de se transformer prouve l'existence d'une essence fixe",
+          "Parce que nier toute nature humaine facilite la fondation des droits"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle conséquence Sartre tire-t-il de l'absence de nature humaine donnée ?",
+      "verso": "Que l'homme est entièrement responsable de ce qu'il devient, ne pouvant invoquer aucune essence pour justifier ses conduites",
+      "explanation": "L'absence de nature n'est donc pas une lacune mais une charge. Elle interdit l'excuse du c'est ma nature, qui reviendrait à se traiter soi-même comme une chose.",
+      "tags": [
+        "auteur",
+        "Sartre"
+      ],
+      "distractors": {
+        "easy": [
+          "Que l'homme peut faire n'importe quoi",
+          "Que l'homme est un animal comme les autres",
+          "Que l'homme n'a aucune liberté"
+        ],
+        "medium": [
+          "Que la société détermine entièrement les individus",
+          "Que l'homme doit rechercher sa nature véritable",
+          "Que la responsabilité disparaît faute de repères"
+        ],
+        "hard": [
+          "Que l'homme peut invoquer son caractère pour justifier ses conduites",
+          "Que l'absence d'essence supprime toute responsabilité",
+          "Que la nature humaine se construit indépendamment des choix"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi Descartes considère-t-il l'animal comme une machine ?",
+      "verso": "Parce qu'il explique ses conduites par des mécanismes corporels sans supposer une pensée, réservée à l'homme par le langage",
+      "explanation": "Le critère décisif est l'usage de mots combinés pour répondre à toute situation, que Descartes n'observe pas chez l'animal. La thèse est aujourd'hui largement contestée par l'éthologie, qui documente des capacités cognitives considérables.",
+      "tags": [
+        "auteur",
+        "Descartes"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les animaux ne bougent pas seuls",
+          "Parce que les animaux sont faits de métal",
+          "Parce que les animaux n'ont pas de corps"
+        ],
+        "medium": [
+          "Parce que les animaux ne ressentent rien du tout selon l'observation",
+          "Parce que les animaux n'ont pas de cerveau",
+          "Parce que les animaux sont incapables d'apprendre"
+        ],
+        "hard": [
+          "Parce que les animaux disposent d'un langage combinatoire limité",
+          "Parce que la pensée animale est démontrée mais inférieure",
+          "Parce que les mécanismes corporels supposent nécessairement une pensée"
+        ]
+      }
+    },
+    {
+      "recto": "Que remet en question l'éthologie contemporaine dans la frontière entre l'homme et l'animal ?",
+      "verso": "Elle documente chez certains animaux des usages d'outils, des transmissions sociales et des formes d'apprentissage longtemps tenues pour propres à l'homme",
+      "explanation": "La frontière devient une question de degrés plutôt qu'une coupure nette. Cela ne supprime pas les différences — la double articulation du langage, l'institution de règles — mais interdit de les poser sans examen.",
+      "tags": [
+        "contemporain",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Que les animaux parlent comme les hommes",
+          "Que les hommes sont des animaux ordinaires",
+          "Que les animaux ont une religion"
+        ],
+        "medium": [
+          "Que toute différence entre homme et animal est supprimée",
+          "Que les animaux possèdent un langage doublement articulé",
+          "Que les animaux instituent des règles morales"
+        ],
+        "hard": [
+          "Que la frontière constitue une coupure nette confirmée",
+          "Que les capacités animales excluent toute transmission sociale",
+          "Que les différences de degré équivalent à des différences de nature"
+        ]
+      }
+    },
+    {
+      "recto": "Quel repère du programme permet de distinguer les deux emplois du mot nature ?",
+      "verso": "L'opposition entre le genre, l'espèce et l'individu",
+      "explanation": "La nature entendue comme essence répond à la question de ce qu'un être est en tant que membre d'une espèce ; la nature entendue comme totalité rassemble tous les êtres. Distinguer les niveaux évite de conclure de l'un à l'autre.",
+      "tags": [
+        "repère",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Le repère croire / savoir",
+          "Le repère légal / légitime",
+          "Le repère idéal / réel"
+        ],
+        "medium": [
+          "Le repère analyse / synthèse",
+          "Le repère médiat / immédiat",
+          "Le repère obligation / contrainte"
+        ],
+        "hard": [
+          "Le repère persuader / convaincre",
+          "Le repère principe / conséquence",
+          "Le repère en théorie / en pratique"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la protection de la nature ne se justifie-t-elle pas seulement par l'intérêt humain ?",
+      "verso": "Parce qu'on peut soutenir que certains êtres vivants ont une valeur qui ne dépend pas de leur utilité pour nous",
+      "explanation": "L'argument anthropocentré est efficace mais fragile : il n'oblige à rien dès que la ressource n'est plus utile. Reconnaître une valeur propre engage davantage, au prix d'une difficulté : dire jusqu'où cette valeur s'étend.",
+      "tags": [
+        "écologie",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que la nature est belle à regarder",
+          "Parce que la loi l'exige",
+          "Parce que c'est une mode récente"
+        ],
+        "medium": [
+          "Parce que la nature est plus forte que l'homme",
+          "Parce que l'intérêt humain est toujours mal calculé",
+          "Parce que la protection coûte moins cher que la destruction"
+        ],
+        "hard": [
+          "Parce que la valeur d'un être se mesure à son utilité pour nous",
+          "Parce que l'argument anthropocentré oblige indépendamment de l'utilité",
+          "Parce que seule l'utilité future justifie la protection"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi la notion d'Anthropocène modifie-t-elle le rapport entre nature et action humaine ?",
+      "verso": "Elle désigne une époque où l'activité humaine est devenue une force géologique, de sorte qu'aucune nature n'échappe plus à son influence",
+      "explanation": "La conséquence est philosophique autant que scientifique : on ne peut plus opposer un domaine naturel intact à un domaine humain. Toute politique de la nature devient une décision sur ce que nous voulons en faire.",
+      "tags": [
+        "contemporain",
+        "écologie"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle désigne l'étude des hommes préhistoriques",
+          "Elle nomme une région du globe",
+          "Elle décrit une théorie biologique"
+        ],
+        "medium": [
+          "Elle désigne une période où la nature reprend ses droits",
+          "Elle nomme la disparition des activités humaines",
+          "Elle décrit l'origine géologique de l'humanité"
+        ],
+        "hard": [
+          "Elle établit qu'une nature intacte subsiste hors de l'influence humaine",
+          "Elle décrit une influence humaine limitée aux zones urbanisées",
+          "Elle restaure l'opposition stricte entre nature et culture"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi l'idée d'un retour à la nature est-elle problématique ?",
+      "verso": "Parce qu'il n'existe pas d'état naturel de l'homme antérieur à la culture auquel il serait possible de revenir",
+      "explanation": "Rousseau lui-même ne prône pas ce retour : il utilise l'état de nature comme instrument critique. Ce que l'on peut vouloir n'est pas revenir en arrière mais transformer les rapports présents.",
+      "tags": [
+        "argument",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que la campagne est loin des villes",
+          "Parce que la nature est dangereuse",
+          "Parce que personne ne le souhaite"
+        ],
+        "medium": [
+          "Parce que Rousseau prescrivait explicitement ce retour",
+          "Parce que l'état de nature est une époque révolue mais réelle",
+          "Parce que la technique l'empêche matériellement"
+        ],
+        "hard": [
+          "Parce que l'état de nature constitue une norme historique documentée",
+          "Parce que la culture est un accident dont on pourrait se défaire",
+          "Parce que le retour supposerait une transformation des rapports présents"
+        ]
+      }
+    },
+    {
+      "recto": "Comment la connaissance des lois naturelles peut-elle augmenter notre liberté plutôt que la restreindre ?",
+      "verso": "Parce que connaître une nécessité permet d'agir en conséquence, alors que l'ignorer revient à la subir",
+      "explanation": "On ne commande à la nature qu'en lui obéissant, selon la formule de Bacon : c'est en respectant les lois que l'on obtient les effets voulus. La nécessité naturelle n'est donc pas l'ennemie de l'action, mais sa condition.",
+      "tags": [
+        "liberté",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que la science rend puissant",
+          "Parce que les lois naturelles n'existent pas vraiment",
+          "Parce que connaître fait plaisir"
+        ],
+        "medium": [
+          "Parce que la connaissance permet d'échapper aux lois de la nature",
+          "Parce que les lois naturelles peuvent être modifiées",
+          "Parce que la science supprime toute nécessité"
+        ],
+        "hard": [
+          "Parce que la nécessité naturelle contredit toute action efficace",
+          "Parce que l'ignorance des lois laisse le champ libre à la volonté",
+          "Parce que la liberté suppose une exception à l'ordre naturel"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi le mot naturel employé dans le langage courant est-il souvent trompeur ?",
+      "verso": "Parce qu'il désigne le plus souvent ce qui est habituel dans une société donnée, présenté à tort comme donné par la nature",
+      "explanation": "Les rôles sociaux, les goûts et les hiérarchies ont longtemps été qualifiés de naturels pour les soustraire à la discussion. Dénaturaliser une évidence, c'est rendre à nouveau possible de l'examiner.",
+      "tags": [
+        "critique",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'il est employé dans la publicité",
+          "Parce qu'il désigne les produits alimentaires",
+          "Parce qu'il est difficile à définir"
+        ],
+        "medium": [
+          "Parce qu'il désigne toujours ce qui est ancien",
+          "Parce qu'il concerne uniquement la biologie",
+          "Parce qu'il varie selon les langues"
+        ],
+        "hard": [
+          "Parce qu'il désigne exactement ce qui est universel et invariable",
+          "Parce qu'il soustrait à la discussion des faits réellement naturels",
+          "Parce qu'il s'oppose systématiquement à ce qui est habituel"
+        ]
+      }
+    },
+    {
+      "recto": "Comment répondre à l'objection selon laquelle protéger la nature reviendrait à sacrifier des intérêts humains légitimes ?",
+      "verso": "En montrant que la dégradation des milieux atteint d'abord les populations les plus vulnérables, de sorte que les deux exigences ne s'opposent pas mécaniquement",
+      "explanation": "L'opposition entre écologie et justice sociale n'est pas donnée : elle dépend des mesures adoptées. Cela n'annule pas les arbitrages réels, mais interdit de traiter les deux objectifs comme incompatibles par principe.",
+      "tags": [
+        "débat",
+        "écologie"
+      ],
+      "distractors": {
+        "easy": [
+          "En affirmant que la nature passe avant les hommes",
+          "En expliquant que les intérêts humains sont illégitimes",
+          "En rappelant que la nature est belle"
+        ],
+        "medium": [
+          "En montrant que la protection ne coûte jamais rien",
+          "En affirmant que tout arbitrage est inutile",
+          "En prouvant que les populations vulnérables sont protégées"
+        ],
+        "hard": [
+          "En établissant que les deux exigences sont incompatibles par principe",
+          "En montrant que les arbitrages réels sont sans objet",
+          "En soutenant que la dégradation atteint également toutes les populations"
+        ]
+      }
+    },
+    {
+      "recto": "Quel bilan peut-on dresser sur la nature ?",
+      "verso": "Elle n'est ni un simple stock de ressources ni une norme qui dicterait nos conduites, mais un ensemble de conditions et de limites dont il nous revient de décider quoi faire",
+      "explanation": "La traiter comme un stock conduit à en épuiser les conditions ; en faire une norme conduit à justifier n'importe quelle inégalité par un ordre prétendu naturel. Entre les deux se situe la délibération.",
+      "tags": [
+        "synthèse",
+        "bilan"
+      ],
+      "distractors": {
+        "easy": [
+          "C'est un stock de ressources à exploiter",
+          "C'est un modèle à imiter en tout",
+          "C'est ce qui reste hors des villes"
+        ],
+        "medium": [
+          "C'est une norme qui indique ce qui est bien",
+          "C'est ce que la culture a définitivement remplacé",
+          "C'est un domaine intact que l'homme n'a pas touché"
+        ],
+        "hard": [
+          "C'est un ordre finalisé dont les fins déterminent nos devoirs",
+          "C'est un ensemble de faits sans aucune pertinence pour l'action",
+          "C'est une essence fixe dont dérivent les normes sociales"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,614 @@
+{
+  "id": "mathematiques-terminale-fonction-exponentielle",
+  "title": "La fonction exponentielle",
+  "emoji": "🚀",
+  "subject": "mathematics",
+  "country": "fr",
+  "courseDescription": "Spé Maths · Terminale — définition par l'équation différentielle, propriétés algébriques, étude complète et résolution d'équations exponentielles.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>La fonction exponentielle</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · spécialité Mathématiques<br>\n  <b>Thème&nbsp;:</b> Analyse — fonctions de référence<br>\n  <b>Chapitre</b> · environ 3 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> Existe-t-il une fonction qui soit sa propre dérivée&nbsp;— et à quoi sert-elle&nbsp;?</p></blockquote>\n\n<p>La question paraît formelle, elle ne l'est pas. Dire qu'une fonction est égale à sa dérivée, c'est dire que sa <em>vitesse de croissance est proportionnelle à ce qu'elle vaut déjà</em>&nbsp;: plus il y en a, plus vite cela augmente. C'est exactement la loi d'un capital à intérêts composés, d'une population sans contrainte, d'un noyau radioactif qui se désintègre. L'exponentielle n'est donc pas une fonction de plus dans le catalogue&nbsp;: c'est <strong>la</strong> fonction des phénomènes qui s'entretiennent eux-mêmes.</p>\n\n<h2>1 · Définition et existence</h2>\n\n<p>La fonction exponentielle est l'<strong>unique fonction dérivable sur ℝ vérifiant deux conditions</strong>&nbsp;:</p>\n\n<ul>\n  <li>elle est égale à sa propre dérivée&nbsp;: f&nbsp;′ = f&nbsp;;</li>\n  <li>elle vaut 1 en zéro&nbsp;: f(0) = 1.</li>\n</ul>\n\n<p>Les deux conditions sont indispensables. Sans la seconde, toutes les fonctions proportionnelles à l'exponentielle conviendraient&nbsp;— y compris la fonction nulle. C'est cette définition, et non une formule, qui fonde tout le chapitre.</p>\n\n<p>On note e le nombre image de 1 par cette fonction&nbsp;: <strong>e ≈ 2,718</strong>. Il est irrationnel, et même transcendant.</p>\n\n<h2>2 · Les propriétés algébriques</h2>\n\n<p>Une seule relation compte, dont toutes les autres découlent&nbsp;:</p>\n\n<p><strong>e<sup>a+b</sup> = e<sup>a</sup> × e<sup>b</sup></strong></p>\n\n<p>L'exponentielle transforme les <em>additions</em> en <em>multiplications</em>. C'est ce qui explique son omniprésence dans la modélisation des croissances à taux constant.</p>\n\n<table>\n  <tr><th>Relation</th><th>Conséquence</th></tr>\n  <tr><td>e<sup>a+b</sup> = e<sup>a</sup>e<sup>b</sup></td><td>Propriété fondamentale</td></tr>\n  <tr><td>e<sup>−x</sup> = 1 / e<sup>x</sup></td><td>L'<em>inverse</em>, pas l'opposé</td></tr>\n  <tr><td>e<sup>a−b</sup> = e<sup>a</sup> / e<sup>b</sup></td><td>Simplifier un quotient</td></tr>\n  <tr><td>e<sup>nx</sup> = (e<sup>x</sup>)<sup>n</sup></td><td>Reconnaître une suite géométrique</td></tr>\n  <tr><td>e<sup>0</sup> = 1</td><td>Valeur de référence</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Ce qu'on ne peut pas faire</strong><br>\n  La propriété porte sur l'<em>exponentielle d'une somme</em>, jamais sur la <em>somme d'exponentielles</em>. Écrire que e<sup>a</sup> + e<sup>b</sup> vaut e<sup>a+b</sup> est faux. Une somme d'exponentielles ne se factorise que si les exposants partagent un terme commun.\n</div>\n\n<h2>3 · Le fait le plus utile&nbsp;: la stricte positivité</h2>\n\n<p><strong>L'exponentielle est strictement positive sur ℝ tout entier.</strong> Elle ne s'annule jamais, ne prend jamais de valeur négative.</p>\n\n<p>Deux conséquences opératoires, à mobiliser sans hésiter&nbsp;:</p>\n\n<ul>\n  <li>Une équation du type e<sup>x</sup> = −2 n'a <strong>aucune solution</strong>&nbsp;: inutile de calculer.</li>\n  <li>Dans un produit, <strong>le facteur exponentiel ne change jamais le signe</strong>. Le signe de P(x)e<sup>x</sup> est celui de P(x) — ce qui réduit presque toujours l'étude de signe d'une dérivée au seul facteur polynomial.</li>\n</ul>\n\n<p><b>Attention à l'erreur symétrique&nbsp;:</b> strictement positive ne veut pas dire supérieure à 1. Pour x négatif, l'exponentielle est comprise entre 0 et 1.</p>\n\n<h2>4 · Étude de la fonction</h2>\n\n<p>Sa dérivée étant elle-même, donc strictement positive, l'exponentielle est <strong>strictement croissante</strong> sur ℝ. Sa dérivée seconde étant elle-même également, elle est <strong>convexe</strong> sur ℝ&nbsp;— sans aucun point d'inflexion. C'est ce qui donne à la croissance exponentielle son caractère d'emballement.</p>\n\n<table>\n  <tr><th>En −∞</th><th>En 0</th><th>En +∞</th></tr>\n  <tr><td>Limite 0 (asymptote horizontale)</td><td>Vaut 1&nbsp;; tangente y = x + 1</td><td>Limite +∞</td></tr>\n</table>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Courbe de la fonction exponentielle : strictement positive et croissante, avec l'axe des abscisses pour asymptote horizontale en moins l'infini, passant par le point d'ordonnée 1 en zéro, et située au-dessus de sa tangente d'équation y égale x plus 1\">\n    <line x1=\"16\" y1=\"150\" x2=\"326\" y2=\"150\" stroke=\"currentColor\" stroke-opacity=\".3\"/>\n    <line x1=\"150\" y1=\"16\" x2=\"150\" y2=\"172\" stroke=\"currentColor\" stroke-opacity=\".3\"/>\n    <text x=\"330\" y=\"154\" font-size=\"8\" class=\"s-muted\">x</text>\n    <line x1=\"140\" y1=\"118\" x2=\"160\" y2=\"118\" stroke=\"currentColor\" stroke-opacity=\".4\"/>\n    <text x=\"132\" y=\"122\" text-anchor=\"end\" font-size=\"8\" class=\"s-muted\">1</text>\n    <line x1=\"60\" y1=\"182\" x2=\"264\" y2=\"42\" stroke=\"var(--accent)\" stroke-opacity=\".5\" stroke-dasharray=\"4 3\"/>\n    <text x=\"240\" y=\"60\" font-size=\"8\" class=\"s-muted\">y = x + 1</text>\n    <path d=\"M18,148 C70,146 110,138 150,118 C186,98 214,58 236,20\" stroke=\"var(--accent)\" stroke-width=\"2.2\" fill=\"none\"/>\n    <circle cx=\"150\" cy=\"118\" r=\"3.5\" fill=\"var(--accent)\"/>\n    <text x=\"24\" y=\"140\" font-size=\"8\" class=\"s-muted\">asymptote y = 0</text>\n    <text x=\"170\" y=\"186\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">strictement positive, croissante, convexe</text>\n  </svg>\n  <figcaption>La courbe est au-dessus de sa tangente en 0&nbsp;: c'est la traduction graphique de l'inégalité e<sup>x</sup> ≥ x + 1.</figcaption>\n</figure>\n\n<h3>L'inégalité de convexité</h3>\n\n<p><strong>e<sup>x</sup> ≥ x + 1 pour tout réel x.</strong> Elle vient de la convexité&nbsp;: la courbe est au-dessus de sa tangente en 0, dont l'équation est y = x + 1. Elle sert à minorer une exponentielle dans un encadrement, et à démontrer la limite en +∞.</p>\n\n<h3>Croissances comparées</h3>\n\n<p>L'exponentielle l'emporte sur <em>toute</em> puissance, si grande soit-elle&nbsp;:</p>\n\n<ul>\n  <li>x<sup>n</sup> / e<sup>x</sup> tend vers <strong>0</strong> en +∞, pour tout entier n&nbsp;;</li>\n  <li>x e<sup>x</sup> tend vers <strong>0</strong> en −∞.</li>\n</ul>\n\n<p>Ces deux résultats lèvent directement des indéterminations de type ∞/∞ et 0 × ∞.</p>\n\n<h2>5 · Équations et inéquations</h2>\n\n<p>Les deux résolutions reposent sur la même propriété — la stricte croissance — mais l'utilisent différemment.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 165\" role=\"img\" aria-label=\"Comparaison entre la résolution d'une équation exponentielle, qui se ramène à l'égalité des exposants par injectivité, et celle d'une inéquation, qui se ramène à une inégalité entre exposants en conservant le sens grâce à la stricte croissance\">\n    <defs>\n      <marker id=\"ar-msex1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n    <text x=\"8\" y=\"14\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Équation</text>\n    <rect x=\"8\" y=\"24\" width=\"120\" height=\"32\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"68\" y=\"44\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">e^A = e^B</text>\n    <path d=\"M132,40 L172,40\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-msex1)\"/>\n    <rect x=\"178\" y=\"24\" width=\"120\" height=\"32\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"238\" y=\"44\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">A = B</text>\n    <text x=\"8\" y=\"74\" font-size=\"9\" class=\"s-muted\">injectivité</text>\n    <line x1=\"8\" y1=\"86\" x2=\"332\" y2=\"86\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"106\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Inéquation</text>\n    <rect x=\"8\" y=\"116\" width=\"120\" height=\"32\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"68\" y=\"136\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">e^A ≤ e^B</text>\n    <path d=\"M132,132 L172,132\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-msex1)\"/>\n    <rect x=\"178\" y=\"116\" width=\"120\" height=\"32\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"238\" y=\"136\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">A ≤ B</text>\n    <text x=\"304\" y=\"136\" font-size=\"9\" class=\"s-muted\">✓</text>\n    <text x=\"8\" y=\"160\" font-size=\"9\" class=\"s-muted\">stricte croissance : le sens ne s'inverse jamais</text>\n  </svg>\n  <figcaption>Le sens d'une inéquation ne s'inverse jamais en «&nbsp;retirant&nbsp;» l'exponentielle&nbsp;: elle est croissante, pas décroissante.</figcaption>\n</figure>\n\n<h2>6 · Équations différentielles</h2>\n\n<p>L'équation <strong>y&nbsp;′ = ay</strong> a pour solutions exactement les fonctions&nbsp;:</p>\n\n<p>x&nbsp;↦&nbsp;C&nbsp;e<sup>ax</sup>, où C est un réel quelconque.</p>\n\n<p>L'ensemble des solutions est donc une <strong>famille à un paramètre</strong>, jamais une fonction unique. La <strong>condition initiale</strong> — la valeur imposée en un point — détermine C et sélectionne une solution.</p>\n\n<p>C'est le modèle des phénomènes à taux constant&nbsp;: dire que la variation instantanée est proportionnelle à la grandeur, c'est écrire exactement y&nbsp;′ = ay. Désintégration radioactive (a &lt; 0), intérêts composés, croissance d'une population sans contrainte (a &gt; 0).</p>\n\n<h3>Un lien avec les suites</h3>\n\n<p>La suite de terme général e<sup>an</sup> est <strong>géométrique de raison e<sup>a</sup></strong>, puisque le quotient de deux termes consécutifs vaut cette constante. Selon le signe de a, la raison dépasse 1 ou lui est inférieure&nbsp;— ce qui donne immédiatement la limite.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Les réflexes du chapitre</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Frise des réflexes à mobiliser face à une fonction contenant une exponentielle : utiliser la stricte positivité pour le signe, la formule de la composée pour la dérivée, les propriétés algébriques pour simplifier, les croissances comparées pour les limites indéterminées, et la stricte croissance pour les équations et inéquations\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"186\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Signe</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Stricte positivité → écarter le facteur</text>\n    <circle cx=\"26\" cy=\"62\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"59\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Dérivée</text>\n    <text x=\"44\" y=\"72\" font-size=\"10\" fill=\"currentColor\">u ′ e^u : signe donné par u ′</text>\n    <circle cx=\"26\" cy=\"104\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"101\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Simplifier</text>\n    <text x=\"44\" y=\"114\" font-size=\"10\" fill=\"currentColor\">Somme d'exposants, quotient</text>\n    <circle cx=\"26\" cy=\"146\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"143\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Limites</text>\n    <text x=\"44\" y=\"156\" font-size=\"10\" fill=\"currentColor\">Croissances comparées</text>\n    <circle cx=\"26\" cy=\"184\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"181\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Résoudre</text>\n    <text x=\"44\" y=\"194\" font-size=\"10\" fill=\"currentColor\">Stricte croissance, sens conservé</text>\n  </svg>\n  <figcaption>La stricte positivité est le réflexe le plus rentable&nbsp;: elle simplifie presque toutes les études de signe.</figcaption>\n</figure>\n\n<h3>Formules à connaître</h3>\n\n<table>\n  <tr><th>Objet</th><th>Formule</th></tr>\n  <tr><td>Caractérisation</td><td>f&nbsp;′ = f et f(0) = 1</td></tr>\n  <tr><td>Propriété fondamentale</td><td>e<sup>a+b</sup> = e<sup>a</sup>e<sup>b</sup></td></tr>\n  <tr><td>Dérivée composée</td><td>(e<sup>u</sup>)&nbsp;′ = u&nbsp;′ e<sup>u</sup></td></tr>\n  <tr><td>Convexité</td><td>e<sup>x</sup> ≥ x + 1</td></tr>\n  <tr><td>Croissance comparée</td><td>x<sup>n</sup>/e<sup>x</sup> → 0 en +∞&nbsp;; xe<sup>x</sup> → 0 en −∞</td></tr>\n  <tr><td>Équation différentielle</td><td>y&nbsp;′ = ay ⟺ y = C e<sup>ax</sup></td></tr>\n</table>\n\n<h3>Notions à distinguer</h3>\n\n<table>\n  <tr><th>Distinction</th><th>Ce qui se joue</th></tr>\n  <tr><td>e<sup>a+b</sup> / e<sup>a</sup> + e<sup>b</sup></td><td>Seule la première se factorise</td></tr>\n  <tr><td>e<sup>−x</sup> / −e<sup>x</sup></td><td>Inverse, jamais opposé</td></tr>\n  <tr><td>Strictement positive / supérieure à 1</td><td>Entre 0 et 1 pour x négatif</td></tr>\n  <tr><td>Équation / inéquation</td><td>Injectivité contre stricte croissance</td></tr>\n  <tr><td>y&nbsp;′ = ay / solution unique</td><td>Une famille&nbsp;; la condition initiale tranche</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Oublier que l'exponentielle est <strong>strictement positive</strong>. Une équation e<sup>x</sup> = −2 n'a pas de solution, et dans un produit le facteur exponentiel <em>ne change jamais le signe</em>&nbsp;: c'est ce qui permet de réduire l'étude de signe au seul facteur polynomial. Attention à l'erreur symétrique&nbsp;: strictement positive ne signifie pas supérieure à 1. Deux autres fautes classiques&nbsp;: écrire e<sup>−x</sup> = −e<sup>x</sup> (c'est l'inverse), et croire qu'une somme d'exponentielles se factorise comme un produit.\n</div>\n\n<blockquote><p>Une fonction égale à sa propre dérivée décrit tout ce qui grandit à proportion de ce qu'il est déjà. C'est pourquoi la même courbe sert à décrire un capital, une population et un noyau qui se désintègre&nbsp;: seul le signe du coefficient change.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Spécialité Mathématiques — Analyse",
+  "cards": [
+    {
+      "recto": "Par quelle propriété caractérise-t-on la fonction exponentielle ?",
+      "verso": "C'est l'unique fonction dérivable sur les réels égale à sa propre dérivée et prenant la valeur 1 en zéro",
+      "explanation": "Les deux conditions sont indispensables : sans la valeur en zéro, toutes les fonctions proportionnelles à l'exponentielle conviendraient. C'est cette définition, et non une formule, qui fonde toutes les propriétés du chapitre.",
+      "tags": [
+        "définition",
+        "caractérisation"
+      ],
+      "distractors": {
+        "easy": [
+          "C'est la fonction qui à x associe x puissance e",
+          "C'est l'inverse de la fonction carré",
+          "C'est la fonction qui double à chaque unité"
+        ],
+        "medium": [
+          "C'est l'unique fonction égale à sa dérivée",
+          "C'est l'unique fonction valant 1 en zéro",
+          "C'est la réciproque de la fonction carré"
+        ],
+        "hard": [
+          "C'est l'unique fonction dont la dérivée seconde est égale à elle-même",
+          "C'est l'unique fonction croissante valant 1 en zéro",
+          "C'est l'unique fonction égale à sa dérivée et s'annulant en zéro"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle équation différentielle la fonction exponentielle vérifie-t-elle ?",
+      "verso": "y prime égale y",
+      "explanation": "Plus généralement, les solutions de cette équation sont exactement les fonctions de la forme constante multipliée par l'exponentielle. La condition initiale sélectionne alors une solution unique parmi cette famille.",
+      "tags": [
+        "équation différentielle",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "y égale zéro",
+          "y prime égale zéro",
+          "y prime égale x"
+        ],
+        "medium": [
+          "y prime égale moins y",
+          "y seconde égale y prime",
+          "y prime égale y plus un"
+        ],
+        "hard": [
+          "y prime égale k multiplié par y, avec k différent de 1",
+          "y seconde égale y, avec y prime nulle en zéro",
+          "y prime égale l'inverse de y"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la propriété algébrique fondamentale de l'exponentielle ?",
+      "verso": "L'exponentielle d'une somme est le produit des exponentielles",
+      "explanation": "C'est cette relation qui transforme les additions en multiplications, et qui explique l'usage de l'exponentielle pour modéliser toute croissance à taux constant. Toutes les autres propriétés algébriques en découlent.",
+      "tags": [
+        "propriété",
+        "algèbre"
+      ],
+      "distractors": {
+        "easy": [
+          "L'exponentielle d'une somme est la somme des exponentielles",
+          "L'exponentielle d'un produit est le produit des exponentielles",
+          "L'exponentielle est toujours égale à x"
+        ],
+        "medium": [
+          "L'exponentielle d'un produit est la somme des exponentielles",
+          "L'exponentielle d'une différence est la différence des exponentielles",
+          "L'exponentielle d'une somme est le quotient des exponentielles"
+        ],
+        "hard": [
+          "L'exponentielle d'une somme est la puissance des exponentielles",
+          "L'exponentielle d'un quotient est le quotient des exponentielles",
+          "L'exponentielle d'une somme est le produit augmenté de 1"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : la fonction exponentielle peut-elle prendre la valeur zéro ou une valeur négative ?",
+      "verso": "Non : l'exponentielle est strictement positive sur tout l'ensemble des réels",
+      "explanation": "C'est le fait le plus utile du chapitre, et le plus souvent oublié. Une équation comme l'exponentielle de x égale moins deux n'a donc aucune solution, et surtout, dans une factorisation, le facteur exponentiel ne change jamais le signe : le signe d'un produit contenant une exponentielle est celui de l'autre facteur. Attention aussi à l'erreur symétrique : strictement positive ne veut pas dire supérieure à 1, puisque l'exponentielle est inférieure à 1 pour x négatif.",
+      "tags": [
+        "piege",
+        "signe"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, elle est négative pour x négatif",
+          "Oui, elle s'annule en zéro",
+          "Oui, elle est négative avant de devenir positive"
+        ],
+        "medium": [
+          "Elle s'annule en moins l'infini",
+          "Elle est positive seulement pour x positif",
+          "Elle prend la valeur zéro une seule fois"
+        ],
+        "hard": [
+          "Elle est strictement positive et toujours supérieure à 1",
+          "Elle est positive ou nulle, l'annulation ayant lieu à l'infini",
+          "Elle change de signe au point d'inflexion"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la dérivée de l'exponentielle et qu'en déduit-on sur ses variations ?",
+      "verso": "Sa dérivée est elle-même, donc strictement positive : l'exponentielle est strictement croissante sur les réels",
+      "explanation": "La stricte croissance est ce qui autorise à passer d'une inégalité entre exponentielles à une inégalité entre exposants, en conservant le sens. C'est le socle de toutes les résolutions d'inéquations du chapitre.",
+      "tags": [
+        "variations",
+        "dérivée"
+      ],
+      "distractors": {
+        "easy": [
+          "Sa dérivée est nulle, la fonction est constante",
+          "Sa dérivée est x, la fonction est croissante",
+          "Sa dérivée est négative, la fonction décroît"
+        ],
+        "medium": [
+          "Sa dérivée est elle-même, la fonction est croissante puis décroissante",
+          "Sa dérivée vaut 1, la fonction est affine",
+          "Sa dérivée est l'inverse de x, la fonction est croissante sur les positifs"
+        ],
+        "hard": [
+          "Sa dérivée est elle-même, mais la croissance n'est pas stricte",
+          "Sa dérivée est elle-même, la fonction est croissante seulement sur les positifs",
+          "Sa dérivée est le double d'elle-même"
+        ]
+      }
+    },
+    {
+      "recto": "Comment s'écrit l'exponentielle de moins x en fonction de l'exponentielle de x ?",
+      "verso": "C'est l'inverse de l'exponentielle de x",
+      "explanation": "Le résultat découle directement de la propriété fondamentale appliquée à x et moins x, dont la somme vaut zéro. L'erreur fréquente consiste à écrire l'opposé au lieu de l'inverse, ce qui donnerait une valeur négative, impossible pour une exponentielle.",
+      "tags": [
+        "propriété",
+        "algèbre"
+      ],
+      "distractors": {
+        "easy": [
+          "C'est l'opposé de l'exponentielle de x",
+          "C'est l'exponentielle de x",
+          "C'est zéro moins l'exponentielle de x"
+        ],
+        "medium": [
+          "C'est le carré de l'exponentielle de x",
+          "C'est la racine de l'exponentielle de x",
+          "C'est l'exponentielle de x moins un"
+        ],
+        "hard": [
+          "C'est l'inverse de l'opposé de l'exponentielle de x",
+          "C'est un moins l'exponentielle de x",
+          "C'est l'exponentielle de l'inverse de x"
+        ]
+      }
+    },
+    {
+      "recto": "Que vaut l'exponentielle de n fois x, où n est un entier relatif ?",
+      "verso": "L'exponentielle de x élevée à la puissance n",
+      "explanation": "Cette relation justifie la notation en puissance de e, qui prolonge aux réels la notion de puissance entière. Elle permet aussi de reconnaître une suite géométrique dans une suite définie par une exponentielle.",
+      "tags": [
+        "propriété",
+        "algèbre"
+      ],
+      "distractors": {
+        "easy": [
+          "n multiplié par l'exponentielle de x",
+          "L'exponentielle de x plus n",
+          "n plus l'exponentielle de x"
+        ],
+        "medium": [
+          "L'exponentielle de x multipliée par n fois elle-même",
+          "La racine n-ième de l'exponentielle de x",
+          "L'exponentielle de x divisée par n"
+        ],
+        "hard": [
+          "L'exponentielle de x puissance x, n fois",
+          "n élevé à la puissance exponentielle de x",
+          "L'exponentielle de x puissance (n moins un)"
+        ]
+      }
+    },
+    {
+      "recto": "Ne pas confondre : comment résout-on une équation et une inéquation entre deux exponentielles ?",
+      "verso": "L'équation se ramène à l'égalité des exposants, et l'inéquation à une inégalité entre exposants qui conserve le sens, car l'exponentielle est strictement croissante",
+      "explanation": "Les deux résolutions reposent sur la même propriété mais servent différemment : pour l'équation, c'est l'injectivité qui compte ; pour l'inéquation, c'est le sens de variation. Une exponentielle étant toujours croissante, le sens ne s'inverse jamais — contrairement à ce qui se passe quand on multiplie une inéquation par un nombre négatif.",
+      "tags": [
+        "comparaison",
+        "résolution"
+      ],
+      "distractors": {
+        "easy": [
+          "Les deux se résolvent en supprimant les exponentielles sans condition",
+          "L'équation se résout, l'inéquation est impossible",
+          "Il faut dans les deux cas inverser le sens"
+        ],
+        "medium": [
+          "L'inéquation inverse le sens car l'exponentielle est décroissante",
+          "L'équation change le sens de l'égalité",
+          "L'inéquation se résout en passant au carré"
+        ],
+        "hard": [
+          "L'équation conserve le sens et l'inéquation l'inverse",
+          "L'inéquation conserve le sens parce que l'exponentielle est positive",
+          "L'équation se ramène à l'égalité des exposants uniquement si ceux-ci sont positifs"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la limite de la fonction exponentielle en plus l'infini ?",
+      "verso": "Plus l'infini : la courbe n'admet aucune asymptote de ce côté",
+      "explanation": "Cette limite se démontre en minorant l'exponentielle par une fonction affine, à partir de l'inégalité de convexité. Avec la limite nulle en moins l'infini, elle donne l'allure complète de la courbe.",
+      "tags": [
+        "limite",
+        "référence"
+      ],
+      "distractors": {
+        "easy": [
+          "Zéro",
+          "Un",
+          "Une limite finie non nulle"
+        ],
+        "medium": [
+          "La fonction n'admet pas de limite",
+          "Une valeur dépendant de la base",
+          "Moins l'infini"
+        ],
+        "hard": [
+          "Plus l'infini, avec une asymptote oblique",
+          "Plus l'infini uniquement pour les entiers",
+          "Une limite finie car la croissance ralentit"
+        ]
+      }
+    },
+    {
+      "recto": "Quel encadrement de convexité connaît-on pour l'exponentielle ?",
+      "verso": "L'exponentielle de x est supérieure ou égale à x plus un, pour tout réel x",
+      "explanation": "L'inégalité vient de la convexité : la courbe est au-dessus de sa tangente en zéro. Elle sert à démontrer les limites en l'infini et à minorer une exponentielle dans un encadrement.",
+      "tags": [
+        "inégalité",
+        "convexité"
+      ],
+      "distractors": {
+        "easy": [
+          "L'exponentielle de x est inférieure à x",
+          "L'exponentielle de x est supérieure à x au carré",
+          "L'exponentielle de x est égale à x plus un"
+        ],
+        "medium": [
+          "L'exponentielle de x est inférieure ou égale à x plus un",
+          "L'exponentielle de x est supérieure ou égale à x",
+          "L'exponentielle de x est supérieure ou égale à un moins x"
+        ],
+        "hard": [
+          "L'exponentielle de x est supérieure ou égale à x plus un, pour x positif seulement",
+          "L'exponentielle de x est supérieure ou égale à deux x plus un",
+          "L'exponentielle de x est supérieure ou égale à x plus un, avec égalité pour tout x"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles sont les solutions de l'équation différentielle y prime égale a fois y ?",
+      "verso": "Les fonctions de la forme constante multipliée par l'exponentielle de a fois x, la constante étant un réel quelconque",
+      "explanation": "L'ensemble des solutions est donc une famille à un paramètre, et non une fonction unique. Une condition initiale, c'est-à-dire la donnée d'une valeur en un point, détermine cette constante et sélectionne une solution.",
+      "tags": [
+        "équation différentielle",
+        "résolution"
+      ],
+      "distractors": {
+        "easy": [
+          "La seule fonction exponentielle",
+          "Les fonctions affines",
+          "La fonction nulle uniquement"
+        ],
+        "medium": [
+          "Les fonctions de la forme constante multipliée par l'exponentielle de x",
+          "Les fonctions de la forme a multiplié par l'exponentielle de x",
+          "Les fonctions exponentielles de base a"
+        ],
+        "hard": [
+          "Les fonctions de la forme constante plus l'exponentielle de a fois x",
+          "Les fonctions de la forme constante multipliée par l'exponentielle de x sur a",
+          "Une unique fonction, déterminée sans condition initiale"
+        ]
+      }
+    },
+    {
+      "recto": "Comment détermine-t-on la constante dans la résolution d'une équation différentielle ?",
+      "verso": "En utilisant la condition initiale, c'est-à-dire la valeur imposée à la fonction en un point donné",
+      "explanation": "Sans condition initiale, le problème admet une infinité de solutions. La condition initiale traduit dans les modèles l'état du système au moment où l'on commence l'observation.",
+      "tags": [
+        "équation différentielle",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En prenant la constante égale à un",
+          "En dérivant une seconde fois",
+          "En calculant la limite en l'infini"
+        ],
+        "medium": [
+          "En imposant que la dérivée s'annule",
+          "En choisissant la constante qui rend la fonction croissante",
+          "En prenant la moyenne des valeurs possibles"
+        ],
+        "hard": [
+          "En utilisant la valeur de la dérivée seconde en un point",
+          "En imposant que la fonction soit positive",
+          "En résolvant une seconde équation différentielle"
+        ]
+      }
+    },
+    {
+      "recto": "Comment étudie-t-on le signe d'une expression du type polynôme multiplié par une exponentielle ?",
+      "verso": "On se ramène au signe du seul polynôme, puisque le facteur exponentiel est strictement positif",
+      "explanation": "C'est l'application la plus rentable de la stricte positivité. Dans une étude de fonction, elle permet de factoriser la dérivée puis d'écarter immédiatement le facteur exponentiel du tableau de signes.",
+      "tags": [
+        "signe",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "On calcule quelques valeurs",
+          "On étudie le signe de l'exponentielle seule",
+          "On trace la courbe"
+        ],
+        "medium": [
+          "On multiplie les deux tableaux de signes",
+          "On étudie le signe du produit sans factoriser",
+          "On dérive l'expression avant d'étudier le signe"
+        ],
+        "hard": [
+          "On se ramène au signe de l'exponentielle, le polynôme étant toujours positif",
+          "On étudie le signe du polynôme puis on inverse selon celui de l'exponentielle",
+          "On considère que le produit est toujours positif"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la dérivée de l'exponentielle de a fois x, où a est un réel ?",
+      "verso": "a multiplié par l'exponentielle de a fois x",
+      "explanation": "C'est un cas particulier de la dérivée d'une composée. Le facteur a détermine à lui seul le sens de variation, puisque l'exponentielle reste strictement positive.",
+      "tags": [
+        "dérivée",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "L'exponentielle de a fois x",
+          "a multiplié par x",
+          "L'exponentielle de a"
+        ],
+        "medium": [
+          "L'exponentielle de a, multipliée par x",
+          "a fois x multiplié par l'exponentielle de a fois x",
+          "L'exponentielle de a fois x divisée par a"
+        ],
+        "hard": [
+          "a au carré multiplié par l'exponentielle de a fois x",
+          "L'exponentielle de a fois x, multipliée par x",
+          "a multiplié par l'exponentielle de x"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi une suite définie par l'exponentielle de a fois n est-elle géométrique ?",
+      "verso": "Parce que le quotient de deux termes consécutifs vaut l'exponentielle de a, qui est une constante",
+      "explanation": "La raison de cette suite est donc l'exponentielle de a, strictement positive. Selon que a est positif ou négatif, cette raison dépasse 1 ou lui est inférieure, ce qui donne immédiatement la limite.",
+      "tags": [
+        "suites",
+        "lien"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'elle est croissante",
+          "Parce que ses termes sont positifs",
+          "Parce que la différence de deux termes est constante"
+        ],
+        "medium": [
+          "Parce que le quotient vaut a",
+          "Parce que la somme de deux termes consécutifs est constante",
+          "Parce que le quotient vaut l'exponentielle de n"
+        ],
+        "hard": [
+          "Parce que le quotient vaut l'exponentielle de a fois n",
+          "Parce que la raison est a, indépendamment de l'exponentielle",
+          "Parce que le rapport des termes croît géométriquement"
+        ]
+      }
+    },
+    {
+      "recto": "Comment se comporte le quotient de x puissance n par l'exponentielle de x en plus l'infini ?",
+      "verso": "Il tend vers zéro, quelle que soit la valeur de l'entier n",
+      "explanation": "C'est la traduction de la croissance comparée : l'exponentielle croît plus vite que toute puissance. Le résultat vaut y compris pour des exposants très grands, ce qui surprend souvent.",
+      "tags": [
+        "croissances comparées",
+        "limite"
+      ],
+      "distractors": {
+        "easy": [
+          "Il tend vers plus l'infini",
+          "Il tend vers un",
+          "Il tend vers n"
+        ],
+        "medium": [
+          "Il tend vers zéro seulement si n est inférieur à 3",
+          "Il tend vers plus l'infini si n est grand",
+          "Il n'admet pas de limite"
+        ],
+        "hard": [
+          "Il tend vers zéro uniquement pour n pair",
+          "Il tend vers une limite finie dépendant de n",
+          "Il tend vers zéro si et seulement si n est inférieur à x"
+        ]
+      }
+    },
+    {
+      "recto": "Que vaut le produit de x par l'exponentielle de x quand x tend vers moins l'infini ?",
+      "verso": "Zéro, car l'exponentielle l'emporte sur le facteur x",
+      "explanation": "C'est l'autre forme de la croissance comparée : l'exponentielle tend vers zéro plus vite que x ne tend vers l'infini en valeur absolue. Le résultat lève une indétermination du type zéro multiplié par l'infini.",
+      "tags": [
+        "croissances comparées",
+        "limite"
+      ],
+      "distractors": {
+        "easy": [
+          "Moins l'infini",
+          "Plus l'infini",
+          "Un"
+        ],
+        "medium": [
+          "Une limite finie strictement négative",
+          "La limite n'existe pas",
+          "Moins un"
+        ],
+        "hard": [
+          "Zéro par valeurs positives",
+          "Une forme indéterminée non levable",
+          "Moins l'infini, car x l'emporte"
+        ]
+      }
+    },
+    {
+      "recto": "Comment traduit-on qu'une grandeur croît à taux constant en fonction du temps ?",
+      "verso": "Par une fonction de la forme constante multipliée par l'exponentielle d'un coefficient fois le temps, solution de l'équation différentielle correspondante",
+      "explanation": "Dire que la variation instantanée est proportionnelle à la grandeur elle-même, c'est écrire exactement y prime égale a fois y. C'est le modèle des désintégrations radioactives, des intérêts composés et de la croissance d'une population sans contrainte.",
+      "tags": [
+        "modélisation",
+        "application"
+      ],
+      "distractors": {
+        "easy": [
+          "Par une fonction affine",
+          "Par une fonction carrée",
+          "Par une fonction constante"
+        ],
+        "medium": [
+          "Par une fonction logarithme",
+          "Par une fonction racine carrée",
+          "Par un polynôme du second degré"
+        ],
+        "hard": [
+          "Par une exponentielle sans constante multiplicative",
+          "Par une fonction dont la dérivée est constante",
+          "Par une fonction dont la dérivée seconde est proportionnelle à la fonction"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la valeur approchée du nombre e ?",
+      "verso": "Environ 2,718",
+      "explanation": "Ce nombre est l'image de 1 par la fonction exponentielle. Il est irrationnel, et même transcendant, ce qui signifie qu'il n'est solution d'aucune équation polynomiale à coefficients entiers.",
+      "tags": [
+        "nombre e",
+        "référence"
+      ],
+      "distractors": {
+        "easy": [
+          "Environ 3,14",
+          "Environ 1,414",
+          "Exactement 2,5"
+        ],
+        "medium": [
+          "Environ 1,618",
+          "Environ 2,236",
+          "Environ 2,302"
+        ],
+        "hard": [
+          "Environ 2,781",
+          "Un nombre rationnel valant 2718 sur 1000",
+          "Environ 0,718"
+        ]
+      }
+    },
+    {
+      "recto": "Comment simplifie-t-on une expression contenant à la fois une exponentielle au numérateur et au dénominateur ?",
+      "verso": "En utilisant que le quotient de deux exponentielles est l'exponentielle de la différence des exposants",
+      "explanation": "Cette règle permet souvent de faire disparaître une indétermination en factorisant par le terme dominant, notamment lorsque l'expression tend vers l'infini. Elle évite d'avoir à recourir aux croissances comparées.",
+      "tags": [
+        "algèbre",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En supprimant les deux exponentielles",
+          "En additionnant les exposants",
+          "En multipliant les exposants"
+        ],
+        "medium": [
+          "Le quotient de deux exponentielles est l'exponentielle du quotient",
+          "Le quotient de deux exponentielles est la différence des exponentielles",
+          "Le quotient est l'exponentielle de la somme des exposants"
+        ],
+        "hard": [
+          "Le quotient est l'exponentielle du produit des exposants",
+          "Le quotient est l'inverse de l'exponentielle de la somme",
+          "Le quotient est l'exponentielle de la différence, à condition que celle-ci soit positive"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la convexité de la fonction exponentielle ?",
+      "verso": "Elle est convexe sur l'ensemble des réels, car sa dérivée seconde est elle-même, donc strictement positive",
+      "explanation": "La courbe est donc toujours au-dessus de ses tangentes, sans aucun point d'inflexion. C'est ce qui donne à la croissance exponentielle son caractère d'emballement.",
+      "tags": [
+        "convexité",
+        "propriété"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle est concave",
+          "Elle est convexe puis concave",
+          "Elle n'est ni convexe ni concave"
+        ],
+        "medium": [
+          "Elle est convexe seulement sur les réels positifs",
+          "Elle admet un point d'inflexion en zéro",
+          "Elle est concave sur les négatifs et convexe sur les positifs"
+        ],
+        "hard": [
+          "Elle est convexe car sa dérivée première est positive",
+          "Elle est convexe sauf au voisinage de moins l'infini",
+          "Elle est concave car sa croissance ralentit en moins l'infini"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi ne peut-on pas simplifier une somme contenant des exponentielles comme on simplifie un produit ?",
+      "verso": "Parce que la propriété fondamentale porte sur l'exponentielle d'une somme, et non sur la somme d'exponentielles, qui ne se factorise pas en général",
+      "explanation": "L'erreur consiste à écrire que la somme de deux exponentielles vaut l'exponentielle de la somme, ce qui est faux. On ne peut factoriser une somme d'exponentielles que si les exposants partagent un terme commun.",
+      "tags": [
+        "algèbre",
+        "erreur"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que l'addition est plus difficile",
+          "Parce que les exponentielles ne s'additionnent pas",
+          "Parce qu'il faut passer au logarithme"
+        ],
+        "medium": [
+          "Parce que la somme d'exponentielles vaut l'exponentielle du produit",
+          "Parce que les exponentielles ne sont pas définies pour toutes les sommes",
+          "Parce que la somme change le signe"
+        ],
+        "hard": [
+          "Parce que la somme d'exponentielles vaut l'exponentielle de la somme, mais seulement pour des exposants positifs",
+          "Parce que la factorisation exige des exposants opposés",
+          "Parce que la propriété fondamentale ne vaut que pour les produits d'exposants"
+        ]
+      }
+    },
+    {
+      "recto": "Quel bilan méthodique retenir pour l'étude d'une fonction contenant une exponentielle ?",
+      "verso": "Utiliser la stricte positivité pour le signe, la dérivée d'une composée pour les variations, et les croissances comparées pour les limites indéterminées",
+      "explanation": "Ces trois réflexes couvrent l'essentiel des exercices. La stricte positivité en particulier simplifie presque toujours l'étude de signe, en réduisant le problème au seul facteur polynomial.",
+      "tags": [
+        "synthèse",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Tracer la courbe et lire les résultats",
+          "Calculer beaucoup de valeurs",
+          "Appliquer les mêmes méthodes que pour un polynôme"
+        ],
+        "medium": [
+          "Étudier le signe de l'exponentielle avant celui du polynôme",
+          "Utiliser le théorème des gendarmes pour toutes les limites",
+          "Passer systématiquement par le logarithme"
+        ],
+        "hard": [
+          "Traiter les indéterminations par factorisation sans recourir aux croissances comparées",
+          "Considérer que le signe dépend du facteur exponentiel",
+          "Dériver sans utiliser la formule des composées"
+        ]
+      }
+    }
+  ]
+}

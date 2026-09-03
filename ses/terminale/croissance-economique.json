@@ -1,0 +1,640 @@
+{
+  "id": "ses-terminale-croissance-economique",
+  "title": "Les sources et les défis de la croissance économique",
+  "emoji": "📈",
+  "subject": "ses",
+  "country": "fr",
+  "courseDescription": "Spé SES · Terminale — facteurs de production, productivité globale des facteurs, progrès technique et croissance endogène, institutions, et limites écologiques de la croissance.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Les sources et les défis de la croissance économique</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · spécialité SES<br>\n  <b>Thème&nbsp;:</b> Science économique — chapitre 1<br>\n  <b>Chapitre</b> · environ 4 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> D'où vient la croissance, et jusqu'où peut-elle aller&nbsp;?</p></blockquote>\n\n<p>Depuis deux siècles, la production par habitant des pays développés a été multipliée par plus de vingt. Cette accélération n'a rien d'évident&nbsp;: pendant des millénaires, la production n'augmentait qu'au rythme de la population. Le chapitre pose deux questions liées. D'abord <strong>d'où vient la croissance</strong>&nbsp;: de la quantité de facteurs mobilisés, ou de l'efficacité avec laquelle on les combine&nbsp;? Ensuite <strong>jusqu'où elle peut aller</strong>&nbsp;: une production qui prélève des ressources finies et rejette des pollutions peut-elle se poursuivre indéfiniment&nbsp;?</p>\n\n<h2>1 · Mesurer la croissance</h2>\n\n<div class=\"callout\">\n  <strong>Notion · Croissance économique</strong><br>\n  Augmentation soutenue et durable de la production de biens et services, mesurée par la variation du <strong>PIB en volume</strong> — c'est-à-dire corrigé de l'effet des prix.\n</div>\n\n<p>Le PIB est la somme des <strong>valeurs ajoutées</strong> produites sur un territoire. Raisonner en valeurs ajoutées, et non en chiffres d'affaires, évite de compter plusieurs fois les consommations intermédiaires&nbsp;; le mot <em>intérieur</em> signale que le critère retenu est le territoire, non la nationalité des producteurs.</p>\n\n<p>Cet indicateur a des angles morts précis, qu'il faut savoir énumérer&nbsp;:</p>\n\n<ul>\n  <li>il ignore la <strong>production domestique et bénévole</strong>, pourtant considérable&nbsp;;</li>\n  <li>il comptabilise <em>positivement</em> des dépenses de réparation de dégâts — une marée noire augmente le PIB&nbsp;;</li>\n  <li>il ne dit rien de la <strong>répartition</strong> des revenus&nbsp;;</li>\n  <li>il n'enregistre pas la <strong>dégradation du capital naturel</strong>.</li>\n</ul>\n\n<p>D'où le recours à des indicateurs complémentaires&nbsp;: l'<strong>indice de développement humain</strong> (revenu, éducation, espérance de vie), l'<strong>empreinte écologique</strong>, les indicateurs d'inégalités. Aucun ne remplace le PIB&nbsp;; tous corrigent un de ses défauts. C'est aussi pourquoi <strong>croissance</strong> (quantitatif) et <strong>développement</strong> (transformations qualitatives, sociales, institutionnelles) ne se confondent pas.</p>\n\n<h2>2 · Les sources de la croissance</h2>\n\n<p>Deux voies mènent à une production plus grande. La <strong>croissance extensive</strong> vient de l'augmentation des <em>quantités</em> de facteurs — plus de travailleurs, plus de machines. La <strong>croissance intensive</strong> vient de l'amélioration de leur <em>efficacité</em>. La première est mécaniquement limitée&nbsp;: la main-d'œuvre et le capital disponibles ne sont pas infinis. C'est donc la seconde qui explique la croissance de long terme.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Décomposition de la croissance économique : la contribution du travail et celle du capital expliquent la croissance extensive, tandis que la part restante, appelée productivité globale des facteurs ou résidu de Solow, mesure l'efficacité de la combinaison et constitue la croissance intensive\">\n    <text x=\"8\" y=\"16\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Croissance observée du PIB</text>\n    <rect x=\"8\" y=\"26\" width=\"324\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"46\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">100 %</text>\n    <line x1=\"90\" y1=\"60\" x2=\"90\" y2=\"80\" stroke=\"var(--accent)\" stroke-opacity=\".5\" marker-end=\"url(#ar-sesc1)\"/>\n    <line x1=\"170\" y1=\"60\" x2=\"170\" y2=\"80\" stroke=\"var(--accent)\" stroke-opacity=\".5\" marker-end=\"url(#ar-sesc1)\"/>\n    <line x1=\"264\" y1=\"60\" x2=\"264\" y2=\"80\" stroke=\"var(--accent)\" stroke-opacity=\".5\" marker-end=\"url(#ar-sesc1)\"/>\n    <rect x=\"8\" y=\"86\" width=\"150\" height=\"52\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"83\" y=\"104\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">contribution du travail</text>\n    <text x=\"83\" y=\"118\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">contribution du capital</text>\n    <text x=\"83\" y=\"132\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">quantités de facteurs</text>\n    <rect x=\"172\" y=\"86\" width=\"160\" height=\"52\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".25\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"252\" y=\"104\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">le reste : la PGF</text>\n    <text x=\"252\" y=\"118\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">efficacité de la combinaison</text>\n    <text x=\"252\" y=\"132\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">résidu de Solow</text>\n    <text x=\"83\" y=\"156\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">croissance extensive</text>\n    <text x=\"252\" y=\"156\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">croissance intensive</text>\n    <text x=\"8\" y=\"180\" font-size=\"9\" fill=\"currentColor\">La PGF est calculée par soustraction : c'est ce que les facteurs n'expliquent pas.</text>\n    <defs>\n      <marker id=\"ar-sesc1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n  </svg>\n  <figcaption>La part la plus intéressante de la croissance est celle qu'on obtient par différence.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Notion · Productivité globale des facteurs</strong><br>\n  Efficacité de la combinaison du travail et du capital&nbsp;: la part de la croissance qui n'est expliquée <em>ni</em> par la hausse du travail <em>ni</em> par celle du capital. On l'interprète comme l'effet du <strong>progrès technique au sens large</strong> — innovations de procédé, de produit, d'organisation, de débouché.\n</div>\n\n<h3>La croissance endogène</h3>\n\n<p>Longtemps, le progrès technique fut traité comme une donnée extérieure, tombée du ciel. Les théories de la <strong>croissance endogène</strong> renversent la perspective&nbsp;: le progrès technique <em>résulte de décisions économiques</em>, d'investissements dans la recherche, l'éducation, les infrastructures. Quatre formes de capital sont mises en avant.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Les quatre formes de capital des théories de la croissance endogène — capital physique, capital humain, capital public et capital technologique — produisent des externalités positives qui alimentent la croissance, laquelle finance en retour de nouveaux investissements\">\n    <rect x=\"8\" y=\"14\" width=\"76\" height=\"42\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"46\" y=\"32\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">capital</text>\n    <text x=\"46\" y=\"45\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">physique</text>\n    <rect x=\"92\" y=\"14\" width=\"76\" height=\"42\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"130\" y=\"32\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">capital</text>\n    <text x=\"130\" y=\"45\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">humain</text>\n    <rect x=\"176\" y=\"14\" width=\"76\" height=\"42\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"214\" y=\"32\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">capital</text>\n    <text x=\"214\" y=\"45\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">public</text>\n    <rect x=\"260\" y=\"14\" width=\"72\" height=\"42\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"296\" y=\"32\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">capital</text>\n    <text x=\"296\" y=\"45\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">technologique</text>\n    <line x1=\"46\" y1=\"60\" x2=\"140\" y2=\"82\" stroke=\"var(--accent)\" stroke-opacity=\".45\"/>\n    <line x1=\"130\" y1=\"60\" x2=\"158\" y2=\"82\" stroke=\"var(--accent)\" stroke-opacity=\".45\"/>\n    <line x1=\"214\" y1=\"60\" x2=\"184\" y2=\"82\" stroke=\"var(--accent)\" stroke-opacity=\".45\"/>\n    <line x1=\"296\" y1=\"60\" x2=\"202\" y2=\"82\" stroke=\"var(--accent)\" stroke-opacity=\".45\"/>\n    <rect x=\"70\" y=\"88\" width=\"200\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".25\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"110\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">externalités positives</text>\n    <line x1=\"170\" y1=\"124\" x2=\"170\" y2=\"142\" stroke=\"var(--accent)\" stroke-opacity=\".6\" stroke-width=\"1.5\" marker-end=\"url(#ar-sesc1)\"/>\n    <rect x=\"100\" y=\"148\" width=\"140\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"168\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">croissance</text>\n    <path d=\"M240 163 C296 163 306 120 306 90 C306 70 302 62 296 60\" fill=\"none\" stroke=\"var(--accent)\" stroke-opacity=\".45\" stroke-dasharray=\"4 3\" marker-end=\"url(#ar-sesc1)\"/>\n    <text x=\"252\" y=\"192\" font-size=\"9\" fill=\"currentColor\">la croissance finance de nouveaux investissements</text>\n  </svg>\n  <figcaption>Le cercle vertueux&nbsp;: l'investissement d'aujourd'hui fabrique la croissance de demain.</figcaption>\n</figure>\n\n<p>Le ressort du raisonnement est l'<strong>externalité positive</strong>. Une connaissance produite par un agent peut être utilisée par d'autres sans être détruite&nbsp;: elle est <em>non rivale</em>. Le rendement social de la recherche dépasse donc son rendement privé, ce qui explique à la fois pourquoi le marché seul en produit trop peu, et pourquoi la croissance peut échapper aux <strong>rendements décroissants</strong> qui, sinon, la feraient s'éteindre.</p>\n\n<h3>Innovation et institutions</h3>\n\n<p>Pour <strong>Joseph Schumpeter</strong>, la croissance procède par <strong>destruction créatrice</strong>&nbsp;: l'innovation détruit des activités, des emplois, des entreprises anciennes en même temps qu'elle en crée de nouvelles. La croissance n'est donc pas un processus lisse, mais un renouvellement permanent, coûteux pour ceux qui en subissent le versant destructeur.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Le processus de destruction créatrice : l'innovation portée par l'entrepreneur détruit des activités et des emplois anciens tout en créant de nouveaux marchés et de nouveaux emplois, le solde alimentant la croissance mais imposant des reconversions\">\n    <rect x=\"112\" y=\"10\" width=\"116\" height=\"32\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".25\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"31\" font-size=\"11\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">innovation</text>\n    <line x1=\"150\" y1=\"46\" x2=\"92\" y2=\"66\" stroke=\"var(--accent)\" stroke-opacity=\".55\" marker-end=\"url(#ar-sesc1)\"/>\n    <line x1=\"190\" y1=\"46\" x2=\"248\" y2=\"66\" stroke=\"var(--accent)\" stroke-opacity=\".55\" marker-end=\"url(#ar-sesc1)\"/>\n    <rect x=\"14\" y=\"72\" width=\"132\" height=\"56\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"80\" y=\"90\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">destruction</text>\n    <text x=\"80\" y=\"105\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">activités dépassées</text>\n    <text x=\"80\" y=\"118\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">emplois supprimés</text>\n    <rect x=\"194\" y=\"72\" width=\"132\" height=\"56\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"260\" y=\"90\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">création</text>\n    <text x=\"260\" y=\"105\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">marchés nouveaux</text>\n    <text x=\"260\" y=\"118\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">emplois qualifiés</text>\n    <text x=\"20\" y=\"150\" font-size=\"9\" fill=\"currentColor\">Solde positif à long terme, mais reconversions et chômage</text>\n    <text x=\"20\" y=\"163\" font-size=\"9\" fill=\"currentColor\">à court terme : la croissance a un coût social.</text>\n  </svg>\n  <figcaption>Schumpeter&nbsp;: on ne peut pas avoir la création sans la destruction qui l'accompagne.</figcaption>\n</figure>\n\n<p>Enfin, les <strong>institutions</strong> comptent&nbsp;: des <em>droits de propriété garantis</em> et des règles stables incitent à investir et à innover, en assurant aux agents de percevoir les fruits de leur effort. Les <strong>brevets</strong> illustrent le compromis à trouver — ils récompensent l'innovation, mais freinent la diffusion des connaissances dont dépendent les externalités positives.</p>\n\n<p>Le progrès technique n'est pas neutre socialement&nbsp;: il est <strong>biaisé en faveur du travail qualifié</strong>, dont il complète les compétences, et défavorise les travailleurs dont les tâches sont automatisables. Les gains de la croissance ne se répartissent donc pas spontanément.</p>\n\n<h2>3 · Les défis écologiques</h2>\n\n<p>La croissance prélève des ressources en amont et rejette des pollutions en aval. Le problème est double&nbsp;: <strong>épuisement des stocks</strong> et <strong>saturation des capacités d'absorption</strong>. On regroupe ces ressources et services sous le terme de <strong>capital naturel</strong>&nbsp;— énergies fossiles, biodiversité, sols, capacité d'absorption du carbone. Le nommer capital souligne qu'il s'agit d'un <em>stock</em>, épuisable&nbsp;; sa dégradation n'apparaît pourtant nulle part dans le PIB.</p>\n\n<p>Le débat sur la <strong>soutenabilité</strong> ne porte pas sur la nécessité de préserver l'environnement, mais sur la <em>substituabilité des capitaux</em>.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Comparaison de la soutenabilité faible et de la soutenabilité forte : la première admet que le capital technologique puisse remplacer le capital naturel et mise sur l'innovation, la seconde considère certains éléments du capital naturel comme irremplaçables et impose d'en maintenir un stock minimal\">\n    <rect x=\"8\" y=\"14\" width=\"156\" height=\"130\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"86\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">soutenabilité faible</text>\n    <text x=\"86\" y=\"56\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">les capitaux sont</text>\n    <text x=\"86\" y=\"69\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">substituables</text>\n    <text x=\"86\" y=\"90\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">le capital technologique</text>\n    <text x=\"86\" y=\"102\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">peut remplacer le naturel</text>\n    <text x=\"86\" y=\"124\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">pari sur l'innovation</text>\n    <rect x=\"176\" y=\"14\" width=\"156\" height=\"130\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"254\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">soutenabilité forte</text>\n    <text x=\"254\" y=\"56\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">certains capitaux sont</text>\n    <text x=\"254\" y=\"69\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">irremplaçables</text>\n    <text x=\"254\" y=\"90\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">un stock minimal de capital</text>\n    <text x=\"254\" y=\"102\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">naturel doit être maintenu</text>\n    <text x=\"254\" y=\"124\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">contrainte sur la production</text>\n    <text x=\"170\" y=\"166\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Le débat porte sur la substituabilité, pas sur l'urgence écologique.</text>\n  </svg>\n  <figcaption>Deux positions, une seule question&nbsp;: la technique peut-elle remplacer la nature&nbsp;?</figcaption>\n</figure>\n\n<p>Les tenants de la soutenabilité faible misent sur le <strong>progrès technique</strong>&nbsp;: efficacité énergétique, renouvelables, recyclage permettent de produire davantage avec moins de ressources. L'objection classique est l'<strong>effet rebond</strong>&nbsp;— en abaissant le coût d'usage d'un bien, les gains d'efficacité en augmentent la consommation, ce qui annule partiellement l'économie réalisée. Des voitures moins gourmandes peuvent conduire à rouler davantage.</p>\n\n<h3>L'action publique</h3>\n\n<p>Trois instruments corrigent les externalités négatives environnementales, selon trois logiques différentes&nbsp;: la <strong>réglementation</strong> fixe une norme&nbsp;; la <strong>taxation</strong> donne un prix à la pollution&nbsp;; le <strong>marché de quotas</strong> fixe une quantité et laisse le prix s'établir. Plus largement, l'État soutient la croissance de long terme là où le marché seul produit trop peu&nbsp;: recherche, éducation, infrastructures, protection des droits de propriété.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Le raisonnement du chapitre</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Frise du raisonnement du chapitre : mesurer la croissance par le PIB en volume, distinguer croissance extensive et intensive, expliquer la croissance intensive par le progrès technique et les institutions, constater les limites écologiques, puis discuter la soutenabilité et l'action publique\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"176\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">1. Mesurer</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">PIB en volume, et ses angles morts</text>\n    <circle cx=\"26\" cy=\"60\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"57\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">2. Décomposer</text>\n    <text x=\"44\" y=\"70\" font-size=\"10\" fill=\"currentColor\">Facteurs, puis PGF par différence</text>\n    <circle cx=\"26\" cy=\"100\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"97\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">3. Expliquer</text>\n    <text x=\"44\" y=\"110\" font-size=\"10\" fill=\"currentColor\">Innovation, externalités, institutions</text>\n    <circle cx=\"26\" cy=\"140\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"137\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">4. Limiter</text>\n    <text x=\"44\" y=\"150\" font-size=\"10\" fill=\"currentColor\">Capital naturel, épuisement, pollutions</text>\n    <circle cx=\"26\" cy=\"176\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"173\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">5. Discuter</text>\n    <text x=\"44\" y=\"186\" font-size=\"10\" fill=\"currentColor\">Soutenabilité faible ou forte, politiques</text>\n  </svg>\n  <figcaption>Le plan du chapitre est aussi le plan attendu d'une dissertation sur la croissance.</figcaption>\n</figure>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition en une ligne</th></tr>\n  <tr><td>Croissance économique</td><td>Hausse soutenue du PIB en volume</td></tr>\n  <tr><td>Productivité globale des facteurs</td><td>Efficacité de la combinaison travail-capital</td></tr>\n  <tr><td>Croissance endogène</td><td>Le progrès technique résulte de décisions économiques</td></tr>\n  <tr><td>Externalité positive</td><td>Bénéfice non rémunéré pour un tiers</td></tr>\n  <tr><td>Capital naturel</td><td>Stock de ressources et services fournis par la nature</td></tr>\n  <tr><td>Effet rebond</td><td>Les gains d'efficacité relancent la consommation</td></tr>\n</table>\n\n<h3>Auteurs et théories</h3>\n\n<table>\n  <tr><th>Référence</th><th>Apport</th></tr>\n  <tr><td>Joseph Schumpeter</td><td>Innovation, entrepreneur, destruction créatrice</td></tr>\n  <tr><td>Robert Solow</td><td>Le résidu&nbsp;: la part inexpliquée de la croissance</td></tr>\n  <tr><td>Théories de la croissance endogène</td><td>Quatre capitaux, externalités, rôle de l'État</td></tr>\n  <tr><td>Soutenabilité faible</td><td>Les capitaux sont substituables</td></tr>\n  <tr><td>Soutenabilité forte</td><td>Un stock minimal de capital naturel est requis</td></tr>\n</table>\n\n<h3>Mécanismes à savoir rédiger</h3>\n\n<table>\n  <tr><th>Enchaînement</th><th>Étapes</th></tr>\n  <tr><td>Innovation et croissance</td><td>Investissement → progrès technique → PGF → croissance</td></tr>\n  <tr><td>Externalités et rôle de l'État</td><td>Non-rivalité → rendement social supérieur au privé → sous-production → financement public</td></tr>\n  <tr><td>Destruction créatrice</td><td>Innovation → destruction d'emplois anciens → création d'emplois nouveaux → reconversions</td></tr>\n  <tr><td>Progrès technique et inégalités</td><td>Biais en faveur des qualifiés → hausse de leur demande → écarts de salaires</td></tr>\n  <tr><td>Effet rebond</td><td>Efficacité → baisse du coût d'usage → hausse de la consommation → gain amoindri</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Traiter le PIB comme une mesure du <strong>bien-être</strong>. Il ignore la production domestique et bénévole, compte positivement les dépenses de réparation des dégâts, reste muet sur la répartition des revenus et n'enregistre pas la dégradation du capital naturel. Deux erreurs voisines&nbsp;: confondre <em>croissance</em> (quantitative) et <em>développement</em> (qualitatif, social, institutionnel)&nbsp;; et présenter le débat sur la soutenabilité comme une opposition entre partisans et adversaires de l'écologie, alors qu'il porte sur la <strong>substituabilité des capitaux</strong>.\n</div>\n\n<blockquote><p>La croissance n'est ni un droit acquis ni une malédiction&nbsp;: c'est le résultat d'investissements et d'institutions, et elle bute aujourd'hui sur un stock qu'aucun de ses indicateurs ne compte&nbsp;— la nature.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Spécialité SES — Science économique",
+  "cards": [
+    {
+      "recto": "Comment définit-on la croissance économique ?",
+      "verso": "L'augmentation soutenue et durable de la production de biens et services d'un pays, mesurée par la variation du PIB en volume",
+      "explanation": "Le mot volume est décisif : il signifie que l'effet des variations de prix a été neutralisé. Une hausse du PIB en valeur peut ne traduire que de l'inflation, sans aucune production supplémentaire.",
+      "tags": [
+        "croissance",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "L'augmentation du nombre d'habitants d'un pays",
+          "L'augmentation des prix à la consommation",
+          "L'augmentation des exportations d'un pays"
+        ],
+        "medium": [
+          "L'augmentation de la production mesurée par le PIB en valeur",
+          "L'amélioration des conditions de vie et de l'espérance de vie",
+          "L'augmentation du revenu moyen des ménages"
+        ],
+        "hard": [
+          "L'augmentation soutenue de la production, mesurée par le PIB en valeur corrigé des variations saisonnières",
+          "L'augmentation soutenue de la production par habitant, seule définition retenue par la comptabilité nationale",
+          "L'augmentation de la production potentielle, indépendamment de la production effectivement réalisée"
+        ]
+      }
+    },
+    {
+      "recto": "Que mesure exactement le produit intérieur brut ?",
+      "verso": "La somme des valeurs ajoutées produites sur le territoire d'un pays au cours d'une année",
+      "explanation": "Raisonner en valeurs ajoutées, et non en chiffres d'affaires, évite de compter plusieurs fois les consommations intermédiaires. Le mot intérieur signale que le critère est le territoire, et non la nationalité des producteurs.",
+      "tags": [
+        "PIB",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "La somme des revenus des ménages d'un pays",
+          "La somme des salaires versés dans l'année",
+          "La valeur totale des exportations d'un pays"
+        ],
+        "medium": [
+          "La somme des chiffres d'affaires des entreprises du pays",
+          "La somme des valeurs ajoutées produites par les nationaux, où qu'ils se trouvent",
+          "La valeur du patrimoine accumulé par un pays"
+        ],
+        "hard": [
+          "La somme des valeurs ajoutées marchandes uniquement, la production non marchande en étant exclue",
+          "La somme des valeurs ajoutées, nette de la dépréciation du capital fixe",
+          "La somme des valeurs ajoutées produites par les résidents, quel que soit le territoire concerné"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : le PIB mesure-t-il le bien-être d'une population ?",
+      "verso": "Non : il ignore la production domestique et bénévole, comptabilise positivement des dépenses de réparation de dégâts, et ne dit rien de la répartition des revenus ni des atteintes à l'environnement",
+      "explanation": "Une marée noire augmente le PIB par les dépenses de dépollution qu'elle entraîne, alors qu'elle détruit du bien-être et du capital naturel. C'est pourquoi on lui adjoint des indicateurs alternatifs comme l'indice de développement humain ou l'empreinte écologique.",
+      "tags": [
+        "piege",
+        "PIB"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, c'est précisément la définition du PIB",
+          "Oui, dès qu'il est exprimé par habitant",
+          "Non, car il ne mesure que les exportations"
+        ],
+        "medium": [
+          "Oui, à condition de le corriger de l'inflation",
+          "Non, mais le PIB par habitant, lui, mesure exactement le bien-être moyen",
+          "Oui, car toute production supplémentaire améliore le niveau de vie"
+        ],
+        "hard": [
+          "Non, mais il intègre la production domestique, ce qui corrige en partie ce défaut",
+          "Non, car il exclut du calcul les dépenses de réparation des dégâts environnementaux",
+          "Oui pour les pays développés, où la production non marchande est marginale"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle différence sépare la croissance extensive de la croissance intensive ?",
+      "verso": "La croissance extensive provient de l'augmentation des quantités de facteurs de production utilisées, la croissance intensive de l'amélioration de leur efficacité",
+      "explanation": "La première est mécaniquement limitée, puisque la main-d'œuvre et le capital disponibles ne sont pas infinis. C'est donc la croissance intensive, liée à la productivité, qui explique la croissance de long terme des pays développés.",
+      "tags": [
+        "croissance",
+        "distinction"
+      ],
+      "distractors": {
+        "easy": [
+          "La croissance extensive concerne l'agriculture, la croissance intensive l'industrie",
+          "La croissance extensive est rapide, la croissance intensive est lente",
+          "La croissance extensive concerne les pays riches, la croissance intensive les pays pauvres"
+        ],
+        "medium": [
+          "La croissance extensive vient de l'efficacité des facteurs, la croissance intensive de leur quantité",
+          "La croissance extensive est mesurée en valeur, la croissance intensive en volume",
+          "La croissance extensive concerne le travail, la croissance intensive le capital"
+        ],
+        "hard": [
+          "La croissance extensive vient de l'augmentation des facteurs, la croissance intensive de l'augmentation du seul facteur capital",
+          "La croissance extensive vient de l'augmentation des facteurs, et elle seule est soutenable à long terme",
+          "La croissance extensive vient de l'augmentation des facteurs, la croissance intensive de la hausse des prix relatifs"
+        ]
+      }
+    },
+    {
+      "recto": "Quels sont les deux facteurs de production traditionnellement distingués ?",
+      "verso": "Le travail, c'est-à-dire l'activité humaine mobilisée, et le capital fixe, c'est-à-dire les biens durables utilisés pour produire",
+      "explanation": "Le capital fixe se distingue des consommations intermédiaires, détruites ou transformées au cours d'un cycle de production. Le capital humain et le capital public viennent enrichir cette liste dans les analyses contemporaines.",
+      "tags": [
+        "facteurs",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Les entreprises et les ménages",
+          "Les biens et les services",
+          "L'offre et la demande"
+        ],
+        "medium": [
+          "Le travail et les consommations intermédiaires",
+          "Le capital financier et le capital fixe",
+          "Le travail salarié et le travail indépendant"
+        ],
+        "hard": [
+          "Le travail et le capital circulant, le capital fixe étant une consommation intermédiaire",
+          "Le travail et le capital, ce dernier incluant par convention les matières premières consommées",
+          "Le travail et le capital, le capital humain étant un troisième facteur reconnu par la comptabilité nationale"
+        ]
+      }
+    },
+    {
+      "recto": "Comment se calcule la productivité du travail ?",
+      "verso": "En divisant la production par la quantité de travail utilisée, mesurée en nombre de travailleurs ou en heures travaillées",
+      "explanation": "La productivité horaire est plus fine que la productivité par tête, car elle neutralise les différences de durée du travail entre pays. La France a une productivité horaire élevée mais une durée annuelle de travail plus faible que plusieurs de ses voisins.",
+      "tags": [
+        "productivité",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "En multipliant la production par le nombre de travailleurs",
+          "En divisant le nombre de travailleurs par la production",
+          "En additionnant la production et le nombre d'heures travaillées"
+        ],
+        "medium": [
+          "En divisant la production par le capital utilisé",
+          "En divisant le salaire versé par la production réalisée",
+          "En divisant la valeur ajoutée par le chiffre d'affaires"
+        ],
+        "hard": [
+          "En divisant la production par le nombre d'heures travaillées, ce qui donne la productivité par tête",
+          "En divisant la production par la somme du travail et du capital utilisés",
+          "En divisant la production par la population active, y compris les chômeurs"
+        ]
+      }
+    },
+    {
+      "recto": "Que mesure la productivité globale des facteurs ?",
+      "verso": "L'efficacité de la combinaison du travail et du capital, c'est-à-dire la part de la croissance qui n'est expliquée ni par la hausse du travail ni par celle du capital",
+      "explanation": "Elle est calculée comme un résidu, ce qui lui vaut le nom de résidu de Solow : on retranche à la croissance observée la contribution des quantités de facteurs. Ce résidu est interprété comme l'effet du progrès technique au sens large, incluant l'organisation et les compétences.",
+      "tags": [
+        "productivité",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La quantité totale de facteurs de production disponibles",
+          "Le nombre d'heures travaillées dans l'économie",
+          "La valeur du capital détenu par les entreprises"
+        ],
+        "medium": [
+          "La productivité du travail augmentée de celle du capital",
+          "La moyenne des productivités des différents secteurs",
+          "La part de la croissance expliquée par l'augmentation du capital"
+        ],
+        "hard": [
+          "La part de la croissance non expliquée par les facteurs, calculée directement et non comme un résidu",
+          "L'efficacité de la combinaison des facteurs, mesurée en retranchant la seule contribution du travail",
+          "La part de la croissance expliquée par le progrès technique incorporé dans les machines uniquement"
+        ]
+      }
+    },
+    {
+      "recto": "Que désigne le progrès technique en économie ?",
+      "verso": "L'ensemble des innovations qui améliorent les procédés de production, les produits, l'organisation du travail et les débouchés",
+      "explanation": "Il ne se réduit pas aux machines : les innovations de procédé, de produit, d'organisation et de marché comptent toutes. C'est le principal moteur de la productivité globale des facteurs, donc de la croissance intensive.",
+      "tags": [
+        "progrès technique",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "L'achat de nouvelles machines par les entreprises",
+          "L'augmentation du nombre d'ingénieurs dans un pays",
+          "La hausse du budget de l'État consacré à la recherche"
+        ],
+        "medium": [
+          "L'ensemble des innovations de procédé uniquement",
+          "L'automatisation des tâches répétitives dans l'industrie",
+          "L'augmentation de la quantité de capital par travailleur"
+        ],
+        "hard": [
+          "L'ensemble des innovations améliorant la production, à l'exclusion des innovations organisationnelles",
+          "L'ensemble des innovations, dont l'effet se mesure directement par la hausse du capital fixe",
+          "L'ensemble des innovations brevetées, les autres n'ayant pas d'effet mesurable sur la productivité"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on destruction créatrice, selon Joseph Schumpeter ?",
+      "verso": "Le processus par lequel l'innovation détruit des activités, des emplois et des entreprises anciennes tout en en créant de nouvelles",
+      "explanation": "La croissance n'est donc pas un processus lisse mais un renouvellement permanent, coûteux pour ceux qui subissent les destructions. Cela explique que le progrès technique puisse coïncider avec du chômage et des reconversions difficiles, à court terme.",
+      "tags": [
+        "Schumpeter",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La destruction volontaire de stocks pour faire monter les prix",
+          "La disparition progressive des petites entreprises",
+          "La démolition d'usines anciennes pour construire des logements"
+        ],
+        "medium": [
+          "Le processus par lequel les crises économiques détruisent le capital accumulé",
+          "Le processus par lequel la concurrence internationale détruit l'industrie nationale",
+          "Le processus par lequel l'innovation crée des emplois sans jamais en détruire"
+        ],
+        "hard": [
+          "Le processus par lequel l'innovation détruit des activités anciennes, le solde net des emplois étant nécessairement négatif",
+          "Le processus par lequel les innovations de procédé remplacent les innovations de produit",
+          "Le processus par lequel l'entrepreneur détruit ses propres innovations pour en imposer de nouvelles"
+        ]
+      }
+    },
+    {
+      "recto": "Que signifie qualifier la croissance d'endogène ?",
+      "verso": "Le progrès technique n'est pas une donnée extérieure : il résulte de décisions économiques d'investissement, dans la recherche, l'éducation ou les infrastructures",
+      "explanation": "Les modèles antérieurs traitaient le progrès technique comme un résidu inexpliqué, tombé du ciel. En le rendant endogène, ces théories justifient une action publique volontariste, puisque l'investissement d'aujourd'hui détermine la croissance de demain.",
+      "tags": [
+        "croissance endogène",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La croissance provient uniquement du marché intérieur",
+          "La croissance est produite par les seules entreprises nationales",
+          "La croissance ne dépend pas des politiques publiques"
+        ],
+        "medium": [
+          "Le progrès technique est une donnée extérieure que l'économie subit",
+          "La croissance se produit sans qu'aucun investissement soit nécessaire",
+          "La croissance résulte uniquement de l'augmentation de la population active"
+        ],
+        "hard": [
+          "Le progrès technique résulte de décisions économiques, dont les effets restent internes à l'entreprise qui investit",
+          "Le progrès technique résulte de décisions économiques, ce qui rend toute intervention publique inutile",
+          "Le progrès technique est endogène, donc soumis à des rendements strictement décroissants"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles formes de capital les théories de la croissance endogène mettent-elles en avant ?",
+      "verso": "Le capital physique, le capital humain, le capital public et le capital technologique",
+      "explanation": "Chacun de ces investissements produit des effets qui débordent l'agent qui les finance, ce qui est la clé du raisonnement. Le capital humain, en particulier, désigne l'ensemble des connaissances et compétences accumulées par les individus.",
+      "tags": [
+        "croissance endogène",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le capital financier et le capital immobilier",
+          "Le capital des ménages et celui des entreprises",
+          "Le capital national et le capital étranger"
+        ],
+        "medium": [
+          "Le capital physique et le capital financier uniquement",
+          "Le capital humain et le capital naturel uniquement",
+          "Le capital fixe, le capital circulant et le capital social"
+        ],
+        "hard": [
+          "Le capital physique, humain, public et naturel, ce dernier remplaçant le capital technologique",
+          "Le capital physique, humain et technologique, le capital public relevant de la dépense et non de l'investissement",
+          "Le capital physique, humain, public et technologique, tous soumis à des rendements décroissants"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi l'investissement dans la connaissance produit-il des externalités positives ?",
+      "verso": "Parce qu'une connaissance produite par un agent peut être utilisée par d'autres sans être détruite, ce qui bénéficie à toute l'économie",
+      "explanation": "Cette non-rivalité explique que le rendement social de la recherche dépasse son rendement privé, et donc que le marché seul en produise trop peu. C'est l'argument central en faveur du financement public de la recherche et de l'éducation.",
+      "tags": [
+        "externalités",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que la connaissance coûte cher à produire",
+          "Parce que les chercheurs sont bien payés",
+          "Parce que les brevets rapportent de l'argent"
+        ],
+        "medium": [
+          "Parce que la connaissance est protégée par des brevets qui garantissent un monopole",
+          "Parce que la connaissance se déprécie plus vite que le capital physique",
+          "Parce que la connaissance est rivale mais non excluable"
+        ],
+        "hard": [
+          "Parce que la connaissance est non rivale, ce qui rend son rendement privé supérieur à son rendement social",
+          "Parce que la connaissance est non rivale et parfaitement excluable, ce qui garantit sa diffusion",
+          "Parce que la connaissance produit des rendements décroissants qui bénéficient aux concurrents"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi les institutions comptent-elles parmi les sources de la croissance ?",
+      "verso": "Parce que des droits de propriété garantis et des règles stables incitent les agents à investir et à innover, en leur assurant de percevoir les fruits de leur effort",
+      "explanation": "Sans protection de la propriété, l'investissement risqué devient irrationnel puisque son rendement peut être capté par autrui. Les brevets illustrent le compromis à trouver entre incitation à innover et diffusion des connaissances.",
+      "tags": [
+        "institutions",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les institutions produisent directement des biens et services",
+          "Parce que les institutions emploient beaucoup de fonctionnaires",
+          "Parce que les institutions fixent le niveau des salaires"
+        ],
+        "medium": [
+          "Parce que les institutions garantissent l'égalité parfaite des revenus",
+          "Parce que les institutions suppriment la concurrence entre entreprises",
+          "Parce que les institutions financent l'ensemble de l'investissement privé"
+        ],
+        "hard": [
+          "Parce que des droits de propriété garantis incitent à investir, ce qui rend les brevets toujours bénéfiques",
+          "Parce que des règles stables incitent à investir, indépendamment de la qualité du système judiciaire",
+          "Parce que les institutions garantissent la propriété, ce qui suffit à expliquer les écarts de croissance entre pays"
+        ]
+      }
+    },
+    {
+      "recto": "Que serait le problème d'une croissance reposant sur des rendements décroissants du capital ?",
+      "verso": "Chaque unité de capital supplémentaire rapporterait de moins en moins, ce qui finirait par tarir la croissance",
+      "explanation": "C'est précisément l'impasse que les théories de la croissance endogène contournent, en montrant que les externalités de la connaissance peuvent maintenir des rendements constants ou croissants. La croissance de long terme cesse alors d'être une énigme.",
+      "tags": [
+        "rendements",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le capital deviendrait trop cher à acheter",
+          "Les entreprises manqueraient de main-d'œuvre",
+          "Les prix augmenteraient sans limite"
+        ],
+        "medium": [
+          "Chaque unité de capital rapporterait de plus en plus, ce qui provoquerait une surchauffe",
+          "La productivité du travail deviendrait négative",
+          "Le capital cesserait d'être un facteur de production"
+        ],
+        "hard": [
+          "Chaque unité de capital rapporterait moins, ce qui rendrait le progrès technique impossible",
+          "Chaque unité de capital rapporterait moins, ce que les externalités de connaissance aggravent encore",
+          "Chaque unité de capital rapporterait moins, sauf dans les pays déjà les plus riches"
+        ]
+      }
+    },
+    {
+      "recto": "Comment le progrès technique agit-il sur les inégalités de revenus ?",
+      "verso": "Il tend à favoriser les travailleurs qualifiés dont il complète les compétences, et à défavoriser ceux dont les tâches sont automatisables",
+      "explanation": "On parle de progrès technique biaisé en faveur du travail qualifié : la demande se déplace vers le haut de l'échelle des compétences. Les gains de la croissance ne se répartissent donc pas spontanément de façon équitable.",
+      "tags": [
+        "inégalités",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Il réduit toutes les inégalités de façon automatique",
+          "Il n'a aucun effet sur la répartition des revenus",
+          "Il augmente uniformément tous les salaires"
+        ],
+        "medium": [
+          "Il favorise les travailleurs peu qualifiés dont il allège les tâches",
+          "Il agit uniquement sur les revenus du capital, sans toucher aux salaires",
+          "Il réduit les inégalités entre pays mais les augmente à l'intérieur de chaque pays"
+        ],
+        "hard": [
+          "Il favorise les travailleurs qualifiés, ce qui fait mécaniquement baisser le salaire des non-qualifiés en valeur absolue",
+          "Il est biaisé en faveur du travail qualifié, mais uniquement dans les services",
+          "Il favorise les travailleurs qualifiés, ce qui rend toute politique de formation inefficace"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on le capital naturel ?",
+      "verso": "L'ensemble des ressources et des services fournis par la nature, comme les énergies fossiles, la biodiversité, les sols ou la capacité d'absorption du carbone",
+      "explanation": "Le raisonner comme un capital souligne qu'il est un stock, susceptible d'être épuisé ou dégradé par les flux de production. Sa dégradation n'apparaît pourtant nulle part dans le calcul du PIB.",
+      "tags": [
+        "environnement",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Le patrimoine immobilier situé en zone rurale",
+          "L'argent placé dans les entreprises agricoles",
+          "Les parcs et jardins publics d'un pays"
+        ],
+        "medium": [
+          "L'ensemble des matières premières importées par un pays",
+          "L'ensemble des terres agricoles cultivées",
+          "L'ensemble des ressources naturelles renouvelables uniquement"
+        ],
+        "hard": [
+          "L'ensemble des ressources naturelles, dont la dégradation est retranchée du PIB par la comptabilité nationale",
+          "L'ensemble des ressources naturelles, considérées comme un flux et non comme un stock",
+          "L'ensemble des ressources naturelles exploitables, à l'exclusion des services écosystémiques"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : qu'est-ce qui distingue la soutenabilité faible de la soutenabilité forte ?",
+      "verso": "La soutenabilité faible admet que le capital naturel puisse être remplacé par les autres formes de capital, tandis que la soutenabilité forte considère certains éléments du capital naturel comme irremplaçables",
+      "explanation": "Le débat porte donc sur la substituabilité des capitaux, et non sur la nécessité de préserver l'environnement. La position forte impose de maintenir un stock minimal de capital naturel, quelles que soient les innovations disponibles.",
+      "tags": [
+        "comparaison",
+        "soutenabilité"
+      ],
+      "distractors": {
+        "easy": [
+          "La soutenabilité faible concerne les pays pauvres, la forte les pays riches",
+          "La soutenabilité faible est de court terme, la forte de long terme",
+          "Les deux notions signifient exactement la même chose"
+        ],
+        "medium": [
+          "La soutenabilité faible refuse toute substitution entre capitaux, la soutenabilité forte l'accepte",
+          "La soutenabilité faible concerne les ressources renouvelables, la forte les ressources fossiles",
+          "La soutenabilité faible repose sur la réglementation, la forte sur le marché"
+        ],
+        "hard": [
+          "La soutenabilité faible admet la substitution entre capitaux, la soutenabilité forte l'admet aussi mais à un rythme plus lent",
+          "La soutenabilité faible admet la substitution, ce qui la rend incompatible avec tout progrès technique",
+          "La soutenabilité faible impose de maintenir un stock minimal de capital naturel, la forte de le reconstituer"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la croissance économique se heurte-t-elle à des limites écologiques ?",
+      "verso": "Parce qu'elle prélève des ressources dont certaines sont épuisables et rejette des pollutions qui dégradent le capital naturel plus vite qu'il ne se régénère",
+      "explanation": "Le problème est double : l'épuisement des stocks en amont et la saturation des capacités d'absorption en aval. La question centrale du chapitre est donc de savoir si une croissance soutenable est possible, et non de savoir si la croissance a des effets environnementaux.",
+      "tags": [
+        "environnement",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les entreprises polluantes font faillite",
+          "Parce que les consommateurs refusent d'acheter",
+          "Parce que les prix des matières premières sont trop stables"
+        ],
+        "medium": [
+          "Parce que la population mondiale cesse d'augmenter",
+          "Parce que les ressources naturelles sont toutes renouvelables mais mal réparties",
+          "Parce que le progrès technique ralentit mécaniquement quand la pollution augmente"
+        ],
+        "hard": [
+          "Parce qu'elle épuise des ressources, la capacité d'absorption des pollutions étant en revanche illimitée",
+          "Parce qu'elle dégrade le capital naturel, dégradation intégralement comptabilisée dans le PIB",
+          "Parce qu'elle prélève des ressources épuisables, ce qui rend impossible toute innovation verte"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi le progrès technique peut-il être une réponse aux limites écologiques ?",
+      "verso": "En permettant de produire davantage avec moins de ressources, grâce aux innovations d'efficacité énergétique, aux énergies renouvelables et au recyclage",
+      "explanation": "C'est l'argument central des tenants de la soutenabilité faible, qui misent sur la substitution du capital technologique au capital naturel. L'objection classique est l'effet rebond : les gains d'efficacité peuvent être annulés par la hausse des quantités consommées.",
+      "tags": [
+        "environnement",
+        "progrès technique"
+      ],
+      "distractors": {
+        "easy": [
+          "En supprimant complètement le besoin de matières premières",
+          "En augmentant la quantité de ressources disponibles sur la planète",
+          "En faisant baisser le prix de toutes les énergies"
+        ],
+        "medium": [
+          "En permettant de produire davantage avec davantage de ressources, mais à moindre coût",
+          "En remplaçant les ressources épuisables par de la main-d'œuvre",
+          "En supprimant les externalités négatives sans aucune politique publique"
+        ],
+        "hard": [
+          "En permettant de produire avec moins de ressources, sans que l'effet rebond ne puisse jamais annuler ces gains",
+          "En permettant la substitution du capital technologique au capital naturel, argument des tenants de la soutenabilité forte",
+          "En permettant de produire avec moins de ressources, ce qui rend inutile toute réglementation environnementale"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on l'effet rebond ?",
+      "verso": "Le phénomène par lequel les gains d'efficacité, en abaissant le coût d'usage d'un bien, entraînent une hausse de sa consommation qui annule partiellement l'économie de ressources",
+      "explanation": "Des voitures moins gourmandes peuvent conduire à rouler davantage, si bien que la consommation totale de carburant ne baisse pas autant qu'attendu. C'est l'objection principale à l'idée que le progrès technique suffirait à résoudre la question écologique.",
+      "tags": [
+        "environnement",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La hausse brutale des prix après une pénurie",
+          "Le retour de la croissance après une récession",
+          "La reprise de la production après une grève"
+        ],
+        "medium": [
+          "Le phénomène par lequel une taxe sur la pollution fait baisser la production",
+          "Le phénomène par lequel les innovations se diffusent d'un secteur à un autre",
+          "Le phénomène par lequel les pollutions se déplacent vers les pays pauvres"
+        ],
+        "hard": [
+          "Le phénomène par lequel les gains d'efficacité augmentent le coût d'usage et réduisent la consommation",
+          "Le phénomène par lequel les gains d'efficacité entraînent une hausse de consommation qui dépasse toujours l'économie réalisée",
+          "Le phénomène par lequel l'épuisement d'une ressource fait mécaniquement apparaître son substitut"
+        ]
+      }
+    },
+    {
+      "recto": "Quels indicateurs complètent le PIB pour évaluer le développement d'un pays ?",
+      "verso": "L'indice de développement humain, qui combine revenu, éducation et espérance de vie, ainsi que l'empreinte écologique ou les indicateurs d'inégalités",
+      "explanation": "Ces indicateurs corrigent des angles morts précis du PIB : la répartition, la santé, l'éducation et la pression sur l'environnement. Aucun ne prétend le remplacer entièrement, tous visent à en compenser les limites.",
+      "tags": [
+        "indicateurs",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le taux d'inflation et le taux de chômage",
+          "Le nombre d'entreprises créées chaque année",
+          "Le montant des exportations et des importations"
+        ],
+        "medium": [
+          "Le PIB par habitant et le PIB en valeur",
+          "Le taux de croissance et le taux d'investissement",
+          "Le solde budgétaire et la dette publique"
+        ],
+        "hard": [
+          "L'indice de développement humain, qui combine revenu, éducation et taux d'emploi",
+          "L'indice de développement humain, qui a officiellement remplacé le PIB dans les comparaisons internationales",
+          "L'empreinte écologique, qui mesure la quantité de ressources encore disponibles sur la planète"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la croissance et le développement ne se confondent-ils pas ?",
+      "verso": "La croissance est un phénomène quantitatif de hausse de la production, tandis que le développement désigne les transformations qualitatives, sociales et institutionnelles qui améliorent durablement les conditions de vie",
+      "explanation": "Une croissance forte peut coexister avec une santé dégradée, une éducation défaillante ou de fortes inégalités. Le développement suppose que les fruits de la croissance se traduisent en progrès effectifs pour la population.",
+      "tags": [
+        "développement",
+        "distinction"
+      ],
+      "distractors": {
+        "easy": [
+          "Les deux termes désignent exactement la même chose",
+          "La croissance concerne les pays riches, le développement les pays pauvres",
+          "La croissance se mesure en euros, le développement en dollars"
+        ],
+        "medium": [
+          "La croissance est qualitative, le développement quantitatif",
+          "La croissance est mesurée par l'indice de développement humain, le développement par le PIB",
+          "La croissance est de long terme, le développement de court terme"
+        ],
+        "hard": [
+          "La croissance est quantitative et le développement qualitatif, si bien que le développement entraîne toujours la croissance",
+          "La croissance est quantitative et le développement qualitatif, ce dernier étant mesuré uniquement par l'espérance de vie",
+          "La croissance est quantitative et le développement qualitatif, mais l'un ne peut jamais aller sans l'autre"
+        ]
+      }
+    },
+    {
+      "recto": "Quel rôle l'État peut-il jouer pour soutenir la croissance de long terme ?",
+      "verso": "Financer la recherche et l'éducation, construire des infrastructures, protéger les droits de propriété et corriger les externalités négatives",
+      "explanation": "Ces interventions se justifient précisément là où le marché seul produit trop peu, faute pour les agents privés de capter toute la valeur créée. C'est la conséquence logique des théories de la croissance endogène.",
+      "tags": [
+        "politiques",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Fixer directement le niveau de production de chaque entreprise",
+          "Supprimer toutes les taxes sur les entreprises",
+          "Interdire les importations pour protéger la production nationale"
+        ],
+        "medium": [
+          "Se retirer complètement de l'économie pour laisser jouer le marché",
+          "Financer uniquement les entreprises publiques",
+          "Fixer les salaires de manière à stimuler la consommation"
+        ],
+        "hard": [
+          "Financer la recherche et l'éducation, ces investissements ne produisant toutefois aucune externalité",
+          "Financer les infrastructures et corriger les externalités, la protection des droits de propriété relevant du seul marché",
+          "Financer la recherche et l'éducation, ce qui suffit à garantir une croissance soutenable sans autre politique"
+        ]
+      }
+    },
+    {
+      "recto": "Quels instruments l'action publique mobilise-t-elle contre les externalités négatives environnementales ?",
+      "verso": "La réglementation, la taxation des pollutions et les marchés de quotas d'émission",
+      "explanation": "La réglementation fixe une norme, la taxe donne un prix à la pollution, le marché de quotas fixe une quantité et laisse le prix s'établir. Les trois visent le même objectif par des logiques différentes, avec des coûts et des effets distributifs distincts.",
+      "tags": [
+        "politiques",
+        "environnement"
+      ],
+      "distractors": {
+        "easy": [
+          "La publicité et la sensibilisation uniquement",
+          "L'augmentation du PIB",
+          "La baisse des taux d'intérêt"
+        ],
+        "medium": [
+          "La réglementation et la subvention aux entreprises polluantes",
+          "La taxation des revenus et la redistribution",
+          "La nationalisation des entreprises industrielles"
+        ],
+        "hard": [
+          "La réglementation, la taxation et les marchés de quotas, ces derniers fixant un prix et laissant la quantité s'ajuster",
+          "La réglementation, la taxation et les subventions, les marchés de quotas ayant été abandonnés en Europe",
+          "La taxation et les marchés de quotas, la réglementation étant inefficace face aux externalités"
+        ]
+      }
+    }
+  ]
+}

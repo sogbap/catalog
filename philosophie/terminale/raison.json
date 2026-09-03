@@ -1,0 +1,588 @@
+{
+  "id": "philosophie-terminale-raison",
+  "title": "La raison",
+  "emoji": "🧭",
+  "subject": "philosophy",
+  "country": "fr",
+  "courseDescription": "Philosophie · Terminale — la raison : principes logiques, rationalisme et empirisme, usage théorique et pratique, limites et critiques de la raison.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>La raison</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale (voie générale et technologique)<br>\n  <b>Thème&nbsp;:</b> Philosophie — La raison et le réel<br>\n  <b>Notion</b> · environ 4 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> Jusqu'où la raison peut-elle aller&nbsp;— et qui peut fixer cette limite&nbsp;?</p></blockquote>\n\n<p>La raison passe pour ce qui distingue l'homme&nbsp;: le pouvoir de justifier ce qu'il affirme et ce qu'il fait. Mais elle a été attaquée de deux côtés opposés. On lui a reproché son <em>manque</em>&nbsp;— trop de croyances mal examinées, trop de préjugés maintenus. Et on lui a reproché son <em>excès</em>&nbsp;— une rationalité de calcul qui organise efficacement le pire, sans pouvoir évaluer les fins qu'elle sert. Le chapitre ne défend donc pas la raison contre ses critiques&nbsp;; il montre que la seule manière de répondre à ces critiques est encore d'en user, et que <strong>tracer ses limites est un exercice rationnel</strong>.</p>\n\n<h2>1 · Ce qu'est la raison</h2>\n\n<p>La raison n'est pas un stock de connaissances mais une <strong>capacité d'enchaînement</strong>&nbsp;: le pouvoir de lier des idées selon des règles, de sorte que l'on puisse justifier ce que l'on avance. C'est pourquoi on peut être très savant et parfaitement déraisonnable, ou fort ignorant et rigoureux dans la conduite d'un raisonnement.</p>\n\n<h3>Les principes qu'elle présuppose</h3>\n\n<ul>\n  <li><strong>Identité</strong>&nbsp;: ce qui est, est&nbsp;; un terme garde le même sens dans un même raisonnement.</li>\n  <li><strong>Non-contradiction</strong>&nbsp;: on ne peut affirmer et nier la même chose sous le même rapport.</li>\n  <li><strong>Tiers exclu</strong>&nbsp;: entre une proposition et sa négation, il n'y a pas de troisième possibilité.</li>\n</ul>\n\n<p>Ces principes ne se démontrent pas&nbsp;— toute démonstration les emploie déjà. Nier la non-contradiction reviendrait à rendre impossible toute affirmation déterminée, puisque tout pourrait être affirmé et nié à la fois.</p>\n\n<p>S'y ajoute le <strong>principe de raison suffisante</strong>, formulé par Leibniz&nbsp;: <em>rien n'est sans raison</em>. Tout ce qui est ou arrive comporte un pourquoi, même si nous l'ignorons. Ce principe ne garantit pas que nous trouvions la raison&nbsp;: il fonde l'exigence de la chercher, et le refus qu'un fait soit un pur inexplicable.</p>\n\n<div class=\"callout\">\n  <strong>Repère · Principe / conséquence</strong><br>\n  Le principe est ce dont on part, la conséquence ce qui en découle. <b>L'ordre logique n'est pas l'ordre chronologique&nbsp;:</b> ce que l'on découvre en dernier peut être ce qui fonde tout le reste.\n</div>\n\n<h3>Démontrer, prouver, argumenter</h3>\n\n<p>Trois régimes de justification, qu'il ne faut pas mélanger.</p>\n\n<ul>\n  <li>On <strong>démontre</strong> en logique et en mathématiques&nbsp;: la conclusion suit nécessairement.</li>\n  <li>On <strong>prouve</strong> par des faits dans les sciences expérimentales&nbsp;: la confirmation reste révisable.</li>\n  <li>On <strong>argumente</strong> là où la démonstration est impossible&nbsp;: en morale, en politique, en droit.</li>\n</ul>\n\n<p>L'argumentation n'est pas une démonstration ratée. C'est le régime propre des questions où plusieurs positions défendables coexistent. Exiger une démonstration en ces matières conduit soit au dogmatisme — on décrète —, soit au renoncement — on abandonne la discussion.</p>\n\n<p>Le <strong>sophisme</strong> éclaire d'ailleurs le fonctionnement de la raison par la négative&nbsp;: un raisonnement peut être psychologiquement convaincant tout en étant logiquement invalide. La rigueur ne se <em>ressent</em> pas&nbsp;; elle se contrôle, ce qui exige d'expliciter la structure du raisonnement au lieu de se fier à son effet.</p>\n\n<h2>2 · D'où vient ce que nous savons&nbsp;?</h2>\n\n<p>Deux traditions s'opposent sur l'origine de la connaissance.</p>\n\n<ul>\n  <li>Le <strong>rationalisme</strong>&nbsp;: la raison possède des principes et des idées qui ne viennent pas de l'expérience. L'argument est solide&nbsp;: l'expérience ne fournit jamais l'<em>universalité</em> ni la <em>nécessité</em>. On peut vérifier mille triangles, jamais tous.</li>\n  <li>L'<strong>empirisme</strong>&nbsp;: toutes nos idées dérivent de l'expérience sensible&nbsp;; l'esprit est à l'origine une page blanche (Locke). Sa difficulté symétrique&nbsp;: rendre compte des vérités nécessaires.</li>\n</ul>\n\n<p><strong>Kant</strong> dépasse l'alternative. L'expérience fournit la <em>matière</em> de la connaissance&nbsp;; l'esprit lui impose des <em>formes</em> sans lesquelles elle serait inintelligible. D'où la formule&nbsp;: les intuitions sans concepts sont aveugles, les concepts sans intuitions sont vides.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 185\" role=\"img\" aria-label=\"Schéma de la synthèse kantienne : à gauche l'expérience sensible fournit la matière de la connaissance, à droite l'entendement fournit les formes et les catégories, et leur rencontre produit la connaissance des phénomènes, la chose en soi restant hors d'atteinte\">\n    <defs>\n      <marker id=\"ar-phrs1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n    <rect x=\"6\" y=\"14\" width=\"140\" height=\"46\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"76\" y=\"34\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Sensibilité</text>\n    <text x=\"76\" y=\"50\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">la matière</text>\n    <rect x=\"194\" y=\"14\" width=\"140\" height=\"46\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"264\" y=\"34\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Entendement</text>\n    <text x=\"264\" y=\"50\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">les formes</text>\n    <path d=\"M76,60 L150,88\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-phrs1)\"/>\n    <path d=\"M264,60 L190,88\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-phrs1)\"/>\n    <rect x=\"80\" y=\"94\" width=\"180\" height=\"44\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"114\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\" font-weight=\"bold\">Connaissance</text>\n    <text x=\"170\" y=\"130\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">des phénomènes</text>\n    <line x1=\"20\" y1=\"154\" x2=\"320\" y2=\"154\" stroke=\"var(--accent)\" stroke-opacity=\".6\" stroke-width=\"1.6\" stroke-dasharray=\"5 4\"/>\n    <text x=\"170\" y=\"174\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">la chose en soi — limite de principe, non arrière-monde</text>\n  </svg>\n  <figcaption>Ni la raison seule ni l'expérience seule ne connaissent&nbsp;: il faut leur collaboration.</figcaption>\n</figure>\n\n<h3>Les limites que Kant établit</h3>\n\n<p>Deux notions en découlent.</p>\n\n<p>Le <strong>phénomène</strong> est ce qui nous apparaît selon nos formes de connaissance&nbsp;; la <strong>chose en soi</strong>, ce qu'elle serait indépendamment de nous. Nous ne connaissons donc pas <em>moins bien</em> la réalité&nbsp;: nous la connaissons telle qu'elle se donne à un esprit constitué comme le nôtre. La chose en soi n'est pas un arrière-monde caché mais une limite de principe.</p>\n\n<p>Les <strong>antinomies</strong> montrent ce qui arrive quand la raison outrepasse le domaine de l'expérience possible&nbsp;: deux thèses opposées deviennent également démontrables. Le monde a-t-il un commencement, ou non&nbsp;? Les deux réponses se soutiennent. Ce n'est pas l'impuissance de la raison qui est en cause, mais son aventure là où aucune expérience ne peut trancher.</p>\n\n<h2>3 · Ce que la raison ne fait pas seule</h2>\n\n<h3>Théorique et pratique</h3>\n\n<p>Une même faculté, deux usages&nbsp;: la <strong>raison théorique</strong> cherche à connaître ce qui est, la <strong>raison pratique</strong> détermine ce qu'il faut faire. La distinction explique qu'une décision puisse être irréprochable quant aux faits et injustifiable moralement&nbsp;: les deux usages n'obéissent pas au même type de règle.</p>\n\n<h3>Hume&nbsp;: la raison ne motive pas</h3>\n\n<p>La raison seule ne peut déclencher aucune action&nbsp;: elle calcule les moyens, mais ce sont les <strong>passions</strong> qui donnent les fins. La formule provocante — la raison est esclave des passions — ne prône pas le déchaînement&nbsp;; elle observe qu'un être sans désir n'aurait aucune raison d'agir. La raison éclaire l'action, elle ne l'engendre pas.</p>\n\n<h3>La raison instrumentale</h3>\n\n<p>C'est le point où la critique devient sévère. Quand la raison se réduit au <strong>calcul des moyens les plus efficaces</strong>, elle ne peut plus évaluer les fins qu'elle sert. L'École de Francfort en tire un constat glaçant&nbsp;: une rationalité parfaitement maîtrisée — organisation, logistique, statistique — peut servir le pire, puisque l'efficacité ne dit rien de ce à quoi elle s'emploie. La critique ne vise pas la raison, mais son <em>amputation</em>.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 180\" role=\"img\" aria-label=\"Comparaison entre le rationnel, qui porte sur la cohérence et l'efficacité des moyens, et le raisonnable, qui engage un jugement sur les fins et les circonstances ; une décision peut être rationnelle sans être raisonnable\">\n    <text x=\"170\" y=\"14\" text-anchor=\"middle\" font-size=\"10\" class=\"s-muted\">Deux évaluations différentes</text>\n    <rect x=\"6\" y=\"26\" width=\"156\" height=\"106\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"84\" y=\"48\" text-anchor=\"middle\" font-size=\"11\" fill=\"var(--accent)\" font-weight=\"bold\">Rationnel</text>\n    <text x=\"84\" y=\"70\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">conforme aux règles<tspan x=\"84\" dy=\"13\">du raisonnement</tspan></text>\n    <text x=\"84\" y=\"106\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">porte sur les moyens<tspan x=\"84\" dy=\"13\" font-size=\"8\">et la cohérence</tspan></text>\n    <rect x=\"178\" y=\"26\" width=\"156\" height=\"106\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"256\" y=\"48\" text-anchor=\"middle\" font-size=\"11\" fill=\"var(--accent)\" font-weight=\"bold\">Raisonnable</text>\n    <text x=\"256\" y=\"70\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">tient compte des<tspan x=\"256\" dy=\"13\">circonstances et de la mesure</tspan></text>\n    <text x=\"256\" y=\"106\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">engage un jugement<tspan x=\"256\" dy=\"13\" font-size=\"8\">sur les fins</tspan></text>\n    <text x=\"170\" y=\"156\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">un calcul mené sans faute peut poursuivre une fin absurde</text>\n    <text x=\"170\" y=\"172\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">rationnel n'implique pas raisonnable</text>\n  </svg>\n  <figcaption>La cohérence formelle ne dit rien de la valeur du but poursuivi&nbsp;: c'est tout l'espace de la critique de la raison instrumentale.</figcaption>\n</figure>\n\n<h2>4 · Raison, croyance, déraison</h2>\n\n<p>On oppose volontiers croire et savoir. L'opposition est trop rapide&nbsp;: <strong>toute démonstration part de principes qu'elle ne démontre pas</strong> et que l'on tient pour vrais. La distinction pertinente n'est donc pas entre croyance et raison, mais entre une croyance qui <em>accepte l'examen</em> et une croyance qui s'y dérobe. La raison ne supprime pas tout point de départ non démontré&nbsp;: elle exige qu'il soit explicité.</p>\n\n<p>De même, la <strong>déraison</strong> n'est pas la simple absence de raison. Le délire comporte souvent une logique interne rigoureuse, développée à partir de prémisses fausses ou d'une expérience bouleversée. Ce qui manque n'est pas l'enchaînement mais l'<em>ancrage</em>&nbsp;: le rapport commun au réel et à l'objection d'autrui. Cette remarque interdit de traiter la folie comme une pure privation.</p>\n\n<h3>Une raison, des cultures</h3>\n\n<p>La diversité des manières de penser ne ruine pas l'idée de raison, parce qu'elle porte sur les <strong>croyances et les classifications</strong>, non sur les exigences minimales de cohérence sans lesquelles aucune pensée ne serait possible. Les anthropologues eux-mêmes ne pourraient pas traduire une pensée qui violerait toute cohérence&nbsp;: comprendre autrui suppose de lui prêter un minimum de rationalité — ce que l'on appelle le <em>principe de charité</em>.</p>\n\n<h3>Le point décisif</h3>\n\n<p>Reconnaître les limites de la raison n'est pas y renoncer, <strong>parce que ce sont des raisons qui établissent ces limites</strong>. Kant l'a montré le premier&nbsp;: borner les prétentions de la raison suppose d'en user rigoureusement. Une dénonciation de la raison qui prétendrait se passer d'arguments s'annulerait en se formulant.</p>\n\n<p>Et il y a plus. Argumenter, c'est déjà traiter son interlocuteur comme un <strong>égal en raison</strong>, capable d'examiner ce qu'on lui présente. Refuser de justifier ce que l'on affirme n'est donc pas seulement une faute logique&nbsp;: c'est une manière de sortir du rapport commun.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Le fil du problème</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Frise du parcours du chapitre : les principes que la raison présuppose, puis le débat entre rationalisme et empirisme résolu par Kant, puis les limites établies par la critique kantienne, puis les critiques de la raison instrumentale et de la déraison, enfin la raison comme condition de la discussion\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"186\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Les principes</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Identité, non-contradiction, raison</text>\n    <circle cx=\"26\" cy=\"62\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"59\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">L'origine du savoir</text>\n    <text x=\"44\" y=\"72\" font-size=\"10\" fill=\"currentColor\">Rationalisme, empirisme, Kant</text>\n    <circle cx=\"26\" cy=\"104\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"101\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Les limites</text>\n    <text x=\"44\" y=\"114\" font-size=\"10\" fill=\"currentColor\">Phénomène, antinomies</text>\n    <circle cx=\"26\" cy=\"146\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"143\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Les critiques</text>\n    <text x=\"44\" y=\"156\" font-size=\"10\" fill=\"currentColor\">Hume, raison instrumentale</text>\n    <circle cx=\"26\" cy=\"184\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"181\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Ce qui reste</text>\n    <text x=\"44\" y=\"194\" font-size=\"10\" fill=\"currentColor\">Donner des raisons partageables</text>\n  </svg>\n  <figcaption>Le chapitre montre que la critique de la raison est elle-même un usage de la raison.</figcaption>\n</figure>\n\n<h3>Distinctions à tenir</h3>\n\n<table>\n  <tr><th>Distinction</th><th>Ce qui se joue</th></tr>\n  <tr><td>Rationnel / raisonnable</td><td>Cohérence des moyens contre jugement sur les fins</td></tr>\n  <tr><td>Raison théorique / pratique</td><td>Connaître ce qui est, ou décider ce qu'il faut faire</td></tr>\n  <tr><td>Rationalisme / empirisme</td><td>D'où viennent l'universalité et la nécessité&nbsp;?</td></tr>\n  <tr><td>Phénomène / chose en soi</td><td>Ce qui apparaît selon nos formes, et sa limite</td></tr>\n  <tr><td>Démontrer / prouver / argumenter</td><td>Trois régimes de justification distincts</td></tr>\n  <tr><td>Croire / savoir</td><td>Accepter l'examen, ou s'y dérober</td></tr>\n  <tr><td>Principe / conséquence</td><td>L'ordre logique n'est pas l'ordre chronologique</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition</th></tr>\n  <tr><td>Non-contradiction</td><td>On ne peut affirmer et nier la même chose sous le même rapport</td></tr>\n  <tr><td>Raison suffisante</td><td>Rien n'est sans raison&nbsp;; tout comporte un pourquoi</td></tr>\n  <tr><td>Idée innée</td><td>Contenu que l'esprit ne tire pas de l'expérience</td></tr>\n  <tr><td>Table rase</td><td>Image empiriste de l'esprit sans contenu initial</td></tr>\n  <tr><td>Phénomène</td><td>Ce qui apparaît selon nos formes de connaissance</td></tr>\n  <tr><td>Antinomie</td><td>Conflit où deux thèses opposées sont également démontrables</td></tr>\n  <tr><td>Raison instrumentale</td><td>Raison réduite au calcul des moyens efficaces</td></tr>\n  <tr><td>Sophisme</td><td>Raisonnement convaincant mais logiquement invalide</td></tr>\n  <tr><td>Principe de charité</td><td>Prêter à autrui assez de rationalité pour le comprendre</td></tr>\n  <tr><td>Déraison</td><td>Logique préservée, ancrage commun perdu</td></tr>\n</table>\n\n<h3>Les auteurs</h3>\n\n<table>\n  <tr><th>Auteur</th><th>Thèse à retenir</th></tr>\n  <tr><td>Leibniz</td><td>Rien n'est sans raison</td></tr>\n  <tr><td>Locke</td><td>L'esprit est d'abord une page blanche que l'expérience écrit</td></tr>\n  <tr><td>Hume</td><td>La raison calcule les moyens&nbsp;; les passions donnent les fins</td></tr>\n  <tr><td>Kant</td><td>Concepts et intuitions sont indissociables&nbsp;; la raison doit se limiter elle-même</td></tr>\n  <tr><td>École de Francfort</td><td>Une raison réduite au calcul ne peut plus juger ses fins</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Confondre <em>rationnel</em> et <em>raisonnable</em>. Une décision peut être parfaitement rationnelle — un calcul mené sans la moindre faute — et parfaitement déraisonnable, si elle poursuit une fin absurde ou ignore les conséquences humaines. Le rationnel porte sur les moyens et la cohérence&nbsp;; le raisonnable engage un jugement sur les fins. Deux confusions voisines&nbsp;: croire que la déraison est une simple absence de logique, et croire que critiquer la raison suppose d'en sortir&nbsp;— ce sont toujours des raisons qui fixent ses limites.\n</div>\n\n<blockquote><p>Diviniser la raison conduit à ne plus rien pouvoir lui objecter&nbsp;; la disqualifier conduit à ne plus rien pouvoir objecter du tout. Elle ne vaut pas comme oracle, mais comme ce que nous nous devons les uns aux autres quand nous prétendons avoir raison.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Philosophie — La raison et le réel",
+  "cards": [
+    {
+      "recto": "Que désigne la raison entendue comme faculté ?",
+      "verso": "Le pouvoir de lier des idées selon des règles, de sorte que l'on puisse justifier ce que l'on affirme et ce que l'on fait",
+      "explanation": "La raison n'est pas un stock de connaissances mais une capacité d'enchaînement. C'est pourquoi on peut être savant et déraisonnable, ou ignorant et parfaitement rationnel dans sa manière de conduire un raisonnement.",
+      "tags": [
+        "définition",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "L'ensemble des connaissances acquises",
+          "L'intelligence mesurée par les tests",
+          "La capacité de calculer vite"
+        ],
+        "medium": [
+          "La faculté de percevoir le monde extérieur",
+          "La mémoire des expériences passées",
+          "Le sens moral inné de chaque individu"
+        ],
+        "hard": [
+          "La faculté d'intuitionner immédiatement les essences",
+          "Le pouvoir de produire des images mentales",
+          "La disposition à croire sans justification"
+        ]
+      }
+    },
+    {
+      "recto": "Quels sont les trois grands principes logiques que la raison présuppose ?",
+      "verso": "Le principe d'identité, le principe de non-contradiction et le principe du tiers exclu",
+      "explanation": "Ils ne se démontrent pas : toute démonstration les emploie déjà. Nier la non-contradiction, par exemple, revient à rendre impossible toute affirmation déterminée, puisque tout pourrait être affirmé et nié à la fois.",
+      "tags": [
+        "logique",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "L'observation, l'hypothèse et l'expérience",
+          "La thèse, l'antithèse et la synthèse",
+          "Le vrai, le beau et le bien"
+        ],
+        "medium": [
+          "La déduction, l'induction et l'analogie",
+          "L'évidence, la cohérence et l'utilité",
+          "La cause, la fin et le moyen"
+        ],
+        "hard": [
+          "Le principe de raison suffisante, de finalité et de causalité",
+          "Le principe d'identité, de continuité et d'analogie",
+          "Le principe d'universalité, de nécessité et de contingence"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'énonce le principe de raison suffisante ?",
+      "verso": "Rien n'est sans raison : tout ce qui est ou arrive comporte un pourquoi, même si nous l'ignorons",
+      "explanation": "Formulé par Leibniz, ce principe fonde l'exigence d'explication : refuser qu'un fait soit un pur hasard inexplicable. Il ne garantit pas que nous trouvions la raison, seulement qu'il y en a une à chercher.",
+      "tags": [
+        "principe",
+        "Leibniz"
+      ],
+      "distractors": {
+        "easy": [
+          "Il faut avoir assez de raisons pour convaincre",
+          "La raison suffit à tout connaître",
+          "Chacun a ses raisons d'agir"
+        ],
+        "medium": [
+          "Toute chose a une cause matérielle observable",
+          "Le raisonnement suffit sans expérience",
+          "Toute affirmation doit être démontrée"
+        ],
+        "hard": [
+          "Rien n'existe qui ne soit logiquement nécessaire",
+          "Toute raison connue est nécessairement suffisante",
+          "Ce qui n'a pas de raison connue n'existe pas"
+        ]
+      }
+    },
+    {
+      "recto": "Ne pas confondre : qu'oppose-t-on entre la raison théorique et la raison pratique ?",
+      "verso": "La raison théorique cherche à connaître ce qui est, la raison pratique détermine ce qu'il faut faire",
+      "explanation": "La distinction, centrale chez Kant, sépare deux usages d'une même faculté. Elle explique qu'une décision puisse être irréprochable du point de vue des faits et pourtant injustifiable moralement : les deux usages n'obéissent pas au même type de règle.",
+      "tags": [
+        "comparaison",
+        "Kant"
+      ],
+      "distractors": {
+        "easy": [
+          "La théorie est enseignée, la pratique s'apprend seule",
+          "La raison théorique est abstraite, la pratique est manuelle",
+          "Ce sont deux facultés entièrement séparées"
+        ],
+        "medium": [
+          "La raison pratique cherche à connaître, la théorique à agir",
+          "La théorique concerne les sciences, la pratique les techniques",
+          "La pratique concerne les moyens, la théorique les fins"
+        ],
+        "hard": [
+          "La raison pratique se déduit intégralement de la raison théorique",
+          "La raison théorique détermine les fins morales de l'action",
+          "Les deux usages obéissent exactement aux mêmes principes"
+        ]
+      }
+    },
+    {
+      "recto": "Que soutient le rationalisme au sujet de l'origine de nos connaissances ?",
+      "verso": "Que la raison possède des principes et des idées qui ne viennent pas de l'expérience et lui donnent sa forme",
+      "explanation": "L'argument fort est que l'expérience ne fournit jamais l'universalité ni la nécessité : on peut vérifier mille triangles, jamais tous. Le rationalisme en conclut que ces caractères viennent de l'esprit lui-même.",
+      "tags": [
+        "école",
+        "rationalisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Que tout vient des sens",
+          "Que la connaissance est impossible",
+          "Que seule la tradition instruit"
+        ],
+        "medium": [
+          "Que l'esprit est une table rase à la naissance",
+          "Que l'expérience répétée fournit les principes universels",
+          "Que la connaissance dépend de la culture de chacun"
+        ],
+        "hard": [
+          "Que les idées innées se déduisent de l'observation répétée",
+          "Que la nécessité provient de l'accumulation des cas favorables",
+          "Que l'expérience fournit à la fois la matière et la forme du savoir"
+        ]
+      }
+    },
+    {
+      "recto": "Que soutient l'empirisme contre le rationalisme ?",
+      "verso": "Que toutes nos idées dérivent de l'expérience sensible, l'esprit étant à l'origine sans contenu propre",
+      "explanation": "Locke compare l'esprit à une page blanche que l'expérience vient écrire. La difficulté est de rendre compte des vérités nécessaires, que l'expérience seule ne semble pas pouvoir garantir.",
+      "tags": [
+        "école",
+        "empirisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Que la raison est inutile",
+          "Que rien n'existe hors de nous",
+          "Que l'expérience est toujours trompeuse"
+        ],
+        "medium": [
+          "Que la raison possède des idées innées limitées",
+          "Que les sens et la raison sont deux sources indépendantes et égales",
+          "Que l'expérience ne concerne que les sciences de la nature"
+        ],
+        "hard": [
+          "Que l'expérience fournit la matière mais non la forme du savoir",
+          "Que les vérités nécessaires précèdent toute expérience",
+          "Que l'esprit impose ses catégories aux données sensibles"
+        ]
+      }
+    },
+    {
+      "recto": "Comment Kant articule-t-il sensibilité et entendement pour dépasser cette opposition ?",
+      "verso": "L'expérience fournit la matière de la connaissance, l'esprit lui impose des formes sans lesquelles elle serait inintelligible",
+      "explanation": "D'où la formule : les intuitions sans concepts sont aveugles, les concepts sans intuitions sont vides. Ni la raison seule ni l'expérience seule ne connaissent : il faut leur collaboration.",
+      "tags": [
+        "auteur",
+        "Kant"
+      ],
+      "distractors": {
+        "easy": [
+          "Il choisit définitivement le camp des empiristes",
+          "Il choisit définitivement le camp des rationalistes",
+          "Il déclare la connaissance impossible"
+        ],
+        "medium": [
+          "Il fait dériver toutes les formes de l'expérience",
+          "Il montre que les sens suffisent si l'on est attentif",
+          "Il réduit l'entendement à une mémoire organisée"
+        ],
+        "hard": [
+          "Il soutient que les concepts seuls suffisent à connaître les objets",
+          "Il montre que la matière et la forme viennent toutes deux de l'esprit",
+          "Il établit que l'intuition intellectuelle nous donne les choses en soi"
+        ]
+      }
+    },
+    {
+      "recto": "Que distingue Kant entre le phénomène et la chose en soi ?",
+      "verso": "Le phénomène est ce qui nous apparaît selon nos formes de connaissance, la chose en soi ce qu'elle serait indépendamment de nous",
+      "explanation": "Nous ne connaissons donc pas moins bien la réalité : nous la connaissons telle qu'elle se donne à un esprit constitué comme le nôtre. La chose en soi n'est pas un arrière-monde caché mais une limite de principe.",
+      "tags": [
+        "auteur",
+        "Kant"
+      ],
+      "distractors": {
+        "easy": [
+          "Le phénomène est visible, la chose en soi est invisible",
+          "Le phénomène est rare, la chose en soi est ordinaire",
+          "Le phénomène est une illusion, la chose en soi la réalité"
+        ],
+        "medium": [
+          "Le phénomène est ce que perçoivent les sens, la chose en soi ce que conçoit la raison",
+          "Le phénomène est subjectif, la chose en soi est prouvée par la science",
+          "La chose en soi se connaît par un effort d'attention"
+        ],
+        "hard": [
+          "La chose en soi est accessible à l'intuition intellectuelle",
+          "Le phénomène est la chose en soi imparfaitement mesurée",
+          "La chose en soi désigne les objets que la science n'a pas encore étudiés"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une antinomie de la raison chez Kant ?",
+      "verso": "Un conflit où deux thèses opposées peuvent être également démontrées, parce que la raison outrepasse le domaine de l'expérience possible",
+      "explanation": "Le monde a-t-il un commencement, ou non ? Les deux réponses se soutiennent également. Cela ne prouve pas que la raison est impuissante : cela indique qu'elle s'est aventurée là où aucune expérience ne peut trancher.",
+      "tags": [
+        "notion",
+        "Kant"
+      ],
+      "distractors": {
+        "easy": [
+          "Une contradiction dans les termes",
+          "Une erreur de calcul",
+          "Une opposition entre deux savants"
+        ],
+        "medium": [
+          "Une hypothèse que l'expérience contredit",
+          "Un raisonnement invalide mais persuasif",
+          "Un désaccord entre la science et la religion"
+        ],
+        "hard": [
+          "Un conflit tranché par l'expérience en faveur d'une thèse",
+          "Une contradiction interne à un système démontrable",
+          "Une opposition entre la raison théorique et la raison pratique"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : rationnel et raisonnable signifient-ils la même chose ?",
+      "verso": "Non : est rationnel ce qui est conforme aux règles du raisonnement, est raisonnable ce qui tient compte des circonstances et de la mesure",
+      "explanation": "C'est la confusion la plus utile à dissiper. Une décision peut être parfaitement rationnelle — un calcul mené sans faute — et parfaitement déraisonnable, si elle poursuit une fin absurde ou ignore les conséquences humaines. Le rationnel porte sur les moyens et la cohérence, le raisonnable engage un jugement sur les fins.",
+      "tags": [
+        "piege",
+        "distinction"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, ce sont deux mots pour la même chose",
+          "Oui, le second est simplement plus courant",
+          "Non, le raisonnable est ce qui est calculé"
+        ],
+        "medium": [
+          "Oui, car toute conduite rationnelle est mesurée",
+          "Non, le rationnel concerne la morale et le raisonnable la logique",
+          "Oui, sauf en mathématiques"
+        ],
+        "hard": [
+          "Non, le rationnel porte sur les fins et le raisonnable sur les moyens",
+          "Oui, car la cohérence formelle garantit la justesse des fins",
+          "Non, le raisonnable désigne le calcul le plus efficace"
+        ]
+      }
+    },
+    {
+      "recto": "Que soutient Hume sur le rapport entre la raison et les passions ?",
+      "verso": "Que la raison seule ne peut motiver aucune action : elle calcule les moyens, mais ce sont les passions qui donnent les fins",
+      "explanation": "La formule provocante selon laquelle la raison est esclave des passions ne prône pas le déchaînement : elle observe qu'un être sans désir n'aurait aucune raison d'agir. La raison éclaire l'action, elle ne la déclenche pas.",
+      "tags": [
+        "auteur",
+        "Hume"
+      ],
+      "distractors": {
+        "easy": [
+          "Que les passions sont toujours mauvaises",
+          "Que la raison doit supprimer les passions",
+          "Que les passions n'existent pas chez le sage"
+        ],
+        "medium": [
+          "Que la raison détermine seule les fins de l'action",
+          "Que les passions se déduisent de la raison",
+          "Que la raison et les passions sont indépendantes"
+        ],
+        "hard": [
+          "Que la raison pratique fournit à elle seule le mobile de l'action",
+          "Que les passions calculent les moyens et la raison fixe les fins",
+          "Que la raison motive l'action indépendamment de tout désir"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on raison instrumentale et pourquoi a-t-elle été critiquée ?",
+      "verso": "Une raison réduite au calcul des moyens les plus efficaces, critiquée parce qu'elle ne peut plus évaluer les fins qu'elle sert",
+      "explanation": "L'École de Francfort observe qu'une rationalité parfaitement maîtrisée peut organiser le pire, puisque l'efficacité ne dit rien de ce à quoi elle s'emploie. La critique ne vise pas la raison elle-même mais son amputation.",
+      "tags": [
+        "critique",
+        "contemporain"
+      ],
+      "distractors": {
+        "easy": [
+          "Une raison qui utilise des instruments de mesure",
+          "Une raison propre aux musiciens",
+          "Une raison réservée aux ingénieurs"
+        ],
+        "medium": [
+          "Une raison qui refuse tout calcul",
+          "Une raison qui détermine les fins sans les moyens",
+          "Une raison limitée aux sciences expérimentales"
+        ],
+        "hard": [
+          "Une raison qui évalue les fins mais non les moyens",
+          "Une raison qui se confond avec la raison pratique kantienne",
+          "Une raison qui renonce à toute efficacité au profit des valeurs"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la raison n'est-elle pas nécessairement opposée à la croyance ?",
+      "verso": "Parce que toute démonstration part de principes qu'elle ne démontre pas et que l'on tient pour vrais",
+      "explanation": "L'opposition pertinente n'est donc pas entre croire et savoir mais entre une croyance qui accepte l'examen et une croyance qui s'y dérobe. La raison ne supprime pas tout point de départ non démontré : elle exige qu'il soit explicité.",
+      "tags": [
+        "croyance",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que la raison est une croyance comme une autre",
+          "Parce que croire et savoir sont identiques",
+          "Parce que la religion est rationnelle"
+        ],
+        "medium": [
+          "Parce que la raison démontre tous ses principes",
+          "Parce que les croyances sont toujours justifiées",
+          "Parce que la science repose sur la foi"
+        ],
+        "hard": [
+          "Parce que la croyance fournit la justification que la raison exige",
+          "Parce que toute croyance examinée devient une démonstration",
+          "Parce que les principes premiers se démontrent circulairement"
+        ]
+      }
+    },
+    {
+      "recto": "Quel repère du programme éclaire le statut d'un point de départ dans un raisonnement ?",
+      "verso": "L'opposition entre le principe et la conséquence",
+      "explanation": "Le principe est ce dont on part, la conséquence ce qui en découle. L'ordre logique n'est pas l'ordre chronologique : ce que l'on découvre en dernier peut être ce qui fonde tout le reste.",
+      "tags": [
+        "repère",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Le repère idéal / réel",
+          "Le repère genre / espèce / individu",
+          "Le repère légal / légitime"
+        ],
+        "medium": [
+          "Le repère universel / général",
+          "Le repère acte / puissance",
+          "Le repère obligation / contrainte"
+        ],
+        "hard": [
+          "Le repère transcendant / immanent",
+          "Le repère essentiel / accidentel",
+          "Le repère ressemblance / analogie"
+        ]
+      }
+    },
+    {
+      "recto": "Comment distinguer démontrer, argumenter et prouver ?",
+      "verso": "On démontre en logique et en mathématiques, on prouve par des faits dans les sciences expérimentales, on argumente là où la démonstration est impossible",
+      "explanation": "L'argumentation n'est pas une démonstration ratée : c'est le régime propre des questions où plusieurs positions défendables coexistent, comme en morale ou en politique. Exiger une démonstration en ces matières conduit soit au dogmatisme, soit au renoncement.",
+      "tags": [
+        "distinction",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Ce sont trois mots pour la même chose",
+          "Démontrer est oral, prouver est écrit",
+          "Argumenter, c'est démontrer sans rigueur"
+        ],
+        "medium": [
+          "On démontre par des faits, on prouve par la logique",
+          "L'argumentation est réservée aux mathématiques",
+          "La preuve expérimentale est une démonstration au sens strict"
+        ],
+        "hard": [
+          "L'argumentation est une démonstration incomplète à compléter",
+          "La démonstration s'applique aux questions morales et politiques",
+          "La preuve établit une nécessité logique comme la démonstration"
+        ]
+      }
+    },
+    {
+      "recto": "Que révèle un sophisme sur le fonctionnement de la raison ?",
+      "verso": "Qu'un raisonnement peut être psychologiquement convaincant tout en étant logiquement invalide",
+      "explanation": "Le sophisme exploite l'apparence de la forme correcte. Sa possibilité montre que la rigueur ne se ressent pas : elle se contrôle, ce qui exige d'expliciter la structure du raisonnement plutôt que de se fier à son effet.",
+      "tags": [
+        "logique",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Que la raison est inutile",
+          "Que tout raisonnement est faux",
+          "Que la logique n'existe pas"
+        ],
+        "medium": [
+          "Qu'un raisonnement invalide ne convainc jamais personne",
+          "Que la validité se reconnaît immédiatement à l'usage",
+          "Que les erreurs de raisonnement sont toujours volontaires"
+        ],
+        "hard": [
+          "Qu'un raisonnement valide peut néanmoins convaincre à tort",
+          "Que la validité formelle garantit l'adhésion de l'auditoire",
+          "Que le sophisme repose sur des prémisses toujours fausses"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi l'existence de rationalités différentes selon les cultures ne ruine-t-elle pas l'idée de raison ?",
+      "verso": "Parce que la diversité porte sur les croyances et les classifications, non sur les exigences minimales de cohérence sans lesquelles aucune pensée ne serait possible",
+      "explanation": "Les anthropologues eux-mêmes ne pourraient pas traduire une pensée qui violerait toute cohérence : comprendre autrui suppose de lui prêter un minimum de rationalité. C'est ce que l'on appelle le principe de charité.",
+      "tags": [
+        "objection",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que toutes les cultures pensent exactement pareil",
+          "Parce que seules les cultures occidentales raisonnent",
+          "Parce que la diversité est une illusion"
+        ],
+        "medium": [
+          "Parce que la raison change entièrement selon les sociétés",
+          "Parce que les traductions sont toujours impossibles",
+          "Parce que la logique est une invention récente"
+        ],
+        "hard": [
+          "Parce que la cohérence minimale varie elle aussi d'une culture à l'autre",
+          "Parce que le principe de charité impose une seule vision du monde",
+          "Parce que les classifications sont universelles et les croyances variables"
+        ]
+      }
+    },
+    {
+      "recto": "Que reproche-t-on à la raison lorsqu'on parle de son excès plutôt que de son manque ?",
+      "verso": "De prétendre soumettre au calcul et à la règle des domaines qui relèvent du sentiment, du singulier ou de la délibération",
+      "explanation": "La critique romantique puis contemporaine vise moins la raison que son extension abusive. Y répondre ne consiste pas à défendre l'irrationnel mais à préciser les domaines et les usages légitimes de chaque faculté.",
+      "tags": [
+        "critique",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "D'être trop difficile à apprendre",
+          "D'être réservée aux savants",
+          "De prendre trop de temps"
+        ],
+        "medium": [
+          "De refuser toute forme de calcul",
+          "De ne pas assez utiliser les mathématiques",
+          "D'être incompatible avec la science"
+        ],
+        "hard": [
+          "De renoncer à toute prétention universelle",
+          "De se limiter aux domaines du sentiment",
+          "De confondre la raison théorique avec la logique formelle"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la déraison n'est-elle pas simplement l'absence de raison ?",
+      "verso": "Parce que le délire comporte souvent une logique interne rigoureuse à partir de prémisses fausses ou d'une expérience bouleversée",
+      "explanation": "Ce qui manque n'est pas l'enchaînement mais l'ancrage : le rapport commun au réel et à l'objection d'autrui. Cette remarque interdit de traiter la folie comme une pure privation, et invite à comprendre plutôt qu'à exclure.",
+      "tags": [
+        "déraison",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les fous raisonnent mieux que les autres",
+          "Parce que la déraison n'existe pas",
+          "Parce que tout le monde est un peu fou"
+        ],
+        "medium": [
+          "Parce que la déraison est un manque total de logique",
+          "Parce que la déraison est toujours volontaire",
+          "Parce que la folie est un simple manque d'éducation"
+        ],
+        "hard": [
+          "Parce que le délire est dépourvu de toute cohérence interne",
+          "Parce que la déraison résulte d'un défaut d'enchaînement logique",
+          "Parce que la folie se corrige par la seule démonstration"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi la raison est-elle liée à la possibilité même de la discussion ?",
+      "verso": "Parce qu'elle oblige à donner des raisons partageables, ce qui suppose de reconnaître l'autre comme capable de les examiner",
+      "explanation": "Argumenter, c'est déjà traiter son interlocuteur comme un égal en raison. C'est pourquoi le refus de justifier ce que l'on affirme n'est pas seulement une faute logique : c'est une manière de sortir du rapport commun.",
+      "tags": [
+        "synthèse",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'il faut parler fort pour convaincre",
+          "Parce que la discussion sert à gagner",
+          "Parce que la raison impose le silence"
+        ],
+        "medium": [
+          "Parce que la raison garantit l'accord final des interlocuteurs",
+          "Parce que la discussion remplace la démonstration",
+          "Parce que le plus rationnel a toujours raison"
+        ],
+        "hard": [
+          "Parce que donner des raisons dispense de reconnaître autrui",
+          "Parce que la raison rend la contradiction impossible",
+          "Parce que l'accord obtenu mesure la validité des raisons"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi reconnaître les limites de la raison n'est-il pas y renoncer ?",
+      "verso": "Parce que ce sont des raisons qui établissent ces limites : la critique de la raison est elle-même un exercice rationnel",
+      "explanation": "Kant l'a établi le premier : borner les prétentions de la raison suppose d'en user rigoureusement. Une dénonciation de la raison qui prétendrait se passer d'arguments s'annulerait en se formulant.",
+      "tags": [
+        "argument",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les limites n'existent pas vraiment",
+          "Parce qu'il faut croire malgré tout",
+          "Parce que la raison est toute-puissante"
+        ],
+        "medium": [
+          "Parce que les limites sont fixées par l'expérience seule",
+          "Parce que reconnaître ses limites rend la raison inutile",
+          "Parce que les limites concernent uniquement la science"
+        ],
+        "hard": [
+          "Parce que la critique de la raison s'effectue depuis un point de vue extérieur à elle",
+          "Parce que les limites de la raison se constatent sans argumentation",
+          "Parce que renoncer à la raison est la conclusion rationnelle de sa critique"
+        ]
+      }
+    },
+    {
+      "recto": "Quel bilan peut-on dresser sur la raison ?",
+      "verso": "Elle n'est ni une puissance illimitée ni une simple convention culturelle, mais une exigence de justification qui vaut pour tous et qui doit connaître ses propres bornes",
+      "explanation": "Les deux excès se répondent : diviniser la raison conduit au scientisme et à la raison instrumentale, la disqualifier conduit à l'arbitraire. Elle vaut comme instrument de contrôle mutuel, pas comme oracle.",
+      "tags": [
+        "synthèse",
+        "bilan"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle permet de tout connaître",
+          "Elle est une invention occidentale sans valeur",
+          "Elle se réduit au calcul mathématique"
+        ],
+        "medium": [
+          "Elle détermine à elle seule les fins de nos actions",
+          "Elle s'oppose nécessairement à toute croyance",
+          "Elle varie entièrement selon les cultures"
+        ],
+        "hard": [
+          "Elle fonde sa propre autorité sans avoir à se limiter",
+          "Elle se réduit à une exigence formelle sans portée pratique",
+          "Elle garantit l'accord de tous les esprits sur toute question"
+        ]
+      }
+    }
+  ]
+}

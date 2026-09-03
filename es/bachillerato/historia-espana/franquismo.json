@@ -1,0 +1,483 @@
+{
+  "id": "es-bachillerato-historia-espana-franquismo",
+  "title": "El franquismo (1939-1975)",
+  "emoji": "✊",
+  "subject": "history",
+  "country": "es",
+  "courseDescription": "La dictadura de Francisco Franco desde el fin de la Guerra Civil hasta su muerte en 1975.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>El franquismo (1939-1975)</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Nivel:</b> Bachillerato &nbsp;·&nbsp; <b>País:</b> España<br>\n  <b>Tema:</b> Historia de España &nbsp;·&nbsp; <b>Capítulo:</b> El franquismo · 4-5 séances\n</div>\n\n<blockquote><p><b>Problemática.</b> ¿Cómo se instaló, evolucionó y entró en crisis la dictadura franquista entre 1939 y 1975, y qué consecuencias tuvo para la sociedad española?</p></blockquote>\n\n<p>El 1 de abril de 1939, con el último parte de guerra, Francisco Franco instauró una dictadura personalista que duraría casi cuarenta años. El régimen atravesó varias etapas: una posguerra marcada por la represión y el aislamiento, una estabilización internacional en los años 1950 y una modernización económica en los 1960 que transformó profundamente la sociedad sin alterar las estructuras políticas.</p>\n\n<h2>1 · Los fundamentos del régimen (1939-1945)</h2>\n\n<p>El franquismo se apoyó en cuatro pilares: el <strong>Ejército</strong> (garante del orden), la <strong>Iglesia católica</strong> (legitimadora ideológica), la <strong>Falange</strong> (partido único, FET y de las JONS) y la <strong>oligarquía agraria e industrial</strong>. Franco acumuló todos los poderes: Jefe del Estado, Jefe del Gobierno y Generalísimo. Las <strong>Leyes Fundamentales del Reino</strong> sustituyeron a la Constitución.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Nacional-catolicismo</strong><br>\n  Fusión entre identidad nacional española y catolicismo. La Iglesia obtuvo control de la educación y privilegios legales; a cambio, legitimó el régimen como «Cruzada» contra el comunismo y la masonería.\n</div>\n\n<p>La <strong>represión</strong> fue masiva e inmediata. La Ley de Responsabilidades Políticas (1939) criminalizó la oposición al Alzamiento. Decenas de miles de republicanos fueron ejecutados, encarcelados o sometidos a trabajos forzados (Batallones de Trabajadores). El <strong>exilio republicano</strong> dispersó a intelectuales, políticos y artistas por toda Europa y América Latina.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Los cuatro pilares del régimen franquista: Ejército, Iglesia, Falange y oligarquía, convergiendo hacia Franco en el centro\">\n    <defs>\n      <marker id=\"ar-fr1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n    <!-- Centro -->\n    <rect x=\"120\" y=\"80\" width=\"100\" height=\"40\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"97\" text-anchor=\"middle\" font-size=\"11\" fill=\"var(--accent)\" font-weight=\"bold\">FRANCO</text>\n    <text x=\"170\" y=\"111\" text-anchor=\"middle\" font-size=\"9\" fill=\"var(--accent)\">Jefe del Estado</text>\n    <!-- Pilares -->\n    <rect x=\"10\" y=\"10\" width=\"90\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"55\" y=\"29\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Ejército</text>\n    <line x1=\"100\" y1=\"25\" x2=\"120\" y2=\"88\" stroke=\"var(--accent)\" stroke-opacity=\".5\" stroke-width=\"1.5\" marker-end=\"url(#ar-fr1)\"/>\n    <rect x=\"240\" y=\"10\" width=\"90\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"285\" y=\"29\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Iglesia</text>\n    <line x1=\"240\" y1=\"25\" x2=\"220\" y2=\"88\" stroke=\"var(--accent)\" stroke-opacity=\".5\" stroke-width=\"1.5\" marker-end=\"url(#ar-fr1)\"/>\n    <rect x=\"10\" y=\"160\" width=\"90\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"55\" y=\"179\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Falange</text>\n    <line x1=\"100\" y1=\"175\" x2=\"120\" y2=\"118\" stroke=\"var(--accent)\" stroke-opacity=\".5\" stroke-width=\"1.5\" marker-end=\"url(#ar-fr1)\"/>\n    <rect x=\"240\" y=\"160\" width=\"90\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"285\" y=\"179\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Oligarquía</text>\n    <line x1=\"240\" y1=\"175\" x2=\"220\" y2=\"118\" stroke=\"var(--accent)\" stroke-opacity=\".5\" stroke-width=\"1.5\" marker-end=\"url(#ar-fr1)\"/>\n  </svg>\n  <figcaption>Los cuatro pilares de apoyo del régimen franquista convergiendo en la figura del Caudillo.</figcaption>\n</figure>\n\n<h2>2 · Autarquía y aislamiento internacional (1939-1959)</h2>\n\n<p>La política económica de la <strong>autarquía</strong> buscaba la autosuficiencia nacional, rechazando la dependencia exterior. Resultó un fracaso: escasez generalizada, racionamiento de alimentos (hasta 1952) y florecimiento del <strong>estraperlo</strong> (mercado negro). La renta per cápita de 1935 no se recuperó hasta 1951.</p>\n\n<p>Tras la derrota del Eje en 1945, España fue excluida de la ONU y del Plan Marshall. El régimen sobrevivió gracias al apoyo de Perón (Argentina) y al pragmatismo de los <strong>Pactos de Madrid de 1953</strong> con EEUU: bases militares americanas a cambio de ayuda económica. En <strong>1955</strong> España ingresó en la ONU, rompiendo definitivamente el aislamiento.</p>\n\n<h2>3 · El desarrollismo y el «milagro económico» (1959-1973)</h2>\n\n<p>El <strong>Plan de Estabilización de 1959</strong>, impulsado por los tecnócratas del Opus Dei y exigido por el FMI, liquidó la autarquía: devaluación de la peseta, liberalización de las importaciones y apertura a la inversión extranjera. Los <strong>Planes de Desarrollo</strong> (1964-1975) impulsaron la industrialización, el turismo y los servicios.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Tecnócratas del Opus Dei</strong><br>\n  Ministros vinculados al Opus Dei (López Rodó, Ullastres, Navarro Rubio) que sustituyeron a los falangistas en los ministerios económicos desde 1957. Priorizaron la eficacia técnica sobre la ideología falangista.\n</div>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 160\" role=\"img\" aria-label=\"Evolución económica: autarquía 1939-1959 con estancamiento, Plan de Estabilización 1959 como punto de inflexión, y crecimiento durante los Planes de Desarrollo 1964-1975\">\n    <defs>\n      <marker id=\"ar-fr2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n    <!-- Eje -->\n    <line x1=\"30\" y1=\"120\" x2=\"320\" y2=\"120\" stroke=\"currentColor\" stroke-opacity=\".3\" stroke-width=\"1\"/>\n    <!-- Autarquía: línea baja -->\n    <polyline points=\"30,110 130,105\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\" fill=\"none\"/>\n    <text x=\"60\" y=\"98\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">Autarquía</text>\n    <text x=\"60\" y=\"109\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">1939-1959</text>\n    <!-- Punto ruptura -->\n    <circle cx=\"140\" cy=\"105\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"140\" y=\"95\" text-anchor=\"middle\" font-size=\"8\" fill=\"var(--accent)\" font-weight=\"bold\">1959</text>\n    <!-- Crecimiento -->\n    <polyline points=\"140,105 310,40\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"2.5\" fill=\"none\" marker-end=\"url(#ar-fr2)\"/>\n    <text x=\"230\" y=\"58\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">Planes de Desarrollo</text>\n    <text x=\"230\" y=\"69\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">~7% PIB anual</text>\n    <!-- Etiquetas eje -->\n    <text x=\"30\" y=\"134\" font-size=\"8\" class=\"s-muted\">1939</text>\n    <text x=\"290\" y=\"134\" font-size=\"8\" class=\"s-muted\">1975</text>\n  </svg>\n  <figcaption>Del estancamiento autárquico al «milagro económico»: el Plan de Estabilización de 1959 como punto de inflexión.</figcaption>\n</figure>\n\n<p>Las consecuencias sociales del desarrollismo fueron profundas: <strong>éxodo rural</strong> hacia Madrid, Barcelona y el País Vasco; <strong>emigración masiva</strong> a Francia, Alemania y Suiza (cuyas remesas sostenían la balanza de pagos); explosión del <strong>turismo</strong> (de 4 millones de turistas en 1959 a 34 millones en 1973); y emergencia de una <strong>nueva clase media urbana</strong> consumidora.</p>\n\n<h2>4 · La oposición y la crisis del régimen (1960-1975)</h2>\n\n<p>La modernización económica generó nuevas formas de oposición. Las <strong>Comisiones Obreras</strong> (CC.OO.), vinculadas al PCE clandestino, organizaron huelgas desde los años 1960. El movimiento estudiantil universitario protestó contra el SEU (sindicato oficial). En el País Vasco, <strong>ETA</strong> (fundada en 1959) recurrió al terrorismo: su atentado más resonante fue el asesinato del almirante <strong>Carrero Blanco</strong> en diciembre de 1973.</p>\n\n<p>En el interior del régimen se perfilaron dos corrientes: los <strong>inmovilistas</strong> («búnker»), que rechazaban toda reforma, y los <strong>aperturistas</strong> (Fraga, Areilza), que creían en una liberalización controlada para preservar el sistema. Ninguna de las dos fracciones aceptaba la democracia plena.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"Comparación entre inmovilistas y aperturistas dentro del franquismo tardío: objetivos, métodos y límites de cada corriente\">\n    <!-- Inmovilistas -->\n    <rect x=\"10\" y=\"20\" width=\"145\" height=\"90\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"82\" y=\"40\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Inmovilistas</text>\n    <text x=\"82\" y=\"56\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">«El búnker»</text>\n    <text x=\"82\" y=\"72\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">Preservar el franquismo</text>\n    <text x=\"82\" y=\"85\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">sin modificaciones</text>\n    <text x=\"82\" y=\"100\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">Girón, Blas Piñar</text>\n    <!-- Aperturistas -->\n    <rect x=\"185\" y=\"20\" width=\"145\" height=\"90\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"257\" y=\"40\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Aperturistas</text>\n    <text x=\"257\" y=\"56\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">Reformistas del régimen</text>\n    <text x=\"257\" y=\"72\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">Reformar para sobrevivir</text>\n    <text x=\"257\" y=\"85\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">sin democracia real</text>\n    <text x=\"257\" y=\"100\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">Fraga, Areilza</text>\n    <!-- VS -->\n    <text x=\"170\" y=\"72\" text-anchor=\"middle\" font-size=\"12\" fill=\"var(--accent)\" font-weight=\"bold\">VS</text>\n  </svg>\n  <figcaption>Las dos corrientes internas del tardofranquismo: ninguna aceptaba la democracia plena.</figcaption>\n</figure>\n\n<h2>L'essentiel / Lo esencial</h2>\n\n<h3>Frise chronologique</h3>\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 290\" role=\"img\" aria-label=\"Frise chronologique du franquisme: 1939 fin de la Guerre Civile, 1945 isolement international, 1953 Pactes de Madrid, 1955 entrée à l'ONU, 1959 Plan de Stabilisation, 1964 Plans de Développement, 1973 assassinat de Carrero Blanco, 1975 mort de Franco\">\n    <line x1=\"60\" y1=\"20\" x2=\"60\" y2=\"270\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <!-- Eventos -->\n    <circle cx=\"60\" cy=\"30\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"72\" y=\"34\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">1939</text>\n    <text x=\"72\" y=\"46\" font-size=\"8\" fill=\"currentColor\">Fin de la Guerra Civil. Inicio de la dictadura.</text>\n    <circle cx=\"60\" cy=\"70\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"72\" y=\"74\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">1945</text>\n    <text x=\"72\" y=\"86\" font-size=\"8\" fill=\"currentColor\">Exclusión de la ONU y del Plan Marshall.</text>\n    <circle cx=\"60\" cy=\"110\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"72\" y=\"114\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">1953</text>\n    <text x=\"72\" y=\"126\" font-size=\"8\" fill=\"currentColor\">Pactos de Madrid con EEUU. Concordato con el Vaticano.</text>\n    <circle cx=\"60\" cy=\"150\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"72\" y=\"154\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">1955</text>\n    <text x=\"72\" y=\"166\" font-size=\"8\" fill=\"currentColor\">Ingreso en la ONU.</text>\n    <circle cx=\"60\" cy=\"185\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"72\" y=\"189\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">1959</text>\n    <text x=\"72\" y=\"201\" font-size=\"8\" fill=\"currentColor\">Plan de Estabilización. Fin de la autarquía.</text>\n    <circle cx=\"60\" cy=\"220\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"72\" y=\"224\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">1973</text>\n    <text x=\"72\" y=\"236\" font-size=\"8\" fill=\"currentColor\">Asesinato de Carrero Blanco por ETA.</text>\n    <circle cx=\"60\" cy=\"255\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"72\" y=\"259\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">1975</text>\n    <text x=\"72\" y=\"271\" font-size=\"8\" fill=\"currentColor\">Muerte de Franco (20-N). Juan Carlos I, rey.</text>\n  </svg>\n  <figcaption>Chronologie du franquisme.</figcaption>\n</figure>\n\n<h3>Fechas clave</h3>\n<table>\n  <tr><th>Fecha</th><th>Acontecimiento</th></tr>\n  <tr><td>1 abr. 1939</td><td>Último parte de guerra. Inicio de la dictadura.</td></tr>\n  <tr><td>1939</td><td>Ley de Responsabilidades Políticas.</td></tr>\n  <tr><td>1945</td><td>Exclusión de ONU y Plan Marshall.</td></tr>\n  <tr><td>1953</td><td>Pactos de Madrid (EEUU) y Concordato (Vaticano).</td></tr>\n  <tr><td>1955</td><td>Ingreso en la ONU.</td></tr>\n  <tr><td>1959</td><td>Plan de Estabilización.</td></tr>\n  <tr><td>1964-1975</td><td>Planes de Desarrollo (tres planes).</td></tr>\n  <tr><td>1966</td><td>Ley Fraga (Prensa e Imprenta).</td></tr>\n  <tr><td>20 dic. 1973</td><td>Asesinato de Carrero Blanco por ETA.</td></tr>\n  <tr><td>20 nov. 1975</td><td>Muerte de Franco. Fin de la dictadura.</td></tr>\n</table>\n\n<h3>Nociones clave</h3>\n<table>\n  <tr><th>Noción</th><th>Definición</th></tr>\n  <tr><td>Autarquía</td><td>Política de autosuficiencia económica (1939-1959), que resultó en escasez y estraperlo.</td></tr>\n  <tr><td>Nacional-catolicismo</td><td>Fusión de identidad española y catolicismo; la Iglesia legitimó el régimen.</td></tr>\n  <tr><td>Leyes Fundamentales</td><td>Siete leyes que hacían de «constitución» del régimen franquista.</td></tr>\n  <tr><td>Desarrollismo</td><td>Política de crecimiento económico acelerado mediante los Planes de Desarrollo (años 1960).</td></tr>\n  <tr><td>Aperturismo</td><td>Corriente interna del tardofranquismo favorable a reformas controladas para preservar el sistema.</td></tr>\n</table>\n\n<h3>Los actores</h3>\n<table>\n  <tr><th>Actor</th><th>Papel</th></tr>\n  <tr><td>Francisco Franco</td><td>Dictador. Acumuló todos los poderes (Jefe del Estado, Gobierno, Generalísimo).</td></tr>\n  <tr><td>Luis Carrero Blanco</td><td>Hombre de confianza de Franco; Presidente del Gobierno hasta su asesinato en 1973.</td></tr>\n  <tr><td>Manuel Fraga</td><td>Ministro de Información; promotor de la Ley de Prensa de 1966 (aperturismo).</td></tr>\n  <tr><td>Tecnócratas Opus Dei</td><td>Ministros del Opus que dirigieron la política económica desde 1957 (López Rodó, Ullastres).</td></tr>\n  <tr><td>ETA</td><td>Organización terrorista vasca fundada en 1959; asesinó a Carrero Blanco en 1973.</td></tr>\n  <tr><td>CC.OO.</td><td>Comisiones Obreras; principal sindicato clandestino vinculado al PCE.</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>El piège a éviter / La trampa</strong><br>\n  No confundir la «apertura» económica y social de los años 1960 con una liberalización política. El régimen siguió siendo una dictadura sin libertades reales hasta la muerte de Franco en 1975. La modernización económica no implicó modernización política.\n</div>\n\n<blockquote><p>El franquismo sobrevivió cuatro décadas gracias a su capacidad de adaptación económica, pero su rigidez política hizo inevitable que la modernización social que él mismo generó acabara por desbordarlo.</p></blockquote>\n",
+  "questionLang": "es",
+  "answerLang": "es",
+  "version": 1,
+  "level": "Bachillerato",
+  "theme": "Historia de España",
+  "cards": [
+    {
+      "recto": "¿En qué año terminó la Guerra Civil española y comenzó la dictadura franquista?",
+      "verso": "1939",
+      "explanation": "El 1 de abril de 1939 Franco firmó el último parte de guerra. No confundir con 1936, año del golpe de Estado que inició la guerra.",
+      "tags": [
+        "fechas",
+        "inicio"
+      ],
+      "distractors": {
+        "easy": [
+          "1945",
+          "1931",
+          "1923"
+        ],
+        "medium": [
+          "1938",
+          "1940",
+          "1936"
+        ],
+        "hard": [
+          "1 de abril de 1936",
+          "18 de julio de 1939",
+          "1 de abril de 1940"
+        ]
+      }
+    },
+    {
+      "recto": "¿Cómo se denomina el sistema político instaurado por Franco, caracterizado por la concentración de todos los poderes en una sola persona?",
+      "verso": "Dictadura personalista (caudillismo)",
+      "explanation": "Franco acumuló los cargos de Jefe del Estado, Jefe del Gobierno y Generalísimo de los Ejércitos. El término 'caudillo' era su título oficial, diferente de 'dictadura militar' stricto sensu.",
+      "tags": [
+        "noción",
+        "régimen"
+      ],
+      "distractors": {
+        "easy": [
+          "República parlamentaria",
+          "Monarquía constitucional",
+          "Democracia popular"
+        ],
+        "medium": [
+          "Dictadura militar colegiada",
+          "Régimen autoritario de partido único liberal",
+          "Fascismo clásico"
+        ],
+        "hard": [
+          "Totalitarismo de partido único",
+          "Autoritarismo tecnocrático",
+          "Estado orgánico democrático"
+        ]
+      }
+    },
+    {
+      "recto": "¿Cuál fue el único partido político legal durante el franquismo?",
+      "verso": "FET y de las JONS (Movimiento Nacional)",
+      "explanation": "Franco fusionó en 1937 la Falange Española con las Juntas de Ofensiva Nacional-Sindicalista. En 1958 pasó a llamarse oficialmente Movimiento Nacional.",
+      "tags": [
+        "noción",
+        "régimen"
+      ],
+      "distractors": {
+        "easy": [
+          "PSOE",
+          "PCE",
+          "CEDA"
+        ],
+        "medium": [
+          "Falange Española independiente",
+          "Comunión Tradicionalista",
+          "Acción Popular"
+        ],
+        "hard": [
+          "FET exclusivamente",
+          "JONS exclusivamente",
+          "Movimiento Nacional desde 1939"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué nombre recibe la política económica autárquica aplicada por el franquismo entre 1939 y 1959?",
+      "verso": "Autarquía",
+      "explanation": "La autarquía buscaba la autosuficiencia económica nacional, rechazando el comercio exterior. Provocó escasez, racionamiento y el mercado negro (estraperlo).",
+      "tags": [
+        "noción",
+        "economía"
+      ],
+      "distractors": {
+        "easy": [
+          "Liberalismo económico",
+          "Keynesianismo",
+          "Socialismo de Estado"
+        ],
+        "medium": [
+          "Proteccionismo moderado",
+          "Economía planificada soviética",
+          "Neoliberalismo"
+        ],
+        "hard": [
+          "Intervencionismo selectivo",
+          "Nacionalismo económico moderado",
+          "Industrialización dirigida"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué organización elaboró el Plan de Estabilización de 1959 que abrió España al exterior?",
+      "verso": "FMI y OCDE (con los tecnócratas del Opus Dei)",
+      "explanation": "El Plan de Estabilización de 1959 fue impuesto por el FMI y la OCDE. Su aplicación fue gestionada por ministros vinculados al Opus Dei, que sustituyeron a los falangistas en los ministerios económicos.",
+      "tags": [
+        "actores",
+        "economía"
+      ],
+      "distractors": {
+        "easy": [
+          "ONU",
+          "OTAN",
+          "Banco Mundial exclusivamente"
+        ],
+        "medium": [
+          "Ministerio de Hacienda autónomamente",
+          "La Falange",
+          "Los militares franquistas"
+        ],
+        "hard": [
+          "Solo el FMI sin condiciones externas",
+          "OCDE sin participación española",
+          "Tecnócratas laicos independientes"
+        ]
+      }
+    },
+    {
+      "recto": "¿Cómo se denominan los planes económicos de desarrollo de los años 1960 que impulsaron el 'milagro económico' español?",
+      "verso": "Planes de Desarrollo (1964-1975)",
+      "explanation": "Hubo tres Planes de Desarrollo (1964-67, 1968-71, 1972-75), inspirados en el modelo francés. Impulsaron la industria, el turismo y la emigración, generando altas tasas de crecimiento.",
+      "tags": [
+        "noción",
+        "economía"
+      ],
+      "distractors": {
+        "easy": [
+          "Plan Marshall",
+          "Plan Beveridge",
+          "Plan Cincuentenario"
+        ],
+        "medium": [
+          "Plan de Estabilización",
+          "Planes Quinquenales",
+          "Plan de Reconversión Industrial"
+        ],
+        "hard": [
+          "Plan de Ordenación Económica",
+          "Planes de Modernización Agraria",
+          "Plan de Industrialización Acelerada"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué ley de 1966 concedió cierta libertad de prensa, sustituyendo a la censura previa?",
+      "verso": "Ley Fraga (Ley de Prensa e Imprenta de 1966)",
+      "explanation": "Promovida por Manuel Fraga Iribarne, ministro de Información. Eliminó la censura previa pero mantuvo la autocensura y sanciones a posteriori. No fue una verdadera libertad de prensa.",
+      "tags": [
+        "actores",
+        "apertura"
+      ],
+      "distractors": {
+        "easy": [
+          "Ley de Vagos y Maleantes",
+          "Ley de Sucesión",
+          "Ley Orgánica del Estado"
+        ],
+        "medium": [
+          "Ley de Principios del Movimiento",
+          "Ley de Asociaciones de 1964",
+          "Fuero de los Españoles"
+        ],
+        "hard": [
+          "Ley de Orden Público de 1959",
+          "Ley de Bases del Régimen Local",
+          "Estatuto de la Prensa de 1938"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué nombre recibe la legislación fundamental del régimen franquista, equivalente a una constitución?",
+      "verso": "Las Leyes Fundamentales del Reino",
+      "explanation": "Eran siete leyes: Fuero del Trabajo (1938), Ley Constitutiva de las Cortes (1942), Fuero de los Españoles (1945), Ley de Referéndum Nacional (1945), Ley de Sucesión (1947), Ley de Principios del Movimiento (1958) y Ley Orgánica del Estado (1967).",
+      "tags": [
+        "noción",
+        "régimen"
+      ],
+      "distractors": {
+        "easy": [
+          "Constitución de 1978",
+          "Constitución de 1931",
+          "Estatuto de Autonomía"
+        ],
+        "medium": [
+          "Código Civil franquista",
+          "Decretos-leyes del Caudillo",
+          "Reglamentos del Movimiento"
+        ],
+        "hard": [
+          "Fuero de los Españoles únicamente",
+          "Ley Orgánica del Estado únicamente",
+          "Los tres Fueros fundamentales"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué organización terrorista vasca, fundada en 1959, llevó a cabo atentados durante el franquismo y la democracia?",
+      "verso": "ETA (Euskadi Ta Askatasuna)",
+      "explanation": "ETA fue fundada en 1959 como reacción a la represión cultural y política vasca. Su atentado más relevante del franquismo fue el asesinato del almirante Carrero Blanco en 1973.",
+      "tags": [
+        "actores",
+        "oposición"
+      ],
+      "distractors": {
+        "easy": [
+          "GRAPO",
+          "IRA",
+          "RAF"
+        ],
+        "medium": [
+          "FRAP",
+          "PCE-ml",
+          "ERC"
+        ],
+        "hard": [
+          "ETA político-militar",
+          "ETA militar",
+          "Herri Batasuna"
+        ]
+      }
+    },
+    {
+      "recto": "¿A quién asesinó ETA en diciembre de 1973, eliminando al probable sucesor de Franco?",
+      "verso": "Luis Carrero Blanco (presidente del Gobierno)",
+      "explanation": "Carrero Blanco era el hombre de confianza de Franco y Presidente del Gobierno desde junio de 1973. Su asesinato abrió una crisis de sucesión y debilitó al régimen.",
+      "tags": [
+        "actores",
+        "fechas"
+      ],
+      "distractors": {
+        "easy": [
+          "Manuel Fraga",
+          "José Antonio Primo de Rivera",
+          "Agustín Muñoz Grandes"
+        ],
+        "medium": [
+          "Torcuato Fernández-Miranda",
+          "Carlos Arias Navarro",
+          "Laureano López Rodó"
+        ],
+        "hard": [
+          "Alfonso de Borbón",
+          "José Solís Ruiz",
+          "Fernando Herrero Tejedor"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué acuerdo de 1953 permitió a EEUU instalar bases militares en España a cambio de ayuda económica?",
+      "verso": "Pactos de Madrid (Acuerdos hispano-norteamericanos de 1953)",
+      "explanation": "Los Pactos de Madrid rompieron el aislamiento internacional de España durante la Guerra Fría. EEUU obtuvo bases en Torrejón, Morón, Zaragoza y Rota; España recibió ayuda militar y económica.",
+      "tags": [
+        "relaciones-exteriores",
+        "fechas"
+      ],
+      "distractors": {
+        "easy": [
+          "Plan Marshall",
+          "Tratado de Roma",
+          "Pacto de Varsovia"
+        ],
+        "medium": [
+          "Acuerdos de Bretton Woods",
+          "Tratado de amistad francoespañol",
+          "Acuerdos de Lisboa de 1952"
+        ],
+        "hard": [
+          "Pactos de Madrid de 1975",
+          "Convenio de Defensa bilateral de 1951",
+          "Acuerdos de la OTAN de 1953"
+        ]
+      }
+    },
+    {
+      "recto": "¿En qué año ingresó España en la ONU, superando el aislamiento diplomático de posguerra?",
+      "verso": "1955",
+      "explanation": "España fue vetada en 1945 por su vinculación al Eje. El ingreso en 1955 se produjo en el marco de la Guerra Fría: EEUU apoyó la candidatura española como bastión anticomunista.",
+      "tags": [
+        "fechas",
+        "relaciones-exteriores"
+      ],
+      "distractors": {
+        "easy": [
+          "1945",
+          "1960",
+          "1975"
+        ],
+        "medium": [
+          "1950",
+          "1953",
+          "1958"
+        ],
+        "hard": [
+          "1954",
+          "1956",
+          "1957"
+        ]
+      }
+    },
+    {
+      "recto": "¿Cómo se llama el proceso de represión sistemática ejercido por el franquismo sobre los vencidos tras la Guerra Civil?",
+      "verso": "Represión franquista (depuración y consejos de guerra)",
+      "explanation": "Incluyó ejecuciones, encarcelamiento, trabajos forzados y depuración profesional. La Ley de Responsabilidades Políticas (1939) criminalizó la mera oposición al Alzamiento.",
+      "tags": [
+        "noción",
+        "represión"
+      ],
+      "distractors": {
+        "easy": [
+          "Purga estalinista",
+          "Solución final",
+          "Gulag"
+        ],
+        "medium": [
+          "Exilio republicano",
+          "Depuración democrática",
+          "Juicios de Núremberg españoles"
+        ],
+        "hard": [
+          "Ley de Amnistía de 1977",
+          "Justicia transicional franquista",
+          "Tribunales de Orden Público"
+        ]
+      }
+    },
+    {
+      "recto": "¿Qué nombre recibe el fenómeno de emigración masiva de españoles a Europa Occidental durante los años 1960?",
+      "verso": "Emigración económica (al exterior) / Éxodo rural (interior)",
+      "explanation": "Dos flujos simultáneos: emigración al exterior (Francia, Alemania, Suiza) y éxodo rural hacia Madrid, Barcelona y el País Vasco. Las remesas enviadas por los emigrantes fueron clave para la balanza de pagos.",
+      "tags": [
+        "noción",
+        "sociedad"
+      ],
+      "distractors": {
+        "easy": [
+          "Inmigración africana",
+          "Colonización interior",
+          "Turismo masivo"
+        ],
+        "medium": [
+          "Éxodo intelectual del 98",
+          "Exilio político republicano",
+          "Migración de retorno"
+        ],
+        "hard": [
+          "Emigración de posguerra (1939-1945)",
+          "Repoblación interior franquista",
+          "Movilidad interregional planificada"
+        ]
+      }
+    },
+    {
+      "recto": "¿Cuál fue la postura de la Iglesia católica respecto al régimen franquista, especialmente en sus primeras décadas?",
+      "verso": "Apoyo activo: el 'nacional-catolicismo'",
+      "explanation": "La Iglesia legitimó el franquismo como 'Cruzada'. A cambio obtuvo control de la educación, financiación estatal y privilegios legales. A partir de los años 1960, sectores de la Iglesia comenzaron a distanciarse del régimen.",
+      "tags": [
+        "noción",
+        "sociedad"
+      ],
+      "distractors": {
+        "easy": [
+          "Oposición sistemática",
+          "Neutralidad total",
+          "Separación Iglesia-Estado"
+        ],
+        "medium": [
+          "Apoyo condicionado a los derechos humanos",
+          "Colaboración puntual sin implicación ideológica",
+          "Resistencia silenciosa"
+        ],
+        "hard": [
+          "Nacional-catolicismo solo en los años 40",
+          "Apoyo decreciente desde 1945",
+          "Alianza estratégica sin contenido ideológico"
+        ]
+      }
+    },
+    {
+      "recto": "Ne pas confondre : la 'apertura' de los años 1960 y la verdadera transición democrática. ¿Qué cambió realmente con la apertura?",
+      "verso": "Modernización económica y social, NO política",
+      "explanation": "La apertura de los 60 transformó la economía (turismo, emigración, consumo) y la sociedad (urbanización, secularización), pero el régimen político siguió siendo una dictadura sin libertades reales hasta 1975-1978.",
+      "tags": [
+        "piege",
+        "noción"
+      ],
+      "distractors": {
+        "easy": [
+          "Instauración de elecciones libres",
+          "Legalización de los partidos políticos",
+          "Aprobación de la Constitución"
+        ],
+        "medium": [
+          "Apertura política real con pluralismo controlado",
+          "Democracia orgánica con libertad de asociación",
+          "Descentralización regional efectiva"
+        ],
+        "hard": [
+          "Liberalización política gradual equiparable a la democracia",
+          "Aperturismo político del tardofranquismo desde 1966",
+          "Reforma del sistema desde dentro con garantías liberales"
+        ]
+      }
+    },
+    {
+      "recto": "Comparar: el 'inmovilismo' y el 'aperturismo' dentro del franquismo tardío. ¿Cuál es la diferencia esencial?",
+      "verso": "Inmovilistas: no reformar el régimen; aperturistas: reformarlo para sobrevivir",
+      "explanation": "Los 'búnker' (inmovilistas) querían preservar el franquismo intacto. Los aperturistas (como Fraga) creían que pequeñas reformas permitirían perpetuar el sistema. Ninguno aceptaba la democracia plena.",
+      "tags": [
+        "comparaison",
+        "régimen"
+      ],
+      "distractors": {
+        "easy": [
+          "Inmovilistas son reformistas; aperturistas son conservadores",
+          "Son dos nombres del mismo grupo político",
+          "Aperturistas quieren la democracia; inmovilistas la dictadura"
+        ],
+        "medium": [
+          "Inmovilistas aceptan reformas económicas; aperturistas no",
+          "Aperturistas son demócratas cristianos; inmovilistas, falangistas",
+          "Ambos aceptan el pluralismo político pero difieren en el ritmo"
+        ],
+        "hard": [
+          "Inmovilistas son tecnócratas del Opus; aperturistas son militares",
+          "Aperturistas proponen ruptura democrática; inmovilistas, reforma",
+          "Inmovilistas son del Movimiento; aperturistas, monárquicos juanistas"
+        ]
+      }
+    },
+    {
+      "recto": "¿En qué fecha murió Francisco Franco, poniendo fin a la dictadura?",
+      "verso": "20 de noviembre de 1975",
+      "explanation": "Franco murió el 20-N de 1975 tras una larga agonía. El 22 de noviembre Juan Carlos I fue proclamado rey, iniciando la Transición. El 20-N es también la fecha de muerte de José Antonio Primo de Rivera (1936).",
+      "tags": [
+        "fechas"
+      ],
+      "distractors": {
+        "easy": [
+          "1 de abril de 1939",
+          "18 de julio de 1936",
+          "1 de enero de 1978"
+        ],
+        "medium": [
+          "15 de noviembre de 1975",
+          "22 de noviembre de 1975",
+          "20 de noviembre de 1973"
+        ],
+        "hard": [
+          "20 de octubre de 1975",
+          "20 de noviembre de 1976",
+          "3 de enero de 1976"
+        ]
+      }
+    }
+  ]
+}

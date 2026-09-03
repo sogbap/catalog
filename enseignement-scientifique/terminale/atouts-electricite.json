@@ -1,0 +1,640 @@
+{
+  "id": "enseignement-scientifique-terminale-atouts-electricite",
+  "title": "Les atouts de l'électricité",
+  "emoji": "🔌",
+  "subject": "science",
+  "country": "fr",
+  "courseDescription": "Rendements de conversion, usages et limites du stockage : ce que l'électricité fait mieux que les autres vecteurs, et ce qu'elle fait mal.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Les atouts de l'électricité</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · enseignement scientifique<br>\n  <b>Thème 2&nbsp;:</b> Le futur des énergies<br>\n  <b>Chapitre 2.2</b> · environ 5 heures\n</div>\n\n<blockquote><p><b>Problématique.</b> Pourquoi électrifier les usages&nbsp;— et où cette logique s'arrête-t-elle&nbsp;?</p></blockquote>\n\n<p>L'électricité a deux qualités rares&nbsp;: elle se convertit en presque toutes les formes d'énergie utiles, et elle le fait avec d'excellents rendements. Elle a un défaut, tout aussi rare&nbsp;: elle ne se stocke pas. Tout ce chapitre tient dans la tension entre ces deux faits. Comprendre où l'électrification est pertinente, et où elle bute, suppose de raisonner non pas sur un appareil mais sur la <em>chaîne entière</em>, depuis la source primaire.</p>\n\n<h2>1 · Des rendements qui décident</h2>\n\n<p>Le contraste le plus parlant du programme&nbsp;: un <strong>moteur électrique</strong> atteint environ <strong>90&nbsp;%</strong> de rendement&nbsp;; un <strong>moteur thermique</strong> automobile plafonne autour de <strong>30 à 35&nbsp;%</strong>, les deux tiers de l'énergie du carburant partant en chaleur. Cet écart n'est pas un défaut de conception qu'on corrigera&nbsp;: il tient à la physique des machines thermiques. C'est lui qui fonde l'essentiel des politiques d'électrification des transports.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 184\" role=\"img\" aria-label=\"Comparaison des rendements de trois convertisseurs : le convertisseur électricité vers chaleur d'un radiateur atteint la quasi-totalité, le moteur électrique environ 90 pour cent, le moteur thermique automobile seulement 30 à 35 pour cent ; le rendement élevé du radiateur ne signifie pas qu'il constitue un bon choix, puisque convertir en chaleur une électricité produite par une machine thermique revient à dégrader deux fois l'énergie\">\n    <text x=\"8\" y=\"18\" font-size=\"9\" fill=\"currentColor\">Radiateur électrique</text>\n    <rect x=\"120\" y=\"8\" width=\"204\" height=\"16\" rx=\"5\" fill=\"var(--accent)\" fill-opacity=\".45\" stroke=\"var(--accent)\" stroke-opacity=\".7\"/>\n    <text x=\"252\" y=\"20\" font-size=\"9\" fill=\"currentColor\">quasi 100 %</text>\n    <text x=\"8\" y=\"52\" font-size=\"9\" fill=\"currentColor\">Moteur électrique</text>\n    <rect x=\"120\" y=\"42\" width=\"184\" height=\"16\" rx=\"5\" fill=\"var(--accent)\" fill-opacity=\".45\" stroke=\"var(--accent)\" stroke-opacity=\".7\"/>\n    <text x=\"240\" y=\"54\" font-size=\"9\" fill=\"currentColor\">environ 90 %</text>\n    <text x=\"8\" y=\"86\" font-size=\"9\" fill=\"currentColor\">Moteur thermique</text>\n    <rect x=\"120\" y=\"76\" width=\"66\" height=\"16\" rx=\"5\" fill=\"var(--accent)\" fill-opacity=\".25\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"194\" y=\"88\" font-size=\"9\" fill=\"currentColor\">30 à 35 %</text>\n    <line x1=\"8\" y1=\"110\" x2=\"332\" y2=\"110\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"130\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Attention à la première ligne</text>\n    <text x=\"8\" y=\"148\" font-size=\"9\" fill=\"currentColor\">Le radiateur atteint 100 % parce que ses pertes SONT l'effet</text>\n    <text x=\"8\" y=\"162\" font-size=\"9\" fill=\"currentColor\">recherché. Mais si l'électricité vient d'une centrale à 40 %,</text>\n    <text x=\"8\" y=\"176\" font-size=\"9\" fill=\"currentColor\">l'énergie est dégradée deux fois.</text>\n  </svg>\n  <figcaption>Un rendement d'appareil ne dit rien tant qu'on n'a pas remonté la chaîne.</figcaption>\n</figure>\n\n<p>Cas particulier remarquable&nbsp;: la <strong>pompe à chaleur</strong>. Elle <em>déplace</em> de la chaleur d'un milieu froid vers un milieu chaud au lieu d'en créer, si bien qu'elle restitue plus de chaleur qu'elle ne consomme d'électricité — son coefficient de performance dépasse 1. Aucune violation de la conservation de l'énergie&nbsp;: la chaleur restituée est la somme de l'électricité consommée et de la chaleur prélevée dehors.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Électricité spécifique</strong><br>\n  Électricité utilisée pour des usages qu'aucune autre forme d'énergie ne peut satisfaire&nbsp;: éclairage, informatique, électroménager. Le chauffage et la cuisson, eux, peuvent recourir à d'autres vecteurs.\n</div>\n\n<h2>2 · Le talon d'Achille&nbsp;: le stockage</h2>\n\n<p>L'électricité ne se conserve pas <em>en tant que telle</em>&nbsp;: la stocker suppose de la convertir sous une autre forme, puis de la reconvertir — deux occasions de perdre. Face à un litre de carburant qui se garde des mois sans perte, c'est un handicap structurel.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Trois moyens de stocker l'électricité et leurs rendements : la station de transfert d'énergie par pompage remonte de l'eau dans un réservoir en altitude et la turbine ensuite, avec un rendement de 70 à 80 pour cent mais elle exige un relief adapté ; la batterie stocke sous forme chimique avec un bon rendement mais une densité énergétique limitée ; la chaîne hydrogène enchaîne électrolyse, compression, stockage et reconversion, ce qui fait descendre son rendement global sous 40 pour cent\">\n    <text x=\"8\" y=\"16\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Stocker l'électricité : trois voies</text>\n    <rect x=\"12\" y=\"26\" width=\"316\" height=\"42\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".30\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"24\" y=\"44\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">POMPAGE-TURBINAGE</text>\n    <text x=\"24\" y=\"60\" font-size=\"9\" fill=\"currentColor\">énergie de position — rendement 70 à 80 %, exige un relief</text>\n    <rect x=\"12\" y=\"76\" width=\"316\" height=\"42\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"24\" y=\"94\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">BATTERIE</text>\n    <text x=\"24\" y=\"110\" font-size=\"9\" fill=\"currentColor\">énergie chimique — bon rendement, densité limitée</text>\n    <rect x=\"12\" y=\"126\" width=\"316\" height=\"42\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"24\" y=\"144\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">HYDROGÈNE</text>\n    <text x=\"24\" y=\"160\" font-size=\"9\" fill=\"currentColor\">électrolyse, compression, reconversion — sous 40 %</text>\n    <text x=\"8\" y=\"186\" font-size=\"9\" fill=\"currentColor\">Plus la chaîne compte de conversions, plus le rendement chute.</text>\n    <text x=\"8\" y=\"198\" font-size=\"9\" class=\"s-muted\">D'où la place de l'hydrogène : les usages où la batterie ne convient pas.</text>\n  </svg>\n  <figcaption>Aucune de ces voies n'est universelle&nbsp;: chacune a sa contrainte propre.</figcaption>\n</figure>\n\n<p>La <strong>station de transfert d'énergie par pompage</strong> reste le principal moyen de stockage massif&nbsp;: on remonte de l'eau dans un réservoir en altitude quand l'électricité est excédentaire, on la turbine quand la demande monte. Rendement de 70 à 80&nbsp;%, mais un relief adapté est nécessaire.</p>\n\n<p>La <strong>batterie</strong> stocke sous forme <em>chimique</em>&nbsp;; les réactions n'étant jamais parfaitement réversibles, sa capacité décroît avec les cycles. Sa limite principale est la <strong>densité énergétique</strong> — énergie stockée par unité de masse ou de volume —, où les carburants liquides gardent une avance de plusieurs dizaines de fois. C'est pourquoi l'aviation et le transport maritime longue distance résistent bien plus à l'électrification que l'automobile.</p>\n\n<p>L'<strong>hydrogène décarboné</strong>, produit par électrolyse à partir d'électricité peu carbonée, est envisagé pour ces usages difficiles. Mais sa chaîne enchaîne électrolyse, compression ou liquéfaction, stockage et reconversion&nbsp;: le rendement global descend souvent sous 40&nbsp;%. Il n'a donc de sens que là où la batterie ne convient pas.</p>\n\n<h2>3 · Intermittence et équilibre du réseau</h2>\n\n<p>Une production est dite <strong>intermittente</strong>, ou plus justement <em>variable</em>, quand sa puissance dépend de conditions extérieures non pilotables&nbsp;— vent, ensoleillement. Elle est en partie prévisible&nbsp;; c'est son caractère <em>non pilotable</em>, plus que son irrégularité, qui pose problème.</p>\n\n<p>Quatre leviers permettent de l'intégrer, et aucun ne suffit seul&nbsp;:</p>\n\n<ul>\n  <li>Des <strong>moyens pilotables</strong> complémentaires.</li>\n  <li>Le <strong>stockage</strong>, avec ses limites de rendement et de coût.</li>\n  <li>L'<strong>interconnexion</strong> entre réseaux voisins, qui mutualise les aléas.</li>\n  <li>Le <strong>pilotage de la demande</strong>&nbsp;: déplacer une partie de la consommation vers les périodes creuses, par la tarification ou par le pilotage direct d'appareils. C'est le levier le moins coûteux, puisqu'il évite de construire des capacités pour quelques heures par an.</li>\n</ul>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 178\" role=\"img\" aria-label=\"Les quatre leviers permettant d'intégrer une production électrique variable au réseau : des moyens de production pilotables complémentaires, le stockage de l'électricité, l'interconnexion entre réseaux voisins qui mutualise les aléas, et le pilotage de la demande qui déplace une partie de la consommation vers les heures creuses ; aucun de ces leviers ne suffit seul, c'est leur combinaison qui rend possible une part élevée de production variable\">\n    <rect x=\"90\" y=\"10\" width=\"160\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".40\" stroke=\"var(--accent)\" stroke-opacity=\".7\"/>\n    <text x=\"170\" y=\"29\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">PRODUCTION VARIABLE</text>\n    <line x1=\"120\" y1=\"44\" x2=\"70\" y2=\"62\" stroke=\"var(--accent)\" stroke-opacity=\".6\" stroke-width=\"1.5\" marker-end=\"url(#ar-tes22)\"/>\n    <line x1=\"220\" y1=\"44\" x2=\"270\" y2=\"62\" stroke=\"var(--accent)\" stroke-opacity=\".6\" stroke-width=\"1.5\" marker-end=\"url(#ar-tes22)\"/>\n    <rect x=\"12\" y=\"66\" width=\"150\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"87\" y=\"87\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">moyens pilotables</text>\n    <rect x=\"178\" y=\"66\" width=\"150\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"253\" y=\"87\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">stockage</text>\n    <rect x=\"12\" y=\"106\" width=\"150\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"87\" y=\"127\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">interconnexion</text>\n    <rect x=\"178\" y=\"106\" width=\"150\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"253\" y=\"122\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">pilotage</text>\n    <text x=\"253\" y=\"134\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">de la demande</text>\n    <text x=\"170\" y=\"164\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Aucun levier ne suffit seul.</text>\n    <text x=\"170\" y=\"176\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">C'est leur combinaison qui fait le réseau.</text>\n    <defs>\n      <marker id=\"ar-tes22\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n  </svg>\n  <figcaption>Le pilotage de la demande est le moins coûteux&nbsp;: il évite de construire pour quelques heures par an.</figcaption>\n</figure>\n\n<h2>4 · Électrifier, oui&nbsp;— mais avec quelle électricité&nbsp;?</h2>\n\n<p>L'<strong>électrification des usages</strong> — remplacer des usages à combustible par des usages électriques — est la tendance de fond. Elle n'a toutefois de sens climatique que si l'électricité mobilisée est peu carbonée&nbsp;: un véhicule électrique alimenté par une électricité très carbonée peut émettre autant qu'un véhicule thermique.</p>\n\n<p>Tout dépend donc du <strong>mix électrique</strong>, la répartition des sources primaires utilisées pour produire l'électricité d'un pays. Deux pays de niveau de vie comparable peuvent afficher des intensités carbone très différentes&nbsp;: l'empreinte de l'électricité n'est pas une donnée technique, c'est le résultat de décisions politiques et industrielles antérieures.</p>\n\n<p>Côté usages domestiques, un repère utile pour hiérarchiser les efforts&nbsp;: le <strong>chauffage</strong> domine largement la consommation d'énergie d'un logement, devant l'eau chaude sanitaire, la cuisson et l'électricité spécifique. Le gisement d'économies est là — bien avant les appareils du quotidien.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Rendements à connaître</h3>\n\n<table>\n  <tr><th>Convertisseur</th><th>Rendement</th></tr>\n  <tr><td>Radiateur électrique</td><td>quasi 100&nbsp;%</td></tr>\n  <tr><td>Moteur électrique</td><td>environ 90&nbsp;%</td></tr>\n  <tr><td>Moteur thermique automobile</td><td>30 à 35&nbsp;%</td></tr>\n  <tr><td>Pompage-turbinage</td><td>70 à 80&nbsp;%</td></tr>\n  <tr><td>Chaîne hydrogène complète</td><td>souvent sous 40&nbsp;%</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition en une ligne</th></tr>\n  <tr><td>Densité énergétique</td><td>Énergie stockée par unité de masse ou de volume</td></tr>\n  <tr><td>Production intermittente</td><td>Puissance dépendante de conditions non pilotables</td></tr>\n  <tr><td>Pilotage de la demande</td><td>Déplacer la consommation vers les heures creuses</td></tr>\n  <tr><td>Mix électrique</td><td>Répartition des sources de production d'un pays</td></tr>\n  <tr><td>Électricité spécifique</td><td>Usages qu'aucun autre vecteur ne peut satisfaire</td></tr>\n</table>\n\n<h3>Atouts et limites</h3>\n\n<table>\n  <tr><th>Atout</th><th>Limite correspondante</th></tr>\n  <tr><td>Polyvalence des conversions</td><td>Dépend du mix de production</td></tr>\n  <tr><td>Rendements élevés à l'usage</td><td>Rendement médiocre en amont si thermique</td></tr>\n  <tr><td>Propreté au point d'usage</td><td>Émissions déplacées vers la production</td></tr>\n  <tr><td>Transport aisé sur le réseau</td><td>Stockage difficile et coûteux</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Confondre le rendement d'un <strong>appareil</strong> et celui de la <strong>chaîne complète</strong>. Un radiateur électrique convertit la quasi-totalité de l'électricité en chaleur&nbsp;; mais si cette électricité sort d'une centrale thermique au rendement de 40&nbsp;%, le bilan depuis l'énergie primaire est bien moins flatteur. Le raisonnement doit toujours remonter à la source. Piège voisin&nbsp;: croire qu'électrifier un usage réduit mécaniquement les émissions — cela dépend entièrement de l'intensité carbone du mix.\n</div>\n\n<blockquote><p>L'électricité est le meilleur vecteur que nous ayons pour presque tout&nbsp;— sauf pour attendre. Et une part croissante du problème énergétique consiste précisément à savoir attendre.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Le futur des énergies",
+  "cards": [
+    {
+      "recto": "Piège classique : ne pas confondre le rendement d'un appareil électrique et le rendement de la chaîne énergétique complète. Pourquoi la distinction compte-t-elle ?",
+      "verso": "Parce qu'un appareil au rendement élevé peut être alimenté par une électricité produite avec un rendement médiocre, ce qui dégrade fortement le bilan global",
+      "explanation": "Un radiateur électrique convertit presque toute l'électricité en chaleur, mais si cette électricité vient d'une centrale thermique au rendement de 40 pour cent, le bilan depuis l'énergie primaire est bien moins favorable.",
+      "tags": [
+        "rendement",
+        "piege"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les appareils vieillissent et perdent en efficacité",
+          "Parce que le rendement change selon la marque de l'appareil",
+          "Parce que la tension varie selon les pays"
+        ],
+        "medium": [
+          "Parce que le rendement d'un appareil dépend de la saison",
+          "Parce que les pertes en ligne dépassent toujours les pertes de production",
+          "Parce que le rendement d'un appareil est toujours supérieur à un"
+        ],
+        "hard": [
+          "Parce que le rendement global est la somme des rendements successifs",
+          "Parce qu'un appareil au rendement médiocre améliore la chaîne en récupérant les pertes",
+          "Parce que le rendement de production est identique pour toutes les sources primaires"
+        ]
+      }
+    },
+    {
+      "recto": "Quel est l'ordre de grandeur du rendement d'un moteur électrique ?",
+      "verso": "De l'ordre de 90 pour cent, ce qui en fait l'un des convertisseurs les plus efficaces dont on dispose",
+      "explanation": "C'est le principal atout de l'électricité comme vecteur : la conversion en mouvement est presque intégrale, alors qu'un moteur thermique en perd les deux tiers.",
+      "tags": [
+        "rendement",
+        "chiffres"
+      ],
+      "distractors": {
+        "easy": [
+          "Environ 10 pour cent",
+          "Environ 1 pour cent",
+          "Plus de 100 pour cent"
+        ],
+        "medium": [
+          "Environ 35 pour cent, comme un moteur thermique",
+          "Environ 50 pour cent",
+          "Environ 70 pour cent"
+        ],
+        "hard": [
+          "Environ 90 pour cent en comptant la production de l'électricité",
+          "Environ 60 pour cent en régime nominal",
+          "Environ 95 pour cent y compris les pertes de transport"
+        ]
+      }
+    },
+    {
+      "recto": "Quel est l'ordre de grandeur du rendement d'un moteur thermique automobile ?",
+      "verso": "De l'ordre de 30 à 35 pour cent, les deux tiers de l'énergie du carburant étant dissipés en chaleur",
+      "explanation": "Cette limite tient à la physique des machines thermiques et non à un défaut de conception. C'est l'écart avec le moteur électrique qui explique l'essentiel des politiques d'électrification des transports.",
+      "tags": [
+        "rendement",
+        "chiffres"
+      ],
+      "distractors": {
+        "easy": [
+          "Environ 95 pour cent",
+          "Environ 100 pour cent",
+          "Environ 80 pour cent"
+        ],
+        "medium": [
+          "Environ 60 pour cent",
+          "Environ 50 pour cent",
+          "Environ 10 pour cent"
+        ],
+        "hard": [
+          "Environ 30 pour cent, hors pertes de transmission",
+          "Environ 45 pour cent pour un moteur récent",
+          "Environ 30 pour cent, en comptant le raffinage du carburant"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : comment se comparent les rendements d'un moteur électrique, d'un moteur thermique et d'un radiateur électrique ?",
+      "verso": "Le radiateur électrique convertit la quasi-totalité de l'électricité en chaleur, le moteur électrique atteint environ 90 pour cent, tandis que le moteur thermique plafonne autour de 30 à 35 pour cent",
+      "explanation": "Le rendement élevé du radiateur ne signifie pas qu'il est un bon choix : convertir en chaleur une électricité produite par une machine thermique revient à dégrader deux fois l'énergie.",
+      "tags": [
+        "rendement",
+        "comparaison"
+      ],
+      "distractors": {
+        "easy": [
+          "Ils ont tous exactement le même rendement",
+          "Le moteur thermique est le plus efficace des trois",
+          "Aucun ne dépasse 10 pour cent"
+        ],
+        "medium": [
+          "Le moteur électrique atteint 35 pour cent, le moteur thermique 90 pour cent",
+          "Le radiateur atteint 40 pour cent, les moteurs environ 90 pour cent",
+          "Le moteur thermique atteint 60 pour cent, le moteur électrique 30 pour cent"
+        ],
+        "hard": [
+          "Le radiateur atteint 90 pour cent, le moteur électrique la quasi-totalité",
+          "Le moteur électrique atteint 100 pour cent, le radiateur 90 pour cent",
+          "Le radiateur et le moteur électrique sont équivalents, autour de 70 pour cent"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi le rendement d'un convertisseur d'électricité en chaleur est-il proche de 100 pour cent ?",
+      "verso": "Parce que toutes les pertes d'un appareil électrique se manifestent précisément sous forme de chaleur, qui est ici l'effet recherché",
+      "explanation": "Le paradoxe est instructif : ce qui est perte ailleurs est produit utile ici. Cela ne dit rien de la pertinence énergétique globale du chauffage électrique.",
+      "tags": [
+        "rendement",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que la chaleur est l'énergie la plus facile à produire",
+          "Parce que les radiateurs sont bien isolés",
+          "Parce que l'électricité est elle-même une forme de chaleur"
+        ],
+        "medium": [
+          "Parce que la résistance électrique ne consomme pas d'énergie",
+          "Parce que la chaleur produite est ensuite récupérée par l'appareil",
+          "Parce que le rendement dépasse en réalité 100 pour cent"
+        ],
+        "hard": [
+          "Parce que l'effet Joule convertit l'électricité sans aucune dissipation",
+          "Parce que les pertes se manifestent sous forme de rayonnement lumineux négligeable",
+          "Parce que la conversion thermique n'obéit pas au principe de conservation de l'énergie"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une pompe à chaleur et pourquoi son coefficient de performance dépasse-t-il un ?",
+      "verso": "Un dispositif qui prélève de la chaleur dans un milieu froid pour la restituer dans un milieu chaud, en fournissant plus de chaleur qu'il ne consomme d'électricité puisqu'il déplace de l'énergie au lieu de la créer",
+      "explanation": "Il n'y a là aucune violation de la conservation de l'énergie : la chaleur restituée est la somme de l'électricité consommée et de la chaleur prélevée à l'extérieur.",
+      "tags": [
+        "chauffage",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Une pompe qui fait circuler de l'eau chaude dans un circuit fermé",
+          "Un radiateur électrique de nouvelle génération",
+          "Un appareil qui produit de l'électricité à partir de la chaleur"
+        ],
+        "medium": [
+          "Un dispositif qui crée de l'énergie à partir de rien, d'où un rendement supérieur à un",
+          "Un système qui stocke la chaleur de l'été pour l'hiver",
+          "Un échangeur qui améliore le rendement d'une chaudière à gaz"
+        ],
+        "hard": [
+          "Un dispositif qui convertit l'électricité en chaleur avec un rendement supérieur à un",
+          "Un système qui prélève la chaleur d'un milieu chaud pour la restituer dans un milieu froid",
+          "Un convertisseur dont le coefficient de performance dépasse un grâce à la récupération des pertes"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi le stockage de l'électricité est-il un problème central ?",
+      "verso": "Parce que l'électricité ne se conserve pas en tant que telle et doit être convertie sous une autre forme, chaque conversion s'accompagnant de pertes et d'un coût",
+      "explanation": "Cette difficulté est le principal handicap de l'électricité face aux combustibles, dont un litre se stocke sans perte pendant des mois.",
+      "tags": [
+        "stockage",
+        "limites"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les batteries sont interdites dans certains pays",
+          "Parce que l'électricité s'évapore rapidement",
+          "Parce que les câbles ne supportent pas le stockage"
+        ],
+        "medium": [
+          "Parce que le stockage massif est techniquement impossible en toutes circonstances",
+          "Parce que l'électricité stockée change de fréquence",
+          "Parce que le stockage augmente la tension au-delà des limites du réseau"
+        ],
+        "hard": [
+          "Parce que l'électricité se conserve sans perte mais coûte cher à récupérer",
+          "Parce que la conversion pour le stockage se fait sans perte mais lentement",
+          "Parce que le stockage impose de convertir en courant alternatif à haute fréquence"
+        ]
+      }
+    },
+    {
+      "recto": "Comment fonctionne une station de transfert d'énergie par pompage ?",
+      "verso": "Elle utilise l'électricité excédentaire pour remonter de l'eau dans un réservoir en altitude, puis la turbine pour restituer de l'électricité lorsque la demande augmente",
+      "explanation": "C'est aujourd'hui le principal moyen de stockage massif d'électricité, avec un rendement de l'ordre de 70 à 80 pour cent, mais il exige un relief adapté.",
+      "tags": [
+        "stockage",
+        "technique"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle pompe de l'électricité directement dans le sol",
+          "Elle stocke l'électricité dans de grandes batteries souterraines",
+          "Elle comprime de l'air dans des bouteilles"
+        ],
+        "medium": [
+          "Elle chauffe de l'eau qui restitue ensuite sa chaleur au réseau",
+          "Elle transforme l'électricité en hydrogène par électrolyse de l'eau",
+          "Elle fait tourner un volant d'inertie de grande masse"
+        ],
+        "hard": [
+          "Elle turbine de l'eau la nuit et la remonte le jour aux heures de pointe",
+          "Elle stocke l'énergie sous forme de pression dans une conduite forcée",
+          "Elle utilise la différence de température entre deux réservoirs d'eau"
+        ]
+      }
+    },
+    {
+      "recto": "Sous quelle forme d'énergie une batterie stocke-t-elle l'électricité ?",
+      "verso": "Sous forme d'énergie chimique, restituée ensuite sous forme électrique lors de la décharge",
+      "explanation": "Cette double conversion explique les pertes et le vieillissement : les réactions chimiques ne sont jamais parfaitement réversibles, d'où une capacité qui décroît avec les cycles.",
+      "tags": [
+        "stockage",
+        "technique"
+      ],
+      "distractors": {
+        "easy": [
+          "Sous forme d'électricité pure conservée dans un réservoir",
+          "Sous forme de chaleur accumulée",
+          "Sous forme de lumière emprisonnée"
+        ],
+        "medium": [
+          "Sous forme d'énergie mécanique de rotation",
+          "Sous forme d'énergie magnétique dans une bobine",
+          "Sous forme d'énergie de pression dans un gaz comprimé"
+        ],
+        "hard": [
+          "Sous forme d'énergie électrostatique, comme un condensateur",
+          "Sous forme d'énergie chimique convertie sans aucune perte",
+          "Sous forme d'énergie nucléaire de liaison"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que la densité énergétique d'un moyen de stockage ?",
+      "verso": "La quantité d'énergie stockée par unité de masse ou de volume, grandeur pour laquelle les carburants liquides restent très supérieurs aux batteries",
+      "explanation": "C'est la raison pour laquelle l'électrification est plus difficile pour l'aviation et le transport maritime longue distance que pour l'automobile.",
+      "tags": [
+        "stockage",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le poids total d'une batterie chargée",
+          "Le nombre de fois qu'une batterie peut être rechargée",
+          "La vitesse à laquelle une batterie se décharge"
+        ],
+        "medium": [
+          "La puissance maximale que peut délivrer une batterie",
+          "Le rendement de charge et de décharge d'un accumulateur",
+          "La durée de vie d'un moyen de stockage en années"
+        ],
+        "hard": [
+          "La quantité d'énergie stockée par unité de temps",
+          "La quantité d'énergie restituée rapportée à celle qui a été fournie",
+          "La quantité de matière active par unité d'énergie stockée"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi les carburants liquides conservent-ils un avantage sur les batteries dans certains usages ?",
+      "verso": "Parce que leur densité énergétique massique est plusieurs dizaines de fois supérieure, ce qui reste décisif quand la masse embarquée est critique",
+      "explanation": "Cet avantage physique n'est pas un obstacle réglementaire ou industriel : il tient à la chimie même des réactions mises en jeu.",
+      "tags": [
+        "stockage",
+        "densité"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'ils sont moins chers à l'achat",
+          "Parce qu'ils sont plus faciles à transporter en camion",
+          "Parce qu'ils ne s'usent pas avec le temps"
+        ],
+        "medium": [
+          "Parce que leur rendement de conversion est supérieur à celui des batteries",
+          "Parce qu'ils se rechargent plus vite que les batteries",
+          "Parce qu'ils émettent moins de gaz à effet de serre par kilomètre"
+        ],
+        "hard": [
+          "Parce que leur densité énergétique est légèrement supérieure, d'environ 20 pour cent",
+          "Parce que leur conversion en mouvement se fait avec un meilleur rendement",
+          "Parce que leur densité volumique est supérieure mais leur densité massique inférieure"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on production intermittente ?",
+      "verso": "Une production dont la puissance dépend de conditions extérieures non pilotables, comme le vent ou l'ensoleillement",
+      "explanation": "Le terme variable est parfois préféré car cette production est en partie prévisible : c'est son caractère non pilotable, plus que son irrégularité, qui pose problème au réseau.",
+      "tags": [
+        "réseau",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Une production qui s'arrête chaque nuit pour maintenance",
+          "Une production réservée aux périodes de pointe",
+          "Une production réalisée par intermittence par les salariés"
+        ],
+        "medium": [
+          "Une production dont le rendement varie avec la température extérieure",
+          "Une production limitée par la capacité des lignes de transport",
+          "Une production dont le coût varie selon les heures de la journée"
+        ],
+        "hard": [
+          "Une production entièrement imprévisible, sur laquelle aucune anticipation n'est possible",
+          "Une production pilotable mais dont la puissance maximale varie selon la saison",
+          "Une production dont l'arrêt est programmé par le gestionnaire de réseau"
+        ]
+      }
+    },
+    {
+      "recto": "Quels moyens permettent de compenser l'intermittence d'une production électrique ?",
+      "verso": "Le recours à des moyens pilotables complémentaires, le stockage, l'interconnexion entre réseaux et le pilotage de la demande",
+      "explanation": "Aucun de ces leviers ne suffit seul : c'est leur combinaison qui rend possible une part élevée de production variable dans un mix électrique.",
+      "tags": [
+        "réseau",
+        "solutions"
+      ],
+      "distractors": {
+        "easy": [
+          "L'installation de davantage de compteurs électriques",
+          "L'augmentation de la tension du réseau",
+          "La réduction du nombre d'usagers raccordés"
+        ],
+        "medium": [
+          "L'augmentation de la fréquence du réseau lors des pics de production",
+          "Le remplacement du courant alternatif par du courant continu",
+          "La construction de lignes plus courtes entre production et consommation"
+        ],
+        "hard": [
+          "Le stockage seul, les autres leviers étant marginaux",
+          "L'interconnexion, qui rend inutile tout moyen pilotable complémentaire",
+          "L'augmentation de la puissance installée, qui supprime le besoin de stockage"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que le pilotage de la demande sur un réseau électrique ?",
+      "verso": "L'ensemble des dispositifs qui déplacent une partie de la consommation vers des périodes de moindre tension sur le réseau, par la tarification ou par le pilotage direct d'appareils",
+      "explanation": "C'est un levier peu coûteux comparé au stockage, car il évite d'avoir à construire des capacités supplémentaires pour quelques heures par an.",
+      "tags": [
+        "réseau",
+        "solutions"
+      ],
+      "distractors": {
+        "easy": [
+          "Le fait de couper l'électricité aux mauvais payeurs",
+          "La possibilité de choisir son fournisseur d'électricité",
+          "L'obligation d'éteindre les appareils la nuit"
+        ],
+        "medium": [
+          "Le réglage automatique de la tension chez les usagers",
+          "La limitation de la puissance souscrite par foyer",
+          "La production locale d'électricité par les consommateurs"
+        ],
+        "hard": [
+          "Le déplacement de la production vers les périodes de forte demande",
+          "La modulation de la fréquence du réseau selon la consommation",
+          "La priorité donnée aux industriels lors des pointes de consommation"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi l'électricité est-elle qualifiée de vecteur polyvalent ?",
+      "verso": "Parce qu'elle se convertit facilement en presque toutes les formes d'énergie utiles, mouvement, chaleur, lumière, information, avec des rendements souvent élevés",
+      "explanation": "Cette polyvalence, jointe à la propreté d'usage au point d'utilisation, explique la tendance de long terme à l'électrification des usages.",
+      "tags": [
+        "électricité",
+        "atouts"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'elle est disponible dans tous les pays du monde",
+          "Parce qu'elle peut être produite par n'importe qui",
+          "Parce qu'elle ne coûte rien à transporter"
+        ],
+        "medium": [
+          "Parce qu'elle se stocke aussi facilement que les combustibles",
+          "Parce qu'elle ne produit aucune émission sur l'ensemble de son cycle",
+          "Parce qu'elle se transporte sans aucune perte sur le réseau"
+        ],
+        "hard": [
+          "Parce qu'elle se convertit en toutes formes d'énergie avec un rendement toujours proche de un",
+          "Parce qu'elle est la seule forme d'énergie directement utilisable sans conversion",
+          "Parce qu'elle peut être convertie en énergie chimique sans perte notable"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on l'électrification des usages ?",
+      "verso": "Le remplacement progressif d'usages reposant sur des combustibles par des usages électriques, notamment dans les transports et le chauffage",
+      "explanation": "Elle n'a de sens climatique que si l'électricité utilisée est peu carbonée : électrifier avec une électricité produite au charbon peut dégrader le bilan.",
+      "tags": [
+        "transition",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le raccordement de nouveaux logements au réseau électrique",
+          "L'augmentation du nombre d'appareils électriques par foyer",
+          "La construction de nouvelles lignes à haute tension"
+        ],
+        "medium": [
+          "L'augmentation de la production d'électricité renouvelable",
+          "La généralisation des compteurs communicants",
+          "L'ouverture du marché de l'électricité à la concurrence"
+        ],
+        "hard": [
+          "Le remplacement des usages électriques par des combustibles moins carbonés",
+          "L'augmentation de la part du nucléaire dans le mix électrique",
+          "La conversion des centrales thermiques en centrales électriques renouvelables"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi l'électrification d'un usage ne réduit-elle pas toujours les émissions ?",
+      "verso": "Parce que le bilan dépend de l'intensité carbone de l'électricité utilisée, qui varie fortement d'un pays à l'autre selon le mix de production",
+      "explanation": "Un véhicule électrique alimenté par une électricité très carbonée peut émettre autant qu'un véhicule thermique. Le raisonnement doit toujours remonter à la source primaire.",
+      "tags": [
+        "transition",
+        "analyse"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les appareils électriques consomment plus que les autres",
+          "Parce que l'électricité pollue davantage que le pétrole",
+          "Parce que les câbles émettent des gaz à effet de serre"
+        ],
+        "medium": [
+          "Parce que les pertes en ligne annulent tout gain d'émissions",
+          "Parce que le rendement des appareils électriques est plus faible",
+          "Parce que la production d'électricité est toujours plus émettrice que la combustion directe"
+        ],
+        "hard": [
+          "Parce que le bilan dépend uniquement de la fabrication des batteries",
+          "Parce que l'intensité carbone de l'électricité est identique partout dans le monde",
+          "Parce que les émissions se déplacent du lieu d'usage vers le lieu de production sans changer de total"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que l'hydrogène décarboné et quel rôle lui prête-t-on ?",
+      "verso": "Un hydrogène produit par électrolyse de l'eau à partir d'électricité peu carbonée, envisagé comme moyen de stockage et comme vecteur pour les usages difficiles à électrifier",
+      "explanation": "Ses pertes successives à la production, au stockage et à la reconversion limitent son rendement global, ce qui le réserve aux usages où la batterie ne convient pas.",
+      "tags": [
+        "stockage",
+        "hydrogène"
+      ],
+      "distractors": {
+        "easy": [
+          "Un gaz naturel purifié pour ne plus contenir de carbone",
+          "Un carburant extrait de gisements souterrains",
+          "Un hydrogène refroidi pour ne plus émettre de gaz"
+        ],
+        "medium": [
+          "Un hydrogène produit à partir de gaz naturel sans capture des émissions",
+          "Un hydrogène obtenu par combustion de biomasse",
+          "Un hydrogène liquéfié utilisé directement comme source primaire"
+        ],
+        "hard": [
+          "Un hydrogène produit par électrolyse avec un rendement global proche de un",
+          "Un hydrogène issu du reformage du méthane avec captage du dioxyde de carbone",
+          "Un hydrogène produit par électrolyse et réservé au chauffage domestique"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la chaîne de l'hydrogène a-t-elle un rendement global limité ?",
+      "verso": "Parce qu'elle enchaîne plusieurs conversions, électrolyse, compression ou liquéfaction, stockage puis reconversion en électricité, chacune avec ses pertes",
+      "explanation": "Le rendement d'ensemble descend souvent sous 40 pour cent, contre 70 à 80 pour cent pour un stockage hydraulique par pompage.",
+      "tags": [
+        "hydrogène",
+        "rendement"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que l'hydrogène s'échappe des réservoirs en quelques heures",
+          "Parce que sa production nécessite du pétrole",
+          "Parce qu'il ne peut être utilisé qu'une seule fois"
+        ],
+        "medium": [
+          "Parce que l'électrolyse est la seule étape avec des pertes notables",
+          "Parce que sa densité énergétique est très faible par unité de masse",
+          "Parce que sa combustion produit des gaz à effet de serre"
+        ],
+        "hard": [
+          "Parce que la reconversion en électricité est parfaite mais l'électrolyse très mauvaise",
+          "Parce que chaque conversion perd exactement la moitié de l'énergie",
+          "Parce que le stockage sous pression consomme plus que l'électrolyse elle-même"
+        ]
+      }
+    },
+    {
+      "recto": "Que désigne le mix électrique d'un pays ?",
+      "verso": "La répartition des différentes sources primaires utilisées pour produire son électricité, exprimée en parts de la production totale",
+      "explanation": "Il détermine l'intensité carbone de l'électricité nationale, donc l'intérêt climatique de toute électrification des usages dans ce pays.",
+      "tags": [
+        "réseau",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le mélange de courants alternatif et continu sur le réseau",
+          "La combinaison des tensions utilisées dans les logements",
+          "Le mélange d'électricité importée et exportée"
+        ],
+        "medium": [
+          "La répartition de la consommation entre les secteurs économiques",
+          "L'ensemble des fournisseurs présents sur le marché national",
+          "La proportion d'électricité produite localement par les particuliers"
+        ],
+        "hard": [
+          "La répartition des sources d'énergie primaire dans la consommation totale du pays",
+          "La part des énergies renouvelables dans la consommation finale d'énergie",
+          "La répartition des puissances installées, indépendamment de la production réelle"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi comparer les mix électriques de deux pays est-il éclairant ?",
+      "verso": "Parce que des pays de niveau de vie comparable peuvent présenter des intensités carbone de l'électricité très différentes selon leurs choix de production",
+      "explanation": "Cette comparaison montre que l'empreinte de l'électricité n'est pas une donnée technique fixe mais le résultat de décisions politiques et industrielles antérieures.",
+      "tags": [
+        "réseau",
+        "société"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que cela permet de savoir quel pays consomme le plus",
+          "Parce que les prix de l'électricité y sont identiques",
+          "Parce que la tension du réseau y est différente"
+        ],
+        "medium": [
+          "Parce que les besoins énergétiques dépendent uniquement du climat",
+          "Parce que la consommation par habitant est la seule variable pertinente",
+          "Parce que le mix reflète surtout la population du pays"
+        ],
+        "hard": [
+          "Parce que l'intensité carbone dépend uniquement du niveau de développement",
+          "Parce que les mix convergent nécessairement vers une même structure",
+          "Parce que le mix électrique détermine à lui seul l'empreinte carbone nationale"
+        ]
+      }
+    },
+    {
+      "recto": "Quel usage domestique représente la part la plus importante de la consommation d'énergie d'un logement ?",
+      "verso": "Le chauffage, qui domine largement devant l'eau chaude sanitaire, la cuisson et l'électricité spécifique",
+      "explanation": "C'est donc sur l'isolation et le mode de chauffage que porte l'essentiel du gisement d'économies, bien avant les appareils électriques du quotidien.",
+      "tags": [
+        "usages",
+        "chiffres"
+      ],
+      "distractors": {
+        "easy": [
+          "L'éclairage",
+          "La télévision et les écrans",
+          "La recharge des téléphones"
+        ],
+        "medium": [
+          "Les appareils électroménagers",
+          "L'eau chaude sanitaire",
+          "La cuisson des aliments"
+        ],
+        "hard": [
+          "Le chauffage et l'éclairage à parts égales",
+          "L'électricité spécifique, hors chauffage et eau chaude",
+          "La ventilation et la climatisation"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on électricité spécifique ?",
+      "verso": "L'électricité utilisée pour des usages qui ne peuvent être satisfaits par aucune autre forme d'énergie, comme l'éclairage, l'informatique ou l'électroménager",
+      "explanation": "Par opposition, le chauffage ou la cuisson peuvent recourir à d'autres vecteurs. Cette distinction structure les politiques de sobriété électrique.",
+      "tags": [
+        "usages",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "L'électricité produite par des panneaux solaires individuels",
+          "L'électricité vendue à un tarif particulier",
+          "L'électricité réservée aux entreprises"
+        ],
+        "medium": [
+          "L'électricité consommée aux heures creuses",
+          "L'électricité utilisée pour le chauffage uniquement",
+          "L'électricité produite localement et consommée sur place"
+        ],
+        "hard": [
+          "L'électricité utilisée pour des usages également réalisables au gaz",
+          "L'électricité consommée par les appareils en veille",
+          "L'électricité dont la production est spécifiquement renouvelable"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la principale limite de l'électricité comme vecteur énergétique ?",
+      "verso": "La difficulté et le coût de son stockage, qui imposent un équilibre permanent entre production et consommation sur le réseau",
+      "explanation": "Tous les autres atouts, polyvalence, rendement, propreté d'usage, se heurtent à cette contrainte, qui conditionne la place possible des sources non pilotables.",
+      "tags": [
+        "synthèse",
+        "limites"
+      ],
+      "distractors": {
+        "easy": [
+          "Son prix élevé à l'achat",
+          "Sa dangerosité pour les utilisateurs",
+          "Sa faible disponibilité dans les pays développés"
+        ],
+        "medium": [
+          "Son rendement de conversion médiocre dans les moteurs",
+          "Son incapacité à produire de la chaleur",
+          "Sa dépendance exclusive aux énergies fossiles"
+        ],
+        "hard": [
+          "Les pertes en ligne, qui atteignent la moitié de l'énergie transportée",
+          "L'impossibilité de la convertir en énergie chimique",
+          "La variation de sa fréquence selon la distance parcourue"
+        ]
+      }
+    }
+  ]
+}

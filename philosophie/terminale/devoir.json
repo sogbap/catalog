@@ -1,0 +1,640 @@
+{
+  "id": "philosophie-terminale-devoir",
+  "title": "Le devoir",
+  "emoji": "⚖️",
+  "subject": "philosophy",
+  "country": "fr",
+  "courseDescription": "Philosophie · Terminale — l'obligation morale : impératif catégorique, bonne volonté, morales du devoir et morales des conséquences, conflits de devoirs.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Le devoir</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale (voie générale et technologique)<br>\n  <b>Thème&nbsp;:</b> Philosophie — La morale et la politique<br>\n  <b>Notion</b> · environ 4 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> Qu'est-ce qui peut m'obliger sans me contraindre&nbsp;?</p></blockquote>\n\n<p>Le devoir a ceci de singulier qu'il commande sans pouvoir forcer. Une loi physique se vérifie toujours&nbsp;; une loi morale peut être violée — et c'est précisément pour cela qu'elle s'énonce «&nbsp;tu dois&nbsp;» et non «&nbsp;il arrive que&nbsp;». Sans cette possibilité de manquer, il n'y aurait pas de morale mais un mécanisme. Reste à savoir <strong>d'où vient</strong> cette obligation, et <strong>ce qu'elle vaut</strong>&nbsp;: est-elle un commandement absolu de la raison, ou seulement la meilleure manière de produire du bien&nbsp;? Ce chapitre confronte deux grandes familles de réponses, puis examine ce qu'il reste à faire quand elles se heurtent.</p>\n\n<h2>1 · Ce qui distingue le devoir</h2>\n\n<p>Trois confusions doivent être écartées d'emblée.</p>\n\n<ul>\n  <li>Le devoir n'est pas la <strong>contrainte</strong>&nbsp;: la contrainte s'impose par la force et laisse la volonté hors jeu&nbsp;; l'obligation s'adresse à une volonté qui peut refuser.</li>\n  <li>Le devoir n'est pas la <strong>loi juridique</strong>&nbsp;: la loi fixe un seuil de comportement sous peine de sanction&nbsp;; le devoir ne s'arrête pas à ce seuil.</li>\n  <li>Le devoir n'est pas la <strong>pression sociale</strong>&nbsp;: un devoir peut commander contre l'opinion de tous, alors que la pression sociale se contente de faire coïncider les conduites.</li>\n</ul>\n\n<p>Cette dernière distinction mérite un mot. L'objection sociologique — nos devoirs viendraient de notre groupe — explique bien la <em>genèse</em> des règles, non leur <em>validité</em>. Les confondre reviendrait à faire de la conformité le critère du bien.</p>\n\n<div class=\"callout\">\n  <strong>Repère · Origine / fondement</strong><br>\n  Savoir d'où vient une obligation ne dit pas si elle est justifiée. Une règle héritée peut être injustifiable&nbsp;; une règle nouvelle peut être fondée. Tirer la validité de la genèse est un sophisme.\n</div>\n\n<h2>2 · La morale du devoir&nbsp;: Kant</h2>\n\n<h3>Conformément au devoir ou par devoir</h3>\n\n<p>Kant introduit une distinction qui commande tout le reste. Le commerçant qui ne trompe pas ses clients parce que sa réputation en dépend agit <strong>conformément au devoir</strong>&nbsp;: son acte est extérieurement irréprochable. Mais il n'agit pas <strong>par devoir</strong>, puisque son mobile est l'intérêt. La valeur morale ne se lit donc pas sur l'acte visible&nbsp;: elle tient au <strong>motif</strong>.</p>\n\n<p><b>Précision indispensable&nbsp;:</b> Kant ne dit pas qu'il faut agir à contrecœur, ni que l'inclination rende l'acte mauvais. Il dit qu'elle ne <em>suffit pas</em> à en fonder la valeur, parce qu'elle est contingente&nbsp;: aujourd'hui je suis porté à secourir, demain peut-être non.</p>\n\n<h3>La bonne volonté</h3>\n\n<p>Tout le reste — l'intelligence, le courage, la richesse — peut servir au pire&nbsp;: le courage d'un criminel le rend plus dangereux. Seule la <strong>bonne volonté</strong>, celle qui veut le devoir pour lui-même, est bonne <em>sans restriction</em>. Son mérite ne dépend pas du succès&nbsp;: elle reste entière quand les circonstances font échouer ce qu'elle visait.</p>\n\n<h3>Les impératifs</h3>\n\n<p>Une règle peut commander de deux façons.</p>\n\n<ul>\n  <li><strong>Impératif hypothétique</strong>&nbsp;: «&nbsp;si tu veux être respecté, tiens tes promesses&nbsp;». Il commande sous condition d'un but&nbsp;; qui renonce au but échappe au commandement. C'est le régime des règles techniques et prudentielles.</li>\n  <li><strong>Impératif catégorique</strong>&nbsp;: «&nbsp;tiens tes promesses&nbsp;». Il oblige absolument, quel que soit le but poursuivi. Seul celui-là est proprement moral.</li>\n</ul>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 165\" role=\"img\" aria-label=\"Comparaison entre l'impératif hypothétique, qui commande sous condition d'un but que l'on se donne et cesse d'obliger si l'on renonce au but, et l'impératif catégorique, qui commande absolument sans aucune condition\">\n    <defs>\n      <marker id=\"ar-phdv1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n    <text x=\"8\" y=\"16\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Impératif hypothétique</text>\n    <rect x=\"8\" y=\"24\" width=\"120\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"68\" y=\"45\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">si tu veux X…</text>\n    <path d=\"M130,41 L156,41\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-phdv1)\"/>\n    <rect x=\"160\" y=\"24\" width=\"120\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"220\" y=\"45\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">…alors fais Y</text>\n    <text x=\"290\" y=\"45\" font-size=\"9\" class=\"s-muted\">?</text>\n    <text x=\"8\" y=\"76\" font-size=\"9\" class=\"s-muted\">renoncer à X libère de l'obligation</text>\n    <line x1=\"8\" y1=\"88\" x2=\"332\" y2=\"88\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"110\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Impératif catégorique</text>\n    <rect x=\"8\" y=\"118\" width=\"272\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"144\" y=\"139\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">fais Y — sans condition</text>\n    <text x=\"290\" y=\"139\" font-size=\"9\" class=\"s-muted\">!</text>\n  </svg>\n  <figcaption>Le premier oblige un moyen en vue d'une fin&nbsp;; le second oblige quelle que soit la fin. Seul le second est moral.</figcaption>\n</figure>\n\n<h3>Les deux formules à connaître</h3>\n\n<p><strong>Loi universelle.</strong> «&nbsp;Agis uniquement d'après la maxime qui te permet de vouloir en même temps qu'elle devienne une loi universelle.&nbsp;» C'est un test de <strong>non-contradiction</strong>, non un calcul d'utilité&nbsp;: la maxime «&nbsp;promettre sans tenir&nbsp;» se détruit une fois universalisée, car plus personne ne croirait aux promesses et promettre deviendrait impossible.</p>\n\n<p><strong>Humanité comme fin.</strong> «&nbsp;Agis de telle sorte que tu traites l'humanité, en toi comme en autrui, toujours en même temps comme une fin et jamais <em>simplement</em> comme un moyen.&nbsp;» Le mot «&nbsp;simplement&nbsp;» est essentiel&nbsp;: tout échange utilise autrui comme moyen&nbsp;; ce qui est interdit, c'est de le réduire à cela sans le reconnaître comme sujet capable de consentir.</p>\n\n<p>De cette seconde formule découle la <strong>dignité</strong>&nbsp;: ce qui a un prix peut être remplacé par un équivalent&nbsp;; ce qui a une dignité est au-dessus de tout prix, donc ni vendable, ni troquable, ni sacrifiable à un calcul. Quant au <strong>respect</strong>, c'est le seul sentiment que Kant admette en morale, parce qu'il n'est pas reçu passivement&nbsp;: il est produit par la raison face à la loi.</p>\n\n<h2>3 · Les morales des conséquences</h2>\n\n<p>Le conséquentialisme renverse la perspective&nbsp;: la valeur d'un acte tient à ses <strong>effets</strong>, non au principe qui l'a produit. Sa version la plus élaborée est l'<strong>utilitarisme</strong>, avec Bentham puis Mill&nbsp;: est bonne l'action qui produit la plus grande quantité de bonheur pour le plus grand nombre.</p>\n\n<p>Les mérites sont réels. L'utilitarisme fournit un <strong>critère commun</strong> et impartial&nbsp;: chacun compte pour un, et personne pour plus d'un. Il rend la morale attentive aux effets réels plutôt qu'à la pureté des intentions. Mill affine d'ailleurs la doctrine en distinguant la <em>qualité</em> des plaisirs, contre l'objection d'une morale de pourceaux.</p>\n\n<p>L'objection classique demeure&nbsp;: le calcul peut justifier de <strong>sacrifier un innocent</strong> si le bilan global y trouve son compte. Traiter les individus comme des quantités additionnables leur ôte exactement ce que Kant appelait dignité. C'est là que les deux familles se heurtent frontalement.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Comparaison en trois colonnes des trois grandes familles morales : la morale du devoir qui juge le principe de l'action, la morale des conséquences qui juge ses effets, et la morale des vertus qui juge le caractère de celui qui agit\">\n    <text x=\"170\" y=\"14\" text-anchor=\"middle\" font-size=\"10\" class=\"s-muted\">Que juge-t-on dans un acte ?</text>\n    <rect x=\"6\" y=\"26\" width=\"102\" height=\"140\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"57\" y=\"48\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Le principe</text>\n    <text x=\"57\" y=\"70\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">morale du devoir<tspan x=\"57\" dy=\"13\" class=\"s-muted\">Kant</tspan></text>\n    <text x=\"57\" y=\"106\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">« quelle règle<tspan x=\"57\" dy=\"12\">est-ce que je suis</tspan><tspan x=\"57\" dy=\"12\">en réalité ? »</tspan></text>\n    <text x=\"57\" y=\"156\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">risque : rigorisme</text>\n    <rect x=\"119\" y=\"26\" width=\"102\" height=\"140\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"170\" y=\"48\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Les effets</text>\n    <text x=\"170\" y=\"70\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">utilitarisme<tspan x=\"170\" dy=\"13\" class=\"s-muted\">Bentham, Mill</tspan></text>\n    <text x=\"170\" y=\"106\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">« quel bien<tspan x=\"170\" dy=\"12\">et quel mal</tspan><tspan x=\"170\" dy=\"12\">en résultent ? »</tspan></text>\n    <text x=\"170\" y=\"156\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">risque : sacrifier un innocent</text>\n    <rect x=\"232\" y=\"26\" width=\"102\" height=\"140\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"283\" y=\"48\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Le caractère</text>\n    <text x=\"283\" y=\"70\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">morale des vertus<tspan x=\"283\" dy=\"13\" class=\"s-muted\">Aristote</tspan></text>\n    <text x=\"283\" y=\"106\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">« quel homme<tspan x=\"283\" dy=\"12\">est-ce que je</tspan><tspan x=\"283\" dy=\"12\">deviens ? »</tspan></text>\n    <text x=\"283\" y=\"156\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">risque : peu de règles claires</text>\n    <text x=\"170\" y=\"186\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">trois questions différentes, pas trois réponses à la même</text>\n  </svg>\n  <figcaption>Les trois familles ne s'opposent pas seulement par leurs réponses&nbsp;: elles ne posent pas la même question.</figcaption>\n</figure>\n\n<h2>4 · La morale des vertus</h2>\n\n<p>Une troisième voie, issue d'<strong>Aristote</strong>, déplace l'évaluation vers le <strong>caractère</strong> de celui qui agit. La question n'est plus «&nbsp;que dois-je faire&nbsp;?&nbsp;» mais «&nbsp;quel homme dois-je devenir&nbsp;?&nbsp;». La vertu est une <em>disposition acquise</em>, formée par la répétition d'actes&nbsp;: on devient juste en accomplissant des actes justes. L'éducation y prend donc une importance centrale.</p>\n\n<p>Aristote la définit comme un <strong>juste milieu</strong> entre deux extrêmes&nbsp;: le courage entre la lâcheté et la témérité, la générosité entre l'avarice et la prodigalité. Ce milieu n'est pas une moyenne arithmétique&nbsp;: il est déterminé par la raison, relativement à la situation et à la personne.</p>\n\n<p>Cette morale rend bien compte de la <strong>formation morale</strong>, que les deux autres présupposent sans l'expliquer. Elle fournit en revanche moins de règles claires pour trancher un cas difficile.</p>\n\n<h2>5 · Quand les devoirs se heurtent</h2>\n\n<p>Un <strong>conflit de devoirs</strong> est une situation où deux obligations légitimes ne peuvent pas être satisfaites en même temps. Le cas type est le mensonge fait pour protéger une victime&nbsp;: dire la vérité et protéger un innocent s'excluent.</p>\n\n<p>Kant, sur ce cas précis, refuse le mensonge&nbsp;: l'interdiction ne souffre aucune exception sans se détruire. Cette position, la plus contestée de sa morale, montre à la fois la rigueur d'une morale du principe et son coût quand les conséquences sont désastreuses. Elle indique surtout ceci&nbsp;: le devoir <strong>ne fournit pas toujours une solution automatique</strong>. Il faut juger, et ce jugement engage celui qui l'exerce.</p>\n\n<h3>Le devoir contre la loi</h3>\n\n<p>La <strong>désobéissance civile</strong> se justifie lorsqu'une loi est <em>légale mais illégitime</em>. Deux conditions la distinguent de la simple infraction&nbsp;: elle est <strong>publique</strong>, et elle <strong>assume ses sanctions</strong>. Le désobéissant reconnaît ainsi l'autorité du droit tout en contestant une loi précise au nom d'un principe supérieur.</p>\n\n<h3>Le devoir envers l'avenir</h3>\n\n<p>Les morales traditionnelles supposaient des effets proches et réversibles. Quand l'action technique engage l'avenir de la biosphère, <strong>Hans Jonas</strong> soutient qu'il faut un principe nouveau&nbsp;: répondre des <strong>conséquences lointaines</strong> de nos actes, y compris envers des générations qui ne peuvent ni consentir ni se plaindre.</p>\n\n<p>Il faut enfin distinguer la <strong>responsabilité morale</strong> de la simple <strong>imputation juridique</strong>&nbsp;: l'une engage à répondre de ce que l'on a fait au-delà de ce que la loi exige, l'autre rattache un acte à son auteur pour appliquer une sanction. On peut être juridiquement irréprochable et moralement en faute.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Le fil du problème</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Frise du parcours du chapitre : d'abord ce qui distingue le devoir de la contrainte et de la pression sociale, puis la morale kantienne du principe, puis les morales des conséquences, puis la morale des vertus, enfin les conflits de devoirs et la responsabilité envers l'avenir\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"186\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Ce qui oblige</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Obliger sans contraindre</text>\n    <circle cx=\"26\" cy=\"62\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"59\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Kant</text>\n    <text x=\"44\" y=\"72\" font-size=\"10\" fill=\"currentColor\">Impératif catégorique, dignité</text>\n    <circle cx=\"26\" cy=\"104\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"101\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Conséquences</text>\n    <text x=\"44\" y=\"114\" font-size=\"10\" fill=\"currentColor\">Utilitarisme et son objection</text>\n    <circle cx=\"26\" cy=\"146\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"143\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Vertus</text>\n    <text x=\"44\" y=\"156\" font-size=\"10\" fill=\"currentColor\">Aristote, le caractère et l'habitude</text>\n    <circle cx=\"26\" cy=\"184\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"181\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Les cas difficiles</text>\n    <text x=\"44\" y=\"194\" font-size=\"10\" fill=\"currentColor\">Conflits, désobéissance, avenir</text>\n  </svg>\n  <figcaption>Le chapitre passe d'une définition à trois familles de morales, puis aux situations où elles se heurtent.</figcaption>\n</figure>\n\n<h3>Distinctions à tenir</h3>\n\n<table>\n  <tr><th>Distinction</th><th>Ce qui se joue</th></tr>\n  <tr><td>Obligation / contrainte</td><td>Le devoir s'adresse à une volonté qui peut refuser</td></tr>\n  <tr><td>Conformément au devoir / par devoir</td><td>La valeur morale tient au mobile, pas à l'acte visible</td></tr>\n  <tr><td>Hypothétique / catégorique</td><td>Commander sous condition d'un but, ou absolument</td></tr>\n  <tr><td>Prix / dignité</td><td>Ce qui est remplaçable, ce qui ne l'est pas</td></tr>\n  <tr><td>Origine / fondement</td><td>D'où vient une règle ne dit pas si elle vaut</td></tr>\n  <tr><td>Responsabilité morale / imputation juridique</td><td>La loi fixe un seuil, la morale ne s'y arrête pas</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition</th></tr>\n  <tr><td>Devoir</td><td>Nécessité qui s'impose à une volonté libre de désobéir</td></tr>\n  <tr><td>Bonne volonté</td><td>Volonté qui veut le devoir pour lui-même, bonne sans restriction</td></tr>\n  <tr><td>Maxime</td><td>Règle subjective de l'action, que le test d'universalisation éprouve</td></tr>\n  <tr><td>Impératif catégorique</td><td>Commandement inconditionnel de la raison pratique</td></tr>\n  <tr><td>Dignité</td><td>Valeur sans équivalent, propre à la personne</td></tr>\n  <tr><td>Respect</td><td>Seul sentiment moral, produit par la raison face à la loi</td></tr>\n  <tr><td>Utilitarisme</td><td>Est bon ce qui produit le plus grand bonheur du plus grand nombre</td></tr>\n  <tr><td>Vertu</td><td>Disposition acquise, juste milieu déterminé par la raison</td></tr>\n  <tr><td>Conflit de devoirs</td><td>Deux obligations légitimes inconciliables dans une situation</td></tr>\n  <tr><td>Désobéissance civile</td><td>Refus public d'une loi illégitime, assumant sa sanction</td></tr>\n</table>\n\n<h3>Les auteurs</h3>\n\n<table>\n  <tr><th>Auteur</th><th>Thèse à retenir</th></tr>\n  <tr><td>Kant</td><td>Seul l'acte accompli par devoir a une valeur morale&nbsp;; la personne a une dignité</td></tr>\n  <tr><td>Aristote</td><td>La vertu est une disposition acquise, juste milieu entre deux excès</td></tr>\n  <tr><td>Bentham et Mill</td><td>Est bonne l'action qui maximise le bonheur du plus grand nombre</td></tr>\n  <tr><td>Rousseau</td><td>La conscience, sentiment intérieur, indique le bien avant le savoir</td></tr>\n  <tr><td>Jonas</td><td>La puissance technique impose un devoir envers les générations futures</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Croire qu'un acte extérieurement irréprochable est pour cela moral&nbsp;: l'honnêteté par intérêt est conforme au devoir, non accomplie par devoir. Mais attention à l'erreur symétrique, tout aussi fréquente&nbsp;: Kant ne prescrit pas d'agir à contrecœur, et l'inclination ne rend pas l'acte mauvais&nbsp;— elle ne suffit simplement pas à en fonder la valeur. Autre confusion à écarter&nbsp;: le devoir n'est pas la pression sociale, sans quoi la conformité deviendrait le critère du bien.\n</div>\n\n<blockquote><p>Le devoir n'est donc ni une force qui s'empare de moi, ni une recette qui me dispense de penser. Il m'institue comme celui qui doit juger&nbsp;— et qui ne pourra pas s'en décharger sur la règle.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Philosophie — La morale et la politique",
+  "cards": [
+    {
+      "recto": "Qu'est-ce qui caractérise le devoir par rapport à toutes les autres formes de nécessité ?",
+      "verso": "Il s'impose à une volonté qui pourrait ne pas y obéir : c'est une nécessité qui laisse la désobéissance possible",
+      "explanation": "Une loi physique se vérifie toujours ; une loi morale peut être violée. C'est pourquoi le devoir s'exprime par « tu dois » et non par « il arrive que ». Sans cette possibilité de manquer, il n'y aurait pas de morale mais un mécanisme.",
+      "tags": [
+        "définition",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Il est toujours agréable à accomplir",
+          "Il est imposé par la loi de l'État",
+          "Il vient de la coutume"
+        ],
+        "medium": [
+          "Il s'impose avec la même nécessité qu'une loi de la nature",
+          "Il est propre à chaque culture sans exception",
+          "Il coïncide toujours avec notre intérêt"
+        ],
+        "hard": [
+          "Il détermine l'action sans laisser aucune alternative",
+          "Il dérive nécessairement de l'expérience du plaisir",
+          "Il n'oblige que ceux qui l'ont explicitement accepté"
+        ]
+      }
+    },
+    {
+      "recto": "Que faut-il distinguer entre agir conformément au devoir et agir par devoir ?",
+      "verso": "La première expression décrit un acte extérieurement correct, la seconde un acte accompli parce qu'il est le devoir",
+      "explanation": "Le commerçant honnête par intérêt commercial fait ce qu'il faut sans le faire pour la bonne raison. La valeur morale ne se lit donc pas sur l'acte visible mais sur son motif.",
+      "tags": [
+        "distinction",
+        "Kant"
+      ],
+      "distractors": {
+        "easy": [
+          "Rien : ce sont deux formulations équivalentes",
+          "La première concerne les paroles, la seconde les actes",
+          "La première est juridique, la seconde religieuse"
+        ],
+        "medium": [
+          "La première est accomplie par devoir, la seconde par habitude",
+          "La première suppose un effort, la seconde non",
+          "La première est individuelle, la seconde collective"
+        ],
+        "hard": [
+          "La première a une valeur morale supérieure car elle réussit mieux",
+          "La seconde décrit la conformité extérieure de l'acte à la règle",
+          "La première suppose un mobile désintéressé"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : un acte extérieurement irréprochable a-t-il pour autant une valeur morale ?",
+      "verso": "Non : sa valeur dépend du mobile qui l'a produit, et un acte accompli par intérêt ou par inclination n'est pas moral au sens strict",
+      "explanation": "C'est le contresens le plus répandu du chapitre. Le commerçant qui ne trompe pas ses clients parce que sa réputation en dépend agit conformément au devoir, non par devoir. Attention toutefois à ne pas tirer l'erreur inverse : Kant ne dit pas qu'il faut agir à contrecœur ni que l'inclination rend l'acte mauvais — il dit qu'elle ne suffit pas à en fonder la valeur.",
+      "tags": [
+        "piege",
+        "Kant"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, seul le résultat compte",
+          "Oui, un bon acte est toujours moral",
+          "Non, aucun acte n'a jamais de valeur morale"
+        ],
+        "medium": [
+          "Oui, à condition qu'il soit accompli volontairement",
+          "Oui, si son auteur en éprouve de la satisfaction",
+          "Non, car la morale ne juge que les intentions cachées"
+        ],
+        "hard": [
+          "Oui, car la conformité à la loi épuise l'exigence morale",
+          "Non, car tout acte accompli avec plaisir est nécessairement immoral",
+          "Oui, car l'intention est inaccessible et donc sans pertinence"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que Kant appelle la bonne volonté ?",
+      "verso": "La volonté qui veut le devoir pour lui-même, et qui est bonne sans restriction même si elle échoue à produire ce qu'elle visait",
+      "explanation": "Tout le reste — intelligence, courage, richesse — peut servir au pire. Seule la bonne volonté est bonne inconditionnellement. Son mérite ne dépend donc pas de la réussite, qui dépend en partie des circonstances.",
+      "tags": [
+        "notion",
+        "Kant"
+      ],
+      "distractors": {
+        "easy": [
+          "Le désir d'être aimé de tous",
+          "La volonté d'obtenir un bon résultat",
+          "La gentillesse naturelle"
+        ],
+        "medium": [
+          "La volonté de faire le bonheur du plus grand nombre",
+          "La disposition à obéir aux lois de son pays",
+          "La force de caractère qui permet de réussir"
+        ],
+        "hard": [
+          "La volonté qui réussit à produire le bien qu'elle vise",
+          "La volonté conforme à la loi par intérêt bien compris",
+          "La volonté déterminée par un sentiment de sympathie"
+        ]
+      }
+    },
+    {
+      "recto": "Ne pas confondre : qu'oppose-t-on entre un impératif hypothétique et un impératif catégorique ?",
+      "verso": "Le premier commande sous condition d'un but que l'on se donne, le second commande absolument, sans condition",
+      "explanation": "« Si tu veux être respecté, tiens tes promesses » est hypothétique : celui qui renonce au but échappe au commandement. « Tiens tes promesses » est catégorique : il oblige quel que soit le but poursuivi. Seul le second est proprement moral.",
+      "tags": [
+        "comparaison",
+        "Kant"
+      ],
+      "distractors": {
+        "easy": [
+          "Le premier est écrit, le second est oral",
+          "Le premier concerne le passé, le second l'avenir",
+          "Le premier est doux, le second est sévère"
+        ],
+        "medium": [
+          "Le premier commande absolument, le second sous condition",
+          "Le premier est moral, le second est technique",
+          "Le premier vaut pour tous, le second pour un seul"
+        ],
+        "hard": [
+          "Le premier est universel, le second particulier",
+          "Le second suppose un but extérieur à l'action",
+          "Le premier oblige indépendamment de toute fin visée"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la formule dite de la loi universelle de l'impératif catégorique ?",
+      "verso": "Agis uniquement d'après la maxime qui te permet de vouloir en même temps qu'elle devienne une loi universelle",
+      "explanation": "C'est un test de non-contradiction, non un calcul d'utilité. Une maxime comme « promettre sans tenir » se détruit si elle est universalisée : plus personne ne croirait aux promesses, donc promettre deviendrait impossible.",
+      "tags": [
+        "formule",
+        "Kant"
+      ],
+      "distractors": {
+        "easy": [
+          "Fais aux autres ce que tu voudrais qu'ils te fassent",
+          "Cherche toujours le plus grand bonheur",
+          "Obéis toujours à la loi de ton pays"
+        ],
+        "medium": [
+          "Agis de façon à produire le meilleur résultat possible",
+          "Suis la règle que la majorité approuverait",
+          "Agis selon ta conscience quelle qu'elle soit"
+        ],
+        "hard": [
+          "Agis de telle sorte que ta maxime soit acceptée par ceux qu'elle concerne",
+          "Agis en vue du bien commun avant ton bien propre",
+          "Agis selon la maxime la plus répandue dans ta communauté"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la formule dite de l'humanité comme fin en soi ?",
+      "verso": "Agis de telle sorte que tu traites l'humanité, en toi comme en autrui, toujours en même temps comme une fin et jamais simplement comme un moyen",
+      "explanation": "Le mot « simplement » est essentiel : il est légitime d'utiliser autrui comme moyen — c'est ce que fait tout échange — à condition de le reconnaître aussi comme sujet capable de consentir. Cette formule fonde la notion de dignité.",
+      "tags": [
+        "formule",
+        "Kant"
+      ],
+      "distractors": {
+        "easy": [
+          "N'utilise jamais personne pour quoi que ce soit",
+          "Traite tout le monde exactement de la même façon",
+          "Aime ton prochain comme toi-même"
+        ],
+        "medium": [
+          "Traite autrui comme un moyen à condition de le dédommager",
+          "Ne considère jamais tes propres intérêts",
+          "Traite chacun selon ce qu'il mérite"
+        ],
+        "hard": [
+          "Traite l'humanité en autrui comme une fin, en toi comme un moyen",
+          "Traite autrui toujours et exclusivement comme une fin",
+          "Traite chacun de manière à maximiser le bien collectif"
+        ]
+      }
+    },
+    {
+      "recto": "Que signifie l'affirmation kantienne selon laquelle la personne a une dignité et non un prix ?",
+      "verso": "Qu'elle n'a pas d'équivalent par lequel on pourrait la remplacer ou la compenser, contrairement à ce qui a un prix",
+      "explanation": "Ce qui a un prix peut être échangé contre autre chose d'égale valeur. La dignité désigne au contraire ce qui est au-dessus de tout prix, donc ce qui ne peut être ni vendu, ni troqué, ni sacrifié à un calcul.",
+      "tags": [
+        "notion",
+        "Kant"
+      ],
+      "distractors": {
+        "easy": [
+          "Qu'elle vaut très cher",
+          "Qu'elle mérite le respect des lois",
+          "Qu'elle ne doit pas travailler pour de l'argent"
+        ],
+        "medium": [
+          "Qu'elle a une valeur supérieure aux autres personnes",
+          "Que sa valeur dépend de ses mérites",
+          "Qu'elle ne peut être jugée par personne"
+        ],
+        "hard": [
+          "Que sa valeur est déterminée par son utilité sociale",
+          "Qu'elle peut être sacrifiée si le bien commun l'exige",
+          "Que son prix est fixé par le consentement d'autrui"
+        ]
+      }
+    },
+    {
+      "recto": "Comment le respect se distingue-t-il, chez Kant, des autres sentiments moraux ?",
+      "verso": "Il n'est pas reçu passivement comme une inclination : il est produit par la raison elle-même face à la loi morale",
+      "explanation": "C'est le seul sentiment que la morale kantienne admette, parce qu'il n'a pas une origine sensible. On respecte la loi, et la personne en tant qu'elle en est le siège, non ses qualités agréables.",
+      "tags": [
+        "notion",
+        "Kant"
+      ],
+      "distractors": {
+        "easy": [
+          "Il est une forme de peur",
+          "Il est une politesse extérieure",
+          "Il s'adresse aux personnes âgées"
+        ],
+        "medium": [
+          "Il est un sentiment agréable comme la sympathie",
+          "Il s'adresse aux qualités personnelles de chacun",
+          "Il est appris par l'éducation seulement"
+        ],
+        "hard": [
+          "Il est une inclination naturelle épurée par la raison",
+          "Il se confond avec l'admiration pour les grandes actions",
+          "Il dérive du sentiment de crainte devant la sanction"
+        ]
+      }
+    },
+    {
+      "recto": "Sur quoi les morales conséquentialistes fondent-elles la valeur d'un acte ?",
+      "verso": "Sur ses conséquences, et non sur le principe ou l'intention qui l'a produit",
+      "explanation": "Le renversement est complet par rapport à Kant : ce n'est plus le motif qui compte mais le résultat. Un mensonge devient acceptable s'il produit plus de bien qu'il n'en coûte.",
+      "tags": [
+        "école",
+        "conséquentialisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Sur l'intention de celui qui agit",
+          "Sur la loi divine",
+          "Sur la tradition"
+        ],
+        "medium": [
+          "Sur la conformité de l'acte à une règle universelle",
+          "Sur le caractère de celui qui agit",
+          "Sur le consentement de ceux qui subissent l'acte"
+        ],
+        "hard": [
+          "Sur la pureté du mobile qui détermine la volonté",
+          "Sur l'accord de l'acte avec la conscience morale du sujet",
+          "Sur la valeur intrinsèque de l'action indépendamment de ses effets"
+        ]
+      }
+    },
+    {
+      "recto": "Quel principe l'utilitarisme propose-t-il pour évaluer une action ?",
+      "verso": "Le principe de la plus grande utilité : est bonne l'action qui produit la plus grande quantité de bonheur pour le plus grand nombre",
+      "explanation": "L'utilitarisme a l'avantage de fournir un critère commun et de compter chacun pour un. Son coût est qu'il autorise en principe à sacrifier un individu si le calcul global l'exige.",
+      "tags": [
+        "école",
+        "utilitarisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Le principe du plaisir immédiat de celui qui agit",
+          "Le principe de l'obéissance aux lois",
+          "Le principe de l'égalité stricte des résultats"
+        ],
+        "medium": [
+          "Le principe de l'intention désintéressée",
+          "Le principe de non-contradiction de la maxime",
+          "Le principe du moindre effort"
+        ],
+        "hard": [
+          "Le principe du bonheur de l'agent lui-même avant tout",
+          "Le principe de la satisfaction des désirs les plus intenses",
+          "Le principe du respect inconditionnel des personnes"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle objection classique adresse-t-on à l'utilitarisme ?",
+      "verso": "Qu'il peut justifier de sacrifier une personne innocente si le calcul global des conséquences y trouve son compte",
+      "explanation": "L'objection porte sur la substituabilité : traiter les individus comme des quantités additionnables revient à leur ôter précisément ce que Kant appelait la dignité. C'est le point de friction entre les deux familles de morales.",
+      "tags": [
+        "objection",
+        "utilitarisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Qu'il est trop compliqué à appliquer",
+          "Qu'il a été inventé récemment",
+          "Qu'il ne parle pas du bonheur"
+        ],
+        "medium": [
+          "Qu'il ignore complètement les conséquences des actes",
+          "Qu'il repose sur une conception religieuse du bien",
+          "Qu'il interdit toute forme de calcul"
+        ],
+        "hard": [
+          "Qu'il confond la maxime de l'action avec sa formulation universelle",
+          "Qu'il rend impossible toute comparaison entre les biens",
+          "Qu'il fait dépendre la valeur de l'acte de l'intention seule"
+        ]
+      }
+    },
+    {
+      "recto": "Sur quoi la morale des vertus, issue d'Aristote, déplace-t-elle l'évaluation morale ?",
+      "verso": "Sur le caractère de celui qui agit, formé par l'habitude, plutôt que sur la règle suivie ou les conséquences obtenues",
+      "explanation": "La question n'est plus « que dois-je faire ? » mais « quel homme dois-je devenir ? ». La vertu est une disposition acquise par la répétition d'actes, ce qui donne à l'éducation un rôle central.",
+      "tags": [
+        "école",
+        "Aristote"
+      ],
+      "distractors": {
+        "easy": [
+          "Sur la loi écrite",
+          "Sur les résultats économiques",
+          "Sur les commandements religieux"
+        ],
+        "medium": [
+          "Sur l'universalité de la maxime",
+          "Sur le calcul du bonheur collectif",
+          "Sur le consentement des personnes concernées"
+        ],
+        "hard": [
+          "Sur la pureté du mobile au moment de l'acte",
+          "Sur la conformité de l'acte à une nature humaine fixée",
+          "Sur la spontanéité des sentiments moraux innés"
+        ]
+      }
+    },
+    {
+      "recto": "Comment Aristote définit-il la vertu par rapport aux excès ?",
+      "verso": "Comme un juste milieu entre deux extrêmes, déterminé par la raison et relatif à chaque situation",
+      "explanation": "Le courage se tient entre la lâcheté et la témérité, la générosité entre l'avarice et la prodigalité. Ce milieu n'est pas une moyenne arithmétique : il dépend des circonstances et de la personne.",
+      "tags": [
+        "notion",
+        "Aristote"
+      ],
+      "distractors": {
+        "easy": [
+          "Comme l'obéissance parfaite aux lois",
+          "Comme l'absence totale de passions",
+          "Comme le refus de tout plaisir"
+        ],
+        "medium": [
+          "Comme l'excès de la qualité recherchée",
+          "Comme la moyenne mathématique entre deux conduites",
+          "Comme un don naturel indépendant de l'habitude"
+        ],
+        "hard": [
+          "Comme un juste milieu identique pour tous les hommes",
+          "Comme la suppression de l'un des deux extrêmes",
+          "Comme une disposition innée que l'éducation ne modifie pas"
+        ]
+      }
+    },
+    {
+      "recto": "Quel rôle Rousseau attribue-t-il au sentiment dans la connaissance du devoir ?",
+      "verso": "La conscience, comme sentiment intérieur, indique le bien avant tout raisonnement savant",
+      "explanation": "Contre l'idée que la morale exige une science, Rousseau soutient que l'homme le plus simple sait ce qu'il doit faire. Le risque de cette position est de rendre la morale insensible à la critique rationnelle.",
+      "tags": [
+        "auteur",
+        "Rousseau"
+      ],
+      "distractors": {
+        "easy": [
+          "Aucun rôle : seul le raisonnement compte",
+          "Le sentiment trompe toujours",
+          "Le sentiment vient de l'éducation seule"
+        ],
+        "medium": [
+          "Le sentiment doit être corrigé par le calcul des conséquences",
+          "Le sentiment est le produit des lois de l'État",
+          "Le sentiment ne concerne que l'esthétique"
+        ],
+        "hard": [
+          "Le sentiment fournit la matière que la raison universalise ensuite",
+          "Le sentiment moral est une inclination sans valeur normative",
+          "Le sentiment n'apparaît qu'après l'entrée en société"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un conflit de devoirs ?",
+      "verso": "Une situation où deux obligations légitimes ne peuvent pas être satisfaites en même temps",
+      "explanation": "Le mensonge fait pour protéger une victime en est le cas type. Le conflit révèle que le devoir ne fournit pas toujours une solution automatique : il faut juger, et le jugement engage celui qui l'exerce.",
+      "tags": [
+        "problème",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Un désaccord entre deux personnes sur la morale",
+          "Une hésitation avant d'agir",
+          "Une opposition entre la loi et la coutume"
+        ],
+        "medium": [
+          "Une contradiction entre le devoir et l'intérêt",
+          "Un doute sur ce que la loi prescrit",
+          "Un désaccord entre la morale et la religion"
+        ],
+        "hard": [
+          "Une opposition entre une obligation et une contrainte extérieure",
+          "Une situation où aucune obligation ne s'applique",
+          "Une contradiction interne à une même maxime universalisée"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle position Kant adopte-t-il sur le mensonge, même prononcé pour sauver une vie ?",
+      "verso": "Il le refuse, au motif que l'interdiction de mentir ne souffre aucune exception sans se détruire elle-même",
+      "explanation": "Cette position, formulée dans un texte célèbre, est le point le plus contesté de sa morale : elle montre la rigueur d'une morale du principe, et son coût lorsque les conséquences sont désastreuses. Beaucoup de lecteurs y voient la limite du formalisme kantien.",
+      "tags": [
+        "cas",
+        "Kant"
+      ],
+      "distractors": {
+        "easy": [
+          "Il l'autorise sans réserve",
+          "Il n'aborde jamais cette question",
+          "Il le laisse à l'appréciation de chacun"
+        ],
+        "medium": [
+          "Il l'autorise si les conséquences sont bonnes",
+          "Il l'autorise quand la victime est innocente",
+          "Il le condamne uniquement s'il est découvert"
+        ],
+        "hard": [
+          "Il l'autorise comme exception fondée sur un devoir supérieur",
+          "Il le juge indifférent car l'intention seule compte",
+          "Il le condamne au nom du calcul des conséquences"
+        ]
+      }
+    },
+    {
+      "recto": "À quelle condition la désobéissance à une loi peut-elle être moralement justifiée ?",
+      "verso": "Lorsque la loi est légale mais illégitime, et que la désobéissance est publique et assume ses sanctions",
+      "explanation": "Cette exigence de publicité distingue la désobéissance civile de la simple infraction : le désobéissant reconnaît l'autorité du droit tout en contestant une loi précise au nom d'un principe supérieur.",
+      "tags": [
+        "politique",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Lorsque la loi ne nous plaît pas",
+          "Lorsque la sanction est faible",
+          "Lorsque personne ne nous voit"
+        ],
+        "medium": [
+          "Lorsque la majorité de la population la désapprouve",
+          "Lorsqu'elle nuit à nos intérêts personnels",
+          "Lorsqu'elle est difficile à appliquer"
+        ],
+        "hard": [
+          "Lorsque la désobéissance reste secrète pour éviter le désordre",
+          "Lorsqu'une loi étrangère prescrit le contraire",
+          "Lorsque la loi est légitime mais mal appliquée"
+        ]
+      }
+    },
+    {
+      "recto": "Quel nouveau devoir Hans Jonas propose-t-il à l'âge des techniques puissantes ?",
+      "verso": "Le devoir de répondre des conséquences lointaines de nos actes, y compris envers les générations futures",
+      "explanation": "Les morales traditionnelles supposaient des effets proches et réversibles. Quand l'action technique engage l'avenir de la biosphère, la responsabilité doit s'étendre à ceux qui ne peuvent pas se plaindre.",
+      "tags": [
+        "auteur",
+        "Jonas"
+      ],
+      "distractors": {
+        "easy": [
+          "Le devoir de produire davantage",
+          "Le devoir d'obéir aux experts",
+          "Le devoir de refuser toute technique"
+        ],
+        "medium": [
+          "Le devoir de maximiser le bonheur présent",
+          "Le devoir de préserver les traditions",
+          "Le devoir de partager également les richesses"
+        ],
+        "hard": [
+          "Le devoir de n'agir que sur des conséquences immédiatement prévisibles",
+          "Le devoir de subordonner l'avenir aux besoins présents",
+          "Le devoir de limiter la responsabilité aux personnes existantes"
+        ]
+      }
+    },
+    {
+      "recto": "Comment distinguer la responsabilité morale de la simple imputation juridique ?",
+      "verso": "L'imputation rattache un acte à son auteur pour appliquer une sanction, la responsabilité morale engage à répondre de ce que l'on a fait au-delà de ce que la loi exige",
+      "explanation": "On peut être juridiquement irréprochable et moralement en faute : la loi fixe un seuil, la morale ne s'y arrête pas. Inversement, une sanction peut frapper là où la responsabilité morale est faible.",
+      "tags": [
+        "distinction",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Elles sont identiques",
+          "La responsabilité morale est décidée par un tribunal",
+          "L'imputation juridique concerne les intentions"
+        ],
+        "medium": [
+          "La responsabilité morale se limite aux actes punis par la loi",
+          "L'imputation juridique dépend du remords éprouvé",
+          "La responsabilité morale ne concerne que les professionnels"
+        ],
+        "hard": [
+          "L'imputation juridique excède toujours la responsabilité morale",
+          "La responsabilité morale suppose nécessairement une sanction extérieure",
+          "L'imputation juridique porte sur le caractère et non sur l'acte"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi le devoir ne se confond-il pas avec la pression sociale ?",
+      "verso": "Parce qu'un devoir peut commander contre l'opinion de tous, alors que la pression sociale se contente de faire coïncider les conduites",
+      "explanation": "L'objection sociologique — nos devoirs viendraient de notre groupe — explique bien la genèse des règles mais non leur validité. Confondre les deux reviendrait à faire de la conformité le critère du bien.",
+      "tags": [
+        "objection",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que la société ne s'occupe pas de morale",
+          "Parce que la pression sociale n'existe pas",
+          "Parce que le devoir est écrit dans la loi"
+        ],
+        "medium": [
+          "Parce que la pression sociale est toujours injuste",
+          "Parce que le devoir est le même dans toutes les sociétés",
+          "Parce que la société n'a aucune influence sur les individus"
+        ],
+        "hard": [
+          "Parce que l'origine sociale d'une règle suffit à la fonder",
+          "Parce que la conformité aux usages garantit la validité morale",
+          "Parce que la pression sociale porte sur les intentions et non sur les actes"
+        ]
+      }
+    },
+    {
+      "recto": "Quel repère du programme éclaire la question de la fondation des devoirs ?",
+      "verso": "L'opposition entre l'origine et le fondement d'une règle",
+      "explanation": "Savoir d'où vient une obligation — l'éducation, l'histoire, le groupe — ne dit pas si elle est justifiée. Confondre les deux serait tirer sa validité de sa genèse.",
+      "tags": [
+        "repère",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Le repère croire / savoir",
+          "Le repère analyse / synthèse",
+          "Le repère genre / espèce / individu"
+        ],
+        "medium": [
+          "Le repère intuitif / discursif",
+          "Le repère cause / fin",
+          "Le repère universel / général"
+        ],
+        "hard": [
+          "Le repère essentiel / accidentel",
+          "Le repère transcendant / immanent",
+          "Le repère ressemblance / analogie"
+        ]
+      }
+    },
+    {
+      "recto": "Comment articuler une morale du principe et une morale des conséquences sans les opposer absolument ?",
+      "verso": "En tenant les principes pour des limites que le calcul ne doit pas franchir, et les conséquences pour ce dont on reste comptable à l'intérieur de ces limites",
+      "explanation": "Ignorer les conséquences rend la morale irresponsable ; les seules conséquences rendent tout négociable. La plupart des positions contemporaines cherchent une articulation plutôt qu'un choix exclusif.",
+      "tags": [
+        "synthèse",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Il faut choisir définitivement l'une des deux",
+          "Les deux disent exactement la même chose",
+          "Aucune des deux n'est défendable"
+        ],
+        "medium": [
+          "Il faut appliquer les principes aux cas simples et le calcul aux cas graves",
+          "Il suffit de suivre la morale de son époque",
+          "Il faut laisser chacun choisir sa morale sans discussion"
+        ],
+        "hard": [
+          "Il faut subordonner les principes au calcul dès que l'enjeu est collectif",
+          "Il faut abandonner les conséquences dès qu'un principe est en jeu, sans exception",
+          "Il faut réduire les principes à des règles utiles en moyenne"
+        ]
+      }
+    },
+    {
+      "recto": "Quel bilan peut-on dresser sur le devoir ?",
+      "verso": "Il désigne ce qui oblige sans contraindre : une exigence que le sujet reconnaît et qui suppose donc à la fois sa liberté et son jugement",
+      "explanation": "Le devoir n'est ni une force extérieure, ni un simple sentiment, ni une recette applicable mécaniquement. Il institue le sujet comme responsable, et lui laisse la charge de juger dans les cas où les règles se heurtent.",
+      "tags": [
+        "synthèse",
+        "bilan"
+      ],
+      "distractors": {
+        "easy": [
+          "C'est une contrainte imposée par la société",
+          "C'est un sentiment agréable",
+          "C'est une règle sans importance réelle"
+        ],
+        "medium": [
+          "C'est un ensemble de règles applicables sans jugement",
+          "C'est ce qui coïncide toujours avec notre intérêt",
+          "C'est une invention propre à certaines cultures"
+        ],
+        "hard": [
+          "C'est une nécessité qui supprime la liberté du sujet",
+          "C'est une exigence dont la validité dépend entièrement des résultats",
+          "C'est une obligation qui dispense de tout jugement particulier"
+        ]
+      }
+    }
+  ]
+}

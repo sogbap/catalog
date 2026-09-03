@@ -1,0 +1,640 @@
+{
+  "id": "enseignement-scientifique-terminale-biodiversite-evolution",
+  "title": "La biodiversité et son évolution",
+  "emoji": "🦋",
+  "subject": "science",
+  "country": "fr",
+  "courseDescription": "Niveaux de biodiversité, estimation par échantillonnage, dérive génétique et sélection naturelle : comment la diversité du vivant se mesure et se transforme.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>La biodiversité et son évolution</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · enseignement scientifique<br>\n  <b>Thème 3&nbsp;:</b> Une histoire du vivant<br>\n  <b>Chapitre 3.1</b> · environ 6 heures\n</div>\n\n<blockquote><p><b>Problématique.</b> Comment mesure-t-on quelque chose qu'on ne peut pas compter&nbsp;— et qui, de surcroît, change en permanence&nbsp;?</p></blockquote>\n\n<p>La biodiversité pose deux difficultés simultanées. D'abord une difficulté de <em>mesure</em>&nbsp;: personne ne peut dénombrer tous les individus d'un milieu, il faut donc échantillonner et assumer une incertitude. Ensuite une difficulté de <em>concept</em>&nbsp;: ce qu'on mesure n'est pas un état stable mais l'instantané d'une histoire évolutive qui continue. Ce chapitre articule les deux&nbsp;: comment on estime, et par quels mécanismes cela se transforme.</p>\n\n<h2>1 · Trois niveaux, pas un seul</h2>\n\n<p>La biodiversité se décline à trois échelles emboîtées&nbsp;:</p>\n\n<ul>\n  <li>La <strong>diversité génétique</strong> au sein d'une espèce&nbsp;— la variété des allèles présents dans une population.</li>\n  <li>La <strong>diversité des espèces</strong> dans un milieu.</li>\n  <li>La <strong>diversité des écosystèmes</strong> à l'échelle d'un territoire ou de la planète.</li>\n</ul>\n\n<p>Le premier niveau est le plus souvent oublié, et c'est le plus décisif&nbsp;: une population peut compter beaucoup d'individus tout en étant génétiquement homogène. Or c'est la diversité génétique qui constitue le <em>réservoir de variations</em> sur lequel la sélection peut agir face à un changement de milieu. La vulnérabilité d'une population ne se lit pas dans son effectif, mais dans sa variabilité.</p>\n\n<h2>2 · Estimer sans compter</h2>\n\n<p>Le comptage exhaustif étant matériellement impossible, on mesure sur un <strong>échantillon</strong> et on extrapole. La méthode emblématique est celle de <strong>capture, marquage et recapture</strong>&nbsp;: on marque un premier lot, on en capture un second, et la proportion d'individus marqués retrouvés donne une estimation de l'effectif total.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 186\" role=\"img\" aria-label=\"Méthode de capture marquage recapture : on capture un premier lot d'individus qu'on marque puis qu'on relâche, on laisse les individus se mélanger dans la population, on capture ensuite un second lot et la proportion d'individus marqués qu'il contient permet d'estimer l'effectif total de la population ; la méthode suppose une population fermée, un marquage sans effet sur la survie et un mélange complet entre les deux captures\">\n    <rect x=\"12\" y=\"12\" width=\"96\" height=\"46\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"60\" y=\"30\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">1. MARQUER</text>\n    <text x=\"60\" y=\"46\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">un premier lot</text>\n    <line x1=\"110\" y1=\"35\" x2=\"124\" y2=\"35\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-tes31)\"/>\n    <rect x=\"126\" y=\"12\" width=\"96\" height=\"46\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"174\" y=\"30\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">2. MÉLANGER</text>\n    <text x=\"174\" y=\"46\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">relâcher, attendre</text>\n    <line x1=\"224\" y1=\"35\" x2=\"238\" y2=\"35\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-tes31)\"/>\n    <rect x=\"240\" y=\"12\" width=\"88\" height=\"46\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".40\" stroke=\"var(--accent)\" stroke-opacity=\".7\"/>\n    <text x=\"284\" y=\"30\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">3. RECAPTURER</text>\n    <text x=\"284\" y=\"46\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">compter les marqués</text>\n    <line x1=\"170\" y1=\"66\" x2=\"170\" y2=\"78\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-tes31)\"/>\n    <rect x=\"60\" y=\"82\" width=\"220\" height=\"32\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"170\" y=\"102\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">estimation de l'effectif total</text>\n    <line x1=\"8\" y1=\"128\" x2=\"332\" y2=\"128\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"146\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">Trois hypothèses fortes</text>\n    <text x=\"8\" y=\"162\" font-size=\"9\" fill=\"currentColor\">Population fermée, marquage sans effet sur la survie,</text>\n    <text x=\"8\" y=\"176\" font-size=\"9\" fill=\"currentColor\">mélange complet entre les deux captures.</text>\n    <defs>\n      <marker id=\"ar-tes31\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n  </svg>\n  <figcaption>Une estimation vaut ce que valent ses hypothèses&nbsp;— toujours les vérifier avant d'interpréter le chiffre.</figcaption>\n</figure>\n\n<p>Toute estimation s'accompagne d'un <strong>intervalle de confiance</strong>&nbsp;: un intervalle qui encadre la valeur réelle avec un niveau de certitude donné. Sa largeur varie comme l'<em>inverse de la racine carrée</em> de l'effectif échantillonné&nbsp;: multiplier l'échantillon par quatre ne divise la largeur que par deux. La précision coûte cher, ce qui explique les compromis de terrain — et pourquoi une valeur donnée sans intervalle n'a aucune valeur scientifique.</p>\n\n<p>Repère à retenir&nbsp;: environ <strong>2 millions d'espèces décrites</strong>, pour un total souvent estimé entre 8 et 10 millions. L'écart entre le connu et l'estimé dit à lui seul l'état de l'inventaire.</p>\n\n<h2>3 · Deux moteurs, un seul réservoir</h2>\n\n<p>Trois mécanismes agissent simultanément sur les fréquences alléliques d'une population&nbsp;:</p>\n\n<ul>\n  <li>La <strong>mutation</strong> crée de nouveaux allèles, <em>au hasard</em>, indépendamment de leur utilité.</li>\n  <li>La <strong>sélection naturelle</strong> modifie leur fréquence selon leur effet sur la survie et la reproduction.</li>\n  <li>La <strong>dérive génétique</strong> la modifie <em>au hasard</em>, par simple fluctuation d'échantillonnage d'une génération à l'autre.</li>\n</ul>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Comparaison entre sélection naturelle et dérive génétique : la sélection naturelle trie les allèles selon leur effet sur la survie et la reproduction, elle est donc orientée par le milieu et peut faire progresser un allèle avantageux ; la dérive génétique fait varier les fréquences alléliques par pur hasard d'échantillonnage, elle n'est orientée par rien et peut donc fixer un allèle défavorable, son effet étant d'autant plus fort que la population est de petit effectif\">\n    <rect x=\"12\" y=\"12\" width=\"150\" height=\"96\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".30\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"87\" y=\"32\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">SÉLECTION</text>\n    <text x=\"87\" y=\"45\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">NATURELLE</text>\n    <text x=\"87\" y=\"64\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">tri selon l'effet sur</text>\n    <text x=\"87\" y=\"76\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">survie et reproduction</text>\n    <text x=\"87\" y=\"96\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">orientée par le milieu</text>\n    <rect x=\"178\" y=\"12\" width=\"150\" height=\"96\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"253\" y=\"32\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">DÉRIVE</text>\n    <text x=\"253\" y=\"45\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">GÉNÉTIQUE</text>\n    <text x=\"253\" y=\"64\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">fluctuation aléatoire</text>\n    <text x=\"253\" y=\"76\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">d'échantillonnage</text>\n    <text x=\"253\" y=\"96\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">orientée par rien</text>\n    <line x1=\"8\" y1=\"124\" x2=\"332\" y2=\"124\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"142\" font-size=\"9\" fill=\"currentColor\">La dérive peut fixer un allèle DÉFAVORABLE.</text>\n    <text x=\"8\" y=\"158\" font-size=\"9\" fill=\"currentColor\">Son effet est d'autant plus fort que la population est petite :</text>\n    <text x=\"8\" y=\"172\" font-size=\"9\" fill=\"currentColor\">d'où l'appauvrissement rapide des populations réduites.</text>\n    <text x=\"8\" y=\"188\" font-size=\"8\" class=\"s-muted\">Aucun des deux ne crée de variation : seule la mutation le fait.</text>\n  </svg>\n  <figcaption>Attribuer tout changement évolutif à la sélection est l'erreur d'interprétation la plus répandue.</figcaption>\n</figure>\n\n<p>Point capital&nbsp;: <strong>la sélection ne crée rien</strong>. Elle trie des variations préexistantes, apparues au hasard. La <em>résistance aux antibiotiques</em> en est la démonstration la plus nette&nbsp;: l'antibiotique ne provoque pas la mutation, il élimine les bactéries sensibles et laisse se multiplier celles qui portaient déjà la résistance. Comme les bactéries ont un temps de génération très court et des populations immenses, ce processus s'observe en quelques jours — l'évolution n'est donc pas une reconstitution du passé, c'est un phénomène testable.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Goulot d'étranglement</strong><br>\n  Réduction brutale de l'effectif d'une population, qui appauvrit <em>durablement</em> sa diversité génétique. La diversité perdue ne revient pas avec les individus&nbsp;: seule l'accumulation lente de nouvelles mutations peut la reconstituer.\n</div>\n\n<p>Quand l'isolement se prolonge, deux groupes divergent jusqu'à ne plus pouvoir se reproduire entre eux&nbsp;: c'est la <strong>spéciation</strong>. Elle s'appuie sur la définition classique de l'<em>espèce</em> — ensemble d'individus interféconds dont la descendance est elle-même féconde —, définition utile mais imparfaite, inapplicable aux organismes asexués comme aux fossiles.</p>\n\n<h2>4 · Crises passées, crise en cours</h2>\n\n<p>L'histoire de la vie compte <strong>cinq crises biologiques majeures</strong>, reconnaissables dans les archives fossiles à la disparition rapide et simultanée de nombreux groupes, suivie de la diversification des survivants. La plus connue, à la limite Crétacé-Paléogène il y a 66 millions d'années, ouvre la voie à l'essor des mammifères.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 176\" role=\"img\" aria-label=\"Les cinq crises biologiques majeures de l'histoire de la vie situées sur une frise, de la crise de l'Ordovicien il y a 444 millions d'années à celle du Crétacé Paléogène il y a 66 millions d'années qui voit disparaître les dinosaures non aviens, suivies de la crise actuelle attribuée aux activités humaines et dont la rapidité se mesure à l'échelle du siècle et non du million d'années\">\n    <line x1=\"30\" y1=\"14\" x2=\"30\" y2=\"140\" stroke=\"currentColor\" stroke-opacity=\".25\" stroke-width=\"1.5\"/>\n    <circle cx=\"30\" cy=\"22\" r=\"4\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"26\" font-size=\"9\" fill=\"currentColor\"><tspan font-weight=\"bold\" fill=\"var(--accent)\">−444 Ma</tspan>  Ordovicien</text>\n    <circle cx=\"30\" cy=\"46\" r=\"4\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"50\" font-size=\"9\" fill=\"currentColor\"><tspan font-weight=\"bold\" fill=\"var(--accent)\">−372 Ma</tspan>  Dévonien</text>\n    <circle cx=\"30\" cy=\"70\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"74\" font-size=\"9\" fill=\"currentColor\"><tspan font-weight=\"bold\" fill=\"var(--accent)\">−252 Ma</tspan>  Permien — la plus sévère</text>\n    <circle cx=\"30\" cy=\"94\" r=\"4\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"98\" font-size=\"9\" fill=\"currentColor\"><tspan font-weight=\"bold\" fill=\"var(--accent)\">−201 Ma</tspan>  Trias</text>\n    <circle cx=\"30\" cy=\"118\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"122\" font-size=\"9\" fill=\"currentColor\"><tspan font-weight=\"bold\" fill=\"var(--accent)\">−66 Ma</tspan>  Crétacé-Paléogène</text>\n    <circle cx=\"30\" cy=\"140\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"144\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">Aujourd'hui — cause humaine</text>\n    <text x=\"8\" y=\"166\" font-size=\"9\" fill=\"currentColor\">Ce qui distingue la crise actuelle : sa cause, et son échelle de temps</text>\n    <text x=\"8\" y=\"176\" font-size=\"9\" class=\"s-muted\">— le siècle, non le million d'années.</text>\n  </svg>\n  <figcaption>La sixième crise n'est pas nommée ainsi par analogie&nbsp;: c'est le rythme d'extinction mesuré qui la qualifie.</figcaption>\n</figure>\n\n<p>Les causes actuelles sont connues et hiérarchisées&nbsp;: <strong>destruction et fragmentation des habitats</strong> (cause dominante), <strong>surexploitation</strong>, <strong>pollutions</strong>, <strong>espèces invasives</strong>, <strong>changement climatique</strong> — dont le poids relatif croît rapidement.</p>\n\n<p>La <strong>fragmentation</strong> mérite une attention particulière&nbsp;: elle isole des populations de petit effectif, donc exposées à la dérive et à la perte de diversité, <em>même si la surface totale d'habitat reste importante</em>. C'est la raison d'être des corridors écologiques, qui rétablissent les échanges entre populations.</p>\n\n<p>La notion de <strong>service écosystémique</strong> — pollinisation, régulation du climat, épuration de l'eau — rend visible la dépendance des sociétés à la biodiversité. Elle ne recouvre pas pour autant toutes les raisons de la protéger.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Repères chronologiques</h3>\n\n<table>\n  <tr><th>Date</th><th>Crise biologique</th></tr>\n  <tr><td>−444 Ma</td><td>Fin de l'Ordovicien</td></tr>\n  <tr><td>−372 Ma</td><td>Dévonien</td></tr>\n  <tr><td>−252 Ma</td><td>Permien-Trias, la plus sévère</td></tr>\n  <tr><td>−201 Ma</td><td>Fin du Trias</td></tr>\n  <tr><td>−66 Ma</td><td>Crétacé-Paléogène</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition en une ligne</th></tr>\n  <tr><td>Diversité génétique</td><td>Variété des allèles au sein d'une espèce</td></tr>\n  <tr><td>Sélection naturelle</td><td>Tri des allèles selon leur effet reproductif</td></tr>\n  <tr><td>Dérive génétique</td><td>Variation aléatoire des fréquences alléliques</td></tr>\n  <tr><td>Goulot d'étranglement</td><td>Chute d'effectif appauvrissant durablement la diversité</td></tr>\n  <tr><td>Spéciation</td><td>Divergence de deux groupes devenus non interféconds</td></tr>\n</table>\n\n<h3>Chiffres à retenir</h3>\n\n<table>\n  <tr><th>Grandeur</th><th>Valeur</th></tr>\n  <tr><td>Espèces décrites</td><td>environ 2 millions</td></tr>\n  <tr><td>Espèces estimées</td><td>souvent 8 à 10 millions</td></tr>\n  <tr><td>Crises majeures passées</td><td>5</td></tr>\n  <tr><td>Précision d'une estimation</td><td>varie en racine carrée de l'effectif</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Confondre <strong>sélection naturelle</strong> et <strong>dérive génétique</strong>. La sélection trie les allèles selon leur effet sur la survie et la reproduction&nbsp;: elle est orientée par le milieu. La dérive fait varier leurs fréquences par <em>pur hasard</em> d'échantillonnage, et peut donc fixer un allèle <em>défavorable</em> — d'autant plus facilement que la population est petite. Piège voisin&nbsp;: croire que le milieu «&nbsp;provoque&nbsp;» les mutations utiles. Les mutations surviennent au hasard&nbsp;; la sélection ne fait que trier ce qui existe déjà.\n</div>\n\n<blockquote><p>La biodiversité actuelle n'est pas un état à conserver intact&nbsp;: c'est l'instantané d'une histoire qui continue. Ce n'est pas le changement qui fait problème, c'est sa vitesse.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Une histoire du vivant",
+  "cards": [
+    {
+      "recto": "Piège classique : ne pas confondre la sélection naturelle et la dérive génétique. Qu'est-ce qui les sépare ?",
+      "verso": "La sélection naturelle trie les allèles selon leur effet sur la survie et la reproduction, tandis que la dérive génétique fait varier leurs fréquences par pur hasard d'échantillonnage",
+      "explanation": "La dérive peut donc fixer un allèle défavorable, surtout dans les petites populations. Attribuer tout changement évolutif à la sélection est l'erreur d'interprétation la plus répandue.",
+      "tags": [
+        "évolution",
+        "piege"
+      ],
+      "distractors": {
+        "easy": [
+          "La sélection concerne les animaux, la dérive les végétaux",
+          "La sélection est rapide, la dérive est impossible à observer",
+          "Ce sont deux noms pour le même mécanisme"
+        ],
+        "medium": [
+          "La sélection agit au hasard, la dérive selon l'avantage reproductif",
+          "La sélection concerne les individus, la dérive les espèces entières",
+          "La sélection modifie les gènes, la dérive modifie les caractères"
+        ],
+        "hard": [
+          "La sélection naturelle est aléatoire mais orientée, la dérive est déterministe",
+          "La dérive génétique ne peut fixer que des allèles favorables",
+          "La sélection agit dans les petites populations, la dérive dans les grandes"
+        ]
+      }
+    },
+    {
+      "recto": "Quels sont les trois niveaux de la biodiversité ?",
+      "verso": "La diversité génétique au sein d'une espèce, la diversité des espèces et la diversité des écosystèmes",
+      "explanation": "Une population peut compter beaucoup d'individus tout en présentant une diversité génétique très faible, ce qui la rend vulnérable : compter les espèces ne suffit pas.",
+      "tags": [
+        "biodiversité",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Les animaux, les végétaux et les champignons",
+          "La terre, l'eau et l'air",
+          "Le passé, le présent et le futur du vivant"
+        ],
+        "medium": [
+          "La diversité des individus, des familles et des ordres",
+          "La diversité des couleurs, des formes et des tailles",
+          "La diversité des continents, des climats et des saisons"
+        ],
+        "hard": [
+          "La diversité génétique, la diversité des populations et celle des biomes",
+          "La diversité des allèles, des gènes et des chromosomes",
+          "La diversité des espèces, des genres et des règnes"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la diversité génétique d'une population est-elle importante ?",
+      "verso": "Parce qu'elle constitue le réservoir de variations sur lequel la sélection naturelle peut agir face à un changement de milieu",
+      "explanation": "Une population génétiquement homogène est incapable de répondre à une pression nouvelle : sa vulnérabilité ne dépend pas de son effectif mais de sa variabilité.",
+      "tags": [
+        "biodiversité",
+        "génétique"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'elle rend les individus plus beaux",
+          "Parce qu'elle augmente le nombre d'individus",
+          "Parce qu'elle permet aux animaux de se reconnaître"
+        ],
+        "medium": [
+          "Parce qu'elle garantit que tous les individus survivront",
+          "Parce qu'elle empêche l'apparition de nouvelles mutations",
+          "Parce qu'elle accélère la reproduction des individus"
+        ],
+        "hard": [
+          "Parce qu'elle empêche la dérive génétique d'agir sur la population",
+          "Parce qu'elle garantit l'adaptation immédiate à tout nouveau milieu",
+          "Parce qu'elle réduit le nombre d'allèles défavorables dans la population"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi doit-on estimer la biodiversité par échantillonnage plutôt que par comptage exhaustif ?",
+      "verso": "Parce qu'il est matériellement impossible de dénombrer tous les individus d'un milieu, ce qui impose de mesurer sur un échantillon et d'extrapoler",
+      "explanation": "L'estimation s'accompagne alors d'une incertitude qu'il faut quantifier : donner une valeur sans intervalle de confiance n'a aucune valeur scientifique.",
+      "tags": [
+        "échantillonnage",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que compter prend trop de temps aux chercheurs",
+          "Parce que les animaux se déplacent trop vite",
+          "Parce que les scientifiques préfèrent les estimations"
+        ],
+        "medium": [
+          "Parce que le comptage exhaustif détruirait le milieu étudié",
+          "Parce que la loi interdit de capturer tous les individus",
+          "Parce que l'échantillonnage donne un résultat exact et non approché"
+        ],
+        "hard": [
+          "Parce que l'échantillonnage supprime toute incertitude sur le résultat",
+          "Parce que le comptage exhaustif serait possible mais donnerait le même résultat",
+          "Parce que l'extrapolation est plus fiable qu'une mesure directe"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi consiste la méthode de capture, marquage et recapture ?",
+      "verso": "On capture et marque un premier lot d'individus, puis on en capture un second et on estime l'effectif total à partir de la proportion d'individus marqués retrouvés",
+      "explanation": "Elle repose sur des hypothèses fortes : population fermée, marquage sans effet sur la survie, mélange complet des individus entre les deux captures.",
+      "tags": [
+        "échantillonnage",
+        "technique"
+      ],
+      "distractors": {
+        "easy": [
+          "On compte tous les individus deux fois de suite",
+          "On photographie les animaux puis on les relâche",
+          "On capture les individus et on les élève en laboratoire"
+        ],
+        "medium": [
+          "On marque tous les individus d'une zone puis on les recompte chaque année",
+          "On estime l'effectif à partir de la surface du territoire occupé",
+          "On compare le nombre d'individus capturés à celui d'une autre espèce"
+        ],
+        "hard": [
+          "On capture deux lots successifs et on multiplie leurs effectifs",
+          "On estime l'effectif à partir du nombre d'individus marqués relâchés uniquement",
+          "On marque un lot et on estime l'effectif par la proportion de non marqués recapturés"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un intervalle de confiance dans une estimation biologique ?",
+      "verso": "Un intervalle qui encadre la valeur réelle avec un niveau de certitude donné, dont la largeur diminue quand la taille de l'échantillon augmente",
+      "explanation": "Multiplier par quatre la taille de l'échantillon divise environ par deux la largeur de l'intervalle : la précision coûte cher, ce qui explique les compromis de terrain.",
+      "tags": [
+        "échantillonnage",
+        "statistiques"
+      ],
+      "distractors": {
+        "easy": [
+          "Le temps pendant lequel une expérience reste valable",
+          "La distance entre deux points de mesure sur le terrain",
+          "Le degré de confiance des chercheurs entre eux"
+        ],
+        "medium": [
+          "L'écart entre la valeur mesurée et la valeur souhaitée",
+          "La marge d'erreur des instruments de mesure utilisés",
+          "L'intervalle de temps entre deux échantillonnages successifs"
+        ],
+        "hard": [
+          "Un intervalle qui contient la valeur réelle avec certitude absolue",
+          "Un intervalle dont la largeur augmente avec la taille de l'échantillon",
+          "Un intervalle qui encadre la moyenne de l'échantillon et non la valeur réelle"
+        ]
+      }
+    },
+    {
+      "recto": "Comment la taille de l'échantillon influence-t-elle la précision d'une estimation ?",
+      "verso": "La précision augmente avec la taille de l'échantillon, mais de façon décroissante, la largeur de l'intervalle variant comme l'inverse de la racine carrée de l'effectif",
+      "explanation": "Cette loi explique pourquoi les grands échantillons deviennent vite peu rentables : chaque gain de précision supplémentaire exige un effort disproportionné.",
+      "tags": [
+        "échantillonnage",
+        "statistiques"
+      ],
+      "distractors": {
+        "easy": [
+          "La précision ne dépend pas de la taille de l'échantillon",
+          "La précision diminue quand l'échantillon grandit",
+          "La précision double à chaque individu supplémentaire"
+        ],
+        "medium": [
+          "La précision augmente proportionnellement à la taille de l'échantillon",
+          "La précision augmente comme le carré de la taille de l'échantillon",
+          "La précision devient parfaite au-delà de cent individus"
+        ],
+        "hard": [
+          "La largeur de l'intervalle varie comme l'inverse de l'effectif",
+          "La largeur de l'intervalle varie comme la racine carrée de l'effectif",
+          "La précision augmente comme le logarithme de l'effectif"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que la sélection naturelle ?",
+      "verso": "Le processus par lequel les individus porteurs de caractères avantageux dans un milieu donné laissent en moyenne plus de descendants, ce qui modifie les fréquences alléliques au fil des générations",
+      "explanation": "Elle n'agit pas sur les individus mais sur les fréquences dans les populations, et elle ne crée pas de variations : elle trie celles qui existent déjà.",
+      "tags": [
+        "évolution",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le fait que les animaux choisissent leur environnement",
+          "La sélection des espèces les plus utiles par l'être humain",
+          "La survie des individus les plus forts physiquement"
+        ],
+        "medium": [
+          "L'apparition de mutations avantageuses en réponse au milieu",
+          "L'adaptation individuelle d'un organisme à son environnement au cours de sa vie",
+          "La disparition progressive des espèces les moins nombreuses"
+        ],
+        "hard": [
+          "Le processus par lequel le milieu provoque les variations dont il a besoin",
+          "Le tri des individus selon leur longévité individuelle uniquement",
+          "Le processus par lequel les caractères acquis se transmettent à la descendance"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la sélection naturelle ne crée-t-elle pas les mutations dont une population a besoin ?",
+      "verso": "Parce que les mutations surviennent au hasard, indépendamment de leur utilité, et que la sélection ne fait ensuite que trier celles qui existent",
+      "explanation": "C'est la distinction entre le hasard de la variation et l'orientation du tri. La confondre conduit à l'idée fausse d'une nature qui s'adapte volontairement.",
+      "tags": [
+        "évolution",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les mutations sont toujours nuisibles",
+          "Parce que les mutations n'existent que chez les bactéries",
+          "Parce que la nature ne peut pas prévoir l'avenir des espèces"
+        ],
+        "medium": [
+          "Parce que les mutations apparaissent seulement quand le milieu change",
+          "Parce que la sélection agit avant l'apparition des mutations",
+          "Parce que les mutations utiles sont produites en priorité par les organismes"
+        ],
+        "hard": [
+          "Parce que les mutations surviennent au hasard mais leur fréquence augmente sous stress dirigé",
+          "Parce que la sélection crée les variations puis les trie dans un second temps",
+          "Parce que seules les mutations neutres apparaissent spontanément"
+        ]
+      }
+    },
+    {
+      "recto": "Dans quel type de population la dérive génétique a-t-elle le plus d'effet ?",
+      "verso": "Dans les populations de petit effectif, où les fluctuations aléatoires des fréquences alléliques d'une génération à l'autre sont proportionnellement plus fortes",
+      "explanation": "C'est pourquoi les populations réduites perdent rapidement de la diversité génétique, ce qui aggrave leur vulnérabilité et complique leur conservation.",
+      "tags": [
+        "dérive",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Dans les populations les plus nombreuses",
+          "Dans les populations vivant en altitude",
+          "Dans les populations d'animaux uniquement"
+        ],
+        "medium": [
+          "Dans les populations soumises à une forte pression de sélection",
+          "Dans les populations en croissance rapide",
+          "Dans les populations où les mutations sont fréquentes"
+        ],
+        "hard": [
+          "Dans les populations de grand effectif mais isolées géographiquement",
+          "Dans les populations dont la diversité génétique est déjà maximale",
+          "Dans les populations où la reproduction est exclusivement sexuée"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : qu'est-ce qui distingue une mutation, la sélection naturelle et la dérive génétique dans l'évolution d'une population ?",
+      "verso": "La mutation crée de nouveaux allèles, la sélection naturelle modifie leur fréquence selon leur effet sur la reproduction, la dérive la modifie au hasard indépendamment de cet effet",
+      "explanation": "Les trois agissent simultanément : c'est leur combinaison, et non un mécanisme unique, qui explique l'évolution des fréquences alléliques.",
+      "tags": [
+        "évolution",
+        "comparaison"
+      ],
+      "distractors": {
+        "easy": [
+          "La mutation tue les individus, la sélection les sauve, la dérive les déplace",
+          "Les trois désignent la même chose vue à trois échelles",
+          "La mutation concerne les gènes, la sélection les espèces, la dérive les continents"
+        ],
+        "medium": [
+          "La mutation trie les allèles, la sélection en crée de nouveaux, la dérive les conserve",
+          "La mutation agit au hasard, la sélection aussi, seule la dérive est orientée",
+          "La sélection crée les allèles, la mutation les trie, la dérive les élimine"
+        ],
+        "hard": [
+          "La mutation crée des allèles, la dérive les trie selon leur avantage, la sélection au hasard",
+          "La mutation et la dérive sont orientées, seule la sélection est aléatoire",
+          "La mutation modifie les fréquences, la sélection crée les allèles, la dérive les fixe"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on un goulot d'étranglement en génétique des populations ?",
+      "verso": "Une réduction brutale et importante de l'effectif d'une population, qui appauvrit durablement sa diversité génétique même si l'effectif se rétablit ensuite",
+      "explanation": "La diversité perdue ne revient pas avec les individus : seule l'accumulation lente de nouvelles mutations peut la reconstituer, sur de très longues durées.",
+      "tags": [
+        "dérive",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Un passage étroit que les animaux doivent franchir lors de leur migration",
+          "Une maladie qui touche la gorge des animaux",
+          "Un obstacle géographique séparant deux populations"
+        ],
+        "medium": [
+          "Une croissance brutale de la population qui dilue la diversité génétique",
+          "Une période où les mutations deviennent plus fréquentes",
+          "Une sélection intense éliminant les individus les moins adaptés"
+        ],
+        "hard": [
+          "Une réduction d'effectif dont les effets génétiques disparaissent dès le rétablissement",
+          "Une réduction d'effectif qui augmente la diversité génétique par concentration",
+          "Un isolement reproductif conduisant à la formation d'une nouvelle espèce"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que la spéciation ?",
+      "verso": "Le processus par lequel une population se scinde en deux groupes qui, cessant de pouvoir se reproduire entre eux, forment deux espèces distinctes",
+      "explanation": "L'isolement, souvent géographique au départ, permet aux deux groupes de diverger génétiquement jusqu'à ce que la reproduction entre eux devienne impossible.",
+      "tags": [
+        "évolution",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le fait de donner un nom scientifique à une espèce",
+          "La disparition d'une espèce animale",
+          "Le classement des espèces dans un musée"
+        ],
+        "medium": [
+          "L'adaptation d'une espèce à un nouveau milieu sans changement de nom",
+          "La fusion de deux espèces voisines en une seule",
+          "L'apparition de nouvelles variétés au sein d'une même espèce"
+        ],
+        "hard": [
+          "Le processus par lequel deux espèces distinctes redeviennent interfécondes",
+          "La scission d'une population en deux groupes restant interféconds",
+          "Le remplacement progressif d'une espèce par une autre dans un écosystème"
+        ]
+      }
+    },
+    {
+      "recto": "Comment définit-on classiquement une espèce en biologie ?",
+      "verso": "Comme un ensemble d'individus capables de se reproduire entre eux et d'engendrer une descendance elle-même féconde",
+      "explanation": "Cette définition ne s'applique pas aux organismes à reproduction asexuée ni aux fossiles, ce qui montre que la notion d'espèce est une construction utile mais imparfaite.",
+      "tags": [
+        "espèce",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Un ensemble d'individus vivant au même endroit",
+          "Un groupe d'animaux de la même couleur",
+          "L'ensemble des êtres vivants d'une même taille"
+        ],
+        "medium": [
+          "Un ensemble d'individus ayant exactement le même patrimoine génétique",
+          "Un groupe d'organismes classés ensemble par convention",
+          "Un ensemble d'individus qui se ressemblent physiquement"
+        ],
+        "hard": [
+          "Un ensemble d'individus interféconds dont la descendance peut être stérile",
+          "Un ensemble d'individus partageant un même ancêtre commun récent",
+          "Un groupe d'individus occupant la même niche écologique"
+        ]
+      }
+    },
+    {
+      "recto": "Combien d'espèces ont été décrites à ce jour et combien en existerait-il ?",
+      "verso": "Environ 2 millions d'espèces décrites, pour un total estimé souvent entre 8 et 10 millions, voire davantage selon les méthodes",
+      "explanation": "L'écart considérable entre le connu et l'estimé rappelle que la biodiversité est en grande partie inventoriée par extrapolation, avec une forte incertitude.",
+      "tags": [
+        "biodiversité",
+        "chiffres"
+      ],
+      "distractors": {
+        "easy": [
+          "Environ mille espèces décrites, mille estimées",
+          "Toutes les espèces sont désormais connues",
+          "Environ un million d'espèces au total, toutes décrites"
+        ],
+        "medium": [
+          "Environ 200 000 décrites pour un million estimé",
+          "Environ 10 millions décrites pour 12 millions estimées",
+          "Environ 500 000 décrites pour 2 millions estimées"
+        ],
+        "hard": [
+          "Environ 2 millions décrites pour un total estimé à 3 millions",
+          "Environ 2 millions décrites pour un total estimé à 100 millions",
+          "Environ 8 millions décrites pour 10 millions estimées"
+        ]
+      }
+    },
+    {
+      "recto": "Combien de crises biologiques majeures l'histoire de la vie a-t-elle connues ?",
+      "verso": "Cinq crises majeures reconnues, marquées par la disparition d'une grande part des espèces en un temps géologiquement très court",
+      "explanation": "Elles servent de bornes aux ères géologiques. La plus connue, à la limite Crétacé-Paléogène il y a 66 millions d'années, a vu disparaître les dinosaures non aviens.",
+      "tags": [
+        "crises",
+        "chiffres"
+      ],
+      "distractors": {
+        "easy": [
+          "Une seule, celle des dinosaures",
+          "Aucune, la vie a toujours progressé",
+          "Une centaine de crises successives"
+        ],
+        "medium": [
+          "Trois crises majeures",
+          "Dix crises majeures",
+          "Deux crises, l'une ancienne et l'autre actuelle"
+        ],
+        "hard": [
+          "Cinq crises, toutes situées après l'apparition des dinosaures",
+          "Six crises majeures reconnues avant l'époque actuelle",
+          "Cinq crises, dont la dernière il y a 2,4 milliards d'années"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qui caractérise une crise biologique dans les archives fossiles ?",
+      "verso": "La disparition rapide et simultanée de nombreux groupes d'organismes, suivie d'une diversification des groupes survivants",
+      "explanation": "Chaque crise redistribue les rôles écologiques : l'essor des mammifères après la disparition des grands dinosaures en est l'illustration la plus connue.",
+      "tags": [
+        "crises",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "L'apparition soudaine de fossiles très nombreux",
+          "Une couche de roche particulièrement épaisse",
+          "L'absence totale de fossiles pendant une longue période"
+        ],
+        "medium": [
+          "La disparition d'une seule espèce dominante",
+          "Un changement progressif de la faune sur des dizaines de millions d'années",
+          "L'augmentation du nombre d'espèces dans toutes les couches"
+        ],
+        "hard": [
+          "La disparition rapide de nombreux groupes sans diversification ultérieure",
+          "Le remplacement d'une faune par une autre sans extinction préalable",
+          "La disparition progressive des groupes les moins diversifiés uniquement"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi parle-t-on d'une sixième crise biologique en cours ?",
+      "verso": "Parce que le rythme actuel d'extinction des espèces est très supérieur au rythme moyen observé dans les archives géologiques, et qu'il est attribuable aux activités humaines",
+      "explanation": "La différence avec les crises passées tient à la cause, humaine, et à la rapidité : le phénomène se déroule à l'échelle du siècle et non du million d'années.",
+      "tags": [
+        "crises",
+        "actualité"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les animaux sont plus rares dans les villes",
+          "Parce que le climat change chaque année",
+          "Parce que les zoos ferment progressivement"
+        ],
+        "medium": [
+          "Parce que cinq crises ont déjà eu lieu, la sixième est donc attendue",
+          "Parce que le nombre d'espèces décrites diminue chaque année",
+          "Parce que les scientifiques ont découvert un astéroïde menaçant"
+        ],
+        "hard": [
+          "Parce que le rythme d'extinction actuel est comparable à celui des crises passées",
+          "Parce que les extinctions actuelles touchent uniquement les grands mammifères",
+          "Parce que la diversité génétique diminue sans que les espèces disparaissent"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles sont les principales causes actuelles d'érosion de la biodiversité ?",
+      "verso": "La destruction et la fragmentation des habitats, la surexploitation des ressources, les pollutions, les espèces invasives et le changement climatique",
+      "explanation": "La destruction des habitats reste la cause dominante à ce jour, mais le poids relatif du changement climatique augmente rapidement.",
+      "tags": [
+        "biodiversité",
+        "causes"
+      ],
+      "distractors": {
+        "easy": [
+          "Les prédateurs naturels et les maladies saisonnières",
+          "Les éruptions volcaniques et les tremblements de terre",
+          "Les changements de saison et les migrations"
+        ],
+        "medium": [
+          "Le changement climatique seul, les autres facteurs étant marginaux",
+          "La chasse et la pêche exclusivement",
+          "La concurrence naturelle entre espèces sauvages"
+        ],
+        "hard": [
+          "La fragmentation des habitats seule, les autres causes en découlant",
+          "Les espèces invasives, cause dominante devant la destruction des habitats",
+          "La pollution génétique due aux croisements entre populations voisines"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la fragmentation des habitats est-elle particulièrement préoccupante ?",
+      "verso": "Parce qu'elle isole des populations de petit effectif, exposées à la dérive génétique et à la perte de diversité, même si la surface totale d'habitat reste importante",
+      "explanation": "Le maintien de corridors écologiques vise précisément à rétablir les échanges entre ces populations et à limiter cet appauvrissement génétique.",
+      "tags": [
+        "biodiversité",
+        "conservation"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'elle rend les paysages moins beaux",
+          "Parce qu'elle empêche les promeneurs de circuler",
+          "Parce qu'elle assèche les sols"
+        ],
+        "medium": [
+          "Parce qu'elle réduit toujours fortement la surface totale d'habitat",
+          "Parce qu'elle favorise l'apparition de nouvelles espèces invasives",
+          "Parce qu'elle augmente la concurrence entre individus d'une même population"
+        ],
+        "hard": [
+          "Parce qu'elle isole des populations nombreuses, protégées de la dérive génétique",
+          "Parce qu'elle accélère la sélection naturelle au détriment de la dérive",
+          "Parce qu'elle empêche toute mutation nouvelle d'apparaître dans les populations"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un service écosystémique ?",
+      "verso": "Un bénéfice que les sociétés humaines tirent du fonctionnement des écosystèmes, comme la pollinisation, la régulation du climat ou l'épuration de l'eau",
+      "explanation": "Cette notion permet de rendre visible la dépendance des activités humaines à la biodiversité, mais elle ne recouvre pas toutes les raisons de la protéger.",
+      "tags": [
+        "biodiversité",
+        "société"
+      ],
+      "distractors": {
+        "easy": [
+          "Un service payant proposé par les parcs naturels",
+          "L'entretien des espaces verts par les municipalités",
+          "Le nettoyage des plages par des bénévoles"
+        ],
+        "medium": [
+          "Un dispositif de compensation financière pour la destruction d'un habitat",
+          "L'ensemble des espèces protégées par la réglementation",
+          "Un inventaire des espèces présentes dans un écosystème"
+        ],
+        "hard": [
+          "Un bénéfice tiré des écosystèmes, mesurable uniquement en termes monétaires",
+          "L'ensemble des interactions entre espèces au sein d'un écosystème",
+          "Le rendement agricole obtenu grâce aux intrants chimiques"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la biodiversité actuelle n'est-elle qu'un état transitoire ?",
+      "verso": "Parce qu'elle résulte d'une histoire évolutive continue et qu'elle continue de se transformer sous l'effet des mutations, de la sélection, de la dérive et des extinctions",
+      "explanation": "Cette perspective ne relativise pas la crise actuelle : c'est sa vitesse, non le principe du changement, qui la rend problématique pour les sociétés humaines.",
+      "tags": [
+        "évolution",
+        "synthèse"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les espèces changent d'apparence chaque saison",
+          "Parce que les animaux migrent d'un continent à l'autre",
+          "Parce que les scientifiques changent souvent les classifications"
+        ],
+        "medium": [
+          "Parce que toutes les espèces actuelles disparaîtront dans un siècle",
+          "Parce que la biodiversité augmente continuellement depuis l'origine",
+          "Parce que les écosystèmes reviennent périodiquement à leur état initial"
+        ],
+        "hard": [
+          "Parce qu'elle tend vers un état d'équilibre stable qu'elle atteindra bientôt",
+          "Parce que les extinctions compensent exactement les spéciations à tout instant",
+          "Parce que l'évolution s'est arrêtée chez les espèces actuellement existantes"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que la résistance aux antibiotiques du point de vue de l'évolution ?",
+      "verso": "Un exemple direct de sélection naturelle, l'antibiotique éliminant les bactéries sensibles et laissant se multiplier celles qui portaient déjà une mutation de résistance",
+      "explanation": "L'antibiotique ne provoque pas la mutation : il sélectionne des résistances préexistantes. C'est le cas d'école qui permet d'observer l'évolution en quelques jours.",
+      "tags": [
+        "évolution",
+        "exemple"
+      ],
+      "distractors": {
+        "easy": [
+          "Une maladie que les bactéries transmettent aux humains",
+          "Un vieillissement naturel des médicaments",
+          "Une allergie développée par certains patients"
+        ],
+        "medium": [
+          "Une adaptation volontaire des bactéries face au traitement",
+          "Une mutation provoquée directement par la présence de l'antibiotique",
+          "Une transmission de l'immunité entre bactéries et patients"
+        ],
+        "hard": [
+          "Une sélection naturelle où l'antibiotique induit les mutations qu'il sélectionne ensuite",
+          "Une dérive génétique accélérée par le traitement antibiotique",
+          "Une spéciation rapide donnant naissance à de nouvelles espèces bactériennes"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi les bactéries permettent-elles d'observer l'évolution en laboratoire ?",
+      "verso": "Parce que leur temps de génération est très court et leurs populations très nombreuses, ce qui rend visibles en quelques jours des changements de fréquences alléliques",
+      "explanation": "L'évolution n'est donc pas une reconstitution du passé mais un phénomène observable et reproductible, ce qui en fait une théorie testable au sens strict.",
+      "tags": [
+        "évolution",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'elles sont visibles au microscope",
+          "Parce qu'elles ne se déplacent pas",
+          "Parce qu'elles vivent dans tous les milieux"
+        ],
+        "medium": [
+          "Parce que leur patrimoine génétique est plus instable que celui des animaux",
+          "Parce qu'elles mutent volontairement en réponse au milieu",
+          "Parce qu'elles se reproduisent de façon sexuée très rapidement"
+        ],
+        "hard": [
+          "Parce que leur temps de génération est long mais leurs populations immenses",
+          "Parce qu'elles ne subissent ni sélection ni dérive génétique",
+          "Parce que leurs mutations sont toujours avantageuses en culture"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,666 @@
+{
+  "id": "mathematiques-terminale-produit-scalaire-espace",
+  "title": "Produit scalaire dans l'espace",
+  "emoji": "📏",
+  "subject": "mathematics",
+  "country": "fr",
+  "courseDescription": "Spé Maths · Terminale — produit scalaire et orthogonalité dans l'espace, vecteur normal, équation cartésienne d'un plan, projeté orthogonal et distances.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Produit scalaire dans l'espace</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · spécialité Mathématiques<br>\n  <b>Thème&nbsp;:</b> Géométrie dans l'espace<br>\n  <b>Chapitre</b> · environ 3 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> Comment mesurer des angles et des distances dans un espace qu'on ne peut pas dessiner&nbsp;?</p></blockquote>\n\n<p>Le chapitre précédent décrivait des <em>directions</em>&nbsp;: parallèle, sécant, coplanaire. Il ne disait rien des <em>angles</em> ni des <em>longueurs</em>. Le produit scalaire apporte cette dimension métrique, et il l'apporte sous une forme remarquablement économe&nbsp;: <strong>une somme de trois produits de coordonnées</strong>. De là découlent l'orthogonalité, le vecteur normal, l'équation cartésienne d'un plan, le projeté orthogonal et les distances. Tout le chapitre est la conséquence d'une seule égalité, celle qui annule un produit scalaire.</p>\n\n<h2>1 · Le produit scalaire dans l'espace</h2>\n\n<p>Deux vecteurs de l'espace admettent toujours des représentants issus d'un même point&nbsp;: ils sont donc contenus dans un même plan, et <strong>toutes les propriétés vues en première restent valables sans démonstration nouvelle</strong>. La troisième dimension n'apporte de nouveauté qu'à partir de trois vecteurs.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Produit scalaire</strong><br>\n  Pour deux vecteurs non nuls&nbsp;: produit des normes multiplié par le cosinus de l'angle qu'ils forment.<br>\n  Dans une base <strong>orthonormée</strong>&nbsp;: xx&nbsp;′ + yy&nbsp;′ + zz&nbsp;′ — la somme des produits des coordonnées correspondantes.\n</div>\n\n<p>Le résultat est un <em>nombre réel</em>, jamais un vecteur. L'hypothèse de base orthonormée est indispensable pour l'expression analytique&nbsp;: c'est pourquoi tous les énoncés du programme précisent que le repère est orthonormé.</p>\n\n<p>Trois conséquences immédiates&nbsp;:</p>\n\n<ul>\n  <li>le <strong>carré scalaire</strong> d'un vecteur est le carré de sa norme — d'où le calcul des longueurs à partir des coordonnées&nbsp;;</li>\n  <li>le produit scalaire est <strong>symétrique</strong> et <strong>bilinéaire</strong>, ce qui permet de développer les carrés d'une somme comme des identités remarquables&nbsp;;</li>\n  <li>l'<strong>angle</strong> entre deux vecteurs s'obtient en divisant leur produit scalaire par le produit de leurs normes&nbsp;: cosinus négatif signale un angle obtus, cosinus nul un angle droit.</li>\n</ul>\n\n<div class=\"callout\">\n  <strong>Notion · Orthogonalité</strong><br>\n  Deux vecteurs sont orthogonaux si et seulement si leur produit scalaire est nul. Par convention, le vecteur nul est orthogonal à tout vecteur.\n</div>\n\n<p>Ce critère est l'outil le plus employé du chapitre&nbsp;: il ramène <strong>toute question d'angle droit à un calcul de trois produits</strong>, sans figure ni construction.</p>\n\n<h2>2 · Vecteur normal et équation cartésienne</h2>\n\n<p>Un <strong>vecteur normal</strong> à un plan est un vecteur non nul orthogonal à <em>tous</em> les vecteurs directeurs de ce plan. En pratique, il suffit de vérifier l'orthogonalité avec <strong>deux</strong> vecteurs directeurs non colinéaires&nbsp;: elle s'étend alors à toutes leurs combinaisons. Tous les vecteurs normaux d'un même plan sont colinéaires entre eux.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 185\" role=\"img\" aria-label=\"Plan représenté en perspective, muni de deux vecteurs directeurs non colinéaires et d'un vecteur normal perpendiculaire au plan ; l'orthogonalité du vecteur normal avec les deux directeurs suffit à garantir son orthogonalité avec tout vecteur du plan\">\n    <path d=\"M30 120 L150 78 L300 108 L180 150 Z\" fill=\"var(--accent)\" fill-opacity=\".12\" stroke=\"var(--accent)\" stroke-opacity=\".45\"/>\n    <circle cx=\"150\" cy=\"114\" r=\"3.5\" fill=\"var(--accent)\"/>\n    <text x=\"128\" y=\"130\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">A</text>\n    <line x1=\"150\" y1=\"114\" x2=\"216\" y2=\"98\" stroke=\"currentColor\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-mps1)\"/>\n    <text x=\"222\" y=\"96\" font-size=\"9\" fill=\"currentColor\">u</text>\n    <line x1=\"150\" y1=\"114\" x2=\"106\" y2=\"136\" stroke=\"currentColor\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-mps1)\"/>\n    <text x=\"90\" y=\"146\" font-size=\"9\" fill=\"currentColor\">v</text>\n    <line x1=\"150\" y1=\"114\" x2=\"150\" y2=\"34\" stroke=\"var(--accent)\" stroke-opacity=\".85\" stroke-width=\"2.2\" marker-end=\"url(#ar-mps1)\"/>\n    <text x=\"158\" y=\"34\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">n : vecteur normal</text>\n    <path d=\"M150 100 L164 100 L164 114\" fill=\"none\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"20\" y=\"166\" font-size=\"9\" fill=\"currentColor\">n orthogonal à u et à v suffit :</text>\n    <text x=\"20\" y=\"179\" font-size=\"9\" fill=\"currentColor\">n est alors orthogonal à tout vecteur du plan.</text>\n    <defs>\n      <marker id=\"ar-mps1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n  </svg>\n  <figcaption>Deux orthogonalités suffisent&nbsp;— une seule ne suffirait pas.</figcaption>\n</figure>\n\n<p>De là vient l'<strong>équation cartésienne</strong>. Écrire qu'un point M appartient au plan passant par A et de vecteur normal n, c'est écrire que le produit scalaire de n par le vecteur AM est nul. En développant&nbsp;:</p>\n\n<p style=\"text-align:center\"><strong>ax + by + cz + d = 0</strong>, où (a&nbsp;; b&nbsp;; c) sont les coordonnées d'un vecteur normal</p>\n\n<p>Les trois premiers coefficients <strong>se lisent</strong> donc comme un vecteur normal, sans aucun calcul&nbsp;; le quatrième ne fait que positionner le plan, et se détermine en injectant les coordonnées d'un point connu. C'est ce qui fait de l'équation cartésienne la description la plus commode d'un plan.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 150\" role=\"img\" aria-label=\"Lecture d'une équation cartésienne de plan : les trois premiers coefficients donnent les coordonnées d'un vecteur normal, tandis que le quatrième positionne le plan dans l'espace et vaut zéro lorsque le plan passe par l'origine\">\n    <rect x=\"40\" y=\"26\" width=\"260\" height=\"44\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"56\" font-size=\"18\" text-anchor=\"middle\" fill=\"currentColor\">a x + b y + c z + d = 0</text>\n    <line x1=\"112\" y1=\"74\" x2=\"112\" y2=\"96\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <line x1=\"112\" y1=\"96\" x2=\"86\" y2=\"96\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"8\" y=\"112\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">a, b, c :</text>\n    <text x=\"8\" y=\"124\" font-size=\"9\" fill=\"currentColor\">un vecteur normal,</text>\n    <text x=\"8\" y=\"136\" font-size=\"9\" fill=\"currentColor\">lu directement</text>\n    <line x1=\"262\" y1=\"74\" x2=\"262\" y2=\"96\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <line x1=\"262\" y1=\"96\" x2=\"288\" y2=\"96\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"212\" y=\"112\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">d :</text>\n    <text x=\"212\" y=\"124\" font-size=\"9\" fill=\"currentColor\">positionne le plan,</text>\n    <text x=\"212\" y=\"136\" font-size=\"9\" fill=\"currentColor\">nul si le plan passe par O</text>\n    <text x=\"40\" y=\"18\" font-size=\"9\" class=\"s-muted\">une seule équation, dans l'espace : c'est un plan</text>\n  </svg>\n  <figcaption>Toute l'information géométrique tient dans quatre coefficients.</figcaption>\n</figure>\n\n<h3>Applications directes</h3>\n\n<ul>\n  <li><strong>Plan par trois points non alignés</strong>&nbsp;: on cherche un vecteur orthogonal aux deux vecteurs formés, ce qui donne un système de deux équations à trois inconnues. Ses solutions sont toutes colinéaires — normal, le vecteur normal n'est défini qu'à un facteur près&nbsp;: on fixe librement une coordonnée non nulle.</li>\n  <li><strong>Plan médiateur d'un segment</strong>&nbsp;: l'ensemble des points équidistants des deux extrémités est le plan passant par le milieu et de vecteur normal le vecteur joignant ces extrémités. C'est l'analogue spatial de la médiatrice.</li>\n</ul>\n\n<h2>3 · Positions relatives, revisitées</h2>\n\n<p>Le vecteur normal simplifie radicalement les critères du chapitre précédent&nbsp;:</p>\n\n<ul>\n  <li>deux plans sont <strong>parallèles</strong> lorsque leurs vecteurs normaux sont <em>colinéaires</em> — les trois premiers coefficients sont proportionnels. Si le quatrième suit la même proportion, les plans sont confondus&nbsp;;</li>\n  <li>deux plans sont <strong>perpendiculaires</strong> lorsque leurs vecteurs normaux sont <em>orthogonaux</em>&nbsp;;</li>\n  <li>une droite est <strong>orthogonale</strong> à un plan lorsque son vecteur directeur est <em>colinéaire</em> au vecteur normal&nbsp;; elle lui est <strong>parallèle</strong> lorsque ce vecteur directeur est <em>orthogonal</em> au vecteur normal — un test de point distingue alors l'inclusion du parallélisme strict.</li>\n</ul>\n\n<p>Pour l'intersection d'une droite et d'un plan, la méthode ne change pas&nbsp;: on injecte les coordonnées du point courant de la droite dans l'équation du plan, et l'on résout en le paramètre. Une solution unique donne le point&nbsp;; aucune solution signale un parallélisme strict&nbsp;; une infinité signale que la droite est contenue dans le plan.</p>\n\n<h2>4 · Projeté orthogonal et distances</h2>\n\n<div class=\"callout\">\n  <strong>Notion · Projeté orthogonal</strong><br>\n  Le projeté orthogonal d'un point sur un plan est l'intersection de ce plan avec la droite passant par le point et <em>dirigée par le vecteur normal</em>. C'est le point du plan le plus proche du point donné.\n</div>\n\n<p>La construction est donc immédiate à partir de l'équation cartésienne&nbsp;: le vecteur normal se lit sur les coefficients, la droite s'écrit, et la substitution donne une équation du premier degré en le paramètre.</p>\n\n<p>Pour un projeté sur une <em>droite</em>, on procède symétriquement&nbsp;: on écrit le point courant de la droite en fonction du paramètre, puis on <strong>annule le produit scalaire</strong> du vecteur directeur par le vecteur joignant ce point courant au point donné.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Distance d'un point à un plan : le segment joignant le point à son projeté orthogonal est perpendiculaire au plan, tandis que tout autre point du plan forme un triangle rectangle dont l'hypoténuse est plus longue, ce qui prouve la minimalité par le théorème de Pythagore\">\n    <path d=\"M20 120 L140 84 L310 116 L190 152 Z\" fill=\"var(--accent)\" fill-opacity=\".12\" stroke=\"var(--accent)\" stroke-opacity=\".45\"/>\n    <circle cx=\"150\" cy=\"34\" r=\"4\" fill=\"var(--accent)\"/>\n    <text x=\"132\" y=\"28\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">M</text>\n    <circle cx=\"150\" cy=\"118\" r=\"3.5\" fill=\"var(--accent)\"/>\n    <text x=\"122\" y=\"136\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">H : projeté</text>\n    <line x1=\"150\" y1=\"34\" x2=\"150\" y2=\"118\" stroke=\"var(--accent)\" stroke-opacity=\".85\" stroke-width=\"2.2\"/>\n    <path d=\"M150 104 L164 104 L164 118\" fill=\"none\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"158\" y=\"76\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">distance</text>\n    <circle cx=\"248\" cy=\"122\" r=\"3\" fill=\"currentColor\" fill-opacity=\".7\"/>\n    <text x=\"252\" y=\"138\" font-size=\"9\" fill=\"currentColor\">P, autre point du plan</text>\n    <line x1=\"150\" y1=\"34\" x2=\"248\" y2=\"122\" stroke=\"currentColor\" stroke-opacity=\".55\" stroke-dasharray=\"4 3\"/>\n    <line x1=\"150\" y1=\"118\" x2=\"248\" y2=\"122\" stroke=\"currentColor\" stroke-opacity=\".35\"/>\n    <text x=\"20\" y=\"166\" font-size=\"9\" fill=\"currentColor\">Le triangle MHP est rectangle en H : MP est toujours plus long que MH.</text>\n  </svg>\n  <figcaption>La minimalité de la distance n'est pas une évidence à affirmer&nbsp;: elle se démontre par Pythagore.</figcaption>\n</figure>\n\n<p>La <strong>distance d'un point à un plan</strong> est la longueur du vecteur joignant ce point à son projeté. Sa minimalité se démontre en une ligne&nbsp;: pour tout autre point P du plan, le triangle formé est rectangle au projeté, donc son hypoténuse est plus longue. C'est ce raisonnement qui est attendu en rédaction, et pas seulement le résultat.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>La démarche</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Frise méthodique d'un exercice de produit scalaire dans l'espace : vérifier que le repère est orthonormé, identifier le vecteur normal du plan, écrire l'équation cartésienne, traduire la question en produit scalaire nul, puis conclure en distance ou en position relative\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"176\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">1. Repère orthonormé ?</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Sinon, pas d'expression analytique</text>\n    <circle cx=\"26\" cy=\"60\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"57\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">2. Trouver le vecteur normal</text>\n    <text x=\"44\" y=\"70\" font-size=\"10\" fill=\"currentColor\">Deux produits scalaires nuls suffisent</text>\n    <circle cx=\"26\" cy=\"100\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"97\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">3. Écrire l'équation</text>\n    <text x=\"44\" y=\"110\" font-size=\"10\" fill=\"currentColor\">Puis d, en injectant un point</text>\n    <circle cx=\"26\" cy=\"140\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"137\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">4. Traduire la question</text>\n    <text x=\"44\" y=\"150\" font-size=\"10\" fill=\"currentColor\">Orthogonal : produit scalaire nul</text>\n    <circle cx=\"26\" cy=\"176\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"173\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">5. Conclure</text>\n    <text x=\"44\" y=\"186\" font-size=\"10\" fill=\"currentColor\">Position, projeté, distance minimale</text>\n  </svg>\n  <figcaption>Presque tout l'exercice se joue à l'étape 2&nbsp;: le vecteur normal ouvre toutes les portes.</figcaption>\n</figure>\n\n<h3>Formules à connaître</h3>\n\n<table>\n  <tr><th>Objet</th><th>Écriture</th></tr>\n  <tr><td>Produit scalaire (analytique)</td><td>xx&nbsp;′ + yy&nbsp;′ + zz&nbsp;′, en base orthonormée</td></tr>\n  <tr><td>Produit scalaire (géométrique)</td><td>Produit des normes × cosinus de l'angle</td></tr>\n  <tr><td>Carré scalaire</td><td>Carré de la norme</td></tr>\n  <tr><td>Orthogonalité</td><td>Produit scalaire nul</td></tr>\n  <tr><td>Équation cartésienne d'un plan</td><td>ax + by + cz + d = 0, normal (a&nbsp;; b&nbsp;; c)</td></tr>\n  <tr><td>Cosinus d'un angle</td><td>Produit scalaire divisé par le produit des normes</td></tr>\n</table>\n\n<h3>Notions à distinguer</h3>\n\n<table>\n  <tr><th>Distinction</th><th>Ce qui se joue</th></tr>\n  <tr><td>Vecteur normal / vecteur directeur</td><td>Orthogonal au plan contre contenu dans sa direction</td></tr>\n  <tr><td>Équation cartésienne / paramétrique</td><td>Une équation contre deux paramètres</td></tr>\n  <tr><td>Normaux colinéaires / orthogonaux</td><td>Plans parallèles contre plans perpendiculaires</td></tr>\n  <tr><td>Droite orthogonale / parallèle à un plan</td><td>Directeur colinéaire au normal contre orthogonal</td></tr>\n  <tr><td>Projeté / point quelconque</td><td>Distance minimale contre hypoténuse</td></tr>\n</table>\n\n<h3>Critères en un coup d'œil</h3>\n\n<table>\n  <tr><th>Question</th><th>Test</th></tr>\n  <tr><td>Deux vecteurs orthogonaux ?</td><td>Produit scalaire nul</td></tr>\n  <tr><td>Deux plans parallèles ?</td><td>Normaux colinéaires</td></tr>\n  <tr><td>Deux plans perpendiculaires ?</td><td>Normaux orthogonaux</td></tr>\n  <tr><td>Droite orthogonale à un plan ?</td><td>Directeur colinéaire au normal</td></tr>\n  <tr><td>Droite parallèle à un plan ?</td><td>Directeur orthogonal au normal, puis test de point</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Croire qu'une équation cartésienne unique décrit une <em>droite</em> dans l'espace. Elle y décrit un <strong>plan</strong>&nbsp;: chaque équation retire un degré de liberté, et il en faut <strong>deux</strong> pour une droite, qui apparaît alors comme l'intersection de deux plans. L'habitude prise dans le plan est la cause directe de cette confusion. Deux erreurs voisines&nbsp;: prendre les coefficients a, b, c pour les coordonnées d'un <em>point</em> du plan au lieu d'un vecteur normal&nbsp;; et conclure à l'orthogonalité d'une droite et d'un plan après avoir vérifié un seul produit scalaire nul, alors qu'il en faut deux.\n</div>\n\n<blockquote><p>Une somme de trois produits, et voilà les angles, les distances et les perpendiculaires réduits à de l'arithmétique. Le produit scalaire ne rend pas l'espace plus simple&nbsp;: il le rend calculable.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Spécialité Mathématiques — Géométrie dans l'espace",
+  "cards": [
+    {
+      "recto": "Comment se définit le produit scalaire de deux vecteurs non nuls de l'espace ?",
+      "verso": "C'est le produit de leurs normes par le cosinus de l'angle qu'ils forment",
+      "explanation": "Deux vecteurs de l'espace admettent toujours des représentants dans un même plan, ce qui permet de reprendre sans changement la définition vue en première. Le résultat est un nombre réel, jamais un vecteur.",
+      "tags": [
+        "produit scalaire",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "C'est le vecteur obtenu en additionnant leurs coordonnées",
+          "C'est le produit de leurs normes",
+          "C'est la somme de leurs normes"
+        ],
+        "medium": [
+          "C'est le produit de leurs normes par le sinus de l'angle qu'ils forment",
+          "C'est le quotient de leurs normes par le cosinus de l'angle",
+          "C'est le produit de leurs normes par la tangente de l'angle"
+        ],
+        "hard": [
+          "C'est le produit de leurs normes par le cosinus de l'angle, à condition que cet angle soit aigu",
+          "C'est le produit de leurs normes par le cosinus de l'angle, le résultat étant un vecteur porté par le premier",
+          "C'est le produit de leurs normes par le cosinus du double de l'angle"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est l'expression analytique du produit scalaire dans une base orthonormée de l'espace ?",
+      "verso": "La somme des produits des coordonnées correspondantes des deux vecteurs, soit trois termes",
+      "explanation": "L'hypothèse de base orthonormée est indispensable : dans une base quelconque, cette formule est fausse. C'est l'expression que l'on utilise dans la quasi-totalité des exercices, l'énoncé précisant toujours que le repère est orthonormé.",
+      "tags": [
+        "produit scalaire",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "Le produit des trois coordonnées du premier vecteur",
+          "La somme des six coordonnées",
+          "La différence des normes des deux vecteurs"
+        ],
+        "medium": [
+          "La somme des produits des coordonnées, divisée par les normes",
+          "Le produit des sommes des coordonnées de chaque vecteur",
+          "La somme des carrés des différences de coordonnées"
+        ],
+        "hard": [
+          "La somme des produits des coordonnées correspondantes, valable dans toute base de l'espace",
+          "La somme des produits des coordonnées correspondantes, augmentée du produit des normes",
+          "La somme des produits croisés des coordonnées, soit six termes"
+        ]
+      }
+    },
+    {
+      "recto": "Que vaut le produit scalaire d'un vecteur par lui-même ?",
+      "verso": "Le carré de sa norme",
+      "explanation": "Ce carré scalaire est la clé du calcul des longueurs à partir des coordonnées : la norme est la racine carrée de la somme des carrés des coordonnées. Il permet aussi de développer le carré d'une somme de vecteurs comme une identité remarquable.",
+      "tags": [
+        "produit scalaire",
+        "propriété"
+      ],
+      "distractors": {
+        "easy": [
+          "Zéro",
+          "Sa norme",
+          "Un"
+        ],
+        "medium": [
+          "Le double de sa norme",
+          "La racine carrée de sa norme",
+          "La somme de ses coordonnées"
+        ],
+        "hard": [
+          "Le carré de sa norme, à condition que le vecteur soit non nul",
+          "Le carré de sa norme, divisé par le nombre de coordonnées",
+          "La moitié du carré de sa norme"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle condition sur le produit scalaire caractérise l'orthogonalité de deux vecteurs ?",
+      "verso": "Leur produit scalaire est nul",
+      "explanation": "La convention adoptée fait du vecteur nul un vecteur orthogonal à tous les autres, ce qui rend le critère valable sans exception. C'est l'outil de démonstration le plus employé du chapitre, car il ramène toute question d'angle droit à un calcul de trois produits.",
+      "tags": [
+        "orthogonalité",
+        "critère"
+      ],
+      "distractors": {
+        "easy": [
+          "Leur produit scalaire vaut 1",
+          "Leur produit scalaire est négatif",
+          "Leurs normes sont égales"
+        ],
+        "medium": [
+          "Leur produit scalaire est égal au produit de leurs normes",
+          "Leur produit scalaire est égal à l'opposé du produit de leurs normes",
+          "La somme de leurs coordonnées est nulle"
+        ],
+        "hard": [
+          "Leur produit scalaire est nul et leurs normes sont non nulles",
+          "Leur produit scalaire est nul, ce qui exige qu'ils soient coplanaires",
+          "Le carré de leur produit scalaire est égal au produit de leurs normes"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on un vecteur normal à un plan ?",
+      "verso": "Un vecteur non nul orthogonal à tous les vecteurs directeurs de ce plan",
+      "explanation": "Il suffit en pratique de vérifier l'orthogonalité avec deux vecteurs directeurs non colinéaires, l'orthogonalité s'étendant alors à toutes leurs combinaisons. Tous les vecteurs normaux d'un plan sont colinéaires entre eux.",
+      "tags": [
+        "vecteur normal",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Un vecteur contenu dans le plan",
+          "Un vecteur de norme 1 du plan",
+          "Le vecteur nul du plan"
+        ],
+        "medium": [
+          "Un vecteur non nul colinéaire aux vecteurs directeurs du plan",
+          "Un vecteur non nul orthogonal à un seul vecteur directeur du plan",
+          "Un vecteur non nul joignant l'origine du repère à un point du plan"
+        ],
+        "hard": [
+          "Un vecteur non nul orthogonal aux vecteurs du plan, et unique une fois sa norme fixée",
+          "Un vecteur non nul orthogonal aux vecteurs du plan, nécessairement de norme 1",
+          "Un vecteur non nul orthogonal à tous les vecteurs directeurs, à condition que le plan passe par l'origine"
+        ]
+      }
+    },
+    {
+      "recto": "Que représentent les trois premiers coefficients dans l'équation cartésienne d'un plan de l'espace ?",
+      "verso": "Ce sont les coordonnées d'un vecteur normal à ce plan",
+      "explanation": "Cette lecture immédiate est ce qui rend l'équation cartésienne si commode : la direction perpendiculaire au plan se lit sans aucun calcul. Le quatrième coefficient, lui, ne fait que positionner le plan dans l'espace.",
+      "tags": [
+        "équation cartésienne",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Ce sont les coordonnées d'un point du plan",
+          "Ce sont les coordonnées de l'origine du repère",
+          "Ce sont les longueurs des côtés du plan"
+        ],
+        "medium": [
+          "Ce sont les coordonnées d'un vecteur directeur du plan",
+          "Ce sont les coordonnées du projeté orthogonal de l'origine",
+          "Ce sont les coordonnées des trois points définissant le plan"
+        ],
+        "hard": [
+          "Ce sont les coordonnées d'un vecteur normal, nécessairement de norme 1",
+          "Ce sont les coordonnées d'un vecteur normal, à condition que le quatrième coefficient soit nul",
+          "Ce sont les coordonnées d'un vecteur normal au plan et directeur de tout plan parallèle"
+        ]
+      }
+    },
+    {
+      "recto": "Comment obtient-on l'équation cartésienne d'un plan connaissant un point et un vecteur normal ?",
+      "verso": "En écrivant que le produit scalaire du vecteur normal par le vecteur joignant le point donné au point courant est nul",
+      "explanation": "Les trois premiers coefficients sont donc directement ceux du vecteur normal, et le dernier se détermine en injectant les coordonnées du point connu. C'est la méthode la plus rapide et la plus sûre du chapitre.",
+      "tags": [
+        "équation cartésienne",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En additionnant les coordonnées du point et du vecteur",
+          "En recopiant les coordonnées du point comme coefficients",
+          "En calculant la norme du vecteur normal"
+        ],
+        "medium": [
+          "En écrivant que le produit scalaire du vecteur normal par le vecteur position est égal à 1",
+          "En écrivant que les coordonnées du point courant sont proportionnelles à celles du vecteur normal",
+          "En écrivant que la somme des coordonnées vaut la norme du vecteur normal"
+        ],
+        "hard": [
+          "En écrivant que le produit scalaire est nul, les trois premiers coefficients étant ceux du point donné",
+          "En écrivant que le produit scalaire du vecteur normal par le vecteur joignant l'origine au point courant est nul",
+          "En écrivant que le produit scalaire est nul, puis en divisant l'équation par la norme du vecteur normal"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : dans l'espace, quel objet géométrique une équation cartésienne unique décrit-elle ?",
+      "verso": "Un plan, et non une droite : dans l'espace, une droite exige deux équations cartésiennes, c'est-à-dire l'intersection de deux plans",
+      "explanation": "Chaque équation retire un degré de liberté : dans l'espace, une équation laisse deux paramètres libres, donc un plan. L'habitude prise dans le plan, où une équation décrit une droite, est la cause directe de cette confusion.",
+      "tags": [
+        "piege",
+        "équation cartésienne"
+      ],
+      "distractors": {
+        "easy": [
+          "Une droite, comme dans le plan",
+          "Un point unique",
+          "Une sphère"
+        ],
+        "medium": [
+          "Une droite, à condition que le quatrième coefficient soit nul",
+          "Un segment de droite borné par les axes",
+          "Un plan, mais uniquement s'il passe par l'origine"
+        ],
+        "hard": [
+          "Un plan, une droite étant obtenue en ajoutant une équation paramétrique",
+          "Un plan, sauf lorsque deux des trois premiers coefficients sont nuls, auquel cas c'est une droite",
+          "Une droite, l'espace exigeant trois équations pour décrire un plan"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : quelle différence sépare un vecteur normal d'un vecteur directeur pour un plan ?",
+      "verso": "Le vecteur normal est orthogonal au plan et il est unique à un facteur près, tandis qu'un vecteur directeur appartient à la direction du plan et il en existe deux non colinéaires indépendants",
+      "explanation": "Le vecteur normal donne l'équation cartésienne, les vecteurs directeurs donnent la représentation paramétrique : les deux descriptions du même plan ne se mélangent jamais. Pour une droite, la situation est inversée, avec un vecteur directeur unique à un facteur près et une infinité de vecteurs normaux.",
+      "tags": [
+        "comparaison",
+        "vecteur normal"
+      ],
+      "distractors": {
+        "easy": [
+          "Les deux termes désignent le même objet",
+          "Le vecteur normal est de norme 1, le vecteur directeur non",
+          "Le vecteur normal est celui qui pointe vers le haut"
+        ],
+        "medium": [
+          "Le vecteur normal appartient au plan, le vecteur directeur lui est orthogonal",
+          "Le vecteur normal est unique, alors qu'il existe une infinité de vecteurs directeurs colinéaires entre eux",
+          "Le vecteur normal sert à la représentation paramétrique, le vecteur directeur à l'équation cartésienne"
+        ],
+        "hard": [
+          "Le vecteur normal est orthogonal au plan et unique à un facteur près, tandis que les vecteurs directeurs sont tous colinéaires entre eux",
+          "Le vecteur normal est orthogonal au plan, et il en existe deux non colinéaires indépendants, comme pour les directeurs",
+          "Le vecteur normal est orthogonal au plan et unique, le facteur multiplicatif devant rester positif"
+        ]
+      }
+    },
+    {
+      "recto": "Comment reconnaît-on que deux plans sont parallèles à partir de leurs équations cartésiennes ?",
+      "verso": "Leurs vecteurs normaux sont colinéaires, c'est-à-dire que les trois premiers coefficients sont proportionnels",
+      "explanation": "Si en outre le quatrième coefficient suit la même proportionnalité, les deux plans sont confondus ; sinon ils sont strictement parallèles. Le critère se vérifie donc d'un simple coup d'œil sur les coefficients.",
+      "tags": [
+        "positions",
+        "critère"
+      ],
+      "distractors": {
+        "easy": [
+          "Leurs équations sont identiques",
+          "Leurs quatrièmes coefficients sont égaux",
+          "Ils ont tous deux un coefficient nul"
+        ],
+        "medium": [
+          "Leurs vecteurs normaux sont orthogonaux",
+          "Leurs quatre coefficients sont proportionnels, ce qui suffit à conclure au parallélisme strict",
+          "La somme de leurs coefficients est la même"
+        ],
+        "hard": [
+          "Leurs vecteurs normaux sont colinéaires et de même norme",
+          "Leurs vecteurs normaux sont colinéaires, ce qui entraîne que les plans sont confondus",
+          "Leurs vecteurs normaux sont colinéaires, à condition que les deux plans coupent le même axe"
+        ]
+      }
+    },
+    {
+      "recto": "Comment reconnaît-on que deux plans sont perpendiculaires ?",
+      "verso": "Leurs vecteurs normaux sont orthogonaux, c'est-à-dire de produit scalaire nul",
+      "explanation": "Le critère se lit directement sur les coefficients des deux équations cartésiennes. Attention à ne pas le confondre avec le parallélisme, qui demande au contraire la colinéarité des normaux.",
+      "tags": [
+        "positions",
+        "critère"
+      ],
+      "distractors": {
+        "easy": [
+          "Leurs équations ont des coefficients opposés",
+          "Leurs vecteurs normaux sont colinéaires",
+          "Leurs quatrièmes coefficients sont opposés"
+        ],
+        "medium": [
+          "Leurs vecteurs directeurs sont orthogonaux deux à deux",
+          "Le produit de leurs vecteurs normaux est égal au produit des normes",
+          "La somme de leurs coefficients est nulle"
+        ],
+        "hard": [
+          "Leurs vecteurs normaux sont orthogonaux et de même norme",
+          "Leurs vecteurs normaux sont orthogonaux, ce qui entraîne que leur intersection est un point",
+          "Le vecteur normal de l'un est un vecteur normal de l'autre"
+        ]
+      }
+    },
+    {
+      "recto": "Comment caractérise-t-on l'orthogonalité d'une droite et d'un plan ?",
+      "verso": "Un vecteur directeur de la droite est colinéaire à un vecteur normal du plan",
+      "explanation": "La droite est alors orthogonale à toutes les droites du plan, et non seulement à deux d'entre elles. Réciproquement, il suffit qu'un vecteur directeur soit orthogonal à deux vecteurs directeurs non colinéaires du plan.",
+      "tags": [
+        "orthogonalité",
+        "critère"
+      ],
+      "distractors": {
+        "easy": [
+          "La droite ne coupe pas le plan",
+          "La droite est contenue dans le plan",
+          "La droite est parallèle à un axe du repère"
+        ],
+        "medium": [
+          "Un vecteur directeur de la droite est orthogonal à un vecteur normal du plan",
+          "Un vecteur directeur de la droite est coplanaire avec ceux du plan",
+          "Un vecteur normal de la droite est colinéaire à un vecteur normal du plan"
+        ],
+        "hard": [
+          "Un vecteur directeur de la droite est colinéaire à un vecteur normal du plan, et de même norme",
+          "Un vecteur directeur de la droite est orthogonal à un seul vecteur directeur du plan",
+          "Un vecteur directeur de la droite est colinéaire à un vecteur normal, à condition que la droite coupe le plan à l'origine"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on le projeté orthogonal d'un point sur un plan ?",
+      "verso": "Le point d'intersection du plan avec la droite passant par le point donné et orthogonale au plan",
+      "explanation": "On le calcule en écrivant la représentation paramétrique de cette droite, puis en cherchant son intersection avec le plan. C'est le point du plan le plus proche du point donné.",
+      "tags": [
+        "projeté",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Le point du plan le plus éloigné du point donné",
+          "Le centre du plan",
+          "Le point du plan ayant les mêmes deux premières coordonnées"
+        ],
+        "medium": [
+          "Le point d'intersection du plan avec la droite parallèle à un axe passant par le point",
+          "Le point d'intersection du plan avec un vecteur directeur du plan",
+          "Le milieu du segment joignant le point donné à l'origine"
+        ],
+        "hard": [
+          "Le point d'intersection du plan avec la droite orthogonale au plan, à condition que le point n'appartienne pas au plan",
+          "Le point d'intersection du plan avec la droite dirigée par un vecteur directeur du plan passant par le point",
+          "Le point du plan tel que le vecteur joignant les deux points soit orthogonal au vecteur normal"
+        ]
+      }
+    },
+    {
+      "recto": "Que représente la distance d'un point à un plan ?",
+      "verso": "La plus petite distance entre ce point et un point du plan, atteinte au projeté orthogonal",
+      "explanation": "Tout autre point du plan donne une distance strictement plus grande, ce qui se démontre par le théorème de Pythagore dans le triangle rectangle formé. C'est la raison pour laquelle un calcul de distance minimale se ramène toujours à un projeté.",
+      "tags": [
+        "distance",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La distance du point à l'origine du repère",
+          "La plus grande distance entre le point et le plan",
+          "La longueur d'un vecteur normal au plan"
+        ],
+        "medium": [
+          "La distance entre le point et le centre du plan",
+          "La distance entre le point et le point du plan de mêmes deux premières coordonnées",
+          "La moyenne des distances du point aux points du plan"
+        ],
+        "hard": [
+          "La plus petite distance, atteinte au point du plan situé sur un vecteur directeur",
+          "La plus petite distance, atteinte au projeté orthogonal, à condition que le plan passe par l'origine",
+          "La plus petite distance, atteinte en un point unique seulement si le vecteur normal est de norme 1"
+        ]
+      }
+    },
+    {
+      "recto": "Comment détermine-t-on concrètement le projeté orthogonal d'un point sur un plan donné par son équation ?",
+      "verso": "En écrivant la droite passant par le point et dirigée par le vecteur normal du plan, puis en résolvant son intersection avec le plan",
+      "explanation": "Le vecteur normal se lit directement sur l'équation, ce qui rend la construction de la droite immédiate. La substitution dans l'équation donne une équation du premier degré en le paramètre, toujours résoluble.",
+      "tags": [
+        "projeté",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En annulant la troisième coordonnée du point",
+          "En divisant les coordonnées du point par la norme du vecteur normal",
+          "En prenant le point du plan le plus proche de l'origine"
+        ],
+        "medium": [
+          "En écrivant la droite dirigée par un vecteur directeur du plan, puis en cherchant l'intersection",
+          "En cherchant le point du plan dont le vecteur position est colinéaire à celui du point donné",
+          "En résolvant le système formé par l'équation du plan et par la norme du vecteur normal"
+        ],
+        "hard": [
+          "En écrivant la droite dirigée par le vecteur normal, puis en imposant que le paramètre soit positif",
+          "En écrivant la droite dirigée par le vecteur normal, puis en prenant le milieu du segment obtenu",
+          "En écrivant la droite dirigée par le vecteur normal du plan passant par l'origine, puis en la translatant"
+        ]
+      }
+    },
+    {
+      "recto": "Comment calcule-t-on le projeté orthogonal d'un point sur une droite de l'espace ?",
+      "verso": "En cherchant le point de la droite tel que le vecteur le joignant au point donné soit orthogonal au vecteur directeur de la droite",
+      "explanation": "On écrit le point courant de la droite en fonction du paramètre, puis on annule un produit scalaire, ce qui donne une équation du premier degré. La distance du point à la droite est ensuite la longueur du vecteur obtenu.",
+      "tags": [
+        "projeté",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En prenant le point de la droite le plus proche de l'origine",
+          "En prenant le point fixe de la représentation paramétrique",
+          "En annulant le paramètre de la droite"
+        ],
+        "medium": [
+          "En cherchant le point de la droite tel que le vecteur le joignant au point donné soit colinéaire au vecteur directeur",
+          "En cherchant le point de la droite dont les coordonnées sont proportionnelles à celles du point donné",
+          "En cherchant l'intersection de la droite avec le plan des deux premiers axes"
+        ],
+        "hard": [
+          "En annulant le produit scalaire du vecteur directeur par le vecteur joignant l'origine au point de la droite",
+          "En cherchant le point tel que le vecteur joignant au point donné soit orthogonal à un vecteur normal de la droite",
+          "En annulant le produit scalaire, ce qui donne une équation du second degré à deux solutions"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on le plan médiateur d'un segment de l'espace ?",
+      "verso": "L'ensemble des points équidistants des deux extrémités du segment, c'est-à-dire le plan passant par le milieu et orthogonal au segment",
+      "explanation": "C'est l'analogue spatial de la médiatrice d'un segment du plan. Son équation s'obtient immédiatement à partir du milieu et du vecteur joignant les extrémités, pris comme vecteur normal.",
+      "tags": [
+        "plan médiateur",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Le plan contenant le segment",
+          "Le plan passant par les deux extrémités du segment",
+          "Le plan parallèle au segment passant par l'origine"
+        ],
+        "medium": [
+          "Le plan passant par le milieu et contenant le segment",
+          "Le plan orthogonal au segment passant par une extrémité",
+          "L'ensemble des points dont la somme des distances aux extrémités est constante"
+        ],
+        "hard": [
+          "L'ensemble des points équidistants des extrémités, c'est-à-dire le plan passant par le milieu et dirigé par le segment",
+          "Le plan passant par le milieu et orthogonal au segment, à condition que le segment ne soit parallèle à aucun axe",
+          "L'ensemble des points équidistants des extrémités, qui forme une sphère centrée au milieu"
+        ]
+      }
+    },
+    {
+      "recto": "Comment détermine-t-on une équation cartésienne du plan passant par trois points non alignés ?",
+      "verso": "En cherchant un vecteur orthogonal aux deux vecteurs formés par ces points, ce qui donne un système de deux équations, puis en injectant un des points",
+      "explanation": "Le système à deux équations et trois inconnues admet une infinité de solutions toutes colinéaires, ce qui est normal puisque le vecteur normal n'est défini qu'à un facteur près. On fixe alors librement une coordonnée non nulle.",
+      "tags": [
+        "équation cartésienne",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En additionnant les coordonnées des trois points",
+          "En prenant les coordonnées du premier point comme coefficients",
+          "En calculant la moyenne des trois points"
+        ],
+        "medium": [
+          "En cherchant un vecteur colinéaire aux deux vecteurs formés par ces points",
+          "En résolvant le système formé par les trois points comme trois équations à trois inconnues sans terme constant",
+          "En prenant comme vecteur normal la somme des deux vecteurs formés"
+        ],
+        "hard": [
+          "En cherchant un vecteur orthogonal aux deux vecteurs formés, la solution étant nécessairement unique",
+          "En cherchant un vecteur orthogonal aux trois vecteurs joignant les points deux à deux",
+          "En cherchant un vecteur orthogonal aux deux vecteurs formés, puis en le normalisant avant d'injecter un point"
+        ]
+      }
+    },
+    {
+      "recto": "Comment détermine-t-on l'intersection d'une droite et d'un plan à partir d'une équation cartésienne ?",
+      "verso": "En remplaçant les coordonnées du point courant de la droite dans l'équation du plan, puis en résolvant en le paramètre",
+      "explanation": "Une solution unique donne le point d'intersection, aucune solution signale un parallélisme strict, et une infinité signale que la droite est contenue dans le plan. Le calcul répond donc en même temps à la position relative.",
+      "tags": [
+        "intersection",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En additionnant l'équation du plan et celles de la droite",
+          "En comparant les coefficients de l'équation aux coordonnées du point fixe",
+          "En calculant la norme du vecteur directeur"
+        ],
+        "medium": [
+          "En remplaçant les coefficients du plan dans la représentation de la droite",
+          "En résolvant le système des trois équations paramétriques seules",
+          "En annulant le produit scalaire du vecteur directeur et du vecteur normal"
+        ],
+        "hard": [
+          "En substituant les coordonnées du point courant, aucune solution signalant que la droite est incluse dans le plan",
+          "En substituant les coordonnées du point courant, le paramètre trouvé devant être positif",
+          "En substituant les coordonnées du point courant, ce qui donne toujours une solution unique"
+        ]
+      }
+    },
+    {
+      "recto": "Que peut-on conclure lorsque le produit scalaire du vecteur directeur d'une droite par le vecteur normal d'un plan est nul ?",
+      "verso": "La droite est parallèle au plan, sans qu'on sache encore si elle y est contenue",
+      "explanation": "Un test d'appartenance d'un point de la droite au plan tranche entre inclusion et parallélisme strict. C'est le pendant, pour les objets de dimensions différentes, du test de point utilisé entre deux droites parallèles.",
+      "tags": [
+        "positions",
+        "critère"
+      ],
+      "distractors": {
+        "easy": [
+          "La droite est orthogonale au plan",
+          "La droite coupe le plan en un point",
+          "La droite passe par l'origine"
+        ],
+        "medium": [
+          "La droite est nécessairement contenue dans le plan",
+          "La droite est nécessairement strictement parallèle au plan",
+          "La droite est perpendiculaire à tous les vecteurs directeurs du plan"
+        ],
+        "hard": [
+          "La droite est parallèle au plan, l'inclusion étant impossible si le vecteur normal est de norme 1",
+          "La droite est parallèle au plan, à condition que le vecteur directeur soit lui aussi de produit scalaire nul avec un vecteur directeur du plan",
+          "La droite est parallèle au plan, ce qui entraîne que tout point de la droite est équidistant du plan et de l'origine"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle propriété permet de développer le produit scalaire d'une somme de vecteurs ?",
+      "verso": "La bilinéarité : le produit scalaire se distribue sur l'addition et les réels se sortent du calcul",
+      "explanation": "Combinée à la symétrie, elle permet d'écrire des identités remarquables sur les carrés scalaires, très utiles pour calculer une longueur sans coordonnées. C'est le seul point du chapitre où l'on manipule le produit scalaire de façon purement algébrique.",
+      "tags": [
+        "produit scalaire",
+        "propriété"
+      ],
+      "distractors": {
+        "easy": [
+          "L'associativité, qui permet de regrouper les vecteurs",
+          "La commutativité des normes",
+          "La positivité du produit scalaire"
+        ],
+        "medium": [
+          "La linéarité par rapport à la première variable seulement",
+          "La distributivité du produit scalaire sur le produit de deux vecteurs",
+          "L'inégalité triangulaire appliquée aux normes"
+        ],
+        "hard": [
+          "La bilinéarité, valable seulement lorsque les vecteurs sont coplanaires",
+          "La bilinéarité, qui autorise aussi à associer trois vecteurs entre eux",
+          "La bilinéarité, valable uniquement dans une base orthonormée"
+        ]
+      }
+    },
+    {
+      "recto": "Comment calcule-t-on la mesure d'un angle entre deux vecteurs à partir de leurs coordonnées ?",
+      "verso": "En divisant leur produit scalaire par le produit de leurs normes, ce qui donne le cosinus de l'angle",
+      "explanation": "Le quotient obtenu est toujours compris entre moins un et un, ce qui garantit l'existence de l'angle. Un cosinus négatif signale un angle obtus, un cosinus nul un angle droit.",
+      "tags": [
+        "angle",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En additionnant les coordonnées des deux vecteurs",
+          "En prenant la différence de leurs normes",
+          "En multipliant leurs normes"
+        ],
+        "medium": [
+          "En divisant le produit de leurs normes par leur produit scalaire",
+          "En divisant leur produit scalaire par la somme de leurs normes",
+          "En prenant la racine carrée de leur produit scalaire"
+        ],
+        "hard": [
+          "En divisant leur produit scalaire par le produit de leurs normes, ce qui donne le sinus de l'angle",
+          "En divisant leur produit scalaire par le carré du produit de leurs normes",
+          "En divisant leur produit scalaire par le produit de leurs normes, à condition que l'angle soit aigu"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi peut-on toujours ramener le produit scalaire de deux vecteurs de l'espace à un calcul dans un plan ?",
+      "verso": "Parce que deux vecteurs admettent toujours des représentants issus d'un même point, donc contenus dans un même plan",
+      "explanation": "C'est ce qui permet de reprendre telles quelles toutes les propriétés vues en première, sans avoir à les redémontrer. La troisième dimension n'apporte de nouveauté qu'à partir de trois vecteurs.",
+      "tags": [
+        "produit scalaire",
+        "justification"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que tout vecteur de l'espace a une coordonnée nulle",
+          "Parce que le produit scalaire ignore la troisième coordonnée",
+          "Parce que deux vecteurs sont toujours colinéaires"
+        ],
+        "medium": [
+          "Parce que deux vecteurs de l'espace sont toujours orthogonaux à un troisième",
+          "Parce que le produit scalaire n'est défini que pour des vecteurs coplanaires",
+          "Parce que tout couple de vecteurs forme une base d'un plan de coordonnées"
+        ],
+        "hard": [
+          "Parce que deux vecteurs admettent des représentants dans un même plan, à condition qu'ils ne soient pas colinéaires",
+          "Parce que deux vecteurs de l'espace engendrent toujours un plan passant par l'origine du repère",
+          "Parce que la projection sur un plan de coordonnées conserve le produit scalaire"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle méthode permet de démontrer qu'une droite est orthogonale à un plan sans connaître d'équation cartésienne ?",
+      "verso": "Montrer qu'un vecteur directeur de la droite est orthogonal à deux vecteurs directeurs non colinéaires du plan",
+      "explanation": "Deux orthogonalités suffisent, car tout vecteur du plan est combinaison linéaire de ces deux-là. Vérifier l'orthogonalité avec un seul vecteur du plan serait insuffisant et constitue une erreur fréquente.",
+      "tags": [
+        "orthogonalité",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Montrer que la droite ne coupe pas le plan",
+          "Montrer que la droite passe par le centre du plan",
+          "Montrer que la droite est parallèle à un axe"
+        ],
+        "medium": [
+          "Montrer qu'un vecteur directeur de la droite est orthogonal à un vecteur directeur du plan",
+          "Montrer qu'un vecteur directeur de la droite est colinéaire à un vecteur directeur du plan",
+          "Montrer que la droite coupe le plan en un point unique"
+        ],
+        "hard": [
+          "Montrer qu'un vecteur directeur de la droite est orthogonal à trois vecteurs directeurs du plan pris deux à deux non colinéaires",
+          "Montrer qu'un vecteur directeur de la droite est orthogonal à deux vecteurs colinéaires du plan",
+          "Montrer qu'un vecteur directeur de la droite est orthogonal à deux vecteurs du plan et de norme égale à la leur"
+        ]
+      }
+    },
+    {
+      "recto": "Comment trouve-t-on le point d'un plan réalisant la distance minimale à un point extérieur, et comment obtient-on cette distance ?",
+      "verso": "Le point est le projeté orthogonal, et la distance est la longueur du vecteur joignant le point extérieur à ce projeté",
+      "explanation": "Le caractère minimal se démontre par Pythagore : tout autre point du plan ajoute un côté à un triangle rectangle. C'est ce raisonnement qu'on attend en rédaction, et non l'affirmation seule.",
+      "tags": [
+        "distance",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Le point est le centre du plan, et la distance est sa norme",
+          "Le point est l'origine, et la distance est la norme du vecteur position",
+          "Le point est le sommet le plus proche du solide"
+        ],
+        "medium": [
+          "Le point est l'intersection du plan avec un axe, et la distance se lit sur cet axe",
+          "Le point est le projeté orthogonal, et la distance est la norme du vecteur normal",
+          "Le point est le milieu entre le point extérieur et le plan"
+        ],
+        "hard": [
+          "Le point est le projeté orthogonal, et la distance est la longueur du vecteur joignant le projeté à l'origine",
+          "Le point est le projeté orthogonal, et la distance est le produit scalaire du vecteur normal par le vecteur position",
+          "Le point est le projeté orthogonal, et la distance est le quotient de ce produit scalaire par la norme du vecteur directeur"
+        ]
+      }
+    }
+  ]
+}

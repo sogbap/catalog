@@ -1,0 +1,561 @@
+{
+  "id": "jp-koukou-suugaku-suuretsu",
+  "title": "数列",
+  "emoji": "🔢",
+  "subject": "mathematics",
+  "country": "jp",
+  "courseDescription": "等差数列と等比数列の一般項と和から、シグマ記号による計算、階差数列と漸化式、そして数学的帰納法までを扱う。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>数列</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>数学B<br>\n  <b>単元：</b>数列\n</div>\n\n<blockquote>\n  <p><b>問い。</b>等比数列の和の公式に公比を代入したら、分母が 0 になった。どうすればよいだろうか。</p>\n</blockquote>\n\n<p>数列を扱うとは、<b>並んだ数そのものではなく、その規則を式で捉える</b>ことである。そして漸化式と数学的帰納法は、同じ構造をもっている——<b>前との関係だけから、全体を語る</b>という構造である。</p>\n\n<h2>1・二種類の基本数列</h2>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 160\" role=\"img\" aria-label=\"等差数列は一定の値を足すため直線的に並び等比数列は一定の値を掛けるため急激に増えることの比較\">\n  <text x=\"170\" y=\"14\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">足すか、掛けるか — それだけの違いが形を分ける</text>\n  <path d=\"M20,124 L160,124 M30,26 L30,134\" style=\"fill:none;stroke:currentColor;stroke-opacity:.3;stroke-width:1\"/>\n  <circle cx=\"46\" cy=\"112\" r=\"3.5\" style=\"fill:var(--accent)\"/>\n  <circle cx=\"70\" cy=\"96\" r=\"3.5\" style=\"fill:var(--accent)\"/>\n  <circle cx=\"94\" cy=\"80\" r=\"3.5\" style=\"fill:var(--accent)\"/>\n  <circle cx=\"118\" cy=\"64\" r=\"3.5\" style=\"fill:var(--accent)\"/>\n  <circle cx=\"142\" cy=\"48\" r=\"3.5\" style=\"fill:var(--accent)\"/>\n  <path d=\"M46,112 L142,48\" style=\"fill:none;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.2;stroke-dasharray:3,2\"/>\n  <text x=\"90\" y=\"146\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">等差数列</text>\n  <text x=\"90\" y=\"158\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"7.5\">一直線に並ぶ</text>\n  <path d=\"M188,124 L328,124 M198,26 L198,134\" style=\"fill:none;stroke:currentColor;stroke-opacity:.3;stroke-width:1\"/>\n  <circle cx=\"214\" cy=\"118\" r=\"3.5\" style=\"fill:var(--accent)\"/>\n  <circle cx=\"238\" cy=\"112\" r=\"3.5\" style=\"fill:var(--accent)\"/>\n  <circle cx=\"262\" cy=\"100\" r=\"3.5\" style=\"fill:var(--accent)\"/>\n  <circle cx=\"286\" cy=\"76\" r=\"3.5\" style=\"fill:var(--accent)\"/>\n  <circle cx=\"310\" cy=\"30\" r=\"3.5\" style=\"fill:var(--accent)\"/>\n  <path d=\"M214,118 Q262,112 310,30\" style=\"fill:none;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.2;stroke-dasharray:3,2\"/>\n  <text x=\"258\" y=\"146\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">等比数列</text>\n  <text x=\"258\" y=\"158\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"7.5\">曲線を描いて急増</text>\n</svg>\n<figcaption>単利と複利の違いが、この二つの数列の違いにそのまま対応している。</figcaption>\n</figure>\n\n<table>\n  <tr><th></th><th>等差数列</th><th>等比数列</th></tr>\n  <tr><td>規則</td><td>公差 d を<b>足す</b></td><td>公比 r を<b>掛ける</b></td></tr>\n  <tr><td>一般項</td><td>a ＋ (n－1)d</td><td>a × r の (n－1) 乗</td></tr>\n  <tr><td>和</td><td>n(a＋l)／2</td><td>a(1－r の n 乗)／(1－r)</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>要注意・指数と係数は n ではなく n－1</strong><br>\n  初項から第 n 項までに、公差を足す（公比を掛ける）回数は <b>n 回ではなく (n－1) 回</b>である。この 1 のずれが、両方の一般項で最も多い誤りの原因になる。\n</div>\n\n<p>等差数列の和が n(a＋l)／2 になるのは、<b>逆順に並べて元の数列と足し合わせる</b>と、同じ値 (a＋l) が n 個できるからである。</p>\n\n<h2>2・シグマ記号と和の公式</h2>\n\n<p>シグマ記号は<b>指定された範囲の項をすべて足す</b>ことを表す。何から何までを足すのかという<b>範囲の指定</b>が記号の本質である。</p>\n\n<ul>\n  <li>自然数の和　… <b>n(n＋1)／2</b></li>\n  <li>2 乗の和　… <b>n(n＋1)(2n＋1)／6</b>（分母は 6、第 3 因数は 2n＋1）</li>\n  <li>3 乗の和　… <b>自然数の和の 2 乗</b></li>\n</ul>\n\n<p>3 乗の和は別の公式として覚えるより、<b>「和の 2 乗に等しい」という関係</b>で記憶するほうが忘れにくい。</p>\n\n<p>分数の形をした数列の和では、<b>各項を 2 つの分数の差に分解</b>する（部分分数分解）。書き並べると<b>中間の項が次々と打ち消し合い</b>、最初と最後だけが残る。</p>\n\n<h2>3・階差数列と部分和</h2>\n\n<p>隣り合う項の差を並べた数列が<strong>階差数列</strong>である。これが等差や等比になっていれば、もとの数列の一般項が求まる。ただし注意点がある。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 132\" role=\"img\" aria-label=\"階差数列は隣り合う項の差なので第一項に対応する差が存在せず求めた式は第二項以降でしか成り立たないことを示す図\">\n  <text x=\"170\" y=\"14\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">差は「2 項の間」にできる — だから 1 つ少ない</text>\n  <circle cx=\"46\" cy=\"52\" r=\"13\" style=\"fill:var(--accent);fill-opacity:.2;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.3\"/>\n  <text x=\"46\" y=\"56\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">a₁</text>\n  <circle cx=\"118\" cy=\"52\" r=\"13\" style=\"fill:var(--accent);fill-opacity:.2;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.3\"/>\n  <text x=\"118\" y=\"56\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">a₂</text>\n  <circle cx=\"190\" cy=\"52\" r=\"13\" style=\"fill:var(--accent);fill-opacity:.2;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.3\"/>\n  <text x=\"190\" y=\"56\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">a₃</text>\n  <circle cx=\"262\" cy=\"52\" r=\"13\" style=\"fill:var(--accent);fill-opacity:.2;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.3\"/>\n  <text x=\"262\" y=\"56\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">a₄</text>\n  <path d=\"M62,68 L102,68\" style=\"fill:none;stroke:var(--accent);stroke-width:1.3\"/>\n  <text x=\"82\" y=\"86\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">b₁</text>\n  <path d=\"M134,68 L174,68\" style=\"fill:none;stroke:var(--accent);stroke-width:1.3\"/>\n  <text x=\"154\" y=\"86\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">b₂</text>\n  <path d=\"M206,68 L246,68\" style=\"fill:none;stroke:var(--accent);stroke-width:1.3\"/>\n  <text x=\"226\" y=\"86\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">b₃</text>\n  <text x=\"170\" y=\"112\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">a₁ に対応する差は存在しない</text>\n  <text x=\"170\" y=\"126\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">→ 求めた式は第 2 項以降。初項は別に確認する</text>\n</svg>\n<figcaption>同じ理屈が部分和からの復元にも当てはまる。n ＝ 1 はつねに別扱いになる。</figcaption>\n</figure>\n\n<p>第 n 部分和から第 n 項を復元するときも同じである。<b>n ≧ 2 では部分和の差</b>をとり、<b>初項は第 1 部分和として別に求める</b>。</p>\n\n<h2>4・漸化式</h2>\n\n<p>各項を<b>その前の項との関係</b>で定める式が<strong>漸化式</strong>である。初項と漸化式があれば、すべての項が順に決まる。問題になるのは、そこから一般項を求めることである。</p>\n\n<div class=\"callout\">\n  <strong>定石・「次 ＝ p × 今 ＋ q」型（p ≠ 1）</strong><br>\n  両辺から特定の定数 c を引いて<br>\n  <b>（次 － c） ＝ p（今 － c）</b><br>\n  の形に変形すれば、<b>ずらした数列が等比数列</b>になる。この c は、漸化式の文字を同じ値とおいた式（特性方程式）の解として求まる。<b>もとの数列ではなく、ずらした数列を見る</b>という発想の転換が要点である。\n</div>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 130\" role=\"img\" aria-label=\"数学的帰納法はドミノ倒しのように最初の一枚が倒れることと倒れれば次も倒れることの二つを示す方法であること\">\n  <defs>\n    <marker id=\"ar-suuretsu1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <text x=\"170\" y=\"14\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">2 つそろって、はじめて全部が倒れる</text>\n  <rect x=\"26\" y=\"34\" width=\"16\" height=\"52\" rx=\"3\" style=\"fill:var(--accent);fill-opacity:.4;stroke:var(--accent);stroke-opacity:.7;stroke-width:1.3\" transform=\"rotate(-22 34 86)\"/>\n  <rect x=\"76\" y=\"34\" width=\"16\" height=\"52\" rx=\"3\" style=\"fill:var(--accent);fill-opacity:.22;stroke:var(--accent);stroke-opacity:.55;stroke-width:1.3\"/>\n  <rect x=\"118\" y=\"34\" width=\"16\" height=\"52\" rx=\"3\" style=\"fill:var(--accent);fill-opacity:.22;stroke:var(--accent);stroke-opacity:.55;stroke-width:1.3\"/>\n  <rect x=\"160\" y=\"34\" width=\"16\" height=\"52\" rx=\"3\" style=\"fill:var(--accent);fill-opacity:.22;stroke:var(--accent);stroke-opacity:.55;stroke-width:1.3\"/>\n  <rect x=\"202\" y=\"34\" width=\"16\" height=\"52\" rx=\"3\" style=\"fill:var(--accent);fill-opacity:.22;stroke:var(--accent);stroke-opacity:.55;stroke-width:1.3\"/>\n  <rect x=\"244\" y=\"34\" width=\"16\" height=\"52\" rx=\"3\" style=\"fill:var(--accent);fill-opacity:.22;stroke:var(--accent);stroke-opacity:.55;stroke-width:1.3\"/>\n  <text x=\"290\" y=\"64\" class=\"s-muted\" font-size=\"12\">…</text>\n  <path d=\"M24,96 L44,96\" style=\"fill:none;stroke:var(--accent);stroke-width:1.6\"/>\n  <text x=\"34\" y=\"112\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8\" font-weight=\"700\">① n＝1</text>\n  <path d=\"M96,26 L126,26\" style=\"fill:none;stroke:var(--accent);stroke-width:1.6\" marker-end=\"url(#ar-suuretsu1)\"/>\n  <text x=\"152\" y=\"24\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8\" font-weight=\"700\">② n＝k → n＝k＋1</text>\n  <text x=\"170\" y=\"126\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">どちらか一方だけでは、証明にならない</text>\n</svg>\n<figcaption>①が「最初の 1 枚が倒れる」、②が「倒れれば次も倒れる」にあたる。</figcaption>\n</figure>\n\n<h2>5・数学的帰納法</h2>\n\n<p>すべての自然数について成り立つことを、<b>有限の手順で</b>証明する方法である。ドミノ倒しにたとえられる。</p>\n\n<ul>\n  <li><b>① n ＝ 1 のときに成り立つ</b>　… 最初の 1 枚が倒れる</li>\n  <li><b>② n ＝ k で成り立つと仮定すれば n ＝ k＋1 でも成り立つ</b>　… 倒れれば次も倒れる</li>\n</ul>\n\n<p><b>どちらか一方だけでは証明にならない。</b>とくに②では、<b>仮定した式をどこで使ったかを明示する</b>ことが求められる。漸化式と帰納法は、いずれも<b>前との関係だけから全体を導く</b>という同じ構造をもっている。</p>\n\n<h2>まとめ</h2>\n\n<h3>基本数列</h3>\n\n<table>\n  <tr><th>事がら</th><th>等差</th><th>等比</th></tr>\n  <tr><td>一般項</td><td>a ＋ (n－1)d</td><td>a × r の (n－1) 乗</td></tr>\n  <tr><td>和</td><td>n(a＋l)／2</td><td>a(1－r の n 乗)／(1－r)</td></tr>\n  <tr><td>変化</td><td>直線的</td><td>急激</td></tr>\n</table>\n\n<h3>和の公式</h3>\n\n<table>\n  <tr><th>対象</th><th>公式</th></tr>\n  <tr><td>自然数の和</td><td>n(n＋1)／2</td></tr>\n  <tr><td>2 乗の和</td><td>n(n＋1)(2n＋1)／6</td></tr>\n  <tr><td>3 乗の和</td><td>自然数の和の 2 乗</td></tr>\n  <tr><td>分数の和</td><td>部分分数分解して打ち消す</td></tr>\n</table>\n\n<h3>関係から全体へ</h3>\n\n<table>\n  <tr><th>用語</th><th>内容</th></tr>\n  <tr><td>階差数列</td><td>第 2 項以降で成立、初項は別に確認</td></tr>\n  <tr><td>部分和から第 n 項</td><td>n ≧ 2 で差、初項は別扱い</td></tr>\n  <tr><td>漸化式</td><td>特性方程式でずらして等比に</td></tr>\n  <tr><td>数学的帰納法</td><td>初項での成立 ＋ 次への引き継ぎ</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  等比数列の和の公式 a(1－r の n 乗)／(1－r) は、<b>r ＝ 1 のとき使えない</b>——分母が 0 になるからである。このとき和は単純に <b>na</b> となる。<b>公比に文字が含まれる問題では、r ＝ 1 の場合が起こりうるかを必ず確認</b>し、場合分けを書き添えて解答を完成させること。\n</div>\n\n<blockquote>\n  <p>漸化式も帰納法も、隣どうしの関係しか語らない。それでも無限の全体が決まってしまう——数列という単元が教えているのは、この不思議な事実である。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "数学B ― 数列",
+  "cards": [
+    {
+      "recto": "数列において、第 n 項を n の式で表したものを何というか。",
+      "verso": "一般項",
+      "explanation": "個々の項を並べるのではなく、n を与えれば任意の項が求まる形にしたものである。数列の問題は、多くの場合これを求めることに帰着する。",
+      "tags": [
+        "数列",
+        "定義"
+      ],
+      "distractors": {
+        "easy": [
+          "初項",
+          "公差",
+          "末項"
+        ],
+        "medium": [
+          "部分和",
+          "階差数列",
+          "漸化式"
+        ],
+        "hard": [
+          "第 n 部分和と完全に同一のもの",
+          "項数そのもの",
+          "数列の和の式"
+        ]
+      }
+    },
+    {
+      "recto": "隣り合う 2 項の差が一定である数列を何といい、その一定の値を何というか。",
+      "verso": "等差数列といい、その一定の差を公差という",
+      "explanation": "差が一定なので、項は直線的に増減する。グラフに点を打つと一直線上に並ぶ点が、等比数列との決定的な違いである。",
+      "tags": [
+        "等差数列",
+        "定義"
+      ],
+      "distractors": {
+        "easy": [
+          "等比数列といい、その値を公比という",
+          "階差数列といい、その値を階差という",
+          "等差数列といい、その値を公比という"
+        ],
+        "medium": [
+          "等差数列といい、その値を初項という",
+          "調和数列といい、その値を公差という",
+          "等比数列といい、その値を公差という"
+        ],
+        "hard": [
+          "等差数列といい、その値は項によって変わる",
+          "階差数列といい、その値を公差という",
+          "等差数列といい、比が一定である"
+        ]
+      }
+    },
+    {
+      "recto": "初項 a、公差 d の等差数列の一般項はどう表されるか。",
+      "verso": "a ＋ (n－1)d",
+      "explanation": "初項から第 n 項までに公差を加える回数は n 回ではなく (n－1) 回である。この 1 のずれが、最も多い誤りの原因になる。",
+      "tags": [
+        "等差数列",
+        "公式"
+      ],
+      "distractors": {
+        "easy": [
+          "a ＋ nd",
+          "a × (n－1)d",
+          "a ＋ d"
+        ],
+        "medium": [
+          "a ＋ (n＋1)d",
+          "(a－1) ＋ nd",
+          "a × d の (n－1) 乗"
+        ],
+        "hard": [
+          "a ＋ (n－1)d の n 倍",
+          "a ＋ n(n－1)d／2",
+          "a － (n－1)d"
+        ]
+      }
+    },
+    {
+      "recto": "初項 a、末項 l、項数 n の等差数列の和はどう表されるか。",
+      "verso": "n(a＋l)／2",
+      "explanation": "初項と末項を組にして足すという発想である。逆順に並べて元の数列と足し合わせると、同じ値が n 個できることから導かれる。",
+      "tags": [
+        "等差数列",
+        "和"
+      ],
+      "distractors": {
+        "easy": [
+          "n(a＋l)",
+          "(a＋l)／2",
+          "n × a × l"
+        ],
+        "medium": [
+          "n(a－l)／2",
+          "n(a＋l)／n",
+          "(a＋l)／n"
+        ],
+        "hard": [
+          "n(a＋l)／3",
+          "n²(a＋l)／2",
+          "(n＋1)(a＋l)／2"
+        ]
+      }
+    },
+    {
+      "recto": "隣り合う 2 項の比が一定である数列を何といい、その一定の値を何というか。",
+      "verso": "等比数列といい、その一定の比を公比という",
+      "explanation": "比が一定なので、項は掛け算によって変化する。公比の絶対値が 1 より大きければ急激に増大し、1 より小さければ 0 に近づく。",
+      "tags": [
+        "等比数列",
+        "定義"
+      ],
+      "distractors": {
+        "easy": [
+          "等差数列といい、その値を公差という",
+          "階差数列といい、その値を階差という",
+          "等比数列といい、その値を公差という"
+        ],
+        "medium": [
+          "等比数列といい、その値を初項という",
+          "調和数列といい、その値を公比という",
+          "等差数列といい、その値を公比という"
+        ],
+        "hard": [
+          "等比数列といい、差が一定である",
+          "等比数列といい、その値は項によって変わる",
+          "階差数列といい、その値を公比という"
+        ]
+      }
+    },
+    {
+      "recto": "初項 a、公比 r の等比数列の一般項はどう表されるか。",
+      "verso": "a × r の (n－1) 乗",
+      "explanation": "初項に公比を掛ける回数も (n－1) 回である。指数が n ではなく n－1 になる点は、等差数列の場合と同じ理屈である。",
+      "tags": [
+        "等比数列",
+        "公式"
+      ],
+      "distractors": {
+        "easy": [
+          "a × r の n 乗",
+          "a ＋ r の (n－1) 乗",
+          "a × r × n"
+        ],
+        "medium": [
+          "a × r の (n＋1) 乗",
+          "(a×r) の (n－1) 乗",
+          "a の (n－1) 乗 × r"
+        ],
+        "hard": [
+          "a × r の (n－1) 乗を n で割った値",
+          "a × (n－1) の r 乗",
+          "a × r の (n－2) 乗"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】初項 a、公比 r の等比数列の和を求めるとき、公式 a(1－r の n 乗)／(1－r) をそのまま使ってよいか。",
+      "verso": "いいえ。r ＝ 1 のときは分母が 0 になるため使えず、和は na となる別の場合として扱う必要がある",
+      "explanation": "よくある見落としである。公比に文字が含まれる問題では、r ＝ 1 の場合が起こりうるかを必ず確認しなければならない。場合分けを書き添えて、はじめて解答が完成する。",
+      "tags": [
+        "piege",
+        "等比数列"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。つねにこの公式が使える",
+          "はい。r ＝ 1 でも分母は 0 にならないから",
+          "はい。場合分けは不要だから"
+        ],
+        "medium": [
+          "はい。ただし r が正のときに限るから",
+          "はい。r ＝ 1 のときは和が 0 になるから",
+          "いいえ。r ＝ 0 のときに使えないから"
+        ],
+        "hard": [
+          "はい。r ＝ 1 のときは自動的に na が導かれるから",
+          "いいえ。r ＝ －1 のときに使えないから",
+          "はい。分母が 0 でも極限をとれば問題ないから"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】等差数列と等比数列は、項の変化のしかたという点でどう違うか。",
+      "verso": "等差数列は一定の値を足していくため直線的に変化するのに対し、等比数列は一定の値を掛けていくため急激に増減する",
+      "explanation": "グラフにすると、等差数列は一直線に並び、等比数列は曲線を描く。単利と複利の違いが、この二つの数列の違いにそのまま対応している。",
+      "tags": [
+        "comparaison",
+        "数列"
+      ],
+      "distractors": {
+        "easy": [
+          "両者に違いはない",
+          "どちらも直線的に変化する",
+          "どちらも急激に変化する"
+        ],
+        "medium": [
+          "等差数列が急激に、等比数列が直線的に変化する",
+          "違いは項数だけである",
+          "違いは初項の値だけである"
+        ],
+        "hard": [
+          "等比数列は必ず増加し、等差数列は必ず減少する",
+          "違いは和の公式の形だけである",
+          "等差数列はグラフにできない"
+        ]
+      }
+    },
+    {
+      "recto": "シグマ記号は、どのようなことを表す記号か。",
+      "verso": "指定された範囲の項をすべて足し合わせることを表す記号",
+      "explanation": "下端から上端まで変数を動かし、その各値に対する式の値を加える。何から何までを足すのかという範囲の指定が、記号の本質である。",
+      "tags": [
+        "シグマ",
+        "定義"
+      ],
+      "distractors": {
+        "easy": [
+          "すべての項を掛け合わせることを表す",
+          "最大の項を選ぶことを表す",
+          "項の平均をとることを表す"
+        ],
+        "medium": [
+          "項の個数を数えることを表す",
+          "差をとることを表す",
+          "一般項を求めることを表す"
+        ],
+        "hard": [
+          "和を項数で割ることを表す",
+          "無限個の項だけを足すことを表す",
+          "隣り合う項の差を足すことを表す"
+        ]
+      }
+    },
+    {
+      "recto": "1 から n までの自然数の和は、どのような式で表されるか。",
+      "verso": "n(n＋1)／2",
+      "explanation": "初項 1、末項 n、項数 n の等差数列の和にほかならない。シグマの計算では最も基本となる公式である。",
+      "tags": [
+        "シグマ",
+        "公式"
+      ],
+      "distractors": {
+        "easy": [
+          "n(n－1)／2",
+          "n²／2",
+          "n(n＋1)"
+        ],
+        "medium": [
+          "n(n＋1)(2n＋1)／6",
+          "n(n＋1)／3",
+          "(n＋1)²／2"
+        ],
+        "hard": [
+          "n(n＋2)／2",
+          "n²(n＋1)²／4",
+          "(n－1)n／2"
+        ]
+      }
+    },
+    {
+      "recto": "1 から n までの自然数の 2 乗の和は、どのような式で表されるか。",
+      "verso": "n(n＋1)(2n＋1)／6",
+      "explanation": "分母が 6 であることと、第 3 因数が 2n＋1 であることが要点である。3 乗の和は自然数の和の 2 乗に等しくなるという美しい性質もある。",
+      "tags": [
+        "シグマ",
+        "公式"
+      ],
+      "distractors": {
+        "easy": [
+          "n(n＋1)／2",
+          "n³／3",
+          "n(n＋1)(n＋2)／6"
+        ],
+        "medium": [
+          "n(n＋1)(2n＋1)／3",
+          "n(n＋1)(2n－1)／6",
+          "n²(n＋1)²／4"
+        ],
+        "hard": [
+          "n(n＋1)(2n＋1)／2",
+          "n(2n＋1)／6",
+          "n(n－1)(2n＋1)／6"
+        ]
+      }
+    },
+    {
+      "recto": "1 から n までの自然数の 3 乗の和は、どのような式で表されるか。",
+      "verso": "自然数の和 n(n＋1)／2 の 2 乗",
+      "explanation": "3 乗の和が、和の 2 乗に一致するという性質である。公式を別に覚えるより、この関係として記憶するほうが忘れにくい。",
+      "tags": [
+        "シグマ",
+        "公式"
+      ],
+      "distractors": {
+        "easy": [
+          "n(n＋1)／2 そのもの",
+          "n⁴／4",
+          "n(n＋1)(2n＋1)／6"
+        ],
+        "medium": [
+          "自然数の和の 3 乗",
+          "n(n＋1)(n＋2)／3",
+          "n³(n＋1)／2"
+        ],
+        "hard": [
+          "自然数の 2 乗の和の 2 乗",
+          "n²(n＋1)／4",
+          "n(n＋1)²／2"
+        ]
+      }
+    },
+    {
+      "recto": "ある数列の隣り合う項の差を並べてできる数列を何というか。",
+      "verso": "階差数列",
+      "explanation": "階差数列が等差や等比になっていれば、もとの数列の一般項を求められる。第 2 項以降について成り立つ式なので、初項の確認が必要になる。",
+      "tags": [
+        "階差数列",
+        "定義"
+      ],
+      "distractors": {
+        "easy": [
+          "等差数列",
+          "等比数列",
+          "部分和"
+        ],
+        "medium": [
+          "漸化式",
+          "一般項",
+          "調和数列"
+        ],
+        "hard": [
+          "階差数列といい、隣り合う項の比を並べたもの",
+          "第 2 階差数列と完全に同一のもの",
+          "部分分数分解の結果"
+        ]
+      }
+    },
+    {
+      "recto": "階差数列を用いてもとの数列の一般項を求めた式は、どの項から成り立つか。",
+      "verso": "第 2 項以降について成り立ち、初項が式に当てはまるかは別に確認する必要がある",
+      "explanation": "階差は 2 つの項の差なので、第 1 項に対応する差が存在しないためである。求めた式に n ＝ 1 を代入して初項と一致するかを確かめる。",
+      "tags": [
+        "階差数列",
+        "注意"
+      ],
+      "distractors": {
+        "easy": [
+          "すべての項について成り立つ",
+          "第 1 項だけについて成り立つ",
+          "最後の項だけについて成り立つ"
+        ],
+        "medium": [
+          "第 3 項以降について成り立つ",
+          "偶数番目の項だけについて成り立つ",
+          "初項は自動的に一致する"
+        ],
+        "hard": [
+          "第 2 項以降について成り立ち、初項の確認は不要である",
+          "第 n 項までのすべてで確認が必要である",
+          "項数が偶数のときだけ成り立つ"
+        ]
+      }
+    },
+    {
+      "recto": "第 n 部分和 S を用いて、数列の第 n 項を求めるにはどうすればよいか。",
+      "verso": "n ≧ 2 のとき第 n 部分和から第 (n－1) 部分和を引き、初項は第 1 部分和として別に求める",
+      "explanation": "差をとると途中の項が打ち消し合って第 n 項だけが残る。ここでも n ＝ 1 の場合は別扱いが必要になる点が共通している。",
+      "tags": [
+        "数列",
+        "部分和"
+      ],
+      "distractors": {
+        "easy": [
+          "第 n 部分和をそのまま用いる",
+          "第 n 部分和を n で割る",
+          "第 n 部分和に第 (n－1) 部分和を足す"
+        ],
+        "medium": [
+          "第 (n＋1) 部分和から第 n 部分和を引く",
+          "第 n 部分和から初項を引く",
+          "初項も同じ式で求められる"
+        ],
+        "hard": [
+          "第 n 部分和を第 (n－1) 部分和で割る",
+          "第 n 部分和の階差数列をとる",
+          "n ≧ 3 のときだけ差をとればよい"
+        ]
+      }
+    },
+    {
+      "recto": "数列の各項を、その前の項との関係で定める式を何というか。",
+      "verso": "漸化式",
+      "explanation": "初項と漸化式が与えられれば、数列のすべての項が順に決まる。この形から一般項を求めることが、この単元の主要な課題になる。",
+      "tags": [
+        "漸化式",
+        "定義"
+      ],
+      "distractors": {
+        "easy": [
+          "一般項",
+          "部分和",
+          "階差数列"
+        ],
+        "medium": [
+          "恒等式",
+          "方程式",
+          "不等式"
+        ],
+        "hard": [
+          "帰納法の仮定と完全に同一のもの",
+          "特性方程式と完全に同一のもの",
+          "数列の定義そのもの"
+        ]
+      }
+    },
+    {
+      "recto": "漸化式が「次の項 ＝ p × 今の項 ＋ q」の形（p ≠ 1）であるとき、一般項を求める定石は何か。",
+      "verso": "両辺から特定の定数を引いて「次の項 － c ＝ p(今の項 － c)」の形に変形し、等比数列に帰着させること",
+      "explanation": "この c は、漸化式の文字を同じ値とおいた式（特性方程式）の解として求められる。もとの数列そのものではなく、ずらした数列が等比数列になるという発想である。",
+      "tags": [
+        "漸化式",
+        "手法"
+      ],
+      "distractors": {
+        "easy": [
+          "両辺を p で割る",
+          "両辺から q を引く",
+          "そのまま順に計算するしかない"
+        ],
+        "medium": [
+          "両辺の対数をとる",
+          "階差数列を作る",
+          "両辺を n で割る"
+        ],
+        "hard": [
+          "等差数列に帰着させる",
+          "両辺に q を足して等比数列にする",
+          "特性方程式の解を初項とおく"
+        ]
+      }
+    },
+    {
+      "recto": "すべての自然数について成り立つ命題を証明する方法で、初項での成立と、次の項への引き継ぎを示すものを何というか。",
+      "verso": "数学的帰納法",
+      "explanation": "ドミノ倒しにたとえられる。最初の 1 枚が倒れること（n ＝ 1 での成立）と、倒れれば次も倒れること（n ＝ k から n ＝ k＋1 への引き継ぎ）の両方が要る。",
+      "tags": [
+        "帰納法",
+        "定義"
+      ],
+      "distractors": {
+        "easy": [
+          "背理法",
+          "対偶による証明",
+          "反例による証明"
+        ],
+        "medium": [
+          "帰納的推論",
+          "演繹法",
+          "場合分けによる証明"
+        ],
+        "hard": [
+          "数学的帰納法だが、初項での確認は不要である",
+          "無限降下法と完全に同一の方法",
+          "漸化式による証明と完全に同一の方法"
+        ]
+      }
+    },
+    {
+      "recto": "数学的帰納法の証明で、必ず示さなければならない 2 つのことは何か。",
+      "verso": "n ＝ 1 のときに成り立つことと、n ＝ k のとき成り立つと仮定すれば n ＝ k＋1 のときも成り立つこと",
+      "explanation": "どちらか一方だけでは証明にならない。とくに 2 つめでは、仮定した式をどこで使ったかを明示することが求められる。",
+      "tags": [
+        "帰納法",
+        "手順"
+      ],
+      "distractors": {
+        "easy": [
+          "n ＝ 1 と n ＝ 2 のときに成り立つこと",
+          "すべての n について直接計算すること",
+          "n が十分大きいときに成り立つこと"
+        ],
+        "medium": [
+          "n ＝ 1 での成立だけを示せばよい",
+          "n ＝ k から n ＝ k＋1 への引き継ぎだけを示せばよい",
+          "n ＝ k－1 から n ＝ k への引き継ぎを示すこと"
+        ],
+        "hard": [
+          "n ＝ 0 のときの成立と引き継ぎを示すこと",
+          "引き継ぎでは仮定を使ってはならない",
+          "n ＝ 1 での成立と n が無限大での成立"
+        ]
+      }
+    },
+    {
+      "recto": "分数の形をした数列の和を求めるとき、有効な変形の手立ては何か。",
+      "verso": "各項を 2 つの分数の差に分解し、隣り合う項が打ち消し合うようにすること",
+      "explanation": "部分分数分解と呼ばれる。書き並べると中間の項が次々と消え、最初と最後だけが残る。この打ち消しの構造を見抜くことが要点である。",
+      "tags": [
+        "シグマ",
+        "手法"
+      ],
+      "distractors": {
+        "easy": [
+          "分母を払って整数にする",
+          "すべて通分してから足す",
+          "分数のまま順に足すしかない"
+        ],
+        "medium": [
+          "各項を 2 つの分数の和に分解する",
+          "分子と分母を入れ替える",
+          "分母を 2 乗する"
+        ],
+        "hard": [
+          "各項を階差数列に置き換える",
+          "分母の最小公倍数で割る",
+          "シグマの公式をそのまま適用する"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、数列の学習はどのように整理できるか。",
+      "verso": "並んだ数の規則を一般項として式に表し、和を計算する道具を身につけたうえで、漸化式や帰納法によって前の項との関係から全体を把握できるようにすること",
+      "explanation": "個々の項を追うのではなく、規則そのものを式で捉える営みである。漸化式と帰納法は、有限の情報から無限の主張を導くという共通の構造をもつ。",
+      "tags": [
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "公式を暗記するだけの単元であること",
+          "計算の速さだけが問われること",
+          "特に整理できない"
+        ],
+        "medium": [
+          "一般項が分からなくても和は求まること",
+          "漸化式と一般項は無関係であること",
+          "帰納法は数列にしか使えないこと"
+        ],
+        "hard": [
+          "初項の確認は省略してよいこと",
+          "場合分けは必要にならないこと",
+          "和の公式はつねに例外なく使えること"
+        ]
+      }
+    }
+  ]
+}

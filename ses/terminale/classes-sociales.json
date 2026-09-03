@@ -1,0 +1,666 @@
+{
+  "id": "ses-terminale-classes-sociales",
+  "title": "Comment est structurée la société française actuelle ?",
+  "emoji": "🏛️",
+  "subject": "ses",
+  "country": "fr",
+  "courseDescription": "Spé SES · Terminale — facteurs de structuration de l'espace social, évolutions de la structure socioprofessionnelle, approches de Marx, Weber et Bourdieu, moyennisation et polarisation.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Comment est structurée la société française actuelle&nbsp;?</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · spécialité SES<br>\n  <b>Thème&nbsp;:</b> Sociologie et science politique — chapitre 1<br>\n  <b>Chapitre</b> · environ 4 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> Existe-t-il encore des classes sociales, ou seulement des individus&nbsp;?</p></blockquote>\n\n<p>Presque personne ne se dit aujourd'hui «&nbsp;ouvrier&nbsp;» ou «&nbsp;bourgeois&nbsp;» pour se présenter, et pourtant les écarts d'espérance de vie, de patrimoine ou de réussite scolaire entre groupes sociaux n'ont guère bougé. Ce décalage est le fil du chapitre. Il oblige à distinguer deux plans que les copies confondent constamment&nbsp;: les <strong>écarts objectifs</strong>, qui se mesurent, et le <strong>sentiment d'appartenance</strong>, qui s'effrite. Avant de trancher, il faut disposer d'outils&nbsp;— ceux de la statistique publique, puis ceux de Marx, Weber et Bourdieu.</p>\n\n<h2>1 · Décrire l'espace social</h2>\n\n<p>L'<strong>espace social</strong> représente la société comme un ensemble de positions hiérarchisées et différenciées. L'expression insiste sur un point&nbsp;: la position n'est pas donnée par un critère unique, mais par la <em>combinaison</em> de plusieurs.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 185\" role=\"img\" aria-label=\"Les facteurs de structuration de l'espace social : la catégorie socioprofessionnelle, le revenu et le diplôme, mais aussi la composition du ménage, la position dans le cycle de vie, le sexe et le lieu de résidence, tous ces facteurs se combinant sans se recouvrir\">\n    <rect x=\"86\" y=\"66\" width=\"168\" height=\"46\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".25\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"86\" font-size=\"11\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">position sociale</text>\n    <text x=\"170\" y=\"102\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">une combinaison, jamais un seul critère</text>\n    <rect x=\"8\" y=\"14\" width=\"94\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".14\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"55\" y=\"33\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">profession</text>\n    <rect x=\"124\" y=\"14\" width=\"92\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".14\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"170\" y=\"33\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">revenu, patrimoine</text>\n    <rect x=\"238\" y=\"14\" width=\"94\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".14\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"285\" y=\"33\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">diplôme</text>\n    <line x1=\"55\" y1=\"46\" x2=\"110\" y2=\"66\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <line x1=\"170\" y1=\"46\" x2=\"170\" y2=\"64\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <line x1=\"285\" y1=\"46\" x2=\"230\" y2=\"66\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <rect x=\"8\" y=\"134\" width=\"76\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".14\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"46\" y=\"153\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">sexe</text>\n    <rect x=\"94\" y=\"134\" width=\"76\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".14\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"132\" y=\"147\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">cycle de vie</text>\n    <text x=\"132\" y=\"158\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">âge</text>\n    <rect x=\"180\" y=\"134\" width=\"76\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".14\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"218\" y=\"147\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">composition</text>\n    <text x=\"218\" y=\"158\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">du ménage</text>\n    <rect x=\"266\" y=\"134\" width=\"66\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".14\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"299\" y=\"147\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">lieu de</text>\n    <text x=\"299\" y=\"158\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">résidence</text>\n    <line x1=\"46\" y1=\"132\" x2=\"110\" y2=\"114\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <line x1=\"132\" y1=\"132\" x2=\"150\" y2=\"114\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <line x1=\"218\" y1=\"132\" x2=\"196\" y2=\"114\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <line x1=\"299\" y1=\"132\" x2=\"234\" y2=\"114\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"170\" y=\"180\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">Ces facteurs se croisent et ne se recouvrent pas.</text>\n  </svg>\n  <figcaption>Deux personnes de même profession peuvent occuper des positions très différentes.</figcaption>\n</figure>\n\n<p>L'outil statistique de référence est la nomenclature des <strong>catégories socioprofessionnelles</strong> de l'INSEE, construite sur le statut d'emploi, le secteur, la qualification et la position hiérarchique — et distinguant indépendants et salariés. Elle est indispensable&nbsp;; elle n'est pas pour autant une théorie des classes.</p>\n\n<h3>Quatre évolutions à connaître</h3>\n\n<ul>\n  <li><strong>Salarisation</strong>&nbsp;: hausse de la part des salariés, recul des agriculteurs exploitants et petits commerçants&nbsp;— mouvement ralenti depuis les années 2000 avec les nouvelles formes d'indépendance.</li>\n  <li><strong>Tertiarisation</strong>&nbsp;: déplacement de l'emploi vers les services, sous l'effet des gains de productivité, de l'évolution de la demande et de l'externalisation.</li>\n  <li><strong>Élévation du niveau de qualification</strong>&nbsp;: massification scolaire et transformation des emplois&nbsp;— sans garantie que chacun occupe un poste correspondant à son diplôme.</li>\n  <li><strong>Féminisation</strong>&nbsp;: forte hausse du taux d'activité des femmes, mais concentrée dans certains métiers et souvent à temps partiel.</li>\n</ul>\n\n<h2>2 · Trois manières de penser la structure sociale</h2>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Comparaison des approches de Marx, Weber et Bourdieu : Marx définit les classes par la place dans les rapports de production selon une approche unidimensionnelle et conflictuelle, Weber croise trois ordres autonomes économique social et politique, Bourdieu situe les individus par le volume et la structure de leurs capitaux économique culturel et social\">\n    <rect x=\"8\" y=\"14\" width=\"102\" height=\"150\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"59\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">Marx</text>\n    <text x=\"59\" y=\"56\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">rapports de</text>\n    <text x=\"59\" y=\"68\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">production</text>\n    <text x=\"59\" y=\"92\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">une dimension</text>\n    <text x=\"59\" y=\"106\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">antagonisme</text>\n    <line x1=\"24\" y1=\"118\" x2=\"94\" y2=\"118\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"59\" y=\"136\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">classe en soi</text>\n    <text x=\"59\" y=\"150\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">classe pour soi</text>\n    <rect x=\"118\" y=\"14\" width=\"102\" height=\"150\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".14\" stroke=\"var(--accent)\" stroke-opacity=\".45\"/>\n    <text x=\"169\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">Weber</text>\n    <text x=\"169\" y=\"56\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">trois ordres</text>\n    <text x=\"169\" y=\"68\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">autonomes</text>\n    <text x=\"169\" y=\"92\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">multidimensionnel</text>\n    <line x1=\"134\" y1=\"104\" x2=\"204\" y2=\"104\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"169\" y=\"122\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">économique : classes</text>\n    <text x=\"169\" y=\"136\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">social : groupes de statut</text>\n    <text x=\"169\" y=\"150\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">politique : partis</text>\n    <rect x=\"228\" y=\"14\" width=\"104\" height=\"150\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".14\" stroke=\"var(--accent)\" stroke-opacity=\".45\"/>\n    <text x=\"280\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">Bourdieu</text>\n    <text x=\"280\" y=\"56\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">volume et</text>\n    <text x=\"280\" y=\"68\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">structure des capitaux</text>\n    <text x=\"280\" y=\"92\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">habitus, styles de vie</text>\n    <line x1=\"244\" y1=\"104\" x2=\"316\" y2=\"104\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"280\" y=\"122\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">capital économique</text>\n    <text x=\"280\" y=\"136\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">capital culturel</text>\n    <text x=\"280\" y=\"150\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">capital social</text>\n    <text x=\"170\" y=\"188\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Trois outils complémentaires, pas trois thèses concurrentes à départager.</text>\n  </svg>\n  <figcaption>Chaque approche éclaire une part du réel&nbsp;; aucune ne suffit seule.</figcaption>\n</figure>\n\n<h3>Marx&nbsp;: la place dans les rapports de production</h3>\n\n<p>Les classes se définissent par la <strong>place occupée dans les rapports de production</strong>&nbsp;: détenteurs des moyens de production d'un côté, détenteurs de leur seule force de travail de l'autre. L'approche est <em>unidimensionnelle</em> et fondée sur un <strong>antagonisme d'intérêts</strong>, non sur une différence de niveau de vie.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Classe en soi / classe pour soi</strong><br>\n  La <em>classe en soi</em> partage objectivement une même position dans la production.<br>\n  La <em>classe pour soi</em> a pris conscience de ses intérêts communs et s'organise pour les défendre.<br>\n  Le passage de l'une à l'autre n'a rien d'automatique&nbsp;— et c'est exactement ce qui fait débat aujourd'hui.\n</div>\n\n<h3>Weber&nbsp;: trois ordres autonomes</h3>\n\n<p>Weber croise l'<strong>ordre économique</strong> (les classes), l'<strong>ordre social</strong> (les <em>groupes de statut</em>, fondés sur le prestige et un style de vie commun) et l'<strong>ordre politique</strong> (les partis). Ces trois ordres sont <strong>autonomes</strong>&nbsp;: le prestige ne découle pas mécaniquement de la richesse — un professeur peut jouir d'un statut élevé avec un revenu modeste —, ni le pouvoir politique du prestige. Un individu peut donc être bien classé dans une dimension et mal dans une autre.</p>\n\n<h3>Bourdieu&nbsp;: volume et structure des capitaux</h3>\n\n<p>Bourdieu situe les individus par trois capitaux — <strong>économique</strong>, <strong>culturel</strong>, <strong>social</strong> — et par une double lecture&nbsp;: le <em>volume</em> total et la <em>structure</em>, c'est-à-dire la part respective de l'économique et du culturel. Deux individus au même volume global occupent des positions distinctes selon cette composition.</p>\n\n<p>Le <strong>capital culturel</strong> prend trois formes&nbsp;: <em>incorporée</em> (dispositions acquises), <em>objectivée</em> (biens possédés), <em>institutionnalisée</em> (diplômes). La forme incorporée s'acquiert surtout par socialisation familiale précoce&nbsp;— ce qui la rend difficile à rattraper par l'école seule, et explique la reproduction des positions.</p>\n\n<p>L'<strong>habitus</strong> désigne enfin l'ensemble des dispositions durables acquises par socialisation, qui orientent les manières de penser, de percevoir et d'agir. Il rend compte de goûts apparemment individuels qui se révèlent statistiquement liés à l'origine sociale.</p>\n\n<h2>3 · Moyennisation ou polarisation&nbsp;?</h2>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 185\" role=\"img\" aria-label=\"Opposition entre la thèse de la moyennisation, où les écarts se resserrent autour d'une vaste classe moyenne pendant les décennies de forte croissance, et la thèse de la polarisation, où les écarts se creusent de nouveau entre le haut et le bas tandis que les positions intermédiaires se fragilisent\">\n    <text x=\"86\" y=\"18\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">moyennisation</text>\n    <text x=\"86\" y=\"32\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">après-guerre, forte croissance</text>\n    <rect x=\"56\" y=\"42\" width=\"60\" height=\"14\" rx=\"7\" fill=\"var(--accent)\" fill-opacity=\".30\"/>\n    <rect x=\"36\" y=\"62\" width=\"100\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".45\"/>\n    <text x=\"86\" y=\"82\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">vaste classe moyenne</text>\n    <rect x=\"56\" y=\"98\" width=\"60\" height=\"14\" rx=\"7\" fill=\"var(--accent)\" fill-opacity=\".30\"/>\n    <text x=\"86\" y=\"132\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">les écarts se resserrent</text>\n    <line x1=\"170\" y1=\"14\" x2=\"170\" y2=\"150\" stroke=\"currentColor\" stroke-opacity=\".25\"/>\n    <text x=\"254\" y=\"18\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">polarisation</text>\n    <text x=\"254\" y=\"32\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">depuis les années 1980</text>\n    <rect x=\"214\" y=\"42\" width=\"80\" height=\"22\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".45\"/>\n    <text x=\"254\" y=\"57\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">très hauts revenus</text>\n    <rect x=\"234\" y=\"70\" width=\"40\" height=\"14\" rx=\"7\" fill=\"var(--accent)\" fill-opacity=\".18\"/>\n    <text x=\"254\" y=\"97\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">positions intermédiaires</text>\n    <text x=\"254\" y=\"108\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">fragilisées</text>\n    <rect x=\"214\" y=\"114\" width=\"80\" height=\"22\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".45\"/>\n    <text x=\"254\" y=\"129\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">emplois précaires</text>\n    <text x=\"170\" y=\"170\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">La seconde thèse conteste la première sans annuler ce qu'elle décrivait.</text>\n  </svg>\n  <figcaption>Deux lectures d'une même trajectoire&nbsp;: le débat porte sur la période récente.</figcaption>\n</figure>\n\n<p>La <strong>moyennisation</strong> — réduction des écarts et constitution d'une vaste classe moyenne aux modes de vie proches — a été observée pendant les décennies de forte croissance de l'après-guerre. Depuis les années 1980, les analyses en termes de <strong>polarisation</strong> insistent sur la progression très rapide des plus hauts revenus, la précarisation de certains emplois et la disparition d'emplois intermédiaires.</p>\n\n<h3>Le débat de fin de chapitre</h3>\n\n<p>La question «&nbsp;y a-t-il encore des classes sociales&nbsp;?&nbsp;» se traite en <strong>séparant deux plans</strong>.</p>\n\n<ul>\n  <li><em>Contre la pertinence des classes</em>&nbsp;: affaiblissement de la conscience de classe, individualisation des parcours, montée d'autres clivages (sexe, âge, territoire), frontières floues. Ces arguments portent surtout sur la dimension <strong>subjective</strong>.</li>\n  <li><em>Pour la persistance des classes</em>&nbsp;: stabilité des écarts de revenus, de patrimoine, de santé, de pratiques culturelles, et forte reproduction sociale. Ces constats sont <strong>objectifs</strong> et ne dépendent pas du sentiment d'appartenance.</li>\n</ul>\n\n<p>D'où la formule qui synthétise le débat&nbsp;: des <strong>classes sociales sans conscience de classe</strong>.</p>\n\n<p>Deux facteurs méritent enfin une mention propre. Le <strong>lieu de résidence</strong> ne fait pas que refléter les positions sociales&nbsp;: par la ségrégation spatiale, il les <em>renforce</em>, en différenciant l'accès à l'emploi, à l'école et aux services. Et le <strong>sexe</strong> croise tous les autres facteurs&nbsp;— si bien que l'écart entre femmes de milieux différents peut dépasser l'écart moyen entre les sexes.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Le raisonnement du chapitre</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Frise du raisonnement du chapitre : décrire l'espace social et ses facteurs, retracer les évolutions de la structure socioprofessionnelle, mobiliser les théories de Marx Weber et Bourdieu, opposer moyennisation et polarisation, puis trancher le débat en distinguant écarts objectifs et conscience de classe\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"176\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">1. Décrire</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Facteurs multiples, catégories de l'INSEE</text>\n    <circle cx=\"26\" cy=\"60\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"57\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">2. Retracer</text>\n    <text x=\"44\" y=\"70\" font-size=\"10\" fill=\"currentColor\">Salarisation, tertiarisation, qualification</text>\n    <circle cx=\"26\" cy=\"100\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"97\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">3. Théoriser</text>\n    <text x=\"44\" y=\"110\" font-size=\"10\" fill=\"currentColor\">Marx, Weber, Bourdieu</text>\n    <circle cx=\"26\" cy=\"140\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"137\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">4. Opposer</text>\n    <text x=\"44\" y=\"150\" font-size=\"10\" fill=\"currentColor\">Moyennisation contre polarisation</text>\n    <circle cx=\"26\" cy=\"176\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"173\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">5. Trancher</text>\n    <text x=\"44\" y=\"186\" font-size=\"10\" fill=\"currentColor\">Écarts objectifs / conscience de classe</text>\n  </svg>\n  <figcaption>L'étape 5 exige de distinguer deux plans&nbsp;— c'est là que se joue la note.</figcaption>\n</figure>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition en une ligne</th></tr>\n  <tr><td>Espace social</td><td>Positions hiérarchisées selon plusieurs critères croisés</td></tr>\n  <tr><td>Classe en soi / pour soi</td><td>Position objective / conscience et organisation</td></tr>\n  <tr><td>Groupe de statut</td><td>Prestige social et style de vie communs (Weber)</td></tr>\n  <tr><td>Capital culturel</td><td>Incorporé, objectivé, institutionnalisé (Bourdieu)</td></tr>\n  <tr><td>Habitus</td><td>Dispositions durables acquises par socialisation</td></tr>\n  <tr><td>Moyennisation</td><td>Resserrement des écarts autour d'une classe moyenne</td></tr>\n</table>\n\n<h3>Auteurs et approches</h3>\n\n<table>\n  <tr><th>Auteur</th><th>Critère</th><th>Nature de l'approche</th></tr>\n  <tr><td>Karl Marx</td><td>Place dans les rapports de production</td><td>Unidimensionnelle, conflictuelle</td></tr>\n  <tr><td>Max Weber</td><td>Classes, statut, parti</td><td>Multidimensionnelle, ordres autonomes</td></tr>\n  <tr><td>Pierre Bourdieu</td><td>Volume et structure des capitaux</td><td>Position et styles de vie</td></tr>\n  <tr><td>Thèse de la moyennisation</td><td>Niveau de vie</td><td>Convergence des groupes</td></tr>\n  <tr><td>Thèse de la polarisation</td><td>Écarts haut / bas</td><td>Divergence renouvelée</td></tr>\n</table>\n\n<h3>Mécanismes à savoir rédiger</h3>\n\n<table>\n  <tr><th>Enchaînement</th><th>Étapes</th></tr>\n  <tr><td>Tertiarisation</td><td>Gains de productivité → transfert d'emplois → hausse des employés et professions intermédiaires</td></tr>\n  <tr><td>Reproduction sociale</td><td>Capital culturel incorporé → aisance scolaire → diplôme → position sociale</td></tr>\n  <tr><td>Distinction</td><td>Position sociale → habitus → goûts et pratiques → marquage des frontières</td></tr>\n  <tr><td>Ségrégation spatiale</td><td>Position sociale → lieu de résidence → ressources accessibles → position renforcée</td></tr>\n  <tr><td>Polarisation</td><td>Très hauts revenus en hausse + emplois intermédiaires en recul → écarts creusés</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Traiter les <strong>catégories socioprofessionnelles de l'INSEE</strong> comme des <strong>classes sociales</strong>. Ce sont des catégories <em>statistiques</em>, construites pour décrire la population&nbsp;: elles ne supposent ni conscience commune ni intérêts antagonistes. On peut s'en servir comme approximation, à condition de le dire. Deux erreurs voisines&nbsp;: confondre <em>classe en soi</em> et <em>classe pour soi</em> — le passage de l'une à l'autre est justement le point en débat&nbsp;; et conclure de l'affaiblissement du sentiment d'appartenance à la disparition des écarts objectifs, alors que ces deux plans évoluent séparément.\n</div>\n\n<blockquote><p>Les classes sociales ont peut-être cessé de se dire&nbsp;; elles n'ont pas cessé de se mesurer. Toute la sociologie contemporaine de la stratification tient dans cet écart entre ce que les individus perçoivent et ce que les statistiques enregistrent.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Spécialité SES — Sociologie et science politique",
+  "cards": [
+    {
+      "recto": "Qu'appelle-t-on l'espace social ?",
+      "verso": "La représentation de la société comme un ensemble de positions hiérarchisées et différenciées, occupées par les individus selon plusieurs critères",
+      "explanation": "L'expression insiste sur le fait que la position sociale n'est pas donnée par un seul critère, mais par la combinaison de plusieurs. C'est le cadre commun aux différentes théories du chapitre, quelle que soit leur définition des groupes.",
+      "tags": [
+        "espace social",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "L'ensemble des lieux publics d'une ville",
+          "La surface habitable dont dispose un ménage",
+          "L'ensemble des associations d'un territoire"
+        ],
+        "medium": [
+          "La répartition géographique de la population sur un territoire",
+          "L'ensemble des relations amicales d'un individu",
+          "Le classement des individus selon leur seul revenu"
+        ],
+        "hard": [
+          "La représentation de la société comme un ensemble de positions hiérarchisées selon le seul critère professionnel",
+          "La représentation de la société comme un ensemble de positions égales et interchangeables",
+          "La représentation de la société comme un ensemble de groupes fermés sans mobilité possible"
+        ]
+      }
+    },
+    {
+      "recto": "Quels sont les principaux facteurs de structuration et de hiérarchisation de l'espace social ?",
+      "verso": "La catégorie socioprofessionnelle, le revenu, le diplôme, la composition du ménage, la position dans le cycle de vie, le sexe et le lieu de résidence",
+      "explanation": "Ces facteurs se combinent et ne se recouvrent pas : deux personnes de même profession peuvent occuper des positions différentes selon leur âge, leur territoire ou leur patrimoine. Réduire la position sociale à la seule profession appauvrit donc l'analyse.",
+      "tags": [
+        "facteurs",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Uniquement le revenu et le patrimoine",
+          "Uniquement la profession exercée",
+          "Uniquement le niveau de diplôme"
+        ],
+        "medium": [
+          "Le revenu et le diplôme uniquement, les autres critères étant secondaires",
+          "La profession et le lieu de résidence, à l'exclusion du cycle de vie",
+          "La profession, le revenu et le patrimoine, le sexe n'étant pas un facteur de hiérarchisation"
+        ],
+        "hard": [
+          "La profession, le revenu, le diplôme, le sexe et le lieu de résidence, ces facteurs se recouvrant exactement",
+          "La profession, le revenu et le diplôme, la composition du ménage relevant de la sphère privée",
+          "L'ensemble de ces facteurs, hiérarchisés dans un ordre d'importance identique pour tous les individus"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : les catégories socioprofessionnelles de l'INSEE sont-elles des classes sociales ?",
+      "verso": "Non : ce sont des catégories statistiques construites pour décrire la population, sans supposer que leurs membres partagent une conscience commune ni des intérêts antagonistes",
+      "explanation": "Une classe sociale, au sens sociologique, suppose un mode de vie partagé et parfois une conscience collective, ce qu'une nomenclature ne décrète pas. Utiliser les catégories socioprofessionnelles comme approximation reste utile, à condition de le dire.",
+      "tags": [
+        "piege",
+        "PCS"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, les deux expressions sont synonymes",
+          "Oui, l'INSEE reprend exactement la classification de Marx",
+          "Non, car elles ne concernent que les salariés"
+        ],
+        "medium": [
+          "Oui, à condition de les regrouper en trois grands ensembles",
+          "Non, car elles sont fondées uniquement sur le revenu",
+          "Oui, puisqu'elles sont hiérarchisées de haut en bas"
+        ],
+        "hard": [
+          "Non, ce sont des catégories statistiques, ce qui interdit de s'en servir pour étudier les classes sociales",
+          "Non, mais leurs membres partagent nécessairement des intérêts communs et une conscience collective",
+          "Non, car elles reposent sur la position dans les rapports de production et non sur la profession"
+        ]
+      }
+    },
+    {
+      "recto": "Sur quels critères repose la nomenclature des catégories socioprofessionnelles ?",
+      "verso": "Le statut d'emploi, le secteur d'activité, la qualification et la position hiérarchique, ainsi que la distinction entre indépendants et salariés",
+      "explanation": "Ces critères permettent de regrouper des personnes exerçant des métiers différents mais occupant des positions comparables. La nomenclature isole aussi les inactifs, qui forment une catégorie à part entière.",
+      "tags": [
+        "PCS",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le montant du revenu perçu chaque mois",
+          "Le niveau de diplôme obtenu",
+          "L'âge et le sexe des individus"
+        ],
+        "medium": [
+          "Le revenu et le patrimoine détenu",
+          "Le lieu de résidence et la taille du ménage",
+          "Le rapport aux moyens de production, comme chez Marx"
+        ],
+        "hard": [
+          "Le statut d'emploi, la qualification et la position hiérarchique, les inactifs n'étant pas classés",
+          "Le statut d'emploi et le secteur d'activité uniquement, la position hiérarchique n'intervenant pas",
+          "Le statut d'emploi, la qualification et le revenu, critère central de la nomenclature"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on la salarisation de l'emploi ?",
+      "verso": "L'augmentation de la part des salariés dans la population active, au détriment des travailleurs indépendants",
+      "explanation": "Elle traduit le recul des agriculteurs exploitants et des petits commerçants au profit du salariat, dans l'industrie puis dans les services. Le mouvement s'est ralenti depuis les années 2000 avec le développement de nouvelles formes d'indépendance.",
+      "tags": [
+        "évolutions",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "L'augmentation générale des salaires",
+          "La hausse du salaire minimum",
+          "L'augmentation du nombre d'emplois créés"
+        ],
+        "medium": [
+          "L'augmentation de la part des indépendants dans la population active",
+          "La hausse de la part des salaires dans la valeur ajoutée",
+          "L'uniformisation des salaires entre les secteurs"
+        ],
+        "hard": [
+          "L'augmentation de la part des salariés, mouvement qui s'est accéléré depuis les années 2000",
+          "L'augmentation de la part des salariés, phénomène limité au secteur industriel",
+          "L'augmentation de la part des salariés dans la population totale, inactifs compris"
+        ]
+      }
+    },
+    {
+      "recto": "Que désigne la tertiarisation de l'économie ?",
+      "verso": "Le déplacement de l'emploi vers le secteur des services, au détriment de l'agriculture puis de l'industrie",
+      "explanation": "Elle résulte des gains de productivité dans les secteurs primaire et secondaire, de l'évolution de la demande et de l'externalisation d'activités de services par les entreprises industrielles. Elle transforme la structure socioprofessionnelle en développant employés et professions intermédiaires.",
+      "tags": [
+        "évolutions",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "La création d'un troisième secteur d'activité",
+          "L'augmentation du nombre d'entreprises de service public",
+          "Le passage à la semaine de trois jours"
+        ],
+        "medium": [
+          "Le déplacement de l'emploi vers l'industrie",
+          "La hausse de la part de l'agriculture dans l'emploi",
+          "La spécialisation d'un pays dans les seuls services financiers"
+        ],
+        "hard": [
+          "Le déplacement de l'emploi vers les services, sans lien avec les gains de productivité des autres secteurs",
+          "Le déplacement de l'emploi vers les services, phénomène qui réduit la part des employés dans l'emploi",
+          "Le déplacement de l'emploi vers les services, expliqué uniquement par l'externalisation industrielle"
+        ]
+      }
+    },
+    {
+      "recto": "Comment le niveau de qualification de la population active a-t-il évolué depuis les années 1950 ?",
+      "verso": "Il s'est fortement élevé, sous l'effet de la massification scolaire et de la transformation des emplois vers des postes plus qualifiés",
+      "explanation": "La part des cadres et professions intellectuelles supérieures a été multipliée par plusieurs fois, tandis que celle des ouvriers non qualifiés reculait. Cette élévation ne garantit pourtant pas que chacun occupe un emploi correspondant à son diplôme.",
+      "tags": [
+        "évolutions",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Il a baissé continûment",
+          "Il est resté strictement stable",
+          "Il a baissé puis retrouvé son niveau initial"
+        ],
+        "medium": [
+          "Il s'est élevé uniquement chez les hommes",
+          "Il s'est élevé sans que la structure des emplois ne change",
+          "Il s'est élevé uniquement dans le secteur public"
+        ],
+        "hard": [
+          "Il s'est élevé, ce qui garantit à chacun un emploi correspondant à son niveau de diplôme",
+          "Il s'est élevé sous l'effet de la massification scolaire, la structure des emplois n'ayant pas évolué",
+          "Il s'est élevé, la part des cadres étant demeurée à peu près constante"
+        ]
+      }
+    },
+    {
+      "recto": "Que recouvre la féminisation des emplois ?",
+      "verso": "La hausse du taux d'activité des femmes et leur entrée massive sur le marché du travail, concentrée toutefois dans certains métiers et souvent sur des emplois à temps partiel",
+      "explanation": "La progression quantitative s'accompagne d'une ségrégation professionnelle persistante, horizontale entre métiers et verticale dans les hiérarchies. La féminisation n'a donc pas fait disparaître les inégalités professionnelles entre les sexes.",
+      "tags": [
+        "évolutions",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "La majorité de femmes dans toutes les professions",
+          "L'égalité parfaite des salaires entre hommes et femmes",
+          "La création d'emplois réservés aux femmes"
+        ],
+        "medium": [
+          "La hausse du taux d'activité des femmes, répartie uniformément entre tous les métiers",
+          "La disparition de la ségrégation professionnelle entre les sexes",
+          "La baisse du temps partiel féminin au profit du temps plein"
+        ],
+        "hard": [
+          "La hausse du taux d'activité des femmes, concentrée dans certains métiers, ce qui a supprimé la ségrégation verticale",
+          "La hausse du taux d'activité des femmes, phénomène qui concerne exclusivement les emplois qualifiés",
+          "La hausse du taux d'activité des femmes, accompagnée d'une convergence complète des carrières"
+        ]
+      }
+    },
+    {
+      "recto": "Comment Karl Marx définit-il les classes sociales ?",
+      "verso": "Par la place occupée dans les rapports de production, qui oppose ceux qui détiennent les moyens de production à ceux qui ne disposent que de leur force de travail",
+      "explanation": "L'approche est donc unidimensionnelle et fondée sur un antagonisme d'intérêts, non sur une simple différence de niveau de vie. Elle débouche sur une lecture conflictuelle de l'histoire des sociétés.",
+      "tags": [
+        "Marx",
+        "théorie"
+      ],
+      "distractors": {
+        "easy": [
+          "Par le niveau de revenu de chacun",
+          "Par le diplôme le plus élevé obtenu",
+          "Par le lieu d'habitation"
+        ],
+        "medium": [
+          "Par le prestige social attaché à la profession",
+          "Par la combinaison du revenu, du statut et du pouvoir politique",
+          "Par le mode de consommation et les goûts culturels"
+        ],
+        "hard": [
+          "Par la place dans les rapports de production, définition compatible avec une absence d'antagonisme d'intérêts",
+          "Par la place dans les rapports de production, ce qui suppose une approche multidimensionnelle",
+          "Par la détention du capital culturel, qui détermine la place dans la production"
+        ]
+      }
+    },
+    {
+      "recto": "Que distingue Karl Marx entre classe en soi et classe pour soi ?",
+      "verso": "La classe en soi désigne un groupe partageant objectivement une même position dans la production, la classe pour soi un groupe devenu conscient de ses intérêts communs et organisé pour les défendre",
+      "explanation": "Le passage de l'une à l'autre suppose une conscience de classe et une mobilisation collective, qui ne vont pas de soi. C'est précisément ce passage qui fait débat lorsqu'on examine la société française contemporaine.",
+      "tags": [
+        "Marx",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La classe en soi est riche, la classe pour soi est pauvre",
+          "La classe en soi est ancienne, la classe pour soi est récente",
+          "Les deux expressions désignent la même chose"
+        ],
+        "medium": [
+          "La classe en soi est consciente de ses intérêts, la classe pour soi ne l'est pas",
+          "La classe en soi regroupe les salariés, la classe pour soi les indépendants",
+          "La classe en soi est définie par le revenu, la classe pour soi par le prestige"
+        ],
+        "hard": [
+          "La classe en soi partage une position objective, la classe pour soi une position subjective sans organisation",
+          "La classe en soi est organisée pour défendre ses intérêts, la classe pour soi partage seulement une position objective",
+          "La classe en soi devient nécessairement classe pour soi dès que ses membres ont conscience de leur position"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : qu'est-ce qui oppose l'approche de Marx à celle de Weber sur la structure sociale ?",
+      "verso": "Marx propose une approche unidimensionnelle fondée sur la place dans les rapports de production et sur l'antagonisme des classes, tandis que Weber propose une approche multidimensionnelle croisant l'ordre économique, l'ordre social du prestige et l'ordre politique",
+      "explanation": "Chez Weber, un individu peut être bien classé dans une dimension et mal dans une autre, ce qui rend les positions moins cohérentes et les conflits moins prévisibles. Les deux approches ne s'excluent pas et sont souvent combinées par les sociologues contemporains.",
+      "tags": [
+        "comparaison",
+        "théories"
+      ],
+      "distractors": {
+        "easy": [
+          "Marx est allemand et Weber est français",
+          "Marx étudie les riches et Weber les pauvres",
+          "Les deux approches sont identiques"
+        ],
+        "medium": [
+          "Marx propose une approche multidimensionnelle, Weber une approche unidimensionnelle",
+          "Marx s'intéresse au prestige social, Weber aux rapports de production",
+          "Marx analyse les groupes de statut, Weber les classes économiques"
+        ],
+        "hard": [
+          "Marx propose une approche unidimensionnelle et Weber une approche multidimensionnelle, mais chez Weber les trois ordres se recouvrent nécessairement",
+          "Marx propose une approche fondée sur la production, Weber une approche fondée uniquement sur le prestige social",
+          "Marx et Weber croisent tous deux trois ordres, mais Weber y ajoute la dimension culturelle"
+        ]
+      }
+    },
+    {
+      "recto": "Quels sont les trois ordres distingués par Max Weber pour analyser la stratification sociale ?",
+      "verso": "L'ordre économique avec les classes, l'ordre social avec les groupes de statut fondés sur le prestige, et l'ordre politique avec les partis",
+      "explanation": "Ces trois ordres sont autonomes : le prestige social ne découle pas mécaniquement de la richesse, ni le pouvoir politique du prestige. Cette autonomie est ce qui distingue le plus nettement Weber de Marx.",
+      "tags": [
+        "Weber",
+        "théorie"
+      ],
+      "distractors": {
+        "easy": [
+          "Les riches, les classes moyennes et les pauvres",
+          "Le passé, le présent et l'avenir",
+          "L'agriculture, l'industrie et les services"
+        ],
+        "medium": [
+          "L'ordre économique, l'ordre culturel et l'ordre familial",
+          "Le capital économique, le capital culturel et le capital social",
+          "Les propriétaires, les salariés et les indépendants"
+        ],
+        "hard": [
+          "L'ordre économique, l'ordre social et l'ordre politique, ces trois ordres se déduisant les uns des autres",
+          "L'ordre économique, l'ordre social du prestige et l'ordre religieux",
+          "L'ordre économique avec les classes, l'ordre social avec les partis et l'ordre politique avec les groupes de statut"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on un groupe de statut chez Max Weber ?",
+      "verso": "Un groupe partageant un même prestige social et un style de vie commun, reconnu comme tel par les autres membres de la société",
+      "explanation": "Le prestige repose sur une évaluation sociale et non sur la seule richesse, ce qui explique qu'un professeur puisse jouir d'un statut élevé avec un revenu modeste. Le style de vie fonctionne alors comme un signe de reconnaissance et de clôture du groupe.",
+      "tags": [
+        "Weber",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Un groupe défini par le montant de son revenu",
+          "Un groupe de personnes ayant le même employeur",
+          "Un groupe formé par les habitants d'un quartier"
+        ],
+        "medium": [
+          "Un groupe défini par sa place dans les rapports de production",
+          "Un groupe organisé pour conquérir le pouvoir politique",
+          "Un groupe formé par les détenteurs d'un même diplôme"
+        ],
+        "hard": [
+          "Un groupe partageant un même prestige social, prestige qui découle mécaniquement de la richesse",
+          "Un groupe partageant un style de vie commun, sans que ce style ne joue aucun rôle de clôture",
+          "Un groupe partageant un même prestige, reconnu uniquement par ses propres membres"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles formes de capital Pierre Bourdieu distingue-t-il pour situer un individu dans l'espace social ?",
+      "verso": "Le capital économique, le capital culturel et le capital social, dont le volume total et la composition déterminent la position occupée",
+      "explanation": "Deux individus au même volume global de capital peuvent occuper des positions distinctes selon la part respective de l'économique et du culturel. Cette double lecture, en volume et en structure, est la marque propre de l'analyse de Bourdieu.",
+      "tags": [
+        "Bourdieu",
+        "théorie"
+      ],
+      "distractors": {
+        "easy": [
+          "Le capital financier et le capital immobilier",
+          "Le capital de départ et le capital final",
+          "Le capital public et le capital privé"
+        ],
+        "medium": [
+          "Le capital économique et le capital culturel uniquement",
+          "Le capital économique, le capital politique et le capital religieux",
+          "Le capital humain, le capital physique et le capital technologique"
+        ],
+        "hard": [
+          "Le capital économique, culturel et social, dont seul le volume total détermine la position",
+          "Le capital économique, culturel et social, ce dernier désignant le niveau de diplôme obtenu",
+          "Le capital économique, culturel et symbolique, le capital social étant une forme du capital culturel"
+        ]
+      }
+    },
+    {
+      "recto": "Que désigne le capital culturel chez Pierre Bourdieu ?",
+      "verso": "L'ensemble des ressources culturelles d'un individu, sous forme incorporée par les dispositions acquises, objectivée par les biens possédés, et institutionnalisée par les diplômes",
+      "explanation": "La forme incorporée s'acquiert surtout par socialisation familiale précoce, ce qui la rend difficile à rattraper par l'école seule. C'est cette forme qui explique le mieux la reproduction des positions d'une génération à l'autre.",
+      "tags": [
+        "Bourdieu",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Le nombre de livres possédés par un ménage",
+          "Le budget consacré aux sorties culturelles",
+          "Le patrimoine artistique d'un pays"
+        ],
+        "medium": [
+          "Le seul niveau de diplôme obtenu",
+          "L'ensemble des relations sociales mobilisables",
+          "L'ensemble des ressources économiques converties en biens culturels"
+        ],
+        "hard": [
+          "L'ensemble des ressources culturelles, sous ses formes incorporée, objectivée et institutionnalisée, la forme incorporée s'acquérant principalement à l'école",
+          "L'ensemble des ressources culturelles, la forme institutionnalisée désignant les biens culturels possédés",
+          "L'ensemble des ressources culturelles, dont seule la forme institutionnalisée est transmissible"
+        ]
+      }
+    },
+    {
+      "recto": "Que désigne l'habitus chez Pierre Bourdieu ?",
+      "verso": "L'ensemble des dispositions durables acquises par socialisation, qui orientent les manières de penser, de percevoir et d'agir des membres d'un même groupe",
+      "explanation": "Il rend compte de goûts et de pratiques apparemment individuels qui se révèlent statistiquement liés à l'origine sociale. C'est le mécanisme par lequel les positions sociales se traduisent en styles de vie distincts.",
+      "tags": [
+        "Bourdieu",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Les habitudes de consommation d'un ménage",
+          "Le lieu de résidence habituel d'un individu",
+          "Le vêtement porté quotidiennement"
+        ],
+        "medium": [
+          "L'ensemble des choix rationnels effectués par un individu",
+          "L'ensemble des règles juridiques encadrant un groupe",
+          "L'ensemble des ressources économiques mobilisables"
+        ],
+        "hard": [
+          "L'ensemble des dispositions acquises par socialisation, dispositions conscientes et délibérément choisies",
+          "L'ensemble des dispositions durables, propres à chaque individu et sans lien avec son groupe d'origine",
+          "L'ensemble des dispositions acquises, qui déterminent mécaniquement et sans exception les comportements"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on la moyennisation de la société ?",
+      "verso": "Le processus par lequel les écarts entre les groupes sociaux se réduisent et une vaste classe moyenne se constitue, aux modes de vie proches",
+      "explanation": "Elle a été observée pendant les décennies de forte croissance de l'après-guerre, portées par la hausse générale du niveau de vie et la diffusion de la consommation de masse. Elle est contestée depuis les années 1980 par les analyses en termes de polarisation.",
+      "tags": [
+        "moyennisation",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Le calcul de la moyenne des revenus d'un pays",
+          "L'uniformisation des salaires par la loi",
+          "L'augmentation du nombre de classes sociales"
+        ],
+        "medium": [
+          "Le creusement des écarts entre le haut et le bas de la société",
+          "La disparition complète de toute hiérarchie sociale",
+          "La réduction des écarts à l'intérieur de chaque classe uniquement"
+        ],
+        "hard": [
+          "La réduction des écarts entre groupes sociaux, processus qui se poursuit sans interruption depuis les années 1980",
+          "La constitution d'une vaste classe moyenne, observée uniquement dans les périodes de faible croissance",
+          "La réduction des écarts entre groupes, qui suppose une baisse du niveau de vie des catégories populaires"
+        ]
+      }
+    },
+    {
+      "recto": "Que soutiennent les analyses en termes de polarisation de la société ?",
+      "verso": "Que les écarts se creusent de nouveau entre le haut et le bas de la structure sociale, tandis que les positions intermédiaires se fragilisent",
+      "explanation": "Ces analyses s'appuient sur la progression très rapide des plus hauts revenus, sur la précarisation de certains emplois et sur la disparition d'emplois intermédiaires. Elles s'opposent à la thèse de la moyennisation sans annuler les évolutions que celle-ci décrivait.",
+      "tags": [
+        "polarisation",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Que la société se divise en deux partis politiques",
+          "Que la population se concentre dans deux grandes villes",
+          "Que les classes sociales ont totalement disparu"
+        ],
+        "medium": [
+          "Que les écarts se réduisent entre le haut et le bas de la société",
+          "Que les positions intermédiaires se renforcent au détriment des extrêmes",
+          "Que les inégalités disparaissent à l'intérieur des classes"
+        ],
+        "hard": [
+          "Que les écarts se creusent entre le haut et le bas, analyse qui invalide entièrement la thèse de la moyennisation",
+          "Que les écarts se creusent, phénomène observé exclusivement dans les pays en développement",
+          "Que les positions intermédiaires se fragilisent, ce qui suppose une baisse générale du niveau de vie"
+        ]
+      }
+    },
+    {
+      "recto": "Quels arguments contestent la pertinence d'une analyse en termes de classes sociales aujourd'hui ?",
+      "verso": "L'affaiblissement de la conscience de classe, l'individualisation des parcours, l'importance croissante d'autres clivages comme le sexe, l'âge ou le territoire, et la difficulté à identifier des frontières nettes",
+      "explanation": "Ces arguments portent surtout sur la dimension subjective des classes, c'est-à-dire sur le sentiment d'appartenance, plus que sur l'existence d'écarts objectifs. Distinguer ces deux plans est indispensable pour traiter correctement la question.",
+      "tags": [
+        "débat",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La disparition totale des inégalités de revenus",
+          "L'égalité parfaite d'accès à l'éducation",
+          "La suppression du salariat"
+        ],
+        "medium": [
+          "La disparition des écarts objectifs de niveau de vie entre groupes",
+          "L'homogénéisation complète des pratiques culturelles",
+          "La convergence des positions sociales entre hommes et femmes"
+        ],
+        "hard": [
+          "L'affaiblissement de la conscience de classe, argument qui prouve la disparition des écarts objectifs",
+          "L'individualisation des parcours, qui rend impossible toute mesure statistique des inégalités",
+          "L'importance d'autres clivages, lesquels se substituent entièrement aux clivages de classe"
+        ]
+      }
+    },
+    {
+      "recto": "Quels arguments soutiennent au contraire la persistance de classes sociales ?",
+      "verso": "La stabilité des écarts de revenus, de patrimoine, de santé et de pratiques culturelles, ainsi que la forte reproduction sociale d'une génération à l'autre",
+      "explanation": "Ces écarts se mesurent objectivement et ne dépendent pas du sentiment d'appartenance des individus. Certains sociologues parlent donc de classes sociales sans conscience de classe, pour tenir ensemble les deux constats.",
+      "tags": [
+        "débat",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le vote identique de tous les électeurs",
+          "L'existence de partis politiques différents",
+          "La présence de syndicats dans les entreprises"
+        ],
+        "medium": [
+          "La forte conscience de classe manifestée par les individus",
+          "L'existence de frontières juridiques entre les groupes",
+          "L'homogénéité parfaite des comportements à l'intérieur de chaque classe"
+        ],
+        "hard": [
+          "La stabilité des écarts objectifs, ce qui implique nécessairement une conscience de classe forte",
+          "La reproduction sociale, phénomène qui a disparu avec la massification scolaire",
+          "La stabilité des écarts de patrimoine, argument valable uniquement pour les catégories les plus aisées"
+        ]
+      }
+    },
+    {
+      "recto": "Comment le lieu de résidence contribue-t-il à structurer l'espace social ?",
+      "verso": "Par la ségrégation spatiale, qui regroupe des populations aux caractéristiques sociales proches et différencie l'accès à l'emploi, à l'école et aux services",
+      "explanation": "Le territoire n'est donc pas seulement le reflet des positions sociales : il les renforce, en modifiant les ressources accessibles. C'est ce qui explique l'attention portée aux clivages entre métropoles, périphéries et espaces ruraux.",
+      "tags": [
+        "territoire",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "En déterminant le climat auquel les habitants sont exposés",
+          "En fixant le prix des biens de consommation courante",
+          "En imposant un mode de transport unique"
+        ],
+        "medium": [
+          "En reflétant les positions sociales sans jamais les renforcer",
+          "En égalisant l'accès aux services publics sur tout le territoire",
+          "En déterminant uniquement les préférences politiques des habitants"
+        ],
+        "hard": [
+          "Par la ségrégation spatiale, qui reflète les positions sociales sans modifier les ressources accessibles",
+          "Par la ségrégation spatiale, phénomène limité aux grandes métropoles",
+          "Par la ségrégation spatiale, laquelle réduit les écarts d'accès à l'emploi et à l'école"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la position dans le cycle de vie est-elle un facteur de différenciation sociale ?",
+      "verso": "Parce que le revenu, le patrimoine et le mode de vie varient fortement selon l'âge et selon les étapes de la vie familiale et professionnelle",
+      "explanation": "Comparer un jeune actif et un senior au même niveau de diplôme sans tenir compte de l'ancienneté conduit à des conclusions fausses. Le patrimoine, en particulier, s'accumule avec l'âge et creuse des écarts qui ne se lisent pas dans les revenus.",
+      "tags": [
+        "cycle de vie",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les jeunes votent moins que les personnes âgées",
+          "Parce que les personnes âgées habitent à la campagne",
+          "Parce que l'âge détermine le niveau de diplôme"
+        ],
+        "medium": [
+          "Parce que le revenu est identique à tous les âges mais le patrimoine varie",
+          "Parce que l'âge détermine à lui seul la catégorie socioprofessionnelle",
+          "Parce que les modes de vie sont indépendants de la situation familiale"
+        ],
+        "hard": [
+          "Parce que revenu et patrimoine varient avec l'âge, variations qui se lisent aussi bien dans l'un que dans l'autre",
+          "Parce que le patrimoine s'accumule avec l'âge, accumulation qui réduit les écarts entre générations",
+          "Parce que le mode de vie varie selon l'âge, ce qui rend inutile toute comparaison entre catégories professionnelles"
+        ]
+      }
+    },
+    {
+      "recto": "Comment le sexe structure-t-il les positions dans l'espace social ?",
+      "verso": "Par des écarts persistants de salaires, de temps de travail, de type d'emploi et d'accès aux positions hiérarchiques, malgré la hausse du niveau de diplôme des femmes",
+      "explanation": "Ces écarts combinent une ségrégation horizontale entre métiers et une ségrégation verticale dans les hiérarchies. Ils croisent les autres facteurs, si bien que l'écart entre femmes de milieux différents peut dépasser l'écart moyen entre les sexes.",
+      "tags": [
+        "genre",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le sexe n'a plus aucun effet sur les positions sociales",
+          "Les femmes occupent désormais les mêmes emplois que les hommes",
+          "Les écarts de salaire ont totalement disparu"
+        ],
+        "medium": [
+          "Par des écarts de salaire qui s'expliquent uniquement par le niveau de diplôme",
+          "Par des écarts qui ne concernent que le secteur privé",
+          "Par une ségrégation horizontale sans aucune dimension verticale"
+        ],
+        "hard": [
+          "Par des écarts persistants, écarts qui ne croisent jamais les autres facteurs de différenciation",
+          "Par des écarts persistants, dont l'ampleur est identique dans tous les milieux sociaux",
+          "Par des écarts persistants, que la hausse du niveau de diplôme des femmes a fait disparaître"
+        ]
+      }
+    },
+    {
+      "recto": "Que signifie l'expression classes sociales sans conscience de classe ?",
+      "verso": "L'idée que des écarts objectifs importants subsistent entre groupes sociaux, sans que les individus se reconnaissent pour autant comme membres d'une classe aux intérêts communs",
+      "explanation": "Elle permet de tenir ensemble la permanence des inégalités mesurables et l'affaiblissement du sentiment d'appartenance collective. C'est la formule qui synthétise le mieux le débat de fin de chapitre.",
+      "tags": [
+        "débat",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "L'idée que les classes sociales ont totalement disparu",
+          "L'idée que seuls les riches forment une classe",
+          "L'idée que la conscience de classe est innée"
+        ],
+        "medium": [
+          "L'idée que les individus ont une forte conscience de classe malgré des écarts réduits",
+          "L'idée que les écarts objectifs ont disparu mais que le sentiment d'appartenance demeure",
+          "L'idée que les classes ne se définissent que par leur conscience collective"
+        ],
+        "hard": [
+          "L'idée que des écarts objectifs subsistent, ce qui prouve que les classes au sens de Marx sont pleinement constituées",
+          "L'idée que les écarts objectifs subsistent, formule qui invalide toute analyse en termes de classes",
+          "L'idée que la conscience de classe précède toujours la constitution objective des classes"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi les sociologues combinent-ils aujourd'hui plusieurs approches de la structure sociale ?",
+      "verso": "Parce qu'aucune approche ne suffit seule : la position dans la production, le prestige, les capitaux et les clivages de sexe, d'âge ou de territoire éclairent chacun une part de la réalité",
+      "explanation": "La combinaison n'est pas un compromis mou mais une exigence méthodologique, chaque outil ayant son domaine de pertinence. Une bonne copie mobilise donc plusieurs auteurs pour éclairer un même fait social.",
+      "tags": [
+        "méthode",
+        "raisonnement"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les sociologues ne parviennent pas à se mettre d'accord",
+          "Parce que les théories anciennes sont toutes fausses",
+          "Parce que les données statistiques sont insuffisantes"
+        ],
+        "medium": [
+          "Parce que l'approche de Marx a été entièrement réfutée",
+          "Parce que seule l'approche de Bourdieu reste valable aujourd'hui",
+          "Parce que les approches se contredisent et doivent être départagées"
+        ],
+        "hard": [
+          "Parce qu'aucune approche ne suffit seule, ce qui signifie qu'elles ont toutes le même domaine de pertinence",
+          "Parce que les approches se complètent, combinaison qui interdit de privilégier un auteur dans une démonstration",
+          "Parce que chaque approche éclaire une part de la réalité, mais qu'une seule doit être retenue par copie"
+        ]
+      }
+    }
+  ]
+}

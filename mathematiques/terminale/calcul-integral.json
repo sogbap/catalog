@@ -1,0 +1,588 @@
+{
+  "id": "mathematiques-terminale-calcul-integral",
+  "title": "Calcul intégral",
+  "emoji": "📐",
+  "subject": "mathematics",
+  "country": "fr",
+  "courseDescription": "Spé Maths · Terminale — intégrale et aire, lien avec les primitives, propriétés, valeur moyenne, intégration par parties et aire entre deux courbes.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Calcul intégral</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · spécialité Mathématiques<br>\n  <b>Thème&nbsp;:</b> Analyse — calcul différentiel et intégral<br>\n  <b>Chapitre</b> · environ 4 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> Pourquoi le calcul d'une aire se ramène-t-il à une soustraction&nbsp;?</p></blockquote>\n\n<p>Mesurer l'aire sous une courbe quelconque paraît hors de portée&nbsp;: on ne dispose d'aucune formule de géométrie élémentaire. Le résultat central de ce chapitre est donc surprenant — cette aire se calcule en <strong>soustrayant deux valeurs d'une primitive</strong>. Deux problèmes sans rapport apparent, l'aire et la dérivation, se révèlent être les deux faces d'un même objet. C'est ce lien qui a fondé l'analyse moderne, et c'est lui qui rend le calcul d'aires accessible en quelques lignes.</p>\n\n<h2>1 · L'intégrale et l'aire</h2>\n\n<p>Pour f <strong>continue et positive</strong> sur [a&nbsp;; b], l'intégrale de a à b représente l'<strong>aire du domaine</strong> compris entre la courbe, l'axe des abscisses et les droites verticales d'abscisses a et b.</p>\n\n<p>Le résultat s'exprime en <strong>unités d'aire</strong>&nbsp;: l'aire du rectangle bâti sur les deux vecteurs unitaires du repère. Si une unité vaut 2&nbsp;cm sur un axe et 3&nbsp;cm sur l'autre, une unité d'aire vaut 6&nbsp;cm².</p>\n\n<h3>Le théorème fondamental</h3>\n\n<p>Si F est une primitive de f continue sur un intervalle contenant a et b&nbsp;:</p>\n\n<p><strong>∫ de a à b de f = F(b) − F(a)</strong></p>\n\n<p>La constante de la primitive n'intervient pas&nbsp;: elle apparaît deux fois et se simplifie dans la différence. On peut donc choisir la primitive la plus simple — ce qui ne rend pas la constante inutile pour autant, puisqu'elle redevient indispensable dès qu'une condition initiale est imposée.</p>\n\n<div class=\"callout\">\n  <strong>Primitive et intégrale ne sont pas de même nature</strong><br>\n  Une <em>primitive</em> est une <strong>fonction</strong>&nbsp;; une <em>intégrale</em> entre deux bornes fixées est un <strong>nombre</strong>. La confusion vient de ce que le calcul de l'une passe par l'autre. Nuance&nbsp;: une intégrale dont la borne supérieure est <em>variable</em> redevient une fonction — et c'est même une primitive, celle qui s'annule à la borne inférieure.\n</div>\n\n<h2>2 · Le piège du signe</h2>\n\n<p>L'interprétation en aire suppose f <strong>positive</strong>. Si f est négative, l'intégrale l'est aussi&nbsp;: c'est <em>l'opposé</em> de l'intégrale qui donne l'aire.</p>\n\n<p>Le cas dangereux est celui d'une fonction qui <strong>change de signe</strong>&nbsp;: l'intégrale fait alors la <em>différence</em> entre les parties situées au-dessus et en dessous de l'axe. Elle peut être nulle alors que l'aire ne l'est pas du tout.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 185\" role=\"img\" aria-label=\"Schéma d'une fonction changeant de signe sur un intervalle : la partie au-dessus de l'axe compte positivement dans l'intégrale, la partie en dessous compte négativement, si bien que l'intégrale peut s'annuler alors que l'aire totale ne l'est pas\">\n    <line x1=\"16\" y1=\"80\" x2=\"326\" y2=\"80\" stroke=\"currentColor\" stroke-opacity=\".35\"/>\n    <path d=\"M30,80 C60,20 90,20 120,80 C150,140 180,140 210,80 C232,38 258,44 300,64\" stroke=\"var(--accent)\" stroke-width=\"2\" fill=\"none\"/>\n    <path d=\"M30,80 C60,20 90,20 120,80 Z\" fill=\"var(--accent)\" fill-opacity=\".28\"/>\n    <path d=\"M120,80 C150,140 180,140 210,80 Z\" fill=\"var(--accent)\" fill-opacity=\".12\"/>\n    <text x=\"75\" y=\"58\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">+</text>\n    <text x=\"165\" y=\"112\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">−</text>\n    <text x=\"170\" y=\"158\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">l'intégrale fait la différence des deux parts</text>\n    <text x=\"170\" y=\"174\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">l'aire, elle, additionne leurs valeurs absolues</text>\n  </svg>\n  <figcaption>Deux quantités distinctes&nbsp;: l'intégrale peut valoir zéro sur cette figure sans que le domaine soit vide.</figcaption>\n</figure>\n\n<p><b>Méthode pour une aire dans ce cas&nbsp;:</b> déterminer les intervalles où f garde un signe constant, calculer l'intégrale sur chacun, puis <strong>additionner les valeurs absolues</strong> obtenues. L'étude du signe précède toujours le calcul.</p>\n\n<h2>3 · Les propriétés</h2>\n\n<table>\n  <tr><th>Propriété</th><th>Énoncé</th></tr>\n  <tr><td>Bornes égales</td><td>L'intégrale de a à a vaut 0</td></tr>\n  <tr><td>Bornes échangées</td><td>De b à a&nbsp;: l'opposé de a à b</td></tr>\n  <tr><td>Chasles</td><td>De a à c = (de a à b) + (de b à c)</td></tr>\n  <tr><td>Linéarité</td><td>Intégrale d'une somme = somme des intégrales</td></tr>\n  <tr><td>Positivité</td><td>f ≥ 0 et a ≤ b ⟹ intégrale ≥ 0</td></tr>\n  <tr><td>Croissance</td><td>f ≤ g et a ≤ b ⟹ intégrale de f ≤ intégrale de g</td></tr>\n</table>\n\n<p>Trois remarques. La relation de <strong>Chasles</strong> vaut quelle que soit la position relative des trois nombres, y compris si b n'est pas entre a et c&nbsp;— c'est elle qui permet le découpage selon le signe. Les propriétés de <strong>positivité et de croissance</strong> exigent en revanche que les bornes soient <em>dans l'ordre croissant</em>, sans quoi les inégalités s'inversent. Enfin, la <strong>linéarité</strong> vaut pour la somme et pour la multiplication par un réel, mais <em>il n'existe aucune règle analogue pour un produit</em> — d'où l'intégration par parties.</p>\n\n<p>Un résultat fort&nbsp;: si l'intégrale d'une fonction <em>continue et positive</em> est nulle, alors la fonction est <strong>identiquement nulle</strong> sur l'intervalle. Il sert à démontrer des égalités de fonctions.</p>\n\n<h2>4 · Valeur moyenne</h2>\n\n<p>La <strong>valeur moyenne</strong> de f sur [a&nbsp;; b] est l'intégrale divisée par l'amplitude (b − a).</p>\n\n<p>Géométriquement, c'est la <em>hauteur du rectangle</em> qui aurait la même aire que le domaine sous la courbe. Cette lecture rend immédiate l'interprétation en physique&nbsp;: vitesse moyenne, intensité moyenne, température moyenne.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Schéma de la valeur moyenne d'une fonction : le rectangle de même largeur que l'intervalle et de hauteur égale à la valeur moyenne possède exactement la même aire que le domaine situé sous la courbe\">\n    <line x1=\"16\" y1=\"140\" x2=\"326\" y2=\"140\" stroke=\"currentColor\" stroke-opacity=\".35\"/>\n    <path d=\"M50,140 C90,40 130,120 180,60 C220,20 250,90 290,50 L290,140 Z\" fill=\"var(--accent)\" fill-opacity=\".18\"/>\n    <path d=\"M50,140 C90,40 130,120 180,60 C220,20 250,90 290,50\" stroke=\"var(--accent)\" stroke-width=\"2\" fill=\"none\"/>\n    <rect x=\"50\" y=\"72\" width=\"240\" height=\"68\" fill=\"none\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-dasharray=\"5 3\"/>\n    <line x1=\"40\" y1=\"72\" x2=\"50\" y2=\"72\" stroke=\"currentColor\" stroke-opacity=\".4\"/>\n    <text x=\"36\" y=\"76\" text-anchor=\"end\" font-size=\"8\" class=\"s-muted\">m</text>\n    <text x=\"50\" y=\"154\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">a</text>\n    <text x=\"290\" y=\"154\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">b</text>\n    <text x=\"170\" y=\"170\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">même aire : m × (b − a) = intégrale</text>\n  </svg>\n  <figcaption>La valeur moyenne est la hauteur qui aplanit la courbe sans changer l'aire.</figcaption>\n</figure>\n\n<h2>5 · Intégration par parties</h2>\n\n<p>La formule vient de la dérivée d'un produit, intégrée entre les bornes&nbsp;:</p>\n\n<p><strong>∫ u&nbsp;′v = [uv] − ∫ uv&nbsp;′</strong></p>\n\n<p>Elle <em>échange</em> une intégrale contre une autre&nbsp;: elle n'est utile que si la seconde est plus simple. D'où la règle de choix&nbsp;:</p>\n\n<ul>\n  <li>on <strong>dérive</strong> le facteur qui <em>se simplifie</em> en dérivant&nbsp;: typiquement un polynôme, dont le degré baisse&nbsp;;</li>\n  <li>le <strong>logarithme</strong> est un cas particulier&nbsp;: on le dérive <em>toujours</em>, puisqu'on ne sait pas le primitiver directement.</li>\n</ul>\n\n<p>Un mauvais choix donne une intégrale plus compliquée que la première&nbsp;: c'est le signe qu'il faut recommencer en échangeant les rôles.</p>\n\n<h2>6 · Aire entre deux courbes</h2>\n\n<p>On intègre la <strong>différence entre la fonction du dessus et celle du dessous</strong>.</p>\n\n<p>L'étude préalable des <em>positions relatives</em> est indispensable&nbsp;: si les courbes se croisent, il faut découper l'intervalle et <strong>changer l'ordre de la soustraction</strong> sur chaque morceau. Oublier ce découpage donne une aire fausse, parfois nulle.</p>\n\n<h3>Approcher numériquement</h3>\n\n<p>La <strong>méthode des rectangles</strong> découpe l'intervalle en sous-intervalles de même longueur et additionne les aires de rectangles construits sur chacun. La précision augmente avec le nombre de découpes&nbsp;; pour une fonction monotone, utiliser successivement les valeurs à gauche et à droite fournit un <em>encadrement</em>.</p>\n\n<p>On peut aussi encadrer sans calcul&nbsp;: en encadrant la fonction sur l'intervalle, puis en intégrant l'encadrement grâce à la propriété de croissance.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>La démarche</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Frise méthodique d'un calcul intégral : étudier d'abord le signe de la fonction, chercher une primitive par reconnaissance de forme, recourir à l'intégration par parties si un produit résiste, appliquer le théorème fondamental en soustrayant les valeurs, puis interpréter le résultat en aire ou en grandeur physique\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"186\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">1. Étudier le signe</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Avant tout calcul d'aire</text>\n    <circle cx=\"26\" cy=\"62\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"59\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">2. Chercher une primitive</text>\n    <text x=\"44\" y=\"72\" font-size=\"10\" fill=\"currentColor\">Reconnaissance de forme</text>\n    <circle cx=\"26\" cy=\"104\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"101\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">3. Si un produit résiste</text>\n    <text x=\"44\" y=\"114\" font-size=\"10\" fill=\"currentColor\">Intégration par parties</text>\n    <circle cx=\"26\" cy=\"146\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"143\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">4. Soustraire</text>\n    <text x=\"44\" y=\"156\" font-size=\"10\" fill=\"currentColor\">F(b) − F(a)</text>\n    <circle cx=\"26\" cy=\"184\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"181\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">5. Interpréter</text>\n    <text x=\"44\" y=\"194\" font-size=\"10\" fill=\"currentColor\">Aire, valeur moyenne, grandeur</text>\n  </svg>\n  <figcaption>L'étape 1 est celle qu'on saute le plus souvent — et celle qui coûte le plus de points.</figcaption>\n</figure>\n\n<h3>Formules à connaître</h3>\n\n<table>\n  <tr><th>Objet</th><th>Formule</th></tr>\n  <tr><td>Théorème fondamental</td><td>∫ de a à b de f = F(b) − F(a)</td></tr>\n  <tr><td>Chasles</td><td>∫ de a à c = ∫ de a à b + ∫ de b à c</td></tr>\n  <tr><td>Valeur moyenne</td><td>m = (1/(b−a)) × ∫ de a à b de f</td></tr>\n  <tr><td>Intégration par parties</td><td>∫ u&nbsp;′v = [uv] − ∫ uv&nbsp;′</td></tr>\n  <tr><td>Aire entre deux courbes</td><td>∫ (f du dessus − f du dessous)</td></tr>\n</table>\n\n<h3>Notions à distinguer</h3>\n\n<table>\n  <tr><th>Distinction</th><th>Ce qui se joue</th></tr>\n  <tr><td>Intégrale / aire</td><td>Un réel signé contre une grandeur positive</td></tr>\n  <tr><td>Primitive / intégrale</td><td>Une fonction contre un nombre</td></tr>\n  <tr><td>Déplacement / distance parcourue</td><td>Intégrale de v contre intégrale de |v|</td></tr>\n  <tr><td>Linéarité / produit</td><td>La somme passe, le produit non</td></tr>\n  <tr><td>Bornes ordonnées ou non</td><td>Positivité et croissance l'exigent</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Confondre l'<em>intégrale</em> et l'<em>aire</em>. Pour une fonction négative, l'intégrale est négative alors que l'aire est positive&nbsp;; et pour une fonction qui change de signe, l'intégrale fait la <strong>différence</strong> des parts, si bien qu'elle peut être nulle sans que l'aire le soit. Il faut découper selon le signe et additionner les valeurs absolues. Deux erreurs voisines&nbsp;: oublier d'étudier les positions relatives avant de calculer une aire entre deux courbes&nbsp;; et appliquer les propriétés de positivité ou de croissance avec des bornes dans le désordre.\n</div>\n\n<blockquote><p>Deux problèmes que rien ne rapprochait — trouver une pente, mesurer une aire — se répondent exactement. C'est peut-être le plus bel énoncé du programme&nbsp;: ce que l'on a défait en dérivant, on le refait en intégrant, et il ne reste qu'à soustraire.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Spécialité Mathématiques — Analyse",
+  "cards": [
+    {
+      "recto": "Que représente l'intégrale d'une fonction continue et positive entre a et b ?",
+      "verso": "L'aire, en unités d'aire, du domaine compris entre la courbe, l'axe des abscisses et les droites verticales d'abscisses a et b",
+      "explanation": "La condition de positivité est essentielle pour cette interprétation. L'unité d'aire correspond au rectangle construit sur les vecteurs unitaires du repère, ce qui rend le résultat dépendant des échelles choisies.",
+      "tags": [
+        "définition",
+        "aire"
+      ],
+      "distractors": {
+        "easy": [
+          "La longueur de la courbe entre a et b",
+          "La valeur de la fonction au milieu de l'intervalle",
+          "La pente moyenne de la courbe"
+        ],
+        "medium": [
+          "La somme des valeurs prises par la fonction",
+          "L'aire du rectangle de largeur b moins a",
+          "Le périmètre du domaine sous la courbe"
+        ],
+        "hard": [
+          "L'aire du domaine, quelle que soit le signe de la fonction",
+          "L'aire comprise entre la courbe et sa tangente",
+          "L'aire du domaine multipliée par la longueur de l'intervalle"
+        ]
+      }
+    },
+    {
+      "recto": "Quel théorème relie l'intégrale et les primitives ?",
+      "verso": "Si F est une primitive de f continue sur un intervalle, alors l'intégrale de a à b vaut F(b) moins F(a)",
+      "explanation": "Ce théorème transforme un problème d'aire en un calcul algébrique, ce qui explique son importance historique. La constante de la primitive n'intervient pas, puisqu'elle se simplifie dans la différence.",
+      "tags": [
+        "théorème",
+        "primitive"
+      ],
+      "distractors": {
+        "easy": [
+          "L'intégrale vaut F(a) moins F(b)",
+          "L'intégrale vaut la primitive en b",
+          "L'intégrale vaut la dérivée de F"
+        ],
+        "medium": [
+          "L'intégrale vaut F(b) plus F(a)",
+          "L'intégrale vaut le produit de F(b) par F(a)",
+          "L'intégrale vaut la moyenne de F(a) et F(b)"
+        ],
+        "hard": [
+          "L'intégrale vaut F(b) moins F(a), à une constante près",
+          "L'intégrale vaut f(b) moins f(a)",
+          "L'intégrale vaut F(b) moins F(a) uniquement si f est positive"
+        ]
+      }
+    },
+    {
+      "recto": "Ne pas confondre : quelle différence de nature sépare une primitive d'une intégrale ?",
+      "verso": "Une primitive est une fonction, alors qu'une intégrale entre deux bornes fixées est un nombre réel",
+      "explanation": "La confusion est entretenue par la proximité des notations et par le fait que le calcul de l'intégrale passe par une primitive. Une intégrale dont la borne supérieure est variable redevient toutefois une fonction, et c'est même une primitive.",
+      "tags": [
+        "comparaison",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Ce sont deux mots pour la même chose",
+          "Une primitive est un nombre, une intégrale une fonction",
+          "L'intégrale est la dérivée de la primitive"
+        ],
+        "medium": [
+          "La primitive est unique et l'intégrale multiple",
+          "L'intégrale est une fonction définie à une constante près",
+          "La primitive donne une aire et l'intégrale une pente"
+        ],
+        "hard": [
+          "Une intégrale à borne variable reste un nombre",
+          "La primitive est un nombre défini à une constante près",
+          "L'intégrale est une fonction dont la primitive est la dérivée"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : l'intégrale d'une fonction négative correspond-elle à une aire ?",
+      "verso": "Non : elle est négative, alors qu'une aire est toujours positive ; il faut prendre l'opposé de l'intégrale pour obtenir l'aire",
+      "explanation": "C'est l'erreur la plus fréquente du chapitre. Quand la fonction change de signe sur l'intervalle, l'intégrale fait la différence entre les parties situées au-dessus et en dessous de l'axe : elle peut même être nulle alors que l'aire ne l'est pas. Pour calculer une aire dans ce cas, il faut découper l'intervalle selon le signe et additionner les valeurs absolues.",
+      "tags": [
+        "piege",
+        "aire"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, l'intégrale est toujours une aire",
+          "Oui, car l'aire peut être négative",
+          "Non, car l'intégrale d'une fonction négative n'existe pas"
+        ],
+        "medium": [
+          "Oui, à condition que l'intervalle soit d'amplitude positive",
+          "Non, l'intégrale vaut alors zéro",
+          "Oui, l'intégrale donnant l'aire au signe près sans qu'il faille intervenir"
+        ],
+        "hard": [
+          "Oui, car les bornes ordonnées garantissent la positivité",
+          "Non, mais l'aire se calcule en intégrant la valeur absolue des bornes",
+          "Oui, car l'aire se mesure en unités d'aire signées"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'énonce la relation de Chasles pour les intégrales ?",
+      "verso": "L'intégrale de a à c est la somme de l'intégrale de a à b et de l'intégrale de b à c",
+      "explanation": "La relation vaut quelle que soit la position relative des trois nombres, y compris si b n'est pas entre a et c. C'est elle qui permet de découper un intervalle selon le signe de la fonction pour calculer une aire.",
+      "tags": [
+        "propriété",
+        "Chasles"
+      ],
+      "distractors": {
+        "easy": [
+          "L'intégrale de a à c est le produit des deux intégrales",
+          "L'intégrale de a à c est la différence des deux",
+          "L'intégrale de a à c est la moyenne des deux"
+        ],
+        "medium": [
+          "La relation n'est valable que si b est entre a et c",
+          "L'intégrale de a à c est la somme, à condition que f soit positive",
+          "La relation exige que f soit monotone sur l'intervalle"
+        ],
+        "hard": [
+          "L'intégrale de a à c est la somme des intégrales, à une constante près",
+          "La relation impose que les trois bornes soient dans le domaine de la primitive uniquement",
+          "L'intégrale de a à c est la somme si et seulement si f est continue en b"
+        ]
+      }
+    },
+    {
+      "recto": "Que vaut l'intégrale de b à a lorsqu'on échange les bornes ?",
+      "verso": "L'opposé de l'intégrale de a à b",
+      "explanation": "Cette convention rend la relation de Chasles valable sans condition sur l'ordre des bornes. Elle explique aussi qu'une intégrale puisse être négative même pour une fonction positive, si les bornes sont dans le désordre.",
+      "tags": [
+        "propriété",
+        "convention"
+      ],
+      "distractors": {
+        "easy": [
+          "La même valeur",
+          "Zéro",
+          "L'inverse de l'intégrale"
+        ],
+        "medium": [
+          "La valeur absolue de l'intégrale",
+          "Le double de l'intégrale",
+          "La moitié de l'intégrale"
+        ],
+        "hard": [
+          "L'opposé, uniquement si la fonction est positive",
+          "La même valeur si la fonction est paire",
+          "L'opposé, sauf si les bornes sont de signes contraires"
+        ]
+      }
+    },
+    {
+      "recto": "Que dit la propriété de croissance de l'intégrale ?",
+      "verso": "Si f est inférieure ou égale à g sur un intervalle, alors l'intégrale de f est inférieure ou égale à celle de g, à condition que les bornes soient dans l'ordre croissant",
+      "explanation": "La condition sur l'ordre des bornes est indispensable, sinon l'inégalité s'inverse. Cette propriété sert à encadrer une intégrale qu'on ne sait pas calculer, en encadrant d'abord la fonction.",
+      "tags": [
+        "propriété",
+        "inégalité"
+      ],
+      "distractors": {
+        "easy": [
+          "Les intégrales sont toujours égales",
+          "L'intégrale de f est supérieure à celle de g",
+          "L'inégalité s'inverse systématiquement"
+        ],
+        "medium": [
+          "L'inégalité vaut quel que soit l'ordre des bornes",
+          "L'inégalité vaut uniquement pour des fonctions positives",
+          "L'intégrale de f est inférieure à celle de g si f est croissante"
+        ],
+        "hard": [
+          "L'inégalité devient stricte si f et g sont distinctes",
+          "L'inégalité vaut si les bornes sont dans l'ordre décroissant",
+          "L'inégalité exige que f et g soient de même signe"
+        ]
+      }
+    },
+    {
+      "recto": "Comment définit-on la valeur moyenne d'une fonction sur un intervalle ?",
+      "verso": "Comme l'intégrale de la fonction sur l'intervalle, divisée par l'amplitude de cet intervalle",
+      "explanation": "Géométriquement, c'est la hauteur du rectangle qui aurait la même aire que le domaine sous la courbe. Cette lecture rend immédiate l'interprétation en physique, par exemple pour une vitesse moyenne.",
+      "tags": [
+        "valeur moyenne",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "La moyenne des valeurs aux deux bornes",
+          "La valeur au milieu de l'intervalle",
+          "La moitié du maximum de la fonction"
+        ],
+        "medium": [
+          "L'intégrale multipliée par l'amplitude de l'intervalle",
+          "La moyenne des valeurs prises en quelques points",
+          "L'intégrale divisée par la valeur maximale"
+        ],
+        "hard": [
+          "L'intégrale divisée par la somme des bornes",
+          "L'intégrale divisée par l'amplitude, valable pour les fonctions positives seulement",
+          "La moyenne arithmétique des primitives aux deux bornes"
+        ]
+      }
+    },
+    {
+      "recto": "Sur quelle formule repose l'intégration par parties ?",
+      "verso": "L'intégrale du produit de u prime par v vaut la différence entre le crochet du produit de u par v et l'intégrale du produit de u par v prime",
+      "explanation": "La formule vient de la dérivée d'un produit, intégrée entre les deux bornes. Elle échange une intégrale contre une autre : elle n'est utile que si la seconde est plus simple que la première.",
+      "tags": [
+        "intégration par parties",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "L'intégrale d'un produit est le produit des intégrales",
+          "L'intégrale du produit vaut la somme des intégrales",
+          "L'intégrale du produit vaut le crochet seul"
+        ],
+        "medium": [
+          "L'intégrale vaut le crochet plus l'intégrale du produit de u par v prime",
+          "L'intégrale vaut le crochet du produit moins le produit des intégrales",
+          "L'intégrale vaut la dérivée du produit intégrée"
+        ],
+        "hard": [
+          "L'intégrale vaut le crochet moins l'intégrale du produit de u prime par v prime",
+          "L'intégrale vaut le crochet moins l'intégrale du produit de u prime par v",
+          "La formule découle de la dérivée d'un quotient"
+        ]
+      }
+    },
+    {
+      "recto": "Comment choisit-on les fonctions dans une intégration par parties ?",
+      "verso": "On choisit comme facteur à dériver celui qui se simplifie en dérivant, typiquement un polynôme ou un logarithme",
+      "explanation": "Un mauvais choix donne une intégrale plus compliquée que la première, signe qu'il faut recommencer en échangeant les rôles. Le logarithme est un cas particulier : on le dérive toujours, puisqu'on ne sait pas le primitiver directement.",
+      "tags": [
+        "intégration par parties",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "On choisit au hasard",
+          "On dérive toujours le premier facteur écrit",
+          "On dérive toujours l'exponentielle"
+        ],
+        "medium": [
+          "On dérive le facteur le plus compliqué à primitiver",
+          "On primitive systématiquement le polynôme",
+          "On choisit le facteur qui donne le crochet le plus simple"
+        ],
+        "hard": [
+          "On dérive le facteur qui se complique en dérivant",
+          "On primitive le logarithme et on dérive l'exponentielle",
+          "On choisit indifféremment, le résultat étant identique"
+        ]
+      }
+    },
+    {
+      "recto": "Comment calcule-t-on l'aire comprise entre deux courbes sur un intervalle ?",
+      "verso": "En intégrant la différence entre la fonction du dessus et celle du dessous, après avoir déterminé leurs positions relatives",
+      "explanation": "L'étude préalable des positions relatives est indispensable : si les courbes se croisent, il faut découper l'intervalle et changer l'ordre de la soustraction sur chaque morceau. Oublier ce découpage donne une aire fausse, parfois nulle.",
+      "tags": [
+        "aire",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En additionnant les deux intégrales",
+          "En multipliant les deux intégrales",
+          "En intégrant la somme des deux fonctions"
+        ],
+        "medium": [
+          "En intégrant la différence sans étudier les positions relatives",
+          "En intégrant la fonction du dessous moins celle du dessus",
+          "En calculant la différence des aires sous chaque courbe sans découper"
+        ],
+        "hard": [
+          "En intégrant la valeur absolue de la somme des deux fonctions",
+          "En intégrant la différence, le découpage étant inutile si les courbes se croisent",
+          "En intégrant la différence des primitives"
+        ]
+      }
+    },
+    {
+      "recto": "Que peut-on dire du signe de l'intégrale d'une fonction positive lorsque les bornes sont dans l'ordre croissant ?",
+      "verso": "Elle est positive ou nulle, et elle ne s'annule que si la fonction est identiquement nulle sur l'intervalle",
+      "explanation": "Ce résultat sert à démontrer des inégalités : si l'intégrale d'une fonction continue positive est nulle, alors la fonction est nulle partout. C'est une propriété forte, qui repose sur la continuité.",
+      "tags": [
+        "propriété",
+        "positivité"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle est toujours strictement positive",
+          "Elle peut être négative",
+          "Son signe dépend de la primitive choisie"
+        ],
+        "medium": [
+          "Elle est positive et peut s'annuler pour une fonction non nulle",
+          "Elle est positive si la fonction est croissante",
+          "Elle est positive si l'intervalle contient zéro"
+        ],
+        "hard": [
+          "Elle est positive ou nulle sans condition sur l'ordre des bornes",
+          "Elle s'annule dès que la fonction s'annule en un point",
+          "Elle est positive à condition que la primitive soit croissante"
+        ]
+      }
+    },
+    {
+      "recto": "Comment démontre-t-on qu'une intégrale qu'on ne sait pas calculer est comprise entre deux valeurs ?",
+      "verso": "En encadrant la fonction sur l'intervalle, puis en intégrant l'encadrement grâce à la croissance de l'intégrale",
+      "explanation": "L'encadrement le plus simple utilise le minimum et le maximum de la fonction, ce qui donne un encadrement par deux aires de rectangles. On peut affiner en découpant l'intervalle.",
+      "tags": [
+        "encadrement",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En calculant la valeur approchée à la calculatrice",
+          "En traçant la courbe",
+          "En prenant la moyenne des bornes"
+        ],
+        "medium": [
+          "En dérivant la fonction avant d'intégrer",
+          "En encadrant les bornes de l'intervalle",
+          "En appliquant la relation de Chasles"
+        ],
+        "hard": [
+          "En encadrant la primitive plutôt que la fonction",
+          "En intégrant l'encadrement sans se soucier de l'ordre des bornes",
+          "En majorant la fonction uniquement"
+        ]
+      }
+    },
+    {
+      "recto": "Que vaut l'intégrale d'une fonction entre deux bornes égales ?",
+      "verso": "Zéro, quelle que soit la fonction",
+      "explanation": "C'est immédiat avec le théorème fondamental, puisque la différence F(a) moins F(a) est nulle. Ce cas particulier sert souvent de vérification quand on manipule la relation de Chasles.",
+      "tags": [
+        "propriété",
+        "cas particulier"
+      ],
+      "distractors": {
+        "easy": [
+          "La valeur de la fonction en ce point",
+          "Un",
+          "La primitive en ce point"
+        ],
+        "medium": [
+          "La dérivée de la fonction en ce point",
+          "Une valeur dépendant de la fonction",
+          "L'aire d'un segment vertical"
+        ],
+        "hard": [
+          "Zéro seulement si la fonction est continue en ce point",
+          "Zéro seulement pour une fonction positive",
+          "La valeur de la primitive au point considéré"
+        ]
+      }
+    },
+    {
+      "recto": "Que devient une intégrale dont la borne supérieure est une variable ?",
+      "verso": "Une fonction de cette variable, qui est une primitive de la fonction intégrée s'annulant à la borne inférieure",
+      "explanation": "Cette construction est celle qui permet de démontrer l'existence de primitives pour toute fonction continue. Elle fournit aussi une manière de définir des fonctions qu'aucune formule usuelle n'exprime.",
+      "tags": [
+        "primitive",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Un nombre qui varie",
+          "Une constante",
+          "La dérivée de la fonction"
+        ],
+        "medium": [
+          "Une primitive s'annulant à la borne supérieure",
+          "Une fonction dont la dérivée est la primitive",
+          "Une fonction affine de la variable"
+        ],
+        "hard": [
+          "Une primitive définie à une constante près qu'il faut préciser",
+          "Une fonction dont la dérivée seconde est la fonction intégrée",
+          "Une primitive s'annulant en zéro quelles que soient les bornes"
+        ]
+      }
+    },
+    {
+      "recto": "Comment interprète-t-on l'intégrale d'une vitesse en fonction du temps ?",
+      "verso": "Comme la distance parcourue, ou plus précisément comme la variation de position entre les deux instants",
+      "explanation": "La nuance importe quand la vitesse change de signe : l'intégrale donne alors le déplacement net, tandis que la distance effectivement parcourue s'obtient en intégrant la valeur absolue de la vitesse.",
+      "tags": [
+        "application",
+        "physique"
+      ],
+      "distractors": {
+        "easy": [
+          "Comme l'accélération",
+          "Comme la vitesse moyenne",
+          "Comme la durée du trajet"
+        ],
+        "medium": [
+          "Comme la vitesse maximale atteinte",
+          "Comme la distance parcourue, même si la vitesse change de signe",
+          "Comme la dérivée de la position"
+        ],
+        "hard": [
+          "Comme la variation d'accélération entre les deux instants",
+          "Comme la distance parcourue divisée par la durée",
+          "Comme la position à l'instant final"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles unités faut-il préciser lorsqu'on donne une aire calculée par une intégrale ?",
+      "verso": "Des unités d'aire, éventuellement converties si le repère a des échelles différentes sur les deux axes",
+      "explanation": "Une unité d'aire correspond au rectangle bâti sur les deux vecteurs unitaires. Si une unité vaut deux centimètres sur un axe et trois sur l'autre, l'unité d'aire vaut six centimètres carrés.",
+      "tags": [
+        "aire",
+        "unités"
+      ],
+      "distractors": {
+        "easy": [
+          "Des centimètres",
+          "Aucune unité n'est nécessaire",
+          "Des unités de longueur"
+        ],
+        "medium": [
+          "Toujours des centimètres carrés",
+          "Les mêmes unités que la fonction",
+          "Des unités de volume"
+        ],
+        "hard": [
+          "Des unités d'aire, identiques quelles que soient les échelles",
+          "Des unités d'aire égales au produit des bornes",
+          "Des unités de longueur multipliées par l'amplitude"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la constante d'une primitive n'intervient-elle pas dans le calcul d'une intégrale ?",
+      "verso": "Parce que le calcul est une différence de deux valeurs de la primitive, dans laquelle la constante apparaît deux fois et se simplifie",
+      "explanation": "C'est ce qui autorise à choisir la primitive la plus simple. Il ne faut pas en conclure que la constante est inutile : elle redevient indispensable dès qu'une condition initiale est imposée.",
+      "tags": [
+        "primitive",
+        "lien"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que la constante vaut toujours zéro",
+          "Parce qu'on l'oublie volontairement",
+          "Parce que l'intégrale ne dépend pas de la primitive"
+        ],
+        "medium": [
+          "Parce que la constante s'annule en dérivant",
+          "Parce que l'intégrale se calcule sans primitive",
+          "Parce que la constante est absorbée par les bornes"
+        ],
+        "hard": [
+          "Parce que la constante se simplifie dans le produit des valeurs",
+          "Parce que la primitive est unique dans ce contexte",
+          "Parce que la constante est nulle pour les fonctions continues"
+        ]
+      }
+    },
+    {
+      "recto": "Comment se comporte l'intégrale d'une somme de deux fonctions ?",
+      "verso": "Elle est égale à la somme des intégrales de chaque fonction, sur les mêmes bornes",
+      "explanation": "Cette linéarité vaut aussi pour la multiplication par un réel, qui sort de l'intégrale. En revanche, il n'existe aucune règle analogue pour un produit de fonctions, ce qui justifie l'intégration par parties.",
+      "tags": [
+        "linéarité",
+        "propriété"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle est égale au produit des intégrales",
+          "Elle est égale à la différence des intégrales",
+          "Elle est égale à la moyenne des intégrales"
+        ],
+        "medium": [
+          "Elle est égale à la somme, à condition que les fonctions soient positives",
+          "Elle est égale à la somme des primitives",
+          "La linéarité vaut aussi pour le produit de deux fonctions"
+        ],
+        "hard": [
+          "Elle est égale à la somme, à condition que les bornes soient ordonnées",
+          "Elle est égale à la somme divisée par deux",
+          "La linéarité s'étend au quotient de deux fonctions"
+        ]
+      }
+    },
+    {
+      "recto": "Comment approche-t-on numériquement une intégrale par la méthode des rectangles ?",
+      "verso": "En découpant l'intervalle en sous-intervalles de même longueur et en additionnant les aires de rectangles construits sur chacun",
+      "explanation": "La précision augmente avec le nombre de découpes, et l'on obtient un encadrement en utilisant successivement les valeurs à gauche et à droite pour une fonction monotone. C'est le principe historique de la définition de l'intégrale.",
+      "tags": [
+        "algorithmique",
+        "approximation"
+      ],
+      "distractors": {
+        "easy": [
+          "En mesurant l'aire sur un graphique",
+          "En calculant la valeur de la fonction au milieu uniquement",
+          "En traçant la primitive"
+        ],
+        "medium": [
+          "En découpant en sous-intervalles de longueurs différentes",
+          "En additionnant les valeurs de la fonction sans multiplier par la largeur",
+          "En prenant la moyenne des valeurs aux bornes"
+        ],
+        "hard": [
+          "En découpant en sous-intervalles dont la largeur croît",
+          "En additionnant les aires de triangles construits sur chaque découpe",
+          "En multipliant la somme des valeurs par la longueur totale"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle démarche suivre pour calculer l'aire d'un domaine délimité par une courbe qui change de signe ?",
+      "verso": "Déterminer les intervalles où la fonction garde un signe constant, calculer l'intégrale sur chacun, puis additionner les valeurs absolues obtenues",
+      "explanation": "Sans ce découpage, les contributions positives et négatives se compensent et l'on obtient un résultat inférieur à l'aire réelle, voire nul. La détermination du signe précède donc toujours le calcul.",
+      "tags": [
+        "aire",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Calculer directement l'intégrale sur tout l'intervalle",
+          "Prendre la valeur absolue du résultat final",
+          "Doubler l'intégrale obtenue"
+        ],
+        "medium": [
+          "Intégrer la valeur absolue de la fonction sans découper",
+          "Calculer l'intégrale puis ajouter les parties négatives",
+          "Additionner les intégrales sans prendre les valeurs absolues"
+        ],
+        "hard": [
+          "Découper selon les variations de la fonction plutôt que selon son signe",
+          "Calculer l'intégrale sur chaque morceau puis en faire la somme algébrique",
+          "Prendre la valeur absolue de la fonction avant de chercher une primitive"
+        ]
+      }
+    },
+    {
+      "recto": "Quel bilan méthodique retenir pour un calcul d'intégrale ?",
+      "verso": "Chercher une primitive par reconnaissance de forme, recourir à l'intégration par parties si un produit résiste, et étudier le signe avant tout calcul d'aire",
+      "explanation": "L'étude du signe est l'étape que l'on saute le plus souvent, et c'est celle qui coûte le plus de points. Elle conditionne l'interprétation du résultat autant que sa valeur.",
+      "tags": [
+        "synthèse",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Utiliser toujours la calculatrice",
+          "Appliquer systématiquement l'intégration par parties",
+          "Calculer la dérivée puis intégrer"
+        ],
+        "medium": [
+          "Étudier le signe après avoir calculé l'intégrale",
+          "Chercher une primitive puis conclure sans vérifier le signe",
+          "Utiliser l'intégration par parties pour toute fonction composée"
+        ],
+        "hard": [
+          "Reconnaître une forme usuelle en dérivant l'expression proposée",
+          "Appliquer la relation de Chasles avant de chercher une primitive",
+          "Encadrer systématiquement avant de calculer"
+        ]
+      }
+    }
+  ]
+}

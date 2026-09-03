@@ -1,0 +1,666 @@
+{
+  "id": "mathematiques-terminale-vecteurs-droites-plans",
+  "title": "Vecteurs, droites et plans de l'espace",
+  "emoji": "🧊",
+  "subject": "mathematics",
+  "country": "fr",
+  "courseDescription": "Spé Maths · Terminale — vecteurs de l'espace, coplanarité, bases et repères, représentations paramétriques de droites et de plans, positions relatives.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Vecteurs, droites et plans de l'espace</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · spécialité Mathématiques<br>\n  <b>Thème&nbsp;:</b> Géométrie dans l'espace<br>\n  <b>Chapitre</b> · environ 3 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> Qu'est-ce que la troisième dimension change vraiment&nbsp;?</p></blockquote>\n\n<p>Presque tout ce que l'on sait du plan se transporte dans l'espace&nbsp;: les vecteurs s'additionnent de la même façon, les coordonnées se soustraient de la même façon, les droites se paramètrent de la même façon. Une chose, pourtant, ne se transporte pas — <strong>deux droites peuvent n'être ni parallèles ni sécantes</strong>. Cette possibilité nouvelle, celle des droites <em>non coplanaires</em>, oblige à remplacer l'intuition du dessin par un calcul vectoriel systématique. C'est l'objet du chapitre&nbsp;: se donner des outils qui décident à notre place, là où l'œil ne peut plus trancher.</p>\n\n<h2>1 · Vecteurs de l'espace</h2>\n\n<p>Les règles de calcul du plan restent valables sans changement&nbsp;: somme, multiplication par un réel, relation de Chasles. Deux notions structurent le chapitre.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Colinéarité et coplanarité</strong><br>\n  Deux vecteurs sont <em>colinéaires</em> lorsque l'un est le produit de l'autre par un réel.<br>\n  Trois vecteurs sont <em>coplanaires</em> lorsqu'ils admettent des représentants dans un même plan — de façon équivalente, lorsque l'un s'écrit comme combinaison linéaire des deux autres, ceux-ci n'étant pas colinéaires.\n</div>\n\n<p>Ces deux notions donnent les critères de position&nbsp;:</p>\n\n<ul>\n  <li>trois points sont <strong>alignés</strong> lorsque les vecteurs joignant le premier aux deux autres sont colinéaires&nbsp;;</li>\n  <li>quatre points sont <strong>coplanaires</strong> lorsque les trois vecteurs joignant le premier aux trois autres sont coplanaires. En pratique, on cherche deux réels exprimant le troisième vecteur en fonction des deux premiers&nbsp;: un système sans solution prouve la non-coplanarité.</li>\n</ul>\n\n<h3>Bases et repères</h3>\n\n<p>Trois vecteurs <strong>non coplanaires</strong> forment une <strong>base</strong> de l'espace&nbsp;: tout vecteur s'y décompose de façon <em>unique</em>. Cette unicité est l'outil de démonstration le plus employé du chapitre&nbsp;— elle autorise à identifier terme à terme deux écritures d'un même vecteur, et donc à transformer une égalité vectorielle en trois égalités numériques.</p>\n\n<p>Une base complétée d'une origine forme un <strong>repère</strong>. Les formules de coordonnées sont celles du plan, avec une troisième composante&nbsp;: le vecteur joignant deux points a pour coordonnées <em>arrivée moins départ</em>, et chaque coordonnée du milieu d'un segment est la demi-somme de celles des extrémités.</p>\n\n<p>En exercice, on choisit presque toujours un repère <strong>lié au solide</strong> — origine sur un sommet, axes sur trois arêtes issues de ce sommet. Les sommets prennent alors des coordonnées formées de zéros et de uns, et le problème de figure devient un calcul élémentaire.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Cube muni d'un repère lié à un sommet : trois arêtes issues de l'origine servent d'axes, les sommets ont des coordonnées formées de zéros et de uns, et deux arêtes opposées mises en évidence illustrent deux droites non coplanaires\">\n    <line x1=\"60\" y1=\"60\" x2=\"180\" y2=\"60\" stroke=\"currentColor\" stroke-opacity=\".35\"/>\n    <line x1=\"180\" y1=\"60\" x2=\"180\" y2=\"160\" stroke=\"currentColor\" stroke-opacity=\".35\"/>\n    <line x1=\"60\" y1=\"160\" x2=\"180\" y2=\"160\" stroke=\"var(--accent)\" stroke-opacity=\".8\" stroke-width=\"2.5\"/>\n    <line x1=\"60\" y1=\"60\" x2=\"60\" y2=\"160\" stroke=\"currentColor\" stroke-opacity=\".35\"/>\n    <line x1=\"110\" y1=\"26\" x2=\"230\" y2=\"26\" stroke=\"currentColor\" stroke-opacity=\".35\"/>\n    <line x1=\"230\" y1=\"26\" x2=\"230\" y2=\"126\" stroke=\"var(--accent)\" stroke-opacity=\".8\" stroke-width=\"2.5\"/>\n    <line x1=\"110\" y1=\"126\" x2=\"230\" y2=\"126\" stroke=\"currentColor\" stroke-opacity=\".2\" stroke-dasharray=\"3 3\"/>\n    <line x1=\"110\" y1=\"26\" x2=\"110\" y2=\"126\" stroke=\"currentColor\" stroke-opacity=\".2\" stroke-dasharray=\"3 3\"/>\n    <line x1=\"60\" y1=\"60\" x2=\"110\" y2=\"26\" stroke=\"currentColor\" stroke-opacity=\".35\"/>\n    <line x1=\"180\" y1=\"60\" x2=\"230\" y2=\"26\" stroke=\"currentColor\" stroke-opacity=\".35\"/>\n    <line x1=\"180\" y1=\"160\" x2=\"230\" y2=\"126\" stroke=\"currentColor\" stroke-opacity=\".35\"/>\n    <line x1=\"60\" y1=\"160\" x2=\"110\" y2=\"126\" stroke=\"currentColor\" stroke-opacity=\".2\" stroke-dasharray=\"3 3\"/>\n    <circle cx=\"60\" cy=\"160\" r=\"3.5\" fill=\"var(--accent)\"/>\n    <text x=\"42\" y=\"176\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">O (0;0;0)</text>\n    <text x=\"184\" y=\"176\" font-size=\"9\" class=\"s-muted\">(1;0;0)</text>\n    <text x=\"30\" y=\"56\" font-size=\"9\" class=\"s-muted\">(0;0;1)</text>\n    <text x=\"236\" y=\"20\" font-size=\"9\" class=\"s-muted\">(1;1;1)</text>\n    <text x=\"252\" y=\"76\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">deux arêtes</text>\n    <text x=\"252\" y=\"89\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">en évidence :</text>\n    <text x=\"252\" y=\"104\" font-size=\"9\" fill=\"currentColor\">ni parallèles,</text>\n    <text x=\"252\" y=\"117\" font-size=\"9\" fill=\"currentColor\">ni sécantes</text>\n    <text x=\"252\" y=\"134\" font-size=\"9\" class=\"s-muted\">non coplanaires</text>\n    <text x=\"20\" y=\"194\" font-size=\"9\" fill=\"currentColor\">Un repère lié au solide rend toutes les coordonnées immédiates.</text>\n  </svg>\n  <figcaption>Le cas propre à l'espace&nbsp;: deux droites qui ne se rencontrent pas sans être parallèles.</figcaption>\n</figure>\n\n<h2>2 · Représentations paramétriques</h2>\n\n<p>Une droite est définie par un <strong>point</strong> et un <strong>vecteur directeur</strong> non nul. Son point courant s'écrit&nbsp;:</p>\n\n<p style=\"text-align:center\"><strong>x = x<sub>A</sub> + t·a&nbsp;;&nbsp; y = y<sub>A</sub> + t·b&nbsp;;&nbsp; z = z<sub>A</sub> + t·c</strong>, avec t décrivant l'ensemble des réels</p>\n\n<p>Trois équations, <strong>un</strong> paramètre&nbsp;: chaque valeur de t donne un point de la droite, et un seul. Deux remarques comptent pour l'usage&nbsp;:</p>\n\n<ul>\n  <li>une droite admet une <strong>infinité</strong> de représentations paramétriques, le point et le vecteur directeur étant libres. Deux systèmes d'apparence différente peuvent donc décrire la même droite&nbsp;— comparer les écritures ne prouve jamais rien.</li>\n  <li>pour tester l'appartenance d'un point, on résout la première équation en t, puis on <strong>vérifie que la même valeur convient aux deux autres</strong>. Trouver trois valeurs distinctes signifie que le point n'appartient pas à la droite.</li>\n</ul>\n\n<p>Un plan, lui, est défini par un point et <strong>deux vecteurs directeurs non colinéaires</strong> — ou, ce qui revient au même, par trois points non alignés. Sa représentation paramétrique comporte donc <strong>deux</strong> paramètres indépendants&nbsp;: c'est exactement la traduction algébrique du saut de dimension.</p>\n\n<h2>3 · Positions relatives</h2>\n\n<p>Trois familles de questions reviennent, et chacune se traite en deux temps&nbsp;: d'abord les <em>directions</em>, ensuite un <em>test de point</em>.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 210\" role=\"img\" aria-label=\"Quatre positions relatives de deux droites de l'espace : confondues, strictement parallèles, sécantes en un point, et non coplanaires sans point commun ; les trois premières situations sont coplanaires, la dernière n'existe que dans l'espace\">\n    <rect x=\"8\" y=\"14\" width=\"150\" height=\"82\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"18\" y=\"30\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">confondues</text>\n    <line x1=\"24\" y1=\"62\" x2=\"140\" y2=\"62\" stroke=\"currentColor\" stroke-opacity=\".7\" stroke-width=\"2\"/>\n    <line x1=\"24\" y1=\"65\" x2=\"140\" y2=\"65\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"2\"/>\n    <text x=\"18\" y=\"88\" font-size=\"8\" class=\"s-muted\">directions colinéaires, point commun</text>\n    <rect x=\"182\" y=\"14\" width=\"150\" height=\"82\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"192\" y=\"30\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">strictement parallèles</text>\n    <line x1=\"198\" y1=\"50\" x2=\"314\" y2=\"50\" stroke=\"currentColor\" stroke-opacity=\".7\" stroke-width=\"2\"/>\n    <line x1=\"198\" y1=\"70\" x2=\"314\" y2=\"70\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"2\"/>\n    <text x=\"192\" y=\"88\" font-size=\"8\" class=\"s-muted\">directions colinéaires, aucun point commun</text>\n    <rect x=\"8\" y=\"108\" width=\"150\" height=\"82\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"18\" y=\"124\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">sécantes</text>\n    <line x1=\"24\" y1=\"140\" x2=\"140\" y2=\"172\" stroke=\"currentColor\" stroke-opacity=\".7\" stroke-width=\"2\"/>\n    <line x1=\"24\" y1=\"172\" x2=\"140\" y2=\"140\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"2\"/>\n    <circle cx=\"82\" cy=\"156\" r=\"3.5\" fill=\"var(--accent)\"/>\n    <text x=\"18\" y=\"184\" font-size=\"8\" class=\"s-muted\">coplanaires, un point commun</text>\n    <rect x=\"182\" y=\"108\" width=\"150\" height=\"82\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"192\" y=\"124\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">non coplanaires</text>\n    <line x1=\"198\" y1=\"140\" x2=\"314\" y2=\"172\" stroke=\"currentColor\" stroke-opacity=\".7\" stroke-width=\"2\"/>\n    <line x1=\"198\" y1=\"176\" x2=\"250\" y2=\"162\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"2\"/>\n    <line x1=\"268\" y1=\"157\" x2=\"314\" y2=\"144\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"2\"/>\n    <text x=\"192\" y=\"188\" font-size=\"8\" class=\"s-muted\">aucun plan ne les contient toutes deux</text>\n  </svg>\n  <figcaption>Le quatrième cas n'a pas d'équivalent dans le plan&nbsp;— c'est lui qu'on oublie.</figcaption>\n</figure>\n\n<h3>Deux droites</h3>\n\n<p>On compare d'abord les vecteurs directeurs. S'ils sont <strong>colinéaires</strong>, les droites sont parallèles&nbsp;: un test de point distingue alors confondues et strictement parallèles. S'ils <strong>ne sont pas colinéaires</strong>, on cherche un point commun en résolvant le système&nbsp;; une solution donne des droites sécantes, aucune solution des droites <strong>non coplanaires</strong>.</p>\n\n<h3>Une droite et un plan</h3>\n\n<p>Trois cas seulement&nbsp;: la droite est <em>contenue</em> dans le plan, <em>strictement parallèle</em>, ou <em>sécante en un unique point</em>. On tranche en injectant les coordonnées du point courant de la droite dans l'équation du plan&nbsp;: l'équation en t obtenue a une solution unique, aucune solution, ou une infinité — ce qui correspond exactement aux trois positions. Vectoriellement, le parallélisme se lit sur la coplanarité du vecteur directeur de la droite avec les deux vecteurs directeurs du plan.</p>\n\n<h3>Deux plans</h3>\n\n<p>Deux plans sont soit parallèles — confondus ou strictement —, soit sécants, et leur intersection est alors une <strong>droite</strong>, jamais un point. Deux plans sont parallèles lorsqu'ils ont la <em>même direction</em>, c'est-à-dire lorsque les vecteurs directeurs de l'un s'expriment comme combinaisons de ceux de l'autre.</p>\n\n<h2>4 · Le théorème du toit</h2>\n\n<div class=\"callout\">\n  <strong>Notion · Théorème du toit</strong><br>\n  Si deux plans sécants contiennent chacun une droite, et si ces deux droites sont parallèles, alors la droite d'intersection des deux plans leur est parallèle.\n</div>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 170\" role=\"img\" aria-label=\"Théorème du toit : deux plans sécants représentés comme les deux pans d'un toit contiennent chacun une droite, ces deux droites sont parallèles, et la droite d'intersection des plans, le faîtage, leur est parallèle\">\n    <path d=\"M40 130 L120 40 L250 40 L170 130 Z\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <path d=\"M170 130 L250 40 L316 66 L236 156 Z\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <line x1=\"120\" y1=\"40\" x2=\"250\" y2=\"40\" stroke=\"var(--accent)\" stroke-opacity=\".8\" stroke-width=\"2.5\"/>\n    <text x=\"150\" y=\"32\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">faîtage : l'intersection</text>\n    <line x1=\"62\" y1=\"104\" x2=\"192\" y2=\"104\" stroke=\"currentColor\" stroke-opacity=\".8\" stroke-width=\"2\"/>\n    <text x=\"46\" y=\"120\" font-size=\"9\" fill=\"currentColor\">droite du plan 1</text>\n    <line x1=\"196\" y1=\"108\" x2=\"286\" y2=\"108\" stroke=\"currentColor\" stroke-opacity=\".8\" stroke-width=\"2\"/>\n    <text x=\"212\" y=\"126\" font-size=\"9\" fill=\"currentColor\">droite du plan 2</text>\n    <text x=\"20\" y=\"152\" font-size=\"9\" fill=\"currentColor\">Deux droites parallèles, une dans chaque pan :</text>\n    <text x=\"20\" y=\"165\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">le faîtage leur est parallèle.</text>\n  </svg>\n  <figcaption>L'image du toit donne son nom au théorème&nbsp;— et suffit à le retenir.</figcaption>\n</figure>\n\n<p>C'est l'outil des constructions <em>sans coordonnées</em>, en particulier pour tracer la <strong>section d'un solide par un plan</strong>. La méthode générale tient en deux règles&nbsp;: on trace l'intersection du plan avec chaque face, et l'on s'appuie sur le fait que deux <em>faces parallèles</em> sont coupées selon deux <em>droites parallèles</em>. Le théorème du toit intervient lorsqu'une trace doit être prolongée au-delà d'une arête.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>La démarche</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Frise méthodique d'un exercice de géométrie dans l'espace : choisir un repère lié au solide, écrire les coordonnées des points utiles, traduire la question en termes de colinéarité ou de coplanarité, résoudre le système obtenu, puis interpréter la solution en position relative\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"176\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">1. Choisir le repère</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Origine et axes sur le solide</text>\n    <circle cx=\"26\" cy=\"60\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"57\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">2. Coordonner les points</text>\n    <text x=\"44\" y=\"70\" font-size=\"10\" fill=\"currentColor\">Puis les vecteurs : arrivée moins départ</text>\n    <circle cx=\"26\" cy=\"100\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"97\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">3. Traduire la question</text>\n    <text x=\"44\" y=\"110\" font-size=\"10\" fill=\"currentColor\">Colinéarité, coplanarité, appartenance</text>\n    <circle cx=\"26\" cy=\"140\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"137\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">4. Résoudre le système</text>\n    <text x=\"44\" y=\"150\" font-size=\"10\" fill=\"currentColor\">Une, aucune ou une infinité de solutions</text>\n    <circle cx=\"26\" cy=\"176\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"173\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">5. Conclure en géométrie</text>\n    <text x=\"44\" y=\"186\" font-size=\"10\" fill=\"currentColor\">Repasser du calcul à la position</text>\n  </svg>\n  <figcaption>L'étape 5 est notée&nbsp;: un système résolu sans conclusion géométrique reste une réponse incomplète.</figcaption>\n</figure>\n\n<h3>Formules à connaître</h3>\n\n<table>\n  <tr><th>Objet</th><th>Écriture</th></tr>\n  <tr><td>Coordonnées d'un vecteur</td><td>Arrivée moins départ, coordonnée par coordonnée</td></tr>\n  <tr><td>Milieu d'un segment</td><td>Demi-somme des coordonnées</td></tr>\n  <tr><td>Droite (paramétrique)</td><td>Point + t × vecteur directeur, 1 paramètre</td></tr>\n  <tr><td>Plan (paramétrique)</td><td>Point + t × u + s × v, 2 paramètres</td></tr>\n  <tr><td>Alignement de trois points</td><td>Vecteurs colinéaires</td></tr>\n  <tr><td>Coplanarité de quatre points</td><td>Trois vecteurs coplanaires</td></tr>\n</table>\n\n<h3>Notions à distinguer</h3>\n\n<table>\n  <tr><th>Distinction</th><th>Ce qui se joue</th></tr>\n  <tr><td>Colinéaires / coplanaires</td><td>Deux vecteurs contre trois</td></tr>\n  <tr><td>Parallèles / non coplanaires</td><td>Directions égales contre aucun plan commun</td></tr>\n  <tr><td>Confondues / strictement parallèles</td><td>Le test de point tranche</td></tr>\n  <tr><td>Droite / plan (paramétrage)</td><td>Un paramètre contre deux</td></tr>\n  <tr><td>Base / repère</td><td>Trois vecteurs contre trois vecteurs et une origine</td></tr>\n</table>\n\n<h3>Positions relatives</h3>\n\n<table>\n  <tr><th>Objets</th><th>Cas possibles</th></tr>\n  <tr><td>Deux droites</td><td>Confondues, parallèles, sécantes, non coplanaires</td></tr>\n  <tr><td>Droite et plan</td><td>Incluse, strictement parallèle, sécante en un point</td></tr>\n  <tr><td>Deux plans</td><td>Confondus, strictement parallèles, sécants selon une droite</td></tr>\n  <tr><td>Intersection de deux plans sécants</td><td>Toujours une droite, jamais un point</td></tr>\n  <tr><td>Système d'intersection</td><td>Une solution, aucune, ou une infinité</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Croire que deux droites <strong>non parallèles</strong> sont nécessairement <strong>sécantes</strong>. C'est vrai dans le plan, faux dans l'espace&nbsp;: deux arêtes opposées d'un cube qui ne se touchent pas ont des directions différentes et aucun point commun. Il faut donc toujours résoudre le système avant de conclure. Deux erreurs voisines&nbsp;: conclure à l'appartenance d'un point à une droite après avoir vérifié une seule des trois équations&nbsp;; et comparer deux représentations paramétriques pour décider si elles décrivent la même droite, alors qu'une droite en admet une infinité.\n</div>\n\n<blockquote><p>Dans le plan, l'œil suffit presque toujours&nbsp;; dans l'espace, il trompe. Le calcul vectoriel n'est pas ici une complication&nbsp;: c'est le seul juge fiable de ce qui se rencontre et de ce qui se croise sans se toucher.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Spécialité Mathématiques — Géométrie dans l'espace",
+  "cards": [
+    {
+      "recto": "Que signifie que deux vecteurs de l'espace sont colinéaires ?",
+      "verso": "L'un des deux est le produit de l'autre par un nombre réel",
+      "explanation": "Le vecteur nul est colinéaire à tout vecteur, ce qui explique la formulation prudente de la définition. Géométriquement, deux vecteurs colinéaires non nuls dirigent la même droite.",
+      "tags": [
+        "vecteurs",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Ils ont la même longueur",
+          "Ils ont la même origine",
+          "Leur somme est nulle"
+        ],
+        "medium": [
+          "Ils ont le même sens et la même norme",
+          "Leur somme est un vecteur de norme double",
+          "Ils appartiennent à un même plan"
+        ],
+        "hard": [
+          "L'un des deux est le produit de l'autre par un réel strictement positif",
+          "Ils sont tous deux combinaisons linéaires d'un troisième vecteur",
+          "Il existe deux réels non tous nuls tels que leur combinaison soit non nulle"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on un vecteur directeur d'une droite de l'espace ?",
+      "verso": "Un vecteur non nul colinéaire à tout vecteur joignant deux points de cette droite",
+      "explanation": "Une droite possède une infinité de vecteurs directeurs, tous colinéaires entre eux : leur choix est libre, seule leur direction compte. C'est ce qui rend une représentation paramétrique non unique.",
+      "tags": [
+        "droites",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Le vecteur nul de la droite",
+          "Le vecteur joignant l'origine du repère à la droite",
+          "Un vecteur perpendiculaire à la droite"
+        ],
+        "medium": [
+          "Un vecteur non nul orthogonal à tout vecteur de la droite",
+          "L'unique vecteur de norme 1 porté par la droite",
+          "Un vecteur dont les coordonnées sont celles d'un point de la droite"
+        ],
+        "hard": [
+          "Un vecteur non nul colinéaire à la droite, et unique à un signe près",
+          "Un vecteur non nul appartenant à un plan contenant la droite",
+          "Un vecteur non nul joignant deux points quelconques de l'espace situés du même côté de la droite"
+        ]
+      }
+    },
+    {
+      "recto": "Comment caractérise-t-on vectoriellement l'alignement de trois points de l'espace ?",
+      "verso": "Les vecteurs joignant le premier point aux deux autres sont colinéaires",
+      "explanation": "En pratique, on vérifie la proportionnalité des coordonnées, ou l'existence d'un réel unique reliant les deux vecteurs. Ce critère remplace toute considération de dessin, impossible à trancher à l'œil dans l'espace.",
+      "tags": [
+        "vecteurs",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Les trois points ont la même abscisse",
+          "Les trois vecteurs formés ont la même norme",
+          "La somme des trois vecteurs est nulle"
+        ],
+        "medium": [
+          "Les vecteurs joignant les points sont coplanaires",
+          "Les vecteurs joignant les points sont orthogonaux",
+          "Le troisième point est le milieu des deux autres"
+        ],
+        "hard": [
+          "Les vecteurs joignant le premier point aux deux autres sont coplanaires avec un troisième vecteur non nul",
+          "Les vecteurs joignant le premier point aux deux autres sont colinéaires et de même sens",
+          "Les vecteurs joignant les points deux à deux ont des coordonnées de somme nulle"
+        ]
+      }
+    },
+    {
+      "recto": "Que signifie que trois vecteurs de l'espace sont coplanaires ?",
+      "verso": "Il existe des représentants de ces trois vecteurs contenus dans un même plan",
+      "explanation": "De façon équivalente, l'un des trois s'écrit comme combinaison linéaire des deux autres, à condition que ceux-ci ne soient pas colinéaires. C'est la notion propre à l'espace : dans le plan, trois vecteurs sont toujours coplanaires.",
+      "tags": [
+        "vecteurs",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Ils sont deux à deux colinéaires",
+          "Ils ont tous la même norme",
+          "Leur somme est le vecteur nul"
+        ],
+        "medium": [
+          "Ils sont deux à deux orthogonaux",
+          "Ils forment une base de l'espace",
+          "Ils ont tous une coordonnée nulle dans un repère donné"
+        ],
+        "hard": [
+          "L'un des trois est combinaison linéaire des deux autres, sans autre condition",
+          "Il existe trois réels non nuls dont la combinaison des vecteurs est nulle",
+          "Ils sont contenus dans un même plan passant nécessairement par l'origine du repère"
+        ]
+      }
+    },
+    {
+      "recto": "Comment montre-t-on que quatre points de l'espace sont coplanaires ?",
+      "verso": "En montrant que les trois vecteurs joignant le premier point aux trois autres sont coplanaires",
+      "explanation": "Concrètement, on cherche deux réels exprimant le troisième vecteur en fonction des deux premiers, ce qui donne un système à résoudre. Si le système n'admet aucune solution, les quatre points ne sont pas coplanaires.",
+      "tags": [
+        "vecteurs",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En vérifiant qu'ils ont la même cote",
+          "En vérifiant que les quatre points sont alignés",
+          "En calculant la somme de leurs coordonnées"
+        ],
+        "medium": [
+          "En montrant que les trois vecteurs formés sont colinéaires",
+          "En montrant que les trois vecteurs formés sont orthogonaux",
+          "En montrant que les quatre points forment un parallélogramme"
+        ],
+        "hard": [
+          "En montrant que les trois vecteurs joignant le premier aux autres forment une base de l'espace",
+          "En montrant que deux des trois vecteurs sont colinéaires, ce qui suffit dans tous les cas",
+          "En montrant que les trois vecteurs joignant le premier aux autres ont des coordonnées proportionnelles"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle condition trois vecteurs doivent-ils remplir pour former une base de l'espace ?",
+      "verso": "Ils doivent être non coplanaires",
+      "explanation": "Trois vecteurs coplanaires ne peuvent engendrer qu'un plan, et non l'espace entier. La condition est exactement l'analogue en dimension trois de la non-colinéarité pour une base du plan.",
+      "tags": [
+        "base",
+        "condition"
+      ],
+      "distractors": {
+        "easy": [
+          "Ils doivent avoir la même norme",
+          "Ils doivent être deux à deux colinéaires",
+          "Ils doivent être de norme 1"
+        ],
+        "medium": [
+          "Ils doivent être deux à deux orthogonaux",
+          "Ils doivent être coplanaires",
+          "Ils doivent être deux à deux non colinéaires"
+        ],
+        "hard": [
+          "Ils doivent être non coplanaires et de norme 1",
+          "Ils doivent être deux à deux non colinéaires, ce qui suffit dans l'espace",
+          "Ils doivent être non coplanaires et deux à deux orthogonaux"
+        ]
+      }
+    },
+    {
+      "recto": "Que garantit une base de l'espace pour un vecteur quelconque ?",
+      "verso": "Il se décompose de façon unique comme combinaison linéaire des trois vecteurs de la base",
+      "explanation": "L'existence donne les coordonnées, l'unicité permet d'identifier terme à terme deux écritures, ce qui est la technique de résolution la plus employée du chapitre. C'est cette unicité qui autorise à conclure qu'un système d'égalités vectorielles se traduit par trois égalités numériques.",
+      "tags": [
+        "base",
+        "propriété"
+      ],
+      "distractors": {
+        "easy": [
+          "Il est colinéaire à l'un des vecteurs de la base",
+          "Il a nécessairement trois coordonnées positives",
+          "Il est de norme 1"
+        ],
+        "medium": [
+          "Il se décompose comme combinaison linéaire, mais de plusieurs façons",
+          "Il se décompose de façon unique, à condition d'être non nul",
+          "Il se décompose de façon unique, à condition d'appartenir à un plan de la base"
+        ],
+        "hard": [
+          "Il se décompose de façon unique, à condition que la base soit orthonormée",
+          "Il se décompose de façon unique en une combinaison à coefficients entiers",
+          "Il se décompose de façon unique, l'unicité valant seulement au signe près"
+        ]
+      }
+    },
+    {
+      "recto": "Comment obtient-on les coordonnées du vecteur joignant deux points dans un repère de l'espace ?",
+      "verso": "En soustrayant les coordonnées du point de départ à celles du point d'arrivée, coordonnée par coordonnée",
+      "explanation": "L'ordre de la soustraction est la source d'erreur la plus banale et la plus coûteuse : arrivée moins départ, jamais l'inverse. Le résultat ne dépend pas de l'origine du repère, contrairement aux coordonnées d'un point.",
+      "tags": [
+        "coordonnées",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "En additionnant les coordonnées des deux points",
+          "En multipliant les coordonnées des deux points",
+          "En prenant la moyenne des coordonnées"
+        ],
+        "medium": [
+          "En soustrayant les coordonnées du point d'arrivée à celles du point de départ",
+          "En additionnant les coordonnées, puis en divisant par deux",
+          "En prenant la valeur absolue des différences de coordonnées"
+        ],
+        "hard": [
+          "En soustrayant coordonnée par coordonnée, puis en divisant par la distance entre les points",
+          "En soustrayant coordonnée par coordonnée, à condition que le repère soit orthonormé",
+          "En soustrayant les coordonnées du départ à celles de l'arrivée, puis en changeant le signe de la troisième"
+        ]
+      }
+    },
+    {
+      "recto": "Comment s'écrivent les coordonnées du milieu d'un segment dans l'espace ?",
+      "verso": "Chaque coordonnée du milieu est la demi-somme des coordonnées correspondantes des deux extrémités",
+      "explanation": "La formule se lit sur les trois coordonnées séparément, exactement comme dans le plan. Elle sert notamment à vérifier qu'un quadrilatère de l'espace est un parallélogramme, en comparant les milieux de ses diagonales.",
+      "tags": [
+        "coordonnées",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "Chaque coordonnée du milieu est la différence des coordonnées des extrémités",
+          "Chaque coordonnée du milieu est le produit des coordonnées des extrémités",
+          "Le milieu a pour coordonnées celles du point le plus proche de l'origine"
+        ],
+        "medium": [
+          "Chaque coordonnée du milieu est la somme des coordonnées des extrémités",
+          "Chaque coordonnée du milieu est la demi-différence des coordonnées des extrémités",
+          "Chaque coordonnée du milieu est la moyenne des coordonnées des trois axes"
+        ],
+        "hard": [
+          "Chaque coordonnée du milieu est la demi-somme des coordonnées, à condition que le repère soit orthonormé",
+          "Chaque coordonnée du milieu est la demi-somme des coordonnées, sauf la cote qui reste inchangée",
+          "Chaque coordonnée du milieu est la demi-somme des coordonnées, valable seulement si le segment ne coupe aucun axe"
+        ]
+      }
+    },
+    {
+      "recto": "Comment s'écrit une représentation paramétrique d'une droite de l'espace ?",
+      "verso": "Chaque coordonnée d'un point courant s'écrit comme la coordonnée d'un point fixe de la droite, augmentée du paramètre multiplié par la coordonnée correspondante d'un vecteur directeur",
+      "explanation": "Le système comporte donc trois équations et un seul paramètre, qui décrit l'ensemble des réels. Chaque valeur du paramètre correspond à un point de la droite, et un seul.",
+      "tags": [
+        "droites",
+        "paramétrique"
+      ],
+      "distractors": {
+        "easy": [
+          "Une seule équation reliant les trois coordonnées",
+          "Deux équations sans paramètre",
+          "Trois équations sans aucun paramètre"
+        ],
+        "medium": [
+          "Trois équations dépendant de deux paramètres indépendants",
+          "Trois équations où le paramètre multiplie les coordonnées du point fixe",
+          "Deux équations dépendant d'un paramètre, la troisième coordonnée restant libre"
+        ],
+        "hard": [
+          "Trois équations où le point fixe est nécessairement l'origine du repère",
+          "Trois équations où le paramètre est restreint à l'intervalle allant de zéro à un",
+          "Trois équations où le vecteur directeur doit être de norme 1"
+        ]
+      }
+    },
+    {
+      "recto": "Une droite de l'espace admet-elle une seule représentation paramétrique ?",
+      "verso": "Non : elle en admet une infinité, puisque le point fixe et le vecteur directeur peuvent être choisis librement",
+      "explanation": "Deux systèmes d'apparence très différente peuvent donc décrire la même droite, ce qui interdit de conclure par simple comparaison des écritures. Pour comparer deux droites, on compare la colinéarité des vecteurs directeurs, puis on teste l'appartenance d'un point.",
+      "tags": [
+        "droites",
+        "propriété"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, une seule, imposée par le repère",
+          "Oui, une seule dès que le repère est orthonormé",
+          "Non, elle en admet exactement deux"
+        ],
+        "medium": [
+          "Non, elle en admet une infinité, mais toutes ont le même point fixe",
+          "Oui, une seule à condition de choisir un vecteur directeur de norme 1",
+          "Non, elle en admet autant que de points de la droite, le vecteur directeur étant imposé"
+        ],
+        "hard": [
+          "Non, elle en admet une infinité, mais deux représentations d'une même droite ont toujours des vecteurs directeurs égaux",
+          "Non, elle en admet une infinité, obtenues uniquement en changeant le signe du paramètre",
+          "Non, elle en admet une infinité, à condition que la droite ne soit parallèle à aucun plan de coordonnées"
+        ]
+      }
+    },
+    {
+      "recto": "Comment vérifie-t-on qu'un point appartient à une droite donnée par une représentation paramétrique ?",
+      "verso": "En résolvant l'équation donnée par la première coordonnée, puis en vérifiant que la valeur trouvée du paramètre convient aussi pour les deux autres",
+      "explanation": "Il ne suffit surtout pas qu'une seule équation soit vérifiée : le même paramètre doit convenir aux trois. Trouver trois valeurs différentes signifie que le point n'appartient pas à la droite.",
+      "tags": [
+        "droites",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En vérifiant que ses coordonnées sont positives",
+          "En vérifiant qu'il a la même abscisse que le point fixe",
+          "En additionnant ses trois coordonnées"
+        ],
+        "medium": [
+          "En vérifiant qu'au moins une des trois équations est satisfaite",
+          "En vérifiant que ses coordonnées sont proportionnelles à celles du vecteur directeur",
+          "En vérifiant que le point est situé entre deux points connus de la droite"
+        ],
+        "hard": [
+          "En résolvant les trois équations et en acceptant trois valeurs distinctes du paramètre",
+          "En vérifiant que le vecteur joignant le point au point fixe est orthogonal au vecteur directeur",
+          "En résolvant la première équation, la vérification des deux autres étant automatique"
+        ]
+      }
+    },
+    {
+      "recto": "Combien de paramètres comporte une représentation paramétrique d'un plan de l'espace ?",
+      "verso": "Deux paramètres indépendants, un pour chacun des deux vecteurs directeurs du plan",
+      "explanation": "Un plan est engendré par un point et deux vecteurs non colinéaires : il faut donc deux degrés de liberté pour atteindre tous ses points. Le contraste avec la droite, qui n'en demande qu'un, résume la différence de dimension.",
+      "tags": [
+        "plans",
+        "paramétrique"
+      ],
+      "distractors": {
+        "easy": [
+          "Un seul paramètre",
+          "Trois paramètres",
+          "Aucun paramètre"
+        ],
+        "medium": [
+          "Deux paramètres liés par une relation",
+          "Trois paramètres dont la somme vaut 1",
+          "Un paramètre pour le point et un pour la direction"
+        ],
+        "hard": [
+          "Deux paramètres indépendants, à condition que les deux vecteurs directeurs soient orthogonaux",
+          "Deux paramètres indépendants, restreints aux valeurs positives",
+          "Deux paramètres indépendants, mais trois lorsque le plan ne passe pas par l'origine"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles données suffisent à définir un plan de l'espace ?",
+      "verso": "Un point du plan et deux vecteurs directeurs non colinéaires",
+      "explanation": "Trois points non alignés conviennent également, puisqu'ils fournissent un point et deux vecteurs non colinéaires. Insister sur la non-colinéarité est indispensable : deux vecteurs colinéaires ne définiraient qu'une droite.",
+      "tags": [
+        "plans",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Deux points quelconques",
+          "Un point et un vecteur",
+          "Trois points quelconques"
+        ],
+        "medium": [
+          "Un point et deux vecteurs quelconques",
+          "Deux droites quelconques de l'espace",
+          "Trois vecteurs non coplanaires"
+        ],
+        "hard": [
+          "Un point et deux vecteurs directeurs orthogonaux, la non-colinéarité étant insuffisante",
+          "Trois points, la condition d'alignement étant sans conséquence",
+          "Un point et deux vecteurs non colinéaires, à condition que le point soit l'origine"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : quelles sont les positions relatives possibles de deux droites de l'espace ?",
+      "verso": "Coplanaires et confondues, coplanaires et strictement parallèles, coplanaires et sécantes, ou non coplanaires",
+      "explanation": "Le dernier cas n'existe pas dans le plan : deux droites peuvent n'être ni parallèles ni sécantes. On tranche en comparant d'abord les vecteurs directeurs, puis en cherchant un point commun.",
+      "tags": [
+        "comparaison",
+        "positions"
+      ],
+      "distractors": {
+        "easy": [
+          "Parallèles ou sécantes, sans autre possibilité",
+          "Confondues ou disjointes, sans autre possibilité",
+          "Toujours sécantes en un point"
+        ],
+        "medium": [
+          "Confondues, parallèles ou sécantes, comme dans le plan",
+          "Parallèles, sécantes ou orthogonales",
+          "Coplanaires ou orthogonales, sans autre possibilité"
+        ],
+        "hard": [
+          "Coplanaires et confondues, coplanaires et parallèles, coplanaires et sécantes, ou non coplanaires et sécantes",
+          "Confondues, strictement parallèles, sécantes, ou non coplanaires mais nécessairement orthogonales",
+          "Coplanaires et confondues, coplanaires et sécantes, ou non coplanaires, le parallélisme strict étant un cas de non-coplanarité"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : dans l'espace, deux droites non parallèles sont-elles nécessairement sécantes ?",
+      "verso": "Non : elles peuvent être non coplanaires, c'est-à-dire n'avoir aucun point commun tout en ayant des directions différentes",
+      "explanation": "Deux arêtes opposées d'un cube qui ne se touchent pas en donnent l'exemple le plus simple. C'est le raisonnement du plan transposé sans précaution qui produit cette erreur, très fréquente en début de chapitre.",
+      "tags": [
+        "piege",
+        "positions"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, elles se coupent toujours en un point",
+          "Oui, elles se coupent en deux points au plus",
+          "Non, elles sont alors nécessairement confondues"
+        ],
+        "medium": [
+          "Oui, à condition qu'elles appartiennent à un même plan, ce qui est toujours le cas",
+          "Non, elles peuvent être strictement parallèles tout en ayant des directions différentes",
+          "Oui, car deux directions différentes se rencontrent nécessairement dans l'espace"
+        ],
+        "hard": [
+          "Non, elles peuvent être non coplanaires, ce qui suppose que leurs vecteurs directeurs soient orthogonaux",
+          "Non, elles peuvent être non coplanaires, mais seulement si aucune des deux n'est parallèle à un plan de coordonnées",
+          "Oui, sauf lorsque leurs vecteurs directeurs sont colinéaires, auquel cas elles sont non coplanaires"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles sont les positions relatives possibles d'une droite et d'un plan de l'espace ?",
+      "verso": "La droite est contenue dans le plan, strictement parallèle au plan, ou sécante au plan en un unique point",
+      "explanation": "Le test se fait en injectant la représentation paramétrique de la droite dans l'équation du plan : le système obtenu a une solution unique, aucune solution, ou une infinité. Ces trois cas correspondent exactement aux trois positions.",
+      "tags": [
+        "positions",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La droite coupe toujours le plan en un point",
+          "La droite est toujours parallèle au plan",
+          "La droite coupe le plan en deux points au plus"
+        ],
+        "medium": [
+          "La droite est contenue dans le plan ou sécante, le parallélisme strict étant impossible",
+          "La droite est parallèle ou sécante, l'inclusion étant un cas de sécance",
+          "La droite est sécante en un point, en une droite, ou disjointe"
+        ],
+        "hard": [
+          "La droite est contenue dans le plan, parallèle au plan, ou sécante selon une droite",
+          "La droite est contenue, strictement parallèle, ou sécante en un point, ce dernier cas exigeant l'orthogonalité",
+          "La droite est contenue dans le plan, strictement parallèle, ou sécante en un ou plusieurs points selon les cas"
+        ]
+      }
+    },
+    {
+      "recto": "Que peut-on dire de l'intersection de deux plans non parallèles de l'espace ?",
+      "verso": "C'est une droite",
+      "explanation": "Deux plans distincts ne peuvent jamais se couper en un seul point : leur intersection est vide s'ils sont parallèles, et une droite entière sinon. En coordonnées, cela se traduit par un système dont l'ensemble des solutions dépend d'un paramètre.",
+      "tags": [
+        "plans",
+        "positions"
+      ],
+      "distractors": {
+        "easy": [
+          "C'est un point",
+          "C'est un plan",
+          "C'est l'ensemble vide"
+        ],
+        "medium": [
+          "C'est un segment",
+          "C'est un point ou une droite selon les cas",
+          "C'est une droite passant nécessairement par l'origine"
+        ],
+        "hard": [
+          "C'est une droite, sauf lorsque les deux plans sont orthogonaux, auquel cas c'est un point",
+          "C'est une droite, à condition que les deux plans ne soient pas perpendiculaires à un même troisième",
+          "C'est une droite, dont un vecteur directeur est colinéaire à ceux des deux plans"
+        ]
+      }
+    },
+    {
+      "recto": "Comment caractérise-t-on le parallélisme entre une droite et un plan ?",
+      "verso": "Un vecteur directeur de la droite est coplanaire avec deux vecteurs directeurs du plan",
+      "explanation": "Cela revient à écrire le vecteur directeur de la droite comme combinaison linéaire des deux vecteurs du plan. Si la condition est vérifiée, il reste à tester un point pour distinguer l'inclusion du parallélisme strict.",
+      "tags": [
+        "parallélisme",
+        "critère"
+      ],
+      "distractors": {
+        "easy": [
+          "La droite ne coupe aucun axe du repère",
+          "Le vecteur directeur de la droite est nul",
+          "La droite et le plan ont le même point fixe"
+        ],
+        "medium": [
+          "Un vecteur directeur de la droite est colinéaire à un vecteur directeur du plan",
+          "Un vecteur directeur de la droite est orthogonal aux vecteurs du plan",
+          "Les vecteurs directeurs du plan sont colinéaires à celui de la droite"
+        ],
+        "hard": [
+          "Un vecteur directeur de la droite est coplanaire avec ceux du plan, ce qui suffit à conclure au parallélisme strict",
+          "Un vecteur directeur de la droite est coplanaire avec ceux du plan, à condition que la droite ne soit pas contenue dans un plan parallèle",
+          "Un vecteur directeur de la droite forme avec ceux du plan une base de l'espace"
+        ]
+      }
+    },
+    {
+      "recto": "Comment caractérise-t-on le parallélisme de deux plans de l'espace ?",
+      "verso": "Les vecteurs directeurs de l'un s'expriment comme combinaisons linéaires des vecteurs directeurs de l'autre, autrement dit les deux plans ont la même direction",
+      "explanation": "En pratique, deux plans sont parallèles lorsqu'ils admettent un même couple de vecteurs directeurs, à des combinaisons près. Un test de point permet ensuite de distinguer plans confondus et plans strictement parallèles.",
+      "tags": [
+        "parallélisme",
+        "critère"
+      ],
+      "distractors": {
+        "easy": [
+          "Les deux plans ne contiennent aucun point commun avec les axes",
+          "Les deux plans ont la même équation",
+          "Les deux plans contiennent tous deux l'origine"
+        ],
+        "medium": [
+          "Les vecteurs directeurs de l'un sont colinéaires à ceux de l'autre, deux à deux",
+          "Les vecteurs directeurs de l'un sont orthogonaux à ceux de l'autre",
+          "Les deux plans ont exactement un point commun"
+        ],
+        "hard": [
+          "Les vecteurs directeurs de l'un sont combinaisons de ceux de l'autre, ce qui entraîne que les plans sont confondus",
+          "Les six vecteurs directeurs des deux plans forment une famille non coplanaire",
+          "Les vecteurs directeurs de l'un sont combinaisons de ceux de l'autre, à condition que les deux plans coupent le même axe"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'énonce le théorème dit du toit ?",
+      "verso": "Si deux plans sécants contiennent chacun une droite, et que ces deux droites sont parallèles, alors la droite d'intersection des deux plans leur est parallèle",
+      "explanation": "Son nom vient de l'image des deux pans d'un toit se rejoignant le long du faîtage. Il sert principalement à construire une section plane d'un solide sans coordonnées.",
+      "tags": [
+        "théorème",
+        "espace"
+      ],
+      "distractors": {
+        "easy": [
+          "Deux plans parallèles ne se coupent jamais",
+          "Toute droite d'un plan est parallèle à ce plan",
+          "Deux droites parallèles définissent toujours un plan"
+        ],
+        "medium": [
+          "Si deux plans sont parallèles, toute droite de l'un est parallèle à l'autre",
+          "Si deux droites parallèles coupent un même plan, elles le coupent au même point",
+          "Si deux plans sécants contiennent deux droites sécantes, leur intersection passe par ce point"
+        ],
+        "hard": [
+          "Si deux plans sécants contiennent chacun une droite, et que ces droites sont parallèles, alors les deux plans sont parallèles",
+          "Si deux plans sécants contiennent chacun une droite parallèle à leur intersection, alors ces droites sont confondues",
+          "Si deux plans sécants contiennent chacun une droite, et que ces droites sont sécantes, alors leur intersection est parallèle aux deux"
+        ]
+      }
+    },
+    {
+      "recto": "Comment détermine-t-on le point d'intersection d'une droite et d'un plan à l'aide de leurs équations ?",
+      "verso": "En remplaçant les coordonnées du point courant de la droite dans l'équation du plan, puis en résolvant l'équation obtenue en le paramètre",
+      "explanation": "Une solution unique donne le point cherché, aucune solution signale un parallélisme strict, et une infinité de solutions signale que la droite est contenue dans le plan. La méthode répond donc à la fois à la position relative et au calcul du point.",
+      "tags": [
+        "méthode",
+        "intersection"
+      ],
+      "distractors": {
+        "easy": [
+          "En additionnant les équations de la droite et du plan",
+          "En comparant les coordonnées des points fixes",
+          "En calculant la moyenne des coordonnées"
+        ],
+        "medium": [
+          "En remplaçant les coordonnées d'un point du plan dans la représentation de la droite",
+          "En résolvant le système formé par les trois équations de la droite seules",
+          "En cherchant un vecteur commun aux deux objets"
+        ],
+        "hard": [
+          "En substituant les coordonnées du point courant, une infinité de solutions signalant alors un parallélisme strict",
+          "En substituant les coordonnées du point courant, puis en vérifiant que le paramètre trouvé est positif",
+          "En substituant les coordonnées du point courant dans l'équation du plan, ce qui donne toujours une unique solution"
+        ]
+      }
+    },
+    {
+      "recto": "Comment construit-on la section d'un solide par un plan sans utiliser de coordonnées ?",
+      "verso": "En traçant l'intersection du plan avec chaque face du solide, en s'appuyant sur les parallélismes entre faces opposées",
+      "explanation": "Deux faces parallèles sont coupées par le plan selon deux droites parallèles, ce qui permet de reporter une direction déjà construite. Le théorème du toit intervient lorsqu'il faut prolonger une trace au-delà d'une arête.",
+      "tags": [
+        "méthode",
+        "espace"
+      ],
+      "distractors": {
+        "easy": [
+          "En reliant directement les sommets du solide deux à deux",
+          "En traçant les diagonales de toutes les faces",
+          "En projetant le solide sur un plan de coordonnées"
+        ],
+        "medium": [
+          "En traçant l'intersection avec chaque arête, sans se soucier des faces",
+          "En reliant les milieux des arêtes du solide",
+          "En traçant l'intersection avec une seule face, puis en la reproduisant partout"
+        ],
+        "hard": [
+          "En traçant l'intersection avec chaque face, deux faces parallèles donnant des traces sécantes",
+          "En traçant l'intersection avec chaque face, la section obtenue étant nécessairement un triangle ou un quadrilatère",
+          "En traçant l'intersection avec chaque face, en s'appuyant sur l'orthogonalité entre faces adjacentes"
+        ]
+      }
+    },
+    {
+      "recto": "Que faut-il vérifier après avoir constaté que deux droites ont des vecteurs directeurs colinéaires ?",
+      "verso": "Il faut tester si un point de l'une appartient à l'autre, pour distinguer droites confondues et droites strictement parallèles",
+      "explanation": "La colinéarité des directions ne dit rien de la position : elle laisse deux cas ouverts. Un unique test de point tranche, et la même logique s'applique aux plans parallèles.",
+      "tags": [
+        "méthode",
+        "positions"
+      ],
+      "distractors": {
+        "easy": [
+          "Il faut vérifier que les deux droites ont la même longueur",
+          "Il faut vérifier qu'elles coupent le même axe",
+          "Il n'y a plus rien à vérifier, elles sont parallèles"
+        ],
+        "medium": [
+          "Il faut vérifier que leurs vecteurs directeurs sont de même norme",
+          "Il faut vérifier qu'elles sont coplanaires, ce qui n'est pas encore acquis",
+          "Il faut vérifier que leurs paramètres prennent les mêmes valeurs"
+        ],
+        "hard": [
+          "Il faut tester l'appartenance d'un point pour distinguer droites sécantes et droites non coplanaires",
+          "Il faut tester l'appartenance d'un point, un échec signifiant que les droites sont non coplanaires",
+          "Il faut vérifier que les deux systèmes admettent la même valeur du paramètre pour un même point"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi choisit-on souvent un repère lié au solide dans un exercice de géométrie dans l'espace ?",
+      "verso": "Parce que les sommets du solide y prennent des coordonnées simples, souvent formées de zéros et de uns",
+      "explanation": "Placer l'origine en un sommet et les axes sur trois arêtes issues de ce sommet transforme un problème de figure en calculs élémentaires. L'énoncé impose parfois ce repère, mais il est souvent laissé au choix du candidat.",
+      "tags": [
+        "méthode",
+        "repère"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que c'est la seule façon de définir des coordonnées",
+          "Parce que le solide devient alors un cube",
+          "Parce que les longueurs sont alors toutes égales à 1"
+        ],
+        "medium": [
+          "Parce que tous les vecteurs directeurs deviennent alors colinéaires",
+          "Parce que le repère devient automatiquement orthonormé quel que soit le solide",
+          "Parce que les équations de plans y sont toujours sans terme constant"
+        ],
+        "hard": [
+          "Parce que les sommets y prennent des coordonnées simples, ce qui suppose que le solide soit un pavé droit pour que le repère soit orthonormé",
+          "Parce que les coordonnées des sommets y sont entières, ce qui garantit que toutes les droites sont sécantes",
+          "Parce que les coordonnées simples rendent inutile la vérification de la non-coplanarité de la base"
+        ]
+      }
+    }
+  ]
+}

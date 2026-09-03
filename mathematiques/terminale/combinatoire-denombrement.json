@@ -1,0 +1,640 @@
+{
+  "id": "mathematiques-terminale-combinatoire-denombrement",
+  "title": "Combinatoire et dénombrement",
+  "emoji": "🔢",
+  "subject": "mathematics",
+  "country": "fr",
+  "courseDescription": "Spé Maths · Terminale — principe multiplicatif, listes, arrangements, permutations, parties d'un ensemble, combinaisons et triangle de Pascal.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Combinatoire et dénombrement</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · spécialité Mathématiques<br>\n  <b>Thème&nbsp;:</b> Combinatoire et dénombrement<br>\n  <b>Chapitre</b> · environ 3 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> Comment compter sans énumérer&nbsp;?</p></blockquote>\n\n<p>Compter les mains de cinq cartes d'un jeu de trente-deux, les codes possibles d'un cadenas, les délégations de trois élèves dans une classe de trente&nbsp;: dans chaque cas, écrire la liste complète est hors de portée. Le dénombrement consiste à <strong>organiser le choix en étapes</strong> pour en calculer le nombre sans jamais l'énumérer. Tout le chapitre se ramène à deux questions posées à l'énoncé — <em>l'ordre compte-t-il&nbsp;?</em> et <em>les répétitions sont-elles possibles&nbsp;?</em> — dont les réponses désignent mécaniquement la formule.</p>\n\n<h2>1 · Le principe multiplicatif</h2>\n\n<p>Lorsqu'un objet se construit par <strong>étapes successives</strong>, et que le nombre de possibilités de chaque étape ne dépend pas des choix déjà faits, le nombre total d'objets est le <strong>produit</strong> des nombres de possibilités. Deux entrées et trois plats forment six menus&nbsp;; l'arbre des choix le rend visible d'un coup d'œil.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Principe multiplicatif</strong><br>\n  Un choix en k étapes offrant respectivement n₁, n₂, … , n<sub>k</sub> possibilités donne au total n₁ × n₂ × … × n<sub>k</sub> objets.\n</div>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 180\" role=\"img\" aria-label=\"Arbre des choix à deux niveaux : deux entrées possibles, chacune suivie de trois plats, ce qui donne six menus au total, illustrant que deux multiplié par trois vaut six\">\n    <circle cx=\"24\" cy=\"90\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"10\" y=\"112\" font-size=\"9\" class=\"s-muted\">départ</text>\n    <line x1=\"30\" y1=\"90\" x2=\"96\" y2=\"46\" stroke=\"var(--accent)\" stroke-opacity=\".6\" stroke-width=\"1.5\"/>\n    <line x1=\"30\" y1=\"90\" x2=\"96\" y2=\"134\" stroke=\"var(--accent)\" stroke-opacity=\".6\" stroke-width=\"1.5\"/>\n    <rect x=\"96\" y=\"34\" width=\"58\" height=\"24\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"125\" y=\"50\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">entrée A</text>\n    <rect x=\"96\" y=\"122\" width=\"58\" height=\"24\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"125\" y=\"138\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">entrée B</text>\n    <line x1=\"154\" y1=\"46\" x2=\"214\" y2=\"18\" stroke=\"currentColor\" stroke-opacity=\".4\"/>\n    <line x1=\"154\" y1=\"46\" x2=\"214\" y2=\"46\" stroke=\"currentColor\" stroke-opacity=\".4\"/>\n    <line x1=\"154\" y1=\"46\" x2=\"214\" y2=\"74\" stroke=\"currentColor\" stroke-opacity=\".4\"/>\n    <line x1=\"154\" y1=\"134\" x2=\"214\" y2=\"106\" stroke=\"currentColor\" stroke-opacity=\".4\"/>\n    <line x1=\"154\" y1=\"134\" x2=\"214\" y2=\"134\" stroke=\"currentColor\" stroke-opacity=\".4\"/>\n    <line x1=\"154\" y1=\"134\" x2=\"214\" y2=\"162\" stroke=\"currentColor\" stroke-opacity=\".4\"/>\n    <rect x=\"214\" y=\"8\" width=\"46\" height=\"20\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"237\" y=\"22\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">plat 1</text>\n    <rect x=\"214\" y=\"36\" width=\"46\" height=\"20\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"237\" y=\"50\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">plat 2</text>\n    <rect x=\"214\" y=\"64\" width=\"46\" height=\"20\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"237\" y=\"78\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">plat 3</text>\n    <rect x=\"214\" y=\"96\" width=\"46\" height=\"20\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"237\" y=\"110\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">plat 1</text>\n    <rect x=\"214\" y=\"124\" width=\"46\" height=\"20\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"237\" y=\"138\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">plat 2</text>\n    <rect x=\"214\" y=\"152\" width=\"46\" height=\"20\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"237\" y=\"166\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">plat 3</text>\n    <text x=\"276\" y=\"86\" font-size=\"11\" fill=\"var(--accent)\" font-weight=\"bold\">2 × 3</text>\n    <text x=\"276\" y=\"100\" font-size=\"11\" fill=\"var(--accent)\" font-weight=\"bold\">= 6</text>\n    <text x=\"276\" y=\"116\" font-size=\"9\" class=\"s-muted\">chemins</text>\n  </svg>\n  <figcaption>Un chemin de l'arbre = un objet dénombré. Le produit compte les chemins sans les tracer.</figcaption>\n</figure>\n\n<p>Le principe multiplicatif a un pendant, le <strong>principe additif</strong>&nbsp;: lorsque les cas s'<em>excluent</em> au lieu de se <em>succéder</em>, on additionne. Une disjonction de cas s'additionne, une succession d'étapes se multiplie&nbsp;; confondre les deux est la première erreur de rédaction.</p>\n\n<p>Pour deux ensembles quelconques, les éléments communs seraient comptés deux fois&nbsp;: le cardinal de A ∪ B vaut donc card(A) + card(B) − card(A ∩ B).</p>\n\n<h2>2 · Listes et arrangements</h2>\n\n<p>Une <strong>liste de k éléments</strong>, ou k-uplet, est un choix <em>ordonné</em> de k éléments parmi n, les répétitions étant autorisées. Chaque position se remplit librement&nbsp;: il y a <strong>n<sup>k</sup></strong> listes. C'est le modèle du tirage <em>successif avec remise</em> — les codes de quatre chiffres sont au nombre de 10⁴, soit 10 000.</p>\n\n<p>Si les éléments doivent être <em>deux à deux distincts</em>, chaque étape consomme une possibilité&nbsp;: on obtient un <strong>arrangement</strong>, dont le nombre est</p>\n\n<p style=\"text-align:center\"><strong>n × (n − 1) × (n − 2) × … × (n − k + 1)</strong>, soit k facteurs, c'est-à-dire n&nbsp;! / (n − k)&nbsp;!</p>\n\n<p>C'est le tirage <em>successif sans remise</em>&nbsp;: un podium à trois places dans une course de dix coureurs offre 10 × 9 × 8 = 720 possibilités.</p>\n\n<h3>Permutations</h3>\n\n<p>Le cas k = n donne les <strong>permutations</strong>&nbsp;: les manières d'ordonner totalement n objets sont au nombre de <strong>n&nbsp;!</strong>. Leur croissance est vertigineuse — 5&nbsp;! = 120, mais 10&nbsp;! dépasse trois millions et demi. Par convention, <strong>0&nbsp;! = 1</strong>&nbsp;: il existe exactement une façon de n'ordonner rien, et cette convention est ce qui rend toutes les formules du chapitre cohérentes jusqu'aux bords.</p>\n\n<h2>3 · Parties et combinaisons</h2>\n\n<p>Un ensemble à n éléments possède <strong>2<sup>n</sup></strong> parties&nbsp;: pour chacun des n éléments, on décide indépendamment de le prendre ou non. L'ensemble vide et l'ensemble entier en font partie.</p>\n\n<p>Parmi ces parties, celles qui comptent exactement k éléments s'appellent les <strong>combinaisons de k éléments parmi n</strong>. Une combinaison est un choix <em>non ordonné et sans répétition</em>&nbsp;: c'est le tirage <em>simultané</em>.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Coefficient binomial</strong><br>\n  Le nombre de combinaisons de k éléments parmi n se note « k parmi n » et vaut n&nbsp;! / (k&nbsp;! × (n − k)&nbsp;!).\n</div>\n\n<p>La formule s'obtient en corrigeant les arrangements&nbsp;: une même sélection de k éléments y apparaît k&nbsp;! fois, une fois par ordre possible. On divise donc les arrangements par k&nbsp;!. <strong>Cette division est exactement le passage de l'ordonné au non ordonné</strong> — l'oublier est l'erreur reine du chapitre.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 210\" role=\"img\" aria-label=\"Comparaison des trois modèles de tirage de k objets parmi n : le tirage successif avec remise donne n puissance k, le tirage successif sans remise donne le produit descendant de k facteurs, et le tirage simultané donne le coefficient binomial ; chaque restriction ajoutée diminue le décompte\">\n    <rect x=\"8\" y=\"14\" width=\"100\" height=\"120\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"58\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">avec remise</text>\n    <text x=\"58\" y=\"52\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">ordre : oui</text>\n    <text x=\"58\" y=\"65\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">répétition : oui</text>\n    <text x=\"58\" y=\"94\" font-size=\"13\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">n^k</text>\n    <text x=\"58\" y=\"118\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">un code</text>\n    <rect x=\"120\" y=\"14\" width=\"100\" height=\"120\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"170\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">sans remise</text>\n    <text x=\"170\" y=\"52\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">ordre : oui</text>\n    <text x=\"170\" y=\"65\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">répétition : non</text>\n    <text x=\"170\" y=\"90\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">n(n−1)…</text>\n    <text x=\"170\" y=\"103\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">(n−k+1)</text>\n    <text x=\"170\" y=\"122\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">un podium</text>\n    <rect x=\"232\" y=\"14\" width=\"100\" height=\"120\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"282\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">simultané</text>\n    <text x=\"282\" y=\"52\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">ordre : non</text>\n    <text x=\"282\" y=\"65\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">répétition : non</text>\n    <text x=\"282\" y=\"94\" font-size=\"12\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">k parmi n</text>\n    <text x=\"282\" y=\"118\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">une main</text>\n    <text x=\"114\" y=\"80\" font-size=\"12\" text-anchor=\"middle\" class=\"s-muted\">&gt;</text>\n    <text x=\"226\" y=\"80\" font-size=\"12\" text-anchor=\"middle\" class=\"s-muted\">&gt;</text>\n    <line x1=\"20\" y1=\"158\" x2=\"320\" y2=\"158\" stroke=\"currentColor\" stroke-opacity=\".25\"/>\n    <text x=\"20\" y=\"176\" font-size=\"9\" fill=\"currentColor\">interdire les répétitions</text>\n    <text x=\"20\" y=\"190\" font-size=\"9\" fill=\"currentColor\">puis ignorer l'ordre : on divise par k factorielle</text>\n    <text x=\"20\" y=\"204\" font-size=\"9\" class=\"s-muted\">chaque restriction fait diminuer le décompte</text>\n  </svg>\n  <figcaption>Les trois modèles du chapitre, rangés du plus large au plus étroit.</figcaption>\n</figure>\n\n<h2>4 · Propriétés des coefficients binomiaux</h2>\n\n<p>Trois valeurs se retiennent d'emblée&nbsp;: « 0 parmi n » et « n parmi n » valent 1, « 1 parmi n » vaut n, et « 2 parmi n » vaut n(n − 1)/2 — c'est aussi le nombre de segments joignant n points deux à deux.</p>\n\n<p>La <strong>symétrie</strong> exprime que choisir les k éléments retenus revient à choisir les n − k éléments écartés&nbsp;: « k parmi n » = « n − k parmi n ». On l'utilise pour alléger un calcul, en remplaçant « 27 parmi 32 » par « 5 parmi 32 ».</p>\n\n<div class=\"callout\">\n  <strong>Notion · Relation de Pascal</strong><br>\n  « k − 1 parmi n − 1 » + « k parmi n − 1 » = « k parmi n ».<br>\n  Démonstration en une phrase&nbsp;: on isole un élément, et les parties à k éléments se répartissent selon qu'elles le contiennent ou non.\n</div>\n\n<h3>Le triangle de Pascal</h3>\n\n<p>La relation de Pascal se lit directement dans un tableau où chaque ligne s'obtient de la précédente par simple addition&nbsp;: les bords valent 1, tout autre terme est la somme des deux termes situés juste au-dessus. On obtient ainsi les coefficients binomiaux <strong>sans jamais calculer de factorielle</strong>. La somme d'une ligne complète vaut 2<sup>n</sup>, puisqu'elle recense toutes les parties de l'ensemble.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Triangle de Pascal des lignes zéro à cinq : chaque terme intérieur est la somme des deux termes situés au-dessus de lui, les bords valent un, et la somme des termes d'une ligne vaut deux puissance le numéro de la ligne\">\n    <text x=\"10\" y=\"26\" font-size=\"9\" class=\"s-muted\">n=0</text>\n    <text x=\"170\" y=\"26\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">1</text>\n    <text x=\"300\" y=\"26\" font-size=\"9\" class=\"s-muted\">= 1</text>\n    <text x=\"10\" y=\"54\" font-size=\"9\" class=\"s-muted\">n=1</text>\n    <text x=\"150\" y=\"54\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">1</text>\n    <text x=\"190\" y=\"54\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">1</text>\n    <text x=\"300\" y=\"54\" font-size=\"9\" class=\"s-muted\">= 2</text>\n    <text x=\"10\" y=\"82\" font-size=\"9\" class=\"s-muted\">n=2</text>\n    <text x=\"130\" y=\"82\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">1</text>\n    <text x=\"170\" y=\"82\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">2</text>\n    <text x=\"210\" y=\"82\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">1</text>\n    <text x=\"300\" y=\"82\" font-size=\"9\" class=\"s-muted\">= 4</text>\n    <text x=\"10\" y=\"110\" font-size=\"9\" class=\"s-muted\">n=3</text>\n    <text x=\"110\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">1</text>\n    <text x=\"150\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">3</text>\n    <text x=\"190\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">3</text>\n    <text x=\"230\" y=\"110\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">1</text>\n    <text x=\"300\" y=\"110\" font-size=\"9\" class=\"s-muted\">= 8</text>\n    <text x=\"10\" y=\"138\" font-size=\"9\" class=\"s-muted\">n=4</text>\n    <text x=\"90\" y=\"138\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">1</text>\n    <text x=\"130\" y=\"138\" font-size=\"11\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">4</text>\n    <text x=\"170\" y=\"138\" font-size=\"11\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">6</text>\n    <text x=\"210\" y=\"138\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">4</text>\n    <text x=\"250\" y=\"138\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">1</text>\n    <text x=\"300\" y=\"138\" font-size=\"9\" class=\"s-muted\">= 16</text>\n    <text x=\"10\" y=\"166\" font-size=\"9\" class=\"s-muted\">n=5</text>\n    <text x=\"70\" y=\"166\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">1</text>\n    <text x=\"110\" y=\"166\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">5</text>\n    <text x=\"150\" y=\"166\" font-size=\"11\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">10</text>\n    <text x=\"190\" y=\"166\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">10</text>\n    <text x=\"230\" y=\"166\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">5</text>\n    <text x=\"270\" y=\"166\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">1</text>\n    <text x=\"300\" y=\"166\" font-size=\"9\" class=\"s-muted\">= 32</text>\n    <line x1=\"130\" y1=\"142\" x2=\"146\" y2=\"158\" stroke=\"var(--accent)\" stroke-opacity=\".6\" stroke-width=\"1.5\"/>\n    <line x1=\"170\" y1=\"142\" x2=\"154\" y2=\"158\" stroke=\"var(--accent)\" stroke-opacity=\".6\" stroke-width=\"1.5\"/>\n    <text x=\"20\" y=\"192\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">4 + 6 = 10</text>\n    <text x=\"90\" y=\"192\" font-size=\"9\" fill=\"currentColor\">la relation de Pascal, lue dans le triangle</text>\n  </svg>\n  <figcaption>Chaque ligne se déduit de la précédente par addition&nbsp;; sa somme donne le nombre total de parties.</figcaption>\n</figure>\n\n<h3>Un lien avec les probabilités</h3>\n\n<p>Dans un arbre qui représente n répétitions d'une expérience à deux issues, le coefficient « k parmi n » compte exactement les <strong>chemins portant k succès</strong>&nbsp;: un chemin est déterminé par la position de ses succès, donc par une partie à k éléments de l'ensemble des étapes. C'est ce dénombrement, et lui seul, qui fait apparaître le coefficient binomial dans la loi binomiale du chapitre suivant.</p>\n\n<h2>5 · Méthodes de résolution</h2>\n\n<p>Deux réflexes économisent beaucoup de calculs.</p>\n\n<ul>\n  <li><strong>Passer au complémentaire.</strong> Pour dénombrer les tirages contenant <em>au moins un</em> objet d'un type donné, on compte tous les tirages puis on retranche ceux qui n'en contiennent <em>aucun</em>. Une seule soustraction remplace l'addition de tous les cas.</li>\n  <li><strong>Découper en cas disjoints.</strong> Lorsque les situations s'excluent (exactement deux dames, exactement trois dames…), on dénombre chaque cas séparément, puis on additionne.</li>\n</ul>\n\n<p>Enfin, on rédige toujours en <em>nommant le modèle</em>&nbsp;: « une main est un tirage simultané de 5 cartes parmi 32, il y en a donc “5 parmi 32”, soit 201 376 ». Nommer le modèle vaut souvent plus de points que le résultat numérique.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>La démarche</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Frise méthodique d'un dénombrement : identifier l'objet à compter, se demander si l'ordre compte, se demander si les répétitions sont possibles, en déduire le modèle et sa formule, puis vérifier l'ordre de grandeur du résultat\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"176\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">1. Décrire un objet</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Qu'est-ce qu'on compte, au juste ?</text>\n    <circle cx=\"26\" cy=\"60\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"57\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">2. L'ordre compte-t-il ?</text>\n    <text x=\"44\" y=\"70\" font-size=\"10\" fill=\"currentColor\">Podium oui, délégation non</text>\n    <circle cx=\"26\" cy=\"100\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"97\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">3. Répétitions possibles ?</text>\n    <text x=\"44\" y=\"110\" font-size=\"10\" fill=\"currentColor\">Avec remise ou sans remise</text>\n    <circle cx=\"26\" cy=\"140\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"137\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">4. Nommer le modèle</text>\n    <text x=\"44\" y=\"150\" font-size=\"10\" fill=\"currentColor\">Liste, arrangement ou combinaison</text>\n    <circle cx=\"26\" cy=\"176\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"173\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">5. Vérifier</text>\n    <text x=\"44\" y=\"186\" font-size=\"10\" fill=\"currentColor\">Ordre de grandeur, cas limites</text>\n  </svg>\n  <figcaption>Les étapes 2 et 3 déterminent à elles seules la formule&nbsp;: elles précèdent tout calcul.</figcaption>\n</figure>\n\n<h3>Formules à connaître</h3>\n\n<table>\n  <tr><th>Objet compté</th><th>Nombre</th></tr>\n  <tr><td>Listes de k éléments parmi n (avec répétition)</td><td>n<sup>k</sup></td></tr>\n  <tr><td>Arrangements de k éléments parmi n</td><td>n&nbsp;! / (n − k)&nbsp;!</td></tr>\n  <tr><td>Permutations de n éléments</td><td>n&nbsp;!</td></tr>\n  <tr><td>Parties d'un ensemble à n éléments</td><td>2<sup>n</sup></td></tr>\n  <tr><td>Combinaisons de k éléments parmi n</td><td>n&nbsp;! / (k&nbsp;! × (n − k)&nbsp;!)</td></tr>\n  <tr><td>Réunion de deux ensembles</td><td>card(A) + card(B) − card(A ∩ B)</td></tr>\n</table>\n\n<h3>Notions à distinguer</h3>\n\n<table>\n  <tr><th>Distinction</th><th>Ce qui se joue</th></tr>\n  <tr><td>Arrangement / combinaison</td><td>L'ordre compte ou non&nbsp;; rapport k&nbsp;!</td></tr>\n  <tr><td>Avec remise / sans remise</td><td>Les répétitions sont permises ou non</td></tr>\n  <tr><td>Principe additif / multiplicatif</td><td>Cas qui s'excluent ou étapes qui se suivent</td></tr>\n  <tr><td>Liste / partie</td><td>Objet ordonné contre sous-ensemble</td></tr>\n  <tr><td>« k parmi n » / n<sup>k</sup></td><td>Tirage simultané contre code</td></tr>\n</table>\n\n<h3>Repères numériques</h3>\n\n<table>\n  <tr><th>Situation</th><th>Résultat</th></tr>\n  <tr><td>Codes de 4 chiffres</td><td>10⁴ = 10 000</td></tr>\n  <tr><td>Podium de 3 parmi 10 coureurs</td><td>10 × 9 × 8 = 720</td></tr>\n  <tr><td>Anagrammes de 5 lettres distinctes</td><td>5&nbsp;! = 120</td></tr>\n  <tr><td>Parties d'un ensemble à 10 éléments</td><td>2¹⁰ = 1 024</td></tr>\n  <tr><td>Mains de 5 cartes parmi 32</td><td>« 5 parmi 32 » = 201 376</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Compter des <em>arrangements</em> là où l'énoncé demande des <em>combinaisons</em>. Une main de cartes, une délégation, une paire d'élèves ne sont pas ordonnées&nbsp;: les dénombrer comme des tirages successifs multiplie le résultat par k&nbsp;!. Le symptôme est facile à repérer&nbsp;— un résultat bien plus grand que ce que l'intuition suggère. Deux erreurs voisines&nbsp;: additionner ce qui devrait se multiplier quand les étapes se succèdent&nbsp;; et oublier de retrancher l'intersection en réunissant deux ensembles non disjoints.\n</div>\n\n<blockquote><p>La combinatoire ne demande presque aucun calcul&nbsp;: elle demande de décrire précisément ce que l'on compte. Une fois l'objet décrit — ordonné ou non, avec ou sans répétition —, la formule ne fait plus que suivre.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Spécialité Mathématiques — Combinatoire et dénombrement",
+  "cards": [
+    {
+      "recto": "Qu'affirme le principe multiplicatif du dénombrement ?",
+      "verso": "Si un choix se fait en plusieurs étapes successives indépendantes, le nombre total de possibilités est le produit des nombres de possibilités de chaque étape",
+      "explanation": "C'est l'outil de base de tout le chapitre : il traduit le fait qu'à chaque possibilité de la première étape correspondent toutes les possibilités de la seconde. Attention à ne l'appliquer que si le nombre de choix d'une étape ne dépend pas des choix précédents.",
+      "tags": [
+        "principe",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le nombre total de possibilités est la somme des possibilités de chaque étape",
+          "Le nombre total de possibilités est la plus grande des valeurs rencontrées",
+          "Le nombre total de possibilités est la moyenne des possibilités de chaque étape"
+        ],
+        "medium": [
+          "Le nombre total est le produit des étapes, divisé par le nombre d'étapes",
+          "Le nombre total est le produit des possibilités seulement si les étapes sont identiques",
+          "Le nombre total est la différence entre la première et la dernière étape"
+        ],
+        "hard": [
+          "Le nombre total est le produit des possibilités, à condition que les étapes soient ordonnées de la plus grande à la plus petite",
+          "Le nombre total est le produit des possibilités, mais uniquement lorsque les répétitions sont interdites",
+          "Le nombre total est le produit des possibilités divisé par la factorielle du nombre d'étapes"
+        ]
+      }
+    },
+    {
+      "recto": "Combien d'éléments compte le produit cartésien de deux ensembles finis A et B ?",
+      "verso": "Le produit du cardinal de A par le cardinal de B",
+      "explanation": "Un élément du produit cartésien est un couple : on choisit indépendamment la première coordonnée dans A, puis la seconde dans B. La formule se généralise à un produit de plusieurs ensembles.",
+      "tags": [
+        "ensembles",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "La somme du cardinal de A et du cardinal de B",
+          "Le cardinal du plus grand des deux ensembles",
+          "La différence des deux cardinaux"
+        ],
+        "medium": [
+          "Le produit des deux cardinaux, diminué du nombre d'éléments communs",
+          "Le produit des deux cardinaux divisé par deux",
+          "Le carré du cardinal de A"
+        ],
+        "hard": [
+          "Le produit des deux cardinaux, valable seulement si les ensembles sont disjoints",
+          "Le produit des deux cardinaux, augmenté du cardinal de l'intersection",
+          "La factorielle de la somme des deux cardinaux"
+        ]
+      }
+    },
+    {
+      "recto": "Combien y a-t-il de k-uplets (listes de k éléments, répétitions autorisées) formés à partir d'un ensemble à n éléments ?",
+      "verso": "n puissance k",
+      "explanation": "Chacune des k positions de la liste se remplit librement parmi les n éléments : le principe multiplicatif donne n multiplié par lui-même k fois. Ce modèle correspond au tirage successif avec remise.",
+      "tags": [
+        "listes",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "k puissance n",
+          "n multiplié par k",
+          "n plus k"
+        ],
+        "medium": [
+          "La factorielle de n divisée par la factorielle de n moins k",
+          "Le coefficient binomial k parmi n",
+          "n puissance k, divisé par la factorielle de k"
+        ],
+        "hard": [
+          "n multiplié par n moins un, et ainsi de suite jusqu'à n moins k plus un",
+          "n puissance k, moins le nombre de listes comportant une répétition",
+          "2 puissance n, lorsque k est inférieur à n"
+        ]
+      }
+    },
+    {
+      "recto": "Combien de codes de 4 chiffres peut-on former avec les chiffres de 0 à 9 ?",
+      "verso": "10 000, car chaque position offre 10 possibilités indépendantes",
+      "explanation": "C'est le modèle du tirage avec remise appliqué à 10 puissance 4. On compte bien 0000 comme un code valide : les listes commençant par des zéros ne sont pas exclues.",
+      "tags": [
+        "application",
+        "chiffres"
+      ],
+      "distractors": {
+        "easy": [
+          "40, car il y a 10 chiffres et 4 positions",
+          "1 000, car il reste un chiffre imposé",
+          "100, soit 10 multiplié par 10"
+        ],
+        "medium": [
+          "5 040, soit le nombre d'arrangements de 4 chiffres parmi 10",
+          "210, soit le nombre de combinaisons de 4 chiffres parmi 10",
+          "24, soit la factorielle de 4"
+        ],
+        "hard": [
+          "9 000, en excluant les codes commençant par un zéro",
+          "5 040, car les chiffres d'un code doivent être distincts",
+          "9 999, car le code 0000 n'est pas autorisé"
+        ]
+      }
+    },
+    {
+      "recto": "Combien de k-uplets d'éléments deux à deux distincts peut-on former dans un ensemble à n éléments ?",
+      "verso": "Le produit n multiplié par n moins 1, puis n moins 2, jusqu'au facteur n moins k plus 1, soit k facteurs",
+      "explanation": "À chaque étape, un élément déjà utilisé disparaît des choix possibles : le nombre de possibilités décroît d'une unité. Ce nombre s'écrit aussi comme la factorielle de n divisée par la factorielle de n moins k.",
+      "tags": [
+        "arrangements",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "n puissance k",
+          "La factorielle de k",
+          "n multiplié par k"
+        ],
+        "medium": [
+          "La factorielle de n divisée par la factorielle de k",
+          "Le coefficient binomial k parmi n",
+          "La factorielle de n moins la factorielle de k"
+        ],
+        "hard": [
+          "La factorielle de n divisée par le produit de la factorielle de k et de la factorielle de n moins k",
+          "Le produit des k premiers entiers à partir de n moins k",
+          "La factorielle de n divisée par la factorielle de n moins k plus 1"
+        ]
+      }
+    },
+    {
+      "recto": "Combien de façons distinctes existe-t-il d'ordonner totalement n objets ?",
+      "verso": "La factorielle de n, notée n point d'exclamation",
+      "explanation": "Une permutation est un arrangement des n éléments pris tous à la fois : le premier se choisit parmi n, le deuxième parmi n moins 1, et ainsi de suite jusqu'à 1. Croissance très rapide : la factorielle de 10 dépasse déjà trois millions et demi.",
+      "tags": [
+        "permutations",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "n multiplié par 2",
+          "n puissance n",
+          "n multiplié par n moins 1"
+        ],
+        "medium": [
+          "2 puissance n",
+          "Le coefficient binomial n divisé par 2, parmi n",
+          "La somme des entiers de 1 à n"
+        ],
+        "hard": [
+          "La factorielle de n moins 1, car le premier élément est imposé",
+          "La factorielle de n divisée par 2, les ordres inverses étant identiques",
+          "La factorielle de n plus 1, en comptant l'ordre vide"
+        ]
+      }
+    },
+    {
+      "recto": "Que vaut la factorielle de 0 et pourquoi cette convention ?",
+      "verso": "Elle vaut 1, car il existe exactement une façon d'ordonner un ensemble vide : ne rien faire",
+      "explanation": "Cette convention n'est pas arbitraire : elle rend cohérentes toutes les formules du chapitre, notamment le coefficient binomial 0 parmi n, qui doit valoir 1. Sans elle, la formule des combinaisons serait indéfinie aux extrémités.",
+      "tags": [
+        "convention",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle vaut 0, car il n'y a aucun élément à ordonner",
+          "Elle n'est pas définie",
+          "Elle vaut l'infini"
+        ],
+        "medium": [
+          "Elle vaut 1, par simple analogie avec la puissance zéro d'un nombre",
+          "Elle vaut 0, par continuité avec la factorielle de 1",
+          "Elle vaut 1, mais uniquement dans le calcul des probabilités"
+        ],
+        "hard": [
+          "Elle vaut 1, car l'ensemble vide possède un élément implicite",
+          "Elle vaut 1, parce que la factorielle de 1 vaut également 0",
+          "Elle vaut 1 par convention, mais la formule des combinaisons doit alors être corrigée"
+        ]
+      }
+    },
+    {
+      "recto": "Combien de parties (sous-ensembles) possède un ensemble à n éléments ?",
+      "verso": "2 puissance n",
+      "explanation": "Pour construire une partie, on décide pour chaque élément s'il est pris ou non : deux choix indépendants répétés n fois. L'ensemble vide et l'ensemble tout entier sont comptés parmi ces parties.",
+      "tags": [
+        "ensembles",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "n puissance 2",
+          "n multiplié par 2",
+          "La factorielle de n"
+        ],
+        "medium": [
+          "2 puissance n moins 1, l'ensemble vide étant exclu",
+          "La somme des entiers de 1 à n",
+          "Le coefficient binomial n divisé par 2, parmi n"
+        ],
+        "hard": [
+          "2 puissance n moins 2, les deux parties triviales étant exclues",
+          "2 puissance n divisé par la factorielle de n, les parties étant non ordonnées",
+          "2 puissance n plus 1, en comptant l'ensemble lui-même à part"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on une combinaison de k éléments parmi n ?",
+      "verso": "Une partie à k éléments d'un ensemble à n éléments, c'est-à-dire un choix non ordonné et sans répétition",
+      "explanation": "La différence essentielle avec un arrangement tient à l'ordre : dans une combinaison, deux choix contenant les mêmes éléments sont identiques. C'est le modèle du tirage simultané.",
+      "tags": [
+        "combinaisons",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Une liste ordonnée de k éléments pris parmi n",
+          "Un empilement de k éléments identiques",
+          "Une suite de k nombres consécutifs"
+        ],
+        "medium": [
+          "Un choix ordonné de k éléments distincts parmi n",
+          "Une liste de k éléments avec répétitions autorisées",
+          "Une permutation des n éléments restreinte aux k premiers"
+        ],
+        "hard": [
+          "Une partie à k éléments, l'ordre d'énumération devant être croissant",
+          "Un choix de k éléments où les répétitions sont autorisées mais l'ordre indifférent",
+          "Une partie à k éléments d'un ensemble ordonné de n éléments"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est l'expression factorielle du coefficient binomial k parmi n ?",
+      "verso": "La factorielle de n divisée par le produit de la factorielle de k et de la factorielle de n moins k",
+      "explanation": "On part des arrangements de k éléments parmi n, puis on divise par la factorielle de k, qui est le nombre d'ordres possibles d'une même sélection. Cette division est exactement ce qui fait passer de l'ordonné au non ordonné.",
+      "tags": [
+        "combinaisons",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "La factorielle de n divisée par la factorielle de k",
+          "n puissance k divisé par k",
+          "La factorielle de n moins la factorielle de k"
+        ],
+        "medium": [
+          "La factorielle de n divisée par la factorielle de n moins k",
+          "La factorielle de k multipliée par la factorielle de n moins k",
+          "La factorielle de n divisée par la somme des factorielles de k et de n moins k"
+        ],
+        "hard": [
+          "La factorielle de n divisée par le produit de k et de n moins k",
+          "La factorielle de n moins 1 divisée par le produit des factorielles de k et de n moins k",
+          "La factorielle de n divisée par le produit de la factorielle de k et de la factorielle de n moins k plus 1"
+        ]
+      }
+    },
+    {
+      "recto": "Que valent les coefficients binomiaux 0 parmi n et n parmi n ?",
+      "verso": "Ils valent tous deux 1",
+      "explanation": "Il existe une seule partie à zéro élément, l'ensemble vide, et une seule partie à n éléments, l'ensemble entier. Ces deux valeurs forment les bords du triangle de Pascal.",
+      "tags": [
+        "combinaisons",
+        "valeurs"
+      ],
+      "distractors": {
+        "easy": [
+          "Ils valent 0 et n",
+          "Ils valent n et 1",
+          "Ils valent 0 tous les deux"
+        ],
+        "medium": [
+          "Ils valent 1 et n",
+          "Ils valent n et n",
+          "Le premier n'est pas défini, le second vaut 1"
+        ],
+        "hard": [
+          "Ils valent 1 et la factorielle de n",
+          "Ils valent 1 et 0, l'ensemble entier n'étant pas une partie stricte",
+          "Ils valent 1 tous les deux, sauf pour n égal à zéro"
+        ]
+      }
+    },
+    {
+      "recto": "Que valent les coefficients binomiaux 1 parmi n et 2 parmi n ?",
+      "verso": "Le premier vaut n, le second vaut n multiplié par n moins 1, le tout divisé par 2",
+      "explanation": "Choisir un élément parmi n se fait de n façons ; choisir une paire revient à choisir un couple ordonné puis à corriger le double comptage lié à l'ordre. C'est aussi le nombre de segments reliant n points deux à deux.",
+      "tags": [
+        "combinaisons",
+        "valeurs"
+      ],
+      "distractors": {
+        "easy": [
+          "Le premier vaut 1, le second vaut 2",
+          "Le premier vaut n, le second vaut n au carré",
+          "Le premier vaut n, le second vaut 2 n"
+        ],
+        "medium": [
+          "Le premier vaut n, le second vaut n multiplié par n moins 1",
+          "Le premier vaut n moins 1, le second vaut n multiplié par n moins 1 divisé par 2",
+          "Le premier vaut n, le second vaut n plus 1 divisé par 2"
+        ],
+        "hard": [
+          "Le premier vaut n, le second vaut n au carré moins n divisé par 4",
+          "Le premier vaut n, le second vaut la factorielle de n divisée par 2",
+          "Le premier vaut n, le second vaut n multiplié par n plus 1 divisé par 2"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle propriété de symétrie vérifient les coefficients binomiaux ?",
+      "verso": "Le coefficient k parmi n est égal au coefficient n moins k parmi n",
+      "explanation": "Choisir les k éléments retenus revient exactement à choisir les n moins k éléments écartés : les deux opérations se correspondent une à une. C'est pourquoi le triangle de Pascal est symétrique par rapport à son axe vertical.",
+      "tags": [
+        "combinaisons",
+        "propriété"
+      ],
+      "distractors": {
+        "easy": [
+          "Le coefficient k parmi n est égal au coefficient n parmi k",
+          "Le coefficient k parmi n est égal à son opposé",
+          "Le coefficient k parmi n est toujours égal à n"
+        ],
+        "medium": [
+          "Le coefficient k parmi n est égal au coefficient k parmi n moins k",
+          "Le coefficient k parmi n est égal au coefficient k moins 1 parmi n",
+          "Le coefficient k parmi n est égal au coefficient n moins k parmi n moins 1"
+        ],
+        "hard": [
+          "Le coefficient k parmi n est égal au coefficient n moins k parmi n, à condition que k soit inférieur à n divisé par 2",
+          "Le coefficient k parmi n est égal au coefficient n moins k plus 1 parmi n",
+          "Le coefficient k parmi n est égal au coefficient n moins k parmi n multiplié par k"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'énonce la relation de Pascal ?",
+      "verso": "La somme des coefficients k moins 1 parmi n moins 1 et k parmi n moins 1 est égale au coefficient k parmi n",
+      "explanation": "On isole un élément particulier : les parties à k éléments se répartissent en celles qui le contiennent et celles qui l'excluent. Cette relation permet de construire le triangle de Pascal de proche en proche, sans aucune factorielle.",
+      "tags": [
+        "Pascal",
+        "propriété"
+      ],
+      "distractors": {
+        "easy": [
+          "Le produit de deux coefficients binomiaux voisins donne le suivant",
+          "La différence de deux coefficients voisins vaut toujours 1",
+          "Le coefficient k parmi n est la somme de k et de n"
+        ],
+        "medium": [
+          "La somme des coefficients k moins 1 parmi n et k parmi n est égale au coefficient k parmi n plus 1",
+          "La somme des coefficients k parmi n moins 1 et k plus 1 parmi n moins 1 est égale au coefficient k parmi n",
+          "La somme des coefficients k moins 1 parmi n moins 1 et k parmi n moins 1 est égale au coefficient k moins 1 parmi n"
+        ],
+        "hard": [
+          "La somme des coefficients k moins 1 parmi n moins 1 et k parmi n moins 2 est égale au coefficient k parmi n",
+          "La somme des coefficients k moins 1 parmi n moins 1 et k parmi n moins 1 est égale au coefficient k plus 1 parmi n",
+          "La différence des coefficients k parmi n et k moins 1 parmi n moins 1 est égale au coefficient k parmi n moins 1"
+        ]
+      }
+    },
+    {
+      "recto": "Comment se construit le triangle de Pascal ligne après ligne ?",
+      "verso": "Chaque ligne commence et finit par 1, et tout autre terme est la somme des deux termes situés juste au-dessus de lui",
+      "explanation": "C'est la traduction visuelle de la relation de Pascal, la ligne numéro n rassemblant tous les coefficients binomiaux d'ordre n. Le triangle donne les coefficients sans jamais calculer de factorielle, ce qui évite les nombres géants intermédiaires.",
+      "tags": [
+        "Pascal",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Chaque terme est le double du terme situé au-dessus",
+          "Chaque ligne répète la précédente en ajoutant un zéro",
+          "Chaque terme est le produit des deux termes du dessus"
+        ],
+        "medium": [
+          "Chaque ligne commence par 0 et chaque terme est la somme des deux termes du dessus",
+          "Chaque terme est la différence des deux termes situés au-dessus",
+          "Chaque ligne s'obtient en multipliant la précédente par le numéro de ligne"
+        ],
+        "hard": [
+          "Chaque terme est la somme des deux termes du dessus, la ligne numéro n comptant n termes",
+          "Chaque terme est la somme du terme du dessus et du terme précédent de la même ligne",
+          "Chaque terme est la somme des deux termes du dessus, les lignes étant numérotées à partir de 1"
+        ]
+      }
+    },
+    {
+      "recto": "Que vaut la somme de tous les coefficients binomiaux d'une même ligne du triangle de Pascal ?",
+      "verso": "2 puissance n pour la ligne numéro n",
+      "explanation": "Additionner les nombres de parties à 0, 1, 2, puis n éléments revient à compter toutes les parties de l'ensemble. Ce résultat relie directement le triangle de Pascal au dénombrement des sous-ensembles.",
+      "tags": [
+        "Pascal",
+        "propriété"
+      ],
+      "distractors": {
+        "easy": [
+          "n au carré",
+          "La factorielle de n",
+          "2 n"
+        ],
+        "medium": [
+          "2 puissance n moins 1",
+          "n puissance 2 moins n",
+          "La somme des entiers de 1 à n"
+        ],
+        "hard": [
+          "2 puissance n plus 1, en comptant deux fois la partie vide",
+          "2 puissance n moins 2, les deux coefficients extrêmes étant exclus",
+          "2 puissance n divisé par 2, par symétrie de la ligne"
+        ]
+      }
+    },
+    {
+      "recto": "Dans un arbre représentant n répétitions d'une expérience à deux issues, que compte le coefficient binomial k parmi n ?",
+      "verso": "Le nombre de chemins de l'arbre qui contiennent exactement k succès",
+      "explanation": "Un chemin est déterminé par la position de ses succès, c'est-à-dire par une partie à k éléments de l'ensemble des n étapes. C'est ce dénombrement qui fait apparaître le coefficient binomial dans la formule de la loi binomiale.",
+      "tags": [
+        "probabilités",
+        "lien"
+      ],
+      "distractors": {
+        "easy": [
+          "Le nombre total de chemins de l'arbre",
+          "La probabilité d'obtenir k succès",
+          "Le nombre d'étapes de l'expérience"
+        ],
+        "medium": [
+          "Le nombre de chemins contenant au moins k succès",
+          "Le nombre de branches partant de la racine de l'arbre",
+          "Le nombre de chemins contenant exactement k échecs consécutifs"
+        ],
+        "hard": [
+          "Le nombre de chemins contenant exactement k succès, à condition qu'ils soient consécutifs",
+          "Le nombre de chemins contenant exactement k succès, multiplié par la probabilité d'un succès",
+          "Le nombre de chemins contenant au plus k succès"
+        ]
+      }
+    },
+    {
+      "recto": "Comment dénombre-t-on une réunion de deux ensembles finis disjoints ?",
+      "verso": "En additionnant leurs cardinaux, car aucun élément n'est compté deux fois",
+      "explanation": "C'est le principe additif, complémentaire du principe multiplicatif : on l'emploie lorsque les cas s'excluent mutuellement, et non lorsqu'ils se succèdent. Toute disjonction de cas dans un dénombrement repose sur lui.",
+      "tags": [
+        "principe",
+        "ensembles"
+      ],
+      "distractors": {
+        "easy": [
+          "En multipliant leurs cardinaux",
+          "En prenant le plus grand des deux cardinaux",
+          "En élevant au carré la somme des cardinaux"
+        ],
+        "medium": [
+          "En additionnant les cardinaux, puis en retranchant le cardinal de l'intersection",
+          "En additionnant les cardinaux, puis en divisant par deux",
+          "En multipliant les cardinaux, puis en retranchant les doublons"
+        ],
+        "hard": [
+          "En additionnant les cardinaux, à condition que les deux ensembles aient la même taille",
+          "En additionnant les cardinaux, puis en ajoutant le cardinal de la réunion",
+          "En additionnant les cardinaux moins un, la réunion partageant un élément neutre"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle formule donne le cardinal de la réunion de deux ensembles finis quelconques A et B ?",
+      "verso": "La somme des cardinaux de A et de B, diminuée du cardinal de leur intersection",
+      "explanation": "Les éléments communs sont comptés une fois dans A et une fois dans B : il faut retrancher ce double comptage. Quand l'intersection est vide, on retrouve le principe additif.",
+      "tags": [
+        "ensembles",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "Le produit des deux cardinaux",
+          "La somme des deux cardinaux",
+          "La différence des deux cardinaux"
+        ],
+        "medium": [
+          "La somme des cardinaux, augmentée du cardinal de l'intersection",
+          "La somme des cardinaux, diminuée du cardinal du plus petit ensemble",
+          "Le produit des cardinaux, diminué du cardinal de l'intersection"
+        ],
+        "hard": [
+          "La somme des cardinaux, diminuée du cardinal de la réunion",
+          "La somme des cardinaux, diminuée de deux fois le cardinal de l'intersection",
+          "La somme des cardinaux, diminuée du cardinal de l'intersection seulement si A contient B"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle technique emploie-t-on pour dénombrer les tirages comportant au moins un objet d'un certain type ?",
+      "verso": "Dénombrer par le complémentaire : compter tous les tirages, puis retrancher ceux qui n'en contiennent aucun",
+      "explanation": "L'événement contraire de « au moins un » est « aucun », qui se dénombre en une seule opération. Cette méthode évite d'additionner péniblement les cas un objet, deux objets, et ainsi de suite.",
+      "tags": [
+        "méthode",
+        "complémentaire"
+      ],
+      "distractors": {
+        "easy": [
+          "Additionner les tirages contenant exactement un objet et ceux qui n'en contiennent aucun",
+          "Diviser le nombre total de tirages par le nombre d'objets",
+          "Multiplier le nombre total de tirages par la proportion d'objets visés"
+        ],
+        "medium": [
+          "Compter tous les tirages, puis retrancher ceux qui en contiennent exactement un",
+          "Compter les tirages contenant tous les objets du type visé",
+          "Compter tous les tirages, puis les diviser par deux"
+        ],
+        "hard": [
+          "Compter tous les tirages, puis retrancher ceux qui n'en contiennent aucun, à condition que les tirages soient ordonnés",
+          "Compter tous les tirages, puis retrancher ceux qui n'en contiennent aucun et ajouter ceux qui les contiennent tous",
+          "Compter les tirages n'en contenant aucun, puis les retrancher du nombre d'arrangements"
+        ]
+      }
+    },
+    {
+      "recto": "Ne pas confondre : quand faut-il compter des arrangements plutôt que des combinaisons ?",
+      "verso": "Dès que l'ordre du tirage intervient dans la description du résultat, c'est un arrangement ; s'il n'intervient pas, c'est une combinaison",
+      "explanation": "Un podium ou un code sont ordonnés donc relèvent des arrangements, tandis qu'une main de cartes ou une délégation ne le sont pas. Le rapport entre les deux est exactement la factorielle de k : oublier de diviser par elle est l'erreur la plus fréquente du chapitre.",
+      "tags": [
+        "piege",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Il faut compter des arrangements quand les objets sont nombreux",
+          "Il faut compter des arrangements quand les répétitions sont autorisées",
+          "Il faut compter des arrangements quand le résultat est un nombre pair"
+        ],
+        "medium": [
+          "Il faut compter des arrangements quand les objets sont tous distincts",
+          "Il faut compter des arrangements quand on tire tous les objets à la fois",
+          "Il faut compter des combinaisons dès que le tirage est successif"
+        ],
+        "hard": [
+          "Il faut compter des arrangements quand le tirage est successif, et des combinaisons dès qu'il y a remise",
+          "Il faut compter des arrangements quand k est strictement inférieur à n, et des combinaisons sinon",
+          "Il faut compter des combinaisons quand l'ordre intervient, puis multiplier par la factorielle de k"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : comment se comparent le nombre de tirages de k objets parmi n avec remise, sans remise ordonnés, et sans remise simultanés ?",
+      "verso": "Avec remise donne le plus grand nombre, viennent ensuite les tirages sans remise ordonnés, puis les tirages simultanés qui donnent le plus petit",
+      "explanation": "Chaque restriction ajoutée réduit le décompte : interdire les répétitions fait passer de n puissance k au produit descendant, puis ignorer l'ordre divise encore par la factorielle de k. Reconnaître lequel des trois modèles s'applique est le vrai travail d'un exercice de dénombrement.",
+      "tags": [
+        "comparaison",
+        "modèles"
+      ],
+      "distractors": {
+        "easy": [
+          "Les trois modèles donnent toujours le même nombre de tirages",
+          "Les tirages simultanés donnent le plus grand nombre",
+          "Les tirages sans remise ordonnés donnent le plus grand nombre"
+        ],
+        "medium": [
+          "Avec remise donne le plus grand nombre, puis les tirages simultanés, puis les tirages ordonnés sans remise",
+          "Les tirages ordonnés sans remise donnent le plus grand, puis ceux avec remise, puis les simultanés",
+          "Les tirages simultanés donnent le plus grand, puis ceux avec remise, puis les ordonnés sans remise"
+        ],
+        "hard": [
+          "Avec remise donne le plus grand nombre, les deux autres modèles donnant le même résultat",
+          "Avec remise donne le plus grand nombre, puis les tirages ordonnés sans remise, puis les simultanés, sauf lorsque k vaut 1",
+          "Les tirages ordonnés sans remise et ceux avec remise coïncident dès que k est inférieur à n"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles questions se poser pour choisir le bon modèle de dénombrement face à un énoncé ?",
+      "verso": "L'ordre compte-t-il, et les répétitions sont-elles possibles : ces deux réponses déterminent à elles seules la formule à employer",
+      "explanation": "Ordre oui et répétitions oui donne n puissance k ; ordre oui et répétitions non donne le produit descendant ; ordre non et répétitions non donne le coefficient binomial. Répondre à ces deux questions avant tout calcul évite la quasi-totalité des erreurs.",
+      "tags": [
+        "méthode",
+        "raisonnement"
+      ],
+      "distractors": {
+        "easy": [
+          "Le nombre d'objets est-il pair, et l'énoncé parle-t-il de probabilités",
+          "Le résultat attendu est-il grand, et le calcul est-il faisable de tête",
+          "Les objets sont-ils des lettres ou des chiffres"
+        ],
+        "medium": [
+          "Le tirage est-il aléatoire, et les objets sont-ils discernables",
+          "L'énoncé emploie-t-il le mot tirage, et le nombre k est-il inférieur à n",
+          "Les objets sont-ils rangés dans une urne ou alignés"
+        ],
+        "hard": [
+          "Le tirage est-il successif, et les objets sont-ils remis après chaque étape, la question de l'ordre en découlant automatiquement",
+          "L'ordre compte-t-il, et le nombre d'objets tirés est-il égal au nombre total d'objets",
+          "Les répétitions sont-elles possibles, et le résultat doit-il être exprimé sous forme de factorielle"
+        ]
+      }
+    },
+    {
+      "recto": "Combien de mains de 5 cartes peut-on former dans un jeu de 32 cartes, et pourquoi ce modèle ?",
+      "verso": "Le coefficient binomial 5 parmi 32, car une main est un tirage simultané où l'ordre des cartes est sans importance",
+      "explanation": "Distribuer les cartes une à une ou toutes ensemble ne change pas la main obtenue : l'ordre ne fait pas partie du résultat. Compter ici des arrangements reviendrait à distinguer 5 factorielle fois la même main.",
+      "tags": [
+        "application",
+        "combinaisons"
+      ],
+      "distractors": {
+        "easy": [
+          "32 puissance 5, car chaque carte se choisit librement",
+          "5 puissance 32, car chaque carte a cinq places possibles",
+          "32 multiplié par 5, une carte étant tirée par position"
+        ],
+        "medium": [
+          "Le produit de 32 par 31, 30, 29 et 28, car les cartes sont distinctes",
+          "La factorielle de 32 divisée par la factorielle de 5",
+          "Le coefficient binomial 5 parmi 32, multiplié par la factorielle de 5"
+        ],
+        "hard": [
+          "Le coefficient binomial 27 parmi 32, les cartes écartées étant plus nombreuses",
+          "Le coefficient binomial 5 parmi 32, divisé par la factorielle de 5 pour tenir compte de l'ordre",
+          "Le produit de 32 par 31, 30, 29 et 28, divisé par 5"
+        ]
+      }
+    }
+  ]
+}

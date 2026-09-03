@@ -1,0 +1,874 @@
+{
+  "id": "francais-premiere-figures-de-style",
+  "title": "Figures de style et procédés d'écriture",
+  "emoji": "🔍",
+  "subject": "literature",
+  "country": "fr",
+  "courseDescription": "Français · Première — figures d'analogie, de substitution, d'opposition, d'amplification et d'atténuation, procédés de construction et de sonorité, et méthode pour les interpréter.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Figures de style et procédés d'écriture</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Première · français<br>\n  <b>Usage&nbsp;:</b> outil transversal, mobilisable sur les quatre objets d'étude<br>\n  <b>Épreuve&nbsp;:</b> commentaire, dissertation et oral du bac de français\n</div>\n\n<blockquote><p><b>Problématique.</b> À quoi sert de nommer une figure, si le nom ne vaut aucun point&nbsp;?</p></blockquote>\n\n<p>Ce chapitre est un outil, pas un objet d'étude&nbsp;: on ne commente jamais «&nbsp;les figures de style&nbsp;» d'un texte, on s'en sert pour dire autre chose. D'où la règle qui commande tout le reste&nbsp;: <strong>le nom d'une figure est le début d'une analyse, jamais sa conclusion</strong>. Repérer une métaphore ne vaut rien tant qu'on n'a pas dit ce qu'elle rapproche et pourquoi. Le vocabulaire technique qui suit sert donc à une seule chose&nbsp;: pouvoir désigner précisément ce qu'on a vu, pour expliquer ensuite ce que cela fait.</p>\n\n<h2>1 · Les six familles</h2>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Les six familles de figures de style : analogie avec la comparaison la métaphore la personnification et l'allégorie, substitution avec la métonymie la synecdoque et la périphrase, opposition avec l'antithèse l'oxymore le chiasme et le paradoxe, amplification avec la gradation l'hyperbole et l'accumulation, atténuation avec la litote et l'euphémisme, et construction avec le parallélisme l'asyndète et l'anacoluthe\">\n    <rect x=\"8\" y=\"14\" width=\"102\" height=\"56\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".30\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"59\" y=\"32\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">analogie</text>\n    <text x=\"59\" y=\"48\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">comparaison, métaphore,</text>\n    <text x=\"59\" y=\"60\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">personnification, allégorie</text>\n    <rect x=\"118\" y=\"14\" width=\"102\" height=\"56\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".30\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"169\" y=\"32\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">substitution</text>\n    <text x=\"169\" y=\"48\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">métonymie, synecdoque,</text>\n    <text x=\"169\" y=\"60\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">périphrase</text>\n    <rect x=\"228\" y=\"14\" width=\"104\" height=\"56\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".30\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"280\" y=\"32\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">opposition</text>\n    <text x=\"280\" y=\"48\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">antithèse, oxymore,</text>\n    <text x=\"280\" y=\"60\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">chiasme, paradoxe</text>\n    <rect x=\"8\" y=\"78\" width=\"102\" height=\"56\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"59\" y=\"96\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">amplification</text>\n    <text x=\"59\" y=\"112\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">gradation, hyperbole,</text>\n    <text x=\"59\" y=\"124\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">accumulation, anaphore</text>\n    <rect x=\"118\" y=\"78\" width=\"102\" height=\"56\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"169\" y=\"96\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">atténuation</text>\n    <text x=\"169\" y=\"112\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">litote,</text>\n    <text x=\"169\" y=\"124\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">euphémisme</text>\n    <rect x=\"228\" y=\"78\" width=\"104\" height=\"56\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"280\" y=\"96\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">construction</text>\n    <text x=\"280\" y=\"112\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">parallélisme, asyndète,</text>\n    <text x=\"280\" y=\"124\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">anacoluthe, ellipse</text>\n    <line x1=\"8\" y1=\"150\" x2=\"332\" y2=\"150\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"170\" font-size=\"9\" fill=\"currentColor\">Ce classement sert à retrouver un nom, pas à être récité.</text>\n    <text x=\"8\" y=\"186\" font-size=\"9\" class=\"s-muted\">Une même figure peut relever de deux familles selon l'angle retenu.</text>\n  </svg>\n  <figcaption>Six entrées pour retrouver rapidement le nom de ce qu'on vient de repérer.</figcaption>\n</figure>\n\n<h2>2 · Analogie et substitution</h2>\n\n<div class=\"callout\">\n  <strong>Notion · Comparaison / métaphore</strong><br>\n  La <em>comparaison</em> emploie un <strong>outil</strong> — comme, tel, semblable à. La <em>métaphore</em> rapproche les deux termes <strong>sans aucun outil</strong>.<br>\n  «&nbsp;Cet homme est comme un lion&nbsp;» / «&nbsp;Cet homme est un lion&nbsp;».\n</div>\n\n<p>La <strong>métaphore filée</strong> se prolonge sur plusieurs phrases par un réseau de termes du même champ&nbsp;: son repérage est plus rentable que celui d'une métaphore isolée, parce qu'elle donne une cohérence d'ensemble au passage.</p>\n\n<p>La <strong>personnification</strong> attribue des traits humains à un animal, un objet, une abstraction. Quand cette abstraction devient le sujet d'un développement suivi, avec ses attributs reconnaissables — la Justice, sa balance et son bandeau —, on passe à l'<strong>allégorie</strong>.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Distinction entre métonymie et synecdoque : la métonymie remplace un mot par un autre qui lui est logiquement lié comme boire un verre pour boire son contenu, tandis que la synecdoque emploie précisément la partie pour le tout comme une voile à l'horizon pour désigner un navire, la synecdoque étant un cas particulier de la métonymie\">\n    <rect x=\"8\" y=\"18\" width=\"156\" height=\"76\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".28\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"86\" y=\"38\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">métonymie</text>\n    <text x=\"86\" y=\"56\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">un lien logique</text>\n    <text x=\"86\" y=\"76\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">« boire un verre »</text>\n    <text x=\"86\" y=\"88\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">contenant pour contenu</text>\n    <rect x=\"176\" y=\"18\" width=\"156\" height=\"76\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"254\" y=\"38\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">synecdoque</text>\n    <text x=\"254\" y=\"56\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">la partie pour le tout</text>\n    <text x=\"254\" y=\"76\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">« une voile à l'horizon »</text>\n    <text x=\"254\" y=\"88\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">la voile pour le navire</text>\n    <text x=\"170\" y=\"122\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">La synecdoque est un cas particulier de la métonymie.</text>\n    <line x1=\"8\" y1=\"136\" x2=\"332\" y2=\"136\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"156\" font-size=\"9\" fill=\"currentColor\">La périphrase, elle, allonge : « l'astre du jour » pour le soleil.</text>\n    <text x=\"8\" y=\"170\" font-size=\"9\" class=\"s-muted\">Elle peut ennoblir, éviter une répétition — ou souligner ironiquement.</text>\n  </svg>\n  <figcaption>L'une est le genre, l'autre l'espèce&nbsp;: on peut toujours dire «&nbsp;métonymie&nbsp;» sans se tromper.</figcaption>\n</figure>\n\n<h2>3 · Opposition, amplification, atténuation</h2>\n\n<p><strong>Opposition</strong>&nbsp;: l'<em>antithèse</em> rapproche deux idées contraires dans une même construction&nbsp;; l'<em>oxymore</em> accole immédiatement deux mots contradictoires («&nbsp;une obscure clarté&nbsp;»)&nbsp;; le <em>paradoxe</em> porte sur une idée entière et force à réviser une évidence&nbsp;; le <em>chiasme</em> croise deux groupes selon le schéma AB / BA.</p>\n\n<p><strong>Amplification</strong>&nbsp;: la <em>gradation</em> range les termes par intensité — l'ordre est l'essentiel&nbsp;; l'<em>accumulation</em> juxtapose sans hiérarchiser&nbsp;; l'<em>hyperbole</em> exagère pour frapper.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Litote / euphémisme</strong><br>\n  La <em>litote</em> dit peu pour suggérer beaucoup&nbsp;: elle atténue la formulation mais <strong>renforce</strong> le sens («&nbsp;va, je ne te hais point&nbsp;»).<br>\n  L'<em>euphémisme</em> adoucit vraiment, pour ménager la sensibilité («&nbsp;il nous a quittés&nbsp;»).<br>\n  L'un feint d'adoucir, l'autre adoucit.\n</div>\n\n<h2>4 · Construction, rythme, sonorités</h2>\n\n<p>Ce que la syntaxe fait au sens&nbsp;: le <strong>parallélisme</strong> répète une structure avec d'autres mots — associé à une antithèse, il fait ressortir l'opposition par le contraste entre forme identique et sens contraire. L'<strong>asyndète</strong> supprime les liaisons et accélère («&nbsp;veni, vidi, vici&nbsp;»)&nbsp;; la <strong>polysyndète</strong> les multiplie et solennise. L'<strong>anacoluthe</strong> rompt la construction attendue et mime le désordre intérieur.</p>\n\n<p>Le <strong>rythme binaire</strong> balance ou oppose&nbsp;; le <strong>ternaire</strong> donne une impression d'équilibre et de plénitude. Ces observations ne valent qu'associées au sens du passage.</p>\n\n<p>Sur les <strong>sonorités</strong>, une règle absolue&nbsp;: <em>un son n'a jamais de sens fixe</em>. Un même sifflement peut évoquer le serpent, le silence ou le mépris — c'est le contexte, et lui seul, qui tranche.</p>\n\n<h2>5 · Au-delà des figures</h2>\n\n<p>Beaucoup de textes remarquables ne contiennent aucune figure spectaculaire. Il faut alors observer&nbsp;:</p>\n\n<ul>\n  <li>Le <strong>champ lexical</strong>&nbsp;— l'ensemble des mots se rapportant à un thème. À distinguer du champ <em>sémantique</em>, qui porte sur les sens d'un même mot.</li>\n  <li>La <strong>connotation</strong>&nbsp;— les associations affectives d'un mot au-delà de son sens strict. <em>Demeure</em>, <em>maison</em> et <em>baraque</em> désignent la même réalité&nbsp;; l'effet d'un texte se joue souvent là.</li>\n  <li>Les <strong>temps verbaux</strong>&nbsp;— leurs <em>ruptures</em> surtout&nbsp;: un changement de temps signale presque toujours un changement de plan ou de point de vue.</li>\n  <li>Le <strong>registre</strong>&nbsp;— l'ensemble des moyens visant un effet précis. Il se repère à un <em>faisceau</em> d'indices convergents, jamais à un seul&nbsp;: une exclamation peut servir la colère comme l'enthousiasme.</li>\n</ul>\n\n<h2>L'essentiel</h2>\n\n<h3>Les trois temps d'un paragraphe d'analyse</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 180\" role=\"img\" aria-label=\"Les trois temps obligatoires d'un paragraphe d'analyse : nommer le procédé repéré, citer précisément le passage concerné, puis expliquer l'effet produit et ce qu'il apporte au sens du texte ; sauter l'une des trois étapes affaiblit immédiatement la démonstration\">\n    <rect x=\"8\" y=\"18\" width=\"102\" height=\"60\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"59\" y=\"38\" font-size=\"11\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">1. NOMMER</text>\n    <text x=\"59\" y=\"56\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">le procédé</text>\n    <text x=\"59\" y=\"70\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">« une métaphore filée »</text>\n    <rect x=\"118\" y=\"18\" width=\"102\" height=\"60\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"169\" y=\"38\" font-size=\"11\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">2. CITER</text>\n    <text x=\"169\" y=\"56\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">le passage exact</text>\n    <text x=\"169\" y=\"70\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">entre guillemets, bref</text>\n    <rect x=\"228\" y=\"18\" width=\"104\" height=\"60\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".40\" stroke=\"var(--accent)\" stroke-opacity=\".7\"/>\n    <text x=\"280\" y=\"38\" font-size=\"11\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">3. EXPLIQUER</text>\n    <text x=\"280\" y=\"56\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">l'effet et le sens</text>\n    <text x=\"280\" y=\"70\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">c'est ici que se joue la note</text>\n    <text x=\"170\" y=\"106\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Sauter la troisième étape, c'est écrire un relevé — pas un commentaire.</text>\n    <line x1=\"8\" y1=\"122\" x2=\"332\" y2=\"122\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"142\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Et se méfier de la surinterprétation</text>\n    <text x=\"8\" y=\"158\" font-size=\"9\" fill=\"currentColor\">Beaucoup de métaphores sont lexicalisées : le « pied » d'une table</text>\n    <text x=\"8\" y=\"172\" font-size=\"9\" fill=\"currentColor\">ne produit aucun effet. Ne commenter que ce qui est perceptible.</text>\n  </svg>\n  <figcaption>Le troisième temps est le seul qui rapporte des points&nbsp;— les deux premiers y conduisent.</figcaption>\n</figure>\n\n<h3>Analogie et substitution</h3>\n\n<table>\n  <tr><th>Figure</th><th>Définition en une ligne</th></tr>\n  <tr><td>Comparaison</td><td>Rapprochement <em>avec</em> outil (comme, tel)</td></tr>\n  <tr><td>Métaphore</td><td>Rapprochement <em>sans</em> outil</td></tr>\n  <tr><td>Personnification</td><td>Traits humains prêtés à ce qui ne l'est pas</td></tr>\n  <tr><td>Allégorie</td><td>Idée abstraite incarnée et développée</td></tr>\n  <tr><td>Métonymie</td><td>Un mot pour un autre, par lien logique</td></tr>\n  <tr><td>Synecdoque</td><td>La partie pour le tout</td></tr>\n</table>\n\n<h3>Opposition, amplification, atténuation</h3>\n\n<table>\n  <tr><th>Figure</th><th>Définition en une ligne</th></tr>\n  <tr><td>Antithèse</td><td>Deux idées contraires rapprochées</td></tr>\n  <tr><td>Oxymore</td><td>Deux mots contradictoires accolés</td></tr>\n  <tr><td>Chiasme</td><td>Croisement en AB / BA</td></tr>\n  <tr><td>Gradation</td><td>Termes rangés par intensité</td></tr>\n  <tr><td>Litote</td><td>Dire peu pour suggérer beaucoup</td></tr>\n  <tr><td>Euphémisme</td><td>Adoucir ce qui pourrait choquer</td></tr>\n</table>\n\n<h3>Ce qu'on observe quand il n'y a pas de figure</h3>\n\n<table>\n  <tr><th>Élément</th><th>Ce qu'il révèle</th></tr>\n  <tr><td>Champ lexical</td><td>Le thème dominant du passage</td></tr>\n  <tr><td>Connotation</td><td>L'orientation affective du vocabulaire</td></tr>\n  <tr><td>Temps verbaux</td><td>Les changements de plan et de point de vue</td></tr>\n  <tr><td>Rythme des phrases</td><td>Binaire&nbsp;: balance&nbsp;; ternaire&nbsp;: plénitude</td></tr>\n  <tr><td>Registre</td><td>L'effet visé, par faisceau d'indices</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Confondre <strong>métaphore</strong> et <strong>comparaison</strong>. La comparaison emploie un <em>outil</em> — comme, tel, semblable à&nbsp;; la métaphore rapproche sans aucun outil. C'est l'erreur la plus fréquente de tous les commentaires, et la plus simple à éviter. Deux erreurs voisines&nbsp;: s'arrêter au <em>nom</em> de la figure sans expliquer l'effet produit, ce qui ne vaut aucun point&nbsp;; et prêter à un son un sens fixe, alors qu'une allitération ne signifie rien hors de son contexte.\n</div>\n\n<blockquote><p>Nommer une figure, c'est se donner les moyens de dire précisément ce qu'on a vu. Ce n'est jamais l'avoir dit.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Première",
+  "theme": "Français — outils d'analyse : figures et procédés",
+  "cards": [
+    {
+      "recto": "Piège classique : qu'est-ce qui distingue une métaphore d'une comparaison ?",
+      "verso": "La comparaison emploie un outil de comparaison comme, tel ou semblable à, tandis que la métaphore rapproche les deux termes sans aucun outil",
+      "explanation": "Cet homme est un lion est une métaphore ; cet homme est comme un lion est une comparaison. Confondre les deux est l'erreur la plus fréquente de tous les commentaires, et la plus facile à éviter.",
+      "tags": [
+        "piege",
+        "analogie"
+      ],
+      "distractors": {
+        "easy": [
+          "La métaphore est plus longue que la comparaison",
+          "La métaphore est en vers, la comparaison en prose",
+          "Les deux figures sont identiques"
+        ],
+        "medium": [
+          "La comparaison rapproche sans outil, la métaphore emploie comme",
+          "La métaphore compare deux êtres vivants, la comparaison deux objets",
+          "La comparaison est explicite, la métaphore concerne uniquement les animaux"
+        ],
+        "hard": [
+          "La comparaison emploie un outil, la métaphore aussi mais de façon implicite",
+          "La métaphore rapproche sans outil, ce qui la rend toujours plus expressive",
+          "La comparaison énonce les deux termes, la métaphore n'en énonce jamais qu'un seul"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une métaphore filée ?",
+      "verso": "Une métaphore prolongée sur plusieurs phrases ou plusieurs vers, développée par un réseau de termes appartenant au même champ",
+      "explanation": "Elle donne une cohérence d'ensemble à un passage et signale souvent une idée directrice. Son repérage est plus rentable en commentaire que celui d'une métaphore isolée.",
+      "tags": [
+        "analogie",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Une métaphore très courte",
+          "Une métaphore répétée à l'identique",
+          "Une métaphore employée par erreur"
+        ],
+        "medium": [
+          "Une métaphore accompagnée d'une comparaison",
+          "Une succession de métaphores sans rapport entre elles",
+          "Une métaphore reprise par un autre auteur"
+        ],
+        "hard": [
+          "Une métaphore prolongée, dont les termes appartiennent à des champs volontairement différents",
+          "Une métaphore développée sur plusieurs vers, procédé moins signifiant qu'une métaphore isolée",
+          "Une métaphore reprise en fin de texte pour créer un effet de boucle"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une personnification ?",
+      "verso": "L'attribution de traits humains à un animal, un objet ou une abstraction",
+      "explanation": "Elle rend sensible ce qui ne l'est pas, en donnant un visage à une force ou à une idée. Quand l'abstraction personnifiée devient le sujet d'un développement suivi, on passe à l'allégorie.",
+      "tags": [
+        "analogie",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "La description physique d'un personnage",
+          "L'attribution d'un nom propre à un personnage",
+          "La mise en scène d'une personne réelle"
+        ],
+        "medium": [
+          "L'attribution de traits animaux à un être humain",
+          "La représentation d'une idée par une image codée",
+          "Le rapprochement de deux réalités par un outil de comparaison"
+        ],
+        "hard": [
+          "L'attribution de traits humains à une abstraction, figure identique à l'allégorie",
+          "L'attribution de traits humains, procédé réservé aux seuls objets inanimés",
+          "L'attribution de traits humains à une abstraction, qui suppose un développement suivi"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une allégorie ?",
+      "verso": "La représentation développée d'une idée abstraite sous une forme concrète, souvent un personnage doté d'attributs reconnaissables",
+      "explanation": "La Justice tenant une balance et les yeux bandés en est l'exemple canonique. Elle se distingue de la personnification par son caractère suivi et par le système d'attributs qui l'accompagne.",
+      "tags": [
+        "analogie",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Un récit très long",
+          "Une comparaison entre deux personnes",
+          "Une exagération volontaire"
+        ],
+        "medium": [
+          "L'attribution ponctuelle de traits humains à un objet",
+          "Le remplacement d'un mot par un autre qui lui est lié",
+          "Une expression détournée pour désigner une réalité"
+        ],
+        "hard": [
+          "La représentation développée d'une idée, figure ponctuelle sans système d'attributs",
+          "La représentation d'une abstraction, identique en tout point à la personnification",
+          "La représentation concrète d'une idée, qui exclut le recours à un personnage"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : qu'est-ce qui distingue la métonymie de la synecdoque ?",
+      "verso": "La métonymie remplace un mot par un autre qui lui est logiquement lié, tandis que la synecdoque emploie précisément la partie pour le tout ou l'inverse",
+      "explanation": "Boire un verre relève de la métonymie, le contenant pour le contenu ; une voile à l'horizon relève de la synecdoque, la partie pour le navire entier. La synecdoque est donc un cas particulier de la métonymie.",
+      "tags": [
+        "comparaison",
+        "substitution"
+      ],
+      "distractors": {
+        "easy": [
+          "Les deux figures sont exactement identiques",
+          "La métonymie est ancienne, la synecdoque est moderne",
+          "La métonymie concerne les objets, la synecdoque les personnes"
+        ],
+        "medium": [
+          "La métonymie emploie la partie pour le tout, la synecdoque un mot logiquement lié",
+          "La métonymie rapproche par ressemblance, la synecdoque par contiguïté",
+          "La métonymie est explicite, la synecdoque est implicite"
+        ],
+        "hard": [
+          "La métonymie remplace par un terme lié, la synecdoque par un terme opposé",
+          "La métonymie est un cas particulier de la synecdoque",
+          "La métonymie remplace par un terme lié et la synecdoque par la partie pour le tout, ces deux figures étant sans rapport entre elles"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une périphrase ?",
+      "verso": "Le remplacement d'un mot par une expression plus longue qui le désigne sans le nommer",
+      "explanation": "L'astre du jour pour le soleil en est l'exemple type. Elle peut servir à éviter une répétition, à ennoblir, à créer une devinette ou au contraire à souligner ironiquement.",
+      "tags": [
+        "substitution",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Une phrase très longue",
+          "Une répétition d'un même mot",
+          "Un mot inventé par l'auteur"
+        ],
+        "medium": [
+          "Le remplacement d'un mot par un synonyme unique",
+          "L'emploi d'un mot dans un sens contraire",
+          "La suppression d'un mot attendu dans la phrase"
+        ],
+        "hard": [
+          "Le remplacement d'un mot par une expression plus longue, procédé dont la seule fonction est d'ennoblir",
+          "Le remplacement d'un mot par une expression, qui doit toujours nommer explicitement la réalité visée",
+          "L'emploi d'une expression plus longue, figure identique à la métonymie"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une antithèse ?",
+      "verso": "Le rapprochement de deux termes ou de deux idées de sens opposé dans une même phrase ou une même construction",
+      "explanation": "Elle met en relief un contraste et structure souvent un raisonnement entier. Quand les deux termes opposés sont directement accolés dans un même groupe, on parle d'oxymore.",
+      "tags": [
+        "opposition",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "La répétition d'un même mot",
+          "L'exagération d'une idée",
+          "La description d'un objet"
+        ],
+        "medium": [
+          "L'accolement immédiat de deux mots contradictoires",
+          "L'inversion de deux propositions symétriques",
+          "L'atténuation d'une idée désagréable"
+        ],
+        "hard": [
+          "Le rapprochement de deux idées opposées, figure identique à l'oxymore",
+          "Le rapprochement de termes opposés, qui suppose qu'ils appartiennent au même groupe nominal",
+          "Le rapprochement de deux idées opposées, dont la fonction est d'atténuer le contraste"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un oxymore ?",
+      "verso": "L'association immédiate de deux mots de sens contradictoires dans un même groupe, comme une obscure clarté",
+      "explanation": "Il produit un effet de surprise et signale souvent une réalité que le langage ordinaire ne parvient pas à dire. Il se distingue de l'antithèse par la proximité immédiate des deux termes.",
+      "tags": [
+        "opposition",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Un mot très rare",
+          "Une phrase sans verbe",
+          "Un mot répété deux fois"
+        ],
+        "medium": [
+          "Le rapprochement de deux idées opposées dans une phrase",
+          "L'inversion symétrique de deux groupes de mots",
+          "L'énoncé d'une vérité apparemment contradictoire"
+        ],
+        "hard": [
+          "L'association de deux mots contradictoires, éloignés l'un de l'autre dans la phrase",
+          "L'association immédiate de mots contraires, figure identique au paradoxe",
+          "L'association de deux mots opposés, procédé qui vise à clarifier une idée confuse"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un chiasme ?",
+      "verso": "Une construction en croix où deux groupes de mots se répondent dans un ordre inversé, selon le schéma AB puis BA",
+      "explanation": "Il crée un effet d'enfermement ou de renversement, souvent au service d'une idée de réciprocité. Le parallélisme, à l'inverse, répète la même construction dans le même ordre.",
+      "tags": [
+        "construction",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Une phrase coupée en deux",
+          "Un mot placé au milieu du vers",
+          "Une rime en fin de phrase"
+        ],
+        "medium": [
+          "La répétition de la même construction dans le même ordre",
+          "L'accolement de deux mots contradictoires",
+          "La suppression d'un verbe dans la seconde proposition"
+        ],
+        "hard": [
+          "Une construction en croix selon le schéma AB puis AB",
+          "Une construction inversée, figure identique au parallélisme",
+          "Une construction en croix, qui exclut toute idée de réciprocité"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un parallélisme de construction ?",
+      "verso": "La reprise d'une même structure syntaxique dans deux segments successifs, avec des mots différents",
+      "explanation": "Il souligne une symétrie ou une équivalence entre deux idées, et rend la phrase plus mémorable. Associé à une antithèse, il fait ressortir l'opposition par le contraste entre forme identique et sens contraire.",
+      "tags": [
+        "construction",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Deux phrases écrites l'une sous l'autre",
+          "Deux vers de même longueur",
+          "Deux personnages qui parlent en même temps"
+        ],
+        "medium": [
+          "L'inversion croisée de deux groupes de mots",
+          "La répétition du même mot en tête de phrase",
+          "L'accumulation de termes de même nature"
+        ],
+        "hard": [
+          "La reprise d'une même structure, avec exactement les mêmes mots",
+          "La reprise d'une structure syntaxique, figure identique au chiasme",
+          "La reprise d'une même structure, procédé incompatible avec une antithèse"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une gradation ?",
+      "verso": "Une suite de termes rangés selon une intensité croissante ou décroissante",
+      "explanation": "L'ordre des termes est ici l'essentiel : c'est lui qui produit l'effet de montée ou de retombée. Une simple accumulation, à l'inverse, juxtapose sans hiérarchiser.",
+      "tags": [
+        "amplification",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Une liste de mots au hasard",
+          "Une phrase très longue",
+          "Un mot répété trois fois"
+        ],
+        "medium": [
+          "Une juxtaposition de termes de même intensité",
+          "Une exagération volontaire de la réalité",
+          "Une suite de termes opposés deux à deux"
+        ],
+        "hard": [
+          "Une suite de termes d'intensité variable, dont l'ordre est indifférent",
+          "Une suite de termes croissante uniquement, la décroissance relevant de l'accumulation",
+          "Une accumulation de termes, figure dont la gradation est un synonyme exact"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une hyperbole ?",
+      "verso": "Une exagération volontaire qui amplifie la réalité pour frapper l'esprit",
+      "explanation": "Mourir de rire ou attendre une éternité en sont des formes lexicalisées. En littérature, elle sert aussi bien l'épique que le comique, selon qu'elle grandit ou qu'elle ridiculise.",
+      "tags": [
+        "amplification",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Une phrase très courte",
+          "Une description précise et mesurée",
+          "Un mot employé dans son sens propre"
+        ],
+        "medium": [
+          "Une atténuation volontaire de la réalité",
+          "Le remplacement d'un mot par une expression plus longue",
+          "L'emploi d'un mot dans un sens contraire"
+        ],
+        "hard": [
+          "Une exagération volontaire, procédé réservé au registre épique",
+          "Une exagération de la réalité, figure identique à la gradation",
+          "Une amplification, qui perd tout effet dès qu'elle est lexicalisée"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une accumulation ?",
+      "verso": "La juxtaposition d'une série de termes de même nature grammaticale, qui produit un effet d'abondance ou de saturation",
+      "explanation": "Elle peut suggérer la richesse, le désordre ou l'envahissement selon le contexte. Ce qui compte n'est pas le nombre de termes mais l'impression que leur entassement produit.",
+      "tags": [
+        "amplification",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "L'addition de deux phrases",
+          "La répétition d'une seule idée",
+          "L'ajout d'un adjectif à un nom"
+        ],
+        "medium": [
+          "Une suite de termes rangés par intensité croissante",
+          "Une exagération portant sur un seul mot",
+          "L'emploi de plusieurs synonymes du même mot"
+        ],
+        "hard": [
+          "La juxtaposition de termes de même nature, dont l'effet dépend uniquement du nombre",
+          "La juxtaposition de termes, figure identique à la gradation",
+          "La juxtaposition de termes de natures grammaticales différentes"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une litote ?",
+      "verso": "Une figure qui dit peu pour suggérer beaucoup, souvent par une négation, comme ce n'est pas mauvais pour dire excellent",
+      "explanation": "Le va, je ne te hais point de Chimène en est l'exemple canonique : elle avoue son amour en niant sa haine. Elle atténue la formulation mais renforce le sens, à l'inverse de l'euphémisme.",
+      "tags": [
+        "atténuation",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Une exagération volontaire",
+          "Une répétition insistante",
+          "Une phrase interrogative"
+        ],
+        "medium": [
+          "Une formule adoucie pour éviter de choquer",
+          "Le remplacement d'un mot par une expression plus longue",
+          "L'emploi d'un mot dans un sens contraire"
+        ],
+        "hard": [
+          "Une figure qui dit peu pour suggérer beaucoup, identique à l'euphémisme",
+          "Une figure qui atténue la formulation, et atténue également le sens",
+          "Une négation, dont l'effet est de diminuer la portée de l'énoncé"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un euphémisme ?",
+      "verso": "Une formulation adoucie qui remplace un mot jugé choquant ou pénible, comme il nous a quittés pour il est mort",
+      "explanation": "Il vise à ménager la sensibilité, alors que la litote cherche au contraire à renforcer par la retenue. L'un adoucit vraiment, l'autre feint d'adoucir.",
+      "tags": [
+        "atténuation",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Un mot très savant",
+          "Une exagération frappante",
+          "Une question posée sans attendre de réponse"
+        ],
+        "medium": [
+          "Une figure qui dit peu pour suggérer beaucoup",
+          "Une expression qui remplace un mot par un autre lié",
+          "Une négation employée pour affirmer"
+        ],
+        "hard": [
+          "Une formulation adoucie, figure identique à la litote",
+          "Une formulation adoucie, qui renforce en réalité la portée du propos",
+          "Une formulation adoucie, réservée aux seuls sujets liés à la mort"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un paradoxe ?",
+      "verso": "Un énoncé apparemment contradictoire ou contraire à l'opinion commune, mais qui révèle une vérité au terme de la réflexion",
+      "explanation": "Il ne se réduit pas à une contradiction : il force à réviser une évidence. L'oxymore joue sur deux mots, le paradoxe sur une idée entière.",
+      "tags": [
+        "opposition",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Une erreur de raisonnement",
+          "Une phrase incompréhensible",
+          "Une exagération manifeste"
+        ],
+        "medium": [
+          "L'association immédiate de deux mots contraires",
+          "Le rapprochement de deux idées opposées dans une phrase",
+          "Une affirmation dont on sait qu'elle est fausse"
+        ],
+        "hard": [
+          "Un énoncé contraire à l'opinion commune, qui se réduit à une pure contradiction",
+          "Un énoncé apparemment contradictoire, figure identique à l'oxymore",
+          "Un énoncé contraire à l'opinion, dont la fausseté est établie par la réflexion"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une anacoluthe ?",
+      "verso": "Une rupture de construction syntaxique, la phrase ne se poursuivant pas comme sa première partie le laissait attendre",
+      "explanation": "Elle peut traduire l'émotion, la précipitation ou la pensée qui se cherche. Employée volontairement, elle mime le désordre intérieur d'un personnage.",
+      "tags": [
+        "construction",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Une faute d'orthographe",
+          "Une phrase sans ponctuation",
+          "Un mot placé à la fin de la phrase"
+        ],
+        "medium": [
+          "La suppression d'un mot répété",
+          "L'inversion du sujet et du verbe",
+          "La répétition d'une même construction"
+        ],
+        "hard": [
+          "Une rupture de construction, procédé nécessairement involontaire chez l'auteur",
+          "Une rupture syntaxique, figure identique à l'ellipse",
+          "Une rupture de construction, dont l'effet est de renforcer la clarté du propos"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une asyndète ?",
+      "verso": "La suppression des mots de liaison entre des propositions ou des termes, qui accélère le rythme",
+      "explanation": "Le veni, vidi, vici latin en est l'exemple le plus connu. La polysyndète produit l'effet inverse en multipliant les liaisons, ce qui ralentit et solennise.",
+      "tags": [
+        "construction",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "L'ajout de nombreux adjectifs",
+          "L'oubli d'un mot par erreur",
+          "La répétition d'un même verbe"
+        ],
+        "medium": [
+          "La multiplication des mots de liaison",
+          "La suppression du verbe principal",
+          "L'inversion de l'ordre des propositions"
+        ],
+        "hard": [
+          "La suppression des mots de liaison, qui ralentit le rythme de la phrase",
+          "La suppression des liaisons, figure identique à la polysyndète",
+          "La suppression des mots de liaison, procédé qui suppose que les termes soient de natures différentes"
+        ]
+      }
+    },
+    {
+      "recto": "Quel effet produit une phrase construite en rythme ternaire ?",
+      "verso": "Elle donne une impression d'équilibre et de plénitude, la troisième partie venant clore et amplifier le mouvement",
+      "explanation": "Le rythme binaire, lui, oppose ou balance deux éléments. Ces observations n'ont de valeur qu'associées au sens du passage, jamais isolément.",
+      "tags": [
+        "rythme",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle rend la phrase plus courte",
+          "Elle supprime toute ponctuation",
+          "Elle indique que le texte est en vers"
+        ],
+        "medium": [
+          "Elle oppose systématiquement deux idées contraires",
+          "Elle accélère toujours le rythme du texte",
+          "Elle signale l'emploi d'une figure d'opposition"
+        ],
+        "hard": [
+          "Elle donne une impression d'équilibre, effet valable indépendamment du sens du passage",
+          "Elle crée un balancement entre deux éléments successifs",
+          "Elle produit un effet de plénitude, réservé aux textes en prose"
+        ]
+      }
+    },
+    {
+      "recto": "À quoi sert le repérage d'un champ lexical dans un texte ?",
+      "verso": "À identifier le thème dominant d'un passage, à partir de l'ensemble des mots qui s'y rapportent",
+      "explanation": "Un champ lexical se compose de mots de sens voisins mais de natures diverses, ce qui le distingue du champ sémantique, qui porte sur les sens d'un même mot. Son relevé ne vaut que s'il débouche sur une interprétation.",
+      "tags": [
+        "lexique",
+        "outil"
+      ],
+      "distractors": {
+        "easy": [
+          "À compter le nombre de mots du texte",
+          "À vérifier l'orthographe des mots",
+          "À classer les mots par ordre alphabétique"
+        ],
+        "medium": [
+          "À identifier les différents sens d'un même mot",
+          "À relever les mots rares employés par l'auteur",
+          "À déterminer le registre de langue du texte"
+        ],
+        "hard": [
+          "À identifier le thème dominant, relevé qui se suffit à lui-même en commentaire",
+          "À identifier le thème, à partir de mots appartenant tous à la même nature grammaticale",
+          "À identifier le thème dominant, opération identique au relevé d'un champ sémantique"
+        ]
+      }
+    },
+    {
+      "recto": "Que désigne la connotation d'un mot ?",
+      "verso": "L'ensemble des associations affectives ou culturelles qu'un mot porte au-delà de son sens strict",
+      "explanation": "Demeure, maison et baraque désignent la même réalité avec des connotations très différentes. C'est souvent sur ce plan, plus que sur celui de la dénotation, que se joue l'effet d'un texte.",
+      "tags": [
+        "lexique",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "La définition d'un mot dans le dictionnaire",
+          "L'orthographe correcte d'un mot",
+          "La prononciation d'un mot"
+        ],
+        "medium": [
+          "Le sens propre et objectif d'un mot",
+          "L'origine étymologique d'un mot",
+          "La fréquence d'emploi d'un mot dans la langue"
+        ],
+        "hard": [
+          "Les associations affectives d'un mot, dimension identique à la dénotation",
+          "Les associations culturelles d'un mot, sans effet sur l'interprétation d'un texte",
+          "Le sens second d'un mot, fixé une fois pour toutes par l'usage"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une question rhétorique ?",
+      "verso": "Une question posée sans attendre de réponse, dont la formulation impose déjà la conclusion souhaitée",
+      "explanation": "Elle associe le lecteur au raisonnement en lui faisant croire qu'il conclut lui-même. C'est l'un des outils les plus efficaces du registre polémique.",
+      "tags": [
+        "procédés",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Une question posée par un personnage à un autre",
+          "Une question dont personne ne connaît la réponse",
+          "Une question placée à la fin d'un texte"
+        ],
+        "medium": [
+          "Une question à laquelle l'auteur répond immédiatement",
+          "Une question posée au lecteur pour l'inviter à réfléchir librement",
+          "Une question employée pour introduire une définition"
+        ],
+        "hard": [
+          "Une question posée sans attendre de réponse, dont la formulation reste neutre",
+          "Une question oratoire, dont l'effet est d'ouvrir plusieurs conclusions possibles",
+          "Une question sans réponse attendue, procédé propre au registre didactique"
+        ]
+      }
+    },
+    {
+      "recto": "Quel effet produit une allitération dans un texte ?",
+      "verso": "Elle crée une harmonie sonore dont la valeur dépend entièrement du contexte, et jamais du son lui-même",
+      "explanation": "Un même son sifflant peut évoquer le serpent, le silence ou le mépris selon ce que dit le passage. Attribuer un sens fixe à un son est l'erreur la plus courante des commentaires de sonorités.",
+      "tags": [
+        "sonorités",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle rend le texte plus long",
+          "Elle indique la présence de rimes",
+          "Elle signale un changement de paragraphe"
+        ],
+        "medium": [
+          "Elle produit toujours une impression de douceur",
+          "Elle traduit systématiquement la violence quand la consonne est dure",
+          "Elle sert uniquement à faciliter la mémorisation du texte"
+        ],
+        "hard": [
+          "Elle crée une harmonie sonore, dont la valeur est fixée par le son employé",
+          "Elle crée un effet dépendant du contexte, valable uniquement en poésie versifiée",
+          "Elle produit une harmonie sonore, effet indépendant du sens du passage"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une paronomase ?",
+      "verso": "Le rapprochement de deux mots dont les sonorités sont proches mais dont le sens diffère, comme qui se ressemble s'assemble",
+      "explanation": "Elle produit un effet de jeu ou de formule frappante, très employé dans les proverbes et les titres. Son intérêt tient au contraste entre proximité sonore et écart de sens.",
+      "tags": [
+        "sonorités",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "La répétition du même mot deux fois",
+          "L'emploi de deux synonymes exacts",
+          "La rime entre deux vers"
+        ],
+        "medium": [
+          "La répétition d'une même consonne dans une phrase",
+          "L'emploi d'un mot dans deux sens différents",
+          "Le rapprochement de deux mots de sens opposés"
+        ],
+        "hard": [
+          "Le rapprochement de deux mots aux sonorités proches et au sens identique",
+          "Le rapprochement de mots proches par le son, figure identique à l'allitération",
+          "Le rapprochement de deux mots de sens proche mais de sonorités éloignées"
+        ]
+      }
+    },
+    {
+      "recto": "Comment classe-t-on les grandes familles de figures de style ?",
+      "verso": "Par analogie, par substitution, par opposition, par amplification, par atténuation et par construction",
+      "explanation": "Ce classement n'est pas une fin en soi mais un moyen de retrouver rapidement le nom d'une figure repérée. Une même figure peut d'ailleurs relever de deux familles selon l'angle retenu.",
+      "tags": [
+        "classement",
+        "synthèse"
+      ],
+      "distractors": {
+        "easy": [
+          "Par ordre alphabétique",
+          "Par longueur de la figure",
+          "Par siècle d'apparition"
+        ],
+        "medium": [
+          "Par genre littéraire d'appartenance",
+          "Par difficulté croissante de repérage",
+          "Par fréquence d'emploi dans la langue"
+        ],
+        "hard": [
+          "Par analogie, substitution, opposition, amplification, atténuation et construction, chaque figure appartenant à une seule famille",
+          "Par analogie, substitution et opposition uniquement, les autres relevant du rythme",
+          "Par familles de figures, classement dont la maîtrise constitue le but de l'analyse"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi le seul nom d'une figure ne suffit-il jamais en commentaire ?",
+      "verso": "Parce que la note porte sur l'effet produit et sur le sens servi, que le nom de la figure ne fait qu'introduire",
+      "explanation": "Repérer une métaphore ne vaut rien tant qu'on n'a pas dit ce qu'elle rapproche et pourquoi. La figure est le point de départ de l'analyse, jamais sa conclusion.",
+      "tags": [
+        "méthode",
+        "commentaire"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les noms de figures sont difficiles à retenir",
+          "Parce que les correcteurs interdisent le vocabulaire technique",
+          "Parce qu'il vaut mieux résumer le texte"
+        ],
+        "medium": [
+          "Parce qu'une figure peut porter plusieurs noms différents",
+          "Parce qu'il faut d'abord donner son avis personnel",
+          "Parce que le repérage suffit à prouver la compréhension du texte"
+        ],
+        "hard": [
+          "Parce que la note porte sur l'effet, effet toujours identique pour une figure donnée",
+          "Parce que le nom de la figure constitue l'aboutissement de l'analyse",
+          "Parce qu'une figure ne prend sens qu'en référence aux intentions déclarées de l'auteur"
+        ]
+      }
+    },
+    {
+      "recto": "Comment relier un procédé à une interprétation dans une analyse ?",
+      "verso": "En nommant le procédé, en citant précisément le passage, puis en expliquant l'effet produit et ce qu'il apporte au sens du texte",
+      "explanation": "Cet enchaînement en trois temps est la structure attendue de tout paragraphe d'analyse. Sauter l'une des trois étapes affaiblit immédiatement la démonstration.",
+      "tags": [
+        "méthode",
+        "commentaire"
+      ],
+      "distractors": {
+        "easy": [
+          "En donnant simplement le nom du procédé",
+          "En recopiant le passage sans commentaire",
+          "En résumant le sens général du texte"
+        ],
+        "medium": [
+          "En citant le passage puis en donnant le nom du procédé, sans expliquer l'effet",
+          "En expliquant l'effet sans citer le texte",
+          "En listant tous les procédés du texte avant de les commenter"
+        ],
+        "hard": [
+          "En nommant, citant et expliquant, ces trois étapes pouvant être données dans n'importe quel ordre",
+          "En nommant le procédé et en expliquant l'effet, la citation étant facultative",
+          "En citant et en expliquant, le nom du procédé n'apportant rien à la démonstration"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi faut-il se méfier de la surinterprétation d'un procédé ?",
+      "verso": "Parce qu'un procédé courant peut relever de l'usage ordinaire de la langue et non d'une intention particulière de l'auteur",
+      "explanation": "Beaucoup de métaphores sont lexicalisées et passent inaperçues à la lecture, comme le pied d'une table. Ne commenter que les procédés qui produisent un effet perceptible évite l'analyse gratuite.",
+      "tags": [
+        "méthode",
+        "prudence"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les correcteurs n'aiment pas les analyses longues",
+          "Parce qu'il faut relever le moins de procédés possible",
+          "Parce que les procédés sont rarement volontaires"
+        ],
+        "medium": [
+          "Parce qu'un procédé n'a jamais qu'une seule interprétation possible",
+          "Parce que seuls les procédés rares méritent d'être commentés",
+          "Parce que l'auteur ne connaît pas les noms des figures qu'il emploie"
+        ],
+        "hard": [
+          "Parce qu'un procédé courant peut relever de l'usage ordinaire, ce qui interdit de le commenter en toute circonstance",
+          "Parce que les métaphores lexicalisées produisent toujours un effet perceptible",
+          "Parce qu'un procédé ne peut être commenté que si l'auteur a déclaré l'avoir voulu"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un registre littéraire ?",
+      "verso": "L'ensemble des moyens par lesquels un texte cherche à produire un effet précis sur le lecteur, comme l'émotion, le rire ou l'indignation",
+      "explanation": "Il ne se confond pas avec le genre : une tragédie peut comporter des passages comiques. Le registre se repère à un faisceau d'indices lexicaux, syntaxiques et rythmiques convergents.",
+      "tags": [
+        "registres",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Le niveau de langue employé par l'auteur",
+          "Le genre littéraire auquel appartient l'œuvre",
+          "La liste des œuvres publiées par un auteur"
+        ],
+        "medium": [
+          "Le classement d'une œuvre par époque littéraire",
+          "L'ensemble des figures de style d'un texte",
+          "Le ton de voix employé lors d'une lecture à haute voix"
+        ],
+        "hard": [
+          "L'ensemble des moyens produisant un effet, notion qui se confond avec celle de genre",
+          "Les moyens de produire un effet sur le lecteur, repérables à un indice unique et décisif",
+          "L'effet visé par un texte, dont un même texte ne peut porter qu'un seul exemplaire"
+        ]
+      }
+    },
+    {
+      "recto": "Comment repérer le registre dominant d'un texte ?",
+      "verso": "En croisant plusieurs indices convergents : lexique, types de phrases, rythme, temps verbaux et figures employées",
+      "explanation": "Un seul indice ne suffit jamais, car une exclamation peut servir la colère comme l'enthousiasme. C'est la convergence qui autorise à nommer un registre.",
+      "tags": [
+        "registres",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En regardant le titre du texte",
+          "En consultant la date de publication",
+          "En comptant le nombre de paragraphes"
+        ],
+        "medium": [
+          "En relevant un seul indice caractéristique et décisif",
+          "En identifiant le genre littéraire de l'œuvre",
+          "En se fiant à l'impression générale de lecture"
+        ],
+        "hard": [
+          "En croisant plusieurs indices, dont un seul suffit pourtant à conclure",
+          "En relevant le lexique uniquement, le rythme et la syntaxe ne renseignant pas sur le registre",
+          "En croisant des indices convergents, méthode qui interdit qu'un texte porte plusieurs registres"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle méthode adopter pour analyser un texte dont on ne repère aucune figure évidente ?",
+      "verso": "Observer la construction des phrases, les temps verbaux, l'énonciation et le rythme, qui portent le sens autant que les figures",
+      "explanation": "Un texte peut être remarquable par sa sobriété, ce qui est en soi un choix d'écriture. Chercher à tout prix des figures dans un tel texte conduit à des analyses forcées et peu convaincantes.",
+      "tags": [
+        "méthode",
+        "analyse"
+      ],
+      "distractors": {
+        "easy": [
+          "Renoncer à analyser le texte",
+          "Inventer des figures pour remplir la copie",
+          "Résumer le texte à la place de l'analyser"
+        ],
+        "medium": [
+          "Chercher plus longtemps jusqu'à trouver des figures cachées",
+          "Se concentrer uniquement sur le vocabulaire employé",
+          "Analyser la biographie de l'auteur à défaut du texte"
+        ],
+        "hard": [
+          "Observer la syntaxe et le rythme, éléments qui ne portent jamais autant de sens que les figures",
+          "Observer la construction des phrases, méthode réservée aux textes en prose",
+          "Observer l'énonciation et le rythme, en concluant que le texte est mal écrit"
+        ]
+      }
+    },
+    {
+      "recto": "Que faut-il observer dans les temps verbaux d'un texte ?",
+      "verso": "Leur valeur et leurs ruptures : un changement de temps signale presque toujours un changement de plan ou de point de vue",
+      "explanation": "Le passage du passé simple à l'imparfait fait basculer du premier plan à l'arrière-plan, celui de l'imparfait au présent rapproche le lecteur. Les repérer donne souvent la structure d'un extrait.",
+      "tags": [
+        "grammaire",
+        "analyse"
+      ],
+      "distractors": {
+        "easy": [
+          "Leur orthographe correcte",
+          "Leur nombre total dans le texte",
+          "Leur position dans la phrase"
+        ],
+        "medium": [
+          "Uniquement le temps dominant, les ruptures étant accidentelles",
+          "Uniquement la concordance des temps entre propositions",
+          "Le respect des règles de conjugaison par l'auteur"
+        ],
+        "hard": [
+          "Leur valeur et leurs ruptures, ces dernières relevant le plus souvent d'une négligence",
+          "Leurs ruptures uniquement, la valeur des temps étant fixée par la grammaire",
+          "Leur valeur, sans que les changements de temps aient d'incidence sur la structure"
+        ]
+      }
+    },
+    {
+      "recto": "Comment un procédé peut-il servir deux effets opposés selon le texte ?",
+      "verso": "Parce que son effet naît de sa rencontre avec un contenu, une situation et un contexte, jamais de sa forme seule",
+      "explanation": "Une accumulation peut suggérer l'abondance heureuse ou l'étouffement, une répétition l'insistance ou l'obsession. C'est pourquoi l'interprétation doit toujours être justifiée par le passage précis.",
+      "tags": [
+        "méthode",
+        "raisonnement"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les auteurs se contredisent souvent",
+          "Parce que les figures changent de nom selon les époques",
+          "Parce que chaque lecteur comprend ce qu'il veut"
+        ],
+        "medium": [
+          "Parce que les manuels ne s'accordent pas sur les définitions",
+          "Parce qu'un procédé a toujours exactement deux effets possibles",
+          "Parce que l'effet dépend uniquement du genre du texte"
+        ],
+        "hard": [
+          "Parce que l'effet naît du contexte, ce qui rend toute interprétation également recevable",
+          "Parce qu'un procédé produit un effet variable, indépendamment du contenu qu'il porte",
+          "Parce que l'effet dépend du contexte, sauf pour les figures d'analogie dont le sens est fixe"
+        ]
+      }
+    }
+  ]
+}

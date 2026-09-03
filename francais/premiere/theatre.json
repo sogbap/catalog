@@ -1,0 +1,796 @@
+{
+  "id": "francais-premiere-theatre",
+  "title": "Le théâtre du XVII au XXI siècle",
+  "emoji": "🎭",
+  "subject": "literature",
+  "country": "fr",
+  "courseDescription": "Français · Première — double énonciation et didascalies, formes de la parole théâtrale, règles classiques, tragédie et comédie, drame romantique et théâtre du XX siècle.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Le théâtre du XVII<sup>e</sup> au XXI<sup>e</sup> siècle</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Première · français<br>\n  <b>Objet d'étude&nbsp;:</b> le théâtre du XVII<sup>e</sup> au XXI<sup>e</sup> siècle<br>\n  <b>Épreuve&nbsp;:</b> écrit et oral du bac de français (épreuve anticipée)\n</div>\n\n<blockquote><p><b>Problématique.</b> Pourquoi une réplique de théâtre dit-elle toujours deux choses à la fois&nbsp;?</p></blockquote>\n\n<p>Le théâtre est le seul genre dont le texte n'est qu'une <em>partie</em> de l'œuvre&nbsp;: il attend la scène pour exister pleinement. Cette incomplétude commande toute l'analyse. Elle explique l'absence de narrateur, la nécessité de faire passer l'information par la bouche des personnages, et surtout ce mécanisme central dont presque tout découle&nbsp;: la <strong>double énonciation</strong>. Comprendre qu'une réplique s'adresse simultanément à un personnage et à une salle, c'est tenir la clé du comique, du tragique et de l'ironie.</p>\n\n<h2>1 · La double énonciation</h2>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Schéma de la double énonciation au théâtre : une réplique prononcée par un personnage atteint simultanément un autre personnage sur scène et le public dans la salle, ce double destinataire rendant possibles l'aparté et l'ironie dramatique où le spectateur en sait plus que le personnage\">\n    <rect x=\"18\" y=\"30\" width=\"90\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".30\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"63\" y=\"51\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">personnage A</text>\n    <rect x=\"232\" y=\"30\" width=\"90\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".30\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"277\" y=\"51\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">personnage B</text>\n    <line x1=\"110\" y1=\"47\" x2=\"228\" y2=\"47\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.8\" marker-end=\"url(#ar-fth1)\"/>\n    <text x=\"169\" y=\"40\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">1re énonciation</text>\n    <line x1=\"63\" y1=\"68\" x2=\"150\" y2=\"112\" stroke=\"var(--accent)\" stroke-opacity=\".6\" stroke-width=\"1.6\" stroke-dasharray=\"4 3\" marker-end=\"url(#ar-fth1)\"/>\n    <text x=\"52\" y=\"98\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">2e</text>\n    <rect x=\"90\" y=\"118\" width=\"160\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"170\" y=\"139\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">le public, dans la salle</text>\n    <text x=\"170\" y=\"172\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">De là viennent l'aparté et l'ironie dramatique :</text>\n    <text x=\"170\" y=\"186\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">le spectateur sait ce que le personnage ignore.</text>\n    <defs>\n      <marker id=\"ar-fth1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n  </svg>\n  <figcaption>Une seule réplique, deux destinataires&nbsp;— c'est la notion la plus rentable du chapitre.</figcaption>\n</figure>\n\n<p>Deux conséquences directes&nbsp;:</p>\n\n<ul>\n  <li>L'<strong>aparté</strong>&nbsp;: une parole dite «&nbsp;à part&nbsp;», censée n'être entendue que du public. Convention pure, que le spectateur accepte sans y croire.</li>\n  <li>L'<strong>ironie dramatique</strong>&nbsp;: le spectateur en sait plus qu'un personnage et mesure la portée de paroles dont celui-ci ignore le sens véritable. C'est de là que naît la tension tragique — comme le ressort du quiproquo comique.</li>\n</ul>\n\n<h2>2 · Les formes de la parole</h2>\n\n<p>Quatre régimes à distinguer précisément, car ils n'installent pas la même situation d'énonciation&nbsp;:</p>\n\n<ul>\n  <li><strong>Réplique</strong>&nbsp;: prise de parole ordinaire dans l'échange.</li>\n  <li><strong>Tirade</strong>&nbsp;: longue réplique adressée à un personnage <em>présent</em>. Sert souvent à convaincre ou à raconter.</li>\n  <li><strong>Monologue</strong>&nbsp;: le personnage est <em>seul en scène</em>. Donne accès à son intériorité.</li>\n  <li><strong>Stichomythie</strong>&nbsp;: échange rapide de répliques très brèves. Traduit l'affrontement ou la montée de tension — son effet tient au contraste avec les tirades voisines.</li>\n</ul>\n\n<p>À cela s'ajoutent les <strong>didascalies</strong>, indications scéniques extérieures aux répliques. Elles sont rares chez les classiques, parce que les indications de jeu figurent dans les répliques elles-mêmes&nbsp;; leur abondance au XX<sup>e</sup> siècle traduit à l'inverse une volonté de contrôler la représentation.</p>\n\n<h2>3 · Les règles classiques</h2>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 185\" role=\"img\" aria-label=\"Les contraintes du théâtre classique : la règle des trois unités impose une seule intrigue un seul lieu et une action tenant dans une journée, la bienséance interdit de montrer la violence et la mort sur scène qui sont rapportées par un récit, et la vraisemblance exige que l'action reste crédible\">\n    <text x=\"8\" y=\"16\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Le carcan classique — et sa raison d'être</text>\n    <rect x=\"8\" y=\"26\" width=\"102\" height=\"62\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".28\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"59\" y=\"44\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">action</text>\n    <text x=\"59\" y=\"60\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">une seule</text>\n    <text x=\"59\" y=\"73\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">intrigue</text>\n    <rect x=\"118\" y=\"26\" width=\"102\" height=\"62\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".28\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"169\" y=\"44\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">lieu</text>\n    <text x=\"169\" y=\"60\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">un seul</text>\n    <text x=\"169\" y=\"73\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">décor</text>\n    <rect x=\"228\" y=\"26\" width=\"104\" height=\"62\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".28\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"280\" y=\"44\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">temps</text>\n    <text x=\"280\" y=\"60\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">une seule</text>\n    <text x=\"280\" y=\"73\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">journée</text>\n    <text x=\"170\" y=\"106\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">Objectif : la vraisemblance — rapprocher le temps de la fiction de celui du spectacle.</text>\n    <line x1=\"8\" y1=\"118\" x2=\"332\" y2=\"118\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"138\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">La bienséance</text>\n    <text x=\"8\" y=\"154\" font-size=\"9\" fill=\"currentColor\">Ne rien montrer de choquant : la violence et la mort sont RACONTÉES,</text>\n    <text x=\"8\" y=\"167\" font-size=\"9\" fill=\"currentColor\">jamais jouées — d'où le récit de Théramène chez Racine.</text>\n    <text x=\"8\" y=\"182\" font-size=\"9\" class=\"s-muted\">La contrainte a produit certains des plus beaux morceaux du répertoire.</text>\n  </svg>\n  <figcaption>Ces règles ne sont pas des caprices&nbsp;: elles servent une théorie de l'illusion.</figcaption>\n</figure>\n\n<h2>4 · Tragédie, comédie, drame</h2>\n\n<p>Le <strong>héros tragique</strong> est pris dans un conflit <em>sans issue</em>, où toute décision entraîne une perte. Ce n'est pas le malheur qui fait le tragique&nbsp;: c'est l'impossibilité de choisir sans perdre. Sa grandeur tient à ce qu'il affronte lucidement cette impasse.</p>\n\n<div class=\"callout\">\n  <strong>Notion · La catharsis</strong><br>\n  Héritée d'Aristote&nbsp;: la <em>purgation des passions</em> du spectateur, qui éprouve terreur et pitié devant le sort du héros sans les subir lui-même. Cette justification morale a longtemps servi à défendre la tragédie contre ses accusateurs.\n</div>\n\n<p>Côté <strong>comédie</strong>, cinq ressorts à nommer précisément plutôt que de conclure qu'une scène «&nbsp;est drôle&nbsp;»&nbsp;: comique de <em>mots</em>, de <em>gestes</em>, de <em>situation</em>, de <em>caractère</em>, de <em>répétition</em>. Une même scène en combine souvent plusieurs.</p>\n\n<p>Le <strong>drame romantique</strong> refuse la séparation des genres. Hugo en formule le programme dans la <em>préface de Cromwell</em> (1827)&nbsp;: mêler le sublime et le grotesque au nom de la vérité de la vie, et rejeter les trois unités jugées artificielles.</p>\n\n<h2>5 · Les ruptures du XX<sup>e</sup> siècle</h2>\n\n<p>Deux gestes opposés, également radicaux&nbsp;:</p>\n\n<ul>\n  <li>Le <strong>théâtre de l'absurde</strong> (Beckett, Ionesco) met en scène l'absence de sens en défaisant l'intrigue, le langage et la cohérence des personnages. Le langage y tourne à vide&nbsp;— et c'est le <em>sujet</em> de la pièce, non un défaut d'écriture.</li>\n  <li>La <strong>distanciation</strong> chez Brecht rassemble les procédés qui <em>empêchent</em> l'identification, pour que le spectateur garde un regard critique. Pancartes, chansons, adresses au public&nbsp;: elle s'oppose frontalement à la catharsis.</li>\n</ul>\n\n<p>L'espace scénique change aussi&nbsp;: sortie du théâtre à l'italienne, suppression du quatrième mur, public installé autour ou au milieu du plateau. La contestation menée dans le texte se prolonge dans la salle.</p>\n\n<h2>6 · Le texte et la scène</h2>\n\n<p>Le <strong>metteur en scène</strong> interprète&nbsp;: il choisit le jeu, l'espace, les costumes, le rythme. Deux mises en scène d'une même pièce peuvent proposer des sens opposés <em>sans qu'aucune trahisse le texte</em>. Proposer une hypothèse de jeu, à condition de la justifier par le texte, est un exercice valorisé — surtout à l'oral.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>La méthode d'analyse</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Frise méthodique de l'analyse d'une scène de théâtre : situer la scène dans la structure de la pièce, identifier la forme de parole employée, observer le rapport de force dans la répartition des répliques, repérer ce que sait le public par rapport aux personnages, puis proposer une hypothèse de mise en scène justifiée\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"176\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">1. Situer</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Exposition, nœud, dénouement ?</text>\n    <circle cx=\"26\" cy=\"60\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"57\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">2. Quelle forme de parole ?</text>\n    <text x=\"44\" y=\"70\" font-size=\"10\" fill=\"currentColor\">Tirade, monologue, stichomythie, aparté</text>\n    <circle cx=\"26\" cy=\"100\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"97\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">3. Qui domine ?</text>\n    <text x=\"44\" y=\"110\" font-size=\"10\" fill=\"currentColor\">Longueur, interruptions, silences</text>\n    <circle cx=\"26\" cy=\"140\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"137\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">4. Que sait le public ?</text>\n    <text x=\"44\" y=\"150\" font-size=\"10\" fill=\"currentColor\">Ironie dramatique, quiproquo</text>\n    <circle cx=\"26\" cy=\"176\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"173\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">5. Imaginer la scène</text>\n    <text x=\"44\" y=\"186\" font-size=\"10\" fill=\"currentColor\">Une hypothèse de jeu, justifiée par le texte</text>\n  </svg>\n  <figcaption>L'étape 3 est la plus négligée&nbsp;: la répartition de la parole dit la domination mieux que son contenu.</figcaption>\n</figure>\n\n<h3>Le vocabulaire technique</h3>\n\n<table>\n  <tr><th>Terme</th><th>Définition en une ligne</th></tr>\n  <tr><td>Double énonciation</td><td>Une réplique s'adresse au personnage <em>et</em> au public</td></tr>\n  <tr><td>Didascalie</td><td>Indication scénique extérieure aux répliques</td></tr>\n  <tr><td>Tirade / monologue</td><td>Longue réplique adressée / personnage seul en scène</td></tr>\n  <tr><td>Stichomythie</td><td>Échange rapide de répliques très brèves</td></tr>\n  <tr><td>Quiproquo</td><td>Malentendu sur une identité ou des propos</td></tr>\n  <tr><td>Ironie dramatique</td><td>Le spectateur sait ce que le personnage ignore</td></tr>\n</table>\n\n<h3>Les genres et leur ressort</h3>\n\n<table>\n  <tr><th>Genre</th><th>Ce qui le définit</th></tr>\n  <tr><td>Tragédie</td><td>Personnages nobles, fatalité, conflit sans issue</td></tr>\n  <tr><td>Comédie</td><td>Personnages ordinaires, fin heureuse, cinq comiques</td></tr>\n  <tr><td>Drame romantique</td><td>Mélange du sublime et du grotesque, refus des unités</td></tr>\n  <tr><td>Théâtre de l'absurde</td><td>Intrigue et langage défaits, attente sans issue</td></tr>\n  <tr><td>Théâtre brechtien</td><td>Distanciation, regard critique du spectateur</td></tr>\n</table>\n\n<h3>Structure d'une pièce</h3>\n\n<table>\n  <tr><th>Élément</th><th>Ce qu'il faut observer</th></tr>\n  <tr><td>Exposition</td><td>Informer sans narrateur&nbsp;: le rôle du confident</td></tr>\n  <tr><td>Nœud</td><td>Tension maximale, obstacles accumulés</td></tr>\n  <tr><td>Coup de théâtre</td><td>Retournement brutal et imprévu</td></tr>\n  <tr><td>Dénouement</td><td>Ordre rétabli, châtiment, ou refus de conclure</td></tr>\n  <tr><td>Actes et scènes</td><td>La scène change à l'entrée ou la sortie d'un personnage</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Oublier la <strong>double énonciation</strong>. Une réplique ne s'adresse jamais au seul personnage à qui elle est dite&nbsp;: elle atteint aussi le public, et c'est cette seconde adresse qui rend possibles l'aparté, le quiproquo et l'ironie dramatique. Sans elle, on ne peut expliquer ni le comique ni la tension tragique. Deux erreurs voisines&nbsp;: lire une pièce comme un roman dialogué, en négligeant que le sens naît aussi du corps des acteurs et de l'espace&nbsp;; et confondre la <em>tirade</em>, adressée à un personnage présent, avec le <em>monologue</em>, prononcé seul en scène.\n</div>\n\n<blockquote><p>Au théâtre, tout se dit deux fois&nbsp;: une fois pour celui qui écoute sur scène, une fois pour celui qui écoute dans le noir. C'est dans l'écart entre ces deux écoutes que le théâtre travaille.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Première",
+  "theme": "Français — objet d'étude : le théâtre",
+  "cards": [
+    {
+      "recto": "Piège classique : à qui s'adresse une réplique de théâtre ?",
+      "verso": "À deux destinataires à la fois : au personnage à qui elle est dite, et au public qui l'entend — c'est la double énonciation",
+      "explanation": "Oublier le second destinataire empêche de comprendre l'ironie dramatique, où le spectateur sait ce que le personnage ignore. C'est la notion la plus rentable de tout le chapitre, et la plus souvent négligée.",
+      "tags": [
+        "piege",
+        "énonciation"
+      ],
+      "distractors": {
+        "easy": [
+          "Uniquement au personnage à qui elle est adressée",
+          "Uniquement au public",
+          "Uniquement au metteur en scène"
+        ],
+        "medium": [
+          "Au personnage, le public n'étant qu'un témoin passif",
+          "Au public seul, les personnages ne s'écoutant pas réellement",
+          "À l'auteur, qui se met en scène à travers ses personnages"
+        ],
+        "hard": [
+          "À deux destinataires, sauf dans les répliques dites en aparté",
+          "À deux destinataires, situation propre au seul théâtre classique",
+          "Au personnage et au public, cette double adresse excluant toute ironie dramatique"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qui distingue le texte théâtral des autres genres littéraires ?",
+      "verso": "Il est écrit pour être représenté : le texte n'est qu'une partie de l'œuvre, que la mise en scène achève",
+      "explanation": "Une même pièce donne des spectacles très différents selon les choix scéniques. Analyser du théâtre suppose donc d'imaginer ce que le texte devient sur un plateau, et non de le lire comme un roman dialogué.",
+      "tags": [
+        "genre",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Il est toujours écrit en vers",
+          "Il ne comporte jamais de description",
+          "Il est plus court qu'un roman"
+        ],
+        "medium": [
+          "Il est écrit exclusivement au présent",
+          "Il ne comporte pas de narrateur, contrairement au roman",
+          "Il est destiné à être lu à voix haute par un seul lecteur"
+        ],
+        "hard": [
+          "Il est écrit pour être représenté, la mise en scène ne modifiant pas le sens de l'œuvre",
+          "Il est écrit pour la scène, ce qui rend sa lecture silencieuse impossible",
+          "Il se distingue par l'absence de narrateur, seule différence avec le roman"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on une didascalie ?",
+      "verso": "Une indication scénique donnée par l'auteur, extérieure aux répliques, qui précise le jeu, le décor ou l'entrée des personnages",
+      "explanation": "Elle n'est pas prononcée sur scène mais oriente la représentation. Leur abondance varie énormément : rares chez les classiques, elles deviennent envahissantes chez certains auteurs du XX siècle.",
+      "tags": [
+        "texte théâtral",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Une réplique très longue",
+          "Le titre d'une scène",
+          "Le nom d'un personnage"
+        ],
+        "medium": [
+          "Une réplique prononcée à voix basse",
+          "Un commentaire du chœur antique",
+          "Le résumé de l'acte placé en tête de pièce"
+        ],
+        "hard": [
+          "Une indication scénique, prononcée sur scène par un récitant",
+          "Une indication scénique, dont l'abondance est constante à toutes les époques",
+          "Une indication scénique donnée par le metteur en scène et non par l'auteur"
+        ]
+      }
+    },
+    {
+      "recto": "Que distingue une tirade d'un monologue ?",
+      "verso": "La tirade est une longue réplique adressée à un autre personnage présent, le monologue est prononcé par un personnage seul en scène",
+      "explanation": "Le monologue donne accès à l'intériorité du personnage, la tirade sert souvent à convaincre ou à raconter. Confondre les deux fausse l'analyse de la situation d'énonciation.",
+      "tags": [
+        "parole",
+        "distinction"
+      ],
+      "distractors": {
+        "easy": [
+          "La tirade est en vers, le monologue en prose",
+          "La tirade est courte, le monologue est long",
+          "Les deux termes sont synonymes"
+        ],
+        "medium": [
+          "La tirade est prononcée seul, le monologue devant d'autres personnages",
+          "La tirade s'adresse au public, le monologue à un personnage",
+          "La tirade ouvre l'acte, le monologue le referme"
+        ],
+        "hard": [
+          "La tirade est une longue réplique adressée à un personnage, le monologue une réplique brève dite seul",
+          "La tirade s'adresse à un personnage présent et le monologue à un personnage absent",
+          "La tirade donne accès à l'intériorité, le monologue sert à convaincre"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un aparté au théâtre ?",
+      "verso": "Une parole qu'un personnage prononce à part, censée n'être entendue que du public et non des autres personnages présents",
+      "explanation": "C'est une convention pure, que le spectateur accepte sans y croire. L'aparté exploite directement la double énonciation, en s'adressant au public par-dessus la tête des personnages.",
+      "tags": [
+        "parole",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Une scène jouée en coulisses",
+          "Une pause entre deux actes",
+          "Une réplique chantée"
+        ],
+        "medium": [
+          "Un monologue prononcé seul en scène",
+          "Une longue réplique adressée à un autre personnage",
+          "Une indication scénique lue à voix haute"
+        ],
+        "hard": [
+          "Une parole entendue du public seul, convention qui s'oppose à la double énonciation",
+          "Une parole prononcée à part, que les autres personnages entendent malgré tout",
+          "Une parole adressée au public, nécessairement prononcée par un personnage seul en scène"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on une stichomythie ?",
+      "verso": "Un échange rapide de répliques très brèves, souvent d'une seule ligne, qui accélère le rythme de la scène",
+      "explanation": "Elle traduit fréquemment l'affrontement ou la montée de la tension. Son effet tient au contraste avec les tirades qui l'entourent, ce qu'il faut préciser dans un commentaire.",
+      "tags": [
+        "parole",
+        "rythme"
+      ],
+      "distractors": {
+        "easy": [
+          "Un long discours prononcé par un personnage",
+          "Une chanson interprétée par le chœur",
+          "Un silence prolongé sur scène"
+        ],
+        "medium": [
+          "Une réplique adressée uniquement au public",
+          "Une répétition du même vers par deux personnages",
+          "Un dialogue entre un personnage et un objet"
+        ],
+        "hard": [
+          "Un échange de répliques brèves, qui ralentit le rythme de la scène",
+          "Un échange de répliques brèves, dont l'effet est indépendant du contexte",
+          "Un échange de répliques d'égale longueur, quelle que soit cette longueur"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle fonction remplit la scène d'exposition d'une pièce ?",
+      "verso": "Informer le spectateur sur les personnages, la situation et le conflit à venir, tout en éveillant son intérêt",
+      "explanation": "La difficulté propre au théâtre est de transmettre ces informations sans narrateur, donc par la parole des personnages eux-mêmes. Le procédé du confident, chez les classiques, sert précisément à cela.",
+      "tags": [
+        "structure",
+        "exposition"
+      ],
+      "distractors": {
+        "easy": [
+          "Résoudre le conflit dès le début",
+          "Présenter la biographie de l'auteur",
+          "Faire rire le public avant l'intrigue"
+        ],
+        "medium": [
+          "Dévoiler le dénouement pour créer l'attente",
+          "Présenter le décor sans les personnages",
+          "Exposer la morale de la pièce"
+        ],
+        "hard": [
+          "Informer le spectateur, grâce à un narrateur qui s'adresse directement à lui",
+          "Informer et intéresser, fonction que les auteurs classiques confiaient aux didascalies",
+          "Informer le spectateur, en évitant d'annoncer le moindre conflit"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un coup de théâtre ?",
+      "verso": "Un retournement brutal et imprévu de la situation, qui relance ou dénoue l'action",
+      "explanation": "Il produit la surprise chez le spectateur autant que chez les personnages. Le quiproquo, lui, repose sur un malentendu durable dont le public est souvent le seul à mesurer la portée.",
+      "tags": [
+        "structure",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Le début d'un nouvel acte",
+          "Un bruit produit en coulisses",
+          "L'entrée en scène d'un personnage"
+        ],
+        "medium": [
+          "Un malentendu durable entre deux personnages",
+          "Une réplique prononcée à part",
+          "Le moment le plus émouvant de la pièce"
+        ],
+        "hard": [
+          "Un retournement brutal, qui surprend les personnages mais jamais le public",
+          "Un retournement de situation, préparé de longue date par l'exposition",
+          "Un malentendu qui repose sur une information connue du seul public"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un quiproquo ?",
+      "verso": "Un malentendu dans lequel un personnage se méprend sur l'identité, les intentions ou les propos d'un autre",
+      "explanation": "Il est l'un des ressorts majeurs du comique, parce que le public en perçoit le mécanisme alors que les personnages s'y enferment. Cette asymétrie de savoir est une application directe de la double énonciation.",
+      "tags": [
+        "comique",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Une dispute entre deux personnages",
+          "Un changement de décor",
+          "Un déguisement porté sur scène"
+        ],
+        "medium": [
+          "Un retournement brutal de la situation",
+          "Une parole adressée au public seul",
+          "Une répétition comique d'une même réplique"
+        ],
+        "hard": [
+          "Un malentendu, dont le public est aussi ignorant que les personnages",
+          "Un malentendu sur l'identité d'un personnage, à l'exclusion des propos tenus",
+          "Un malentendu, ressort exclusivement tragique et jamais comique"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi consiste la règle des trois unités du théâtre classique ?",
+      "verso": "Une seule intrigue principale, un seul lieu et une action tenant dans une journée",
+      "explanation": "Ces contraintes visent la vraisemblance, en rapprochant le temps de la fiction de celui de la représentation. Elles s'accompagnent de la bienséance, qui interdit de montrer sur scène la violence et la mort.",
+      "tags": [
+        "classicisme",
+        "règles"
+      ],
+      "distractors": {
+        "easy": [
+          "Trois actes, trois personnages, trois décors",
+          "Trois heures de spectacle maximum",
+          "Trois représentations par pièce"
+        ],
+        "medium": [
+          "Unité de ton, de style et de langue",
+          "Unité d'action, de lieu et de personnages",
+          "Unité de genre, de registre et de public"
+        ],
+        "hard": [
+          "Une intrigue, un lieu et une action tenant dans une semaine",
+          "Une intrigue, un lieu, une journée, règles qui autorisent la mort sur scène",
+          "Une intrigue, un lieu et une journée, contraintes visant l'invraisemblance poétique"
+        ]
+      }
+    },
+    {
+      "recto": "Que prescrit la règle de bienséance dans le théâtre classique ?",
+      "verso": "Ne rien montrer sur scène qui puisse choquer le spectateur, notamment la violence et la mort, rapportées par un récit",
+      "explanation": "C'est pourquoi les morts sont racontées par un messager plutôt que jouées. Cette contrainte a produit certains des plus beaux morceaux du répertoire, comme le récit de Théramène chez Racine.",
+      "tags": [
+        "classicisme",
+        "règles"
+      ],
+      "distractors": {
+        "easy": [
+          "Interdire les costumes trop coûteux",
+          "Obliger les acteurs à parler fort",
+          "Limiter le nombre de spectateurs"
+        ],
+        "medium": [
+          "Imposer l'unité de lieu et de temps",
+          "Exiger que la pièce se termine bien",
+          "Interdire le mélange de la prose et du vers"
+        ],
+        "hard": [
+          "Ne rien montrer de choquant, règle qui interdit également d'en faire le récit",
+          "Ne rien montrer de choquant, contrainte propre au drame romantique",
+          "Interdire la violence sur scène, tout en autorisant la représentation de la mort"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qui caractérise le héros tragique ?",
+      "verso": "Il est pris dans un conflit sans issue, où toute décision entraîne une perte, sous l'effet d'une fatalité qui le dépasse",
+      "explanation": "Sa grandeur tient à ce qu'il affronte lucidement cette impasse. Ce n'est pas le malheur seul qui fait le tragique, mais l'impossibilité de choisir sans perdre.",
+      "tags": [
+        "tragédie",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Il gagne toujours à la fin",
+          "Il fait rire malgré lui",
+          "Il est de condition modeste"
+        ],
+        "medium": [
+          "Il subit un malheur imprévu qu'il aurait pu éviter",
+          "Il combat un adversaire de force égale",
+          "Il est puni pour une faute qu'il a délibérément commise"
+        ],
+        "hard": [
+          "Il est pris dans un conflit sans issue, le malheur suffisant à définir le tragique",
+          "Il affronte une fatalité, dont il n'a jamais conscience",
+          "Il est pris dans un conflit dont une issue heureuse reste toujours possible"
+        ]
+      }
+    },
+    {
+      "recto": "Que désigne la catharsis, notion héritée d'Aristote ?",
+      "verso": "La purgation des passions du spectateur, qui éprouve terreur et pitié devant le sort du héros sans les subir lui-même",
+      "explanation": "Le théâtre y remplit une fonction morale autant qu'esthétique. Cette justification a longtemps servi à défendre la tragédie contre ceux qui l'accusaient de corrompre les mœurs.",
+      "tags": [
+        "tragédie",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le nettoyage de la scène entre deux actes",
+          "Le salut des acteurs à la fin du spectacle",
+          "La distribution des rôles entre comédiens"
+        ],
+        "medium": [
+          "La mise à distance critique du spectateur",
+          "L'identification totale du spectateur au héros",
+          "Le respect des trois unités dans la tragédie"
+        ],
+        "hard": [
+          "La purgation des passions, obtenue en faisant réellement subir la terreur au spectateur",
+          "La purgation des passions, notion forgée par Racine au XVII siècle",
+          "La purgation des passions du héros lui-même, et non du spectateur"
+        ]
+      }
+    },
+    {
+      "recto": "Quels sont les principaux ressorts du comique au théâtre ?",
+      "verso": "Le comique de mots, de gestes, de situation, de caractère et de répétition",
+      "explanation": "Une même scène en combine souvent plusieurs, et les nommer précisément vaut mieux que de conclure que la scène est drôle. Molière les exploite tous, du jeu de scène au portrait de l'avare ou du misanthrope.",
+      "tags": [
+        "comédie",
+        "procédés"
+      ],
+      "distractors": {
+        "easy": [
+          "Le rire, le sourire et l'éclat de rire",
+          "Le comique visuel et le comique sonore uniquement",
+          "La farce et la parodie uniquement"
+        ],
+        "medium": [
+          "Le comique de mots et de gestes, à l'exclusion du caractère",
+          "Le comique de situation uniquement, les autres relevant du burlesque",
+          "Le comique de mots, de rimes, de décor et de costumes"
+        ],
+        "hard": [
+          "Mots, gestes, situation, caractère et répétition, ressorts qui ne se combinent jamais dans une même scène",
+          "Mots, gestes, situation et caractère, la répétition relevant du tragique",
+          "Mots, gestes, situation, caractère et répétition, catégories propres au seul théâtre de boulevard"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : qu'est-ce qui distingue la tragédie, la comédie et le drame romantique ?",
+      "verso": "La tragédie met en scène des personnages nobles pris dans une fatalité, la comédie des personnages ordinaires dans une intrigue qui finit bien, et le drame romantique mêle délibérément les deux registres",
+      "explanation": "Le drame romantique refuse la séparation classique des genres au nom de la vérité de la vie, où le sublime côtoie le grotesque. Hugo formule ce programme dans la préface de Cromwell.",
+      "tags": [
+        "comparaison",
+        "genres"
+      ],
+      "distractors": {
+        "easy": [
+          "Les trois genres racontent exactement la même chose",
+          "La tragédie est en vers, la comédie en prose, le drame chanté",
+          "La tragédie est ancienne, la comédie moderne, le drame contemporain"
+        ],
+        "medium": [
+          "La tragédie met en scène des personnages ordinaires, la comédie des personnages nobles",
+          "Le drame romantique respecte plus strictement les unités que la tragédie",
+          "La comédie repose sur la fatalité, la tragédie sur le quiproquo"
+        ],
+        "hard": [
+          "La tragédie repose sur la fatalité, la comédie sur une fin heureuse, et le drame romantique sur leur séparation rigoureuse",
+          "La tragédie met en scène des personnages nobles, la comédie des personnages ordinaires, le drame romantique réservant la noblesse aux seuls héros",
+          "Le drame romantique mêle les registres, programme formulé par Racine dans ses préfaces"
+        ]
+      }
+    },
+    {
+      "recto": "Que revendique Victor Hugo dans la préface de Cromwell ?",
+      "verso": "Le mélange des genres et des registres, en associant le sublime et le grotesque au nom de la vérité de la vie",
+      "explanation": "Ce texte de 1827 sert de manifeste au drame romantique. Il implique le rejet des trois unités, jugées artificielles, et l'ouverture du théâtre à des sujets historiques et populaires.",
+      "tags": [
+        "drame romantique",
+        "manifeste"
+      ],
+      "distractors": {
+        "easy": [
+          "Le retour strict aux règles de l'Antiquité",
+          "La suppression de tout dialogue au théâtre",
+          "L'interdiction des sujets historiques"
+        ],
+        "medium": [
+          "Le renforcement de la règle des trois unités",
+          "La séparation rigoureuse du comique et du tragique",
+          "Le retour à la tragédie en cinq actes et en vers"
+        ],
+        "hard": [
+          "Le mélange du sublime et du grotesque, tout en conservant les trois unités",
+          "Le mélange des genres, programme énoncé dans la préface de Hernani",
+          "Le mélange des registres, au nom du respect de la bienséance classique"
+        ]
+      }
+    },
+    {
+      "recto": "Que cherche le théâtre dit de l'absurde au XX siècle ?",
+      "verso": "À mettre en scène l'absence de sens de l'existence, en défaisant l'intrigue, le langage et la cohérence des personnages",
+      "explanation": "Beckett et Ionesco en sont les figures majeures, avec des pièces où l'attente remplace l'action. Le langage y tourne à vide, ce qui constitue le sujet même de la pièce plutôt qu'un défaut d'écriture.",
+      "tags": [
+        "XX siècle",
+        "absurde"
+      ],
+      "distractors": {
+        "easy": [
+          "À faire rire par des situations invraisemblables",
+          "À raconter des histoires sans queue ni tête pour amuser",
+          "À supprimer les acteurs du plateau"
+        ],
+        "medium": [
+          "À respecter scrupuleusement les unités classiques",
+          "À représenter fidèlement la société contemporaine",
+          "À exalter l'héroïsme face à l'adversité"
+        ],
+        "hard": [
+          "À mettre en scène l'absence de sens, en conservant une intrigue solidement construite",
+          "À défaire le langage, ce qui traduit une maladresse d'écriture assumée",
+          "À représenter l'absurdité du monde, courant fondé par Bertolt Brecht"
+        ]
+      }
+    },
+    {
+      "recto": "Que désigne la distanciation chez Bertolt Brecht ?",
+      "verso": "L'ensemble des procédés qui empêchent le spectateur de s'identifier, afin qu'il garde un regard critique sur ce qui est représenté",
+      "explanation": "Elle s'oppose frontalement à la catharsis, qui repose sur l'émotion partagée. Brecht recourt aux pancartes, aux chansons et aux adresses au public pour rompre l'illusion théâtrale.",
+      "tags": [
+        "XX siècle",
+        "Brecht"
+      ],
+      "distractors": {
+        "easy": [
+          "L'éloignement physique entre la scène et le public",
+          "Le recul nécessaire pour bien voir le décor",
+          "La distance entre deux représentations"
+        ],
+        "medium": [
+          "L'identification maximale du spectateur au héros",
+          "La purgation des passions par la terreur et la pitié",
+          "L'effacement du metteur en scène derrière le texte"
+        ],
+        "hard": [
+          "Les procédés empêchant l'identification, qui prolongent et renforcent la catharsis",
+          "Les procédés critiques, obtenus en supprimant toute adresse directe au public",
+          "L'empêchement de l'identification, technique mise au point par Ionesco"
+        ]
+      }
+    },
+    {
+      "recto": "Quel rôle joue le metteur en scène dans une représentation ?",
+      "verso": "Il interprète le texte en choisissant le jeu, l'espace, les costumes et le rythme, produisant une lecture parmi d'autres possibles",
+      "explanation": "Deux mises en scène d'une même pièce peuvent proposer des sens opposés sans qu'aucune trahisse le texte. C'est pourquoi une analyse gagne à envisager plusieurs traitements scéniques d'un passage.",
+      "tags": [
+        "représentation",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Il écrit le texte de la pièce",
+          "Il joue le rôle principal",
+          "Il vend les billets du spectacle"
+        ],
+        "medium": [
+          "Il applique fidèlement les didascalies sans aucune interprétation",
+          "Il choisit uniquement les décors et les costumes",
+          "Il traduit la pièce dans la langue du public"
+        ],
+        "hard": [
+          "Il interprète le texte, en produisant la seule lecture conforme aux intentions de l'auteur",
+          "Il interprète le texte, deux mises en scène différentes impliquant qu'une des deux le trahit",
+          "Il choisit le jeu et l'espace, sans pouvoir modifier le rythme de la représentation"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi les didascalies sont-elles rares chez les auteurs classiques ?",
+      "verso": "Parce que les indications de jeu et de lieu sont le plus souvent contenues dans les répliques elles-mêmes, que les acteurs interprétaient selon des conventions partagées",
+      "explanation": "Un personnage annonce son entrée ou décrit ce qu'il voit, ce qui rend l'indication extérieure superflue. L'abondance des didascalies au XX siècle traduit à l'inverse une volonté de contrôler la représentation.",
+      "tags": [
+        "texte théâtral",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les auteurs classiques écrivaient trop vite",
+          "Parce que l'imprimerie coûtait cher",
+          "Parce que les acteurs ne savaient pas lire"
+        ],
+        "medium": [
+          "Parce que les mises en scène étaient interdites à cette époque",
+          "Parce que les pièces classiques n'étaient pas destinées à la représentation",
+          "Parce que les didascalies étaient rédigées séparément par le metteur en scène"
+        ],
+        "hard": [
+          "Parce que les indications figurent dans les répliques, ce qui rend leur repérage impossible",
+          "Parce que les conventions de jeu étaient partagées, l'abondance moderne traduisant le même souci",
+          "Parce que les auteurs classiques laissaient volontairement toute liberté aux acteurs"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que l'ironie dramatique ?",
+      "verso": "La situation où le spectateur en sait plus qu'un personnage, et mesure la portée de paroles dont celui-ci ignore le sens véritable",
+      "explanation": "Elle produit une tension particulière, entre pitié et attente. Elle n'est possible que grâce à la double énonciation, qui installe le public dans une position de surplomb.",
+      "tags": [
+        "énonciation",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Une plaisanterie faite par un personnage",
+          "Un ton moqueur adopté par un acteur",
+          "Une réplique volontairement incompréhensible"
+        ],
+        "medium": [
+          "La moquerie d'un personnage envers un autre",
+          "Le décalage entre le texte et la mise en scène",
+          "L'emploi de l'antiphrase dans un dialogue"
+        ],
+        "hard": [
+          "La situation où le spectateur en sait plus, effet indépendant de la double énonciation",
+          "La situation où le personnage en sait plus que le spectateur",
+          "Le décalage entre ce que dit un personnage et ce qu'il pense, connu de lui seul"
+        ]
+      }
+    },
+    {
+      "recto": "Comment le théâtre peut-il porter une critique sociale ou politique ?",
+      "verso": "En donnant à voir un conflit incarné, dont le spectateur perçoit les mécanismes par l'expérience partagée de la représentation",
+      "explanation": "Molière ridiculise les faux dévots, Beaumarchais conteste les privilèges de naissance. La présence physique des acteurs et du public donne à cette critique une force que le texte seul n'aurait pas.",
+      "tags": [
+        "fonctions",
+        "engagement"
+      ],
+      "distractors": {
+        "easy": [
+          "En affichant des slogans sur le rideau",
+          "En distribuant des tracts au public",
+          "En interdisant l'entrée à certains spectateurs"
+        ],
+        "medium": [
+          "En interrompant la pièce pour exposer une thèse",
+          "En supprimant l'intrigue au profit du discours",
+          "En imposant au public une conclusion explicite"
+        ],
+        "hard": [
+          "En donnant à voir un conflit incarné, la présence du public n'ajoutant rien à sa portée",
+          "En incarnant un conflit, ce qui suppose que l'auteur énonce explicitement sa thèse",
+          "En représentant des conflits sociaux, fonction apparue seulement au XX siècle"
+        ]
+      }
+    },
+    {
+      "recto": "Comment se structure traditionnellement une pièce de théâtre ?",
+      "verso": "En actes, eux-mêmes divisés en scènes, le changement de scène étant marqué par l'entrée ou la sortie d'un personnage",
+      "explanation": "La tragédie classique en compte cinq actes, la comédie souvent trois. Beaucoup de pièces du XX siècle abandonnent ce découpage au profit de tableaux ou d'un flux continu.",
+      "tags": [
+        "structure",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "En chapitres, comme un roman",
+          "En strophes, comme un poème",
+          "En paragraphes numérotés"
+        ],
+        "medium": [
+          "En scènes divisées en actes",
+          "En tableaux séparés par des entractes obligatoires",
+          "En actes de durée strictement égale"
+        ],
+        "hard": [
+          "En actes divisés en scènes, le changement de scène marquant un changement de décor",
+          "En actes et scènes, découpage que le théâtre du XX siècle a systématiquement conservé",
+          "En cinq actes obligatoires, quel que soit le genre de la pièce"
+        ]
+      }
+    },
+    {
+      "recto": "Que faut-il observer dans un dialogue théâtral pour l'analyser ?",
+      "verso": "Le rapport de force entre les personnages : qui parle le plus, qui interrompt, qui pose les questions, qui garde le silence",
+      "explanation": "La longueur et la répartition des répliques disent souvent la domination plus clairement que leur contenu. Un personnage réduit au silence peut être le plus présent de la scène.",
+      "tags": [
+        "méthode",
+        "dialogue"
+      ],
+      "distractors": {
+        "easy": [
+          "Le nombre de mots de chaque réplique uniquement",
+          "La beauté des phrases prononcées",
+          "Le nom des acteurs qui les interprètent"
+        ],
+        "medium": [
+          "Uniquement le contenu explicite des propos échangés",
+          "Uniquement la présence ou l'absence de didascalies",
+          "Le respect de l'alternance régulière des répliques"
+        ],
+        "hard": [
+          "Le rapport de force entre personnages, que seul le contenu des propos permet d'établir",
+          "La répartition de la parole, dont un long silence ne fait pas partie",
+          "Le rapport de force, observable uniquement dans les scènes de conflit déclaré"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi faut-il envisager la représentation quand on analyse un texte de théâtre ?",
+      "verso": "Parce que le sens naît aussi du corps des acteurs, de l'espace, des silences et du rythme, éléments que le texte seul ne fixe pas",
+      "explanation": "Une même réplique peut être criée ou murmurée, et le sens en est transformé. Proposer une hypothèse de jeu, à condition de la justifier par le texte, est valorisé à l'oral comme à l'écrit.",
+      "tags": [
+        "méthode",
+        "représentation"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'il faut connaître le nom du théâtre",
+          "Parce que les costumes sont toujours décrits",
+          "Parce que le public doit être décrit dans l'analyse"
+        ],
+        "medium": [
+          "Parce que le texte fixe entièrement le jeu attendu des acteurs",
+          "Parce que la mise en scène doit être reproduite fidèlement",
+          "Parce que seules les didascalies portent le sens de la pièce"
+        ],
+        "hard": [
+          "Parce que le sens naît aussi de la scène, éléments que les didascalies fixent intégralement",
+          "Parce qu'il faut envisager la représentation, sans jamais formuler d'hypothèse de jeu personnelle",
+          "Parce que le corps et l'espace portent le sens, ce qui rend le texte secondaire"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on le nœud de l'action dans une pièce ?",
+      "verso": "Le point de tension maximale où les obstacles s'accumulent et où le conflit paraît sans issue",
+      "explanation": "Il se situe généralement au centre de la pièce, entre l'exposition et le dénouement. Repérer où il tombe éclaire la construction d'ensemble de l'intrigue.",
+      "tags": [
+        "structure",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Le premier mot prononcé sur scène",
+          "L'entracte au milieu du spectacle",
+          "Le salut final des acteurs"
+        ],
+        "medium": [
+          "Le moment où le conflit se résout",
+          "La scène qui présente les personnages",
+          "Le retournement final de la situation"
+        ],
+        "hard": [
+          "Le point de tension maximale, situé juste avant la scène d'exposition",
+          "Le point où les obstacles s'accumulent, moment qui coïncide avec le dénouement",
+          "Le moment où l'intrigue se noue, toujours placé au début du premier acte"
+        ]
+      }
+    },
+    {
+      "recto": "Que caractérise le registre tragique dans un texte de théâtre ?",
+      "verso": "Le lexique de la fatalité et de la mort, l'expression d'une impasse et la grandeur des personnages face à leur sort",
+      "explanation": "Il ne se confond pas avec le pathétique, qui suscite la pitié sans supposer de fatalité. Un personnage tragique peut d'ailleurs susciter l'admiration plutôt que la seule compassion.",
+      "tags": [
+        "registres",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Le lexique du rire et de la moquerie",
+          "La description détaillée des décors",
+          "L'exposé d'un raisonnement logique"
+        ],
+        "medium": [
+          "L'expression de la pitié devant un malheur accidentel",
+          "L'exaltation d'un héros qui triomphe des obstacles",
+          "L'ironie mordante contre les puissants"
+        ],
+        "hard": [
+          "Le lexique de la fatalité et de l'impasse, registre identique au pathétique",
+          "Le lexique de la fatalité, réservé aux personnages de condition modeste",
+          "L'expression d'une impasse, qui exclut toute forme d'admiration pour le personnage"
+        ]
+      }
+    },
+    {
+      "recto": "Comment le théâtre du XX siècle a-t-il transformé l'espace scénique ?",
+      "verso": "En sortant du théâtre à l'italienne, en supprimant le quatrième mur et en installant parfois le public autour ou au milieu du plateau",
+      "explanation": "Ces choix modifient le rapport au spectateur et donc le sens du spectacle. Ils prolongent, dans l'espace, la contestation des conventions menée dans le texte.",
+      "tags": [
+        "représentation",
+        "XX siècle"
+      ],
+      "distractors": {
+        "easy": [
+          "En agrandissant simplement la taille des salles",
+          "En supprimant l'éclairage électrique",
+          "En interdisant les décors peints"
+        ],
+        "medium": [
+          "En revenant strictement au dispositif du théâtre antique",
+          "En imposant partout le théâtre à l'italienne",
+          "En supprimant définitivement toute scène surélevée"
+        ],
+        "hard": [
+          "En sortant du théâtre à l'italienne, transformation sans effet sur le sens du spectacle",
+          "En supprimant le quatrième mur, ce qui suppose de conserver le public face à la scène",
+          "En modifiant l'espace, évolution indépendante des contestations menées dans les textes"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi le dénouement d'une pièce est-il un moment décisif à analyser ?",
+      "verso": "Parce qu'il révèle l'orientation de l'ensemble : rétablissement de l'ordre, châtiment, réconciliation ou refus de conclure",
+      "explanation": "La comédie classique se ferme sur un mariage qui rétablit l'harmonie, la tragédie sur la mort. Une pièce du XX siècle peut au contraire refuser tout dénouement, ce qui est en soi une prise de position.",
+      "tags": [
+        "structure",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que c'est la scène la plus longue",
+          "Parce que les acteurs y saluent le public",
+          "Parce qu'il contient le titre de la pièce"
+        ],
+        "medium": [
+          "Parce qu'il résume l'intrigue pour les spectateurs distraits",
+          "Parce qu'il contient toujours la morale explicite de la pièce",
+          "Parce qu'il présente les personnages restés absents"
+        ],
+        "hard": [
+          "Parce qu'il révèle l'orientation d'ensemble, tout dénouement devant nécessairement conclure",
+          "Parce qu'il rétablit l'ordre, fonction commune à la comédie et à la tragédie",
+          "Parce qu'il oriente la lecture, en délivrant explicitement le sens voulu par l'auteur"
+        ]
+      }
+    },
+    {
+      "recto": "Comment justifier une hypothèse de mise en scène dans un commentaire ?",
+      "verso": "En l'appuyant sur des éléments du texte — didascalies, adresses, rythme des répliques — et en explicitant l'effet visé sur le spectateur",
+      "explanation": "Une proposition scénique gratuite ne vaut rien ; ancrée dans le texte, elle prouve au contraire une lecture fine. C'est un exercice attendu, notamment à l'oral.",
+      "tags": [
+        "méthode",
+        "commentaire"
+      ],
+      "distractors": {
+        "easy": [
+          "En décrivant la mise en scène que l'on a vue au cinéma",
+          "En imaginant librement sans se soucier du texte",
+          "En recopiant les didascalies sans les commenter"
+        ],
+        "medium": [
+          "En s'appuyant sur la biographie de l'auteur",
+          "En citant l'avis d'un metteur en scène célèbre",
+          "En décrivant le décor sans évoquer le jeu des acteurs"
+        ],
+        "hard": [
+          "En l'appuyant sur le texte, sans avoir à préciser l'effet recherché sur le spectateur",
+          "En l'appuyant sur les didascalies seules, le rythme des répliques n'étant pas un indice",
+          "En proposant une hypothèse conforme à la seule mise en scène d'origine"
+        ]
+      }
+    }
+  ]
+}

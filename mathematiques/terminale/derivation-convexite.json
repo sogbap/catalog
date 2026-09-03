@@ -1,0 +1,640 @@
+{
+  "id": "mathematiques-terminale-derivation-convexite",
+  "title": "Dérivation, convexité, point d'inflexion",
+  "emoji": "🪝",
+  "subject": "mathematics",
+  "country": "fr",
+  "courseDescription": "Spé Maths · Terminale — dérivée d'une composée, dérivée seconde, convexité et concavité, points d'inflexion et position par rapport aux tangentes.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Dérivation, convexité, point d'inflexion</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · spécialité Mathématiques<br>\n  <b>Thème&nbsp;:</b> Analyse — étude de fonctions<br>\n  <b>Chapitre</b> · environ 3 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> Le sens de variation dit où va la courbe&nbsp;— qu'est-ce qui dit <em>comment</em> elle y va&nbsp;?</p></blockquote>\n\n<p>Deux courbes peuvent être toutes deux croissantes et se comporter de manière opposée&nbsp;: l'une accélère, l'autre s'essouffle. La dérivée première ne distingue pas ces deux cas, puisqu'elle est positive dans les deux. Il faut monter d'un étage&nbsp;: étudier la variation de la <em>pente</em> elle-même. C'est ce que fait la <strong>dérivée seconde</strong>, et c'est ce qui donne la notion de <strong>convexité</strong> — celle qui permet de dire qu'une épidémie ralentit alors même que le nombre de cas continue d'augmenter.</p>\n\n<h2>1 · Dérivées&nbsp;: rappels et compléments</h2>\n\n<p>Le <strong>nombre dérivé</strong> de f en a est le coefficient directeur de la tangente à la courbe au point d'abscisse a. Il s'obtient comme limite du taux d'accroissement&nbsp;: la pente des sécantes lorsque le second point se rapproche du premier.</p>\n\n<p><strong>Équation de la tangente</strong> au point d'abscisse a&nbsp;:</p>\n\n<p>y = f&nbsp;′(a)(x − a) + f(a)</p>\n\n<p>Deux erreurs guettent&nbsp;: écrire x au lieu de (x − a), et oublier le terme f(a).</p>\n\n<h3>Dérivée d'une composée</h3>\n\n<p>Si u est dérivable et g dérivable sur l'intervalle image&nbsp;:</p>\n\n<p>(g ∘ u)&nbsp;′ = u&nbsp;′ × (g&nbsp;′ ∘ u), c'est-à-dire u&nbsp;′(x) × g&nbsp;′(u(x)).</p>\n\n<p><b>L'argument de g&nbsp;′ est u(x), pas x</b> — c'est l'erreur la plus fréquente. Toutes les formules qui suivent en découlent.</p>\n\n<table>\n  <tr><th>Fonction</th><th>Dérivée</th><th>Condition</th></tr>\n  <tr><td>u<sup>n</sup></td><td>n u&nbsp;′ u<sup>n−1</sup></td><td>n entier ≥ 1</td></tr>\n  <tr><td>e<sup>u</sup></td><td>u&nbsp;′ e<sup>u</sup></td><td>—</td></tr>\n  <tr><td>ln(u)</td><td>u&nbsp;′ / u</td><td>u &gt; 0</td></tr>\n  <tr><td>√u</td><td>u&nbsp;′ / (2√u)</td><td>u &gt; 0 strictement</td></tr>\n  <tr><td>u / v</td><td>(u&nbsp;′v − uv&nbsp;′) / v²</td><td>v ne s'annule pas</td></tr>\n</table>\n\n<p>Deux remarques importantes. Pour √u, la stricte positivité est indispensable&nbsp;: là où u s'annule, la fonction peut rester définie sans être dérivable. Pour le quotient, l'<strong>ordre des termes au numérateur</strong> est décisif&nbsp;— l'intervertir donne l'opposé, donc un signe faux dans tout le tableau de variations.</p>\n\n<h2>2 · La dérivée seconde</h2>\n\n<p>La <strong>dérivée seconde</strong> f&nbsp;″ est la dérivée de f&nbsp;′. Elle mesure la variation de la pente, donc la manière dont la courbe se <em>courbe</em>.</p>\n\n<p>Le va-et-vient entre les étages est la clé du chapitre&nbsp;: <strong>ce que f&nbsp;′ est à f, f&nbsp;″ l'est à f&nbsp;′.</strong> Étudier le signe de f&nbsp;″, c'est dresser le tableau de variations de f&nbsp;′.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Schéma des trois étages d'information d'une fonction : le signe de f donne la position par rapport à l'axe des abscisses, le signe de f prime donne les variations, le signe de f seconde donne la convexité et les points d'inflexion ; les trois lectures sont indépendantes\">\n    <defs>\n      <marker id=\"ar-msdc1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n    <rect x=\"8\" y=\"18\" width=\"90\" height=\"34\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"53\" y=\"39\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">signe de f</text>\n    <text x=\"112\" y=\"39\" font-size=\"9\" fill=\"currentColor\">position / axe des abscisses</text>\n    <path d=\"M53,52 L53,68\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-msdc1)\"/>\n    <text x=\"62\" y=\"66\" font-size=\"8\" class=\"s-muted\">on dérive</text>\n    <rect x=\"8\" y=\"72\" width=\"90\" height=\"34\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"53\" y=\"93\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">signe de f ′</text>\n    <text x=\"112\" y=\"93\" font-size=\"9\" fill=\"currentColor\">sens de variation</text>\n    <path d=\"M53,106 L53,122\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-msdc1)\"/>\n    <text x=\"62\" y=\"120\" font-size=\"8\" class=\"s-muted\">on dérive</text>\n    <rect x=\"8\" y=\"126\" width=\"90\" height=\"34\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"53\" y=\"147\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">signe de f ″</text>\n    <text x=\"112\" y=\"143\" font-size=\"9\" fill=\"currentColor\">convexité</text>\n    <text x=\"112\" y=\"155\" font-size=\"9\" fill=\"currentColor\">points d'inflexion</text>\n  </svg>\n  <figcaption>Trois lectures indépendantes&nbsp;: aucune ne se déduit des autres. Confondre les étages est la source de la plupart des erreurs.</figcaption>\n</figure>\n\n<h2>3 · Convexité et concavité</h2>\n\n<h3>Deux définitions géométriques équivalentes</h3>\n\n<p>Une fonction est <strong>convexe</strong> sur un intervalle lorsque&nbsp;:</p>\n\n<ul>\n  <li>sa courbe est <strong>au-dessus de chacune de ses tangentes</strong>&nbsp;;</li>\n  <li>tout segment reliant deux points de la courbe (une <em>corde</em>) est <strong>au-dessus</strong> de la courbe.</li>\n</ul>\n\n<p>Les deux formulations servent dans des contextes différents&nbsp;: la position par rapport aux tangentes fournit des inégalités, la position des cordes intervient en probabilités et en économie. Elle est <strong>concave</strong> lorsque les positions sont inversées.</p>\n\n<h3>Le critère opératoire</h3>\n\n<p>Pour f deux fois dérivable sur un intervalle I&nbsp;:</p>\n\n<p><strong>f convexe sur I&nbsp;⟺&nbsp;f&nbsp;″ ≥ 0 sur I&nbsp;⟺&nbsp;f&nbsp;′ croissante sur I.</strong></p>\n\n<p>La troisième formulation dit tout&nbsp;: <em>la pente des tangentes augmente</em>. L'étude de la convexité devient alors aussi mécanique qu'une étude de variations, appliquée un cran plus haut.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 185\" role=\"img\" aria-label=\"Comparaison entre une fonction convexe et une fonction concave : à gauche la courbe convexe est au-dessus de sa tangente et sa corde est au-dessus de la courbe ; à droite la courbe concave est en dessous de sa tangente et sa corde est en dessous de la courbe\">\n    <text x=\"8\" y=\"14\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Convexe — f ″ ≥ 0</text>\n    <path d=\"M16,30 C50,110 90,128 152,132\" stroke=\"var(--accent)\" stroke-width=\"2\" fill=\"none\"/>\n    <line x1=\"30\" y1=\"132\" x2=\"150\" y2=\"72\" stroke=\"var(--accent)\" stroke-opacity=\".55\" stroke-dasharray=\"4 3\"/>\n    <text x=\"94\" y=\"66\" font-size=\"8\" class=\"s-muted\">corde au-dessus</text>\n    <line x1=\"46\" y1=\"146\" x2=\"152\" y2=\"106\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"16\" y=\"160\" font-size=\"8\" class=\"s-muted\">tangente en dessous</text>\n    <text x=\"192\" y=\"14\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Concave — f ″ ≤ 0</text>\n    <path d=\"M196,132 C250,128 296,110 328,30\" stroke=\"var(--accent)\" stroke-width=\"2\" fill=\"none\"/>\n    <line x1=\"200\" y1=\"130\" x2=\"320\" y2=\"66\" stroke=\"var(--accent)\" stroke-opacity=\".55\" stroke-dasharray=\"4 3\"/>\n    <text x=\"216\" y=\"82\" font-size=\"8\" class=\"s-muted\">corde en dessous</text>\n    <line x1=\"196\" y1=\"112\" x2=\"300\" y2=\"72\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"240\" y=\"160\" font-size=\"8\" class=\"s-muted\">tangente au-dessus</text>\n    <line x1=\"8\" y1=\"168\" x2=\"332\" y2=\"168\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"170\" y=\"182\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">les deux courbes dessinées ici sont croissantes</text>\n  </svg>\n  <figcaption>Les deux courbes de cette figure sont croissantes&nbsp;: la convexité ne se lit pas sur le sens de variation.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Convexité et monotonie sont indépendantes</strong><br>\n  La fonction carré est convexe et pourtant décroissante puis croissante. e<sup>−x</sup> est convexe et strictement décroissante. ln est concave et strictement croissante. La convexité porte sur f&nbsp;″, la monotonie sur f&nbsp;′&nbsp;: <em>deux étages différents</em>.\n</div>\n\n<h2>4 · Points d'inflexion</h2>\n\n<p>Un <strong>point d'inflexion</strong> est un point où la courbe <strong>change de convexité</strong>&nbsp;: elle passe de convexe à concave, ou l'inverse. En un tel point, la courbe <em>traverse sa propre tangente</em> — c'est le seul endroit où la tangente passe d'un côté à l'autre.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Comparaison entre un vrai point d'inflexion et un faux : à gauche la dérivée seconde change de signe et la courbe traverse sa tangente ; à droite pour la fonction x puissance quatre la dérivée seconde s'annule sans changer de signe et la courbe reste convexe des deux côtés\">\n    <text x=\"8\" y=\"14\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Vrai point d'inflexion</text>\n    <path d=\"M16,132 C50,120 62,60 84,68 C106,76 124,34 152,26\" stroke=\"var(--accent)\" stroke-width=\"2\" fill=\"none\"/>\n    <line x1=\"46\" y1=\"102\" x2=\"126\" y2=\"46\" stroke=\"var(--accent)\" stroke-opacity=\".45\" stroke-dasharray=\"4 3\"/>\n    <circle cx=\"86\" cy=\"74\" r=\"4\" fill=\"var(--accent)\"/>\n    <text x=\"8\" y=\"152\" font-size=\"9\" class=\"s-muted\">f ″ change de signe</text>\n    <text x=\"8\" y=\"166\" font-size=\"9\" class=\"s-muted\">la courbe traverse la tangente</text>\n    <text x=\"192\" y=\"14\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Faux — x⁴ en 0</text>\n    <path d=\"M198,30 C232,120 250,132 264,132 C278,132 296,120 330,30\" stroke=\"var(--accent)\" stroke-width=\"2\" fill=\"none\"/>\n    <line x1=\"222\" y1=\"132\" x2=\"306\" y2=\"132\" stroke=\"var(--accent)\" stroke-opacity=\".45\" stroke-dasharray=\"4 3\"/>\n    <circle cx=\"264\" cy=\"132\" r=\"4\" fill=\"var(--accent)\"/>\n    <text x=\"192\" y=\"152\" font-size=\"9\" class=\"s-muted\">f ″ s'annule sans changer de signe</text>\n    <text x=\"192\" y=\"166\" font-size=\"9\" class=\"s-muted\">la courbe reste convexe des deux côtés</text>\n    <line x1=\"8\" y1=\"176\" x2=\"332\" y2=\"176\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"170\" y=\"188\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">l'annulation de f ″ ne suffit jamais</text>\n  </svg>\n  <figcaption>Pour x⁴, f&nbsp;″(x) = 12x² s'annule en 0 en restant positive&nbsp;: pas de point d'inflexion.</figcaption>\n</figure>\n\n<p><b>Rédaction attendue&nbsp;:</b> un <strong>tableau de signes de f&nbsp;″</strong>. Résoudre l'équation f&nbsp;″(x) = 0 ne suffit jamais&nbsp;— c'est le <em>changement de signe</em> qui caractérise l'inflexion. Le tableau donne en prime les intervalles de convexité et de concavité.</p>\n\n<p>Remarque parallèle sur la dérivée première&nbsp;: une <strong>tangente horizontale</strong> ne signale pas nécessairement un extremum. La fonction cube a une dérivée nulle en 0 tout en étant strictement croissante partout — c'est un point d'inflexion à tangente horizontale.</p>\n\n<h2>5 · Applications</h2>\n\n<h3>Démontrer une inégalité</h3>\n\n<p>Puisqu'une courbe convexe est au-dessus de ses tangentes, il suffit d'écrire l'équation d'une tangente bien choisie.</p>\n\n<p><b>Exemple.</b> La dérivée seconde de e<sup>x</sup> est e<sup>x</sup>, strictement positive&nbsp;: l'exponentielle est convexe sur ℝ. Sa tangente en 0 a pour équation y = x + 1. Donc <strong>e<sup>x</sup> ≥ x + 1 pour tout réel x</strong>.</p>\n\n<h3>Interpréter un phénomène</h3>\n\n<p>Quand la vitesse de croissance d'une grandeur commence à ralentir, la courbe passe de <em>convexe</em> à <em>concave</em>&nbsp;: le point de retournement est un point d'inflexion. La grandeur continue d'augmenter, mais son accroissement diminue — c'est exactement ce qu'on cherche à repérer dans l'étude d'une épidémie ou d'une diffusion.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>La démarche d'une étude complète</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Frise méthodique d'une étude de fonction avec convexité : déterminer l'ensemble de définition et les limites, calculer la dérivée première et son signe pour les variations, calculer la dérivée seconde et son signe pour la convexité, repérer les changements de signe pour les points d'inflexion, puis conclure sur la position par rapport aux tangentes\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"186\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">1. Cadrer</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Ensemble de définition, limites</text>\n    <circle cx=\"26\" cy=\"62\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"59\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">2. Dériver</text>\n    <text x=\"44\" y=\"72\" font-size=\"10\" fill=\"currentColor\">Signe de f ′ → variations</text>\n    <circle cx=\"26\" cy=\"104\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"101\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">3. Dériver encore</text>\n    <text x=\"44\" y=\"114\" font-size=\"10\" fill=\"currentColor\">Signe de f ″ → convexité</text>\n    <circle cx=\"26\" cy=\"146\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"143\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">4. Repérer</text>\n    <text x=\"44\" y=\"156\" font-size=\"10\" fill=\"currentColor\">Changements de signe de f ″</text>\n    <circle cx=\"26\" cy=\"184\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"181\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">5. Conclure</text>\n    <text x=\"44\" y=\"194\" font-size=\"10\" fill=\"currentColor\">Position / tangentes, inégalités</text>\n  </svg>\n  <figcaption>Deux tableaux distincts pour deux questions distinctes&nbsp;: on ne déduit jamais l'un de l'autre.</figcaption>\n</figure>\n\n<h3>Dérivées à connaître</h3>\n\n<table>\n  <tr><th>Fonction</th><th>Dérivée</th></tr>\n  <tr><td>g ∘ u</td><td>u&nbsp;′ × (g&nbsp;′ ∘ u)</td></tr>\n  <tr><td>u<sup>n</sup></td><td>n u&nbsp;′ u<sup>n−1</sup></td></tr>\n  <tr><td>e<sup>u</sup></td><td>u&nbsp;′ e<sup>u</sup></td></tr>\n  <tr><td>ln(u)</td><td>u&nbsp;′ / u, avec u &gt; 0</td></tr>\n  <tr><td>√u</td><td>u&nbsp;′ / (2√u), avec u &gt; 0</td></tr>\n  <tr><td>u / v</td><td>(u&nbsp;′v − uv&nbsp;′) / v²</td></tr>\n</table>\n\n<h3>Équivalences de la convexité</h3>\n\n<table>\n  <tr><th>Propriété</th><th>Convexe</th><th>Concave</th></tr>\n  <tr><td>Dérivée seconde</td><td>f&nbsp;″ ≥ 0</td><td>f&nbsp;″ ≤ 0</td></tr>\n  <tr><td>Dérivée première</td><td>f&nbsp;′ croissante</td><td>f&nbsp;′ décroissante</td></tr>\n  <tr><td>Tangentes</td><td>Courbe au-dessus</td><td>Courbe en dessous</td></tr>\n  <tr><td>Cordes</td><td>Corde au-dessus</td><td>Corde en dessous</td></tr>\n  <tr><td>Exemple type</td><td>x², e<sup>x</sup></td><td>√x, ln x</td></tr>\n</table>\n\n<h3>Notions à distinguer</h3>\n\n<table>\n  <tr><th>Distinction</th><th>Ce qui se joue</th></tr>\n  <tr><td>Convexe / croissante</td><td>f&nbsp;″ contre f&nbsp;′ — indépendantes</td></tr>\n  <tr><td>f&nbsp;″ s'annule / change de signe</td><td>Seul le second donne une inflexion</td></tr>\n  <tr><td>Tangente horizontale / extremum</td><td>f&nbsp;′ peut s'annuler sans changer de signe</td></tr>\n  <tr><td>Position tangentes / cordes</td><td>Deux lectures de la même convexité</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Conclure à un point d'inflexion parce que <em>f&nbsp;″ s'annule</em>. Il faut un <strong>changement de signe</strong>&nbsp;: pour x⁴, f&nbsp;″(x) = 12x² s'annule en 0 en restant positive, et la courbe demeure convexe de part et d'autre. Trois erreurs voisines&nbsp;: croire qu'une fonction convexe est croissante&nbsp;; oublier le facteur u&nbsp;′ dans la dérivée d'une composée&nbsp;; intervertir les termes au numérateur de la dérivée d'un quotient.\n</div>\n\n<blockquote><p>La dérivée seconde ne dit pas où va la courbe&nbsp;: elle dit si le mouvement s'accélère ou s'épuise. C'est souvent l'information la plus utile — savoir qu'une hausse ralentit vaut mieux que constater après coup qu'elle s'est arrêtée.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Spécialité Mathématiques — Analyse",
+  "cards": [
+    {
+      "recto": "Que représente géométriquement le nombre dérivé de f en a ?",
+      "verso": "Le coefficient directeur de la tangente à la courbe au point d'abscisse a",
+      "explanation": "Il s'obtient comme limite du taux d'accroissement, c'est-à-dire de la pente des sécantes lorsque le second point se rapproche du premier. C'est ce passage à la limite qui transforme une pente moyenne en pente instantanée.",
+      "tags": [
+        "dérivée",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "L'ordonnée du point d'abscisse a",
+          "L'aire sous la courbe jusqu'à a",
+          "La valeur de f en a"
+        ],
+        "medium": [
+          "Le coefficient directeur de la sécante entre a et a+1",
+          "L'ordonnée à l'origine de la tangente",
+          "La distance entre la courbe et l'axe des abscisses"
+        ],
+        "hard": [
+          "Le coefficient directeur de la normale à la courbe en a",
+          "La limite du taux d'accroissement de f prime en a",
+          "La pente moyenne de f sur l'intervalle contenant a"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est l'équation de la tangente à la courbe de f au point d'abscisse a ?",
+      "verso": "y = f prime de a multiplié par (x - a), plus f(a)",
+      "explanation": "La formule combine les deux informations disponibles au point : la pente donnée par le nombre dérivé, et le passage par le point de coordonnées (a ; f(a)). Une erreur fréquente consiste à écrire (x - a) là où il faudrait x, ou à oublier le terme f(a).",
+      "tags": [
+        "tangente",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "y = f(a) multiplié par x",
+          "y = f prime de a multiplié par x",
+          "y = a multiplié par x plus f(a)"
+        ],
+        "medium": [
+          "y = f prime de a multiplié par (x + a), plus f(a)",
+          "y = f prime de a multiplié par (x - a), moins f(a)",
+          "y = f(a) multiplié par (x - a), plus f prime de a"
+        ],
+        "hard": [
+          "y = f prime de x multiplié par (x - a), plus f(a)",
+          "y = f prime de a multiplié par x, plus f prime de a",
+          "y = f prime de a multiplié par (a - x), plus f(a)"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la dérivée de la composée g rond u, où u est dérivable ?",
+      "verso": "u prime multiplié par g prime composée avec u, c'est-à-dire u prime de x multiplié par g prime de u(x)",
+      "explanation": "L'ordre des facteurs importe peu, mais l'argument de g prime est u(x) et non x : c'est l'erreur la plus fréquente. Toutes les dérivées composées du programme se déduisent de cette formule.",
+      "tags": [
+        "composée",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "g prime multiplié par u prime, sans composition",
+          "La somme des deux dérivées",
+          "Le produit des deux fonctions dérivées en x"
+        ],
+        "medium": [
+          "g prime de x multiplié par u prime de x",
+          "u de x multiplié par g prime de u prime de x",
+          "g de u prime de x"
+        ],
+        "hard": [
+          "u prime de u(x) multiplié par g prime de x",
+          "g prime de u(x) sans le facteur u prime",
+          "u prime de x multiplié par g de u(x)"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la dérivée de l'exponentielle de u, où u est une fonction dérivable ?",
+      "verso": "u prime multiplié par l'exponentielle de u",
+      "explanation": "L'exponentielle est sa propre dérivée, il ne reste donc que le facteur u prime. Comme l'exponentielle est strictement positive, le signe de cette dérivée est exactement celui de u prime.",
+      "tags": [
+        "composée",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "L'exponentielle de u prime",
+          "L'exponentielle de u",
+          "u multiplié par l'exponentielle de u"
+        ],
+        "medium": [
+          "u prime multiplié par l'exponentielle de u prime",
+          "L'exponentielle de u divisée par u prime",
+          "u prime plus l'exponentielle de u"
+        ],
+        "hard": [
+          "u prime multiplié par u multiplié par l'exponentielle de u",
+          "L'exponentielle de u multipliée par u prime de u",
+          "u seconde multipliée par l'exponentielle de u"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la dérivée de la racine carrée de u, et sur quel ensemble ?",
+      "verso": "u prime divisé par deux fois la racine carrée de u, sur l'ensemble où u est strictement positive",
+      "explanation": "La condition de stricte positivité est indispensable : là où u s'annule, la fonction racine carrée de u peut rester définie sans être dérivable. Oublier cette restriction est une faute classique dans les études de fonction.",
+      "tags": [
+        "composée",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "La racine carrée de u prime",
+          "Un divisé par deux fois la racine de u",
+          "u prime divisé par la racine de u"
+        ],
+        "medium": [
+          "u prime divisé par deux fois la racine de u, sur l'ensemble où u est positive ou nulle",
+          "Deux fois u prime multiplié par la racine de u",
+          "u prime multiplié par deux fois la racine de u"
+        ],
+        "hard": [
+          "u prime divisé par deux fois la racine de u prime",
+          "u prime divisé par quatre fois la racine de u",
+          "u prime divisé par deux fois u"
+        ]
+      }
+    },
+    {
+      "recto": "Comment obtient-on la dérivée seconde d'une fonction ?",
+      "verso": "En dérivant la fonction dérivée : la dérivée seconde est la dérivée de f prime",
+      "explanation": "Elle mesure la variation de la pente, donc la manière dont la courbe se courbe. C'est précisément cette lecture qui donne son sens à la notion de convexité.",
+      "tags": [
+        "dérivée seconde",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "En multipliant la dérivée par elle-même",
+          "En dérivant deux fois plus vite",
+          "En prenant le carré de la dérivée"
+        ],
+        "medium": [
+          "En dérivant la fonction f deux fois de suite au même point",
+          "En intégrant la dérivée première",
+          "En calculant la dérivée de f puis en la divisant par deux"
+        ],
+        "hard": [
+          "En dérivant f par rapport à sa dérivée",
+          "En prenant la limite du taux d'accroissement de f",
+          "En composant f prime avec elle-même"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle définition géométrique donne-t-on d'une fonction convexe ?",
+      "verso": "Sa courbe est située au-dessus de chacune de ses tangentes, et tout segment reliant deux points de la courbe est au-dessus de la courbe",
+      "explanation": "Les deux formulations sont équivalentes et servent dans des contextes différents : la position par rapport aux tangentes donne des inégalités, la position des cordes intervient en probabilités et en économie.",
+      "tags": [
+        "convexité",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Sa courbe est croissante",
+          "Sa courbe est en forme de cloche",
+          "Sa courbe est au-dessus de l'axe des abscisses"
+        ],
+        "medium": [
+          "Sa courbe est en dessous de ses tangentes",
+          "Sa courbe est croissante puis décroissante",
+          "Les cordes sont en dessous de la courbe"
+        ],
+        "hard": [
+          "Sa courbe est au-dessus de ses tangentes et les cordes sont en dessous",
+          "Sa courbe est au-dessus de ses sécantes uniquement",
+          "Sa dérivée est positive sur l'intervalle"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle caractérisation de la convexité utilise-t-on en pratique ?",
+      "verso": "Une fonction deux fois dérivable est convexe sur un intervalle si et seulement si sa dérivée seconde y est positive ou nulle",
+      "explanation": "Une formulation équivalente dit que f prime est croissante : la pente des tangentes augmente. C'est ce critère qui rend l'étude de la convexité aussi mécanique qu'une étude de variations, appliquée un cran plus haut.",
+      "tags": [
+        "convexité",
+        "critère"
+      ],
+      "distractors": {
+        "easy": [
+          "La dérivée première est positive",
+          "La fonction est positive",
+          "La fonction est croissante"
+        ],
+        "medium": [
+          "La dérivée seconde est strictement positive sans exception",
+          "La dérivée première est décroissante",
+          "La dérivée seconde est négative"
+        ],
+        "hard": [
+          "La dérivée seconde s'annule au moins une fois",
+          "La dérivée première est positive et croissante",
+          "La dérivée seconde est monotone sur l'intervalle"
+        ]
+      }
+    },
+    {
+      "recto": "Ne pas confondre : une fonction convexe est-elle nécessairement croissante ?",
+      "verso": "Non : convexité et monotonie sont deux propriétés indépendantes, la fonction carré étant convexe tout en étant décroissante puis croissante",
+      "explanation": "La convexité porte sur la dérivée seconde, la monotonie sur la dérivée première : ce sont deux étages différents de l'étude. Une fonction peut être convexe et décroissante, comme l'exponentielle de moins x, ou concave et croissante, comme le logarithme népérien.",
+      "tags": [
+        "comparaison",
+        "convexité"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, toujours",
+          "Oui, si elle est positive",
+          "Non, elle est nécessairement décroissante"
+        ],
+        "medium": [
+          "Oui, car la dérivée seconde positive entraîne la dérivée première positive",
+          "Oui, sauf pour les fonctions polynômes",
+          "Non, mais elle est croissante à partir d'un certain point"
+        ],
+        "hard": [
+          "Oui, car f prime croissante finit toujours par être positive",
+          "Non, mais convexité et croissance coïncident sur un intervalle borné",
+          "Oui, car la convexité impose la monotonie de f"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un point d'inflexion ?",
+      "verso": "Un point où la courbe change de convexité, passant de convexe à concave ou l'inverse",
+      "explanation": "En un tel point, la courbe traverse sa propre tangente, ce qui donne un critère graphique immédiat. C'est le seul endroit d'une courbe où la tangente passe d'un côté à l'autre.",
+      "tags": [
+        "inflexion",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Un point où la courbe change de sens de variation",
+          "Un point où la courbe coupe l'axe des abscisses",
+          "Un point où la fonction atteint son maximum"
+        ],
+        "medium": [
+          "Un point où la dérivée s'annule",
+          "Un point où la tangente est horizontale",
+          "Un point où la fonction n'est pas dérivable"
+        ],
+        "hard": [
+          "Un point où la dérivée seconde s'annule, sans autre condition",
+          "Un point où la courbe est tangente à l'axe des abscisses",
+          "Un point où la convexité atteint son maximum"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : suffit-il que la dérivée seconde s'annule en a pour qu'il y ait un point d'inflexion ?",
+      "verso": "Non : il faut que la dérivée seconde change de signe en a, et non simplement qu'elle s'annule",
+      "explanation": "C'est l'erreur la plus sanctionnée du chapitre. Pour la fonction x puissance quatre, la dérivée seconde s'annule en zéro sans changer de signe : la fonction reste convexe de part et d'autre, il n'y a pas de point d'inflexion. La rédaction correcte exige donc un tableau de signes de la dérivée seconde, jamais la seule résolution de l'équation.",
+      "tags": [
+        "piege",
+        "inflexion"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, cela suffit toujours",
+          "Oui, si la fonction est continue",
+          "Non, il faut aussi que la dérivée première s'annule"
+        ],
+        "medium": [
+          "Oui, à condition que la fonction soit deux fois dérivable",
+          "Oui, sauf pour les fonctions polynômes de degré pair",
+          "Non, il faut que la dérivée seconde soit strictement positive"
+        ],
+        "hard": [
+          "Oui, car l'annulation de f seconde caractérise l'inflexion",
+          "Non, il faut que la dérivée seconde s'annule deux fois",
+          "Oui, dès que la tangente en a est horizontale"
+        ]
+      }
+    },
+    {
+      "recto": "Que peut-on dire de la position de la courbe par rapport à sa tangente lorsque f est convexe ?",
+      "verso": "La courbe est entièrement au-dessus de la tangente, sur tout l'intervalle où la convexité est établie",
+      "explanation": "Ce résultat fournit une méthode pour démontrer des inégalités : il suffit d'écrire l'équation de la tangente et d'affirmer la position. C'est ainsi qu'on établit que l'exponentielle de x est supérieure ou égale à x plus un.",
+      "tags": [
+        "position",
+        "propriété"
+      ],
+      "distractors": {
+        "easy": [
+          "La courbe est en dessous de la tangente",
+          "La courbe coupe la tangente en deux points",
+          "La courbe est confondue avec la tangente"
+        ],
+        "medium": [
+          "La courbe est au-dessus de la tangente uniquement à droite du point de contact",
+          "La courbe est au-dessus de la tangente si la fonction est croissante",
+          "La courbe traverse la tangente au point de contact"
+        ],
+        "hard": [
+          "La courbe est au-dessus de la tangente sauf aux points où f seconde s'annule",
+          "La courbe est au-dessus de ses cordes et en dessous de ses tangentes",
+          "La position dépend du signe de la dérivée première"
+        ]
+      }
+    },
+    {
+      "recto": "Comment démontre-t-on que l'exponentielle de x est supérieure ou égale à x plus un pour tout réel x ?",
+      "verso": "En observant que l'exponentielle est convexe et que la droite d'équation y = x + 1 est sa tangente au point d'abscisse zéro",
+      "explanation": "La dérivée seconde de l'exponentielle est l'exponentielle elle-même, strictement positive : la fonction est convexe sur tous les réels. Sa courbe est donc au-dessus de chacune de ses tangentes, en particulier de celle-là.",
+      "tags": [
+        "inégalité",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En testant plusieurs valeurs de x",
+          "En traçant les deux courbes",
+          "En dérivant l'inégalité"
+        ],
+        "medium": [
+          "En utilisant la croissance de l'exponentielle",
+          "En appliquant le théorème des valeurs intermédiaires",
+          "En montrant que la différence est décroissante"
+        ],
+        "hard": [
+          "En observant que l'exponentielle est concave et sa tangente en zéro",
+          "En utilisant que la corde entre zéro et un est au-dessus de la courbe",
+          "En appliquant la convexité du logarithme népérien"
+        ]
+      }
+    },
+    {
+      "recto": "Que dit la convexité sur la position des cordes ?",
+      "verso": "Pour une fonction convexe, tout segment joignant deux points de la courbe est situé au-dessus de la portion de courbe correspondante",
+      "explanation": "Cette formulation ne suppose pas la dérivabilité, ce qui la rend plus générale que la caractérisation par la dérivée seconde. Elle se traduit par l'inégalité qui compare l'image d'une moyenne à la moyenne des images.",
+      "tags": [
+        "convexité",
+        "cordes"
+      ],
+      "distractors": {
+        "easy": [
+          "Les cordes sont en dessous de la courbe",
+          "Les cordes sont tangentes à la courbe",
+          "Les cordes coupent la courbe en trois points"
+        ],
+        "medium": [
+          "Les cordes sont parallèles aux tangentes",
+          "Les cordes sont au-dessus des tangentes uniquement",
+          "Les cordes sont horizontales"
+        ],
+        "hard": [
+          "Les cordes sont au-dessus de la courbe pour les fonctions concaves",
+          "Les cordes sont au-dessus de la courbe si f prime est positive",
+          "Les cordes ont la même position que les tangentes"
+        ]
+      }
+    },
+    {
+      "recto": "Une fonction concave a-t-elle une dérivée seconde positive ou négative ?",
+      "verso": "Négative ou nulle : la concavité correspond à une dérivée première décroissante",
+      "explanation": "La courbe est alors en dessous de ses tangentes et au-dessus de ses cordes. Le logarithme népérien est l'exemple de référence : concave sur les réels strictement positifs, il est pourtant strictement croissant.",
+      "tags": [
+        "concavité",
+        "critère"
+      ],
+      "distractors": {
+        "easy": [
+          "Positive",
+          "Nulle partout",
+          "Elle n'a pas de dérivée seconde"
+        ],
+        "medium": [
+          "Positive si la fonction est croissante",
+          "Négative uniquement aux points d'inflexion",
+          "De signe variable"
+        ],
+        "hard": [
+          "Négative et strictement décroissante",
+          "Positive puis négative sur tout intervalle",
+          "Nulle aux extrémités de l'intervalle"
+        ]
+      }
+    },
+    {
+      "recto": "Comment s'organise une étude complète de fonction faisant intervenir la convexité ?",
+      "verso": "On étudie d'abord le signe de la dérivée première pour les variations, puis le signe de la dérivée seconde pour la convexité et les points d'inflexion",
+      "explanation": "Les deux tableaux répondent à deux questions distinctes et ne se déduisent pas l'un de l'autre. Une courbe peut très bien être croissante sur un intervalle où elle change de convexité.",
+      "tags": [
+        "méthode",
+        "étude"
+      ],
+      "distractors": {
+        "easy": [
+          "On trace la courbe puis on lit les résultats",
+          "On calcule quelques images",
+          "On étudie uniquement la dérivée seconde"
+        ],
+        "medium": [
+          "On déduit la convexité du sens de variation",
+          "On étudie la dérivée seconde puis la dérivée première, dans cet ordre",
+          "On étudie le signe de la fonction avant celui des dérivées"
+        ],
+        "hard": [
+          "On déduit les variations du signe de la dérivée seconde",
+          "On combine les deux tableaux en un seul, les résultats étant liés",
+          "On étudie la dérivée seconde uniquement aux points où f prime s'annule"
+        ]
+      }
+    },
+    {
+      "recto": "Que signifie le fait que la vitesse de croissance d'un phénomène commence à ralentir, en termes de convexité ?",
+      "verso": "La courbe passe de convexe à concave : le point de retournement est un point d'inflexion",
+      "explanation": "C'est l'interprétation qui donne son intérêt concret à la notion, par exemple dans l'étude d'une épidémie ou d'une diffusion. La grandeur continue d'augmenter, mais son accroissement diminue.",
+      "tags": [
+        "interprétation",
+        "application"
+      ],
+      "distractors": {
+        "easy": [
+          "La courbe atteint son maximum",
+          "La courbe devient décroissante",
+          "La courbe coupe l'axe des abscisses"
+        ],
+        "medium": [
+          "La dérivée première change de signe",
+          "La courbe passe de concave à convexe",
+          "La fonction atteint un extremum local"
+        ],
+        "hard": [
+          "La dérivée seconde atteint son maximum",
+          "La courbe devient constante à partir de ce point",
+          "La grandeur commence à diminuer"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la dérivée du logarithme népérien composé avec u ?",
+      "verso": "u prime divisé par u, sur l'ensemble où u est strictement positive",
+      "explanation": "La condition de stricte positivité vient du domaine de définition du logarithme. Cette dérivée est particulièrement utile lorsque u est un polynôme, le quotient obtenu étant souvent simple à étudier.",
+      "tags": [
+        "composée",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "Un divisé par u",
+          "Le logarithme de u prime",
+          "u divisé par u prime"
+        ],
+        "medium": [
+          "u prime divisé par u, sur l'ensemble où u est positive ou nulle",
+          "u prime multiplié par le logarithme de u",
+          "Un divisé par u prime"
+        ],
+        "hard": [
+          "u prime divisé par u prime de u",
+          "Le logarithme de u multiplié par u prime",
+          "u prime divisé par u, valable pour tout réel"
+        ]
+      }
+    },
+    {
+      "recto": "Comment dérive-t-on u puissance n, où n est un entier naturel non nul ?",
+      "verso": "n multiplié par u prime, multiplié par u puissance (n - 1)",
+      "explanation": "C'est un cas particulier de la dérivée d'une composée avec la fonction puissance. L'erreur fréquente consiste à oublier le facteur u prime, qui disparaît seulement quand u est la fonction identité.",
+      "tags": [
+        "composée",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "n multiplié par u puissance (n - 1)",
+          "u prime puissance n",
+          "n multiplié par u prime"
+        ],
+        "medium": [
+          "n multiplié par u prime puissance (n - 1)",
+          "u prime multiplié par u puissance n",
+          "(n - 1) multiplié par u prime multiplié par u puissance n"
+        ],
+        "hard": [
+          "n multiplié par u prime multiplié par u puissance (n + 1)",
+          "n multiplié par u multiplié par u prime puissance (n - 1)",
+          "u prime multiplié par n puissance (n - 1)"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi une tangente horizontale ne signale-t-elle pas nécessairement un extremum ?",
+      "verso": "Parce que la dérivée peut s'annuler sans changer de signe, la fonction restant alors monotone au voisinage du point",
+      "explanation": "La fonction cube en fournit l'exemple : sa dérivée s'annule en zéro alors que la fonction est strictement croissante partout. Ce point est d'ailleurs un point d'inflexion à tangente horizontale.",
+      "tags": [
+        "extremum",
+        "piège"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que la tangente peut être verticale",
+          "Parce que la fonction n'est pas continue",
+          "Parce que la courbe n'a pas de tangente en ce point"
+        ],
+        "medium": [
+          "Parce que la dérivée seconde peut être nulle",
+          "Parce que l'extremum peut se situer ailleurs",
+          "Parce qu'une tangente horizontale indique toujours un point d'inflexion"
+        ],
+        "hard": [
+          "Parce que la dérivée change nécessairement de signe en s'annulant",
+          "Parce que la fonction cesse d'être dérivable au point d'annulation",
+          "Parce que la tangente horizontale caractérise la convexité"
+        ]
+      }
+    },
+    {
+      "recto": "Comment le signe de la dérivée seconde permet-il de retrouver le sens de variation de la dérivée première ?",
+      "verso": "Une dérivée seconde positive signifie que la dérivée première est croissante, donc que la pente des tangentes augmente",
+      "explanation": "Ce va-et-vient entre les deux étages est la clé du chapitre : ce que f prime est à f, f seconde l'est à f prime. Faire un tableau de variations de f prime revient exactement à étudier la convexité de f.",
+      "tags": [
+        "dérivée seconde",
+        "lien"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle donne directement le sens de variation de f",
+          "Elle indique le signe de f",
+          "Elle n'a aucun lien avec la dérivée première"
+        ],
+        "medium": [
+          "Une dérivée seconde positive signifie que f est croissante",
+          "Une dérivée seconde positive signifie que f prime est positive",
+          "Une dérivée seconde négative signifie que f est décroissante"
+        ],
+        "hard": [
+          "Une dérivée seconde positive signifie que f prime est décroissante",
+          "Une dérivée seconde positive rend f prime positive à partir d'un rang",
+          "Le signe de f seconde détermine celui de f et de f prime simultanément"
+        ]
+      }
+    },
+    {
+      "recto": "Quel bilan retenir sur les trois étages d'information d'une fonction ?",
+      "verso": "Le signe de f donne la position par rapport à l'axe des abscisses, celui de f prime les variations, celui de f seconde la convexité et les inflexions",
+      "explanation": "Ces trois lectures sont indépendantes : aucune ne se déduit des autres. Confondre les étages est la source de la plupart des erreurs, notamment celle qui consiste à déduire la convexité de la croissance.",
+      "tags": [
+        "synthèse",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Les trois signes donnent la même information",
+          "Seule la dérivée première est utile",
+          "La convexité se lit sur le signe de f"
+        ],
+        "medium": [
+          "Le signe de f prime donne la convexité et celui de f seconde les variations",
+          "Le signe de f seconde suffit à décrire toute la courbe",
+          "Les variations se déduisent de la convexité"
+        ],
+        "hard": [
+          "Le signe de f donne les variations, celui de f prime la convexité",
+          "Les trois étages se déduisent les uns des autres par intégration",
+          "Le signe de f seconde détermine celui de f prime sur tout intervalle"
+        ]
+      }
+    },
+    {
+      "recto": "Comment justifie-t-on rigoureusement l'existence d'un point d'inflexion dans une rédaction ?",
+      "verso": "En dressant un tableau de signes de la dérivée seconde qui montre un changement de signe au point considéré",
+      "explanation": "Résoudre l'équation f seconde égale zéro ne suffit jamais : c'est le changement de signe qui caractérise l'inflexion. Le tableau permet aussi de préciser les intervalles de convexité et de concavité.",
+      "tags": [
+        "méthode",
+        "rédaction"
+      ],
+      "distractors": {
+        "easy": [
+          "En traçant la courbe et en pointant le changement",
+          "En calculant f seconde en un point",
+          "En vérifiant que la tangente est horizontale"
+        ],
+        "medium": [
+          "En résolvant l'équation f seconde égale zéro",
+          "En montrant que f prime s'annule au point",
+          "En vérifiant que f change de sens de variation"
+        ],
+        "hard": [
+          "En montrant que f seconde s'annule et que f prime change de signe",
+          "En vérifiant que la dérivée seconde atteint un extremum",
+          "En établissant que la courbe est au-dessus de sa tangente au point"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la dérivée du quotient de deux fonctions u et v, avec v ne s'annulant pas ?",
+      "verso": "Le quotient de (u prime multiplié par v, moins u multiplié par v prime) par le carré de v",
+      "explanation": "L'ordre des termes au numérateur est crucial : intervertir donne l'opposé, donc un signe faux dans l'étude des variations. Le carré au dénominateur garantit que le signe de la dérivée ne dépend que du numérateur.",
+      "tags": [
+        "quotient",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "Le quotient de u prime par v prime",
+          "Le produit de u prime et v prime",
+          "u prime divisé par v au carré"
+        ],
+        "medium": [
+          "Le quotient de (u multiplié par v prime, moins u prime multiplié par v) par le carré de v",
+          "Le quotient de (u prime multiplié par v, plus u multiplié par v prime) par le carré de v",
+          "Le quotient de (u prime moins v prime) par v"
+        ],
+        "hard": [
+          "Le quotient de (u prime multiplié par v, moins u multiplié par v prime) par v",
+          "Le quotient de (u prime multiplié par v prime) par le carré de v",
+          "Le quotient de (u prime multiplié par v, moins u multiplié par v prime) par le cube de v"
+        ]
+      }
+    }
+  ]
+}

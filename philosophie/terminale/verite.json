@@ -1,0 +1,588 @@
+{
+  "id": "philosophie-terminale-verite",
+  "title": "La vérité",
+  "emoji": "🔎",
+  "subject": "philosophy",
+  "country": "fr",
+  "courseDescription": "Philosophie · Terminale — la vérité : définition et critères, opinion et savoir, scepticisme et relativisme, vérité et interprétation.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>La vérité</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale (voie générale et technologique)<br>\n  <b>Thème&nbsp;:</b> Philosophie — La raison et le réel<br>\n  <b>Notion</b> · environ 4 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> Peut-on renoncer à l'idée de vérité sans renoncer à discuter&nbsp;?</p></blockquote>\n\n<p>La vérité semble à la fois évidente et introuvable. Évidente, parce que chacun distingue spontanément dire ce qui est et dire ce qui n'est pas. Introuvable, parce que les théories changent, les cultures divergent, et que nul ne peut sortir de sa propre pensée pour comparer ce qu'il croit et ce qui est. De là deux tentations symétriques&nbsp;: <em>détenir</em> la vérité, ce qui ferme la discussion&nbsp;; ou y <em>renoncer</em>, ce qui la rend inutile. Le chapitre montre que la vérité vaut moins comme possession que comme <strong>exigence</strong> — ce qui permet de dire d'une théorie qu'elle a été corrigée à bon droit, et non simplement remplacée.</p>\n\n<h2>1 · Ce que veut dire «&nbsp;vrai&nbsp;»</h2>\n\n<p>La définition classique, dite de la <strong>correspondance</strong>, remonte à Aristote&nbsp;: est vrai l'énoncé qui <em>dit ce qui est</em>. Une conséquence en découle immédiatement&nbsp;: la vérité est une propriété des <strong>énoncés</strong>, non des choses. Une pierre n'est ni vraie ni fausse&nbsp;; elle est.</p>\n\n<p>C'est là qu'intervient la confusion la plus tenace du chapitre&nbsp;: <strong>vérité et réalité ne sont pas la même chose</strong>. La réalité est ce qui est&nbsp;; la vérité est une qualité de ce que l'on en dit. Quand on parle d'une «&nbsp;vraie amitié&nbsp;», le mot change de sens&nbsp;: il signifie <em>authentique</em>, non <em>conforme au réel</em>.</p>\n\n<div class=\"callout\">\n  <strong>Repère · Vrai / probable / certain</strong><br>\n  Le <em>certain</em> est psychologique&nbsp;: c'est un état du sujet. Le <em>vrai</em> est logique&nbsp;: c'est une propriété de l'énoncé. On peut être absolument certain d'une chose fausse, et douter d'une chose vraie. Faire de la conviction un critère de vérité rendrait toute discussion impossible.\n</div>\n\n<h3>Opinion et savoir</h3>\n\n<p>L'opinion peut être vraie <em>par hasard</em>&nbsp;; le savoir suppose qu'on puisse <strong>justifier</strong> ce que l'on affirme. Un élève qui devine juste ne sait pas pour autant. La différence n'est donc pas dans le contenu de l'énoncé mais dans la présence de raisons — c'est pourquoi Platon exige du savoir qu'il soit accompagné d'un compte rendu.</p>\n\n<h3>Erreur, illusion, mensonge</h3>\n\n<ul>\n  <li>L'<strong>erreur</strong> est un jugement mal formé&nbsp;: elle cesse dès qu'elle est reconnue.</li>\n  <li>L'<strong>illusion</strong> tient à notre constitution&nbsp;: le bâton plongé dans l'eau continue de paraître brisé quand on sait qu'il ne l'est pas. Elle persiste après qu'on l'a démasquée.</li>\n  <li>Le <strong>mensonge</strong> se définit par l'intention&nbsp;: celui qui se trompe croit dire vrai, celui qui ment dit sciemment le contraire de ce qu'il croit. Un menteur qui dit par accident quelque chose de vrai ment tout de même.</li>\n</ul>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Tableau schématique distinguant l'erreur, qui se corrige dès qu'elle est reconnue, l'illusion, qui persiste après qu'on l'a démasquée, et le mensonge, qui se définit par l'intention de tromper\">\n    <text x=\"170\" y=\"14\" text-anchor=\"middle\" font-size=\"10\" class=\"s-muted\">Trois manières de ne pas dire le vrai</text>\n    <rect x=\"6\" y=\"24\" width=\"102\" height=\"112\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"57\" y=\"46\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Erreur</text>\n    <text x=\"57\" y=\"68\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">un jugement<tspan x=\"57\" dy=\"12\">mal formé</tspan></text>\n    <text x=\"57\" y=\"102\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">cesse quand<tspan x=\"57\" dy=\"12\">on la reconnaît</tspan></text>\n    <rect x=\"119\" y=\"24\" width=\"102\" height=\"112\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"46\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Illusion</text>\n    <text x=\"170\" y=\"68\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">tient à notre<tspan x=\"170\" dy=\"12\">constitution</tspan></text>\n    <text x=\"170\" y=\"102\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">persiste même<tspan x=\"170\" dy=\"12\">démasquée</tspan></text>\n    <rect x=\"232\" y=\"24\" width=\"102\" height=\"112\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"283\" y=\"46\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Mensonge</text>\n    <text x=\"283\" y=\"68\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">tient à<tspan x=\"283\" dy=\"12\">l'intention</tspan></text>\n    <text x=\"283\" y=\"102\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">dire le contraire<tspan x=\"283\" dy=\"12\">de ce qu'on croit</tspan></text>\n    <text x=\"170\" y=\"162\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">seule l'erreur se corrige par le savoir seul</text>\n  </svg>\n  <figcaption>Trois régimes distincts&nbsp;: le savoir corrige l'erreur, il ne dissout pas l'illusion et ne touche pas au mensonge.</figcaption>\n</figure>\n\n<h2>2 · Les contestations</h2>\n\n<h3>Le relativisme&nbsp;: Protagoras</h3>\n\n<p>«&nbsp;L'homme est la mesure de toute chose&nbsp;»&nbsp;: ce qui apparaît à chacun est vrai pour lui. Le vent est froid pour celui qui a froid, chaud pour celui qui a chaud&nbsp;; il n'y aurait pas à trancher.</p>\n\n<p>L'objection est décisive et se formule en une phrase&nbsp;: la thèse <strong>se réfute elle-même</strong>. S'il est vrai que tout est relatif, cette affirmation-là vaut absolument. Le relativiste ne peut pas défendre sa position sans revendiquer pour elle le statut qu'il refuse à toutes les autres. Cela n'annule pas la diversité des points de vue&nbsp;; cela interdit d'en conclure qu'aucune position ne vaut mieux qu'une autre.</p>\n\n<h3>Le scepticisme</h3>\n\n<p>Position plus prudente&nbsp;: les arguments opposés se valent, donc il faut <strong>suspendre son jugement</strong>. Ce n'est pas affirmer l'ignorance — ce serait encore une affirmation —, c'est refuser de trancher, en vue de la tranquillité de l'âme.</p>\n\n<p>Descartes retournera cet outil&nbsp;: le <strong>doute méthodique</strong> suspend provisoirement l'assentiment pour <em>éprouver</em> les affirmations, et non pour conclure qu'on ne peut rien savoir. Le doute sceptique s'arrête à la suspension&nbsp;; le doute méthodique la traverse pour atteindre ce qui y résiste.</p>\n\n<h3>Nietzsche&nbsp;: nos vérités ont une histoire</h3>\n\n<p>Nietzsche reproche à la conception traditionnelle d'oublier que nos vérités sont des <strong>interprétations devenues familières</strong>&nbsp;— des métaphores dont on a oublié qu'elles en étaient. La critique ne supprime pas la distinction du vrai et du faux à l'intérieur d'un cadre donné&nbsp;: elle interroge la <em>valeur</em> que nous accordons à la volonté de vérité.</p>\n\n<p><b>Objection à connaître&nbsp;:</b> le fait que nos savoirs aient une histoire ne ruine pas la vérité — c'est même l'inverse. Reconnaître qu'une théorie a été <em>corrigée</em> suppose un critère permettant de dire qu'elle l'a été <strong>à bon droit</strong>. Sans idée de vérité, on ne pourrait pas dire qu'une théorie nouvelle est meilleure&nbsp;: seulement qu'elle est plus récente.</p>\n\n<h2>3 · Quels critères&nbsp;?</h2>\n\n<p>Puisque nul ne peut comparer directement sa pensée et le réel, il faut des <strong>critères</strong>. Chacun a sa force et sa limite.</p>\n\n<ul>\n  <li><strong>L'évidence</strong> (Descartes)&nbsp;: est vrai ce qui se présente à l'esprit si clairement et distinctement qu'on ne peut en douter. Force&nbsp;: elle fournit un point de départ indubitable. Limite&nbsp;: elle expose à prendre pour évident ce qui n'est qu'habituel.</li>\n  <li><strong>La cohérence</strong>&nbsp;: un énoncé s'accorde-t-il avec le reste du système&nbsp;? Force&nbsp;: elle détecte les contradictions. Limite&nbsp;: un système cohérent peut être entièrement faux.</li>\n  <li><strong>La confrontation aux faits</strong>&nbsp;: c'est le critère des sciences expérimentales. Limite&nbsp;: aucun fait ne se lit sans une théorie qui dit ce qu'il faut observer.</li>\n  <li><strong>L'efficacité</strong> (pragmatisme)&nbsp;: une idée est vraie dans la mesure où elle réussit. Force&nbsp;: elle relie la vérité à ses effets. Limite&nbsp;: elle risque de confondre le vrai et l'utile — une croyance fausse peut être avantageuse, une vérité coûteuse à admettre.</li>\n  <li><strong>Le consensus</strong>&nbsp;: il n'est pas un critère. Un accord unanime peut porter sur une erreur, et une vérité peut n'être d'abord soutenue par personne. Il devient un <em>indice</em> lorsqu'il résulte d'une discussion réglée et d'une confrontation aux faits.</li>\n</ul>\n\n<h3>Deux distinctions techniques</h3>\n\n<p><strong>Vérités de raison et vérités de fait</strong> (Leibniz)&nbsp;: les premières sont nécessaires et leur contraire est impossible — la somme des angles d'un triangle&nbsp;; les secondes sont contingentes et leur contraire reste concevable — César franchissant le Rubicon. Les unes s'établissent par analyse, les autres exigent l'expérience.</p>\n\n<p><strong>Vérité formelle et vérité matérielle</strong>&nbsp;: la première est la <em>validité</em> d'un raisonnement, la seconde la <em>conformité aux faits</em>. Un raisonnement parfaitement valide peut partir de prémisses fausses&nbsp;: la conclusion sera correctement déduite et pourtant fausse.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 185\" role=\"img\" aria-label=\"Schéma croisant validité formelle et vérité des prémisses : un raisonnement valide avec prémisses vraies donne une conclusion vraie, un raisonnement valide avec prémisses fausses peut donner une conclusion fausse, et un raisonnement invalide ne garantit rien même avec des prémisses vraies\">\n    <text x=\"170\" y=\"14\" text-anchor=\"middle\" font-size=\"10\" class=\"s-muted\">Valide n'est pas vrai</text>\n    <text x=\"112\" y=\"34\" text-anchor=\"middle\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">prémisses vraies</text>\n    <text x=\"252\" y=\"34\" text-anchor=\"middle\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">prémisses fausses</text>\n    <text x=\"36\" y=\"70\" text-anchor=\"middle\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">valide</text>\n    <rect x=\"60\" y=\"44\" width=\"104\" height=\"46\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"112\" y=\"66\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">conclusion vraie<tspan x=\"112\" dy=\"13\" font-size=\"8\">le seul cas garanti</tspan></text>\n    <rect x=\"200\" y=\"44\" width=\"104\" height=\"46\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"252\" y=\"66\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">conclusion<tspan x=\"252\" dy=\"13\">possiblement fausse</tspan></text>\n    <text x=\"36\" y=\"128\" text-anchor=\"middle\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">invalide</text>\n    <rect x=\"60\" y=\"102\" width=\"104\" height=\"46\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-dasharray=\"4 3\"/>\n    <text x=\"112\" y=\"124\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">rien n'est<tspan x=\"112\" dy=\"13\">garanti</tspan></text>\n    <rect x=\"200\" y=\"102\" width=\"104\" height=\"46\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-dasharray=\"4 3\"/>\n    <text x=\"252\" y=\"124\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">rien n'est<tspan x=\"252\" dy=\"13\">garanti</tspan></text>\n    <text x=\"170\" y=\"172\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">une conclusion vraie peut sortir d'un raisonnement invalide</text>\n  </svg>\n  <figcaption>La logique garantit le passage des prémisses à la conclusion&nbsp;; elle ne garantit jamais les prémisses.</figcaption>\n</figure>\n\n<p>Enfin, une limite structurelle&nbsp;: <strong>la démonstration ne peut pas tout démontrer</strong>. Elle part de propositions premières — axiomes, définitions — qu'elle ne démontre pas, sous peine de régression à l'infini. Cela ne la ruine pas&nbsp;: cela indique que la rigueur consiste à <em>expliciter ses points de départ</em> plutôt qu'à prétendre s'en passer.</p>\n\n<h2>4 · Chercher le vrai&nbsp;: une exigence morale</h2>\n\n<p>La discussion joue ici un rôle décisif&nbsp;: elle expose les affirmations à l'<strong>objection</strong>, ce qui permet d'éliminer celles qui n'y résistent pas. Ce n'est pas le nombre des interlocuteurs qui compte, mais la qualité des objections.</p>\n\n<p>D'où l'importance du repère <strong>persuader / convaincre</strong>&nbsp;: persuader emporte l'adhésion par les sentiments et vise l'efficacité&nbsp;; convaincre l'emporte par des raisons que l'interlocuteur peut examiner, et vise la vérité. On peut persuader du faux&nbsp;; on ne convainc en principe que du vrai.</p>\n\n<p>Reste une difficulté qui n'est pas intellectuelle. Chercher le vrai suppose de <strong>préférer ce qui est établi à ce qui nous arrange</strong>, donc d'accepter d'être contredit et de perdre une position à laquelle on tenait. C'est pourquoi la probité intellectuelle est une <em>vertu</em>, et non une simple compétence.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Le fil du problème</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Frise du parcours du chapitre : la définition de la vérité comme correspondance, puis les contestations relativiste, sceptique et nietzschéenne, puis l'examen des critères, puis les limites de la démonstration, enfin la vérité comme exigence morale et condition de la discussion\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"186\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Définir</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Dire ce qui est ; vrai ≠ réel</text>\n    <circle cx=\"26\" cy=\"62\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"59\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Contester</text>\n    <text x=\"44\" y=\"72\" font-size=\"10\" fill=\"currentColor\">Protagoras, sceptiques, Nietzsche</text>\n    <circle cx=\"26\" cy=\"104\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"101\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Éprouver</text>\n    <text x=\"44\" y=\"114\" font-size=\"10\" fill=\"currentColor\">Évidence, cohérence, faits</text>\n    <circle cx=\"26\" cy=\"146\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"143\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Limiter</text>\n    <text x=\"44\" y=\"156\" font-size=\"10\" fill=\"currentColor\">Ce que la démonstration suppose</text>\n    <circle cx=\"26\" cy=\"184\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"181\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Assumer</text>\n    <text x=\"44\" y=\"194\" font-size=\"10\" fill=\"currentColor\">Une exigence, non une possession</text>\n  </svg>\n  <figcaption>Le chapitre ne cherche pas à établir des vérités&nbsp;: il cherche ce qui permet d'en chercher.</figcaption>\n</figure>\n\n<h3>Distinctions à tenir</h3>\n\n<table>\n  <tr><th>Distinction</th><th>Ce qui se joue</th></tr>\n  <tr><td>Vérité / réalité</td><td>Une qualité du discours, non des choses</td></tr>\n  <tr><td>Vrai / certain</td><td>Logique contre psychologie</td></tr>\n  <tr><td>Opinion / savoir</td><td>La présence de raisons justificatives</td></tr>\n  <tr><td>Erreur / illusion</td><td>Corrigible par le savoir, ou persistante</td></tr>\n  <tr><td>Erreur / mensonge</td><td>Une différence d'intention, non d'énoncé</td></tr>\n  <tr><td>Vérités de raison / de fait</td><td>Nécessaire contre contingent</td></tr>\n  <tr><td>Formel / matériel</td><td>Validité du raisonnement contre conformité aux faits</td></tr>\n  <tr><td>Persuader / convaincre</td><td>Emporter l'adhésion contre soumettre à l'examen</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition</th></tr>\n  <tr><td>Correspondance</td><td>Accord d'un énoncé avec ce dont il parle</td></tr>\n  <tr><td>Évidence</td><td>Ce qui se présente si clairement qu'on n'en peut douter</td></tr>\n  <tr><td>Relativisme</td><td>Thèse selon laquelle il n'y a pas de vérité indépendante des sujets</td></tr>\n  <tr><td>Scepticisme</td><td>Suspension du jugement devant des arguments équivalents</td></tr>\n  <tr><td>Doute méthodique</td><td>Suspension provisoire de l'assentiment pour éprouver</td></tr>\n  <tr><td>Illusion</td><td>Apparence qui persiste après avoir été démasquée</td></tr>\n  <tr><td>Axiome</td><td>Proposition première posée sans démonstration</td></tr>\n  <tr><td>Pragmatisme</td><td>Est vraie l'idée qui réussit</td></tr>\n  <tr><td>Interprétation</td><td>Lecture du réel devenue si familière qu'on l'oublie comme telle</td></tr>\n  <tr><td>Probité intellectuelle</td><td>Préférer ce qui est établi à ce qui nous arrange</td></tr>\n</table>\n\n<h3>Les auteurs</h3>\n\n<table>\n  <tr><th>Auteur</th><th>Thèse à retenir</th></tr>\n  <tr><td>Aristote</td><td>Est vrai l'énoncé qui dit ce qui est</td></tr>\n  <tr><td>Protagoras</td><td>L'homme est la mesure de toute chose</td></tr>\n  <tr><td>Platon</td><td>Le savoir se distingue de l'opinion vraie par la justification</td></tr>\n  <tr><td>Descartes</td><td>Le doute méthodique&nbsp;; l'évidence comme critère</td></tr>\n  <tr><td>Leibniz</td><td>Vérités de raison et vérités de fait</td></tr>\n  <tr><td>Nietzsche</td><td>Nos vérités sont des interprétations dont on a oublié l'origine</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Confondre la <em>vérité</em> et la <em>réalité</em>. La réalité est ce qui est&nbsp;; la vérité une qualité de ce que l'on en dit. Une chose n'est ni vraie ni fausse — seulement existante ou non. Deux confusions voisines&nbsp;: prendre la certitude pour la vérité (on peut être certain d'une chose fausse), et croire qu'un raisonnement valide garantit une conclusion vraie (il ne garantit jamais les prémisses). Enfin, le relativisme intégral se réfute lui-même&nbsp;: affirmer que tout est relatif, c'est affirmer quelque chose d'absolu.\n</div>\n\n<blockquote><p>Prétendre détenir la vérité ferme la discussion&nbsp;; y renoncer la rend inutile. Entre les deux, il reste ce que nous faisons réellement&nbsp;: corriger, objecter, recommencer — ce qui n'a de sens que si quelque chose est à atteindre.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Philosophie — La raison et le réel",
+  "cards": [
+    {
+      "recto": "Quelle est la définition classique de la vérité ?",
+      "verso": "L'accord d'un jugement avec ce dont il parle : est vrai l'énoncé qui dit ce qui est",
+      "explanation": "Cette définition, dite de la correspondance, remonte à Aristote. Elle a une conséquence majeure : la vérité est une propriété des énoncés, non des choses. Une pierre n'est ni vraie ni fausse.",
+      "tags": [
+        "définition",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Ce que tout le monde croit",
+          "Ce qui est écrit dans les livres",
+          "Ce qui est utile à savoir"
+        ],
+        "medium": [
+          "Ce qui est démontré mathématiquement",
+          "Ce dont on est absolument certain",
+          "Ce que l'expérience confirme toujours"
+        ],
+        "hard": [
+          "La cohérence interne d'un système d'énoncés",
+          "L'accord des esprits sur un même énoncé",
+          "La propriété des choses d'être ce qu'elles sont"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : la vérité et la réalité désignent-elles la même chose ?",
+      "verso": "Non : la réalité est ce qui est, la vérité une qualité de ce que l'on en dit",
+      "explanation": "C'est le contresens le plus fréquent du chapitre. Une chose ne peut pas être vraie ou fausse, seulement exister ou non ; un discours sur elle peut être vrai ou faux. Dire « une vraie amitié » relève d'un autre emploi du mot, où vrai signifie authentique et non conforme au réel.",
+      "tags": [
+        "piege",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, dire le vrai c'est dire le réel",
+          "Oui, sinon les deux mots seraient inutiles",
+          "Non, la vérité n'a aucun rapport avec la réalité"
+        ],
+        "medium": [
+          "Oui, car ce qui existe est nécessairement vrai",
+          "Non, car la réalité dépend de ce que l'on croit",
+          "Oui, car seuls les faits peuvent être vrais"
+        ],
+        "hard": [
+          "Oui, car la vérité est une propriété des choses elles-mêmes",
+          "Non, car la vérité se réduit à la cohérence des énoncés entre eux",
+          "Oui, car un énoncé et son objet ont la même structure"
+        ]
+      }
+    },
+    {
+      "recto": "Que distingue-t-on entre l'opinion et le savoir ?",
+      "verso": "L'opinion peut être vraie par hasard, le savoir suppose que l'on puisse justifier ce que l'on affirme",
+      "explanation": "Un élève qui devine juste ne sait pas pour autant. Ce qui fait la différence n'est pas le contenu de l'énoncé mais la présence de raisons. C'est pourquoi Platon exige du savoir qu'il soit accompagné d'un compte rendu.",
+      "tags": [
+        "distinction",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "L'opinion est fausse, le savoir est vrai",
+          "L'opinion est ancienne, le savoir moderne",
+          "L'opinion vient du cœur, le savoir de la tête"
+        ],
+        "medium": [
+          "L'opinion est individuelle, le savoir collectif",
+          "Le savoir peut être vrai par hasard, l'opinion non",
+          "L'opinion concerne la morale, le savoir la science"
+        ],
+        "hard": [
+          "L'opinion est toujours dépourvue de justification possible",
+          "Le savoir se distingue par sa seule certitude subjective",
+          "L'opinion porte sur le particulier, le savoir sur le probable"
+        ]
+      }
+    },
+    {
+      "recto": "Ne pas confondre : quelle différence sépare le vrai du certain ?",
+      "verso": "Le vrai est une propriété logique de l'énoncé, le certain un état psychologique du sujet qui l'affirme",
+      "explanation": "On peut être absolument certain d'une chose fausse, et douter d'une chose vraie. Confondre les deux revient à faire de la conviction un critère de vérité, ce qui rendrait toute discussion impossible.",
+      "tags": [
+        "comparaison",
+        "repère"
+      ],
+      "distractors": {
+        "easy": [
+          "Aucune : les deux mots sont synonymes",
+          "Le vrai concerne le passé, le certain l'avenir",
+          "Le certain est plus fort que le vrai"
+        ],
+        "medium": [
+          "Le certain est logique, le vrai est psychologique",
+          "Le vrai concerne les sciences, le certain la vie ordinaire",
+          "Le certain se démontre, le vrai se ressent"
+        ],
+        "hard": [
+          "La certitude implique nécessairement la vérité de l'énoncé",
+          "Le vrai est ce qui emporte l'adhésion la plus large",
+          "Le certain désigne le probable élevé au degré maximal"
+        ]
+      }
+    },
+    {
+      "recto": "Que soutient Protagoras avec la formule selon laquelle l'homme est la mesure de toute chose ?",
+      "verso": "Que ce qui apparaît à chacun est vrai pour lui, de sorte qu'il n'y a pas de vérité indépendante des sujets",
+      "explanation": "Le vent est froid pour celui qui a froid, chaud pour celui qui a chaud : il n'y aurait pas à trancher. L'objection décisive est que cette thèse se réfute elle-même, puisqu'elle prétend être vraie pour tous.",
+      "tags": [
+        "auteur",
+        "relativisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Que l'homme est le plus grand des êtres",
+          "Que l'homme doit mesurer toutes choses avec des instruments",
+          "Que la vérité vient des dieux"
+        ],
+        "medium": [
+          "Que la vérité dépend de la majorité",
+          "Que seuls les savants atteignent la vérité",
+          "Que l'homme ne peut rien connaître du tout"
+        ],
+        "hard": [
+          "Que la vérité est identique pour tous les sujets rationnels",
+          "Que la perception est la seule source d'erreur",
+          "Que la mesure de la vérité est la cohérence du discours"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle objection classique ruine le relativisme intégral ?",
+      "verso": "Qu'il se contredit lui-même : s'il est vrai que tout est relatif, cette affirmation vaut absolument",
+      "explanation": "Le relativiste ne peut pas défendre sa thèse sans revendiquer pour elle le statut qu'il refuse à toutes les autres. Cela ne réfute pas la diversité des points de vue, mais interdit d'en conclure qu'aucune position ne vaut mieux qu'une autre.",
+      "tags": [
+        "argument",
+        "relativisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Qu'il est trop compliqué à comprendre",
+          "Qu'il est mal vu dans la société",
+          "Qu'il empêche de vivre en groupe"
+        ],
+        "medium": [
+          "Qu'il ne tient pas compte des différences culturelles",
+          "Qu'il repose sur des observations trop rares",
+          "Qu'il conduit nécessairement au scepticisme religieux"
+        ],
+        "hard": [
+          "Qu'il confond la vérité avec la certitude subjective",
+          "Qu'il suppose une définition de la vérité par la cohérence",
+          "Qu'il exige un critère universel qu'il fournit lui-même"
+        ]
+      }
+    },
+    {
+      "recto": "Que défend le scepticisme antique face à la prétention de connaître ?",
+      "verso": "Que les arguments opposés se valent, ce qui conduit à suspendre son jugement",
+      "explanation": "La suspension du jugement n'est pas une affirmation d'ignorance mais un refus de trancher. Elle vise la tranquillité de l'âme : ne plus être troublé par des débats indécidables.",
+      "tags": [
+        "école",
+        "scepticisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Que tout est faux",
+          "Que la vérité n'intéresse personne",
+          "Qu'il faut croire ce que disent les prêtres"
+        ],
+        "medium": [
+          "Que la vérité est réservée aux savants",
+          "Que seule l'expérience donne la vérité",
+          "Que la vérité change avec les époques"
+        ],
+        "hard": [
+          "Que l'on doit affirmer l'impossibilité définitive de tout savoir",
+          "Que le doute doit être surmonté par une certitude première",
+          "Que les apparences sont toujours trompeuses sans exception"
+        ]
+      }
+    },
+    {
+      "recto": "Quel critère Descartes retient-il pour reconnaître une proposition vraie ?",
+      "verso": "L'évidence : ce qui se présente à l'esprit si clairement et distinctement qu'on ne peut en douter",
+      "explanation": "Ce critère est intérieur, ce qui fait sa force et sa faiblesse. Il fournit un point de départ indubitable, mais expose à prendre pour évident ce qui n'est qu'habituel : c'est l'objection que lui adressera l'épistémologie moderne.",
+      "tags": [
+        "auteur",
+        "Descartes"
+      ],
+      "distractors": {
+        "easy": [
+          "L'accord de tous les savants",
+          "L'ancienneté de la croyance",
+          "L'utilité pratique de l'énoncé"
+        ],
+        "medium": [
+          "La confirmation par l'expérience répétée",
+          "L'absence de contradiction avec la tradition",
+          "L'autorité de celui qui l'affirme"
+        ],
+        "hard": [
+          "La cohérence de la proposition avec le système entier",
+          "La possibilité de réfuter la proposition par l'expérience",
+          "L'accord de la proposition avec le sens commun"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle distinction Leibniz établit-il entre deux sortes de vérités ?",
+      "verso": "Les vérités de raison, nécessaires et dont le contraire est impossible, et les vérités de fait, contingentes et dont le contraire reste concevable",
+      "explanation": "Que la somme des angles d'un triangle vaille deux droits ne pourrait pas être autrement ; que César ait franchi le Rubicon aurait pu ne pas avoir lieu. Les premières s'établissent par analyse, les secondes exigent l'expérience.",
+      "tags": [
+        "auteur",
+        "Leibniz"
+      ],
+      "distractors": {
+        "easy": [
+          "Les vérités anciennes et les vérités modernes",
+          "Les vérités écrites et les vérités orales",
+          "Les vérités scientifiques et les vérités religieuses"
+        ],
+        "medium": [
+          "Les vérités générales et les vérités particulières",
+          "Les vérités certaines et les vérités probables",
+          "Les vérités visibles et les vérités cachées"
+        ],
+        "hard": [
+          "Les vérités analytiques et les vérités synthétiques a priori",
+          "Les vérités formelles et les vérités matérielles",
+          "Les vérités démontrées et les vérités postulées"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une vérité formelle par opposition à une vérité matérielle ?",
+      "verso": "La vérité formelle est la validité d'un raisonnement, la vérité matérielle la conformité des énoncés aux faits",
+      "explanation": "Un raisonnement peut être parfaitement valide et partir de prémisses fausses : la conclusion sera correctement déduite mais fausse. Inversement, une conclusion vraie peut être atteinte par un raisonnement invalide.",
+      "tags": [
+        "logique",
+        "distinction"
+      ],
+      "distractors": {
+        "easy": [
+          "La première concerne les mots, la seconde les choses matérielles",
+          "La première est écrite, la seconde vécue",
+          "La première est théorique, la seconde pratique"
+        ],
+        "medium": [
+          "La vérité formelle est la conformité aux faits, la matérielle la validité du raisonnement",
+          "La formelle concerne les mathématiques, la matérielle la physique",
+          "La formelle est provisoire, la matérielle définitive"
+        ],
+        "hard": [
+          "Un raisonnement valide garantit nécessairement des prémisses vraies",
+          "La vérité matérielle se déduit de la validité formelle",
+          "Les deux se confondent dans les sciences expérimentales"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la démonstration ne peut-elle pas tout démontrer ?",
+      "verso": "Parce qu'elle part de propositions premières qu'elle ne démontre pas, sous peine de régression à l'infini",
+      "explanation": "Axiomes et définitions sont posés, non prouvés. Cela ne ruine pas la démonstration : cela indique que la rigueur consiste à expliciter ses points de départ plutôt qu'à prétendre s'en passer.",
+      "tags": [
+        "méthode",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les mathématiciens manquent de temps",
+          "Parce que certaines choses sont trop compliquées",
+          "Parce que la démonstration est réservée aux sciences"
+        ],
+        "medium": [
+          "Parce que toute démonstration comporte une erreur",
+          "Parce que l'expérience contredit toujours la théorie",
+          "Parce que les axiomes sont démontrés ailleurs"
+        ],
+        "hard": [
+          "Parce que la régression à l'infini est logiquement acceptable",
+          "Parce que les propositions premières se démontrent circulairement",
+          "Parce que la démonstration ne vaut que pour les vérités de fait"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi l'erreur se distingue-t-elle de l'illusion ?",
+      "verso": "L'erreur cesse dès qu'elle est reconnue, l'illusion persiste alors même qu'on la sait trompeuse",
+      "explanation": "Le bâton brisé dans l'eau continue de paraître brisé quand on sait qu'il ne l'est pas. L'illusion tient à notre constitution, l'erreur à un jugement mal formé : seule la seconde se corrige par le savoir.",
+      "tags": [
+        "distinction",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "L'erreur est grave, l'illusion est légère",
+          "L'erreur concerne les chiffres, l'illusion les images",
+          "Ce sont deux mots pour la même chose"
+        ],
+        "medium": [
+          "L'illusion cesse dès qu'on la reconnaît, l'erreur persiste",
+          "L'erreur est volontaire, l'illusion involontaire",
+          "L'illusion est collective, l'erreur individuelle"
+        ],
+        "hard": [
+          "L'illusion se corrige par la seule connaissance de sa cause",
+          "L'erreur relève de la sensation, l'illusion du jugement",
+          "L'illusion suppose une intention de tromper"
+        ]
+      }
+    },
+    {
+      "recto": "Comment distinguer l'erreur du mensonge ?",
+      "verso": "Celui qui se trompe croit dire vrai, celui qui ment dit sciemment le contraire de ce qu'il croit",
+      "explanation": "La différence n'est pas dans l'énoncé mais dans l'intention. Un menteur peut d'ailleurs dire par accident quelque chose de vrai : il ment tout de même, puisqu'il croyait affirmer le faux.",
+      "tags": [
+        "distinction",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "L'erreur est écrite, le mensonge est oral",
+          "L'erreur est petite, le mensonge est grand",
+          "L'erreur est pardonnable, le mensonge non"
+        ],
+        "medium": [
+          "Le menteur croit dire vrai, celui qui se trompe non",
+          "L'erreur concerne les faits, le mensonge les intentions",
+          "Le mensonge est toujours reconnaissable"
+        ],
+        "hard": [
+          "Un menteur qui dit par hasard le vrai ne ment plus",
+          "L'erreur suppose une intention de tromper atténuée",
+          "Le mensonge se définit par la fausseté objective de l'énoncé"
+        ]
+      }
+    },
+    {
+      "recto": "Que reproche Nietzsche à la conception traditionnelle de la vérité ?",
+      "verso": "D'oublier que nos vérités sont des interprétations devenues si familières qu'on ne les reconnaît plus comme telles",
+      "explanation": "Les concepts, dit-il, sont des métaphores dont on a oublié l'origine. Cette critique n'abolit pas la distinction du vrai et du faux dans un cadre donné : elle interroge la valeur que nous accordons à la volonté de vérité.",
+      "tags": [
+        "auteur",
+        "Nietzsche"
+      ],
+      "distractors": {
+        "easy": [
+          "D'être trop compliquée pour le peuple",
+          "D'être inutile dans la vie quotidienne",
+          "D'avoir été inventée par les savants"
+        ],
+        "medium": [
+          "De ne pas s'appuyer sur suffisamment d'expériences",
+          "D'être contredite par la logique formelle",
+          "De confondre la vérité et la certitude"
+        ],
+        "hard": [
+          "De réduire toute vérité à une convention explicitement choisie",
+          "De nier l'existence même de la distinction du vrai et du faux",
+          "De faire dépendre la vérité de la seule cohérence interne"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi le fait que nos savoirs aient une histoire ne suffit-il pas à ruiner l'idée de vérité ?",
+      "verso": "Parce que reconnaître qu'une théorie a été corrigée suppose un critère qui permet de dire qu'elle l'a été à bon droit",
+      "explanation": "Le changement des théories est même l'argument le plus fort en faveur de la vérité : sans elle, on ne pourrait pas dire qu'une théorie nouvelle est meilleure, seulement qu'elle est plus récente.",
+      "tags": [
+        "argument",
+        "histoire"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les savants ne se trompent jamais deux fois",
+          "Parce que l'histoire n'intéresse pas la science",
+          "Parce que les théories ne changent pas réellement"
+        ],
+        "medium": [
+          "Parce que chaque époque a sa propre vérité valable pour elle",
+          "Parce que le progrès des sciences est purement technique",
+          "Parce que les théories anciennes restent également valables"
+        ],
+        "hard": [
+          "Parce que la succession des théories prouve leur équivalence",
+          "Parce que la correction d'une théorie dispense de tout critère",
+          "Parce que la vérité se définit par l'accord des savants de chaque époque"
+        ]
+      }
+    },
+    {
+      "recto": "Que soutient la conception pragmatiste de la vérité ?",
+      "verso": "Qu'une idée est vraie dans la mesure où elle réussit, c'est-à-dire où elle permet d'agir efficacement",
+      "explanation": "Cette position a le mérite de relier la vérité à ses effets. Son risque est de confondre le vrai et l'utile : une croyance fausse peut être avantageuse, et une vérité coûteuse à admettre.",
+      "tags": [
+        "école",
+        "pragmatisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Que la vérité vient de l'expérience seule",
+          "Que la vérité est ce que dit la majorité",
+          "Que la vérité n'existe pas"
+        ],
+        "medium": [
+          "Qu'une idée est vraie si elle est cohérente avec les autres",
+          "Qu'une idée est vraie si elle est évidente",
+          "Qu'une idée est vraie si elle est ancienne"
+        ],
+        "hard": [
+          "Qu'une idée est vraie si elle correspond exactement aux faits",
+          "Qu'une idée est vraie si elle résiste à toute tentative de réfutation",
+          "Qu'une idée est vraie si elle est déduite d'axiomes"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la vérité ne peut-elle pas se définir par le consensus ?",
+      "verso": "Parce qu'un accord unanime peut porter sur une erreur, et qu'une vérité peut n'être d'abord soutenue par personne",
+      "explanation": "L'histoire des sciences fournit les deux cas. Le consensus n'est donc pas un critère mais parfois un indice, lorsqu'il résulte d'une discussion réglée et d'une confrontation aux faits.",
+      "tags": [
+        "critère",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les gens ne sont jamais d'accord",
+          "Parce qu'il faudrait interroger tout le monde",
+          "Parce que le vote est réservé à la politique"
+        ],
+        "medium": [
+          "Parce que le consensus change trop lentement",
+          "Parce que seuls les experts peuvent juger",
+          "Parce que la majorité a toujours tort"
+        ],
+        "hard": [
+          "Parce que le consensus garantit la cohérence mais non l'évidence",
+          "Parce qu'un accord unanime rend la discussion impossible",
+          "Parce que le consensus se confond avec la vérité formelle"
+        ]
+      }
+    },
+    {
+      "recto": "Quel rôle la discussion joue-t-elle dans la recherche du vrai ?",
+      "verso": "Elle expose les affirmations à l'objection, ce qui permet d'éliminer celles qui n'y résistent pas",
+      "explanation": "Ce n'est pas le nombre des interlocuteurs qui compte mais la qualité des objections. C'est pourquoi convaincre par des raisons examinables diffère de persuader par des moyens qui court-circuitent l'examen.",
+      "tags": [
+        "méthode",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle permet de trouver la vérité par le vote",
+          "Elle sert à faire triompher le plus habile",
+          "Elle n'a aucun rôle dans les sciences"
+        ],
+        "medium": [
+          "Elle établit la vérité par l'accord final des participants",
+          "Elle remplace l'expérience dans les sciences humaines",
+          "Elle sert seulement à convaincre le public"
+        ],
+        "hard": [
+          "Elle garantit la vérité dès lors que la procédure est respectée",
+          "Elle produit la vérité par la seule confrontation des intérêts",
+          "Elle rend inutile toute confrontation aux faits"
+        ]
+      }
+    },
+    {
+      "recto": "Quel repère du programme éclaire la manière dont on cherche à faire admettre une thèse ?",
+      "verso": "L'opposition entre persuader et convaincre",
+      "explanation": "Persuader emporte l'adhésion par les sentiments et vise l'efficacité ; convaincre l'emporte par des raisons que l'interlocuteur peut examiner et vise la vérité. On peut persuader du faux, on ne convainc en principe que du vrai.",
+      "tags": [
+        "repère",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Le repère cause / fin",
+          "Le repère genre / espèce / individu",
+          "Le repère acte / puissance"
+        ],
+        "medium": [
+          "Le repère universel / général",
+          "Le repère analyse / synthèse",
+          "Le repère essentiel / accidentel"
+        ],
+        "hard": [
+          "Le repère intuitif / discursif",
+          "Le repère abstrait / concret",
+          "Le repère transcendant / immanent"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la recherche de la vérité engage-t-elle une exigence morale ?",
+      "verso": "Parce qu'elle suppose de préférer ce qui est établi à ce qui nous arrange, donc d'accepter d'être contredit",
+      "explanation": "La difficulté n'est pas seulement intellectuelle : il faut consentir à perdre une position à laquelle on tenait. C'est pourquoi la probité intellectuelle est une vertu et non une simple compétence.",
+      "tags": [
+        "morale",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'il est interdit de mentir",
+          "Parce que la vérité rend heureux",
+          "Parce que les savants doivent être polis"
+        ],
+        "medium": [
+          "Parce que la vérité est utile à la société",
+          "Parce que l'erreur est toujours coupable",
+          "Parce que la science exige des diplômes"
+        ],
+        "hard": [
+          "Parce que la vérité se déduit du devoir moral",
+          "Parce que la sincérité suffit à garantir la vérité",
+          "Parce que l'exigence morale rend la discussion inutile"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi le doute peut-il être un instrument plutôt qu'une position définitive ?",
+      "verso": "Le doute méthodique suspend provisoirement l'assentiment pour éprouver les affirmations, au lieu de conclure qu'on ne peut rien savoir",
+      "explanation": "Le doute sceptique s'arrête à la suspension ; le doute méthodique la traverse pour atteindre ce qui y résiste. La différence tient à l'usage qu'on en fait, non à l'acte de douter.",
+      "tags": [
+        "méthode",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le doute est toujours une faiblesse",
+          "Le doute empêche toute recherche",
+          "Le doute est réservé aux ignorants"
+        ],
+        "medium": [
+          "Le doute méthodique conclut à l'impossibilité de savoir",
+          "Le doute sert à convaincre les autres",
+          "Le doute doit porter uniquement sur les sciences"
+        ],
+        "hard": [
+          "Le doute méthodique affirme la fausseté de ce qu'il examine",
+          "Le doute sceptique traverse la suspension pour atteindre une certitude",
+          "Le doute suppose déjà la vérité de ce qu'il met en question"
+        ]
+      }
+    },
+    {
+      "recto": "Quel bilan peut-on dresser sur la vérité ?",
+      "verso": "Elle n'est ni une possession définitive ni une illusion, mais une exigence qui règle la recherche et permet de corriger ce que l'on croyait savoir",
+      "explanation": "Renoncer à la vérité rendrait la discussion inutile ; prétendre la détenir la rendrait tout aussi inutile. C'est comme exigence, et non comme acquis, qu'elle reste opérante.",
+      "tags": [
+        "synthèse",
+        "bilan"
+      ],
+      "distractors": {
+        "easy": [
+          "C'est ce que croit la majorité des gens",
+          "C'est une invention des philosophes",
+          "C'est ce qui est écrit dans les manuels"
+        ],
+        "medium": [
+          "C'est un ensemble de propositions définitivement acquises",
+          "C'est ce qui varie nécessairement selon les cultures",
+          "C'est la simple efficacité pratique d'une idée"
+        ],
+        "hard": [
+          "C'est une propriété des choses indépendante du langage",
+          "C'est la cohérence d'un discours indépendamment de tout fait",
+          "C'est l'accord obtenu au terme d'une discussion réglée"
+        ]
+      }
+    }
+  ]
+}

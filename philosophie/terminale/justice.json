@@ -1,0 +1,640 @@
+{
+  "id": "philosophie-terminale-justice",
+  "title": "La justice",
+  "emoji": "🏛️",
+  "subject": "philosophy",
+  "country": "fr",
+  "courseDescription": "Philosophie · Terminale — la justice comme vertu et comme institution : égalité et équité, droit naturel et droit positif, contrat social, Rawls et le sens de la peine.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>La justice</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale (voie générale et technologique)<br>\n  <b>Thème&nbsp;:</b> Philosophie — La morale et la politique<br>\n  <b>Notion</b> · environ 5 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> Une loi suffit-elle à rendre juste ce qu'elle autorise&nbsp;?</p></blockquote>\n\n<p>La justice a ceci de particulier qu'elle se réclame à la fois d'un idéal et d'une institution. On dit d'un homme qu'il est juste, et d'un tribunal qu'il rend la justice&nbsp;— ce ne sont pas les mêmes choses. Une société peut être injuste sans qu'aucun de ses membres ne soit personnellement malveillant&nbsp;: c'est précisément ce qui rend la question politique irréductible à la morale individuelle. Deux difficultés commandent le chapitre&nbsp;: <strong>à quelle condition une loi est-elle juste</strong>, et <strong>que signifie traiter également des êtres inégalement placés</strong>&nbsp;?</p>\n\n<h2>1 · Justice de la personne, justice des institutions</h2>\n\n<p>Le premier sens est une <strong>vertu</strong>&nbsp;: est juste celui qui rend à chacun ce qui lui revient. Le second est une <strong>qualité des institutions</strong>&nbsp;: est juste la société qui répartit correctement les droits, les biens et les charges.</p>\n\n<p>Aristote découpe ce second domaine en deux régimes qu'il ne faut jamais confondre.</p>\n\n<ul>\n  <li>La <strong>justice distributive</strong> répartit biens et honneurs selon les mérites&nbsp;: elle obéit à une <em>proportion</em>, à mérite inégal, part inégale.</li>\n  <li>La <strong>justice corrective</strong> rétablit une égalité rompue&nbsp;: elle ignore délibérément qui sont les parties et se contente d'annuler le déséquilibre créé par un dommage ou un contrat rompu.</li>\n</ul>\n\n<p>Appliquer l'une là où l'autre convient produit une injustice&nbsp;: réparer un dommage «&nbsp;selon le mérite&nbsp;» de la victime serait scandaleux, et répartir des places universitaires sans considérer les résultats le serait tout autant.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 180\" role=\"img\" aria-label=\"Comparaison entre justice distributive et justice corrective : à gauche, la répartition proportionnelle des biens selon les mérites, avec deux parts inégales ; à droite, le rétablissement d'une égalité rompue, où la part prise à l'un est rendue à l'autre sans considérer les personnes\">\n    <defs>\n      <marker id=\"ar-phjs1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n    <rect x=\"6\" y=\"8\" width=\"156\" height=\"164\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"84\" y=\"30\" text-anchor=\"middle\" font-size=\"11\" fill=\"var(--accent)\" font-weight=\"bold\">Distributive</text>\n    <text x=\"84\" y=\"48\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">répartir selon le mérite</text>\n    <rect x=\"24\" y=\"60\" width=\"46\" height=\"24\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".35\"/>\n    <text x=\"47\" y=\"76\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">A</text>\n    <rect x=\"86\" y=\"60\" width=\"60\" height=\"24\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".35\"/>\n    <text x=\"116\" y=\"76\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">B</text>\n    <text x=\"84\" y=\"104\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">parts inégales</text>\n    <text x=\"84\" y=\"124\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">car mérites inégaux</text>\n    <text x=\"84\" y=\"152\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">on regarde qui sont</text>\n    <text x=\"84\" y=\"164\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">les personnes</text>\n    <rect x=\"178\" y=\"8\" width=\"156\" height=\"164\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"256\" y=\"30\" text-anchor=\"middle\" font-size=\"11\" fill=\"var(--accent)\" font-weight=\"bold\">Corrective</text>\n    <text x=\"256\" y=\"48\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">annuler un déséquilibre</text>\n    <rect x=\"196\" y=\"60\" width=\"40\" height=\"24\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".2\"/>\n    <rect x=\"276\" y=\"60\" width=\"40\" height=\"24\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".2\"/>\n    <path d=\"M272,72 L242,72\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-phjs1)\"/>\n    <text x=\"256\" y=\"104\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">restituer ce qui a été pris</text>\n    <text x=\"256\" y=\"124\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">jusqu'à l'égalité</text>\n    <text x=\"256\" y=\"152\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">on ignore qui sont</text>\n    <text x=\"256\" y=\"164\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">les personnes</text>\n  </svg>\n  <figcaption>Deux régimes distincts&nbsp;: l'un tient compte des personnes, l'autre s'interdit de le faire.</figcaption>\n</figure>\n\n<h2>2 · Égalité, équité, différence</h2>\n\n<p>L'égalité stricte semble l'évidence même de la justice. Elle devient pourtant injuste dès que les situations diffèrent. Le même impôt pour tous, la même épreuve pour un candidat empêché, la même aide quels que soient les besoins&nbsp;: ce sont là des égalités formelles qui produisent des inégalités réelles.</p>\n\n<p>D'où l'<strong>équité</strong>, qu'Aristote définit comme une <em>correction de la loi</em> là où sa généralité la rend inadaptée au cas particulier. Il la compare à la règle de plomb des maçons de Lesbos, qui épouse la forme de la pierre au lieu de l'imposer. L'équité n'est donc pas une entorse à la justice&nbsp;: c'en est l'achèvement.</p>\n\n<p><b>Le garde-fou est indispensable&nbsp;:</b> une différence de traitement n'est juste que si elle repose sur une <strong>différence pertinente</strong>. Sinon, l'équité devient le nom élégant du privilège.</p>\n\n<div class=\"callout\">\n  <strong>Repère · Légal / légitime</strong><br>\n  Une règle peut être régulièrement adoptée — donc <em>légale</em> — et pourtant injustifiable — donc <em>illégitime</em>. Sans cette distinction, dire d'une loi qu'elle est injuste n'aurait aucun sens.\n</div>\n\n<h2>3 · D'où le droit tire-t-il sa force&nbsp;?</h2>\n\n<p>Deux thèses s'opposent.</p>\n\n<ul>\n  <li>Le <strong>droit naturel</strong> soutient qu'il existe des principes de justice antérieurs aux lois établies, auxquels celles-ci doivent se conformer. Sans cela, tout ce qui est légal serait juste par définition, et aucune législation inique ne pourrait être dénoncée.</li>\n  <li>Le <strong>positivisme juridique</strong> soutient que le droit est l'ensemble des règles effectivement posées par une autorité, indépendamment de leur valeur morale. Son mérite est de séparer ce que le droit <em>est</em> de ce qu'il <em>devrait être</em>&nbsp;; son risque est de laisser sans recours celui qui subit une loi légale mais inique.</li>\n</ul>\n\n<h3>L'objection de Calliclès</h3>\n\n<p>Dans le <em>Gorgias</em>, Calliclès soutient que les lois sont faites par les faibles pour brider les forts, contre une justice naturelle où le meilleur devrait avoir davantage. La provocation est utile&nbsp;: elle oblige à répondre à la question redoutable <em>pourquoi le fort aurait-il intérêt à être juste&nbsp;?</em> Toute la <em>République</em> s'emploiera à montrer que l'injustice ruine d'abord celui qui la commet.</p>\n\n<h3>Les théories du contrat</h3>\n\n<p>Trois versions, trois conclusions politiques différentes.</p>\n\n<ul>\n  <li><strong>Hobbes</strong>&nbsp;: l'état de nature est une guerre de tous contre tous où la sécurité est nulle. La justice n'existe pas avant le pacte&nbsp;: là où il n'y a pas de pouvoir commun, il n'y a ni juste ni injuste. Le souverain, hors du contrat, ne peut être jugé.</li>\n  <li><strong>Locke</strong>&nbsp;: des droits existent avant l'État — au premier rang desquels la propriété. Le pouvoir est institué <em>pour une fin</em>&nbsp;; s'il la trahit, un droit de résistance devient concevable.</li>\n  <li><strong>Rousseau</strong>&nbsp;: la loi juste émane de la <strong>volonté générale</strong> et porte sur tous sans jamais viser un individu. La généralité est ici un critère de justice&nbsp;: dès que la loi désigne quelqu'un, elle devient faveur ou persécution.</li>\n</ul>\n\n<h2>4 · Rawls&nbsp;: la justice comme équité</h2>\n\n<p>Comment déterminer des règles que personne ne pourrait raisonnablement refuser&nbsp;? Rawls propose une expérience de pensée&nbsp;: le <strong>voile d'ignorance</strong>. Les principes sont choisis par des personnes qui ignorent la place qu'elles occuperont — leur fortune, leurs talents, leur génération, leurs convictions. L'impartialité n'est donc pas demandée comme une vertu&nbsp;: elle est <em>produite par la situation de choix</em>.</p>\n\n<p>Deux principes en sortent, dans cet ordre de priorité.</p>\n\n<ul>\n  <li><strong>Principe de liberté</strong>&nbsp;: chacun a un droit égal au système le plus étendu de libertés de base compatible avec le même système pour tous. Il a la priorité&nbsp;: on n'échange pas des libertés fondamentales contre des avantages économiques.</li>\n  <li><strong>Principe de différence</strong>&nbsp;: les inégalités socio-économiques ne sont justes que si elles <strong>bénéficient aux plus défavorisés</strong>. Le critère n'est pas l'écart lui-même, mais son effet sur ceux qui sont au bas de l'échelle.</li>\n</ul>\n\n<p>Le contraste avec l'utilitarisme est direct. Additionner les satisfactions ne respecte pas la <strong>séparation des personnes</strong>&nbsp;: une majorité satisfaite peut compenser arithmétiquement une minorité écrasée. La justice protège chacun contre ce calcul.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 185\" role=\"img\" aria-label=\"Schéma du voile d'ignorance de Rawls : à gauche, des personnes choisissent des principes sans connaître leur position future ; au centre, le voile ; à droite, la société réelle où chacun découvre sa place. Deux principes en découlent, la priorité des libertés de base et le principe de différence.\">\n    <defs>\n      <marker id=\"ar-phjs2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n    <rect x=\"6\" y=\"20\" width=\"112\" height=\"58\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"62\" y=\"40\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">position originelle</text>\n    <text x=\"62\" y=\"58\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">j'ignore qui je serai</text>\n    <path d=\"M120,49 L146,49\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-phjs2)\"/>\n    <line x1=\"152\" y1=\"14\" x2=\"152\" y2=\"84\" stroke=\"var(--accent)\" stroke-opacity=\".6\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/>\n    <text x=\"160\" y=\"20\" font-size=\"9\" class=\"s-muted\">le voile</text>\n    <path d=\"M162,49 L188,49\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-phjs2)\"/>\n    <rect x=\"192\" y=\"20\" width=\"142\" height=\"58\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"263\" y=\"40\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">société réelle</text>\n    <text x=\"263\" y=\"58\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">je découvre ma place</text>\n    <text x=\"170\" y=\"104\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">les deux principes choisis, dans cet ordre</text>\n    <rect x=\"6\" y=\"114\" width=\"156\" height=\"60\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"84\" y=\"134\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">1. Libertés de base</text>\n    <text x=\"84\" y=\"152\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">égales pour tous<tspan x=\"84\" dy=\"13\" font-size=\"8\">non négociables</tspan></text>\n    <rect x=\"178\" y=\"114\" width=\"156\" height=\"60\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"256\" y=\"134\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">2. Différence</text>\n    <text x=\"256\" y=\"152\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">inégalités admises si<tspan x=\"256\" dy=\"13\" font-size=\"8\">elles profitent aux plus démunis</tspan></text>\n  </svg>\n  <figcaption>Ignorer sa propre place rend impossible d'avantager sa position&nbsp;: l'impartialité devient une contrainte de la situation, non une vertu à demander.</figcaption>\n</figure>\n\n<h3>Égalité des chances, égalité des résultats</h3>\n\n<p>La première vise à donner à chacun les mêmes possibilités de départ&nbsp;; la seconde à obtenir des situations finales identiques. L'égalité des chances suppose que l'on <strong>corrige les inégalités initiales</strong>&nbsp;: sans cela, elle légitime les écarts en les attribuant au seul mérite, alors qu'ils tiennent aussi à l'héritage.</p>\n\n<p>C'est le terrain des politiques de <strong>discrimination positive</strong>&nbsp;: une inégalité de traitement temporaire y est justifiée comme compensation d'un désavantage structurel. L'objection symétrique est sérieuse&nbsp;: traiter les individus selon leur appartenance risque de reconduire la catégorisation que l'on prétend combattre. Le débat porte sur la pertinence du critère et sur la durée de la mesure.</p>\n\n<h2>5 · Punir&nbsp;: le sens de la peine</h2>\n\n<p>La peine se distingue de la <strong>vengeance</strong> par trois traits&nbsp;: elle est prononcée par un <em>tiers impartial</em>, selon une <em>règle publique</em>, et de manière <em>proportionnée</em>. Nul n'est juge dans sa propre cause&nbsp;: c'est ce qui interrompt la spirale des représailles, et fait de l'institution judiciaire une conquête sur la violence.</p>\n\n<p>Deux justifications de la peine s'affrontent.</p>\n\n<ul>\n  <li>La <strong>rétribution</strong> punit parce qu'une faute a été commise&nbsp;: elle regarde le passé et proportionne la peine à la faute.</li>\n  <li>La <strong>prévention</strong> punit pour éviter que d'autres fautes soient commises&nbsp;: elle regarde l'avenir et risque de punir au-delà du mérité, pour l'exemple.</li>\n</ul>\n\n<p>Kant refuse la seconde comme fondement&nbsp;: elle traiterait le condamné comme un <strong>simple moyen</strong> au service de la sécurité des autres. Cette rigueur a une contrepartie protectrice&nbsp;: si la peine est due pour la faute, alors elle ne peut pas la dépasser.</p>\n\n<p>Deux exigences complètent l'édifice. La <strong>présomption d'innocence</strong> fait peser la charge de la preuve sur l'accusation&nbsp;: exiger de chacun qu'il prouve son innocence serait souvent impossible. La règle assume un coût délibéré — mieux vaut laisser échapper un coupable que condamner un innocent. Et le <strong>procès contradictoire</strong> rappelle que la justice n'est pas seulement un résultat mais une <em>forme</em>&nbsp;: une bonne décision prise sans entendre les parties reste injuste, parce qu'elle traite les personnes comme des objets d'administration.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Le fil du problème</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Frise du parcours du chapitre : la justice comme vertu et comme institution, puis l'égalité corrigée par l'équité, puis le débat entre droit naturel et droit positif et les théories du contrat, puis la justice comme équité chez Rawls, enfin le sens de la peine\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"186\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Deux sens</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Vertu et institution</text>\n    <circle cx=\"26\" cy=\"62\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"59\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Égalité et équité</text>\n    <text x=\"44\" y=\"72\" font-size=\"10\" fill=\"currentColor\">Aristote, la règle de Lesbos</text>\n    <circle cx=\"26\" cy=\"104\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"101\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Fondement du droit</text>\n    <text x=\"44\" y=\"114\" font-size=\"10\" fill=\"currentColor\">Nature, contrat, volonté générale</text>\n    <circle cx=\"26\" cy=\"146\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"143\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Rawls</text>\n    <text x=\"44\" y=\"156\" font-size=\"10\" fill=\"currentColor\">Voile d'ignorance, différence</text>\n    <circle cx=\"26\" cy=\"184\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"181\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Punir</text>\n    <text x=\"44\" y=\"194\" font-size=\"10\" fill=\"currentColor\">Rétribution ou prévention</text>\n  </svg>\n  <figcaption>Le chapitre passe d'une exigence morale à ses conditions institutionnelles.</figcaption>\n</figure>\n\n<h3>Distinctions à tenir</h3>\n\n<table>\n  <tr><th>Distinction</th><th>Ce qui se joue</th></tr>\n  <tr><td>Justice distributive / corrective</td><td>Tenir compte des personnes, ou s'interdire de le faire</td></tr>\n  <tr><td>Égalité / équité</td><td>Même traitement, ou traitement adapté à une différence pertinente</td></tr>\n  <tr><td>Légal / légitime</td><td>Rend possible la critique d'une loi injuste</td></tr>\n  <tr><td>Droit naturel / droit positif</td><td>Des principes antérieurs aux lois, ou les lois seules</td></tr>\n  <tr><td>Égalité des chances / des résultats</td><td>Corriger le départ, ou égaliser l'arrivée</td></tr>\n  <tr><td>Peine / vengeance</td><td>Un tiers impartial et une règle publique</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition</th></tr>\n  <tr><td>Équité</td><td>Correction de la loi là où sa généralité la rend inadaptée</td></tr>\n  <tr><td>Droit naturel</td><td>Principes de justice antérieurs aux lois établies</td></tr>\n  <tr><td>Positivisme juridique</td><td>Le droit est ce qui est effectivement posé par une autorité</td></tr>\n  <tr><td>Contrat social</td><td>Fondement conventionnel de l'autorité politique</td></tr>\n  <tr><td>Volonté générale</td><td>Volonté portant sur tous, ne visant jamais un individu</td></tr>\n  <tr><td>Voile d'ignorance</td><td>Choisir les règles sans savoir quelle place on occupera</td></tr>\n  <tr><td>Principe de différence</td><td>Inégalités justes seulement si elles profitent aux plus défavorisés</td></tr>\n  <tr><td>Rétribution</td><td>Punir parce qu'une faute a été commise</td></tr>\n  <tr><td>Prévention</td><td>Punir pour éviter d'autres fautes</td></tr>\n  <tr><td>Présomption d'innocence</td><td>La charge de la preuve pèse sur l'accusation</td></tr>\n</table>\n\n<h3>Les auteurs</h3>\n\n<table>\n  <tr><th>Auteur</th><th>Thèse à retenir</th></tr>\n  <tr><td>Platon</td><td>Contre Calliclès&nbsp;: l'injustice ruine d'abord celui qui la commet</td></tr>\n  <tr><td>Aristote</td><td>Distributive et corrective&nbsp;; l'équité corrige la généralité de la loi</td></tr>\n  <tr><td>Hobbes</td><td>Sans pouvoir commun, il n'y a ni juste ni injuste</td></tr>\n  <tr><td>Locke</td><td>Le pouvoir garantit des droits antérieurs à lui, sinon on peut lui résister</td></tr>\n  <tr><td>Rousseau</td><td>La loi juste est générale et émane de la volonté générale</td></tr>\n  <tr><td>Kant</td><td>Punir pour l'exemple traiterait le condamné comme un moyen</td></tr>\n  <tr><td>Rawls</td><td>Justice comme équité&nbsp;: priorité des libertés, principe de différence</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Croire que la justice consiste à traiter tout le monde <em>exactement</em> de la même façon. L'égalité stricte devient injuste quand les situations diffèrent&nbsp;: l'impôt proportionnel ou l'aménagement d'une épreuve ne rompent pas l'égalité, ils la rendent effective. Mais l'excès inverse guette&nbsp;: invoquer l'équité pour justifier n'importe quel traitement de faveur. Une différence de traitement n'est juste que si elle repose sur une <strong>différence pertinente</strong>. Ne pas confondre non plus <em>légal</em> et <em>juste</em>&nbsp;: sans cet écart, aucune loi ne serait critiquable.\n</div>\n\n<blockquote><p>Une justice qui resterait un idéal sans institution ne protégerait personne&nbsp;; une institution qui cesserait de se laisser juger au nom de la justice ne serait plus qu'un appareil. C'est dans la tension entre les deux que la notion garde son sens.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Philosophie — La morale et la politique",
+  "cards": [
+    {
+      "recto": "Quels deux sens du mot « justice » faut-il distinguer avant toute analyse ?",
+      "verso": "La justice comme vertu de la personne et la justice comme qualité des institutions qui répartissent droits et charges",
+      "explanation": "Un homme juste et une société juste ne sont pas justes au même titre. Une institution peut être injuste sans qu'aucun de ses membres ne soit personnellement malveillant : c'est ce qui rend la question politique irréductible à la morale individuelle.",
+      "tags": [
+        "définition",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La justice des tribunaux et celle de la police",
+          "La justice civile et la justice pénale",
+          "La justice d'hier et celle d'aujourd'hui"
+        ],
+        "medium": [
+          "La justice des lois et celle des juges",
+          "La justice publique et la justice privée",
+          "La justice humaine et la justice divine"
+        ],
+        "hard": [
+          "La justice formelle et la justice procédurale",
+          "La justice rétributive et la justice réparatrice",
+          "La justice réelle et la justice apparente"
+        ]
+      }
+    },
+    {
+      "recto": "Ne pas confondre : qu'oppose Aristote entre justice distributive et justice corrective ?",
+      "verso": "La première répartit biens et honneurs selon les mérites, la seconde rétablit une égalité rompue sans considérer les personnes",
+      "explanation": "La distributive obéit à une proportion : à mérite inégal, part inégale. La corrective ignore délibérément qui sont les parties et se contente d'annuler le déséquilibre créé par un dommage ou un contrat rompu. Appliquer l'une là où l'autre convient produit une injustice.",
+      "tags": [
+        "comparaison",
+        "Aristote"
+      ],
+      "distractors": {
+        "easy": [
+          "La première concerne l'argent, la seconde les crimes",
+          "La première est ancienne, la seconde moderne",
+          "La première est publique, la seconde privée"
+        ],
+        "medium": [
+          "La première rétablit une égalité rompue, la seconde répartit selon les mérites",
+          "La première concerne les biens, la seconde les personnes",
+          "La première est individuelle, la seconde collective"
+        ],
+        "hard": [
+          "La première ignore les personnes, la seconde tient compte de leur valeur",
+          "La première suppose un contrat, la seconde une faute",
+          "La première est arithmétique, la seconde géométrique"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : la justice consiste-t-elle à traiter tout le monde exactement de la même façon ?",
+      "verso": "Non : l'égalité stricte devient injuste quand les situations diffèrent, et la justice exige alors l'équité",
+      "explanation": "C'est le contresens central du chapitre. Donner la même chose à tous ignore les besoins et les mérites ; l'impôt proportionnel, l'aménagement d'épreuve pour un candidat handicapé ou l'aide sociale ne sont pas des ruptures d'égalité mais des corrections. Attention à l'excès inverse : invoquer l'équité pour justifier n'importe quel privilège, alors qu'une différence de traitement n'est juste que si elle est fondée sur une différence pertinente.",
+      "tags": [
+        "piege",
+        "égalité"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, toujours, sans aucune exception",
+          "Oui, sinon ce serait de la discrimination",
+          "Non, la justice n'a rien à voir avec l'égalité"
+        ],
+        "medium": [
+          "Oui, car toute différence de traitement est un privilège",
+          "Non, il faut traiter chacun selon ses préférences",
+          "Oui, sauf pour les criminels"
+        ],
+        "hard": [
+          "Oui, car l'équité contredit le principe d'universalité du droit",
+          "Non, car toute différence de situation justifie une différence de traitement",
+          "Oui, car l'égalité formelle épuise l'exigence de justice"
+        ]
+      }
+    },
+    {
+      "recto": "Comment définir l'équité par rapport à la loi générale ?",
+      "verso": "Une correction de la loi là où sa généralité la rend inadaptée au cas particulier",
+      "explanation": "Aristote la compare à la règle de plomb des maçons de Lesbos, qui épouse la forme de la pierre. La loi ne peut pas prévoir tous les cas ; l'équité n'est donc pas une entorse à la justice mais son achèvement.",
+      "tags": [
+        "notion",
+        "Aristote"
+      ],
+      "distractors": {
+        "easy": [
+          "Un refus d'appliquer la loi",
+          "Une faveur accordée à un ami",
+          "Un partage en parts égales"
+        ],
+        "medium": [
+          "Une loi plus sévère pour les cas graves",
+          "L'application mécanique de la loi à tous les cas",
+          "Une décision prise sans référence au droit"
+        ],
+        "hard": [
+          "Une exception fondée sur la qualité sociale du justiciable",
+          "Une règle supérieure qui abroge la loi positive",
+          "Un jugement rendu selon la seule intuition du juge"
+        ]
+      }
+    },
+    {
+      "recto": "Que soutient la thèse du droit naturel ?",
+      "verso": "Qu'il existe des principes de justice antérieurs aux lois établies, auxquels ces lois doivent se conformer pour être légitimes",
+      "explanation": "Sans droit naturel, aucune loi ne serait critiquable au nom de la justice : tout ce qui est légal serait juste par définition. C'est ce qui fonde la possibilité de dénoncer une législation inique.",
+      "tags": [
+        "thèse",
+        "droit"
+      ],
+      "distractors": {
+        "easy": [
+          "Que le droit vient de la nature sauvage",
+          "Que les animaux ont des droits",
+          "Que le plus fort a naturellement raison"
+        ],
+        "medium": [
+          "Que le droit est le produit de chaque culture",
+          "Que seules les lois écrites obligent",
+          "Que le droit dépend de la volonté du souverain"
+        ],
+        "hard": [
+          "Que la justice se réduit à la conformité aux lois en vigueur",
+          "Que le droit naturel se déduit de l'observation des sociétés existantes",
+          "Que les principes du droit varient nécessairement selon les époques"
+        ]
+      }
+    },
+    {
+      "recto": "Que soutient au contraire le positivisme juridique ?",
+      "verso": "Que le droit est l'ensemble des règles effectivement posées par une autorité, indépendamment de leur valeur morale",
+      "explanation": "La thèse a un mérite : elle sépare la question de savoir ce qu'est le droit de celle de savoir ce qu'il devrait être. Son risque est de laisser sans recours celui qui subit une loi légale mais inique.",
+      "tags": [
+        "thèse",
+        "droit"
+      ],
+      "distractors": {
+        "easy": [
+          "Que le droit doit être positif et optimiste",
+          "Que le droit vient de Dieu",
+          "Qu'il n'existe aucune règle"
+        ],
+        "medium": [
+          "Que le droit doit toujours être moralement juste",
+          "Que le droit se déduit de la nature humaine",
+          "Que le droit est le même partout"
+        ],
+        "hard": [
+          "Que la validité d'une norme dépend de sa conformité à la morale",
+          "Que le droit positif dérive nécessairement du droit naturel",
+          "Que seules les coutumes constituent un droit véritable"
+        ]
+      }
+    },
+    {
+      "recto": "Quel repère du programme permet de critiquer une loi sans nier qu'elle soit du droit ?",
+      "verso": "L'opposition entre le légal et le légitime",
+      "explanation": "Une règle peut être régulièrement adoptée — donc légale — et pourtant injustifiable — donc illégitime. Sans cette distinction, la critique des lois iniques serait impossible à formuler.",
+      "tags": [
+        "repère",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Le repère croire / savoir",
+          "Le repère cause / fin",
+          "Le repère genre / espèce / individu"
+        ],
+        "medium": [
+          "Le repère universel / général",
+          "Le repère analyse / synthèse",
+          "Le repère intuitif / discursif"
+        ],
+        "hard": [
+          "Le repère essentiel / accidentel",
+          "Le repère principe / conséquence",
+          "Le repère transcendant / immanent"
+        ]
+      }
+    },
+    {
+      "recto": "Que reproche Calliclès, dans le Gorgias de Platon, aux lois de la cité ?",
+      "verso": "D'être faites par les faibles pour brider les forts, contre une justice naturelle où le meilleur devrait avoir davantage",
+      "explanation": "Cette position radicale oblige à répondre à une question redoutable : pourquoi le fort aurait-il intérêt à être juste ? Toute la République cherchera à montrer que l'injustice ruine d'abord celui qui la commet.",
+      "tags": [
+        "auteur",
+        "Platon"
+      ],
+      "distractors": {
+        "easy": [
+          "D'être trop nombreuses",
+          "D'être mal écrites",
+          "D'être trop anciennes"
+        ],
+        "medium": [
+          "D'être imposées par un tyran",
+          "De favoriser les riches",
+          "De ne pas être appliquées également"
+        ],
+        "hard": [
+          "D'être conformes à une justice naturelle trop exigeante",
+          "De confondre la justice avec l'intérêt du plus fort",
+          "De reposer sur un contrat librement consenti"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi, selon Hobbes, les hommes acceptent-ils de renoncer à leur droit sur toute chose ?",
+      "verso": "Parce que l'état de nature est une guerre de tous contre tous où la sécurité de chacun est nulle",
+      "explanation": "Chez Hobbes, la justice n'existe pas avant le pacte : elle naît avec l'autorité qui rend les conventions contraignantes. Là où il n'y a pas de pouvoir commun, il n'y a ni juste ni injuste.",
+      "tags": [
+        "auteur",
+        "Hobbes"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'ils sont naturellement bons",
+          "Parce qu'ils aiment obéir",
+          "Parce que Dieu le leur ordonne"
+        ],
+        "medium": [
+          "Parce qu'ils cherchent à maximiser leurs richesses",
+          "Parce que la société existe avant les individus",
+          "Parce qu'ils veulent une justice distributive"
+        ],
+        "hard": [
+          "Parce que l'état de nature comporte déjà des lois justes et respectées",
+          "Parce que le pacte les rend plus libres qu'à l'état de nature",
+          "Parce que la propriété leur est garantie avant tout contrat"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle limite Locke assigne-t-il au pouvoir politique que Hobbes n'admettait pas ?",
+      "verso": "Le pouvoir doit garantir des droits antérieurs à lui, notamment la propriété, et peut être renversé s'il les viole",
+      "explanation": "La différence est décisive : chez Hobbes le souverain est hors du contrat et ne peut être jugé ; chez Locke il est institué pour une fin, et un droit de résistance devient concevable.",
+      "tags": [
+        "auteur",
+        "Locke"
+      ],
+      "distractors": {
+        "easy": [
+          "Le pouvoir doit être exercé par un roi",
+          "Le pouvoir doit durer peu de temps",
+          "Le pouvoir ne doit pas lever d'impôts"
+        ],
+        "medium": [
+          "Le pouvoir doit être partagé entre tous les citoyens",
+          "Le pouvoir doit être élu chaque année",
+          "Le pouvoir ne peut pas faire de lois nouvelles"
+        ],
+        "hard": [
+          "Le pouvoir est absolu mais doit respecter les coutumes",
+          "Le pouvoir crée les droits qu'il garantit ensuite",
+          "Le pouvoir échappe à tout jugement une fois institué"
+        ]
+      }
+    },
+    {
+      "recto": "Comment Rousseau caractérise-t-il la loi juste dans le contrat social ?",
+      "verso": "Elle émane de la volonté générale et porte sur tous sans jamais viser un individu en particulier",
+      "explanation": "La généralité est ici un critère de justice, non une simple forme : dès que la loi désigne quelqu'un, elle cesse d'être générale et devient un acte de faveur ou de persécution.",
+      "tags": [
+        "auteur",
+        "Rousseau"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle est votée par le roi",
+          "Elle est acceptée par les plus riches",
+          "Elle est appliquée par la police"
+        ],
+        "medium": [
+          "Elle exprime l'opinion de la majorité du moment",
+          "Elle est écrite par les plus sages",
+          "Elle résulte de la somme des intérêts particuliers"
+        ],
+        "hard": [
+          "Elle émane de la volonté de tous entendue comme total des intérêts",
+          "Elle peut désigner nommément ceux qu'elle oblige",
+          "Elle tire sa validité de son ancienneté"
+        ]
+      }
+    },
+    {
+      "recto": "Quel dispositif Rawls imagine-t-il pour déterminer des principes de justice impartiaux ?",
+      "verso": "Le voile d'ignorance : choisir les règles sans savoir quelle place on occupera dans la société",
+      "explanation": "Ignorant sa fortune, ses talents et sa génération, personne ne peut avantager sa propre position. L'impartialité n'est donc pas demandée comme une vertu : elle est produite par la situation de choix.",
+      "tags": [
+        "auteur",
+        "Rawls"
+      ],
+      "distractors": {
+        "easy": [
+          "Le vote à main levée",
+          "Le tirage au sort des dirigeants",
+          "L'unanimité obligatoire"
+        ],
+        "medium": [
+          "Le calcul du bonheur collectif",
+          "La consultation des experts",
+          "La délibération publique entre citoyens informés"
+        ],
+        "hard": [
+          "L'accord des seuls représentants des plus démunis",
+          "Le choix fait en connaissant sa position réelle",
+          "La règle de l'unanimité des générations futures"
+        ]
+      }
+    },
+    {
+      "recto": "Quel est le premier principe de justice chez Rawls ?",
+      "verso": "Chacun doit avoir un droit égal au système le plus étendu de libertés de base compatible avec le même système pour tous",
+      "explanation": "Ce principe a la priorité : on n'échange pas des libertés fondamentales contre des avantages économiques. C'est ce qui distingue Rawls de l'utilitarisme.",
+      "tags": [
+        "auteur",
+        "Rawls"
+      ],
+      "distractors": {
+        "easy": [
+          "Chacun doit recevoir la même somme d'argent",
+          "Chacun doit travailler autant que les autres",
+          "Chacun doit obéir aux lois"
+        ],
+        "medium": [
+          "Les inégalités doivent profiter aux plus défavorisés",
+          "Le bonheur collectif doit être maximisé",
+          "Les charges doivent être réparties selon le mérite"
+        ],
+        "hard": [
+          "Les libertés peuvent être limitées si le gain économique est important",
+          "Chacun doit avoir un droit égal à une part égale des ressources",
+          "Les libertés de base se déduisent du principe de différence"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'énonce le principe de différence chez Rawls ?",
+      "verso": "Les inégalités socio-économiques ne sont justes que si elles bénéficient aux membres les plus défavorisés de la société",
+      "explanation": "Rawls n'exige donc pas l'égalité des résultats : une inégalité est admissible si elle améliore la situation de ceux qui sont au bas de l'échelle. Le critère est l'effet sur les plus démunis, non l'écart lui-même.",
+      "tags": [
+        "auteur",
+        "Rawls"
+      ],
+      "distractors": {
+        "easy": [
+          "Toutes les inégalités doivent être supprimées",
+          "Les inégalités sont toujours justes",
+          "Chacun doit recevoir selon ses besoins"
+        ],
+        "medium": [
+          "Les inégalités sont justes si elles récompensent le mérite",
+          "Les inégalités doivent être acceptées par la majorité",
+          "Les inégalités sont justes si elles augmentent la richesse totale"
+        ],
+        "hard": [
+          "Les inégalités sont justes si elles profitent au plus grand nombre",
+          "Les inégalités sont justes si elles résultent d'un libre échange",
+          "Les inégalités sont justes si elles n'excèdent pas un seuil fixé"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la justice résiste-t-elle au calcul utilitariste ?",
+      "verso": "Parce qu'un gain global de bien-être ne suffit pas à légitimer le sacrifice des droits d'une personne",
+      "explanation": "L'utilitarisme additionne les satisfactions sans respecter la séparation des personnes : une majorité satisfaite peut compenser arithmétiquement une minorité écrasée. La justice, elle, protège chacun contre ce calcul.",
+      "tags": [
+        "objection",
+        "utilitarisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que le calcul est trop difficile",
+          "Parce que le bonheur ne se mesure pas",
+          "Parce que l'utilitarisme est ancien"
+        ],
+        "medium": [
+          "Parce que l'utilitarisme ignore les conséquences",
+          "Parce que la justice n'a pas de rapport avec le bien-être",
+          "Parce que l'utilitarisme refuse toute égalité"
+        ],
+        "hard": [
+          "Parce que l'utilitarisme accorde une priorité absolue aux libertés de base",
+          "Parce que le calcul suppose une hiérarchie fixe des personnes",
+          "Parce que l'utilitarisme se désintéresse du bien-être collectif"
+        ]
+      }
+    },
+    {
+      "recto": "Que distingue-t-on entre égalité des chances et égalité des résultats ?",
+      "verso": "La première vise à donner à chacun les mêmes possibilités de départ, la seconde à obtenir des situations finales identiques",
+      "explanation": "L'égalité des chances suppose que l'on corrige les inégalités initiales, faute de quoi elle légitime les écarts en les attribuant au seul mérite. C'est le débat central des politiques éducatives.",
+      "tags": [
+        "distinction",
+        "égalité"
+      ],
+      "distractors": {
+        "easy": [
+          "Ce sont deux mots pour la même chose",
+          "La première est économique, la seconde politique",
+          "La première concerne les riches, la seconde les pauvres"
+        ],
+        "medium": [
+          "La première vise des situations finales identiques, la seconde des possibilités de départ égales",
+          "La première est juridique, la seconde morale",
+          "La première concerne l'école, la seconde le travail"
+        ],
+        "hard": [
+          "L'égalité des chances garantit à elle seule des résultats équitables",
+          "L'égalité des résultats découle mécaniquement de l'égalité des chances",
+          "L'égalité des chances suppose que les positions de départ soient déjà identiques"
+        ]
+      }
+    },
+    {
+      "recto": "Sur quel argument repose la justification d'une politique de discrimination positive ?",
+      "verso": "Qu'une inégalité de traitement temporaire est nécessaire pour compenser un désavantage structurel et rendre l'égalité effective",
+      "explanation": "L'objection symétrique est forte : traiter les individus selon leur appartenance risque de reconduire la catégorisation qu'on prétend combattre. Le débat porte sur la pertinence du critère retenu et sur la durée de la mesure.",
+      "tags": [
+        "débat",
+        "égalité"
+      ],
+      "distractors": {
+        "easy": [
+          "Qu'il faut favoriser ses proches",
+          "Que certains groupes valent mieux que d'autres",
+          "Que l'égalité n'a aucune valeur"
+        ],
+        "medium": [
+          "Que la majorité doit toujours l'emporter",
+          "Que les résultats doivent être identiques pour tous",
+          "Que la loi doit désigner nommément ses bénéficiaires"
+        ],
+        "hard": [
+          "Qu'une différence de traitement se justifie sans critère pertinent",
+          "Que l'égalité formelle suffit à supprimer les désavantages",
+          "Qu'un avantage accordé doit être définitif pour être efficace"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qui distingue la peine judiciaire de la vengeance ?",
+      "verso": "La peine est prononcée par un tiers impartial, selon une règle publique et proportionnée, et non par la victime elle-même",
+      "explanation": "L'intervention du tiers interrompt la spirale des représailles : nul n'est juge dans sa propre cause. C'est en ce sens que l'institution judiciaire est déjà, en elle-même, une conquête sur la violence.",
+      "tags": [
+        "distinction",
+        "peine"
+      ],
+      "distractors": {
+        "easy": [
+          "La peine est plus sévère que la vengeance",
+          "La peine est plus rapide",
+          "La vengeance est interdite par la religion"
+        ],
+        "medium": [
+          "La peine vise à faire souffrir davantage",
+          "La vengeance est prononcée par un juge indépendant",
+          "La peine ne concerne que les crimes graves"
+        ],
+        "hard": [
+          "La peine est décidée par la victime selon une règle publique",
+          "La vengeance obéit à un principe de proportionnalité institué",
+          "La peine se distingue seulement par son caractère écrit"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles sont les deux grandes justifications de la peine qui s'opposent ?",
+      "verso": "La rétribution, qui punit parce qu'une faute a été commise, et la prévention, qui punit pour éviter que d'autres le soient",
+      "explanation": "La première regarde le passé et proportionne la peine à la faute ; la seconde regarde l'avenir et risque de punir plus que la faute pour dissuader. Kant refuse de traiter le condamné comme un moyen de dissuasion.",
+      "tags": [
+        "débat",
+        "peine"
+      ],
+      "distractors": {
+        "easy": [
+          "La prison et l'amende",
+          "La justice et la police",
+          "La sévérité et l'indulgence"
+        ],
+        "medium": [
+          "La réparation et l'indemnisation",
+          "La sanction civile et la sanction pénale",
+          "La peine publique et la peine privée"
+        ],
+        "hard": [
+          "La rétribution et la réhabilitation entendues comme identiques",
+          "La prévention et la dissuasion opposées entre elles",
+          "La proportionnalité et la légalité des délits"
+        ]
+      }
+    },
+    {
+      "recto": "Quel argument Kant oppose-t-il à une peine justifiée uniquement par son utilité sociale ?",
+      "verso": "Qu'elle traiterait le condamné comme un simple moyen au service de la sécurité des autres",
+      "explanation": "Pour Kant, la peine est due parce qu'une faute a été commise, non parce qu'elle produira de bons effets. C'est aussi ce qui la limite : on ne peut pas punir plus qu'il n'est mérité pour l'exemple.",
+      "tags": [
+        "auteur",
+        "Kant"
+      ],
+      "distractors": {
+        "easy": [
+          "Qu'elle coûte trop cher à la société",
+          "Qu'elle est trop douce",
+          "Qu'elle n'est pas assez appliquée"
+        ],
+        "medium": [
+          "Qu'elle ne dissuade pas efficacement les criminels",
+          "Qu'elle empêche la réinsertion du condamné",
+          "Qu'elle contredit le principe d'égalité devant la loi"
+        ],
+        "hard": [
+          "Qu'elle proportionne la peine à la faute plutôt qu'à ses effets",
+          "Qu'elle suppose que le condamné soit irresponsable",
+          "Qu'elle confond la peine avec la réparation civile"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la présomption d'innocence est-elle une exigence de justice et non une faveur faite aux accusés ?",
+      "verso": "Parce que faire peser la charge de la preuve sur l'accusation est la seule manière de protéger l'innocent contre l'erreur du pouvoir",
+      "explanation": "Renverser la charge exigerait de chacun qu'il prouve son innocence, ce qui est souvent impossible. La règle assume donc délibérément un coût : mieux vaut laisser échapper un coupable que condamner un innocent.",
+      "tags": [
+        "droit",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les accusés sont généralement innocents",
+          "Parce que les juges se trompent rarement",
+          "Parce que la prison coûte cher"
+        ],
+        "medium": [
+          "Parce que la justice doit ménager la susceptibilité des accusés",
+          "Parce que la police manque de moyens",
+          "Parce que l'accusé connaît mieux les faits"
+        ],
+        "hard": [
+          "Parce que la charge de la preuve incombe naturellement à l'accusé",
+          "Parce qu'elle garantit qu'aucun coupable n'échappera à la peine",
+          "Parce qu'elle suppose la culpabilité jusqu'à preuve du contraire"
+        ]
+      }
+    },
+    {
+      "recto": "Comment le procès contribue-t-il à la justice au-delà de la seule décision rendue ?",
+      "verso": "En imposant une procédure contradictoire où chacun peut être entendu, de sorte que la décision soit justifiable et non seulement imposée",
+      "explanation": "La justice n'est pas seulement un résultat mais une forme. Une bonne décision prise sans entendre les parties reste injuste, parce qu'elle traite les personnes comme des objets d'administration.",
+      "tags": [
+        "procédure",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "En rendant la décision plus rapide",
+          "En rendant la peine plus lourde",
+          "En occupant les juges"
+        ],
+        "medium": [
+          "En garantissant que la majorité approuve la décision",
+          "En permettant à la victime de fixer la peine",
+          "En rendant la décision définitive immédiatement"
+        ],
+        "hard": [
+          "En substituant la publicité au raisonnement juridique",
+          "En permettant au juge de trancher sans motiver sa décision",
+          "En garantissant l'unanimité des parties sur l'issue"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la justice suppose-t-elle un rapport à autrui et non seulement une règle correcte ?",
+      "verso": "Parce qu'être juste exige de reconnaître l'autre comme une personne dont les prétentions comptent autant que les miennes",
+      "explanation": "Une règle formellement impeccable appliquée sans cette reconnaissance devient une machine. C'est pourquoi la justice se dégrade dès qu'un groupe cesse d'être compté comme partie prenante.",
+      "tags": [
+        "synthèse",
+        "autrui"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que la justice est un sentiment",
+          "Parce que les règles sont toujours mauvaises",
+          "Parce qu'il faut plaire aux autres"
+        ],
+        "medium": [
+          "Parce que la justice dépend de l'opinion d'autrui",
+          "Parce que les règles doivent être approuvées à l'unanimité",
+          "Parce que chacun a sa propre justice"
+        ],
+        "hard": [
+          "Parce que la correction formelle d'une règle suffit à la rendre juste",
+          "Parce que la reconnaissance d'autrui dispense de toute règle générale",
+          "Parce que la justice se réduit à la sympathie envers les proches"
+        ]
+      }
+    },
+    {
+      "recto": "Quel bilan peut-on dresser sur la justice ?",
+      "verso": "Elle articule une exigence d'égalité et une attention aux différences pertinentes, et n'existe que dans des institutions qui la rendent effective",
+      "explanation": "Réduite à l'égalité stricte, elle devient aveugle ; réduite à l'équité sans critère, elle devient arbitraire. Et une justice qui resterait un idéal sans institution ne protégerait personne.",
+      "tags": [
+        "synthèse",
+        "bilan"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle consiste à donner la même chose à tous",
+          "Elle est une illusion des faibles",
+          "Elle se réduit à l'application des lois"
+        ],
+        "medium": [
+          "Elle dépend uniquement de la vertu des individus",
+          "Elle se confond avec le calcul du bonheur collectif",
+          "Elle varie selon les cultures sans aucun critère commun"
+        ],
+        "hard": [
+          "Elle exige de supprimer toute inégalité de traitement",
+          "Elle se réduit à une procédure impartiale sans contenu",
+          "Elle est un idéal moral sans rapport avec les institutions"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,588 @@
+{
+  "id": "mathematiques-terminale-probabilites-conditionnelles",
+  "title": "Probabilités conditionnelles et indépendance",
+  "emoji": "🎲",
+  "subject": "mathematics",
+  "country": "fr",
+  "courseDescription": "Spé Maths · Terminale — conditionnement, arbres pondérés, formule des probabilités totales, inversion du conditionnement et indépendance.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Probabilités conditionnelles et indépendance</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · spécialité Mathématiques<br>\n  <b>Thème&nbsp;:</b> Probabilités et statistiques<br>\n  <b>Chapitre</b> · environ 3 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> Que devient une probabilité quand on apprend quelque chose&nbsp;?</p></blockquote>\n\n<p>Une information nouvelle ne change pas le monde&nbsp;: elle change ce que l'on sait de lui. Apprendre qu'un test est positif ne rend personne malade, mais modifie la probabilité qu'on lui accorde. Tout ce chapitre consiste à donner un sens mathématique précis à ce mouvement&nbsp;: <strong>conditionner, c'est changer d'univers</strong>. On verra que l'opération n'est pas symétrique — la probabilité d'être malade sachant le test positif n'a rien à voir avec celle du test positif sachant la maladie — et que l'<em>indépendance</em>, loin d'être une impression, est une égalité numérique à vérifier.</p>\n\n<h2>1 · Conditionner, c'est changer d'univers</h2>\n\n<div class=\"callout\">\n  <strong>Notion · Probabilité conditionnelle</strong><br>\n  Si P(B) n'est pas nulle, la probabilité de A sachant B, notée P<sub>B</sub>(A), vaut P(A ∩ B) / P(B).\n</div>\n\n<p>Le numérateur ne retient que les issues où <em>les deux</em> événements se produisent&nbsp;; le dénominateur renormalise pour que B, devenu le nouvel univers, ait une probabilité égale à 1. L'hypothèse P(B) strictement positive est essentielle&nbsp;: on ne peut pas se placer dans un univers impossible.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 170\" role=\"img\" aria-label=\"Conditionner revient à restreindre l'univers : à gauche l'univers entier contient deux événements qui se recoupent, à droite seul l'événement B subsiste et devient le nouvel univers, la part de A qu'il contient étant renormalisée par la probabilité de B\">\n    <rect x=\"8\" y=\"20\" width=\"140\" height=\"110\" rx=\"12\" fill=\"none\" stroke=\"currentColor\" stroke-opacity=\".35\"/>\n    <text x=\"14\" y=\"16\" font-size=\"9\" class=\"s-muted\">univers</text>\n    <circle cx=\"60\" cy=\"72\" r=\"34\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <circle cx=\"100\" cy=\"72\" r=\"34\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"38\" y=\"76\" font-size=\"11\" fill=\"currentColor\">A</text>\n    <text x=\"118\" y=\"76\" font-size=\"11\" fill=\"currentColor\">B</text>\n    <text x=\"80\" y=\"120\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">A inter B</text>\n    <line x1=\"156\" y1=\"72\" x2=\"188\" y2=\"72\" stroke=\"var(--accent)\" stroke-width=\"1.5\" marker-end=\"url(#ar-mpc1)\"/>\n    <text x=\"172\" y=\"62\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">on sait B</text>\n    <circle cx=\"252\" cy=\"72\" r=\"46\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"252\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">B devient l'univers</text>\n    <path d=\"M252 26 A46 46 0 0 0 214 96 L252 72 Z\" fill=\"var(--accent)\" fill-opacity=\".35\"/>\n    <text x=\"226\" y=\"76\" font-size=\"10\" fill=\"currentColor\">A</text>\n    <text x=\"252\" y=\"140\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">P(A inter B) / P(B)</text>\n    <text x=\"252\" y=\"156\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">on renormalise</text>\n    <defs>\n      <marker id=\"ar-mpc1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n  </svg>\n  <figcaption>Le numérateur mesure l'intersection, le dénominateur remet le nouvel univers à l'échelle 1.</figcaption>\n</figure>\n\n<p>Lue à l'envers, la définition donne la <strong>formule du produit</strong>, qui sert bien plus souvent que la définition elle-même&nbsp;:</p>\n\n<p style=\"text-align:center\"><strong>P(A ∩ B) = P(B) × P<sub>B</sub>(A) = P(A) × P<sub>A</sub>(B)</strong></p>\n\n<p>En situation d'équiprobabilité, tout devient un comptage&nbsp;: les cardinaux de l'univers se simplifient, et P<sub>B</sub>(A) n'est que la proportion d'issues de B qui sont aussi dans A. De même, dans un tableau croisé, une probabilité conditionnelle se lit en divisant une case par le <em>total de sa ligne</em> — et non par le total général.</p>\n\n<h2>2 · Les arbres pondérés</h2>\n\n<p>L'arbre pondéré est l'outil de calcul du chapitre&nbsp;: il transforme les formules ensemblistes en trois règles de lecture.</p>\n\n<ul>\n  <li>La somme des probabilités portées par les branches issues d'un <strong>même nœud vaut 1</strong> (elles décrivent tous les cas possibles à cette étape).</li>\n  <li>La probabilité d'un <strong>chemin</strong> est le <strong>produit</strong> des branches qui le composent — c'est la formule du produit appliquée de proche en proche.</li>\n  <li>La probabilité d'un <strong>événement</strong> est la <strong>somme</strong> des chemins qui le réalisent, ces chemins étant deux à deux incompatibles.</li>\n</ul>\n\n<p>Reste à savoir <em>quoi mettre au premier niveau</em>&nbsp;: on y place l'événement dont l'énoncé donne les probabilités <em>directement</em>, les autres taux étant nécessairement conditionnels. Placer le mauvais événement en tête oblige à inverser un conditionnement avant même de commencer.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Arbre pondéré à deux niveaux : au premier niveau l'événement B et son complémentaire, au second niveau A et son complémentaire avec des poids conditionnels ; la probabilité de A s'obtient en additionnant les deux chemins qui aboutissent à A\">\n    <circle cx=\"20\" cy=\"95\" r=\"4\" fill=\"var(--accent)\"/>\n    <line x1=\"26\" y1=\"95\" x2=\"88\" y2=\"46\" stroke=\"var(--accent)\" stroke-opacity=\".6\" stroke-width=\"1.5\"/>\n    <line x1=\"26\" y1=\"95\" x2=\"88\" y2=\"144\" stroke=\"var(--accent)\" stroke-opacity=\".6\" stroke-width=\"1.5\"/>\n    <text x=\"46\" y=\"62\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">P(B)</text>\n    <text x=\"40\" y=\"134\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">1 − P(B)</text>\n    <rect x=\"88\" y=\"34\" width=\"34\" height=\"24\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"105\" y=\"50\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">B</text>\n    <rect x=\"88\" y=\"132\" width=\"34\" height=\"24\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"105\" y=\"148\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">non B</text>\n    <line x1=\"122\" y1=\"46\" x2=\"196\" y2=\"22\" stroke=\"currentColor\" stroke-opacity=\".45\"/>\n    <line x1=\"122\" y1=\"46\" x2=\"196\" y2=\"68\" stroke=\"currentColor\" stroke-opacity=\".45\"/>\n    <line x1=\"122\" y1=\"144\" x2=\"196\" y2=\"120\" stroke=\"currentColor\" stroke-opacity=\".45\"/>\n    <line x1=\"122\" y1=\"144\" x2=\"196\" y2=\"166\" stroke=\"currentColor\" stroke-opacity=\".45\"/>\n    <text x=\"150\" y=\"26\" font-size=\"8\" class=\"s-muted\">P sachant B de A</text>\n    <text x=\"150\" y=\"70\" font-size=\"8\" class=\"s-muted\">complément</text>\n    <text x=\"146\" y=\"124\" font-size=\"8\" class=\"s-muted\">P sachant non B de A</text>\n    <text x=\"150\" y=\"168\" font-size=\"8\" class=\"s-muted\">complément</text>\n    <rect x=\"196\" y=\"10\" width=\"40\" height=\"22\" rx=\"11\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"216\" y=\"25\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">A</text>\n    <rect x=\"196\" y=\"58\" width=\"40\" height=\"22\" rx=\"11\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"216\" y=\"73\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">non A</text>\n    <rect x=\"196\" y=\"108\" width=\"40\" height=\"22\" rx=\"11\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"216\" y=\"123\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">A</text>\n    <rect x=\"196\" y=\"156\" width=\"40\" height=\"22\" rx=\"11\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"216\" y=\"171\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">non A</text>\n    <line x1=\"244\" y1=\"21\" x2=\"258\" y2=\"21\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <line x1=\"258\" y1=\"21\" x2=\"258\" y2=\"119\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <line x1=\"244\" y1=\"119\" x2=\"258\" y2=\"119\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"266\" y=\"64\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">P(A)</text>\n    <text x=\"266\" y=\"78\" font-size=\"9\" class=\"s-muted\">somme des</text>\n    <text x=\"266\" y=\"90\" font-size=\"9\" class=\"s-muted\">deux chemins</text>\n  </svg>\n  <figcaption>Les deux chemins menant à A s'additionnent&nbsp;: c'est la formule des probabilités totales, vue de près.</figcaption>\n</figure>\n\n<h2>3 · La formule des probabilités totales</h2>\n\n<p>Une <strong>partition de l'univers</strong> est une famille d'événements deux à deux incompatibles, de probabilités non nulles, dont la réunion est l'univers entier. Chaque issue tombe dans un cas, et dans un seul.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Probabilités totales</strong><br>\n  Pour une partition B₁, … , B<sub>n</sub>&nbsp;:<br>\n  P(A) = P(B₁) × P<sub>B₁</sub>(A) + … + P(B<sub>n</sub>) × P<sub>B<sub>n</sub></sub>(A).\n</div>\n\n<p>Le cas d'école, celui de presque tous les exercices, est la partition à deux éléments&nbsp;:</p>\n\n<p style=\"text-align:center\"><strong>P(A) = P(B) × P<sub>B</sub>(A) + P(non B) × P<sub>non&nbsp;B</sub>(A)</strong></p>\n\n<p>On la reconnaît toujours à la même situation&nbsp;: l'énoncé donne des taux <em>par catégorie</em> (par machine, par filière, par groupe d'âge) et demande un taux <em>global</em>. Le résultat n'est pas la moyenne des taux, mais leur <strong>moyenne pondérée par les effectifs</strong> — c'est là que se joue toute la subtilité.</p>\n\n<h2>4 · Inverser le conditionnement</h2>\n\n<p>Les deux conditionnements P<sub>B</sub>(A) et P<sub>A</sub>(B) partagent le même numérateur, P(A ∩ B)&nbsp;; seul leur dénominateur diffère. D'où la méthode d'<strong>inversion</strong>&nbsp;: on calcule l'intersection dans le sens fourni par l'énoncé, on calcule le nouveau dénominateur par les probabilités totales, puis on divise.</p>\n\n<p>L'exemple canonique est le <strong>dépistage</strong>. Prenons une maladie touchant 1&nbsp;% de la population et un test détectant 99&nbsp;% des malades, mais donnant 5&nbsp;% de positifs chez les personnes saines. Sur 10 000 personnes&nbsp;:</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 180\" role=\"img\" aria-label=\"Diagramme en barres du dépistage d'une maladie rare sur dix mille personnes : environ quatre-vingt-dix-neuf vrais positifs venant des malades contre quatre cent quatre-vingt-quinze faux positifs venant des personnes saines, si bien qu'un test positif correspond à un malade dans seulement un cas sur six environ\">\n    <line x1=\"30\" y1=\"130\" x2=\"330\" y2=\"130\" stroke=\"currentColor\" stroke-opacity=\".3\"/>\n    <line x1=\"30\" y1=\"90\" x2=\"330\" y2=\"90\" stroke=\"currentColor\" stroke-opacity=\".12\"/>\n    <line x1=\"30\" y1=\"50\" x2=\"330\" y2=\"50\" stroke=\"currentColor\" stroke-opacity=\".12\"/>\n    <text x=\"6\" y=\"133\" font-size=\"8\" class=\"s-muted\">0</text>\n    <text x=\"0\" y=\"93\" font-size=\"8\" class=\"s-muted\">250</text>\n    <text x=\"0\" y=\"53\" font-size=\"8\" class=\"s-muted\">500</text>\n    <rect x=\"60\" y=\"114\" width=\"70\" height=\"16\" fill=\"var(--accent)\" fill-opacity=\".55\"/>\n    <text x=\"95\" y=\"146\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">vrais positifs</text>\n    <text x=\"95\" y=\"158\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">99</text>\n    <rect x=\"200\" y=\"51\" width=\"70\" height=\"79\" fill=\"var(--accent)\" fill-opacity=\".25\"/>\n    <text x=\"235\" y=\"146\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">faux positifs</text>\n    <text x=\"235\" y=\"158\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">495</text>\n    <text x=\"30\" y=\"18\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Sur 10 000 personnes testées</text>\n    <text x=\"30\" y=\"32\" font-size=\"9\" fill=\"currentColor\">100 malades, 9 900 personnes saines</text>\n    <text x=\"30\" y=\"176\" font-size=\"9\" fill=\"currentColor\">un test positif signale un malade dans 99 cas sur 594, soit 17 pour cent</text>\n  </svg>\n  <figcaption>Le test détecte presque tous les malades&nbsp;; pourtant, la plupart des positifs sont sains.</figcaption>\n</figure>\n\n<p>Le paradoxe n'en est pas un&nbsp;: les personnes saines sont si nombreuses qu'un taux d'erreur même faible produit chez elles <strong>plus de positifs</strong> que le test n'en produit chez les rares malades. La fiabilité annoncée d'un test est une probabilité <em>sachant la maladie</em>&nbsp;; ce qui intéresse le patient est la probabilité <em>sachant le résultat</em>. Ce sont deux nombres différents.</p>\n\n<h2>5 · L'indépendance</h2>\n\n<div class=\"callout\">\n  <strong>Notion · Indépendance</strong><br>\n  A et B sont indépendants lorsque P(A ∩ B) = P(A) × P(B).<br>\n  De façon équivalente, si P(B) n'est pas nulle&nbsp;: P<sub>B</sub>(A) = P(A).\n</div>\n\n<p>La seconde écriture donne le sens&nbsp;: savoir que B est réalisé <strong>ne modifie pas</strong> la probabilité de A. Dans un arbre, cela se voit d'un coup d'œil — les branches d'un même niveau portent les mêmes poids, quel que soit le chemin emprunté pour y arriver.</p>\n\n<p>Trois précisions qui reviennent en évaluation&nbsp;:</p>\n\n<ul>\n  <li>L'indépendance est <strong>symétrique</strong> en A et B, contrairement au conditionnement.</li>\n  <li>Si A et B sont indépendants, alors A et le complémentaire de B le sont aussi — le calcul tient en une ligne, par factorisation.</li>\n  <li>L'indépendance est une <strong>égalité numérique</strong>, non une impression d'absence de lien. On la démontre par le calcul, ou bien l'énoncé la pose comme hypothèse de modélisation&nbsp;: jamais par intuition.</li>\n</ul>\n\n<p>Ce dernier point sert notamment à modéliser une <strong>succession d'épreuves indépendantes</strong>&nbsp;: le résultat d'une étape ne change pas les probabilités des suivantes, ce qui autorise à multiplier les poids sans jamais conditionner. C'est l'hypothèse qui fonde le schéma de Bernoulli et, avec lui, la loi binomiale.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>La démarche</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Frise méthodique d'un exercice de probabilités conditionnelles : nommer les événements, repérer les données conditionnelles de l'énoncé, construire l'arbre en plaçant au premier niveau les probabilités directes, appliquer les probabilités totales pour un taux global, puis inverser le conditionnement si la question porte sur l'autre sens\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"176\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">1. Nommer les événements</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Une lettre, une phrase, pas plus</text>\n    <circle cx=\"26\" cy=\"60\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"57\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">2. Trier les données</text>\n    <text x=\"44\" y=\"70\" font-size=\"10\" fill=\"currentColor\">Directes ou conditionnelles ?</text>\n    <circle cx=\"26\" cy=\"100\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"97\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">3. Construire l'arbre</text>\n    <text x=\"44\" y=\"110\" font-size=\"10\" fill=\"currentColor\">Les directes au premier niveau</text>\n    <circle cx=\"26\" cy=\"140\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"137\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">4. Probabilités totales</text>\n    <text x=\"44\" y=\"150\" font-size=\"10\" fill=\"currentColor\">Additionner les chemins favorables</text>\n    <circle cx=\"26\" cy=\"176\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"173\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">5. Inverser si besoin</text>\n    <text x=\"44\" y=\"186\" font-size=\"10\" fill=\"currentColor\">Même intersection, autre dénominateur</text>\n  </svg>\n  <figcaption>L'étape 2 décide de tout&nbsp;: un arbre construit à l'envers ne se rattrape pas.</figcaption>\n</figure>\n\n<h3>Formules à connaître</h3>\n\n<table>\n  <tr><th>Objet</th><th>Formule</th></tr>\n  <tr><td>Probabilité conditionnelle</td><td>P<sub>B</sub>(A) = P(A ∩ B) / P(B)</td></tr>\n  <tr><td>Formule du produit</td><td>P(A ∩ B) = P(B) × P<sub>B</sub>(A)</td></tr>\n  <tr><td>Probabilités totales (partition simple)</td><td>P(A) = P(B)P<sub>B</sub>(A) + P(non B)P<sub>non B</sub>(A)</td></tr>\n  <tr><td>Inversion du conditionnement</td><td>P<sub>A</sub>(B) = P(B)P<sub>B</sub>(A) / P(A)</td></tr>\n  <tr><td>Indépendance</td><td>P(A ∩ B) = P(A) × P(B)</td></tr>\n</table>\n\n<h3>Notions à distinguer</h3>\n\n<table>\n  <tr><th>Distinction</th><th>Ce qui se joue</th></tr>\n  <tr><td>P<sub>B</sub>(A) / P<sub>A</sub>(B)</td><td>Même numérateur, dénominateurs différents</td></tr>\n  <tr><td>Incompatibles / indépendants</td><td>Intersection vide contre produit des probabilités</td></tr>\n  <tr><td>P(A ∩ B) / P<sub>B</sub>(A)</td><td>Une part de l'univers entier contre une part de B</td></tr>\n  <tr><td>Taux par catégorie / taux global</td><td>Moyenne pondérée, jamais moyenne simple</td></tr>\n  <tr><td>Avec remise / sans remise</td><td>Épreuves indépendantes ou conditionnées</td></tr>\n</table>\n\n<h3>Les mots de l'énoncé</h3>\n\n<table>\n  <tr><th>Formulation</th><th>Traduction</th></tr>\n  <tr><td>« parmi les », « chez les », « sachant que »</td><td>Probabilité conditionnelle</td></tr>\n  <tr><td>« et », « les deux »</td><td>Intersection</td></tr>\n  <tr><td>« ou », « au moins un des deux »</td><td>Réunion</td></tr>\n  <tr><td>« dans l'ensemble », « au total »</td><td>Probabilité simple, à obtenir par les totales</td></tr>\n  <tr><td>« les tirages sont indépendants »</td><td>Hypothèse posée, pas à démontrer</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Confondre P<sub>B</sub>(A) et P<sub>A</sub>(B). Un test qui détecte 99&nbsp;% des malades n'annonce <em>pas</em> que 99&nbsp;% des positifs sont malades&nbsp;— pour une maladie rare, ce second nombre peut tomber sous 20&nbsp;%. Deux erreurs voisines&nbsp;: prendre pour un taux global une moyenne simple des taux par catégorie, au lieu d'une moyenne pondérée par les effectifs&nbsp;; et déclarer deux événements indépendants parce qu'ils «&nbsp;n'ont rien à voir&nbsp;», alors que l'indépendance est une égalité à vérifier.\n</div>\n\n<blockquote><p>Une probabilité ne décrit pas le monde, mais l'état de notre information sur lui. Conditionner, c'est simplement en tenir compte&nbsp;— et découvrir, souvent, que l'intuition avait pris un sens pour l'autre.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Spécialité Mathématiques — Probabilités et statistiques",
+  "cards": [
+    {
+      "recto": "Comment se définit la probabilité de A sachant B ?",
+      "verso": "C'est la probabilité de l'intersection de A et B, divisée par la probabilité de B",
+      "explanation": "Conditionner revient à changer d'univers : on se restreint aux issues où B est réalisé, et l'on renormalise en divisant par la probabilité de ce nouvel univers. La définition n'a de sens que si la probabilité de B n'est pas nulle.",
+      "tags": [
+        "conditionnement",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "C'est le produit des probabilités de A et de B",
+          "C'est la somme des probabilités de A et de B",
+          "C'est la probabilité de A, inchangée"
+        ],
+        "medium": [
+          "C'est la probabilité de l'intersection de A et B, divisée par la probabilité de A",
+          "C'est la probabilité de la réunion de A et B, divisée par la probabilité de B",
+          "C'est la probabilité de B, divisée par la probabilité de l'intersection"
+        ],
+        "hard": [
+          "C'est la probabilité de l'intersection de A et B, divisée par la probabilité de la réunion de A et B",
+          "C'est la probabilité de l'intersection de A et B, divisée par la probabilité du complémentaire de B",
+          "C'est la probabilité de l'intersection de A et B, multipliée par la probabilité de B"
+        ]
+      }
+    },
+    {
+      "recto": "Sous quelle condition la probabilité conditionnelle sachant B est-elle définie ?",
+      "verso": "Il faut que la probabilité de B soit strictement positive",
+      "explanation": "On divise par la probabilité de B : un événement de probabilité nulle ne peut servir d'univers de référence. Dans un arbre pondéré, cela signifie qu'aucune branche ne peut porter le poids zéro sans rendre la suite du chemin sans objet.",
+      "tags": [
+        "conditionnement",
+        "condition"
+      ],
+      "distractors": {
+        "easy": [
+          "Il faut que B soit l'univers tout entier",
+          "Il faut que la probabilité de B soit inférieure à celle de A",
+          "Il faut que A et B soient incompatibles"
+        ],
+        "medium": [
+          "Il faut que la probabilité de A soit strictement positive",
+          "Il faut que A et B soient indépendants",
+          "Il faut que la probabilité de l'intersection soit strictement positive"
+        ],
+        "hard": [
+          "Il faut que la probabilité de B soit strictement positive et strictement inférieure à 1",
+          "Il faut que la probabilité de B soit positive au sens large",
+          "Il faut que la probabilité de B soit strictement positive et que A soit inclus dans B"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle formule donne la probabilité de l'intersection de deux événements A et B ?",
+      "verso": "La probabilité de B multipliée par la probabilité de A sachant B",
+      "explanation": "C'est la définition du conditionnement lue à l'envers, et c'est la règle qui justifie de multiplier les poids le long d'un chemin d'arbre. Elle s'écrit aussi en échangeant les rôles : probabilité de A multipliée par la probabilité de B sachant A.",
+      "tags": [
+        "formule",
+        "intersection"
+      ],
+      "distractors": {
+        "easy": [
+          "La somme des probabilités de A et de B",
+          "La différence des probabilités de A et de B",
+          "La probabilité de A divisée par celle de B"
+        ],
+        "medium": [
+          "Le produit des probabilités de A et de B, toujours",
+          "La probabilité de B divisée par la probabilité de A sachant B",
+          "La probabilité de A sachant B, augmentée de la probabilité de B"
+        ],
+        "hard": [
+          "La probabilité de A multipliée par la probabilité de A sachant B",
+          "La probabilité de B multipliée par la probabilité de B sachant A",
+          "La probabilité de B multipliée par la probabilité de A sachant B, à condition que A et B soient indépendants"
+        ]
+      }
+    },
+    {
+      "recto": "Que vaut la somme des probabilités portées par les branches issues d'un même nœud d'un arbre pondéré ?",
+      "verso": "Elle vaut toujours 1",
+      "explanation": "Les branches issues d'un nœud décrivent tous les cas possibles à cette étape, sachant que le chemin y est parvenu : elles forment une partition de l'univers conditionnel. C'est le contrôle le plus rapide d'un arbre mal rempli.",
+      "tags": [
+        "arbre",
+        "règle"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle vaut le nombre de branches",
+          "Elle vaut 0",
+          "Elle vaut la probabilité du nœud"
+        ],
+        "medium": [
+          "Elle vaut 1 seulement au premier niveau de l'arbre",
+          "Elle vaut la probabilité du chemin menant au nœud",
+          "Elle vaut 1 divisé par le nombre de niveaux de l'arbre"
+        ],
+        "hard": [
+          "Elle vaut 1, à condition que les événements du niveau soient indépendants",
+          "Elle vaut 1 pour les branches du dernier niveau seulement",
+          "Elle vaut la probabilité du nœud, les poids étant conditionnels"
+        ]
+      }
+    },
+    {
+      "recto": "Comment calcule-t-on la probabilité d'un chemin complet dans un arbre pondéré ?",
+      "verso": "En multipliant les probabilités portées par les branches successives de ce chemin",
+      "explanation": "Chaque poids après le premier niveau est une probabilité conditionnelle : le produit reconstitue exactement la formule de l'intersection. C'est pourquoi l'arbre dispense de toute écriture ensembliste lourde.",
+      "tags": [
+        "arbre",
+        "règle"
+      ],
+      "distractors": {
+        "easy": [
+          "En additionnant les probabilités des branches",
+          "En prenant la plus petite des probabilités rencontrées",
+          "En divisant la première probabilité par les suivantes"
+        ],
+        "medium": [
+          "En multipliant les branches, puis en divisant par le nombre de niveaux",
+          "En additionnant les branches, puis en divisant par leur nombre",
+          "En multipliant seulement les branches du dernier niveau"
+        ],
+        "hard": [
+          "En multipliant les branches, à condition que les étapes soient indépendantes",
+          "En multipliant les branches, puis en multipliant par la probabilité du nœud terminal",
+          "En multipliant les branches conditionnelles seulement, la première étant exclue"
+        ]
+      }
+    },
+    {
+      "recto": "Comment obtient-on, dans un arbre, la probabilité d'un événement réalisé par plusieurs chemins ?",
+      "verso": "En additionnant les probabilités de tous les chemins qui le réalisent",
+      "explanation": "Les chemins d'un arbre sont deux à deux incompatibles, puisqu'ils diffèrent au moins par une branche : leurs probabilités s'ajoutent donc sans correction. C'est la lecture pratique de la formule des probabilités totales.",
+      "tags": [
+        "arbre",
+        "règle"
+      ],
+      "distractors": {
+        "easy": [
+          "En multipliant les probabilités des chemins concernés",
+          "En prenant la probabilité du chemin le plus probable",
+          "En divisant la somme des chemins par leur nombre"
+        ],
+        "medium": [
+          "En additionnant les chemins, puis en retranchant leur intersection",
+          "En additionnant les chemins, puis en divisant par le nombre total de chemins",
+          "En multipliant les chemins, puis en additionnant les branches communes"
+        ],
+        "hard": [
+          "En additionnant les chemins, à condition qu'ils soient de même longueur",
+          "En additionnant les chemins, puis en retranchant les chemins comptés deux fois",
+          "En additionnant les chemins et en normalisant par la somme totale des chemins de l'arbre"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on une partition de l'univers en probabilités ?",
+      "verso": "Une famille d'événements deux à deux incompatibles, de probabilités non nulles, dont la réunion est l'univers entier",
+      "explanation": "C'est l'hypothèse exacte qui autorise la formule des probabilités totales : chaque issue appartient à un événement de la famille, et à un seul. Le cas le plus fréquent est la partition en un événement et son complémentaire.",
+      "tags": [
+        "partition",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Une famille d'événements de même probabilité",
+          "Une famille d'événements indépendants deux à deux",
+          "Une famille de deux événements quelconques"
+        ],
+        "medium": [
+          "Une famille d'événements dont la somme des probabilités vaut 1, sans autre condition",
+          "Une famille d'événements deux à deux indépendants dont la réunion est l'univers",
+          "Une famille d'événements incompatibles, de probabilités éventuellement nulles"
+        ],
+        "hard": [
+          "Une famille d'événements deux à deux incompatibles, dont la réunion est incluse dans l'univers",
+          "Une famille d'événements deux à deux incompatibles et équiprobables recouvrant l'univers",
+          "Une famille d'événements dont les probabilités conditionnelles somment à 1"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'énonce la formule des probabilités totales ?",
+      "verso": "La probabilité d'un événement est la somme, sur les éléments d'une partition, des probabilités des intersections avec chacun d'eux",
+      "explanation": "On découpe l'événement selon les cas de la partition, qui sont incompatibles, puis on additionne. Chaque terme s'écrit ensuite comme un produit du type probabilité du cas multipliée par la probabilité conditionnelle.",
+      "tags": [
+        "probabilités totales",
+        "théorème"
+      ],
+      "distractors": {
+        "easy": [
+          "La probabilité d'un événement est le produit de ses probabilités conditionnelles",
+          "La probabilité d'un événement est la moyenne de ses probabilités conditionnelles",
+          "La probabilité d'un événement est toujours égale à un demi"
+        ],
+        "medium": [
+          "La probabilité d'un événement est la somme de ses probabilités conditionnelles",
+          "La probabilité d'un événement est la somme des intersections, diminuée des recouvrements",
+          "La probabilité d'un événement est le produit des probabilités des cas de la partition"
+        ],
+        "hard": [
+          "La probabilité d'un événement est la somme des intersections avec une famille d'événements indépendants",
+          "La probabilité d'un événement est la somme des probabilités conditionnelles pondérées par les probabilités de l'événement lui-même",
+          "La probabilité d'un événement est la somme des intersections, à condition que la partition soit équiprobable"
+        ]
+      }
+    },
+    {
+      "recto": "Comment s'écrit la formule des probabilités totales avec un événement B et son complémentaire ?",
+      "verso": "La probabilité de A est égale à la probabilité de B multipliée par celle de A sachant B, plus la probabilité du complémentaire de B multipliée par celle de A sachant ce complémentaire",
+      "explanation": "C'est le cas d'une partition à deux éléments, de très loin le plus fréquent en exercice. Il correspond à un arbre à deux branches au premier niveau, dont on additionne les deux chemins favorables.",
+      "tags": [
+        "probabilités totales",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "La probabilité de A est la somme des probabilités de B et de son complémentaire",
+          "La probabilité de A est le produit des probabilités de B et de son complémentaire",
+          "La probabilité de A est la moitié de la probabilité de B"
+        ],
+        "medium": [
+          "La probabilité de A est la somme des probabilités de A sachant B et de A sachant le complémentaire de B",
+          "La probabilité de A est la probabilité de B multipliée par celle de A sachant B, seulement",
+          "La probabilité de A est la différence des deux chemins favorables"
+        ],
+        "hard": [
+          "La probabilité de A est la probabilité de A sachant B multipliée par celle de A sachant le complémentaire de B",
+          "La probabilité de A est la probabilité de B multipliée par celle de B sachant A, plus le terme symétrique",
+          "La probabilité de A est la somme des deux chemins, divisée par la probabilité de B"
+        ]
+      }
+    },
+    {
+      "recto": "Comment inverse-t-on un conditionnement, c'est-à-dire comment passe-t-on de A sachant B à B sachant A ?",
+      "verso": "En écrivant que la probabilité de B sachant A est le quotient de la probabilité de l'intersection par la probabilité de A, l'intersection se calculant dans l'autre sens et le dénominateur par les probabilités totales",
+      "explanation": "Les deux conditionnements partagent le même numérateur, la probabilité de l'intersection : seul le dénominateur change. C'est cette symétrie qui fournit la formule dite de Bayes, au programme sous le nom d'inversion du conditionnement.",
+      "tags": [
+        "inversion",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Il suffit d'échanger les deux lettres dans l'écriture",
+          "Il suffit de prendre l'inverse du nombre obtenu",
+          "Les deux probabilités sont toujours égales"
+        ],
+        "medium": [
+          "En multipliant la probabilité de A sachant B par la probabilité de B",
+          "En divisant la probabilité de A sachant B par la probabilité de A",
+          "En prenant le complémentaire à 1 de la probabilité de A sachant B"
+        ],
+        "hard": [
+          "En multipliant la probabilité de A sachant B par le rapport de la probabilité de A sur celle de B",
+          "En divisant la probabilité de l'intersection par la probabilité de la réunion de A et B",
+          "En écrivant que le quotient des deux conditionnements vaut le quotient des deux probabilités simples, à un facteur près"
+        ]
+      }
+    },
+    {
+      "recto": "Ne pas confondre : la probabilité de A sachant B et la probabilité de B sachant A sont-elles égales ?",
+      "verso": "Non : elles ont le même numérateur, la probabilité de l'intersection, mais des dénominateurs différents, et peuvent donc être très éloignées l'une de l'autre",
+      "explanation": "Un test médical très fiable illustre l'écart : la probabilité d'un test positif sachant qu'on est malade peut valoir 0,99, tandis que la probabilité d'être malade sachant que le test est positif tombe très bas si la maladie est rare. Confondre les deux sens est l'erreur la plus coûteuse du chapitre.",
+      "tags": [
+        "piege",
+        "inversion"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, elles sont toujours égales par symétrie",
+          "Oui, à condition que A et B soient incompatibles",
+          "Non, la première est toujours le double de la seconde"
+        ],
+        "medium": [
+          "Non, mais leur produit vaut toujours la probabilité de l'intersection",
+          "Non, mais leur somme vaut toujours 1",
+          "Oui, dès que les deux événements ont la même probabilité de réalisation dans le temps"
+        ],
+        "hard": [
+          "Oui, elles sont égales si et seulement si A et B sont indépendants",
+          "Non, sauf lorsque l'intersection est vide, auquel cas elles valent toutes deux zéro et sont égales par accident",
+          "Non, mais elles sont toujours dans le même rapport que les probabilités des complémentaires"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi un test très fiable peut-il donner beaucoup de faux positifs pour une maladie rare ?",
+      "verso": "Parce que les non-malades sont si nombreux qu'un petit taux d'erreur sur eux produit plus de positifs que le taux de détection sur les rares malades",
+      "explanation": "Le dénominateur de l'inversion contient les deux chemins menant à un test positif, et celui des non-malades pèse lourd. Ce résultat contre-intuitif est l'application phare de la formule des probabilités totales.",
+      "tags": [
+        "application",
+        "inversion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que le test est mal étalonné",
+          "Parce que la maladie est contagieuse",
+          "Parce que les malades sont plus nombreux que les non-malades"
+        ],
+        "medium": [
+          "Parce que la probabilité d'un test positif sachant la maladie est trop faible",
+          "Parce que les deux événements sont indépendants",
+          "Parce que la somme des probabilités de l'arbre dépasse 1"
+        ],
+        "hard": [
+          "Parce que la probabilité d'être malade sachant le test positif est égale à la fiabilité du test",
+          "Parce que le taux de faux négatifs augmente mécaniquement avec la rareté de la maladie",
+          "Parce que la partition malade et non-malade cesse d'être valable pour une maladie rare"
+        ]
+      }
+    },
+    {
+      "recto": "Comment se définit l'indépendance de deux événements A et B ?",
+      "verso": "La probabilité de leur intersection est égale au produit de leurs probabilités",
+      "explanation": "C'est une définition par une égalité numérique, à vérifier par le calcul, et non une impression d'absence de lien entre les situations. Elle est symétrique en A et B, contrairement au conditionnement.",
+      "tags": [
+        "indépendance",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Leur intersection est vide",
+          "Leurs probabilités sont égales",
+          "La somme de leurs probabilités vaut 1"
+        ],
+        "medium": [
+          "La probabilité de leur réunion est la somme de leurs probabilités",
+          "La probabilité de leur intersection est la somme de leurs probabilités",
+          "La probabilité de A sachant B est nulle"
+        ],
+        "hard": [
+          "La probabilité de leur intersection est le produit de leurs probabilités conditionnelles",
+          "La probabilité de leur intersection est égale au produit de leurs probabilités, à condition qu'ils soient incompatibles",
+          "La probabilité de leur intersection est le produit de leurs probabilités divisé par celle de la réunion"
+        ]
+      }
+    },
+    {
+      "recto": "Comment l'indépendance se traduit-elle en termes de probabilité conditionnelle ?",
+      "verso": "La probabilité de A sachant B est égale à la probabilité de A : savoir que B est réalisé ne change rien",
+      "explanation": "Cette caractérisation, valable quand la probabilité de B n'est pas nulle, donne le sens intuitif de la définition. Dans un arbre, elle se lit immédiatement : les branches d'un même niveau portent le même poids quel que soit le chemin suivi.",
+      "tags": [
+        "indépendance",
+        "caractérisation"
+      ],
+      "distractors": {
+        "easy": [
+          "La probabilité de A sachant B est nulle",
+          "La probabilité de A sachant B vaut 1",
+          "La probabilité de A sachant B est égale à celle de B"
+        ],
+        "medium": [
+          "La probabilité de A sachant B est égale à la probabilité de l'intersection",
+          "La probabilité de A sachant B est le double de la probabilité de A",
+          "La probabilité de A sachant B est égale à 1 moins la probabilité de A"
+        ],
+        "hard": [
+          "La probabilité de A sachant B est égale à la probabilité de B sachant A",
+          "La probabilité de A sachant B est égale à la probabilité de A, à condition que A et B soient incompatibles",
+          "La probabilité de A sachant le complémentaire de B est égale à 1 moins la probabilité de A"
+        ]
+      }
+    },
+    {
+      "recto": "Si A et B sont indépendants, que peut-on dire de A et du complémentaire de B ?",
+      "verso": "Ils sont eux aussi indépendants",
+      "explanation": "Le calcul se fait en une ligne : la probabilité de l'intersection de A avec le complémentaire de B vaut la probabilité de A moins celle de l'intersection avec B, ce qui se factorise. L'indépendance se transmet donc à tous les complémentaires.",
+      "tags": [
+        "indépendance",
+        "propriété"
+      ],
+      "distractors": {
+        "easy": [
+          "Ils sont incompatibles",
+          "Ils sont toujours de probabilités égales",
+          "Rien ne peut être dit"
+        ],
+        "medium": [
+          "Ils sont dépendants, puisque le complémentaire change tout",
+          "Ils sont indépendants seulement si la probabilité de B vaut un demi",
+          "Ils sont indépendants seulement si A et B sont incompatibles"
+        ],
+        "hard": [
+          "Ils sont indépendants, à condition que la probabilité de A soit strictement inférieure à celle de B",
+          "Ils sont indépendants, mais A et les deux complémentaires ne le sont plus",
+          "Ils sont indépendants seulement si la probabilité de l'intersection de A et B est non nulle"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : quelle différence sépare deux événements incompatibles de deux événements indépendants ?",
+      "verso": "Incompatibles signifie que leur intersection est vide, indépendants signifie que la probabilité de l'intersection est le produit des probabilités, et deux événements de probabilités non nulles ne peuvent être les deux à la fois",
+      "explanation": "Si l'intersection est vide, sa probabilité est nulle, alors que le produit de deux probabilités non nulles ne l'est pas : les deux notions s'excluent au lieu de se ressembler. Deux événements incompatibles sont même le contraire de l'indépendance, puisque savoir que l'un est réalisé interdit l'autre.",
+      "tags": [
+        "comparaison",
+        "indépendance"
+      ],
+      "distractors": {
+        "easy": [
+          "Les deux notions signifient la même chose",
+          "Incompatibles signifie de même probabilité, indépendants signifie de probabilités différentes",
+          "Incompatibles concerne les issues, indépendants concerne les univers"
+        ],
+        "medium": [
+          "Incompatibles entraîne indépendants, mais pas l'inverse",
+          "Indépendants entraîne incompatibles dès que les probabilités sont non nulles",
+          "Incompatibles signifie que la réunion est l'univers, indépendants que l'intersection est vide"
+        ],
+        "hard": [
+          "Incompatibles signifie intersection vide, indépendants signifie produit des probabilités, et deux événements peuvent être les deux à la fois si l'un est de probabilité non nulle",
+          "Incompatibles signifie intersection vide, indépendants signifie que les probabilités conditionnelles sont nulles",
+          "Incompatibles signifie que la probabilité de la réunion est la somme, indépendants signifie que la probabilité de l'intersection est la somme"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi l'indépendance ne doit-elle jamais être déduite d'une simple impression d'absence de lien ?",
+      "verso": "Parce qu'il s'agit d'une égalité numérique entre probabilités, qui peut être vérifiée par des événements liés et mise en défaut par des événements apparemment sans rapport",
+      "explanation": "L'indépendance dépend des valeurs numériques du modèle, pas de la causalité physique entre les situations décrites. En exercice, on la démontre par le calcul ou on l'admet parce que l'énoncé la pose, jamais par intuition.",
+      "tags": [
+        "indépendance",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que l'indépendance dépend de l'ordre des événements",
+          "Parce que l'indépendance n'existe qu'entre des expériences répétées",
+          "Parce que deux événements ne sont jamais indépendants"
+        ],
+        "medium": [
+          "Parce que l'indépendance se déduit toujours de l'énoncé, jamais du calcul",
+          "Parce que l'indépendance dépend uniquement du nombre d'issues de l'univers",
+          "Parce que l'intuition confond indépendance et équiprobabilité, qui sont pourtant équivalentes"
+        ],
+        "hard": [
+          "Parce que l'indépendance dépend de la loi de probabilité choisie, alors que la causalité n'en dépend pas, sauf en situation d'équiprobabilité où les deux coïncident",
+          "Parce que l'indépendance n'est vraie que pour deux événements de même probabilité",
+          "Parce que l'indépendance suppose implicitement que l'un des deux événements soit certain"
+        ]
+      }
+    },
+    {
+      "recto": "Comment choisit-on ce qui figure au premier niveau d'un arbre pondéré ?",
+      "verso": "On place au premier niveau l'événement dont les probabilités sont données directement par l'énoncé, les autres apparaissant ensuite comme conditionnelles",
+      "explanation": "L'énoncé fournit toujours une répartition de départ et des taux conditionnels : les respecter évite d'avoir à inverser un conditionnement avant même de commencer. Si la question porte sur l'autre sens, on complète l'arbre puis on inverse à la fin.",
+      "tags": [
+        "arbre",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "On place au premier niveau l'événement dont la probabilité est la plus grande",
+          "On place au premier niveau l'événement cité en dernier dans l'énoncé",
+          "L'ordre des niveaux est sans importance et ne change aucun calcul"
+        ],
+        "medium": [
+          "On place au premier niveau l'événement sur lequel porte la question posée",
+          "On place au premier niveau l'événement dont on cherche la probabilité conditionnelle",
+          "On place au premier niveau l'événement de probabilité un demi, s'il existe"
+        ],
+        "hard": [
+          "On place au premier niveau l'événement dont les probabilités conditionnelles sont données par l'énoncé",
+          "On place au premier niveau l'événement le plus rare, pour limiter les erreurs d'arrondi",
+          "On place au premier niveau l'événement qui forme une partition, les autres pouvant se recouvrir"
+        ]
+      }
+    },
+    {
+      "recto": "Comment lit-on une probabilité conditionnelle dans un tableau croisé d'effectifs ?",
+      "verso": "En divisant l'effectif de la case correspondant aux deux caractères par le total de la ligne ou de la colonne du conditionnement",
+      "explanation": "Conditionner revient à ne plus considérer que la ligne ou la colonne concernée, qui devient le nouvel univers de référence. Le total général sert pour les probabilités simples, les totaux marginaux pour les conditionnelles.",
+      "tags": [
+        "tableau",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En divisant l'effectif de la case par le total général",
+          "En additionnant les effectifs de la ligne et de la colonne",
+          "En prenant directement l'effectif de la case"
+        ],
+        "medium": [
+          "En divisant le total de la ligne par le total de la colonne",
+          "En divisant l'effectif de la case par la somme des deux totaux marginaux",
+          "En divisant le total général par l'effectif de la case"
+        ],
+        "hard": [
+          "En divisant l'effectif de la case par le total de la ligne ou de la colonne de l'événement dont on cherche la probabilité",
+          "En divisant l'effectif de la case par le total général, puis en multipliant par le total marginal",
+          "En divisant l'effectif de la case par la différence entre le total général et le total marginal"
+        ]
+      }
+    },
+    {
+      "recto": "En situation d'équiprobabilité, comment s'interprète simplement la probabilité de A sachant B ?",
+      "verso": "C'est le nombre d'issues favorables à A parmi celles de B, divisé par le nombre d'issues de B",
+      "explanation": "Les facteurs liés au cardinal de l'univers total se simplifient au numérateur et au dénominateur : il ne reste qu'un comptage à l'intérieur de B. Conditionner, c'est littéralement rétrécir l'univers.",
+      "tags": [
+        "équiprobabilité",
+        "interprétation"
+      ],
+      "distractors": {
+        "easy": [
+          "C'est le nombre d'issues de A divisé par le nombre total d'issues",
+          "C'est le nombre d'issues de B divisé par celui de A",
+          "C'est le nombre d'issues communes divisé par le nombre total d'issues"
+        ],
+        "medium": [
+          "C'est le nombre d'issues favorables à A, divisé par le nombre d'issues de la réunion de A et B",
+          "C'est le nombre d'issues de B favorables à A, divisé par le nombre d'issues de A",
+          "C'est le nombre d'issues de A, divisé par le nombre d'issues n'appartenant pas à B"
+        ],
+        "hard": [
+          "C'est le nombre d'issues favorables aux deux événements, divisé par le cardinal de l'univers restreint à A",
+          "C'est le nombre d'issues favorables à A parmi celles de B, divisé par le cardinal de l'univers total",
+          "C'est le nombre d'issues de B, divisé par le nombre d'issues favorables aux deux événements"
+        ]
+      }
+    },
+    {
+      "recto": "Que signifie modéliser une succession d'épreuves comme indépendantes ?",
+      "verso": "Le résultat d'une épreuve ne modifie pas les probabilités des épreuves suivantes, ce qui permet de multiplier les probabilités le long d'un chemin sans conditionner",
+      "explanation": "C'est l'hypothèse du tirage avec remise, et celle qui rend un arbre régulier, tous les niveaux portant les mêmes poids. Elle est indispensable pour définir le schéma de Bernoulli du chapitre suivant.",
+      "tags": [
+        "répétition",
+        "modélisation"
+      ],
+      "distractors": {
+        "easy": [
+          "Les épreuves donnent toutes le même résultat",
+          "Les épreuves ont des probabilités qui s'additionnent",
+          "Les épreuves sont impossibles à représenter par un arbre"
+        ],
+        "medium": [
+          "Le résultat d'une épreuve détermine celui de la suivante",
+          "Les épreuves ont des probabilités qui diminuent à chaque étape",
+          "Les épreuves sont deux à deux incompatibles"
+        ],
+        "hard": [
+          "Les probabilités des épreuves suivantes changent, mais leur produit reste constant",
+          "Le résultat d'une épreuve ne modifie pas les suivantes, ce qui correspond au tirage sans remise",
+          "Les épreuves sont indépendantes deux à deux, ce qui suffit à multiplier tous les poids de l'arbre"
+        ]
+      }
+    },
+    {
+      "recto": "Quel réflexe de lecture permet de repérer un conditionnement dans un énoncé ?",
+      "verso": "Repérer les expressions du type « parmi les », « sachant que » ou « chez les », qui signalent que l'univers de référence a été restreint",
+      "explanation": "Une proportion annoncée « parmi les élèves de la filière » est conditionnelle, alors qu'une proportion annoncée « dans l'établissement » ne l'est pas. Distinguer les deux au moment de la lecture évite de remplir un arbre avec des poids incohérents.",
+      "tags": [
+        "méthode",
+        "lecture"
+      ],
+      "distractors": {
+        "easy": [
+          "Repérer la présence de fractions dans l'énoncé",
+          "Repérer les nombres décimaux inférieurs à un demi",
+          "Repérer les énoncés qui parlent d'une urne"
+        ],
+        "medium": [
+          "Repérer les expressions du type « et » ou « ou », qui signalent une intersection ou une réunion",
+          "Repérer les proportions supérieures à 50 pour cent, toujours conditionnelles",
+          "Repérer la mention d'un tirage successif, seul cas de conditionnement"
+        ],
+        "hard": [
+          "Repérer les expressions du type « au total » ou « en tout », qui signalent une restriction de l'univers",
+          "Repérer les expressions du type « sachant que », qui signalent toujours une indépendance à démontrer",
+          "Repérer les expressions du type « parmi les », qui indiquent une intersection et non un conditionnement"
+        ]
+      }
+    }
+  ]
+}

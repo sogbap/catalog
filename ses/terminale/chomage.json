@@ -1,0 +1,640 @@
+{
+  "id": "ses-terminale-chomage",
+  "title": "Comment lutter contre le chômage ?",
+  "emoji": "📉",
+  "subject": "ses",
+  "country": "fr",
+  "courseDescription": "Spé SES · Terminale — mesure du chômage et halo, chômage structurel et conjoncturel, coût du travail, appariement, institutions, et politiques de lutte contre le chômage.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Comment lutter contre le chômage&nbsp;?</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · spécialité SES<br>\n  <b>Thème&nbsp;:</b> Science économique — chapitre 3<br>\n  <b>Chapitre</b> · environ 4 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> Y a-t-il un chômage, ou plusieurs&nbsp;?</p></blockquote>\n\n<p>La question du titre suppose une réponse unique&nbsp;; le chapitre montre qu'il n'y en a pas. Le chômage recouvre des situations très différentes — une usine qui ferme faute de commandes, un poste vacant faute de candidat qualifié, un demandeur d'emploi écarté parce qu'il cherche depuis trop longtemps — et chacune appelle un remède distinct. Avant même de traiter, il faut donc <strong>mesurer</strong> correctement, puis <strong>diagnostiquer</strong>. Une relance ne résout pas une inadéquation de qualifications&nbsp;; une baisse du coût du travail ne crée pas des débouchés absents.</p>\n\n<h2>1 · Mesurer le chômage</h2>\n\n<div class=\"callout\">\n  <strong>Notion · Chômeur au sens du BIT</strong><br>\n  Personne <strong>sans emploi</strong>, <strong>disponible</strong> pour travailler sous deux semaines, et ayant effectué une <strong>démarche active de recherche</strong> dans le mois écoulé. Les trois critères doivent être réunis <em>simultanément</em>.\n</div>\n\n<p>Cette définition harmonisée permet les comparaisons internationales. Elle ne coïncide pas avec le décompte administratif des inscrits au service public de l'emploi&nbsp;: certains inscrits exercent une activité réduite ou ne cherchent pas activement&nbsp;; certains chercheurs d'emploi ne sont pas inscrits.</p>\n\n<p>Deux catégories échappent au taux de chômage tout en relevant du déficit d'emploi&nbsp;:</p>\n\n<ul>\n  <li>le <strong>halo autour du chômage</strong>&nbsp;— personnes souhaitant travailler mais ne remplissant pas tous les critères, classées statistiquement comme <em>inactives</em>. Il gonfle en période de crise, quand le découragement fait renoncer à la recherche&nbsp;;</li>\n  <li>le <strong>sous-emploi</strong>&nbsp;— personnes à temps partiel souhaitant travailler davantage, comptées comme <em>actifs occupés</em>.</li>\n</ul>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 195\" role=\"img\" aria-label=\"Répartition de la population en âge de travailler : les actifs occupés, dont une partie en sous-emploi, les chômeurs au sens du Bureau international du travail, le halo autour du chômage composé de personnes souhaitant travailler mais classées inactives, et les autres inactifs ; le taux de chômage ne retient que la barre centrale\">\n    <text x=\"8\" y=\"16\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Population en âge de travailler</text>\n    <rect x=\"8\" y=\"26\" width=\"176\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"96\" y=\"47\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">actifs occupés</text>\n    <rect x=\"130\" y=\"28\" width=\"52\" height=\"30\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".30\"/>\n    <text x=\"156\" y=\"47\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">sous-emploi</text>\n    <rect x=\"192\" y=\"26\" width=\"70\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".40\" stroke=\"var(--accent)\" stroke-opacity=\".7\"/>\n    <text x=\"227\" y=\"47\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">chômeurs</text>\n    <rect x=\"270\" y=\"26\" width=\"62\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".08\" stroke=\"var(--accent)\" stroke-opacity=\".35\"/>\n    <text x=\"301\" y=\"42\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">inactifs</text>\n    <rect x=\"272\" y=\"28\" width=\"34\" height=\"30\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".22\"/>\n    <text x=\"289\" y=\"55\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">halo</text>\n    <line x1=\"8\" y1=\"68\" x2=\"262\" y2=\"68\" stroke=\"var(--accent)\" stroke-opacity=\".55\"/>\n    <text x=\"135\" y=\"82\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">population active</text>\n    <line x1=\"8\" y1=\"98\" x2=\"332\" y2=\"98\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"118\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">taux de chômage</text>\n    <text x=\"8\" y=\"132\" font-size=\"9\" fill=\"currentColor\">chômeurs ÷ population active</text>\n    <text x=\"180\" y=\"118\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">taux d'emploi</text>\n    <text x=\"180\" y=\"132\" font-size=\"9\" fill=\"currentColor\">actifs occupés ÷ population en âge de travailler</text>\n    <text x=\"8\" y=\"158\" font-size=\"9\" fill=\"currentColor\">Un chômeur découragé sort de la population active : le taux de chômage</text>\n    <text x=\"8\" y=\"171\" font-size=\"9\" fill=\"currentColor\">baisse sans qu'aucun emploi n'ait été créé. Le taux d'emploi, lui, ne bouge pas.</text>\n    <text x=\"8\" y=\"190\" font-size=\"9\" class=\"s-muted\">D'où la nécessité de lire les deux indicateurs ensemble.</text>\n  </svg>\n  <figcaption>Le taux de chômage ne compte qu'une case du tableau&nbsp;; deux autres lui échappent.</figcaption>\n</figure>\n\n<p>Le <strong>taux de chômage</strong> rapporte les chômeurs à la <em>population active</em> (actifs occupés + chômeurs) — jamais à la population totale. D'où une propriété qu'il faut savoir commenter&nbsp;: si des chômeurs découragés quittent la population active, le taux baisse <em>sans aucune création d'emploi</em>. Le <strong>taux d'emploi</strong>, qui rapporte les actifs occupés à la population en âge de travailler, ne présente pas ce défaut&nbsp;: il mesure la capacité réelle d'une économie à mobiliser sa main-d'œuvre.</p>\n\n<h2>2 · Les causes du chômage</h2>\n\n<p>La distinction fondatrice du chapitre commande tout le reste, y compris le choix des remèdes.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 185\" role=\"img\" aria-label=\"Comparaison du chômage conjoncturel et du chômage structurel : le premier vient d'une insuffisance temporaire de la demande et appelle un soutien de l'activité, le second vient du fonctionnement durable du marché du travail et appelle des politiques de formation, de coût du travail et d'appariement\">\n    <rect x=\"8\" y=\"14\" width=\"156\" height=\"140\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"86\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">conjoncturel</text>\n    <text x=\"86\" y=\"56\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">insuffisance temporaire</text>\n    <text x=\"86\" y=\"68\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">de la demande</text>\n    <text x=\"86\" y=\"90\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">disparaît avec la reprise</text>\n    <line x1=\"30\" y1=\"102\" x2=\"142\" y2=\"102\" stroke=\"var(--accent)\" stroke-opacity=\".35\"/>\n    <text x=\"86\" y=\"120\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">remède</text>\n    <text x=\"86\" y=\"136\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">soutenir l'activité</text>\n    <rect x=\"176\" y=\"14\" width=\"156\" height=\"140\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"254\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">structurel</text>\n    <text x=\"254\" y=\"56\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">fonctionnement durable</text>\n    <text x=\"254\" y=\"68\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">du marché du travail</text>\n    <text x=\"254\" y=\"90\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">persiste en période de croissance</text>\n    <line x1=\"198\" y1=\"102\" x2=\"310\" y2=\"102\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"254\" y=\"120\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">remèdes</text>\n    <text x=\"254\" y=\"136\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">formation, coûts, appariement</text>\n    <text x=\"170\" y=\"176\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Le diagnostic précède le remède — et les deux causes peuvent coexister.</text>\n  </svg>\n  <figcaption>Poser le bon diagnostic n'est pas un préliminaire&nbsp;: c'est déjà la moitié de la réponse.</figcaption>\n</figure>\n\n<h3>Le versant conjoncturel</h3>\n\n<p>Si les entreprises anticipent des <strong>débouchés insuffisants</strong>, elles réduisent leur production, donc leurs embauches&nbsp;; les revenus distribués diminuent, ce qui abaisse encore la demande. Ce raisonnement, d'inspiration keynésienne, part de la demande <em>anticipée</em> et non du coût du travail. Il justifie d'interrompre l'enchaînement cumulatif par un soutien de l'activité.</p>\n\n<h3>Le versant structurel</h3>\n\n<p>Trois mécanismes distincts, qu'il faut savoir séparer&nbsp;:</p>\n\n<ul>\n  <li><strong>Le coût du travail.</strong> Si le coût dépasse la productivité attendue d'un salarié, l'embauche cesse d'être rentable. L'argument vaut surtout <em>au voisinage du salaire minimum</em>, là où l'écart entre coût et productivité est le plus étroit&nbsp;— donc pour les moins qualifiés.</li>\n  <li><strong>L'appariement.</strong> Faire se rencontrer une offre et un demandeur suppose de l'information, du temps et une correspondance des profils. Des emplois vacants et des chômeurs peuvent donc coexister durablement, par inadéquation des qualifications, mauvaise circulation de l'information, ou obstacles à la mobilité.</li>\n  <li><strong>Les asymétries d'information.</strong> L'employeur ne connaît pas la productivité réelle d'un candidat&nbsp;: il se fie à des <em>signaux</em> — diplôme, expérience, continuité du parcours. La durée du chômage devient alors elle-même un signal négatif.</li>\n</ul>\n\n<p>Ce dernier point explique la difficulté propre au <strong>chômage de longue durée</strong>&nbsp;: l'éloignement de l'emploi dégrade les compétences et les réseaux, et décourage les employeurs, ce qui réduit encore les chances d'embauche. Ce cercle vicieux — l'<em>hystérèse</em> — transforme un chômage d'origine conjoncturelle en chômage structurel, et justifie d'agir <strong>vite</strong>.</p>\n\n<h3>Les institutions</h3>\n\n<p>Salaire minimum, règles de licenciement, indemnisation, négociation collective&nbsp;: ces institutions ont des effets <strong>ambivalents</strong>, et c'est ce qu'il faut savoir rédiger. L'indemnisation du chômage en donne l'exemple le plus net. Elle peut allonger la durée de recherche en réduisant l'urgence d'accepter un emploi&nbsp;; mais elle permet aussi une recherche plus <em>sélective</em>, donc un meilleur appariement et des emplois plus durables. La question empirique est de savoir lequel des deux effets l'emporte — ce qui dépend du niveau et de la durée de l'indemnisation, non d'un principe général.</p>\n\n<h2>3 · Les politiques de lutte</h2>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Les quatre familles de politiques contre le chômage et le type de chômage qu'elles visent : le soutien de la demande contre le chômage conjoncturel, l'allègement du coût du travail pour les bas salaires, la formation et l'accompagnement contre les défauts d'appariement, et la flexisécurité qui combine souplesse et sécurisation des parcours\">\n    <rect x=\"8\" y=\"14\" width=\"156\" height=\"76\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"86\" y=\"32\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">soutien de la demande</text>\n    <text x=\"86\" y=\"50\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">dépense publique, impôts, taux</text>\n    <text x=\"86\" y=\"66\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">vise le chômage conjoncturel</text>\n    <text x=\"86\" y=\"82\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">limites : dette, délais, importations</text>\n    <rect x=\"176\" y=\"14\" width=\"156\" height=\"76\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"254\" y=\"32\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">coût du travail</text>\n    <text x=\"254\" y=\"50\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">allègements ciblés bas salaires</text>\n    <text x=\"254\" y=\"66\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">vise les moins qualifiés</text>\n    <text x=\"254\" y=\"82\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">limites : coût budgétaire</text>\n    <rect x=\"8\" y=\"100\" width=\"156\" height=\"76\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"86\" y=\"118\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">formation</text>\n    <text x=\"86\" y=\"136\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">qualifications, accompagnement</text>\n    <text x=\"86\" y=\"152\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">vise l'appariement</text>\n    <text x=\"86\" y=\"168\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">limites : effets lents</text>\n    <rect x=\"176\" y=\"100\" width=\"156\" height=\"76\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"254\" y=\"118\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">flexisécurité</text>\n    <text x=\"254\" y=\"136\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">souplesse et sécurisation</text>\n    <text x=\"254\" y=\"152\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">sécuriser les personnes</text>\n    <text x=\"254\" y=\"168\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">limites : dépense publique élevée</text>\n    <text x=\"170\" y=\"196\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Aucune de ces politiques ne répond seule à toutes les formes de chômage.</text>\n  </svg>\n  <figcaption>Quatre instruments, quatre cibles&nbsp;: les confondre, c'est se tromper de remède.</figcaption>\n</figure>\n\n<p>Un mot sur la <strong>flexibilité</strong> et la <strong>flexisécurité</strong>. La flexibilité désigne la facilité d'ajuster effectifs, horaires et salaires&nbsp;: elle facilite l'embauche en réduisant le risque, mais accroît l'insécurité et peut multiplier les contrats courts. La flexisécurité tente de dépasser ce compromis en <strong>sécurisant les personnes plutôt que les postes</strong> — souplesse pour les entreprises, indemnisation et formation solides pour les salariés. Associé aux pays nordiques, ce modèle suppose des dépenses publiques importantes.</p>\n\n<p>Enfin, le <strong>progrès technique</strong> détruit à court terme des emplois dans les activités automatisées, mais les gains de productivité, en abaissant les prix et en ouvrant des activités nouvelles, en recréent ailleurs&nbsp;: c'est le <em>déversement</em>. Le solde historique est positif&nbsp;— ce qui ne dit rien du sort individuel de ceux dont le métier disparaît, ni du délai de reconversion.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Le raisonnement du chapitre</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Frise du raisonnement du chapitre : mesurer correctement le chômage en tenant compte du halo et du sous-emploi, distinguer causes conjoncturelles et structurelles, détailler coût du travail, appariement et institutions, choisir les instruments correspondants, puis évaluer leurs limites\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"176\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">1. Mesurer</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Taux de chômage, taux d'emploi, halo</text>\n    <circle cx=\"26\" cy=\"60\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"57\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">2. Diagnostiquer</text>\n    <text x=\"44\" y=\"70\" font-size=\"10\" fill=\"currentColor\">Conjoncturel ou structurel ?</text>\n    <circle cx=\"26\" cy=\"100\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"97\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">3. Détailler les causes</text>\n    <text x=\"44\" y=\"110\" font-size=\"10\" fill=\"currentColor\">Coût, appariement, information, institutions</text>\n    <circle cx=\"26\" cy=\"140\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"137\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">4. Choisir l'instrument</text>\n    <text x=\"44\" y=\"150\" font-size=\"10\" fill=\"currentColor\">Demande, coûts, formation, flexisécurité</text>\n    <circle cx=\"26\" cy=\"176\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"173\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">5. Évaluer les limites</text>\n    <text x=\"44\" y=\"186\" font-size=\"10\" fill=\"currentColor\">Coût budgétaire, délais, effets ambivalents</text>\n  </svg>\n  <figcaption>L'étape 5 est celle qui distingue une bonne copie&nbsp;: aucune politique n'est sans contrepartie.</figcaption>\n</figure>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition en une ligne</th></tr>\n  <tr><td>Chômeur au sens du BIT</td><td>Sans emploi, disponible, en recherche active</td></tr>\n  <tr><td>Halo autour du chômage</td><td>Souhaite travailler mais classé inactif</td></tr>\n  <tr><td>Sous-emploi</td><td>Temps partiel subi, compté comme actif occupé</td></tr>\n  <tr><td>Appariement</td><td>Rencontre effective entre offre et demande d'emploi</td></tr>\n  <tr><td>Asymétrie d'information</td><td>L'employeur ignore la productivité réelle du candidat</td></tr>\n  <tr><td>Flexisécurité</td><td>Souplesse pour l'entreprise, sécurité pour la personne</td></tr>\n</table>\n\n<h3>Causes et remèdes</h3>\n\n<table>\n  <tr><th>Cause dominante</th><th>Instrument adapté</th></tr>\n  <tr><td>Insuffisance de la demande</td><td>Soutien de l'activité, politique budgétaire ou monétaire</td></tr>\n  <tr><td>Coût du travail des peu qualifiés</td><td>Allègements de cotisations ciblés bas salaires</td></tr>\n  <tr><td>Inadéquation des qualifications</td><td>Formation, apprentissage, reconversion</td></tr>\n  <tr><td>Mauvaise circulation de l'information</td><td>Service public de l'emploi, accompagnement</td></tr>\n  <tr><td>Rigidités et insécurité des parcours</td><td>Flexisécurité</td></tr>\n</table>\n\n<h3>Mécanismes à savoir rédiger</h3>\n\n<table>\n  <tr><th>Enchaînement</th><th>Étapes</th></tr>\n  <tr><td>Chômage keynésien</td><td>Débouchés anticipés faibles → production réduite → moins d'embauches → revenus en baisse</td></tr>\n  <tr><td>Coût du travail</td><td>Coût supérieur à la productivité → embauche non rentable → exclusion des peu qualifiés</td></tr>\n  <tr><td>Hystérèse</td><td>Chômage long → compétences dégradées → signal négatif → chômage encore plus long</td></tr>\n  <tr><td>Indemnisation</td><td>Recherche moins urgente <em>mais</em> plus sélective → effet net à discuter</td></tr>\n  <tr><td>Déversement</td><td>Automatisation → destruction d'emplois → gains de productivité → prix plus bas → activités nouvelles</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Confondre les <strong>chômeurs au sens du BIT</strong> et les <strong>inscrits au service public de l'emploi</strong>. Le premier chiffre est une mesure statistique harmonisée, le second un décompte administratif qui dépend des règles d'inscription et d'indemnisation&nbsp;: commenter une hausse des inscriptions comme une hausse du chômage est une erreur classique. Deux erreurs voisines&nbsp;: lire une baisse du taux de chômage comme une bonne nouvelle sans vérifier le taux d'emploi, alors qu'elle peut venir du découragement&nbsp;; et proposer une relance de la demande face à un chômage d'inadéquation, ou l'inverse.\n</div>\n\n<blockquote><p>Il n'existe pas de politique unique contre le chômage, parce qu'il n'existe pas un chômage. Toute la difficulté&nbsp;— et tout l'intérêt du chapitre&nbsp;— tient à ce que le diagnostic précède le remède.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Spécialité SES — Science économique",
+  "cards": [
+    {
+      "recto": "Qui est comptabilisé comme chômeur au sens du Bureau international du travail ?",
+      "verso": "Une personne sans emploi, disponible pour travailler dans les deux semaines et ayant effectué une démarche active de recherche au cours du mois précédent",
+      "explanation": "Les trois critères doivent être réunis simultanément : sans emploi, disponible, en recherche active. Cette définition permet les comparaisons internationales, contrairement aux chiffres d'inscription administrative.",
+      "tags": [
+        "mesure",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Toute personne inscrite dans un organisme public de placement",
+          "Toute personne qui ne travaille pas",
+          "Toute personne percevant une allocation chômage"
+        ],
+        "medium": [
+          "Toute personne sans emploi et souhaitant travailler, même sans démarche de recherche",
+          "Toute personne sans emploi et disponible, la recherche active n'étant pas exigée",
+          "Toute personne travaillant moins qu'elle ne le souhaiterait"
+        ],
+        "hard": [
+          "Une personne sans emploi, disponible et en recherche active, ces critères étant alternatifs et non cumulatifs",
+          "Une personne sans emploi, disponible dans les deux semaines et ayant recherché un emploi au cours de l'année précédente",
+          "Une personne sans emploi, disponible et en recherche active, à condition d'être inscrite auprès du service public de l'emploi"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : les chômeurs au sens du Bureau international du travail et les inscrits au service public de l'emploi sont-ils les mêmes personnes ?",
+      "verso": "Non : certains inscrits exercent une activité réduite ou ne cherchent pas activement, tandis que certains chercheurs d'emploi ne sont pas inscrits, si bien que les deux comptages diffèrent",
+      "explanation": "L'un est une mesure statistique harmonisée internationalement, l'autre un décompte administratif dépendant des règles d'inscription et d'indemnisation. Commenter une hausse des inscriptions comme une hausse du chômage au sens du BIT est une erreur fréquente en épreuve.",
+      "tags": [
+        "piege",
+        "mesure"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, les deux chiffres sont identiques par construction",
+          "Oui, mais l'un est mensuel et l'autre annuel",
+          "Non, car le Bureau international du travail ne compte que les jeunes"
+        ],
+        "medium": [
+          "Oui, à condition de neutraliser les variations saisonnières",
+          "Non, car les inscrits incluent toutes les personnes inactives",
+          "Oui, la différence n'étant qu'un décalage de publication"
+        ],
+        "hard": [
+          "Non, mais les inscrits sont toujours moins nombreux que les chômeurs au sens du Bureau international du travail",
+          "Non, la différence tenant uniquement à l'exclusion des personnes en formation du décompte administratif",
+          "Non, mais les deux mesures coïncident dès que l'on raisonne en moyenne annuelle"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on le halo autour du chômage ?",
+      "verso": "L'ensemble des personnes sans emploi qui souhaitent travailler mais ne remplissent pas tous les critères du chômage, faute de recherche active ou de disponibilité immédiate",
+      "explanation": "Ces personnes sont statistiquement classées comme inactives, alors que leur situation est proche de celle des chômeurs. Le halo augmente notamment en période de crise, quand le découragement fait renoncer à la recherche.",
+      "tags": [
+        "mesure",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "L'ensemble des personnes qui viennent de perdre leur emploi",
+          "L'ensemble des chômeurs de longue durée",
+          "L'ensemble des salariés qui craignent de perdre leur emploi"
+        ],
+        "medium": [
+          "L'ensemble des personnes travaillant à temps partiel contre leur gré",
+          "L'ensemble des personnes en formation professionnelle",
+          "L'ensemble des chômeurs non indemnisés"
+        ],
+        "hard": [
+          "L'ensemble des personnes souhaitant travailler sans remplir tous les critères, comptabilisées parmi les chômeurs",
+          "L'ensemble des personnes sans emploi et disponibles, mais qui refusent les offres proposées",
+          "L'ensemble des personnes souhaitant travailler et effectuant des démarches, mais non disponibles sous deux semaines"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on le sous-emploi ?",
+      "verso": "La situation des personnes qui occupent un emploi à temps partiel tout en souhaitant travailler davantage, ou dont l'activité est réduite involontairement",
+      "explanation": "Ces personnes sont comptées comme des actifs occupés, si bien que le taux de chômage n'en rend pas compte. Le sous-emploi et le halo montrent ensemble que le taux de chômage sous-estime le déficit d'emploi.",
+      "tags": [
+        "mesure",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La situation des personnes sans aucun emploi",
+          "La situation des personnes surqualifiées pour leur poste",
+          "La situation des personnes travaillant sans être déclarées"
+        ],
+        "medium": [
+          "La situation des personnes ayant choisi le temps partiel",
+          "La situation des personnes en contrat à durée déterminée",
+          "La situation des personnes inscrites au service public de l'emploi tout en travaillant"
+        ],
+        "hard": [
+          "La situation des personnes à temps partiel souhaitant travailler davantage, comptabilisées comme chômeurs",
+          "La situation des personnes à temps partiel subi, dont l'effectif est intégré au taux de chômage",
+          "La situation des personnes occupant un emploi inférieur à leur niveau de diplôme"
+        ]
+      }
+    },
+    {
+      "recto": "Comment se calcule le taux de chômage ?",
+      "verso": "En rapportant le nombre de chômeurs à la population active, c'est-à-dire à la somme des actifs occupés et des chômeurs",
+      "explanation": "Le dénominateur est la population active, et non la population totale ni la population en âge de travailler. C'est pourquoi le taux de chômage peut baisser sans création d'emplois, si des chômeurs découragés quittent la population active.",
+      "tags": [
+        "mesure",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "En rapportant le nombre de chômeurs à la population totale",
+          "En rapportant le nombre de chômeurs au nombre d'emplois",
+          "En comptant le nombre de chômeurs supplémentaires dans l'année"
+        ],
+        "medium": [
+          "En rapportant le nombre de chômeurs à la population en âge de travailler",
+          "En rapportant le nombre de chômeurs au nombre d'actifs occupés",
+          "En rapportant la population active à la population totale"
+        ],
+        "hard": [
+          "En rapportant le nombre de chômeurs à la population active, laquelle inclut les inactifs souhaitant travailler",
+          "En rapportant le nombre de chômeurs à la population active occupée, augmentée du halo",
+          "En rapportant le nombre de chômeurs à la population active, ce qui rend le taux insensible aux découragements"
+        ]
+      }
+    },
+    {
+      "recto": "Que mesure le taux d'emploi, et pourquoi complète-t-il utilement le taux de chômage ?",
+      "verso": "Il rapporte le nombre d'actifs occupés à la population en âge de travailler, ce qui neutralise les effets du découragement et des entrées ou sorties de la population active",
+      "explanation": "Deux pays peuvent avoir le même taux de chômage avec des taux d'emploi très différents, si l'un d'eux a une population active plus réduite. Le taux d'emploi est donc un meilleur indicateur de la capacité d'une économie à mobiliser sa main-d'œuvre.",
+      "tags": [
+        "mesure",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Il rapporte le nombre de chômeurs à la population totale",
+          "Il mesure le nombre d'emplois créés dans l'année",
+          "Il mesure la durée moyenne des contrats de travail"
+        ],
+        "medium": [
+          "Il rapporte le nombre d'actifs occupés à la population active",
+          "Il rapporte le nombre d'emplois au nombre d'entreprises",
+          "Il mesure la part des emplois à temps plein dans l'emploi total"
+        ],
+        "hard": [
+          "Il rapporte le nombre d'actifs occupés à la population en âge de travailler, ce qui le rend sensible au découragement",
+          "Il rapporte le nombre d'actifs occupés à la population totale, y compris les enfants et les retraités",
+          "Il rapporte le nombre d'actifs occupés à la population active, halo compris"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : qu'est-ce qui distingue le chômage conjoncturel du chômage structurel ?",
+      "verso": "Le chômage conjoncturel provient d'une insuffisance temporaire de la demande dans l'économie, tandis que le chômage structurel provient du fonctionnement durable du marché du travail et persiste même en période de croissance",
+      "explanation": "La distinction commande la politique à mener : le chômage conjoncturel appelle un soutien de la demande, le chômage structurel des réformes de la formation, du coût du travail ou de l'appariement. Confondre les deux conduit à proposer un remède inadapté.",
+      "tags": [
+        "comparaison",
+        "typologie"
+      ],
+      "distractors": {
+        "easy": [
+          "Le chômage conjoncturel est long, le chômage structurel est court",
+          "Le chômage conjoncturel touche les jeunes, le structurel les seniors",
+          "Les deux notions désignent la même chose"
+        ],
+        "medium": [
+          "Le chômage conjoncturel vient du fonctionnement du marché du travail, le structurel d'un manque de demande",
+          "Le chômage conjoncturel disparaît spontanément, le structurel appelle un soutien de la demande",
+          "Le chômage conjoncturel concerne l'industrie, le structurel les services"
+        ],
+        "hard": [
+          "Le chômage conjoncturel vient d'une insuffisance de la demande et persiste même en période de croissance",
+          "Le chômage conjoncturel vient d'une insuffisance de la demande, le chômage structurel des seules rigidités salariales",
+          "Le chômage conjoncturel appelle des réformes de la formation, le chômage structurel une relance budgétaire"
+        ]
+      }
+    },
+    {
+      "recto": "Comment une insuffisance de la demande globale peut-elle engendrer du chômage ?",
+      "verso": "Si les entreprises anticipent des débouchés insuffisants, elles réduisent leur production et donc leurs embauches, ce qui abaisse encore les revenus et la demande",
+      "explanation": "Le raisonnement, d'inspiration keynésienne, part de la demande anticipée et non du coût du travail. Il justifie des politiques de soutien de l'activité en période de récession, pour interrompre l'enchaînement cumulatif.",
+      "tags": [
+        "chômage conjoncturel",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les salariés refusent de travailler quand les prix baissent",
+          "Parce que les entreprises manquent de matières premières",
+          "Parce que la population active augmente trop vite"
+        ],
+        "medium": [
+          "Parce que la hausse des salaires renchérit le coût du travail",
+          "Parce que les qualifications des chômeurs ne correspondent pas aux besoins",
+          "Parce que les entreprises préfèrent investir plutôt qu'embaucher"
+        ],
+        "hard": [
+          "Parce que les entreprises réduisent leurs embauches, ce qui accroît les revenus disponibles et relance la demande",
+          "Parce que les entreprises anticipent des débouchés insuffisants, mécanisme qui ne joue qu'à long terme",
+          "Parce que la baisse des débouchés fait mécaniquement monter les salaires réels"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi le coût du travail peut-il être un déterminant du chômage ?",
+      "verso": "Si le coût du travail dépasse la productivité attendue d'un salarié, l'embauche cesse d'être rentable pour l'entreprise, ce qui pénalise surtout les travailleurs les moins qualifiés",
+      "explanation": "L'argument vaut principalement autour du salaire minimum, où l'écart entre coût et productivité est le plus étroit. Il justifie les allègements de cotisations sociales ciblés sur les bas salaires.",
+      "tags": [
+        "chômage structurel",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les salariés bien payés travaillent moins",
+          "Parce que les entreprises n'aiment pas payer des salaires",
+          "Parce que le coût du travail fait baisser les prix"
+        ],
+        "medium": [
+          "Parce qu'un coût du travail élevé augmente mécaniquement la demande de travail",
+          "Parce qu'un coût du travail élevé pénalise surtout les travailleurs les plus qualifiés",
+          "Parce que le coût du travail détermine le nombre d'actifs disponibles"
+        ],
+        "hard": [
+          "Parce qu'un coût supérieur à la productivité décourage l'embauche, effet identique à tous les niveaux de qualification",
+          "Parce qu'un coût supérieur à la productivité décourage l'embauche, argument qui vaut surtout pour les hauts salaires",
+          "Parce que le coût du travail agit uniquement par son effet sur la compétitivité des exportations"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on l'appariement sur le marché du travail ?",
+      "verso": "Le processus par lequel une offre d'emploi et un demandeur d'emploi se rencontrent effectivement, ce qui suppose de l'information, du temps et une correspondance des profils",
+      "explanation": "Des emplois vacants et des chômeurs peuvent coexister durablement si l'information circule mal ou si les profils ne correspondent pas. C'est ce qui justifie l'action du service public de l'emploi, qui agit sur l'information plutôt que sur les coûts.",
+      "tags": [
+        "appariement",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Le classement des chômeurs par ordre d'ancienneté",
+          "L'attribution d'un salaire identique à des postes similaires",
+          "Le regroupement des entreprises par secteur d'activité"
+        ],
+        "medium": [
+          "Le mécanisme par lequel le salaire s'ajuste pour équilibrer le marché",
+          "La négociation collective entre syndicats et employeurs",
+          "La correspondance entre le niveau de diplôme et le niveau de salaire"
+        ],
+        "hard": [
+          "Le processus par lequel offres et demandes se rencontrent, rencontre supposée instantanée et sans coût",
+          "Le processus de rencontre entre offres et demandes, qui exclut par définition la question des qualifications",
+          "Le processus par lequel les entreprises sélectionnent les candidats les mieux payés"
+        ]
+      }
+    },
+    {
+      "recto": "Comment des emplois vacants peuvent-ils coexister avec un chômage élevé ?",
+      "verso": "Par défaut d'appariement : inadéquation des qualifications, mauvaise circulation de l'information, ou obstacles géographiques et de mobilité",
+      "explanation": "Ce constat contredit l'idée que le chômage traduirait un simple manque d'emplois disponibles. Il oriente vers des politiques de formation, d'information et d'aide à la mobilité plutôt que vers une relance de la demande.",
+      "tags": [
+        "appariement",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les chômeurs refusent tous les emplois proposés",
+          "Parce que les entreprises ne publient pas leurs offres",
+          "Parce que le nombre d'emplois est limité par la loi"
+        ],
+        "medium": [
+          "Parce que la demande globale est insuffisante",
+          "Parce que le salaire minimum est trop élevé",
+          "Parce que les entreprises préfèrent recruter à l'étranger"
+        ],
+        "hard": [
+          "Par défaut d'appariement, phénomène qui disparaît dès que la demande globale se redresse",
+          "Par défaut d'appariement, dû exclusivement à des obstacles géographiques et jamais aux qualifications",
+          "Par défaut d'appariement, ce qui justifie prioritairement une baisse du coût du travail"
+        ]
+      }
+    },
+    {
+      "recto": "Comment les asymétries d'information affectent-elles le marché du travail ?",
+      "verso": "L'employeur ne connaît pas la productivité réelle du candidat, ce qui le pousse à se fier au diplôme, à l'expérience ou à des signaux indirects, au risque d'écarter des candidats compétents",
+      "explanation": "Ce mécanisme explique la difficulté d'insertion des personnes sans diplôme ou éloignées de l'emploi depuis longtemps. Il rend la durée du chômage elle-même pénalisante, puisqu'elle devient un signal négatif.",
+      "tags": [
+        "information",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Les salariés ne connaissent pas le montant de leur salaire",
+          "Les entreprises ignorent le nombre de chômeurs",
+          "L'État ne connaît pas le nombre d'emplois vacants"
+        ],
+        "medium": [
+          "L'employeur connaît parfaitement la productivité du candidat mais la sous-estime volontairement",
+          "Le candidat ignore le contenu du poste, ce qui suffit à expliquer le chômage",
+          "Les asymétries d'information font baisser les salaires de tous les travailleurs"
+        ],
+        "hard": [
+          "L'employeur ignore la productivité réelle du candidat, ce qui rend la durée du chômage sans effet sur l'embauche",
+          "L'employeur ignore la productivité du candidat, asymétrie qui disparaît une fois le contrat signé",
+          "L'employeur se fie aux diplômes, ce qui garantit une sélection efficace des candidats les plus productifs"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi le chômage de longue durée est-il particulièrement difficile à résorber ?",
+      "verso": "Parce que l'éloignement de l'emploi dégrade les compétences et les réseaux, et constitue un signal négatif pour les employeurs, ce qui réduit encore les chances d'embauche",
+      "explanation": "Ce cercle vicieux, souvent appelé effet d'hystérèse, transforme un chômage d'origine conjoncturelle en chômage structurel. C'est ce qui justifie d'agir vite, avant que la durée n'aggrave elle-même le problème.",
+      "tags": [
+        "chômage de longue durée",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les chômeurs de longue durée sont mieux indemnisés",
+          "Parce qu'ils habitent tous dans les mêmes régions",
+          "Parce qu'ils sont tous proches de la retraite"
+        ],
+        "medium": [
+          "Parce que les entreprises sont légalement tenues de recruter en priorité les chômeurs récents",
+          "Parce que la durée du chômage n'a aucun effet sur les compétences",
+          "Parce que le salaire exigé augmente avec la durée du chômage"
+        ],
+        "hard": [
+          "Parce que l'éloignement dégrade les compétences, mécanisme qui transforme un chômage structurel en chômage conjoncturel",
+          "Parce que l'éloignement constitue un signal négatif, effet limité aux emplois les plus qualifiés",
+          "Parce que l'éloignement dégrade les compétences, ce qui justifie d'attendre la reprise avant d'agir"
+        ]
+      }
+    },
+    {
+      "recto": "Comment les institutions du marché du travail peuvent-elles influencer le niveau du chômage ?",
+      "verso": "Par le niveau du salaire minimum, les règles de licenciement, la générosité et la durée de l'indemnisation, ainsi que par le rôle de la négociation collective",
+      "explanation": "Chacune de ces institutions a des effets ambivalents : une indemnisation généreuse peut allonger la durée de recherche, mais aussi permettre un meilleur appariement. Le débat porte donc sur des dosages, pas sur des principes absolus.",
+      "tags": [
+        "institutions",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Uniquement par le montant des impôts sur les entreprises",
+          "Uniquement par le nombre de jours fériés",
+          "Uniquement par la durée légale des congés payés"
+        ],
+        "medium": [
+          "Uniquement par le niveau du salaire minimum, les autres règles étant sans effet",
+          "Uniquement par la générosité de l'indemnisation, dont l'effet est nécessairement négatif",
+          "Par le niveau des salaires, les règles de licenciement relevant du seul droit civil"
+        ],
+        "hard": [
+          "Par le salaire minimum et les règles de licenciement, dont les effets sur l'emploi sont univoques et démontrés",
+          "Par l'indemnisation du chômage, dont le seul effet documenté est d'allonger la durée du chômage",
+          "Par les institutions du marché du travail, qui n'agissent que sur le chômage conjoncturel"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi l'indemnisation du chômage a-t-elle des effets ambivalents sur l'emploi ?",
+      "verso": "Elle peut allonger la durée de recherche en réduisant l'urgence d'accepter un emploi, mais elle permet aussi une recherche plus sélective, donc un meilleur appariement et des emplois plus durables",
+      "explanation": "Le raisonnement ne se réduit donc pas à une désincitation au travail. La question empirique est de savoir lequel des deux effets l'emporte, ce qui dépend du niveau et de la durée de l'indemnisation.",
+      "tags": [
+        "institutions",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle empêche totalement le retour à l'emploi",
+          "Elle n'a aucun effet sur le comportement des chômeurs",
+          "Elle garantit un emploi à tous les indemnisés"
+        ],
+        "medium": [
+          "Elle réduit uniquement la pauvreté, sans effet sur la recherche d'emploi",
+          "Elle raccourcit toujours la durée du chômage en finançant la recherche",
+          "Elle allonge la durée du chômage, ce qui dégrade nécessairement la qualité des emplois trouvés"
+        ],
+        "hard": [
+          "Elle allonge la durée de recherche, effet qui l'emporte toujours sur l'amélioration de l'appariement",
+          "Elle permet une recherche plus sélective, ce qui rend son montant sans importance",
+          "Elle allonge la durée de recherche et dégrade l'appariement, ces deux effets se cumulant"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi consistent les politiques de soutien de la demande contre le chômage ?",
+      "verso": "À stimuler la consommation et l'investissement par la dépense publique, la baisse des impôts ou des taux d'intérêt, afin de relancer la production et donc l'embauche",
+      "explanation": "Elles s'adressent au chômage conjoncturel, lié à un manque de débouchés, et non au chômage structurel. Leurs limites sont l'endettement public, le délai de mise en œuvre et le risque que la relance profite aux importations.",
+      "tags": [
+        "politiques",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "À interdire les licenciements dans les grandes entreprises",
+          "À réduire la durée légale du travail sans compensation",
+          "À obliger les entreprises à embaucher des chômeurs"
+        ],
+        "medium": [
+          "À réduire le coût du travail par des allègements de cotisations",
+          "À former les chômeurs aux métiers en tension",
+          "À assouplir les règles de licenciement pour favoriser l'embauche"
+        ],
+        "hard": [
+          "À stimuler la consommation et l'investissement, politique adaptée au chômage structurel",
+          "À stimuler la demande, sans que la relance puisse jamais profiter aux importations",
+          "À stimuler la demande par la dépense publique, dont l'effet est immédiat et sans coût budgétaire"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la logique des politiques d'allègement du coût du travail ?",
+      "verso": "Réduire les cotisations sociales, surtout au voisinage du salaire minimum, pour rendre rentable l'embauche des travailleurs les moins qualifiés",
+      "explanation": "Le ciblage sur les bas salaires est essentiel : c'est là que l'écart entre coût et productivité est le plus étroit. Ces politiques ont un coût budgétaire élevé et soulèvent la question du financement de la protection sociale.",
+      "tags": [
+        "politiques",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Augmenter les salaires pour motiver les travailleurs",
+          "Supprimer les contrats à durée déterminée",
+          "Réduire le nombre d'heures travaillées par semaine"
+        ],
+        "medium": [
+          "Réduire les cotisations sur les hauts salaires, où les montants en jeu sont plus importants",
+          "Augmenter le salaire minimum pour soutenir la consommation",
+          "Réduire uniformément l'impôt sur les sociétés"
+        ],
+        "hard": [
+          "Réduire les cotisations au voisinage du salaire minimum, politique sans coût budgétaire puisqu'elle crée des emplois",
+          "Réduire les cotisations sur l'ensemble de l'échelle salariale, le ciblage étant sans effet démontré",
+          "Réduire le coût du travail, ce qui répond au chômage conjoncturel lié à la faiblesse de la demande"
+        ]
+      }
+    },
+    {
+      "recto": "Que visent les politiques de formation et d'accompagnement des chômeurs ?",
+      "verso": "À améliorer l'appariement en adaptant les qualifications aux besoins des entreprises et en aidant à la recherche d'emploi",
+      "explanation": "Ces politiques dites actives agissent sur le chômage structurel d'inadéquation, là où ni la relance ni la baisse des coûts ne sont efficaces. Leurs effets sont réels mais lents, ce qui les rend politiquement peu attractives.",
+      "tags": [
+        "politiques",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "À indemniser plus généreusement les chômeurs",
+          "À réduire le nombre d'inscrits au service public de l'emploi",
+          "À obliger les chômeurs à créer leur entreprise"
+        ],
+        "medium": [
+          "À relancer la demande globale par la dépense publique",
+          "À réduire le coût du travail pour les entreprises",
+          "À raccourcir la durée d'indemnisation pour inciter au retour à l'emploi"
+        ],
+        "hard": [
+          "À améliorer l'appariement, avec des effets immédiats sur le taux de chômage",
+          "À adapter les qualifications aux besoins, politique efficace contre le chômage conjoncturel",
+          "À améliorer l'appariement, ce qui suppose de renoncer à toute politique de la demande"
+        ]
+      }
+    },
+    {
+      "recto": "Que désigne la flexibilité du marché du travail ?",
+      "verso": "La facilité pour les entreprises d'ajuster leurs effectifs, leurs horaires et leurs salaires en fonction de leur activité",
+      "explanation": "Elle facilite les embauches en réduisant le risque associé, mais accroît aussi l'insécurité des salariés et peut multiplier les contrats courts. C'est ce compromis que la notion de flexisécurité tente de dépasser.",
+      "tags": [
+        "flexibilité",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "La possibilité pour les salariés de choisir leurs horaires",
+          "La possibilité de travailler à distance",
+          "La mobilité des salariés entre les régions"
+        ],
+        "medium": [
+          "La garantie d'un emploi stable pour tous les salariés",
+          "L'obligation pour les entreprises de maintenir leurs effectifs",
+          "La liberté pour les salariés de démissionner sans préavis"
+        ],
+        "hard": [
+          "La facilité d'ajuster les effectifs et les salaires, ce qui réduit nécessairement le nombre de contrats courts",
+          "La facilité d'ajuster les effectifs, sans conséquence sur la sécurité des parcours professionnels",
+          "La facilité d'ajuster les effectifs et les horaires, à l'exclusion de toute variation salariale"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi consiste la flexisécurité ?",
+      "verso": "À combiner une grande souplesse pour les entreprises dans la gestion des effectifs et une forte sécurisation des parcours pour les salariés, par l'indemnisation et la formation",
+      "explanation": "L'idée est de sécuriser les personnes plutôt que les postes, en assumant les mobilités professionnelles. Ce modèle, associé aux pays nordiques, suppose des dépenses publiques importantes en formation et en accompagnement.",
+      "tags": [
+        "flexisécurité",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "À interdire tout licenciement économique",
+          "À garantir un emploi à vie dans la même entreprise",
+          "À supprimer toute indemnisation du chômage"
+        ],
+        "medium": [
+          "À flexibiliser le marché du travail en réduisant les dépenses d'indemnisation",
+          "À sécuriser les emplois existants en limitant la mobilité",
+          "À rendre les contrats plus rigides tout en augmentant les allocations"
+        ],
+        "hard": [
+          "À combiner souplesse et sécurisation, modèle réalisable sans dépense publique supplémentaire",
+          "À sécuriser les postes plutôt que les personnes, en assumant une faible mobilité",
+          "À combiner souplesse pour les entreprises et sécurité de l'emploi dans la même entreprise"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi n'existe-t-il pas de politique unique contre le chômage ?",
+      "verso": "Parce que le chômage a plusieurs causes simultanées, conjoncturelles et structurelles, qui appellent des instruments différents et complémentaires",
+      "explanation": "Une relance ne résout pas une inadéquation des qualifications, et une baisse des coûts ne crée pas de débouchés absents. Le diagnostic du type de chômage dominant précède donc nécessairement le choix des instruments.",
+      "tags": [
+        "politiques",
+        "raisonnement"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les économistes ne sont jamais d'accord",
+          "Parce que le chômage est un phénomène inévitable",
+          "Parce que les politiques sont trop coûteuses"
+        ],
+        "medium": [
+          "Parce que le chômage a une cause unique mal identifiée",
+          "Parce que seules les politiques de demande sont efficaces",
+          "Parce que le chômage dépend uniquement de la croissance mondiale"
+        ],
+        "hard": [
+          "Parce que le chômage a plusieurs causes, mais qu'une seule politique bien conçue peut toutes les traiter",
+          "Parce que les causes conjoncturelles et structurelles s'annulent mutuellement",
+          "Parce que le diagnostic du type de chômage est impossible à établir statistiquement"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi une baisse du taux de chômage n'est-elle pas toujours une bonne nouvelle ?",
+      "verso": "Parce qu'elle peut résulter de la sortie de la population active de chômeurs découragés, sans aucune création d'emploi",
+      "explanation": "Le dénominateur du taux diminue alors autant que le numérateur, ce qui améliore l'indicateur sans améliorer la situation. C'est pourquoi il faut examiner conjointement le taux d'emploi, le halo et le sous-emploi.",
+      "tags": [
+        "mesure",
+        "interprétation"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'une baisse du chômage fait toujours monter les prix",
+          "Parce que les chiffres sont publiés avec du retard",
+          "Parce que le chômage baisse toujours en été"
+        ],
+        "medium": [
+          "Parce qu'une baisse du chômage traduit toujours une hausse du sous-emploi",
+          "Parce que la population active augmente mécaniquement quand le chômage baisse",
+          "Parce que les créations d'emplois sont toujours des contrats courts"
+        ],
+        "hard": [
+          "Parce qu'elle peut résulter du découragement, phénomène qui augmente pourtant le dénominateur du taux",
+          "Parce qu'elle peut résulter du découragement, ce que le taux d'emploi ne permet pas de détecter",
+          "Parce qu'elle peut résulter d'une hausse du halo, laquelle est incluse dans le taux de chômage"
+        ]
+      }
+    },
+    {
+      "recto": "Comment le progrès technique agit-il sur l'emploi à court et à long terme ?",
+      "verso": "À court terme il détruit des emplois dans les activités automatisées, mais à long terme les gains de productivité, en abaissant les prix et en créant des activités nouvelles, en recréent ailleurs",
+      "explanation": "C'est le mécanisme de déversement, prolongement de la destruction créatrice. Le solde est historiquement positif, mais il ne dit rien du sort individuel de ceux dont le métier disparaît, ni du délai de reconversion.",
+      "tags": [
+        "progrès technique",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Il détruit définitivement des emplois sans jamais en créer",
+          "Il crée des emplois sans jamais en détruire",
+          "Il n'a aucun effet sur l'emploi"
+        ],
+        "medium": [
+          "Il crée des emplois à court terme et en détruit à long terme",
+          "Il détruit des emplois peu qualifiés et en crée autant dans les mêmes territoires",
+          "Il transforme les emplois sans modifier leur nombre total"
+        ],
+        "hard": [
+          "Il détruit des emplois à court terme et en recrée à long terme, le solde historique étant négatif",
+          "Il détruit des emplois puis en recrée, mécanisme qui garantit la reconversion des salariés concernés",
+          "Il détruit des emplois à court terme, la recréation supposant une politique de relance de la demande"
+        ]
+      }
+    },
+    {
+      "recto": "Comment articuler diagnostic et politique face à une hausse du chômage ?",
+      "verso": "Identifier d'abord si la hausse est liée à un ralentissement de l'activité ou à des difficultés durables d'appariement, puis choisir des instruments de demande ou des instruments structurels en conséquence",
+      "explanation": "Des emplois vacants nombreux avec un chômage élevé signalent un problème d'appariement ; une chute simultanée de l'emploi et de la production signale un problème de demande. Les deux diagnostics ne s'excluent pas et peuvent coexister.",
+      "tags": [
+        "méthode",
+        "politiques"
+      ],
+      "distractors": {
+        "easy": [
+          "Appliquer toujours une relance budgétaire",
+          "Attendre que la situation se corrige d'elle-même",
+          "Réduire immédiatement les allocations chômage"
+        ],
+        "medium": [
+          "Choisir systématiquement les instruments structurels, plus durables",
+          "Combiner tous les instruments simultanément sans diagnostic préalable",
+          "Se fier uniquement au nombre d'inscrits au service public de l'emploi"
+        ],
+        "hard": [
+          "Identifier la cause dominante, sachant que les diagnostics conjoncturel et structurel s'excluent mutuellement",
+          "Identifier la cause dominante, un nombre élevé d'emplois vacants signalant une insuffisance de la demande",
+          "Identifier la cause dominante, le taux de chômage suffisant à lui seul à établir le diagnostic"
+        ]
+      }
+    }
+  ]
+}

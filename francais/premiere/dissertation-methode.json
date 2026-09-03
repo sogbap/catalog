@@ -1,0 +1,744 @@
+{
+  "id": "francais-premiere-dissertation-methode",
+  "title": "Méthode de la dissertation sur œuvre",
+  "emoji": "🖋️",
+  "subject": "literature",
+  "country": "fr",
+  "courseDescription": "Analyser un sujet, bâtir un plan et nourrir une dissertation d'exemples tirés de l'œuvre intégrale et de son parcours associé.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Méthode de la dissertation sur œuvre</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Première · français<br>\n  <b>Exercice&nbsp;:</b> dissertation portant sur une œuvre intégrale et son parcours associé<br>\n  <b>Épreuve&nbsp;:</b> épreuve anticipée du bac de français, 4 heures à l'écrit\n</div>\n\n<blockquote><p><b>Problématique.</b> Comment une œuvre lue devient-elle la matière d'une démonstration&nbsp;?</p></blockquote>\n\n<p>La dissertation n'évalue pas ce qu'on sait d'une œuvre, mais ce qu'on sait en <em>faire</em>. Un sujet propose une affirmation sur la littérature&nbsp;; le devoir doit la mettre à l'épreuve de l'œuvre étudiée, argument après argument. D'où deux exigences inséparables&nbsp;: une <strong>connaissance précise</strong> du texte au programme, et une <strong>logique</strong> qui progresse au lieu de juxtaposer. L'une sans l'autre ne suffit jamais.</p>\n\n<h2>1 · Analyser le sujet avant tout</h2>\n\n<p>Le sujet n'est pas un thème sur lequel disserter librement&nbsp;: c'est une <strong>affirmation</strong> à discuter, souvent empruntée à un écrivain ou à un critique. La première heure de l'épreuve se joue au brouillon, sur ses mots.</p>\n\n<ul>\n  <li><strong>Repérer les mots clés</strong> et les définir&nbsp;: c'est dans leur ambiguïté que loge la question. Un même mot — illusion, sincérité, révolte — n'a pas le même sens selon qu'on l'entend au sens fort ou au sens courant.</li>\n  <li><strong>Chercher le présupposé</strong>&nbsp;: qu'est-ce que le sujet tient pour acquis, et cela va-t-il de soi&nbsp;?</li>\n  <li><strong>Formuler la problématique</strong>&nbsp;: la question que le sujet pose vraiment, celle qui fait apparaître une tension.</li>\n</ul>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 178\" role=\"img\" aria-label=\"Trajet de l'analyse du sujet de dissertation : on part de la citation ou de l'affirmation proposée, on définit ses mots clés en explorant leurs sens possibles, on repère le présupposé qu'elle contient, puis on formule la problématique qui fait apparaître la tension à discuter, et le plan découle de cette problématique\">\n    <rect x=\"18\" y=\"12\" width=\"304\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"170\" y=\"33\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">Le sujet, tel qu'il est formulé</text>\n    <line x1=\"170\" y1=\"48\" x2=\"170\" y2=\"58\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-fdi1)\"/>\n    <rect x=\"18\" y=\"60\" width=\"146\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"91\" y=\"81\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">définir les mots clés</text>\n    <rect x=\"176\" y=\"60\" width=\"146\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"249\" y=\"81\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">repérer le présupposé</text>\n    <line x1=\"91\" y1=\"96\" x2=\"150\" y2=\"110\" stroke=\"var(--accent)\" stroke-opacity=\".6\" stroke-width=\"1.4\" marker-end=\"url(#ar-fdi1)\"/>\n    <line x1=\"249\" y1=\"96\" x2=\"190\" y2=\"110\" stroke=\"var(--accent)\" stroke-opacity=\".6\" stroke-width=\"1.4\" marker-end=\"url(#ar-fdi1)\"/>\n    <rect x=\"60\" y=\"112\" width=\"220\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"133\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">LA PROBLÉMATIQUE</text>\n    <text x=\"170\" y=\"168\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">Le plan en découle ; il ne la précède jamais.</text>\n    <defs>\n      <marker id=\"ar-fdi1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n  </svg>\n  <figcaption>Un mot du sujet mal compris fausse les quatre heures qui suivent.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Notion · Problématique</strong><br>\n  Reformulation du sujet en une question qui expose la tension à résoudre. Elle ne recopie pas le sujet&nbsp;: elle en dégage l'enjeu, et le devoir entier y répond.\n</div>\n\n<h2>2 · Choisir le plan que le sujet appelle</h2>\n\n<p>Il n'existe pas de bon plan en soi&nbsp;: il existe un plan <em>adapté à la formulation du sujet</em>. Une affirmation tranchée appelle la discussion&nbsp;; une question ouverte appelle l'exploration.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Les trois plans possibles en dissertation : le plan dialectique examine la thèse du sujet puis ses limites puis dépasse l'opposition, il convient aux sujets qui affirment ; le plan thématique explore les aspects successifs d'une notion, il convient aux questions ouvertes ; le plan analytique examine un fait puis ses causes puis ses conséquences\">\n    <rect x=\"10\" y=\"14\" width=\"102\" height=\"120\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"61\" y=\"34\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">DIALECTIQUE</text>\n    <text x=\"61\" y=\"54\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">1. la thèse</text>\n    <text x=\"61\" y=\"68\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">2. ses limites</text>\n    <text x=\"61\" y=\"82\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">3. le dépassement</text>\n    <text x=\"61\" y=\"106\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">sujet qui</text>\n    <text x=\"61\" y=\"118\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">affirme</text>\n    <rect x=\"119\" y=\"14\" width=\"102\" height=\"120\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"170\" y=\"34\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">THÉMATIQUE</text>\n    <text x=\"170\" y=\"54\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">1. un aspect</text>\n    <text x=\"170\" y=\"68\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">2. un autre</text>\n    <text x=\"170\" y=\"82\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">3. un autre encore</text>\n    <text x=\"170\" y=\"106\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">question</text>\n    <text x=\"170\" y=\"118\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">ouverte</text>\n    <rect x=\"228\" y=\"14\" width=\"102\" height=\"120\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"279\" y=\"34\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">ANALYTIQUE</text>\n    <text x=\"279\" y=\"54\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">1. le fait</text>\n    <text x=\"279\" y=\"68\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">2. ses causes</text>\n    <text x=\"279\" y=\"82\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">3. ses effets</text>\n    <text x=\"279\" y=\"106\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">sujet qui</text>\n    <text x=\"279\" y=\"118\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">explique</text>\n    <line x1=\"8\" y1=\"150\" x2=\"332\" y2=\"150\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"170\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">L'erreur d'orientation</text>\n    <text x=\"8\" y=\"186\" font-size=\"9\" fill=\"currentColor\">Forcer un sujet ouvert dans un moule dialectique fabrique</text>\n    <text x=\"8\" y=\"198\" font-size=\"9\" fill=\"currentColor\">une antithèse artificielle, immédiatement visible.</text>\n  </svg>\n  <figcaption>Le plan se déduit de la question posée, jamais l'inverse.</figcaption>\n</figure>\n\n<p>Deux règles constantes, quel que soit le plan retenu&nbsp;:</p>\n\n<ul>\n  <li><strong>Deux ou trois parties équilibrées</strong>. Une troisième partie artificielle affaiblit un devoir que deux parties solides auraient porté.</li>\n  <li><strong>Ne jamais suivre l'ordre de l'œuvre</strong>. Un plan qui parcourt le livre chapitre après chapitre finit toujours par raconter.</li>\n</ul>\n\n<h2>3 · Nourrir la démonstration</h2>\n\n<p>Les exemples viennent d'abord de l'<strong>œuvre intégrale</strong>, ensuite des textes du <strong>parcours associé</strong>, enfin des lectures personnelles quand elles éclairent vraiment. Le socle reste l'œuvre&nbsp;: un devoir nourri seulement de références extérieures montre qu'elle n'a pas été lue.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 186\" role=\"img\" aria-label=\"Structure d'un paragraphe de dissertation en quatre temps : l'argument est énoncé clairement, un ou deux exemples précis tirés de l'œuvre viennent l'appuyer, ces exemples sont analysés pour montrer en quoi ils démontrent l'idée, et une phrase de bilan relie le paragraphe à la partie ; un exemple simplement cité sans analyse ne prouve rien\">\n    <rect x=\"18\" y=\"10\" width=\"304\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"30\" y=\"29\" font-size=\"9\" fill=\"currentColor\"><tspan font-weight=\"bold\" fill=\"var(--accent)\">1. L'ARGUMENT</tspan> — une seule idée, énoncée nettement</text>\n    <line x1=\"170\" y1=\"42\" x2=\"170\" y2=\"50\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-fdi2)\"/>\n    <rect x=\"18\" y=\"52\" width=\"304\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"30\" y=\"71\" font-size=\"9\" fill=\"currentColor\"><tspan font-weight=\"bold\" fill=\"var(--accent)\">2. L'EXEMPLE</tspan> — précis, situé dans l'œuvre</text>\n    <line x1=\"170\" y1=\"84\" x2=\"170\" y2=\"92\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-fdi2)\"/>\n    <rect x=\"18\" y=\"94\" width=\"304\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"30\" y=\"113\" font-size=\"9\" fill=\"currentColor\"><tspan font-weight=\"bold\" fill=\"var(--accent)\">3. L'ANALYSE</tspan> — en quoi il démontre l'idée</text>\n    <line x1=\"170\" y1=\"126\" x2=\"170\" y2=\"134\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-fdi2)\"/>\n    <rect x=\"18\" y=\"136\" width=\"304\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"30\" y=\"155\" font-size=\"9\" fill=\"currentColor\"><tspan font-weight=\"bold\" fill=\"var(--accent)\">4. LE BILAN</tspan> — le lien avec la partie</text>\n    <text x=\"170\" y=\"182\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">Un exemple cité sans analyse ne prouve rien.</text>\n    <defs>\n      <marker id=\"ar-fdi2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n  </svg>\n  <figcaption>Un paragraphe, une idée&nbsp;: deux arguments dans le même bloc rendent la démonstration illisible.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Notion · Parcours associé</strong><br>\n  L'ensemble de textes qui accompagne l'œuvre au programme et indique sous quel angle elle est étudiée. L'y rattacher prouve qu'on a compris pourquoi cette œuvre figure là, sous cet intitulé.\n</div>\n\n<h2>4 · La copie rédigée</h2>\n\n<h3>L'introduction</h3>\n\n<ul>\n  <li>Une <strong>amorce</strong> précise, prise dans le genre, le mouvement ou la question littéraire concernée. Jamais «&nbsp;de tout temps, les hommes ont écrit&nbsp;».</li>\n  <li>La <strong>présentation</strong> de l'œuvre et la <strong>citation du sujet</strong>, reprise fidèlement.</li>\n  <li>L'<strong>analyse rapide des termes</strong>, puis la <strong>problématique</strong>.</li>\n  <li>L'<strong>annonce du plan</strong>, claire et brève.</li>\n</ul>\n\n<h3>Les transitions</h3>\n\n<p>Entre deux parties, une ou deux phrases qui font le bilan de ce qui vient d'être établi et montrent <em>pourquoi</em> ce résultat oblige à examiner la question autrement. C'est là que se voit la logique du plan&nbsp;— ou son absence.</p>\n\n<h3>La conclusion</h3>\n\n<p>Un <strong>bilan</strong> qui répond nettement à la problématique&nbsp;: une dissertation prend position. Puis une <strong>ouverture</strong>, si elle est juste&nbsp;; une ouverture artificielle nuit davantage qu'un devoir qui s'arrête au bilan.</p>\n\n<h2>5 · Préparer l'œuvre avant l'épreuve</h2>\n\n<p>La méthode ne compense jamais l'ignorance du texte. La préparation efficace ne consiste pas à réviser l'intrigue, mais à constituer un <strong>carnet de citations et de passages classés par notions</strong>&nbsp;: le pouvoir des mots, la figure du personnage, la place du lecteur, le rapport au réel. Le jour de l'épreuve, un sujet réclame des exemples convergents&nbsp;: des passages rangés par idée se mobilisent en quelques minutes, un résumé linéaire non.</p>\n\n<p>Répartition indicative des quatre heures&nbsp;: environ <strong>une heure</strong> pour l'analyse du sujet et le plan détaillé au brouillon — arguments <em>et</em> exemples —, <strong>deux heures</strong> de rédaction, le reste pour la relecture.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Les trois plans</h3>\n\n<table>\n  <tr><th>Plan</th><th>Mouvement</th><th>Sujet appelé</th></tr>\n  <tr><td>Dialectique</td><td>Thèse, limites, dépassement</td><td>Une affirmation tranchée</td></tr>\n  <tr><td>Thématique</td><td>Aspects successifs d'une notion</td><td>Une question ouverte</td></tr>\n  <tr><td>Analytique</td><td>Fait, causes, conséquences</td><td>Un phénomène à expliquer</td></tr>\n</table>\n\n<h3>Les notions de méthode</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition en une ligne</th></tr>\n  <tr><td>Problématique</td><td>Question qui expose la tension du sujet</td></tr>\n  <tr><td>Argument</td><td>Idée qui fait avancer la réponse</td></tr>\n  <tr><td>Exemple</td><td>Passage précis de l'œuvre, analysé</td></tr>\n  <tr><td>Transition</td><td>Bilan d'une partie et justification de la suivante</td></tr>\n  <tr><td>Parcours associé</td><td>Textes qui situent l'œuvre dans une question</td></tr>\n</table>\n\n<h3>Les fautes à ne pas commettre</h3>\n\n<table>\n  <tr><th>Faute</th><th>Pourquoi elle coûte cher</th></tr>\n  <tr><td>Réciter l'œuvre</td><td>Le devoir ne répond plus au sujet</td></tr>\n  <tr><td>Raconter l'intrigue</td><td>Le récit remplace la démonstration</td></tr>\n  <tr><td>Suivre l'ordre du livre</td><td>Le plan cesse d'être argumentatif</td></tr>\n  <tr><td>Affirmer sans exemple</td><td>Rien n'est démontré à partir de l'œuvre</td></tr>\n  <tr><td>Citer sans analyser</td><td>L'exemple ne prouve rien tout seul</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  <strong>Réciter ce qu'on sait de l'œuvre au lieu de répondre au sujet.</strong> C'est le hors-sujet le plus fréquent&nbsp;: le devoir devient une leçon apprise, où chaque paragraphe montre des connaissances sans faire avancer la réponse. Le test&nbsp;: si un paragraphe pourrait figurer tel quel dans un devoir sur un autre sujet portant sur la même œuvre, il est hors sujet. À ne pas confondre avec la <em>paraphrase</em>, faute propre au commentaire, qui consiste à redire un texte au lieu de l'analyser.\n</div>\n\n<blockquote><p>Le sujet n'est pas un prétexte à parler de l'œuvre&nbsp;: c'est l'œuvre qui devient le moyen de répondre au sujet.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Première",
+  "theme": "Français — méthodes de l'épreuve anticipée",
+  "cards": [
+    {
+      "recto": "Piège classique : quelle erreur transforme une dissertation en devoir hors sujet ?",
+      "verso": "Réciter ce qu'on sait de l'œuvre au lieu de répondre à la question posée, en confondant la dissertation avec une récitation de cours",
+      "explanation": "Le sujet n'est pas un thème mais une affirmation à discuter : chaque paragraphe doit faire avancer la réponse. Ne pas confondre avec la paraphrase, qui est la faute propre au commentaire et consiste à redire un texte au lieu de l'analyser.",
+      "tags": [
+        "méthode",
+        "piege"
+      ],
+      "distractors": {
+        "easy": [
+          "Écrire au stylo bleu plutôt que noir",
+          "Utiliser un dictionnaire pendant l'épreuve",
+          "Rédiger la conclusion avant l'introduction"
+        ],
+        "medium": [
+          "Choisir un plan en trois parties plutôt qu'en deux",
+          "Citer une œuvre qui n'est pas au programme",
+          "Employer la première personne du singulier"
+        ],
+        "hard": [
+          "Annoncer le plan dès la première phrase de l'introduction",
+          "Placer l'ouverture au début de la conclusion",
+          "Traiter la thèse du sujet avant de la nuancer"
+        ]
+      }
+    },
+    {
+      "recto": "Sur quoi porte le sujet de dissertation à l'épreuve anticipée de français ?",
+      "verso": "Sur l'une des œuvres intégrales étudiées dans l'année et sur son parcours associé, que le candidat doit connaître en détail",
+      "explanation": "Le sujet est adossé à une œuvre précise du programme, choisie parmi celles étudiées en classe : sans connaissance fine de cette œuvre, aucune méthode ne suffit.",
+      "tags": [
+        "épreuve",
+        "cadre"
+      ],
+      "distractors": {
+        "easy": [
+          "Sur un texte inconnu distribué le jour de l'épreuve",
+          "Sur un thème d'actualité choisi par le candidat",
+          "Sur l'ensemble de la littérature française"
+        ],
+        "medium": [
+          "Sur un groupement de textes étudié en classe",
+          "Sur une œuvre au choix parmi toute la production d'un auteur",
+          "Sur un extrait de l'œuvre reproduit dans le sujet"
+        ],
+        "hard": [
+          "Sur le parcours associé seul, indépendamment de l'œuvre",
+          "Sur deux œuvres intégrales à comparer entre elles",
+          "Sur l'œuvre intégrale de l'année précédente"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la toute première opération à mener face à un sujet de dissertation ?",
+      "verso": "Analyser précisément la formulation du sujet en repérant ses mots clés, ses présupposés et la question réelle qu'il pose",
+      "explanation": "Un mot du sujet mal interprété fausse le devoir entier. Cette analyse se fait au brouillon, avant toute recherche d'exemples et avant tout choix de plan.",
+      "tags": [
+        "méthode",
+        "analyse du sujet"
+      ],
+      "distractors": {
+        "easy": [
+          "Rédiger immédiatement l'introduction au propre",
+          "Recopier le sujet en tête de copie",
+          "Compter le nombre de mots attendus"
+        ],
+        "medium": [
+          "Choisir entre plan dialectique et plan thématique",
+          "Dresser la liste des personnages de l'œuvre",
+          "Chercher une citation d'auteur pour l'amorce"
+        ],
+        "hard": [
+          "Formuler la problématique avant d'examiner les termes",
+          "Repérer les exemples de l'œuvre susceptibles de servir",
+          "Rédiger l'ouverture pour orienter la démonstration"
+        ]
+      }
+    },
+    {
+      "recto": "Que faut-il faire des mots clés du sujet ?",
+      "verso": "Les définir avec précision et interroger leur sens, car c'est souvent dans leur ambiguïté que se loge la question à discuter",
+      "explanation": "Un terme comme sincérité, illusion ou révolte n'a pas un sens unique : c'est en dépliant ses acceptions qu'on découvre l'enjeu du sujet, donc le plan.",
+      "tags": [
+        "méthode",
+        "analyse du sujet"
+      ],
+      "distractors": {
+        "easy": [
+          "Les remplacer par des synonymes pour éviter les répétitions",
+          "Les souligner dans la copie définitive",
+          "Les traduire en langage courant"
+        ],
+        "medium": [
+          "Les employer tels quels sans les définir, pour rester fidèle au sujet",
+          "Les chercher dans un dictionnaire fourni avec le sujet",
+          "Les citer une seule fois, en introduction"
+        ],
+        "hard": [
+          "Les redéfinir librement pour orienter la démonstration",
+          "Se limiter au sens qu'ils ont dans l'œuvre étudiée",
+          "N'en retenir qu'un seul, le plus important"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on la problématique d'une dissertation ?",
+      "verso": "La reformulation du sujet en une question qui fait apparaître la tension à résoudre et à laquelle le devoir entier répond",
+      "explanation": "Elle ne recopie pas le sujet : elle en dégage l'enjeu. Une problématique qui n'expose aucune tension produit un plan juxtaposé au lieu d'une démonstration.",
+      "tags": [
+        "méthode",
+        "problématique"
+      ],
+      "distractors": {
+        "easy": [
+          "Le titre que le candidat donne à son devoir",
+          "Le résumé de l'œuvre étudiée",
+          "La liste des questions posées par l'examinateur"
+        ],
+        "medium": [
+          "Une question ouverte sur la littérature en général",
+          "La thèse personnelle du candidat annoncée d'emblée",
+          "L'énumération des parties du développement"
+        ],
+        "hard": [
+          "La citation du sujet reprise mot pour mot sous forme interrogative",
+          "La question posée en conclusion pour ouvrir le débat",
+          "La définition des termes clés formulée comme une question"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : qu'est-ce qui distingue le plan dialectique, le plan thématique et le plan analytique ?",
+      "verso": "Le plan dialectique discute une thèse en trois temps, le plan thématique explore les aspects d'une notion, le plan analytique examine successivement un fait, ses causes et ses conséquences",
+      "explanation": "Le choix dépend de la formulation du sujet : une affirmation tranchée appelle la discussion, une question ouverte appelle l'exploration. Aucun plan n'est meilleur en soi.",
+      "tags": [
+        "plan",
+        "comparaison"
+      ],
+      "distractors": {
+        "easy": [
+          "Le premier fait deux parties, le deuxième trois, le troisième quatre",
+          "Ils correspondent aux trois objets d'étude du programme",
+          "Le premier est réservé à la poésie, le deuxième au roman, le troisième au théâtre"
+        ],
+        "medium": [
+          "Le plan dialectique explore des aspects, le plan thématique discute une thèse, le plan analytique compare deux œuvres",
+          "Le plan dialectique convient à l'oral, le plan thématique à l'écrit, le plan analytique aux deux",
+          "Ils se distinguent par la longueur de leurs parties respectives"
+        ],
+        "hard": [
+          "Le plan dialectique examine causes et conséquences, le plan analytique oppose thèse et antithèse",
+          "Le plan thématique impose une synthèse finale, contrairement aux deux autres",
+          "Le plan analytique se limite aux sujets portant sur le parcours associé"
+        ]
+      }
+    },
+    {
+      "recto": "Comment se construit un plan dialectique ?",
+      "verso": "Une première partie qui examine la thèse du sujet, une deuxième qui en montre les limites, une troisième qui dépasse l'opposition en déplaçant la question",
+      "explanation": "La troisième partie n'est pas un compromis mou entre les deux premières : elle change de point de vue pour rendre la contradiction féconde.",
+      "tags": [
+        "plan",
+        "dialectique"
+      ],
+      "distractors": {
+        "easy": [
+          "Une partie par personnage principal de l'œuvre",
+          "Une partie par siècle abordé dans le parcours",
+          "Une introduction, un développement et une conclusion"
+        ],
+        "medium": [
+          "Une partie sur le fond, une sur la forme, une sur la réception",
+          "Une partie favorable, une défavorable, une neutre",
+          "Une partie pour l'auteur, une pour l'œuvre, une pour le lecteur"
+        ],
+        "hard": [
+          "Une partie qui définit, une qui illustre, une qui conclut",
+          "Une partie qui réfute la thèse, une qui la confirme, une qui l'abandonne",
+          "Une partie descriptive, une explicative, une argumentative"
+        ]
+      }
+    },
+    {
+      "recto": "Quand faut-il préférer un plan thématique à un plan dialectique ?",
+      "verso": "Quand le sujet n'énonce pas une thèse discutable mais invite à explorer les différents aspects d'une notion ou d'une fonction de l'œuvre",
+      "explanation": "Forcer un sujet ouvert dans un moule dialectique conduit à fabriquer une antithèse artificielle, faute la plus visible du devoir mal orienté.",
+      "tags": [
+        "plan",
+        "choix"
+      ],
+      "distractors": {
+        "easy": [
+          "Quand on manque de temps pour rédiger trois parties",
+          "Quand l'œuvre étudiée est un roman",
+          "Quand le sujet est trop long à recopier"
+        ],
+        "medium": [
+          "Quand le sujet contient une citation d'auteur",
+          "Quand on ne connaît pas suffisamment l'œuvre",
+          "Quand le parcours associé est plus riche que l'œuvre"
+        ],
+        "hard": [
+          "Quand le sujet pose une question fermée appelant oui ou non",
+          "Quand le sujet oppose explicitement deux conceptions",
+          "Quand le sujet demande d'expliquer les causes d'un phénomène littéraire"
+        ]
+      }
+    },
+    {
+      "recto": "D'où doivent venir les exemples d'une dissertation sur œuvre ?",
+      "verso": "Principalement de l'œuvre intégrale au programme, complétés par les textes du parcours associé et par des lectures personnelles pertinentes",
+      "explanation": "L'œuvre reste le socle : un devoir nourri seulement de références extérieures montre qu'elle n'a pas été lue. Les autres exemples élargissent, ils ne remplacent pas.",
+      "tags": [
+        "exemples",
+        "œuvre"
+      ],
+      "distractors": {
+        "easy": [
+          "De l'actualité et de l'expérience personnelle du candidat",
+          "Uniquement de films et de séries connus de tous",
+          "De la préface du manuel scolaire"
+        ],
+        "medium": [
+          "Exclusivement des textes du parcours associé",
+          "Exclusivement d'œuvres non étudiées, pour montrer sa culture",
+          "Des résumés d'œuvres trouvés en ligne"
+        ],
+        "hard": [
+          "De l'œuvre intégrale uniquement, toute autre référence étant hors sujet",
+          "De la biographie de l'auteur, qui éclaire ses intentions",
+          "Des œuvres du même auteur, à l'exclusion de celle du programme"
+        ]
+      }
+    },
+    {
+      "recto": "Comment un exemple doit-il être exploité dans un paragraphe de dissertation ?",
+      "verso": "Il doit être précis, situé dans l'œuvre, puis analysé pour montrer en quoi il démontre l'idée avancée",
+      "explanation": "Un exemple simplement cité ne prouve rien : c'est l'analyse qui fait le lien entre le passage et l'argument. Un exemple non analysé est un remplissage visible.",
+      "tags": [
+        "exemples",
+        "argumentation"
+      ],
+      "distractors": {
+        "easy": [
+          "Il doit être aussi long que possible pour occuper la copie",
+          "Il doit être recopié intégralement entre guillemets",
+          "Il doit figurer en note de bas de page"
+        ],
+        "medium": [
+          "Il doit être annoncé en début de partie puis développé en conclusion",
+          "Il doit être accompagné de la date de publication de l'œuvre",
+          "Il doit toujours être introduit par la formule par exemple"
+        ],
+        "hard": [
+          "Il doit précéder l'idée qu'il illustre, pour ménager un effet",
+          "Il suffit qu'il soit exact, l'analyse relevant du commentaire et non de la dissertation",
+          "Il doit être comparé systématiquement à un exemple tiré d'une autre œuvre"
+        ]
+      }
+    },
+    {
+      "recto": "Comment s'organise un paragraphe de dissertation ?",
+      "verso": "Un argument énoncé clairement, un ou deux exemples précis qui l'appuient, l'analyse de ces exemples, puis une phrase qui relie le tout à la partie",
+      "explanation": "Un paragraphe défend une seule idée : deux arguments dans le même bloc rendent la démonstration illisible et empêchent d'évaluer chacun d'eux.",
+      "tags": [
+        "méthode",
+        "argumentation"
+      ],
+      "distractors": {
+        "easy": [
+          "Une citation, un résumé, une opinion personnelle",
+          "Une question, une réponse, une nouvelle question",
+          "Un titre, un développement, une illustration"
+        ],
+        "medium": [
+          "Plusieurs arguments regroupés, suivis d'une série d'exemples",
+          "Un exemple développé longuement dont on tire ensuite une idée",
+          "Une définition, une objection, une concession"
+        ],
+        "hard": [
+          "Un argument, un contre-argument, une conclusion partielle",
+          "Un exemple de l'œuvre, un du parcours, un personnel",
+          "Une thèse, une antithèse, une transition"
+        ]
+      }
+    },
+    {
+      "recto": "Que doit contenir l'introduction d'une dissertation ?",
+      "verso": "Une amorce, la présentation de l'œuvre et du sujet, l'analyse rapide de ses termes, la problématique et l'annonce du plan",
+      "explanation": "L'introduction engage la lecture : elle doit prouver que le sujet a été compris. Un plan annoncé de façon floue laisse craindre un devoir sans direction.",
+      "tags": [
+        "structure",
+        "introduction"
+      ],
+      "distractors": {
+        "easy": [
+          "Le résumé complet de l'intrigue de l'œuvre",
+          "La biographie de l'auteur et la liste de ses œuvres",
+          "La réponse à la question posée par le sujet"
+        ],
+        "medium": [
+          "L'amorce, la problématique et le premier argument",
+          "La citation intégrale du sujet suivie du plan détaillé",
+          "La présentation du parcours associé et de ses textes"
+        ],
+        "hard": [
+          "L'annonce du plan suivie de l'analyse des termes du sujet",
+          "L'amorce, la problématique et l'ouverture",
+          "La présentation de l'œuvre et la thèse personnelle du candidat"
+        ]
+      }
+    },
+    {
+      "recto": "Faut-il citer le sujet dans l'introduction ?",
+      "verso": "Oui, le sujet doit être cité entre guillemets ou repris fidèlement, puis analysé, afin que le correcteur voie sur quoi porte la discussion",
+      "explanation": "Reprendre le sujet permet de fixer les termes que le devoir va discuter. Le déformer, même légèrement, ouvre la voie au hors-sujet.",
+      "tags": [
+        "structure",
+        "introduction"
+      ],
+      "distractors": {
+        "easy": [
+          "Non, le correcteur connaît le sujet, le citer est une perte de temps",
+          "Oui, mais uniquement dans la conclusion",
+          "Non, sauf si le sujet contient une citation d'auteur"
+        ],
+        "medium": [
+          "Oui, mais reformulé dans les mots du candidat pour éviter la répétition",
+          "Non, il suffit d'y renvoyer par une allusion",
+          "Oui, à la toute première ligne, avant l'amorce"
+        ],
+        "hard": [
+          "Oui, mais seulement les mots clés, isolés de leur contexte",
+          "Non, la problématique en tient lieu et le remplace",
+          "Oui, en le citant intégralement à chaque début de partie"
+        ]
+      }
+    },
+    {
+      "recto": "À quoi doit servir l'amorce d'une dissertation ?",
+      "verso": "À introduire le sujet par une observation précise sur le genre, le mouvement ou la question littéraire concernée, sans généralité vague",
+      "explanation": "Une amorce du type depuis la nuit des temps ne fait que retarder l'entrée en matière. La bonne amorce contient déjà quelque chose du problème posé.",
+      "tags": [
+        "structure",
+        "introduction"
+      ],
+      "distractors": {
+        "easy": [
+          "À indiquer combien de parties comportera le devoir",
+          "À saluer le correcteur avant d'entrer dans le sujet",
+          "À résumer l'œuvre en quelques lignes"
+        ],
+        "medium": [
+          "À exposer l'avis personnel du candidat sur la question",
+          "À rappeler les consignes de l'épreuve",
+          "À citer un critique littéraire connu, quel que soit le sujet"
+        ],
+        "hard": [
+          "À poser directement la problématique, dont elle tient lieu",
+          "À définir tous les termes du sujet avant de le citer",
+          "À annoncer l'ouverture qui sera développée en conclusion"
+        ]
+      }
+    },
+    {
+      "recto": "Que doit contenir la conclusion d'une dissertation ?",
+      "verso": "Un bilan qui répond nettement à la problématique en récapitulant le trajet de la démonstration, puis une ouverture pertinente",
+      "explanation": "Une conclusion qui n'ose pas répondre laisse penser que le devoir n'a rien démontré. Le bilan doit être une prise de position, appuyée sur ce qui précède.",
+      "tags": [
+        "structure",
+        "conclusion"
+      ],
+      "distractors": {
+        "easy": [
+          "Un nouvel argument gardé en réserve pour finir en force",
+          "Le résumé de l'œuvre étudiée",
+          "Les remerciements et la signature du candidat"
+        ],
+        "medium": [
+          "Une reformulation du sujet suivie de l'annonce du plan",
+          "Une citation longue qui résume la pensée de l'auteur",
+          "Un rappel des exemples cités, sans les commenter"
+        ],
+        "hard": [
+          "Une ouverture seule, le bilan ayant été fait dans la dernière partie",
+          "Une réponse nuancée qui laisse la question ouverte sans trancher",
+          "Un bilan suivi d'une critique de la formulation du sujet"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une ouverture réussie en fin de dissertation ?",
+      "verso": "Un élargissement précis vers une autre œuvre, un autre genre ou une évolution historique qui prolonge réellement la question traitée",
+      "explanation": "L'ouverture n'est pas obligatoire mais elle valorise le devoir quand elle est juste. Une ouverture artificielle nuit davantage qu'une conclusion qui s'arrête au bilan.",
+      "tags": [
+        "structure",
+        "conclusion"
+      ],
+      "distractors": {
+        "easy": [
+          "Une question rhétorique sur l'avenir de la littérature",
+          "Un souhait exprimé au correcteur",
+          "Une phrase indiquant que le sujet mériterait plus de temps"
+        ],
+        "medium": [
+          "Un rappel du plan suivi d'une citation célèbre",
+          "Une comparaison avec un film adapté de l'œuvre",
+          "Une remarque sur les difficultés rencontrées pendant l'épreuve"
+        ],
+        "hard": [
+          "Une nouvelle problématique sans rapport, pour montrer l'étendue de sa culture",
+          "Une reprise de l'amorce, pour boucler le devoir",
+          "Un dernier argument qui renforce la réponse donnée"
+        ]
+      }
+    },
+    {
+      "recto": "À quoi sert une transition entre deux parties d'une dissertation ?",
+      "verso": "À montrer ce que la partie achevée a établi et pourquoi ce résultat oblige à examiner la question sous l'angle suivant",
+      "explanation": "Sans transition, les parties se juxtaposent et le devoir cesse d'être une démonstration. C'est là que se voit la logique du plan.",
+      "tags": [
+        "structure",
+        "transition"
+      ],
+      "distractors": {
+        "easy": [
+          "À laisser une ligne blanche entre les paragraphes",
+          "À indiquer le titre de la partie suivante",
+          "À reposer la problématique à l'identique"
+        ],
+        "medium": [
+          "À résumer l'œuvre pour rafraîchir la mémoire du correcteur",
+          "À citer un exemple supplémentaire non utilisé jusque-là",
+          "À annoncer combien de paragraphes contiendra la suite"
+        ],
+        "hard": [
+          "À énoncer la thèse contraire sans la justifier",
+          "À rappeler les mots clés du sujet et leur définition",
+          "À conclure partiellement en répondant déjà à la problématique"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi ne faut-il pas raconter l'intrigue de l'œuvre dans une dissertation ?",
+      "verso": "Parce que le récit remplace la démonstration : l'œuvre doit fournir des exemples analysés, non un résumé que le correcteur connaît déjà",
+      "explanation": "Le narratif rassure celui qui manque d'arguments, mais il ne prouve rien. Chaque évocation de l'œuvre doit servir explicitement une idée.",
+      "tags": [
+        "fautes",
+        "exemples"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que le règlement de l'épreuve l'interdit formellement",
+          "Parce que l'intrigue n'est jamais au programme",
+          "Parce que le résumé prend trop de place sur la copie"
+        ],
+        "medium": [
+          "Parce que le résumé relève du commentaire et non de la dissertation",
+          "Parce que le correcteur peut ne pas avoir lu l'œuvre",
+          "Parce que les œuvres poétiques n'ont pas d'intrigue"
+        ],
+        "hard": [
+          "Parce que l'intrigue ne relève pas du parcours associé",
+          "Parce qu'il vaut mieux citer le texte que le résumer",
+          "Parce que le résumé oriente le devoir vers le plan analytique"
+        ]
+      }
+    },
+    {
+      "recto": "Peut-on employer la première personne dans une dissertation ?",
+      "verso": "L'usage scolaire privilégie une énonciation neutre ou le nous de méthode, mais une prise de position argumentée reste attendue",
+      "explanation": "Ce qui est proscrit n'est pas le pronom mais l'opinion non démontrée : une dissertation prend position, à condition de le prouver.",
+      "tags": [
+        "rédaction",
+        "énonciation"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, la dissertation est un exercice d'expression personnelle libre",
+          "Non, toute marque d'énonciation est sanctionnée",
+          "Oui, à condition de se présenter en introduction"
+        ],
+        "medium": [
+          "Non, il faut s'en tenir strictement à la troisième personne du singulier",
+          "Oui, mais uniquement dans la conclusion",
+          "Non, sauf dans les sujets portant sur la poésie lyrique"
+        ],
+        "hard": [
+          "Oui, mais seulement pour rapporter une expérience de lecture personnelle",
+          "Non, car la dissertation doit rester neutre et ne jamais trancher",
+          "Oui, à condition de l'annoncer dans la problématique"
+        ]
+      }
+    },
+    {
+      "recto": "Quel est le danger d'un plan qui suit l'ordre de l'œuvre ?",
+      "verso": "Il conduit à parcourir l'œuvre chapitre après chapitre au lieu de construire une argumentation répondant au sujet",
+      "explanation": "La dissertation traverse l'œuvre selon ses idées, pas selon sa chronologie interne. Suivre l'ordre du livre est le signe d'un devoir qui raconte.",
+      "tags": [
+        "plan",
+        "fautes"
+      ],
+      "distractors": {
+        "easy": [
+          "Il oblige à relire l'œuvre pendant l'épreuve",
+          "Il empêche d'utiliser des citations",
+          "Il rend le devoir trop court"
+        ],
+        "medium": [
+          "Il interdit d'employer le plan dialectique",
+          "Il conduit à négliger le parcours associé",
+          "Il déséquilibre la longueur des parties"
+        ],
+        "hard": [
+          "Il fait perdre le lien avec la problématique dès la deuxième partie",
+          "Il confond la dissertation avec la lecture linéaire de l'oral",
+          "Il empêche de conclure sur une ouverture"
+        ]
+      }
+    },
+    {
+      "recto": "Que faire lorsqu'on est en désaccord avec la thèse énoncée par le sujet ?",
+      "verso": "L'examiner honnêtement avant de la contester, car un sujet retenu pour l'épreuve est toujours défendable dans une certaine mesure",
+      "explanation": "Rejeter d'emblée la thèse prive le devoir de sa première partie et le rend unilatéral. La nuance se construit après avoir donné sa force à l'affirmation.",
+      "tags": [
+        "méthode",
+        "discussion"
+      ],
+      "distractors": {
+        "easy": [
+          "Changer de sujet et traiter le commentaire à la place",
+          "Le signaler au correcteur en début de copie",
+          "Traiter le sujet contraire à celui qui est posé"
+        ],
+        "medium": [
+          "Consacrer tout le devoir à démontrer que la thèse est fausse",
+          "Réécrire le sujet dans une formulation plus acceptable",
+          "Adopter un plan thématique pour éviter la discussion"
+        ],
+        "hard": [
+          "Placer la réfutation en première partie, l'examen de la thèse en deuxième",
+          "Se limiter aux exemples qui contredisent la thèse",
+          "Nuancer dès l'introduction en annonçant son désaccord"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle place la connaissance précise de l'œuvre occupe-t-elle dans la note ?",
+      "verso": "Une place déterminante : sans détails exacts, personnages, situations et formulations, aucune démonstration ne peut être appuyée",
+      "explanation": "La méthode ne compense jamais l'ignorance de l'œuvre. Un plan impeccable sans exemples précis reste un devoir creux.",
+      "tags": [
+        "préparation",
+        "œuvre"
+      ],
+      "distractors": {
+        "easy": [
+          "Une place secondaire, la méthode suffisant à obtenir la moyenne",
+          "Aucune, l'œuvre étant fournie le jour de l'épreuve",
+          "Une place limitée à l'introduction"
+        ],
+        "medium": [
+          "Une place égale à celle du parcours associé",
+          "Une place importante seulement pour les sujets portant sur le roman",
+          "Une place variable selon le plan choisi"
+        ],
+        "hard": [
+          "Une place déterminante, mais seulement pour la troisième partie",
+          "Une place moindre que celle de la culture littéraire générale",
+          "Une place utile surtout pour l'ouverture finale"
+        ]
+      }
+    },
+    {
+      "recto": "Comment préparer efficacement une œuvre intégrale en vue de la dissertation ?",
+      "verso": "En constituant un carnet de citations et de passages classés par thèmes et par notions, plutôt qu'en révisant l'ordre du récit",
+      "explanation": "Le jour de l'épreuve, un sujet demande des exemples convergents : des passages classés par idée se mobilisent en quelques minutes, un résumé linéaire non.",
+      "tags": [
+        "préparation",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En regardant l'adaptation cinématographique de l'œuvre",
+          "En apprenant par cœur les premières pages",
+          "En lisant uniquement la préface et la quatrième de couverture"
+        ],
+        "medium": [
+          "En rédigeant un résumé chapitre par chapitre",
+          "En apprenant la biographie complète de l'auteur",
+          "En mémorisant la liste des personnages secondaires"
+        ],
+        "hard": [
+          "En préparant à l'avance un plan applicable à tout sujet",
+          "En classant les citations par ordre d'apparition dans l'œuvre",
+          "En se limitant aux extraits étudiés en classe"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'apporte le parcours associé dans une dissertation sur œuvre ?",
+      "verso": "Il fournit des textes de comparaison qui situent l'œuvre dans une question littéraire plus large et enrichissent la discussion",
+      "explanation": "Le parcours n'est pas décoratif : il est la raison pour laquelle telle œuvre figure au programme sous tel angle. L'y rattacher montre qu'on a compris l'enjeu.",
+      "tags": [
+        "parcours",
+        "exemples"
+      ],
+      "distractors": {
+        "easy": [
+          "Il fournit le corrigé type attendu par le correcteur",
+          "Il remplace l'œuvre lorsque celle-ci n'a pas été lue",
+          "Il indique le plan à adopter"
+        ],
+        "medium": [
+          "Il impose le genre du devoir, commentaire ou dissertation",
+          "Il sert uniquement d'amorce en introduction",
+          "Il fournit les définitions des termes du sujet"
+        ],
+        "hard": [
+          "Il constitue le corpus obligatoire d'exemples de la deuxième partie",
+          "Il donne le contexte biographique de l'auteur de l'œuvre",
+          "Il remplace l'ouverture de la conclusion"
+        ]
+      }
+    },
+    {
+      "recto": "Combien de parties une dissertation doit-elle comporter ?",
+      "verso": "Deux ou trois parties équilibrées, le nombre découlant du plan choisi et de ce que le sujet permet réellement de démontrer",
+      "explanation": "Trois parties ne valent pas mieux que deux : une troisième partie artificielle affaiblit un devoir que deux parties solides auraient suffi à porter.",
+      "tags": [
+        "plan",
+        "structure"
+      ],
+      "distractors": {
+        "easy": [
+          "Exactement quatre, une par heure d'épreuve",
+          "Une seule, longuement développée",
+          "Autant que l'œuvre compte de chapitres"
+        ],
+        "medium": [
+          "Toujours trois, la dissertation étant un exercice dialectique",
+          "Toujours deux, pour laisser le temps de rédiger",
+          "Cinq au minimum pour couvrir le sujet"
+        ],
+        "hard": [
+          "Trois parties de longueur croissante, la dernière étant la plus développée",
+          "Deux parties si le plan est thématique, trois s'il est analytique",
+          "Le nombre annoncé dans la consigne du sujet"
+        ]
+      }
+    },
+    {
+      "recto": "Comment gérer son temps lors de l'épreuve écrite de dissertation ?",
+      "verso": "En consacrant environ une heure à l'analyse du sujet et au plan détaillé, deux heures à la rédaction et le reste à la relecture",
+      "explanation": "Le plan détaillé au brouillon comprend arguments et exemples : bien fait, il rend la rédaction rapide et supprime les blancs en cours de devoir.",
+      "tags": [
+        "épreuve",
+        "organisation"
+      ],
+      "distractors": {
+        "easy": [
+          "En rédigeant directement au propre pour ne pas perdre de temps",
+          "En passant la moitié du temps à choisir entre commentaire et dissertation",
+          "En relisant l'œuvre pendant la première heure"
+        ],
+        "medium": [
+          "En consacrant deux heures au brouillon et deux à la rédaction",
+          "En rédigeant l'introduction au brouillon puis tout le reste au propre",
+          "En réservant une heure entière à la conclusion"
+        ],
+        "hard": [
+          "En construisant le plan après avoir rédigé la première partie",
+          "En cherchant les exemples pendant la rédaction pour gagner du temps",
+          "En consacrant l'essentiel du temps à la recherche d'une ouverture originale"
+        ]
+      }
+    },
+    {
+      "recto": "Que vaut une dissertation qui aligne des idées justes sans exemples ?",
+      "verso": "Elle reste au niveau du bavardage général, car sans exemples analysés aucune idée n'est démontrée à partir de l'œuvre",
+      "explanation": "L'inverse existe aussi : une accumulation d'exemples sans idée directrice ne vaut pas mieux. La note se joue sur l'articulation constante des deux.",
+      "tags": [
+        "fautes",
+        "argumentation"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle obtient la moyenne si la langue est correcte",
+          "Elle est notée comme un commentaire",
+          "Elle ne peut pas être corrigée"
+        ],
+        "medium": [
+          "Elle vaut mieux qu'un devoir riche en exemples mais mal construit",
+          "Elle est acceptable si le plan est dialectique",
+          "Elle convient aux sujets portant sur la poésie"
+        ],
+        "hard": [
+          "Elle satisfait à l'exigence d'argumentation mais non à celle de connaissance de l'œuvre",
+          "Elle est pénalisée uniquement en troisième partie",
+          "Elle correspond au plan thématique mal appliqué"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qui distingue une très bonne dissertation d'une dissertation correcte ?",
+      "verso": "La capacité à faire progresser la pensée d'une partie à l'autre, en déplaçant la question plutôt qu'en accumulant des arguments juxtaposés",
+      "explanation": "Un devoir correct répond ; un très bon devoir montre pourquoi la question méritait d'être posée. C'est la progression, non la quantité, qui fait la différence.",
+      "tags": [
+        "méthode",
+        "excellence"
+      ],
+      "distractors": {
+        "easy": [
+          "La longueur de la copie et la qualité de l'écriture",
+          "Le nombre de citations apprises par cœur",
+          "L'emploi d'un vocabulaire rare"
+        ],
+        "medium": [
+          "Le recours systématique à trois parties plutôt qu'à deux",
+          "La multiplication des références extérieures à l'œuvre",
+          "L'originalité de l'ouverture finale"
+        ],
+        "hard": [
+          "La précision des définitions données en introduction",
+          "L'équilibre parfait entre la longueur des parties",
+          "La densité des exemples dans chaque paragraphe"
+        ]
+      }
+    }
+  ]
+}

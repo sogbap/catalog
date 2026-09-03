@@ -1,0 +1,640 @@
+{
+  "id": "enseignement-scientifique-terminale-deux-siecles-electricite",
+  "title": "Deux siècles d'énergie électrique",
+  "emoji": "⚡",
+  "subject": "science",
+  "country": "fr",
+  "courseDescription": "De l'induction de Faraday à l'alternateur : comment l'électricité est devenue le vecteur central des sociétés industrielles.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Deux siècles d'énergie électrique</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · enseignement scientifique<br>\n  <b>Thème 2&nbsp;:</b> Le futur des énergies<br>\n  <b>Chapitre 2.1</b> · environ 5 heures\n</div>\n\n<blockquote><p><b>Problématique.</b> Comment une découverte de laboratoire est-elle devenue l'infrastructure invisible de nos sociétés&nbsp;?</p></blockquote>\n\n<p>En 1831, Faraday montre qu'un aimant en mouvement fait apparaître une tension dans une bobine. Rien, ce jour-là, n'annonce les villes éclairées ni les usines électrifiées&nbsp;: il faudra près d'un demi-siècle pour que cette curiosité de laboratoire devienne une industrie. L'écart entre la <em>découverte</em> et l'<em>application</em> est en lui-même une leçon sur la façon dont la science transforme les sociétés — jamais immédiatement, et rarement là où on l'attendait.</p>\n\n<h2>1 · L'induction électromagnétique</h2>\n\n<p>Le phénomène tient en une phrase&nbsp;: la <strong>variation</strong> d'un champ magnétique à travers un circuit y fait apparaître une tension induite, donc un courant si le circuit est fermé. Le mot décisif est <em>variation</em>&nbsp;— un aimant immobile près d'une bobine ne produit rigoureusement rien.</p>\n\n<p>De ce principe découle l'<strong>alternateur</strong>&nbsp;: un aimant ou un électroaimant tournant devant des bobines y induit une tension alternative, convertissant du mouvement en électricité. C'est le cœur de presque toute la production mondiale — centrales thermiques, nucléaires, hydrauliques, éoliennes. Seul le <strong>photovoltaïque</strong> fait exception, en convertissant directement la lumière en électricité, sans pièce mobile.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 196\" role=\"img\" aria-label=\"Chaîne de conversion d'énergie d'une centrale thermique : l'énergie chimique du combustible devient de l'énergie thermique par combustion, cette chaleur produit de la vapeur qui entraîne une turbine et fournit de l'énergie mécanique, puis l'alternateur convertit cette énergie mécanique en énergie électrique ; chaque étape s'accompagne de pertes principalement thermiques, si bien que le rendement d'ensemble n'est que de 35 à 40 pour cent\">\n    <rect x=\"12\" y=\"14\" width=\"70\" height=\"40\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"47\" y=\"32\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">énergie</text>\n    <text x=\"47\" y=\"44\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">chimique</text>\n    <line x1=\"84\" y1=\"34\" x2=\"98\" y2=\"34\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-tes21)\"/>\n    <rect x=\"100\" y=\"14\" width=\"70\" height=\"40\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"135\" y=\"32\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">énergie</text>\n    <text x=\"135\" y=\"44\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">thermique</text>\n    <line x1=\"172\" y1=\"34\" x2=\"186\" y2=\"34\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-tes21)\"/>\n    <rect x=\"188\" y=\"14\" width=\"70\" height=\"40\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"223\" y=\"32\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">énergie</text>\n    <text x=\"223\" y=\"44\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">mécanique</text>\n    <line x1=\"260\" y1=\"34\" x2=\"274\" y2=\"34\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-tes21)\"/>\n    <rect x=\"276\" y=\"14\" width=\"52\" height=\"40\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".40\" stroke=\"var(--accent)\" stroke-opacity=\".7\"/>\n    <text x=\"302\" y=\"32\" font-size=\"8\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">énergie</text>\n    <text x=\"302\" y=\"44\" font-size=\"8\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">électrique</text>\n    <text x=\"47\" y=\"70\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">combustible</text>\n    <text x=\"135\" y=\"70\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">combustion</text>\n    <text x=\"223\" y=\"70\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">turbine</text>\n    <text x=\"302\" y=\"70\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">alternateur</text>\n    <line x1=\"135\" y1=\"76\" x2=\"135\" y2=\"94\" stroke=\"currentColor\" stroke-opacity=\".35\" stroke-width=\"1.4\" marker-end=\"url(#ar-tes21)\"/>\n    <line x1=\"223\" y1=\"76\" x2=\"223\" y2=\"94\" stroke=\"currentColor\" stroke-opacity=\".35\" stroke-width=\"1.4\" marker-end=\"url(#ar-tes21)\"/>\n    <rect x=\"90\" y=\"98\" width=\"180\" height=\"26\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".3\" stroke-dasharray=\"4 3\"/>\n    <text x=\"180\" y=\"115\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">pertes, surtout thermiques</text>\n    <line x1=\"8\" y1=\"140\" x2=\"332\" y2=\"140\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"160\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Rendement d'ensemble : 35 à 40 %</text>\n    <text x=\"8\" y=\"176\" font-size=\"9\" fill=\"currentColor\">Ce plafond n'est pas un défaut technique : c'est une limite</text>\n    <text x=\"8\" y=\"190\" font-size=\"9\" fill=\"currentColor\">physique des machines thermiques.</text>\n    <defs>\n      <marker id=\"ar-tes21\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n  </svg>\n  <figcaption>Trois conversions, trois occasions de perdre&nbsp;— d'où un rendement bien inférieur à l'intuition.</figcaption>\n</figure>\n\n<div class=\"callout\">\n  <strong>Notion · Rendement</strong><br>\n  Rapport entre l'énergie <em>utile</em> obtenue et l'énergie consommée. Toujours inférieur à 1 dans une conversion réelle&nbsp;: le complément mesure les pertes, le plus souvent dissipées en chaleur.\n</div>\n\n<h2>2 · Une chronologie en deux temps</h2>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 176\" role=\"img\" aria-label=\"Frise de l'essor de l'électricité : Faraday découvre l'induction électromagnétique en 1831, les générateurs industriels sont mis au point dans les années 1870, l'éclairage électrique se diffuse à la fin du dix-neuvième siècle, et l'électrification devient générale au vingtième siècle ; près d'un demi-siècle sépare la découverte scientifique de ses premières applications économiques\">\n    <line x1=\"30\" y1=\"14\" x2=\"30\" y2=\"152\" stroke=\"currentColor\" stroke-opacity=\".25\" stroke-width=\"1.5\"/>\n    <circle cx=\"30\" cy=\"24\" r=\"5.5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"21\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">1831</text>\n    <text x=\"44\" y=\"34\" font-size=\"9\" fill=\"currentColor\">Faraday découvre l'induction</text>\n    <circle cx=\"30\" cy=\"66\" r=\"4.5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"63\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">années 1870</text>\n    <text x=\"44\" y=\"76\" font-size=\"9\" fill=\"currentColor\">Générateurs industriels</text>\n    <circle cx=\"30\" cy=\"108\" r=\"4.5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"105\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">fin du XIXe</text>\n    <text x=\"44\" y=\"118\" font-size=\"9\" fill=\"currentColor\">Éclairage électrique, querelle des courants</text>\n    <circle cx=\"30\" cy=\"148\" r=\"4.5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"145\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">XXe siècle</text>\n    <text x=\"44\" y=\"158\" font-size=\"9\" fill=\"currentColor\">Électrification généralisée</text>\n    <text x=\"8\" y=\"174\" font-size=\"9\" class=\"s-muted\">Un demi-siècle entre la science et l'industrie.</text>\n  </svg>\n  <figcaption>La découverte n'appelle pas l'application&nbsp;: il faut qu'une économie la réclame.</figcaption>\n</figure>\n\n<p>L'électricité n'a pas seulement remplacé la vapeur&nbsp;: elle a <strong>réorganisé les usines</strong>. La vapeur imposait de transmettre le mouvement depuis une machine centrale par des arbres et des courroies&nbsp;; l'électricité a donné à chaque machine son propre moteur. Cette décentralisation de la force motrice a libéré l'agencement des ateliers et rendu possibles de nouvelles organisations du travail.</p>\n\n<p>Elle a aussi reconfiguré les <strong>villes</strong>&nbsp;: sans ascenseur électrique, pas d'immeuble de grande hauteur&nbsp;; sans tramway, pas d'étalement urbain. Et en rendant la lumière disponible à toute heure, elle a fait reculer la contrainte du jour et de la nuit — l'une des transformations anthropologiques les plus profondes de l'ère industrielle.</p>\n\n<h2>3 · Alternatif ou continu&nbsp;?</h2>\n\n<p>Un <strong>courant alternatif</strong> voit son sens et son intensité varier périodiquement&nbsp;; le courant continu garde un sens constant. Le réseau européen fonctionne à <strong>50&nbsp;Hz</strong> — le sens du courant s'inverse donc cent fois par seconde. Le réseau nord-américain a retenu 60&nbsp;Hz&nbsp;: c'est une convention historique, non une nécessité physique.</p>\n\n<p>La <em>querelle des courants</em>, à la fin du XIX<sup>e</sup> siècle, s'est tranchée en faveur de l'alternatif pour une raison précise&nbsp;: le <strong>transformateur</strong> permet d'élever et d'abaisser facilement sa tension, ce qui rend le transport sur longue distance économiquement viable. Le continu revient aujourd'hui pour certaines liaisons à très longue distance.</p>\n\n<p>Deux relations à maîtriser&nbsp;: la <strong>puissance</strong> électrique est le produit de la <em>tension</em> par l'<em>intensité</em>&nbsp;; et l'<strong>effet Joule</strong> dissipe dans tout conducteur une puissance proportionnelle à la résistance et au <em>carré</em> de l'intensité. Recherché dans un radiateur, subi dans une ligne&nbsp;: c'est de cette dépendance au carré que découle tout le chapitre suivant.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 172\" role=\"img\" aria-label=\"Principe de l'alternateur : un aimant tournant devant des bobines fixes fait varier le champ magnétique qui les traverse, ce qui induit une tension alternative et convertit l'énergie mécanique de rotation en énergie électrique ; ce dispositif est au cœur de presque toute la production mondiale d'électricité, le photovoltaïque faisant exception en convertissant directement la lumière sans pièce mobile\">\n    <circle cx=\"96\" cy=\"66\" r=\"40\" fill=\"none\" stroke=\"currentColor\" stroke-opacity=\".3\" stroke-width=\"1.4\"/>\n    <rect x=\"86\" y=\"42\" width=\"20\" height=\"48\" rx=\"6\" fill=\"var(--accent)\" fill-opacity=\".40\" stroke=\"var(--accent)\" stroke-opacity=\".7\"/>\n    <text x=\"96\" y=\"58\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">N</text>\n    <text x=\"96\" y=\"82\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">S</text>\n    <path d=\"M96,18 A48,48 0 0,1 140,50\" fill=\"none\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-tes21b)\"/>\n    <text x=\"96\" y=\"120\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">aimant en rotation</text>\n    <text x=\"96\" y=\"134\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">énergie mécanique</text>\n    <rect x=\"150\" y=\"46\" width=\"34\" height=\"40\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"167\" y=\"70\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">bobines</text>\n    <line x1=\"188\" y1=\"66\" x2=\"216\" y2=\"66\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.8\" marker-end=\"url(#ar-tes21b)\"/>\n    <rect x=\"220\" y=\"46\" width=\"108\" height=\"40\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".40\" stroke=\"var(--accent)\" stroke-opacity=\".7\"/>\n    <text x=\"274\" y=\"63\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">TENSION</text>\n    <text x=\"274\" y=\"77\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">ALTERNATIVE</text>\n    <text x=\"167\" y=\"120\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">champ variable</text>\n    <line x1=\"8\" y1=\"146\" x2=\"332\" y2=\"146\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"166\" font-size=\"9\" fill=\"currentColor\">C'est la variation qui produit la tension — un aimant immobile ne donne rien.</text>\n    <defs>\n      <marker id=\"ar-tes21b\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n  </svg>\n  <figcaption>Le même principe fait tourner les centrales thermiques, nucléaires, hydrauliques et éoliennes.</figcaption>\n</figure>\n\n<h2>4 · Le réseau, une contrainte permanente</h2>\n\n<p>L'électricité ne se stocke pas en grande quantité sur un réseau. La <strong>production doit donc équilibrer la consommation à chaque instant</strong>&nbsp;: tout déséquilibre se traduit par une variation de la <em>fréquence</em>, pouvant aller jusqu'à la panne généralisée. Cette contrainte est propre à l'électricité et structure toute l'exploitation du système.</p>\n\n<p>D'où l'importance de la <strong>consommation de pointe</strong>&nbsp;: le réseau se dimensionne pour le maximum, pas pour la moyenne. En France, la pointe hivernale de fin d'après-midi est accentuée par le chauffage électrique.</p>\n\n<p>Deux notions à ne pas confondre côté production&nbsp;: la <strong>puissance installée</strong> est le maximum délivrable en conditions nominales&nbsp;; le <strong>facteur de charge</strong> rapporte l'énergie réellement produite à celle qu'un fonctionnement permanent à pleine puissance aurait donnée. Il est élevé pour le nucléaire, plus faible pour l'éolien et le solaire, dont la production n'est pas pilotable.</p>\n\n<p>Dernier repère, souvent oublié&nbsp;: l'électricité ne représente qu'environ <strong>un quart</strong> de l'énergie finale consommée en France. Décarboner l'électricité est nécessaire&nbsp;; cela ne suffit pas.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Dates clés</h3>\n\n<table>\n  <tr><th>Date</th><th>Événement</th></tr>\n  <tr><td>1831</td><td>Faraday découvre l'induction électromagnétique</td></tr>\n  <tr><td>Années 1870</td><td>Premiers générateurs industriels</td></tr>\n  <tr><td>Fin du XIX<sup>e</sup></td><td>Éclairage électrique, querelle des courants</td></tr>\n  <tr><td>XX<sup>e</sup> siècle</td><td>Électrification généralisée</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition en une ligne</th></tr>\n  <tr><td>Induction</td><td>Une variation de champ magnétique crée une tension</td></tr>\n  <tr><td>Alternateur</td><td>Convertit l'énergie mécanique en énergie électrique</td></tr>\n  <tr><td>Rendement</td><td>Énergie utile rapportée à l'énergie consommée</td></tr>\n  <tr><td>Effet Joule</td><td>Échauffement proportionnel au carré de l'intensité</td></tr>\n  <tr><td>Facteur de charge</td><td>Production réelle rapportée à la production maximale</td></tr>\n</table>\n\n<h3>Chiffres à retenir</h3>\n\n<table>\n  <tr><th>Grandeur</th><th>Valeur</th></tr>\n  <tr><td>Fréquence du réseau européen</td><td>50 Hz</td></tr>\n  <tr><td>Rendement d'une centrale à flamme</td><td>35 à 40&nbsp;%</td></tr>\n  <tr><td>Part de l'électricité dans l'énergie finale en France</td><td>environ un quart</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Prendre l'électricité pour une <strong>source</strong> d'énergie. C'est un <strong>vecteur</strong>&nbsp;: elle n'existe pas à l'état exploitable dans la nature et doit être produite à partir d'une source primaire. En parler comme d'une source conduit à la croire «&nbsp;propre en soi&nbsp;», alors que son bilan carbone dépend entièrement de ce qui l'a produite. Piège voisin&nbsp;: comparer des <em>puissances installées</em> sans regarder les productions effectives — une éolienne de forte puissance produit peu si le vent manque.\n</div>\n\n<blockquote><p>Faraday, dit-on, se vit demander à quoi pouvait bien servir sa découverte. La légende lui prête cette réponse&nbsp;: «&nbsp;À quoi sert un nouveau-né&nbsp;?&nbsp;»</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Le futur des énergies",
+  "cards": [
+    {
+      "recto": "Piège classique : l'électricité est-elle une source d'énergie ou un vecteur d'énergie ?",
+      "verso": "Un vecteur : elle n'existe pas à l'état exploitable dans la nature et doit être produite à partir d'une source primaire avant d'être transportée jusqu'à l'usager",
+      "explanation": "Parler d'énergie électrique comme d'une source conduit à croire qu'elle est propre en soi, alors que son bilan dépend entièrement de la source primaire utilisée pour la produire.",
+      "tags": [
+        "électricité",
+        "piege"
+      ],
+      "distractors": {
+        "easy": [
+          "Une source, puisqu'elle sort de la prise murale",
+          "Une source renouvelable illimitée",
+          "Ni l'un ni l'autre, c'est une matière première"
+        ],
+        "medium": [
+          "Une source primaire au même titre que le charbon",
+          "Un vecteur uniquement lorsqu'elle est produite par le nucléaire",
+          "Une source secondaire stockable en grande quantité"
+        ],
+        "hard": [
+          "Un vecteur qui existe à l'état naturel dans la foudre et donc exploitable",
+          "Une source dès lors qu'elle est produite par des panneaux photovoltaïques",
+          "Un vecteur qui ne nécessite aucune conversion d'énergie"
+        ]
+      }
+    },
+    {
+      "recto": "Qui a découvert le phénomène d'induction électromagnétique et en quelle année ?",
+      "verso": "Michael Faraday, en 1831, en montrant qu'un aimant en mouvement près d'une bobine y fait apparaître une tension",
+      "explanation": "Cette découverte fonde toute la production électrique moderne : sans elle, ni alternateur ni transformateur. Elle précède de près d'un demi-siècle les premières applications industrielles.",
+      "tags": [
+        "histoire",
+        "induction"
+      ],
+      "distractors": {
+        "easy": [
+          "Thomas Edison en 1879",
+          "Albert Einstein en 1905",
+          "Benjamin Franklin en 1752"
+        ],
+        "medium": [
+          "Alessandro Volta en 1800",
+          "André-Marie Ampère en 1820",
+          "Nikola Tesla en 1888"
+        ],
+        "hard": [
+          "Michael Faraday en 1791",
+          "James Clerk Maxwell en 1865",
+          "Michael Faraday en 1861"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi consiste le phénomène d'induction électromagnétique ?",
+      "verso": "La variation d'un champ magnétique à travers un circuit y fait apparaître une tension induite, donc un courant si le circuit est fermé",
+      "explanation": "Le mot clé est variation : un aimant immobile près d'une bobine ne produit rien. C'est le mouvement relatif qui crée l'électricité.",
+      "tags": [
+        "induction",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Un aimant attire les objets métalliques placés à proximité",
+          "L'électricité chauffe les fils qu'elle traverse",
+          "Deux fils électriques proches se repoussent"
+        ],
+        "medium": [
+          "Un champ magnétique constant à travers un circuit y crée un courant permanent",
+          "Le passage d'un courant dans un fil crée un champ magnétique autour de lui",
+          "Un circuit fermé produit spontanément une tension"
+        ],
+        "hard": [
+          "La variation d'un champ électrique à travers un circuit y crée une tension induite",
+          "Le déplacement d'un circuit dans un champ électrique uniforme crée un courant",
+          "La variation du champ magnétique crée une tension seulement si le circuit est ouvert"
+        ]
+      }
+    },
+    {
+      "recto": "Comment fonctionne un alternateur ?",
+      "verso": "Un aimant ou un électroaimant tournant devant des bobines y induit une tension alternative, convertissant de l'énergie mécanique en énergie électrique",
+      "explanation": "C'est le cœur de presque toute la production mondiale d'électricité : centrales thermiques, nucléaires, hydrauliques et éoliennes utilisent toutes un alternateur. Le photovoltaïque fait exception.",
+      "tags": [
+        "alternateur",
+        "conversion"
+      ],
+      "distractors": {
+        "easy": [
+          "Il stocke l'électricité produite pendant la journée",
+          "Il transforme le courant continu en lumière",
+          "Il chauffe l'eau pour produire de la vapeur"
+        ],
+        "medium": [
+          "Il convertit l'énergie électrique en énergie mécanique de rotation",
+          "Il élève la tension du courant pour le transport",
+          "Il transforme l'énergie chimique d'un combustible en électricité"
+        ],
+        "hard": [
+          "Un aimant fixe devant des bobines mobiles produit une tension continue",
+          "Il convertit l'énergie thermique en énergie électrique sans pièce mobile",
+          "Il induit une tension continue par rotation d'un champ magnétique constant"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle conversion d'énergie réalise une centrale thermique classique ?",
+      "verso": "L'énergie chimique du combustible devient thermique par combustion, puis mécanique par la turbine, puis électrique par l'alternateur",
+      "explanation": "Cette chaîne à trois conversions explique le rendement limité de ces centrales, chaque étape s'accompagnant de pertes, principalement thermiques.",
+      "tags": [
+        "conversion",
+        "centrales"
+      ],
+      "distractors": {
+        "easy": [
+          "L'énergie solaire devient directement électrique",
+          "L'énergie électrique devient thermique puis lumineuse",
+          "L'énergie mécanique devient chimique puis électrique"
+        ],
+        "medium": [
+          "L'énergie chimique devient directement électrique sans étape intermédiaire",
+          "L'énergie thermique devient chimique puis mécanique",
+          "L'énergie nucléaire devient mécanique puis thermique"
+        ],
+        "hard": [
+          "L'énergie chimique devient thermique puis électrique, sans conversion mécanique",
+          "L'énergie chimique devient mécanique puis thermique puis électrique",
+          "L'énergie thermique devient électrique puis mécanique par la turbine"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que le rendement d'une conversion d'énergie ?",
+      "verso": "Le rapport entre l'énergie utile obtenue et l'énergie consommée, toujours inférieur à un dans une conversion réelle",
+      "explanation": "Le complément à un mesure les pertes, le plus souvent dissipées sous forme de chaleur. Un rendement supérieur à un violerait le principe de conservation de l'énergie.",
+      "tags": [
+        "rendement",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La quantité totale d'énergie produite par une centrale",
+          "Le bénéfice financier réalisé par un producteur",
+          "La durée pendant laquelle une centrale fonctionne"
+        ],
+        "medium": [
+          "Le rapport entre l'énergie perdue et l'énergie consommée",
+          "La puissance maximale que peut délivrer une installation",
+          "Le rapport entre la puissance installée et la puissance réellement produite"
+        ],
+        "hard": [
+          "Le rapport entre l'énergie utile et l'énergie perdue",
+          "Le rapport entre l'énergie consommée et l'énergie utile, toujours supérieur à un",
+          "Le rapport entre l'énergie produite et la durée de fonctionnement"
+        ]
+      }
+    },
+    {
+      "recto": "Quel est l'ordre de grandeur du rendement d'une centrale thermique à flamme ?",
+      "verso": "De l'ordre de 35 à 40 pour cent, l'essentiel des pertes étant dissipé sous forme de chaleur",
+      "explanation": "Ce plafond n'est pas un défaut technique mais une limite physique liée aux machines thermiques. Les centrales à cycle combiné atteignent des valeurs plus élevées.",
+      "tags": [
+        "rendement",
+        "chiffres"
+      ],
+      "distractors": {
+        "easy": [
+          "Environ 100 pour cent",
+          "Environ 1 pour cent",
+          "Environ 99 pour cent"
+        ],
+        "medium": [
+          "Environ 80 pour cent",
+          "Environ 10 pour cent",
+          "Environ 60 pour cent"
+        ],
+        "hard": [
+          "Environ 35 pour cent pour l'ensemble de la chaîne, transport compris",
+          "Environ 50 pour cent, comme les centrales hydrauliques",
+          "Environ 90 pour cent, les pertes étant surtout électriques"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre chronologique : quelles sont les grandes étapes de l'essor de l'électricité ?",
+      "verso": "La découverte de l'induction en 1831, la mise au point de générateurs industriels dans les années 1870, l'éclairage électrique à la fin du XIXe siècle, puis l'électrification généralisée au XXe siècle",
+      "explanation": "Près d'un demi-siècle sépare la découverte scientifique de ses premières applications économiques, écart caractéristique du passage de la science à la technique.",
+      "tags": [
+        "histoire",
+        "comparaison"
+      ],
+      "distractors": {
+        "easy": [
+          "L'ampoule, la pile, l'aimant, le moteur",
+          "L'électrification, l'induction, l'éclairage, la découverte",
+          "La vapeur, le charbon, le pétrole, l'électricité"
+        ],
+        "medium": [
+          "Les générateurs industriels, puis l'induction, puis l'éclairage électrique",
+          "L'éclairage électrique, l'induction, l'électrification, les générateurs",
+          "L'induction en 1831, l'électrification en 1850, l'éclairage en 1900"
+        ],
+        "hard": [
+          "L'induction en 1831, l'éclairage en 1840, les générateurs en 1870",
+          "Les générateurs en 1830, l'induction en 1870, l'électrification en 1900",
+          "L'induction en 1831, les générateurs en 1870, l'électrification dès 1880 partout"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi l'électricité a-t-elle transformé l'organisation des usines ?",
+      "verso": "Parce que chaque machine a pu recevoir son propre moteur, alors que la vapeur imposait de transmettre le mouvement depuis une machine centrale par des arbres et des courroies",
+      "explanation": "Cette décentralisation de la force motrice a libéré l'agencement des ateliers et permis de nouvelles organisations du travail, dont le travail à la chaîne.",
+      "tags": [
+        "histoire",
+        "société"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'elle a permis d'éclairer les ateliers la nuit",
+          "Parce qu'elle était moins chère que le charbon",
+          "Parce qu'elle a supprimé le travail manuel"
+        ],
+        "medium": [
+          "Parce qu'elle a permis de construire des usines plus hautes",
+          "Parce qu'elle a rendu les machines à vapeur plus efficaces",
+          "Parce qu'elle a réduit le bruit dans les ateliers"
+        ],
+        "hard": [
+          "Parce qu'elle a permis de centraliser la force motrice en un point unique",
+          "Parce qu'elle a supprimé le besoin de moteurs individuels",
+          "Parce qu'elle a permis de transmettre le mouvement sur de plus longues distances par courroies"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un courant alternatif ?",
+      "verso": "Un courant dont le sens et l'intensité varient périodiquement au cours du temps, contrairement au courant continu qui garde un sens constant",
+      "explanation": "En Europe, la fréquence du réseau est de 50 hertz. Le choix de l'alternatif s'est imposé parce qu'il permet de modifier facilement la tension par transformateur.",
+      "tags": [
+        "courant",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Un courant qui alterne entre plusieurs maisons",
+          "Un courant qui ne circule que la nuit",
+          "Un courant produit alternativement par deux centrales"
+        ],
+        "medium": [
+          "Un courant dont l'intensité varie mais dont le sens reste constant",
+          "Un courant qui circule dans les deux sens simultanément",
+          "Un courant de très haute tension par opposition au courant domestique"
+        ],
+        "hard": [
+          "Un courant dont le sens s'inverse une fois par seconde",
+          "Un courant dont la tension est constante mais l'intensité périodique",
+          "Un courant périodique de fréquence 100 hertz en Europe"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la fréquence du réseau électrique en Europe ?",
+      "verso": "50 hertz, ce qui signifie que le sens du courant s'inverse cent fois par seconde",
+      "explanation": "Cette fréquence est une convention historique : le réseau nord-américain fonctionne à 60 hertz. Sa stabilité est un indicateur essentiel de l'équilibre du réseau.",
+      "tags": [
+        "réseau",
+        "chiffres"
+      ],
+      "distractors": {
+        "easy": [
+          "1 hertz",
+          "1000 hertz",
+          "220 hertz"
+        ],
+        "medium": [
+          "60 hertz",
+          "100 hertz",
+          "25 hertz"
+        ],
+        "hard": [
+          "50 hertz, soit cinquante inversions de sens par seconde",
+          "50 kilohertz",
+          "60 hertz en Europe et 50 en Amérique du Nord"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi le courant alternatif s'est-il imposé face au courant continu ?",
+      "verso": "Parce que le transformateur permet d'élever et d'abaisser facilement sa tension, ce qui rend le transport sur de longues distances économiquement possible",
+      "explanation": "Cette querelle des courants a opposé à la fin du XIXe siècle les partisans des deux systèmes. Le continu revient aujourd'hui pour certaines liaisons à très longue distance.",
+      "tags": [
+        "courant",
+        "histoire"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'il est moins dangereux pour l'être humain",
+          "Parce qu'il éclaire mieux les ampoules",
+          "Parce qu'il coûte moins cher à produire"
+        ],
+        "medium": [
+          "Parce qu'il se stocke plus facilement dans des batteries",
+          "Parce qu'il produit moins de chaleur dans les appareils",
+          "Parce qu'il permet de faire fonctionner les moteurs à courant continu"
+        ],
+        "hard": [
+          "Parce qu'il subit moins de pertes par effet Joule à tension égale",
+          "Parce qu'il se transporte sans transformateur sur de longues distances",
+          "Parce qu'il permet d'utiliser des câbles de plus petite section à courant égal"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la relation entre puissance, tension et intensité en courant continu ?",
+      "verso": "La puissance électrique est égale au produit de la tension par l'intensité du courant",
+      "explanation": "Cette relation est la clé du transport à haute tension : à puissance transportée fixée, augmenter la tension permet de diminuer l'intensité, donc les pertes.",
+      "tags": [
+        "formule",
+        "électricité"
+      ],
+      "distractors": {
+        "easy": [
+          "La puissance est égale à la tension divisée par l'intensité",
+          "La puissance est égale à la somme de la tension et de l'intensité",
+          "La puissance est égale à l'intensité divisée par la tension"
+        ],
+        "medium": [
+          "La puissance est égale au carré de la tension",
+          "La puissance est égale à la tension multipliée par la résistance",
+          "La puissance est égale à l'intensité multipliée par la résistance"
+        ],
+        "hard": [
+          "La puissance est égale au produit de la tension par l'intensité divisé par le rendement",
+          "La puissance est égale au produit de l'intensité par la résistance au carré",
+          "La puissance est égale au produit de la tension par l'intensité multiplié par la durée"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que l'effet Joule ?",
+      "verso": "L'échauffement d'un conducteur parcouru par un courant, la puissance dissipée étant proportionnelle à la résistance et au carré de l'intensité",
+      "explanation": "Il est recherché dans un radiateur et subi dans une ligne de transport. La dépendance au carré de l'intensité explique tout le dimensionnement des réseaux.",
+      "tags": [
+        "effet Joule",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La production de lumière par une ampoule",
+          "L'attraction entre deux fils électriques",
+          "Le bruit produit par un transformateur"
+        ],
+        "medium": [
+          "La perte de tension le long d'une ligne électrique",
+          "L'échauffement proportionnel à l'intensité du courant",
+          "La production d'un champ magnétique autour d'un conducteur"
+        ],
+        "hard": [
+          "L'échauffement proportionnel au carré de la tension appliquée",
+          "L'échauffement proportionnel à la résistance et à l'intensité",
+          "La dissipation thermique proportionnelle à la puissance transportée"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle grandeur mesure la quantité d'électricité facturée à un usager ?",
+      "verso": "L'énergie consommée, exprimée en kilowattheures, et non la puissance souscrite exprimée en kilowatts",
+      "explanation": "La puissance souscrite limite ce que l'installation peut appeler à un instant donné ; l'énergie mesure ce qui a réellement été consommé sur la période.",
+      "tags": [
+        "unités",
+        "électricité"
+      ],
+      "distractors": {
+        "easy": [
+          "Le nombre d'appareils branchés dans le logement",
+          "La tension du réseau électrique",
+          "La longueur des câbles de l'installation"
+        ],
+        "medium": [
+          "La puissance souscrite, exprimée en kilowatts",
+          "L'intensité maximale du disjoncteur, en ampères",
+          "La fréquence du courant, en hertz"
+        ],
+        "hard": [
+          "L'énergie consommée exprimée en kilowatts par heure",
+          "La puissance moyenne appelée sur la période, en kilowatts",
+          "La quantité de charge électrique transportée, en ampères-heures"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la production d'électricité doit-elle équilibrer la consommation à chaque instant ?",
+      "verso": "Parce que l'électricité ne se stocke pas en grande quantité sur le réseau, tout déséquilibre se traduisant par une variation de la fréquence pouvant provoquer une panne généralisée",
+      "explanation": "Cette contrainte est propre à l'électricité et structure toute l'exploitation du réseau, du pilotage des centrales aux appels à la modération de consommation.",
+      "tags": [
+        "réseau",
+        "contraintes"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les câbles ne supportent pas les variations de température",
+          "Parce que les compteurs ne fonctionnent qu'à consommation constante",
+          "Parce que le prix change en permanence"
+        ],
+        "medium": [
+          "Parce que les centrales ne peuvent pas modifier leur production",
+          "Parce que le stockage en batteries est interdit sur le réseau",
+          "Parce que la tension du réseau dépend uniquement de la consommation"
+        ],
+        "hard": [
+          "Parce que tout déséquilibre modifie la tension du réseau et non sa fréquence",
+          "Parce que le surplus d'électricité produit endommagerait les alternateurs par surchauffe",
+          "Parce que le stockage massif est possible mais économiquement réservé aux pointes"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle particularité distingue les panneaux photovoltaïques des autres modes de production ?",
+      "verso": "Ils convertissent directement l'énergie lumineuse en énergie électrique, sans passer par une étape mécanique ni par un alternateur",
+      "explanation": "Cette conversion directe explique l'absence de pièces mobiles et donc de bruit et d'usure mécanique, mais aussi un rendement limité par la physique du semi-conducteur.",
+      "tags": [
+        "photovoltaïque",
+        "conversion"
+      ],
+      "distractors": {
+        "easy": [
+          "Ils fonctionnent aussi la nuit grâce à la chaleur accumulée",
+          "Ils produisent de l'eau chaude et non de l'électricité",
+          "Ils tournent pour suivre le Soleil et produisent ainsi du mouvement"
+        ],
+        "medium": [
+          "Ils chauffent un fluide qui entraîne ensuite une turbine",
+          "Ils convertissent l'énergie thermique du Soleil en électricité",
+          "Ils utilisent un alternateur miniature intégré au panneau"
+        ],
+        "hard": [
+          "Ils convertissent directement l'énergie lumineuse en énergie thermique puis électrique",
+          "Ils produisent un courant alternatif directement utilisable sur le réseau",
+          "Ils convertissent l'énergie lumineuse avec un rendement supérieur à celui des centrales thermiques"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle source primaire les centrales nucléaires utilisent-elles et selon quel principe ?",
+      "verso": "L'énergie libérée par la fission de noyaux d'uranium, qui produit de la chaleur, laquelle produit de la vapeur entraînant une turbine puis un alternateur",
+      "explanation": "Le principe est celui d'une centrale thermique dont la chaudière est remplacée par un réacteur : l'aval de la chaîne est identique à celui d'une centrale à charbon.",
+      "tags": [
+        "nucléaire",
+        "conversion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le charbon, brûlé dans des conditions particulières",
+          "L'énergie solaire concentrée par des miroirs",
+          "L'énergie chimique de piles géantes"
+        ],
+        "medium": [
+          "La fusion de noyaux d'hydrogène, comme dans le Soleil",
+          "La conversion directe de l'énergie nucléaire en électricité",
+          "La radioactivité naturelle des roches du sous-sol"
+        ],
+        "hard": [
+          "La fission de l'uranium convertie directement en électricité sans turbine",
+          "La fission du plutonium produisant un courant continu à haute tension",
+          "La fission de l'uranium chauffant directement l'alternateur"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que la puissance installée d'une centrale ?",
+      "verso": "La puissance maximale qu'elle peut délivrer dans des conditions nominales, à distinguer de la production réellement obtenue sur une année",
+      "explanation": "Une éolienne de forte puissance installée produit peu si le vent manque. Comparer des puissances installées sans regarder les productions effectives est une erreur courante.",
+      "tags": [
+        "réseau",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le nombre de foyers qu'elle alimente",
+          "Le coût de sa construction",
+          "La surface de terrain qu'elle occupe"
+        ],
+        "medium": [
+          "L'énergie totale qu'elle produit en une année",
+          "La puissance moyenne qu'elle délivre effectivement",
+          "La quantité de combustible qu'elle consomme par heure"
+        ],
+        "hard": [
+          "La puissance maximale mesurée sur l'année écoulée",
+          "La puissance délivrée en moyenne pendant les heures de pointe",
+          "La puissance nominale multipliée par le facteur de charge"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on le facteur de charge d'une installation de production ?",
+      "verso": "Le rapport entre l'énergie réellement produite sur une période et celle qui aurait été produite en fonctionnant en permanence à puissance maximale",
+      "explanation": "Il est élevé pour le nucléaire, plus faible pour l'éolien et le solaire, dont la production dépend de conditions extérieures non pilotables.",
+      "tags": [
+        "réseau",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le poids total de l'installation",
+          "Le nombre de personnes qui y travaillent",
+          "La charge financière de son entretien"
+        ],
+        "medium": [
+          "Le rendement de conversion de l'installation",
+          "La proportion d'électricité perdue lors du transport",
+          "La part de la production consommée localement"
+        ],
+        "hard": [
+          "Le rapport entre puissance installée et puissance maximale théorique",
+          "Le rapport entre l'énergie produite et l'énergie primaire consommée",
+          "Le rapport entre la production de pointe et la production moyenne"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi le développement de l'électricité a-t-il accompagné celui des villes ?",
+      "verso": "Parce que l'éclairage public, les transports urbains électriques et les ascenseurs ont rendu possibles une densification et une extension des espaces urbains",
+      "explanation": "Sans ascenseur électrique, pas d'immeuble de grande hauteur ; sans tramway, pas d'étalement urbain. L'électricité a reconfiguré la forme même des villes.",
+      "tags": [
+        "histoire",
+        "société"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les villes produisent naturellement de l'électricité",
+          "Parce que les campagnes refusaient l'électricité",
+          "Parce que les câbles ne pouvaient traverser les champs"
+        ],
+        "medium": [
+          "Parce que les centrales devaient être construites en centre-ville",
+          "Parce que l'électricité était réservée aux administrations urbaines",
+          "Parce que le prix de l'électricité était plus bas en ville"
+        ],
+        "hard": [
+          "Parce que la densité urbaine réduisait les pertes en ligne, seul facteur déterminant",
+          "Parce que l'électricité a d'abord servi l'industrie rurale avant les villes",
+          "Parce que les transports urbains électriques ont précédé l'éclairage public de plusieurs décennies"
+        ]
+      }
+    },
+    {
+      "recto": "Que signifie l'expression consommation de pointe sur un réseau électrique ?",
+      "verso": "Le moment de la journée ou de l'année où la demande atteint son maximum, imposant de mobiliser des moyens de production supplémentaires",
+      "explanation": "En France, la pointe hivernale de fin d'après-midi est accentuée par le chauffage électrique. Dimensionner un réseau revient à dimensionner pour cette pointe, pas pour la moyenne.",
+      "tags": [
+        "réseau",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le moment où le prix de l'électricité est le plus bas",
+          "Le sommet d'un pylône électrique",
+          "La tension maximale supportée par les câbles"
+        ],
+        "medium": [
+          "La consommation moyenne annuelle d'un foyer",
+          "Le seuil au-delà duquel le disjoncteur coupe le courant",
+          "La production maximale des centrales disponibles"
+        ],
+        "hard": [
+          "Le moment où la production dépasse le plus fortement la consommation",
+          "La consommation moyenne des heures pleines",
+          "Le maximum de puissance installée disponible sur le réseau"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle proportion de l'énergie finale consommée en France l'électricité représente-t-elle environ ?",
+      "verso": "Environ un quart, le reste étant dominé par les combustibles utilisés dans les transports et le chauffage",
+      "explanation": "Cet ordre de grandeur rappelle que décarboner l'électricité ne suffit pas : l'essentiel de l'énergie consommée passe encore par d'autres vecteurs.",
+      "tags": [
+        "énergie",
+        "chiffres"
+      ],
+      "distractors": {
+        "easy": [
+          "La totalité",
+          "Environ 1 pour cent",
+          "Environ 90 pour cent"
+        ],
+        "medium": [
+          "Environ la moitié",
+          "Environ les trois quarts",
+          "Environ 10 pour cent"
+        ],
+        "hard": [
+          "Environ un quart de l'énergie primaire consommée",
+          "Environ un tiers de l'énergie finale",
+          "Environ un quart de la consommation des seuls ménages"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi dit-on que l'électricité a été un facteur de transformation sociale majeure ?",
+      "verso": "Parce qu'elle a modifié le travail, l'habitat, les loisirs et le rythme de vie en rendant disponibles la lumière, la force motrice et la communication à toute heure",
+      "explanation": "L'électrification a fait reculer la contrainte du jour et de la nuit, ce qui constitue l'une des transformations anthropologiques les plus profondes de l'ère industrielle.",
+      "tags": [
+        "société",
+        "synthèse"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'elle a rendu les gens plus riches automatiquement",
+          "Parce qu'elle a supprimé toutes les inégalités",
+          "Parce qu'elle a mis fin au travail manuel"
+        ],
+        "medium": [
+          "Parce qu'elle a permis l'invention de l'automobile",
+          "Parce qu'elle a fait disparaître le charbon des usages domestiques",
+          "Parce qu'elle a uniformisé les modes de vie dans le monde entier"
+        ],
+        "hard": [
+          "Parce qu'elle a d'abord transformé les campagnes avant les villes",
+          "Parce qu'elle a rendu la force motrice moins accessible aux petites entreprises",
+          "Parce qu'elle a supprimé la dépendance aux sources d'énergie primaires"
+        ]
+      }
+    }
+  ]
+}

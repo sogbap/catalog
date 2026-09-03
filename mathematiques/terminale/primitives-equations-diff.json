@@ -1,0 +1,588 @@
+{
+  "id": "mathematiques-terminale-primitives-equations-diff",
+  "title": "Primitives et équations différentielles",
+  "emoji": "🔄",
+  "subject": "mathematics",
+  "country": "fr",
+  "courseDescription": "Spé Maths · Terminale — primitives d'une fonction continue, formes usuelles, condition initiale et résolution des équations différentielles linéaires du premier ordre.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Primitives et équations différentielles</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · spécialité Mathématiques<br>\n  <b>Thème&nbsp;:</b> Analyse — calcul différentiel et intégral<br>\n  <b>Chapitre</b> · environ 3 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> On sait dériver&nbsp;— peut-on remonter&nbsp;?</p></blockquote>\n\n<p>Toute l'année a consisté à passer d'une fonction à sa dérivée. La question inverse se pose partout dans les sciences&nbsp;: on connaît souvent la <em>vitesse</em> d'un phénomène — ce qui varie, à quel rythme — et l'on cherche la grandeur elle-même. C'est le problème des <strong>primitives</strong>. Et dès que la vitesse dépend de la grandeur qu'on cherche, on obtient une <strong>équation différentielle</strong>&nbsp;— l'outil qui décrit un refroidissement, une désintégration ou une population. Ce chapitre est donc le pont entre le calcul et la modélisation.</p>\n\n<h2>1 · La notion de primitive</h2>\n\n<p>Une <strong>primitive</strong> de f sur un intervalle I est une fonction F dérivable sur I telle que F&nbsp;′ = f.</p>\n\n<p><strong>Théorème d'existence (admis).</strong> Toute fonction <em>continue</em> sur un intervalle y admet des primitives. Il sera démontré plus tard grâce au calcul intégral. Attention&nbsp;: ce théorème garantit l'existence sans fournir d'expression — une fonction peut admettre des primitives qu'on ne sait pas écrire avec les fonctions usuelles.</p>\n\n<div class=\"callout\">\n  <strong>Il n'y en a jamais une seule</strong><br>\n  Si F est une primitive de f, alors <strong>toutes les fonctions F + C</strong> le sont aussi, et il n'y en a pas d'autres. La raison&nbsp;: deux primitives ont même dérivée, donc leur différence a une dérivée nulle sur l'intervalle — elle est donc constante. Omettre cette constante rend faux tout calcul faisant intervenir une condition initiale.\n</div>\n\n<h3>Une opération qui n'est pas symétrique de la dérivation</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Schéma de la dissymétrie entre dérivation et primitivation : en dérivant, une fonction donne une dérivée unique ; en primitivant, une fonction donne une famille infinie de primitives qui diffèrent d'une constante\">\n    <defs>\n      <marker id=\"ar-mspr1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n    <text x=\"8\" y=\"14\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Dériver</text>\n    <rect x=\"8\" y=\"24\" width=\"106\" height=\"30\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"61\" y=\"43\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">F</text>\n    <path d=\"M118,39 L166,39\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-mspr1)\"/>\n    <rect x=\"172\" y=\"24\" width=\"106\" height=\"30\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"225\" y=\"43\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">f</text>\n    <text x=\"286\" y=\"43\" font-size=\"9\" class=\"s-muted\">unique</text>\n    <line x1=\"8\" y1=\"70\" x2=\"332\" y2=\"70\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"90\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Primitiver</text>\n    <rect x=\"8\" y=\"100\" width=\"106\" height=\"30\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"61\" y=\"119\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">f</text>\n    <path d=\"M118,115 L166,105\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-mspr1)\"/>\n    <path d=\"M118,115 L166,127\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-mspr1)\"/>\n    <path d=\"M118,115 L166,116\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-mspr1)\"/>\n    <rect x=\"172\" y=\"92\" width=\"106\" height=\"24\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".12\"/>\n    <text x=\"225\" y=\"108\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">F + C₁</text>\n    <rect x=\"172\" y=\"120\" width=\"106\" height=\"24\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".12\"/>\n    <text x=\"225\" y=\"136\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">F + C₂</text>\n    <text x=\"286\" y=\"119\" font-size=\"9\" class=\"s-muted\">une infinité</text>\n    <text x=\"170\" y=\"166\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">et aucune règle générale pour les trouver</text>\n  </svg>\n  <figcaption>Seconde dissymétrie&nbsp;: toute fonction usuelle se dérive mécaniquement, alors qu'on primitive par <em>reconnaissance de formes</em>.</figcaption>\n</figure>\n\n<h2>2 · Les formes usuelles</h2>\n\n<p>Puisqu'il n'existe pas de méthode générale, tout repose sur un réflexe&nbsp;: <strong>repérer qu'un facteur est la dérivée d'une expression présente ailleurs</strong>. Il est licite — et souvent nécessaire — de multiplier et diviser par une constante pour faire apparaître exactement u&nbsp;′.</p>\n\n<table>\n  <tr><th>Forme</th><th>Primitive</th><th>Condition</th></tr>\n  <tr><td>u&nbsp;′ u<sup>n</sup></td><td>u<sup>n+1</sup> / (n+1)</td><td>n ≠ −1</td></tr>\n  <tr><td>u&nbsp;′ / u</td><td>ln(u)</td><td>u &gt; 0</td></tr>\n  <tr><td>u&nbsp;′ e<sup>u</sup></td><td>e<sup>u</sup></td><td>—</td></tr>\n  <tr><td>u&nbsp;′ / √u</td><td>2√u</td><td>u &gt; 0</td></tr>\n  <tr><td>1/x</td><td>ln(x)</td><td>x &gt; 0</td></tr>\n  <tr><td>cos</td><td>sin</td><td>—</td></tr>\n  <tr><td>sin</td><td>−cos</td><td>—</td></tr>\n</table>\n\n<p>Toutes à une constante près. <b>Attention au couple trigonométrique&nbsp;:</b> le signe change dans un sens et pas dans l'autre. Le seul contrôle fiable est de <em>dériver le résultat obtenu</em>.</p>\n\n<h3>La condition initiale</h3>\n\n<p>Pour déterminer <em>la</em> primitive vérifiant une condition en un point&nbsp;: on écrit la forme générale avec sa constante, puis on remplace par les valeurs imposées pour calculer C. La condition sélectionne une primitive unique parmi l'infinité possible.</p>\n\n<h2>3 · Équations différentielles</h2>\n\n<p>Chercher une primitive de f, c'est déjà résoudre une équation différentielle&nbsp;: celle du type <strong>y&nbsp;′ = f</strong>. Le chapitre en traite deux formes plus riches.</p>\n\n<h3>L'équation y&nbsp;′ = ay</h3>\n\n<p>Ses solutions sont exactement les fonctions <strong>x&nbsp;↦&nbsp;C&nbsp;e<sup>ax</sup></strong>, C réel quelconque. Le cas a = 1 donne les fonctions proportionnelles à l'exponentielle — dont la fonction nulle, qu'on oublie souvent.</p>\n\n<h3>L'équation y&nbsp;′ = ay + b, avec a ≠ 0</h3>\n\n<p>La solution générale est la <strong>somme de deux morceaux</strong>&nbsp;:</p>\n\n<ul>\n  <li>la solution générale de l'équation <em>sans second membre</em>&nbsp;: C&nbsp;e<sup>ax</sup>&nbsp;;</li>\n  <li>une <strong>solution particulière constante</strong>, qu'on cherche sous forme d'une constante k. Sa dérivée étant nulle, on résout 0 = ak + b, d'où k = −b/a.</li>\n</ul>\n\n<p>D'où&nbsp;: <strong>y(x) = C&nbsp;e<sup>ax</sup> − b/a</strong>.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 195\" role=\"img\" aria-label=\"Schéma de la structure des solutions d'une équation différentielle avec second membre : la solution générale est la somme de la solution générale de l'équation sans second membre et d'une solution particulière constante, puis la condition initiale sélectionne une courbe unique dans la famille\">\n    <defs>\n      <marker id=\"ar-mspr2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n    <rect x=\"6\" y=\"18\" width=\"150\" height=\"40\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"81\" y=\"36\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">sans second membre</text>\n    <text x=\"81\" y=\"50\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">C e^(ax)</text>\n    <text x=\"164\" y=\"42\" text-anchor=\"middle\" font-size=\"12\" fill=\"var(--accent)\">+</text>\n    <rect x=\"180\" y=\"18\" width=\"150\" height=\"40\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"255\" y=\"36\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">solution particulière</text>\n    <text x=\"255\" y=\"50\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">− b/a</text>\n    <path d=\"M170,60 L170,80\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-mspr2)\"/>\n    <rect x=\"60\" y=\"84\" width=\"220\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"105\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\" font-weight=\"bold\">solution générale — une famille</text>\n    <path d=\"M170,118 L170,138\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-mspr2)\"/>\n    <rect x=\"60\" y=\"142\" width=\"220\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"163\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\" font-weight=\"bold\">condition initiale → une seule courbe</text>\n    <text x=\"170\" y=\"190\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">la condition s'applique en dernier, à la solution complète</text>\n  </svg>\n  <figcaption>Appliquer la condition initiale avant d'avoir ajouté la solution particulière donne une constante fausse.</figcaption>\n</figure>\n\n<h3>Pourquoi une infinité de solutions&nbsp;?</h3>\n\n<p>Parce que la constante reste libre. Géométriquement, les solutions forment une <strong>famille de courbes qui ne se croisent pas</strong>&nbsp;; la condition initiale sélectionne celle qui passe par un point donné.</p>\n\n<h2>4 · Modéliser</h2>\n\n<p>C'est ici que le chapitre prend son sens. Dire qu'une grandeur évolue à un rythme proportionnel à son écart avec une valeur de référence, c'est écrire exactement y&nbsp;′ = ay + b.</p>\n\n<p><b>Exemple&nbsp;: le refroidissement.</b> La dérivée de la température est proportionnelle à l'écart avec la température du milieu. On obtient une équation à coefficient <em>négatif</em>&nbsp;: le terme exponentiel décrit l'écart initial, qui s'amortit, et la solution particulière constante donne la <strong>température d'équilibre</strong> — celle du milieu.</p>\n\n<p>C'est l'interprétation générale de la solution particulière&nbsp;: lorsque a est négatif, elle est l'<strong>état d'équilibre</strong> vers lequel le système tend.</p>\n\n<h3>Vérifier une solution</h3>\n\n<p>Un exercice commence souvent par «&nbsp;vérifier que telle fonction est solution&nbsp;»&nbsp;: on calcule sa dérivée et on montre que l'égalité vaut <em>pour tout x</em> du domaine. Cette vérification ne remplace jamais la résolution, qui doit établir que <em>toutes</em> les solutions ont cette forme.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>La méthode</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Frise méthodique de résolution d'un problème d'équation différentielle : identifier la forme de l'équation, écrire la solution générale sans second membre, chercher une solution particulière constante, additionner les deux, puis appliquer la condition initiale\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"186\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">1. Identifier</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">y ′ = f, y ′ = ay, ou y ′ = ay + b</text>\n    <circle cx=\"26\" cy=\"62\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"59\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">2. Sans second membre</text>\n    <text x=\"44\" y=\"72\" font-size=\"10\" fill=\"currentColor\">C e^(ax), constante libre</text>\n    <circle cx=\"26\" cy=\"104\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"101\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">3. Solution particulière</text>\n    <text x=\"44\" y=\"114\" font-size=\"10\" fill=\"currentColor\">Chercher une constante : k = −b/a</text>\n    <circle cx=\"26\" cy=\"146\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"143\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">4. Additionner</text>\n    <text x=\"44\" y=\"156\" font-size=\"10\" fill=\"currentColor\">Solution générale complète</text>\n    <circle cx=\"26\" cy=\"184\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"181\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">5. Condition initiale</text>\n    <text x=\"44\" y=\"194\" font-size=\"10\" fill=\"currentColor\">Déterminer C — en dernier</text>\n  </svg>\n  <figcaption>L'ordre n'est pas indicatif&nbsp;: la condition initiale s'applique à la solution <em>complète</em>.</figcaption>\n</figure>\n\n<h3>Formes usuelles à reconnaître</h3>\n\n<table>\n  <tr><th>On voit…</th><th>On écrit…</th></tr>\n  <tr><td>Un facteur = dérivée de la base</td><td>u<sup>n+1</sup>/(n+1)</td></tr>\n  <tr><td>Un quotient dérivée sur fonction</td><td>ln(u)</td></tr>\n  <tr><td>Une dérivée devant une exponentielle</td><td>e<sup>u</sup></td></tr>\n  <tr><td>Une dérivée sur une racine</td><td>2√u</td></tr>\n</table>\n\n<h3>Équations différentielles</h3>\n\n<table>\n  <tr><th>Équation</th><th>Solutions</th></tr>\n  <tr><td>y&nbsp;′ = f</td><td>Primitives de f&nbsp;: F + C</td></tr>\n  <tr><td>y&nbsp;′ = ay</td><td>C e<sup>ax</sup></td></tr>\n  <tr><td>y&nbsp;′ = ay + b (a ≠ 0)</td><td>C e<sup>ax</sup> − b/a</td></tr>\n</table>\n\n<h3>Notions à distinguer</h3>\n\n<table>\n  <tr><th>Distinction</th><th>Ce qui se joue</th></tr>\n  <tr><td>Dérivée / primitive</td><td>Unique contre une infinité</td></tr>\n  <tr><td>Solution générale / particulière</td><td>Une famille contre un représentant</td></tr>\n  <tr><td>Avec / sans condition initiale</td><td>Une courbe contre une famille</td></tr>\n  <tr><td>Vérifier / résoudre</td><td>Contrôler une expression contre les trouver toutes</td></tr>\n  <tr><td>Constante d'intégration / d'équation</td><td>Le même objet, le même rôle</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Oublier la <strong>constante</strong>. Une fonction continue n'a jamais une seule primitive&nbsp;: elle en a une infinité, qui diffèrent d'une constante. L'omettre fausse tout calcul avec condition initiale et laisse croire à une solution unique. Deux erreurs voisines&nbsp;: appliquer la condition initiale <em>avant</em> d'avoir ajouté la solution particulière&nbsp;; et se tromper de signe entre les primitives du sinus et du cosinus — le seul contrôle fiable est de dériver son résultat.\n</div>\n\n<blockquote><p>Dériver, c'est descendre d'un cran&nbsp;; primitiver, c'est remonter — mais on remonte toujours à une constante près, et cette constante n'est pas un détail&nbsp;: c'est l'endroit exact où l'énoncé doit dire d'où le phénomène est parti.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Spécialité Mathématiques — Analyse",
+  "cards": [
+    {
+      "recto": "Qu'appelle-t-on une primitive de la fonction f sur un intervalle ?",
+      "verso": "Une fonction F dérivable sur cet intervalle dont la dérivée est égale à f",
+      "explanation": "Chercher une primitive, c'est donc remonter le calcul de la dérivée. L'opération n'est pas symétrique de la dérivation : dériver donne un résultat unique, alors que primitiver en donne une infinité.",
+      "tags": [
+        "définition",
+        "primitive"
+      ],
+      "distractors": {
+        "easy": [
+          "La dérivée de f",
+          "L'inverse de f",
+          "La fonction f elle-même"
+        ],
+        "medium": [
+          "Une fonction dont f est la dérivée seconde",
+          "Une fonction proportionnelle à f",
+          "Une fonction dont la dérivée est nulle"
+        ],
+        "hard": [
+          "Une fonction continue dont la dérivée est f prime",
+          "Une fonction dérivable égale à la dérivée de f",
+          "Une fonction dont l'intégrale vaut f"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : une fonction admet-elle une seule primitive ?",
+      "verso": "Non : si F est une primitive, alors toutes les fonctions de la forme F plus une constante en sont aussi, et il n'y en a pas d'autres",
+      "explanation": "C'est l'erreur la plus fréquente du chapitre. Deux primitives d'une même fonction diffèrent d'une constante, parce qu'une fonction dont la dérivée est nulle sur un intervalle est constante. Omettre cette constante rend faux tout calcul faisant intervenir une condition initiale, et laisse croire à tort que le problème a une solution unique.",
+      "tags": [
+        "piege",
+        "primitive"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, une seule",
+          "Oui, si la fonction est continue",
+          "Non, elle en admet exactement deux"
+        ],
+        "medium": [
+          "Oui, dès qu'on fixe l'intervalle d'étude",
+          "Non, elle en admet une infinité qui diffèrent d'un facteur multiplicatif",
+          "Oui, l'unicité venant de la dérivation"
+        ],
+        "hard": [
+          "Non, les primitives diffèrent d'une fonction affine",
+          "Oui, sauf si la fonction s'annule sur l'intervalle",
+          "Non, mais deux primitives peuvent différer d'une fonction quelconque de dérivée nulle en un point"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle condition suffit pour garantir qu'une fonction admet des primitives sur un intervalle ?",
+      "verso": "Il suffit qu'elle soit continue sur cet intervalle",
+      "explanation": "Ce résultat est admis en Terminale et démontré plus tard grâce au calcul intégral. Il garantit l'existence sans fournir d'expression : une fonction peut très bien admettre des primitives qu'on ne sait pas écrire avec les fonctions usuelles.",
+      "tags": [
+        "existence",
+        "théorème"
+      ],
+      "distractors": {
+        "easy": [
+          "Qu'elle soit positive",
+          "Qu'elle soit croissante",
+          "Qu'elle soit polynomiale"
+        ],
+        "medium": [
+          "Qu'elle soit dérivable",
+          "Qu'elle soit bornée sur l'intervalle",
+          "Qu'elle soit monotone"
+        ],
+        "hard": [
+          "Qu'elle soit continue et de dérivée continue",
+          "Qu'elle soit continue et strictement positive",
+          "Qu'elle admette une limite finie aux bornes"
+        ]
+      }
+    },
+    {
+      "recto": "Ne pas confondre : en quoi la dérivation et la recherche de primitives ne sont-elles pas des opérations symétriques ?",
+      "verso": "La dérivée d'une fonction est unique, alors qu'une fonction continue possède une infinité de primitives différant d'une constante",
+      "explanation": "Une seconde dissymétrie s'ajoute : toute fonction usuelle se dérive selon des règles mécaniques, alors qu'il n'existe pas de méthode générale pour primitiver. On procède par reconnaissance de formes, ce qui suppose de connaître par cœur les dérivées.",
+      "tags": [
+        "comparaison",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Ce sont exactement des opérations inverses sans différence",
+          "La dérivation est plus difficile que la primitivation",
+          "La primitivation donne un nombre, la dérivation une fonction"
+        ],
+        "medium": [
+          "La primitive est unique et la dérivée multiple",
+          "Les deux opérations donnent des résultats uniques",
+          "La dérivation exige la continuité, pas la primitivation"
+        ],
+        "hard": [
+          "Les primitives diffèrent d'une constante et les dérivées d'un facteur",
+          "La dérivation suit des règles générales, la primitivation aussi",
+          "Toute fonction admet une dérivée mais pas nécessairement une primitive continue"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la forme des primitives de u prime multiplié par u puissance n, pour n entier différent de moins un ?",
+      "verso": "u puissance (n plus un), divisé par (n plus un), à une constante près",
+      "explanation": "On reconnaît la forme en repérant un facteur qui est la dérivée de la base. C'est la raison pour laquelle il faut parfois multiplier et diviser par une constante pour faire apparaître exactement u prime.",
+      "tags": [
+        "formes usuelles",
+        "primitive"
+      ],
+      "distractors": {
+        "easy": [
+          "u puissance n divisé par n",
+          "u prime puissance n",
+          "n multiplié par u puissance (n plus un)"
+        ],
+        "medium": [
+          "u puissance (n moins un) divisé par (n moins un)",
+          "u prime multiplié par u puissance (n plus un)",
+          "u puissance (n plus un) multiplié par (n plus un)"
+        ],
+        "hard": [
+          "u puissance (n plus un) divisé par n",
+          "u prime puissance (n plus un) divisé par (n plus un)",
+          "u puissance (n plus un) divisé par (n plus un) multiplié par u prime"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la primitive de u prime divisé par u, là où u est strictement positive ?",
+      "verso": "Le logarithme népérien de u, à une constante près",
+      "explanation": "Cette forme est le pendant exact de la dérivée du logarithme composé. Quand u peut être négative, la primitive s'écrit avec la valeur absolue de u, mais le programme se limite au cas où u garde un signe strictement positif.",
+      "tags": [
+        "formes usuelles",
+        "primitive"
+      ],
+      "distractors": {
+        "easy": [
+          "u prime divisé par u au carré",
+          "L'inverse de u",
+          "u divisé par u prime"
+        ],
+        "medium": [
+          "Le logarithme de u prime",
+          "L'exponentielle de u",
+          "Un divisé par le logarithme de u"
+        ],
+        "hard": [
+          "Le logarithme népérien de u prime, à une constante près",
+          "Le logarithme népérien de u divisé par u prime",
+          "Le logarithme népérien de u, valable pour toute fonction u non nulle"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la primitive de u prime multiplié par l'exponentielle de u ?",
+      "verso": "L'exponentielle de u, à une constante près",
+      "explanation": "C'est la forme la plus simple à reconnaître, puisque l'exponentielle est sa propre primitive à un facteur près. La difficulté consiste seulement à repérer que le facteur devant l'exponentielle est bien la dérivée de l'exposant.",
+      "tags": [
+        "formes usuelles",
+        "primitive"
+      ],
+      "distractors": {
+        "easy": [
+          "L'exponentielle de u prime",
+          "u multiplié par l'exponentielle de u",
+          "L'exponentielle de u divisée par u prime"
+        ],
+        "medium": [
+          "u prime multiplié par l'exponentielle de u",
+          "L'exponentielle de u multipliée par u",
+          "L'exponentielle de u divisée par u"
+        ],
+        "hard": [
+          "L'exponentielle de u, divisée par la dérivée de u",
+          "L'exponentielle de u prime, à une constante près",
+          "L'exponentielle de u multipliée par une constante non nulle quelconque"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la primitive de u prime divisé par la racine carrée de u ?",
+      "verso": "Deux fois la racine carrée de u, à une constante près",
+      "explanation": "Le facteur deux vient de la dérivée de la racine, qui fait apparaître un demi. C'est une forme moins reconnue que les autres, souvent manquée en exercice faute d'avoir la dérivée de la racine composée en tête.",
+      "tags": [
+        "formes usuelles",
+        "primitive"
+      ],
+      "distractors": {
+        "easy": [
+          "La racine carrée de u",
+          "La racine carrée de u prime",
+          "Un demi de la racine carrée de u"
+        ],
+        "medium": [
+          "La racine carrée de u divisée par deux",
+          "Deux fois u divisé par la racine de u",
+          "Deux fois la racine carrée de u prime"
+        ],
+        "hard": [
+          "Deux fois la racine carrée de u, divisée par u prime",
+          "Quatre fois la racine carrée de u",
+          "La racine carrée de u multipliée par u prime"
+        ]
+      }
+    },
+    {
+      "recto": "Comment détermine-t-on la primitive qui vérifie une condition donnée en un point ?",
+      "verso": "On écrit la forme générale avec sa constante, puis on remplace par les valeurs imposées pour calculer cette constante",
+      "explanation": "La condition sélectionne une primitive unique parmi l'infinité possible. C'est exactement le rôle joué par la condition initiale dans les équations différentielles, ce qui n'est pas un hasard : chercher une primitive revient à résoudre une équation du type y prime égale f.",
+      "tags": [
+        "condition initiale",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "On prend la constante égale à zéro",
+          "On dérive une seconde fois",
+          "On choisit la primitive la plus simple"
+        ],
+        "medium": [
+          "On impose que la primitive soit nulle en zéro",
+          "On calcule la moyenne des primitives possibles",
+          "On prend la constante égale à la valeur de la fonction au point"
+        ],
+        "hard": [
+          "On impose que la dérivée de la primitive vérifie la condition",
+          "On détermine la constante en dérivant la condition donnée",
+          "On choisit la constante qui rend la primitive croissante"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles sont les solutions de l'équation différentielle y prime égale a fois y plus b, où a est non nul ?",
+      "verso": "Les fonctions de la forme constante multipliée par l'exponentielle de a fois x, à laquelle on ajoute moins b divisé par a",
+      "explanation": "La solution générale est la somme d'une solution de l'équation sans second membre et d'une solution particulière constante. Cette structure, générale en analyse, permet de traiter le second membre séparément.",
+      "tags": [
+        "équation différentielle",
+        "résolution"
+      ],
+      "distractors": {
+        "easy": [
+          "Les fonctions affines",
+          "Les fonctions exponentielles seules",
+          "La fonction constante égale à b"
+        ],
+        "medium": [
+          "Les fonctions de la forme constante multipliée par l'exponentielle de a fois x, plus b",
+          "Les fonctions de la forme constante multipliée par l'exponentielle de a fois x, plus b divisé par a",
+          "Les fonctions de la forme constante plus l'exponentielle de a fois x"
+        ],
+        "hard": [
+          "Les fonctions de la forme constante multipliée par l'exponentielle de b fois x, moins a divisé par b",
+          "Les fonctions de la forme constante multipliée par l'exponentielle de a fois x, moins a divisé par b",
+          "Une fonction unique déterminée sans condition initiale"
+        ]
+      }
+    },
+    {
+      "recto": "Comment trouve-t-on la solution particulière constante d'une équation différentielle y prime égale a fois y plus b ?",
+      "verso": "En cherchant une fonction constante, dont la dérivée est nulle, ce qui donne l'équation zéro égale a fois la constante plus b",
+      "explanation": "La constante cherchée vaut donc moins b sur a, ce qui suppose que a soit non nul. Cette solution particulière représente l'état d'équilibre du système modélisé, celui vers lequel il tend quand a est négatif.",
+      "tags": [
+        "équation différentielle",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En prenant la constante égale à b",
+          "En prenant la constante égale à a",
+          "En calculant la moyenne de a et b"
+        ],
+        "medium": [
+          "En cherchant une fonction affine",
+          "En prenant la constante égale à b divisé par a",
+          "En dérivant l'équation une seconde fois"
+        ],
+        "hard": [
+          "En cherchant une fonction exponentielle particulière",
+          "En imposant que la dérivée seconde soit nulle",
+          "En prenant la constante égale à moins a divisé par b"
+        ]
+      }
+    },
+    {
+      "recto": "Comment s'interprète la solution particulière constante dans un modèle d'évolution ?",
+      "verso": "Comme l'état d'équilibre, valeur vers laquelle la grandeur tend lorsque le coefficient de l'exponentielle est négatif",
+      "explanation": "C'est le cas du refroidissement d'un corps, qui tend vers la température ambiante, ou d'une concentration qui se stabilise. Le terme exponentiel décrit alors l'écart à l'équilibre, qui s'amortit avec le temps.",
+      "tags": [
+        "modélisation",
+        "interprétation"
+      ],
+      "distractors": {
+        "easy": [
+          "Comme la valeur initiale du phénomène",
+          "Comme la vitesse d'évolution",
+          "Comme la durée totale de l'évolution"
+        ],
+        "medium": [
+          "Comme la valeur maximale atteinte",
+          "Comme la moyenne des valeurs prises",
+          "Comme l'état initial du système"
+        ],
+        "hard": [
+          "Comme l'état d'équilibre atteint lorsque le coefficient est positif",
+          "Comme la limite vers laquelle tend la dérivée",
+          "Comme l'écart entre la valeur initiale et la valeur finale"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi une équation différentielle sans condition initiale admet-elle une infinité de solutions ?",
+      "verso": "Parce que la constante d'intégration reste libre : chaque valeur en fournit une solution différente",
+      "explanation": "Géométriquement, ces solutions forment une famille de courbes qui ne se croisent pas. La condition initiale sélectionne celle qui passe par un point donné, ce qui rend la solution unique.",
+      "tags": [
+        "équation différentielle",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que l'équation est mal posée",
+          "Parce que le calcul comporte des approximations",
+          "Parce que la dérivée n'est pas unique"
+        ],
+        "medium": [
+          "Parce que la fonction exponentielle prend plusieurs formes",
+          "Parce que le coefficient a peut varier",
+          "Parce que l'équation admet plusieurs solutions particulières constantes"
+        ],
+        "hard": [
+          "Parce que les solutions forment une famille de courbes qui se croisent",
+          "Parce que la constante est déterminée mais inconnue",
+          "Parce que l'équation admet une solution unique à un facteur près"
+        ]
+      }
+    },
+    {
+      "recto": "Comment vérifie-t-on qu'une fonction est bien solution d'une équation différentielle donnée ?",
+      "verso": "En calculant sa dérivée et en montrant que l'égalité proposée est vérifiée pour tout x du domaine",
+      "explanation": "La vérification est une étape à part entière, souvent demandée en début d'exercice pour valider une expression fournie par l'énoncé. Elle ne remplace jamais la résolution, qui doit établir que toutes les solutions ont cette forme.",
+      "tags": [
+        "méthode",
+        "vérification"
+      ],
+      "distractors": {
+        "easy": [
+          "En testant quelques valeurs de x",
+          "En traçant la courbe",
+          "En comparant avec la solution du cours"
+        ],
+        "medium": [
+          "En calculant la primitive de la fonction",
+          "En vérifiant l'égalité en un seul point",
+          "En dérivant deux fois la fonction"
+        ],
+        "hard": [
+          "En vérifiant que la fonction est continue sur le domaine",
+          "En montrant que l'égalité vaut au voisinage d'un point",
+          "En vérifiant que la condition initiale est satisfaite"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle relation lie la recherche d'une primitive et la résolution d'une équation différentielle ?",
+      "verso": "Chercher une primitive de f revient à résoudre l'équation y prime égale f, dont les solutions diffèrent d'une constante",
+      "explanation": "C'est le cas le plus simple d'équation différentielle. Cette lecture explique pourquoi la constante d'intégration et la constante des équations différentielles jouent exactement le même rôle.",
+      "tags": [
+        "lien",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Il n'y a aucune relation entre les deux",
+          "Une primitive est la dérivée d'une équation différentielle",
+          "Résoudre une équation différentielle donne une dérivée"
+        ],
+        "medium": [
+          "Chercher une primitive revient à résoudre y prime égale y",
+          "Chercher une primitive revient à résoudre y égale f prime",
+          "Les équations différentielles se ramènent toutes à des primitives"
+        ],
+        "hard": [
+          "Chercher une primitive revient à résoudre y seconde égale f",
+          "Chercher une primitive revient à résoudre y prime égale a fois y",
+          "Les deux problèmes ont des solutions uniques"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est une primitive de la fonction inverse sur l'intervalle des réels strictement positifs ?",
+      "verso": "Le logarithme népérien, à une constante près",
+      "explanation": "Ce résultat découle directement de la dérivée du logarithme. Il est indispensable en calcul intégral, notamment pour calculer une aire sous une hyperbole.",
+      "tags": [
+        "primitive",
+        "référence"
+      ],
+      "distractors": {
+        "easy": [
+          "L'inverse du carré de x",
+          "L'exponentielle de x",
+          "Moins l'inverse de x"
+        ],
+        "medium": [
+          "Le carré de x divisé par deux",
+          "L'inverse du logarithme de x",
+          "Moins l'inverse du carré de x"
+        ],
+        "hard": [
+          "Le logarithme népérien, valable aussi sur les réels négatifs",
+          "Le logarithme népérien de la valeur absolue, seule forme correcte ici",
+          "Le logarithme népérien divisé par x"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est une primitive de la fonction cosinus ?",
+      "verso": "La fonction sinus, à une constante près",
+      "explanation": "Symétriquement, une primitive du sinus est moins le cosinus : le signe change dans un sens et pas dans l'autre. C'est une source d'erreur constante, qu'il faut vérifier en dérivant le résultat obtenu.",
+      "tags": [
+        "primitive",
+        "référence"
+      ],
+      "distractors": {
+        "easy": [
+          "Moins la fonction sinus",
+          "La fonction cosinus",
+          "La fonction tangente"
+        ],
+        "medium": [
+          "Moins la fonction cosinus",
+          "La fonction sinus divisée par deux",
+          "Le carré du sinus"
+        ],
+        "hard": [
+          "La fonction sinus multipliée par moins un",
+          "La fonction cosinus dérivée",
+          "Le sinus de x divisé par x"
+        ]
+      }
+    },
+    {
+      "recto": "Comment reconnaître qu'une expression se primitive selon une forme usuelle ?",
+      "verso": "En repérant qu'un des facteurs est la dérivée d'une expression présente ailleurs, quitte à ajuster par une constante multiplicative",
+      "explanation": "C'est le seul réflexe efficace, puisqu'il n'existe pas de méthode générale de primitivation. Multiplier et diviser par une constante pour faire apparaître exactement u prime est une manipulation courante et licite.",
+      "tags": [
+        "méthode",
+        "reconnaissance"
+      ],
+      "distractors": {
+        "easy": [
+          "En appliquant la règle du produit à l'envers",
+          "En dérivant l'expression",
+          "En factorisant complètement"
+        ],
+        "medium": [
+          "En cherchant à décomposer en somme de fonctions usuelles uniquement",
+          "En appliquant une formule générale de primitivation",
+          "En reconnaissant un quotient de polynômes"
+        ],
+        "hard": [
+          "En vérifiant que l'expression est continue sur l'intervalle",
+          "En repérant que l'un des facteurs est une primitive d'un autre",
+          "En multipliant par une fonction pour faire apparaître u prime"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la constante ajoutée à une primitive ne change-t-elle pas le résultat d'un calcul d'aire ?",
+      "verso": "Parce que le calcul fait intervenir une différence de valeurs de la primitive, dans laquelle la constante se simplifie",
+      "explanation": "C'est ce qui autorise, dans un calcul intégral, à choisir la primitive la plus simple sans se soucier de la constante. Elle reste en revanche indispensable dès qu'une condition initiale est imposée.",
+      "tags": [
+        "lien",
+        "intégrale"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que la constante vaut toujours zéro",
+          "Parce que l'aire ne dépend pas de la primitive",
+          "Parce que la constante est très petite"
+        ],
+        "medium": [
+          "Parce que la constante s'annule en dérivant",
+          "Parce qu'on choisit toujours la constante nulle",
+          "Parce que l'aire se calcule sans primitive"
+        ],
+        "hard": [
+          "Parce que la constante se simplifie dans le produit des valeurs",
+          "Parce que la constante s'ajoute deux fois et double le résultat",
+          "Parce que la primitive est unique dans ce contexte"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la forme des solutions de l'équation différentielle y prime égale y ?",
+      "verso": "Les fonctions proportionnelles à l'exponentielle, c'est-à-dire de la forme constante multipliée par l'exponentielle de x",
+      "explanation": "La fonction exponentielle elle-même correspond au choix de la constante égale à un, imposé par la condition en zéro. La fonction nulle est également solution, ce qu'on oublie souvent.",
+      "tags": [
+        "équation différentielle",
+        "référence"
+      ],
+      "distractors": {
+        "easy": [
+          "La seule fonction exponentielle",
+          "Les fonctions affines",
+          "Les fonctions constantes"
+        ],
+        "medium": [
+          "Les fonctions de la forme exponentielle de x plus une constante",
+          "Les fonctions de la forme exponentielle de constante fois x",
+          "Les fonctions dont la dérivée est constante"
+        ],
+        "hard": [
+          "Les fonctions proportionnelles à l'exponentielle, la fonction nulle exceptée",
+          "Les fonctions de la forme constante multipliée par l'exponentielle de x au carré",
+          "Les fonctions égales à leur dérivée seconde"
+        ]
+      }
+    },
+    {
+      "recto": "Comment modélise-t-on le refroidissement d'un corps placé dans un milieu à température constante ?",
+      "verso": "Par une équation différentielle où la dérivée de la température est proportionnelle à l'écart avec la température du milieu",
+      "explanation": "L'équation obtenue est de la forme y prime égale a fois y plus b, avec un coefficient négatif. Sa solution montre que l'écart initial décroît exponentiellement, la température tendant vers celle du milieu.",
+      "tags": [
+        "modélisation",
+        "application"
+      ],
+      "distractors": {
+        "easy": [
+          "Par une fonction affine décroissante",
+          "Par une suite arithmétique",
+          "Par une fonction constante"
+        ],
+        "medium": [
+          "Par une équation où la dérivée est proportionnelle à la température elle-même",
+          "Par une équation du second degré",
+          "Par une fonction logarithme"
+        ],
+        "hard": [
+          "Par une équation où la dérivée est proportionnelle au carré de l'écart",
+          "Par une équation dont la solution particulière est nulle",
+          "Par une équation à coefficient positif"
+        ]
+      }
+    },
+    {
+      "recto": "Quel bilan méthodique retenir pour résoudre un problème d'équation différentielle ?",
+      "verso": "Identifier la forme de l'équation, écrire la solution générale avec sa constante, déterminer une solution particulière si le second membre n'est pas nul, puis utiliser la condition initiale",
+      "explanation": "L'ordre est important : la condition initiale s'applique en dernier, à la solution complète. L'appliquer avant d'avoir ajouté la solution particulière donne une constante fausse.",
+      "tags": [
+        "synthèse",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Calculer la primitive du second membre",
+          "Dériver l'équation puis résoudre",
+          "Tester des fonctions jusqu'à en trouver une qui convient"
+        ],
+        "medium": [
+          "Appliquer la condition initiale avant de chercher la solution particulière",
+          "Chercher d'abord la solution particulière puis ignorer la constante",
+          "Résoudre l'équation sans second membre uniquement"
+        ],
+        "hard": [
+          "Appliquer la condition initiale à la solution de l'équation sans second membre",
+          "Déterminer la constante en dérivant la solution générale",
+          "Chercher la solution particulière sous forme exponentielle"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,535 @@
+{
+  "id": "jp-koukou-suugaku-sankaku-kansuu",
+  "title": "三角関数",
+  "emoji": "🌊",
+  "subject": "mathematics",
+  "country": "jp",
+  "courseDescription": "弧度法による角の表し方から、三角関数のグラフと周期、加法定理とその応用、そして三角関数の合成までを扱う。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>三角関数</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>数学II<br>\n  <b>単元：</b>三角関数\n</div>\n\n<blockquote>\n  <p><b>問い。</b>sin θ ＝ 1／2 を解いて θ ＝ π／6 と答えた。これで終わりだろうか。</p>\n</blockquote>\n\n<p>数学Iの三角比は<b>図形を測る道具</b>だった。ここからの三角関数は<b>周期現象を記述する言語</b>になる。音、交流電流、潮の満ち引き——一定の周期で繰り返す現象の構造が、この関数の性質とそのまま一致するからである。</p>\n\n<h2>1・弧度法 — 角を実数にする</h2>\n\n<p>半径 1 の円で、長さ 1 の弧に対する中心角を 1 とするのが<strong>弧度法</strong>（単位はラジアン）である。角を<b>実数として扱える</b>ようになるため、三角関数を関数として微分積分するときに不可欠になる。</p>\n\n<p style=\"text-align:center\"><strong>180 度 ＝ π ラジアン</strong></p>\n\n<p>これを基準に、90 度は π／2、60 度は π／3 と換算する。弧度法の実用上の利点は、扇形の計算に現れる。</p>\n\n<table>\n  <tr><th>量</th><th>弧度法</th></tr>\n  <tr><td>弧の長さ</td><td>rθ</td></tr>\n  <tr><td>扇形の面積</td><td>(1／2)r²θ</td></tr>\n</table>\n\n<p>度数法で必要だった π／180 という係数が、<b>まるごと不要になる</b>。</p>\n\n<h2>2・グラフと周期</h2>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 148\" role=\"img\" aria-label=\"正弦関数のグラフが周期2パイで繰り返し余弦のグラフは正弦を横に半パイずらしたものであることを示す図\">\n  <text x=\"170\" y=\"14\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">形は同じ、位置だけがずれている</text>\n  <path d=\"M14,80 L326,80\" style=\"fill:none;stroke:currentColor;stroke-opacity:.3;stroke-width:1\"/>\n  <path d=\"M30,80 Q60,32 90,80 Q120,128 150,80 Q180,32 210,80 Q240,128 270,80 Q300,32 326,52\" style=\"fill:none;stroke:var(--accent);stroke-width:2\"/>\n  <path d=\"M30,32 Q60,80 90,128 Q120,80 150,32 Q180,80 210,128 Q240,80 270,32 Q294,62 310,80\" style=\"fill:none;stroke:var(--accent);stroke-opacity:.4;stroke-width:1.8;stroke-dasharray:5,3\"/>\n  <text x=\"60\" y=\"28\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">sin</text>\n  <text x=\"96\" y=\"130\" class=\"s-muted\" font-size=\"8.5\">cos</text>\n  <path d=\"M30,92 L150,92\" style=\"fill:none;stroke:var(--accent);stroke-width:1.4\"/>\n  <path d=\"M30,88 L30,96 M150,88 L150,96\" style=\"fill:none;stroke:var(--accent);stroke-width:1.4\"/>\n  <text x=\"90\" y=\"106\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">周期 2π</text>\n  <text x=\"170\" y=\"142\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8.5\">cos θ ＝ sin(θ＋π／2) — 余弦は正弦を x 方向に －π／2 平行移動したもの</text>\n</svg>\n<figcaption>正弦・余弦の周期は 2π。単位円を 1 周すると元の値に戻るためである。</figcaption>\n</figure>\n\n<p>ただし<b>正接だけは周期が π</b> で、正弦・余弦の半分である。正接は正弦を余弦で割った値なので、<b>両方の符号が同時に反転すると値が元に戻る</b>からである。この違いは方程式の解の個数にも効いてくる。</p>\n\n<div class=\"callout\">\n  <strong>要注意・y ＝ a sin(bx) の読み方</strong><br>\n  <b>a</b>　… y 方向に <b>a 倍</b>（振幅）<br>\n  <b>b</b>　… x 方向に <b>1／b 倍</b>に縮む。周期は <b>2π／b</b><br>\n  x にかかる係数は、グラフを<b>横に縮める</b>働きをする。b 倍ではなく <b>1／b 倍</b>である点が、最も間違えやすい。\n</div>\n\n<p>また、θ が第 2 象限にあるとき、単位円上の点は x 座標が負・y 座標が正なので、<b>正弦は正、余弦は負、正接は負</b>となる。</p>\n\n<h2>3・加法定理</h2>\n\n<p>この単元の中心となる公式である。正弦と余弦で<b>符号の向きが逆になる</b>点が、最も混同されやすい。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 128\" role=\"img\" aria-label=\"正弦の加法定理は交差して掛けて和になり余弦の加法定理は同じもの同士を掛けて差になるという符号の違い\">\n  <text x=\"170\" y=\"14\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">和なのに、余弦は「－」になる</text>\n  <rect x=\"10\" y=\"26\" width=\"320\" height=\"42\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"45\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">sin(α＋β) ＝ sin α cos β ＋ cos α sin β</text>\n  <text x=\"170\" y=\"61\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">交差して掛ける ／ 符号は ＋</text>\n  <rect x=\"10\" y=\"76\" width=\"320\" height=\"42\" rx=\"10\" style=\"fill:var(--accent);fill-opacity:.18;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.5\"/>\n  <text x=\"170\" y=\"95\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9.5\" font-weight=\"700\">cos(α＋β) ＝ cos α cos β － sin α sin β</text>\n  <text x=\"170\" y=\"111\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">同じもの同士を掛ける ／ 符号は －</text>\n</svg>\n<figcaption>差の加法定理では、右辺の符号がそれぞれ逆になる。</figcaption>\n</figure>\n\n<p>加法定理で α ＝ β とすれば<strong>2 倍角の公式</strong>が得られる。新たに覚えるのではなく、<b>導けることを知っておく</b>のが要点である。</p>\n\n<ul>\n  <li>sin 2α ＝ 2 sin α cos α</li>\n  <li>cos 2α ＝ cos²α － sin²α ＝ <b>1 － 2sin²α</b> ＝ 2cos²α － 1</li>\n</ul>\n\n<p>cos 2α に 3 通りの表し方があるのは、相互関係 sin²α＋cos²α ＝ 1 で書き換えられるからである。<b>どの形に直すと都合がよいかを選ぶ</b>ことが、積分や方程式では重要になる。なお正接については、相互関係 <b>1 ＋ tan²θ ＝ 1／cos²θ</b>（両辺を cos²θ で割って得られる）も使う。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 140\" role=\"img\" aria-label=\"半径一の円で弧の長さがそのまま中心角の大きさになるという弧度法の定義\">\n  <text x=\"170\" y=\"14\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">半径 1 の円では、弧の長さ ＝ 角の大きさ</text>\n  <circle cx=\"120\" cy=\"80\" r=\"46\" style=\"fill:none;stroke:currentColor;stroke-opacity:.3;stroke-width:1\"/>\n  <path d=\"M120,80 L166,80\" style=\"fill:none;stroke:var(--accent);stroke-width:1.6\"/>\n  <text x=\"143\" y=\"94\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">1</text>\n  <path d=\"M120,80 L96,41\" style=\"fill:none;stroke:var(--accent);stroke-width:1.6\"/>\n  <path d=\"M166,80 A46,46 0 0 0 96,41\" style=\"fill:none;stroke:var(--accent);stroke-width:3\"/>\n  <path d=\"M136,80 A16,16 0 0 0 128,66\" style=\"fill:none;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.2\"/>\n  <text x=\"142\" y=\"70\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">θ</text>\n  <text x=\"160\" y=\"36\" style=\"fill:var(--accent)\" font-size=\"8.5\" font-weight=\"700\">弧の長さ θ</text>\n  <rect x=\"212\" y=\"46\" width=\"118\" height=\"30\" rx=\"8\" style=\"fill:var(--accent);fill-opacity:.14;stroke:var(--accent);stroke-opacity:.5;stroke-width:1.3\"/>\n  <text x=\"271\" y=\"65\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">弧の長さ ＝ rθ</text>\n  <rect x=\"212\" y=\"84\" width=\"118\" height=\"30\" rx=\"8\" style=\"fill:var(--accent);fill-opacity:.2;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.3\"/>\n  <text x=\"271\" y=\"103\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">面積 ＝ (1／2)r²θ</text>\n  <text x=\"170\" y=\"134\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">度数法で必要な π／180 の係数が消える</text>\n</svg>\n<figcaption>角を実数として扱えるようになるのが、弧度法を導入する本当の理由である。</figcaption>\n</figure>\n\n<h2>4・三角関数の合成</h2>\n\n<p>2 種類の三角関数が混ざった式は、そのままでは扱えない。1 つにまとめる操作が<strong>合成</strong>である。</p>\n\n<p style=\"text-align:center\"><strong>a sin θ ＋ b cos θ ＝ √(a²＋b²) sin(θ＋α)</strong></p>\n\n<p>係数から作られる <b>√(a²＋b²)</b> が振幅になる。合成された正弦関数は －1 から 1 までの値をとるから、</p>\n\n<p style=\"text-align:center\"><strong>最大値 √(a²＋b²)、最小値 －√(a²＋b²)</strong></p>\n\n<p>が直ちに読み取れる。ただし θ に定義域の制限があれば、この値に到達できないこともある。三角方程式で sin θ と cos θ の両方が現れたら、<b>相互関係や 2 倍角で一方に統一する</b>か、<b>合成して 1 つにまとめる</b>——これが出発点になる。</p>\n\n<h2>まとめ</h2>\n\n<h3>弧度法とグラフ</h3>\n\n<table>\n  <tr><th>事がら</th><th>内容</th></tr>\n  <tr><td>180 度</td><td>π ラジアン</td></tr>\n  <tr><td>扇形</td><td>弧 rθ、面積 (1／2)r²θ</td></tr>\n  <tr><td>正弦・余弦の周期</td><td>2π</td></tr>\n  <tr><td>正接の周期</td><td>π（半分）</td></tr>\n  <tr><td>y ＝ a sin(bx)</td><td>振幅 a、周期 2π／b</td></tr>\n</table>\n\n<h3>加法定理とその応用</h3>\n\n<table>\n  <tr><th>公式</th><th>形</th></tr>\n  <tr><td>sin(α＋β)</td><td>sin α cos β ＋ cos α sin β</td></tr>\n  <tr><td>cos(α＋β)</td><td>cos α cos β <b>－</b> sin α sin β</td></tr>\n  <tr><td>sin 2α</td><td>2 sin α cos α</td></tr>\n  <tr><td>cos 2α</td><td>1 － 2sin²α など 3 通り</td></tr>\n  <tr><td>相互関係</td><td>1 ＋ tan²θ ＝ 1／cos²θ</td></tr>\n</table>\n\n<h3>合成</h3>\n\n<table>\n  <tr><th>事がら</th><th>内容</th></tr>\n  <tr><td>合成の形</td><td>√(a²＋b²) sin(θ＋α)</td></tr>\n  <tr><td>最大値・最小値</td><td>±√(a²＋b²)</td></tr>\n  <tr><td>使いどころ</td><td>2 種類の関数が混ざった式</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  三角方程式は、<b>1 つ解を見つけて終わりではない</b>。三角関数は周期的なので、同じ値をとる角が複数存在する。sin θ ＝ 1／2 なら、0 以上 2π 未満の範囲に <b>π／6 と 5π／6 の 2 つ</b>の解がある。<b>単位円を描いて、条件を満たす点が何個あるかを確かめる</b>習慣が欠かせない。\n</div>\n\n<blockquote>\n  <p>角度を測るために生まれた関数が、波を記述する言語になった。周期という一つの性質が、図形と自然現象を思いがけない場所で結びつけている。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "数学II ― 三角関数",
+  "cards": [
+    {
+      "recto": "半径 1 の円において、長さ 1 の弧に対する中心角を 1 とする角の表し方を何というか。",
+      "verso": "弧度法（単位はラジアン）",
+      "explanation": "度数法と違って角を実数として扱えるため、三角関数を関数として微分積分するときに不可欠になる。半径と弧の長さの比で定義される。",
+      "tags": [
+        "弧度法",
+        "定義"
+      ],
+      "distractors": {
+        "easy": [
+          "度数法",
+          "百分率",
+          "勾配"
+        ],
+        "medium": [
+          "象限による表し方",
+          "一般角の表し方",
+          "円周率による表し方"
+        ],
+        "hard": [
+          "グラード法",
+          "弧度法だが単位は度である",
+          "弧の長さそのものを角とする表し方とは別のもの"
+        ]
+      }
+    },
+    {
+      "recto": "180 度は弧度法では何ラジアンにあたるか。",
+      "verso": "π ラジアン",
+      "explanation": "半円の弧の長さが π であることによる。この対応を基準に、90 度は π／2、60 度は π／3 と換算できる。",
+      "tags": [
+        "弧度法",
+        "換算"
+      ],
+      "distractors": {
+        "easy": [
+          "2π ラジアン",
+          "π／2 ラジアン",
+          "1 ラジアン"
+        ],
+        "medium": [
+          "π／3 ラジアン",
+          "π／4 ラジアン",
+          "180 ラジアン"
+        ],
+        "hard": [
+          "3π／2 ラジアン",
+          "π／180 ラジアン",
+          "π² ラジアン"
+        ]
+      }
+    },
+    {
+      "recto": "半径 r、中心角 θ（弧度法）の扇形について、弧の長さと面積はそれぞれどう表されるか。",
+      "verso": "弧の長さは rθ、面積は (1／2)r²θ",
+      "explanation": "度数法のときのような π／180 の係数が不要になる。弧度法を使う実用上の利点がここに現れる。",
+      "tags": [
+        "弧度法",
+        "扇形"
+      ],
+      "distractors": {
+        "easy": [
+          "弧の長さは rθ、面積は rθ",
+          "弧の長さは r²θ、面積は rθ",
+          "弧の長さは 2rθ、面積は r²θ"
+        ],
+        "medium": [
+          "弧の長さは rθ、面積は (1／2)rθ",
+          "弧の長さは rθ、面積は πr²θ",
+          "弧の長さは θ／r、面積は r²θ／2"
+        ],
+        "hard": [
+          "弧の長さは rθ、面積は (1／2)r²θ² ",
+          "弧の長さは rθ／2、面積は r²θ",
+          "弧の長さは rθ、面積は (1／3)r²θ"
+        ]
+      }
+    },
+    {
+      "recto": "正弦関数と余弦関数の周期はいくらか。",
+      "verso": "2π",
+      "explanation": "単位円を 1 周すると元の値に戻るためである。正接関数だけは周期が π であり、半分の周期で繰り返す点が異なる。",
+      "tags": [
+        "グラフ",
+        "周期"
+      ],
+      "distractors": {
+        "easy": [
+          "π",
+          "π／2",
+          "1"
+        ],
+        "medium": [
+          "4π",
+          "π／4",
+          "360"
+        ],
+        "hard": [
+          "正弦は 2π だが余弦は π である",
+          "3π",
+          "周期は定義できない"
+        ]
+      }
+    },
+    {
+      "recto": "正接関数の周期は、正弦・余弦と比べてどうなっているか。",
+      "verso": "π であり、正弦・余弦の半分である",
+      "explanation": "正接は正弦を余弦で割った値なので、両方の符号が同時に反転すると値が元に戻るためである。この違いは方程式の解の個数にも影響する。",
+      "tags": [
+        "グラフ",
+        "周期"
+      ],
+      "distractors": {
+        "easy": [
+          "2π であり、正弦・余弦と同じである",
+          "4π であり、正弦・余弦の 2 倍である",
+          "周期をもたない"
+        ],
+        "medium": [
+          "π／2 であり、正弦・余弦の 4 分の 1 である",
+          "2π だが不連続な点がある",
+          "π だが正弦・余弦の 2 倍である"
+        ],
+        "hard": [
+          "π であり、正弦・余弦と同じである",
+          "周期は π だが定義域による",
+          "π／4 である"
+        ]
+      }
+    },
+    {
+      "recto": "y ＝ a sin(bx) のグラフは、y ＝ sin x に対してどのように変化するか。",
+      "verso": "a によって y 方向に a 倍に拡大され、b によって x 方向に 1／b 倍に縮められ、周期は 2π／b になる",
+      "explanation": "x にかかる係数は、グラフを横方向に縮める働きをする。b 倍ではなく 1／b 倍である点が、最も間違えやすい箇所である。",
+      "tags": [
+        "グラフ",
+        "変換"
+      ],
+      "distractors": {
+        "easy": [
+          "a 倍に縦に拡大され、b 倍に横に拡大される",
+          "どちらも縦方向にだけ影響する",
+          "グラフは変化しない"
+        ],
+        "medium": [
+          "周期は 2πb になる",
+          "a によって周期が変わる",
+          "b によって振幅が変わる"
+        ],
+        "hard": [
+          "x 方向に b 倍に拡大され、周期は 2π／b になる",
+          "周期は 2π のまま変わらない",
+          "a が負のときは周期も負になる"
+        ]
+      }
+    },
+    {
+      "recto": "正弦の加法定理は、どのような式で表されるか。",
+      "verso": "sin(α＋β) ＝ sin α cos β ＋ cos α sin β",
+      "explanation": "正弦どうし・余弦どうしを掛けるのではなく、交差して掛ける形になる。差の場合は右辺の符号が負に変わる。",
+      "tags": [
+        "加法定理",
+        "公式"
+      ],
+      "distractors": {
+        "easy": [
+          "sin α ＋ sin β",
+          "sin α sin β ＋ cos α cos β",
+          "sin α cos α ＋ sin β cos β"
+        ],
+        "medium": [
+          "sin α cos β － cos α sin β",
+          "cos α cos β ＋ sin α sin β",
+          "sin α sin β ＋ cos α cos β の 2 倍"
+        ],
+        "hard": [
+          "sin α cos β ＋ sin α cos β",
+          "cos α sin β ＋ cos β sin α の半分",
+          "sin(α)＋sin(β) を 2 で割った値"
+        ]
+      }
+    },
+    {
+      "recto": "余弦の加法定理は、どのような式で表されるか。",
+      "verso": "cos(α＋β) ＝ cos α cos β － sin α sin β",
+      "explanation": "正弦の場合と違い、和の加法定理で符号が負になる。この符号の入れ替わりが、正弦と余弦で最も混同されやすい点である。",
+      "tags": [
+        "加法定理",
+        "公式"
+      ],
+      "distractors": {
+        "easy": [
+          "cos α ＋ cos β",
+          "cos α cos β ＋ sin α sin β",
+          "cos α sin β － sin α cos β"
+        ],
+        "medium": [
+          "sin α cos β － cos α sin β",
+          "cos α cos β － cos α cos β",
+          "cos α cos β ＋ cos α sin β"
+        ],
+        "hard": [
+          "cos α cos β － 2 sin α sin β",
+          "sin α sin β － cos α cos β",
+          "cos(α)cos(β) を 2 で割った値"
+        ]
+      }
+    },
+    {
+      "recto": "加法定理で α ＝ β とすると得られる、角を 2 倍にする公式を何というか。",
+      "verso": "2 倍角の公式",
+      "explanation": "sin 2α ＝ 2 sin α cos α、cos 2α ＝ cos²α － sin²α などが得られる。新たに覚えるのではなく、加法定理から導けることを知っておきたい。",
+      "tags": [
+        "加法定理",
+        "応用"
+      ],
+      "distractors": {
+        "easy": [
+          "半角の公式",
+          "和積の公式",
+          "合成の公式"
+        ],
+        "medium": [
+          "3 倍角の公式",
+          "積和の公式",
+          "相互関係の公式"
+        ],
+        "hard": [
+          "2 倍角の公式だが加法定理からは導けない",
+          "余弦定理",
+          "周期の公式"
+        ]
+      }
+    },
+    {
+      "recto": "cos 2α には 3 通りの表し方があるが、そのうち sin α だけで表した形はどうなるか。",
+      "verso": "1 － 2sin²α",
+      "explanation": "相互関係 sin²α＋cos²α ＝ 1 を使って書き換えたものである。積分や方程式では、どの形に直すと都合がよいかを選ぶことが要点になる。",
+      "tags": [
+        "加法定理",
+        "応用"
+      ],
+      "distractors": {
+        "easy": [
+          "2sin²α － 1",
+          "1 ＋ 2sin²α",
+          "2sin α"
+        ],
+        "medium": [
+          "2cos²α － 1",
+          "1 － sin²α",
+          "1 － 2cos²α"
+        ],
+        "hard": [
+          "1 － 2sin α",
+          "2 － sin²α",
+          "sin²α － 1"
+        ]
+      }
+    },
+    {
+      "recto": "a sin θ ＋ b cos θ を 1 つの三角関数にまとめることを何といい、どのような形になるか。",
+      "verso": "三角関数の合成といい、√(a²＋b²) sin(θ＋α) の形になる",
+      "explanation": "係数から作られる √(a²＋b²) が振幅にあたる。この変形によって、最大値・最小値や方程式の解が直ちに読み取れるようになる。",
+      "tags": [
+        "合成",
+        "定義"
+      ],
+      "distractors": {
+        "easy": [
+          "加法定理といい、(a＋b) sin θ の形になる",
+          "合成といい、(a＋b) sin(θ＋α) の形になる",
+          "2 倍角といい、2ab sin θ の形になる"
+        ],
+        "medium": [
+          "合成といい、√(a＋b) sin(θ＋α) の形になる",
+          "合成といい、(a²＋b²) sin(θ＋α) の形になる",
+          "合成といい、√(a²－b²) sin(θ＋α) の形になる"
+        ],
+        "hard": [
+          "合成といい、√(a²＋b²) sin(θα) の形になる",
+          "合成といい、√(a²＋b²) cos(θ＋α) にしか変形できない",
+          "合成といい、振幅は a と b の大きいほうになる"
+        ]
+      }
+    },
+    {
+      "recto": "三角関数の合成を用いると、a sin θ ＋ b cos θ の最大値と最小値はいくらになるか。",
+      "verso": "最大値は √(a²＋b²)、最小値は －√(a²＋b²)",
+      "explanation": "合成後の正弦関数が －1 から 1 までの値をとることによる。ただし θ に定義域の制限がある場合は、この値に到達できないこともある。",
+      "tags": [
+        "合成",
+        "最大最小"
+      ],
+      "distractors": {
+        "easy": [
+          "最大値は a＋b、最小値は －(a＋b)",
+          "最大値は 1、最小値は －1",
+          "最大値は a²＋b²、最小値は 0"
+        ],
+        "medium": [
+          "最大値は √(a²＋b²)、最小値は 0",
+          "最大値は 2√(a²＋b²)、最小値は －2√(a²＋b²)",
+          "最大値は a と b の大きいほう"
+        ],
+        "hard": [
+          "最大値は √(a²＋b²) だが定義域によらず必ず到達する",
+          "最大値は √(a＋b)、最小値は －√(a＋b)",
+          "最大値と最小値は α の値によって変わる"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】三角関数の方程式と不等式は、単位円を使うときどう扱いが違うか。",
+      "verso": "方程式は単位円上で条件を満たす点そのものを求めるのに対し、不等式はその条件を満たす弧の範囲を求める",
+      "explanation": "点を求めるか範囲を求めるかという違いである。不等式では、範囲が 0 から 2π のどこにあたるかを単位円上で読み取ることが要点になる。",
+      "tags": [
+        "comparaison",
+        "方程式"
+      ],
+      "distractors": {
+        "easy": [
+          "両者に違いはない",
+          "どちらも点を求める",
+          "どちらも範囲を求める"
+        ],
+        "medium": [
+          "方程式が範囲、不等式が点を求める",
+          "違いは周期を考えるかどうかである",
+          "違いは弧度法を使うかどうかである"
+        ],
+        "hard": [
+          "不等式では単位円は使えない",
+          "方程式では解が必ず 1 つに定まる",
+          "違いはグラフを描くかどうかだけである"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】三角方程式 sin θ ＝ 1／2 を解くとき、θ ＝ π／6 とだけ答えてよいか。",
+      "verso": "いいえ。指定された範囲内にある解をすべて求める必要があり、範囲が 0 以上 2π 未満なら 5π／6 も解になる",
+      "explanation": "よくある誤りである。三角関数は周期的なため、同じ値をとる角が複数存在する。単位円を描いて、条件を満たす点が何個あるかを確かめる習慣が欠かせない。",
+      "tags": [
+        "piege",
+        "方程式"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。解は 1 つに定まる",
+          "はい。最小の角を答えればよいから",
+          "はい。三角関数は 1 対 1 の対応だから"
+        ],
+        "medium": [
+          "はい。ただし範囲が指定されていない場合に限るから",
+          "はい。5π／6 では値が －1／2 になるから",
+          "いいえ。解は必ず 4 個あるから"
+        ],
+        "hard": [
+          "はい。周期を足した角は同じ解とみなすから",
+          "いいえ。π／6 は解ではないから",
+          "はい。正弦は単調増加だから"
+        ]
+      }
+    },
+    {
+      "recto": "三角関数を含む方程式で、sin θ と cos θ の両方が現れるとき、どのような方針が有効か。",
+      "verso": "相互関係や 2 倍角の公式を使って一方の関数に統一する、または合成して 1 つの三角関数にまとめる",
+      "explanation": "2 種類の関数が混在したままでは解けない。どちらか一方に揃えるという方針が、三角方程式を解く際の出発点になる。",
+      "tags": [
+        "方程式",
+        "手法"
+      ],
+      "distractors": {
+        "easy": [
+          "両方をそのまま残して計算する",
+          "sin θ と cos θ を等しいとおく",
+          "両辺を 2 乗すれば必ず解ける"
+        ],
+        "medium": [
+          "どちらか一方を 0 とおく",
+          "両辺を sin θ で割る（場合分けなし）",
+          "加法定理だけで必ず解ける"
+        ],
+        "hard": [
+          "両方を tan θ に統一するのが唯一の方法である",
+          "統一せずにグラフだけで判断する",
+          "定義域を無視して考える"
+        ]
+      }
+    },
+    {
+      "recto": "y ＝ sin θ のグラフと y ＝ cos θ のグラフの間には、どのような関係があるか。",
+      "verso": "余弦のグラフは、正弦のグラフを x 軸方向に －π／2 だけ平行移動したものになる",
+      "explanation": "cos θ ＝ sin(θ＋π／2) が成り立つためである。形はまったく同じで、位置だけがずれている関係にある。",
+      "tags": [
+        "グラフ",
+        "関係"
+      ],
+      "distractors": {
+        "easy": [
+          "まったく別の形をしている",
+          "上下が反転している",
+          "余弦は正弦の 2 倍の振幅をもつ"
+        ],
+        "medium": [
+          "x 軸方向に π／2 だけ平行移動したものになる",
+          "y 軸方向に π／2 だけ平行移動したものになる",
+          "x 軸方向に π だけ平行移動したものになる"
+        ],
+        "hard": [
+          "x 軸方向に －π だけ平行移動したものになる",
+          "原点に関して対称である",
+          "周期が異なるため重ならない"
+        ]
+      }
+    },
+    {
+      "recto": "三角関数の相互関係のうち、正接と余弦を結ぶ関係式はどう表されるか。",
+      "verso": "1 ＋ tan²θ ＝ 1／cos²θ",
+      "explanation": "sin²θ＋cos²θ ＝ 1 の両辺を cos²θ で割ると得られる。正接の値から余弦の値を求める際に用いる。",
+      "tags": [
+        "相互関係",
+        "公式"
+      ],
+      "distractors": {
+        "easy": [
+          "tan θ ＝ sin θ ＋ cos θ",
+          "1 － tan²θ ＝ 1／cos²θ",
+          "tan²θ ＝ 1／cos²θ"
+        ],
+        "medium": [
+          "1 ＋ tan²θ ＝ 1／sin²θ",
+          "1 ＋ tan²θ ＝ cos²θ",
+          "1 ＋ cos²θ ＝ 1／tan²θ"
+        ],
+        "hard": [
+          "1 ＋ tan²θ ＝ 2／cos²θ",
+          "1 ＋ tan²θ ＝ 1／cos θ",
+          "この関係は鋭角のときだけ成り立つ"
+        ]
+      }
+    },
+    {
+      "recto": "三角関数が、波や振動の現象を表すのに適しているのはなぜか。",
+      "verso": "一定の周期で同じ値を繰り返すという性質が、周期的に変化する現象の構造と一致するから",
+      "explanation": "音や交流電流、潮の満ち引きなどが三角関数で表される。角度を測るための道具として生まれた関数が、周期現象を記述する言語になった例である。",
+      "tags": [
+        "応用",
+        "意義"
+      ],
+      "distractors": {
+        "easy": [
+          "計算が簡単だから",
+          "グラフが直線になるから",
+          "特に理由はない"
+        ],
+        "medium": [
+          "値が必ず正になるから",
+          "周期をもたないから",
+          "角度を測るためだけの関数だから"
+        ],
+        "hard": [
+          "すべての関数が三角関数で表せるから",
+          "波の現象は周期的ではないが近似できるから",
+          "三角比の定義がそのまま波を表すから"
+        ]
+      }
+    },
+    {
+      "recto": "θ が第 2 象限の角であるとき、正弦・余弦・正接の符号はそれぞれどうなるか。",
+      "verso": "正弦は正、余弦は負、正接は負",
+      "explanation": "単位円上の点の座標から決まる。第 2 象限では x 座標が負、y 座標が正なので、両者の比である正接は負になる。",
+      "tags": [
+        "三角関数",
+        "符号"
+      ],
+      "distractors": {
+        "easy": [
+          "すべて正",
+          "すべて負",
+          "正弦は負、余弦は正、正接は正"
+        ],
+        "medium": [
+          "正弦は正、余弦は負、正接は正",
+          "正弦は負、余弦は負、正接は正",
+          "正弦は正、余弦は正、正接は負"
+        ],
+        "hard": [
+          "正弦は正、余弦は 0、正接は定義できない",
+          "符号は角度の大きさによって変わる",
+          "第 2 象限では正接だけが定義される"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、三角関数の学習はどのように整理できるか。",
+      "verso": "角を実数として扱う弧度法を土台に、周期関数としてのグラフを読み、加法定理と合成によって式を扱いやすい形に変えられるようにすること",
+      "explanation": "三角比が図形を測る道具だったのに対し、三角関数は周期現象を記述する言語である。式変形の目的は、つねに「見やすい形にする」ことにある。",
+      "tags": [
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "公式を暗記するだけの単元であること",
+          "図形の角度を測るだけの単元であること",
+          "特に整理できない"
+        ],
+        "medium": [
+          "弧度法は度数法の言い換えにすぎないこと",
+          "加法定理は暗記するしかないこと",
+          "グラフは補助にすぎないこと"
+        ],
+        "hard": [
+          "合成は最大最小には使えないこと",
+          "周期性は方程式の解の個数に影響しないこと",
+          "三角関数は図形以外には応用できないこと"
+        ]
+      }
+    }
+  ]
+}

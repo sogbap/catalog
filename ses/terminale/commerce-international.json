@@ -1,0 +1,640 @@
+{
+  "id": "ses-terminale-commerce-international",
+  "title": "Les fondements du commerce international",
+  "emoji": "🚢",
+  "subject": "ses",
+  "country": "fr",
+  "courseDescription": "Spé SES · Terminale — avantages comparatifs et dotations factorielles, commerce intrabranche, internationalisation de la production, compétitivité, gagnants et perdants, protectionnisme.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Les fondements du commerce international</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · spécialité SES<br>\n  <b>Thème&nbsp;:</b> Science économique — chapitre 2<br>\n  <b>Chapitre</b> · environ 4 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> Pourquoi des pays échangent-ils, et pourquoi cet échange fait-il débat&nbsp;?</p></blockquote>\n\n<p>Un pays qui produit tout moins bien que ses voisins a-t-il quelque chose à gagner à commercer&nbsp;? L'intuition dit non&nbsp;; l'économie répond oui, et cette réponse est le point de départ du chapitre. Mais expliquer <em>pourquoi</em> l'échange est globalement avantageux ne suffit pas&nbsp;: il faut aussi comprendre pourquoi la France et l'Allemagne s'échangent des voitures plutôt que des produits différents, pourquoi un smartphone traverse dix frontières avant d'être vendu, et pourquoi un gain collectif peut coexister avec des <strong>pertes très concentrées</strong> qui nourrissent la contestation du libre-échange.</p>\n\n<h2>1 · Pourquoi les pays échangent-ils&nbsp;?</h2>\n\n<p><strong>Adam Smith</strong> raisonne en <strong>avantages absolus</strong>&nbsp;: chaque pays se spécialise là où il produit avec le moins de facteurs. Cette explication bute sur un cas simple — que faire d'un pays moins efficace <em>partout</em>&nbsp;?</p>\n\n<div class=\"callout\">\n  <strong>Notion · Avantage comparatif (David Ricardo)</strong><br>\n  Un pays a intérêt à se spécialiser dans la production où son <em>avantage est le plus fort</em>, ou son <em>désavantage le plus faible</em>&nbsp;— même s'il n'a aucun avantage absolu. Le raisonnement porte sur les <strong>coûts d'opportunité</strong>&nbsp;: ce à quoi l'on renonce en produisant un bien plutôt qu'un autre.\n</div>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Illustration de l'avantage comparatif : un pays A moins efficace que le pays B dans les deux productions conserve un avantage comparatif dans celle où son désavantage est le plus faible, si bien que les deux pays gagnent à se spécialiser et à échanger\">\n    <text x=\"8\" y=\"16\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Heures de travail pour une unité</text>\n    <line x1=\"8\" y1=\"24\" x2=\"332\" y2=\"24\" stroke=\"currentColor\" stroke-opacity=\".25\"/>\n    <text x=\"120\" y=\"40\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">drap</text>\n    <text x=\"230\" y=\"40\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">vin</text>\n    <text x=\"8\" y=\"64\" font-size=\"10\" fill=\"currentColor\">pays A</text>\n    <rect x=\"86\" y=\"50\" width=\"68\" height=\"20\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"120\" y=\"64\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">100</text>\n    <rect x=\"196\" y=\"50\" width=\"68\" height=\"20\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".25\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"230\" y=\"64\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">120</text>\n    <text x=\"8\" y=\"94\" font-size=\"10\" fill=\"currentColor\">pays B</text>\n    <rect x=\"86\" y=\"80\" width=\"68\" height=\"20\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".25\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"120\" y=\"94\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">90</text>\n    <rect x=\"196\" y=\"80\" width=\"68\" height=\"20\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"230\" y=\"94\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">80</text>\n    <text x=\"276\" y=\"64\" font-size=\"9\" class=\"s-muted\">moins bon</text>\n    <text x=\"276\" y=\"94\" font-size=\"9\" class=\"s-muted\">partout</text>\n    <line x1=\"8\" y1=\"112\" x2=\"332\" y2=\"112\" stroke=\"currentColor\" stroke-opacity=\".25\"/>\n    <text x=\"8\" y=\"130\" font-size=\"9\" fill=\"currentColor\">Le pays A est moins efficace dans les deux productions.</text>\n    <text x=\"8\" y=\"144\" font-size=\"9\" fill=\"currentColor\">Mais son retard est plus faible sur le drap que sur le vin :</text>\n    <text x=\"8\" y=\"160\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">il se spécialise dans le drap, B dans le vin, et les deux y gagnent.</text>\n    <text x=\"8\" y=\"180\" font-size=\"9\" class=\"s-muted\">Ce qui compte : le coût d'opportunité, jamais la performance brute.</text>\n  </svg>\n  <figcaption>Le résultat le plus contre-intuitif du programme&nbsp;— et la confusion la plus fréquente en copie.</figcaption>\n</figure>\n\n<p>Reste à expliquer <em>d'où viennent</em> ces avantages comparatifs. La théorie des <strong>dotations factorielles</strong> répond&nbsp;: un pays exporte les biens dont la production utilise intensivement le facteur dont il est relativement le mieux doté — travail qualifié ou non, capital, ressources naturelles, terres. Un pays richement doté en main-d'œuvre exporte des biens intensifs en travail&nbsp;; un pays doté en capital, des biens intensifs en capital.</p>\n\n<h2>2 · Le commerce entre pays semblables</h2>\n\n<p>Cette explication a une limite empirique majeure&nbsp;: l'essentiel du commerce mondial se fait <strong>entre pays développés comparables</strong>, et porte sur des produits de la <em>même branche</em>. La France exporte et importe des voitures.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 180\" role=\"img\" aria-label=\"Comparaison du commerce interbranche et du commerce intrabranche : le premier échange des produits de branches différentes entre pays aux dotations contrastées, le second échange des variétés d'une même branche entre pays comparables grâce à la différenciation des produits et aux économies d'échelle\">\n    <rect x=\"8\" y=\"14\" width=\"156\" height=\"132\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"86\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">interbranche</text>\n    <text x=\"86\" y=\"56\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">branches différentes</text>\n    <text x=\"86\" y=\"74\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">textile contre machines</text>\n    <text x=\"86\" y=\"98\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">entre pays aux</text>\n    <text x=\"86\" y=\"110\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">dotations contrastées</text>\n    <text x=\"86\" y=\"134\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">dotations factorielles</text>\n    <rect x=\"176\" y=\"14\" width=\"156\" height=\"132\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"254\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">intrabranche</text>\n    <text x=\"254\" y=\"56\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">même branche</text>\n    <text x=\"254\" y=\"74\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">voitures contre voitures</text>\n    <text x=\"254\" y=\"98\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">entre pays</text>\n    <text x=\"254\" y=\"110\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">comparables</text>\n    <text x=\"254\" y=\"128\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">différenciation</text>\n    <text x=\"254\" y=\"140\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">et économies d'échelle</text>\n    <text x=\"170\" y=\"168\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Le commerce intrabranche domine aujourd'hui les échanges entre pays développés.</text>\n  </svg>\n  <figcaption>Deux logiques distinctes&nbsp;: les dotations expliquent une chose, la différenciation en explique une autre.</figcaption>\n</figure>\n\n<p>Deux mécanismes rendent compte de ce <strong>commerce intrabranche</strong>&nbsp;:</p>\n\n<ul>\n  <li>la <strong>différenciation des produits</strong> — proposer des variétés distinctes d'un même bien (qualité, design, marque, caractéristiques techniques) répond à la diversité des goûts&nbsp;;</li>\n  <li>les <strong>économies d'échelle</strong> — le coût unitaire baisse quand les quantités augmentent, ce qui pousse les entreprises à viser un marché plus vaste que leur marché national.</li>\n</ul>\n\n<p>Sur ces marchés, la position d'un pays dépend de sa <strong>compétitivité</strong>. La compétitivité <em>prix</em> repose sur des prix plus bas&nbsp;; la compétitivité <em>hors-prix</em>, sur la qualité, l'innovation, l'image, les délais. Un pays à coûts salariaux élevés ne peut pas durablement l'emporter sur les prix&nbsp;: sa position dépend de sa capacité à <strong>monter en gamme</strong>, ce qui suppose des investissements de long terme dans la recherche et la formation.</p>\n\n<h2>3 · L'internationalisation de la production</h2>\n\n<p>Les pays ne se spécialisent plus seulement dans des <em>produits</em>, mais dans des <strong>tâches</strong>. Un processus productif se décompose en segments répartis entre plusieurs pays&nbsp;: c'est la <strong>chaîne de valeur mondiale</strong>.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Chaîne de valeur mondiale d'un produit : conception dans un pays développé, composants dans un pays intermédiaire, assemblage dans un pays à bas coûts, puis commercialisation dans les pays de consommation ; la valeur ajoutée est faible au stade de l'assemblage et forte aux deux extrémités\">\n    <rect x=\"6\" y=\"30\" width=\"72\" height=\"40\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".25\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"42\" y=\"47\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">conception</text>\n    <text x=\"42\" y=\"60\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">R&amp;D, design</text>\n    <line x1=\"80\" y1=\"50\" x2=\"94\" y2=\"50\" stroke=\"var(--accent)\" stroke-opacity=\".55\" marker-end=\"url(#ar-sesci1)\"/>\n    <rect x=\"98\" y=\"30\" width=\"72\" height=\"40\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".14\" stroke=\"var(--accent)\" stroke-opacity=\".45\"/>\n    <text x=\"134\" y=\"47\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">composants</text>\n    <text x=\"134\" y=\"60\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">pays intermédiaires</text>\n    <line x1=\"172\" y1=\"50\" x2=\"186\" y2=\"50\" stroke=\"var(--accent)\" stroke-opacity=\".55\" marker-end=\"url(#ar-sesci1)\"/>\n    <rect x=\"190\" y=\"30\" width=\"66\" height=\"40\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".08\" stroke=\"var(--accent)\" stroke-opacity=\".35\"/>\n    <text x=\"223\" y=\"47\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">assemblage</text>\n    <text x=\"223\" y=\"60\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">bas coûts</text>\n    <line x1=\"258\" y1=\"50\" x2=\"272\" y2=\"50\" stroke=\"var(--accent)\" stroke-opacity=\".55\" marker-end=\"url(#ar-sesci1)\"/>\n    <rect x=\"276\" y=\"30\" width=\"58\" height=\"40\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".25\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"305\" y=\"47\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">marque</text>\n    <text x=\"305\" y=\"60\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">et vente</text>\n    <path d=\"M42 92 C110 92 130 122 180 122 C230 122 250 92 305 92\" fill=\"none\" stroke=\"var(--accent)\" stroke-opacity=\".6\" stroke-width=\"2\"/>\n    <text x=\"8\" y=\"90\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">valeur ajoutée</text>\n    <text x=\"150\" y=\"140\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">forte aux extrémités, faible au milieu</text>\n    <text x=\"8\" y=\"164\" font-size=\"9\" fill=\"currentColor\">Un composant compté à chaque passage en douane gonfle les statistiques d'échanges.</text>\n    <defs>\n      <marker id=\"ar-sesci1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n  </svg>\n  <figcaption>La «&nbsp;courbe du sourire&nbsp;»&nbsp;: le segment le plus visible est le moins rémunérateur.</figcaption>\n</figure>\n\n<p>Ces chaînes sont organisées par les <strong>firmes multinationales</strong>, entreprises possédant au moins une unité de production hors de leur pays d'origine — le critère est la <em>propriété</em> d'implantations à l'étranger, non le simple fait d'exporter. Leur vecteur est l'<strong>investissement direct à l'étranger</strong>, prise de contrôle durable d'une unité étrangère par création ou par rachat, à distinguer du placement financier sans intention de contrôle.</p>\n\n<p>Attention à une simplification courante&nbsp;: toutes les implantations à l'étranger ne sont pas des <em>délocalisations</em> à la recherche de bas salaires. Beaucoup visent l'<strong>accès à un marché</strong>, la proximité de ressources ou de compétences, ou le contournement de barrières commerciales.</p>\n\n<p>Cette fragmentation explique aussi pourquoi les échanges ont crû plus vite que la production&nbsp;: outre la baisse des coûts de transport et le démantèlement des barrières, <strong>un même composant est compté à chaque passage de frontière</strong>. Une part de la croissance du commerce mesuré reflète une réorganisation, pas une hausse réelle des flux.</p>\n\n<h2>4 · Gagnants, perdants et protectionnisme</h2>\n\n<p>Pour les consommateurs, l'ouverture apporte des <strong>prix plus bas</strong> et une <strong>variété accrue</strong>. Mais ces gains sont <em>diffus</em>, répartis sur des millions de personnes, tandis que les pertes sont <em>concentrées</em> sur des secteurs, des qualifications et des territoires précis. Cette asymétrie de visibilité explique une bonne part du débat public.</p>\n\n<p>À l'échelle mondiale, deux mouvements simultanés sont souvent confondus&nbsp;: l'insertion dans le commerce a permis à des pays émergents de <strong>rattraper</strong> une partie de leur retard (convergence <em>entre</em> pays), tandis que dans les pays développés, les travailleurs peu qualifiés des secteurs exposés ont vu leur position se dégrader (divergence <em>à l'intérieur</em> des pays).</p>\n\n<h3>Le protectionnisme</h3>\n\n<p>Le <strong>protectionnisme</strong> désigne les politiques limitant les importations pour protéger la production nationale. Ses instruments&nbsp;: <em>droits de douane</em> (qui renchérissent), <em>quotas</em> (qui limitent les quantités), <em>normes et barrières non tarifaires</em> (qui compliquent l'accès) — devenues les plus fréquentes depuis que les droits de douane ont fortement baissé — et <em>subventions</em> aux producteurs nationaux.</p>\n\n<p>L'argument le plus solide en sa faveur est celui de l'<strong>industrie naissante</strong>&nbsp;: une industrie nouvelle doit être temporairement protégée le temps d'atteindre la taille et la productivité nécessaires. Sa faiblesse est pratique&nbsp;— la protection accordée se prolonge presque toujours au-delà de la période utile.</p>\n\n<p>Les coûts, eux, sont bien documentés&nbsp;: renchérissement pour les consommateurs <em>et</em> pour les entreprises nationales qui importent des composants, perte d'incitation à innover, et risque de <strong>représailles</strong> dont la spirale peut réduire les échanges bien au-delà de la mesure initiale.</p>\n\n<p>D'où une troisième voie&nbsp;: accompagner l'ouverture plutôt que la refuser — formation et reconversion des travailleurs exposés, protection sociale, soutien aux territoires touchés. Ces politiques ne remettent pas en cause l'échange&nbsp;: elles en <strong>redistribuent les gains</strong> vers ceux qui en supportent les coûts.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Le raisonnement du chapitre</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Frise du raisonnement du chapitre : expliquer l'échange par l'avantage comparatif, en chercher l'origine dans les dotations factorielles, expliquer le commerce entre pays semblables par la différenciation et les économies d'échelle, décrire la fragmentation de la production, puis analyser la répartition des gains et le débat sur le protectionnisme\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"176\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">1. Pourquoi échanger ?</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Avantage comparatif, coût d'opportunité</text>\n    <circle cx=\"26\" cy=\"60\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"57\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">2. D'où vient l'avantage ?</text>\n    <text x=\"44\" y=\"70\" font-size=\"10\" fill=\"currentColor\">Dotations factorielles</text>\n    <circle cx=\"26\" cy=\"100\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"97\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">3. Et entre pays semblables ?</text>\n    <text x=\"44\" y=\"110\" font-size=\"10\" fill=\"currentColor\">Différenciation, économies d'échelle</text>\n    <circle cx=\"26\" cy=\"140\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"137\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">4. Qui produit quoi ?</text>\n    <text x=\"44\" y=\"150\" font-size=\"10\" fill=\"currentColor\">Chaînes de valeur, firmes, IDE</text>\n    <circle cx=\"26\" cy=\"176\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"173\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">5. Qui gagne, qui perd ?</text>\n    <text x=\"44\" y=\"186\" font-size=\"10\" fill=\"currentColor\">Répartition, protectionnisme, accompagnement</text>\n  </svg>\n  <figcaption>Les questions 1 à 3 expliquent l'échange&nbsp;; les questions 4 et 5 en discutent les effets.</figcaption>\n</figure>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition en une ligne</th></tr>\n  <tr><td>Avantage comparatif</td><td>Spécialisation selon les coûts d'opportunité</td></tr>\n  <tr><td>Dotation factorielle</td><td>Quantité de facteurs dont un pays dispose</td></tr>\n  <tr><td>Commerce intrabranche</td><td>Échange de variétés d'une même branche</td></tr>\n  <tr><td>Économies d'échelle</td><td>Baisse du coût unitaire avec les quantités</td></tr>\n  <tr><td>Chaîne de valeur mondiale</td><td>Production fragmentée entre plusieurs pays</td></tr>\n  <tr><td>Investissement direct à l'étranger</td><td>Prise de contrôle durable d'une unité étrangère</td></tr>\n</table>\n\n<h3>Auteurs et théories</h3>\n\n<table>\n  <tr><th>Référence</th><th>Apport</th></tr>\n  <tr><td>Adam Smith</td><td>Avantages absolus, division internationale du travail</td></tr>\n  <tr><td>David Ricardo</td><td>Avantages comparatifs, gains à l'échange dans tous les cas</td></tr>\n  <tr><td>Théorie des dotations factorielles</td><td>Origine des avantages comparatifs</td></tr>\n  <tr><td>Nouvelles théories du commerce</td><td>Différenciation, économies d'échelle, intrabranche</td></tr>\n  <tr><td>Argument de l'industrie naissante</td><td>Protection temporaire d'un secteur émergent</td></tr>\n</table>\n\n<h3>Mécanismes à savoir rédiger</h3>\n\n<table>\n  <tr><th>Enchaînement</th><th>Étapes</th></tr>\n  <tr><td>Gains à l'échange</td><td>Spécialisation → productivité → prix plus bas → pouvoir d'achat</td></tr>\n  <tr><td>Commerce intrabranche</td><td>Économies d'échelle → grandes séries → exportation → variétés échangées</td></tr>\n  <tr><td>Fragmentation</td><td>Baisse des coûts de transport → découpage en tâches → hausse mesurée des flux</td></tr>\n  <tr><td>Perdants de l'ouverture</td><td>Concurrence → fermeture de sites → chômage localisé → contestation</td></tr>\n  <tr><td>Spirale protectionniste</td><td>Droits de douane → représailles → contraction des échanges</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Raisonner en <strong>avantages absolus</strong> là où le programme demande des <strong>avantages comparatifs</strong>. Un pays moins efficace dans <em>toutes</em> les productions gagne pourtant à l'échange, parce qu'il conserve toujours une production où son désavantage est le moindre&nbsp;: ce qui compte est le coût d'opportunité, jamais la performance brute. Deux erreurs voisines&nbsp;: expliquer par les dotations factorielles le commerce entre pays développés, qui relève de la différenciation et des économies d'échelle&nbsp;; et assimiler toute implantation à l'étranger à une <em>délocalisation</em>, alors que beaucoup visent l'accès au marché local.\n</div>\n\n<blockquote><p>Le libre-échange enrichit globalement et appauvrit localement. Tout le débat politique tient dans cet écart&nbsp;: un gain que personne ne voit, des pertes que tout le monde voit.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Spécialité SES — Science économique",
+  "cards": [
+    {
+      "recto": "Qu'appelle-t-on un avantage absolu, au sens d'Adam Smith ?",
+      "verso": "La capacité d'un pays à produire un bien avec moins de facteurs de production que ses partenaires",
+      "explanation": "Selon cette approche, chaque pays se spécialise là où il est le plus efficace en termes absolus. Elle laisse toutefois sans réponse le cas d'un pays moins efficace partout, auquel Ricardo répondra.",
+      "tags": [
+        "Smith",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "La capacité d'un pays à exporter davantage qu'il n'importe",
+          "La capacité d'un pays à fixer les prix mondiaux",
+          "La capacité d'un pays à produire tous les biens dont il a besoin"
+        ],
+        "medium": [
+          "La capacité d'un pays à produire un bien à un coût d'opportunité plus faible",
+          "La capacité d'un pays à disposer d'une main-d'œuvre plus nombreuse",
+          "La capacité d'un pays à protéger ses industries naissantes"
+        ],
+        "hard": [
+          "La capacité d'un pays à produire un bien avec moins de facteurs, mesurée relativement à ses autres productions",
+          "La capacité d'un pays à produire un bien avec moins de capital, la main-d'œuvre étant supposée identique partout",
+          "La capacité d'un pays à produire tous les biens avec moins de facteurs, ce qui exclut tout échange"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'apporte la théorie de l'avantage comparatif de David Ricardo ?",
+      "verso": "Un pays a intérêt à se spécialiser dans la production pour laquelle son désavantage est le plus faible, ou son avantage le plus fort, même s'il est moins efficace partout",
+      "explanation": "Le raisonnement porte sur les coûts relatifs, c'est-à-dire sur ce à quoi le pays renonce en produisant un bien plutôt qu'un autre. C'est ce déplacement de l'absolu vers le relatif qui rend l'échange mutuellement avantageux dans tous les cas.",
+      "tags": [
+        "Ricardo",
+        "théorie"
+      ],
+      "distractors": {
+        "easy": [
+          "Un pays doit produire tout ce qu'il consomme",
+          "Un pays doit exporter uniquement ses matières premières",
+          "Un pays doit importer les biens les plus chers"
+        ],
+        "medium": [
+          "Un pays a intérêt à se spécialiser là où il dispose d'un avantage absolu",
+          "Un pays a intérêt à se spécialiser dans les productions les plus rentables en valeur",
+          "Un pays a intérêt à diversifier sa production pour éviter toute dépendance"
+        ],
+        "hard": [
+          "Un pays a intérêt à se spécialiser là où son avantage est le plus fort, à condition d'avoir aussi un avantage absolu",
+          "Un pays a intérêt à se spécialiser là où son désavantage est le plus faible, mais seulement s'il est plus grand que son partenaire",
+          "Un pays a intérêt à se spécialiser selon ses coûts absolus, les coûts relatifs ne jouant qu'à long terme"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : un pays moins efficace que tous ses partenaires dans toutes les productions a-t-il intérêt à commercer ?",
+      "verso": "Oui : il conserve toujours un avantage comparatif dans la production où son désavantage est le moindre, et l'échange lui est profitable",
+      "explanation": "C'est le résultat le plus contre-intuitif du chapitre, et la principale confusion des copies : raisonner en avantages absolus conduit à la conclusion inverse. Ce qui compte est le coût d'opportunité, c'est-à-dire ce à quoi on renonce, jamais la performance brute.",
+      "tags": [
+        "piege",
+        "Ricardo"
+      ],
+      "distractors": {
+        "easy": [
+          "Non, il doit produire lui-même tout ce dont il a besoin",
+          "Non, il doit d'abord rattraper son retard technologique",
+          "Oui, mais uniquement pour les matières premières"
+        ],
+        "medium": [
+          "Non, car l'échange suppose au moins un avantage absolu",
+          "Oui, mais seulement si ses partenaires acceptent des droits de douane",
+          "Non, car il ne pourrait vendre à aucun prix compétitif"
+        ],
+        "hard": [
+          "Oui, mais uniquement si l'écart d'efficacité est identique dans toutes les productions",
+          "Oui, car il conserve un avantage absolu dans la production où son désavantage est le moindre",
+          "Oui, à condition que ses partenaires n'aient pas d'avantage comparatif dans cette même production"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on une dotation factorielle ?",
+      "verso": "La quantité de facteurs de production dont un pays dispose : travail qualifié ou non, capital, ressources naturelles, terres",
+      "explanation": "Selon la théorie des dotations factorielles, un pays exporte les biens qui utilisent intensivement le facteur dont il est le mieux doté. Cela prolonge Ricardo en expliquant l'origine des avantages comparatifs.",
+      "tags": [
+        "dotations",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "La somme des exportations d'un pays",
+          "Le montant des aides versées aux entreprises",
+          "Le nombre d'entreprises exportatrices d'un pays"
+        ],
+        "medium": [
+          "La productivité moyenne des facteurs dans un pays",
+          "La part du commerce extérieur dans le PIB",
+          "Le niveau des salaires pratiqués dans un pays"
+        ],
+        "hard": [
+          "La quantité de facteurs disponibles, à l'exclusion des ressources naturelles considérées comme non produites",
+          "La quantité de facteurs disponibles, mesurée uniquement en valeur monétaire",
+          "La quantité de facteurs disponibles, dont découlent des avantages absolus et non comparatifs"
+        ]
+      }
+    },
+    {
+      "recto": "Que prévoit la théorie des dotations factorielles quant aux exportations d'un pays ?",
+      "verso": "Un pays exporte les biens dont la production utilise intensivement le facteur dont il est relativement le mieux doté",
+      "explanation": "Un pays richement doté en travail peu qualifié exportera des biens intensifs en main-d'œuvre, un pays doté en capital des biens intensifs en capital. Cette théorie explique surtout le commerce entre pays de niveaux de développement différents.",
+      "tags": [
+        "dotations",
+        "théorie"
+      ],
+      "distractors": {
+        "easy": [
+          "Un pays exporte les biens qu'il consomme le plus",
+          "Un pays exporte les biens dont le prix est le plus élevé",
+          "Un pays exporte les biens qu'il produit en plus petite quantité"
+        ],
+        "medium": [
+          "Un pays exporte les biens utilisant intensivement le facteur dont il est le moins doté",
+          "Un pays exporte les biens pour lesquels il dispose d'un avantage absolu",
+          "Un pays exporte les biens produits par ses entreprises les plus grandes"
+        ],
+        "hard": [
+          "Un pays exporte les biens intensifs en son facteur abondant, ce qui explique surtout le commerce entre pays similaires",
+          "Un pays exporte les biens intensifs en son facteur abondant, à condition que les technologies diffèrent entre pays",
+          "Un pays exporte les biens intensifs en capital, le travail étant supposé immobile entre pays"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : qu'est-ce qui distingue le commerce interbranche du commerce intrabranche ?",
+      "verso": "Le commerce interbranche est un échange de produits appartenant à des branches différentes, tandis que le commerce intrabranche est un échange de produits d'une même branche entre pays comparables",
+      "explanation": "Le premier s'explique par les dotations factorielles et concerne surtout des pays différents ; le second, majoritaire entre pays développés, s'explique par la différenciation des produits et les économies d'échelle. Une même voiture peut ainsi être exportée et importée par deux pays voisins.",
+      "tags": [
+        "comparaison",
+        "types de commerce"
+      ],
+      "distractors": {
+        "easy": [
+          "Les deux notions désignent la même chose",
+          "Le commerce interbranche concerne les services, l'intrabranche les biens",
+          "Le commerce interbranche est légal, l'intrabranche ne l'est pas"
+        ],
+        "medium": [
+          "Le commerce interbranche concerne une même branche, l'intrabranche des branches différentes",
+          "Le commerce interbranche concerne les pays développés, l'intrabranche les pays en développement",
+          "Le commerce interbranche s'explique par les économies d'échelle, l'intrabranche par les dotations factorielles"
+        ],
+        "hard": [
+          "Le commerce interbranche échange des produits de branches différentes, l'intrabranche des produits identiques entre entreprises d'un même pays",
+          "Le commerce interbranche échange des produits de branches différentes et domine aujourd'hui les échanges entre pays développés",
+          "Le commerce interbranche s'explique par la différenciation des produits, l'intrabranche par les écarts de dotations"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on la différenciation des produits ?",
+      "verso": "Le fait de proposer des variétés distinctes d'un même type de bien, par la qualité, le design, la marque ou les caractéristiques techniques",
+      "explanation": "Elle explique que des consommateurs de pays comparables échangent des produits de la même branche, chacun recherchant une variété particulière. C'est l'une des deux clés du commerce intrabranche, avec les économies d'échelle.",
+      "tags": [
+        "différenciation",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Le fait de vendre le même produit à des prix différents",
+          "Le fait de produire dans plusieurs pays à la fois",
+          "Le fait de séparer les produits importés des produits nationaux"
+        ],
+        "medium": [
+          "Le fait de spécialiser chaque pays dans une branche distincte",
+          "Le fait de produire des biens complémentaires plutôt que substituables",
+          "Le fait de baisser les prix pour gagner des parts de marché"
+        ],
+        "hard": [
+          "Le fait de proposer des variétés distinctes d'un même bien, ce qui explique le commerce interbranche",
+          "Le fait de proposer des variétés distinctes, différenciation nécessairement verticale et jamais horizontale",
+          "Le fait de proposer des variétés distinctes, stratégie réservée aux firmes multinationales"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on des économies d'échelle ?",
+      "verso": "La baisse du coût unitaire de production lorsque les quantités produites augmentent",
+      "explanation": "Elles poussent les entreprises à viser un marché plus vaste que le marché national, donc à exporter. Combinées à la différenciation, elles expliquent que quelques grandes entreprises se partagent des marchés mondiaux dans une même branche.",
+      "tags": [
+        "économies d'échelle",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Les économies réalisées par les ménages sur leurs achats",
+          "La réduction des salaires dans les grandes entreprises",
+          "Les économies budgétaires réalisées par l'État"
+        ],
+        "medium": [
+          "La hausse du coût unitaire lorsque la production augmente",
+          "La baisse du coût total de production à quantité constante",
+          "La réduction des droits de douane sur les grandes quantités"
+        ],
+        "hard": [
+          "La baisse du coût unitaire lorsque les quantités augmentent, phénomène limité aux services",
+          "La baisse du coût unitaire lorsque la variété des produits augmente",
+          "La baisse du coût unitaire liée à l'augmentation du nombre de concurrents sur le marché"
+        ]
+      }
+    },
+    {
+      "recto": "Comment distingue-t-on la compétitivité prix de la compétitivité hors-prix ?",
+      "verso": "La compétitivité prix repose sur des prix plus bas que ceux des concurrents, la compétitivité hors-prix sur la qualité, l'innovation, l'image de marque ou les délais",
+      "explanation": "Un pays à coûts salariaux élevés ne peut durablement miser sur la compétitivité prix : sa position dépend de sa capacité à monter en gamme. C'est le cœur du débat français sur la spécialisation industrielle.",
+      "tags": [
+        "compétitivité",
+        "distinction"
+      ],
+      "distractors": {
+        "easy": [
+          "La compétitivité prix concerne les biens, la hors-prix les services",
+          "La compétitivité prix concerne l'exportation, la hors-prix l'importation",
+          "Les deux notions désignent la même chose"
+        ],
+        "medium": [
+          "La compétitivité prix repose sur la qualité, la hors-prix sur les coûts salariaux",
+          "La compétitivité prix concerne les grandes entreprises, la hors-prix les petites",
+          "La compétitivité prix est de long terme, la hors-prix de court terme"
+        ],
+        "hard": [
+          "La compétitivité prix repose sur des prix plus bas, la hors-prix sur la qualité, ces deux dimensions étant incompatibles",
+          "La compétitivité prix dépend des coûts salariaux uniquement, la productivité n'y jouant aucun rôle",
+          "La compétitivité prix repose sur des prix plus bas, la hors-prix sur des subventions publiques à l'exportation"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on une chaîne de valeur mondiale ?",
+      "verso": "La décomposition d'un processus productif en segments répartis entre plusieurs pays, chacun réalisant l'étape où il est le plus avantageux de produire",
+      "explanation": "Les pays ne se spécialisent plus dans des produits mais dans des tâches, ce qui explique qu'un même bien traverse plusieurs frontières avant d'être achevé. Cette fragmentation gonfle mécaniquement les statistiques d'échanges, un même composant étant compté à chaque passage.",
+      "tags": [
+        "chaîne de valeur",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "La liste des fournisseurs d'une entreprise",
+          "L'ensemble des magasins d'une même enseigne",
+          "La succession des propriétaires d'une entreprise"
+        ],
+        "medium": [
+          "La spécialisation de chaque pays dans un produit fini distinct",
+          "L'ensemble des accords commerciaux signés entre plusieurs pays",
+          "La concentration de toute la production dans le pays le moins cher"
+        ],
+        "hard": [
+          "La décomposition du processus productif entre pays, ce qui réduit mécaniquement les statistiques d'échanges",
+          "La décomposition du processus productif entre pays, chaque segment étant nécessairement réalisé par une filiale du même groupe",
+          "La décomposition du processus productif entre pays, réservée aux industries de haute technologie"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une firme multinationale ?",
+      "verso": "Une entreprise possédant au moins une unité de production ou une filiale hors de son pays d'origine",
+      "explanation": "Le critère est la propriété d'implantations à l'étranger, et non le simple fait d'exporter. Ces firmes organisent une part majeure du commerce mondial, une fraction importante des échanges se faisant à l'intérieur même des groupes.",
+      "tags": [
+        "firmes multinationales",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Une entreprise qui exporte vers plusieurs pays",
+          "Une entreprise détenue par plusieurs États",
+          "Une entreprise cotée sur plusieurs places boursières"
+        ],
+        "medium": [
+          "Une entreprise dont les actionnaires sont de nationalités différentes",
+          "Une entreprise qui importe des matières premières de plusieurs pays",
+          "Une entreprise employant des salariés de plusieurs nationalités"
+        ],
+        "hard": [
+          "Une entreprise possédant des filiales à l'étranger, à condition qu'elles produisent le même bien qu'au siège",
+          "Une entreprise possédant des filiales à l'étranger, les échanges internes au groupe étant exclus du commerce international",
+          "Une entreprise possédant des filiales dans au moins trois pays différents"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on un investissement direct à l'étranger ?",
+      "verso": "Un investissement par lequel une entreprise prend le contrôle durable d'une unité de production située dans un autre pays, par création ou par rachat",
+      "explanation": "Il se distingue de l'investissement de portefeuille, purement financier et sans intention de contrôle. C'est le principal vecteur de l'internationalisation de la production.",
+      "tags": [
+        "IDE",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "L'achat d'actions étrangères par un particulier",
+          "Un prêt accordé par une banque à un pays étranger",
+          "L'exportation de biens vers un pays étranger"
+        ],
+        "medium": [
+          "Un placement financier à l'étranger sans intention de contrôle",
+          "Une aide publique au développement versée à un pays étranger",
+          "L'achat de matières premières auprès d'un fournisseur étranger"
+        ],
+        "hard": [
+          "Une prise de contrôle durable d'une unité étrangère, limitée aux créations d'établissements nouveaux",
+          "Une prise de participation dans une entreprise étrangère, quelle que soit sa part au capital",
+          "Une prise de contrôle durable d'une unité étrangère, à l'exclusion des rachats d'entreprises existantes"
+        ]
+      }
+    },
+    {
+      "recto": "Quels facteurs poussent une firme à implanter une unité de production à l'étranger ?",
+      "verso": "L'accès à un marché, la réduction des coûts de production ou de transport, la proximité de ressources ou de compétences, et le contournement de barrières commerciales",
+      "explanation": "Toutes les implantations ne sont donc pas des délocalisations à la recherche de bas salaires : beaucoup visent avant tout à se rapprocher de la demande locale. Confondre les deux logiques est une erreur fréquente en dissertation.",
+      "tags": [
+        "firmes multinationales",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Uniquement la recherche de salaires plus bas",
+          "Uniquement l'obligation légale imposée par les États",
+          "Uniquement la volonté d'échapper à l'impôt"
+        ],
+        "medium": [
+          "L'accès à un marché uniquement, les coûts n'entrant pas en compte",
+          "La réduction des coûts uniquement, l'accès au marché relevant de l'exportation",
+          "La recherche de subventions publiques versées par le pays d'origine"
+        ],
+        "hard": [
+          "L'accès au marché, la réduction des coûts et le contournement de barrières, toutes ces implantations constituant des délocalisations",
+          "L'accès au marché et la réduction des coûts, la fiscalité et la réglementation n'ayant aucun effet documenté",
+          "La réduction des coûts et la proximité des ressources, l'accès au marché relevant exclusivement du commerce intrabranche"
+        ]
+      }
+    },
+    {
+      "recto": "Quels gains le commerce international procure-t-il aux consommateurs ?",
+      "verso": "Des prix plus bas grâce à la concurrence et aux économies d'échelle, et une plus grande variété de produits disponibles",
+      "explanation": "Ces gains sont diffus : répartis sur l'ensemble des consommateurs, ils sont peu visibles individuellement. C'est une des raisons pour lesquelles le débat public se concentre sur les pertes, qui sont concentrées et visibles.",
+      "tags": [
+        "gains",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Une hausse générale des prix",
+          "Une réduction du nombre de produits disponibles",
+          "Une garantie d'emploi pour tous les travailleurs"
+        ],
+        "medium": [
+          "Une hausse des salaires dans tous les secteurs",
+          "Une baisse des prix limitée aux produits de luxe",
+          "Une plus grande variété, mais à des prix systématiquement plus élevés"
+        ],
+        "hard": [
+          "Des prix plus bas et une variété accrue, gains concentrés sur un petit nombre de consommateurs",
+          "Des prix plus bas grâce aux économies d'échelle, la concurrence n'ayant pas d'effet sur les prix",
+          "Des prix plus bas et une variété accrue, ces gains compensant automatiquement toutes les pertes d'emplois"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi dit-on que le commerce international fait des gagnants et des perdants à l'intérieur d'un même pays ?",
+      "verso": "Parce que les secteurs exposés à la concurrence perdent des emplois tandis que les secteurs exportateurs en gagnent, sans que les reconversions soient automatiques",
+      "explanation": "Le gain global peut être positif alors que la répartition est très inégale, les pertes étant concentrées sur des territoires et des qualifications précis. C'est ce qui justifie des politiques d'accompagnement, de formation et de redistribution.",
+      "tags": [
+        "inégalités",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que certains pays gagnent et d'autres perdent",
+          "Parce que les prix augmentent pour tout le monde",
+          "Parce que les entreprises paient plus d'impôts"
+        ],
+        "medium": [
+          "Parce que les consommateurs perdent toujours ce que les producteurs gagnent",
+          "Parce que le gain global du commerce est nécessairement nul",
+          "Parce que les secteurs exportateurs perdent des emplois au profit des secteurs protégés"
+        ],
+        "hard": [
+          "Parce que les secteurs exposés perdent des emplois, ces pertes étant toujours compensées par des reconversions rapides",
+          "Parce que les secteurs exposés perdent des emplois, ce qui rend le gain global du commerce nécessairement négatif",
+          "Parce que les gains sont concentrés et les pertes diffuses, ce qui explique la contestation du libre-échange"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on le protectionnisme ?",
+      "verso": "L'ensemble des politiques visant à limiter les importations pour protéger la production nationale",
+      "explanation": "Il s'oppose au libre-échange, qui vise à supprimer les entraves aux échanges. La question n'est pas seulement de choisir entre les deux, mais de déterminer dans quelles conditions et pour quelle durée une protection est justifiée.",
+      "tags": [
+        "protectionnisme",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "L'interdiction totale du commerce avec l'étranger",
+          "La protection sociale des travailleurs",
+          "La protection de l'environnement par les États"
+        ],
+        "medium": [
+          "L'ensemble des politiques visant à augmenter les exportations",
+          "L'ensemble des accords signés au sein de l'Organisation mondiale du commerce",
+          "L'ensemble des aides versées aux consommateurs nationaux"
+        ],
+        "hard": [
+          "L'ensemble des politiques limitant les importations, à l'exclusion des barrières non tarifaires",
+          "L'ensemble des politiques limitant les importations, nécessairement temporaires par nature",
+          "L'ensemble des politiques limitant les importations et les exportations de biens stratégiques"
+        ]
+      }
+    },
+    {
+      "recto": "Quels sont les principaux instruments du protectionnisme ?",
+      "verso": "Les droits de douane, les quotas d'importation, les normes et barrières non tarifaires, ainsi que les subventions aux producteurs nationaux",
+      "explanation": "Les droits de douane renchérissent le produit importé, les quotas en limitent la quantité, les normes en compliquent l'accès. Les barrières non tarifaires sont devenues les plus fréquentes, car les droits de douane ont fortement baissé.",
+      "tags": [
+        "protectionnisme",
+        "instruments"
+      ],
+      "distractors": {
+        "easy": [
+          "La publicité en faveur des produits nationaux",
+          "La hausse des salaires dans les entreprises exportatrices",
+          "La baisse des taux d'intérêt de la banque centrale"
+        ],
+        "medium": [
+          "Les droits de douane uniquement, les autres instruments étant interdits",
+          "Les quotas d'exportation et les taxes sur les ventes intérieures",
+          "La dévaluation de la monnaie et la hausse des impôts"
+        ],
+        "hard": [
+          "Les droits de douane, les quotas et les normes, les subventions n'étant pas considérées comme protectionnistes",
+          "Les droits de douane et les quotas, les barrières non tarifaires ayant disparu avec les accords commerciaux",
+          "Les droits de douane, les quotas et les subventions, ces dernières étant nécessairement versées aux consommateurs"
+        ]
+      }
+    },
+    {
+      "recto": "Que soutient l'argument dit de l'industrie naissante ?",
+      "verso": "Une industrie nouvelle doit être temporairement protégée le temps d'atteindre une taille et une productivité suffisantes pour affronter la concurrence internationale",
+      "explanation": "Sa logique est celle des économies d'échelle et de l'apprentissage : sans protection initiale, l'industrie serait éliminée avant d'être devenue compétitive. Sa faiblesse pratique est que la protection accordée se prolonge souvent bien au-delà de la période nécessaire.",
+      "tags": [
+        "protectionnisme",
+        "argument"
+      ],
+      "distractors": {
+        "easy": [
+          "Une industrie ancienne doit être protégée pour préserver le patrimoine",
+          "Une industrie doit être protégée jusqu'à sa disparition",
+          "Toutes les industries doivent être protégées en permanence"
+        ],
+        "medium": [
+          "Une industrie doit être protégée pour maintenir des salaires élevés",
+          "Une industrie doit être protégée parce que le libre-échange est toujours nuisible",
+          "Une industrie naissante doit être ouverte à la concurrence pour progresser plus vite"
+        ],
+        "hard": [
+          "Une industrie nouvelle doit être protégée durablement, la compétitivité ne pouvant jamais être atteinte",
+          "Une industrie nouvelle doit être protégée le temps d'atteindre une productivité suffisante, cette protection étant en pratique facile à retirer",
+          "Une industrie nouvelle doit être protégée par des subventions, les droits de douane étant inefficaces dans ce cas"
+        ]
+      }
+    },
+    {
+      "recto": "Quels effets négatifs le protectionnisme peut-il produire ?",
+      "verso": "Un renchérissement des produits pour les consommateurs et pour les entreprises importatrices, une perte d'incitation à innover, et le risque de représailles commerciales",
+      "explanation": "Les entreprises nationales elles-mêmes subissent le protectionnisme lorsqu'elles importent des composants ou des matières premières. La spirale des représailles peut réduire les échanges bien au-delà de la mesure initiale.",
+      "tags": [
+        "protectionnisme",
+        "limites"
+      ],
+      "distractors": {
+        "easy": [
+          "Une baisse générale des prix intérieurs",
+          "Une hausse automatique des exportations",
+          "Une amélioration immédiate de la compétitivité"
+        ],
+        "medium": [
+          "Un renchérissement des produits importés uniquement, sans effet sur les entreprises",
+          "Une perte de recettes fiscales pour l'État qui perçoit les droits de douane",
+          "Une baisse de la production nationale dans tous les secteurs protégés"
+        ],
+        "hard": [
+          "Un renchérissement des produits et un risque de représailles, mais une incitation accrue à innover grâce à la protection",
+          "Un renchérissement des produits pour les consommateurs, les entreprises importatrices étant exemptées de droits",
+          "Un risque de représailles limité aux seuls partenaires membres de l'Organisation mondiale du commerce"
+        ]
+      }
+    },
+    {
+      "recto": "Comment le commerce international a-t-il pu réduire les inégalités entre pays tout en les creusant à l'intérieur des pays ?",
+      "verso": "L'insertion dans le commerce mondial a permis à des pays émergents de rattraper une partie de leur retard, tandis que dans les pays développés les travailleurs peu qualifiés des secteurs exposés ont vu leur position se dégrader",
+      "explanation": "Les deux mouvements sont simultanés et souvent confondus dans les copies : convergence entre pays, divergence à l'intérieur. C'est cette double dynamique qui alimente la contestation politique du libre-échange dans les pays riches.",
+      "tags": [
+        "inégalités",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le commerce a réduit toutes les inégalités partout",
+          "Le commerce a creusé toutes les inégalités partout",
+          "Le commerce n'a eu aucun effet sur les inégalités"
+        ],
+        "medium": [
+          "Le commerce a creusé les inégalités entre pays tout en les réduisant à l'intérieur des pays",
+          "Le commerce a réduit les inégalités entre pays sans aucun effet à l'intérieur des pays",
+          "Le commerce a réduit les inégalités uniquement dans les pays exportateurs de matières premières"
+        ],
+        "hard": [
+          "Le commerce a permis un rattrapage des pays émergents, dont ont profité en premier lieu les travailleurs peu qualifiés des pays développés",
+          "Le commerce a permis un rattrapage des pays émergents, mouvement observé uniquement depuis les années 2010",
+          "Le commerce a réduit les inégalités entre pays, la divergence interne s'expliquant exclusivement par le progrès technique"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi les échanges internationaux se sont-ils développés plus vite que la production mondiale ?",
+      "verso": "En raison de la baisse des coûts de transport et de communication, du démantèlement des barrières commerciales et de la fragmentation des chaînes de production",
+      "explanation": "La fragmentation joue un rôle statistique majeur : un composant qui traverse plusieurs frontières est compté à chaque passage. Une partie de la croissance du commerce mesuré reflète donc une réorganisation de la production plus qu'une hausse réelle des flux.",
+      "tags": [
+        "mondialisation",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "En raison de la hausse de la population mondiale",
+          "En raison de la hausse des droits de douane",
+          "En raison de la baisse de la production dans tous les pays"
+        ],
+        "medium": [
+          "En raison de la hausse des coûts de transport qui pousse à produire loin",
+          "En raison de la disparition des firmes multinationales",
+          "En raison de la spécialisation croissante de chaque pays dans un produit fini unique"
+        ],
+        "hard": [
+          "En raison de la fragmentation des chaînes, laquelle réduit pourtant le nombre de passages en douane",
+          "En raison de la baisse des coûts de transport et du démantèlement des barrières, la fragmentation n'ayant aucun effet statistique",
+          "En raison de la fragmentation des chaînes, phénomène qui ne concerne que les échanges de services"
+        ]
+      }
+    },
+    {
+      "recto": "Que désigne la spécialisation internationale d'un pays ?",
+      "verso": "L'orientation de sa production et de ses exportations vers certaines branches ou certains segments de production",
+      "explanation": "Elle n'est pas figée : elle évolue avec les dotations, les compétences et les choix de politique économique. Une spécialisation sur des segments à faible valeur ajoutée expose davantage un pays à la concurrence par les prix.",
+      "tags": [
+        "spécialisation",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Le fait pour un pays de n'importer aucun produit",
+          "Le fait pour un pays de produire tous les biens",
+          "Le fait pour un pays de fermer ses frontières"
+        ],
+        "medium": [
+          "L'orientation de la consommation des ménages vers les produits importés",
+          "Le classement d'un pays selon son PIB par habitant",
+          "L'obligation faite à un pays par ses partenaires de produire un bien donné"
+        ],
+        "hard": [
+          "L'orientation de la production vers certaines branches, spécialisation figée par les dotations factorielles initiales",
+          "L'orientation de la production vers certaines branches, sans conséquence sur l'exposition à la concurrence par les prix",
+          "L'orientation des exportations vers certaines branches, indépendamment de la structure de la production intérieure"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la compétitivité hors-prix est-elle décisive pour un pays à coûts salariaux élevés ?",
+      "verso": "Parce qu'il ne peut pas durablement l'emporter sur les prix, et doit donc justifier des prix supérieurs par la qualité, l'innovation ou la marque",
+      "explanation": "La montée en gamme suppose des investissements de long terme dans la recherche et la formation, qui relèvent du chapitre sur la croissance. Baisser les coûts salariaux ne suffit pas à rattraper un écart de plusieurs dizaines de pour cent avec des pays à bas salaires.",
+      "tags": [
+        "compétitivité",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les consommateurs achètent toujours le produit le moins cher",
+          "Parce que les coûts salariaux n'ont aucune influence sur les prix",
+          "Parce que les exportations sont interdites au-delà d'un certain prix"
+        ],
+        "medium": [
+          "Parce que la compétitivité prix est interdite par les règles du commerce international",
+          "Parce que la qualité fait automatiquement baisser les coûts de production",
+          "Parce que la compétitivité hors-prix ne demande aucun investissement particulier"
+        ],
+        "hard": [
+          "Parce qu'il ne peut l'emporter sur les prix, la baisse des coûts salariaux suffisant néanmoins à combler l'écart",
+          "Parce qu'il doit justifier des prix supérieurs par la qualité, montée en gamme obtenue à court terme",
+          "Parce que la compétitivité prix dépend uniquement du taux de change et échappe donc aux entreprises"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles politiques peuvent accompagner l'ouverture commerciale pour en limiter les coûts sociaux ?",
+      "verso": "La formation et la reconversion des travailleurs des secteurs exposés, la protection sociale, et le soutien aux territoires touchés par les fermetures",
+      "explanation": "Ces politiques ne remettent pas en cause l'ouverture mais en redistribuent les gains vers ceux qui en subissent les coûts. Leur absence explique une large part de la contestation politique du libre-échange.",
+      "tags": [
+        "politiques",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "L'interdiction pure et simple des importations",
+          "La suppression de toute protection sociale",
+          "La baisse générale des salaires"
+        ],
+        "medium": [
+          "L'augmentation des droits de douane sur tous les produits",
+          "La nationalisation des entreprises exportatrices",
+          "La suppression des aides à la formation pour financer les baisses d'impôts"
+        ],
+        "hard": [
+          "La formation et la protection sociale, ces politiques revenant à remettre en cause l'ouverture commerciale",
+          "Le soutien aux territoires touchés, mesure qui remplace avantageusement toute politique de formation",
+          "La formation des travailleurs exposés, la protection sociale relevant d'une logique protectionniste"
+        ]
+      }
+    }
+  ]
+}

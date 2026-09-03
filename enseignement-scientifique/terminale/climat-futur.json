@@ -1,0 +1,640 @@
+{
+  "id": "enseignement-scientifique-terminale-climat-futur",
+  "title": "Le climat du futur",
+  "emoji": "📈",
+  "subject": "science",
+  "country": "fr",
+  "courseDescription": "Modèles numériques, scénarios d'émission, projections et incertitudes : comment la science construit une prévision climatique et ce qu'elle vaut.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Le climat du futur</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · enseignement scientifique<br>\n  <b>Thème 1&nbsp;:</b> Science, climat et société<br>\n  <b>Chapitre 1.3</b> · environ 6 heures\n</div>\n\n<blockquote><p><b>Problématique.</b> Que vaut une projection climatique, et de quoi dépend-elle vraiment&nbsp;?</p></blockquote>\n\n<p>Une objection revient sans cesse&nbsp;: «&nbsp;on ne sait pas prévoir le temps de la semaine prochaine, comment prévoir le climat de 2100&nbsp;?&nbsp;» Elle repose sur une confusion. La <strong>météorologie</strong> cherche l'état précis de l'atmosphère à quelques jours&nbsp;; la <strong>climatologie</strong> cherche les <em>statistiques</em> d'un système sur des décennies. Prévoir la trajectoire d'un dé est impossible&nbsp;; prévoir la distribution de mille lancers ne l'est pas. Ce chapitre montre comment on construit une projection — et surtout ce qui, dans son incertitude, relève de la science et ce qui relève de nos choix.</p>\n\n<h2>1 · Les modèles climatiques</h2>\n\n<p>Un <strong>modèle climatique</strong> découpe l'atmosphère et l'océan en <strong>mailles</strong> et applique à chacune les lois de la physique&nbsp;: conservation de l'énergie, de la masse, de la quantité de mouvement. Rien n'y est ajusté à la main pour «&nbsp;faire monter la courbe&nbsp;».</p>\n\n<p>Sa <strong>validation</strong> passe par un test exigeant&nbsp;: reproduire les climats du passé et le climat actuel à partir des seuls forçages connus. Un modèle incapable de retrouver le passé n'a aucune autorité sur le futur.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Maille</strong><br>\n  Cellule élémentaire du modèle. Tout phénomène plus petit qu'elle — un nuage, un orage — doit être représenté de façon approchée. C'est là que se loge l'essentiel de l'incertitude des modèles.\n</div>\n\n<h2>2 · Scénarios et projections</h2>\n\n<p>Un modèle ne prédit rien tout seul&nbsp;: il faut lui donner une hypothèse d'entrée sur les émissions futures, c'est-à-dire un <strong>scénario</strong>. Un scénario n'est pas une prévision&nbsp;: c'est une hypothèse cohérente sur des choix démographiques, économiques et politiques. Savoir lequel se réalisera ne relève pas de la climatologie.</p>\n\n<p>À l'horizon 2100, les projections donnent une hausse comprise <strong>entre environ 1,5 et 5&nbsp;°C</strong> par rapport à l'ère préindustrielle. L'écart entre ces bornes ne mesure pas l'ignorance des scientifiques&nbsp;: il mesure l'écart entre les trajectoires d'émissions.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Éventail des projections de réchauffement à l'horizon 2100 : les trajectoires partent d'un point commun correspondant au réchauffement déjà observé d'environ 1,1 degré et divergent progressivement, un scénario d'émissions faibles conduisant à environ 1,5 degré et un scénario d'émissions élevées à environ 5 degrés ; l'écart entre les trajectoires se creuse avec le temps, si bien que le futur climatique dépend surtout du niveau des émissions\">\n    <line x1=\"34\" y1=\"152\" x2=\"332\" y2=\"152\" stroke=\"currentColor\" stroke-opacity=\".3\"/>\n    <line x1=\"34\" y1=\"16\" x2=\"34\" y2=\"152\" stroke=\"currentColor\" stroke-opacity=\".3\"/>\n    <text x=\"8\" y=\"20\" font-size=\"8\" class=\"s-muted\">5 °C</text>\n    <text x=\"8\" y=\"100\" font-size=\"8\" class=\"s-muted\">2 °C</text>\n    <text x=\"8\" y=\"140\" font-size=\"8\" class=\"s-muted\">0 °C</text>\n    <text x=\"40\" y=\"166\" font-size=\"8\" class=\"s-muted\">2020</text>\n    <text x=\"300\" y=\"166\" font-size=\"8\" class=\"s-muted\">2100</text>\n    <path d=\"M54,130 C120,120 200,90 320,24\" fill=\"none\" stroke=\"var(--accent)\" stroke-opacity=\".85\" stroke-width=\"2.2\"/>\n    <text x=\"236\" y=\"46\" font-size=\"8\" fill=\"var(--accent)\" font-weight=\"bold\">émissions élevées</text>\n    <path d=\"M54,130 C120,124 200,108 320,74\" fill=\"none\" stroke=\"var(--accent)\" stroke-opacity=\".55\" stroke-width=\"2\"/>\n    <text x=\"250\" y=\"90\" font-size=\"8\" fill=\"currentColor\">intermédiaire</text>\n    <path d=\"M54,130 C120,128 200,122 320,116\" fill=\"none\" stroke=\"var(--accent)\" stroke-opacity=\".35\" stroke-width=\"2\"/>\n    <text x=\"244\" y=\"130\" font-size=\"8\" class=\"s-muted\">émissions faibles</text>\n    <circle cx=\"54\" cy=\"130\" r=\"3.5\" fill=\"var(--accent)\"/>\n    <text x=\"54\" y=\"122\" font-size=\"8\" fill=\"currentColor\">1,1 °C déjà atteint</text>\n    <text x=\"8\" y=\"184\" font-size=\"9\" class=\"s-muted\">L'éventail mesure nos choix, pas l'ignorance des modèles.</text>\n  </svg>\n  <figcaption>Toutes les trajectoires partent du même point&nbsp;: ce qui les sépare est devant nous.</figcaption>\n</figure>\n\n<h2>3 · Trois incertitudes, trois horizons</h2>\n\n<p>Une projection porte trois incertitudes de natures différentes&nbsp;:</p>\n\n<ul>\n  <li>L'incertitude sur le <strong>scénario</strong> d'émissions&nbsp;— sociale et politique.</li>\n  <li>L'incertitude liée à la <strong>formulation des modèles</strong>&nbsp;— scientifique et technique.</li>\n  <li>La <strong>variabilité interne</strong> naturelle du système&nbsp;— irréductible.</li>\n</ul>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 168\" role=\"img\" aria-label=\"Poids relatif des trois sources d'incertitude selon l'horizon de projection : à court terme la variabilité interne naturelle domine, à moyen terme l'incertitude liée aux modèles devient prépondérante, et à l'horizon 2100 c'est le choix du scénario d'émissions qui explique l'essentiel de la dispersion des projections\">\n    <text x=\"8\" y=\"16\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Qui domine, et quand ?</text>\n    <rect x=\"12\" y=\"26\" width=\"100\" height=\"60\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"62\" y=\"44\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">court terme</text>\n    <text x=\"62\" y=\"62\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">variabilité</text>\n    <text x=\"62\" y=\"76\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">interne</text>\n    <rect x=\"120\" y=\"26\" width=\"100\" height=\"60\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"170\" y=\"44\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">vers 2050</text>\n    <text x=\"170\" y=\"62\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">modèles</text>\n    <rect x=\"228\" y=\"26\" width=\"100\" height=\"60\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".40\" stroke=\"var(--accent)\" stroke-opacity=\".7\"/>\n    <text x=\"278\" y=\"44\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">vers 2100</text>\n    <text x=\"278\" y=\"62\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">scénario</text>\n    <text x=\"278\" y=\"76\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">d'émissions</text>\n    <line x1=\"8\" y1=\"104\" x2=\"332\" y2=\"104\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"124\" font-size=\"9\" fill=\"currentColor\">L'incertitude porte sur l'ampleur et le rythme,</text>\n    <text x=\"8\" y=\"138\" font-size=\"9\" fill=\"currentColor\">jamais sur le sens ni sur le mécanisme.</text>\n    <text x=\"8\" y=\"158\" font-size=\"9\" class=\"s-muted\">Invoquer l'incertitude pour conclure à l'inaction est un contresens.</text>\n  </svg>\n  <figcaption>Plus l'horizon est lointain, plus la réponse dépend de nous et non des modèles.</figcaption>\n</figure>\n\n<p>Une notion résume la réponse du système&nbsp;: la <strong>sensibilité climatique</strong>, hausse de température obtenue à l'équilibre pour un <em>doublement</em> de la concentration en dioxyde de carbone. Elle est estimée aux alentours de 3&nbsp;°C. Sa dispersion entre modèles vient surtout des <strong>nuages</strong>, plus petits que la maille et capables aussi bien de réchauffer que de refroidir selon leur altitude.</p>\n\n<h2>4 · Les conséquences projetées</h2>\n\n<h3>Le niveau des mers</h3>\n\n<p>Il a monté d'environ <strong>20&nbsp;cm</strong> depuis la fin du XIX<sup>e</sup> siècle, à un rythme qui s'accélère&nbsp;: plus de 3&nbsp;mm par an aujourd'hui, contre environ 1,5&nbsp;mm au XX<sup>e</sup> siècle. Deux causes, et deux seulement&nbsp;: la <strong>dilatation thermique</strong> de l'eau qui se réchauffe, et l'apport d'eau par la fonte des <strong>glaces continentales</strong>. La banquise, qui flotte déjà, n'y contribue pas.</p>\n\n<h3>L'océan et les extrêmes</h3>\n\n<p>L'<strong>acidification</strong> — baisse du pH par dissolution du dioxyde de carbone — est un effet direct des émissions, indépendant du réchauffement&nbsp;; elle fragilise les organismes à squelette calcaire. Côté atmosphère, les modèles projettent une intensification des <strong>vagues de chaleur</strong>, des <strong>sécheresses</strong> et des <strong>précipitations intenses</strong>&nbsp;: ce sont les extrêmes, non la moyenne, qui causent les dommages.</p>\n\n<p>Le réchauffement n'est pas uniforme&nbsp;: les continents se réchauffent plus vite que les océans, les hautes latitudes plus vite que les tropiques — l'<em>amplification arctique</em>, largement due à la rétroaction de l'albédo.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 176\" role=\"img\" aria-label=\"Les deux contributions à l'élévation du niveau des mers : la dilatation thermique de l'eau océanique qui se réchauffe et l'apport d'eau lié à la fonte des glaciers et des calottes continentales ; la fonte de la banquise n'y contribue pas puisqu'elle flotte déjà et déplace un volume d'eau égal à son poids, elle agit seulement sur l'albédo\">\n    <rect x=\"12\" y=\"14\" width=\"150\" height=\"64\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".30\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"87\" y=\"34\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">DILATATION</text>\n    <text x=\"87\" y=\"46\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">THERMIQUE</text>\n    <text x=\"87\" y=\"64\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">l'eau chaude occupe plus de place</text>\n    <rect x=\"178\" y=\"14\" width=\"150\" height=\"64\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".30\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"253\" y=\"34\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">GLACES</text>\n    <text x=\"253\" y=\"46\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">CONTINENTALES</text>\n    <text x=\"253\" y=\"64\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">apport d'eau nouvelle</text>\n    <line x1=\"8\" y1=\"94\" x2=\"332\" y2=\"94\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <rect x=\"12\" y=\"104\" width=\"316\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".35\" stroke-dasharray=\"5 4\"/>\n    <text x=\"170\" y=\"119\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">LA BANQUISE : aucune contribution</text>\n    <text x=\"170\" y=\"132\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">elle flotte déjà et déplace son propre poids d'eau</text>\n    <text x=\"8\" y=\"158\" font-size=\"9\" fill=\"currentColor\">Elle agit sur l'albédo, pas sur le niveau marin.</text>\n    <text x=\"8\" y=\"172\" font-size=\"9\" class=\"s-muted\">Confusion très fréquente — et facile à éviter.</text>\n  </svg>\n  <figcaption>Deux contributions, et une fausse évidence à écarter.</figcaption>\n</figure>\n\n<h2>5 · Agir&nbsp;: atténuation et adaptation</h2>\n\n<p>Deux registres non substituables&nbsp;:</p>\n\n<ul>\n  <li>L'<strong>atténuation</strong> réduit les émissions pour limiter l'ampleur du changement.</li>\n  <li>L'<strong>adaptation</strong> modifie sociétés et territoires pour en supporter les effets.</li>\n</ul>\n\n<p>L'adaptation est nécessaire parce qu'une part du réchauffement est <em>déjà engagée</em>&nbsp;: l'océan met des décennies à atteindre son nouvel équilibre thermique, et une fraction du dioxyde de carbone émis demeure plusieurs siècles dans l'atmosphère. C'est cette persistance qui rend le problème <strong>cumulatif</strong>&nbsp;: ce qui compte est le total émis, pas le débit d'une année.</p>\n\n<p>De là découle le <strong>budget carbone</strong>&nbsp;: la quantité qu'il reste possible d'émettre pour conserver une chance donnée de rester sous un seuil. L'<strong>accord de Paris</strong> (2015) vise à contenir la hausse nettement sous 2&nbsp;°C, en poursuivant l'effort vers 1,5&nbsp;°C. Atteindre la <strong>neutralité carbone</strong> ne signifie pas cesser toute émission, mais équilibrer les émissions résiduelles par des absorptions au moins équivalentes.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Chiffres clés</h3>\n\n<table>\n  <tr><th>Grandeur</th><th>Valeur</th></tr>\n  <tr><td>Réchauffement déjà observé</td><td>environ 1,1&nbsp;°C</td></tr>\n  <tr><td>Projections en 2100</td><td>environ 1,5 à 5&nbsp;°C</td></tr>\n  <tr><td>Sensibilité climatique</td><td>environ 3&nbsp;°C</td></tr>\n  <tr><td>Hausse du niveau marin depuis 1900</td><td>environ 20 cm</td></tr>\n  <tr><td>Objectif de l'accord de Paris</td><td>nettement sous 2&nbsp;°C</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition en une ligne</th></tr>\n  <tr><td>Scénario d'émissions</td><td>Hypothèse d'entrée du modèle, pas une prévision</td></tr>\n  <tr><td>Sensibilité climatique</td><td>Réchauffement pour un doublement du dioxyde de carbone</td></tr>\n  <tr><td>Budget carbone</td><td>Quantité restante émettable sous un seuil donné</td></tr>\n  <tr><td>Atténuation</td><td>Réduire les émissions</td></tr>\n  <tr><td>Adaptation</td><td>Supporter les effets déjà engagés</td></tr>\n</table>\n\n<h3>Les trois incertitudes</h3>\n\n<table>\n  <tr><th>Source</th><th>Nature</th><th>Domine…</th></tr>\n  <tr><td>Variabilité interne</td><td>Naturelle, irréductible</td><td>à court terme</td></tr>\n  <tr><td>Formulation des modèles</td><td>Scientifique</td><td>vers 2050</td></tr>\n  <tr><td>Scénario d'émissions</td><td>Sociale et politique</td><td>vers 2100</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Confondre <strong>prévision météorologique</strong> et <strong>projection climatique</strong>. La première vise l'état précis de l'atmosphère à quelques jours et perd toute valeur au-delà&nbsp;; la seconde vise les statistiques du climat sur des décennies, conditionnellement à un scénario d'émissions. L'objection «&nbsp;on ne sait même pas prévoir la semaine prochaine&nbsp;» ne mord donc sur rien. Piège voisin&nbsp;: prendre un scénario pour une prévision — c'est une <em>hypothèse d'entrée</em>, et son choix nous appartient.\n</div>\n\n<blockquote><p>Les modèles ne disent pas ce qui va arriver&nbsp;: ils disent ce qui arrivera <em>si</em>. Le reste de la phrase s'écrit ailleurs qu'en climatologie.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Science, climat et société",
+  "cards": [
+    {
+      "recto": "Piège classique : ne pas confondre une prévision météorologique et une projection climatique. Qu'est-ce qui les distingue ?",
+      "verso": "La météorologie prévoit l'état précis de l'atmosphère à quelques jours, la projection climatique estime les statistiques du climat sur des décennies en fonction d'un scénario d'émissions",
+      "explanation": "L'objection selon laquelle on ne saurait pas prévoir le temps de la semaine prochaine ne vaut donc rien contre les projections : les deux exercices ne portent pas sur les mêmes grandeurs ni sur les mêmes échelles.",
+      "tags": [
+        "modèles",
+        "piege"
+      ],
+      "distractors": {
+        "easy": [
+          "La météorologie utilise des satellites, la climatologie des thermomètres",
+          "La météorologie concerne la France, la climatologie le monde",
+          "La météorologie est une science, la climatologie une opinion"
+        ],
+        "medium": [
+          "La météorologie estime des moyennes, la climatologie prévoit chaque journée",
+          "La météorologie porte sur des décennies, la climatologie sur quelques jours",
+          "La météorologie repose sur des modèles, la climatologie sur des observations"
+        ],
+        "hard": [
+          "La météorologie porte sur l'atmosphère, la climatologie uniquement sur l'océan",
+          "La météorologie est déterministe et exacte, la climatologie probabiliste et approximative",
+          "La météorologie dépend des scénarios d'émission, pas la climatologie"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un modèle climatique numérique ?",
+      "verso": "Une représentation informatique du système climatique qui découpe l'atmosphère et l'océan en mailles et applique à chacune les lois de la physique",
+      "explanation": "La taille des mailles limite la résolution : les phénomènes plus petits, comme les nuages, doivent être représentés de façon approchée, ce qui est la principale source d'incertitude des modèles.",
+      "tags": [
+        "modèles",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Une maquette physique de la Terre installée en laboratoire",
+          "Un relevé statistique des températures passées",
+          "Un graphique montrant l'évolution des températures"
+        ],
+        "medium": [
+          "Une extrapolation mathématique des courbes de température observées",
+          "Un ensemble d'expériences réalisées en chambre climatique",
+          "Une moyenne des prévisions météorologiques sur plusieurs années"
+        ],
+        "hard": [
+          "Une simulation appliquant les lois de la physique à la seule atmosphère",
+          "Un modèle statistique ajusté sur les données du passé sans physique explicite",
+          "Une représentation continue du système climatique, sans découpage en mailles"
+        ]
+      }
+    },
+    {
+      "recto": "Comment valide-t-on un modèle climatique ?",
+      "verso": "En vérifiant sa capacité à reproduire les climats du passé et le climat actuel à partir des seuls forçages connus, avant de l'utiliser pour le futur",
+      "explanation": "C'est ce test de rétro-simulation qui donne confiance dans les projections : un modèle incapable de retrouver le passé n'a aucune autorité sur le futur.",
+      "tags": [
+        "modèles",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En attendant cinquante ans pour comparer avec la réalité",
+          "En demandant l'avis d'un comité d'experts",
+          "En vérifiant que le résultat correspond à ce qu'on attendait"
+        ],
+        "medium": [
+          "En comparant les résultats de deux modèles différents entre eux",
+          "En mesurant la puissance de calcul utilisée",
+          "En ajustant les paramètres jusqu'à obtenir la courbe souhaitée"
+        ],
+        "hard": [
+          "En reproduisant le climat futur puis en vérifiant sa cohérence interne",
+          "En le testant uniquement sur les vingt dernières années de mesures",
+          "En comparant ses sorties aux prévisions météorologiques à cinq jours"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un scénario d'émissions ?",
+      "verso": "Une hypothèse cohérente sur l'évolution future des émissions de gaz à effet de serre, qui dépend de choix démographiques, économiques et politiques",
+      "explanation": "Un scénario n'est pas une prévision : c'est une entrée du modèle. La question de savoir lequel se réalisera relève de la société, pas de la climatologie.",
+      "tags": [
+        "scénarios",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Une prévision officielle de ce qui va réellement se produire",
+          "Un plan d'action adopté par les gouvernements",
+          "Une estimation du nombre de catastrophes à venir"
+        ],
+        "medium": [
+          "Une projection de température calculée par un modèle",
+          "Une reconstitution des émissions passées",
+          "Un objectif de réduction fixé par un accord international"
+        ],
+        "hard": [
+          "Une hypothèse sur l'évolution du forçage naturel, hors activité humaine",
+          "Une sortie du modèle climatique décrivant les émissions probables",
+          "Une moyenne des trajectoires jugées les plus vraisemblables par les experts"
+        ]
+      }
+    },
+    {
+      "recto": "Que projettent les modèles à l'horizon 2100 selon les scénarios ?",
+      "verso": "Une hausse de la température moyenne comprise environ entre 1,5 et 5 degrés Celsius par rapport à l'ère préindustrielle, selon le niveau des émissions futures",
+      "explanation": "L'écart entre les bornes tient d'abord au scénario retenu, non à l'imprécision des modèles : c'est l'ampleur des émissions qui décide, et elle dépend de décisions humaines.",
+      "tags": [
+        "projections",
+        "chiffres"
+      ],
+      "distractors": {
+        "easy": [
+          "Une hausse de 50 degrés Celsius",
+          "Un refroidissement de 2 degrés Celsius",
+          "Aucune évolution notable"
+        ],
+        "medium": [
+          "Une hausse comprise entre 0,1 et 0,5 degré Celsius",
+          "Une hausse d'exactement 2 degrés Celsius dans tous les cas",
+          "Une hausse comprise entre 10 et 20 degrés Celsius"
+        ],
+        "hard": [
+          "Une hausse comprise entre 1,5 et 5 degrés par rapport à l'an 2000",
+          "Une hausse comprise entre 0,5 et 2 degrés selon les scénarios",
+          "Une hausse comprise entre 3 et 8 degrés par rapport à l'ère préindustrielle"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : quelles sont les trois grandes sources d'incertitude d'une projection climatique ?",
+      "verso": "L'incertitude sur le scénario d'émissions futures, l'incertitude liée à la formulation des modèles et la variabilité interne naturelle du système",
+      "explanation": "Leur poids relatif change avec l'horizon : la variabilité interne domine à court terme, le choix du scénario domine à la fin du siècle.",
+      "tags": [
+        "incertitudes",
+        "comparaison"
+      ],
+      "distractors": {
+        "easy": [
+          "Le manque de thermomètres, le manque de satellites et le manque d'argent",
+          "Les erreurs de calcul, les pannes d'ordinateur et les fautes de saisie",
+          "Le passé, le présent et le futur"
+        ],
+        "medium": [
+          "Les émissions passées, les mesures actuelles et les modèles anciens",
+          "La qualité des données, la puissance de calcul et le nombre de chercheurs",
+          "Le désaccord entre scientifiques, les pressions politiques et le manque de recul"
+        ],
+        "hard": [
+          "Le scénario d'émissions, la mesure des températures et la datation des archives",
+          "La formulation des modèles, la variabilité interne et l'imprécision des satellites",
+          "Le scénario, la variabilité interne et l'incertitude sur la constante solaire"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi les projections à long terme dépendent-elles surtout du scénario retenu ?",
+      "verso": "Parce que l'écart entre les trajectoires d'émissions se creuse avec le temps et finit par dépasser largement les différences entre modèles",
+      "explanation": "À l'horizon 2050, les scénarios divergent encore peu et l'incertitude des modèles domine. À l'horizon 2100, c'est l'inverse : le futur climatique est d'abord un choix de société.",
+      "tags": [
+        "incertitudes",
+        "projections"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les modèles deviennent moins précis avec le temps",
+          "Parce que les ordinateurs vieillissent",
+          "Parce que les mesures anciennes sont moins fiables"
+        ],
+        "medium": [
+          "Parce que la variabilité interne augmente avec l'horizon considéré",
+          "Parce que le nombre de modèles disponibles diminue",
+          "Parce que les rétroactions deviennent imprévisibles au-delà de cinquante ans"
+        ],
+        "hard": [
+          "Parce que l'incertitude des modèles croît proportionnellement au temps",
+          "Parce que les forçages naturels deviennent dominants après 2050",
+          "Parce que les scénarios convergent à long terme vers une trajectoire unique"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles sont les deux causes de l'élévation du niveau des mers ?",
+      "verso": "La dilatation thermique de l'eau océanique qui se réchauffe et l'apport d'eau lié à la fonte des glaciers et des calottes continentales",
+      "explanation": "La dilatation thermique domine actuellement, mais la contribution des calottes pourrait devenir prépondérante et constitue la principale incertitude des projections à long terme.",
+      "tags": [
+        "niveau marin",
+        "mécanismes"
+      ],
+      "distractors": {
+        "easy": [
+          "La fonte de la banquise et l'augmentation des pluies",
+          "L'érosion des côtes et les marées plus fortes",
+          "Les tempêtes et les tsunamis plus fréquents"
+        ],
+        "medium": [
+          "La fonte de la banquise arctique et la dilatation thermique",
+          "L'augmentation des précipitations océaniques et la fonte des glaciers",
+          "Le ralentissement des courants marins et l'évaporation réduite"
+        ],
+        "hard": [
+          "La dilatation thermique et la fonte de la banquise antarctique",
+          "La fonte des calottes et l'augmentation de la salinité de l'eau",
+          "La dilatation thermique et le ralentissement de la circulation thermohaline"
+        ]
+      }
+    },
+    {
+      "recto": "De combien le niveau moyen des mers a-t-il monté depuis la fin du XIXe siècle ?",
+      "verso": "D'environ 20 centimètres, avec un rythme qui s'est nettement accéléré au cours des dernières décennies",
+      "explanation": "L'accélération est mesurée par altimétrie satellitaire depuis 1993 : le rythme actuel dépasse 3 millimètres par an, contre environ 1,5 millimètre au XXe siècle.",
+      "tags": [
+        "niveau marin",
+        "chiffres"
+      ],
+      "distractors": {
+        "easy": [
+          "Environ 10 mètres",
+          "Environ 1 millimètre au total",
+          "Il n'a pas monté"
+        ],
+        "medium": [
+          "Environ 2 mètres",
+          "Environ 1 centimètre",
+          "Environ 80 centimètres"
+        ],
+        "hard": [
+          "Environ 20 centimètres, à un rythme constant depuis 1900",
+          "Environ 50 centimètres depuis 1993",
+          "Environ 20 millimètres depuis la fin du XIXe siècle"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que l'acidification des océans ?",
+      "verso": "La baisse du pH de l'eau de mer provoquée par la dissolution d'une partie du dioxyde de carbone atmosphérique excédentaire",
+      "explanation": "C'est un effet direct des émissions, indépendant du réchauffement. Elle fragilise les organismes à squelette calcaire comme les coraux et certains planctons.",
+      "tags": [
+        "océan",
+        "conséquences"
+      ],
+      "distractors": {
+        "easy": [
+          "L'augmentation de la salinité due à l'évaporation",
+          "La pollution des mers par les déchets industriels",
+          "Le réchauffement de l'eau de surface"
+        ],
+        "medium": [
+          "La hausse du pH de l'eau de mer liée au réchauffement",
+          "L'accumulation de nitrates issus de l'agriculture",
+          "La dissolution du sel marin dans les eaux de fonte"
+        ],
+        "hard": [
+          "La baisse du pH liée à la dissolution du méthane océanique",
+          "La baisse du pH provoquée par la fonte des glaces continentales",
+          "L'augmentation de l'alcalinité due aux apports fluviaux"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles évolutions les modèles projettent-ils pour les événements extrêmes ?",
+      "verso": "Une augmentation de la fréquence et de l'intensité des vagues de chaleur, des sécheresses et des épisodes de précipitations intenses",
+      "explanation": "Ces changements affectent les populations bien avant la moyenne globale, car ce sont les extrêmes, non la moyenne, qui provoquent les dommages.",
+      "tags": [
+        "conséquences",
+        "extrêmes"
+      ],
+      "distractors": {
+        "easy": [
+          "Une disparition complète des tempêtes et des orages",
+          "Une stabilisation de tous les phénomènes météorologiques",
+          "Un allongement uniforme des saisons"
+        ],
+        "medium": [
+          "Une diminution des vagues de chaleur compensée par plus de pluies",
+          "Une augmentation des seules vagues de froid",
+          "Une répartition plus régulière des précipitations sur l'année"
+        ],
+        "hard": [
+          "Une augmentation des vagues de chaleur mais une diminution des sécheresses",
+          "Une intensification limitée aux régions polaires",
+          "Une hausse des précipitations extrêmes sans changement des sécheresses"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle différence sépare l'atténuation et l'adaptation au changement climatique ?",
+      "verso": "L'atténuation consiste à réduire les émissions pour limiter l'ampleur du changement, l'adaptation à modifier les sociétés et les territoires pour en supporter les effets",
+      "explanation": "Les deux sont nécessaires et non substituables : une partie du changement est déjà engagée, mais l'ampleur du reste dépend encore des émissions.",
+      "tags": [
+        "action",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "L'atténuation est locale, l'adaptation est mondiale",
+          "L'atténuation concerne l'air, l'adaptation les océans",
+          "L'atténuation est immédiate, l'adaptation impossible"
+        ],
+        "medium": [
+          "L'atténuation consiste à supporter les effets, l'adaptation à réduire les émissions",
+          "L'atténuation relève des États, l'adaptation des individus",
+          "L'atténuation est une politique, l'adaptation une technique"
+        ],
+        "hard": [
+          "L'atténuation vise le climat régional, l'adaptation le climat global",
+          "L'atténuation agit sur les conséquences, l'adaptation sur les causes",
+          "L'atténuation concerne le passé engagé, l'adaptation les émissions futures"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi une partie du réchauffement est-elle déjà engagée même si les émissions cessaient ?",
+      "verso": "À cause de l'inertie thermique de l'océan, qui met des décennies à atteindre son nouvel équilibre thermique, et de la longue durée de séjour du dioxyde de carbone",
+      "explanation": "Ce délai justifie l'adaptation : on ne peut pas éviter tous les effets, seulement en limiter l'ampleur. Il explique aussi que l'action tardive coûte davantage.",
+      "tags": [
+        "inertie",
+        "action"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que la Terre continue de tourner autour du Soleil",
+          "Parce que les usines mettent du temps à fermer",
+          "Parce que les mesures ont du retard"
+        ],
+        "medium": [
+          "Parce que les glaces continuent de fondre par gravité",
+          "Parce que la vapeur d'eau reste longtemps dans l'atmosphère",
+          "Parce que le Soleil devient progressivement plus chaud"
+        ],
+        "hard": [
+          "À cause de l'inertie de l'atmosphère, dont le temps de réponse est de plusieurs décennies",
+          "À cause du dégel du pergélisol, seul facteur d'inertie du système",
+          "Parce que le méthane atmosphérique persiste plusieurs siècles"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la durée de séjour du dioxyde de carbone dans l'atmosphère ?",
+      "verso": "Une partie est absorbée en quelques décennies, mais une fraction significative demeure plusieurs siècles, voire des millénaires",
+      "explanation": "Cette persistance rend le problème cumulatif : c'est la quantité totale émise depuis l'ère industrielle, et non le débit d'une année donnée, qui détermine le réchauffement atteint.",
+      "tags": [
+        "carbone",
+        "chiffres"
+      ],
+      "distractors": {
+        "easy": [
+          "Quelques heures",
+          "Une semaine environ",
+          "Un an exactement"
+        ],
+        "medium": [
+          "Environ dix ans, comme le méthane",
+          "Environ cinq ans",
+          "Une centaine d'années au maximum"
+        ],
+        "hard": [
+          "Une durée uniforme d'environ cent ans pour toute la molécule émise",
+          "Environ vingt ans pour l'essentiel des émissions",
+          "Plusieurs millénaires pour la totalité du dioxyde de carbone émis"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que le budget carbone ?",
+      "verso": "La quantité totale de dioxyde de carbone qu'il reste possible d'émettre pour conserver une chance donnée de rester sous un seuil de réchauffement",
+      "explanation": "Cette notion découle du caractère cumulatif du problème : elle transforme un objectif de température en une contrainte chiffrée sur les émissions restantes.",
+      "tags": [
+        "carbone",
+        "action"
+      ],
+      "distractors": {
+        "easy": [
+          "Le coût financier de la lutte contre le changement climatique",
+          "Le budget annuel consacré par un État à l'écologie",
+          "La quantité de carbone contenue dans un être humain"
+        ],
+        "medium": [
+          "La quantité de dioxyde de carbone émise chaque année dans le monde",
+          "La quantité de carbone stockée dans les forêts d'un pays",
+          "L'objectif de réduction fixé par un accord international"
+        ],
+        "hard": [
+          "La quantité de dioxyde de carbone absorbée annuellement par les océans",
+          "La quantité totale déjà émise depuis le début de l'ère industrielle",
+          "La quantité restante compatible avec un maintien du niveau des mers"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que le GIEC et quel est son rôle ?",
+      "verso": "Un groupe intergouvernemental qui ne produit pas de recherche propre mais évalue et synthétise l'ensemble de la littérature scientifique publiée sur le climat",
+      "explanation": "Comprendre qu'il s'agit d'une synthèse et non d'une source primaire est essentiel : ses rapports tirent leur autorité de la convergence des travaux qu'ils recensent.",
+      "tags": [
+        "science",
+        "institutions"
+      ],
+      "distractors": {
+        "easy": [
+          "Une organisation non gouvernementale de défense de l'environnement",
+          "Un laboratoire de recherche français spécialisé en météorologie",
+          "Une agence chargée de mesurer les températures mondiales"
+        ],
+        "medium": [
+          "Un institut qui réalise ses propres simulations climatiques",
+          "Une agence de l'ONU qui fixe les objectifs de réduction des émissions",
+          "Un organisme qui contrôle l'application des accords climatiques"
+        ],
+        "hard": [
+          "Un groupe d'experts qui produit ses propres travaux de recherche originaux",
+          "Une instance qui négocie les engagements des États entre eux",
+          "Un comité qui valide les modèles climatiques avant leur publication"
+        ]
+      }
+    },
+    {
+      "recto": "Comment les modèles distinguent-ils la part humaine et la part naturelle du réchauffement ?",
+      "verso": "En comparant des simulations intégrant uniquement les forçages naturels à des simulations intégrant en plus les forçages d'origine humaine",
+      "explanation": "Seules les secondes reproduisent la hausse observée depuis 1950. Cette méthode d'attribution est le fondement de l'affirmation d'une origine humaine du réchauffement actuel.",
+      "tags": [
+        "attribution",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En interrogeant les habitants sur leur ressenti",
+          "En comparant les villes et les campagnes",
+          "En mesurant la pollution de l'air"
+        ],
+        "medium": [
+          "En soustrayant la température des zones industrielles à la moyenne mondiale",
+          "En comparant l'hémisphère nord et l'hémisphère sud",
+          "En analysant l'évolution des émissions déclarées par les États"
+        ],
+        "hard": [
+          "En comparant les simulations avec forçages humains aux observations satellitaires seules",
+          "En calculant la corrélation entre température et activité solaire",
+          "En comparant les climats préindustriels aux climats interglaciaires"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi les nuages sont-ils une difficulté majeure pour les modèles ?",
+      "verso": "Parce qu'ils sont plus petits que la maille des modèles et qu'ils peuvent aussi bien réchauffer que refroidir selon leur altitude et leur épaisseur",
+      "explanation": "Ils doivent donc être représentés de manière approchée. C'est la principale source de dispersion entre modèles sur la sensibilité climatique.",
+      "tags": [
+        "modèles",
+        "incertitudes"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'ils sont difficiles à observer depuis le sol",
+          "Parce qu'ils changent de forme en permanence",
+          "Parce qu'ils ne sont pas mesurables par satellite"
+        ],
+        "medium": [
+          "Parce qu'ils réchauffent toujours l'atmosphère, ce qui est difficile à quantifier",
+          "Parce que leur composition chimique est mal connue",
+          "Parce qu'ils n'apparaissent pas dans les archives paléoclimatiques"
+        ],
+        "hard": [
+          "Parce qu'ils sont plus grands que la maille des modèles et débordent des cellules",
+          "Parce que leur effet est toujours refroidissant mais d'ampleur variable",
+          "Parce qu'ils modifient l'albédo sans influencer le rayonnement infrarouge"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on sensibilité climatique ?",
+      "verso": "La hausse de température moyenne obtenue à l'équilibre pour un doublement de la concentration atmosphérique en dioxyde de carbone",
+      "explanation": "Elle est estimée aux alentours de 3 degrés Celsius, avec une marge d'incertitude. C'est l'indicateur qui résume la réponse globale du système à un forçage donné.",
+      "tags": [
+        "modèles",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La rapidité avec laquelle la température change d'un jour à l'autre",
+          "La capacité d'un thermomètre à détecter de petites variations",
+          "La vulnérabilité d'une région aux catastrophes naturelles"
+        ],
+        "medium": [
+          "La hausse de température obtenue pour une augmentation de 1 pour cent des émissions",
+          "La variation de température provoquée par une éruption volcanique",
+          "La différence de température entre deux modèles climatiques"
+        ],
+        "hard": [
+          "La hausse de température obtenue à l'équilibre pour un doublement du méthane",
+          "La vitesse à laquelle le système atteint son nouvel équilibre thermique",
+          "La hausse de température obtenue pour un doublement du forçage solaire"
+        ]
+      }
+    },
+    {
+      "recto": "Quel objectif de limitation du réchauffement l'accord de Paris a-t-il fixé en 2015 ?",
+      "verso": "Contenir la hausse nettement en dessous de 2 degrés Celsius par rapport à l'ère préindustrielle, en poursuivant l'effort pour la limiter à 1,5 degré",
+      "explanation": "Ces seuils ne correspondent pas à des basculements physiques précis mais à des niveaux de risque jugés acceptables au terme d'une évaluation scientifique et politique.",
+      "tags": [
+        "action",
+        "politique"
+      ],
+      "distractors": {
+        "easy": [
+          "Supprimer toute émission de gaz avant 2020",
+          "Faire baisser la température mondiale de 2 degrés",
+          "Interdire les énergies fossiles immédiatement"
+        ],
+        "medium": [
+          "Limiter la hausse à 3 degrés Celsius d'ici 2100",
+          "Stabiliser les émissions au niveau de 1990",
+          "Réduire de moitié la concentration en dioxyde de carbone"
+        ],
+        "hard": [
+          "Contenir la hausse sous 2 degrés par rapport à l'an 2000",
+          "Limiter la hausse à 1,5 degré par rapport à la moyenne du XXe siècle",
+          "Atteindre la neutralité carbone dès 2050 dans tous les pays"
+        ]
+      }
+    },
+    {
+      "recto": "Que signifie atteindre la neutralité carbone ?",
+      "verso": "Équilibrer les émissions résiduelles de gaz à effet de serre par des absorptions au moins équivalentes, par les puits naturels ou techniques",
+      "explanation": "Ce n'est pas l'arrêt de toute émission mais l'équilibre du bilan. La confusion entretient l'idée fausse qu'une compensation dispenserait de réduire les émissions.",
+      "tags": [
+        "action",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Ne plus utiliser aucun appareil électrique",
+          "Interdire toute activité industrielle",
+          "Vivre sans consommer d'énergie"
+        ],
+        "medium": [
+          "Réduire les émissions de moitié par rapport à aujourd'hui",
+          "Stabiliser la concentration atmosphérique en dioxyde de carbone",
+          "Compenser financièrement les dommages climatiques causés"
+        ],
+        "hard": [
+          "Supprimer intégralement toute émission de gaz à effet de serre",
+          "Réduire les émissions au niveau d'absorption des seuls océans",
+          "Équilibrer les émissions par des réductions dans d'autres pays"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi le réchauffement n'est-il pas uniforme sur le globe ?",
+      "verso": "Parce que les continents se réchauffent plus vite que les océans et les hautes latitudes plus vite que les tropiques, du fait des rétroactions locales et de l'inertie thermique",
+      "explanation": "L'Arctique se réchauffe ainsi plusieurs fois plus vite que la moyenne mondiale, phénomène appelé amplification arctique, largement dû à la rétroaction de l'albédo.",
+      "tags": [
+        "projections",
+        "géographie"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que le Soleil ne brille pas partout de la même façon",
+          "Parce que certains pays polluent plus que d'autres",
+          "Parce que les mesures ne sont pas faites partout"
+        ],
+        "medium": [
+          "Parce que les gaz à effet de serre restent au-dessus des zones industrielles",
+          "Parce que les vents dominants concentrent la chaleur à l'équateur",
+          "Parce que les zones tropicales absorbent plus de rayonnement solaire"
+        ],
+        "hard": [
+          "Parce que les océans se réchauffent plus vite que les continents",
+          "Parce que les tropiques se réchauffent plus vite que les pôles",
+          "Parce que la concentration en dioxyde de carbone varie fortement selon les régions"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on un point de basculement dans le système climatique ?",
+      "verso": "Un seuil au-delà duquel un composant du système passe irréversiblement dans un nouvel état, comme la désintégration d'une calotte glaciaire",
+      "explanation": "Ces basculements sont difficiles à dater et à quantifier, ce qui en fait un argument de précaution : leur incertitude ne joue pas en faveur de l'inaction.",
+      "tags": [
+        "risques",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le moment où la température change de signe",
+          "Le passage d'une saison à l'autre",
+          "Le jour où les émissions cessent"
+        ],
+        "medium": [
+          "Le moment où les modèles cessent d'être fiables",
+          "Le seuil de 2 degrés fixé par l'accord de Paris",
+          "Le point où l'atténuation devient plus coûteuse que l'adaptation"
+        ],
+        "hard": [
+          "Un seuil au-delà duquel le système revient spontanément à son état antérieur",
+          "Un seuil de concentration au-delà duquel l'effet de serre cesse de croître",
+          "Le moment où la variabilité interne dépasse le signal du réchauffement"
+        ]
+      }
+    },
+    {
+      "recto": "Que peut-on affirmer avec certitude malgré les incertitudes des projections ?",
+      "verso": "Que le réchauffement se poursuivra et sera d'autant plus fort que les émissions cumulées seront élevées, la relation entre les deux étant robuste",
+      "explanation": "L'incertitude porte sur l'ampleur et le rythme, non sur le sens ni sur le mécanisme. Invoquer l'incertitude pour conclure à l'inaction est un contresens scientifique.",
+      "tags": [
+        "synthèse",
+        "incertitudes"
+      ],
+      "distractors": {
+        "easy": [
+          "Que la température se stabilisera d'elle-même",
+          "Qu'il est impossible de savoir quoi que ce soit du futur",
+          "Que les modèles se contredisent tous entre eux"
+        ],
+        "medium": [
+          "Que le réchauffement atteindra exactement 2 degrés en 2100",
+          "Que les événements extrêmes resteront à leur niveau actuel",
+          "Que le niveau des mers cessera de monter après 2050"
+        ],
+        "hard": [
+          "Que la relation entre émissions cumulées et réchauffement est incertaine mais probablement linéaire",
+          "Que le réchauffement s'arrêtera dès que les émissions cesseront",
+          "Que l'ampleur du réchauffement est mieux connue que son sens"
+        ]
+      }
+    }
+  ]
+}

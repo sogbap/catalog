@@ -1,0 +1,535 @@
+{
+  "id": "jp-koukou-suugaku-zukei-houteishiki",
+  "title": "図形と方程式",
+  "emoji": "📉",
+  "subject": "mathematics",
+  "country": "jp",
+  "courseDescription": "座標平面上での点と直線の扱いから、円の方程式、直線と円の位置関係、そして軌跡と不等式の表す範囲までを扱う。",
+  "lesson": "<style>\n  /* 図（SVG）のスタイル。currentColor（本文色）と var(--accent)（教科の色）\n     を用い、アプリの明暗テーマに合わせて表示される。 */\n  .svgfig { width: 100%; height: auto; display: block; margin: 0.3em auto; }\n  .svgfig text { font-family: \"Hiragino Sans\", \"Hiragino Kaku Gothic ProN\", \"Yu Gothic\", -apple-system, system-ui, sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>図形と方程式</h1>\n\n<div class=\"callout\">\n  <strong>学習のポイント</strong><br>\n  <b>学年：</b>高校2年<br>\n  <b>科目：</b>数学II<br>\n  <b>単元：</b>図形と方程式\n</div>\n\n<blockquote>\n  <p><b>問い。</b>2 直線が垂直であることを示すのに、「傾きの積が －1」はいつでも使えるだろうか。</p>\n</blockquote>\n\n<p>数学Aでは、図形の問題を<b>定理を選んで解いた</b>。この単元では同じ問題を<b>座標に翻訳して計算で解く</b>。作図や補助線に頼らず機械的に処理できるようになる代わりに、<b>どの条件をどの式に対応させるか</b>を見極める力が要る。</p>\n\n<h2>1・点と直線</h2>\n\n<p>2 点間の距離は、三平方の定理を座標で書き直したものである。x 座標の差の 2 乗と y 座標の差の 2 乗を足し、正の平方根をとる。線分 AB を <b>m 対 n に内分する点</b>は次で与えられる。</p>\n\n<p style=\"text-align:center\"><strong>(nA＋mB)／(m＋n)</strong></p>\n\n<p><b>比の値と掛ける点が入れ替わる</b>点が要注意である。「A に近いほど A の重みが大きい」と考えると取り違えを防げる。</p>\n\n<p>直線は、1 点と傾きが決まれば定まる。点 (x₁, y₁) を通り傾き m の直線は <b>y － y₁ ＝ m(x － x₁)</b> である。2 直線の関係は傾きで判定する。</p>\n\n<table>\n  <tr><th>関係</th><th>条件</th></tr>\n  <tr><td>平行</td><td>傾きが等しい</td></tr>\n  <tr><td>垂直</td><td>2 つの傾きの積が <b>－1</b></td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>要注意・傾きが定義できない場合</strong><br>\n  x ＝ 3 のような<b>y 軸に平行な直線には傾きがない</b>。したがって「傾きの積が －1」という条件は使えず、別に扱う必要がある。これと垂直なのは y ＝ 2 のような<b>x 軸に平行な直線</b>である。文字を含む直線では、この場合が起こりうるかを必ず確認する。\n</div>\n\n<p>点 (x₀, y₀) と直線 ax＋by＋c ＝ 0 の距離は、次の公式で求める。</p>\n\n<p style=\"text-align:center\"><strong>|ax₀＋by₀＋c| ÷ √(a²＋b²)</strong></p>\n\n<p>点の座標を直線の式に<b>代入した値の絶対値</b>を、係数から作った長さで割る。分子の絶対値と分母の √ を落とす誤りが多い。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 118\" role=\"img\" aria-label=\"線分ABをm対nに内分する点はAに近いほどAの重みが大きくなるため係数が入れ替わることを示す図\">\n  <text x=\"170\" y=\"14\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">A に近いほど、A の重みが大きい</text>\n  <path d=\"M40,62 L300,62\" style=\"fill:none;stroke:var(--accent);stroke-opacity:.5;stroke-width:2\"/>\n  <circle cx=\"40\" cy=\"62\" r=\"5\" style=\"fill:var(--accent)\"/>\n  <circle cx=\"300\" cy=\"62\" r=\"5\" style=\"fill:var(--accent)\"/>\n  <circle cx=\"118\" cy=\"62\" r=\"4.5\" style=\"fill:var(--accent)\"/>\n  <text x=\"40\" y=\"46\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">A</text>\n  <text x=\"300\" y=\"46\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"10\" font-weight=\"700\">B</text>\n  <text x=\"118\" y=\"46\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">P</text>\n  <path d=\"M40,78 L118,78\" style=\"fill:none;stroke:var(--accent);stroke-width:1.4\"/>\n  <path d=\"M40,74 L40,82 M118,74 L118,82\" style=\"fill:none;stroke:var(--accent);stroke-width:1.4\"/>\n  <text x=\"79\" y=\"94\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">m</text>\n  <path d=\"M118,78 L300,78\" style=\"fill:none;stroke:var(--accent);stroke-width:1.4\"/>\n  <path d=\"M300,74 L300,82\" style=\"fill:none;stroke:var(--accent);stroke-width:1.4\"/>\n  <text x=\"209\" y=\"94\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">n</text>\n  <text x=\"170\" y=\"112\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">P ＝ (nA＋mB)／(m＋n) — 比と点が入れ替わる</text>\n</svg>\n<figcaption>m が小さいほど P は A に寄る。だから A にかかる係数は n のほうになる。</figcaption>\n</figure>\n\n<h2>2・円の方程式</h2>\n\n<p>中心 (a, b)、半径 r の円は <b>(x－a)²＋(y－b)² ＝ r²</b> と表される。「中心からの距離が r である点の集まり」という定義をそのまま式にしたものである。右辺が <b>r²</b> であって r でない点に注意する。</p>\n\n<p>逆に x²＋y²＋lx＋my＋n ＝ 0 の形の式が円を表すとは限らない。<b>平方完成して右辺（半径の 2 乗にあたる値）が正であること</b>を確かめる必要がある。0 なら 1 点、負なら実在する図形は存在しない。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 158\" role=\"img\" aria-label=\"円の中心と直線の距離を半径と比べることで二点で交わるか接するか交わらないかが決まることを示す三つの場合\">\n  <text x=\"170\" y=\"14\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"10.5\">中心と直線の距離 d を、半径 r と比べる</text>\n  <circle cx=\"58\" cy=\"76\" r=\"30\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.6\"/>\n  <circle cx=\"58\" cy=\"76\" r=\"2.5\" style=\"fill:var(--accent)\"/>\n  <path d=\"M14,92 L102,92\" style=\"fill:none;stroke:var(--accent);stroke-width:1.8\"/>\n  <path d=\"M58,76 L58,92\" style=\"fill:none;stroke:var(--accent);stroke-opacity:.5;stroke-width:1;stroke-dasharray:2,2\"/>\n  <text x=\"58\" y=\"124\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">d ＜ r</text>\n  <text x=\"58\" y=\"140\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">2 点で交わる</text>\n  <circle cx=\"170\" cy=\"76\" r=\"30\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.6\"/>\n  <circle cx=\"170\" cy=\"76\" r=\"2.5\" style=\"fill:var(--accent)\"/>\n  <path d=\"M126,106 L214,106\" style=\"fill:none;stroke:var(--accent);stroke-width:1.8\"/>\n  <path d=\"M170,76 L170,106\" style=\"fill:none;stroke:var(--accent);stroke-opacity:.5;stroke-width:1;stroke-dasharray:2,2\"/>\n  <text x=\"170\" y=\"124\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">d ＝ r</text>\n  <text x=\"170\" y=\"140\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">接する</text>\n  <circle cx=\"282\" cy=\"72\" r=\"30\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.6\"/>\n  <circle cx=\"282\" cy=\"72\" r=\"2.5\" style=\"fill:var(--accent)\"/>\n  <path d=\"M238,116 L326,116\" style=\"fill:none;stroke:var(--accent);stroke-width:1.8\"/>\n  <path d=\"M282,72 L282,116\" style=\"fill:none;stroke:var(--accent);stroke-opacity:.5;stroke-width:1;stroke-dasharray:2,2\"/>\n  <text x=\"282\" y=\"132\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"9\" font-weight=\"700\">d ＞ r</text>\n  <text x=\"282\" y=\"146\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"8\">交わらない</text>\n</svg>\n<figcaption>連立して判別式を使う方法もあるが、距離で比べるほうが計算が軽いことが多い。</figcaption>\n</figure>\n\n<p>円 x²＋y² ＝ r² 上の点 (x₁, y₁) における<b>接線</b>は、次の形で直ちに書ける。</p>\n\n<p style=\"text-align:center\"><strong>x₁x ＋ y₁y ＝ r²</strong></p>\n\n<p>円の方程式の x² を x₁x に、y² を y₁y に置き換えた形になっている。また 2 円が交わるとき、<b>2 つの円の方程式を辺々引く</b>と 2 次の項が打ち消し合い、2 交点を通る直線（根軸）の式が得られる。<b>交点の座標を求めずに済む</b>点が便利である。</p>\n\n<h2>3・軌跡</h2>\n\n<p>ある条件を満たす点が描く図形が<strong>軌跡</strong>である。求め方は決まっている。</p>\n\n<figure>\n<svg class=\"svgfig\" viewBox=\"0 0 340 152\" role=\"img\" aria-label=\"軌跡を求める手順として動く点をxとyでおき条件を式にし媒介する文字を消去して最後に逆を確認する流れ\">\n  <defs>\n    <marker id=\"ar-zuho1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n      <path d=\"M0,0 L10,5 L0,10 Z\" style=\"fill:var(--accent)\"/>\n    </marker>\n  </defs>\n  <rect x=\"26\" y=\"18\" width=\"288\" height=\"28\" rx=\"8\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.45;stroke-width:1.3\"/>\n  <text x=\"170\" y=\"36\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">① 動く点の座標を (x, y) とおく</text>\n  <path d=\"M170,46 L170,58\" style=\"fill:none;stroke:var(--accent);stroke-width:1.4\" marker-end=\"url(#ar-zuho1)\"/>\n  <rect x=\"26\" y=\"60\" width=\"288\" height=\"28\" rx=\"8\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.45;stroke-width:1.3\"/>\n  <text x=\"170\" y=\"78\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">② 与えられた条件を式で表す</text>\n  <path d=\"M170,88 L170,100\" style=\"fill:none;stroke:var(--accent);stroke-width:1.4\" marker-end=\"url(#ar-zuho1)\"/>\n  <rect x=\"26\" y=\"102\" width=\"288\" height=\"28\" rx=\"8\" style=\"fill:var(--accent);fill-opacity:.12;stroke:var(--accent);stroke-opacity:.45;stroke-width:1.3\"/>\n  <text x=\"170\" y=\"120\" text-anchor=\"middle\" class=\"s-muted\" font-size=\"9\">③ 媒介する文字を消去し、x と y だけの式にする</text>\n  <rect x=\"26\" y=\"136\" width=\"288\" height=\"14\" rx=\"6\" style=\"fill:var(--accent);fill-opacity:.22;stroke:var(--accent);stroke-opacity:.6;stroke-width:1.3\"/>\n  <text x=\"170\" y=\"147\" text-anchor=\"middle\" style=\"fill:var(--accent)\" font-size=\"8\" font-weight=\"700\">④ 逆に、その式を満たす点が条件を満たすか確認する</text>\n</svg>\n<figcaption>最後の確認を省くと、条件を満たさない点まで含めてしまうことがある。</figcaption>\n</figure>\n\n<p>典型例として、<b>2 定点からの距離の比が一定（1 でない）</b>である点の軌跡は<b>円</b>になる（アポロニウスの円）。比が 1 のときだけ垂直二等分線になり、それ以外は円——直線になると思い込みやすい箇所である。</p>\n\n<h2>4・不等式の表す領域</h2>\n\n<p>等式が線を表すのに対し、<b>不等式は広がりのある範囲</b>を表す。</p>\n\n<ul>\n  <li><b>y ＞ f(x)</b>　… 曲線 y ＝ f(x) より<b>上側</b>（同じ x に対して y が大きいほう）</li>\n  <li>境界を含むなら<b>実線</b>、含まないなら<b>破線</b>で描く</li>\n  <li><b>連立不等式</b>　… それぞれの領域の<b>共通部分</b>（「かつ」だから）</li>\n</ul>\n\n<p>領域内を動く点について式の最大最小を求めるときは、<b>その式の値を k とおいた図形</b>（直線や円）を考える。たとえば x＋y ＝ k は傾き一定の直線群を表すので、これを平行移動させ、<b>領域と共有点をもつ範囲で k を動かす</b>。領域の頂点や境界に接する位置で最大最小をとることが多い。</p>\n\n<h2>まとめ</h2>\n\n<h3>点と直線</h3>\n\n<table>\n  <tr><th>事がら</th><th>式・条件</th></tr>\n  <tr><td>内分点</td><td>(nA＋mB)／(m＋n)</td></tr>\n  <tr><td>直線の式</td><td>y － y₁ ＝ m(x － x₁)</td></tr>\n  <tr><td>平行／垂直</td><td>傾きが等しい／傾きの積が －1</td></tr>\n  <tr><td>点と直線の距離</td><td>|ax₀＋by₀＋c| ÷ √(a²＋b²)</td></tr>\n</table>\n\n<h3>円</h3>\n\n<table>\n  <tr><th>事がら</th><th>式・条件</th></tr>\n  <tr><td>円の方程式</td><td>(x－a)²＋(y－b)² ＝ r²</td></tr>\n  <tr><td>円である条件</td><td>平方完成後の右辺が正</td></tr>\n  <tr><td>直線との位置関係</td><td>中心と直線の距離 d を半径 r と比べる</td></tr>\n  <tr><td>接線（原点中心）</td><td>x₁x ＋ y₁y ＝ r²</td></tr>\n  <tr><td>2 円の交点を通る直線</td><td>2 式を辺々引く</td></tr>\n</table>\n\n<h3>軌跡と領域</h3>\n\n<table>\n  <tr><th>条件の形</th><th>求まるもの</th></tr>\n  <tr><td>等式</td><td>軌跡（線・曲線）</td></tr>\n  <tr><td>不等式</td><td>領域（広がりのある範囲）</td></tr>\n  <tr><td>距離の比が一定</td><td>アポロニウスの円</td></tr>\n  <tr><td>連立不等式</td><td>共通部分</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>落とし穴</strong><br>\n  「傾きの積が －1」は、<b>いつでも使える垂直条件ではない</b>。x ＝ 3 のような<b>y 軸に平行な直線には傾きが定義できない</b>ためである。これと垂直なのは y ＝ 2 のような x 軸に平行な直線で、傾きの積では判定できない。<b>文字を含む直線では、この場合が起こりうるかを確認</b>してから条件を立てること。\n</div>\n\n<blockquote>\n  <p>図形を座標に置き換えると、補助線をひらめく必要はなくなる。代わりに、どの軸をどこに置くかという最初の選択が、計算の量を大きく左右するようになる。</p>\n</blockquote>\n",
+  "questionLang": "ja",
+  "answerLang": "ja",
+  "version": 1,
+  "level": "高校2年",
+  "theme": "数学II ― 図形と方程式",
+  "cards": [
+    {
+      "recto": "座標平面上の 2 点間の距離は、どのように求められるか。",
+      "verso": "x 座標の差の 2 乗と y 座標の差の 2 乗を足し、その正の平方根をとる",
+      "explanation": "三平方の定理を座標で書き直したものである。差の順序は結果に影響しないが、2 乗する前に引き算をそろえる習慣をつけたい。",
+      "tags": [
+        "座標",
+        "距離"
+      ],
+      "distractors": {
+        "easy": [
+          "x 座標の差と y 座標の差を足す",
+          "x 座標の差と y 座標の差を掛ける",
+          "2 点の座標をすべて足す"
+        ],
+        "medium": [
+          "差の 2 乗を足した値そのもの",
+          "差の和の 2 乗をとる",
+          "差の絶対値のうち大きいほう"
+        ],
+        "hard": [
+          "差の 2 乗を引いてから平方根をとる",
+          "差の 2 乗の平均の平方根をとる",
+          "差の積の平方根をとる"
+        ]
+      }
+    },
+    {
+      "recto": "線分 AB を m 対 n に内分する点の座標は、どのように表されるか。",
+      "verso": "(nA＋mB)／(m＋n)、すなわち各座標について n 倍した A と m 倍した B の和を m＋n で割る",
+      "explanation": "比の値と掛ける点が入れ替わる点が要注意である。A に近いほど A の重みが大きくなる、と考えると符号や係数の取り違えを防げる。",
+      "tags": [
+        "座標",
+        "内分"
+      ],
+      "distractors": {
+        "easy": [
+          "(mA＋nB)／(m＋n)",
+          "(A＋B)／2",
+          "(mA＋nB)／(m－n)"
+        ],
+        "medium": [
+          "(nA－mB)／(m＋n)",
+          "(nA＋mB)／(m－n)",
+          "(nA＋mB)／(mn)"
+        ],
+        "hard": [
+          "(mA＋nB)／(mn)",
+          "(nA＋mB)／2",
+          "(nA＋mB) をそのまま用いる"
+        ]
+      }
+    },
+    {
+      "recto": "点 (x₁, y₁) を通り傾きが m である直線の方程式はどう表されるか。",
+      "verso": "y － y₁ ＝ m(x － x₁)",
+      "explanation": "傾きの定義（y の変化量 ÷ x の変化量）を変形したものである。1 点と傾きが分かれば直線が定まるという事実を式にしている。",
+      "tags": [
+        "直線",
+        "方程式"
+      ],
+      "distractors": {
+        "easy": [
+          "y ＝ mx",
+          "y ＋ y₁ ＝ m(x ＋ x₁)",
+          "y － y₁ ＝ m(x ＋ x₁)"
+        ],
+        "medium": [
+          "y － x₁ ＝ m(x － y₁)",
+          "y － y₁ ＝ (x － x₁)／m",
+          "y ＝ m(x － x₁)"
+        ],
+        "hard": [
+          "y － y₁ ＝ m(x － x₁) ＋ m",
+          "m(y － y₁) ＝ x － x₁",
+          "y － y₁ ＝ m²(x － x₁)"
+        ]
+      }
+    },
+    {
+      "recto": "2 直線が平行であるための条件と、垂直であるための条件を、傾きを用いてどう表すか。",
+      "verso": "平行は傾きが等しいこと、垂直は 2 つの傾きの積が －1 になること",
+      "explanation": "垂直条件で積が －1 になることが要点である。ただし一方が y 軸に平行な場合は傾きが定義できないため、この条件は使えない。",
+      "tags": [
+        "直線",
+        "位置関係"
+      ],
+      "distractors": {
+        "easy": [
+          "平行は傾きの積が －1、垂直は傾きが等しい",
+          "どちらも傾きが等しい",
+          "平行は傾きの和が 0、垂直は積が 1"
+        ],
+        "medium": [
+          "平行は傾きが等しく、垂直は傾きの積が 1",
+          "平行は傾きが等しく、垂直は傾きの和が 0",
+          "平行は傾きの差が 1、垂直は積が －1"
+        ],
+        "hard": [
+          "垂直は傾きの積が －1 だが、平行は切片も等しくなければならない",
+          "垂直は傾きが互いに逆数であること",
+          "垂直条件はすべての直線について使える"
+        ]
+      }
+    },
+    {
+      "recto": "点 (x₀, y₀) と直線 ax＋by＋c ＝ 0 の距離は、どのように表されるか。",
+      "verso": "|ax₀＋by₀＋c| ÷ √(a²＋b²)",
+      "explanation": "点の座標を直線の式に代入した値の絶対値を、係数から作った長さで割る。分母が √(a²＋b²) であることと、分子に絶対値がつくことが要点である。",
+      "tags": [
+        "直線",
+        "距離"
+      ],
+      "distractors": {
+        "easy": [
+          "(ax₀＋by₀＋c) ÷ √(a²＋b²)（絶対値なし）",
+          "|ax₀＋by₀＋c| ÷ (a²＋b²)",
+          "|ax₀＋by₀＋c| ÷ (a＋b)"
+        ],
+        "medium": [
+          "|ax₀＋by₀＋c| ÷ √(a＋b)",
+          "|ax₀＋by₀| ÷ √(a²＋b²)",
+          "√(a²＋b²) ÷ |ax₀＋by₀＋c|"
+        ],
+        "hard": [
+          "|ax₀＋by₀＋c|² ÷ √(a²＋b²)",
+          "|ax₀＋by₀＋c| ÷ √(a²－b²)",
+          "|ax₀＋by₀＋c| ÷ 2√(a²＋b²)"
+        ]
+      }
+    },
+    {
+      "recto": "中心が点 (a, b) で半径が r の円の方程式はどう表されるか。",
+      "verso": "(x－a)²＋(y－b)² ＝ r²",
+      "explanation": "中心からの距離が r である点の集まり、という定義を式にしたものである。右辺は r であって r² である点を取り違えやすい。",
+      "tags": [
+        "円",
+        "方程式"
+      ],
+      "distractors": {
+        "easy": [
+          "(x＋a)²＋(y＋b)² ＝ r²",
+          "(x－a)²＋(y－b)² ＝ r",
+          "(x－a)＋(y－b) ＝ r²"
+        ],
+        "medium": [
+          "(x－a)²－(y－b)² ＝ r²",
+          "(x－b)²＋(y－a)² ＝ r²",
+          "x²＋y² ＝ r² のみ"
+        ],
+        "hard": [
+          "(x－a)²＋(y－b)² ＝ 2r²",
+          "(x－a)²＋(y－b)² ＝ √r",
+          "(x－a)²＋(y－b)² ＝ r²／2"
+        ]
+      }
+    },
+    {
+      "recto": "x²＋y²＋lx＋my＋n ＝ 0 の形の式が円を表すためには、どのような条件が必要か。",
+      "verso": "平方完成したときの右辺（半径の 2 乗にあたる値）が正であること",
+      "explanation": "右辺が 0 なら 1 点、負なら実在する図形は存在しない。円だと決めつける前に、この確認が必要になる。",
+      "tags": [
+        "円",
+        "条件"
+      ],
+      "distractors": {
+        "easy": [
+          "l と m が正であること",
+          "n が正であること",
+          "条件は特に必要ない"
+        ],
+        "medium": [
+          "右辺が 0 以上であること",
+          "l、m、n がすべて整数であること",
+          "判別式が正であること"
+        ],
+        "hard": [
+          "右辺が負であること",
+          "右辺が 1 に等しいこと",
+          "l² ＋ m² ＞ n であればよい（4 で割る必要はない）"
+        ]
+      }
+    },
+    {
+      "recto": "直線と円の位置関係は、何を比べることで判定できるか。",
+      "verso": "円の中心と直線の距離を、円の半径と比べる",
+      "explanation": "距離が半径より小さければ 2 点で交わり、等しければ接し、大きければ交わらない。連立して判別式を使う方法もあるが、距離を使うほうが計算が軽いことが多い。",
+      "tags": [
+        "円",
+        "位置関係"
+      ],
+      "distractors": {
+        "easy": [
+          "直線の傾きと円の半径を比べる",
+          "中心の座標と半径を比べる",
+          "直線の切片と半径を比べる"
+        ],
+        "medium": [
+          "円の中心と原点の距離を半径と比べる",
+          "直線上の任意の点と中心の距離を比べる",
+          "直線の長さと円周を比べる"
+        ],
+        "hard": [
+          "中心と直線の距離を直径と比べる",
+          "中心と直線の距離を半径の 2 乗と比べる",
+          "判別式を使う方法しか存在しない"
+        ]
+      }
+    },
+    {
+      "recto": "円上の点 (x₁, y₁) における接線の方程式は、円 x²＋y² ＝ r² に対してどう表されるか。",
+      "verso": "x₁x ＋ y₁y ＝ r²",
+      "explanation": "円の方程式の x² を x₁x に、y² を y₁y に置き換えた形になる。接点の座標が分かっているときに直ちに書ける便利な公式である。",
+      "tags": [
+        "円",
+        "接線"
+      ],
+      "distractors": {
+        "easy": [
+          "x₁x ＋ y₁y ＝ r",
+          "x₁ ＋ y₁ ＝ r²",
+          "x²＋y² ＝ r² と同じ式"
+        ],
+        "medium": [
+          "x₁x － y₁y ＝ r²",
+          "x₁y ＋ y₁x ＝ r²",
+          "(x－x₁)² ＋ (y－y₁)² ＝ r²"
+        ],
+        "hard": [
+          "x₁x ＋ y₁y ＝ 2r²",
+          "x₁²x ＋ y₁²y ＝ r²",
+          "x₁x ＋ y₁y ＝ r²／2"
+        ]
+      }
+    },
+    {
+      "recto": "ある条件を満たす点が描く図形を何といい、その方程式を求めるにはどうするか。",
+      "verso": "軌跡といい、動く点の座標を (x, y) とおいて条件を式で表し、x と y だけの関係式に整理する",
+      "explanation": "媒介する文字が含まれる場合は、それを消去する必要がある。最後に、求めた式を満たす点がすべて条件を満たすかを確認する。",
+      "tags": [
+        "軌跡",
+        "手法"
+      ],
+      "distractors": {
+        "easy": [
+          "軌跡といい、いくつかの点を打って図から読み取る",
+          "領域といい、不等式で表す",
+          "曲線といい、微分して求める"
+        ],
+        "medium": [
+          "軌跡といい、条件を満たす点を 1 つ求めれば十分である",
+          "軌跡といい、必ず円になる",
+          "軌跡といい、媒介する文字は残したままでよい"
+        ],
+        "hard": [
+          "軌跡といい、逆の確認は不要である",
+          "軌跡といい、x と y の一方だけの式にする",
+          "軌跡といい、必ず直線か円のいずれかになる"
+        ]
+      }
+    },
+    {
+      "recto": "2 定点からの距離の比が一定（1 ではない）である点の軌跡は、どのような図形になるか。",
+      "verso": "円（アポロニウスの円）",
+      "explanation": "比が 1 のときだけ垂直二等分線になり、それ以外では円になる。直線になると思い込みやすい典型例である。",
+      "tags": [
+        "軌跡",
+        "応用"
+      ],
+      "distractors": {
+        "easy": [
+          "直線",
+          "放物線",
+          "2 定点を結ぶ線分"
+        ],
+        "medium": [
+          "垂直二等分線",
+          "楕円",
+          "双曲線"
+        ],
+        "hard": [
+          "比が 1 のときと同じく垂直二等分線になる",
+          "2 つの直線",
+          "点になる"
+        ]
+      }
+    },
+    {
+      "recto": "不等式 y ＞ f(x) が表す領域は、曲線 y ＝ f(x) に対してどの側になるか。",
+      "verso": "曲線より上側の部分",
+      "explanation": "同じ x に対して y の値が大きいほうが上である。境界を含むかどうかは不等号に等号があるかで決まり、含む場合は実線、含まない場合は破線で描く。",
+      "tags": [
+        "領域",
+        "不等式"
+      ],
+      "distractors": {
+        "easy": [
+          "曲線より下側の部分",
+          "曲線より右側の部分",
+          "曲線そのもの"
+        ],
+        "medium": [
+          "曲線の内側の部分",
+          "y 軸より右側の部分",
+          "曲線を境に定まらない"
+        ],
+        "hard": [
+          "f(x) の符号によって上下が入れ替わる",
+          "曲線より上側だが境界を必ず含む",
+          "x ＞ 0 の範囲だけが該当する"
+        ]
+      }
+    },
+    {
+      "recto": "連立不等式が表す領域は、どのように求められるか。",
+      "verso": "それぞれの不等式が表す領域の共通部分をとる",
+      "explanation": "「かつ」で結ばれているためである。「または」で結ばれる場合は和集合となり、範囲が広がる点で区別される。",
+      "tags": [
+        "領域",
+        "不等式"
+      ],
+      "distractors": {
+        "easy": [
+          "それぞれの領域を合わせた部分をとる",
+          "一方の領域だけを採用する",
+          "領域の境界だけをとる"
+        ],
+        "medium": [
+          "それぞれの領域の差をとる",
+          "広いほうの領域を採用する",
+          "領域の面積の平均をとる"
+        ],
+        "hard": [
+          "共通部分の補集合をとる",
+          "「または」の場合と同じく共通部分をとる",
+          "境界線を除いた部分だけをとる"
+        ]
+      }
+    },
+    {
+      "recto": "領域内を動く点について、ある式の最大値・最小値を求めるとき、どのような考え方を用いるか。",
+      "verso": "その式の値を k とおいた図形（直線や円）が、領域と共有点をもつ範囲で k を動かして考える",
+      "explanation": "たとえば x＋y ＝ k は傾きが一定の直線群を表す。この直線を平行移動させ、領域に接する位置で最大最小をとることが多い。",
+      "tags": [
+        "領域",
+        "最大最小"
+      ],
+      "distractors": {
+        "easy": [
+          "領域の頂点だけを調べればよい",
+          "領域の面積を計算する",
+          "微分して極値を求める"
+        ],
+        "medium": [
+          "領域の中心の座標を代入する",
+          "境界線上の点をすべて代入する",
+          "式の値を 0 とおいて考える"
+        ],
+        "hard": [
+          "k とおいた図形が領域を完全に含む範囲で考える",
+          "k を固定して領域を動かす",
+          "領域と共有点をもたない範囲で考える"
+        ]
+      }
+    },
+    {
+      "recto": "【比較】軌跡を求める問題と、領域を求める問題は、答えの形の点でどう違うか。",
+      "verso": "軌跡は条件を満たす点が作る線や曲線を求めるのに対し、領域は条件を満たす点が作る広がりのある範囲を求める",
+      "explanation": "等式で表される条件は軌跡、不等式で表される条件は領域になる。求めるものが線か面かという違いが、そのまま条件の形に対応している。",
+      "tags": [
+        "comparaison",
+        "軌跡"
+      ],
+      "distractors": {
+        "easy": [
+          "両者に違いはない",
+          "どちらも範囲を求める",
+          "どちらも線を求める"
+        ],
+        "medium": [
+          "軌跡が範囲、領域が線を求める",
+          "違いは座標平面を使うかどうかである",
+          "違いは図形の個数だけである"
+        ],
+        "hard": [
+          "軌跡は不等式、領域は等式で表される",
+          "軌跡は必ず直線、領域は必ず円になる",
+          "違いは境界を含むかどうかだけである"
+        ]
+      }
+    },
+    {
+      "recto": "【落とし穴】2 直線が垂直であることを示すのに、つねに「傾きの積が －1」を使ってよいか。",
+      "verso": "いいえ。一方が y 軸に平行な直線の場合は傾きが定義できないため、この条件は使えず別に扱う必要がある",
+      "explanation": "よくある見落としである。x ＝ 3 のような直線には傾きがなく、これと垂直なのは y ＝ 2 のような x 軸に平行な直線である。文字を含む直線では、この場合が起こりうるかを確認しなければならない。",
+      "tags": [
+        "piege",
+        "直線"
+      ],
+      "distractors": {
+        "easy": [
+          "はい。つねに使える条件である",
+          "はい。すべての直線に傾きが定義されるから",
+          "はい。y 軸に平行な直線の傾きは 0 だから"
+        ],
+        "medium": [
+          "はい。y 軸に平行な直線の傾きは 1 とみなすから",
+          "はい。垂直条件は座標に依存しないから",
+          "いいえ。傾きの積が 1 になる場合もあるから"
+        ],
+        "hard": [
+          "いいえ。x 軸に平行な直線でも傾きが定義できないから",
+          "はい。ただし原点を通る直線に限るから",
+          "いいえ。傾きの積は必ず 1 になるから"
+        ]
+      }
+    },
+    {
+      "recto": "2 つの円が交わるとき、その 2 交点を通る直線の方程式はどのように得られるか。",
+      "verso": "2 つの円の方程式を辺々引くことで得られる",
+      "explanation": "2 次の項が打ち消し合い、1 次式が残る。この直線は根軸と呼ばれ、交点の座標を求めなくても直線の式が得られる点が便利である。",
+      "tags": [
+        "円",
+        "応用"
+      ],
+      "distractors": {
+        "easy": [
+          "2 つの円の方程式を足す",
+          "2 つの円の中心を結ぶ",
+          "2 つの半径を比べる"
+        ],
+        "medium": [
+          "2 つの円の方程式を掛ける",
+          "2 つの円の中心の中点を通る直線をとる",
+          "交点を実際に求めるしかない"
+        ],
+        "hard": [
+          "2 つの円の方程式を辺々割る",
+          "中心を結ぶ直線と垂直な任意の直線になる",
+          "引いた結果は必ず 2 次式になる"
+        ]
+      }
+    },
+    {
+      "recto": "座標を用いて図形の性質を証明する方法の利点は何か。",
+      "verso": "図形の位置関係を式の計算に置き換えられるため、作図や補助線に頼らず機械的に処理できること",
+      "explanation": "座標軸の取り方を工夫すると計算が大幅に簡単になる。原点や軸上に頂点を置くという選択が、証明の見通しを左右する。",
+      "tags": [
+        "座標",
+        "証明"
+      ],
+      "distractors": {
+        "easy": [
+          "図を描く必要がまったくなくなること",
+          "計算量が必ず減ること",
+          "特に利点はない"
+        ],
+        "medium": [
+          "すべての図形問題が座標で解けるようになること",
+          "座標軸の取り方は結果に影響しないこと",
+          "補助線が不要になるが計算は複雑になること"
+        ],
+        "hard": [
+          "定理を覚える必要がなくなること",
+          "座標を使えば証明が不要になること",
+          "空間図形には応用できないこと"
+        ]
+      }
+    },
+    {
+      "recto": "定点を通る直線の集まりを 1 つの式で表す考え方を何といい、どのような利点があるか。",
+      "verso": "直線束といい、2 直線の交点を求めなくても、その交点を通る直線を表せること",
+      "explanation": "2 直線の方程式を組み合わせた式が、交点を通る直線群を表す。交点の座標を求める手間を省ける点が利点である。",
+      "tags": [
+        "直線",
+        "応用"
+      ],
+      "distractors": {
+        "easy": [
+          "軌跡といい、点の動きを表せること",
+          "領域といい、範囲を表せること",
+          "接線といい、円に接する直線を表せること"
+        ],
+        "medium": [
+          "直線束といい、平行な直線だけを表せること",
+          "直線束といい、必ず交点の座標が必要になること",
+          "根軸といい、2 円の交点を通る直線を表せること"
+        ],
+        "hard": [
+          "直線束といい、垂直な直線だけを表せること",
+          "直線束といい、1 本の直線しか表せないこと",
+          "直線束といい、傾きが等しい直線群を表すこと"
+        ]
+      }
+    },
+    {
+      "recto": "全体として、図形と方程式の学習はどのように整理できるか。",
+      "verso": "図形の条件を座標と方程式に翻訳することで、位置関係や最大最小を計算によって判定できるようにすること",
+      "explanation": "作図や定理の記憶に頼っていた図形の問題が、式の操作に置き換わる。どの条件をどの式に対応させるかを見極めることが、この単元の核心である。",
+      "tags": [
+        "まとめ"
+      ],
+      "distractors": {
+        "easy": [
+          "公式を暗記するだけの単元であること",
+          "作図の練習をする単元であること",
+          "特に整理できない"
+        ],
+        "medium": [
+          "座標を使っても図形の性質は分からないこと",
+          "軌跡と領域は同じ方法で求められること",
+          "座標軸の取り方は結果に影響しないこと"
+        ],
+        "hard": [
+          "図形問題は必ず座標で解くべきであること",
+          "距離の公式は円にしか使えないこと",
+          "不等式では図形を表せないこと"
+        ]
+      }
+    }
+  ]
+}

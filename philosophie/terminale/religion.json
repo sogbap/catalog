@@ -1,0 +1,536 @@
+{
+  "id": "philosophie-terminale-religion",
+  "title": "La religion",
+  "emoji": "🕯️",
+  "subject": "philosophy",
+  "country": "fr",
+  "courseDescription": "Philosophie · Terminale — la religion : foi et raison, preuves et critiques, fonction sociale du religieux, tolérance et laïcité.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>La religion</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale (voie générale et technologique)<br>\n  <b>Thème&nbsp;:</b> Philosophie — La raison et le réel<br>\n  <b>Notion</b> · environ 4 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> La religion relève-t-elle du savoir, du sentiment, ou d'autre chose encore&nbsp;?</p></blockquote>\n\n<p>Le traitement philosophique de la religion suppose une discipline&nbsp;: on n'examine pas si telle croyance est vraie — nul ne peut le trancher ici —, mais <strong>ce qu'est croire</strong>, <strong>ce que la raison peut établir</strong>, et <strong>comment organiser la coexistence</strong> de convictions incompatibles. Cette réserve n'est pas une lâcheté&nbsp;: c'est la condition pour que croyants et non-croyants puissent raisonner ensemble. Elle exige aussi de ne pas céder à deux facilités symétriques&nbsp;: traiter la religion comme une science ratée, ou la mettre à l'abri de toute discussion.</p>\n\n<h2>1 · Ce qu'est une religion</h2>\n\n<p>Une religion ne se réduit pas à une opinion personnelle sur l'existence de Dieu. Elle articule&nbsp;:</p>\n\n<ul>\n  <li>des <strong>croyances</strong> sur l'origine, le sens, la destination&nbsp;;</li>\n  <li>des <strong>rites</strong> et un calendrier qui scandent le temps collectif&nbsp;;</li>\n  <li>des <strong>interdits</strong> et des prescriptions&nbsp;;</li>\n  <li>une <strong>communauté</strong> qui s'y reconnaît.</li>\n</ul>\n\n<p>C'est ce qui explique qu'on puisse partager les rites sans partager toutes les croyances, ou l'inverse.</p>\n\n<h3>Croire que, croire en</h3>\n\n<p>Distinction décisive. <em>Croire que</em> porte sur un énoncé tenu pour vrai sans preuve suffisante. <em>Croire en</em> engage une <strong>confiance</strong> dans une personne ou une réalité. La foi religieuse relève d'abord du second registre&nbsp;: la traiter comme une hypothèse mal étayée sur des faits revient à manquer ce qu'elle est pour le croyant.</p>\n\n<div class=\"callout\">\n  <strong>Repère · Croire / savoir</strong><br>\n  Savoir suppose des raisons que l'on peut exposer&nbsp;; croire tient pour vrai sans disposer de telles raisons. La distinction ne disqualifie pas la croyance&nbsp;: elle interdit de la présenter comme un savoir — et réciproquement, d'opposer une croyance à un fait établi.\n</div>\n\n<h3>Sacré et profane</h3>\n\n<p>Le <strong>sacré</strong> est ce qui est mis à part et soustrait à l'usage ordinaire&nbsp;; le <strong>profane</strong> relève du monde commun et disponible. La séparation n'est pas dans les choses mais dans le <em>rapport institué</em>&nbsp;: une pierre, un jour, un texte deviennent sacrés parce qu'un groupe les distingue. Cela explique la gravité de la profanation, qui n'endommage parfois rien matériellement.</p>\n\n<h2>2 · Ce que la raison peut établir</h2>\n\n<p>La tradition a produit plusieurs preuves de l'existence de Dieu. Trois familles principales.</p>\n\n<ul>\n  <li>La preuve <strong>ontologique</strong> (Anselme, Descartes)&nbsp;: l'existence appartient nécessairement à l'idée d'un être parfait, puisqu'un être parfait qui n'existerait pas serait moins parfait.</li>\n  <li>La preuve <strong>cosmologique</strong>&nbsp;: la série des causes ne peut pas régresser à l'infini&nbsp;; il faut une cause première.</li>\n  <li>La preuve par l'<strong>ordre du monde</strong>&nbsp;: l'organisation apparente de la nature suppose une intelligence qui l'a conçue.</li>\n</ul>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 185\" role=\"img\" aria-label=\"Tableau des trois preuves classiques de l'existence de Dieu et de leurs objections : la preuve ontologique part du concept d'être parfait et se heurte à l'objection kantienne que l'existence n'est pas une propriété ; la preuve cosmologique remonte à une cause première ; la preuve par l'ordre du monde se heurte à l'explication par la sélection naturelle\">\n    <text x=\"170\" y=\"14\" text-anchor=\"middle\" font-size=\"10\" class=\"s-muted\">Trois preuves, trois objections</text>\n    <rect x=\"6\" y=\"26\" width=\"102\" height=\"118\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"57\" y=\"48\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Ontologique</text>\n    <text x=\"57\" y=\"70\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">part du concept<tspan x=\"57\" dy=\"12\">d'être parfait</tspan></text>\n    <text x=\"57\" y=\"112\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">l'existence n'est<tspan x=\"57\" dy=\"11\">pas une propriété</tspan></text>\n    <rect x=\"119\" y=\"26\" width=\"102\" height=\"118\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"170\" y=\"48\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Cosmologique</text>\n    <text x=\"170\" y=\"70\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">remonte à une<tspan x=\"170\" dy=\"12\">cause première</tspan></text>\n    <text x=\"170\" y=\"112\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">pourquoi arrêter<tspan x=\"170\" dy=\"11\">la série là ?</tspan></text>\n    <rect x=\"232\" y=\"26\" width=\"102\" height=\"118\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"283\" y=\"48\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Par l'ordre</text>\n    <text x=\"283\" y=\"70\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">conclut d'un ordre<tspan x=\"283\" dy=\"12\">à un concepteur</tspan></text>\n    <text x=\"283\" y=\"112\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">la sélection<tspan x=\"283\" dy=\"11\">naturelle suffit</tspan></text>\n    <text x=\"170\" y=\"172\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">Kant : la raison théorique ne peut rien établir hors de l'expérience</text>\n  </svg>\n  <figcaption>Aucune de ces preuves ne s'impose&nbsp;; leur échec ne démontre pas davantage l'inexistence de Dieu.</figcaption>\n</figure>\n\n<p><strong>Kant</strong> tranche d'une manière décisive&nbsp;: ces preuves portent sur un objet situé <strong>hors de toute expérience possible</strong>, où la raison théorique ne peut rien établir. Contre la preuve ontologique, il objecte en particulier que <em>l'existence n'est pas une propriété</em> qui ajouterait quelque chose au concept — cent thalers réels ne contiennent rien de plus que cent thalers pensés. Il ne conclut pas que Dieu n'existe pas&nbsp;: il montre que la question excède les pouvoirs de la connaissance, et réintroduit ensuite Dieu comme <em>postulat de la raison pratique</em>.</p>\n\n<h3>Le pari de Pascal</h3>\n\n<p>Puisque la raison ne peut trancher, Pascal déplace la question vers l'<strong>enjeu</strong>&nbsp;: parier sur l'existence de Dieu ferait risquer peu pour gagner beaucoup, alors que le pari inverse risquerait tout. L'argument ne prouve rien&nbsp;; il veut montrer qu'il est raisonnable de croire là où l'on ne peut pas savoir. On lui objecte qu'il s'adresse à l'<em>intérêt</em>, et qu'une croyance décidée par calcul ne serait pas une foi.</p>\n\n<h3>Le problème du mal</h3>\n\n<p>La difficulté la plus redoutable&nbsp;: comment concilier l'existence du mal avec celle d'un Dieu à la fois tout-puissant, omniscient et bon&nbsp;? S'il peut empêcher le mal et ne le fait pas, sa bonté est en cause&nbsp;; s'il le veut sans le pouvoir, sa puissance l'est. Les réponses classiques invoquent la liberté humaine — le mal serait le prix du libre arbitre — ou la limite de notre point de vue. Aucune ne clôt le débat, notamment pour les maux qui ne doivent rien à la volonté humaine.</p>\n\n<h2>3 · Les critiques du religieux</h2>\n\n<p>Trois grandes critiques modernes, qu'il faut manier avec précision.</p>\n\n<p><strong>Feuerbach&nbsp;: la projection.</strong> L'homme projette hors de lui, sous le nom de Dieu, ses propres qualités portées à la perfection. La religion serait une <em>aliénation</em>&nbsp;: l'homme se dépossède de ce qu'il a de meilleur en l'attribuant à un autre. <b>Limite&nbsp;:</b> cette thèse explique la genèse de l'idée sans démontrer que son objet n'existe pas.</p>\n\n<p><strong>Marx&nbsp;: l'opium du peuple.</strong> La formule est plus nuancée qu'on ne la cite&nbsp;: la religion est aussi «&nbsp;le soupir de la créature opprimée&nbsp;». Marx reconnaît qu'elle exprime une détresse <em>réelle</em>&nbsp;; il lui reproche de la rendre supportable au lieu de la faire disparaître — de consoler sans guérir.</p>\n\n<p><strong>Freud&nbsp;: l'illusion.</strong> La religion est une croyance dont le ressort principal est la réalisation d'un désir, celui d'être protégé par un père tout-puissant. <b>Précision très souvent oubliée&nbsp;:</b> chez Freud, une illusion n'est <em>pas nécessairement une erreur</em>. Elle se définit par son origine dans le désir, non par sa fausseté.</p>\n\n<p>À côté de ces critiques, <strong>Durkheim</strong> propose une analyse d'un autre ordre&nbsp;: la religion produit et entretient la <strong>cohésion du groupe</strong>, la société se vénérant elle-même sous les figures qu'elle sacralise. L'approche est sociologique et non théologique — elle explique ce que la religion <em>fait</em>, non ce qui est vrai de son objet — et elle éclaire pourquoi des sociétés sécularisées conservent des rites collectifs et des symboles intouchables.</p>\n\n<h2>4 · Religion, morale, superstition</h2>\n\n<p>La morale dépend-elle de la religion&nbsp;? Le <strong>dilemme formulé par Platon</strong> reste décisif&nbsp;: une action est-elle bonne <em>parce que</em> Dieu l'ordonne, ou Dieu l'ordonne-t-il <em>parce qu'elle est</em> bonne&nbsp;? Dans le premier cas, n'importe quel commandement deviendrait juste&nbsp;; dans le second, la bonté ne dépend pas du commandement — et des morales rationnelles sont possibles.</p>\n\n<p>Il faut aussi distinguer la foi de deux voisins&nbsp;:</p>\n\n<ul>\n  <li>la <strong>superstition</strong> attribue une efficacité magique à des actes ou des objets. Elle ramène le sacré à un moyen d'obtenir des résultats — ce que les traditions religieuses elles-mêmes ont combattu&nbsp;;</li>\n  <li>le <strong>fanatisme</strong> se définit non par l'intensité de la conviction mais par le <em>rapport à autrui</em>&nbsp;: le refus de reconnaître à l'autre le droit de ne pas partager sa croyance, et la légitimation de la violence pour l'imposer. Une foi profonde peut parfaitement s'accompagner du respect des incroyants.</li>\n</ul>\n\n<h2>5 · Vivre ensemble avec des croyances différentes</h2>\n\n<p>L'argument classique de la <strong>tolérance</strong>, formulé par Locke, est d'une efficacité redoutable&nbsp;: <em>la croyance ne se commande pas</em>. La force peut obtenir une soumission extérieure, jamais l'adhésion intérieure qu'elle vise&nbsp;; la contrainte ne produit donc que des conversions feintes. La tolérance se fonde d'abord sur l'inefficacité de la contrainte, avant de se fonder sur le respect des personnes.</p>\n\n<p>La <strong>laïcité</strong> en tire les conséquences institutionnelles&nbsp;: elle garantit la <em>neutralité de l'État</em> en matière religieuse et la <em>liberté de conscience</em> de chacun, croyant ou non. Elle n'est ni une religion civile ni une hostilité au fait religieux&nbsp;: en soustrayant l'État aux appartenances, elle protège aussi la liberté de pratiquer, et pas seulement celle de ne pas croire.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Schéma de la laïcité : l'État reste neutre au centre, ce qui garantit également la liberté de croire, la liberté de pratiquer et la liberté de ne pas croire, sans qu'aucune de ces positions ne devienne officielle\">\n    <defs>\n      <marker id=\"ar-phrl1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n    <rect x=\"106\" y=\"18\" width=\"128\" height=\"36\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"41\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\" font-weight=\"bold\">État neutre</text>\n    <path d=\"M140,54 L74,92\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-phrl1)\"/>\n    <path d=\"M170,54 L170,92\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-phrl1)\"/>\n    <path d=\"M200,54 L266,92\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-phrl1)\"/>\n    <rect x=\"6\" y=\"98\" width=\"102\" height=\"42\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"57\" y=\"116\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">liberté</text>\n    <text x=\"57\" y=\"130\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">de croire</text>\n    <rect x=\"119\" y=\"98\" width=\"102\" height=\"42\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"170\" y=\"116\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">liberté</text>\n    <text x=\"170\" y=\"130\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">de pratiquer</text>\n    <rect x=\"232\" y=\"98\" width=\"102\" height=\"42\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"283\" y=\"116\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">liberté</text>\n    <text x=\"283\" y=\"130\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">de ne pas croire</text>\n    <text x=\"170\" y=\"164\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">la neutralité protège les trois ; elle n'en consacre aucune</text>\n  </svg>\n  <figcaption>La laïcité n'est pas une quatrième position dans le débat&nbsp;: c'est le cadre qui permet aux trois autres de coexister.</figcaption>\n</figure>\n\n<h2>L'essentiel</h2>\n\n<h3>Le fil du problème</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Frise du parcours du chapitre : ce qu'est une religion et la distinction entre croire et savoir, puis les preuves de l'existence de Dieu et leurs limites, puis les critiques modernes de Feuerbach, Marx et Freud, puis les distinctions entre foi, superstition et fanatisme, enfin la tolérance et la laïcité\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"186\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Définir</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Croyances, rites, communauté</text>\n    <circle cx=\"26\" cy=\"62\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"59\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Démontrer ?</text>\n    <text x=\"44\" y=\"72\" font-size=\"10\" fill=\"currentColor\">Preuves, Kant, Pascal, le mal</text>\n    <circle cx=\"26\" cy=\"104\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"101\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Critiquer</text>\n    <text x=\"44\" y=\"114\" font-size=\"10\" fill=\"currentColor\">Feuerbach, Marx, Freud, Durkheim</text>\n    <circle cx=\"26\" cy=\"146\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"143\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Distinguer</text>\n    <text x=\"44\" y=\"156\" font-size=\"10\" fill=\"currentColor\">Foi, superstition, fanatisme</text>\n    <circle cx=\"26\" cy=\"184\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"181\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Coexister</text>\n    <text x=\"44\" y=\"194\" font-size=\"10\" fill=\"currentColor\">Tolérance et laïcité</text>\n  </svg>\n  <figcaption>Le chapitre passe d'une question métaphysique indécidable à une question politique décidable.</figcaption>\n</figure>\n\n<h3>Distinctions à tenir</h3>\n\n<table>\n  <tr><th>Distinction</th><th>Ce qui se joue</th></tr>\n  <tr><td>Croire que / croire en</td><td>Tenir un énoncé pour vrai, ou faire confiance</td></tr>\n  <tr><td>Croire / savoir</td><td>Disposer ou non de raisons exposables</td></tr>\n  <tr><td>Sacré / profane</td><td>Ce qui est mis à part par une institution</td></tr>\n  <tr><td>Foi / superstition</td><td>Confiance contre efficacité magique attendue</td></tr>\n  <tr><td>Conviction / fanatisme</td><td>Le rapport à autrui, non l'intensité</td></tr>\n  <tr><td>Genèse / validité d'une croyance</td><td>Expliquer d'où elle vient ne la réfute pas</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition</th></tr>\n  <tr><td>Foi</td><td>Confiance engageant l'existence, sans prétention démonstrative</td></tr>\n  <tr><td>Sacré</td><td>Ce qui est soustrait à l'usage ordinaire par un groupe</td></tr>\n  <tr><td>Preuve ontologique</td><td>Conclusion de l'idée d'être parfait à son existence</td></tr>\n  <tr><td>Problème du mal</td><td>Difficulté de concilier mal, toute-puissance et bonté divines</td></tr>\n  <tr><td>Projection</td><td>Attribution à Dieu des qualités humaines idéalisées</td></tr>\n  <tr><td>Illusion (Freud)</td><td>Croyance motivée par un désir, pas nécessairement fausse</td></tr>\n  <tr><td>Superstition</td><td>Efficacité magique prêtée à des actes ou objets</td></tr>\n  <tr><td>Fanatisme</td><td>Refus du droit d'autrui à ne pas croire</td></tr>\n  <tr><td>Tolérance</td><td>Renoncement à contraindre une croyance qui ne se commande pas</td></tr>\n  <tr><td>Laïcité</td><td>Neutralité de l'État garantissant la liberté de conscience</td></tr>\n</table>\n\n<h3>Les auteurs</h3>\n\n<table>\n  <tr><th>Auteur</th><th>Thèse à retenir</th></tr>\n  <tr><td>Pascal</td><td>Le pari&nbsp;: croire est raisonnable là où la raison ne peut trancher</td></tr>\n  <tr><td>Locke</td><td>La croyance ne se commande pas&nbsp;: la contrainte est vaine</td></tr>\n  <tr><td>Kant</td><td>Les preuves excèdent l'expérience possible&nbsp;; Dieu est un postulat pratique</td></tr>\n  <tr><td>Feuerbach</td><td>Dieu est la projection des perfections humaines</td></tr>\n  <tr><td>Marx</td><td>La religion console d'une misère réelle sans la supprimer</td></tr>\n  <tr><td>Freud</td><td>La religion est une illusion&nbsp;: une croyance motivée par un désir</td></tr>\n  <tr><td>Durkheim</td><td>La religion produit la cohésion&nbsp;: la société se vénère elle-même</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Traiter la foi comme un <em>savoir défaillant</em>. Lui reprocher de manquer de preuves suppose qu'elle en revendique — ce qu'elle ne fait pas dans ses formes réfléchies&nbsp;: elle engage une confiance, non une démonstration. Mais l'excès inverse est tout aussi problématique&nbsp;: dire que foi et savoir n'ont pas le même régime ne met pas la croyance à l'abri de toute discussion, et n'autorise pas à opposer une croyance à un fait établi. Autre précision à retenir&nbsp;: chez Freud, «&nbsp;illusion&nbsp;» ne signifie pas «&nbsp;erreur&nbsp;».\n</div>\n\n<blockquote><p>La question de savoir qui a raison ne se tranchera pas ici. Celle de savoir comment vivre ensemble malgré ce désaccord, en revanche, admet des réponses&nbsp;— et c'est peut-être le seul terrain où la philosophie ait quelque chose à offrir aux uns et aux autres.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Philosophie — La raison et le réel",
+  "cards": [
+    {
+      "recto": "Quels éléments caractérisent une religion au-delà de la croyance individuelle ?",
+      "verso": "Un ensemble de croyances, de rites et d'interdits partagés par une communauté qui s'y reconnaît",
+      "explanation": "Réduire la religion à une opinion personnelle sur l'existence de Dieu manque l'essentiel : elle organise des pratiques, un calendrier, des appartenances. C'est ce qui explique qu'on puisse en partager les rites sans en partager toutes les croyances.",
+      "tags": [
+        "définition",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La simple croyance en Dieu",
+          "La lecture d'un livre sacré",
+          "La construction de lieux de culte"
+        ],
+        "medium": [
+          "Un système de règles morales sans pratique",
+          "Une explication du monde concurrente de la science",
+          "Une organisation politique fondée sur la foi"
+        ],
+        "hard": [
+          "Une opinion privée dépourvue de dimension collective",
+          "Un ensemble de rites sans contenu de croyance",
+          "Une doctrine philosophique sur l'origine du monde"
+        ]
+      }
+    },
+    {
+      "recto": "Ne pas confondre : quelle différence sépare croire que et croire en ?",
+      "verso": "Croire que porte sur un énoncé tenu pour vrai sans preuve suffisante, croire en engage une confiance dans une personne ou une réalité",
+      "explanation": "La foi religieuse ne se réduit pas à une opinion mal fondée sur des faits : elle est d'abord un rapport de confiance qui engage l'existence. Traiter la foi comme une simple hypothèse mal étayée revient à manquer ce qu'elle est pour le croyant.",
+      "tags": [
+        "comparaison",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Croire que est fort, croire en est faible",
+          "Croire que est religieux, croire en est laïque",
+          "Ce sont deux formulations identiques"
+        ],
+        "medium": [
+          "Croire en porte sur un énoncé, croire que sur une personne",
+          "Croire que concerne l'avenir, croire en le passé",
+          "Croire en est réservé aux enfants"
+        ],
+        "hard": [
+          "Croire en désigne une hypothèse provisoire à vérifier",
+          "Croire que engage un rapport de confiance existentiel",
+          "Les deux se ramènent à un défaut de preuve"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : la foi est-elle une forme inférieure de savoir ?",
+      "verso": "Non : elle n'a pas la même prétention, puisqu'elle n'affirme pas disposer d'une démonstration mais engage une confiance",
+      "explanation": "C'est le contresens central du chapitre. Reprocher à la foi de manquer de preuves suppose qu'elle en revendique, ce qu'elle ne fait pas dans ses formes réfléchies. Attention à l'excès inverse : dire que foi et savoir n'ont pas le même régime ne les met pas à l'abri de toute discussion, et n'autorise pas à opposer une croyance à un fait établi.",
+      "tags": [
+        "piege",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, croire c'est savoir moins bien",
+          "Oui, la science a remplacé la foi",
+          "Non, la foi est un savoir supérieur démontré"
+        ],
+        "medium": [
+          "Oui, car toute croyance vise la vérité des faits",
+          "Non, car la foi possède ses propres démonstrations",
+          "Oui, sauf pour les théologiens"
+        ],
+        "hard": [
+          "Oui, car la foi revendique un statut démonstratif",
+          "Non, car foi et savoir portent sur des objets identiques",
+          "Oui, car l'absence de preuve disqualifie tout énoncé"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi consiste la preuve ontologique de l'existence de Dieu ?",
+      "verso": "Elle soutient que l'existence appartient nécessairement à l'idée d'un être parfait, puisqu'un être parfait qui n'existerait pas serait moins parfait",
+      "explanation": "Formulée par Anselme puis reprise par Descartes, elle prétend conclure de la seule analyse d'un concept à l'existence de son objet. Kant objecte que l'existence n'est pas une propriété qui ajoute quelque chose au concept : cent thalers réels ne contiennent rien de plus que cent thalers pensés.",
+      "tags": [
+        "preuve",
+        "métaphysique"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle repose sur l'observation de la nature",
+          "Elle s'appuie sur des témoignages historiques",
+          "Elle invoque des miracles constatés"
+        ],
+        "medium": [
+          "Elle remonte des effets à une cause première",
+          "Elle conclut de l'ordre du monde à un créateur",
+          "Elle repose sur le consentement universel des peuples"
+        ],
+        "hard": [
+          "Elle établit l'existence à partir de l'expérience du sacré",
+          "Elle démontre que l'idée de perfection dérive de l'expérience",
+          "Elle conclut de l'existence du monde à celle de son concept"
+        ]
+      }
+    },
+    {
+      "recto": "Quel type d'argument constitue la preuve par l'ordre du monde ?",
+      "verso": "Elle conclut de l'organisation apparente de la nature à l'existence d'une intelligence qui l'aurait conçue",
+      "explanation": "L'objection décisive est venue de la biologie : la sélection naturelle explique l'apparence de conception sans supposer un concepteur. L'argument reste séduisant parce que l'ordre observé demande une explication, mais il ne s'impose plus.",
+      "tags": [
+        "preuve",
+        "métaphysique"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle repose sur la beauté des paysages",
+          "Elle invoque le nombre des croyants",
+          "Elle s'appuie sur les textes sacrés"
+        ],
+        "medium": [
+          "Elle analyse le concept d'être parfait",
+          "Elle remonte à une cause première du mouvement",
+          "Elle part d'une expérience intérieure du divin"
+        ],
+        "hard": [
+          "Elle conclut de l'existence du concept à celle de son objet",
+          "Elle déduit l'ordre du monde de la nécessité logique",
+          "Elle établit une cause première par régression à l'infini"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle limite Kant assigne-t-il aux preuves de l'existence de Dieu ?",
+      "verso": "Elles portent sur un objet situé hors de toute expérience possible, où la raison théorique ne peut rien établir",
+      "explanation": "Kant ne conclut pas que Dieu n'existe pas : il montre que la question excède les pouvoirs de la connaissance. Il réintroduit ensuite Dieu comme postulat de la raison pratique, non comme objet de savoir.",
+      "tags": [
+        "critique",
+        "Kant"
+      ],
+      "distractors": {
+        "easy": [
+          "Elles sont trop longues à exposer",
+          "Elles ne convainquent pas les incroyants",
+          "Elles ont été écrites au Moyen Âge"
+        ],
+        "medium": [
+          "Elles contiennent des erreurs de calcul",
+          "Elles contredisent les textes religieux",
+          "Elles supposent la foi qu'elles veulent démontrer"
+        ],
+        "hard": [
+          "Elles démontrent au contraire l'inexistence de Dieu",
+          "Elles relèvent de la raison pratique et non théorique",
+          "Elles portent sur un objet d'expérience mal analysé"
+        ]
+      }
+    },
+    {
+      "recto": "Sur quoi repose l'argument du pari de Pascal ?",
+      "verso": "Sur un calcul des enjeux : parier sur l'existence de Dieu ferait risquer peu pour gagner beaucoup, alors que le contraire risquerait tout",
+      "explanation": "L'argument ne prétend pas prouver l'existence de Dieu mais montrer qu'il est raisonnable de croire quand la raison ne peut trancher. On lui objecte qu'il s'adresse à l'intérêt, et qu'une croyance ainsi décidée ne serait pas une foi.",
+      "tags": [
+        "auteur",
+        "Pascal"
+      ],
+      "distractors": {
+        "easy": [
+          "Sur une démonstration mathématique de Dieu",
+          "Sur un témoignage personnel",
+          "Sur l'autorité de l'Église"
+        ],
+        "medium": [
+          "Sur l'analyse du concept d'être parfait",
+          "Sur l'observation de l'ordre naturel",
+          "Sur la nécessité morale de croire"
+        ],
+        "hard": [
+          "Sur la démonstration que la raison peut trancher la question",
+          "Sur un calcul montrant que l'enjeu du pari est nul",
+          "Sur l'idée que la foi précède nécessairement le calcul"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on le problème du mal en théologie ?",
+      "verso": "La difficulté de concilier l'existence du mal avec celle d'un Dieu à la fois tout-puissant, omniscient et bon",
+      "explanation": "Si Dieu peut empêcher le mal et ne le fait pas, sa bonté est en cause ; s'il le veut sans le pouvoir, sa puissance l'est. Les réponses classiques invoquent la liberté humaine ou la limite de notre point de vue, sans clore le débat.",
+      "tags": [
+        "problème",
+        "métaphysique"
+      ],
+      "distractors": {
+        "easy": [
+          "La difficulté de définir ce qui est mal",
+          "Le fait que les hommes soient méchants",
+          "L'existence de catastrophes naturelles seulement"
+        ],
+        "medium": [
+          "La question de savoir si le mal est puni après la mort",
+          "Le problème du salut des non-croyants",
+          "La question de l'origine du péché originel"
+        ],
+        "hard": [
+          "La difficulté de concilier la liberté humaine et l'omniscience divine",
+          "Le problème de la prédestination et du mérite",
+          "La question de la compatibilité entre foi et raison"
+        ]
+      }
+    },
+    {
+      "recto": "Que soutient Feuerbach sur l'origine de l'idée de Dieu ?",
+      "verso": "Que l'homme projette hors de lui, sous le nom de Dieu, ses propres qualités portées à la perfection",
+      "explanation": "La religion serait ainsi une aliénation : l'homme se dépossède de ce qu'il a de meilleur en l'attribuant à un autre. Cette thèse explique la genèse de l'idée, sans démontrer que son objet n'existe pas.",
+      "tags": [
+        "critique",
+        "Feuerbach"
+      ],
+      "distractors": {
+        "easy": [
+          "Que Dieu a créé l'homme à son image",
+          "Que l'idée de Dieu vient des prêtres",
+          "Que Dieu est une invention récente"
+        ],
+        "medium": [
+          "Que l'idée de Dieu résulte de la peur de la mort",
+          "Que la religion est un instrument politique",
+          "Que l'idée de Dieu naît de l'ignorance scientifique"
+        ],
+        "hard": [
+          "Que Dieu projette en l'homme ses propres perfections",
+          "Que l'idée de Dieu se déduit rigoureusement de la raison",
+          "Que la projection démontre l'inexistence de son objet"
+        ]
+      }
+    },
+    {
+      "recto": "Que signifie la formule de Marx selon laquelle la religion est l'opium du peuple ?",
+      "verso": "Qu'elle console d'une misère réelle tout en détournant de la transformer, agissant comme un apaisement sans remède",
+      "explanation": "La formule complète parle aussi du soupir de la créature opprimée : Marx reconnaît que la religion exprime une détresse authentique. La critique porte sur le fait qu'elle rende cette détresse supportable au lieu de la faire disparaître.",
+      "tags": [
+        "critique",
+        "Marx"
+      ],
+      "distractors": {
+        "easy": [
+          "Que les religions vendent des drogues",
+          "Que les croyants sont endormis",
+          "Que la religion est agréable"
+        ],
+        "medium": [
+          "Que la religion est une invention des riches sans rapport avec la détresse",
+          "Que la religion doit être interdite immédiatement",
+          "Que la religion empêche toute forme de consolation"
+        ],
+        "hard": [
+          "Qu'elle exprime une détresse réelle et la supprime effectivement",
+          "Qu'elle constitue un remède efficace à la misère sociale",
+          "Qu'elle n'a aucun rapport avec les conditions matérielles"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi Freud qualifie-t-il la religion d'illusion ?",
+      "verso": "Parce qu'elle est une croyance dont le ressort principal est la réalisation d'un désir, celui d'être protégé par un père tout-puissant",
+      "explanation": "Freud précise qu'une illusion n'est pas nécessairement une erreur : elle se définit par son origine dans le désir, non par sa fausseté. La distinction est souvent ignorée par ceux qui invoquent cette thèse.",
+      "tags": [
+        "critique",
+        "Freud"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'elle est fausse et le prouve",
+          "Parce qu'elle fait rêver",
+          "Parce qu'elle trompe volontairement les fidèles"
+        ],
+        "medium": [
+          "Parce qu'elle contredit les découvertes scientifiques",
+          "Parce qu'elle repose sur des textes anciens",
+          "Parce qu'elle a été inventée par des prêtres"
+        ],
+        "hard": [
+          "Parce qu'une illusion se définit nécessairement par sa fausseté",
+          "Parce qu'elle résulte d'un raisonnement erroné sur les causes",
+          "Parce que son origine dans le désir en démontre l'inexactitude"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle fonction Durkheim attribue-t-il à la religion dans une société ?",
+      "verso": "Elle produit et entretient la cohésion du groupe, la société se vénérant elle-même sous les figures qu'elle sacralise",
+      "explanation": "L'analyse est sociologique et non théologique : elle explique ce que la religion fait dans un groupe, non ce qui est vrai de son objet. Elle éclaire pourquoi des sociétés sécularisées conservent des rites collectifs et des symboles sacrés.",
+      "tags": [
+        "sociologie",
+        "Durkheim"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle explique l'origine du monde",
+          "Elle console des malheurs individuels",
+          "Elle occupe le temps libre"
+        ],
+        "medium": [
+          "Elle remplace les institutions politiques",
+          "Elle sert à contrôler les individus par la peur",
+          "Elle prépare les hommes à la mort"
+        ],
+        "hard": [
+          "Elle établit la vérité de son objet par la cohésion qu'elle produit",
+          "Elle dissout les appartenances collectives au profit de l'individu",
+          "Elle constitue une explication concurrente de la science"
+        ]
+      }
+    },
+    {
+      "recto": "Que distingue-t-on entre le sacré et le profane ?",
+      "verso": "Le sacré est ce qui est mis à part et soustrait à l'usage ordinaire, le profane relève du monde commun et disponible",
+      "explanation": "La séparation n'est pas dans les choses mais dans le rapport institué : une pierre, un jour ou un texte deviennent sacrés parce qu'un groupe les distingue. Cela explique la gravité de la profanation, qui n'endommage parfois rien matériellement.",
+      "tags": [
+        "distinction",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le sacré est ancien, le profane est moderne",
+          "Le sacré est religieux, le profane est laïque",
+          "Le sacré est beau, le profane est banal"
+        ],
+        "medium": [
+          "Le profane est mis à part, le sacré est d'usage courant",
+          "Le sacré concerne les objets, le profane les personnes",
+          "La distinction est inscrite dans la nature des choses"
+        ],
+        "hard": [
+          "Le sacré se définit par une propriété intrinsèque des objets",
+          "La profanation suppose nécessairement un dommage matériel",
+          "La séparation résulte d'une observation et non d'une institution"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la morale ne dépend-elle pas nécessairement de la religion ?",
+      "verso": "Parce que les raisons de bien agir peuvent être établies sans invoquer une autorité divine, comme le montrent les morales rationnelles",
+      "explanation": "Le dilemme formulé par Platon reste décisif : une action est-elle bonne parce que Dieu l'ordonne, ou Dieu l'ordonne-t-il parce qu'elle est bonne ? Dans le second cas, la bonté ne dépend pas du commandement.",
+      "tags": [
+        "morale",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les croyants sont immoraux",
+          "Parce que la religion ne parle pas de morale",
+          "Parce que la morale est une invention récente"
+        ],
+        "medium": [
+          "Parce que la morale varie selon les religions",
+          "Parce que les athées suivent leurs intérêts",
+          "Parce que la loi remplace la morale"
+        ],
+        "hard": [
+          "Parce qu'une action est bonne uniquement si elle est commandée",
+          "Parce que toute morale suppose une sanction transcendante",
+          "Parce que la raison ne peut fonder aucune obligation"
+        ]
+      }
+    },
+    {
+      "recto": "Comment distinguer la foi de la superstition ?",
+      "verso": "La superstition attribue une efficacité magique à des actes ou des objets, alors que la foi engage un rapport de confiance qui n'est pas un calcul d'effets",
+      "explanation": "Les traditions religieuses elles-mêmes ont combattu la superstition, qui ramène le sacré à un moyen d'obtenir des résultats. La distinction n'est pas toujours nette dans les pratiques, mais elle est essentielle pour comprendre ce que la foi prétend être.",
+      "tags": [
+        "distinction",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La foi est officielle, la superstition est populaire",
+          "La foi est ancienne, la superstition est récente",
+          "Il n'y a aucune différence réelle"
+        ],
+        "medium": [
+          "La foi attribue une efficacité magique, la superstition une confiance",
+          "La superstition concerne les objets, la foi les textes",
+          "La foi est collective, la superstition individuelle"
+        ],
+        "hard": [
+          "La foi se définit par le calcul des effets obtenus",
+          "La superstition engage un rapport de confiance désintéressé",
+          "Les religions ont toujours encouragé les pratiques superstitieuses"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qui caractérise le fanatisme par rapport à une conviction religieuse forte ?",
+      "verso": "Le refus de reconnaître à autrui le droit de ne pas partager sa croyance, et la légitimation de la violence pour l'imposer",
+      "explanation": "Ce n'est donc pas l'intensité de la conviction qui définit le fanatisme mais son rapport à autrui. Une foi profonde peut parfaitement s'accompagner du respect de ceux qui ne la partagent pas.",
+      "tags": [
+        "distinction",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La force de la croyance",
+          "La pratique quotidienne des rites",
+          "L'appartenance à une minorité"
+        ],
+        "medium": [
+          "Le respect strict des textes sacrés",
+          "L'attachement à une tradition ancienne",
+          "La volonté de convaincre les autres par le dialogue"
+        ],
+        "hard": [
+          "L'intensité de la conviction indépendamment du rapport à autrui",
+          "La reconnaissance du droit de ne pas croire",
+          "La séparation entre conviction privée et vie publique"
+        ]
+      }
+    },
+    {
+      "recto": "Sur quoi repose l'argument classique en faveur de la tolérance religieuse ?",
+      "verso": "Sur l'idée que la croyance ne se commande pas, de sorte que la contrainte ne produit que des conversions feintes",
+      "explanation": "Locke le formule clairement : la force peut obtenir une soumission extérieure, jamais l'adhésion intérieure qu'elle vise. L'argument fonde la tolérance sur l'inefficacité même de la contrainte, avant de la fonder sur le respect des personnes.",
+      "tags": [
+        "politique",
+        "Locke"
+      ],
+      "distractors": {
+        "easy": [
+          "Sur l'idée que toutes les religions se valent",
+          "Sur l'indifférence en matière de croyance",
+          "Sur le fait que la religion n'a pas d'importance"
+        ],
+        "medium": [
+          "Sur la nécessité de préserver la paix civile uniquement",
+          "Sur le nombre des religions présentes dans un État",
+          "Sur l'obligation de croire à quelque chose"
+        ],
+        "hard": [
+          "Sur l'efficacité prouvée de la contrainte en matière de foi",
+          "Sur l'idée que la croyance se commande par la volonté",
+          "Sur la supériorité démontrée d'une religion sur les autres"
+        ]
+      }
+    },
+    {
+      "recto": "Que garantit précisément la laïcité dans un État ?",
+      "verso": "La neutralité de l'État en matière religieuse et la liberté de conscience de chacun, croyant ou non",
+      "explanation": "Elle n'est ni une religion civile, ni une hostilité au fait religieux : elle organise la coexistence en soustrayant l'État aux appartenances. C'est pourquoi elle protège aussi la liberté de pratiquer, et pas seulement celle de ne pas croire.",
+      "tags": [
+        "politique",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "L'interdiction de toute religion",
+          "L'obligation d'être athée",
+          "La suppression des lieux de culte"
+        ],
+        "medium": [
+          "La supériorité de la raison sur la foi",
+          "L'adoption d'une religion officielle unique",
+          "L'interdiction de toute pratique visible"
+        ],
+        "hard": [
+          "Une neutralité qui exclut la liberté de pratiquer",
+          "L'institution d'une religion civile obligatoire",
+          "La subordination des croyances à une doctrine d'État"
+        ]
+      }
+    },
+    {
+      "recto": "Quel repère du programme permet de situer le rapport entre foi et raison ?",
+      "verso": "L'opposition entre croire et savoir",
+      "explanation": "Savoir suppose des raisons que l'on peut exposer ; croire tient pour vrai sans disposer de telles raisons. La distinction ne disqualifie pas la croyance : elle interdit seulement de la présenter comme un savoir, et réciproquement.",
+      "tags": [
+        "repère",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Le repère cause / fin",
+          "Le repère idéal / réel",
+          "Le repère genre / espèce / individu"
+        ],
+        "medium": [
+          "Le repère universel / général",
+          "Le repère acte / puissance",
+          "Le repère légal / légitime"
+        ],
+        "hard": [
+          "Le repère médiat / immédiat",
+          "Le repère transcendant / immanent",
+          "Le repère analyse / synthèse"
+        ]
+      }
+    },
+    {
+      "recto": "Quel bilan peut-on dresser sur la religion ?",
+      "verso": "Elle n'est ni une science défaillante ni une pure illusion : c'est un rapport au sens, institué collectivement, dont la valeur ne se règle pas par les seuls critères du savoir",
+      "explanation": "La traiter comme une explication concurrente de la science manque ce qu'elle fait ; la réduire à une projection explique sa genèse sans épuiser sa fonction. Reste la question politique : comment organiser la coexistence des croyances.",
+      "tags": [
+        "synthèse",
+        "bilan"
+      ],
+      "distractors": {
+        "easy": [
+          "C'est une explication du monde dépassée",
+          "C'est une invention destinée à contrôler les peuples",
+          "C'est une affaire strictement privée sans dimension collective"
+        ],
+        "medium": [
+          "C'est une morale déguisée en croyance",
+          "C'est un savoir supérieur à celui des sciences",
+          "C'est un ensemble de superstitions organisées"
+        ],
+        "hard": [
+          "C'est une hypothèse à évaluer selon les critères du savoir scientifique",
+          "Sa genèse psychologique suffit à en déterminer la valeur",
+          "Sa fonction sociale démontre la vérité de son objet"
+        ]
+      }
+    }
+  ]
+}

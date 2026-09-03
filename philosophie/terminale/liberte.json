@@ -1,0 +1,640 @@
+{
+  "id": "philosophie-terminale-liberte",
+  "title": "La liberté",
+  "emoji": "🕊️",
+  "subject": "philosophy",
+  "country": "fr",
+  "courseDescription": "Philosophie · Terminale — libre arbitre et déterminisme, liberté intérieure, autonomie morale et liberté politique.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>La liberté</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale (voie générale et technologique)<br>\n  <b>Thème&nbsp;:</b> Philosophie — La morale et la politique<br>\n  <b>Notion</b> · environ 5 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> Suis-je libre parce que je me sens libre&nbsp;— ou la liberté est-elle quelque chose qui se conquiert&nbsp;?</p></blockquote>\n\n<p>Personne ne doute d'être libre&nbsp;: je délibère, je tranche, j'aurais pu faire autrement. Mais ce sentiment ne prouve rien de plus que lui-même. Les sciences montrent que nos conduites suivent des régularités&nbsp;; la psychanalyse, que nos motifs nous échappent en partie&nbsp;; la sociologie, que nos goûts portent la marque d'un milieu. Faut-il alors abandonner la notion&nbsp;? Ce serait renoncer du même coup à la responsabilité, au mérite et à la faute. Le chapitre consiste donc à déplacer la question&nbsp;: non pas «&nbsp;suis-je libre&nbsp;?&nbsp;», mais «&nbsp;à quelles conditions puis-je le devenir&nbsp;?&nbsp;»</p>\n\n<h2>1 · Deux sens et un problème</h2>\n\n<p>Deux significations coexistent sous le même mot.</p>\n\n<ul>\n  <li>Un sens <strong>négatif</strong>&nbsp;: être libre, c'est n'être empêché par personne — absence d'entrave, de chaîne, d'interdiction.</li>\n  <li>Un sens <strong>positif</strong>&nbsp;: être libre, c'est se déterminer soi-même — être l'auteur véritable de ce que l'on fait.</li>\n</ul>\n\n<p>Les deux ne coïncident pas. Un homme que rien n'empêche mais qui obéit aveuglément à ses impulsions est libre au premier sens seulement. C'est pourquoi la liberté ne se confond pas avec la <strong>licence</strong>, qui est le pouvoir de faire n'importe quoi&nbsp;: le sujet emporté par son désir ne choisit pas, il subit.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Libre arbitre</strong><br>\n  Pouvoir de choisir entre plusieurs possibles sans y être contraint, <em>de telle sorte que l'on aurait pu faire autrement</em>. C'est cette dernière clause qui fait tout le débat.\n</div>\n\n<h2>2 · Le procès du libre arbitre</h2>\n\n<h3>Le déterminisme</h3>\n\n<p>Le <strong>déterminisme</strong> soutient que tout événement résulte nécessairement de causes antérieures. C'est d'abord un principe scientifique&nbsp;: les mêmes causes produisent les mêmes effets. Étendu à la volonté, il fait de la décision l'effet d'un état antérieur du sujet, de son histoire et de son milieu.</p>\n\n<p><b>Attention à la confusion capitale.</b> Le déterminisme n'est pas le <strong>fatalisme</strong>. Le fatalisme tient l'issue pour fixée <em>quoi qu'on fasse</em>&nbsp;: c'est l'argument paresseux, «&nbsp;à quoi bon soigner le malade, il guérira ou il ne guérira pas&nbsp;». Le déterminisme dit exactement l'inverse&nbsp;: puisque les effets suivent régulièrement des causes, et que <strong>mon action fait partie des causes</strong>, agir change le résultat. Loin de décourager l'action, le déterminisme la rend efficace.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 180\" role=\"img\" aria-label=\"Comparaison entre déterminisme et fatalisme : dans le déterminisme, une chaîne de causes inclut l'action du sujet et aboutit à un effet modifiable ; dans le fatalisme, l'issue est fixée à l'avance et l'action du sujet n'a aucun effet sur elle\">\n    <defs>\n      <marker id=\"ar-phlb1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n    <text x=\"8\" y=\"16\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Déterminisme</text>\n    <rect x=\"8\" y=\"26\" width=\"70\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"43\" y=\"45\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">causes</text>\n    <path d=\"M80,41 L102,41\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-phlb1)\"/>\n    <rect x=\"106\" y=\"26\" width=\"86\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"149\" y=\"45\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">mon action</text>\n    <path d=\"M194,41 L216,41\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-phlb1)\"/>\n    <rect x=\"220\" y=\"26\" width=\"112\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"276\" y=\"45\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">effet modifiable</text>\n    <text x=\"170\" y=\"76\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">agir fait partie des causes</text>\n    <line x1=\"8\" y1=\"92\" x2=\"332\" y2=\"92\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"116\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Fatalisme</text>\n    <rect x=\"8\" y=\"126\" width=\"86\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-dasharray=\"4 3\"/>\n    <text x=\"51\" y=\"145\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">mon action</text>\n    <path d=\"M97,141 L128,141\" stroke=\"currentColor\" stroke-opacity=\".35\" stroke-width=\"1.4\" stroke-dasharray=\"3 3\" fill=\"none\"/>\n    <text x=\"139\" y=\"145\" font-size=\"12\" class=\"s-muted\">sans effet</text>\n    <rect x=\"212\" y=\"126\" width=\"120\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"272\" y=\"145\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">issue déjà fixée</text>\n    <text x=\"170\" y=\"174\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">l'action est indifférente au résultat</text>\n  </svg>\n  <figcaption>Le déterminisme rend l'action efficace&nbsp;; le fatalisme la rend inutile. Confondre les deux est l'erreur la plus fréquente du chapitre.</figcaption>\n</figure>\n\n<h3>Le hasard ne sauve rien</h3>\n\n<p>On croit souvent défendre la liberté en invoquant l'indétermination. C'est une impasse&nbsp;: une décision produite <strong>au hasard</strong> n'est pas davantage la mienne qu'une décision entièrement causée. Être libre, ce n'est pas être imprévisible&nbsp;; c'est être l'<strong>auteur</strong> de son acte. Le hasard supprime l'auteur aussi sûrement que la contrainte.</p>\n\n<h3>Ce que le sentiment de liberté prouve</h3>\n\n<p>Il atteste la décision, non l'absence de causes qui l'ont produite. Le débat ne se tranche donc pas par introspection. Les sciences humaines ajoutent que nos goûts, nos trajectoires, nos choix scolaires ou professionnels suivent des régularités liées au milieu — mais ces régularités livrent des <strong>probabilités, non des destins</strong>&nbsp;: une statistique vaut pour un groupe, jamais pour un individu pris à part.</p>\n\n<h2>3 · La liberté comme rapport à soi</h2>\n\n<h3>Descartes&nbsp;: les degrés de la liberté</h3>\n\n<p>Contre l'intuition commune, Descartes juge que l'hésitation n'est pas le sommet de la liberté mais son <strong>degré le plus bas</strong>. La <em>liberté d'indifférence</em> est le choix arbitraire fait faute de raison de préférer. À l'inverse, plus je vois clairement le vrai ou le bien, plus je m'y porte librement, parce que rien d'extérieur ne me contraint&nbsp;: c'est la <strong>liberté éclairée</strong>.</p>\n\n<h3>Les stoïciens&nbsp;: ce qui dépend de nous</h3>\n\n<p>Épictète partage le réel en deux&nbsp;: ce qui dépend de nous — nos jugements, nos désirs, nos représentations — et ce qui n'en dépend pas — le corps, les biens, la réputation, les événements. La liberté porte exclusivement sur le premier domaine. On peut m'enchaîner&nbsp;; on ne peut pas me faire juger que ma chaîne est un mal.</p>\n\n<p>Cette liberté est incontestable, mais son prix est élevé&nbsp;: elle renonce à transformer le monde. C'est l'objection classique adressée au stoïcisme&nbsp;— une liberté qui consent à tout risque de justifier ce qu'il faudrait combattre.</p>\n\n<h3>Spinoza&nbsp;: agir par connaissance</h3>\n\n<p>Spinoza ne conserve pas le libre arbitre&nbsp;: rien n'échappe à la nécessité. Mais il maintient une différence décisive entre <strong>subir des causes que l'on ignore</strong> et <strong>agir en les comprenant</strong>. Est libre celui qui agit par connaissance adéquate. La liberté cesse d'être une exception à l'ordre des choses pour devenir un <strong>degré de compréhension</strong>&nbsp;: on ne sort pas de la nécessité, on cesse d'en être le jouet.</p>\n\n<h3>Kant&nbsp;: l'autonomie</h3>\n\n<p>Est <strong>autonome</strong> la volonté qui se donne à elle-même la loi qu'elle suit, par sa propre raison. Est <strong>hétéronome</strong> celle qui reçoit sa loi d'ailleurs&nbsp;: d'une autorité, d'un intérêt — ou de ses propres inclinations. Ce dernier point surprend&nbsp;: céder à son désir relève de l'hétéronomie, car le désir n'est pas choisi, il s'impose.</p>\n\n<p>Kant ajoute un argument fondamental&nbsp;: la liberté n'est pas prouvée par l'expérience, qui ne montre que des enchaînements&nbsp;; elle est <strong>postulée à partir du devoir</strong>. Reconnaître une obligation, c'est se reconnaître capable de s'y conformer&nbsp;— «&nbsp;tu dois&nbsp;» implique «&nbsp;tu peux&nbsp;».</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 180\" role=\"img\" aria-label=\"Comparaison en deux colonnes entre autonomie et hétéronomie selon Kant : à gauche l'autonomie, où la volonté se donne sa loi par la raison ; à droite l'hétéronomie, où la loi vient des inclinations, de l'intérêt ou d'une autorité extérieure\">\n    <rect x=\"8\" y=\"10\" width=\"152\" height=\"150\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"84\" y=\"34\" text-anchor=\"middle\" font-size=\"12\" fill=\"var(--accent)\" font-weight=\"bold\">Autonomie</text>\n    <text x=\"84\" y=\"58\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">la volonté se donne<tspan x=\"84\" dy=\"14\">à elle-même sa loi</tspan></text>\n    <text x=\"84\" y=\"98\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">source de la loi</text>\n    <text x=\"84\" y=\"118\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">la raison<tspan x=\"84\" dy=\"14\" font-size=\"9\">une règle valant</tspan><tspan x=\"84\" dy=\"12\" font-size=\"9\">pour tout être raisonnable</tspan></text>\n    <rect x=\"180\" y=\"10\" width=\"152\" height=\"150\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"256\" y=\"34\" text-anchor=\"middle\" font-size=\"12\" fill=\"var(--accent)\" font-weight=\"bold\">Hétéronomie</text>\n    <text x=\"256\" y=\"58\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">la volonté reçoit<tspan x=\"256\" dy=\"14\">sa loi d'ailleurs</tspan></text>\n    <text x=\"256\" y=\"98\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">source de la loi</text>\n    <text x=\"256\" y=\"118\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">les inclinations<tspan x=\"256\" dy=\"14\">l'intérêt</tspan><tspan x=\"256\" dy=\"14\">une autorité</tspan></text>\n  </svg>\n  <figcaption>Suivre son désir n'est pas être autonome&nbsp;: le désir ne se choisit pas, il s'impose.</figcaption>\n</figure>\n\n<h2>4 · La liberté comme institution</h2>\n\n<h3>Rousseau&nbsp;: ce que le contrat fait gagner</h3>\n\n<p>En entrant dans l'état civil, l'homme perd la <strong>liberté naturelle</strong>, illimitée mais précaire, puisque nul n'y garantit rien. Il gagne en échange la <strong>liberté civile</strong>, garantie par la loi, et la <strong>liberté morale</strong>, qui seule le rend maître de lui — car «&nbsp;l'obéissance à la loi qu'on s'est prescrite est liberté&nbsp;».</p>\n\n<p>Il n'y a contradiction qu'en apparence&nbsp;: le citoyen est à la fois l'<strong>auteur</strong> de la loi et celui qui lui obéit&nbsp;; en obéissant, il n'obéit qu'à lui-même. Encore faut-il que la loi soit réellement générale&nbsp;: si elle sert un intérêt particulier, l'argument s'effondre.</p>\n\n<h3>La loi contre l'oppression</h3>\n\n<p>Sans loi, la liberté du plus fort supprime celle des autres. La loi limite les actions <strong>pour garantir les libertés</strong>, ce qui suppose qu'elle soit la même pour tous. Elle n'est pas l'ennemie de la liberté&nbsp;: elle en est la condition d'existence.</p>\n\n<h3>Mill&nbsp;: où s'arrête le pouvoir collectif</h3>\n\n<p>Reste à savoir jusqu'où la société peut contraindre. Mill propose un critère net&nbsp;: <strong>la seule raison légitime d'user de la contrainte est d'empêcher qu'un tort soit causé à autrui.</strong> Ce principe exclut la contrainte exercée «&nbsp;pour le bien&nbsp;» de l'intéressé lui-même, qui relèverait du paternalisme. Les actions qui ne concernent que soi échappent au pouvoir collectif.</p>\n\n<h2>5 · La liberté comme conquête</h2>\n\n<p>Sartre pose que l'homme est <strong>condamné à être libre</strong>&nbsp;: il n'a pas choisi de l'être, mais il ne peut pas cesser de l'être, car même ne pas choisir est encore un choix. Le mot «&nbsp;condamné&nbsp;» indique que la liberté n'est pas un privilège agréable mais une <strong>charge</strong>&nbsp;: on ne peut s'en démettre en invoquant son caractère ou les circonstances.</p>\n\n<p>La notion de <strong>situation</strong> nuance cette thèse sans la supprimer. Mon corps, mon époque, ma classe, ma langue sont des faits que je n'ai pas choisis. La liberté ne consiste pas à les abolir, mais à décider du <strong>sens</strong> que je leur donne et de ce que j'en fais.</p>\n\n<p>Enfin, une remarque qui déjoue une opposition trop simple entre règle et liberté&nbsp;: une <strong>discipline acquise</strong> augmente le pouvoir d'agir. Le musicien n'est pas entravé par sa technique, il en est libéré&nbsp;: elle lui rend possible ce qu'il ne pouvait pas faire. La contrainte extérieure diminue la liberté&nbsp;; la règle intériorisée l'élargit.</p>\n\n<div class=\"callout\">\n  <strong>Repère · Nécessaire / contingent / possible</strong><br>\n  Si tout est nécessaire, aucun autre choix n'était possible et la liberté disparaît. S'il subsiste des possibles réels, une place reste pour la décision. Tout le débat porte sur le statut du possible.\n</div>\n\n<h2>L'essentiel</h2>\n\n<h3>Le fil du problème</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 215\" role=\"img\" aria-label=\"Frise du parcours du chapitre : le sentiment de liberté, puis l'objection déterministe, puis la liberté intérieure chez les stoïciens, Descartes et Spinoza, puis l'autonomie chez Kant, puis la liberté instituée chez Rousseau et Mill, enfin la liberté comme conquête chez Sartre\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"200\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Le sentiment</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Je me sens libre de choisir</text>\n    <circle cx=\"26\" cy=\"56\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"53\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">L'objection</text>\n    <text x=\"44\" y=\"66\" font-size=\"10\" fill=\"currentColor\">Déterminisme et sciences humaines</text>\n    <circle cx=\"26\" cy=\"92\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"89\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Liberté intérieure</text>\n    <text x=\"44\" y=\"102\" font-size=\"10\" fill=\"currentColor\">Épictète, Descartes, Spinoza</text>\n    <circle cx=\"26\" cy=\"128\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"125\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Autonomie</text>\n    <text x=\"44\" y=\"138\" font-size=\"10\" fill=\"currentColor\">Kant, se donner sa loi</text>\n    <circle cx=\"26\" cy=\"164\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"161\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Liberté instituée</text>\n    <text x=\"44\" y=\"174\" font-size=\"10\" fill=\"currentColor\">Rousseau, Mill, la loi</text>\n    <circle cx=\"26\" cy=\"198\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"195\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Une charge</text>\n    <text x=\"44\" y=\"208\" font-size=\"10\" fill=\"currentColor\">Sartre, choisir sans échappatoire</text>\n  </svg>\n  <figcaption>Le chapitre déplace la question&nbsp;: de l'existence de la liberté à ses conditions.</figcaption>\n</figure>\n\n<h3>Les positions en présence</h3>\n\n<table>\n  <tr><th>Position</th><th>Thèse</th><th>Difficulté</th></tr>\n  <tr><td>Libre arbitre</td><td>J'aurais pu faire autrement</td><td>Rien ne le prouve hors du sentiment</td></tr>\n  <tr><td>Déterminisme</td><td>Tout effet suit de causes</td><td>Que devient la responsabilité&nbsp;?</td></tr>\n  <tr><td>Fatalisme</td><td>L'issue est fixée quoi qu'on fasse</td><td>Rend l'action absurde</td></tr>\n  <tr><td>Stoïcisme</td><td>Libre sur ce qui dépend de nous</td><td>Renonce à transformer le monde</td></tr>\n  <tr><td>Spinoza</td><td>Libre = agir par connaissance</td><td>Abandonne le libre arbitre</td></tr>\n  <tr><td>Kant</td><td>Libre = autonome</td><td>La liberté n'est pas connue, mais postulée</td></tr>\n  <tr><td>Sartre</td><td>Condamné à être libre</td><td>Une responsabilité sans limite</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition</th></tr>\n  <tr><td>Liberté négative</td><td>Absence d'entrave extérieure</td></tr>\n  <tr><td>Liberté positive</td><td>Pouvoir de se déterminer soi-même</td></tr>\n  <tr><td>Licence</td><td>Pouvoir de faire n'importe quoi, sans règle ni auteur</td></tr>\n  <tr><td>Déterminisme</td><td>Tout événement résulte nécessairement de causes antérieures</td></tr>\n  <tr><td>Fatalisme</td><td>L'avenir est fixé indépendamment de ce que l'on fait</td></tr>\n  <tr><td>Liberté d'indifférence</td><td>Choix fait faute de raison de préférer</td></tr>\n  <tr><td>Autonomie</td><td>Se donner à soi-même la loi que l'on suit</td></tr>\n  <tr><td>Hétéronomie</td><td>Recevoir sa loi d'ailleurs, y compris de ses inclinations</td></tr>\n  <tr><td>Liberté civile</td><td>Liberté garantie par la loi dans l'état civil</td></tr>\n  <tr><td>Situation</td><td>Ensemble des données non choisies au sein desquelles on choisit</td></tr>\n</table>\n\n<h3>Les auteurs</h3>\n\n<table>\n  <tr><th>Auteur</th><th>Thèse à retenir</th></tr>\n  <tr><td>Épictète</td><td>Distinguer ce qui dépend de nous de ce qui n'en dépend pas</td></tr>\n  <tr><td>Descartes</td><td>L'indifférence est le plus bas degré de la liberté</td></tr>\n  <tr><td>Spinoza</td><td>Est libre qui agit par connaissance adéquate des causes</td></tr>\n  <tr><td>Rousseau</td><td>L'obéissance à la loi qu'on s'est prescrite est liberté</td></tr>\n  <tr><td>Kant</td><td>La liberté est l'autonomie&nbsp;; le devoir implique le pouvoir</td></tr>\n  <tr><td>Mill</td><td>La contrainte n'est légitime que pour empêcher un tort causé à autrui</td></tr>\n  <tr><td>Sartre</td><td>L'homme est condamné à être libre, en situation</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Confondre <em>déterminisme</em> et <em>fatalisme</em>. Le fatalisme rend l'action indifférente&nbsp;; le déterminisme, au contraire, la rend efficace, puisque mon action compte parmi les causes qui produisent l'effet. Deux autres confusions guettent&nbsp;: croire que le hasard fonde la liberté — une décision aléatoire n'est pas plus la mienne qu'une décision causée —, et croire que la loi s'oppose à la liberté, alors qu'elle est ce qui empêche la domination du plus fort.\n</div>\n\n<blockquote><p>Il n'y a donc pas à choisir entre se croire libre et se savoir déterminé. Ce que je peux, c'est connaître ce qui me détermine, et transformer ce savoir en pouvoir d'agir&nbsp;: la liberté n'est pas un point de départ, c'est un travail.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Philosophie — La morale et la politique",
+  "cards": [
+    {
+      "recto": "Quels sont les deux sens principaux du mot « liberté » qu'il faut distinguer d'emblée ?",
+      "verso": "Le sens négatif, absence d'entrave extérieure, et le sens positif, pouvoir de se déterminer soi-même",
+      "explanation": "Être libre au premier sens, c'est n'être empêché par personne ; au second, c'est être l'auteur véritable de ce que l'on fait. Un homme sans chaînes peut n'être libre qu'au premier sens s'il obéit aveuglément à ses impulsions.",
+      "tags": [
+        "définition",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La liberté du corps et celle de l'âme",
+          "La liberté de parler et celle de se taire",
+          "La liberté d'hier et celle d'aujourd'hui"
+        ],
+        "medium": [
+          "La liberté individuelle et la liberté collective",
+          "La liberté civile et la liberté économique",
+          "La liberté réelle et la liberté imaginaire"
+        ],
+        "hard": [
+          "La liberté formelle et la liberté matérielle",
+          "La liberté d'indifférence et la liberté d'expression",
+          "La liberté théorique et la liberté pratique"
+        ]
+      }
+    },
+    {
+      "recto": "Comment définit-on le libre arbitre ?",
+      "verso": "Le pouvoir de choisir entre plusieurs possibles sans y être contraint, de telle sorte que l'on aurait pu faire autrement",
+      "explanation": "La clause décisive est la dernière : sans la possibilité d'avoir agi autrement, il n'y a pas de choix mais un enchaînement. C'est elle que le déterminisme conteste.",
+      "tags": [
+        "définition",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le droit de faire ce que l'on veut",
+          "L'absence de lois dans un pays",
+          "La force de caractère"
+        ],
+        "medium": [
+          "La capacité de résister à la douleur",
+          "Le pouvoir de prévoir l'avenir",
+          "L'indépendance financière"
+        ],
+        "hard": [
+          "La faculté d'agir toujours conformément à la raison",
+          "Le pouvoir de suspendre son jugement uniquement",
+          "La conformité spontanée de la volonté à la nature"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'affirme la thèse déterministe ?",
+      "verso": "Que tout événement, y compris nos décisions, résulte nécessairement de causes antérieures",
+      "explanation": "Le déterminisme est d'abord un principe scientifique : les mêmes causes produisent les mêmes effets. Appliqué à la volonté, il fait du choix l'effet d'un état antérieur du sujet et de son milieu.",
+      "tags": [
+        "thèse",
+        "déterminisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Que rien n'a de cause",
+          "Que l'avenir est écrit par une puissance divine",
+          "Que tout arrive par hasard"
+        ],
+        "medium": [
+          "Que l'homme est incapable d'agir",
+          "Que la science ne peut rien prévoir",
+          "Que seuls les corps obéissent à des causes, non l'esprit"
+        ],
+        "hard": [
+          "Que les causes rendent les effets probables sans les nécessiter",
+          "Que les événements futurs sont déjà fixés indépendamment de leurs causes",
+          "Que la volonté échappe seule à la causalité"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : quelle différence sépare le déterminisme du fatalisme ?",
+      "verso": "Le déterminisme fait dépendre l'avenir de causes sur lesquelles on peut agir, le fatalisme le tient pour fixé quoi qu'on fasse",
+      "explanation": "C'est la confusion la plus fréquente de la notion. Si tout est déterminé, mes actions font partie des causes : agir change le résultat. Le fatalisme, lui, suppose une issue inévitable qui rend l'action indifférente — d'où l'argument paresseux, « à quoi bon soigner le malade, il guérira ou non ». Le déterminisme est au contraire ce qui rend l'action efficace, puisqu'il rend ses effets réguliers.",
+      "tags": [
+        "piege",
+        "déterminisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Aucune, ce sont deux mots pour la même chose",
+          "Le fatalisme est scientifique, le déterminisme religieux",
+          "Le déterminisme concerne le passé, le fatalisme l'avenir"
+        ],
+        "medium": [
+          "Le déterminisme nie les causes, le fatalisme les admet",
+          "Le fatalisme suppose que l'on peut agir sur les causes",
+          "Le déterminisme supprime toute prévision possible"
+        ],
+        "hard": [
+          "Le déterminisme affirme une nécessité logique, le fatalisme une nécessité causale",
+          "Le fatalisme admet le hasard, le déterminisme l'exclut",
+          "Le déterminisme rend l'action inutile, le fatalisme la rend efficace"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi l'indéterminisme, ou l'existence du hasard, ne suffit-il pas à fonder la liberté ?",
+      "verso": "Parce qu'une décision produite au hasard n'est pas davantage la mienne qu'une décision entièrement causée",
+      "explanation": "L'argument est décisif contre une défense naïve du libre arbitre. Être libre, ce n'est pas être imprévisible : c'est être l'auteur de son acte. Le hasard supprime l'auteur aussi sûrement que la contrainte.",
+      "tags": [
+        "argument",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que le hasard n'existe pas",
+          "Parce que le hasard est toujours mauvais",
+          "Parce que la science interdit le hasard"
+        ],
+        "medium": [
+          "Parce que le hasard rend l'action impossible",
+          "Parce que le hasard supprime la responsabilité pénale seulement",
+          "Parce que le hasard est un autre nom de la nécessité"
+        ],
+        "hard": [
+          "Parce que le hasard suppose déjà une volonté qui choisit",
+          "Parce que l'indéterminisme est réfuté par l'expérience quotidienne",
+          "Parce que le hasard rend les actes prévisibles autrement"
+        ]
+      }
+    },
+    {
+      "recto": "Ne pas confondre : qu'oppose Descartes dans le couple liberté d'indifférence et liberté éclairée ?",
+      "verso": "Le choix arbitraire fait faute de raison de préférer, qui est le plus bas degré de la liberté, et l'adhésion à ce que l'on voit clairement, qui en est le plus haut",
+      "explanation": "Contre l'intuition commune, hésiter n'est pas le sommet de la liberté mais son degré le plus faible. Plus je vois clairement le vrai ou le bien, plus je m'y porte librement, parce que rien d'extérieur ne me contraint.",
+      "tags": [
+        "comparaison",
+        "Descartes"
+      ],
+      "distractors": {
+        "easy": [
+          "La liberté du sage et celle de l'ignorant sans autre différence",
+          "La liberté du corps et celle de l'esprit",
+          "La liberté de faire et celle de ne pas faire"
+        ],
+        "medium": [
+          "L'adhésion au vrai comme degré le plus bas et l'indifférence comme degré le plus haut",
+          "La liberté politique et la liberté morale",
+          "La liberté d'agir et la liberté de penser"
+        ],
+        "hard": [
+          "L'indifférence comme perfection de la volonté divine et humaine indistinctement",
+          "La liberté éclairée comme simple soumission à la nécessité extérieure",
+          "Le libre arbitre comme pure absence de désir"
+        ]
+      }
+    },
+    {
+      "recto": "Selon les stoïciens, sur quoi porte véritablement notre liberté ?",
+      "verso": "Sur ce qui dépend de nous, c'est-à-dire nos jugements et nos désirs, non sur les événements extérieurs",
+      "explanation": "Épictète fonde là une liberté que rien ne peut ôter : on peut m'enchaîner, non me faire juger que ma chaîne est un mal. Le prix de cette liberté est qu'elle renonce à transformer le monde.",
+      "tags": [
+        "école",
+        "stoïcisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Sur le pouvoir de changer le monde",
+          "Sur la richesse et la santé",
+          "Sur la durée de notre vie"
+        ],
+        "medium": [
+          "Sur les événements extérieurs que nous pouvons prévoir",
+          "Sur nos actions publiques uniquement",
+          "Sur la réputation que nous laissons"
+        ],
+        "hard": [
+          "Sur le pouvoir d'échapper au destin par la volonté",
+          "Sur nos passions, qu'il s'agit de satisfaire pleinement",
+          "Sur les circonstances, à condition de les accepter sans les juger"
+        ]
+      }
+    },
+    {
+      "recto": "En quel sens la liberté consiste-t-elle, pour Spinoza, dans la connaissance ?",
+      "verso": "Est libre celui qui agit par la connaissance adéquate des causes, non celui qui échapperait à la nécessité",
+      "explanation": "Spinoza ne conserve pas le libre arbitre : rien n'échappe à la nécessité. Mais il y a une différence entre subir des causes que l'on ignore et agir en les comprenant. La liberté devient un degré de compréhension, non une exception à l'ordre des choses.",
+      "tags": [
+        "auteur",
+        "Spinoza"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que le savoir rend heureux",
+          "Parce que les savants ont plus de droits",
+          "Parce que connaître permet de tout prévoir"
+        ],
+        "medium": [
+          "Parce que la connaissance permet d'échapper aux lois de la nature",
+          "Parce qu'elle supprime les désirs",
+          "Parce qu'elle donne le pouvoir de choisir entre plusieurs possibles"
+        ],
+        "hard": [
+          "Parce qu'elle démontre l'existence du libre arbitre",
+          "Parce qu'elle permet de suspendre la causalité naturelle",
+          "Parce qu'elle rend l'homme indifférent à ses propres actions"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on autonomie au sens kantien ?",
+      "verso": "Le fait pour la volonté de se donner à elle-même la loi qu'elle suit, par sa propre raison",
+      "explanation": "L'autonomie n'est donc pas faire ce qui plaît : c'est obéir à une règle que l'on reconnaît rationnellement comme valant pour tous. Obéir à ses inclinations serait au contraire subir une loi venue d'ailleurs.",
+      "tags": [
+        "auteur",
+        "Kant"
+      ],
+      "distractors": {
+        "easy": [
+          "Le fait de vivre seul sans dépendre de personne",
+          "Le fait de gagner sa vie",
+          "Le fait de ne suivre aucune règle"
+        ],
+        "medium": [
+          "Le fait de suivre ses inclinations naturelles",
+          "Le fait d'obéir aux lois de son pays",
+          "Le fait de choisir sa propre morale selon ses goûts"
+        ],
+        "hard": [
+          "Le fait d'agir conformément au devoir par intérêt bien compris",
+          "Le fait de recevoir la loi d'une raison extérieure au sujet",
+          "Le fait de suspendre tout jugement moral"
+        ]
+      }
+    },
+    {
+      "recto": "Que désigne l'hétéronomie chez Kant ?",
+      "verso": "L'état d'une volonté qui reçoit sa loi d'ailleurs que d'elle-même : des inclinations, de l'intérêt ou d'une autorité extérieure",
+      "explanation": "Le point délicat est que céder à ses propres désirs relève de l'hétéronomie : le désir n'est pas choisi, il s'impose. La liberté kantienne se mesure donc à l'écart entre ce qui me pousse et ce que je reconnais comme devoir.",
+      "tags": [
+        "auteur",
+        "Kant"
+      ],
+      "distractors": {
+        "easy": [
+          "Le fait d'être en prison",
+          "Le fait d'ignorer la loi",
+          "Le fait d'obéir à sa raison"
+        ],
+        "medium": [
+          "Le fait de se donner sa propre loi",
+          "Le fait de vivre en société",
+          "Le fait de se contredire soi-même"
+        ],
+        "hard": [
+          "Le fait d'agir par devoir sans aucune inclination",
+          "Le fait de suivre une loi universelle par respect",
+          "Le fait de délibérer avant d'agir"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi, selon Kant, la liberté est-elle le fondement de la morale plutôt que son résultat ?",
+      "verso": "Parce que le devoir n'aurait aucun sens si l'on ne pouvait pas y obéir : « tu dois » implique « tu peux »",
+      "explanation": "On ne prouve pas la liberté par l'expérience, qui ne montre que des enchaînements. On la postule à partir de la conscience du devoir : reconnaître une obligation, c'est se reconnaître capable de s'y conformer.",
+      "tags": [
+        "auteur",
+        "Kant"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que la morale rend libre en supprimant les lois",
+          "Parce que la liberté se démontre par l'expérience",
+          "Parce que la morale interdit d'être libre"
+        ],
+        "medium": [
+          "Parce que l'homme est naturellement bon",
+          "Parce que la société impose la liberté à ses membres",
+          "Parce que la liberté se prouve par l'observation des choix humains"
+        ],
+        "hard": [
+          "Parce que le devoir se déduit de l'expérience du libre arbitre",
+          "Parce que la liberté est un objet de connaissance théorique certaine",
+          "Parce que le respect de la loi suffit à produire la liberté extérieure"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles trois formes de liberté Rousseau distingue-t-il dans le passage à l'état civil ?",
+      "verso": "La liberté naturelle, la liberté civile et la liberté morale",
+      "explanation": "L'homme perd la première, illimitée mais précaire ; il gagne la deuxième, garantie par la loi, et la troisième, qui consiste à obéir à la loi qu'on s'est prescrite. Le contrat n'est donc pas une perte nette.",
+      "tags": [
+        "auteur",
+        "Rousseau"
+      ],
+      "distractors": {
+        "easy": [
+          "La liberté du corps, de l'esprit et de l'âme",
+          "La liberté d'agir, de penser et de parler",
+          "La liberté d'hier, d'aujourd'hui et de demain"
+        ],
+        "medium": [
+          "La liberté politique, économique et religieuse",
+          "La liberté individuelle, collective et universelle",
+          "La liberté de conscience, d'opinion et de réunion"
+        ],
+        "hard": [
+          "La liberté négative, positive et réelle",
+          "La liberté des Anciens, des Modernes et des contemporains",
+          "La liberté formelle, matérielle et transcendantale"
+        ]
+      }
+    },
+    {
+      "recto": "Selon Rousseau, pourquoi obéir à la loi que l'on s'est prescrite n'est-il pas une contradiction avec la liberté ?",
+      "verso": "Parce que le citoyen est à la fois l'auteur de la loi et celui qui lui obéit, de sorte qu'il n'obéit qu'à lui-même",
+      "explanation": "C'est la solution du problème central du contrat social : trouver une association où chacun, s'unissant à tous, n'obéisse pourtant qu'à lui-même. La loi n'est libératrice que si elle est réellement générale.",
+      "tags": [
+        "auteur",
+        "Rousseau"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que la loi est toujours juste",
+          "Parce qu'obéir est agréable",
+          "Parce que la liberté n'a pas d'importance en politique"
+        ],
+        "medium": [
+          "Parce que le souverain impose la loi pour le bien de tous",
+          "Parce que la majorité a toujours raison",
+          "Parce que la loi ne concerne que les autres"
+        ],
+        "hard": [
+          "Parce que la loi émane d'une volonté particulière éclairée",
+          "Parce que le citoyen délègue définitivement sa volonté à ses représentants",
+          "Parce que l'obéissance supprime la volonté générale"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi la loi politique est-elle une condition de la liberté et non son contraire ?",
+      "verso": "Parce qu'en interdisant à chacun d'empiéter sur autrui, elle rend possible un espace où chacun peut agir sans être dominé",
+      "explanation": "Sans loi, la liberté du plus fort supprime celle des autres : c'est la licence, non la liberté. La loi limite les actions pour garantir les libertés, ce qui suppose qu'elle soit la même pour tous.",
+      "tags": [
+        "politique",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'elle punit les coupables",
+          "Parce qu'elle est votée par les représentants",
+          "Parce qu'elle est écrite dans un code"
+        ],
+        "medium": [
+          "Parce qu'elle exprime la volonté des plus forts",
+          "Parce qu'elle supprime les conflits en supprimant les libertés",
+          "Parce qu'elle organise la vie économique"
+        ],
+        "hard": [
+          "Parce qu'elle garantit à chacun le droit d'agir sans aucune limite",
+          "Parce qu'elle transforme la contrainte en obligation morale intérieure",
+          "Parce qu'elle rend inutile toute délibération collective"
+        ]
+      }
+    },
+    {
+      "recto": "Quel principe Mill propose-t-il pour délimiter ce que la société peut légitimement interdire à un individu ?",
+      "verso": "La seule raison légitime d'user de la contrainte est d'empêcher qu'un tort soit causé à autrui",
+      "explanation": "Ce principe exclut la contrainte exercée pour le bien de l'intéressé lui-même, qui relèverait du paternalisme. Il fixe une frontière : les actions qui ne concernent que soi échappent au pouvoir collectif.",
+      "tags": [
+        "auteur",
+        "Mill"
+      ],
+      "distractors": {
+        "easy": [
+          "Tout ce qui choque la majorité doit être interdit",
+          "Rien ne peut jamais être interdit",
+          "Seul l'État décide sans justification"
+        ],
+        "medium": [
+          "La société peut interdire ce qui nuit à l'intéressé lui-même",
+          "Est interdit ce qui contredit la tradition",
+          "Est interdit ce qui déplaît au souverain"
+        ],
+        "hard": [
+          "La contrainte est légitime dès qu'elle améliore le bonheur moyen",
+          "Est interdit tout ce qui n'est pas explicitement permis par la loi",
+          "La contrainte se justifie par la protection des convictions d'autrui"
+        ]
+      }
+    },
+    {
+      "recto": "Que signifie la formule de Sartre selon laquelle l'homme est condamné à être libre ?",
+      "verso": "Qu'il n'a pas choisi d'être libre mais qu'il ne peut pas cesser de l'être : même ne pas choisir est encore un choix",
+      "explanation": "Le mot « condamné » marque que la liberté n'est pas un privilège agréable mais une charge. On ne peut pas s'en démettre en invoquant sa nature, son caractère ou les circonstances.",
+      "tags": [
+        "auteur",
+        "Sartre"
+      ],
+      "distractors": {
+        "easy": [
+          "Que la liberté est une punition divine",
+          "Que les hommes sont enfermés dans des prisons",
+          "Que la liberté est impossible"
+        ],
+        "medium": [
+          "Que l'homme est libre uniquement dans certaines situations",
+          "Que la liberté est accordée par la société",
+          "Que l'homme choisit d'être libre à un moment de sa vie"
+        ],
+        "hard": [
+          "Que la liberté est limitée par une nature humaine donnée",
+          "Que l'homme est libre en pensée mais déterminé en acte",
+          "Que ne pas choisir permet d'échapper à la responsabilité"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi la notion de situation nuance-t-elle la liberté chez Sartre sans la supprimer ?",
+      "verso": "Les circonstances ne déterminent pas le choix, mais c'est toujours dans une situation donnée, non choisie, que le choix s'exerce",
+      "explanation": "Mon corps, mon époque, ma classe, ma langue sont des faits que je n'ai pas choisis. La liberté n'est pas de les abolir mais de décider du sens que je leur donne et de ce que j'en fais.",
+      "tags": [
+        "auteur",
+        "Sartre"
+      ],
+      "distractors": {
+        "easy": [
+          "La situation supprime entièrement la liberté",
+          "La situation n'existe pas pour un homme libre",
+          "La liberté consiste à changer de situation"
+        ],
+        "medium": [
+          "La situation détermine le choix mais laisse la pensée libre",
+          "La liberté n'existe que dans les situations favorables",
+          "La situation est choisie par le sujet lui-même"
+        ],
+        "hard": [
+          "La situation constitue une nature humaine qui fixe les choix possibles",
+          "La liberté consiste à ignorer complètement sa situation",
+          "La situation rend tous les choix équivalents"
+        ]
+      }
+    },
+    {
+      "recto": "Comment les sciences humaines contestent-elles l'idée d'un choix pleinement libre ?",
+      "verso": "En montrant que nos goûts, nos décisions et nos trajectoires suivent des régularités liées au milieu social, à l'éducation et à l'histoire personnelle",
+      "explanation": "Ces régularités n'établissent pas une nécessité individuelle : elles rendent des probabilités, non des destins. Mais elles obligent à cesser de tenir le choix pour un commencement absolu.",
+      "tags": [
+        "sciences",
+        "objection"
+      ],
+      "distractors": {
+        "easy": [
+          "En prouvant que l'homme n'a pas de cerveau libre",
+          "En affirmant que la liberté n'existe dans aucune société",
+          "En montrant que les hommes se ressemblent tous"
+        ],
+        "medium": [
+          "En démontrant que chaque acte est prévisible avec certitude",
+          "En établissant que le milieu social supprime toute possibilité de changement",
+          "En prouvant expérimentalement l'inexistence de la volonté"
+        ],
+        "hard": [
+          "En établissant des lois nécessaires du comportement individuel",
+          "En montrant que les statistiques valent pour chaque cas particulier",
+          "En réduisant les conduites humaines au seul héritage biologique"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la conscience de choisir ne prouve-t-elle pas à elle seule que l'on est libre ?",
+      "verso": "Parce qu'elle atteste le sentiment de la décision, non l'absence de causes qui l'ont produite",
+      "explanation": "Le sentiment de liberté est un fait psychologique incontestable ; il ne dit rien de sa cause. C'est pourquoi le débat entre libre arbitre et déterminisme ne se tranche pas par l'introspection.",
+      "tags": [
+        "argument",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que personne n'a jamais l'impression de choisir",
+          "Parce que la conscience ment toujours",
+          "Parce que les choix sont faits par la société"
+        ],
+        "medium": [
+          "Parce que le sentiment de liberté n'existe que chez les enfants",
+          "Parce que la conscience ne perçoit que le passé",
+          "Parce que choisir est une illusion propre aux ignorants"
+        ],
+        "hard": [
+          "Parce que l'introspection permet d'atteindre les causes réelles du choix",
+          "Parce que le sentiment de liberté prouve seulement l'existence du hasard",
+          "Parce que la conscience saisit les causes mais non la décision"
+        ]
+      }
+    },
+    {
+      "recto": "Quel rapport la liberté entretient-elle avec la responsabilité ?",
+      "verso": "Elles sont solidaires : on ne peut tenir quelqu'un pour responsable que dans la mesure où il pouvait agir autrement",
+      "explanation": "C'est pourquoi le droit examine la contrainte, l'erreur et l'altération du discernement. Supprimer entièrement la liberté reviendrait à supprimer la faute, mais aussi le mérite.",
+      "tags": [
+        "morale",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Elles n'ont aucun rapport",
+          "La responsabilité précède la liberté",
+          "La liberté supprime la responsabilité"
+        ],
+        "medium": [
+          "La responsabilité est seulement juridique et non morale",
+          "On est responsable même de ce que l'on ne pouvait éviter",
+          "La liberté dispense de rendre des comptes"
+        ],
+        "hard": [
+          "La responsabilité suppose la liberté mais la liberté n'engage aucune responsabilité",
+          "On peut être responsable sans qu'aucune alternative n'ait existé",
+          "La responsabilité se mesure aux conséquences indépendamment de l'intention"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi l'obéissance à une règle peut-elle rendre plus libre plutôt que moins ?",
+      "verso": "Parce qu'une discipline acquise donne un pouvoir d'agir que l'on n'avait pas, comme le musicien libéré par la maîtrise de sa technique",
+      "explanation": "La contrainte extérieure diminue la liberté ; la règle intériorisée l'augmente en élargissant ce dont je suis capable. C'est le sens de l'apprentissage : la spontanéité sans travail reste pauvre.",
+      "tags": [
+        "notion",
+        "culture"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'obéir est toujours préférable",
+          "Parce que les règles sont faites par des gens libres",
+          "Parce que la liberté n'a pas de valeur"
+        ],
+        "medium": [
+          "Parce que la règle supprime le besoin de choisir",
+          "Parce que l'obéissance est récompensée par la société",
+          "Parce que toute contrainte est libératrice"
+        ],
+        "hard": [
+          "Parce que la règle rend les actes imprévisibles",
+          "Parce que la maîtrise technique dispense de toute création",
+          "Parce que l'habitude supprime la conscience de l'acte"
+        ]
+      }
+    },
+    {
+      "recto": "Quel repère du programme structure le débat entre liberté et déterminisme ?",
+      "verso": "L'opposition entre le nécessaire, le contingent et le possible",
+      "explanation": "Si tout est nécessaire, aucun autre choix n'était possible et la liberté disparaît. Si des possibles réels subsistent, il reste une place pour la décision. Le débat porte donc sur le statut du possible.",
+      "tags": [
+        "repère",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Le repère croire / savoir",
+          "Le repère genre / espèce / individu",
+          "Le repère analyse / synthèse"
+        ],
+        "medium": [
+          "Le repère universel / général",
+          "Le repère ressemblance / analogie",
+          "Le repère intuitif / discursif"
+        ],
+        "hard": [
+          "Le repère essentiel / accidentel",
+          "Le repère principe / conséquence",
+          "Le repère abstrait / concret"
+        ]
+      }
+    },
+    {
+      "recto": "Comment articuler la liberté intérieure et la liberté politique sans les confondre ?",
+      "verso": "La première est un rapport à soi que nulle contrainte n'atteint entièrement, la seconde un ensemble de conditions extérieures qu'il faut instituer",
+      "explanation": "Se contenter de la première conduit à excuser l'oppression au motif que l'esprit reste libre. Se contenter de la seconde suppose qu'une bonne organisation rende les hommes libres sans travail sur eux-mêmes. Les deux se soutiennent.",
+      "tags": [
+        "synthèse",
+        "politique"
+      ],
+      "distractors": {
+        "easy": [
+          "Elles sont identiques",
+          "Seule la liberté politique existe",
+          "Seule la liberté intérieure existe"
+        ],
+        "medium": [
+          "La liberté politique suffit à produire la liberté intérieure",
+          "La liberté intérieure rend la politique inutile",
+          "Elles s'excluent nécessairement l'une l'autre"
+        ],
+        "hard": [
+          "La liberté intérieure garantit à elle seule l'absence d'oppression",
+          "La liberté politique se réduit au sentiment d'être libre",
+          "Les deux se confondent dès lors que les lois sont justes"
+        ]
+      }
+    },
+    {
+      "recto": "Quel bilan peut-on dresser sur la liberté ?",
+      "verso": "Elle n'est ni une donnée ni une illusion, mais une conquête : elle suppose de connaître ce qui nous détermine et d'instituer les conditions qui la rendent effective",
+      "explanation": "Les deux excès à éviter sont symétriques : croire que l'on est libre par nature, et conclure du déterminisme que l'on ne l'est jamais. La liberté se mesure au degré d'appropriation de ce que l'on fait.",
+      "tags": [
+        "synthèse",
+        "bilan"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle est une illusion complète",
+          "Elle est donnée à tous également dès la naissance",
+          "Elle consiste à faire tout ce que l'on veut"
+        ],
+        "medium": [
+          "Elle se réduit à l'absence de lois",
+          "Elle dépend uniquement des institutions",
+          "Elle est indépendante de toute connaissance de soi"
+        ],
+        "hard": [
+          "Elle est une propriété métaphysique que l'expérience démontre",
+          "Elle exclut toute forme de détermination causale",
+          "Elle se confond avec l'imprévisibilité des conduites"
+        ]
+      }
+    }
+  ]
+}

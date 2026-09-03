@@ -1,0 +1,666 @@
+{
+  "id": "ses-terminale-justice-sociale",
+  "title": "Quelles inégalités sont compatibles avec la justice sociale ?",
+  "emoji": "⚖️",
+  "subject": "ses",
+  "country": "fr",
+  "courseDescription": "Spé SES · Terminale — égalité des droits, des chances et des situations, conceptions de la justice sociale, fiscalité et redistribution, protection sociale, limites de l'action publique.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Quelles inégalités sont compatibles avec la justice sociale&nbsp;?</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · spécialité SES<br>\n  <b>Thème&nbsp;:</b> Regards croisés — chapitre 1<br>\n  <b>Chapitre</b> · environ 4 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> À partir de quand un écart devient-il inacceptable&nbsp;?</p></blockquote>\n\n<p>Le titre du chapitre contient déjà sa difficulté&nbsp;: il ne demande pas quelles inégalités <em>existent</em>, mais lesquelles sont <em>compatibles</em> avec la justice. Or aucune donnée statistique ne répond à cette question. Mesurer un écart de revenu relève de l'économie&nbsp;; le juger acceptable ou non suppose une conception de la justice qu'il faut nommer. Tout le chapitre consiste à tenir ces deux moments séparés — d'abord les faits, ensuite les critères — puis à examiner les instruments concrets dont dispose l'action publique, et leurs limites.</p>\n\n<h2>1 · Inégalité n'est pas injustice</h2>\n\n<p>Une <strong>inégalité</strong> est un écart constaté&nbsp;; une <strong>injustice</strong> suppose un jugement de valeur sur le caractère inacceptable de cet écart. Un même écart de revenu peut être jugé légitime s'il récompense un effort ou un risque, illégitime s'il découle de l'héritage ou d'une discrimination.</p>\n\n<p>Encore faut-il savoir de quelle égalité on parle.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 185\" role=\"img\" aria-label=\"Les trois conceptions de l'égalité, de plus en plus exigeantes : l'égalité des droits garantit les mêmes règles pour tous, l'égalité des chances vise des possibilités identiques d'accéder aux positions, l'égalité des situations cherche à réduire les écarts entre les positions elles-mêmes, chacune appelant des politiques différentes\">\n    <rect x=\"8\" y=\"14\" width=\"102\" height=\"106\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".12\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"59\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">des droits</text>\n    <text x=\"59\" y=\"56\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">mêmes règles</text>\n    <text x=\"59\" y=\"68\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">pour tous</text>\n    <line x1=\"24\" y1=\"80\" x2=\"94\" y2=\"80\" stroke=\"var(--accent)\" stroke-opacity=\".35\"/>\n    <text x=\"59\" y=\"98\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">la loi,</text>\n    <text x=\"59\" y=\"110\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">la non-discrimination</text>\n    <rect x=\"118\" y=\"14\" width=\"102\" height=\"106\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".22\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"169\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">des chances</text>\n    <text x=\"169\" y=\"56\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">mêmes possibilités</text>\n    <text x=\"169\" y=\"68\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">d'accès</text>\n    <line x1=\"134\" y1=\"80\" x2=\"204\" y2=\"80\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"169\" y=\"98\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">compenser</text>\n    <text x=\"169\" y=\"110\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">les handicaps de départ</text>\n    <rect x=\"228\" y=\"14\" width=\"104\" height=\"106\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".35\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"280\" y=\"34\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">des situations</text>\n    <text x=\"280\" y=\"56\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">réduire les écarts</text>\n    <text x=\"280\" y=\"68\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">entre positions</text>\n    <line x1=\"244\" y1=\"80\" x2=\"316\" y2=\"80\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"280\" y=\"98\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">redistribution,</text>\n    <text x=\"280\" y=\"110\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">services collectifs</text>\n    <text x=\"170\" y=\"146\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">de plus en plus exigeantes — et en tension</text>\n    <text x=\"170\" y=\"168\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">L'égalité des chances accepte des écarts que l'égalité des situations refuse.</text>\n  </svg>\n  <figcaption>Trois conceptions, trois familles de politiques&nbsp;: on ne choisit pas l'une sans écarter les autres.</figcaption>\n</figure>\n\n<p>D'où une objection souvent formulée contre l'égalité des chances&nbsp;: une compétition <em>parfaitement équitable</em> pour des positions <em>très inégales</em> laisserait subsister des écarts considérables entre gagnants et perdants. L'argument déplace le débat de l'accès aux positions vers l'ampleur de la hiérarchie elle-même.</p>\n\n<h2>2 · Quatre conceptions de la justice sociale</h2>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Quatre conceptions de la justice sociale et le critère que chacune retient : l'utilitarisme juge le bien-être total, le libertarisme juge les procédures d'acquisition et d'échange, Rawls juge la situation des plus défavorisés, Sen juge les libertés réelles ou capabilités\">\n    <rect x=\"8\" y=\"14\" width=\"156\" height=\"80\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".14\" stroke=\"var(--accent)\" stroke-opacity=\".45\"/>\n    <text x=\"86\" y=\"32\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">utilitarisme</text>\n    <text x=\"86\" y=\"52\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">critère : le bien-être total</text>\n    <text x=\"86\" y=\"70\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">redistribution partielle,</text>\n    <text x=\"86\" y=\"82\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">mais minorité sacrifiable</text>\n    <rect x=\"176\" y=\"14\" width=\"156\" height=\"80\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".14\" stroke=\"var(--accent)\" stroke-opacity=\".45\"/>\n    <text x=\"254\" y=\"32\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">libertarisme</text>\n    <text x=\"254\" y=\"52\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">critère : les procédures</text>\n    <text x=\"254\" y=\"70\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">échanges libres légitimes,</text>\n    <text x=\"254\" y=\"82\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">mais inégalités de départ ?</text>\n    <rect x=\"8\" y=\"102\" width=\"156\" height=\"80\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".25\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"86\" y=\"120\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">Rawls</text>\n    <text x=\"86\" y=\"140\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">critère : les plus défavorisés</text>\n    <text x=\"86\" y=\"158\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">principe de différence,</text>\n    <text x=\"86\" y=\"170\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">voile d'ignorance</text>\n    <rect x=\"176\" y=\"102\" width=\"156\" height=\"80\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".25\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"254\" y=\"120\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">Sen</text>\n    <text x=\"254\" y=\"140\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">critère : les libertés réelles</text>\n    <text x=\"254\" y=\"158\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">capabilités : pouvoir choisir</text>\n    <text x=\"254\" y=\"170\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">la vie qu'on valorise</text>\n    <text x=\"170\" y=\"198\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Le désaccord porte sur le critère d'évaluation, avant de porter sur les instruments.</text>\n  </svg>\n  <figcaption>Identifier le critère retenu, c'est ce qui permet de <em>discuter</em> une politique au lieu de l'approuver ou la rejeter.</figcaption>\n</figure>\n\n<p>L'<strong>utilitarisme</strong> juge une répartition à la somme des bien-être qu'elle produit. Il justifie une redistribution partielle — un euro compte davantage pour un pauvre que pour un riche — mais peut accepter le sacrifice d'une minorité au nom du total&nbsp;: c'est sa faiblesse la plus commentée.</p>\n\n<p>Le <strong>libertarisme</strong> juge les <em>procédures</em> et non le résultat&nbsp;: une répartition est juste si elle résulte d'acquisitions et d'échanges librement consentis, l'État se bornant à faire respecter les droits de propriété. L'objection classique porte sur les inégalités de départ, qui n'ont fait l'objet d'aucun consentement.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Le principe de différence (Rawls)</strong><br>\n  Les inégalités ne sont justes que si elles contribuent à <strong>améliorer la situation des plus défavorisés</strong>.<br>\n  Le <em>voile d'ignorance</em> en est le dispositif de justification&nbsp;: quels principes choisiraient des individus qui ignorent la position sociale qu'ils occuperont&nbsp;?\n</div>\n\n<p><strong>Amartya Sen</strong> déplace enfin le critère des ressources vers les <strong>capabilités</strong>&nbsp;: la liberté réelle de choisir la vie qu'on a des raisons de valoriser. Deux personnes de même revenu n'ont pas les mêmes possibilités effectives si l'une est malade ou vit dans un territoire mal desservi. D'où l'importance des <em>services collectifs</em>, qui élargissent les possibilités réelles.</p>\n\n<h2>3 · Mesurer les inégalités</h2>\n\n<p>La mesure passe par des <strong>rapports interdéciles</strong>, des courbes de concentration et des indicateurs synthétiques, en distinguant <em>revenu primaire</em> (issu de l'activité et du patrimoine) et <em>revenu disponible</em> (après prélèvements et prestations). Comparer les deux distributions isole précisément l'effet de la redistribution.</p>\n\n<p>Deux précautions&nbsp;:</p>\n\n<ul>\n  <li>le <strong>patrimoine</strong> est bien plus concentré que le revenu, parce qu'il résulte d'une accumulation sur toute une vie et de <em>transmissions</em> entre générations. L'héritage transmet une position sans lien avec l'effort de celui qui la reçoit&nbsp;— d'où la place particulière de la fiscalité des successions dans les débats&nbsp;;</li>\n  <li>les inégalités sont <strong>cumulatives</strong>&nbsp;: revenu, patrimoine, santé, logement, éducation, accès aux services se renforcent mutuellement chez les mêmes personnes. Un faible revenu limite l'accès à un logement sain, qui dégrade la santé, qui réduit les possibilités professionnelles. C'est ce cumul qui rend la pauvreté difficile à quitter.</li>\n</ul>\n\n<h2>4 · Les instruments de l'action publique</h2>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Les quatre instruments de l'action publique pour la justice sociale : la fiscalité progressive, la protection sociale relevant d'une logique d'assurance ou d'assistance, les services collectifs qui redistribuent en nature, et la lutte contre les discriminations ; s'y ajoute la prédistribution qui agit sur la répartition primaire elle-même\">\n    <rect x=\"8\" y=\"14\" width=\"156\" height=\"72\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".55\"/>\n    <text x=\"86\" y=\"32\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">fiscalité progressive</text>\n    <text x=\"86\" y=\"52\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">le taux croît avec le revenu</text>\n    <text x=\"86\" y=\"72\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">effet réel, mais plus limité</text>\n    <rect x=\"176\" y=\"14\" width=\"156\" height=\"72\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".25\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"254\" y=\"32\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">protection sociale</text>\n    <text x=\"254\" y=\"50\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">assurance : cotisations</text>\n    <text x=\"254\" y=\"63\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">assistance : condition de ressources</text>\n    <text x=\"254\" y=\"79\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">l'instrument le plus puissant</text>\n    <rect x=\"8\" y=\"94\" width=\"156\" height=\"72\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".55\"/>\n    <text x=\"86\" y=\"112\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">services collectifs</text>\n    <text x=\"86\" y=\"132\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">école, santé, transports</text>\n    <text x=\"86\" y=\"152\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">redistribution en nature</text>\n    <rect x=\"176\" y=\"94\" width=\"156\" height=\"72\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".55\"/>\n    <text x=\"254\" y=\"112\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">non-discrimination</text>\n    <text x=\"254\" y=\"132\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">interdiction, tests de situation</text>\n    <text x=\"254\" y=\"152\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">et discrimination positive</text>\n    <text x=\"170\" y=\"188\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">En amont : la prédistribution — salaire minimum, droit du travail —</text>\n    <text x=\"170\" y=\"199\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">agit sur la répartition primaire, sans dépendre du consentement à l'impôt.</text>\n  </svg>\n  <figcaption>Un résultat contre-intuitif&nbsp;: les prestations réduisent davantage les écarts que la progressivité fiscale.</figcaption>\n</figure>\n\n<p>La <strong>redistribution</strong> — prélèvements obligatoires et prestations — réduit sensiblement les écarts entre revenus primaires et disponibles, sans les supprimer. Contrairement à l'intuition, ce sont les <em>prestations</em>, et non la progressivité de l'impôt, qui pèsent le plus dans cette réduction&nbsp;: elles représentent une part très importante du revenu des ménages modestes.</p>\n\n<p>La <strong>protection sociale</strong> combine deux logiques&nbsp;: l'<em>assurance</em> verse des prestations en contrepartie de cotisations liées à l'activité (retraite, chômage)&nbsp;; l'<em>assistance</em> verse sous condition de ressources, financée par l'impôt. Objectifs distincts&nbsp;: maintenir le niveau de vie d'un côté, lutter contre la pauvreté de l'autre.</p>\n\n<p>Une <strong>discrimination</strong> est un traitement défavorable fondé sur un critère prohibé — origine, sexe, âge, santé, convictions. Elle se distingue d'une inégalité produite par des mécanismes impersonnels, et sa mesure passe souvent par des <em>tests de situation</em>, seuls capables d'isoler l'effet du critère. La <strong>discrimination positive</strong> accorde un traitement préférentiel à des groupes défavorisés&nbsp;: elle se justifie par l'insuffisance de la seule égalité formelle, et soulève en retour une objection de principe — rompre l'égalité de traitement au nom de l'égalité des chances.</p>\n\n<h2>5 · Les limites</h2>\n\n<p><strong>Contraintes budgétaires</strong>&nbsp;: le financement suppose des prélèvements dont le niveau se heurte à l'acceptabilité fiscale, à la concurrence entre États et à l'équilibre des comptes publics.</p>\n\n<p><strong>Effets désincitatifs</strong>&nbsp;: une <em>trappe à inactivité</em> apparaît quand la reprise d'un emploi n'améliore que faiblement le revenu disponible, du fait de la perte de prestations et des coûts liés au travail. Son ampleur réelle fait débat&nbsp;: les études montrent qu'elle concerne des configurations précises plutôt que la généralité des allocataires.</p>\n\n<p><strong>Arbitrage efficacité-équité</strong>&nbsp;: une redistribution importante peut réduire les incitations à travailler, investir ou innover&nbsp;; mais une inégalité forte peut elle-même nuire à l'efficacité, en gâchant des talents. L'arbitrage n'est donc <em>pas mécanique</em> — les deux objectifs se contrarient dans certaines configurations et se renforcent dans d'autres.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Le raisonnement du chapitre</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Frise du raisonnement du chapitre : distinguer inégalité et injustice, préciser de quelle égalité on parle, expliciter la conception de la justice retenue, présenter les instruments de l'action publique, puis discuter leurs limites budgétaires et incitatives\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"176\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">1. Mesurer</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Écarts de revenu, de patrimoine, cumuls</text>\n    <circle cx=\"26\" cy=\"60\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"57\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">2. Préciser l'égalité visée</text>\n    <text x=\"44\" y=\"70\" font-size=\"10\" fill=\"currentColor\">Droits, chances ou situations</text>\n    <circle cx=\"26\" cy=\"100\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"97\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">3. Expliciter le critère</text>\n    <text x=\"44\" y=\"110\" font-size=\"10\" fill=\"currentColor\">Utilitarisme, libertarisme, Rawls, Sen</text>\n    <circle cx=\"26\" cy=\"140\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"137\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">4. Les instruments</text>\n    <text x=\"44\" y=\"150\" font-size=\"10\" fill=\"currentColor\">Fiscalité, protection sociale, services, droit</text>\n    <circle cx=\"26\" cy=\"176\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"173\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">5. Les limites</text>\n    <text x=\"44\" y=\"186\" font-size=\"10\" fill=\"currentColor\">Budget, incitations, arbitrage efficacité-équité</text>\n  </svg>\n  <figcaption>L'étape 3 ne se saute pas&nbsp;: sans elle, un jugement moral se déguise en résultat statistique.</figcaption>\n</figure>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition en une ligne</th></tr>\n  <tr><td>Égalité des chances</td><td>Mêmes possibilités d'accéder aux positions</td></tr>\n  <tr><td>Principe de différence</td><td>Inégalité juste si elle profite aux plus défavorisés</td></tr>\n  <tr><td>Capabilités</td><td>Liberté réelle de choisir sa vie</td></tr>\n  <tr><td>Impôt progressif</td><td>Taux croissant avec le revenu imposé</td></tr>\n  <tr><td>Assurance / assistance</td><td>Cotisations liées à l'activité / condition de ressources</td></tr>\n  <tr><td>Trappe à inactivité</td><td>Reprise d'emploi peu avantageuse financièrement</td></tr>\n</table>\n\n<h3>Les conceptions et leur critère</h3>\n\n<table>\n  <tr><th>Conception</th><th>Ce qu'elle juge</th></tr>\n  <tr><td>Utilitarisme</td><td>Le bien-être total de la société</td></tr>\n  <tr><td>Libertarisme</td><td>La liberté des acquisitions et des échanges</td></tr>\n  <tr><td>Rawls</td><td>La situation des membres les plus défavorisés</td></tr>\n  <tr><td>Sen</td><td>Les libertés réelles, ou capabilités</td></tr>\n  <tr><td>Égalitarisme strict</td><td>L'identité des situations elles-mêmes</td></tr>\n</table>\n\n<h3>Mécanismes à savoir rédiger</h3>\n\n<table>\n  <tr><th>Enchaînement</th><th>Étapes</th></tr>\n  <tr><td>Redistribution</td><td>Revenu primaire → prélèvements et prestations → revenu disponible resserré</td></tr>\n  <tr><td>Inégalités cumulatives</td><td>Faible revenu → logement dégradé → santé altérée → emploi plus difficile</td></tr>\n  <tr><td>Concentration du patrimoine</td><td>Accumulation sur une vie + héritage → écarts amplifiés entre générations</td></tr>\n  <tr><td>Trappe à inactivité</td><td>Reprise d'emploi → perte de prestations + coûts → gain net faible</td></tr>\n  <tr><td>Capabilités et services</td><td>Service collectif gratuit → possibilités réelles élargies → liberté effective accrue</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Traiter toute <strong>inégalité</strong> comme une <strong>injustice</strong>. Une inégalité est un écart constaté&nbsp;; une injustice suppose un jugement porté au nom d'une conception explicite de la justice. Enchaîner directement du chiffre au jugement revient à faire passer une préférence morale pour un résultat statistique. Deux erreurs voisines&nbsp;: attribuer l'essentiel de la réduction des écarts à la <em>progressivité fiscale</em>, alors que les <em>prestations</em> y contribuent davantage&nbsp;; et présenter efficacité et équité comme systématiquement opposées, alors qu'elles se renforcent dans certaines configurations.\n</div>\n\n<blockquote><p>Aucune donnée ne dira jamais quelle inégalité est de trop. Ce que la démarche des sciences sociales permet, c'est de nommer le critère au nom duquel on tranche&nbsp;— et de mesurer ce que ce choix coûte et rapporte.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Spécialité SES — Regards croisés",
+  "cards": [
+    {
+      "recto": "Piège classique : toute inégalité est-elle une injustice ?",
+      "verso": "Non : une inégalité est un écart constaté, tandis qu'une injustice suppose un jugement de valeur sur le caractère inacceptable de cet écart au regard d'une conception de la justice",
+      "explanation": "Un écart de revenu peut être jugé légitime s'il récompense un effort ou un risque, et illégitime s'il découle de l'héritage ou d'une discrimination. Passer du constat au jugement exige donc d'expliciter la conception de la justice mobilisée.",
+      "tags": [
+        "piege",
+        "justice"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, toute inégalité est par définition injuste",
+          "Oui, sauf les inégalités de revenus",
+          "Non, car il n'existe aucune inégalité mesurable"
+        ],
+        "medium": [
+          "Oui, dès lors que l'inégalité est mesurable statistiquement",
+          "Non, car seule une décision de justice peut qualifier une injustice",
+          "Oui, à condition que l'écart dépasse un seuil fixé par la loi"
+        ],
+        "hard": [
+          "Non, une inégalité étant un écart constaté, constat qui suffit pourtant à fonder un jugement de justice",
+          "Non, mais le passage du constat au jugement s'effectue sans référence à une conception particulière de la justice",
+          "Non, seules les inégalités issues de l'héritage pouvant être qualifiées d'injustices"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : que recouvrent l'égalité des droits, l'égalité des chances et l'égalité des situations ?",
+      "verso": "L'égalité des droits garantit les mêmes règles pour tous, l'égalité des chances vise des possibilités identiques d'accéder aux positions, l'égalité des situations cherche à réduire les écarts entre les positions elles-mêmes",
+      "explanation": "Ces trois conceptions sont de plus en plus exigeantes et supposent des politiques différentes : la loi, la compensation des handicaps de départ, puis la redistribution. Elles peuvent entrer en tension, l'égalité des chances acceptant des écarts que l'égalité des situations refuse.",
+      "tags": [
+        "comparaison",
+        "égalité"
+      ],
+      "distractors": {
+        "easy": [
+          "Les trois expressions désignent la même chose",
+          "L'une concerne l'école, l'autre le travail, la troisième la famille",
+          "Les trois concernent uniquement le revenu"
+        ],
+        "medium": [
+          "L'égalité des droits réduit les écarts de position, l'égalité des situations garantit les mêmes règles",
+          "L'égalité des chances garantit les mêmes règles, l'égalité des droits des possibilités identiques",
+          "Les trois conceptions supposent exactement les mêmes politiques publiques"
+        ],
+        "hard": [
+          "Les trois conceptions sont de plus en plus exigeantes, exigence croissante qui exclut toute tension entre elles",
+          "L'égalité des droits garantit les mêmes règles, l'égalité des chances des possibilités identiques, l'égalité des situations l'identité stricte de toutes les positions",
+          "L'égalité des chances vise des possibilités identiques, ce qui suppose au préalable d'avoir atteint l'égalité des situations"
+        ]
+      }
+    },
+    {
+      "recto": "Que soutient l'approche utilitariste de la justice sociale ?",
+      "verso": "Qu'une répartition est juste si elle maximise le bien-être total de la société, quelle que soit sa distribution entre les individus",
+      "explanation": "Elle justifie une redistribution partielle, un euro comptant davantage pour un pauvre que pour un riche, mais elle peut aussi accepter le sacrifice d'une minorité au nom du total. C'est cette dernière conséquence qui lui est le plus souvent reprochée.",
+      "tags": [
+        "utilitarisme",
+        "théorie"
+      ],
+      "distractors": {
+        "easy": [
+          "Que toutes les richesses doivent être également partagées",
+          "Que l'État ne doit jamais intervenir",
+          "Que seul le mérite individuel compte"
+        ],
+        "medium": [
+          "Qu'une répartition est juste si elle améliore le sort du plus défavorisé",
+          "Qu'une répartition est juste si elle respecte les droits de propriété",
+          "Qu'une répartition est juste si elle égalise les capabilités"
+        ],
+        "hard": [
+          "Qu'une répartition est juste si elle maximise le bien-être total, principe qui interdit tout sacrifice d'une minorité",
+          "Qu'une répartition est juste si elle maximise le bien-être total, ce qui exclut toute forme de redistribution",
+          "Qu'une répartition est juste si elle maximise le bien-être moyen, indépendamment du nombre d'individus concernés"
+        ]
+      }
+    },
+    {
+      "recto": "Que soutient l'approche libertarienne de la justice sociale ?",
+      "verso": "Qu'une répartition est juste si elle résulte d'acquisitions et d'échanges librement consentis, le rôle de l'État devant se limiter à faire respecter les droits de propriété",
+      "explanation": "La justice porte ici sur les procédures et non sur le résultat obtenu, ce qui rend la redistribution illégitime dès lors que les échanges étaient libres. L'objection classique porte sur les inégalités de départ, qui n'ont fait l'objet d'aucun consentement.",
+      "tags": [
+        "libertarisme",
+        "théorie"
+      ],
+      "distractors": {
+        "easy": [
+          "Que l'État doit répartir également toutes les richesses",
+          "Que la propriété privée doit être abolie",
+          "Que le bien-être total doit être maximisé"
+        ],
+        "medium": [
+          "Qu'une répartition est juste si elle améliore le sort des plus défavorisés",
+          "Qu'une répartition est juste si elle égalise les chances de départ",
+          "Qu'une répartition est juste si elle maximise l'utilité collective"
+        ],
+        "hard": [
+          "Qu'une répartition est juste si elle résulte d'échanges libres, la justice portant sur le résultat obtenu et non sur les procédures",
+          "Qu'une répartition est juste si elle résulte d'échanges libres, ce qui rend légitime une redistribution corrigeant les inégalités de départ",
+          "Qu'une répartition est juste si les procédures ont été respectées, à condition que les inégalités de départ aient été préalablement corrigées"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que le principe de différence chez John Rawls ?",
+      "verso": "Les inégalités ne sont justes que si elles contribuent à améliorer la situation des membres les plus défavorisés de la société",
+      "explanation": "Une inégalité peut donc être acceptée si elle incite à produire davantage et que ce surplus profite aux plus démunis. C'est une position intermédiaire entre l'acceptation libertarienne des écarts et leur suppression égalitariste.",
+      "tags": [
+        "Rawls",
+        "théorie"
+      ],
+      "distractors": {
+        "easy": [
+          "Toutes les inégalités doivent être supprimées",
+          "Toutes les inégalités sont justes par nature",
+          "Les inégalités doivent être fixées par la loi"
+        ],
+        "medium": [
+          "Les inégalités sont justes si elles maximisent le bien-être total",
+          "Les inégalités sont justes si elles résultent d'échanges libres",
+          "Les inégalités sont justes si elles récompensent le mérite individuel"
+        ],
+        "hard": [
+          "Les inégalités sont justes si elles améliorent la situation des plus défavorisés, principe qui interdit toute incitation à produire davantage",
+          "Les inégalités sont justes si elles améliorent la situation moyenne de la société",
+          "Les inégalités sont justes si elles améliorent la situation des plus défavorisés, à condition que ceux-ci y aient consenti individuellement"
+        ]
+      }
+    },
+    {
+      "recto": "À quoi sert l'expérience de pensée du voile d'ignorance chez John Rawls ?",
+      "verso": "À déterminer les principes de justice que des individus choisiraient s'ils ignoraient la position sociale qu'ils occuperont",
+      "explanation": "Ne sachant pas s'ils seront riches ou pauvres, doués ou non, ils retiendraient des règles protégeant les plus défavorisés. Ce dispositif vise à neutraliser l'intérêt personnel dans la définition de la justice.",
+      "tags": [
+        "Rawls",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "À dissimuler les inégalités réelles de la société",
+          "À empêcher les citoyens de connaître les lois",
+          "À organiser un vote anonyme sur la redistribution"
+        ],
+        "medium": [
+          "À déterminer les principes qui maximisent le bien-être total",
+          "À montrer que les individus choisissent toujours l'égalité stricte",
+          "À mesurer l'ignorance des citoyens en matière économique"
+        ],
+        "hard": [
+          "À déterminer les principes que choisiraient des individus connaissant leur future position sociale",
+          "À déterminer les principes de justice, dispositif qui suppose que chacun agisse par altruisme et non par intérêt",
+          "À neutraliser l'intérêt personnel, ce qui conduit nécessairement au choix d'une égalité stricte des revenus"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'apporte l'approche par les capabilités d'Amartya Sen ?",
+      "verso": "L'idée que la justice ne se mesure pas aux ressources détenues, mais à la liberté réelle de chacun de choisir la vie qu'il a des raisons de valoriser",
+      "explanation": "Deux personnes disposant du même revenu n'ont pas les mêmes possibilités effectives si l'une est malade ou vit dans un territoire mal desservi. Cette approche justifie l'importance des services collectifs, qui élargissent les possibilités réelles.",
+      "tags": [
+        "Sen",
+        "théorie"
+      ],
+      "distractors": {
+        "easy": [
+          "L'idée que seul le revenu compte pour mesurer la justice",
+          "L'idée que la justice se mesure au patrimoine détenu",
+          "L'idée que la justice suppose l'égalité stricte des revenus"
+        ],
+        "medium": [
+          "L'idée que la justice se mesure au bien-être total de la société",
+          "L'idée que la justice dépend uniquement du respect des procédures",
+          "L'idée que les ressources détenues déterminent entièrement les possibilités réelles"
+        ],
+        "hard": [
+          "L'idée que la justice se mesure à la liberté réelle de choisir, liberté qui découle mécaniquement du niveau de ressources",
+          "L'idée que la justice se mesure aux réalisations effectives et non aux libertés dont dispose chacun",
+          "L'idée que la justice se mesure à la liberté réelle, ce qui rend inutiles les services collectifs"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on la redistribution des revenus ?",
+      "verso": "L'ensemble des prélèvements obligatoires et des prestations qui modifient la répartition primaire des revenus issue du marché",
+      "explanation": "On distingue le revenu primaire, issu de l'activité et du patrimoine, et le revenu disponible, obtenu après prélèvements et prestations. La redistribution réduit sensiblement les écarts, sans les supprimer.",
+      "tags": [
+        "redistribution",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Le partage égal de toutes les richesses",
+          "La distribution des salaires par les entreprises",
+          "Le versement des dividendes aux actionnaires"
+        ],
+        "medium": [
+          "L'ensemble des salaires versés dans l'économie",
+          "L'ensemble des revenus du patrimoine des ménages",
+          "La répartition de la valeur ajoutée entre salaires et profits"
+        ],
+        "hard": [
+          "L'ensemble des prélèvements et prestations modifiant la répartition primaire, ensemble qui supprime les écarts de revenus",
+          "L'ensemble des prestations sociales versées, à l'exclusion des prélèvements obligatoires",
+          "L'ensemble des prélèvements et prestations, qui transforme le revenu disponible en revenu primaire"
+        ]
+      }
+    },
+    {
+      "recto": "Que signifie qu'un impôt est progressif ?",
+      "verso": "Son taux augmente avec le niveau du revenu ou du patrimoine imposé, si bien que les plus aisés versent une part plus élevée de leurs ressources",
+      "explanation": "L'impôt sur le revenu est progressif, tandis qu'une taxe à taux unique sur la consommation est proportionnelle, voire régressive au regard du revenu. La progressivité est l'instrument fiscal principal de réduction des inégalités.",
+      "tags": [
+        "fiscalité",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Il est payé chaque mois plutôt qu'une fois par an",
+          "Il augmente chaque année d'un montant fixe",
+          "Il est payé progressivement en plusieurs fois"
+        ],
+        "medium": [
+          "Son taux est identique pour tous les contribuables",
+          "Son taux diminue lorsque le revenu augmente",
+          "Son montant est identique pour tous les contribuables"
+        ],
+        "hard": [
+          "Son taux augmente avec le revenu imposé, comme c'est le cas d'une taxe à taux unique sur la consommation",
+          "Son montant total augmente avec le revenu, ce qui suffit à le rendre progressif",
+          "Son taux augmente avec le revenu, progressivité qui rend l'impôt neutre au regard des inégalités"
+        ]
+      }
+    },
+    {
+      "recto": "Que distingue une logique d'assurance d'une logique d'assistance dans la protection sociale ?",
+      "verso": "L'assurance verse des prestations en contrepartie de cotisations liées à l'activité, tandis que l'assistance verse des prestations sous condition de ressources, financées par l'impôt",
+      "explanation": "La retraite et l'assurance chômage relèvent de la première, le revenu de solidarité active de la seconde. Les deux logiques coexistent en France et poursuivent des objectifs distincts, le maintien du niveau de vie et la lutte contre la pauvreté.",
+      "tags": [
+        "protection sociale",
+        "distinction"
+      ],
+      "distractors": {
+        "easy": [
+          "L'assurance concerne les entreprises, l'assistance les ménages",
+          "L'assurance est privée, l'assistance est publique",
+          "Les deux logiques désignent la même chose"
+        ],
+        "medium": [
+          "L'assurance verse sous condition de ressources, l'assistance en contrepartie de cotisations",
+          "L'assurance est financée par l'impôt, l'assistance par les cotisations",
+          "L'assurance concerne la santé, l'assistance la retraite uniquement"
+        ],
+        "hard": [
+          "L'assurance repose sur des cotisations et l'assistance sur l'impôt, ces deux logiques ne pouvant coexister dans un même système",
+          "L'assurance verse en contrepartie de cotisations, prestations toutefois soumises à condition de ressources",
+          "L'assurance vise la lutte contre la pauvreté, l'assistance le maintien du niveau de vie"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on les services collectifs et en quoi contribuent-ils à la justice sociale ?",
+      "verso": "Les services fournis gratuitement ou à faible coût comme l'école, la santé ou les transports, qui améliorent le niveau de vie réel sans passer par un versement monétaire",
+      "explanation": "Cette redistribution en nature pèse davantage dans le budget des ménages modestes, chez qui elle représente une part relative plus importante des ressources. Elle rejoint directement l'approche par les capabilités, en élargissant les possibilités effectives.",
+      "tags": [
+        "services collectifs",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Les entreprises publiques qui vendent des biens",
+          "Les associations caritatives privées",
+          "Les allocations versées en espèces aux ménages"
+        ],
+        "medium": [
+          "Les prestations sociales versées sous forme monétaire",
+          "Les services marchands achetés par les ménages aisés",
+          "Les services fournis uniquement aux personnes sans ressources"
+        ],
+        "hard": [
+          "Les services fournis gratuitement ou à faible coût, redistribution en nature dont le poids relatif est identique dans tous les ménages",
+          "Les services fournis à faible coût, dont l'effet est indépendant de l'approche par les capabilités",
+          "Les services fournis gratuitement, qui améliorent le niveau de vie réel des seuls ménages les plus aisés"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on une discrimination ?",
+      "verso": "Un traitement défavorable réservé à une personne en raison d'un critère prohibé comme l'origine, le sexe, l'âge, l'état de santé ou les convictions",
+      "explanation": "Elle se distingue d'une inégalité produite par des mécanismes impersonnels, car elle repose sur un traitement différencié illégitime et interdit par la loi. Sa mesure passe souvent par des tests de situation, seuls capables d'isoler l'effet du critère prohibé.",
+      "tags": [
+        "discriminations",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Toute différence de revenu entre deux personnes",
+          "Le fait de choisir un candidat plus qualifié",
+          "Toute inégalité constatée dans une société"
+        ],
+        "medium": [
+          "Une inégalité produite par des mécanismes économiques impersonnels",
+          "Un écart de salaire résultant d'une différence de productivité",
+          "Une différence de traitement fondée sur le mérite professionnel"
+        ],
+        "hard": [
+          "Un traitement défavorable fondé sur un critère prohibé, traitement qui se confond avec toute inégalité mesurée",
+          "Un traitement défavorable fondé sur un critère prohibé, dont l'existence ne peut être établie par des tests de situation",
+          "Un traitement défavorable fondé sur un critère prohibé, à condition qu'il soit intentionnel et explicitement revendiqué"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi consiste une politique de discrimination positive ?",
+      "verso": "À accorder un traitement préférentiel à des groupes défavorisés afin de compenser des inégalités persistantes et d'améliorer leur accès à certaines positions",
+      "explanation": "Elle se justifie par l'insuffisance de la seule égalité formelle des droits face à des désavantages cumulés. Elle soulève en retour une objection de principe, celle de rompre l'égalité de traitement au nom de l'égalité des chances.",
+      "tags": [
+        "discriminations",
+        "politiques"
+      ],
+      "distractors": {
+        "easy": [
+          "À interdire toute forme de recrutement",
+          "À traiter tous les candidats de façon strictement identique",
+          "À supprimer les concours d'entrée"
+        ],
+        "medium": [
+          "À accorder un traitement défavorable à certains groupes",
+          "À garantir des résultats identiques pour tous les groupes",
+          "À supprimer toute référence à l'origine sociale des candidats"
+        ],
+        "hard": [
+          "À accorder un traitement préférentiel à des groupes défavorisés, politique qui ne soulève aucune objection de principe",
+          "À accorder un traitement préférentiel, mesure qui suppose que l'égalité formelle des droits soit déjà suffisante",
+          "À accorder un traitement préférentiel à des groupes défavorisés, dans le but d'égaliser strictement les positions atteintes"
+        ]
+      }
+    },
+    {
+      "recto": "Comment mesure-t-on l'ampleur des inégalités de revenus ?",
+      "verso": "Par des rapports interdéciles, des courbes de concentration et des indicateurs synthétiques, en distinguant revenu primaire et revenu disponible",
+      "explanation": "Comparer les deux distributions permet d'isoler l'effet de la redistribution. Le patrimoine étant plus concentré que le revenu, il faut aussi l'examiner pour ne pas sous-estimer les écarts.",
+      "tags": [
+        "mesure",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En comparant les salaires de deux entreprises",
+          "En comptant le nombre de ménages pauvres",
+          "En mesurant le taux de croissance du PIB"
+        ],
+        "medium": [
+          "Par le seul revenu moyen de la population",
+          "Par le seul niveau du salaire minimum",
+          "Par des rapports interdéciles portant uniquement sur le revenu primaire"
+        ],
+        "hard": [
+          "Par des rapports interdéciles et des indicateurs synthétiques, mesures qui rendent inutile l'examen du patrimoine",
+          "Par la comparaison des revenus primaires et disponibles, comparaison qui n'informe pas sur l'effet de la redistribution",
+          "Par des indicateurs synthétiques, le patrimoine étant moins concentré que le revenu et donc négligeable"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi parle-t-on d'inégalités cumulatives ?",
+      "verso": "Parce que les inégalités de revenu, de patrimoine, de santé, de logement, d'éducation et d'accès aux services tendent à se renforcer mutuellement chez les mêmes personnes",
+      "explanation": "Un faible revenu limite l'accès à un logement sain, qui dégrade la santé, laquelle réduit à son tour les possibilités professionnelles. C'est ce cumul qui rend les situations de pauvreté difficiles à quitter.",
+      "tags": [
+        "inégalités",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les inégalités augmentent chaque année",
+          "Parce qu'on additionne les revenus des ménages",
+          "Parce que les inégalités se comptent en cumulé sur plusieurs années"
+        ],
+        "medium": [
+          "Parce que les différentes inégalités se compensent mutuellement",
+          "Parce que les inégalités touchent des personnes différentes selon les domaines",
+          "Parce que les inégalités de revenu suffisent à décrire toutes les autres"
+        ],
+        "hard": [
+          "Parce que les inégalités se renforcent mutuellement, cumul qui facilite pourtant la sortie de la pauvreté",
+          "Parce que les inégalités se renforcent mutuellement, phénomène limité au domaine économique",
+          "Parce que les inégalités se renforcent mutuellement, renforcement dont l'effet est identique à tous les niveaux de revenu"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on une trappe à inactivité ?",
+      "verso": "Une situation où la reprise d'un emploi n'améliore que faiblement le revenu disponible, en raison de la perte de prestations et des coûts liés au travail",
+      "explanation": "Ce risque justifie des dispositifs qui rendent le retour à l'emploi financièrement avantageux, comme les compléments de revenu d'activité. Son ampleur réelle fait débat, les études montrant qu'elle concerne des configurations précises plutôt que la généralité des allocataires.",
+      "tags": [
+        "limites",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Une situation de chômage de longue durée",
+          "Un piège tendu aux demandeurs d'emploi",
+          "L'impossibilité légale de reprendre un emploi"
+        ],
+        "medium": [
+          "Une situation où la reprise d'emploi augmente fortement le revenu disponible",
+          "Une situation où les prestations sont versées sans condition",
+          "Une situation où les employeurs refusent d'embaucher les allocataires"
+        ],
+        "hard": [
+          "Une situation où la reprise d'emploi améliore peu le revenu, phénomène qui concerne la généralité des allocataires",
+          "Une situation où la reprise d'emploi améliore peu le revenu, sans que les coûts liés au travail n'y jouent aucun rôle",
+          "Une situation où la perte de prestations dépasse toujours le gain salarial, quelle que soit la configuration familiale"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles limites budgétaires pèsent sur les politiques de justice sociale ?",
+      "verso": "Le financement suppose des prélèvements dont le niveau se heurte à l'acceptabilité fiscale, à la concurrence entre États et à la contrainte d'équilibre des comptes publics",
+      "explanation": "Les dépenses sociales représentent une part importante de la richesse nationale, ce qui rend leur financement structurellement sensible à la conjoncture. Cette contrainte n'invalide pas les politiques mais impose des arbitrages entre objectifs.",
+      "tags": [
+        "limites",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Il n'existe aucune limite au financement des politiques sociales",
+          "Les politiques sociales ne coûtent rien à l'État",
+          "Les politiques sociales sont financées par les entreprises seules"
+        ],
+        "medium": [
+          "Le financement est assuré exclusivement par l'emprunt",
+          "Le financement ne dépend pas du niveau des prélèvements obligatoires",
+          "Le financement est insensible à la conjoncture économique"
+        ],
+        "hard": [
+          "Le financement suppose des prélèvements, contrainte qui invalide toute politique de justice sociale",
+          "Le financement se heurte à l'acceptabilité fiscale, contrainte indépendante de la concurrence entre États",
+          "Le financement suppose des prélèvements, dont le niveau n'est jamais discuté politiquement"
+        ]
+      }
+    },
+    {
+      "recto": "Comment se pose l'arbitrage entre efficacité et équité ?",
+      "verso": "Une redistribution importante peut réduire les incitations à travailler, à investir ou à innover, tandis qu'une inégalité forte peut elle-même nuire à l'efficacité en gâchant des talents",
+      "explanation": "L'arbitrage n'est donc pas mécanique : les deux objectifs se contrarient dans certaines configurations et se renforcent dans d'autres. Une copie qui présente équité et efficacité comme systématiquement opposées manque cette nuance essentielle.",
+      "tags": [
+        "limites",
+        "raisonnement"
+      ],
+      "distractors": {
+        "easy": [
+          "L'efficacité et l'équité sont toujours parfaitement compatibles",
+          "L'efficacité et l'équité sont toujours strictement opposées",
+          "L'équité n'a aucun rapport avec l'efficacité économique"
+        ],
+        "medium": [
+          "Une redistribution importante renforce toujours les incitations économiques",
+          "Une inégalité forte améliore toujours l'efficacité économique",
+          "L'arbitrage se résout uniquement par le niveau du salaire minimum"
+        ],
+        "hard": [
+          "Une redistribution importante peut réduire les incitations, opposition qui vaut systématiquement quelle que soit la configuration",
+          "Une inégalité forte peut nuire à l'efficacité en gâchant des talents, effet observé uniquement dans les pays en développement",
+          "L'arbitrage n'est pas mécanique, ce qui signifie que le niveau de redistribution est sans effet sur l'activité économique"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi les inégalités de patrimoine sont-elles plus fortes que les inégalités de revenus ?",
+      "verso": "Parce que le patrimoine résulte d'une accumulation sur toute une vie et de transmissions entre générations, ce qui amplifie les écarts initiaux",
+      "explanation": "L'héritage joue un rôle central, puisqu'il transmet une position sans lien avec l'effort de celui qui la reçoit. C'est pourquoi la fiscalité des successions occupe une place particulière dans les débats sur la justice sociale.",
+      "tags": [
+        "inégalités",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que le patrimoine n'est pas mesurable",
+          "Parce que les revenus ne sont pas imposés",
+          "Parce que le patrimoine appartient à l'État"
+        ],
+        "medium": [
+          "Parce que le patrimoine se répartit plus également que les revenus",
+          "Parce que le patrimoine est entièrement constitué de revenus d'activité",
+          "Parce que le patrimoine ne se transmet pas entre générations"
+        ],
+        "hard": [
+          "Parce que le patrimoine résulte d'une accumulation et de transmissions, mécanismes qui réduisent les écarts initiaux",
+          "Parce que le patrimoine résulte d'une accumulation sur une vie, sans que les transmissions n'y jouent de rôle significatif",
+          "Parce que le patrimoine s'accumule, accumulation qui rend inutile toute fiscalité des successions"
+        ]
+      }
+    },
+    {
+      "recto": "Quel effet la redistribution a-t-elle sur les inégalités en France ?",
+      "verso": "Elle réduit sensiblement les écarts entre revenus primaires et revenus disponibles, sans les supprimer, grâce à la progressivité de l'impôt et surtout aux prestations sociales",
+      "explanation": "Les prestations pèsent davantage que la progressivité fiscale dans cette réduction, car elles représentent une part très importante du revenu des ménages modestes. Ce constat corrige l'idée intuitive selon laquelle l'impôt serait le principal instrument.",
+      "tags": [
+        "redistribution",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle supprime totalement les inégalités de revenus",
+          "Elle n'a aucun effet sur les inégalités",
+          "Elle augmente les écarts entre les ménages"
+        ],
+        "medium": [
+          "Elle réduit les écarts, la progressivité de l'impôt y contribuant davantage que les prestations",
+          "Elle réduit uniquement les inégalités de patrimoine",
+          "Elle agit uniquement sur les revenus les plus élevés"
+        ],
+        "hard": [
+          "Elle réduit sensiblement les écarts grâce aux prestations, réduction qui les supprime chez les ménages modestes",
+          "Elle réduit les écarts entre revenus primaires et disponibles, réduction assurée principalement par la fiscalité indirecte",
+          "Elle réduit les écarts, effet limité aux seules prestations versées sous condition de ressources"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi l'égalité des chances ne suffit-elle pas selon certains auteurs ?",
+      "verso": "Parce qu'une compétition parfaitement équitable pour des positions très inégales laisserait subsister des écarts considérables entre gagnants et perdants",
+      "explanation": "L'argument déplace le débat de l'accès aux positions vers l'ampleur de la hiérarchie elle-même, ce qui relève de l'égalité des situations. Il montre que les deux conceptions ne s'opposent pas comme le juste et l'injuste, mais visent des objets différents.",
+      "tags": [
+        "égalité",
+        "raisonnement"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que l'égalité des chances est impossible à réaliser",
+          "Parce que les individus n'ont pas les mêmes capacités",
+          "Parce que la compétition scolaire est truquée"
+        ],
+        "medium": [
+          "Parce que l'égalité des chances suppose de supprimer toute hiérarchie sociale",
+          "Parce que l'égalité des chances rend inutile toute redistribution",
+          "Parce que l'égalité des chances vise le même objet que l'égalité des situations"
+        ],
+        "hard": [
+          "Parce qu'une compétition équitable laisserait subsister des écarts importants, argument qui relève de l'égalité des droits",
+          "Parce qu'une compétition équitable laisserait subsister des écarts, ce qui prouve que l'égalité des chances est injuste",
+          "Parce que l'égalité des chances ne concerne que l'école et laisse le marché du travail sans régulation"
+        ]
+      }
+    },
+    {
+      "recto": "Comment l'action publique agit-elle sur les inégalités avant même la redistribution monétaire ?",
+      "verso": "Par la fixation de règles sur le marché du travail, comme le salaire minimum et le droit du travail, et par l'accès aux services collectifs",
+      "explanation": "On parle parfois de prédistribution pour désigner cette action sur la répartition primaire elle-même. Elle a l'avantage de ne pas dépendre du consentement à l'impôt, mais soulève des débats sur ses effets sur l'emploi.",
+      "tags": [
+        "politiques",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Par le versement d'allocations aux ménages pauvres",
+          "Par la baisse de l'impôt sur le revenu",
+          "Par l'augmentation des pensions de retraite"
+        ],
+        "medium": [
+          "Par la seule progressivité de l'impôt sur le revenu",
+          "Par les prestations sociales versées sous condition de ressources",
+          "Par la fiscalité des successions uniquement"
+        ],
+        "hard": [
+          "Par les règles du marché du travail et l'accès aux services, action qui dépend étroitement du consentement à l'impôt",
+          "Par la fixation d'un salaire minimum, mesure dont les effets sur l'emploi ne font l'objet d'aucun débat",
+          "Par l'action sur la répartition primaire, laquelle intervient nécessairement après le versement des prestations"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi les différentes conceptions de la justice sociale conduisent-elles à des politiques différentes ?",
+      "verso": "Parce qu'elles ne jugent pas les mêmes objets : les procédures pour les libertariens, le bien-être total pour les utilitaristes, la situation des plus défavorisés pour Rawls, les libertés réelles pour Sen",
+      "explanation": "Le désaccord porte donc sur le critère d'évaluation, avant même de porter sur les instruments. Identifier ce critère est ce qui permet de discuter une politique plutôt que de simplement l'approuver ou la rejeter.",
+      "tags": [
+        "théories",
+        "raisonnement"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les auteurs ne sont pas de la même époque",
+          "Parce que certains sont économistes et d'autres philosophes",
+          "Parce qu'elles portent sur des pays différents"
+        ],
+        "medium": [
+          "Parce qu'elles jugent le même objet avec des méthodes différentes",
+          "Parce qu'elles diffèrent uniquement sur les instruments à employer",
+          "Parce qu'elles reposent toutes sur la maximisation du bien-être total"
+        ],
+        "hard": [
+          "Parce qu'elles ne jugent pas les mêmes objets, différence qui porte sur les instruments avant de porter sur les critères",
+          "Parce qu'elles jugent des objets différents, ce qui rend impossible toute discussion rationnelle d'une politique",
+          "Parce qu'elles jugent des objets différents, à l'exception de Rawls et Sen qui retiennent exactement le même critère"
+        ]
+      }
+    },
+    {
+      "recto": "Comment articuler mesure des inégalités et jugement de justice dans une démonstration ?",
+      "verso": "En établissant d'abord l'ampleur et la nature des écarts par les données, puis en explicitant la conception de la justice au regard de laquelle ces écarts sont jugés acceptables ou non",
+      "explanation": "Enchaîner directement du chiffre au jugement revient à faire passer une préférence morale pour un résultat statistique. La séparation des deux moments est explicitement attendue dans les épreuves de spécialité.",
+      "tags": [
+        "méthode",
+        "raisonnement"
+      ],
+      "distractors": {
+        "easy": [
+          "En affirmant que toute inégalité chiffrée est injuste",
+          "En donnant son opinion personnelle sur les inégalités",
+          "En citant des chiffres sans les commenter"
+        ],
+        "medium": [
+          "En jugeant d'abord, puis en cherchant les données confirmant ce jugement",
+          "En mesurant les écarts, le jugement s'en déduisant mécaniquement",
+          "En renonçant à tout jugement de justice au nom de l'objectivité"
+        ],
+        "hard": [
+          "En établissant l'ampleur des écarts puis en explicitant la conception de la justice, explicitation qui rend les données superflues",
+          "En mesurant les écarts et en explicitant le critère de justice, ces deux moments devant être conduits simultanément",
+          "En établissant les écarts par les données, lesquelles suffisent à qualifier une situation d'injuste sans autre argument"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi les inégalités entre femmes et hommes constituent-elles un cas particulier pour la justice sociale ?",
+      "verso": "Parce qu'elles combinent des différences de position professionnelle, un partage inégal du travail domestique et des discriminations directes, ce qui appelle des instruments variés",
+      "explanation": "Réduire l'écart salarial suppose d'agir à la fois sur l'orientation, sur les carrières, sur les modes de garde et sur les discriminations à l'embauche. Aucun instrument isolé ne suffit, ce qui en fait un bon cas d'application des débats du chapitre.",
+      "tags": [
+        "genre",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'elles ont totalement disparu",
+          "Parce qu'elles relèvent uniquement du droit du travail",
+          "Parce qu'elles concernent seulement le secteur privé"
+        ],
+        "medium": [
+          "Parce qu'elles s'expliquent uniquement par des discriminations directes à l'embauche",
+          "Parce qu'elles s'expliquent uniquement par des différences de diplôme",
+          "Parce qu'un instrument unique, le salaire minimum, suffit à les corriger"
+        ],
+        "hard": [
+          "Parce qu'elles combinent plusieurs causes, combinaison qui rend inefficace toute politique publique",
+          "Parce qu'elles combinent position professionnelle, travail domestique et discriminations, le partage domestique étant sans effet sur les carrières",
+          "Parce qu'elles appellent des instruments variés, dont aucun ne relève de la lutte contre les discriminations"
+        ]
+      }
+    }
+  ]
+}

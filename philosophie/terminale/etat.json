@@ -1,0 +1,588 @@
+{
+  "id": "philosophie-terminale-etat",
+  "title": "L'État",
+  "emoji": "🏛",
+  "subject": "philosophy",
+  "country": "fr",
+  "courseDescription": "Philosophie · Terminale — l'État : souveraineté et violence légitime, État de droit et séparation des pouvoirs, critiques de l'État et dérive totalitaire.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>L'État</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale (voie générale et technologique)<br>\n  <b>Thème&nbsp;:</b> Philosophie — La morale et la politique<br>\n  <b>Notion</b> · environ 4 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> Qu'est-ce qui distingue un État légitime d'une bande organisée qui aurait réussi&nbsp;?</p></blockquote>\n\n<p>La question n'a rien de rhétorique&nbsp;: l'État exige des impôts, enferme, contraint, et prétend le faire de plein droit. Or aucune force ne devient droit du seul fait qu'elle dure. Il faut donc chercher ce qui, dans l'État, ne se réduit pas à la puissance — et dans le même mouvement, comprendre pourquoi l'institution qui protège chacun contre les autres est aussi celle qui concentre le plus de moyens de nuire. Le chapitre tient cette ambivalence d'un bout à l'autre&nbsp;: il ne s'agit pas de choisir entre plus ou moins d'État, mais de concevoir les dispositifs qui rendent sa puissance <strong>contrôlable</strong>.</p>\n\n<h2>1 · Définir l'État</h2>\n\n<p>Max Weber propose le critère le plus opératoire&nbsp;: l'État est l'institution qui revendique avec succès le <strong>monopole de la violence physique légitime</strong> sur un territoire donné. Deux mots comptent.</p>\n\n<ul>\n  <li><strong>Monopole</strong>&nbsp;: l'État ne supprime pas la violence, il en <em>confisque l'usage</em>. Nul autre que lui ne peut légitimement contraindre par la force — ce qui interdit la justice privée et la vengeance.</li>\n  <li><strong>Légitime</strong>&nbsp;: sans ce mot, la définition conviendrait aussi bien à une organisation criminelle qui contrôlerait un quartier.</li>\n</ul>\n\n<p>À cette définition s'ajoute la <strong>souveraineté</strong>&nbsp;: le pouvoir de commander <em>en dernier ressort</em>, sans être subordonné à une autre autorité. La souveraineté met fin à la régression des recours&nbsp;: quelque part, une décision doit être finale. C'est aussi ce qui rend délicate toute limitation du pouvoir.</p>\n\n<h3>Trois confusions à écarter</h3>\n\n<ul>\n  <li>L'État n'est pas le <strong>gouvernement</strong>&nbsp;: il est l'institution permanente qui survit aux alternances. Les tribunaux, l'administration, les engagements internationaux demeurent quand une élection change l'équipe dirigeante.</li>\n  <li>L'État n'est pas la <strong>nation</strong>&nbsp;: l'un est une organisation juridique du pouvoir, l'autre une communauté qui se reconnaît une appartenance. Il existe des nations sans État et des États réunissant plusieurs nations.</li>\n  <li>L'État n'est pas la <strong>société</strong>&nbsp;: les échanges, les associations, les familles ne relèvent pas de lui.</li>\n</ul>\n\n<div class=\"callout\">\n  <strong>Repère · Obligation / contrainte</strong><br>\n  Un État réduit à la contrainte n'obtient qu'une obéissance de fait, qui cesse dès que la surveillance faiblit. Un État légitime obtient une obligation reconnue, qui ne dépend pas de la présence du gendarme.\n</div>\n\n<h3>Les formes de la légitimité</h3>\n\n<p>Weber en distingue trois&nbsp;: la légitimité <strong>traditionnelle</strong> (l'ancienneté de la coutume), la légitimité <strong>charismatique</strong> (les qualités exceptionnelles prêtées à une personne), la légitimité <strong>rationnelle-légale</strong> (des règles impersonnelles régulièrement établies). L'État moderne relève principalement de la troisième&nbsp;: on obéit à une fonction, non à un homme.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Schéma des trois formes de légitimité selon Weber : la légitimité traditionnelle fondée sur la coutume, la légitimité charismatique fondée sur les qualités d'une personne, et la légitimité rationnelle-légale fondée sur des règles impersonnelles, qui caractérise l'État moderne\">\n    <text x=\"170\" y=\"14\" text-anchor=\"middle\" font-size=\"10\" class=\"s-muted\">Pourquoi obéit-on ?</text>\n    <rect x=\"6\" y=\"26\" width=\"102\" height=\"98\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"57\" y=\"48\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Traditionnelle</text>\n    <text x=\"57\" y=\"70\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">« il en a<tspan x=\"57\" dy=\"12\">toujours été</tspan><tspan x=\"57\" dy=\"12\">ainsi »</tspan></text>\n    <text x=\"57\" y=\"114\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">la coutume</text>\n    <rect x=\"119\" y=\"26\" width=\"102\" height=\"98\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"170\" y=\"48\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Charismatique</text>\n    <text x=\"170\" y=\"70\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">« lui seul<tspan x=\"170\" dy=\"12\">peut nous</tspan><tspan x=\"170\" dy=\"12\">conduire »</tspan></text>\n    <text x=\"170\" y=\"114\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">la personne</text>\n    <rect x=\"232\" y=\"26\" width=\"102\" height=\"98\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"283\" y=\"48\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Rationnelle</text>\n    <text x=\"283\" y=\"70\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">« la règle a<tspan x=\"283\" dy=\"12\">été établie</tspan><tspan x=\"283\" dy=\"12\">régulièrement »</tspan></text>\n    <text x=\"283\" y=\"114\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">la fonction</text>\n    <text x=\"170\" y=\"148\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">l'État moderne relève de la troisième</text>\n    <text x=\"170\" y=\"164\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">on obéit à une fonction, non à un homme</text>\n  </svg>\n  <figcaption>La légitimité n'est pas la légalité&nbsp;: elle est ce qui fait que l'obéissance ne se réduit pas à une soumission.</figcaption>\n</figure>\n\n<h2>2 · Limiter le pouvoir&nbsp;: l'État de droit</h2>\n\n<p>Un <strong>État de droit</strong> n'est pas simplement un État qui édicte des lois&nbsp;— un régime despotique en produit aussi, et abondamment. C'est un État dont les organes sont <strong>eux-mêmes soumis au droit</strong>, et dont les décisions peuvent être contestées devant un juge. Le pouvoir y est lié par les normes qu'il pose.</p>\n\n<h3>Montesquieu&nbsp;: le pouvoir arrête le pouvoir</h3>\n\n<p>L'argument de la séparation des pouvoirs n'est pas moral mais <strong>mécanique</strong>&nbsp;: puisque tout homme qui détient du pouvoir est porté à en abuser, il faut que <em>le pouvoir arrête le pouvoir</em>. On ne compte pas sur la vertu des gouvernants&nbsp;; on organise leur limitation réciproque. La liberté politique naît de cet équilibre.</p>\n\n<h3>La constitution</h3>\n\n<p>Elle fixe des règles <strong>supérieures aux lois ordinaires</strong>, que le pouvoir en place ne peut pas modifier à sa convenance. Sa rigidité relative est sa fonction même&nbsp;: elle soustrait certaines garanties à la majorité du moment. Un texte modifiable comme une loi ordinaire ne protégerait rien.</p>\n\n<p>D'où une objection récurrente&nbsp;: le <strong>contrôle de constitutionnalité</strong> permet à des juges non élus d'invalider une loi votée par des représentants élus. La réponse habituelle est que ce contrôle protège les <em>conditions mêmes</em> de la démocratie, en empêchant une majorité de supprimer les droits qui permettent de la contester. Le débat porte sur l'étendue de ce pouvoir, non sur son principe.</p>\n\n<p>Cela conduit à un point capital&nbsp;: un régime peut être issu d'élections et cesser d'être démocratique. Une majorité peut voter la suppression des recours, la censure, l'exclusion d'une partie de la population. La démocratie suppose donc aussi le <strong>pluralisme</strong>, la <strong>protection des minorités</strong> et le <strong>contrôle du pouvoir</strong>&nbsp;: réduite au vote, elle devient capable de s'abolir légalement.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 195\" role=\"img\" aria-label=\"Schéma comparant un pouvoir concentré, où l'exécutif contrôle le législatif et le judiciaire, et un pouvoir séparé, où les trois pouvoirs se limitent réciproquement sous une constitution qui leur est supérieure\">\n    <defs>\n      <marker id=\"ar-phet1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n    <text x=\"8\" y=\"14\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Pouvoir concentré</text>\n    <rect x=\"8\" y=\"22\" width=\"100\" height=\"26\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"58\" y=\"39\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">un seul centre</text>\n    <path d=\"M112,35 L138,35\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-phet1)\"/>\n    <text x=\"146\" y=\"32\" font-size=\"9\" fill=\"currentColor\">fait la loi,</text>\n    <text x=\"146\" y=\"44\" font-size=\"9\" fill=\"currentColor\">l'applique et la juge</text>\n    <line x1=\"8\" y1=\"58\" x2=\"332\" y2=\"58\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"76\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Pouvoirs séparés</text>\n    <rect x=\"60\" y=\"84\" width=\"220\" height=\"24\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"100\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">Constitution — supérieure aux lois</text>\n    <rect x=\"8\" y=\"126\" width=\"96\" height=\"40\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"56\" y=\"150\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">Législatif</text>\n    <rect x=\"122\" y=\"126\" width=\"96\" height=\"40\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"170\" y=\"150\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">Exécutif</text>\n    <rect x=\"236\" y=\"126\" width=\"96\" height=\"40\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"284\" y=\"150\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">Judiciaire</text>\n    <path d=\"M104,140 L118,140\" stroke=\"var(--accent)\" stroke-width=\"1.3\" fill=\"none\" marker-end=\"url(#ar-phet1)\"/>\n    <path d=\"M218,152 L232,152\" stroke=\"var(--accent)\" stroke-width=\"1.3\" fill=\"none\" marker-end=\"url(#ar-phet1)\"/>\n    <path d=\"M232,140 L218,140\" stroke=\"var(--accent)\" stroke-width=\"1.3\" fill=\"none\" marker-end=\"url(#ar-phet1)\"/>\n    <path d=\"M118,152 L104,152\" stroke=\"var(--accent)\" stroke-width=\"1.3\" fill=\"none\" marker-end=\"url(#ar-phet1)\"/>\n    <text x=\"170\" y=\"186\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">que le pouvoir arrête le pouvoir</text>\n  </svg>\n  <figcaption>La liberté politique ne repose pas sur la vertu des gouvernants mais sur l'agencement des institutions.</figcaption>\n</figure>\n\n<h2>3 · Ce que l'État prétend être, ce qu'on lui reproche</h2>\n\n<h3>Machiavel et la raison d'État</h3>\n\n<p>Machiavel décrit la tâche propre du prince&nbsp;: <strong>conserver le pouvoir et l'État</strong>, en jugeant les moyens à leur efficacité et non à la morale ordinaire. Il ne fait pas l'éloge du mal&nbsp;; il sépare l'ordre politique de l'ordre moral et décrit ce qui réussit.</p>\n\n<p>De là vient la <strong>raison d'État</strong>&nbsp;: la survie de l'institution autoriserait à violer des règles. Le problème philosophique est celui de la <em>limite</em>. Refuser toute exception peut condamner l'État à disparaître face à une menace&nbsp;; l'admettre sans critère revient à supprimer le droit au moment où il serait le plus nécessaire. Tout se joue dans le <strong>contrôle de l'exception</strong>.</p>\n\n<h3>Hegel&nbsp;: l'universel contre les intérêts</h3>\n\n<p>La <em>société civile</em> est chez Hegel le domaine des besoins et des échanges, où chacun poursuit sa fin propre. L'État n'y est pas un arbitre extérieur&nbsp;: il est le moment où la communauté se pense comme telle et réalise l'<strong>intérêt universel</strong>.</p>\n\n<h3>Marx&nbsp;: la neutralité comme apparence</h3>\n\n<p>La critique marxiste retourne la thèse&nbsp;: l'État n'est pas au-dessus des intérêts sociaux, il <strong>sert la classe qui domine les rapports de production</strong>. Le droit et l'ordre public protégeraient d'abord la propriété. La perspective d'un dépérissement de l'État suppose la disparition du conflit de classes — hypothèse que l'histoire des régimes qui s'en réclamaient n'a pas confirmée.</p>\n\n<h3>L'anarchisme</h3>\n\n<p>Plus radicalement, l'anarchisme politique soutient que l'obéissance à une autorité contraignante n'est <em>jamais</em> légitime, et que la coordination sociale peut reposer sur la libre association. L'objection classique porte sur les biens que personne n'a intérêt à produire seul, et sur la protection des plus faibles&nbsp;: sans institution contraignante, qui garantit qu'un groupe n'en domine pas un autre&nbsp;?</p>\n\n<h3>Combien d'État&nbsp;?</h3>\n\n<p>Le débat contemporain oppose l'<strong>État minimal</strong>, limité à la protection des personnes et des contrats, et l'<strong>État-providence</strong>, chargé d'une redistribution correctrice des inégalités. L'argument libertarien est que la redistribution prélève sur les uns sans leur consentement&nbsp;; l'argument opposé est qu'une liberté sans moyens réels reste <em>formelle</em>. Le désaccord porte moins sur la valeur de la liberté que sur ce qu'elle exige pour être effective.</p>\n\n<h2>4 · Quand l'État se retourne&nbsp;: le totalitarisme</h2>\n\n<p>Hannah Arendt établit que le régime totalitaire n'est pas une tyrannie plus sévère. Le tyran confisque le pouvoir&nbsp;; le totalitarisme <strong>détruit l'espace public, la vie privée et la possibilité même d'agir ensemble</strong>. Sa terreur ne vise pas d'abord à punir des opposants mais à <em>isoler</em> chacun, jusqu'à rendre impensable toute action commune. C'est pourquoi il s'attaque au langage, à la vérité de fait et aux liens ordinaires — un peuple qui ne peut plus s'accorder sur ce qui a eu lieu ne peut plus rien entreprendre en commun.</p>\n\n<p>Reste enfin la question ordinaire du citoyen&nbsp;: pourquoi obéir à une loi qu'on désapprouve&nbsp;? Parce que la <strong>stabilité des règles communes</strong> est un bien pour tous, et que chacun bénéficie de l'obéissance des autres. Mais cet argument ne vaut plus lorsque la loi est manifestement inique&nbsp;: il fonde une <em>présomption</em> d'obéissance, non une obligation absolue.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Le fil du problème</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Frise du parcours du chapitre : la définition de l'État par le monopole de la violence légitime, puis les formes de légitimité, puis l'État de droit et la séparation des pouvoirs, puis les critiques de Machiavel, Hegel, Marx et l'anarchisme, enfin le totalitarisme analysé par Arendt\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"186\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Définir</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Monopole de la violence légitime</text>\n    <circle cx=\"26\" cy=\"62\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"59\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Légitimer</text>\n    <text x=\"44\" y=\"72\" font-size=\"10\" fill=\"currentColor\">Weber, trois formes d'autorité</text>\n    <circle cx=\"26\" cy=\"104\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"101\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Limiter</text>\n    <text x=\"44\" y=\"114\" font-size=\"10\" fill=\"currentColor\">État de droit, Montesquieu</text>\n    <circle cx=\"26\" cy=\"146\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"143\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Contester</text>\n    <text x=\"44\" y=\"156\" font-size=\"10\" fill=\"currentColor\">Marx, anarchisme, raison d'État</text>\n    <circle cx=\"26\" cy=\"184\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"181\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">La dérive</text>\n    <text x=\"44\" y=\"194\" font-size=\"10\" fill=\"currentColor\">Arendt, le totalitarisme</text>\n  </svg>\n  <figcaption>Le chapitre suit une progression&nbsp;: définir, légitimer, limiter, contester.</figcaption>\n</figure>\n\n<h3>Distinctions à tenir</h3>\n\n<table>\n  <tr><th>Distinction</th><th>Ce qui se joue</th></tr>\n  <tr><td>État / gouvernement</td><td>L'institution permanente contre l'équipe en exercice</td></tr>\n  <tr><td>État / nation</td><td>Organisation juridique contre communauté d'appartenance</td></tr>\n  <tr><td>Force / autorité</td><td>Obéissance de fait contre obligation reconnue</td></tr>\n  <tr><td>Légalité / légitimité</td><td>Une loi régulière peut être injustifiable</td></tr>\n  <tr><td>Tyrannie / totalitarisme</td><td>Confisquer le pouvoir, ou détruire l'espace commun</td></tr>\n  <tr><td>État minimal / État-providence</td><td>Liberté formelle contre liberté effective</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition</th></tr>\n  <tr><td>État</td><td>Institution détenant le monopole de la violence légitime sur un territoire</td></tr>\n  <tr><td>Souveraineté</td><td>Pouvoir de commander en dernier ressort, sans autorité supérieure</td></tr>\n  <tr><td>Légitimité</td><td>Ce qui fait qu'un pouvoir est reconnu et non seulement subi</td></tr>\n  <tr><td>État de droit</td><td>État soumis au droit qu'il édicte, contrôlable par un juge</td></tr>\n  <tr><td>Séparation des pouvoirs</td><td>Agencement où le pouvoir limite le pouvoir</td></tr>\n  <tr><td>Constitution</td><td>Norme supérieure aux lois, soustraite à la majorité ordinaire</td></tr>\n  <tr><td>Raison d'État</td><td>Exception invoquée au nom de la survie de l'institution</td></tr>\n  <tr><td>Société civile</td><td>Domaine des besoins et des intérêts particuliers</td></tr>\n  <tr><td>Totalitarisme</td><td>Régime détruisant l'espace public et la vie privée</td></tr>\n  <tr><td>Pluralisme</td><td>Condition démocratique que la règle majoritaire ne suffit pas à garantir</td></tr>\n</table>\n\n<h3>Les auteurs</h3>\n\n<table>\n  <tr><th>Auteur</th><th>Thèse à retenir</th></tr>\n  <tr><td>Machiavel</td><td>La politique a ses règles propres&nbsp;: conserver l'État</td></tr>\n  <tr><td>Montesquieu</td><td>Il faut que, par la disposition des choses, le pouvoir arrête le pouvoir</td></tr>\n  <tr><td>Hegel</td><td>L'État réalise l'universel là où la société civile ne connaît que le particulier</td></tr>\n  <tr><td>Marx</td><td>L'État sert la classe dominante sous une apparence de neutralité</td></tr>\n  <tr><td>Weber</td><td>Monopole de la violence légitime&nbsp;; trois formes de légitimité</td></tr>\n  <tr><td>Arendt</td><td>Le totalitarisme détruit l'espace public et isole les individus</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Confondre l'État avec le <em>gouvernement</em> en place. L'État est l'institution permanente qui survit aux alternances&nbsp;: critiquer un gouvernement n'est pas contester l'État, et une critique de l'État comme tel ne se règle pas par une élection. Ne pas confondre non plus État et <em>nation</em>&nbsp;— sans quoi l'on croit qu'un État ne serait légitime qu'en correspondant à une nation homogène. Enfin, l'État de droit n'est pas l'État qui fait des lois&nbsp;: c'est celui qui s'y soumet.\n</div>\n\n<blockquote><p>L'État ne se justifie donc ni par sa force, ni par son ancienneté, ni par la grandeur qu'il se prête&nbsp;: il se justifie par les garanties qu'il institue et par la manière dont il accepte d'être limité.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Philosophie — La morale et la politique",
+  "cards": [
+    {
+      "recto": "Par quel critère Max Weber définit-il l'État moderne ?",
+      "verso": "Par le monopole de la violence physique légitime sur un territoire donné",
+      "explanation": "Le mot décisif est monopole : l'État ne supprime pas la violence, il en confisque l'usage. Personne d'autre que lui ne peut légitimement contraindre par la force, ce qui interdit la justice privée.",
+      "tags": [
+        "définition",
+        "Weber"
+      ],
+      "distractors": {
+        "easy": [
+          "Par l'existence d'un drapeau et d'un hymne",
+          "Par le nombre de ses habitants",
+          "Par la richesse de son économie"
+        ],
+        "medium": [
+          "Par la présence d'une armée puissante",
+          "Par l'existence d'une langue commune",
+          "Par le vote régulier de lois écrites"
+        ],
+        "hard": [
+          "Par l'usage exclusif de la contrainte sans référence à la légitimité",
+          "Par la propriété collective des moyens de production",
+          "Par la reconnaissance internationale de ses frontières"
+        ]
+      }
+    },
+    {
+      "recto": "Ne pas confondre : quelle différence sépare l'État de la nation ?",
+      "verso": "L'État est une organisation juridique du pouvoir, la nation une communauté qui se reconnaît une appartenance commune",
+      "explanation": "Les deux ne coïncident pas nécessairement : il existe des nations sans État et des États réunissant plusieurs nations. Confondre les deux conduit à croire qu'un État ne serait légitime que s'il correspond à une nation homogène.",
+      "tags": [
+        "comparaison",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Ce sont deux mots pour la même chose",
+          "L'État est grand, la nation est petite",
+          "L'État est moderne, la nation est ancienne"
+        ],
+        "medium": [
+          "La nation est l'organisation juridique, l'État la communauté d'appartenance",
+          "L'État est culturel, la nation est politique",
+          "L'État désigne le gouvernement, la nation le peuple qui vote"
+        ],
+        "hard": [
+          "Un État correspond nécessairement à une seule nation",
+          "La nation se définit par le monopole de la contrainte légitime",
+          "L'État se définit par le partage d'une langue et d'une histoire"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : l'État se confond-il avec le gouvernement en place ?",
+      "verso": "Non : l'État est l'institution permanente qui survit aux gouvernements successifs et à leurs changements de majorité",
+      "explanation": "C'est la confusion la plus fréquente du chapitre. Les fonctionnaires, les tribunaux, la continuité des engagements internationaux demeurent quand une élection change l'équipe dirigeante. Critiquer un gouvernement n'est donc pas contester l'État, et inversement une critique de l'État comme tel ne se règle pas par une alternance.",
+      "tags": [
+        "piege",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, l'État c'est ceux qui gouvernent",
+          "Oui, sinon on ne saurait pas qui décide",
+          "Non, l'État désigne uniquement le territoire"
+        ],
+        "medium": [
+          "Oui, car le gouvernement exerce la souveraineté",
+          "Non, car l'État désigne seulement l'administration fiscale",
+          "Oui, car les lois changent à chaque élection"
+        ],
+        "hard": [
+          "Oui, car la souveraineté appartient à l'exécutif en exercice",
+          "Non, car l'État se réduit à l'ensemble des citoyens",
+          "Oui, car l'État disparaît lorsqu'un gouvernement tombe"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que la souveraineté ?",
+      "verso": "Le pouvoir de commander en dernier ressort sur un territoire, sans être subordonné à une autre autorité",
+      "explanation": "La souveraineté est ce qui met fin à la régression des recours : quelque part, une décision doit être finale. C'est aussi ce qui rend délicate toute limitation du pouvoir, puisque le souverain ne reconnaît pas d'instance supérieure.",
+      "tags": [
+        "notion",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Le droit de battre monnaie uniquement",
+          "La possession d'un territoire",
+          "Le fait d'être respecté à l'étranger"
+        ],
+        "medium": [
+          "Le pouvoir d'appliquer les lois votées ailleurs",
+          "L'autorité morale exercée sur les citoyens",
+          "Le droit de participer aux élections"
+        ],
+        "hard": [
+          "Le pouvoir soumis au contrôle d'une instance supérieure",
+          "Le pouvoir exercé conjointement par plusieurs États",
+          "Le droit de désobéir aux traités internationaux"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles sont les trois formes de légitimité du pouvoir distinguées par Weber ?",
+      "verso": "La légitimité traditionnelle, la légitimité charismatique et la légitimité rationnelle-légale",
+      "explanation": "La première repose sur l'ancienneté de la coutume, la deuxième sur les qualités exceptionnelles prêtées à une personne, la troisième sur des règles impersonnelles régulièrement établies. L'État moderne relève principalement de la troisième.",
+      "tags": [
+        "typologie",
+        "Weber"
+      ],
+      "distractors": {
+        "easy": [
+          "La monarchie, l'aristocratie et la démocratie",
+          "Le législatif, l'exécutif et le judiciaire",
+          "La force, la ruse et la richesse"
+        ],
+        "medium": [
+          "La légitimité populaire, militaire et religieuse",
+          "La légitimité économique, sociale et culturelle",
+          "La légitimité nationale, locale et internationale"
+        ],
+        "hard": [
+          "La légitimité coutumière, contractuelle et démocratique",
+          "La légitimité de fait, de droit et d'opinion",
+          "La légitimité constitutionnelle, plébiscitaire et charismatique"
+        ]
+      }
+    },
+    {
+      "recto": "Que signifie l'expression « État de droit » ?",
+      "verso": "Un État dont les organes sont eux-mêmes soumis au droit et dont les décisions peuvent être contestées devant un juge",
+      "explanation": "Il ne suffit pas qu'un État édicte des lois : un régime despotique en produit aussi. Ce qui compte est que le pouvoir soit lié par les normes qu'il pose, et qu'un recours effectif existe contre lui.",
+      "tags": [
+        "notion",
+        "droit"
+      ],
+      "distractors": {
+        "easy": [
+          "Un État qui possède un code juridique",
+          "Un État où il y a des avocats",
+          "Un État qui punit les criminels"
+        ],
+        "medium": [
+          "Un État qui vote beaucoup de lois",
+          "Un État dont le chef respecte ses promesses",
+          "Un État où la justice est rendue rapidement"
+        ],
+        "hard": [
+          "Un État dont le souverain édicte le droit sans y être soumis",
+          "Un État où le juge est nommé par le pouvoir exécutif",
+          "Un État qui applique le droit international sans réserve"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi Montesquieu juge-t-il nécessaire de séparer les pouvoirs ?",
+      "verso": "Parce que tout homme qui détient du pouvoir est porté à en abuser, de sorte qu'il faut que le pouvoir arrête le pouvoir",
+      "explanation": "L'argument n'est pas moral mais mécanique : on ne compte pas sur la vertu des gouvernants, on organise leur limitation réciproque. La liberté politique naît de cet équilibre, non de la bonne volonté des dirigeants.",
+      "tags": [
+        "auteur",
+        "Montesquieu"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que le travail est trop lourd pour un seul homme",
+          "Parce que les rois sont incompétents",
+          "Parce que cela accélère les décisions"
+        ],
+        "medium": [
+          "Parce que la souveraineté doit être partagée entre les citoyens",
+          "Parce que chaque région doit avoir son pouvoir",
+          "Parce que la démocratie exige des élections fréquentes"
+        ],
+        "hard": [
+          "Parce que la vertu des gouvernants suffit à garantir la liberté",
+          "Parce que la concentration des pouvoirs rend l'État plus efficace",
+          "Parce que le pouvoir judiciaire doit dominer les deux autres"
+        ]
+      }
+    },
+    {
+      "recto": "Comment Machiavel définit-il la tâche propre du prince ?",
+      "verso": "Conserver le pouvoir et l'État, en jugeant les moyens selon leur efficacité et non selon la morale ordinaire",
+      "explanation": "Machiavel ne fait pas l'éloge du mal : il sépare l'ordre politique de l'ordre moral et décrit ce qui réussit. C'est de là que vient la notion de raison d'État, et l'objection qu'elle peut tout justifier.",
+      "tags": [
+        "auteur",
+        "Machiavel"
+      ],
+      "distractors": {
+        "easy": [
+          "Être aimé de tous ses sujets",
+          "Enrichir personnellement sa famille",
+          "Faire la guerre en toute occasion"
+        ],
+        "medium": [
+          "Appliquer la morale chrétienne à la politique",
+          "Obéir strictement aux lois qu'il édicte",
+          "Consulter le peuple avant chaque décision"
+        ],
+        "hard": [
+          "Subordonner la conservation de l'État aux exigences morales",
+          "Gouverner selon un droit naturel antérieur à l'État",
+          "Rechercher la vertu personnelle comme fin de la politique"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi la raison d'État pose-t-elle un problème philosophique ?",
+      "verso": "Elle autorise à violer des règles au nom de la survie de l'État, sans qu'un critère clair limite ce que cette exception permet",
+      "explanation": "Refuser toute exception peut condamner l'État à disparaître face à une menace ; l'admettre sans limite revient à supprimer le droit au moment où il serait le plus nécessaire. Le problème est celui du contrôle de l'exception.",
+      "tags": [
+        "problème",
+        "politique"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle rend les décisions trop lentes",
+          "Elle empêche l'État d'avoir une armée",
+          "Elle interdit tout secret d'État"
+        ],
+        "medium": [
+          "Elle oblige l'État à respecter toutes les règles sans exception",
+          "Elle transfère le pouvoir aux juges",
+          "Elle rend les traités internationaux obligatoires"
+        ],
+        "hard": [
+          "Elle subordonne systématiquement l'État au droit international",
+          "Elle fournit un critère précis des exceptions admissibles",
+          "Elle supprime la distinction entre légalité et légitimité au profit de la première"
+        ]
+      }
+    },
+    {
+      "recto": "Comment Hegel situe-t-il l'État par rapport à la société civile ?",
+      "verso": "L'État réalise l'intérêt universel là où la société civile n'est que le jeu des intérêts particuliers",
+      "explanation": "La société civile, chez Hegel, est le domaine des besoins et des échanges, où chacun poursuit sa fin propre. L'État n'est pas un arbitre extérieur : il est le moment où la communauté se pense comme telle.",
+      "tags": [
+        "auteur",
+        "Hegel"
+      ],
+      "distractors": {
+        "easy": [
+          "L'État est l'ennemi de la société civile",
+          "L'État est identique à la société civile",
+          "L'État doit disparaître devant la société civile"
+        ],
+        "medium": [
+          "L'État est un simple arbitre entre les intérêts privés",
+          "La société civile réalise l'intérêt universel que l'État trahit",
+          "L'État se réduit à l'administration des choses"
+        ],
+        "hard": [
+          "L'État est un instrument au service de la classe dominante",
+          "L'État est un mal nécessaire qu'il faut réduire au minimum",
+          "L'État précède historiquement la société civile qu'il engendre"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle critique le marxisme adresse-t-il à l'État ?",
+      "verso": "Qu'il n'est pas au-dessus des intérêts sociaux mais sert la classe qui domine les rapports de production",
+      "explanation": "La neutralité de l'État serait donc une apparence : le droit et l'ordre public protégeraient d'abord la propriété. La perspective d'un dépérissement de l'État suppose que le conflit de classes disparaisse, hypothèse que l'histoire n'a pas confirmée.",
+      "tags": [
+        "critique",
+        "Marx"
+      ],
+      "distractors": {
+        "easy": [
+          "Qu'il coûte trop cher aux contribuables",
+          "Qu'il n'a pas assez de fonctionnaires",
+          "Qu'il est trop récent"
+        ],
+        "medium": [
+          "Qu'il ne respecte pas les traditions",
+          "Qu'il empêche les échanges économiques",
+          "Qu'il donne trop de pouvoir aux juges"
+        ],
+        "hard": [
+          "Qu'il réalise effectivement l'intérêt universel de la société",
+          "Qu'il est neutre mais mal administré",
+          "Qu'il devrait être renforcé pour garantir la propriété"
+        ]
+      }
+    },
+    {
+      "recto": "Que soutient l'anarchisme politique contre l'État ?",
+      "verso": "Que l'obéissance à une autorité contraignante n'est jamais légitime et que la coordination sociale peut reposer sur la libre association",
+      "explanation": "L'objection classique porte sur les biens que personne n'a intérêt à produire seul et sur la protection des plus faibles : sans institution contraignante, qui garantit qu'un groupe ne domine pas les autres ?",
+      "tags": [
+        "critique",
+        "politique"
+      ],
+      "distractors": {
+        "easy": [
+          "Que l'État doit être dirigé par un seul homme",
+          "Que le désordre est préférable à tout",
+          "Que les lois doivent être plus nombreuses"
+        ],
+        "medium": [
+          "Que l'État doit se limiter à la police et à la justice",
+          "Que le pouvoir doit revenir aux plus compétents",
+          "Que la propriété doit être garantie par l'État"
+        ],
+        "hard": [
+          "Que l'État est légitime s'il repose sur un contrat tacite",
+          "Que l'autorité est acceptable si elle est élue démocratiquement",
+          "Que la contrainte est légitime tant qu'elle est proportionnée"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'oppose-t-on entre l'État minimal et l'État-providence ?",
+      "verso": "Le premier limite l'État à la protection des personnes et des contrats, le second lui confie une redistribution destinée à corriger les inégalités",
+      "explanation": "L'argument libertarien est que la redistribution prélève sur les uns sans leur consentement ; l'argument opposé est qu'une liberté sans moyens réels reste formelle. Le débat porte sur ce que la liberté exige pour être effective.",
+      "tags": [
+        "débat",
+        "politique"
+      ],
+      "distractors": {
+        "easy": [
+          "Le premier est petit, le second est grand",
+          "Le premier est ancien, le second moderne",
+          "Le premier a une armée, le second non"
+        ],
+        "medium": [
+          "Le premier redistribue, le second se limite à la sécurité",
+          "Le premier est démocratique, le second autoritaire",
+          "Le premier concerne l'économie, le second la culture"
+        ],
+        "hard": [
+          "Le premier corrige les inégalités par l'impôt, le second les laisse subsister",
+          "Le premier suppose l'abolition de la propriété privée",
+          "Le second supprime toute liberté contractuelle"
+        ]
+      }
+    },
+    {
+      "recto": "Selon Hannah Arendt, qu'est-ce qui distingue le régime totalitaire d'une tyrannie ordinaire ?",
+      "verso": "Il ne se contente pas de confisquer le pouvoir : il détruit l'espace public, la vie privée et la possibilité même d'agir ensemble",
+      "explanation": "La terreur totalitaire ne vise pas à punir des opposants mais à isoler chacun, jusqu'à rendre impensable toute action commune. C'est pourquoi elle s'attaque au langage, à la vérité de fait et aux liens ordinaires.",
+      "tags": [
+        "auteur",
+        "Arendt"
+      ],
+      "distractors": {
+        "easy": [
+          "Il dure plus longtemps",
+          "Il possède une armée plus nombreuse",
+          "Il est dirigé par un seul homme"
+        ],
+        "medium": [
+          "Il supprime les élections uniquement",
+          "Il censure la presse écrite",
+          "Il nationalise les entreprises"
+        ],
+        "hard": [
+          "Il maintient un espace privé à l'abri du pouvoir",
+          "Il gouverne par des lois régulièrement adoptées",
+          "Il se distingue seulement par la sévérité des peines"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi un régime peut-il être issu d'élections et cesser pourtant d'être démocratique ?",
+      "verso": "Parce que la démocratie suppose aussi le pluralisme, la protection des minorités et le contrôle du pouvoir, non la seule règle majoritaire",
+      "explanation": "Une majorité peut voter la suppression des recours, la censure ou l'exclusion d'une partie de la population. Réduire la démocratie au vote la rend capable de s'abolir légalement.",
+      "tags": [
+        "politique",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les élections sont truquées à chaque fois",
+          "Parce que le peuple se trompe toujours",
+          "Parce que les élections coûtent cher"
+        ],
+        "medium": [
+          "Parce que la participation électorale est trop faible",
+          "Parce que les partis sont trop nombreux",
+          "Parce que les élus ne tiennent pas leurs promesses"
+        ],
+        "hard": [
+          "Parce que la règle majoritaire garantit à elle seule les libertés",
+          "Parce que le pluralisme s'oppose au principe démocratique",
+          "Parce que la protection des minorités contredit la souveraineté populaire"
+        ]
+      }
+    },
+    {
+      "recto": "Quel rôle la constitution joue-t-elle dans la limitation du pouvoir ?",
+      "verso": "Elle fixe des règles supérieures aux lois ordinaires, que le pouvoir en place ne peut pas modifier à sa convenance",
+      "explanation": "Sa rigidité relative est sa fonction même : elle soustrait certaines garanties à la majorité du moment. Un texte modifiable comme une loi ordinaire ne protégerait rien.",
+      "tags": [
+        "institution",
+        "droit"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle énumère les symboles nationaux",
+          "Elle fixe le montant des impôts",
+          "Elle nomme les ministres"
+        ],
+        "medium": [
+          "Elle rassemble toutes les lois du pays",
+          "Elle est votée à nouveau à chaque élection",
+          "Elle organise le calendrier électoral seulement"
+        ],
+        "hard": [
+          "Elle est modifiable par la majorité ordinaire du parlement",
+          "Elle tire son autorité de son ancienneté seule",
+          "Elle fixe des principes sans valeur juridique contraignante"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi le contrôle de constitutionnalité est-il parfois accusé de brider la démocratie ?",
+      "verso": "Parce que des juges non élus peuvent invalider une loi votée par des représentants élus",
+      "explanation": "La réponse habituelle est que ce contrôle protège les conditions mêmes de la démocratie, en empêchant une majorité de supprimer les droits qui permettent de la contester. Le débat porte sur l'étendue de ce pouvoir.",
+      "tags": [
+        "débat",
+        "institution"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les juges sont mal payés",
+          "Parce que les procédures sont longues",
+          "Parce que les lois sont trop nombreuses"
+        ],
+        "medium": [
+          "Parce que les juges sont élus par le peuple",
+          "Parce qu'il empêche l'État de lever l'impôt",
+          "Parce qu'il rend les élections inutiles"
+        ],
+        "hard": [
+          "Parce qu'il transfère le pouvoir législatif à l'exécutif",
+          "Parce qu'il soumet la constitution aux lois ordinaires",
+          "Parce qu'il supprime la séparation des pouvoirs"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi la mondialisation et les organisations internationales limitent-elles la souveraineté ?",
+      "verso": "Les États s'engagent par des traités et transfèrent des compétences, de sorte que leurs décisions dépendent d'instances qu'ils ne contrôlent pas seuls",
+      "explanation": "Cette limitation est volontaire à l'origine, ce qui la rend paradoxale : c'est un acte souverain qui restreint la souveraineté future. Le débat contemporain porte sur la réversibilité de ces engagements.",
+      "tags": [
+        "contemporain",
+        "politique"
+      ],
+      "distractors": {
+        "easy": [
+          "Elles suppriment les frontières",
+          "Elles interdisent les armées nationales",
+          "Elles imposent une langue unique"
+        ],
+        "medium": [
+          "Elles remplacent les gouvernements nationaux",
+          "Elles votent les lois internes de chaque pays",
+          "Elles nomment les chefs d'État"
+        ],
+        "hard": [
+          "Elles s'imposent aux États sans aucun consentement initial",
+          "Elles renforcent la souveraineté en la garantissant juridiquement",
+          "Elles suppriment toute possibilité de retrait d'un traité"
+        ]
+      }
+    },
+    {
+      "recto": "Quel argument justifie l'obéissance ordinaire aux lois même lorsqu'on les désapprouve ?",
+      "verso": "Que la stabilité des règles communes est un bien pour tous, et que chacun bénéficie de l'obéissance des autres",
+      "explanation": "L'argument a une limite claire : il ne vaut plus lorsque la loi est manifestement inique, car ce serait faire du maintien de l'ordre une valeur supérieure à la justice. Il fonde une présomption d'obéissance, non une obligation absolue.",
+      "tags": [
+        "politique",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Que la loi est toujours juste",
+          "Que la sanction est trop lourde",
+          "Que personne ne peut juger la loi"
+        ],
+        "medium": [
+          "Que la majorité a nécessairement raison",
+          "Que l'État connaît mieux que les citoyens",
+          "Que désobéir est toujours immoral"
+        ],
+        "hard": [
+          "Que la stabilité prime absolument sur la justice de la règle",
+          "Que l'obéissance découle du seul monopole de la contrainte",
+          "Que le consentement initial rend toute désobéissance impossible"
+        ]
+      }
+    },
+    {
+      "recto": "Quel repère du programme éclaire le rapport entre l'État et la force ?",
+      "verso": "L'opposition entre l'obligation et la contrainte",
+      "explanation": "Un État réduit à la contrainte n'obtient qu'une obéissance de fait, qui cesse dès que la surveillance faiblit. Un État légitime obtient une obligation reconnue, qui ne dépend pas de la présence du gendarme.",
+      "tags": [
+        "repère",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Le repère croire / savoir",
+          "Le repère analyse / synthèse",
+          "Le repère abstrait / concret"
+        ],
+        "medium": [
+          "Le repère cause / fin",
+          "Le repère intuitif / discursif",
+          "Le repère genre / espèce / individu"
+        ],
+        "hard": [
+          "Le repère essentiel / accidentel",
+          "Le repère ressemblance / analogie",
+          "Le repère acte / puissance"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi l'État est-il à la fois une garantie et une menace pour la liberté ?",
+      "verso": "Il protège chacun contre la domination des autres, mais concentre une puissance qui peut à son tour dominer",
+      "explanation": "Cette ambivalence explique la structure du chapitre : il ne s'agit pas de choisir entre plus ou moins d'État, mais de concevoir les dispositifs qui rendent sa puissance contrôlable.",
+      "tags": [
+        "synthèse",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Il est seulement une menace",
+          "Il est seulement une garantie",
+          "Il n'a aucun effet sur la liberté"
+        ],
+        "medium": [
+          "Il garantit la liberté économique mais non la liberté politique",
+          "Il protège les citoyens sans jamais disposer de puissance propre",
+          "Il ne menace la liberté que dans les régimes anciens"
+        ],
+        "hard": [
+          "Il supprime la domination privée en supprimant toute puissance publique",
+          "Sa puissance est neutre et ne comporte aucun risque propre",
+          "Il garantit la liberté à proportion de sa faiblesse"
+        ]
+      }
+    },
+    {
+      "recto": "Quel bilan peut-on dresser sur l'État ?",
+      "verso": "Il n'est légitime ni par sa force ni par son ancienneté, mais par les garanties qu'il institue et par sa soumission au droit qu'il édicte",
+      "explanation": "Deux erreurs symétriques : voir dans l'État un mal dont on pourrait se passer, et y voir une réalité supérieure qui n'aurait de comptes à rendre à personne. Ce qui le justifie est la manière dont il se laisse limiter.",
+      "tags": [
+        "synthèse",
+        "bilan"
+      ],
+      "distractors": {
+        "easy": [
+          "Il est légitime parce qu'il est le plus fort",
+          "Il est illégitime par nature",
+          "Il est légitime parce qu'il existe depuis longtemps"
+        ],
+        "medium": [
+          "Il tire sa légitimité de la seule élection de ses dirigeants",
+          "Il est légitime tant qu'il assure la prospérité",
+          "Il ne peut jamais être critiqué par les citoyens"
+        ],
+        "hard": [
+          "Il est légitime dès lors qu'il respecte les procédures qu'il a lui-même définies sans contrôle",
+          "Sa légitimité découle de la coïncidence entre État et nation",
+          "Sa légitimité tient à sa capacité d'échapper au droit en cas de crise"
+        ]
+      }
+    }
+  ]
+}

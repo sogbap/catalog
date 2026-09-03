@@ -1,0 +1,536 @@
+{
+  "id": "philosophie-terminale-temps",
+  "title": "Le temps",
+  "emoji": "⏳",
+  "subject": "philosophy",
+  "country": "fr",
+  "courseDescription": "Philosophie · Terminale — le temps : mesure et durée vécue, l'énigme augustinienne, mémoire et projet, irréversibilité et finitude.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Le temps</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale (voie générale et technologique)<br>\n  <b>Thème&nbsp;:</b> Philosophie — La raison et le réel<br>\n  <b>Notion</b> · environ 4 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> Le temps est-il quelque chose que nous mesurons&nbsp;— ou quelque chose que nous sommes&nbsp;?</p></blockquote>\n\n<p>Augustin a formulé une fois pour toutes l'embarras&nbsp;: si personne ne lui demande ce qu'est le temps, il le sait&nbsp;; s'il doit l'expliquer, il ne le sait plus. Rien de plus familier, rien de plus rebelle à la définition. La difficulté n'est pas rhétorique&nbsp;: elle porte sur le <strong>statut d'être de ce qui passe</strong>, et sur l'écart entre le temps que nous comptons et celui que nous vivons. Ce qui se joue au bout du chapitre n'est pas théorique&nbsp;: c'est notre rapport à ce qui ne reviendra pas, et donc à ce que nous faisons de nos vies.</p>\n\n<h2>1 · L'énigme</h2>\n\n<p><strong>Aristote</strong> donne la définition classique&nbsp;: le temps est le <em>nombre du mouvement selon l'antérieur et le postérieur</em>. Il n'est donc ni le mouvement lui-même — un mouvement peut être rapide ou lent, le temps non — ni une chose séparée&nbsp;: il est ce qui permet de <strong>dénombrer le changement</strong>. Sans changement, rien ne permettrait de repérer un avant et un après.</p>\n\n<p><strong>Augustin</strong> pose la difficulté autrement&nbsp;: le passé n'est plus, l'avenir n'est pas encore, et le présent cesserait d'être temps s'il durait. Le temps semble n'exister qu'en tendant vers le non-être.</p>\n\n<p>Sa solution est de déplacer la question de l'univers vers l'âme&nbsp;: les trois temps y existent tous les trois <em>au présent</em>.</p>\n\n<ul>\n  <li><strong>Présent du passé</strong>&nbsp;: la mémoire.</li>\n  <li><strong>Présent du présent</strong>&nbsp;: l'attention.</li>\n  <li><strong>Présent de l'avenir</strong>&nbsp;: l'attente.</li>\n</ul>\n\n<p>Le temps devient une <em>distension de l'âme</em>, qui tient ensemble ce qui n'est plus et ce qui n'est pas encore.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Schéma de la solution augustinienne : les trois dimensions du temps existent dans l'âme au présent, le passé par la mémoire, le présent par l'attention et l'avenir par l'attente, tandis qu'au dehors le passé n'est plus et l'avenir n'est pas encore\">\n    <defs>\n      <marker id=\"ar-phtp1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n    <text x=\"170\" y=\"14\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">au dehors : le passé n'est plus, l'avenir n'est pas encore</text>\n    <line x1=\"20\" y1=\"30\" x2=\"320\" y2=\"30\" stroke=\"currentColor\" stroke-opacity=\".25\" stroke-dasharray=\"4 4\"/>\n    <rect x=\"70\" y=\"44\" width=\"200\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"66\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\" font-weight=\"bold\">L'âme au présent</text>\n    <path d=\"M120,78 L70,106\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-phtp1)\"/>\n    <path d=\"M170,78 L170,106\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-phtp1)\"/>\n    <path d=\"M220,78 L270,106\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-phtp1)\"/>\n    <rect x=\"6\" y=\"112\" width=\"102\" height=\"44\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"57\" y=\"130\" text-anchor=\"middle\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">mémoire</text>\n    <text x=\"57\" y=\"146\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">présent du passé</text>\n    <rect x=\"119\" y=\"112\" width=\"102\" height=\"44\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"170\" y=\"130\" text-anchor=\"middle\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">attention</text>\n    <text x=\"170\" y=\"146\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">présent du présent</text>\n    <rect x=\"232\" y=\"112\" width=\"102\" height=\"44\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"283\" y=\"130\" text-anchor=\"middle\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">attente</text>\n    <text x=\"283\" y=\"146\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">présent de l'avenir</text>\n  </svg>\n  <figcaption>Une réponse psychologique à une question qui semblait cosmologique&nbsp;: c'est l'âme qui tient ensemble les trois temps.</figcaption>\n</figure>\n\n<p><strong>Kant</strong> déplace encore&nbsp;: le temps est une <strong>forme a priori de la sensibilité</strong>. Non une propriété des choses, mais la manière dont notre esprit ordonne tout ce qu'il perçoit. Nous ne pouvons rien percevoir qui ne soit dans le temps — mais cela tient à notre constitution, non aux objets.</p>\n\n<div class=\"callout\">\n  <strong>Repère · Absolu / relatif</strong><br>\n  Le temps est-il un cadre <em>absolu</em> dans lequel les événements prennent place (Newton), ou une <em>relation</em> entre eux (Leibniz)&nbsp;? La physique contemporaine a donné raison à une conception relationnelle&nbsp;: il n'y a pas de temps indépendamment de ce qui se passe.\n</div>\n\n<h2>2 · Le temps mesuré et le temps vécu</h2>\n\n<p>C'est l'écart le plus immédiatement sensible. La <strong>mesure</strong> découpe des instants homogènes et interchangeables&nbsp;: une heure vaut une heure. Le <strong>vécu</strong>, lui, s'étire ou se contracte selon ce qui l'occupe&nbsp;: une heure d'attente et une heure de conversation ne durent pas de la même façon, sans que l'horloge y change rien.</p>\n\n<p><b>Attention à l'excès inverse&nbsp;:</b> reconnaître cette différence ne rend pas la mesure illusoire. C'est elle, au contraire, qui permet à des vécus différents de se <em>coordonner</em>&nbsp;— sans quoi aucun rendez-vous ne serait possible.</p>\n\n<p><strong>Bergson</strong> radicalise l'analyse. Représenter le temps par une ligne le transforme en <em>espace</em>&nbsp;: on obtient des positions juxtaposées, non un passage. C'est le <strong>temps spatialisé</strong>. La <strong>durée</strong>, au contraire, est un écoulement continu où les moments se <em>pénètrent</em> au lieu de se succéder. Elle ne se décompose pas en parties — ce qui explique qu'un souvenir ancien puisse colorer le présent au lieu de rester sagement derrière lui.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Comparaison entre le temps spatialisé, représenté par une ligne de points juxtaposés et séparés, et la durée bergsonienne, représentée par un flux continu dans lequel les moments se pénètrent sans limite nette\">\n    <text x=\"8\" y=\"16\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Temps spatialisé</text>\n    <line x1=\"20\" y1=\"46\" x2=\"320\" y2=\"46\" stroke=\"var(--accent)\" stroke-opacity=\".5\" stroke-width=\"1.4\"/>\n    <circle cx=\"50\" cy=\"46\" r=\"5\" fill=\"var(--accent)\"/>\n    <circle cx=\"110\" cy=\"46\" r=\"5\" fill=\"var(--accent)\"/>\n    <circle cx=\"170\" cy=\"46\" r=\"5\" fill=\"var(--accent)\"/>\n    <circle cx=\"230\" cy=\"46\" r=\"5\" fill=\"var(--accent)\"/>\n    <circle cx=\"290\" cy=\"46\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"170\" y=\"70\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">des positions juxtaposées, séparées, interchangeables</text>\n    <line x1=\"8\" y1=\"86\" x2=\"332\" y2=\"86\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"108\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Durée</text>\n    <rect x=\"20\" y=\"122\" width=\"90\" height=\"26\" rx=\"13\" fill=\"var(--accent)\" fill-opacity=\".28\"/>\n    <rect x=\"80\" y=\"122\" width=\"110\" height=\"26\" rx=\"13\" fill=\"var(--accent)\" fill-opacity=\".22\"/>\n    <rect x=\"160\" y=\"122\" width=\"110\" height=\"26\" rx=\"13\" fill=\"var(--accent)\" fill-opacity=\".16\"/>\n    <rect x=\"240\" y=\"122\" width=\"80\" height=\"26\" rx=\"13\" fill=\"var(--accent)\" fill-opacity=\".12\"/>\n    <text x=\"170\" y=\"168\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">des moments qui se pénètrent, sans limite nette</text>\n  </svg>\n  <figcaption>Dès qu'on dessine le temps, on l'a déjà spatialisé&nbsp;: la figure du haut illustre exactement ce que Bergson reproche à notre représentation ordinaire.</figcaption>\n</figure>\n\n<h3>L'instant et le présent</h3>\n\n<p>L'<strong>instant</strong> est une limite sans épaisseur entre passé et avenir. Le <strong>présent vécu</strong>, lui, a une durée&nbsp;: il inclut ce qui vient de finir et ce qui commence. Écouter une mélodie le prouve&nbsp;: si le présent était un point, on n'entendrait que des sons isolés, jamais une phrase musicale.</p>\n\n<p>L'<strong>ennui</strong> éclaire la même chose par l'envers&nbsp;: il fait éprouver la durée <em>pour elle-même</em>, quand rien ne l'occupe. Le temps ne se remarque pas quand on est absorbé&nbsp;; il apparaît quand il pèse.</p>\n\n<h2>3 · Mémoire, projet, promesse</h2>\n\n<p>Le <strong>passé</strong> est ce qui a eu lieu et ne peut plus changer&nbsp;; le <strong>souvenir</strong> est une reconstruction actuelle qui sélectionne, déforme et parfois invente. La mémoire n'enregistre pas&nbsp;: elle recompose à partir du présent. C'est pourquoi deux témoins d'un même événement en gardent des souvenirs divergents, sans que l'événement ait varié.</p>\n\n<p>La mémoire relie néanmoins les moments d'une existence en une <strong>histoire</strong>&nbsp;: Locke en fait le critère de l'identité personnelle. L'objection est immédiate — la mémoire est lacunaire, et nous ne cessons pas d'être nous-mêmes dans les périodes oubliées.</p>\n\n<p>Vers l'avenir, le <strong>projet</strong> désigne un rapport actif&nbsp;: se représenter un état non encore réalisé et agir <em>présentement</em> en vue de lui. L'avenir devient ainsi un motif du présent, ce qui distingue l'homme d'un être qui subirait le temps.</p>\n\n<p>La <strong>promesse</strong> pousse ce rapport à sa limite&nbsp;: elle engage le sujet futur au nom du sujet présent, introduisant une constance là où tout change. Promettre, c'est décider aujourd'hui de ce que l'on voudra demain — Nietzsche y voit la tâche paradoxale de faire de l'homme «&nbsp;un animal capable de promettre&nbsp;».</p>\n\n<h3>L'histoire</h3>\n\n<p>Elle traite le passé comme un <strong>objet de connaissance</strong>, reconstitué par des traces et non revécu. L'historien n'a pas accès aux faits mais à ce qu'ils ont laissé&nbsp;: documents, vestiges, témoignages. C'est ce qui fait de l'histoire une construction rigoureuse, et non le récit du passé «&nbsp;tel qu'il fut&nbsp;».</p>\n\n<h2>4 · Irréversibilité et finitude</h2>\n\n<p>Un acte accompli ne peut pas être défait. On peut réparer, compenser, regretter&nbsp;— non annuler. C'est cette <strong>irréversibilité</strong> qui donne son poids à chaque décision, et qui rend possible le remords.</p>\n\n<p>Il faut d'ailleurs distinguer&nbsp;: le <strong>regret</strong> porte sur ce qui aurait pu être et n'a pas eu lieu&nbsp;; le <strong>remords</strong> sur un acte que l'on a effectivement commis. Le second engage une responsabilité que le premier n'implique pas.</p>\n\n<p>Quant à la mort, <strong>Épicure</strong> propose l'argument le plus célèbre&nbsp;: elle n'est rien pour nous, puisque tant que nous sommes elle n'est pas là, et quand elle est là nous ne sommes plus. L'argument porte sur la mort comme <em>état</em>, non sur le mourir&nbsp;; et il ne console pas de la <em>perte de l'avenir</em> — ce que l'on redoute n'est pas d'éprouver la mort, mais de ne plus rien éprouver.</p>\n\n<p>La conscience de la <strong>finitude</strong> a pourtant une fonction positive&nbsp;: un temps limité <em>rend le choix nécessaire</em>. On ne peut pas tout faire, et chaque décision écarte des possibles. Un être immortel n'aurait rien à hiérarchiser, tout pouvant être différé indéfiniment. C'est la finitude qui donne son sens à l'ordre que nous mettons dans nos vies.</p>\n\n<p>Reste alors la question pratique&nbsp;: comment concilier l'attention au présent et la nécessité de faire des projets&nbsp;? En distinguant le <em>projet</em>, qui donne une direction, de l'<em>inquiétude</em>, qui fait vivre l'avenir au détriment du présent. Les sagesses antiques ne prescrivent pas d'abolir l'avenir&nbsp;: elles prescrivent de cesser d'y transporter son existence.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Le fil du problème</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Frise du parcours du chapitre : l'énigme du temps chez Aristote, Augustin et Kant, puis l'écart entre temps mesuré et durée vécue selon Bergson, puis la mémoire et le projet, puis l'irréversibilité et la finitude, enfin l'articulation entre présent et avenir\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"186\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">L'énigme</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Aristote, Augustin, Kant</text>\n    <circle cx=\"26\" cy=\"62\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"59\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Mesurer ou vivre</text>\n    <text x=\"44\" y=\"72\" font-size=\"10\" fill=\"currentColor\">Bergson, la durée</text>\n    <circle cx=\"26\" cy=\"104\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"101\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Tenir le temps</text>\n    <text x=\"44\" y=\"114\" font-size=\"10\" fill=\"currentColor\">Mémoire, projet, promesse</text>\n    <circle cx=\"26\" cy=\"146\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"143\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Ce qui ne revient pas</text>\n    <text x=\"44\" y=\"156\" font-size=\"10\" fill=\"currentColor\">Irréversibilité, mort, finitude</text>\n    <circle cx=\"26\" cy=\"184\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"181\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Habiter le présent</text>\n    <text x=\"44\" y=\"194\" font-size=\"10\" fill=\"currentColor\">Le projet contre l'inquiétude</text>\n  </svg>\n  <figcaption>Le chapitre part d'une difficulté métaphysique pour aboutir à une question de conduite.</figcaption>\n</figure>\n\n<h3>Distinctions à tenir</h3>\n\n<table>\n  <tr><th>Distinction</th><th>Ce qui se joue</th></tr>\n  <tr><td>Temps mesuré / temps vécu</td><td>Instants homogènes contre durée qui s'étire</td></tr>\n  <tr><td>Temps spatialisé / durée</td><td>Positions juxtaposées contre moments qui se pénètrent</td></tr>\n  <tr><td>Instant / présent vécu</td><td>Une limite sans épaisseur contre une durée perçue</td></tr>\n  <tr><td>Passé / souvenir</td><td>Ce qui a eu lieu contre sa reconstruction actuelle</td></tr>\n  <tr><td>Regret / remords</td><td>Ce qui n'a pas eu lieu contre ce que l'on a fait</td></tr>\n  <tr><td>Projet / inquiétude</td><td>Donner une direction contre déserter le présent</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition</th></tr>\n  <tr><td>Temps (Aristote)</td><td>Nombre du mouvement selon l'antérieur et le postérieur</td></tr>\n  <tr><td>Distension de l'âme</td><td>Les trois temps existant au présent&nbsp;: mémoire, attention, attente</td></tr>\n  <tr><td>Forme a priori</td><td>Cadre par lequel l'esprit ordonne toute perception</td></tr>\n  <tr><td>Durée</td><td>Écoulement continu où les moments se pénètrent</td></tr>\n  <tr><td>Irréversibilité</td><td>Caractère de ce qui ne peut plus être défait</td></tr>\n  <tr><td>Projet</td><td>Action présente motivée par un état non encore réalisé</td></tr>\n  <tr><td>Promesse</td><td>Engagement du sujet futur pris par le sujet présent</td></tr>\n  <tr><td>Finitude</td><td>Limitation du temps qui rend le choix nécessaire</td></tr>\n  <tr><td>Ennui</td><td>Expérience de la durée quand rien ne l'occupe</td></tr>\n</table>\n\n<h3>Les auteurs</h3>\n\n<table>\n  <tr><th>Auteur</th><th>Thèse à retenir</th></tr>\n  <tr><td>Aristote</td><td>Le temps est le nombre du mouvement&nbsp;; pas de temps sans changement</td></tr>\n  <tr><td>Augustin</td><td>Les trois temps existent au présent, dans l'âme</td></tr>\n  <tr><td>Épicure</td><td>La mort n'est rien pour nous&nbsp;: nous ne coexistons jamais avec elle</td></tr>\n  <tr><td>Kant</td><td>Le temps est une forme a priori de la sensibilité</td></tr>\n  <tr><td>Bergson</td><td>La durée vécue n'est pas le temps spatialisé de la mesure</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Confondre le temps <em>mesuré</em> et le temps <em>vécu</em>. Une heure d'attente et une heure de conversation ne durent pas de la même manière, et aucune horloge n'en rend compte. Mais l'excès inverse est faux aussi&nbsp;: la mesure n'est pas une illusion, c'est ce qui permet à des vécus différents de se coordonner. Deux autres confusions&nbsp;: prendre le souvenir pour le passé lui-même — la mémoire reconstruit —, et confondre le regret, qui porte sur ce qui n'a pas eu lieu, avec le remords, qui porte sur ce que l'on a fait.\n</div>\n\n<blockquote><p>Nous ne possédons pas le temps&nbsp;: nous en sommes faits. C'est peut-être pourquoi la seule sagesse possible à son égard ne consiste pas à le retenir, mais à décider ce que nous voulons qu'il ait porté.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Philosophie — La raison et le réel",
+  "cards": [
+    {
+      "recto": "Comment Aristote définit-il le temps ?",
+      "verso": "Comme le nombre du mouvement selon l'antérieur et le postérieur",
+      "explanation": "Le temps n'est donc ni le mouvement lui-même, puisqu'un mouvement peut être rapide ou lent, ni une chose séparée : c'est ce qui permet de dénombrer le changement. Sans changement, rien ne permettrait de repérer un avant et un après.",
+      "tags": [
+        "définition",
+        "Aristote"
+      ],
+      "distractors": {
+        "easy": [
+          "Le mouvement des aiguilles d'une horloge",
+          "La durée d'une journée",
+          "Ce qui passe et ne revient pas"
+        ],
+        "medium": [
+          "Une substance qui s'écoule indépendamment des choses",
+          "Le sentiment intérieur de la succession",
+          "Une illusion produite par la mémoire"
+        ],
+        "hard": [
+          "Le mouvement lui-même considéré dans sa vitesse",
+          "Une forme a priori de la sensibilité",
+          "La distension de l'âme entre attente et souvenir"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle difficulté Augustin formule-t-il à propos de l'existence du temps ?",
+      "verso": "Le passé n'est plus, l'avenir n'est pas encore, et le présent cesserait d'être temps s'il durait : le temps semble n'exister qu'en tendant vers le non-être",
+      "explanation": "Sa célèbre formule dit l'embarras : si personne ne le lui demande, il sait ce qu'est le temps ; s'il doit l'expliquer, il ne le sait plus. La difficulté n'est pas rhétorique : elle porte sur le statut d'être de ce qui passe.",
+      "tags": [
+        "problème",
+        "Augustin"
+      ],
+      "distractors": {
+        "easy": [
+          "Le temps passe trop vite pour être étudié",
+          "Les horloges ne sont jamais exactes",
+          "Le temps est différent selon les pays"
+        ],
+        "medium": [
+          "Le temps ne peut pas être mesuré sans instrument",
+          "Le temps a un commencement inconnu",
+          "Le temps est identique pour tous les êtres vivants"
+        ],
+        "hard": [
+          "Le présent seul existe et contient les trois dimensions",
+          "Le passé et l'avenir existent également au présent",
+          "Le temps est une substance dont l'être ne fait aucun doute"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle solution Augustin propose-t-il à cette difficulté ?",
+      "verso": "Les trois temps existent dans l'âme : présent du passé par la mémoire, présent du présent par l'attention, présent de l'avenir par l'attente",
+      "explanation": "Le temps devient ainsi une distension de l'âme, qui tient ensemble ce qui n'est plus et ce qui n'est pas encore. C'est une réponse psychologique à une question qui semblait cosmologique.",
+      "tags": [
+        "solution",
+        "Augustin"
+      ],
+      "distractors": {
+        "easy": [
+          "Il renonce à définir le temps",
+          "Il affirme que le temps n'existe pas",
+          "Il confie la question aux savants"
+        ],
+        "medium": [
+          "Il définit le temps comme le nombre du mouvement",
+          "Il fait du temps une propriété des choses extérieures",
+          "Il soutient que seul l'avenir existe réellement"
+        ],
+        "hard": [
+          "Il établit que le passé et l'avenir subsistent hors de l'âme",
+          "Il ramène le temps à une forme a priori de la sensibilité",
+          "Il montre que l'attente et la mémoire sont hors du présent"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : le temps mesuré par les horloges est-il le même que le temps vécu ?",
+      "verso": "Non : la mesure découpe des instants homogènes et interchangeables, alors que le vécu s'étire ou se contracte selon ce qui l'occupe",
+      "explanation": "C'est le contresens central du chapitre. Une heure d'attente et une heure de conversation ne durent pas de la même façon, sans que l'horloge y change rien. Attention à l'excès inverse : reconnaître cette différence ne rend pas la mesure illusoire, puisque c'est elle qui permet à des vécus différents de se coordonner.",
+      "tags": [
+        "piege",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, une heure est une heure",
+          "Oui, les horloges ne se trompent pas",
+          "Non, car les horloges sont imprécises"
+        ],
+        "medium": [
+          "Oui, car le vécu suit la mesure quand on est attentif",
+          "Non, car seul le temps vécu existe réellement",
+          "Oui, à condition d'utiliser une montre précise"
+        ],
+        "hard": [
+          "Oui, car l'homogénéité des instants correspond à celle du vécu",
+          "Non, car la mesure du temps est une illusion sans usage",
+          "Oui, car la durée vécue se décompose en instants identiques"
+        ]
+      }
+    },
+    {
+      "recto": "Ne pas confondre : qu'oppose Bergson entre le temps spatialisé et la durée ?",
+      "verso": "Le temps spatialisé est une succession d'instants juxtaposés comme des points sur une ligne, la durée est un écoulement continu où les moments se pénètrent",
+      "explanation": "Représenter le temps par une ligne le transforme en espace : on obtient des positions, non un passage. La durée, elle, ne se décompose pas en parties, ce qui explique qu'un souvenir ancien puisse colorer le présent au lieu de rester derrière lui.",
+      "tags": [
+        "comparaison",
+        "Bergson"
+      ],
+      "distractors": {
+        "easy": [
+          "Le temps spatialisé est long, la durée est courte",
+          "Le temps spatialisé est réel, la durée imaginaire",
+          "Ce sont deux mots pour la même chose"
+        ],
+        "medium": [
+          "La durée est une succession d'instants, le temps spatialisé un écoulement continu",
+          "Le temps spatialisé concerne le passé, la durée l'avenir",
+          "La durée se mesure mieux que le temps spatialisé"
+        ],
+        "hard": [
+          "La durée se décompose en parties juxtaposées et mesurables",
+          "Le temps spatialisé rend compte de l'interpénétration des moments",
+          "La durée est une représentation géométrique du passage"
+        ]
+      }
+    },
+    {
+      "recto": "Que soutient Kant sur le statut du temps ?",
+      "verso": "Qu'il est une forme a priori de la sensibilité : non une propriété des choses, mais la manière dont notre esprit ordonne tout ce qu'il perçoit",
+      "explanation": "Nous ne pouvons rien percevoir qui ne soit dans le temps, mais cela tient à notre constitution et non aux objets eux-mêmes. Le temps est donc universel pour nous, sans être une réalité indépendante.",
+      "tags": [
+        "auteur",
+        "Kant"
+      ],
+      "distractors": {
+        "easy": [
+          "Que le temps est une invention des horlogers",
+          "Que le temps n'existe pas du tout",
+          "Que le temps est créé par Dieu"
+        ],
+        "medium": [
+          "Que le temps est une propriété objective des choses en soi",
+          "Que le temps se déduit de l'expérience des changements",
+          "Que le temps est un concept de l'entendement"
+        ],
+        "hard": [
+          "Qu'il est une forme a priori de l'entendement et non de la sensibilité",
+          "Qu'il appartient aux choses indépendamment de tout sujet",
+          "Qu'il résulte de l'accumulation des perceptions successives"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi le passé ne se confond-il pas avec le souvenir que l'on en a ?",
+      "verso": "Le passé est ce qui a eu lieu et ne peut plus changer, le souvenir est une reconstruction actuelle qui sélectionne, déforme et parfois invente",
+      "explanation": "La mémoire n'est pas un enregistrement : elle recompose à partir du présent. C'est pourquoi deux témoins d'un même événement en gardent des souvenirs différents, sans que l'événement lui-même ait varié.",
+      "tags": [
+        "mémoire",
+        "distinction"
+      ],
+      "distractors": {
+        "easy": [
+          "Le passé est ancien, le souvenir est récent",
+          "Le souvenir est plus précis que le passé",
+          "Ce sont deux mots pour la même chose"
+        ],
+        "medium": [
+          "Le souvenir est ce qui a eu lieu, le passé sa reconstruction",
+          "Le passé concerne les faits, le souvenir les émotions",
+          "Le souvenir enregistre fidèlement le passé"
+        ],
+        "hard": [
+          "La mémoire conserve intact ce qui a été perçu",
+          "Le passé varie selon la manière dont on s'en souvient",
+          "Le souvenir est un accès direct à l'événement lui-même"
+        ]
+      }
+    },
+    {
+      "recto": "Quel rôle la mémoire joue-t-elle dans l'identité personnelle ?",
+      "verso": "Elle relie les moments d'une existence en une histoire, permettant au sujet de se reconnaître comme le même malgré les changements",
+      "explanation": "Locke fait de la continuité de la conscience le critère de l'identité. L'objection est immédiate : la mémoire est lacunaire, et pourtant nous ne cessons pas d'être nous-mêmes dans les périodes oubliées.",
+      "tags": [
+        "identité",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle permet de retenir des dates",
+          "Elle sert à réussir les examens",
+          "Elle n'a aucun rôle dans l'identité"
+        ],
+        "medium": [
+          "Elle garantit parfaitement la continuité du sujet",
+          "Elle enregistre l'ensemble des expériences vécues",
+          "Elle est identique chez tous les individus"
+        ],
+        "hard": [
+          "Elle fonde une identité que les lacunes ne fragilisent jamais",
+          "Elle constitue le seul critère possible de l'identité personnelle",
+          "Elle relie les moments sans les reconstruire"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi l'irréversibilité du temps donne-t-elle son poids à l'action ?",
+      "verso": "Parce qu'un acte accompli ne peut pas être défait, ce qui rend chaque décision définitive dans ses effets",
+      "explanation": "On peut réparer, compenser, regretter, mais non annuler. C'est cette irréversibilité qui fonde la gravité des choix et la possibilité même du remords.",
+      "tags": [
+        "action",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'on manque toujours de temps",
+          "Parce que les décisions sont difficiles",
+          "Parce que l'avenir est incertain"
+        ],
+        "medium": [
+          "Parce que le temps peut être rattrapé par l'effort",
+          "Parce que le regret permet de défaire l'acte",
+          "Parce que l'avenir efface le passé"
+        ],
+        "hard": [
+          "Parce que la réparation annule l'acte accompli",
+          "Parce que l'irréversibilité rend la décision indifférente",
+          "Parce que le temps réversible fonderait la responsabilité"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi le projet est-il un rapport spécifique à l'avenir ?",
+      "verso": "Il consiste à se représenter un état non encore réalisé et à agir présentement en vue de lui, ce qui fait de l'avenir un motif du présent",
+      "explanation": "Contrairement à l'attente passive, le projet engage. C'est ce qui distingue l'homme d'un être qui subirait le temps : il agit d'après ce qui n'existe pas encore.",
+      "tags": [
+        "avenir",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Il consiste à espérer que tout ira bien",
+          "Il consiste à prévoir la météo",
+          "Il consiste à attendre patiemment"
+        ],
+        "medium": [
+          "Il consiste à imaginer l'avenir sans agir",
+          "Il consiste à répéter ce qui a marché autrefois",
+          "Il consiste à subir ce qui vient"
+        ],
+        "hard": [
+          "Il consiste à déduire l'avenir de la connaissance du passé",
+          "Il fait du présent un motif de l'avenir",
+          "Il suppose que l'avenir existe déjà de façon déterminée"
+        ]
+      }
+    },
+    {
+      "recto": "Quel argument Épicure oppose-t-il à la crainte de la mort ?",
+      "verso": "Que la mort n'est rien pour nous, puisque tant que nous sommes elle n'est pas là, et quand elle est là nous ne sommes plus",
+      "explanation": "L'argument porte sur la mort comme état, non sur le mourir. On lui objecte qu'il ne console pas de la perte de l'avenir : ce que l'on redoute n'est pas d'éprouver la mort mais de ne plus rien éprouver du tout.",
+      "tags": [
+        "mort",
+        "Épicure"
+      ],
+      "distractors": {
+        "easy": [
+          "Que l'âme est immortelle",
+          "Que la mort est un sommeil agréable",
+          "Qu'il ne faut pas y penser"
+        ],
+        "medium": [
+          "Que la mort récompense les justes",
+          "Que la crainte de la mort est utile",
+          "Que la mort peut être évitée par la sagesse"
+        ],
+        "hard": [
+          "Que la mort est un mal parce qu'elle prive d'avenir",
+          "Que l'expérience de la mort est accessible au vivant",
+          "Que le mourir et la mort désignent la même chose"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la conscience de la finitude modifie-t-elle le rapport au temps ?",
+      "verso": "Parce qu'un temps limité rend le choix nécessaire : on ne peut pas tout faire, et chaque décision écarte des possibles",
+      "explanation": "Un être immortel n'aurait pas à hiérarchiser : tout pourrait être différé indéfiniment. C'est la finitude qui donne son urgence et son sens à l'ordre que nous mettons dans nos vies.",
+      "tags": [
+        "finitude",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'on a peur de mourir",
+          "Parce que la vie est triste",
+          "Parce qu'il faut se dépêcher"
+        ],
+        "medium": [
+          "Parce que la mort rend toute action inutile",
+          "Parce que la finitude supprime la possibilité de choisir",
+          "Parce qu'un être immortel ferait les mêmes choix"
+        ],
+        "hard": [
+          "Parce que l'immortalité imposerait la même hiérarchie des possibles",
+          "Parce que la limitation du temps rend les choix équivalents",
+          "Parce que le report indéfini est possible pour un être fini"
+        ]
+      }
+    },
+    {
+      "recto": "Que désigne le présent comme instant, par différence avec le présent vécu ?",
+      "verso": "L'instant est une limite sans épaisseur entre passé et avenir, alors que le présent vécu a une durée qui inclut ce qui vient de finir et ce qui commence",
+      "explanation": "Écouter une mélodie le montre : si le présent était un point sans épaisseur, on n'entendrait que des sons isolés et aucune phrase musicale. Le présent perçu retient ce qui précède.",
+      "tags": [
+        "présent",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "L'instant est court, le présent est long",
+          "L'instant est mesurable, le présent non",
+          "Ce sont deux mots équivalents"
+        ],
+        "medium": [
+          "Le présent vécu est une limite sans épaisseur",
+          "L'instant contient le passé et l'avenir",
+          "Le présent vécu se réduit à un point mathématique"
+        ],
+        "hard": [
+          "L'instant possède une épaisseur qui retient ce qui précède",
+          "Le présent vécu exclut ce qui vient de finir",
+          "La perception d'une mélodie prouve que le présent est ponctuel"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi le regret et le remords ne sont-ils pas la même chose ?",
+      "verso": "Le regret porte sur ce qui aurait pu être et n'a pas eu lieu, le remords sur un acte que l'on a effectivement commis",
+      "explanation": "Le second engage une responsabilité que le premier n'implique pas nécessairement. Confondre les deux revient à traiter comme une faute ce qui n'est parfois qu'une occasion manquée.",
+      "tags": [
+        "distinction",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le regret est fort, le remords est faible",
+          "Le remords concerne le passé, le regret l'avenir",
+          "Ce sont deux synonymes"
+        ],
+        "medium": [
+          "Le remords porte sur ce qui n'a pas eu lieu",
+          "Le regret suppose toujours une faute commise",
+          "Le remords concerne les autres, le regret soi-même"
+        ],
+        "hard": [
+          "Le regret engage une responsabilité que le remords n'implique pas",
+          "Les deux portent également sur des actes accomplis",
+          "Le remords se rapporte à des occasions manquées"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi l'histoire suppose-t-elle un rapport particulier au temps ?",
+      "verso": "Elle traite le passé comme un objet de connaissance, reconstitué par des traces et non revécu",
+      "explanation": "L'historien n'a pas accès aux faits mais à ce qu'ils ont laissé : documents, vestiges, témoignages. C'est pourquoi l'histoire est une construction rigoureuse et non un simple récit du passé tel qu'il fut.",
+      "tags": [
+        "histoire",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle raconte des histoires du passé",
+          "Elle apprend des dates par cœur",
+          "Elle décrit ce que les gens ont ressenti"
+        ],
+        "medium": [
+          "Elle donne un accès direct aux événements passés",
+          "Elle se contente de recueillir des témoignages",
+          "Elle reconstitue le passé tel qu'il fut exactement"
+        ],
+        "hard": [
+          "Elle traite le passé comme un vécu accessible par empathie",
+          "Elle dispose des faits eux-mêmes et non de leurs traces",
+          "Elle exclut toute construction au profit du récit brut"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi l'ennui révèle-t-il quelque chose du rapport au temps ?",
+      "verso": "Parce qu'il fait éprouver la durée pour elle-même, quand rien ne l'occupe et qu'elle cesse d'être portée par un projet",
+      "explanation": "Le temps ne se remarque pas quand on est absorbé : il apparaît quand il pèse. L'ennui est donc l'expérience d'un temps vide, ce qui montre qu'il est ordinairement rempli par ce que nous faisons.",
+      "tags": [
+        "expérience",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'il est désagréable",
+          "Parce qu'il fait perdre du temps",
+          "Parce qu'il rend paresseux"
+        ],
+        "medium": [
+          "Parce qu'il accélère la perception du temps",
+          "Parce qu'il supprime toute conscience de la durée",
+          "Parce qu'il résulte d'un manque de sommeil"
+        ],
+        "hard": [
+          "Parce qu'il révèle un temps toujours vide indépendamment de l'activité",
+          "Parce qu'il prouve que la durée est indépendante du vécu",
+          "Parce qu'il fait disparaître l'expérience du présent"
+        ]
+      }
+    },
+    {
+      "recto": "Quel repère du programme éclaire le statut du temps comme condition de l'expérience ?",
+      "verso": "L'opposition entre l'absolu et le relatif",
+      "explanation": "Le temps est-il un cadre absolu dans lequel les événements prennent place, ou une relation entre eux ? Newton défendait la première thèse, Leibniz la seconde, et la physique contemporaine a donné raison à une conception relationnelle.",
+      "tags": [
+        "repère",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Le repère croire / savoir",
+          "Le repère légal / légitime",
+          "Le repère genre / espèce / individu"
+        ],
+        "medium": [
+          "Le repère obligation / contrainte",
+          "Le repère persuader / convaincre",
+          "Le repère analyse / synthèse"
+        ],
+        "hard": [
+          "Le repère essentiel / accidentel",
+          "Le repère en théorie / en pratique",
+          "Le repère ressemblance / analogie"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la promesse constitue-t-elle une manière d'agir sur le temps ?",
+      "verso": "Parce qu'elle engage le sujet futur au nom du sujet présent, introduisant une constance là où tout change",
+      "explanation": "Promettre, c'est décider aujourd'hui de ce que l'on voudra demain, ce qui suppose de se tenir pour identique dans la durée. Nietzsche y voit la tâche paradoxale de faire de l'homme un animal capable de promettre.",
+      "tags": [
+        "action",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'elle prend du temps à tenir",
+          "Parce qu'elle concerne l'avenir",
+          "Parce qu'elle est faite devant témoin"
+        ],
+        "medium": [
+          "Parce qu'elle prédit ce qui va se produire",
+          "Parce qu'elle supprime l'incertitude de l'avenir",
+          "Parce qu'elle oblige les autres et non soi-même"
+        ],
+        "hard": [
+          "Parce qu'elle suppose que le sujet change entièrement",
+          "Parce qu'elle engage le sujet présent au nom du sujet futur",
+          "Parce qu'elle rend le temps réversible"
+        ]
+      }
+    },
+    {
+      "recto": "Comment concilier l'attention au présent et la nécessité de faire des projets ?",
+      "verso": "En distinguant le projet, qui donne une direction, de l'inquiétude, qui fait vivre l'avenir au détriment du présent",
+      "explanation": "Les sagesses antiques ne prescrivent pas d'abolir l'avenir mais de cesser d'y transporter son existence. Agir en vue de demain n'empêche pas d'habiter aujourd'hui ; s'y absorber par anxiété, si.",
+      "tags": [
+        "synthèse",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "En renonçant à tout projet",
+          "En vivant uniquement au jour le jour",
+          "En planifiant chaque minute"
+        ],
+        "medium": [
+          "En supprimant toute pensée de l'avenir",
+          "En considérant que le présent n'a pas d'importance",
+          "En remettant toute satisfaction à plus tard"
+        ],
+        "hard": [
+          "En identifiant le projet à l'inquiétude qui le porte",
+          "En abolissant l'avenir comme dimension du temps",
+          "En faisant du présent le seul motif de l'action"
+        ]
+      }
+    },
+    {
+      "recto": "Quel bilan peut-on dresser sur le temps ?",
+      "verso": "Il n'est ni une chose qui s'écoule ni une pure illusion : c'est la forme de notre expérience, qui rend possibles la mémoire, le projet et la responsabilité",
+      "explanation": "Le réduire à sa mesure fait perdre ce qu'il est pour un sujet ; le réduire au vécu rend inexplicable qu'on puisse le partager. Sa difficulté propre est de tenir ensemble ces deux dimensions.",
+      "tags": [
+        "synthèse",
+        "bilan"
+      ],
+      "distractors": {
+        "easy": [
+          "C'est ce que mesurent les horloges",
+          "C'est une illusion de la conscience",
+          "C'est une substance qui coule"
+        ],
+        "medium": [
+          "Il se réduit à la durée vécue par chacun",
+          "Il est une propriété objective des choses en soi",
+          "Il est indépendant de toute expérience"
+        ],
+        "hard": [
+          "Sa mesure épuise ce qu'il est pour un sujet",
+          "Sa dimension vécue rend inutile toute coordination",
+          "Il constitue un cadre absolu antérieur aux événements"
+        ]
+      }
+    }
+  ]
+}

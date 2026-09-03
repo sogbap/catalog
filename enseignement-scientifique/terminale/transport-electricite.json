@@ -1,0 +1,640 @@
+{
+  "id": "enseignement-scientifique-terminale-transport-electricite",
+  "title": "Optimisation du transport de l'électricité",
+  "emoji": "🗼",
+  "subject": "science",
+  "country": "fr",
+  "courseDescription": "Effet Joule, haute tension et transformateurs : pourquoi le réseau électrique est construit comme il l'est.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Optimisation du transport de l'électricité</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · enseignement scientifique<br>\n  <b>Thème 2&nbsp;:</b> Le futur des énergies<br>\n  <b>Chapitre 2.3</b> · environ 5 heures\n</div>\n\n<blockquote><p><b>Problématique.</b> Pourquoi les lignes qui traversent nos paysages sont-elles portées à 400&nbsp;000 volts&nbsp;?</p></blockquote>\n\n<p>Ce chapitre est l'un des rares du programme où <em>une seule formule</em> explique une infrastructure entière. Les pertes par effet Joule dépendent du <strong>carré de l'intensité</strong>&nbsp;: de cette dépendance découlent la très haute tension, les transformateurs, l'architecture du réseau et le choix historique du courant alternatif. Encore faut-il ne pas se tromper de variable — c'est l'intensité qui échauffe les câbles, jamais la tension.</p>\n\n<h2>1 · L'effet Joule commande tout</h2>\n\n<p>La puissance dissipée dans une ligne dépend de sa <strong>résistance</strong> et du <strong>carré de l'intensité</strong> qui la parcourt. Deux leviers sont donc concevables pour réduire les pertes&nbsp;:</p>\n\n<ul>\n  <li>Réduire la <strong>résistance</strong>&nbsp;: elle augmente avec la longueur et diminue avec la section du conducteur. Mais on ne peut pas épaissir indéfiniment les câbles — masse et coût du métal deviennent vite prohibitifs.</li>\n  <li>Réduire l'<strong>intensité</strong>&nbsp;: et comme la puissance transportée est le produit de la tension par l'intensité, à puissance fixée, <em>élever la tension abaisse l'intensité</em>.</li>\n</ul>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 186\" role=\"img\" aria-label=\"Effet de l'élévation de tension sur les pertes en ligne : la puissance transportée étant le produit de la tension par l'intensité, élever la tension d'un facteur dix divise l'intensité par dix à puissance constante ; comme les pertes par effet Joule dépendent du carré de l'intensité, elles sont alors divisées par cent, ce qui fait de l'élévation de tension le levier le plus efficace du transport d'électricité\">\n    <rect x=\"12\" y=\"12\" width=\"146\" height=\"52\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"85\" y=\"32\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">tension multipliée</text>\n    <text x=\"85\" y=\"46\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">par 10</text>\n    <line x1=\"160\" y1=\"38\" x2=\"178\" y2=\"38\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-tes23)\"/>\n    <rect x=\"182\" y=\"12\" width=\"146\" height=\"52\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"255\" y=\"32\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">intensité divisée</text>\n    <text x=\"255\" y=\"46\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">par 10</text>\n    <line x1=\"255\" y1=\"68\" x2=\"255\" y2=\"84\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-tes23)\"/>\n    <text x=\"150\" y=\"82\" font-size=\"8\" text-anchor=\"end\" class=\"s-muted\">pertes en I au carré</text>\n    <rect x=\"90\" y=\"88\" width=\"238\" height=\"42\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".40\" stroke=\"var(--accent)\" stroke-opacity=\".7\"/>\n    <text x=\"209\" y=\"106\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">PERTES DIVISÉES PAR 100</text>\n    <text x=\"209\" y=\"122\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">à puissance transportée constante</text>\n    <line x1=\"8\" y1=\"146\" x2=\"332\" y2=\"146\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"164\" font-size=\"9\" fill=\"currentColor\">Aucun autre levier — ni le métal choisi, ni la section des câbles —</text>\n    <text x=\"8\" y=\"178\" font-size=\"9\" fill=\"currentColor\">n'offre un gain de cet ordre.</text>\n    <defs>\n      <marker id=\"ar-tes23\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n  </svg>\n  <figcaption>Toute l'architecture du réseau tient dans cette mise au carré.</figcaption>\n</figure>\n\n<p>Résultat concret&nbsp;: les pertes du réseau de transport français sont de l'ordre de <strong>2 à 3&nbsp;%</strong> seulement de l'énergie transportée. Sans la très haute tension, acheminer l'électricité sur des centaines de kilomètres serait tout simplement ruineux.</p>\n\n<h2>2 · Le transformateur</h2>\n\n<p>Le <strong>transformateur</strong> modifie la tension d'un courant alternatif&nbsp;: il l'élève pour le transport, l'abaisse pour la distribution. Dans un transformateur idéal, le rapport des <em>tensions</em> entre secondaire et primaire égale le rapport des <em>nombres de spires</em> des bobinages, et la puissance se conserve — donc élever la tension abaisse l'intensité dans la même proportion. C'est exactement l'effet recherché.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Pourquoi l'alternatif&nbsp;?</strong><br>\n  Le transformateur repose sur l'<strong>induction</strong>, qui exige une <em>variation</em> du champ magnétique. Un courant continu produit un champ constant&nbsp;: aucune induction, donc aucune transformation. Voilà pourquoi l'alternatif s'est imposé au XIX<sup>e</sup> siècle.\n</div>\n\n<h2>3 · L'architecture du réseau</h2>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Parcours de l'électricité de la centrale à la prise domestique : la centrale produit l'électricité, un transformateur élève la tension jusqu'à 400000 volts pour le transport interrégional sur le réseau très haute tension, puis des transformateurs successifs abaissent la tension pour la répartition régionale en haute tension, et enfin jusqu'à 230 volts pour la distribution finale aux usagers\">\n    <rect x=\"12\" y=\"12\" width=\"316\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"170\" y=\"31\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">CENTRALE — production</text>\n    <line x1=\"170\" y1=\"44\" x2=\"170\" y2=\"54\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-tes23b)\"/>\n    <text x=\"200\" y=\"53\" font-size=\"8\" class=\"s-muted\">élévation</text>\n    <rect x=\"12\" y=\"56\" width=\"316\" height=\"42\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".45\" stroke=\"var(--accent)\" stroke-opacity=\".7\"/>\n    <text x=\"170\" y=\"75\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">TRÈS HAUTE TENSION — jusqu'à 400 000 V</text>\n    <text x=\"170\" y=\"90\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">transport interrégional, réseau maillé</text>\n    <line x1=\"170\" y1=\"100\" x2=\"170\" y2=\"110\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-tes23b)\"/>\n    <text x=\"200\" y=\"109\" font-size=\"8\" class=\"s-muted\">abaissement</text>\n    <rect x=\"12\" y=\"112\" width=\"316\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".22\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"170\" y=\"133\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">HAUTE TENSION — répartition régionale</text>\n    <line x1=\"170\" y1=\"148\" x2=\"170\" y2=\"158\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-tes23b)\"/>\n    <rect x=\"12\" y=\"160\" width=\"316\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"170\" y=\"179\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">BASSE TENSION — 230 V chez l'usager</text>\n    <text x=\"170\" y=\"198\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">Un facteur supérieur à mille entre les deux extrémités.</text>\n    <defs>\n      <marker id=\"ar-tes23b\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n  </svg>\n  <figcaption>Chaque niveau de tension correspond à une échelle géographique.</figcaption>\n</figure>\n\n<p>Le réseau de transport est <strong>maillé</strong>&nbsp;: l'électricité peut emprunter plusieurs chemins, si bien qu'une ligne peut tomber sans priver une région. Cette redondance coûte cher&nbsp;; elle est la condition de la fiabilité.</p>\n\n<p>Les lignes de très haute tension sont majoritairement <strong>aériennes</strong> parce que l'air assure gratuitement l'isolation et le refroidissement des conducteurs&nbsp;; une ligne enterrée exige des isolants coûteux et évacue mal la chaleur. L'enfouissement reste privilégié en ville et pour la distribution, où les tensions sont plus faibles.</p>\n\n<p>Exception moderne&nbsp;: le <strong>courant continu haute tension</strong> reprend l'avantage pour les liaisons très longues et les câbles sous-marins, où l'alternatif engendre des pertes supplémentaires. L'électronique de puissance permet aujourd'hui de convertir efficacement d'un régime à l'autre.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 168\" role=\"img\" aria-label=\"Principe du transformateur : un bobinage primaire et un bobinage secondaire enroulés autour d'un même noyau de fer, le rapport des tensions entre secondaire et primaire étant égal au rapport de leurs nombres de spires ; dans un transformateur idéal la puissance se conserve, si bien qu'élever la tension abaisse l'intensité dans la même proportion, et le dispositif ne fonctionne qu'en courant alternatif puisque l'induction exige une variation du champ magnétique\">\n    <rect x=\"128\" y=\"20\" width=\"84\" height=\"86\" rx=\"8\" fill=\"none\" stroke=\"currentColor\" stroke-opacity=\".35\" stroke-width=\"8\"/>\n    <text x=\"170\" y=\"68\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">noyau</text>\n    <rect x=\"96\" y=\"34\" width=\"20\" height=\"58\" rx=\"6\" fill=\"var(--accent)\" fill-opacity=\".30\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"72\" y=\"30\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">primaire</text>\n    <text x=\"66\" y=\"66\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">tension U1</text>\n    <text x=\"66\" y=\"80\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">N1 spires</text>\n    <rect x=\"224\" y=\"34\" width=\"20\" height=\"58\" rx=\"6\" fill=\"var(--accent)\" fill-opacity=\".40\" stroke=\"var(--accent)\" stroke-opacity=\".7\"/>\n    <text x=\"288\" y=\"30\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">secondaire</text>\n    <text x=\"286\" y=\"66\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">tension U2</text>\n    <text x=\"286\" y=\"80\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">N2 spires</text>\n    <line x1=\"8\" y1=\"122\" x2=\"332\" y2=\"122\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"140\" font-size=\"9\" fill=\"currentColor\">Le rapport U2 sur U1 est égal au rapport N2 sur N1.</text>\n    <text x=\"8\" y=\"156\" font-size=\"9\" fill=\"currentColor\">La puissance se conserve : élever la tension abaisse l'intensité.</text>\n    <text x=\"8\" y=\"168\" font-size=\"8\" class=\"s-muted\">Inopérant en courant continu : pas de variation, pas d'induction.</text>\n  </svg>\n  <figcaption>Deux bobinages, un noyau&nbsp;— et la clé économique du transport longue distance.</figcaption>\n</figure>\n\n<h2>4 · Tenir l'équilibre</h2>\n\n<p>Si la consommation dépasse durablement la production, la <strong>fréquence</strong> du réseau chute&nbsp;; des protections automatiques se déclenchent et la coupure peut se généraliser. Les gestionnaires disposent de moyens gradués&nbsp;: réserves de production, effacement de consommation, puis <strong>délestage</strong> — coupure volontaire et ciblée d'usagers, mesure de dernier recours mais préférable à un effondrement dont le redémarrage prendrait des jours.</p>\n\n<p>L'<strong>interconnexion</strong> des réseaux européens mutualise moyens et aléas&nbsp;; elle réduit le besoin de réserves nationales, mais propage aussi les perturbations. À l'inverse, rapprocher production et consommation réduit les pertes et allège l'infrastructure — au prix de nouveaux problèmes de pilotage.</p>\n\n<p>Enfin, un <strong>réseau intelligent</strong>, doté de capteurs et de communication, ajuste en temps réel production, stockage et consommation. Son intérêt croît avec la part de production variable. Le <em>compteur communicant</em> y participe en transmettant des mesures détaillées&nbsp;— il ne réduit rien par lui-même&nbsp;: ce sont les décisions prises à partir de ces informations qui produisent les économies.</p>\n\n<p>Un dernier point, souvent mal compris&nbsp;: sur un réseau maillé, l'électricité circule selon les lois de la physique et <strong>ne peut pas être dirigée</strong> vers un usager particulier. Un contrat d'électricité verte ne change donc rien aux électrons reçus&nbsp;: il garantit qu'une quantité équivalente a été injectée dans le réseau.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Chiffres à retenir</h3>\n\n<table>\n  <tr><th>Grandeur</th><th>Valeur</th></tr>\n  <tr><td>Très haute tension en France</td><td>jusqu'à 400 000 V</td></tr>\n  <tr><td>Tension domestique</td><td>230 V à 50 Hz</td></tr>\n  <tr><td>Pertes sur le réseau de transport</td><td>environ 2 à 3&nbsp;%</td></tr>\n  <tr><td>Intensité divisée par 10</td><td>pertes divisées par 100</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition en une ligne</th></tr>\n  <tr><td>Effet Joule</td><td>Pertes proportionnelles au carré de l'intensité</td></tr>\n  <tr><td>Transformateur</td><td>Modifie la tension d'un courant alternatif</td></tr>\n  <tr><td>Réseau maillé</td><td>Plusieurs chemins possibles, donc redondance</td></tr>\n  <tr><td>Délestage</td><td>Coupure ciblée pour rétablir l'équilibre</td></tr>\n  <tr><td>Réseau intelligent</td><td>Ajustement en temps réel de l'offre et de la demande</td></tr>\n</table>\n\n<h3>Les niveaux de tension</h3>\n\n<table>\n  <tr><th>Niveau</th><th>Rôle</th><th>Échelle</th></tr>\n  <tr><td>Très haute tension</td><td>Transport</td><td>interrégionale</td></tr>\n  <tr><td>Haute tension</td><td>Répartition</td><td>régionale</td></tr>\n  <tr><td>Basse tension</td><td>Distribution</td><td>la rue, le logement</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Croire que la <strong>haute tension</strong> chauffe davantage les câbles. C'est l'<strong>intensité</strong> qui les échauffe, et elle seule&nbsp;: les pertes dépendent du carré de l'intensité, jamais de la tension. Comme la puissance transportée est le produit de la tension par l'intensité, élever la tension <em>abaisse</em> l'intensité à puissance constante — et divise donc les pertes par le carré du facteur. Inverser ce raisonnement rend inintelligible toute l'architecture du réseau.\n</div>\n\n<blockquote><p>Une seule mise au carré, et voilà pourquoi des pylônes de trente mètres traversent les campagnes plutôt que des câbles gros comme des troncs d'arbre.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Le futur des énergies",
+  "cards": [
+    {
+      "recto": "Piège classique : pourquoi transporte-t-on l'électricité sous haute tension alors que l'intuition suggère l'inverse ?",
+      "verso": "Parce qu'à puissance transportée fixée, augmenter la tension diminue l'intensité, or les pertes par effet Joule dépendent du carré de l'intensité et non de la tension",
+      "explanation": "C'est l'intensité qui échauffe les câbles, pas la tension. Croire que la haute tension chauffe davantage inverse complètement le raisonnement qui fonde tout le réseau.",
+      "tags": [
+        "transport",
+        "piege"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que la haute tension va plus vite dans les câbles",
+          "Parce que les câbles sont trop longs pour la basse tension",
+          "Parce que la haute tension coûte moins cher à produire"
+        ],
+        "medium": [
+          "Parce que la haute tension réduit la résistance des câbles",
+          "Parce que les pertes dépendent du carré de la tension, qu'il faut donc minimiser",
+          "Parce que la haute tension permet de transporter plus d'électrons à la fois"
+        ],
+        "hard": [
+          "Parce qu'à intensité fixée, augmenter la tension réduit les pertes par effet Joule",
+          "Parce que les pertes sont proportionnelles à l'intensité et non à son carré",
+          "Parce que la haute tension diminue la longueur effective de la ligne"
+        ]
+      }
+    },
+    {
+      "recto": "De quoi dépend la puissance dissipée par effet Joule dans une ligne électrique ?",
+      "verso": "De la résistance de la ligne et du carré de l'intensité qui la parcourt",
+      "explanation": "La dépendance au carré est décisive : diviser l'intensité par dix divise les pertes par cent. C'est le seul levier réellement efficace pour le transport longue distance.",
+      "tags": [
+        "effet Joule",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "De la longueur du câble uniquement",
+          "De la couleur de l'isolant utilisé",
+          "Du nombre de pylônes installés"
+        ],
+        "medium": [
+          "De la résistance et de la tension appliquée",
+          "De la puissance transportée uniquement",
+          "De la résistance et de l'intensité, sans mise au carré"
+        ],
+        "hard": [
+          "De la résistance et du carré de la tension aux bornes de la ligne",
+          "Du carré de la résistance et de l'intensité",
+          "De la conductance et du carré de la puissance transportée"
+        ]
+      }
+    },
+    {
+      "recto": "Comment la résistance d'un câble dépend-elle de ses caractéristiques ?",
+      "verso": "Elle augmente avec la longueur du câble et diminue quand sa section augmente, selon la nature du métal conducteur",
+      "explanation": "On ne peut pas réduire indéfiniment la résistance en épaississant les câbles : la masse et le coût du conducteur deviennent vite prohibitifs, d'où le recours à la haute tension.",
+      "tags": [
+        "transport",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle dépend seulement de la couleur du câble",
+          "Elle augmente avec la tension appliquée",
+          "Elle dépend du nombre d'appareils branchés"
+        ],
+        "medium": [
+          "Elle diminue avec la longueur et augmente avec la section",
+          "Elle dépend uniquement de l'intensité qui traverse le câble",
+          "Elle est identique pour tous les métaux à dimensions égales"
+        ],
+        "hard": [
+          "Elle augmente avec la longueur et avec la section du conducteur",
+          "Elle dépend du carré de la longueur du câble",
+          "Elle diminue quand la température du conducteur augmente"
+        ]
+      }
+    },
+    {
+      "recto": "Quel est l'ordre de grandeur des pertes en ligne sur le réseau électrique français ?",
+      "verso": "De l'ordre de quelques pour cent de l'énergie transportée, environ 2 à 3 pour cent sur le réseau de transport à haute tension",
+      "explanation": "Ce chiffre faible est précisément le résultat du choix de la très haute tension : sans elle, transporter l'électricité sur des centaines de kilomètres serait ruineux.",
+      "tags": [
+        "transport",
+        "chiffres"
+      ],
+      "distractors": {
+        "easy": [
+          "Environ 90 pour cent",
+          "Environ la moitié",
+          "Zéro perte"
+        ],
+        "medium": [
+          "Environ 30 pour cent",
+          "Environ 20 pour cent",
+          "Environ 15 pour cent"
+        ],
+        "hard": [
+          "Environ 2 à 3 pour cent, dont l'essentiel sur le réseau de distribution",
+          "Environ 10 pour cent sur le réseau de transport",
+          "Environ 2 à 3 pour cent de la puissance installée"
+        ]
+      }
+    },
+    {
+      "recto": "À quoi sert un transformateur ?",
+      "verso": "À modifier la tension d'un courant alternatif, en l'élevant pour le transport et en l'abaissant pour la distribution et l'usage",
+      "explanation": "Il repose sur l'induction entre deux bobinages autour d'un noyau, ce qui explique qu'il ne fonctionne qu'en courant alternatif : un courant continu ne crée aucune variation de champ.",
+      "tags": [
+        "transformateur",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "À produire de l'électricité à partir du vent",
+          "À stocker l'électricité pendant la nuit",
+          "À transformer le courant en lumière"
+        ],
+        "medium": [
+          "À convertir le courant alternatif en courant continu",
+          "À modifier la fréquence du courant sur le réseau",
+          "À augmenter la puissance transportée par une ligne"
+        ],
+        "hard": [
+          "À modifier la tension d'un courant continu comme d'un courant alternatif",
+          "À modifier l'intensité sans changer la tension",
+          "À élever simultanément la tension et l'intensité du courant"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi un transformateur ne fonctionne-t-il pas en courant continu ?",
+      "verso": "Parce qu'il repose sur l'induction, qui exige une variation du champ magnétique, or un courant continu produit un champ constant",
+      "explanation": "Cette limitation physique explique la victoire historique du courant alternatif : sans transformateur, aucun transport économique sur longue distance n'était possible au XIXe siècle.",
+      "tags": [
+        "transformateur",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que le courant continu est trop faible",
+          "Parce que le courant continu ne circule que dans un sens",
+          "Parce que les transformateurs sont conçus pour 50 hertz uniquement"
+        ],
+        "medium": [
+          "Parce que le courant continu chauffe trop les bobinages",
+          "Parce que le courant continu ne traverse pas le noyau de fer",
+          "Parce que la tension continue est toujours trop élevée"
+        ],
+        "hard": [
+          "Parce que l'induction exige un champ électrique variable et non magnétique",
+          "Parce que le courant continu induit une tension de sens constant, inutilisable",
+          "Parce que le rendement du transformateur chute sous 50 pour cent en continu"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle relation lie les tensions et les nombres de spires d'un transformateur idéal ?",
+      "verso": "Le rapport des tensions entre secondaire et primaire est égal au rapport des nombres de spires de leurs bobinages",
+      "explanation": "Cette proportionnalité permet de dimensionner un transformateur pour n'importe quel rapport d'élévation. Dans un transformateur idéal, la puissance se conserve.",
+      "tags": [
+        "transformateur",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "Les tensions sont toujours égales des deux côtés",
+          "Le rapport des tensions est égal au rapport des longueurs de fil",
+          "La tension dépend du poids du transformateur"
+        ],
+        "medium": [
+          "Le rapport des tensions est égal au carré du rapport des spires",
+          "Le rapport des tensions est l'inverse du rapport des spires",
+          "Le rapport des tensions est égal au rapport des intensités"
+        ],
+        "hard": [
+          "Le rapport des tensions est égal au rapport des spires multiplié par le rendement",
+          "Le rapport des intensités est égal au rapport des spires",
+          "Le produit des tensions est égal au produit des nombres de spires"
+        ]
+      }
+    },
+    {
+      "recto": "Que devient l'intensité au secondaire d'un transformateur élévateur de tension ?",
+      "verso": "Elle diminue dans la même proportion que la tension augmente, puisque la puissance se conserve dans un transformateur idéal",
+      "explanation": "C'est exactement l'effet recherché pour le transport : élever la tension abaisse l'intensité, donc réduit les pertes par effet Joule dans la ligne qui suit.",
+      "tags": [
+        "transformateur",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle augmente aussi, ce qui augmente la puissance",
+          "Elle reste rigoureusement identique",
+          "Elle devient nulle"
+        ],
+        "medium": [
+          "Elle augmente proportionnellement à la tension",
+          "Elle diminue mais moins vite que la tension n'augmente",
+          "Elle varie de façon imprévisible selon la charge"
+        ],
+        "hard": [
+          "Elle diminue selon le carré du rapport d'élévation de la tension",
+          "Elle diminue proportionnellement, ce qui fait chuter la puissance transmise",
+          "Elle reste constante, la puissance augmentant avec la tension"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : quelles sont les étapes du parcours de l'électricité entre la centrale et la prise domestique ?",
+      "verso": "La production dans la centrale, l'élévation de tension par un transformateur, le transport sur le réseau à très haute tension, puis des abaissements successifs jusqu'à la basse tension de distribution",
+      "explanation": "Chaque niveau de tension correspond à une échelle géographique : le très haute tension relie les régions, la basse tension dessert la rue.",
+      "tags": [
+        "réseau",
+        "comparaison"
+      ],
+      "distractors": {
+        "easy": [
+          "Production, stockage, vente, consommation",
+          "Extraction, raffinage, distribution, combustion",
+          "Achat, transport en camion, livraison, branchement"
+        ],
+        "medium": [
+          "Production, transport en basse tension, élévation, consommation",
+          "Production, abaissement de tension, transport, élévation finale",
+          "Élévation de tension, production, transport, distribution"
+        ],
+        "hard": [
+          "Production, élévation, transport à basse tension, distribution à haute tension",
+          "Production, transport, élévation de tension puis distribution directe",
+          "Production, transport en très haute tension, puis élévation avant la distribution"
+        ]
+      }
+    },
+    {
+      "recto": "Quels niveaux de tension distingue-t-on sur le réseau électrique français ?",
+      "verso": "La très haute tension pour le transport interrégional, la haute tension pour la répartition régionale, et la basse tension pour la distribution finale aux usagers",
+      "explanation": "Le réseau de transport et le réseau de distribution sont gérés par des opérateurs distincts, avec des logiques techniques différentes : maillage pour le premier, arborescence pour le second.",
+      "tags": [
+        "réseau",
+        "organisation"
+      ],
+      "distractors": {
+        "easy": [
+          "Tension du matin, tension du soir et tension de nuit",
+          "Tension forte et tension faible seulement",
+          "Tension urbaine et tension rurale"
+        ],
+        "medium": [
+          "Une tension unique de 230 volts sur tout le réseau",
+          "Deux niveaux seulement, production et consommation",
+          "Tension continue pour le transport et alternative pour la distribution"
+        ],
+        "hard": [
+          "Très haute tension pour la distribution finale et basse tension pour le transport",
+          "Trois niveaux correspondant à trois fréquences différentes",
+          "Haute tension pour le transport interrégional et très haute tension pour la distribution"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la tension nominale du réseau domestique en France ?",
+      "verso": "230 volts en courant alternatif à 50 hertz pour une installation monophasée",
+      "explanation": "Cette valeur résulte d'une harmonisation européenne. La distinguer des centaines de milliers de volts du réseau de transport aide à saisir l'ampleur des abaissements successifs.",
+      "tags": [
+        "réseau",
+        "chiffres"
+      ],
+      "distractors": {
+        "easy": [
+          "12 volts",
+          "1000 volts",
+          "5 volts"
+        ],
+        "medium": [
+          "110 volts",
+          "400 volts",
+          "24 volts"
+        ],
+        "hard": [
+          "230 volts en courant continu",
+          "230 volts à 60 hertz",
+          "400 volts en monophasé"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi le réseau de transport est-il maillé plutôt que linéaire ?",
+      "verso": "Parce que le maillage permet à l'électricité d'emprunter plusieurs chemins, ce qui assure la continuité de l'alimentation en cas de défaillance d'une ligne",
+      "explanation": "Cette redondance a un coût mais elle est la condition de la fiabilité : une ligne peut tomber sans que la région soit privée d'électricité.",
+      "tags": [
+        "réseau",
+        "organisation"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les câbles sont plus faciles à poser en boucle",
+          "Parce que cela réduit le nombre de pylônes nécessaires",
+          "Parce que les lignes droites sont interdites"
+        ],
+        "medium": [
+          "Parce que le maillage supprime totalement les pertes en ligne",
+          "Parce qu'il permet de transporter le courant plus vite",
+          "Parce qu'il évite d'utiliser des transformateurs"
+        ],
+        "hard": [
+          "Parce que le maillage permet d'abaisser la tension progressivement",
+          "Parce qu'il répartit les pertes également entre toutes les lignes",
+          "Parce qu'il rend inutile toute réserve de production"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi les lignes à très haute tension sont-elles majoritairement aériennes ?",
+      "verso": "Parce que l'air assure gratuitement l'isolation et le refroidissement des conducteurs, alors qu'une ligne enterrée exige des isolants coûteux et évacue mal la chaleur",
+      "explanation": "L'enfouissement est cependant privilégié en zone urbaine et pour la distribution, où les tensions sont plus faibles et l'espace disponible limité.",
+      "tags": [
+        "réseau",
+        "technique"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'il est interdit de creuser des tranchées",
+          "Parce que l'électricité ne circule pas sous terre",
+          "Parce que les câbles sont trop lourds à enterrer"
+        ],
+        "medium": [
+          "Parce que les lignes aériennes ont une résistance nulle",
+          "Parce que l'enfouissement augmenterait la longueur des lignes",
+          "Parce que les lignes aériennes ne subissent aucune perte"
+        ],
+        "hard": [
+          "Parce que l'enfouissement empêche toute élévation de tension par transformateur",
+          "Parce que l'air conduit mieux le courant que les isolants solides",
+          "Parce que les lignes enterrées imposent de passer en courant continu"
+        ]
+      }
+    },
+    {
+      "recto": "Dans quel cas le courant continu haute tension est-il préféré à l'alternatif pour le transport ?",
+      "verso": "Pour les liaisons très longues et pour les câbles sous-marins, où le courant alternatif engendre des pertes supplémentaires",
+      "explanation": "Cette exception moderne à la domination de l'alternatif est rendue possible par l'électronique de puissance, qui permet aujourd'hui de convertir efficacement d'un régime à l'autre.",
+      "tags": [
+        "transport",
+        "technique"
+      ],
+      "distractors": {
+        "easy": [
+          "Pour toutes les installations domestiques",
+          "Pour les courtes distances en ville",
+          "Pour alimenter les appareils électroménagers"
+        ],
+        "medium": [
+          "Pour les lignes de distribution en zone rurale",
+          "Pour raccorder les centrales au réseau régional",
+          "Pour alimenter les transformateurs de quartier"
+        ],
+        "hard": [
+          "Pour les liaisons courtes où le transformateur est inutile",
+          "Pour les lignes aériennes de très haute tension exclusivement",
+          "Pour les raccordements où la fréquence doit être modifiée"
+        ]
+      }
+    },
+    {
+      "recto": "Que se passe-t-il si la consommation dépasse durablement la production sur un réseau ?",
+      "verso": "La fréquence du réseau chute, ce qui peut entraîner le déclenchement automatique de protections et provoquer une coupure généralisée",
+      "explanation": "Les gestionnaires disposent de moyens gradués pour éviter cet effondrement : appel aux réserves, effacement de consommation, puis délestage ciblé en dernier recours.",
+      "tags": [
+        "réseau",
+        "contraintes"
+      ],
+      "distractors": {
+        "easy": [
+          "Le prix de l'électricité augmente sans autre conséquence",
+          "Les câbles fondent immédiatement",
+          "Rien de particulier, le réseau s'adapte seul"
+        ],
+        "medium": [
+          "La tension augmente brutalement chez les usagers",
+          "La fréquence augmente jusqu'à endommager les appareils",
+          "Le courant change de sens sur l'ensemble du réseau"
+        ],
+        "hard": [
+          "La fréquence reste stable mais la tension chute progressivement",
+          "La fréquence chute puis se rétablit spontanément par inertie des alternateurs",
+          "Les pertes par effet Joule augmentent jusqu'à équilibrer le bilan"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on le délestage sur un réseau électrique ?",
+      "verso": "La coupure volontaire et ciblée de l'alimentation de certains usagers afin de rétablir l'équilibre entre production et consommation",
+      "explanation": "C'est une mesure de dernier recours, préférable à l'effondrement complet du réseau, dont le redémarrage prendrait plusieurs heures ou plusieurs jours.",
+      "tags": [
+        "réseau",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le déchargement des camions de matériel électrique",
+          "L'allègement des pylônes en cas de neige",
+          "La réduction du prix pendant les heures creuses"
+        ],
+        "medium": [
+          "L'arrêt volontaire d'une centrale pour maintenance",
+          "La réduction automatique de la tension chez tous les usagers",
+          "Le transfert d'électricité vers un pays voisin"
+        ],
+        "hard": [
+          "La coupure automatique provoquée par une surtension du réseau",
+          "La réduction de la production pour éviter un excédent",
+          "La coupure aléatoire d'usagers tirée au sort en temps réel"
+        ]
+      }
+    },
+    {
+      "recto": "Quel intérêt présente l'interconnexion des réseaux électriques européens ?",
+      "verso": "Elle permet de mutualiser les moyens de production et les aléas, chaque pays pouvant importer ou exporter selon ses besoins et ses excédents",
+      "explanation": "Elle réduit le besoin de capacités de réserve nationales, mais elle propage aussi les perturbations : un incident local peut se transmettre au réseau continental.",
+      "tags": [
+        "réseau",
+        "organisation"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle permet de vendre l'électricité plus cher aux voisins",
+          "Elle supprime le besoin de centrales dans chaque pays",
+          "Elle uniformise la couleur des pylônes en Europe"
+        ],
+        "medium": [
+          "Elle supprime totalement le risque de coupure généralisée",
+          "Elle permet d'utiliser des fréquences différentes selon les pays",
+          "Elle rend inutile le stockage d'électricité"
+        ],
+        "hard": [
+          "Elle mutualise les productions mais empêche toute propagation d'incident",
+          "Elle permet à chaque pays de fixer librement la fréquence de son réseau",
+          "Elle supprime les pertes en ligne aux frontières"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi rapproche-t-on parfois la production de la consommation ?",
+      "verso": "Parce que réduire la distance de transport diminue les pertes et allège les besoins d'infrastructure de réseau",
+      "explanation": "C'est l'un des arguments en faveur de la production décentralisée, qui pose en retour de nouveaux problèmes de pilotage et de stabilité du réseau.",
+      "tags": [
+        "réseau",
+        "évolution"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les usagers préfèrent voir les centrales",
+          "Parce que l'électricité perd de la valeur en voyageant",
+          "Parce que la loi impose une distance maximale"
+        ],
+        "medium": [
+          "Parce que l'électricité met trop de temps à parcourir de longues distances",
+          "Parce que la tension diminue naturellement avec la distance",
+          "Parce que la fréquence se dégrade sur les longues lignes"
+        ],
+        "hard": [
+          "Parce que les pertes augmentent avec le carré de la distance parcourue",
+          "Parce que la production décentralisée supprime tout besoin de pilotage",
+          "Parce que rapprocher la production permet de transporter en basse tension sans perte"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un réseau électrique intelligent ?",
+      "verso": "Un réseau doté de capteurs et de moyens de communication permettant d'ajuster en temps réel la production, le stockage et la consommation",
+      "explanation": "Son intérêt croît avec la part de production variable, car il permet de piloter la demande plutôt que de dimensionner l'offre pour la pointe.",
+      "tags": [
+        "réseau",
+        "évolution"
+      ],
+      "distractors": {
+        "easy": [
+          "Un réseau capable de réparer seul les câbles cassés",
+          "Un réseau dont les pylônes sont peints en couleur",
+          "Un réseau réservé aux ordinateurs"
+        ],
+        "medium": [
+          "Un réseau entièrement enterré et automatisé",
+          "Un réseau fonctionnant uniquement en courant continu",
+          "Un réseau alimenté exclusivement par des énergies renouvelables"
+        ],
+        "hard": [
+          "Un réseau qui supprime le besoin d'équilibrer production et consommation",
+          "Un réseau capable de stocker l'électricité dans ses propres câbles",
+          "Un réseau dont la fréquence s'adapte automatiquement à la demande"
+        ]
+      }
+    },
+    {
+      "recto": "Comment un compteur communicant contribue-t-il au fonctionnement du réseau ?",
+      "verso": "Il transmet des mesures de consommation détaillées, ce qui permet d'affiner le pilotage du réseau et de proposer une tarification incitant à déplacer les usages",
+      "explanation": "Il ne réduit pas la consommation par lui-même : c'est l'usage fait des informations, par l'usager comme par le gestionnaire, qui produit les économies.",
+      "tags": [
+        "réseau",
+        "technique"
+      ],
+      "distractors": {
+        "easy": [
+          "Il produit de l'électricité pour le logement",
+          "Il stocke l'électricité non consommée",
+          "Il réduit automatiquement la facture de moitié"
+        ],
+        "medium": [
+          "Il diminue à lui seul la consommation d'énergie du logement",
+          "Il convertit le courant alternatif en courant continu",
+          "Il augmente la puissance disponible dans le logement"
+        ],
+        "hard": [
+          "Il transmet des mesures et coupe automatiquement les appareils superflus",
+          "Il mesure la production locale sans transmettre la consommation",
+          "Il ajuste la tension du réseau au niveau du logement"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi le réseau doit-il être dimensionné pour la pointe de consommation ?",
+      "verso": "Parce que les lignes et les transformateurs doivent supporter le maximum de puissance appelée, même si ce maximum n'est atteint que quelques heures par an",
+      "explanation": "Ce surdimensionnement coûteux explique l'intérêt économique de tout dispositif capable d'écrêter la pointe, du stockage au pilotage de la demande.",
+      "tags": [
+        "réseau",
+        "contraintes"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les usagers consomment tous en même temps chaque jour",
+          "Parce que la loi impose une marge de sécurité de 50 pour cent",
+          "Parce que les câbles s'usent plus vite en été"
+        ],
+        "medium": [
+          "Parce que la consommation moyenne suffirait mais coûterait plus cher",
+          "Parce que la production est constante et la consommation variable",
+          "Parce que la fréquence du réseau dépend de la puissance installée"
+        ],
+        "hard": [
+          "Parce que les pertes par effet Joule sont maximales en période creuse",
+          "Parce que le dimensionnement se fait sur la consommation annuelle cumulée",
+          "Parce que la puissance de pointe correspond à la puissance moyenne multipliée par le facteur de charge"
+        ]
+      }
+    },
+    {
+      "recto": "Quel est l'ordre de grandeur de la tension des lignes de transport les plus puissantes en France ?",
+      "verso": "Plusieurs centaines de milliers de volts, jusqu'à 400 000 volts pour le réseau de très haute tension",
+      "explanation": "Comparé aux 230 volts du réseau domestique, ce niveau représente un facteur supérieur à mille, et donc une réduction des pertes considérable à puissance égale.",
+      "tags": [
+        "réseau",
+        "chiffres"
+      ],
+      "distractors": {
+        "easy": [
+          "Environ 230 volts, comme à la maison",
+          "Environ 1000 volts",
+          "Environ 12 volts"
+        ],
+        "medium": [
+          "Environ 20 000 volts",
+          "Environ 50 000 volts",
+          "Environ 5000 volts"
+        ],
+        "hard": [
+          "Environ 400 000 volts en courant continu uniquement",
+          "Environ 4 millions de volts",
+          "Environ 400 000 volts, valeur atteinte seulement en période de pointe"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi l'électricité ne peut-elle pas être dirigée vers un consommateur particulier sur le réseau ?",
+      "verso": "Parce qu'elle circule selon les lois de la physique dans l'ensemble du réseau maillé, sans qu'on puisse acheminer une production donnée vers un usager donné",
+      "explanation": "Les contrats d'électricité verte ne modifient donc pas les électrons reçus : ils garantissent qu'une quantité équivalente a été injectée dans le réseau.",
+      "tags": [
+        "réseau",
+        "analyse"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les compteurs ne savent pas mesurer l'origine",
+          "Parce que les fournisseurs ne le souhaitent pas",
+          "Parce que cela coûterait trop cher en câbles"
+        ],
+        "medium": [
+          "Parce que l'électricité circule trop vite pour être orientée",
+          "Parce que la réglementation interdit d'attribuer une production à un client",
+          "Parce que seul le courant continu pourrait être dirigé"
+        ],
+        "hard": [
+          "Parce que le maillage permettrait l'acheminement ciblé mais pas la mesure",
+          "Parce que l'électricité perd son origine en traversant un transformateur",
+          "Parce que la fréquence commune du réseau efface toute traçabilité physique"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la conséquence pratique du fait que les pertes varient comme le carré de l'intensité ?",
+      "verso": "Diviser l'intensité par un facteur donné divise les pertes par le carré de ce facteur, ce qui rend l'élévation de tension extrêmement efficace",
+      "explanation": "Diviser l'intensité par dix réduit les pertes d'un facteur cent. Aucun autre levier, ni le choix du métal ni l'épaississement des câbles, n'offre un tel gain.",
+      "tags": [
+        "effet Joule",
+        "synthèse"
+      ],
+      "distractors": {
+        "easy": [
+          "Les pertes diminuent proportionnellement à l'intensité",
+          "Les pertes restent constantes quelle que soit l'intensité",
+          "Les pertes augmentent quand l'intensité diminue"
+        ],
+        "medium": [
+          "Diviser l'intensité par dix divise les pertes par dix",
+          "Diviser l'intensité par deux divise les pertes par huit",
+          "Doubler l'intensité double les pertes"
+        ],
+        "hard": [
+          "Diviser l'intensité par dix divise les pertes par mille",
+          "Diviser l'intensité par dix divise les pertes par cent, mais seulement en courant continu",
+          "Diviser la tension par dix divise les pertes par cent"
+        ]
+      }
+    }
+  ]
+}

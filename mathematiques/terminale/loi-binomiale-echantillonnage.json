@@ -1,0 +1,692 @@
+{
+  "id": "mathematiques-terminale-loi-binomiale-echantillonnage",
+  "title": "Loi binomiale, concentration et loi des grands nombres",
+  "emoji": "📊",
+  "subject": "mathematics",
+  "country": "fr",
+  "courseDescription": "Spé Maths · Terminale — schéma de Bernoulli, loi binomiale et ses paramètres, somme de variables aléatoires, échantillonnage, inégalité de concentration et loi des grands nombres.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Loi binomiale, concentration et loi des grands nombres</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · spécialité Mathématiques<br>\n  <b>Thème&nbsp;:</b> Probabilités et statistiques<br>\n  <b>Chapitre</b> · environ 4 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> Pourquoi le hasard devient-il prévisible quand on le répète&nbsp;?</p></blockquote>\n\n<p>Un lancer de pièce est imprévisible&nbsp;; dix mille lancers donnent une proportion de piles que l'on peut annoncer d'avance à quelques millièmes près. Ce chapitre construit l'outil qui explique ce renversement. On commence par compter les succès d'une répétition d'épreuves — c'est la <strong>loi binomiale</strong> —, puis on mesure la dispersion d'une <strong>moyenne d'échantillon</strong>, et l'on démontre qu'elle s'effondre quand l'échantillon grandit. La <strong>loi des grands nombres</strong> est le point d'arrivée&nbsp;: elle justifie toute la statistique, du sondage au contrôle qualité.</p>\n\n<h2>1 · Le schéma de Bernoulli</h2>\n\n<div class=\"callout\">\n  <strong>Notion · Épreuve et schéma de Bernoulli</strong><br>\n  Une <em>épreuve de Bernoulli</em> est une expérience à deux issues, succès et échec, la probabilité de succès valant p.<br>\n  Un <em>schéma de Bernoulli</em> de paramètres n et p est la répétition de n épreuves de Bernoulli <strong>identiques et indépendantes</strong>.\n</div>\n\n<p>Trois mots portent toute l'hypothèse et doivent être vérifiés à chaque exercice&nbsp;: le nombre n est <strong>fixé à l'avance</strong>, les épreuves sont <strong>identiques</strong> (même p à chaque fois), et elles sont <strong>indépendantes</strong>. Le choix de ce qu'on appelle succès est libre&nbsp;: il désigne simplement l'événement que l'on compte.</p>\n\n<h2>2 · La loi binomiale</h2>\n\n<p>La variable aléatoire qui compte le <strong>nombre de succès</strong> d'un schéma de Bernoulli suit la <strong>loi binomiale de paramètres n et p</strong>. Elle prend ses valeurs parmi les entiers de 0 à n.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Loi binomiale</strong><br>\n  P(X = k) = «&nbsp;k parmi n&nbsp;» × p<sup>k</sup> × (1 − p)<sup>n−k</sup>, pour k entier compris entre 0 et n.\n</div>\n\n<p>La formule se lit en deux morceaux. Le produit des puissances est la probabilité d'<em>un</em> chemin précis comportant k succès&nbsp;: k branches de poids p, et n − k branches de poids 1 − p. Le coefficient binomial <strong>compte tous les chemins qui conviennent</strong>, puisqu'un chemin est déterminé par la position de ses succès. Ces chemins étant deux à deux incompatibles, on additionne — d'où la multiplication.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Arbre de trois épreuves de Bernoulli : les huit chemins possibles, dont trois portent exactement deux succès, ce qui illustre que le coefficient binomial deux parmi trois vaut trois et compte les chemins de même probabilité\">\n    <circle cx=\"16\" cy=\"88\" r=\"4\" fill=\"var(--accent)\"/>\n    <line x1=\"20\" y1=\"88\" x2=\"62\" y2=\"46\" stroke=\"var(--accent)\" stroke-opacity=\".55\"/>\n    <line x1=\"20\" y1=\"88\" x2=\"62\" y2=\"130\" stroke=\"currentColor\" stroke-opacity=\".3\"/>\n    <text x=\"30\" y=\"60\" font-size=\"8\" fill=\"var(--accent)\">p</text>\n    <line x1=\"62\" y1=\"46\" x2=\"104\" y2=\"24\" stroke=\"var(--accent)\" stroke-opacity=\".55\"/>\n    <line x1=\"62\" y1=\"46\" x2=\"104\" y2=\"68\" stroke=\"currentColor\" stroke-opacity=\".3\"/>\n    <line x1=\"62\" y1=\"130\" x2=\"104\" y2=\"108\" stroke=\"var(--accent)\" stroke-opacity=\".55\"/>\n    <line x1=\"62\" y1=\"130\" x2=\"104\" y2=\"152\" stroke=\"currentColor\" stroke-opacity=\".3\"/>\n    <line x1=\"104\" y1=\"24\" x2=\"146\" y2=\"12\" stroke=\"var(--accent)\" stroke-opacity=\".55\"/>\n    <line x1=\"104\" y1=\"24\" x2=\"146\" y2=\"34\" stroke=\"currentColor\" stroke-opacity=\".3\"/>\n    <line x1=\"104\" y1=\"68\" x2=\"146\" y2=\"56\" stroke=\"var(--accent)\" stroke-opacity=\".55\"/>\n    <line x1=\"104\" y1=\"68\" x2=\"146\" y2=\"78\" stroke=\"currentColor\" stroke-opacity=\".3\"/>\n    <line x1=\"104\" y1=\"108\" x2=\"146\" y2=\"96\" stroke=\"var(--accent)\" stroke-opacity=\".55\"/>\n    <line x1=\"104\" y1=\"108\" x2=\"146\" y2=\"118\" stroke=\"currentColor\" stroke-opacity=\".3\"/>\n    <line x1=\"104\" y1=\"152\" x2=\"146\" y2=\"140\" stroke=\"var(--accent)\" stroke-opacity=\".55\"/>\n    <line x1=\"104\" y1=\"152\" x2=\"146\" y2=\"162\" stroke=\"currentColor\" stroke-opacity=\".3\"/>\n    <text x=\"152\" y=\"15\" font-size=\"9\" fill=\"currentColor\">SSS</text>\n    <rect x=\"148\" y=\"26\" width=\"42\" height=\"14\" rx=\"7\" fill=\"var(--accent)\" fill-opacity=\".25\"/>\n    <text x=\"152\" y=\"37\" font-size=\"9\" fill=\"currentColor\">SSE</text>\n    <rect x=\"148\" y=\"48\" width=\"42\" height=\"14\" rx=\"7\" fill=\"var(--accent)\" fill-opacity=\".25\"/>\n    <text x=\"152\" y=\"59\" font-size=\"9\" fill=\"currentColor\">SES</text>\n    <text x=\"152\" y=\"81\" font-size=\"9\" fill=\"currentColor\">SEE</text>\n    <rect x=\"148\" y=\"88\" width=\"42\" height=\"14\" rx=\"7\" fill=\"var(--accent)\" fill-opacity=\".25\"/>\n    <text x=\"152\" y=\"99\" font-size=\"9\" fill=\"currentColor\">ESS</text>\n    <text x=\"152\" y=\"121\" font-size=\"9\" fill=\"currentColor\">ESE</text>\n    <text x=\"152\" y=\"143\" font-size=\"9\" fill=\"currentColor\">EES</text>\n    <text x=\"152\" y=\"165\" font-size=\"9\" fill=\"currentColor\">EEE</text>\n    <text x=\"206\" y=\"52\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">3 chemins</text>\n    <text x=\"206\" y=\"66\" font-size=\"10\" fill=\"currentColor\">portent 2 succès</text>\n    <text x=\"206\" y=\"88\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">2 parmi 3 = 3</text>\n    <text x=\"206\" y=\"108\" font-size=\"9\" class=\"s-muted\">chacun de probabilité</text>\n    <text x=\"206\" y=\"120\" font-size=\"9\" class=\"s-muted\">p au carré fois 1 − p</text>\n  </svg>\n  <figcaption>Le coefficient binomial ne fait rien d'autre que compter les chemins&nbsp;: la formule est un simple dénombrement.</figcaption>\n</figure>\n\n<h3>Espérance, variance, écart-type</h3>\n\n<p>Ces trois valeurs se retiennent sans démonstration&nbsp;:</p>\n\n<p style=\"text-align:center\"><strong>E(X) = np</strong>&nbsp;;&nbsp; <strong>V(X) = np(1 − p)</strong>&nbsp;;&nbsp; σ(X) = racine de np(1 − p)</p>\n\n<p>L'espérance s'interprète directement&nbsp;: sur n épreuves ayant chacune une chance p de réussir, on attend en moyenne np succès. Attention, cette moyenne n'est pas nécessairement un entier, alors que X, lui, ne prend que des valeurs entières.</p>\n\n<p>Le facteur 1 − p dans la variance traduit qu'une épreuve presque toujours gagnée — ou presque toujours perdue — produit très peu d'incertitude. La dispersion est <strong>maximale pour p = 0,5</strong>, où le produit p(1 − p) vaut un quart.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 165\" role=\"img\" aria-label=\"Diagrammes en bâtons de deux lois binomiales de même taille dix : celle de probabilité zéro virgule cinq est symétrique et centrée sur cinq, celle de probabilité zéro virgule deux est décalée vers la gauche et plus resserrée autour de deux\">\n    <text x=\"8\" y=\"12\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">n = 10, p = 0,5</text>\n    <line x1=\"8\" y1=\"80\" x2=\"160\" y2=\"80\" stroke=\"currentColor\" stroke-opacity=\".3\"/>\n    <rect x=\"14\" y=\"78\" width=\"10\" height=\"2\" fill=\"var(--accent)\" fill-opacity=\".55\"/>\n    <rect x=\"27\" y=\"74\" width=\"10\" height=\"6\" fill=\"var(--accent)\" fill-opacity=\".55\"/>\n    <rect x=\"40\" y=\"64\" width=\"10\" height=\"16\" fill=\"var(--accent)\" fill-opacity=\".55\"/>\n    <rect x=\"53\" y=\"49\" width=\"10\" height=\"31\" fill=\"var(--accent)\" fill-opacity=\".55\"/>\n    <rect x=\"66\" y=\"34\" width=\"10\" height=\"46\" fill=\"var(--accent)\" fill-opacity=\".55\"/>\n    <rect x=\"79\" y=\"28\" width=\"10\" height=\"52\" fill=\"var(--accent)\" fill-opacity=\".55\"/>\n    <rect x=\"92\" y=\"34\" width=\"10\" height=\"46\" fill=\"var(--accent)\" fill-opacity=\".55\"/>\n    <rect x=\"105\" y=\"49\" width=\"10\" height=\"31\" fill=\"var(--accent)\" fill-opacity=\".55\"/>\n    <rect x=\"118\" y=\"64\" width=\"10\" height=\"16\" fill=\"var(--accent)\" fill-opacity=\".55\"/>\n    <rect x=\"131\" y=\"74\" width=\"10\" height=\"6\" fill=\"var(--accent)\" fill-opacity=\".55\"/>\n    <rect x=\"144\" y=\"78\" width=\"10\" height=\"2\" fill=\"var(--accent)\" fill-opacity=\".55\"/>\n    <text x=\"84\" y=\"92\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">espérance 5</text>\n    <text x=\"180\" y=\"12\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">n = 10, p = 0,2</text>\n    <line x1=\"180\" y1=\"80\" x2=\"332\" y2=\"80\" stroke=\"currentColor\" stroke-opacity=\".3\"/>\n    <rect x=\"186\" y=\"53\" width=\"10\" height=\"27\" fill=\"var(--accent)\" fill-opacity=\".55\"/>\n    <rect x=\"199\" y=\"28\" width=\"10\" height=\"52\" fill=\"var(--accent)\" fill-opacity=\".55\"/>\n    <rect x=\"212\" y=\"30\" width=\"10\" height=\"50\" fill=\"var(--accent)\" fill-opacity=\".55\"/>\n    <rect x=\"225\" y=\"46\" width=\"10\" height=\"34\" fill=\"var(--accent)\" fill-opacity=\".55\"/>\n    <rect x=\"238\" y=\"62\" width=\"10\" height=\"18\" fill=\"var(--accent)\" fill-opacity=\".55\"/>\n    <rect x=\"251\" y=\"72\" width=\"10\" height=\"8\" fill=\"var(--accent)\" fill-opacity=\".55\"/>\n    <rect x=\"264\" y=\"77\" width=\"10\" height=\"3\" fill=\"var(--accent)\" fill-opacity=\".55\"/>\n    <rect x=\"277\" y=\"79\" width=\"10\" height=\"1\" fill=\"var(--accent)\" fill-opacity=\".55\"/>\n    <text x=\"230\" y=\"92\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">espérance 2</text>\n    <line x1=\"8\" y1=\"108\" x2=\"332\" y2=\"108\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"126\" font-size=\"9\" fill=\"currentColor\">Le profil est en cloche, centré autour de n fois p.</text>\n    <text x=\"8\" y=\"140\" font-size=\"9\" fill=\"currentColor\">Il n'est symétrique que pour p égal à un demi,</text>\n    <text x=\"8\" y=\"154\" font-size=\"9\" fill=\"currentColor\">valeur pour laquelle la dispersion est maximale.</text>\n  </svg>\n  <figcaption>Même nombre d'épreuves, deux probabilités de succès&nbsp;: le centre se déplace, la largeur change.</figcaption>\n</figure>\n\n<h3>Calculer avec la loi binomiale</h3>\n\n<p>La calculatrice fournit deux fonctions&nbsp;: la probabilité d'une <em>valeur exacte</em> et la probabilité <em>cumulée</em> jusqu'à une valeur. Toutes les autres questions s'y ramènent, au prix d'un décalage d'une unité qu'il faut soigner&nbsp;:</p>\n\n<ul>\n  <li>«&nbsp;au plus k&nbsp;» est le cumul jusqu'à k&nbsp;;</li>\n  <li>«&nbsp;moins de k&nbsp;» est le cumul jusqu'à k − 1&nbsp;;</li>\n  <li>«&nbsp;au moins k&nbsp;» vaut 1 moins le cumul jusqu'à k − 1&nbsp;;</li>\n  <li>«&nbsp;au moins un succès&nbsp;» vaut 1 − (1 − p)<sup>n</sup>, cas particulier commode.</li>\n</ul>\n\n<h2>3 · Sommes de variables aléatoires</h2>\n\n<p>Deux résultats gouvernent tout ce qui suit, et l'un est bien plus exigeant que l'autre.</p>\n\n<ul>\n  <li><strong>L'espérance est linéaire</strong>&nbsp;: E(X + Y) = E(X) + E(Y), <em>sans aucune hypothèse</em>. De même E(aX + b) = aE(X) + b.</li>\n  <li><strong>La variance n'est additive que si les variables sont indépendantes</strong>&nbsp;: alors V(X + Y) = V(X) + V(Y). Par ailleurs V(aX + b) = a²V(X)&nbsp;— la translation b ne change rien à la dispersion, et le coefficient a passe au carré.</li>\n</ul>\n\n<p>Ces règles redonnent les paramètres de la loi binomiale sans calcul&nbsp;: X est la somme de n variables indépendantes valant 1 en cas de succès et 0 sinon, chacune d'espérance p et de variance p(1 − p).</p>\n\n<h2>4 · Échantillonnage et concentration</h2>\n\n<p>Un <strong>échantillon de taille n</strong> d'une loi est une liste de n variables aléatoires <em>indépendantes</em> et suivant toutes <em>cette même loi</em>. Sa <strong>moyenne</strong> M<sub>n</sub> est la variable obtenue en additionnant les n variables et en divisant par n.</p>\n\n<p>Si la loi a pour espérance μ et pour écart-type σ, alors&nbsp;:</p>\n\n<p style=\"text-align:center\"><strong>E(M<sub>n</sub>) = μ</strong>&nbsp;;&nbsp; <strong>V(M<sub>n</sub>) = σ² / n</strong>&nbsp;;&nbsp; σ(M<sub>n</sub>) = σ / racine de n</p>\n\n<p>L'espérance ne dépend pas de n&nbsp;: la moyenne d'échantillon <strong>vise juste dès le départ</strong>. C'est la <em>dispersion</em> qui s'améliore avec n — et elle progresse en racine carrée, ce qui est une mauvaise nouvelle pratique&nbsp;: pour diviser l'incertitude par deux, il faut <strong>quadrupler</strong> l'échantillon.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Inégalité de Bienaymé-Tchebychev</strong><br>\n  Pour toute variable X d'espérance μ et de variance V, et tout réel a strictement positif&nbsp;:<br>\n  P(|X − μ| supérieur ou égal à a) est inférieur ou égal à V / a².\n</div>\n\n<p>Sa force est de ne <em>rien</em> supposer sur la loi&nbsp;; sa faiblesse est d'être très grossière — la majoration obtenue dépasse souvent largement la probabilité réelle, et peut même dépasser 1, auquel cas elle n'apprend rien.</p>\n\n<p>Appliquée à la moyenne d'échantillon, dont la variance vaut σ²/n, elle devient l'<strong>inégalité de concentration</strong>&nbsp;:</p>\n\n<p style=\"text-align:center\"><strong>P(|M<sub>n</sub> − μ| supérieur ou égal à a) est inférieur ou égal à σ² / (n a²)</strong></p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Trois échantillons de tailles croissantes cent, quatre cents et mille six cents : la plage des valeurs plausibles de la moyenne se resserre autour de l'espérance, sa largeur étant divisée par deux chaque fois que la taille est multipliée par quatre\">\n    <line x1=\"170\" y1=\"18\" x2=\"170\" y2=\"132\" stroke=\"var(--accent)\" stroke-opacity=\".5\" stroke-dasharray=\"3 3\"/>\n    <text x=\"170\" y=\"14\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">espérance</text>\n    <text x=\"8\" y=\"42\" font-size=\"9\" fill=\"currentColor\">n = 100</text>\n    <line x1=\"70\" y1=\"38\" x2=\"270\" y2=\"38\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"8\"/>\n    <text x=\"278\" y=\"41\" font-size=\"9\" class=\"s-muted\">large</text>\n    <text x=\"8\" y=\"78\" font-size=\"9\" fill=\"currentColor\">n = 400</text>\n    <line x1=\"120\" y1=\"74\" x2=\"220\" y2=\"74\" stroke=\"var(--accent)\" stroke-opacity=\".55\" stroke-width=\"8\"/>\n    <text x=\"278\" y=\"77\" font-size=\"9\" class=\"s-muted\">moitié</text>\n    <text x=\"8\" y=\"114\" font-size=\"9\" fill=\"currentColor\">n = 1600</text>\n    <line x1=\"145\" y1=\"110\" x2=\"195\" y2=\"110\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"8\"/>\n    <text x=\"278\" y=\"113\" font-size=\"9\" class=\"s-muted\">quart</text>\n    <line x1=\"8\" y1=\"140\" x2=\"332\" y2=\"140\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"158\" font-size=\"9\" fill=\"currentColor\">Multiplier la taille par 4 divise l'écart-type par 2 :</text>\n    <text x=\"8\" y=\"170\" font-size=\"9\" fill=\"currentColor\">la précision progresse en racine carrée de n, jamais plus vite.</text>\n  </svg>\n  <figcaption>La moyenne se concentre autour de l'espérance&nbsp;— lentement, mais sûrement.</figcaption>\n</figure>\n\n<h2>5 · La loi des grands nombres</h2>\n\n<div class=\"callout\">\n  <strong>Notion · Loi des grands nombres</strong><br>\n  Pour tout réel a strictement positif, P(|M<sub>n</sub> − μ| supérieur ou égal à a) tend vers 0 quand n tend vers l'infini.\n</div>\n\n<p>La démonstration tient en une ligne&nbsp;: le majorant σ²/(n a²) de l'inégalité de concentration tend vers zéro à a fixé. L'énoncé dit exactement ceci — <strong>pour un écart toléré fixé d'avance</strong>, la probabilité de le dépasser devient aussi petite qu'on veut si l'échantillon est assez grand.</p>\n\n<p>C'est le fondement de toute la statistique inférentielle&nbsp;: estimer une proportion inconnue par la <strong>fréquence observée</strong> dans un échantillon, laquelle n'est rien d'autre que la moyenne de variables valant 0 ou 1. C'est aussi ce qui donne un sens à la phrase courante «&nbsp;sur un grand nombre de parties, le casino gagne&nbsp;»&nbsp;: chaque partie reste imprévisible, la moyenne ne l'est plus.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>La démarche</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Frise méthodique d'un exercice de loi binomiale : vérifier les trois hypothèses du schéma de Bernoulli, nommer le succès et la variable de comptage, écrire la loi suivie avec ses deux paramètres, traduire la question en cumul de calculatrice, puis conclure par l'espérance ou la concentration\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"176\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">1. Vérifier les hypothèses</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">n fixé, identiques, indépendantes</text>\n    <circle cx=\"26\" cy=\"60\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"57\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">2. Nommer le succès</text>\n    <text x=\"44\" y=\"70\" font-size=\"10\" fill=\"currentColor\">Et donner sa probabilité p</text>\n    <circle cx=\"26\" cy=\"100\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"97\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">3. Écrire la loi</text>\n    <text x=\"44\" y=\"110\" font-size=\"10\" fill=\"currentColor\">X compte les succès, paramètres n et p</text>\n    <circle cx=\"26\" cy=\"140\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"137\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">4. Traduire la question</text>\n    <text x=\"44\" y=\"150\" font-size=\"10\" fill=\"currentColor\">Au plus, au moins, moins de</text>\n    <circle cx=\"26\" cy=\"176\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"173\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">5. Interpréter</text>\n    <text x=\"44\" y=\"186\" font-size=\"10\" fill=\"currentColor\">Espérance, dispersion, concentration</text>\n  </svg>\n  <figcaption>L'étape 1 se rédige&nbsp;: elle vaut des points même quand elle paraît évidente.</figcaption>\n</figure>\n\n<h3>Formules à connaître</h3>\n\n<table>\n  <tr><th>Objet</th><th>Formule</th></tr>\n  <tr><td>Loi binomiale</td><td>P(X = k) = «&nbsp;k parmi n&nbsp;» p<sup>k</sup>(1 − p)<sup>n−k</sup></td></tr>\n  <tr><td>Espérance et variance</td><td>E(X) = np&nbsp;; V(X) = np(1 − p)</td></tr>\n  <tr><td>Au moins un succès</td><td>1 − (1 − p)<sup>n</sup></td></tr>\n  <tr><td>Somme de variables</td><td>E additive toujours&nbsp;; V additive si indépendance</td></tr>\n  <tr><td>Moyenne d'échantillon</td><td>E(M<sub>n</sub>) = μ&nbsp;; σ(M<sub>n</sub>) = σ / racine de n</td></tr>\n  <tr><td>Concentration</td><td>P(écart supérieur ou égal à a) inférieur ou égal à σ²/(n a²)</td></tr>\n</table>\n\n<h3>Notions à distinguer</h3>\n\n<table>\n  <tr><th>Distinction</th><th>Ce qui se joue</th></tr>\n  <tr><td>Avec remise / sans remise</td><td>Loi binomiale valable ou non</td></tr>\n  <tr><td>«&nbsp;moins de k&nbsp;» / «&nbsp;au plus k&nbsp;»</td><td>Cumul jusqu'à k − 1 ou jusqu'à k</td></tr>\n  <tr><td>Espérance / variance d'une somme</td><td>Sans condition contre indépendance requise</td></tr>\n  <tr><td>Justesse / précision</td><td>E(M<sub>n</sub>) fixe, σ(M<sub>n</sub>) décroissante</td></tr>\n  <tr><td>Concentration / loi des grands nombres</td><td>Une majoration contre une limite</td></tr>\n</table>\n\n<h3>Ordres de grandeur</h3>\n\n<table>\n  <tr><th>Situation</th><th>Résultat</th></tr>\n  <tr><td>n = 100, p = 0,5</td><td>E = 50, σ = 5</td></tr>\n  <tr><td>n = 400, p = 0,5</td><td>E = 200, σ = 10</td></tr>\n  <tr><td>Écart-type d'une fréquence, n = 1000</td><td>environ 1,6&nbsp;% pour p = 0,5</td></tr>\n  <tr><td>Diviser l'incertitude par 2</td><td>Multiplier n par 4</td></tr>\n  <tr><td>Variance maximale à n fixé</td><td>Pour p = 0,5</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Appliquer la loi binomiale à un <strong>tirage sans remise</strong>. Prélever plusieurs objets dans une urne modifie sa composition à chaque tirage&nbsp;: les épreuves ne sont plus indépendantes, et le modèle tombe. Il ne redevient une approximation acceptable que si la population est très grande devant le prélèvement. Deux erreurs voisines&nbsp;: se tromper d'une unité en traduisant «&nbsp;moins de k&nbsp;» en cumul&nbsp;; et additionner des variances sans avoir vérifié l'indépendance, alors que l'espérance, elle, s'additionne toujours.\n</div>\n\n<blockquote><p>Le hasard ne disparaît pas quand on le répète&nbsp;: il se déplace. L'issue d'une épreuve reste imprévisible, mais la moyenne de mille épreuves devient un objet presque certain&nbsp;— et c'est sur cette quasi-certitude que reposent les sondages, les assurances et le contrôle qualité.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Spécialité Mathématiques — Probabilités et statistiques",
+  "cards": [
+    {
+      "recto": "Qu'appelle-t-on une épreuve de Bernoulli ?",
+      "verso": "Une expérience aléatoire n'ayant que deux issues, appelées succès et échec",
+      "explanation": "Le choix de ce qu'on nomme succès est libre et purement conventionnel : il fixe simplement quel événement sera compté. Toute expérience peut être ramenée à ce cadre en regroupant ses issues en deux catégories.",
+      "tags": [
+        "Bernoulli",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Une expérience aléatoire ayant un grand nombre d'issues",
+          "Une expérience répétée une infinité de fois",
+          "Une expérience dont le résultat est certain"
+        ],
+        "medium": [
+          "Une expérience aléatoire dont les issues sont équiprobables",
+          "Une expérience aléatoire répétée n fois de façon indépendante",
+          "Une expérience aléatoire à trois issues dont l'une est neutre"
+        ],
+        "hard": [
+          "Une expérience à deux issues, à condition que leurs probabilités soient égales",
+          "Une expérience à deux issues, dont la probabilité de succès est strictement inférieure à un demi",
+          "Une expérience à deux issues, dont on répète l'observation jusqu'au premier succès"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on un schéma de Bernoulli de paramètres n et p ?",
+      "verso": "La répétition de n épreuves de Bernoulli identiques et indépendantes, de même probabilité de succès p",
+      "explanation": "Les trois mots comptent : n fixé à l'avance, épreuves identiques, épreuves indépendantes. Retirer l'une de ces hypothèses fait sortir du cadre binomial, même si l'expérience ressemble beaucoup à ce cadre.",
+      "tags": [
+        "Bernoulli",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Une seule épreuve à deux issues",
+          "Une suite d'épreuves dont les probabilités augmentent",
+          "Un tirage d'un seul objet dans une urne"
+        ],
+        "medium": [
+          "La répétition de n épreuves identiques, l'indépendance n'étant pas requise",
+          "La répétition d'épreuves jusqu'à l'obtention du premier succès",
+          "La répétition de n épreuves indépendantes de probabilités de succès différentes"
+        ],
+        "hard": [
+          "La répétition de n épreuves identiques et indépendantes, le nombre n étant lui-même aléatoire",
+          "La répétition de n épreuves indépendantes, la probabilité de succès pouvant varier autour de p",
+          "La répétition de n épreuves identiques et indépendantes, à condition que p soit différent d'un demi"
+        ]
+      }
+    },
+    {
+      "recto": "Que représente la variable aléatoire qui suit une loi binomiale de paramètres n et p ?",
+      "verso": "Le nombre de succès obtenus au cours des n épreuves du schéma de Bernoulli",
+      "explanation": "Elle compte les succès sans tenir compte de l'ordre dans lequel ils apparaissent, ce qui est précisément la raison de la présence d'un coefficient binomial dans sa loi. Ses valeurs possibles sont tous les entiers de 0 à n inclus.",
+      "tags": [
+        "loi binomiale",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Le nombre d'épreuves réalisées",
+          "La probabilité de succès d'une épreuve",
+          "Le rang du premier succès obtenu"
+        ],
+        "medium": [
+          "Le nombre d'échecs obtenus avant le premier succès",
+          "La proportion de succès parmi les n épreuves",
+          "L'écart entre le nombre de succès et le nombre d'échecs"
+        ],
+        "hard": [
+          "Le nombre de succès, à condition qu'ils soient consécutifs",
+          "Le nombre de succès obtenus, l'ordre d'apparition étant pris en compte",
+          "Le nombre de succès obtenus lors des n premières épreuves d'une suite infinie non indépendante"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle formule donne la probabilité d'obtenir exactement k succès pour une loi binomiale de paramètres n et p ?",
+      "verso": "Le coefficient binomial k parmi n, multiplié par p puissance k, multiplié par 1 moins p puissance n moins k",
+      "explanation": "Le produit des puissances est la probabilité d'un chemin particulier comportant k succès, et le coefficient binomial compte tous les chemins qui conviennent. Oublier le coefficient revient à ne compter qu'un seul ordre d'apparition.",
+      "tags": [
+        "loi binomiale",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "p puissance k multiplié par 1 moins p puissance n",
+          "n multiplié par p puissance k",
+          "k divisé par n, multiplié par p"
+        ],
+        "medium": [
+          "p puissance k multiplié par 1 moins p puissance n moins k, sans coefficient",
+          "Le coefficient binomial k parmi n, multiplié par p puissance n",
+          "Le coefficient binomial k parmi n, divisé par p puissance k"
+        ],
+        "hard": [
+          "Le coefficient binomial k parmi n, multiplié par p puissance n moins k, multiplié par 1 moins p puissance k",
+          "Le coefficient binomial n parmi k, multiplié par p puissance k, multiplié par 1 moins p puissance n moins k",
+          "Le coefficient binomial k parmi n, multiplié par p puissance k, multiplié par 1 moins p puissance n"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi un coefficient binomial apparaît-il dans la loi binomiale ?",
+      "verso": "Parce qu'il compte les chemins de l'arbre qui portent exactement k succès, tous de même probabilité",
+      "explanation": "Un chemin est entièrement déterminé par les positions de ses succès, c'est-à-dire par une partie à k éléments de l'ensemble des n épreuves. Les chemins étant incompatibles, leurs probabilités s'additionnent, ce qui donne la multiplication par le coefficient.",
+      "tags": [
+        "loi binomiale",
+        "justification"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'il faut diviser par le nombre d'épreuves",
+          "Parce que les probabilités doivent rester inférieures à 1",
+          "Parce que la formule serait fausse pour k égal à zéro"
+        ],
+        "medium": [
+          "Parce qu'il compte les issues possibles d'une seule épreuve",
+          "Parce qu'il corrige la dépendance entre les épreuves",
+          "Parce qu'il compte les chemins de l'arbre, tous de probabilités différentes"
+        ],
+        "hard": [
+          "Parce qu'il compte les chemins portant k succès consécutifs",
+          "Parce qu'il compte les ordres d'apparition possibles, qu'il faut ensuite éliminer par division",
+          "Parce qu'il compte les parties de l'ensemble des épreuves, toutes tailles confondues"
+        ]
+      }
+    },
+    {
+      "recto": "Que vaut l'espérance d'une variable aléatoire suivant la loi binomiale de paramètres n et p ?",
+      "verso": "Le produit de n par p",
+      "explanation": "Le résultat s'interprète immédiatement : sur n épreuves ayant chacune une chance p de réussir, on attend en moyenne n fois p succès. Cette espérance n'est pas nécessairement un entier, alors que la variable, elle, ne prend que des valeurs entières.",
+      "tags": [
+        "loi binomiale",
+        "espérance"
+      ],
+      "distractors": {
+        "easy": [
+          "La somme de n et de p",
+          "Le quotient de n par p",
+          "La valeur p seule"
+        ],
+        "medium": [
+          "Le produit de n par p, multiplié par 1 moins p",
+          "Le produit de n par 1 moins p",
+          "La racine carrée du produit de n par p"
+        ],
+        "hard": [
+          "Le produit de n par p, arrondi à l'entier le plus proche",
+          "Le produit de n moins 1 par p",
+          "Le produit de n par p, divisé par 1 moins p"
+        ]
+      }
+    },
+    {
+      "recto": "Que valent la variance et l'écart-type d'une loi binomiale de paramètres n et p ?",
+      "verso": "La variance vaut n multiplié par p multiplié par 1 moins p, et l'écart-type en est la racine carrée",
+      "explanation": "Le facteur 1 moins p traduit qu'une épreuve presque certaine, dans un sens ou dans l'autre, produit très peu de dispersion. La variance est maximale pour p égal à un demi, situation la plus imprévisible.",
+      "tags": [
+        "loi binomiale",
+        "variance"
+      ],
+      "distractors": {
+        "easy": [
+          "La variance vaut n multiplié par p, et l'écart-type vaut n",
+          "La variance vaut p, et l'écart-type vaut 1 moins p",
+          "La variance et l'écart-type valent tous deux n multiplié par p"
+        ],
+        "medium": [
+          "La variance vaut n multiplié par p au carré, et l'écart-type en est la racine",
+          "La variance vaut la racine de n multiplié par p multiplié par 1 moins p",
+          "La variance vaut n multiplié par 1 moins p, et l'écart-type en est le carré"
+        ],
+        "hard": [
+          "La variance vaut n multiplié par p multiplié par 1 moins p, et l'écart-type vaut son carré",
+          "La variance vaut n moins 1, multiplié par p multiplié par 1 moins p",
+          "La variance vaut n multiplié par p multiplié par 1 moins p, divisé par n"
+        ]
+      }
+    },
+    {
+      "recto": "Pour quelle valeur de p la loi binomiale est-elle la plus dispersée, à n fixé ?",
+      "verso": "Pour p égal à un demi, valeur qui maximise le produit p par 1 moins p",
+      "explanation": "Le produit p par 1 moins p est une fonction du second degré maximale en un demi, où il vaut un quart. Intuitivement, une pièce équilibrée est l'expérience dont le résultat est le plus difficile à anticiper.",
+      "tags": [
+        "loi binomiale",
+        "propriété"
+      ],
+      "distractors": {
+        "easy": [
+          "Pour p égal à 1",
+          "Pour p égal à 0",
+          "Pour p égal à n"
+        ],
+        "medium": [
+          "Pour p le plus proche possible de 1",
+          "Pour p égal à 1 divisé par n",
+          "Pour p égal à un tiers"
+        ],
+        "hard": [
+          "Pour p égal à un demi, où la variance vaut n divisé par 2",
+          "Pour p égal à un demi, mais seulement lorsque n est pair",
+          "Pour p égal à un quart, valeur qui maximise le produit p par 1 moins p"
+        ]
+      }
+    },
+    {
+      "recto": "Comment calcule-t-on la probabilité d'obtenir au moins un succès dans un schéma de Bernoulli ?",
+      "verso": "En retranchant à 1 la probabilité d'obtenir zéro succès, c'est-à-dire 1 moins 1 moins p puissance n",
+      "explanation": "L'événement contraire de au moins un succès est aucun succès, qui ne correspond qu'à un seul chemin. Cette technique du complémentaire évite d'additionner toutes les valeurs de 1 à n.",
+      "tags": [
+        "méthode",
+        "complémentaire"
+      ],
+      "distractors": {
+        "easy": [
+          "En additionnant les probabilités de tous les succès possibles un par un",
+          "En multipliant p par n",
+          "En prenant directement la valeur de p"
+        ],
+        "medium": [
+          "En retranchant à 1 la probabilité d'obtenir exactement un succès",
+          "En retranchant à 1 la probabilité d'obtenir n succès",
+          "En calculant 1 moins p puissance n"
+        ],
+        "hard": [
+          "En retranchant à 1 la probabilité d'obtenir zéro succès, soit 1 moins p puissance n",
+          "En retranchant à 1 la probabilité d'obtenir au plus un succès",
+          "En retranchant à 1 la probabilité d'obtenir zéro succès, puis en divisant par n"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : comment se traduisent en écriture probabiliste les expressions au plus k succès, moins de k succès et au moins k succès ?",
+      "verso": "Au plus k signifie inférieur ou égal à k, moins de k signifie inférieur ou égal à k moins 1, et au moins k signifie 1 moins la probabilité d'être inférieur ou égal à k moins 1",
+      "explanation": "La variable ne prenant que des valeurs entières, une inégalité stricte se ramène toujours à une inégalité large en décalant d'une unité. C'est exactement à ce décalage que se jouent la plupart des erreurs de calculatrice sur ce chapitre.",
+      "tags": [
+        "comparaison",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Les trois expressions désignent la même probabilité",
+          "Au plus k et au moins k sont deux façons de dire exactement k",
+          "Moins de k signifie strictement supérieur à k"
+        ],
+        "medium": [
+          "Au plus k signifie inférieur ou égal à k, moins de k signifie inférieur ou égal à k, et au moins k signifie supérieur à k",
+          "Au plus k signifie inférieur à k, moins de k signifie inférieur ou égal à k, et au moins k signifie supérieur ou égal à k plus 1",
+          "Au plus k signifie inférieur ou égal à k moins 1, moins de k signifie inférieur ou égal à k, et au moins k signifie 1 moins la probabilité d'être inférieur ou égal à k"
+        ],
+        "hard": [
+          "Au plus k signifie inférieur ou égal à k, moins de k signifie inférieur ou égal à k moins 1, et au moins k signifie 1 moins la probabilité d'être inférieur ou égal à k",
+          "Au plus k signifie inférieur ou égal à k, moins de k signifie inférieur ou égal à k moins 1, et au moins k signifie la probabilité d'être supérieur à k",
+          "Au plus k signifie inférieur ou égal à k plus 1, moins de k signifie inférieur ou égal à k, et au moins k signifie 1 moins la probabilité d'être inférieur ou égal à k moins 1"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : un tirage de plusieurs objets sans remise dans une urne suit-il une loi binomiale ?",
+      "verso": "Non, car les tirages ne sont pas indépendants : la composition de l'urne change à chaque tirage",
+      "explanation": "La loi binomiale exige des épreuves identiques et indépendantes, ce que seul le tirage avec remise garantit. On peut toutefois l'utiliser comme approximation lorsque la population est très grande devant le nombre d'objets prélevés.",
+      "tags": [
+        "piege",
+        "modélisation"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, tout tirage dans une urne suit une loi binomiale",
+          "Oui, car il n'y a que deux catégories d'objets",
+          "Non, car la loi binomiale ne concerne que les pièces de monnaie"
+        ],
+        "medium": [
+          "Oui, à condition que l'urne contienne un nombre pair d'objets",
+          "Non, car les épreuves ne sont pas identiques, mais elles restent indépendantes",
+          "Oui, car l'ordre des tirages n'intervient pas dans le comptage des succès"
+        ],
+        "hard": [
+          "Non, mais l'approximation binomiale devient valable lorsque le nombre d'objets prélevés est grand devant la population",
+          "Non, sauf si la proportion de succès dans l'urne vaut exactement un demi",
+          "Oui, car la probabilité de succès reste égale à la proportion initiale à chaque tirage"
+        ]
+      }
+    },
+    {
+      "recto": "Comment se comportent les probabilités d'une loi binomiale lorsqu'on échange les rôles du succès et de l'échec ?",
+      "verso": "La loi de paramètres n et p devient celle de paramètres n et 1 moins p, le nombre d'échecs remplaçant le nombre de succès",
+      "explanation": "Compter les échecs revient à compter n moins le nombre de succès, ce qui explique la symétrie du diagramme lorsque p vaut un demi. Cette remarque permet parfois d'alléger un calcul en travaillant sur l'événement le moins probable.",
+      "tags": [
+        "loi binomiale",
+        "propriété"
+      ],
+      "distractors": {
+        "easy": [
+          "La loi reste strictement la même",
+          "La loi devient de paramètres p et n échangés",
+          "La loi cesse d'être une loi binomiale"
+        ],
+        "medium": [
+          "La loi devient de paramètres n moins 1 et p",
+          "La loi devient de paramètres n et p au carré",
+          "La loi devient de paramètres 1 moins n et p"
+        ],
+        "hard": [
+          "La loi devient de paramètres n et 1 moins p, mais l'espérance reste égale à n multiplié par p",
+          "La loi devient de paramètres n et 1 moins p, et la variance en est modifiée",
+          "La loi devient de paramètres n et 1 moins p, à condition que p soit inférieur à un demi"
+        ]
+      }
+    },
+    {
+      "recto": "Que vaut l'espérance de la somme de deux variables aléatoires ?",
+      "verso": "La somme de leurs espérances, sans aucune hypothèse d'indépendance",
+      "explanation": "La linéarité de l'espérance est valable en toutes circonstances, ce qui en fait l'outil le plus robuste du chapitre. C'est ainsi qu'on retrouve l'espérance de la loi binomiale en sommant n variables valant 0 ou 1.",
+      "tags": [
+        "variables aléatoires",
+        "espérance"
+      ],
+      "distractors": {
+        "easy": [
+          "Le produit de leurs espérances",
+          "La plus grande de leurs espérances",
+          "La moyenne de leurs espérances"
+        ],
+        "medium": [
+          "La somme de leurs espérances, à condition qu'elles soient indépendantes",
+          "La somme de leurs espérances, diminuée de leur covariance",
+          "La somme de leurs variances"
+        ],
+        "hard": [
+          "La somme de leurs espérances, à condition que les variables prennent des valeurs positives",
+          "La somme de leurs espérances, divisée par le nombre de variables",
+          "La somme de leurs espérances, à condition qu'elles suivent la même loi"
+        ]
+      }
+    },
+    {
+      "recto": "Sous quelle condition la variance d'une somme de variables aléatoires est-elle la somme de leurs variances ?",
+      "verso": "Il faut que les variables soient indépendantes",
+      "explanation": "Contrairement à l'espérance, l'additivité de la variance n'est pas gratuite : sans indépendance, un terme de covariance s'ajoute. C'est cette hypothèse qui permet de calculer la variance de la loi binomiale et celle d'une moyenne d'échantillon.",
+      "tags": [
+        "variables aléatoires",
+        "variance"
+      ],
+      "distractors": {
+        "easy": [
+          "Aucune condition n'est nécessaire",
+          "Il faut que les variables aient la même espérance",
+          "Il faut que les variables soient positives"
+        ],
+        "medium": [
+          "Il faut que les variables suivent une loi binomiale",
+          "Il faut que les variables soient incompatibles",
+          "Il faut que les variables aient la même variance"
+        ],
+        "hard": [
+          "Il faut que les variables soient indépendantes et de même loi",
+          "Il faut que les variables soient indépendantes et d'espérance nulle",
+          "Il faut que les variables soient deux à deux non corrélées et d'écarts-types égaux"
+        ]
+      }
+    },
+    {
+      "recto": "Que valent l'espérance et la variance de la variable obtenue en multipliant une variable aléatoire par a puis en ajoutant b ?",
+      "verso": "L'espérance est multipliée par a puis augmentée de b, tandis que la variance est multipliée par a au carré, le nombre b n'ayant aucun effet",
+      "explanation": "Une translation déplace toute la distribution sans modifier sa dispersion, d'où la disparition de b dans la variance. Le carré vient de ce que la variance mesure des écarts élevés au carré : l'écart-type, lui, est multiplié par la valeur absolue de a.",
+      "tags": [
+        "variables aléatoires",
+        "transformation"
+      ],
+      "distractors": {
+        "easy": [
+          "L'espérance et la variance sont toutes deux multipliées par a puis augmentées de b",
+          "Ni l'espérance ni la variance ne changent",
+          "L'espérance ne change pas, la variance est multipliée par a"
+        ],
+        "medium": [
+          "L'espérance est multipliée par a puis augmentée de b, la variance est multipliée par a",
+          "L'espérance est multipliée par a, la variance est multipliée par a au carré puis augmentée de b",
+          "L'espérance est augmentée de b, la variance est multipliée par a au carré puis augmentée de b au carré"
+        ],
+        "hard": [
+          "L'espérance est multipliée par a puis augmentée de b, la variance est multipliée par la valeur absolue de a",
+          "L'espérance est multipliée par a puis augmentée de b, l'écart-type est multiplié par a au carré",
+          "L'espérance est multipliée par a puis augmentée de b, la variance est multipliée par a au carré, sauf si a est négatif"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on un échantillon de taille n d'une loi de probabilité ?",
+      "verso": "Une liste de n variables aléatoires indépendantes suivant toutes cette même loi",
+      "explanation": "La notion modélise la répétition d'une même expérience dans des conditions identiques et sans influence mutuelle. Les deux mots indépendantes et de même loi sont les hypothèses qui rendent possibles tous les résultats de fin de chapitre.",
+      "tags": [
+        "échantillonnage",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Une liste de n nombres réels choisis au hasard",
+          "Un sous-ensemble de n individus d'une population",
+          "Une variable aléatoire prenant n valeurs"
+        ],
+        "medium": [
+          "Une liste de n variables aléatoires de même espérance, sans hypothèse d'indépendance",
+          "Une liste de n variables aléatoires indépendantes, de lois éventuellement différentes",
+          "Une liste de n valeurs observées lors d'une expérience"
+        ],
+        "hard": [
+          "Une liste de n variables aléatoires indépendantes suivant toutes une loi binomiale",
+          "Une liste de n variables aléatoires deux à deux incompatibles suivant la même loi",
+          "Une liste de n variables aléatoires de même loi, dont seule la moyenne est aléatoire"
+        ]
+      }
+    },
+    {
+      "recto": "Que vaut l'espérance de la moyenne d'un échantillon de taille n issu d'une loi d'espérance donnée ?",
+      "verso": "Elle est égale à l'espérance de la loi elle-même, quelle que soit la taille de l'échantillon",
+      "explanation": "La moyenne d'échantillon vise donc juste, en moyenne, dès la première observation : elle n'est pas biaisée. Augmenter n n'améliore pas la justesse, mais la précision, comme le montre le calcul de la variance.",
+      "tags": [
+        "échantillonnage",
+        "espérance"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle vaut zéro",
+          "Elle vaut n multiplié par l'espérance de la loi",
+          "Elle vaut 1 divisé par n"
+        ],
+        "medium": [
+          "Elle vaut l'espérance de la loi divisée par n",
+          "Elle vaut l'espérance de la loi multipliée par la racine de n",
+          "Elle vaut l'espérance de la loi, seulement pour n assez grand"
+        ],
+        "hard": [
+          "Elle vaut l'espérance de la loi, à condition que la variance soit finie et non nulle",
+          "Elle tend vers l'espérance de la loi quand n devient grand, sans lui être égale",
+          "Elle vaut l'espérance de la loi divisée par la racine de n"
+        ]
+      }
+    },
+    {
+      "recto": "Que valent la variance et l'écart-type de la moyenne d'un échantillon de taille n ?",
+      "verso": "La variance est celle de la loi divisée par n, et l'écart-type est celui de la loi divisé par la racine carrée de n",
+      "explanation": "Ce résultat vient de l'additivité de la variance pour des variables indépendantes, combinée à la multiplication par 1 sur n qui élève au carré. Il explique pourquoi il faut quadrupler la taille d'un échantillon pour diviser par deux son incertitude.",
+      "tags": [
+        "échantillonnage",
+        "variance"
+      ],
+      "distractors": {
+        "easy": [
+          "La variance et l'écart-type sont ceux de la loi, inchangés",
+          "La variance est multipliée par n, l'écart-type aussi",
+          "La variance vaut n et l'écart-type vaut la racine de n"
+        ],
+        "medium": [
+          "La variance est divisée par la racine de n, l'écart-type par n",
+          "La variance est divisée par n au carré, l'écart-type par n",
+          "La variance est divisée par n, l'écart-type est divisé par n également"
+        ],
+        "hard": [
+          "La variance est divisée par n moins 1, et l'écart-type par la racine de n moins 1",
+          "La variance est divisée par n, et l'écart-type est celui de la loi divisé par n au carré",
+          "La variance est divisée par n, à condition que la loi soit une loi binomiale"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'énonce l'inégalité de Bienaymé-Tchebychev ?",
+      "verso": "La probabilité que l'écart entre une variable et son espérance atteigne un seuil est majorée par la variance divisée par le carré de ce seuil",
+      "explanation": "Sa force est de ne rien exiger de la loi : elle vaut pour n'importe quelle variable de variance connue. Sa faiblesse est d'être très grossière — la majoration obtenue dépasse souvent largement la probabilité réelle, et peut même dépasser 1.",
+      "tags": [
+        "concentration",
+        "théorème"
+      ],
+      "distractors": {
+        "easy": [
+          "La probabilité d'un écart est toujours nulle",
+          "L'écart entre une variable et son espérance est majoré par sa variance",
+          "La variance est toujours inférieure à l'espérance"
+        ],
+        "medium": [
+          "La probabilité d'un écart est majorée par la variance divisée par le seuil",
+          "La probabilité d'un écart est majorée par l'écart-type divisé par le carré du seuil",
+          "La probabilité d'un écart est minorée par la variance divisée par le carré du seuil"
+        ],
+        "hard": [
+          "La probabilité d'un écart est majorée par la variance divisée par le carré du seuil, à condition que ce seuil dépasse l'écart-type",
+          "La probabilité d'un écart est majorée par le carré de la variance divisé par le seuil",
+          "La probabilité d'un écart est majorée par la variance divisée par le carré du seuil, uniquement pour une loi binomiale"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'affirme l'inégalité de concentration appliquée à la moyenne d'un échantillon ?",
+      "verso": "La probabilité que la moyenne s'écarte de l'espérance d'au moins un seuil donné est majorée par la variance de la loi divisée par le produit de n et du carré du seuil",
+      "explanation": "C'est l'inégalité de Bienaymé-Tchebychev appliquée à la moyenne, dont la variance vaut celle de la loi divisée par n. Le facteur n au dénominateur est l'ingrédient décisif : la majoration s'effondre quand l'échantillon grandit.",
+      "tags": [
+        "concentration",
+        "théorème"
+      ],
+      "distractors": {
+        "easy": [
+          "La moyenne d'un échantillon est toujours égale à l'espérance",
+          "La probabilité d'un écart augmente avec la taille de l'échantillon",
+          "La moyenne d'un échantillon ne dépend pas de la loi"
+        ],
+        "medium": [
+          "La probabilité d'un écart est majorée par la variance divisée par le carré du seuil, sans facteur n",
+          "La probabilité d'un écart est majorée par la variance divisée par le produit de la racine de n et du seuil",
+          "La probabilité d'un écart est majorée par n multiplié par la variance, divisé par le carré du seuil"
+        ],
+        "hard": [
+          "La probabilité d'un écart est majorée par la variance divisée par le produit de n et du seuil",
+          "La probabilité d'un écart est majorée par la variance divisée par le produit de n moins 1 et du carré du seuil",
+          "La probabilité d'un écart est majorée par l'écart-type divisé par le produit de n et du carré du seuil"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'énonce la loi des grands nombres ?",
+      "verso": "La probabilité que la moyenne d'un échantillon s'écarte de l'espérance d'au moins un seuil fixé tend vers zéro lorsque la taille de l'échantillon tend vers l'infini",
+      "explanation": "Elle se déduit directement de l'inégalité de concentration, dont le majorant tend vers zéro à seuil fixé. Elle justifie mathématiquement le fait d'estimer une espérance inconnue par une moyenne observée sur un grand échantillon.",
+      "tags": [
+        "loi des grands nombres",
+        "théorème"
+      ],
+      "distractors": {
+        "easy": [
+          "La moyenne d'un échantillon devient égale à l'espérance dès que n dépasse 30",
+          "Plus l'échantillon est grand, plus la variance de la loi diminue",
+          "La somme des observations tend vers l'espérance"
+        ],
+        "medium": [
+          "La moyenne d'un échantillon converge vers zéro quand n tend vers l'infini",
+          "La probabilité d'un écart tend vers 1 quand n tend vers l'infini",
+          "L'écart entre la moyenne et l'espérance devient nul à partir d'un certain rang"
+        ],
+        "hard": [
+          "La probabilité que la moyenne s'écarte de l'espérance tend vers zéro, y compris lorsque le seuil diminue avec n",
+          "La moyenne d'un échantillon tend vers l'espérance, à condition que la loi soit binomiale",
+          "La probabilité d'un écart tend vers zéro, la vitesse de convergence étant proportionnelle à n au carré"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la précision d'une estimation progresse-t-elle en racine carrée de la taille de l'échantillon ?",
+      "verso": "Parce que c'est l'écart-type de la moyenne, égal à celui de la loi divisé par la racine de n, qui mesure la dispersion",
+      "explanation": "La conséquence pratique est décourageante mais incontournable : diviser l'incertitude par deux impose de quadrupler l'effectif interrogé. C'est la raison du coût élevé des sondages précis.",
+      "tags": [
+        "échantillonnage",
+        "interprétation"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que la variance ne dépend pas de n",
+          "Parce que l'espérance diminue quand n augmente",
+          "Parce que les échantillons sont toujours de taille impaire"
+        ],
+        "medium": [
+          "Parce que la variance de la moyenne est divisée par la racine de n",
+          "Parce que l'écart-type de la moyenne est divisé par n",
+          "Parce que l'espérance de la moyenne est divisée par la racine de n"
+        ],
+        "hard": [
+          "Parce que l'écart-type de la moyenne est divisé par la racine de n moins 1",
+          "Parce que la variance de la moyenne est divisée par n, donc l'écart-type par n également",
+          "Parce que l'inégalité de concentration fait intervenir la racine de n au dénominateur"
+        ]
+      }
+    },
+    {
+      "recto": "À quoi reconnaît-on un schéma de Bernoulli dans l'énoncé d'un exercice ?",
+      "verso": "À la présence d'un nombre d'essais fixé à l'avance, d'un même événement observé à chaque essai et d'une hypothèse d'indépendance",
+      "explanation": "Il faut ensuite nommer explicitement le succès et donner sa probabilité, avant d'écrire la loi suivie par la variable de comptage. Une rédaction qui omet de vérifier ces trois points perd des points même si le calcul final est juste.",
+      "tags": [
+        "méthode",
+        "modélisation"
+      ],
+      "distractors": {
+        "easy": [
+          "À la présence d'une urne dans l'énoncé",
+          "À la présence de probabilités données en pourcentages",
+          "À la présence d'un arbre déjà tracé"
+        ],
+        "medium": [
+          "À la présence d'un nombre d'essais fixé et d'issues équiprobables",
+          "À la présence d'un tirage sans remise dans une grande population",
+          "À la présence d'un événement observé jusqu'à son premier succès"
+        ],
+        "hard": [
+          "À la présence d'un nombre d'essais aléatoire, d'un même événement et d'une hypothèse d'indépendance",
+          "À la présence d'un nombre d'essais fixé, d'un même événement et de probabilités variables selon l'essai",
+          "À la présence d'un nombre d'essais fixé et d'une hypothèse d'indépendance, la probabilité de succès pouvant être inconnue et sans importance"
+        ]
+      }
+    },
+    {
+      "recto": "Comment obtient-on à la calculatrice la probabilité qu'une variable binomiale prenne au moins la valeur k ?",
+      "verso": "En calculant 1 moins la probabilité cumulée jusqu'à k moins 1, la fonction de la calculatrice ne donnant que des cumuls jusqu'à une valeur",
+      "explanation": "Les machines proposent la probabilité d'une valeur exacte et la probabilité cumulée croissante, jamais directement la queue supérieure. Le décalage d'une unité dans le cumul est la source d'erreur la plus fréquente en épreuve.",
+      "tags": [
+        "calculatrice",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En lisant directement le résultat donné par la machine",
+          "En additionnant toutes les probabilités de 0 à k",
+          "En multipliant la probabilité de k par le nombre d'essais"
+        ],
+        "medium": [
+          "En calculant 1 moins la probabilité cumulée jusqu'à k",
+          "En calculant la probabilité cumulée jusqu'à k, puis en la soustrayant de la probabilité de k",
+          "En calculant la probabilité cumulée jusqu'à n moins k"
+        ],
+        "hard": [
+          "En calculant 1 moins la probabilité cumulée jusqu'à k plus 1",
+          "En calculant la probabilité cumulée jusqu'à k moins 1, sans la retrancher de 1",
+          "En calculant 1 moins la probabilité de la valeur exacte k moins 1"
+        ]
+      }
+    },
+    {
+      "recto": "Comment estime-t-on une proportion inconnue dans une population à partir d'un échantillon ?",
+      "verso": "En prenant la fréquence observée des succès dans l'échantillon, dont l'espérance est justement la proportion cherchée",
+      "explanation": "La fréquence observée est la moyenne de variables valant 0 ou 1, ce qui place l'estimation dans le cadre exact de la loi des grands nombres. Son écart-type vaut la racine du produit de la proportion par son complémentaire, divisée par la racine de n.",
+      "tags": [
+        "échantillonnage",
+        "application"
+      ],
+      "distractors": {
+        "easy": [
+          "En prenant la taille de l'échantillon",
+          "En prenant le nombre de succès observés, sans le diviser",
+          "En prenant la moitié de la fréquence observée"
+        ],
+        "medium": [
+          "En prenant la fréquence observée, multipliée par la taille de l'échantillon",
+          "En prenant la fréquence observée, divisée par la racine de n",
+          "En prenant la variance de l'échantillon"
+        ],
+        "hard": [
+          "En prenant la fréquence observée, corrigée en la divisant par n moins 1",
+          "En prenant la fréquence observée, à condition que l'échantillon soit de taille supérieure à trente",
+          "En prenant la fréquence observée, dont la variance est égale à la proportion cherchée"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle interprétation graphique donne le diagramme en bâtons d'une loi binomiale ?",
+      "verso": "Un profil en cloche centré autour de l'espérance, d'autant plus resserré que la variance est faible",
+      "explanation": "Le maximum se situe au voisinage du produit de n par p, et la symétrie n'est parfaite que pour p égal à un demi. Ce profil annonce visuellement la concentration démontrée en fin de chapitre.",
+      "tags": [
+        "loi binomiale",
+        "interprétation"
+      ],
+      "distractors": {
+        "easy": [
+          "Un profil constant, toutes les valeurs étant équiprobables",
+          "Un profil strictement croissant de 0 à n",
+          "Un profil décroissant à partir de zéro"
+        ],
+        "medium": [
+          "Un profil en cloche centré sur n divisé par 2, quelle que soit la valeur de p",
+          "Un profil en cloche centré sur p, indépendant de n",
+          "Un profil symétrique quelle que soit la valeur de p"
+        ],
+        "hard": [
+          "Un profil en cloche centré autour de l'espérance, d'autant plus resserré que n est grand à variance fixée",
+          "Un profil en cloche centré autour de l'écart-type, d'autant plus resserré que p est proche d'un demi",
+          "Un profil en cloche dont le maximum est toujours atteint pour une valeur entière égale à l'espérance"
+        ]
+      }
+    }
+  ]
+}

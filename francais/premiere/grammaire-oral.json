@@ -1,0 +1,796 @@
+{
+  "id": "francais-premiere-grammaire-oral",
+  "title": "Grammaire et épreuve orale",
+  "emoji": "🎙️",
+  "subject": "literature",
+  "country": "fr",
+  "courseDescription": "Le déroulé de l'oral du bac de français et le programme de grammaire au menu de la question de langue : phrase complexe, subordonnées, interrogation, négation.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Grammaire et épreuve orale</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Première · français<br>\n  <b>Programme de langue&nbsp;:</b> phrase complexe, subordonnées, interrogation, négation<br>\n  <b>Épreuve&nbsp;:</b> oral du bac de français — 20 minutes, préparation de 30 minutes\n</div>\n\n<blockquote><p><b>Problématique.</b> Pourquoi l'analyse d'une phrase vaut-elle des points le jour de l'oral&nbsp;?</p></blockquote>\n\n<p>L'oral du bac de français réunit en vingt minutes quatre exercices distincts&nbsp;: une lecture, une explication linéaire, une <strong>question de grammaire</strong> et un entretien. La question de langue surprend souvent parce qu'elle réclame autre chose que du commentaire&nbsp;: des <em>manipulations</em>. Nommer un fait de langue ne suffit pas&nbsp;; il faut le prouver en déplaçant, en supprimant, en remplaçant. C'est un exercice court, très rentable, et entièrement préparable.</p>\n\n<h2>1 · Le déroulé de l'épreuve</h2>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 186\" role=\"img\" aria-label=\"Déroulé de l'oral du bac de français : trente minutes de préparation, puis douze minutes d'exposé comprenant la lecture expressive, l'explication linéaire du texte et la question de grammaire, puis huit minutes d'entretien portant sur une œuvre choisie par le candidat, l'exposé étant noté sur douze points et l'entretien sur huit\">\n    <rect x=\"18\" y=\"12\" width=\"304\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"170\" y=\"31\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">Préparation — 30 minutes</text>\n    <line x1=\"170\" y1=\"44\" x2=\"170\" y2=\"54\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-fgo1)\"/>\n    <rect x=\"18\" y=\"56\" width=\"304\" height=\"72\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"30\" y=\"75\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">EXPOSÉ — 12 min · 12 points</text>\n    <text x=\"30\" y=\"93\" font-size=\"9\" fill=\"currentColor\">lecture expressive du passage</text>\n    <text x=\"30\" y=\"107\" font-size=\"9\" fill=\"currentColor\">explication linéaire, mouvement par mouvement</text>\n    <text x=\"30\" y=\"121\" font-size=\"9\" fill=\"currentColor\">question de grammaire — 2 points</text>\n    <line x1=\"170\" y1=\"130\" x2=\"170\" y2=\"140\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-fgo1)\"/>\n    <rect x=\"18\" y=\"142\" width=\"304\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"170\" y=\"161\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">Entretien — 8 min · 8 points · œuvre choisie</text>\n    <text x=\"170\" y=\"184\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">Le second temps est le seul que le candidat maîtrise entièrement.</text>\n    <defs>\n      <marker id=\"ar-fgo1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n  </svg>\n  <figcaption>Quatre exercices, quatre attentes différentes&nbsp;— les confondre coûte cher.</figcaption>\n</figure>\n\n<p>L'<strong>explication linéaire</strong> suit l'ordre du texte&nbsp;: on annonce la situation du passage, un <em>projet de lecture</em> qui tient lieu de problématique, puis le découpage en <strong>mouvements</strong>. Chaque mouvement doit être justifié par un changement repérable — de temps verbal, d'énonciation, de ton, de rythme —, jamais par la seule disposition typographique. Ce n'est pas un commentaire composé récité dans l'ordre&nbsp;: on montre comment le sens s'élabore au fil du texte.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Projet de lecture</strong><br>\n  L'angle sous lequel on annonce vouloir lire l'extrait. Il oriente toute l'explication et remplace la problématique du commentaire écrit.\n</div>\n\n<h2>2 · La phrase complexe</h2>\n\n<p>Premier réflexe devant toute phrase&nbsp;: <strong>compter les verbes conjugués</strong>. Autant de verbes conjugués, autant de propositions. Deuxième réflexe&nbsp;: repérer <em>ce qui relie</em> ces propositions.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Les trois façons de relier des propositions : la juxtaposition les relie par un signe de ponctuation, la coordination par une conjonction comme mais ou et donc or ni car, ces deux modes gardant les propositions de même rang ; la subordination place au contraire une proposition sous la dépendance d'une autre grâce à un mot subordonnant, créant une hiérarchie\">\n    <text x=\"8\" y=\"16\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Propositions de même rang</text>\n    <rect x=\"12\" y=\"24\" width=\"150\" height=\"52\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"87\" y=\"43\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">JUXTAPOSITION</text>\n    <text x=\"87\" y=\"59\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">un signe de ponctuation</text>\n    <text x=\"87\" y=\"71\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">virgule, point-virgule, deux-points</text>\n    <rect x=\"178\" y=\"24\" width=\"150\" height=\"52\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"253\" y=\"43\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">COORDINATION</text>\n    <text x=\"253\" y=\"59\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">une conjonction</text>\n    <text x=\"253\" y=\"71\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">mais, ou, et, donc, or, ni, car</text>\n    <line x1=\"8\" y1=\"92\" x2=\"332\" y2=\"92\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"112\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Hiérarchie</text>\n    <rect x=\"12\" y=\"120\" width=\"316\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"139\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">SUBORDINATION</text>\n    <text x=\"170\" y=\"166\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Un mot subordonnant place une proposition</text>\n    <text x=\"170\" y=\"180\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">sous la dépendance d'une autre.</text>\n  </svg>\n  <figcaption>Seule la subordination crée une dépendance&nbsp;: la subordonnée ne peut pas exister seule.</figcaption>\n</figure>\n\n<p>Une <strong>proposition principale</strong> n'a de sens que dans un rapport de subordination&nbsp;: c'est celle dont dépendent les subordonnées. Une phrase qui n'en comporte aucune juxtapose ou coordonne des <em>indépendantes</em>.</p>\n\n<h2>3 · Les subordonnées</h2>\n\n<h3>La relative</h3>\n\n<p>Introduite par un <strong>pronom relatif</strong> — qui, que, quoi, dont, où, et les formes composées lequel, duquel, auquel —, elle complète un nom ou un pronom, son <strong>antécédent</strong>. Le pronom relatif porte toujours une <em>fonction</em> dans la subordonnée&nbsp;: qui est sujet, que complément d'objet direct, dont complément introduit par de. C'est cette fonction que la question de grammaire attend.</p>\n\n<ul>\n  <li><strong>Relative déterminative</strong>&nbsp;: elle restreint le sens de l'antécédent et ne peut être supprimée.</li>\n  <li><strong>Relative explicative</strong>&nbsp;: détachée par des virgules, elle ajoute une information supprimable.</li>\n</ul>\n\n<p>L'écart n'est pas décoratif&nbsp;: «&nbsp;les élèves qui avaient révisé ont réussi&nbsp;» ne dit pas ce que dit «&nbsp;les élèves, qui avaient révisé, ont réussi&nbsp;». Dans le second cas, tous avaient révisé.</p>\n\n<h3>La complétive et la circonstancielle</h3>\n\n<p>La <strong>conjonctive complétive</strong>, introduite par la conjonction que, complète le verbe&nbsp;: elle est le plus souvent complément d'objet, et la supprimer rend la phrase incomplète. La <strong>circonstancielle</strong> indique les circonstances — temps, cause, conséquence, but, condition, concession, comparaison — et se laisse en général déplacer et supprimer.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 168\" role=\"img\" aria-label=\"Test permettant de distinguer une subordonnée complétive d'une subordonnée circonstancielle : on tente de déplacer la subordonnée puis de la supprimer ; si la phrase reste correcte, la subordonnée est circonstancielle, si la phrase devient agrammaticale, elle est complétive et occupe la fonction de complément d'objet du verbe\">\n    <rect x=\"60\" y=\"10\" width=\"220\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"29\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">DÉPLACER, PUIS SUPPRIMER</text>\n    <line x1=\"120\" y1=\"42\" x2=\"80\" y2=\"62\" stroke=\"var(--accent)\" stroke-opacity=\".6\" stroke-width=\"1.5\" marker-end=\"url(#ar-fgo2)\"/>\n    <line x1=\"220\" y1=\"42\" x2=\"260\" y2=\"62\" stroke=\"var(--accent)\" stroke-opacity=\".6\" stroke-width=\"1.5\" marker-end=\"url(#ar-fgo2)\"/>\n    <rect x=\"12\" y=\"66\" width=\"150\" height=\"60\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"87\" y=\"85\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">la phrase reste correcte</text>\n    <text x=\"87\" y=\"104\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">CIRCONSTANCIELLE</text>\n    <text x=\"87\" y=\"118\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">complément de phrase</text>\n    <rect x=\"178\" y=\"66\" width=\"150\" height=\"60\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"253\" y=\"85\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">la phrase devient bancale</text>\n    <text x=\"253\" y=\"104\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">COMPLÉTIVE</text>\n    <text x=\"253\" y=\"118\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">complément du verbe</text>\n    <text x=\"170\" y=\"148\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Le mot que introduit les deux : seul le test tranche.</text>\n    <text x=\"170\" y=\"162\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">Une manipulation vaut mieux qu'une définition récitée.</text>\n    <defs>\n      <marker id=\"ar-fgo2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n  </svg>\n  <figcaption>Deux gestes suffisent à trancher&nbsp;— encore faut-il les faire à voix haute devant l'examinateur.</figcaption>\n</figure>\n\n<h3>L'interrogative indirecte</h3>\n\n<p>Elle rapporte une question sans point d'interrogation ni inversion&nbsp;: <em>je me demande où il est</em>, et non «&nbsp;où est-il&nbsp;». Elle dépend d'un verbe comme demander, savoir, ignorer, et se laisse introduire par <strong>si</strong> ou par un mot interrogatif.</p>\n\n<h2>4 · L'interrogation</h2>\n\n<ul>\n  <li><strong>Interrogation totale</strong>&nbsp;: elle porte sur la phrase entière, appelle oui ou non, et n'emploie aucun mot interrogatif.</li>\n  <li><strong>Interrogation partielle</strong>&nbsp;: elle porte sur un élément et emploie toujours un mot interrogatif — qui, quand, où, comment, pourquoi, combien.</li>\n</ul>\n\n<p>Trois formes possibles pour l'interrogation directe&nbsp;: l'<strong>inversion du sujet</strong>, usage soutenu&nbsp;; la tournure avec <strong>est-ce que</strong>, usage courant&nbsp;; l'<strong>intonation seule</strong>, sans changement de l'ordre des mots, usage oral. Commenter ce choix de registre est souvent l'attendu de la question&nbsp;: il caractérise un personnage ou une situation d'énonciation.</p>\n\n<p>La <strong>question rhétorique</strong>, elle, n'attend pas de réponse&nbsp;: elle affirme sous forme interrogative et associe le destinataire au raisonnement en lui faisant produire lui-même la réponse.</p>\n\n<h2>5 · La négation</h2>\n\n<ul>\n  <li><strong>Négation totale</strong>&nbsp;: ne… pas, qui nie l'énoncé entier.</li>\n  <li><strong>Négation partielle</strong>&nbsp;: ne… plus, ne… jamais, ne… personne, ne… rien, qui nient le temps, la durée, l'existence ou la quantité.</li>\n  <li><strong>Négation lexicale</strong>&nbsp;: portée par le sens des mots — impossible, inutile, refuser, nier — sans aucune construction négative.</li>\n</ul>\n\n<p>Deux emplois du <strong>ne seul</strong> à ne pas confondre&nbsp;: l'usage littéraire soutenu, où il nie réellement&nbsp;; et le <strong>ne explétif</strong>, qui ne nie rien du tout. Dans «&nbsp;je crains qu'il ne vienne&nbsp;», la venue est redoutée, non niée. Prendre l'un pour l'autre inverse le sens de la phrase.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Relier les propositions</h3>\n\n<table>\n  <tr><th>Mode</th><th>Lien</th><th>Rang</th></tr>\n  <tr><td>Juxtaposition</td><td>Signe de ponctuation</td><td>Même rang</td></tr>\n  <tr><td>Coordination</td><td>Mais, ou, et, donc, or, ni, car</td><td>Même rang</td></tr>\n  <tr><td>Subordination</td><td>Mot subordonnant</td><td>Dépendance</td></tr>\n</table>\n\n<h3>Les subordonnées au programme</h3>\n\n<table>\n  <tr><th>Subordonnée</th><th>Introduite par</th><th>Elle complète</th></tr>\n  <tr><td>Relative</td><td>Un pronom relatif</td><td>Un nom, son antécédent</td></tr>\n  <tr><td>Complétive</td><td>La conjonction que</td><td>Le verbe principal</td></tr>\n  <tr><td>Circonstancielle</td><td>Une conjonction de subordination</td><td>La phrase entière</td></tr>\n  <tr><td>Interrogative indirecte</td><td>Si ou un mot interrogatif</td><td>Un verbe de question</td></tr>\n</table>\n\n<h3>Interroger et nier</h3>\n\n<table>\n  <tr><th>Fait de langue</th><th>Ce qu'il faut préciser</th></tr>\n  <tr><td>Interrogation totale</td><td>Réponse par oui ou non, sans mot interrogatif</td></tr>\n  <tr><td>Interrogation partielle</td><td>Sur quel élément elle porte</td></tr>\n  <tr><td>Forme de l'interrogation</td><td>Inversion, est-ce que ou intonation</td></tr>\n  <tr><td>Négation totale ou partielle</td><td>Sur quoi porte exactement la négation</td></tr>\n  <tr><td>Ne seul</td><td>Négation littéraire ou ne explétif</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Confondre le <strong>que</strong> pronom relatif et le <strong>que</strong> conjonction de subordination. Le pronom relatif reprend un nom antérieur et occupe une fonction dans sa proposition&nbsp;: dans «&nbsp;le livre <em>que</em> je lis&nbsp;», il est complément d'objet du verbe lire. La conjonction ne remplace rien et n'a aucune fonction&nbsp;: dans «&nbsp;je crois <em>que</em> tu mens&nbsp;», elle se contente d'introduire la complétive. Le test&nbsp;: cherchez l'antécédent. S'il n'y en a pas, ce n'est pas un pronom.\n</div>\n\n<blockquote><p>À l'oral, une analyse grammaticale ne s'affirme pas&nbsp;: elle se manipule. Déplacer, supprimer, remplacer — voilà ce qui tient lieu de preuve.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Première",
+  "theme": "Français — méthodes de l'épreuve anticipée",
+  "cards": [
+    {
+      "recto": "Piège classique : comment distinguer le mot que pronom relatif du mot que conjonction de subordination ?",
+      "verso": "Le pronom relatif que remplace un nom antérieur et occupe une fonction dans sa proposition, tandis que la conjonction que ne remplace rien et introduit seulement une complétive",
+      "explanation": "Test décisif : dans le livre que je lis, que est complément d'objet du verbe lire et reprend livre ; dans je crois que tu mens, que n'a aucune fonction. C'est la confusion la plus fréquente à la question de grammaire.",
+      "tags": [
+        "subordination",
+        "piege"
+      ],
+      "distractors": {
+        "easy": [
+          "Le pronom relatif s'écrit avec un accent, la conjonction non",
+          "Le pronom relatif se place en fin de phrase",
+          "La conjonction introduit toujours une question"
+        ],
+        "medium": [
+          "Le pronom relatif suit toujours un verbe, la conjonction un nom",
+          "La conjonction est toujours précédée d'une virgule",
+          "Le pronom relatif ne s'emploie qu'à l'écrit"
+        ],
+        "hard": [
+          "Le pronom relatif introduit une complétive, la conjonction une relative",
+          "Le pronom relatif peut être supprimé sans changer le sens",
+          "La conjonction porte une fonction grammaticale dans la subordonnée"
+        ]
+      }
+    },
+    {
+      "recto": "Comment se déroule l'épreuve orale du bac de français ?",
+      "verso": "Douze minutes d'exposé, comprenant lecture expressive, explication linéaire et question de grammaire, puis huit minutes d'entretien sur l'œuvre choisie par le candidat",
+      "explanation": "Les deux temps sont notés séparément, sur douze points et huit points. Le candidat maîtrise entièrement le second, puisqu'il choisit l'œuvre présentée.",
+      "tags": [
+        "épreuve",
+        "oral"
+      ],
+      "distractors": {
+        "easy": [
+          "Une heure de dissertation devant l'examinateur",
+          "Un exposé libre sur un auteur au choix",
+          "Un commentaire écrit lu à voix haute"
+        ],
+        "medium": [
+          "Vingt minutes d'explication suivies d'une lecture",
+          "Dix minutes de questions puis dix minutes d'exposé",
+          "Un entretien sur l'ensemble du programme de l'année"
+        ],
+        "hard": [
+          "Douze minutes d'entretien puis huit minutes d'explication",
+          "Une explication linéaire de vingt minutes sans entretien",
+          "Une lecture expressive suivie d'un commentaire composé"
+        ]
+      }
+    },
+    {
+      "recto": "Sur quoi porte la question de grammaire de l'oral ?",
+      "verso": "Sur une phrase ou un fragment du texte expliqué, que le candidat doit analyser selon un point du programme de grammaire de la classe",
+      "explanation": "Elle est posée par l'examinateur à la fin de l'explication et vaut deux points. Elle porte toujours sur le texte présenté, jamais sur une phrase extérieure.",
+      "tags": [
+        "épreuve",
+        "grammaire"
+      ],
+      "distractors": {
+        "easy": [
+          "Sur l'orthographe d'un mot difficile du texte",
+          "Sur la biographie de l'auteur",
+          "Sur la conjugaison d'un verbe irrégulier au choix"
+        ],
+        "medium": [
+          "Sur une phrase inventée par l'examinateur pour l'occasion",
+          "Sur l'analyse de l'ensemble du texte, phrase par phrase",
+          "Sur le genre littéraire et le registre de l'extrait"
+        ],
+        "hard": [
+          "Sur une phrase de l'œuvre intégrale extérieure à l'extrait",
+          "Sur un point de grammaire choisi librement par le candidat",
+          "Sur la versification du passage lu"
+        ]
+      }
+    },
+    {
+      "recto": "Que doit-on préparer avant l'entretien de la seconde partie de l'oral ?",
+      "verso": "La présentation argumentée d'une œuvre lue dans l'année, en expliquant pourquoi elle a été choisie et ce qu'elle a apporté au lecteur",
+      "explanation": "L'examinateur attend une lecture personnelle appuyée sur des passages précis, non un résumé. Le choix de l'œuvre doit être justifié par autre chose que sa brièveté.",
+      "tags": [
+        "épreuve",
+        "entretien"
+      ],
+      "distractors": {
+        "easy": [
+          "Une liste de vingt œuvres classiques à citer",
+          "Un discours appris par cœur sur la littérature",
+          "La biographie détaillée d'un auteur"
+        ],
+        "medium": [
+          "Le commentaire complet de l'un des textes du descriptif",
+          "Une comparaison entre deux œuvres du programme",
+          "La récitation d'un poème appris dans l'année"
+        ],
+        "hard": [
+          "Le résumé fidèle de l'œuvre choisie, chapitre par chapitre",
+          "Une œuvre du parcours associé, présentée comme lecture cursive",
+          "Une explication linéaire supplémentaire, tirée de l'œuvre choisie"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'attend-on d'une lecture expressive à l'oral ?",
+      "verso": "Une lecture juste, audible et ponctuée correctement, dont les inflexions traduisent la compréhension du texte",
+      "explanation": "Elle est notée et n'est pas une formalité : une lecture qui écrase la ponctuation ou trahit le sens annonce une explication mal maîtrisée.",
+      "tags": [
+        "épreuve",
+        "lecture"
+      ],
+      "distractors": {
+        "easy": [
+          "Une lecture aussi rapide que possible pour gagner du temps",
+          "Une lecture silencieuse suivie d'un résumé",
+          "Une récitation de mémoire sans le texte sous les yeux"
+        ],
+        "medium": [
+          "Une lecture théâtralisée avec gestes et déplacements",
+          "Une lecture accompagnée de commentaires improvisés",
+          "Une lecture des seuls passages que le candidat analysera"
+        ],
+        "hard": [
+          "Une lecture monocorde, la neutralité étant gage d'objectivité",
+          "Une lecture qui marque les mouvements par des pauses annoncées",
+          "Une lecture limitée aux premières lignes de l'extrait"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : qu'est-ce qui distingue la juxtaposition, la coordination et la subordination ?",
+      "verso": "La juxtaposition relie des propositions par un simple signe de ponctuation, la coordination par une conjonction de coordination, la subordination place une proposition sous la dépendance d'une autre",
+      "explanation": "Les deux premières associent des propositions de même rang ; seule la subordination crée une hiérarchie, la subordonnée ne pouvant exister seule.",
+      "tags": [
+        "phrase complexe",
+        "comparaison"
+      ],
+      "distractors": {
+        "easy": [
+          "La première concerne les mots, la deuxième les phrases, la troisième les paragraphes",
+          "Elles correspondent aux trois groupes de verbes",
+          "La première est orale, la deuxième écrite, la troisième littéraire"
+        ],
+        "medium": [
+          "La juxtaposition emploie une conjonction, la coordination une virgule, la subordination un pronom",
+          "La subordination relie des propositions de même rang, la coordination crée une hiérarchie",
+          "Elles se distinguent par le nombre de verbes conjugués"
+        ],
+        "hard": [
+          "La juxtaposition et la subordination créent une dépendance, la coordination non",
+          "La coordination emploie un pronom relatif, la subordination une conjonction",
+          "La juxtaposition ne relie que des propositions sans verbe conjugué"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une proposition en grammaire de la phrase ?",
+      "verso": "Un ensemble organisé autour d'un verbe conjugué, la phrase complexe en comportant plusieurs",
+      "explanation": "Compter les verbes conjugués est le premier réflexe d'analyse : autant de verbes conjugués, autant de propositions, sauf construction elliptique.",
+      "tags": [
+        "phrase complexe",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Un groupe de mots séparé par des virgules",
+          "Une phrase terminée par un point",
+          "Un paragraphe du texte étudié"
+        ],
+        "medium": [
+          "Un groupe de mots comportant un sujet, sans verbe nécessaire",
+          "Toute suite de mots ayant un sens complet",
+          "Un membre de phrase introduit par une conjonction"
+        ],
+        "hard": [
+          "Un ensemble organisé autour d'un verbe, conjugué ou à l'infinitif",
+          "Un groupe syntaxique fonctionnant comme complément du verbe principal",
+          "Une unité de sens délimitée par la ponctuation forte"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles sont les principales conjonctions de coordination ?",
+      "verso": "Mais, ou, et, donc, or, ni, car, qui relient des éléments de même rang sans créer de dépendance",
+      "explanation": "Elles ne peuvent pas être déplacées, contrairement aux adverbes de liaison comme cependant ou pourtant, qui sont mobiles dans la proposition.",
+      "tags": [
+        "coordination",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le, la, les, un, une, des",
+          "Je, tu, il, nous, vous, ils",
+          "Sur, sous, dans, vers, chez, par"
+        ],
+        "medium": [
+          "Que, qui, quoi, dont, où, lequel",
+          "Quand, comme, si, puisque, lorsque, parce que",
+          "Cependant, pourtant, néanmoins, toutefois, ainsi"
+        ],
+        "hard": [
+          "Mais, ou, et, donc, or, ni, si",
+          "Car, donc, puisque, comme, or, ni",
+          "Et, ou, ni, mais, quand, car"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une proposition subordonnée relative ?",
+      "verso": "Une subordonnée introduite par un pronom relatif qui complète un nom ou un pronom appelé antécédent",
+      "explanation": "Elle fonctionne comme un adjectif : elle caractérise l'antécédent. Sa suppression est possible quand elle est explicative, impossible quand elle est déterminative.",
+      "tags": [
+        "subordination",
+        "relative"
+      ],
+      "distractors": {
+        "easy": [
+          "Une phrase qui exprime une relation entre deux personnages",
+          "Une subordonnée qui compare deux éléments",
+          "Une proposition placée entre parenthèses"
+        ],
+        "medium": [
+          "Une subordonnée introduite par une conjonction et complétant un verbe",
+          "Une subordonnée qui exprime la cause d'une action",
+          "Une proposition indépendante rattachée par une virgule"
+        ],
+        "hard": [
+          "Une subordonnée introduite par un pronom relatif et complétant le verbe principal",
+          "Une subordonnée dont l'antécédent est toujours un nom propre",
+          "Une subordonnée introduite par que et complétant un nom"
+        ]
+      }
+    },
+    {
+      "recto": "Quels sont les pronoms relatifs simples ?",
+      "verso": "Qui, que, quoi, dont, où, auxquels s'ajoutent les formes composées comme lequel, duquel ou auquel",
+      "explanation": "Le pronom relatif porte une fonction dans la subordonnée : qui est sujet, que complément d'objet direct, dont complément introduit par de. Identifier cette fonction est l'attendu de la question de grammaire.",
+      "tags": [
+        "relative",
+        "pronoms"
+      ],
+      "distractors": {
+        "easy": [
+          "Le, la, les, l'",
+          "Mon, ton, son, notre, votre",
+          "Ce, cet, cette, ces"
+        ],
+        "medium": [
+          "Qui, que, quand, comme, si",
+          "Qui, quoi, dont, si, comme",
+          "Que, quel, quelle, quels, quelles"
+        ],
+        "hard": [
+          "Qui, que, dont, où, quand",
+          "Qui, que, quoi, dont, lequel, puisque",
+          "Qui, que, quoi, dont, où, que l'on"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle différence sépare une relative déterminative d'une relative explicative ?",
+      "verso": "La déterminative restreint le sens de l'antécédent et ne peut être supprimée, l'explicative ajoute une information détachée par des virgules et peut l'être",
+      "explanation": "L'enjeu est de sens : les élèves qui avaient révisé ont réussi ne dit pas la même chose que les élèves, qui avaient révisé, ont réussi. La ponctuation change la portée de l'énoncé.",
+      "tags": [
+        "relative",
+        "analyse"
+      ],
+      "distractors": {
+        "easy": [
+          "La déterminative est plus longue que l'explicative",
+          "L'explicative se place toujours en fin de phrase",
+          "La déterminative s'emploie à l'oral, l'explicative à l'écrit"
+        ],
+        "medium": [
+          "La déterminative est introduite par qui, l'explicative par que",
+          "L'explicative complète un verbe, la déterminative un nom",
+          "La déterminative exprime une cause, l'explicative une conséquence"
+        ],
+        "hard": [
+          "L'explicative restreint l'extension de l'antécédent et ne peut être supprimée",
+          "La déterminative est détachée par des virgules, l'explicative non",
+          "La déterminative admet un antécédent nom propre, l'explicative non"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une proposition subordonnée conjonctive complétive ?",
+      "verso": "Une subordonnée introduite par la conjonction que, qui occupe le plus souvent la fonction de complément d'objet du verbe principal",
+      "explanation": "Elle complète le verbe et ne peut être supprimée sans rendre la phrase incomplète : dans je pense que tu as raison, la subordonnée est l'objet du verbe penser.",
+      "tags": [
+        "subordination",
+        "complétive"
+      ],
+      "distractors": {
+        "easy": [
+          "Une phrase qui complète le sens d'un poème",
+          "Une subordonnée placée après un point-virgule",
+          "Une proposition qui termine un paragraphe"
+        ],
+        "medium": [
+          "Une subordonnée introduite par un pronom relatif et complétant un nom",
+          "Une subordonnée exprimant les circonstances de l'action",
+          "Une subordonnée introduite par si et exprimant une hypothèse"
+        ],
+        "hard": [
+          "Une subordonnée introduite par que et fonctionnant comme complément du nom",
+          "Une subordonnée introduite par quand et complétant le verbe principal",
+          "Une subordonnée introduite par que dont le mot introducteur est sujet"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une proposition subordonnée circonstancielle ?",
+      "verso": "Une subordonnée qui indique les circonstances de l'action principale, temps, cause, conséquence, but, condition, concession ou comparaison",
+      "explanation": "Elle est le plus souvent déplaçable et supprimable, ce qui la distingue de la complétive, dont le verbe principal ne peut se passer.",
+      "tags": [
+        "subordination",
+        "circonstancielle"
+      ],
+      "distractors": {
+        "easy": [
+          "Une subordonnée qui décrit un lieu du récit",
+          "Une proposition qui raconte les circonstances de la vie de l'auteur",
+          "Une phrase précisant la date de publication"
+        ],
+        "medium": [
+          "Une subordonnée introduite par un pronom relatif et caractérisant un nom",
+          "Une subordonnée complétant obligatoirement le verbe principal",
+          "Une subordonnée sans mot subordonnant, reliée par une virgule"
+        ],
+        "hard": [
+          "Une subordonnée qui exprime les circonstances et qui ne peut être déplacée",
+          "Une subordonnée introduite par que et exprimant le temps",
+          "Une subordonnée fonctionnant comme complément d'objet indirect"
+        ]
+      }
+    },
+    {
+      "recto": "Comment vérifier qu'une subordonnée est bien circonstancielle et non complétive ?",
+      "verso": "En essayant de la déplacer et de la supprimer : la circonstancielle le supporte, la complétive rend la phrase agrammaticale",
+      "explanation": "Ce double test évite l'erreur d'analyse la plus courante devant une subordonnée introduite par que, qui peut être complétive dans un cas et consécutive dans un autre.",
+      "tags": [
+        "subordination",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En comptant le nombre de mots de la subordonnée",
+          "En regardant si elle contient un adjectif",
+          "En vérifiant la place de la virgule"
+        ],
+        "medium": [
+          "En cherchant si elle est introduite par que ou par qui",
+          "En observant le temps du verbe subordonné",
+          "En vérifiant si elle précède ou suit la principale"
+        ],
+        "hard": [
+          "En cherchant si le mot subordonnant a une fonction dans la subordonnée",
+          "En remplaçant la subordonnée par un pronom personnel",
+          "En vérifiant si le verbe subordonné est au subjonctif"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une proposition subordonnée interrogative indirecte ?",
+      "verso": "Une subordonnée qui rapporte une question sans point d'interrogation ni inversion du sujet, introduite par si ou par un mot interrogatif",
+      "explanation": "Elle dépend d'un verbe comme demander, savoir ou ignorer. L'erreur fréquente consiste à conserver l'ordre de l'interrogation directe, comme dans je me demande où est-il.",
+      "tags": [
+        "interrogation",
+        "subordination"
+      ],
+      "distractors": {
+        "easy": [
+          "Une question posée par le narrateur au lecteur",
+          "Une question dont on ignore la réponse",
+          "Une phrase interrogative sans verbe"
+        ],
+        "medium": [
+          "Une question rapportée conservant le point d'interrogation",
+          "Une subordonnée introduite par que et exprimant le doute",
+          "Une proposition placée entre guillemets dans un dialogue"
+        ],
+        "hard": [
+          "Une subordonnée interrogative gardant l'inversion du sujet",
+          "Une subordonnée introduite par un pronom relatif à valeur interrogative",
+          "Une interrogation totale transformée en interrogation partielle"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle différence sépare l'interrogation totale de l'interrogation partielle ?",
+      "verso": "L'interrogation totale porte sur la phrase entière et appelle une réponse par oui ou par non, l'interrogation partielle porte sur un élément et appelle une réponse précise",
+      "explanation": "La totale n'emploie aucun mot interrogatif, la partielle en emploie toujours un : qui, quand, où, comment, pourquoi, combien.",
+      "tags": [
+        "interrogation",
+        "types"
+      ],
+      "distractors": {
+        "easy": [
+          "La totale est longue, la partielle est courte",
+          "La totale s'écrit, la partielle se dit",
+          "La totale s'emploie en poésie, la partielle en prose"
+        ],
+        "medium": [
+          "La totale emploie un mot interrogatif, la partielle non",
+          "La totale attend une réponse développée, la partielle un simple oui",
+          "La totale se pose à l'oral, la partielle à l'écrit"
+        ],
+        "hard": [
+          "La totale porte sur un élément de la phrase, la partielle sur l'ensemble",
+          "La totale exige l'inversion du sujet, la partielle l'interdit",
+          "La totale appelle une réponse précise, la partielle une alternative"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles sont les trois formes que peut prendre une interrogation directe ?",
+      "verso": "L'inversion du sujet, la tournure avec est-ce que, ou l'intonation seule sans changement de l'ordre des mots",
+      "explanation": "Ces trois formes ne relèvent pas du même niveau de langue : l'inversion appartient à l'usage soutenu, l'intonation seule à l'oral courant. Le commenter est souvent l'attendu de la question.",
+      "tags": [
+        "interrogation",
+        "formes"
+      ],
+      "distractors": {
+        "easy": [
+          "Le passé, le présent et le futur",
+          "La question, la réponse et la reformulation",
+          "Le point, la virgule et le point d'interrogation"
+        ],
+        "medium": [
+          "L'inversion, la négation et l'exclamation",
+          "La forme affirmative, négative et interro-négative",
+          "L'interrogation directe, indirecte et rhétorique"
+        ],
+        "hard": [
+          "L'inversion simple, l'inversion complexe et la tournure avec est-ce que",
+          "L'intonation, le mot interrogatif et la subordination",
+          "L'inversion, est-ce que et le point d'interrogation seul"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on une question rhétorique ?",
+      "verso": "Une interrogation qui n'attend pas de réponse et qui équivaut à une affirmation déguisée destinée à emporter l'adhésion",
+      "explanation": "C'est un fait de style autant qu'un fait de langue : elle associe le destinataire au raisonnement en lui faisant produire lui-même la réponse.",
+      "tags": [
+        "interrogation",
+        "style"
+      ],
+      "distractors": {
+        "easy": [
+          "Une question posée par un personnage de théâtre",
+          "Une question dont la réponse figure dans le texte",
+          "Une question adressée directement au lecteur en début de livre"
+        ],
+        "medium": [
+          "Une interrogation indirecte employée dans un discours",
+          "Une question posée deux fois pour insister",
+          "Une interrogation partielle sans mot interrogatif"
+        ],
+        "hard": [
+          "Une interrogation qui appelle une réponse implicite mais contraire à l'affirmation attendue",
+          "Une question dont la réponse est donnée par l'interlocuteur",
+          "Une interrogation totale employée en interrogation indirecte"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle différence sépare la négation totale de la négation partielle ?",
+      "verso": "La négation totale porte sur toute la phrase avec ne pas, la négation partielle ne nie qu'un élément avec ne plus, ne jamais, ne personne ou ne rien",
+      "explanation": "L'analyse consiste à préciser sur quoi porte la négation : le temps, la quantité, l'existence. Se contenter de dire qu'il y a une négation ne suffit pas.",
+      "tags": [
+        "négation",
+        "types"
+      ],
+      "distractors": {
+        "easy": [
+          "La totale est longue, la partielle est brève",
+          "La totale s'emploie à l'écrit, la partielle à l'oral",
+          "La totale contient deux verbes, la partielle un seul"
+        ],
+        "medium": [
+          "La totale emploie ne seul, la partielle ne pas",
+          "La totale porte sur un élément, la partielle sur la phrase entière",
+          "La totale se place avant le verbe, la partielle après"
+        ],
+        "hard": [
+          "La totale nie l'existence, la partielle nie la quantité",
+          "La totale emploie ne jamais, la partielle ne pas",
+          "La totale est syntaxique, la partielle est lexicale"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une négation lexicale ?",
+      "verso": "Une négation portée par le sens d'un mot et non par une construction grammaticale, comme dans les préfixes privatifs ou les verbes de refus",
+      "explanation": "Impossible, inutile, refuser, nier expriment la négation sans aucun morphème négatif. La distinguer de la négation syntaxique est un attendu classique.",
+      "tags": [
+        "négation",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Une négation employée dans un dictionnaire",
+          "Une négation qui porte sur un mot rare",
+          "Une négation exprimée par un geste dans une pièce de théâtre"
+        ],
+        "medium": [
+          "Une négation exprimée par ne seul, sans pas",
+          "Une négation employant deux fois la même particule",
+          "Une négation qui porte sur un complément circonstanciel"
+        ],
+        "hard": [
+          "Une négation portée par la construction de la phrase et non par le sens des mots",
+          "Une négation exprimée par un adverbe placé après le verbe",
+          "Une négation dont le second terme est effacé à l'oral"
+        ]
+      }
+    },
+    {
+      "recto": "Que signale l'emploi du ne seul, sans second terme de la négation ?",
+      "verso": "Il relève soit d'un usage soutenu ou littéraire, soit du ne explétif, qui n'exprime aucune négation véritable",
+      "explanation": "Dans je crains qu'il ne vienne, rien n'est nié : le ne est explétif. Le confondre avec une négation fausse complètement l'interprétation de la phrase.",
+      "tags": [
+        "négation",
+        "analyse"
+      ],
+      "distractors": {
+        "easy": [
+          "Une faute d'orthographe du texte imprimé",
+          "Une marque du pluriel dans les textes anciens",
+          "Un signe que le verbe est à l'impératif"
+        ],
+        "medium": [
+          "Une négation renforcée, plus catégorique que ne pas",
+          "Une négation qui porte sur le sujet et non sur le verbe",
+          "Une négation employée uniquement dans les dialogues"
+        ],
+        "hard": [
+          "Une négation partielle dont le second terme est sous-entendu par le contexte",
+          "Une négation lexicale intégrée à la conjugaison du verbe",
+          "Un effacement du pas caractéristique du français oral familier"
+        ]
+      }
+    },
+    {
+      "recto": "Que faut-il faire après avoir identifié un fait de langue à la question de grammaire ?",
+      "verso": "Justifier l'identification par des manipulations précises, puis indiquer brièvement l'effet de ce choix de langue dans le texte",
+      "explanation": "Nommer sans prouver ne vaut rien : déplacer, supprimer, remplacer, pronominaliser sont les gestes attendus. Le lien avec le sens du texte valorise la réponse.",
+      "tags": [
+        "méthode",
+        "grammaire"
+      ],
+      "distractors": {
+        "easy": [
+          "Réciter la définition apprise dans le manuel",
+          "Passer immédiatement à la question suivante",
+          "Demander à l'examinateur si la réponse est bonne"
+        ],
+        "medium": [
+          "Donner un autre exemple tiré d'une autre œuvre",
+          "Réécrire la phrase entière au tableau",
+          "Analyser toutes les autres phrases du passage"
+        ],
+        "hard": [
+          "Citer la règle du programme officiel correspondant au point analysé",
+          "Comparer la phrase à une phrase simple équivalente sans commenter",
+          "Indiquer la nature de chaque mot de la phrase, un par un"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles manipulations permettent de prouver une analyse grammaticale ?",
+      "verso": "Le déplacement, la suppression, le remplacement par un pronom ou par un groupe équivalent, et la transformation de la phrase",
+      "explanation": "Ces gestes sont l'équivalent, en grammaire, de la citation en commentaire : ils apportent la preuve. Une analyse affirmée sans manipulation reste invérifiable.",
+      "tags": [
+        "méthode",
+        "grammaire"
+      ],
+      "distractors": {
+        "easy": [
+          "La lecture à voix haute et la ponctuation",
+          "Le comptage des syllabes et la scansion",
+          "La recherche dans un dictionnaire et l'étymologie"
+        ],
+        "medium": [
+          "La comparaison avec une traduction et le relevé du champ lexical",
+          "L'analyse du registre et du point de vue narratif",
+          "Le repérage des figures de style et des connotations"
+        ],
+        "hard": [
+          "La réécriture au style indirect et le changement de temps verbal",
+          "La substitution d'un synonyme et la modification du registre",
+          "La segmentation en groupes rythmiques et l'accentuation"
+        ]
+      }
+    },
+    {
+      "recto": "Comment structure-t-on une explication linéaire à l'oral ?",
+      "verso": "En suivant l'ordre du texte, découpé en mouvements justifiés, et en analysant au fil de la lecture ce que chaque passage construit",
+      "explanation": "L'explication linéaire n'est pas un commentaire composé récité dans l'ordre : elle épouse la progression du texte et montre comment le sens s'y élabore.",
+      "tags": [
+        "oral",
+        "explication"
+      ],
+      "distractors": {
+        "easy": [
+          "En résumant le texte puis en donnant son avis",
+          "En racontant le contexte historique de l'œuvre",
+          "En lisant chaque phrase suivie de sa traduction en langage courant"
+        ],
+        "medium": [
+          "En dégageant deux ou trois axes thématiques transversaux",
+          "En comparant l'extrait à un autre texte du descriptif",
+          "En analysant d'abord le fond puis la forme"
+        ],
+        "hard": [
+          "En suivant l'ordre du texte sans découpage préalable en mouvements",
+          "En traitant les procédés par catégories grammaticales successives",
+          "En commençant par la conclusion du passage pour remonter au début"
+        ]
+      }
+    },
+    {
+      "recto": "Que faut-il annoncer en introduction d'une explication linéaire ?",
+      "verso": "La situation du passage dans l'œuvre, un projet de lecture et le découpage en mouvements que l'explication va suivre",
+      "explanation": "Le projet de lecture tient lieu de problématique et oriente toute l'explication. Annoncer les mouvements montre d'emblée qu'on a compris l'organisation du texte.",
+      "tags": [
+        "oral",
+        "explication"
+      ],
+      "distractors": {
+        "easy": [
+          "La note que le candidat espère obtenir",
+          "La liste de tous les textes du descriptif",
+          "Le nom de son professeur de français"
+        ],
+        "medium": [
+          "Les trois axes thématiques du commentaire composé",
+          "Le résumé complet de l'œuvre intégrale",
+          "La biographie de l'auteur et le contexte du siècle"
+        ],
+        "hard": [
+          "Le projet de lecture et les figures de style relevées dans l'extrait",
+          "La situation du passage et la réponse apportée par l'explication",
+          "Les mouvements du texte et le plan de l'entretien qui suivra"
+        ]
+      }
+    },
+    {
+      "recto": "Comment justifie-t-on le découpage d'un texte en mouvements ?",
+      "verso": "Par un changement repérable dans le texte, de temps verbal, d'énonciation, de ton, de rythme ou de sujet abordé",
+      "explanation": "Un découpage en parts égales ou calqué sur les paragraphes typographiques ne prouve rien. Le mouvement doit correspondre à une rupture réellement observable.",
+      "tags": [
+        "oral",
+        "explication"
+      ],
+      "distractors": {
+        "easy": [
+          "Par le nombre de lignes de chaque partie",
+          "Par la place des virgules dans le texte",
+          "Par le choix du candidat, qui reste libre"
+        ],
+        "medium": [
+          "Par la présence d'une figure de style importante",
+          "Par la longueur des phrases successives",
+          "Par la répartition des personnages qui interviennent"
+        ],
+        "hard": [
+          "Par le passage d'un champ lexical dominant à un autre, sans autre indice",
+          "Par le découpage en strophes ou en répliques du texte imprimé",
+          "Par la progression thématique annoncée dans le projet de lecture"
+        ]
+      }
+    },
+    {
+      "recto": "Que faire lorsqu'on ne comprend pas la question de grammaire posée à l'oral ?",
+      "verso": "Demander poliment une reformulation à l'examinateur, puis analyser ce qu'on identifie avec certitude en le justifiant par des manipulations",
+      "explanation": "Le silence est plus coûteux qu'une analyse partielle correctement argumentée. La question vaut deux points, elle ne détermine pas la note de l'exposé.",
+      "tags": [
+        "oral",
+        "épreuve"
+      ],
+      "distractors": {
+        "easy": [
+          "Répondre au hasard en espérant tomber juste",
+          "Passer directement à l'entretien",
+          "Dire que ce point n'a pas été étudié en classe"
+        ],
+        "medium": [
+          "Analyser la phrase mot à mot en donnant la nature de chacun",
+          "Réciter la définition la plus proche apprise dans le cours",
+          "Proposer d'analyser une autre phrase du texte à la place"
+        ],
+        "hard": [
+          "Annoncer une réponse ferme quitte à se tromper, l'assurance étant valorisée",
+          "Demander à l'examinateur de choisir un autre point du programme",
+          "Reporter la réponse à la fin de l'entretien"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi apprendre son explication linéaire par cœur est-il risqué ?",
+      "verso": "Parce que la moindre interruption fait perdre le fil et parce qu'une récitation mécanique ne résiste pas aux questions de l'entretien",
+      "explanation": "L'examinateur peut interrompre. Mieux vaut maîtriser le plan et les analyses clés que réciter un texte que la moindre question fait dérailler.",
+      "tags": [
+        "oral",
+        "préparation"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que le règlement de l'épreuve l'interdit",
+          "Parce que l'examinateur dispose du corrigé",
+          "Parce que le temps imparti ne le permet pas"
+        ],
+        "medium": [
+          "Parce que la lecture expressive doit être improvisée",
+          "Parce que le texte expliqué change le jour de l'épreuve",
+          "Parce que la question de grammaire est posée en premier"
+        ],
+        "hard": [
+          "Parce que l'explication linéaire doit être improvisée à partir du seul projet de lecture",
+          "Parce que les mouvements du texte ne peuvent être préparés à l'avance",
+          "Parce que l'entretien porte sur le même texte que l'exposé"
+        ]
+      }
+    },
+    {
+      "recto": "Quel est le premier réflexe d'analyse devant une phrase complexe ?",
+      "verso": "Repérer et compter les verbes conjugués, puis identifier les mots qui relient les propositions entre elles",
+      "explanation": "Ce double repérage donne immédiatement le nombre de propositions et la nature des liens : ponctuation, conjonction de coordination, ou mot subordonnant.",
+      "tags": [
+        "phrase complexe",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Compter le nombre de mots de la phrase",
+          "Repérer les majuscules et les points",
+          "Chercher les adjectifs qualificatifs"
+        ],
+        "medium": [
+          "Identifier le sujet grammatical de la phrase entière",
+          "Relever le champ lexical dominant",
+          "Repérer les figures de style présentes"
+        ],
+        "hard": [
+          "Repérer les mots subordonnants avant de compter les verbes",
+          "Identifier la proposition principale et la supprimer",
+          "Compter les groupes nominaux et leurs expansions"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une proposition principale ?",
+      "verso": "La proposition dont dépendent une ou plusieurs subordonnées et qui, dans la phrase complexe, ne dépend d'aucune autre",
+      "explanation": "Une phrase sans subordonnée ne comporte pas de principale mais des indépendantes : le terme n'a de sens que dans un rapport de subordination.",
+      "tags": [
+        "phrase complexe",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La proposition la plus longue de la phrase",
+          "La première proposition de la phrase",
+          "La proposition contenant l'idée la plus importante du texte"
+        ],
+        "medium": [
+          "La proposition qui ne contient pas de mot subordonnant",
+          "La proposition placée avant la virgule",
+          "La proposition dont le verbe est à l'indicatif"
+        ],
+        "hard": [
+          "La proposition qui ne dépend d'aucune autre dans une phrase sans subordonnée",
+          "La proposition dont le verbe commande l'accord du participe",
+          "La proposition qui porte la négation de la phrase"
+        ]
+      }
+    }
+  ]
+}

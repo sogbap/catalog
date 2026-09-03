@@ -1,0 +1,536 @@
+{
+  "id": "philosophie-terminale-inconscient",
+  "title": "L'inconscient",
+  "emoji": "🌊",
+  "subject": "philosophy",
+  "country": "fr",
+  "courseDescription": "Philosophie · Terminale — l'hypothèse freudienne de l'inconscient : topiques, refoulement, rêve, symptôme, et la question de la responsabilité du sujet.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>L'inconscient</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale (voie générale et technologique)<br>\n  <b>Thème&nbsp;:</b> Philosophie — L'existence humaine et la culture<br>\n  <b>Notion</b> · environ 3 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> Peut-il y avoir en moi des pensées dont je ne sais rien&nbsp;—&nbsp;et si oui, en suis-je encore responsable&nbsp;?</p></blockquote>\n\n<p>La notion paraît d'abord contradictoire. Une pensée que je ne pense pas, un désir que je n'éprouve pas&nbsp;: n'est-ce pas dire qu'il n'y a rien&nbsp;? Toute la tradition issue de Descartes tenait le psychisme pour transparent, et l'inconscient pour un mot désignant simplement l'absence de pensée. Freud renverse cette évidence à partir d'un fait&nbsp;: certains phénomènes ont un <strong>sens précis</strong> alors que celui qui les produit ne peut pas en rendre compte. Il faut alors décider si l'on refuse l'hypothèse pour sauver l'unité du sujet, ou si on l'accepte en acceptant qu'il ne soit plus maître chez lui — sans pour autant s'en faire une excuse.</p>\n\n<h2>1 · Le fait qui impose l'hypothèse</h2>\n\n<p>L'argument de Freud n'est pas spéculatif&nbsp;: il part de phénomènes ordinaires.</p>\n\n<ul>\n  <li>Des <strong>oublis ciblés</strong>&nbsp;: on oublie précisément le rendez-vous que l'on redoutait, jamais celui que l'on attendait.</li>\n  <li>Des <strong>lapsus</strong>&nbsp;: le mot qui sort n'est pas quelconque, il appartient à une autre chaîne de pensée que le sujet ne voulait pas dire.</li>\n  <li>Des <strong>actes manqués</strong>&nbsp;: casser un objet reçu de quelqu'un dont on s'est détaché. L'acte échoue pour l'intention consciente et réussit pour une autre — d'où la formule&nbsp;: <em>un acte manqué est un acte réussi</em>.</li>\n  <li>Des <strong>rêves</strong> et des <strong>symptômes</strong> dont la logique se laisse reconstituer.</li>\n</ul>\n\n<p>Le hasard n'explique pas cette précision. Ou bien ces phénomènes n'ont aucun sens — et il faut renoncer à comprendre leur régularité —, ou bien il faut admettre une <strong>activité psychique qui pense sans que le sujet le sache</strong>.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Inconscient</strong><br>\n  Ensemble de représentations <em>actives</em> mais tenues à l'écart de la conscience. Actives&nbsp;: elles produisent des effets. À l'écart&nbsp;: aucun effort d'attention ne suffit à les rejoindre.\n</div>\n\n<p>La conséquence est considérable. Depuis Descartes, penser et savoir qu'on pense se confondaient. Freud fait de la conscience une <strong>région</strong> du psychisme et non son étendue entière&nbsp;: c'est ce qu'il nomme une blessure infligée à l'amour-propre de l'homme, après Copernic qui l'a déplacé du centre du monde et Darwin qui l'a réinscrit dans la série animale.</p>\n\n<h2>2 · Comment l'appareil psychique est organisé</h2>\n\n<h3>La première topique</h3>\n\n<p>Freud distingue d'abord trois systèmes&nbsp;: le <strong>conscient</strong>, le <strong>préconscient</strong> et l'<strong>inconscient</strong>.</p>\n\n<p>Le préconscient est la pièce décisive du dispositif, et c'est elle que l'on néglige le plus souvent. Il désigne tout ce qui est momentanément absent de la conscience mais <strong>peut y revenir</strong>&nbsp;: un nom que je cherche, un souvenir d'hier. L'inconscient au sens strict, lui, ne le peut pas&nbsp;: il en est <strong>activement maintenu à l'écart</strong>. La différence n'est donc pas une différence de degré, mais de nature.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 210\" role=\"img\" aria-label=\"Schéma de la première topique freudienne : trois couches superposées, le conscient en haut, le préconscient au milieu, l'inconscient en bas et beaucoup plus vaste, séparé du préconscient par une barrière de censure ; une double flèche relie librement conscient et préconscient, tandis qu'une flèche unique et déguisée remonte de l'inconscient\">\n    <defs>\n      <marker id=\"ar-phic1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n    <rect x=\"60\" y=\"8\" width=\"220\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"29\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\" font-weight=\"bold\">Conscient</text>\n    <path d=\"M140,42 L140,60\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-phic1)\"/>\n    <path d=\"M200,60 L200,42\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-phic1)\"/>\n    <rect x=\"60\" y=\"62\" width=\"220\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"170\" y=\"83\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\">Préconscient</text>\n    <text x=\"170\" y=\"110\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">censure — le passage n'est pas libre</text>\n    <line x1=\"30\" y1=\"116\" x2=\"310\" y2=\"116\" stroke=\"var(--accent)\" stroke-opacity=\".6\" stroke-width=\"1.6\" stroke-dasharray=\"5 4\"/>\n    <rect x=\"20\" y=\"128\" width=\"300\" height=\"74\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"170\" y=\"152\" text-anchor=\"middle\" font-size=\"11\" fill=\"currentColor\" font-weight=\"bold\">Inconscient</text>\n    <text x=\"170\" y=\"174\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">représentations refoulées<tspan x=\"170\" dy=\"13\">actives mais inaccessibles</tspan></text>\n    <path d=\"M50,128 L50,100\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" stroke-dasharray=\"3 3\" marker-end=\"url(#ar-phic1)\"/>\n    <text x=\"45\" y=\"60\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\" transform=\"rotate(-90 45 60)\">retour déguisé</text>\n  </svg>\n  <figcaption>Entre conscient et préconscient, la circulation est libre. Entre préconscient et inconscient, il y a une censure&nbsp;: le refoulé ne remonte que déguisé.</figcaption>\n</figure>\n\n<h3>La seconde topique</h3>\n\n<p>Freud reprend plus tard son modèle en termes d'instances en conflit.</p>\n\n<ul>\n  <li>Le <strong>ça</strong>&nbsp;: réservoir des pulsions, entièrement inconscient, sans contradiction ni temps, régi par la seule exigence de satisfaction.</li>\n  <li>Le <strong>surmoi</strong>&nbsp;: intériorisation des interdits et des exigences reçus de l'éducation. <b>Attention&nbsp;:</b> il n'est pas la conscience morale réfléchie, il agit largement à l'insu du sujet et peut être bien plus sévère que la morale qu'il croit professer — d'où les sentiments de culpabilité sans faute identifiable.</li>\n  <li>Le <strong>moi</strong>&nbsp;: instance d'arbitrage, tiraillée entre les exigences du ça, les interdits du surmoi et les contraintes de la réalité. Il n'est pas entièrement conscient lui non plus, puisque les défenses qu'il emploie lui échappent.</li>\n</ul>\n\n<p>C'est de ce modèle que vient la formule&nbsp;: le moi n'est pas maître dans sa propre maison.</p>\n\n<h2>3 · Les mécanismes&nbsp;: refoulement, retour, sublimation</h2>\n\n<p>Le <strong>refoulement</strong> maintient hors de la conscience une représentation devenue insupportable. Il ne l'anéantit pas&nbsp;: elle subsiste et continue d'exercer une pression. C'est pourquoi il échoue toujours en partie, et pourquoi le contenu écarté finit par réapparaître sous une forme déguisée&nbsp;: c'est le <strong>retour du refoulé</strong>. Le déguisement permet de contourner la censure sans être reconnu.</p>\n\n<h3>Le rêve, voie royale</h3>\n\n<p>Le rêve réalise de façon déguisée un désir que la censure interdit d'accomplir. Le déguisement est la condition même du sommeil&nbsp;: un désir exprimé sans détour réveillerait le dormeur.</p>\n\n<p>Deux niveaux se distinguent donc&nbsp;:</p>\n\n<ul>\n  <li>le <strong>contenu manifeste</strong>&nbsp;: le rêve tel qu'il est raconté au réveil&nbsp;;</li>\n  <li>le <strong>contenu latent</strong>&nbsp;: le désir qu'il exprime sous cette forme.</li>\n</ul>\n\n<p>Le passage du second au premier s'appelle le <strong>travail du rêve</strong>&nbsp;; il procède par <em>condensation</em> (plusieurs pensées fondues en une seule image) et <em>déplacement</em> (l'accent affectif glisse sur un détail anodin). Interpréter, ce n'est donc pas deviner&nbsp;: c'est <strong>défaire un travail</strong>.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Schéma du travail du rêve : à gauche le contenu latent, c'est-à-dire le désir refoulé, passe par la censure puis par la condensation et le déplacement pour devenir à droite le contenu manifeste, le rêve raconté ; une flèche de retour figure l'interprétation, qui refait le chemin en sens inverse\">\n    <defs>\n      <marker id=\"ar-phic2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n    <rect x=\"8\" y=\"30\" width=\"96\" height=\"56\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"56\" y=\"52\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Contenu</text>\n    <text x=\"56\" y=\"65\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">latent</text>\n    <text x=\"56\" y=\"79\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">le désir</text>\n    <path d=\"M106,58 L128,58\" stroke=\"var(--accent)\" stroke-width=\"1.6\" fill=\"none\" marker-end=\"url(#ar-phic2)\"/>\n    <rect x=\"132\" y=\"30\" width=\"76\" height=\"56\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"50\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">censure<tspan x=\"170\" dy=\"12\">condensation</tspan><tspan x=\"170\" dy=\"12\">déplacement</tspan></text>\n    <path d=\"M210,58 L232,58\" stroke=\"var(--accent)\" stroke-width=\"1.6\" fill=\"none\" marker-end=\"url(#ar-phic2)\"/>\n    <rect x=\"236\" y=\"30\" width=\"96\" height=\"56\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"284\" y=\"52\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Contenu</text>\n    <text x=\"284\" y=\"65\" text-anchor=\"middle\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">manifeste</text>\n    <text x=\"284\" y=\"79\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">le rêve raconté</text>\n    <path d=\"M284,100 L284,124 L56,124 L56,100\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.4\" fill=\"none\" marker-end=\"url(#ar-phic2)\"/>\n    <text x=\"170\" y=\"145\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">l'interprétation refait le chemin en sens inverse</text>\n    <text x=\"170\" y=\"162\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">elle ne devine pas : elle défait un travail</text>\n  </svg>\n  <figcaption>Le rêve n'est pas un message venu d'ailleurs&nbsp;: c'est une transformation réglée dont l'analyse suit les règles à rebours.</figcaption>\n</figure>\n\n<h3>Principe de plaisir et principe de réalité</h3>\n\n<p>Le premier exige la satisfaction immédiate&nbsp;; le second impose de la <strong>différer</strong> en tenant compte du monde. Le second ne supprime pas le premier&nbsp;: il l'aménage en imposant un détour — détour qui rend possibles le travail, la patience et la vie commune.</p>\n\n<h3>La sublimation</h3>\n\n<p>Une énergie pulsionnelle peut être dérivée vers un but socialement valorisé&nbsp;: la création, la recherche, le soin. C'est le seul destin de la pulsion qui n'engendre pas de symptôme, parce que la satisfaction y est <strong>déplacée et non refoulée</strong>. Pour Freud, la culture y trouve une part de son ressort — mais aussi son coût, puisqu'elle exige un renoncement permanent.</p>\n\n<h3>La cure</h3>\n\n<p>La méthode est l'<strong>association libre</strong>&nbsp;: le patient dit tout ce qui lui vient sans le trier. Le tri opéré par la conscience est en effet l'obstacle même. En le suspendant, la parole laisse apparaître des liens que le sujet n'aurait jamais produits volontairement.</p>\n\n<h2>4 · Les objections philosophiques</h2>\n\n<p>L'hypothèse n'emporte pas l'adhésion. Deux critiques majeures.</p>\n\n<p><strong>Alain</strong> reproche à la notion de transformer une manière de parler en une <strong>seconde personne intérieure</strong>. En disant «&nbsp;mon inconscient a voulu cela&nbsp;», on se donne un autre en soi, à qui l'on attribue ce dont on ne veut pas répondre. La conscience se trouve alors dépossédée de ce qui devrait lui incomber.</p>\n\n<p><strong>Sartre</strong> formule une objection logique&nbsp;: pour refouler une représentation, la censure doit d'abord la reconnaître comme dangereuse — donc la connaître. Elle serait alors consciente de ce qu'elle censure, et l'inconscient s'effondre. Sartre propose à la place la <strong>mauvaise foi</strong>&nbsp;: la conscience se dissimule à elle-même ce qu'elle sait, sans cesser d'être conscience. L'avantage de cette solution est qu'elle maintient entière la responsabilité&nbsp;; son coût est qu'elle rend difficile à expliquer la résistance du symptôme.</p>\n\n<p>Il faut noter enfin que l'idée d'un psychisme non conscient <strong>précède</strong> Freud&nbsp;: <strong>Leibniz</strong> soutenait déjà que le bruit de la vague est composé de bruits de gouttes que je n'entends pas séparément et qui composent pourtant ce que j'entends. Ces <em>petites perceptions</em> ne sont toutefois pas refoulées&nbsp;: elles sont seulement trop faibles. L'apport propre de Freud n'est pas l'inconscient, c'est le <strong>conflit</strong> qui l'entretient.</p>\n\n<h2>5 · Inconscient et responsabilité</h2>\n\n<p>C'est le point où la notion devient un problème moral. Si quelque chose agit en moi à mon insu, puis-je encore répondre de mes actes&nbsp;?</p>\n\n<p>Répondre non conduit à une conséquence intenable&nbsp;: toute faute deviendrait un symptôme, et l'idée même d'imputation disparaîtrait. Freud lui-même refuse cette lecture. La cure n'a de sens que si elle rend le sujet <strong>capable de reconnaître et d'assumer</strong> ce qui parle en lui&nbsp;: elle vise à élargir le domaine dont il peut répondre, non à l'exonérer.</p>\n\n<p>La responsabilité n'est donc pas supprimée, elle est <strong>déplacée</strong>&nbsp;: elle ne consiste plus seulement à contrôler ses actes, mais à ne pas se dérober au travail de savoir ce qui les motive. Invoquer l'inconscient pour n'avoir rien à assumer serait, ironiquement, exactement le genre de conduite de fuite que la psychanalyse apprend à repérer.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Le fil du problème</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 210\" role=\"img\" aria-label=\"Frise du parcours conceptuel du chapitre : d'abord le postulat classique de transparence du psychisme, puis les faits résistants comme le rêve et le lapsus, puis l'hypothèse de l'inconscient et le refoulement, puis les deux topiques, puis les objections d'Alain et de Sartre, enfin le déplacement de la responsabilité\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"196\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Postulat classique</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Le psychisme est transparent</text>\n    <circle cx=\"26\" cy=\"64\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"61\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Les faits résistants</text>\n    <text x=\"44\" y=\"74\" font-size=\"10\" fill=\"currentColor\">Rêve, lapsus, acte manqué</text>\n    <circle cx=\"26\" cy=\"108\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"105\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">L'hypothèse</text>\n    <text x=\"44\" y=\"118\" font-size=\"10\" fill=\"currentColor\">Refoulement et topiques</text>\n    <circle cx=\"26\" cy=\"152\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"149\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Les objections</text>\n    <text x=\"44\" y=\"162\" font-size=\"10\" fill=\"currentColor\">Alain, Sartre : la mauvaise foi</text>\n    <circle cx=\"26\" cy=\"194\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"191\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">L'enjeu</text>\n    <text x=\"44\" y=\"204\" font-size=\"10\" fill=\"currentColor\">Responsabilité déplacée</text>\n  </svg>\n  <figcaption>Le chapitre part d'une évidence, la met en échec par des faits, puis en discute le prix.</figcaption>\n</figure>\n\n<h3>Repères de la notion</h3>\n\n<table>\n  <tr><th>Élément</th><th>Ce qu'il faut retenir</th></tr>\n  <tr><td>Point de départ</td><td>Des phénomènes qui ont un sens sans que le sujet puisse en rendre compte</td></tr>\n  <tr><td>Première topique</td><td>Conscient · préconscient · inconscient</td></tr>\n  <tr><td>Seconde topique</td><td>Ça · moi · surmoi</td></tr>\n  <tr><td>Mécanisme central</td><td>Le refoulement, jamais entièrement réussi</td></tr>\n  <tr><td>Voie d'accès</td><td>Le rêve, le lapsus, l'acte manqué, le symptôme</td></tr>\n  <tr><td>Méthode</td><td>L'association libre, qui suspend le tri conscient</td></tr>\n  <tr><td>Objections</td><td>Alain (une seconde personne) · Sartre (la censure devrait savoir)</td></tr>\n  <tr><td>Enjeu moral</td><td>La responsabilité est déplacée, non supprimée</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition</th></tr>\n  <tr><td>Préconscient</td><td>Ce qui est absent de la conscience mais peut y revenir par l'attention</td></tr>\n  <tr><td>Refoulement</td><td>Maintien actif hors de la conscience d'une représentation insupportable</td></tr>\n  <tr><td>Retour du refoulé</td><td>Réapparition du contenu écarté sous une forme déguisée</td></tr>\n  <tr><td>Contenu latent</td><td>Le désir que le rêve exprime sous son apparence</td></tr>\n  <tr><td>Contenu manifeste</td><td>Le rêve tel qu'il est raconté au réveil</td></tr>\n  <tr><td>Ça</td><td>Réservoir pulsionnel, entièrement inconscient</td></tr>\n  <tr><td>Surmoi</td><td>Intériorisation des interdits, souvent inconsciente et sévère</td></tr>\n  <tr><td>Sublimation</td><td>Dérivation d'une pulsion vers un but socialement valorisé</td></tr>\n  <tr><td>Association libre</td><td>Règle de la cure&nbsp;: tout dire sans trier</td></tr>\n  <tr><td>Mauvaise foi</td><td>Alternative sartrienne&nbsp;: se dissimuler à soi-même sans inconscient</td></tr>\n</table>\n\n<h3>Les auteurs</h3>\n\n<table>\n  <tr><th>Auteur</th><th>Thèse à retenir</th></tr>\n  <tr><td>Freud</td><td>Le psychisme excède la conscience&nbsp;; le refoulement produit des formations qui ont un sens</td></tr>\n  <tr><td>Leibniz</td><td>Il existe des perceptions trop faibles pour être aperçues, mais qui composent ce que nous percevons</td></tr>\n  <tr><td>Alain</td><td>L'inconscient risque d'être une seconde personne à qui l'on délègue sa responsabilité</td></tr>\n  <tr><td>Sartre</td><td>La censure devrait connaître ce qu'elle censure&nbsp;; mieux vaut parler de mauvaise foi</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Confondre l'inconscient avec l'<em>inattention</em> ou l'<em>oubli ordinaire</em>&nbsp;: ce qui est simplement distrait revient par un effort d'attention — c'est le préconscient. Confondre aussi le surmoi avec la conscience morale réfléchie, alors qu'il agit à notre insu. Et surtout, faire de l'inconscient une <strong>excuse</strong>&nbsp;: il ne supprime pas la responsabilité, il en déplace le lieu — de la maîtrise de l'acte vers le travail de reconnaissance de ce qui le motive.\n</div>\n\n<blockquote><p>Reconnaître l'inconscient, ce n'est donc pas renoncer au sujet&nbsp;: c'est cesser de le confondre avec ce qu'il croit savoir de lui-même, et lui donner quelque chose à faire.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Philosophie — L'existence humaine et la culture",
+  "cards": [
+    {
+      "recto": "Quel fait clinique conduit Freud à poser l'hypothèse d'un inconscient psychique ?",
+      "verso": "L'existence de phénomènes qui ont un sens précis alors que le sujet qui les produit ne peut pas en rendre compte",
+      "explanation": "Rêves, lapsus, oublis ciblés et symptômes ne sont pas des accidents sans logique : ils obéissent à une intention repérable. Il faut donc admettre une activité psychique qui pense sans que le sujet le sache.",
+      "tags": [
+        "hypothèse",
+        "Freud"
+      ],
+      "distractors": {
+        "easy": [
+          "L'existence du sommeil profond",
+          "L'observation du cerveau au microscope",
+          "L'étude du comportement animal"
+        ],
+        "medium": [
+          "La mesure statistique des comportements",
+          "L'analyse des maladies purement organiques",
+          "L'observation des réflexes involontaires"
+        ],
+        "hard": [
+          "L'existence de souvenirs que l'on retrouve par un effort d'attention",
+          "L'impossibilité de définir la conscience",
+          "La constatation que les hommes se contredisent"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi l'hypothèse de l'inconscient constitue-t-elle une rupture dans l'histoire de la philosophie du sujet ?",
+      "verso": "Parce qu'elle ôte au psychisme sa coïncidence avec la conscience : penser cesse d'être nécessairement savoir qu'on pense",
+      "explanation": "Depuis Descartes, l'esprit était supposé transparent à lui-même. Freud fait de la conscience une région du psychisme, et non plus son étendue entière. C'est ce que l'on appelle une blessure narcissique infligée à l'homme.",
+      "tags": [
+        "rupture",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'elle nie l'existence de la pensée",
+          "Parce qu'elle rend la philosophie inutile",
+          "Parce qu'elle prouve que l'homme est un animal"
+        ],
+        "medium": [
+          "Parce qu'elle réduit l'esprit au cerveau",
+          "Parce qu'elle supprime la notion de sujet",
+          "Parce qu'elle remplace la philosophie par la médecine"
+        ],
+        "hard": [
+          "Parce qu'elle démontre que la conscience n'existe pas",
+          "Parce qu'elle fait du psychisme un phénomène purement social",
+          "Parce qu'elle établit que toute pensée est fausse"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles sont les trois instances de la première topique freudienne ?",
+      "verso": "Le conscient, le préconscient et l'inconscient",
+      "explanation": "Le préconscient est décisif pour comprendre la thèse : il désigne ce qui est momentanément absent de la conscience mais peut y revenir. L'inconscient proprement dit, lui, ne le peut pas sans un travail particulier.",
+      "tags": [
+        "topique",
+        "Freud"
+      ],
+      "distractors": {
+        "easy": [
+          "Le corps, l'âme et l'esprit",
+          "La mémoire, l'imagination et la raison",
+          "Le passé, le présent et l'avenir"
+        ],
+        "medium": [
+          "Le ça, le moi et le surmoi",
+          "La perception, le jugement et la volonté",
+          "Le désir, la pensée et l'action"
+        ],
+        "hard": [
+          "Le conscient, le subconscient et l'infraconscient",
+          "Le refoulé, le sublimé et le manifeste",
+          "Le moi idéal, l'idéal du moi et le narcissisme"
+        ]
+      }
+    },
+    {
+      "recto": "Ne pas confondre : quelle différence sépare le préconscient de l'inconscient au sens strict ?",
+      "verso": "Le préconscient peut revenir à la conscience par un simple effort d'attention, l'inconscient en est activement maintenu à l'écart",
+      "explanation": "C'est la distinction qui empêche le contresens le plus courant. Un nom que je retrouve en cherchant est préconscient ; un souvenir que le refoulement écarte reste inaccessible malgré l'effort. La différence n'est pas de degré mais de nature.",
+      "tags": [
+        "comparaison",
+        "topique"
+      ],
+      "distractors": {
+        "easy": [
+          "Le préconscient est le sommeil, l'inconscient la veille",
+          "Le préconscient concerne le corps, l'inconscient l'esprit",
+          "Ce sont deux mots pour la même chose"
+        ],
+        "medium": [
+          "L'inconscient revient par l'attention, le préconscient non",
+          "Le préconscient est refoulé, l'inconscient est oublié",
+          "Le préconscient est individuel, l'inconscient est collectif"
+        ],
+        "hard": [
+          "Le préconscient est inaccessible en droit, l'inconscient seulement en fait",
+          "L'inconscient est inactif, le préconscient est actif",
+          "Le préconscient contient les pulsions, l'inconscient les souvenirs"
+        ]
+      }
+    },
+    {
+      "recto": "Comment nomme-t-on l'opération par laquelle une représentation insupportable est maintenue hors de la conscience ?",
+      "verso": "Le refoulement",
+      "explanation": "Il ne s'agit ni d'un oubli ni d'un renoncement : la représentation subsiste et continue d'exercer une pression. C'est pourquoi elle finit par se manifester autrement, sous une forme déguisée.",
+      "tags": [
+        "mécanisme",
+        "Freud"
+      ],
+      "distractors": {
+        "easy": [
+          "La distraction",
+          "La fatigue",
+          "L'indifférence"
+        ],
+        "medium": [
+          "La censure morale",
+          "L'oubli volontaire",
+          "La résignation"
+        ],
+        "hard": [
+          "La sublimation",
+          "La dénégation",
+          "La régression"
+        ]
+      }
+    },
+    {
+      "recto": "Que désigne l'expression « retour du refoulé » ?",
+      "verso": "Le fait que le contenu refoulé réapparaisse sous une forme déguisée, dans un rêve, un lapsus ou un symptôme",
+      "explanation": "Le refoulement échoue toujours en partie : ce qui a été écarté continue de chercher une expression. Le déguisement permet de contourner la censure sans être reconnu.",
+      "tags": [
+        "mécanisme",
+        "Freud"
+      ],
+      "distractors": {
+        "easy": [
+          "Le retour d'un souvenir agréable",
+          "Le fait de se rappeler brusquement un nom",
+          "Le retour à l'enfance"
+        ],
+        "medium": [
+          "La disparition définitive du contenu refoulé",
+          "La prise de conscience spontanée du refoulé",
+          "Le refoulement d'un second contenu"
+        ],
+        "hard": [
+          "La transformation du refoulé en principe moral",
+          "Le retour du refoulé sous une forme identique et reconnaissable",
+          "La conversion du refoulé en volonté consciente"
+        ]
+      }
+    },
+    {
+      "recto": "Que distingue-t-on dans un rêve entre son contenu manifeste et son contenu latent ?",
+      "verso": "Le contenu manifeste est le rêve tel qu'il est raconté, le contenu latent est le désir qu'il exprime de façon déguisée",
+      "explanation": "Le travail du rêve transforme le second en premier par condensation et déplacement. L'interprétation refait le chemin en sens inverse : elle ne devine pas, elle défait un travail.",
+      "tags": [
+        "rêve",
+        "Freud"
+      ],
+      "distractors": {
+        "easy": [
+          "Le manifeste est vrai, le latent est faux",
+          "Le manifeste est visuel, le latent est sonore",
+          "Le manifeste est court, le latent est long"
+        ],
+        "medium": [
+          "Le latent est le rêve raconté, le manifeste le désir caché",
+          "Le manifeste est le rêve du matin, le latent celui de la nuit",
+          "Le manifeste concerne le présent, le latent le futur"
+        ],
+        "hard": [
+          "Le contenu latent est directement accessible par la mémoire",
+          "Le contenu manifeste est produit sans aucune déformation",
+          "Le contenu latent est identique chez tous les rêveurs"
+        ]
+      }
+    },
+    {
+      "recto": "Selon Freud, quelle fonction le rêve remplit-il pour le psychisme ?",
+      "verso": "Il réalise de façon déguisée un désir que la censure interdit d'accomplir",
+      "explanation": "Le déguisement est la condition du sommeil : un désir exprimé sans détour réveillerait le dormeur. Le rêve est donc à la fois une satisfaction et une protection.",
+      "tags": [
+        "rêve",
+        "Freud"
+      ],
+      "distractors": {
+        "easy": [
+          "Il annonce l'avenir",
+          "Il repose le cerveau sans autre fonction",
+          "Il n'a aucune fonction, c'est un hasard"
+        ],
+        "medium": [
+          "Il classe les souvenirs de la journée",
+          "Il exprime directement les désirs sans déguisement",
+          "Il transmet un message venu de l'extérieur"
+        ],
+        "hard": [
+          "Il supprime définitivement le désir refoulé",
+          "Il traduit fidèlement l'état du corps pendant le sommeil",
+          "Il réalise un devoir moral que la veille empêchait"
+        ]
+      }
+    },
+    {
+      "recto": "Comment nomme-t-on l'acte par lequel on réalise autre chose que ce que l'on avait l'intention de faire, d'une manière qui a pourtant un sens ?",
+      "verso": "L'acte manqué",
+      "explanation": "Oublier un rendez-vous que l'on redoutait, casser un objet reçu de quelqu'un que l'on n'aime plus : l'acte échoue pour l'intention consciente et réussit pour une autre. C'est en ce sens que Freud dit qu'un acte manqué est un acte réussi.",
+      "tags": [
+        "manifestation",
+        "Freud"
+      ],
+      "distractors": {
+        "easy": [
+          "La maladresse",
+          "L'erreur de calcul",
+          "L'accident"
+        ],
+        "medium": [
+          "Le lapsus",
+          "L'oubli ordinaire",
+          "La négligence"
+        ],
+        "hard": [
+          "L'acte gratuit",
+          "L'acte compulsif",
+          "L'automatisme moteur"
+        ]
+      }
+    },
+    {
+      "recto": "Que révèle un lapsus selon la psychanalyse ?",
+      "verso": "Qu'une intention écartée par la conscience s'est substituée à celle que le sujet voulait exprimer",
+      "explanation": "Le mot qui sort n'est pas quelconque : il appartient à une autre chaîne de pensée que le sujet ne voulait pas dire. Le hasard n'explique pas la précision du remplacement.",
+      "tags": [
+        "manifestation",
+        "Freud"
+      ],
+      "distractors": {
+        "easy": [
+          "Une simple fatigue de la parole",
+          "Un défaut de prononciation",
+          "Une erreur de grammaire"
+        ],
+        "medium": [
+          "Un manque de vocabulaire",
+          "Une distraction passagère sans signification",
+          "Une imitation involontaire d'autrui"
+        ],
+        "hard": [
+          "Une intention consciente que le sujet dissimule volontairement",
+          "Un dysfonctionnement purement mécanique du langage",
+          "Une pensée du sujet parfaitement accessible à sa mémoire"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles sont les trois instances de la seconde topique freudienne ?",
+      "verso": "Le ça, le moi et le surmoi",
+      "explanation": "Le ça est le réservoir des pulsions, le surmoi l'intériorisation des interdits, le moi l'instance qui arbitre entre les deux et la réalité. Le conflit psychique devient ainsi un conflit d'instances.",
+      "tags": [
+        "topique",
+        "Freud"
+      ],
+      "distractors": {
+        "easy": [
+          "Le corps, l'âme et l'esprit",
+          "L'enfance, l'adolescence et l'âge adulte",
+          "Le désir, la raison et la volonté"
+        ],
+        "medium": [
+          "Le conscient, le préconscient et l'inconscient",
+          "Le plaisir, la réalité et la morale",
+          "L'instinct, l'habitude et la culture"
+        ],
+        "hard": [
+          "Le moi, le non-moi et le surmoi",
+          "Le ça, le sur-moi et l'idéal du moi",
+          "Le narcissisme, la libido et la pulsion de mort"
+        ]
+      }
+    },
+    {
+      "recto": "Quel rôle le surmoi joue-t-il dans l'appareil psychique ?",
+      "verso": "Il intériorise les interdits et les exigences reçus de l'éducation et les fait valoir contre les pulsions du ça",
+      "explanation": "Le surmoi n'est pas la conscience morale réfléchie : il agit largement à l'insu du sujet et peut se montrer beaucoup plus sévère que la morale qu'il croit professer. Le sentiment de culpabilité sans faute identifiable en vient.",
+      "tags": [
+        "topique",
+        "Freud"
+      ],
+      "distractors": {
+        "easy": [
+          "Il satisfait immédiatement tous les désirs",
+          "Il assure la perception du monde extérieur",
+          "Il n'a aucun effet sur le comportement"
+        ],
+        "medium": [
+          "Il désigne la partie consciente et raisonnable du psychisme",
+          "Il représente les pulsions dans leur état brut",
+          "Il gère uniquement les relations sociales"
+        ],
+        "hard": [
+          "Il coïncide exactement avec la morale que le sujet approuve",
+          "Il agit toujours de manière consciente et délibérée",
+          "Il protège le moi de toute exigence extérieure"
+        ]
+      }
+    },
+    {
+      "recto": "Ne pas confondre : qu'oppose-t-on dans le couple principe de plaisir et principe de réalité ?",
+      "verso": "L'exigence de satisfaction immédiate contre la capacité de différer cette satisfaction en tenant compte du monde",
+      "explanation": "Le second ne supprime pas le premier : il l'aménage, en imposant un détour. Ce détour est la condition du travail, de la patience et de la vie en société.",
+      "tags": [
+        "principe",
+        "Freud"
+      ],
+      "distractors": {
+        "easy": [
+          "Le plaisir du corps contre le plaisir de l'esprit",
+          "Le bien contre le mal",
+          "Le rêve contre la veille"
+        ],
+        "medium": [
+          "La capacité de différer contre l'exigence de satisfaction immédiate",
+          "L'égoïsme contre l'altruisme",
+          "L'enfance contre l'âge adulte"
+        ],
+        "hard": [
+          "Le principe de réalité supprime définitivement le principe de plaisir",
+          "Le principe de plaisir est propre à la conscience, celui de réalité à l'inconscient",
+          "Le principe de réalité est un interdit moral extérieur"
+        ]
+      }
+    },
+    {
+      "recto": "Comment nomme-t-on la dérivation d'une énergie pulsionnelle vers un but socialement valorisé, comme l'art ou la recherche ?",
+      "verso": "La sublimation",
+      "explanation": "C'est le seul destin de la pulsion qui n'engendre pas de symptôme : la satisfaction est déplacée, non refoulée. La création culturelle y trouve pour Freud une part de son ressort.",
+      "tags": [
+        "mécanisme",
+        "Freud"
+      ],
+      "distractors": {
+        "easy": [
+          "L'inspiration",
+          "L'imagination",
+          "L'éducation"
+        ],
+        "medium": [
+          "Le refoulement",
+          "L'idéalisation",
+          "La compensation"
+        ],
+        "hard": [
+          "Le déplacement",
+          "La condensation",
+          "Le transfert"
+        ]
+      }
+    },
+    {
+      "recto": "Sur quelle méthode repose la cure psychanalytique ?",
+      "verso": "L'association libre : le patient dit tout ce qui lui vient sans le trier, pour que la censure se relâche",
+      "explanation": "Le tri opéré par la conscience est précisément l'obstacle. En le suspendant, la parole laisse apparaître des liens que le sujet n'aurait pas produits volontairement.",
+      "tags": [
+        "méthode",
+        "Freud"
+      ],
+      "distractors": {
+        "easy": [
+          "L'hypnose profonde exclusivement",
+          "L'administration de médicaments",
+          "L'observation du comportement extérieur"
+        ],
+        "medium": [
+          "L'interrogatoire méthodique du patient",
+          "La mesure de l'activité cérébrale",
+          "La confrontation directe du patient à sa peur"
+        ],
+        "hard": [
+          "L'introspection dirigée par le patient seul",
+          "L'interprétation immédiate imposée par l'analyste",
+          "La reconstitution objective de la biographie du patient"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle objection Alain adresse-t-il à la notion d'inconscient ?",
+      "verso": "Qu'elle transforme une manière de parler en une seconde personne intérieure que l'on rend responsable à notre place",
+      "explanation": "Le reproche est philosophique et non clinique : substantialiser l'inconscient reviendrait à se donner un autre en soi. La conscience serait alors dépossédée de ce dont elle devrait répondre.",
+      "tags": [
+        "objection",
+        "Alain"
+      ],
+      "distractors": {
+        "easy": [
+          "Qu'elle est trop compliquée à comprendre",
+          "Qu'elle n'a pas été inventée par un philosophe",
+          "Qu'elle est trop récente"
+        ],
+        "medium": [
+          "Qu'elle ne s'appuie sur aucune observation clinique",
+          "Qu'elle contredit l'existence des rêves",
+          "Qu'elle rend la morale impossible à enseigner"
+        ],
+        "hard": [
+          "Qu'elle repose sur une confusion entre le préconscient et le refoulé",
+          "Qu'elle est incompatible avec l'existence du langage",
+          "Qu'elle démontre trop bien la liberté du sujet"
+        ]
+      }
+    },
+    {
+      "recto": "Comment Sartre remplace-t-il l'hypothèse de l'inconscient pour rendre compte du mensonge à soi-même ?",
+      "verso": "Par la mauvaise foi, où la conscience se dissimule à elle-même ce qu'elle sait, sans cesser d'être conscience",
+      "explanation": "L'argument est logique : pour refouler une représentation, il faudrait déjà la reconnaître comme dangereuse, donc la connaître. La censure devrait être consciente de ce qu'elle censure.",
+      "tags": [
+        "objection",
+        "Sartre"
+      ],
+      "distractors": {
+        "easy": [
+          "Par le simple mensonge fait aux autres",
+          "Par l'oubli naturel",
+          "Par l'ignorance"
+        ],
+        "medium": [
+          "Par la faiblesse de la volonté",
+          "Par le poids des habitudes sociales",
+          "Par l'erreur de jugement"
+        ],
+        "hard": [
+          "Par une censure inconsciente mais rationnelle",
+          "Par la mauvaise conscience morale",
+          "Par l'aliénation dans le regard d'autrui"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : l'existence de l'inconscient supprime-t-elle la responsabilité du sujet ?",
+      "verso": "Non : elle déplace la responsabilité vers la tâche de reconnaître ce qui agit en nous plutôt que de s'en décharger",
+      "explanation": "C'est le contresens majeur du chapitre. Freud lui-même refuse l'excuse : le sujet est invité à assumer ce qui parle en lui, et le sens même de la cure est de rendre le sujet capable de s'en répondre. Invoquer l'inconscient pour ne rien avoir à assumer est précisément une conduite de fuite.",
+      "tags": [
+        "piege",
+        "responsabilité"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, on n'est jamais responsable de ce qu'on ignore",
+          "Oui, l'inconscient décide de tout à notre place",
+          "Oui, la psychanalyse le démontre"
+        ],
+        "medium": [
+          "Oui, sauf pour les actes prémédités",
+          "Non, car l'inconscient n'existe pas",
+          "Oui, car la conscience ne contrôle plus rien"
+        ],
+        "hard": [
+          "Oui, car le refoulement est un mécanisme automatique donc excusable",
+          "Non, car l'inconscient est en réalité entièrement accessible",
+          "Oui, car la responsabilité suppose une transparence totale à soi"
+        ]
+      }
+    },
+    {
+      "recto": "Quel penseur, bien avant Freud, avait déjà admis des perceptions dont nous n'avons pas conscience ?",
+      "verso": "Leibniz, avec la thèse des petites perceptions",
+      "explanation": "Le bruit de la vague est fait de bruits de gouttes que je n'entends pas séparément et qui composent pourtant ce que j'entends. L'idée d'un psychisme non conscient précède donc la psychanalyse, mais sans la notion de refoulement.",
+      "tags": [
+        "histoire",
+        "Leibniz"
+      ],
+      "distractors": {
+        "easy": [
+          "Descartes",
+          "Socrate",
+          "Kant"
+        ],
+        "medium": [
+          "Spinoza",
+          "Rousseau",
+          "Hume"
+        ],
+        "hard": [
+          "Schopenhauer",
+          "Nietzsche",
+          "Malebranche"
+        ]
+      }
+    },
+    {
+      "recto": "Quel bilan peut-on dresser sur l'inconscient ?",
+      "verso": "C'est une hypothèse qui donne un sens à ce qui semblait absurde dans la vie psychique, au prix d'une conception du sujet qui n'est plus maître chez lui",
+      "explanation": "Deux exigences doivent être tenues ensemble : reconnaître que le sujet ne se possède pas entièrement, et refuser d'en faire une excuse. C'est la tension propre à la notion.",
+      "tags": [
+        "synthèse",
+        "bilan"
+      ],
+      "distractors": {
+        "easy": [
+          "C'est une théorie entièrement démontrée par la biologie",
+          "C'est une invention sans aucun intérêt",
+          "C'est un autre nom pour le sommeil"
+        ],
+        "medium": [
+          "C'est une hypothèse qui rend la conscience inutile",
+          "C'est une doctrine qui supprime la notion de désir",
+          "C'est une théorie qui prouve que l'homme n'est pas libre"
+        ],
+        "hard": [
+          "C'est une hypothèse qui restitue au sujet une maîtrise complète de lui-même",
+          "C'est une théorie purement morale sans portée clinique",
+          "C'est une thèse qui identifie le psychisme au fonctionnement du cerveau"
+        ]
+      }
+    }
+  ]
+}

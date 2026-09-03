@@ -1,0 +1,614 @@
+{
+  "id": "mathematiques-terminale-fonction-logarithme",
+  "title": "La fonction logarithme népérien",
+  "emoji": "🪵",
+  "subject": "mathematics",
+  "country": "fr",
+  "courseDescription": "Spé Maths · Terminale — logarithme comme fonction réciproque de l'exponentielle, propriétés algébriques, étude complète et résolution d'équations.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>La fonction logarithme népérien</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · spécialité Mathématiques<br>\n  <b>Thème&nbsp;:</b> Analyse — fonctions de référence<br>\n  <b>Chapitre</b> · environ 3 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> Comment ramener à x un exposant qui contient l'inconnue&nbsp;?</p></blockquote>\n\n<p>L'exponentielle a un défaut pratique&nbsp;: elle enferme l'inconnue dans un exposant, d'où l'on ne peut pas la sortir par les opérations habituelles. Il faut une fonction qui <em>défasse</em> ce que l'exponentielle a fait. C'est le <strong>logarithme népérien</strong>&nbsp;— et comme il défait un mécanisme qui transformait les sommes en produits, il transforme réciproquement les <strong>produits en sommes</strong>. Cette symétrie est la clé du chapitre&nbsp;: presque chaque propriété du logarithme se lit comme le reflet d'une propriété de l'exponentielle.</p>\n\n<h2>1 · Définition</h2>\n\n<p>Le logarithme népérien est la <strong>fonction réciproque de l'exponentielle</strong>&nbsp;: ln(x) est l'unique réel dont l'exponentielle vaut x.</p>\n\n<p>Cette définition n'a de sens que parce que l'exponentielle est continue et strictement croissante de ℝ vers ]0&nbsp;; +∞[&nbsp;: c'est le corollaire du théorème des valeurs intermédiaires qui garantit l'existence et l'unicité de cet antécédent.</p>\n\n<p>D'où le <strong>domaine de définition</strong>&nbsp;: ]0&nbsp;; +∞[, les réels strictement positifs. Cette restriction n'est pas une convention&nbsp;: elle vient directement de l'ensemble des valeurs prises par l'exponentielle.</p>\n\n<h3>La relation de réciprocité</h3>\n\n<table>\n  <tr><th>Égalité</th><th>Domaine de validité</th></tr>\n  <tr><td>ln(e<sup>x</sup>) = x</td><td>Pour tout réel x</td></tr>\n  <tr><td>e<sup>ln x</sup> = x</td><td>Pour x &gt; 0 seulement</td></tr>\n</table>\n\n<p><b>La dissymétrie des domaines est essentielle</b>&nbsp;: la première égalité vaut partout, la seconde uniquement sur les positifs stricts. L'oublier conduit à écrire des égalités fausses.</p>\n\n<h2>2 · Les propriétés algébriques</h2>\n\n<p>Une seule relation compte&nbsp;:</p>\n\n<p><strong>ln(ab) = ln(a) + ln(b)</strong>, pour a et b strictement positifs.</p>\n\n<p>C'est le miroir exact de e<sup>a+b</sup> = e<sup>a</sup>e<sup>b</sup>. Historiquement, c'est cette propriété qui a fait du logarithme un instrument de calcul&nbsp;: elle remplaçait des multiplications pénibles par des additions.</p>\n\n<table>\n  <tr><th>Relation</th><th>Usage</th></tr>\n  <tr><td>ln(ab) = ln a + ln b</td><td>Propriété fondamentale</td></tr>\n  <tr><td>ln(a/b) = ln a − ln b</td><td>Simplifier un quotient</td></tr>\n  <tr><td>ln(1/a) = −ln a</td><td>Symétrie autour de 1</td></tr>\n  <tr><td>ln(a<sup>n</sup>) = n ln a</td><td><strong>Faire descendre un exposant</strong></td></tr>\n  <tr><td>ln(1) = 0&nbsp;; ln(e) = 1</td><td>Valeurs de référence</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>L'erreur la plus répandue du chapitre</strong><br>\n  Le logarithme d'une <em>somme</em> ne se décompose pas. Seule la propriété du produit existe. Contre-exemple immédiat&nbsp;: ln(1 + 1) = ln 2 ≈ 0,69, alors que ln(1) + ln(1) = 0. Un seul cas suffit à écarter la règle.\n</div>\n\n<h2>3 · Étude de la fonction</h2>\n\n<p><strong>Dérivée&nbsp;:</strong> ln&nbsp;′(x) = 1/x sur ]0&nbsp;; +∞[. Elle est strictement positive sur le domaine, donc le logarithme est <strong>strictement croissant</strong>.</p>\n\n<p><strong>Dérivée seconde&nbsp;:</strong> −1/x², strictement négative. Le logarithme est donc <strong>concave</strong> — alors même qu'il est croissant. C'est le rappel que convexité et monotonie sont indépendantes.</p>\n\n<table>\n  <tr><th>En 0<sup>+</sup></th><th>En 1</th><th>En +∞</th></tr>\n  <tr><td>Limite −∞ (asymptote verticale&nbsp;: l'axe des ordonnées)</td><td>S'annule&nbsp;; tangente y = x − 1</td><td>Limite +∞</td></tr>\n</table>\n\n<p><strong>Signe&nbsp;:</strong> négatif sur ]0&nbsp;; 1[, nul en 1, positif sur ]1&nbsp;; +∞[. Ce repère est indispensable dès qu'on étudie le signe d'une expression contenant un logarithme.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Courbes de l'exponentielle et du logarithme symétriques par rapport à la première bissectrice : l'exponentielle est convexe avec une asymptote horizontale, le logarithme est concave avec une asymptote verticale, et les deux courbes se déduisent l'une de l'autre par échange des axes\">\n    <line x1=\"16\" y1=\"150\" x2=\"326\" y2=\"150\" stroke=\"currentColor\" stroke-opacity=\".3\"/>\n    <line x1=\"60\" y1=\"16\" x2=\"60\" y2=\"180\" stroke=\"currentColor\" stroke-opacity=\".3\"/>\n    <line x1=\"16\" y1=\"194\" x2=\"326\" y2=\"-116\" stroke=\"currentColor\" stroke-opacity=\".25\" stroke-dasharray=\"4 4\"/>\n    <text x=\"264\" y=\"46\" font-size=\"8\" class=\"s-muted\">y = x</text>\n    <path d=\"M18,148 C48,146 66,132 92,96 C112,68 124,40 132,20\" stroke=\"var(--accent)\" stroke-width=\"2\" fill=\"none\"/>\n    <text x=\"136\" y=\"30\" font-size=\"8\" fill=\"var(--accent)\">exp</text>\n    <path d=\"M62,182 C64,148 78,124 110,110 C150,94 200,80 322,58\" stroke=\"var(--accent)\" stroke-width=\"2\" fill=\"none\" stroke-opacity=\".75\"/>\n    <text x=\"300\" y=\"72\" font-size=\"8\" fill=\"var(--accent)\">ln</text>\n    <text x=\"24\" y=\"140\" font-size=\"8\" class=\"s-muted\">asymptote y = 0</text>\n    <text x=\"66\" y=\"186\" font-size=\"8\" class=\"s-muted\">asymptote x = 0</text>\n    <text x=\"170\" y=\"196\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">convexe et concave : la symétrie échange les axes</text>\n  </svg>\n  <figcaption>La symétrie par rapport à la droite y = x transforme l'asymptote horizontale de l'exponentielle en asymptote verticale du logarithme.</figcaption>\n</figure>\n\n<h3>Inégalité de convexité</h3>\n\n<p><strong>ln(x) ≤ x − 1</strong> pour tout x &gt; 0. La courbe est en dessous de sa tangente en 1, d'équation y = x − 1&nbsp;— pendant exact de l'inégalité e<sup>x</sup> ≥ x + 1.</p>\n\n<h3>Croissances comparées</h3>\n\n<p>Le logarithme croît <em>moins vite</em> que n'importe quelle puissance&nbsp;:</p>\n\n<ul>\n  <li>ln(x)/x tend vers <strong>0</strong> en +∞&nbsp;;</li>\n  <li>x&nbsp;ln(x) tend vers <strong>0</strong> quand x tend vers 0<sup>+</sup>.</li>\n</ul>\n\n<h3>Dérivée composée</h3>\n\n<p>(ln u)&nbsp;′ = u&nbsp;′ / u, là où u &gt; 0. Le dénominateur étant positif, <strong>le quotient a le signe de u&nbsp;′</strong> — ce qui simplifie considérablement les tableaux de signes.</p>\n\n<h2>4 · Résoudre équations et inéquations</h2>\n\n<p>Le point délicat n'est pas la résolution mais les <strong>conditions d'existence</strong>, qui doivent être posées <em>avant</em> tout calcul.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Méthode de résolution d'une équation logarithmique en trois étapes : d'abord déterminer les conditions d'existence en imposant que chaque argument soit strictement positif, puis résoudre en égalant les arguments, enfin écarter les solutions hors du domaine\">\n    <defs>\n      <marker id=\"ar-mslo1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n    <rect x=\"46\" y=\"14\" width=\"248\" height=\"36\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"30\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\" font-weight=\"bold\">1. Conditions d'existence</text>\n    <text x=\"170\" y=\"44\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">chaque argument strictement positif</text>\n    <path d=\"M170,50 L170,68\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-mslo1)\"/>\n    <rect x=\"46\" y=\"72\" width=\"248\" height=\"36\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"170\" y=\"88\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\" font-weight=\"bold\">2. Résoudre</text>\n    <text x=\"170\" y=\"102\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">égalité des arguments ; sens conservé</text>\n    <path d=\"M170,108 L170,126\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-mslo1)\"/>\n    <rect x=\"46\" y=\"130\" width=\"248\" height=\"36\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"170\" y=\"146\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\" font-weight=\"bold\">3. Confronter au domaine</text>\n    <text x=\"170\" y=\"160\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">écarter les solutions interdites</text>\n    <text x=\"170\" y=\"182\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">l'étape 3 fait partie de la réponse attendue</text>\n  </svg>\n  <figcaption>Inverser les étapes 1 et 2 produit des solutions qui n'appartiennent pas au domaine&nbsp;— et les laisse passer.</figcaption>\n</figure>\n\n<p>Pour une <strong>inéquation</strong>, la stricte croissance du logarithme fait que <strong>le sens ne s'inverse jamais</strong>. La difficulté vient uniquement des conditions d'existence, qui restreignent l'ensemble solution.</p>\n\n<h3>L'usage décisif&nbsp;: faire descendre un exposant</h3>\n\n<p>Quand l'inconnue figure en exposant, on applique le logarithme aux deux membres&nbsp;— ce qui transforme l'exposant en <em>facteur multiplicatif</em>. C'est ainsi qu'on détermine à partir de quel rang une suite géométrique franchit un seuil.</p>\n\n<div class=\"callout\">\n  <strong>Le point où l'on se trompe</strong><br>\n  Pour une raison q comprise entre 0 et 1, ln(q) est <strong>négatif</strong>. Diviser l'inéquation par ln(q) <em>inverse le sens</em>. L'inversion ne vient pas du logarithme lui-même — qui est croissant — mais de la division par un nombre négatif. L'oublier donne un rang absurde.\n</div>\n\n<h3>Demi-vie et temps de doublement</h3>\n\n<p>On résout l'équation où le rapport à l'état initial vaut 1/2 ou 2. Le logarithme apparaît alors divisé par le coefficient de l'exponentielle. <strong>Le résultat ne dépend pas de la valeur initiale</strong>&nbsp;: c'est la propriété caractéristique des évolutions exponentielles, et ce qui permet de parler d'une demi-vie propre à un noyau.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>La symétrie exponentielle / logarithme</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 195\" role=\"img\" aria-label=\"Tableau de correspondance entre les propriétés de l'exponentielle et celles du logarithme : la première transforme les sommes en produits et la seconde les produits en sommes, l'une est convexe et l'autre concave, l'une est définie sur tous les réels et l'autre sur les réels strictement positifs\">\n    <text x=\"170\" y=\"14\" text-anchor=\"middle\" font-size=\"10\" class=\"s-muted\">Chaque propriété se répond terme à terme</text>\n    <rect x=\"6\" y=\"24\" width=\"156\" height=\"150\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"84\" y=\"44\" text-anchor=\"middle\" font-size=\"11\" fill=\"var(--accent)\" font-weight=\"bold\">Exponentielle</text>\n    <text x=\"84\" y=\"68\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">somme → produit</text>\n    <text x=\"84\" y=\"88\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">définie sur ℝ</text>\n    <text x=\"84\" y=\"108\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">valeurs dans ]0 ; +∞[</text>\n    <text x=\"84\" y=\"128\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">convexe</text>\n    <text x=\"84\" y=\"148\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">asymptote horizontale</text>\n    <text x=\"84\" y=\"166\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">e^x ≥ x + 1</text>\n    <rect x=\"178\" y=\"24\" width=\"156\" height=\"150\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"256\" y=\"44\" text-anchor=\"middle\" font-size=\"11\" fill=\"var(--accent)\" font-weight=\"bold\">Logarithme</text>\n    <text x=\"256\" y=\"68\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">produit → somme</text>\n    <text x=\"256\" y=\"88\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">définie sur ]0 ; +∞[</text>\n    <text x=\"256\" y=\"108\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">valeurs dans ℝ</text>\n    <text x=\"256\" y=\"128\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">concave</text>\n    <text x=\"256\" y=\"148\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">asymptote verticale</text>\n    <text x=\"256\" y=\"166\" text-anchor=\"middle\" font-size=\"8\" class=\"s-muted\">ln x ≤ x − 1</text>\n  </svg>\n  <figcaption>Retenir l'une des deux colonnes suffit&nbsp;: l'autre s'en déduit par symétrie, à condition de ne pas oublier que les domaines s'échangent.</figcaption>\n</figure>\n\n<h3>Formules à connaître</h3>\n\n<table>\n  <tr><th>Objet</th><th>Formule</th></tr>\n  <tr><td>Réciprocité</td><td>ln(e<sup>x</sup>) = x&nbsp;; e<sup>ln x</sup> = x pour x &gt; 0</td></tr>\n  <tr><td>Produit</td><td>ln(ab) = ln a + ln b</td></tr>\n  <tr><td>Puissance</td><td>ln(a<sup>n</sup>) = n ln a</td></tr>\n  <tr><td>Dérivée</td><td>ln&nbsp;′(x) = 1/x&nbsp;; (ln u)&nbsp;′ = u&nbsp;′/u</td></tr>\n  <tr><td>Convexité</td><td>ln x ≤ x − 1</td></tr>\n  <tr><td>Croissance comparée</td><td>ln(x)/x → 0 en +∞&nbsp;; x ln x → 0 en 0<sup>+</sup></td></tr>\n</table>\n\n<h3>Notions à distinguer</h3>\n\n<table>\n  <tr><th>Distinction</th><th>Ce qui se joue</th></tr>\n  <tr><td>ln(ab) / ln(a+b)</td><td>Seul le produit se décompose</td></tr>\n  <tr><td>ln(e<sup>x</sup>) / e<sup>ln x</sup></td><td>Domaines de validité différents</td></tr>\n  <tr><td>Croissant / concave</td><td>Le logarithme est les deux à la fois</td></tr>\n  <tr><td>Sens de l'inéquation / signe de ln q</td><td>L'inversion vient de la division, pas du logarithme</td></tr>\n  <tr><td>Résoudre / vérifier le domaine</td><td>Le domaine se pose <em>avant</em></td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Écrire que le logarithme d'une <em>somme</em> est la somme des logarithmes. Seule la propriété du <em>produit</em> existe&nbsp;— et le contre-exemple ln(1+1) ≈ 0,69 contre ln 1 + ln 1 = 0 suffit à s'en convaincre. Trois erreurs voisines&nbsp;: résoudre avant d'avoir posé les conditions d'existence&nbsp;; oublier que ln(q) est négatif pour q entre 0 et 1, donc que la division inverse le sens de l'inéquation&nbsp;; et croire que le logarithme, étant croissant, serait convexe.\n</div>\n\n<blockquote><p>Le logarithme n'ajoute aucune information nouvelle&nbsp;: il réécrit la même chose dans une échelle où les produits deviennent des sommes. C'est précisément pour cela qu'il est utile&nbsp;— ce qui résistait au calcul devient une simple addition.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Spécialité Mathématiques — Analyse",
+  "cards": [
+    {
+      "recto": "Comment définit-on la fonction logarithme népérien ?",
+      "verso": "Comme la fonction réciproque de l'exponentielle : le logarithme de x est l'unique réel dont l'exponentielle vaut x",
+      "explanation": "L'existence de cette réciproque tient à ce que l'exponentielle est continue et strictement croissante des réels vers les réels strictement positifs. C'est le corollaire du théorème des valeurs intermédiaires qui la garantit.",
+      "tags": [
+        "définition",
+        "réciproque"
+      ],
+      "distractors": {
+        "easy": [
+          "Comme l'inverse de l'exponentielle",
+          "Comme l'opposé de l'exponentielle",
+          "Comme la dérivée de l'exponentielle"
+        ],
+        "medium": [
+          "Comme la fonction qui à x associe un sur x",
+          "Comme la primitive de l'exponentielle",
+          "Comme la réciproque de la fonction carré"
+        ],
+        "hard": [
+          "Comme la réciproque de l'exponentielle, définie sur tous les réels",
+          "Comme la fonction dont la dérivée est l'exponentielle",
+          "Comme la réciproque de l'exponentielle de base 10"
+        ]
+      }
+    },
+    {
+      "recto": "Sur quel ensemble la fonction logarithme népérien est-elle définie ?",
+      "verso": "Sur l'intervalle des réels strictement positifs",
+      "explanation": "Cette restriction vient directement de l'ensemble des valeurs prises par l'exponentielle, qui est strictement positive. Toute résolution d'équation contenant un logarithme commence donc par déterminer les conditions d'existence.",
+      "tags": [
+        "domaine",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Sur tous les réels",
+          "Sur les entiers naturels",
+          "Sur les réels non nuls"
+        ],
+        "medium": [
+          "Sur les réels positifs ou nuls",
+          "Sur les réels supérieurs à 1",
+          "Sur l'intervalle allant de zéro à l'infini, bornes comprises"
+        ],
+        "hard": [
+          "Sur les réels strictement positifs et sur zéro par prolongement",
+          "Sur les réels différents de 1",
+          "Sur tous les réels sauf les entiers négatifs"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle relation fondamentale traduit le fait que logarithme et exponentielle sont réciproques ?",
+      "verso": "Le logarithme de l'exponentielle de x vaut x pour tout réel, et l'exponentielle du logarithme de x vaut x pour tout réel strictement positif",
+      "explanation": "Les deux égalités n'ont pas le même domaine, et c'est ce qui compte : la première vaut partout, la seconde seulement sur les positifs stricts. Oublier cette dissymétrie conduit à écrire des égalités fausses.",
+      "tags": [
+        "réciproque",
+        "propriété"
+      ],
+      "distractors": {
+        "easy": [
+          "Le logarithme multiplié par l'exponentielle vaut 1",
+          "Le logarithme plus l'exponentielle vaut x",
+          "Le logarithme de x vaut l'inverse de l'exponentielle de x"
+        ],
+        "medium": [
+          "Les deux compositions valent x pour tout réel",
+          "Le logarithme de l'exponentielle de x vaut x pour x positif seulement",
+          "L'exponentielle du logarithme de x vaut x pour tout réel"
+        ],
+        "hard": [
+          "Les deux compositions valent x avec les mêmes conditions d'existence",
+          "Le logarithme de l'exponentielle vaut l'exponentielle du logarithme sans restriction",
+          "La composition des deux donne l'identité sur les réels non nuls"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la propriété algébrique fondamentale du logarithme ?",
+      "verso": "Le logarithme d'un produit est la somme des logarithmes",
+      "explanation": "Elle est le miroir exact de la propriété de l'exponentielle : celle-ci transforme les sommes en produits, le logarithme fait l'inverse. C'est ce qui a valu au logarithme son rôle historique dans les calculs avant l'informatique.",
+      "tags": [
+        "propriété",
+        "algèbre"
+      ],
+      "distractors": {
+        "easy": [
+          "Le logarithme d'un produit est le produit des logarithmes",
+          "Le logarithme d'une somme est la somme des logarithmes",
+          "Le logarithme est toujours égal à x"
+        ],
+        "medium": [
+          "Le logarithme d'une somme est le produit des logarithmes",
+          "Le logarithme d'un quotient est le quotient des logarithmes",
+          "Le logarithme d'un produit est la différence des logarithmes"
+        ],
+        "hard": [
+          "Le logarithme d'un produit est la somme des logarithmes, valable pour tous les réels",
+          "Le logarithme d'une puissance est la puissance du logarithme",
+          "Le logarithme d'un produit est le produit augmenté d'une constante"
+        ]
+      }
+    },
+    {
+      "recto": "Que vaut le logarithme de x puissance n, où n est un entier relatif ?",
+      "verso": "n multiplié par le logarithme de x",
+      "explanation": "Cette règle transforme un exposant en facteur, ce qui la rend indispensable pour résoudre une équation où l'inconnue figure en exposant. C'est elle qui permet de calculer un temps de doublement ou une demi-vie.",
+      "tags": [
+        "propriété",
+        "algèbre"
+      ],
+      "distractors": {
+        "easy": [
+          "Le logarithme de x puissance n",
+          "n plus le logarithme de x",
+          "Le logarithme de n multiplié par x"
+        ],
+        "medium": [
+          "Le logarithme de x divisé par n",
+          "n puissance le logarithme de x",
+          "Le logarithme de n puissance x"
+        ],
+        "hard": [
+          "n multiplié par le logarithme de x, valable pour x négatif également",
+          "(n moins un) multiplié par le logarithme de x",
+          "Le logarithme de x élevé à la puissance n"
+        ]
+      }
+    },
+    {
+      "recto": "Que valent le logarithme de 1 et le logarithme de e ?",
+      "verso": "Le logarithme de 1 vaut zéro, et le logarithme de e vaut un",
+      "explanation": "Ces deux valeurs se lisent directement sur la relation de réciprocité, puisque l'exponentielle de zéro vaut 1 et l'exponentielle de 1 vaut e. Elles servent de repères pour situer le signe du logarithme.",
+      "tags": [
+        "valeurs",
+        "référence"
+      ],
+      "distractors": {
+        "easy": [
+          "Le logarithme de 1 vaut 1 et celui de e vaut e",
+          "Les deux valent zéro",
+          "Le logarithme de 1 vaut e"
+        ],
+        "medium": [
+          "Le logarithme de 1 vaut un et celui de e vaut zéro",
+          "Le logarithme de 1 vaut zéro et celui de e vaut environ 2,718",
+          "Les deux valent un"
+        ],
+        "hard": [
+          "Le logarithme de 1 n'est pas défini et celui de e vaut un",
+          "Le logarithme de 1 vaut zéro et celui de e vaut l'inverse de e",
+          "Le logarithme de e vaut le logarithme de 1 augmenté de e"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : peut-on écrire le logarithme d'une somme comme la somme des logarithmes ?",
+      "verso": "Non : seule la propriété du produit existe, et le logarithme d'une somme ne se décompose pas",
+      "explanation": "C'est l'erreur la plus répandue du chapitre. La propriété transforme un produit en somme, jamais une somme en somme. Le contre-exemple est immédiat : le logarithme de 1 plus 1, c'est-à-dire de 2, vaut environ 0,69, alors que la somme des logarithmes de 1 et de 1 vaut zéro. Un seul cas suffit à écarter la règle.",
+      "tags": [
+        "piege",
+        "algèbre"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, c'est la propriété fondamentale",
+          "Oui, si les deux nombres sont positifs",
+          "Oui, à condition que la somme soit positive"
+        ],
+        "medium": [
+          "Oui, car le logarithme transforme les sommes en sommes",
+          "Oui, sauf si l'un des termes vaut 1",
+          "Non, mais le logarithme d'une somme vaut le produit des logarithmes"
+        ],
+        "hard": [
+          "Oui, car la propriété du produit s'étend par linéarité",
+          "Non, mais l'égalité devient vraie pour de grandes valeurs",
+          "Oui, puisque le logarithme est une fonction additive"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la dérivée de la fonction logarithme népérien ?",
+      "verso": "L'inverse de x, sur l'intervalle des réels strictement positifs",
+      "explanation": "Cette dérivée étant strictement positive sur le domaine, le logarithme est strictement croissant. Elle fait aussi du logarithme la primitive de la fonction inverse sur cet intervalle, ce qui sera utilisé en calcul intégral.",
+      "tags": [
+        "dérivée",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "Le logarithme lui-même",
+          "x",
+          "L'exponentielle de x"
+        ],
+        "medium": [
+          "L'inverse de x, sur tous les réels non nuls",
+          "Moins l'inverse de x",
+          "L'inverse du logarithme de x"
+        ],
+        "hard": [
+          "L'inverse de x, sur les réels positifs ou nuls",
+          "L'inverse du carré de x",
+          "L'inverse de x multiplié par le logarithme de x"
+        ]
+      }
+    },
+    {
+      "recto": "Ne pas confondre : quelles sont les convexités respectives de l'exponentielle et du logarithme ?",
+      "verso": "L'exponentielle est convexe sur les réels, alors que le logarithme est concave sur les réels strictement positifs",
+      "explanation": "La différence se lit sur la dérivée seconde : celle de l'exponentielle est elle-même, positive, celle du logarithme est moins l'inverse du carré de x, négative. Les deux fonctions sont pourtant toutes deux strictement croissantes, ce qui rappelle que convexité et monotonie sont indépendantes.",
+      "tags": [
+        "comparaison",
+        "convexité"
+      ],
+      "distractors": {
+        "easy": [
+          "Les deux sont convexes",
+          "Les deux sont concaves",
+          "L'exponentielle est concave et le logarithme convexe"
+        ],
+        "medium": [
+          "L'exponentielle est convexe et le logarithme est convexe sur les grands nombres",
+          "Le logarithme est concave car il est décroissant",
+          "L'exponentielle change de convexité en zéro"
+        ],
+        "hard": [
+          "Le logarithme est concave car sa dérivée est positive",
+          "L'exponentielle est convexe et le logarithme admet un point d'inflexion en 1",
+          "Les deux ont la même convexité puisqu'elles sont réciproques"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles sont les limites du logarithme népérien aux bornes de son domaine ?",
+      "verso": "Moins l'infini quand x tend vers zéro par valeurs positives, et plus l'infini quand x tend vers plus l'infini",
+      "explanation": "La première limite donne une asymptote verticale d'équation x égale zéro, c'est-à-dire l'axe des ordonnées. La seconde montre que le logarithme n'est pas majoré, malgré une croissance extrêmement lente.",
+      "tags": [
+        "limites",
+        "référence"
+      ],
+      "distractors": {
+        "easy": [
+          "Zéro et un",
+          "Zéro dans les deux cas",
+          "Plus l'infini dans les deux cas"
+        ],
+        "medium": [
+          "Zéro en zéro et plus l'infini en plus l'infini",
+          "Moins l'infini en zéro et une limite finie en plus l'infini",
+          "Moins l'infini en zéro et zéro en plus l'infini"
+        ],
+        "hard": [
+          "Moins l'infini en zéro, avec une asymptote horizontale",
+          "Une limite finie en zéro et plus l'infini ensuite",
+          "Moins l'infini des deux côtés de zéro"
+        ]
+      }
+    },
+    {
+      "recto": "Que dit la croissance comparée entre le logarithme et les puissances de x ?",
+      "verso": "Le quotient du logarithme de x par x tend vers zéro quand x tend vers plus l'infini",
+      "explanation": "Le logarithme croît donc moins vite que n'importe quelle puissance de x, si petite soit-elle. À l'autre borne, le produit de x par le logarithme de x tend vers zéro lorsque x tend vers zéro par valeurs positives.",
+      "tags": [
+        "croissances comparées",
+        "limite"
+      ],
+      "distractors": {
+        "easy": [
+          "Le quotient tend vers plus l'infini",
+          "Le quotient tend vers un",
+          "Le logarithme croît plus vite que x"
+        ],
+        "medium": [
+          "Le quotient tend vers zéro seulement pour de grandes puissances",
+          "Le quotient tend vers le logarithme de x",
+          "Le logarithme et x croissent à la même vitesse"
+        ],
+        "hard": [
+          "Le quotient tend vers zéro uniquement si x est entier",
+          "Le quotient de x par le logarithme tend vers zéro",
+          "Le quotient tend vers une limite finie non nulle"
+        ]
+      }
+    },
+    {
+      "recto": "Comment résout-on une équation de la forme logarithme de A égale logarithme de B ?",
+      "verso": "En vérifiant d'abord que A et B sont strictement positifs, puis en écrivant que A égale B",
+      "explanation": "L'ordre est impératif : les conditions d'existence se posent avant la résolution, sans quoi on obtient des solutions qui n'appartiennent pas au domaine. Ces valeurs à écarter font partie de la réponse attendue.",
+      "tags": [
+        "résolution",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En écrivant directement que A égale B",
+          "En supprimant les logarithmes des deux côtés",
+          "En passant à l'exponentielle sans condition"
+        ],
+        "medium": [
+          "En écrivant que A égale B puis en vérifiant la positivité à la fin, sans conséquence",
+          "En écrivant que A et B sont positifs ou nuls",
+          "En élevant les deux membres au carré"
+        ],
+        "hard": [
+          "En vérifiant la positivité de A seulement",
+          "En écrivant que A égale B, la condition d'existence étant automatique",
+          "En passant à l'exponentielle puis en vérifiant que les solutions sont entières"
+        ]
+      }
+    },
+    {
+      "recto": "Comment résout-on une inéquation contenant des logarithmes ?",
+      "verso": "En posant les conditions d'existence, puis en utilisant la stricte croissance du logarithme qui conserve le sens de l'inégalité",
+      "explanation": "Le sens ne s'inverse jamais, contrairement à ce qui se produit lorsqu'on multiplie par un nombre négatif. La difficulté vient uniquement des conditions d'existence, qui restreignent l'ensemble solution.",
+      "tags": [
+        "résolution",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En inversant le sens de l'inégalité",
+          "En supprimant les logarithmes",
+          "En élevant au carré les deux membres"
+        ],
+        "medium": [
+          "En utilisant la décroissance du logarithme",
+          "En inversant le sens car le logarithme peut être négatif",
+          "En résolvant sans conditions d'existence puis en concluant"
+        ],
+        "hard": [
+          "En conservant le sens uniquement si les deux membres sont supérieurs à 1",
+          "En inversant le sens sur l'intervalle où le logarithme est négatif",
+          "En posant les conditions d'existence après la résolution"
+        ]
+      }
+    },
+    {
+      "recto": "Comment le logarithme permet-il de résoudre une équation où l'inconnue est en exposant ?",
+      "verso": "En appliquant le logarithme aux deux membres, ce qui transforme l'exposant en facteur multiplicatif",
+      "explanation": "C'est l'usage le plus fréquent en exercice, notamment pour déterminer à partir de quel rang une suite géométrique dépasse un seuil. La méthode exige que les deux membres soient strictement positifs.",
+      "tags": [
+        "application",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En divisant par l'exposant",
+          "En prenant la racine correspondante",
+          "En testant plusieurs valeurs"
+        ],
+        "medium": [
+          "En appliquant l'exponentielle aux deux membres",
+          "En dérivant l'équation",
+          "En passant l'exposant au dénominateur"
+        ],
+        "hard": [
+          "En appliquant le logarithme, ce qui transforme le facteur en exposant",
+          "En appliquant le logarithme sans condition sur le signe des membres",
+          "En prenant le logarithme de l'exposant uniquement"
+        ]
+      }
+    },
+    {
+      "recto": "Comment calcule-t-on le rang à partir duquel une suite géométrique de raison comprise entre zéro et un devient inférieure à un seuil ?",
+      "verso": "En passant au logarithme, ce qui donne une inéquation dont la division par le logarithme de la raison, négatif, inverse le sens",
+      "explanation": "L'inversion du sens est le point délicat : elle ne vient pas du logarithme lui-même mais de la division par un nombre négatif. Oublier ce changement de sens donne un rang absurde.",
+      "tags": [
+        "suites",
+        "application"
+      ],
+      "distractors": {
+        "easy": [
+          "En calculant les termes un par un",
+          "En divisant le seuil par la raison",
+          "En prenant la racine du seuil"
+        ],
+        "medium": [
+          "En passant au logarithme, le sens de l'inégalité étant conservé",
+          "En appliquant l'exponentielle au seuil",
+          "En utilisant le théorème des gendarmes"
+        ],
+        "hard": [
+          "En passant au logarithme et en divisant par la raison elle-même",
+          "En inversant le sens à cause de la décroissance du logarithme",
+          "En passant au logarithme sans se soucier du signe du diviseur"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la dérivée du logarithme composé avec une fonction u ?",
+      "verso": "u prime divisé par u, définie là où u est strictement positive",
+      "explanation": "Cette forme est particulièrement commode car le quotient obtenu a le signe de u prime, le dénominateur étant positif. Elle sert aussi dans l'autre sens, pour reconnaître une primitive.",
+      "tags": [
+        "dérivée",
+        "composée"
+      ],
+      "distractors": {
+        "easy": [
+          "Un divisé par u",
+          "Le logarithme de u prime",
+          "u divisé par u prime"
+        ],
+        "medium": [
+          "u prime divisé par u, définie là où u est non nulle",
+          "u prime multiplié par le logarithme de u",
+          "Un divisé par u prime"
+        ],
+        "hard": [
+          "u prime divisé par le logarithme de u",
+          "u prime divisé par u au carré",
+          "u prime divisé par u, définie sur tout le domaine de u"
+        ]
+      }
+    },
+    {
+      "recto": "Comment retrouve-t-on graphiquement la courbe du logarithme à partir de celle de l'exponentielle ?",
+      "verso": "Par symétrie par rapport à la droite d'équation y égale x, puisque les deux fonctions sont réciproques",
+      "explanation": "Cette symétrie échange les axes : l'asymptote horizontale de l'exponentielle devient l'asymptote verticale du logarithme. Elle explique aussi que l'une soit convexe et l'autre concave.",
+      "tags": [
+        "graphique",
+        "réciproque"
+      ],
+      "distractors": {
+        "easy": [
+          "Par symétrie par rapport à l'axe des abscisses",
+          "Par symétrie par rapport à l'origine",
+          "En inversant les valeurs"
+        ],
+        "medium": [
+          "Par symétrie par rapport à l'axe des ordonnées",
+          "Par translation vers la droite",
+          "Par symétrie par rapport à la droite d'équation y égale moins x"
+        ],
+        "hard": [
+          "Par symétrie par rapport à la droite y égale x, ce qui conserve la convexité",
+          "Par symétrie centrale de centre le point d'abscisse 1",
+          "Par symétrie par rapport à la première bissectrice, valable seulement sur les positifs"
+        ]
+      }
+    },
+    {
+      "recto": "Pour quelles valeurs de x le logarithme népérien est-il négatif ?",
+      "verso": "Pour x strictement compris entre zéro et un",
+      "explanation": "Le logarithme s'annule en 1 et croît strictement : il est donc négatif avant et positif après. Ce repère est indispensable pour étudier le signe d'une expression contenant un logarithme.",
+      "tags": [
+        "signe",
+        "étude"
+      ],
+      "distractors": {
+        "easy": [
+          "Pour x négatif",
+          "Pour x supérieur à 1",
+          "Il n'est jamais négatif"
+        ],
+        "medium": [
+          "Pour x compris entre zéro et e",
+          "Pour x inférieur à e",
+          "Pour x compris entre moins un et un"
+        ],
+        "hard": [
+          "Pour x strictement compris entre zéro et un, bornes comprises",
+          "Pour x compris entre zéro et un et pour x négatif",
+          "Pour x inférieur à 1, y compris les valeurs négatives"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle inégalité de convexité connaît-on pour le logarithme ?",
+      "verso": "Le logarithme de x est inférieur ou égal à x moins un, pour tout réel strictement positif",
+      "explanation": "L'inégalité vient de la concavité : la courbe est en dessous de sa tangente au point d'abscisse 1, dont l'équation est y égale x moins un. C'est le pendant exact de l'inégalité connue pour l'exponentielle.",
+      "tags": [
+        "inégalité",
+        "convexité"
+      ],
+      "distractors": {
+        "easy": [
+          "Le logarithme de x est supérieur à x",
+          "Le logarithme de x est égal à x moins un",
+          "Le logarithme de x est supérieur à x moins un"
+        ],
+        "medium": [
+          "Le logarithme de x est inférieur ou égal à x",
+          "Le logarithme de x est inférieur ou égal à un moins x",
+          "Le logarithme de x est inférieur ou égal à x plus un"
+        ],
+        "hard": [
+          "Le logarithme de x est inférieur ou égal à x moins un, pour x supérieur à 1 seulement",
+          "Le logarithme de x est inférieur ou égal à deux fois x moins un",
+          "Le logarithme de x est inférieur ou égal à x moins un, avec égalité pour tout x"
+        ]
+      }
+    },
+    {
+      "recto": "Comment détermine-t-on l'ensemble de définition d'une expression contenant un logarithme ?",
+      "verso": "En résolvant l'inéquation qui impose à l'argument du logarithme d'être strictement positif",
+      "explanation": "Cette étape précède tout calcul, y compris la dérivation. Elle produit souvent un intervalle plus restreint que celui suggéré par l'écriture de l'expression, ce qui change les conclusions de l'étude.",
+      "tags": [
+        "domaine",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "En excluant seulement la valeur zéro",
+          "En prenant tous les réels",
+          "En excluant les valeurs qui annulent un dénominateur uniquement"
+        ],
+        "medium": [
+          "En imposant que l'argument soit positif ou nul",
+          "En imposant que l'argument soit différent de zéro",
+          "En imposant que l'expression entière soit positive"
+        ],
+        "hard": [
+          "En résolvant l'équation qui annule l'argument du logarithme",
+          "En imposant que l'argument soit supérieur à 1",
+          "En déterminant le domaine après avoir dérivé l'expression"
+        ]
+      }
+    },
+    {
+      "recto": "Que donne le logarithme du quotient de a par b, pour deux réels strictement positifs ?",
+      "verso": "La différence entre le logarithme de a et le logarithme de b",
+      "explanation": "La règle découle de celle du produit appliquée à a et à l'inverse de b. Elle rappelle qu'un logarithme d'inverse est l'opposé du logarithme, ce qui donne la symétrie de la courbe autour de la valeur 1.",
+      "tags": [
+        "propriété",
+        "algèbre"
+      ],
+      "distractors": {
+        "easy": [
+          "Le quotient des deux logarithmes",
+          "La somme des deux logarithmes",
+          "Le produit des deux logarithmes"
+        ],
+        "medium": [
+          "La différence entre le logarithme de b et celui de a",
+          "Le logarithme de la différence entre a et b",
+          "Le quotient du logarithme de a par b"
+        ],
+        "hard": [
+          "La différence des logarithmes, valable aussi si b est négatif",
+          "L'opposé de la différence des logarithmes",
+          "La différence des logarithmes divisée par b"
+        ]
+      }
+    },
+    {
+      "recto": "Comment calcule-t-on une demi-vie ou un temps de doublement à l'aide du logarithme ?",
+      "verso": "En résolvant l'équation où le rapport à l'état initial vaut un demi ou deux, ce qui fait apparaître un logarithme divisé par le coefficient de l'exponentielle",
+      "explanation": "Le résultat ne dépend pas de la valeur initiale, ce qui est la propriété caractéristique des évolutions exponentielles. C'est ce qui permet de parler d'une demi-vie propre à un noyau, indépendamment de la quantité présente.",
+      "tags": [
+        "application",
+        "modélisation"
+      ],
+      "distractors": {
+        "easy": [
+          "En divisant la valeur initiale par deux",
+          "En prenant la moitié du temps total",
+          "En calculant la moyenne des valeurs"
+        ],
+        "medium": [
+          "En résolvant une équation du second degré",
+          "En prenant l'inverse du coefficient de l'exponentielle",
+          "En divisant le coefficient par le logarithme de deux"
+        ],
+        "hard": [
+          "Le résultat obtenu dépend de la valeur initiale du phénomène",
+          "En résolvant l'équation sans passer par le logarithme",
+          "En multipliant le coefficient par le logarithme de deux"
+        ]
+      }
+    },
+    {
+      "recto": "Quel bilan retenir sur le couple exponentielle et logarithme ?",
+      "verso": "Ce sont deux fonctions réciproques dont les propriétés se répondent terme à terme : ce que l'une fait aux sommes, l'autre le fait aux produits",
+      "explanation": "Cette symétrie permet de retrouver chaque propriété de l'une à partir de celle de l'autre. Les domaines en revanche ne se correspondent pas : l'exponentielle est définie partout, le logarithme seulement sur les positifs stricts.",
+      "tags": [
+        "synthèse",
+        "bilan"
+      ],
+      "distractors": {
+        "easy": [
+          "Ce sont deux fonctions sans rapport entre elles",
+          "L'une est l'inverse de l'autre au sens du quotient",
+          "Elles ont exactement les mêmes propriétés"
+        ],
+        "medium": [
+          "Elles sont réciproques et ont le même ensemble de définition",
+          "L'une est la dérivée de l'autre",
+          "Elles sont toutes deux convexes"
+        ],
+        "hard": [
+          "Elles sont réciproques, ce qui entraîne la même convexité",
+          "Elles sont réciproques et transforment toutes deux les sommes en produits",
+          "Leur composition donne l'identité sur tous les réels sans restriction"
+        ]
+      }
+    }
+  ]
+}

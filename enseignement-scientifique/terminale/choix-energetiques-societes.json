@@ -1,0 +1,640 @@
+{
+  "id": "enseignement-scientifique-terminale-choix-energetiques-societes",
+  "title": "Choix énergétiques et impacts sur les sociétés",
+  "emoji": "🌍",
+  "subject": "science",
+  "country": "fr",
+  "courseDescription": "Sources primaires, mix énergétiques et controverses : comment évaluer scientifiquement des choix qui engagent des sociétés entières.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Choix énergétiques et impacts sur les sociétés</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · enseignement scientifique<br>\n  <b>Thème 2&nbsp;:</b> Le futur des énergies<br>\n  <b>Chapitre 2.4</b> · environ 5 heures\n</div>\n\n<blockquote><p><b>Problématique.</b> Que peut dire la science d'un choix énergétique&nbsp;— et où s'arrête-t-elle&nbsp;?</p></blockquote>\n\n<p>Ce chapitre clôt le thème par la question la plus délicate&nbsp;: comparer des options dont les inconvénients ne sont pas de même nature. Un risque d'accident, un déchet à vie longue, une occupation d'espace, une dépendance minérale, une dette carbone temporaire&nbsp;— aucune de ces grandeurs ne se convertit dans une autre. La science quantifie chacune d'elles&nbsp;; les pondérer relève d'un choix collectif. Confondre les deux opérations est la faute la plus fréquente du débat énergétique.</p>\n\n<h2>1 · Deux mots qu'on prend l'un pour l'autre</h2>\n\n<p>Une énergie <strong>renouvelable</strong> se reconstitue à l'échelle de temps humaine&nbsp;: rayonnement solaire, vent, eau courante, biomasse gérée durablement. Une énergie <strong>décarbonée</strong> émet peu de gaz à effet de serre. Les deux catégories <em>ne se recouvrent pas</em>.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Croisement des catégories renouvelable et décarboné : l'éolien, le solaire et l'hydraulique sont à la fois renouvelables et décarbonés ; le nucléaire est décarboné sans être renouvelable ; la combustion de biomasse est renouvelable sans être toujours neutre en carbone ; le charbon, le pétrole et le gaz ne sont ni renouvelables ni décarbonés\">\n    <text x=\"112\" y=\"20\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">DÉCARBONÉ</text>\n    <text x=\"252\" y=\"20\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">PLUS ÉMETTEUR</text>\n    <text x=\"8\" y=\"52\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">Renouvelable</text>\n    <rect x=\"46\" y=\"28\" width=\"132\" height=\"52\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".40\" stroke=\"var(--accent)\" stroke-opacity=\".7\"/>\n    <text x=\"112\" y=\"50\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">éolien, solaire</text>\n    <text x=\"112\" y=\"64\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">hydraulique</text>\n    <rect x=\"186\" y=\"28\" width=\"142\" height=\"52\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"257\" y=\"50\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">biomasse brûlée</text>\n    <text x=\"257\" y=\"64\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">neutralité non automatique</text>\n    <text x=\"8\" y=\"118\" font-size=\"9\" fill=\"currentColor\">Non renouvelable</text>\n    <rect x=\"46\" y=\"94\" width=\"132\" height=\"52\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"112\" y=\"116\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">nucléaire</text>\n    <text x=\"112\" y=\"130\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">décarboné, non renouvelable</text>\n    <rect x=\"186\" y=\"94\" width=\"142\" height=\"52\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"257\" y=\"116\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">charbon, pétrole, gaz</text>\n    <text x=\"257\" y=\"130\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">ni l'un ni l'autre</text>\n    <text x=\"8\" y=\"172\" font-size=\"9\" fill=\"currentColor\">Deux critères distincts : les cases hors diagonale existent bel et bien.</text>\n    <text x=\"8\" y=\"186\" font-size=\"9\" class=\"s-muted\">C'est là que se logent la plupart des malentendus.</text>\n  </svg>\n  <figcaption>Le nucléaire et la biomasse occupent chacun une case «&nbsp;inattendue&nbsp;»&nbsp;— d'où la confusion courante.</figcaption>\n</figure>\n\n<p>Les <strong>fossiles</strong> ne sont pas renouvelables parce que leur formation exige des millions d'années d'enfouissement de matière organique&nbsp;: nous consommons en un siècle ce que la géologie a mis des centaines de millions d'années à constituer. Ils représentent encore environ <strong>80&nbsp;%</strong> de la consommation mondiale d'énergie primaire.</p>\n\n<h2>2 · Ce que chaque source apporte et coûte</h2>\n\n<p>Le <strong>nucléaire</strong>&nbsp;: production pilotable, très peu émettrice, forte densité énergétique&nbsp;— mais des <em>déchets radioactifs à vie longue</em>, dont la radioactivité décroît sur des milliers d'années. Faible en volume, ils concentrent l'essentiel de la radioactivité et posent une question éthique inhabituelle&nbsp;: la responsabilité envers des générations très éloignées. Ajoutons des investissements considérables et longs à amortir.</p>\n\n<p>L'<strong>éolien</strong> et le <strong>solaire photovoltaïque</strong>&nbsp;: renouvelables, peu émetteurs en fonctionnement&nbsp;— mais une production <em>variable et non pilotable</em>, des besoins en matériaux et en espace. Leur intégration à grande échelle suppose des moyens complémentaires, du stockage ou un réseau interconnecté&nbsp;: cela doit entrer dans l'évaluation, pas être renvoyé hors du cadre.</p>\n\n<p>L'<strong>hydroélectricité</strong> occupe une place à part&nbsp;: renouvelable, peu émettrice et <em>en partie pilotable</em>, la retenue permettant de moduler la production. Son développement bute sur les sites disponibles et ses impacts locaux.</p>\n\n<p>La <strong>biomasse</strong> enfin&nbsp;: sa neutralité carbone n'est pas automatique. Le carbone libéré à la combustion n'est réabsorbé que si la végétation est replantée <em>et arrivée à maturité</em>, ce qui prend des décennies. Il existe donc une <strong>dette carbone temporaire</strong>, dont la durée dépend des essences et des pratiques.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Source pilotable, source variable, stockage</strong><br>\n  Une source <strong>pilotable</strong> délivre une puissance commandée&nbsp;; une source <strong>variable</strong> dépend de conditions extérieures&nbsp;; un moyen de <strong>stockage</strong> ne produit rien — il déplace de l'énergie dans le temps en en perdant une partie. Le compter comme une production fausse tout bilan.\n</div>\n\n<h2>3 · Comparer honnêtement</h2>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 196\" role=\"img\" aria-label=\"Les critères hétérogènes qu'il faut pondérer pour comparer des options énergétiques : les émissions de gaz à effet de serre, le caractère pilotable ou variable de la production, l'occupation de l'espace, les besoins en matériaux et notamment en métaux critiques, les déchets produits et leur durée de vie, le coût complet incluant investissement exploitation et démantèlement, et l'acceptabilité sociale ; la science quantifie chacun de ces critères mais leur pondération relève d'un choix collectif\">\n    <text x=\"8\" y=\"18\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Ce que la science quantifie</text>\n    <rect x=\"12\" y=\"26\" width=\"100\" height=\"28\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"62\" y=\"44\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">émissions</text>\n    <rect x=\"120\" y=\"26\" width=\"100\" height=\"28\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"170\" y=\"44\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">pilotabilité</text>\n    <rect x=\"228\" y=\"26\" width=\"100\" height=\"28\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"278\" y=\"44\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">espace occupé</text>\n    <rect x=\"12\" y=\"60\" width=\"100\" height=\"28\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"62\" y=\"78\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">matériaux</text>\n    <rect x=\"120\" y=\"60\" width=\"100\" height=\"28\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"170\" y=\"78\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">déchets</text>\n    <rect x=\"228\" y=\"60\" width=\"100\" height=\"28\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"278\" y=\"78\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">coût complet</text>\n    <line x1=\"170\" y1=\"94\" x2=\"170\" y2=\"110\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-tes24)\"/>\n    <rect x=\"60\" y=\"114\" width=\"220\" height=\"38\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".40\" stroke=\"var(--accent)\" stroke-opacity=\".7\"/>\n    <text x=\"170\" y=\"131\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">PONDÉRER CES CRITÈRES</text>\n    <text x=\"170\" y=\"145\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">n'est pas une opération scientifique</text>\n    <text x=\"8\" y=\"172\" font-size=\"9\" fill=\"currentColor\">Comparer un risque d'accident à un risque climatique suppose</text>\n    <text x=\"8\" y=\"186\" font-size=\"9\" fill=\"currentColor\">un arbitrage entre valeurs — il revient à la délibération collective.</text>\n    <defs>\n      <marker id=\"ar-tes24\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n  </svg>\n  <figcaption>La frontière du chapitre passe exactement à la flèche&nbsp;: au-dessus la science, en dessous la démocratie.</figcaption>\n</figure>\n\n<p>Deux exigences de méthode&nbsp;:</p>\n\n<ul>\n  <li><strong>Aucune technologie bas-carbone n'est sans impact.</strong> Sa fabrication mobilise matériaux, énergie et espace&nbsp;; seule une <em>analyse de cycle de vie</em> permet de comparer honnêtement. Les <strong>métaux critiques</strong> illustrent le point&nbsp;: indispensables aux technologies bas-carbone, ils concentrent l'approvisionnement sur quelques pays et déplacent la dépendance des sociétés — des fossiles vers les ressources minérales — sans la supprimer.</li>\n  <li><strong>Un coût du kilowattheure isolé ne veut rien dire.</strong> Il faut préciser ce qu'il inclut&nbsp;: investissement, exploitation, démantèlement, raccordement, moyens complémentaires. Deux sources aux coûts affichés proches peuvent imposer au système des dépenses très différentes.</li>\n</ul>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 168\" role=\"img\" aria-label=\"La dette carbone temporaire de la biomasse : la combustion libère immédiatement le carbone stocké dans le bois, tandis que la replantation ne réabsorbe ce carbone que progressivement, au fur et à mesure de la croissance de la végétation jusqu'à maturité ; il s'écoule donc plusieurs décennies pendant lesquelles le bilan reste défavorable, durée qui dépend des essences plantées et des pratiques de gestion forestière\">\n    <line x1=\"34\" y1=\"112\" x2=\"332\" y2=\"112\" stroke=\"currentColor\" stroke-opacity=\".3\"/>\n    <line x1=\"34\" y1=\"16\" x2=\"34\" y2=\"112\" stroke=\"currentColor\" stroke-opacity=\".3\"/>\n    <text x=\"8\" y=\"24\" font-size=\"8\" class=\"s-muted\">CO2</text>\n    <text x=\"8\" y=\"110\" font-size=\"8\" class=\"s-muted\">0</text>\n    <text x=\"38\" y=\"126\" font-size=\"8\" class=\"s-muted\">combustion</text>\n    <text x=\"286\" y=\"126\" font-size=\"8\" class=\"s-muted\">maturité</text>\n    <rect x=\"38\" y=\"24\" width=\"10\" height=\"88\" rx=\"3\" fill=\"var(--accent)\" fill-opacity=\".50\" stroke=\"var(--accent)\" stroke-opacity=\".7\"/>\n    <path d=\"M48,24 C130,26 220,60 320,108\" fill=\"none\" stroke=\"var(--accent)\" stroke-opacity=\".6\" stroke-width=\"2\" stroke-dasharray=\"5 4\"/>\n    <text x=\"150\" y=\"52\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">dette carbone</text>\n    <text x=\"150\" y=\"66\" font-size=\"9\" fill=\"currentColor\">le temps que la végétation repousse</text>\n    <text x=\"8\" y=\"150\" font-size=\"9\" fill=\"currentColor\">La neutralité n'est atteinte qu'au terme de plusieurs décennies,</text>\n    <text x=\"8\" y=\"164\" font-size=\"9\" fill=\"currentColor\">et seulement si la replantation a bien lieu.</text>\n  </svg>\n  <figcaption>Le carbone part en une heure et revient en quarante ans&nbsp;: l'échelle de temps fait toute la question.</figcaption>\n</figure>\n\n<h2>4 · Des choix qui engagent longtemps</h2>\n\n<p>Les infrastructures énergétiques ont des durées de vie très longues et exigent des investissements lourds&nbsp;: une centrale construite aujourd'hui fixera une partie du mix pour quarante ans ou davantage. Cette <strong>inertie</strong> donne au calendrier une importance décisive.</p>\n\n<p>Deux notions à distinguer&nbsp;: le <strong>mix énergétique</strong> couvre <em>tous</em> les usages, le <strong>mix électrique</strong> la seule électricité. Un pays peut avoir une électricité très décarbonée et un mix énergétique global encore dominé par les fossiles. S'y ajoute la <strong>dépendance énergétique</strong>&nbsp;— part de la consommation qu'un pays doit importer —, enjeu de souveraineté autant qu'économique.</p>\n\n<p>L'<strong>acceptabilité sociale</strong> n'est pas un obstacle irrationnel au progrès&nbsp;: c'est une composante réelle de la faisabilité. Un projet rejeté ne se réalise pas, quelles que soient ses qualités techniques. Les <strong>accords internationaux</strong>, eux, fixent des objectifs communs mais laissent à chaque État le choix des moyens — d'où la diversité des trajectoires nationales.</p>\n\n<p>Enfin, deux limites à garder en tête. L'<strong>électrification des usages</strong> ne suffit pas&nbsp;: certains procédés industriels, le transport aérien et le maritime longue distance résistent, et appellent d'autres voies. Et la <strong>sobriété</strong> reste un levier à part entière&nbsp;: réduire la demande diminue l'ampleur des moyens à déployer, donc l'ensemble des impacts associés.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Les sources et leurs caractéristiques</h3>\n\n<table>\n  <tr><th>Source</th><th>Renouvelable</th><th>Pilotable</th></tr>\n  <tr><td>Charbon, pétrole, gaz</td><td>non</td><td>oui</td></tr>\n  <tr><td>Nucléaire</td><td>non</td><td>oui</td></tr>\n  <tr><td>Hydraulique</td><td>oui</td><td>en partie</td></tr>\n  <tr><td>Éolien, solaire</td><td>oui</td><td>non</td></tr>\n  <tr><td>Biomasse</td><td>oui</td><td>oui</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition en une ligne</th></tr>\n  <tr><td>Énergie renouvelable</td><td>Source qui se reconstitue à l'échelle humaine</td></tr>\n  <tr><td>Énergie décarbonée</td><td>Source peu émettrice de gaz à effet de serre</td></tr>\n  <tr><td>Métaux critiques</td><td>Métaux indispensables, à l'approvisionnement concentré</td></tr>\n  <tr><td>Mix énergétique</td><td>Répartition des sources, tous usages confondus</td></tr>\n  <tr><td>Dépendance énergétique</td><td>Part de la consommation qui doit être importée</td></tr>\n</table>\n\n<h3>Critères d'une comparaison honnête</h3>\n\n<table>\n  <tr><th>Critère</th><th>Ce qu'il faut préciser</th></tr>\n  <tr><td>Émissions</td><td>Sur le cycle de vie, pas la seule combustion</td></tr>\n  <tr><td>Coût</td><td>Investissement, exploitation, démantèlement, réseau</td></tr>\n  <tr><td>Déchets</td><td>Volume, activité et durée de vie</td></tr>\n  <tr><td>Espace et matériaux</td><td>Surface occupée, métaux mobilisés</td></tr>\n  <tr><td>Acceptabilité</td><td>Nuisances, bénéfices, qualité de la concertation</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Confondre <strong>renouvelable</strong> et <strong>décarboné</strong>. Le premier terme dit à quel rythme la source se reconstitue, le second combien elle émet&nbsp;: le nucléaire est décarboné sans être renouvelable, et la biomasse brûlée est renouvelable sans être toujours neutre en carbone. Piège voisin&nbsp;: compter un moyen de <em>stockage</em> comme une source de production — il ne produit rien, il déplace de l'énergie dans le temps et en perd au passage.\n</div>\n\n<blockquote><p>Aucune source ne cumule tous les avantages. Chercher la solution parfaite est le plus sûr moyen de ne rien décider&nbsp;— et l'inaction est elle aussi un choix, avec ses conséquences propres.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Le futur des énergies",
+  "cards": [
+    {
+      "recto": "Piège classique : ne pas confondre énergie renouvelable et énergie décarbonée. Où passe la différence ?",
+      "verso": "Une énergie renouvelable se reconstitue à l'échelle humaine, une énergie décarbonée émet peu de gaz à effet de serre, et les deux catégories ne se recouvrent pas exactement",
+      "explanation": "Le nucléaire est décarboné sans être renouvelable, et la combustion de biomasse est renouvelable sans être toujours neutre en carbone. Confondre les deux notions rend tout débat énergétique confus.",
+      "tags": [
+        "sources",
+        "piege"
+      ],
+      "distractors": {
+        "easy": [
+          "Ce sont deux mots pour désigner la même chose",
+          "Les renouvelables sont modernes, les décarbonées anciennes",
+          "Les renouvelables concernent l'électricité, les décarbonées le chauffage"
+        ],
+        "medium": [
+          "Une énergie renouvelable n'émet jamais de gaz à effet de serre par définition",
+          "Une énergie décarbonée est nécessairement renouvelable",
+          "Les renouvelables sont illimitées, les décarbonées limitées en quantité"
+        ],
+        "hard": [
+          "Une énergie renouvelable se reconstitue mais reste toujours plus émettrice qu'une décarbonée",
+          "Le nucléaire est renouvelable sans être décarboné",
+          "Une énergie décarbonée est celle dont les émissions sont compensées par des puits"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles sont les principales sources d'énergie primaire utilisées dans le monde ?",
+      "verso": "Le pétrole, le charbon et le gaz naturel qui restent dominants, complétés par le nucléaire, l'hydraulique, la biomasse et les autres renouvelables",
+      "explanation": "Les trois fossiles totalisent encore environ 80 pour cent de la consommation mondiale d'énergie primaire, ce qui mesure l'ampleur de la transition à accomplir.",
+      "tags": [
+        "sources",
+        "chiffres"
+      ],
+      "distractors": {
+        "easy": [
+          "L'électricité, l'essence et le gaz de ville",
+          "Le bois, le vent et l'eau uniquement",
+          "Le solaire et l'éolien principalement"
+        ],
+        "medium": [
+          "Le nucléaire, l'hydraulique et l'éolien majoritairement",
+          "Le charbon seul, les autres sources étant marginales",
+          "Le pétrole et le nucléaire à parts égales"
+        ],
+        "hard": [
+          "Le pétrole, le charbon et le gaz, qui représentent environ la moitié du total",
+          "Le pétrole, le gaz et le nucléaire, qui dominent largement",
+          "Le pétrole, le charbon et la biomasse, principales sources mondiales"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une énergie renouvelable ?",
+      "verso": "Une énergie dont la source se reconstitue à l'échelle de temps humaine, comme le rayonnement solaire, le vent, l'eau courante ou la biomasse gérée durablement",
+      "explanation": "Le critère est le rythme de reconstitution, non l'absence d'impact : une installation renouvelable exige des matériaux et occupe de l'espace.",
+      "tags": [
+        "sources",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Une énergie qui ne produit aucun déchet ni aucun impact",
+          "Une énergie gratuite pour le consommateur",
+          "Une énergie qui peut être utilisée plusieurs fois de suite"
+        ],
+        "medium": [
+          "Une énergie dont les réserves sont très importantes mais finies",
+          "Une énergie produite localement par les particuliers",
+          "Une énergie dont le prix ne varie pas dans le temps"
+        ],
+        "hard": [
+          "Une énergie dont la source se reconstitue à l'échelle des temps géologiques",
+          "Une énergie dont l'exploitation n'émet aucun gaz à effet de serre",
+          "Une énergie recyclable après usage, contrairement aux fossiles"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi les combustibles fossiles ne sont-ils pas renouvelables ?",
+      "verso": "Parce que leur formation exige des millions d'années d'enfouissement de matière organique, une échelle sans commune mesure avec le rythme de leur consommation",
+      "explanation": "Nous consommons en un siècle ce que la géologie a mis des centaines de millions d'années à constituer. C'est le déstockage, plus que la combustion en elle-même, qui fait le problème climatique.",
+      "tags": [
+        "sources",
+        "fossiles"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'ils sont importés de pays lointains",
+          "Parce qu'ils coûtent cher à extraire",
+          "Parce qu'ils sont interdits dans certains pays"
+        ],
+        "medium": [
+          "Parce que leurs réserves sont déjà épuisées",
+          "Parce qu'ils ne se reforment que dans les océans profonds",
+          "Parce que leur combustion les détruit définitivement, contrairement au bois"
+        ],
+        "hard": [
+          "Parce que leur formation exige quelques milliers d'années seulement",
+          "Parce que leur reconstitution est empêchée par le réchauffement climatique",
+          "Parce qu'ils se reconstituent mais dans des zones inaccessibles"
+        ]
+      }
+    },
+    {
+      "recto": "Quels sont les principaux atouts et limites de l'énergie nucléaire ?",
+      "verso": "Une production pilotable, très peu émettrice de gaz à effet de serre et de forte densité énergétique, mais qui produit des déchets radioactifs à vie longue et exige des investissements considérables",
+      "explanation": "L'évaluation scientifique fournit ces éléments ; l'arbitrage entre eux relève d'un choix de société qui met en balance des risques de natures différentes.",
+      "tags": [
+        "nucléaire",
+        "controverse"
+      ],
+      "distractors": {
+        "easy": [
+          "Une énergie sans aucun inconvénient",
+          "Une énergie qui ne produit que des déchets inoffensifs",
+          "Une énergie totalement renouvelable et gratuite"
+        ],
+        "medium": [
+          "Une production intermittente mais très peu émettrice",
+          "Une production pilotable mais fortement émettrice de gaz à effet de serre",
+          "Une production peu coûteuse à installer mais chère à exploiter"
+        ],
+        "hard": [
+          "Une production pilotable et décarbonée, dont les déchets ont une durée de vie courte",
+          "Une production décarbonée mais dont la densité énergétique est faible",
+          "Une production pilotable dont le principal inconvénient est l'occupation d'espace"
+        ]
+      }
+    },
+    {
+      "recto": "Quels sont les principaux atouts et limites de l'éolien et du solaire photovoltaïque ?",
+      "verso": "Des sources renouvelables et peu émettrices en fonctionnement, mais dont la production est variable et non pilotable, et qui exigent des matériaux et de l'espace",
+      "explanation": "Leur intégration à grande échelle suppose donc des moyens complémentaires, du stockage ou un réseau interconnecté, ce qui doit entrer dans l'évaluation globale.",
+      "tags": [
+        "renouvelables",
+        "controverse"
+      ],
+      "distractors": {
+        "easy": [
+          "Des sources gratuites et sans aucune contrainte",
+          "Des sources disponibles en permanence partout dans le monde",
+          "Des sources produisant de l'électricité sans aucune installation"
+        ],
+        "medium": [
+          "Des sources renouvelables mais fortement émettrices en fonctionnement",
+          "Des sources pilotables dont le seul défaut est le coût",
+          "Des sources dont la production est constante mais faible"
+        ],
+        "hard": [
+          "Des sources renouvelables et pilotables mais coûteuses en matériaux",
+          "Des sources variables dont l'intégration ne demande aucun moyen complémentaire",
+          "Des sources dont l'impact matériel est nul une fois installées"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi l'hydroélectricité occupe-t-elle une place particulière parmi les renouvelables ?",
+      "verso": "Parce qu'elle est renouvelable, peu émettrice et en partie pilotable, la retenue d'eau permettant de moduler la production selon la demande",
+      "explanation": "Elle cumule ainsi les avantages des renouvelables et une partie de ceux des moyens pilotables, mais son développement est limité par les sites disponibles et ses impacts locaux.",
+      "tags": [
+        "renouvelables",
+        "hydraulique"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'elle est la seule à ne pas utiliser d'eau",
+          "Parce qu'elle fonctionne uniquement la nuit",
+          "Parce qu'elle ne nécessite aucun barrage"
+        ],
+        "medium": [
+          "Parce qu'elle est la seule renouvelable totalement sans impact local",
+          "Parce qu'elle est intermittente comme l'éolien et le solaire",
+          "Parce qu'elle produit à la fois de l'électricité et de la chaleur"
+        ],
+        "hard": [
+          "Parce qu'elle est pilotable mais non renouvelable à l'échelle humaine",
+          "Parce que son potentiel de développement est illimité dans tous les pays",
+          "Parce qu'elle est la seule source renouvelable exempte d'émissions sur son cycle de vie"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : qu'est-ce qui distingue une source pilotable, une source variable et un moyen de stockage ?",
+      "verso": "Une source pilotable délivre une puissance commandée à la demande, une source variable dépend de conditions extérieures, tandis qu'un moyen de stockage ne produit pas d'énergie mais la restitue après l'avoir absorbée",
+      "explanation": "Un moyen de stockage n'est jamais une source : il déplace de l'énergie dans le temps en perdant une partie au passage. Le compter comme une production fausse tout bilan.",
+      "tags": [
+        "réseau",
+        "comparaison"
+      ],
+      "distractors": {
+        "easy": [
+          "La première est chère, la deuxième bon marché, la troisième gratuite",
+          "La première est ancienne, la deuxième moderne, la troisième future",
+          "Elles produisent toutes de l'énergie de la même manière"
+        ],
+        "medium": [
+          "Une source pilotable dépend du vent, une source variable est commandée à la demande",
+          "Un moyen de stockage produit de l'énergie supplémentaire pour le réseau",
+          "Une source variable est simplement une source pilotable de faible puissance"
+        ],
+        "hard": [
+          "Un moyen de stockage restitue exactement l'énergie absorbée, sans aucune perte",
+          "Une source pilotable est celle dont la production est prévisible mais non commandable",
+          "Une source variable peut être pilotée à condition de disposer d'un stockage suffisant"
+        ]
+      }
+    },
+    {
+      "recto": "Que sont les métaux critiques et pourquoi posent-ils question dans la transition énergétique ?",
+      "verso": "Des métaux indispensables aux technologies bas-carbone, dont l'approvisionnement est concentré géographiquement et dont l'extraction a des impacts environnementaux et sociaux",
+      "explanation": "Leur usage déplace une partie de la dépendance des sociétés, des combustibles fossiles vers des ressources minérales, sans la supprimer.",
+      "tags": [
+        "matériaux",
+        "controverse"
+      ],
+      "distractors": {
+        "easy": [
+          "Des métaux très lourds interdits par la loi",
+          "Des métaux qui ne se recyclent jamais",
+          "Des métaux utilisés uniquement dans les armes"
+        ],
+        "medium": [
+          "Des métaux dont les réserves mondiales sont totalement épuisées",
+          "Des métaux produits uniquement par les pays européens",
+          "Des métaux radioactifs utilisés dans les centrales nucléaires"
+        ],
+        "hard": [
+          "Des métaux indispensables aux technologies bas-carbone et disponibles partout de façon homogène",
+          "Des métaux dont l'extraction est sans impact mais dont le prix est instable",
+          "Des métaux dont la criticité tient uniquement à leur rareté géologique absolue"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi une technologie bas-carbone n'est-elle jamais sans impact ?",
+      "verso": "Parce que sa fabrication mobilise des matériaux, de l'énergie et de l'espace, impacts que seule une analyse de cycle de vie permet de comparer honnêtement",
+      "explanation": "Comparer des technologies revient donc à comparer des ensembles d'impacts hétérogènes, ce qui suppose de choisir explicitement les critères retenus.",
+      "tags": [
+        "méthode",
+        "controverse"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que toutes les technologies polluent exactement autant",
+          "Parce que les fabricants cachent volontairement les impacts",
+          "Parce que rien de ce que fait l'humanité n'est utile"
+        ],
+        "medium": [
+          "Parce que les émissions de fabrication dépassent toujours celles de l'usage",
+          "Parce que les impacts sont impossibles à quantifier scientifiquement",
+          "Parce que l'impact d'une technologie se limite à ses émissions de dioxyde de carbone"
+        ],
+        "hard": [
+          "Parce que l'analyse de cycle de vie montre que toutes les technologies sont équivalentes",
+          "Parce que les impacts de fabrication sont négligeables mais ceux du recyclage majeurs",
+          "Parce que les impacts se compensent nécessairement entre les phases du cycle de vie"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on le mix énergétique d'un pays ?",
+      "verso": "La répartition des différentes sources primaires dans sa consommation totale d'énergie, tous usages confondus et non pour la seule électricité",
+      "explanation": "Il ne faut pas le confondre avec le mix électrique : un pays peut avoir une électricité très décarbonée et un mix énergétique global encore dominé par les fossiles.",
+      "tags": [
+        "mix",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le mélange des différents fournisseurs présents sur le marché",
+          "La combinaison des tarifs proposés aux consommateurs",
+          "Le mélange des carburants vendus à la pompe"
+        ],
+        "medium": [
+          "La répartition des sources dans sa production d'électricité seule",
+          "La répartition de la consommation entre les secteurs économiques",
+          "La part des énergies importées dans sa consommation"
+        ],
+        "hard": [
+          "La répartition des sources primaires dans sa production d'énergie finale exportée",
+          "La répartition des puissances installées de production électrique",
+          "La part de chaque source dans les émissions de gaz à effet de serre du pays"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on la dépendance énergétique d'un pays ?",
+      "verso": "La part de sa consommation d'énergie qu'il doit importer, faute de produire suffisamment sur son territoire",
+      "explanation": "Elle constitue un enjeu de souveraineté autant qu'économique : les crises énergétiques montrent qu'une dépendance élevée expose fortement aux tensions internationales.",
+      "tags": [
+        "géopolitique",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le fait qu'un pays consomme de l'énergie tous les jours",
+          "Le nombre d'appareils électriques par habitant",
+          "La quantité d'énergie consommée par les administrations"
+        ],
+        "medium": [
+          "La part des énergies fossiles dans sa consommation",
+          "La part de l'électricité dans sa consommation d'énergie finale",
+          "La proportion de son territoire couverte par des installations énergétiques"
+        ],
+        "hard": [
+          "La part de sa production d'énergie qu'il exporte vers ses voisins",
+          "La proportion d'énergie perdue lors du transport depuis l'étranger",
+          "La dépendance de son économie à la consommation énergétique des ménages"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi les choix énergétiques engagent-ils les sociétés sur des décennies ?",
+      "verso": "Parce que les infrastructures énergétiques ont des durées de vie très longues et exigent des investissements considérables, ce qui rend les décisions difficilement réversibles",
+      "explanation": "Cette inertie explique l'importance du calendrier : une centrale construite aujourd'hui fixera une partie du mix pour quarante ans ou davantage.",
+      "tags": [
+        "société",
+        "inertie"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les gouvernements durent longtemps",
+          "Parce que les habitudes des consommateurs ne changent jamais",
+          "Parce que les contrats sont signés pour cinquante ans"
+        ],
+        "medium": [
+          "Parce que les sources d'énergie mettent des décennies à se reconstituer",
+          "Parce que la loi interdit de modifier le mix avant vingt ans",
+          "Parce que les technologies ne progressent que très lentement"
+        ],
+        "hard": [
+          "Parce que les infrastructures ont une durée de vie longue mais restent facilement reconvertibles",
+          "Parce que les investissements sont amortis sur quelques années seulement",
+          "Parce que l'inertie tient uniquement aux comportements individuels"
+        ]
+      }
+    },
+    {
+      "recto": "Comment un scientifique peut-il éclairer une controverse énergétique sans la trancher ?",
+      "verso": "En établissant les faits, en quantifiant les impacts de chaque option et en explicitant les incertitudes, laissant à la délibération collective l'arbitrage entre valeurs",
+      "explanation": "Comparer un risque d'accident à un risque climatique ou à un impact paysager suppose de pondérer des critères hétérogènes, ce qui n'est pas une opération scientifique.",
+      "tags": [
+        "science",
+        "société"
+      ],
+      "distractors": {
+        "easy": [
+          "En donnant son avis personnel dans les médias",
+          "En refusant de s'exprimer sur les sujets polémiques",
+          "En laissant chacun choisir les faits qui lui conviennent"
+        ],
+        "medium": [
+          "En désignant la solution techniquement optimale et en la recommandant",
+          "En attendant que toute incertitude soit levée avant de communiquer",
+          "En présentant toutes les positions comme scientifiquement équivalentes"
+        ],
+        "hard": [
+          "En quantifiant les impacts puis en pondérant lui-même les critères pour conclure",
+          "En établissant les faits et en écartant les options dont les risques sont non nuls",
+          "En laissant les incertitudes de côté pour rendre le message plus clair"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que la biomasse comme source d'énergie ?",
+      "verso": "L'ensemble des matières organiques d'origine végétale ou animale utilisées pour produire de la chaleur, de l'électricité ou des carburants",
+      "explanation": "Sa neutralité carbone n'est pas automatique : elle suppose que la ressource soit renouvelée au même rythme qu'elle est prélevée, ce qui n'est pas toujours vérifié.",
+      "tags": [
+        "renouvelables",
+        "biomasse"
+      ],
+      "distractors": {
+        "easy": [
+          "L'ensemble des êtres vivants d'une région donnée",
+          "La masse totale d'un être vivant adulte",
+          "Les déchets plastiques recyclés en carburant"
+        ],
+        "medium": [
+          "Les seules cultures dédiées à la production de carburants",
+          "Le bois de chauffage à l'exclusion de toute autre matière",
+          "Les gaz émis par la décomposition des roches"
+        ],
+        "hard": [
+          "Les matières organiques fossilisées utilisées comme combustibles",
+          "Les matières organiques dont la combustion est toujours neutre en carbone",
+          "Les seules matières végétales, à l'exclusion des matières animales"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la neutralité carbone de la biomasse est-elle discutée ?",
+      "verso": "Parce que le carbone libéré à la combustion n'est réabsorbé que si la végétation est effectivement replantée et arrivée à maturité, ce qui prend des décennies",
+      "explanation": "Il existe donc une dette carbone temporaire, dont la durée dépend des essences et des pratiques de gestion. Le raisonnement doit intégrer cette échelle de temps.",
+      "tags": [
+        "biomasse",
+        "analyse"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que le bois ne brûle pas complètement",
+          "Parce que la fumée est visible, donc polluante",
+          "Parce que la biomasse coûte plus cher que le charbon"
+        ],
+        "medium": [
+          "Parce que la biomasse émet plus de dioxyde de carbone que le pétrole par unité d'énergie",
+          "Parce que la combustion de biomasse détruit définitivement le carbone",
+          "Parce que la biomasse ne peut pas être utilisée pour produire de l'électricité"
+        ],
+        "hard": [
+          "Parce que le carbone libéré n'est jamais réabsorbé par la végétation",
+          "Parce que la replantation absorbe le carbone instantanément, ce qui masque les émissions",
+          "Parce que la dette carbone se résorbe en quelques mois seulement"
+        ]
+      }
+    },
+    {
+      "recto": "Que sont les déchets radioactifs à vie longue ?",
+      "verso": "Des déchets issus de l'industrie nucléaire dont la radioactivité décroît sur des milliers d'années, ce qui impose des solutions de confinement de très long terme",
+      "explanation": "Ils représentent un volume faible mais l'essentiel de la radioactivité, et posent une question éthique inhabituelle : la responsabilité envers des générations très éloignées.",
+      "tags": [
+        "nucléaire",
+        "déchets"
+      ],
+      "distractors": {
+        "easy": [
+          "Des déchets ménagers issus des centrales",
+          "Des déchets qui restent dangereux quelques semaines",
+          "Des déchets que l'on peut rejeter dans l'atmosphère"
+        ],
+        "medium": [
+          "Des déchets dont la radioactivité disparaît en quelques années",
+          "Des déchets qui représentent l'essentiel du volume produit",
+          "Des déchets recyclables intégralement en nouveau combustible"
+        ],
+        "hard": [
+          "Des déchets à forte radioactivité mais dont la décroissance est de quelques décennies",
+          "Des déchets de faible activité représentant l'essentiel de la radioactivité totale",
+          "Des déchets dont le confinement ne pose aucun problème technique identifié"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi les comparaisons de coûts entre sources d'énergie sont-elles délicates ?",
+      "verso": "Parce qu'il faut préciser ce que le coût inclut, investissement, exploitation, démantèlement, raccordement au réseau et moyens complémentaires nécessaires",
+      "explanation": "Un coût du kilowattheure isolé n'a pas de sens : deux sources aux coûts affichés proches peuvent imposer au système des dépenses très différentes.",
+      "tags": [
+        "économie",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les prix changent tous les jours",
+          "Parce que les producteurs refusent de communiquer leurs chiffres",
+          "Parce que la monnaie n'est pas la même partout"
+        ],
+        "medium": [
+          "Parce que le coût d'une source dépend uniquement du prix du combustible",
+          "Parce que seul le coût d'investissement initial est mesurable",
+          "Parce que les coûts d'exploitation sont identiques pour toutes les sources"
+        ],
+        "hard": [
+          "Parce que le coût du kilowattheure suffit à comparer si l'on tient compte de l'inflation",
+          "Parce que les coûts de démantèlement sont toujours pris en charge par l'État",
+          "Parce que les moyens complémentaires n'entrent jamais dans le coût d'une source"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que l'acceptabilité sociale d'un projet énergétique ?",
+      "verso": "Le degré d'adhésion des populations concernées, qui dépend des nuisances perçues, de la répartition des bénéfices et de la qualité de la concertation",
+      "explanation": "Elle n'est pas un obstacle irrationnel au progrès technique mais une composante réelle de la faisabilité : un projet rejeté ne se réalise pas, quelles que soient ses qualités techniques.",
+      "tags": [
+        "société",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le nombre de personnes employées par le projet",
+          "Le montant des impôts payés par l'exploitant",
+          "L'avis des experts scientifiques sur le projet"
+        ],
+        "medium": [
+          "La conformité du projet aux normes environnementales en vigueur",
+          "La rentabilité financière estimée du projet",
+          "L'accord des autorités administratives compétentes"
+        ],
+        "hard": [
+          "L'adhésion des populations, indépendante de la répartition des bénéfices",
+          "Le degré d'adhésion mesuré uniquement par les sondages nationaux",
+          "L'absence totale de nuisance objectivement mesurable pour les riverains"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la sobriété est-elle présentée comme un levier à part entière de la transition ?",
+      "verso": "Parce que réduire la demande diminue l'ampleur des moyens de production à déployer, quels qu'ils soient, et donc l'ensemble des impacts associés",
+      "explanation": "L'énergie la moins impactante reste celle qu'on ne consomme pas. Ce levier ne dispense pas de décarboner la production, mais il en réduit l'échelle.",
+      "tags": [
+        "transition",
+        "sobriété"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce qu'elle permet de faire des économies d'argent",
+          "Parce qu'elle est plus facile à mettre en œuvre que la technique",
+          "Parce qu'elle ne demande aucun effort collectif"
+        ],
+        "medium": [
+          "Parce qu'elle remplace entièrement le besoin de décarboner la production",
+          "Parce qu'elle améliore le rendement des appareils existants",
+          "Parce qu'elle augmente mécaniquement la part des renouvelables"
+        ],
+        "hard": [
+          "Parce qu'elle réduit la demande, ce qui rend inutile toute production nouvelle",
+          "Parce qu'elle diminue les impacts sans réduire les besoins en infrastructures",
+          "Parce qu'elle constitue le seul levier réellement efficace de la transition"
+        ]
+      }
+    },
+    {
+      "recto": "Quel rôle jouent les accords internationaux dans les choix énergétiques nationaux ?",
+      "verso": "Ils fixent des objectifs communs et un cadre de comparaison, mais laissent à chaque État le choix des moyens pour les atteindre",
+      "explanation": "Cette architecture explique la diversité des trajectoires nationales : deux pays peuvent viser la même réduction d'émissions par des mix énergétiques très différents.",
+      "tags": [
+        "politique",
+        "société"
+      ],
+      "distractors": {
+        "easy": [
+          "Ils imposent le même mix énergétique à tous les pays signataires",
+          "Ils n'ont aucun effet sur les politiques nationales",
+          "Ils fixent le prix mondial de l'électricité"
+        ],
+        "medium": [
+          "Ils déterminent précisément les technologies que chaque pays doit adopter",
+          "Ils sanctionnent financièrement tout pays dépassant son quota",
+          "Ils obligent les pays riches à financer intégralement la transition des autres"
+        ],
+        "hard": [
+          "Ils fixent des objectifs contraignants et les moyens techniques correspondants",
+          "Ils laissent le choix des objectifs mais imposent les moyens",
+          "Ils s'appliquent uniquement au secteur de la production d'électricité"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi l'électrification des usages ne suffit-elle pas à décarboner une société ?",
+      "verso": "Parce que de nombreux usages restent difficiles à électrifier, comme certains procédés industriels, le transport aérien ou maritime longue distance",
+      "explanation": "Pour ces usages, il faut d'autres voies : combustibles de synthèse, hydrogène, captage du carbone ou réduction de la demande. Aucune solution unique ne couvre tout.",
+      "tags": [
+        "transition",
+        "limites"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que l'électricité coûte trop cher pour être généralisée",
+          "Parce que le réseau électrique est déjà saturé partout",
+          "Parce que les appareils électriques tombent souvent en panne"
+        ],
+        "medium": [
+          "Parce que l'électricité est toujours plus émettrice que les combustibles",
+          "Parce que l'électrification augmente mécaniquement la consommation totale d'énergie",
+          "Parce que tous les usages sont électrifiables mais à un coût prohibitif"
+        ],
+        "hard": [
+          "Parce que les usages difficiles à électrifier représentent l'essentiel de la consommation",
+          "Parce que l'électrification déplace les émissions sans jamais les réduire",
+          "Parce que l'industrie lourde est déjà entièrement électrifiée, contrairement au transport"
+        ]
+      }
+    },
+    {
+      "recto": "Que désigne l'expression transition énergétique ?",
+      "verso": "Le passage progressif d'un système énergétique dominé par les combustibles fossiles à un système reposant sur des sources décarbonées et sur une demande réduite",
+      "explanation": "L'histoire montre que les transitions passées se sont faites par addition plus que par substitution : le charbon n'a jamais disparu quand le pétrole s'est développé.",
+      "tags": [
+        "transition",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le passage de l'hiver à l'été en matière de consommation",
+          "Le changement de fournisseur d'électricité par un usager",
+          "Le remplacement des ampoules classiques par des ampoules basse consommation"
+        ],
+        "medium": [
+          "Le remplacement de toutes les centrales par des panneaux solaires",
+          "Le passage du courant continu au courant alternatif",
+          "L'augmentation de la production d'énergie pour répondre à la demande"
+        ],
+        "hard": [
+          "Le passage instantané d'un système fossile à un système entièrement renouvelable",
+          "Le remplacement des sources fossiles par le seul nucléaire",
+          "L'addition de sources nouvelles sans réduction de la demande"
+        ]
+      }
+    },
+    {
+      "recto": "Que retenir de l'analyse scientifique des choix énergétiques ?",
+      "verso": "Qu'aucune source ne cumule tous les avantages, que chaque choix implique des compromis explicites, et que la comparaison exige de fixer d'abord les critères retenus",
+      "explanation": "C'est la conclusion la plus solide du chapitre, et la plus utile : rechercher la solution parfaite est le meilleur moyen de ne rien décider.",
+      "tags": [
+        "synthèse",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Qu'une source est manifestement supérieure à toutes les autres",
+          "Que tous les choix énergétiques se valent exactement",
+          "Que la science ne peut rien dire sur ces questions"
+        ],
+        "medium": [
+          "Que les renouvelables résolvent l'ensemble des problèmes posés",
+          "Que le progrès technique supprimera bientôt tous les compromis",
+          "Que le critère du coût suffit à départager les options"
+        ],
+        "hard": [
+          "Qu'une hiérarchie scientifique objective des sources peut être établie une fois pour toutes",
+          "Que les compromis disparaissent dès lors qu'on raisonne en cycle de vie complet",
+          "Que le choix des critères relève lui aussi d'une détermination purement scientifique"
+        ]
+      }
+    }
+  ]
+}

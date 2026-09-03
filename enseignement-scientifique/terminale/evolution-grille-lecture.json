@@ -1,0 +1,640 @@
+{
+  "id": "enseignement-scientifique-terminale-evolution-grille-lecture",
+  "title": "L'évolution comme grille de lecture du monde",
+  "emoji": "🧬",
+  "subject": "science",
+  "country": "fr",
+  "courseDescription": "Sélection sexuelle, coévolution, sélection artificielle et évolution des idées : ce que le raisonnement évolutionniste permet de comprendre, et ce qu'il ne permet pas.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>L'évolution comme grille de lecture du monde</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · enseignement scientifique<br>\n  <b>Thème 3&nbsp;:</b> Une histoire du vivant<br>\n  <b>Chapitre 3.2</b> · environ 6 heures\n</div>\n\n<blockquote><p><b>Problématique.</b> Jusqu'où le raisonnement évolutionniste éclaire-t-il le monde&nbsp;— et où doit-il s'arrêter&nbsp;?</p></blockquote>\n\n<p>Le chapitre précédent a exposé les mécanismes. Celui-ci les met au travail&nbsp;: la même logique de tri différentiel explique la queue du paon, l'antibiorésistance, la forme d'un épi de blé et l'échec d'un traitement systématique. Cette puissance explicative a une contrepartie&nbsp;— la tentation d'étendre le raisonnement à ce qu'il ne peut pas fonder. Savoir où la grille cesse de s'appliquer fait partie du chapitre au même titre que ses applications.</p>\n\n<h2>1 · Sélection sexuelle&nbsp;: survivre ne suffit pas</h2>\n\n<p>La <strong>sélection sexuelle</strong> porte sur les caractères qui améliorent l'accès à la reproduction, <em>même lorsqu'ils diminuent les chances de survie</em>. C'est le point qui déroute&nbsp;: une queue de paon est encombrante, voyante, coûteuse — et pourtant sélectionnée.</p>\n\n<p>La résolution tient en une phrase&nbsp;: la sélection ne maximise pas la survie mais le <strong>nombre de descendants</strong>. Un caractère handicapant est retenu s'il augmente suffisamment le succès reproducteur. C'est même le principe du <em>handicap</em>&nbsp;: un signal coûteux est difficile à falsifier, donc informatif sur la qualité de son porteur.</p>\n\n<h2>2 · Coévolution&nbsp;: évoluer à deux</h2>\n\n<p>La <strong>coévolution</strong> est l'évolution réciproque de deux espèces en interaction, chacune exerçant sur l'autre une pression de sélection. Elle prend deux visages opposés&nbsp;:</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 186\" role=\"img\" aria-label=\"Les deux visages de la coévolution : dans une interaction mutuellement bénéfique comme celle entre une fleur au tube floral allongé et son pollinisateur à longue trompe, chaque partenaire exerce sur l'autre une pression qui ajuste leurs caractères ; dans une interaction antagoniste comme celle entre un prédateur et sa proie ou un hôte et son parasite, chaque adaptation appelle une contre-adaptation, ce qui produit une course aux armements où chacun doit progresser simplement pour se maintenir\">\n    <rect x=\"12\" y=\"12\" width=\"150\" height=\"82\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".30\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"87\" y=\"32\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">MUTUALISME</text>\n    <text x=\"87\" y=\"50\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">fleur et pollinisateur</text>\n    <text x=\"87\" y=\"64\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">tube floral et trompe</text>\n    <text x=\"87\" y=\"84\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">ajustement réciproque</text>\n    <rect x=\"178\" y=\"12\" width=\"150\" height=\"82\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"253\" y=\"32\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">ANTAGONISME</text>\n    <text x=\"253\" y=\"50\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">prédateur et proie</text>\n    <text x=\"253\" y=\"64\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">hôte et parasite</text>\n    <text x=\"253\" y=\"84\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">course aux armements</text>\n    <line x1=\"8\" y1=\"112\" x2=\"332\" y2=\"112\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"132\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Le paradoxe de la course aux armements</text>\n    <text x=\"8\" y=\"150\" font-size=\"9\" fill=\"currentColor\">Chaque adaptation appelle une contre-adaptation. Les deux espèces</text>\n    <text x=\"8\" y=\"164\" font-size=\"9\" fill=\"currentColor\">évoluent beaucoup sans que le rapport de force change :</text>\n    <text x=\"8\" y=\"180\" font-size=\"9\" fill=\"currentColor\">il faut progresser pour simplement se maintenir.</text>\n  </svg>\n  <figcaption>Deux espèces peuvent évoluer énormément et rester exactement au même point l'une par rapport à l'autre.</figcaption>\n</figure>\n\n<h2>3 · L'évolution sous nos yeux</h2>\n\n<p>La <strong>résistance aux pesticides</strong> reproduit exactement le schéma de l'antibiorésistance&nbsp;: le traitement élimine les individus sensibles et laisse se reproduire ceux qui portaient <em>déjà</em> une résistance, dont la fréquence augmente à chaque application.</p>\n\n<p>La conséquence pratique est directe, et contre-intuitive pour qui l'ignore&nbsp;: <strong>l'usage systématique d'une même molécule accélère précisément le problème qu'il prétend résoudre</strong>. D'où la nécessité de limiter et de diversifier les traitements. C'est un cas rare où une théorie fondamentale a des conséquences opérationnelles immédiates, en médecine comme en agriculture.</p>\n\n<p>Le raisonnement s'applique aussi aux <strong>agents pathogènes</strong>&nbsp;: les virus évoluent sous la pression des traitements et de l'immunité, si bien que l'apparition de variants n'est pas une anomalie mais un comportement attendu — ce qui permet de l'anticiper plutôt que de le subir.</p>\n\n<h2>4 · La sélection artificielle</h2>\n\n<p>La <strong>sélection artificielle</strong> est le choix par l'être humain des individus autorisés à se reproduire. Elle obéit au même mécanisme que les deux autres&nbsp;: seul l'agent du tri change.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 176\" role=\"img\" aria-label=\"Les trois formes de sélection reposent sur un même mécanisme de tri différentiel de la reproduction, seul l'agent du tri diffère : dans la sélection naturelle ce sont les contraintes du milieu, dans la sélection sexuelle le choix des partenaires ou la compétition pour l'accès à la reproduction, dans la sélection artificielle le choix opéré par l'être humain ; c'est cette unité de mécanisme qui a permis à Darwin d'utiliser l'élevage comme preuve accessible\">\n    <rect x=\"60\" y=\"10\" width=\"220\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".40\" stroke=\"var(--accent)\" stroke-opacity=\".7\"/>\n    <text x=\"170\" y=\"29\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">TRI DIFFÉRENTIEL DE LA REPRODUCTION</text>\n    <line x1=\"100\" y1=\"44\" x2=\"60\" y2=\"62\" stroke=\"var(--accent)\" stroke-opacity=\".6\" stroke-width=\"1.5\" marker-end=\"url(#ar-tes32)\"/>\n    <line x1=\"170\" y1=\"44\" x2=\"170\" y2=\"62\" stroke=\"var(--accent)\" stroke-opacity=\".6\" stroke-width=\"1.5\" marker-end=\"url(#ar-tes32)\"/>\n    <line x1=\"240\" y1=\"44\" x2=\"280\" y2=\"62\" stroke=\"var(--accent)\" stroke-opacity=\".6\" stroke-width=\"1.5\" marker-end=\"url(#ar-tes32)\"/>\n    <rect x=\"8\" y=\"66\" width=\"102\" height=\"52\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"59\" y=\"86\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">NATURELLE</text>\n    <text x=\"59\" y=\"104\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">le milieu trie</text>\n    <rect x=\"119\" y=\"66\" width=\"102\" height=\"52\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"170\" y=\"86\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">SEXUELLE</text>\n    <text x=\"170\" y=\"104\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">les partenaires trient</text>\n    <rect x=\"230\" y=\"66\" width=\"102\" height=\"52\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"281\" y=\"86\" font-size=\"9\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">ARTIFICIELLE</text>\n    <text x=\"281\" y=\"104\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">l'humain trie</text>\n    <text x=\"8\" y=\"146\" font-size=\"9\" fill=\"currentColor\">Un seul mécanisme, trois agents. C'est cette unité qui a permis</text>\n    <text x=\"8\" y=\"160\" font-size=\"9\" fill=\"currentColor\">à Darwin de faire de l'élevage une preuve accessible :</text>\n    <text x=\"8\" y=\"174\" font-size=\"9\" class=\"s-muted\">si l'éleveur obtient cela en dix générations, que peut le temps long ?</text>\n    <defs>\n      <marker id=\"ar-tes32\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n  </svg>\n  <figcaption>L'élevage rend observable, à l'échelle humaine, un processus qui opère normalement sur des durées inaccessibles.</figcaption>\n</figure>\n\n<p>Revers de la médaille&nbsp;: la sélection artificielle intensive concentre la reproduction sur quelques individus performants, ce qui <strong>appauvrit la diversité génétique</strong> des espèces domestiquées et les rend vulnérables aux maladies. C'est la justification scientifique de la conservation des races et variétés anciennes.</p>\n\n<p>Un <strong>agrosystème</strong> est ainsi un écosystème simplifié dont les pressions de sélection sont largement fixées par les pratiques agricoles&nbsp;: cultures et adventices y évoluent en réponse à ce que l'agriculteur fait.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 186\" role=\"img\" aria-label=\"L'arbre du vivant est buissonnant et non linéaire : l'évolution procède par ramifications successives sans direction privilégiée, chaque espèce actuelle occupant l'extrémité d'un rameau parmi de très nombreux autres, dont la grande majorité mènent à des lignées éteintes ; la représentation linéaire en échelle des êtres suggère à tort une progression orientée vers l'espèce humaine\">\n    <path d=\"M170,150 L170,120\" fill=\"none\" stroke=\"currentColor\" stroke-opacity=\".45\" stroke-width=\"2\"/>\n    <path d=\"M170,120 C150,105 120,96 96,80\" fill=\"none\" stroke=\"currentColor\" stroke-opacity=\".4\" stroke-width=\"1.6\"/>\n    <path d=\"M170,120 C190,105 220,96 244,80\" fill=\"none\" stroke=\"currentColor\" stroke-opacity=\".4\" stroke-width=\"1.6\"/>\n    <path d=\"M96,80 C86,68 70,60 54,46\" fill=\"none\" stroke=\"currentColor\" stroke-opacity=\".35\" stroke-width=\"1.4\"/>\n    <path d=\"M96,80 C104,66 116,58 128,44\" fill=\"none\" stroke=\"currentColor\" stroke-opacity=\".35\" stroke-width=\"1.4\"/>\n    <path d=\"M244,80 C236,66 224,58 212,44\" fill=\"none\" stroke=\"currentColor\" stroke-opacity=\".35\" stroke-width=\"1.4\"/>\n    <path d=\"M244,80 C254,68 270,60 288,46\" fill=\"none\" stroke=\"currentColor\" stroke-opacity=\".35\" stroke-width=\"1.4\"/>\n    <circle cx=\"54\" cy=\"42\" r=\"4\" fill=\"var(--accent)\" fill-opacity=\".8\"/>\n    <circle cx=\"128\" cy=\"40\" r=\"4\" fill=\"var(--accent)\" fill-opacity=\".8\"/>\n    <circle cx=\"212\" cy=\"40\" r=\"4\" fill=\"var(--accent)\" fill-opacity=\".8\"/>\n    <circle cx=\"288\" cy=\"42\" r=\"4\" fill=\"var(--accent)\" fill-opacity=\".8\"/>\n    <path d=\"M112,72 L100,58\" fill=\"none\" stroke=\"currentColor\" stroke-opacity=\".2\" stroke-width=\"1.2\" stroke-dasharray=\"3 3\"/>\n    <path d=\"M228,72 L240,58\" fill=\"none\" stroke=\"currentColor\" stroke-opacity=\".2\" stroke-width=\"1.2\" stroke-dasharray=\"3 3\"/>\n    <text x=\"100\" y=\"54\" font-size=\"14\" text-anchor=\"middle\" class=\"s-muted\">×</text>\n    <text x=\"242\" y=\"54\" font-size=\"14\" text-anchor=\"middle\" class=\"s-muted\">×</text>\n    <text x=\"170\" y=\"168\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Chaque espèce actuelle occupe l'extrémité d'un rameau.</text>\n    <text x=\"170\" y=\"182\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">Les croix marquent les lignées éteintes — l'immense majorité.</text>\n  </svg>\n  <figcaption>Un buisson, pas une échelle&nbsp;: aucun rameau ne mène nulle part en particulier.</figcaption>\n</figure>\n\n<h2>5 · Ce que la grille ne fait pas</h2>\n\n<p>Trois précisions décisives, chacune corrigeant une représentation fausse très répandue.</p>\n\n<p><strong>L'évolution culturelle n'est pas l'évolution biologique.</strong> Les idées, techniques et pratiques se transmettent par apprentissage&nbsp;: la transmission est <em>horizontale</em> autant que verticale, beaucoup plus rapide, et permet d'acquérir un trait sans le tenir de ses parents. L'analogie éclaire&nbsp;; elle ne vaut pas identité.</p>\n\n<p><strong>Aucune espèce n'est «&nbsp;plus évoluée&nbsp;» qu'une autre.</strong> Toutes les espèces actuelles ont derrière elles la même durée d'évolution depuis leur ancêtre commun, et aucune n'est le but d'un processus orienté. L'image de l'échelle des êtres cède la place à celle de l'<strong>arbre buissonnant</strong>, où chaque espèce occupe l'extrémité d'un rameau parmi des millions d'autres, dont l'immense majorité mènent à des lignées éteintes.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Homologie et convergence</strong><br>\n  Un caractère <strong>homologue</strong> est partagé parce qu'il était présent chez l'ancêtre commun — le membre antérieur de l'humain, de la chauve-souris et de la baleine, malgré des fonctions opposées. Une <strong>convergence</strong> est une ressemblance apparue <em>indépendamment</em> sous des pressions similaires — le dauphin et le requin. Ressemblance de parenté d'un côté, ressemblance de fonction de l'autre.\n</div>\n\n<p><strong>La théorie de l'évolution est une théorie, au sens fort.</strong> Le mot ne désigne pas ici une supposition mais l'état le plus élaboré d'une explication scientifique, comme pour la gravitation. Sa solidité tient à la <em>convergence</em> de disciplines indépendantes&nbsp;: paléontologie, anatomie comparée, embryologie, biogéographie et génétique moléculaire comparée. Chacune aurait pu contredire les autres&nbsp;; aucune ne l'a fait. La comparaison des séquences moléculaires, en particulier, reconstitue des arbres qui confirment ceux de l'anatomie.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Les formes de sélection</h3>\n\n<table>\n  <tr><th>Forme</th><th>Agent du tri</th><th>Exemple</th></tr>\n  <tr><td>Naturelle</td><td>Contraintes du milieu</td><td>Antibiorésistance</td></tr>\n  <tr><td>Sexuelle</td><td>Choix des partenaires</td><td>Queue du paon</td></tr>\n  <tr><td>Artificielle</td><td>L'être humain</td><td>Races d'élevage</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition en une ligne</th></tr>\n  <tr><td>Coévolution</td><td>Évolution réciproque de deux espèces en interaction</td></tr>\n  <tr><td>Course aux armements</td><td>Escalade réciproque entre espèces antagonistes</td></tr>\n  <tr><td>Caractère homologue</td><td>Hérité d'un ancêtre commun, quelle que soit sa fonction</td></tr>\n  <tr><td>Convergence évolutive</td><td>Ressemblance apparue indépendamment</td></tr>\n  <tr><td>Évolution culturelle</td><td>Transmission par apprentissage, horizontale et rapide</td></tr>\n</table>\n\n<h3>Les preuves convergentes</h3>\n\n<table>\n  <tr><th>Discipline</th><th>Ce qu'elle apporte</th></tr>\n  <tr><td>Paléontologie</td><td>Formes fossiles et successions</td></tr>\n  <tr><td>Anatomie comparée</td><td>Plans d'organisation homologues</td></tr>\n  <tr><td>Embryologie</td><td>Étapes du développement partagées</td></tr>\n  <tr><td>Biogéographie</td><td>Répartition des espèces et isolement</td></tr>\n  <tr><td>Génétique moléculaire</td><td>Degré de ressemblance des séquences</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Tirer de l'évolution une <strong>norme</strong> sur ce qui devrait être. Décrire comment le vivant évolue ne dit rien de ce qui est souhaitable&nbsp;: passer du constat à la prescription est un raisonnement fautif, dont la justification de hiérarchies sociales par la sélection naturelle est l'exemple historique. Piège voisin&nbsp;: parler d'espèces «&nbsp;plus évoluées&nbsp;» — l'évolution n'a ni direction ni finalité, et toutes les espèces actuelles ont exactement la même ancienneté.\n</div>\n\n<blockquote><p>L'évolution explique pourquoi un antibiotique cesse d'agir, pourquoi une fleur a la forme qu'elle a, pourquoi une race d'élevage s'appauvrit. Elle n'explique pas ce qu'il faudrait faire&nbsp;— et c'est très bien ainsi.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Une histoire du vivant",
+  "cards": [
+    {
+      "recto": "Piège classique : peut-on tirer de la théorie de l'évolution une norme sur ce qui devrait être ?",
+      "verso": "Non, car décrire comment le vivant évolue ne dit rien de ce qui est souhaitable, passer du constat à la norme constituant un raisonnement fautif",
+      "explanation": "Justifier une hiérarchie sociale par la sélection naturelle est l'exemple historique de cette confusion. La science décrit des mécanismes ; les valeurs relèvent d'un autre ordre de discours.",
+      "tags": [
+        "épistémologie",
+        "piege"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, la nature montre toujours ce qui est bien",
+          "Oui, ce qui survit est nécessairement supérieur",
+          "Oui, l'évolution indique la direction du progrès"
+        ],
+        "medium": [
+          "Oui, car la sélection naturelle optimise les organismes",
+          "Non, mais seulement parce que la théorie est encore incomplète",
+          "Oui, à condition de se limiter aux comportements naturels"
+        ],
+        "hard": [
+          "Oui, dans la mesure où l'évolution produit des solutions optimales aux problèmes du milieu",
+          "Non, car l'évolution n'a aucun effet sur les comportements humains",
+          "Oui, si l'on distingue soigneusement adaptation biologique et adaptation culturelle"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que la sélection sexuelle ?",
+      "verso": "Une forme de sélection portant sur les caractères qui améliorent l'accès à la reproduction, même lorsqu'ils diminuent les chances de survie de l'individu",
+      "explanation": "Elle explique des traits apparemment absurdes du point de vue de la survie, comme la queue du paon : ce qui compte n'est pas de vivre longtemps mais de laisser des descendants.",
+      "tags": [
+        "sélection",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le choix du sexe des descendants par les parents",
+          "La séparation des mâles et des femelles dans un troupeau",
+          "La reproduction entre individus de la même famille"
+        ],
+        "medium": [
+          "La sélection des individus les plus résistants aux maladies",
+          "La sélection portant uniquement sur les caractères favorisant la survie",
+          "Le choix du partenaire fondé sur la proximité géographique"
+        ],
+        "hard": [
+          "Une sélection portant sur les caractères améliorant l'accès à la reproduction et la survie",
+          "Une sélection agissant uniquement sur les femelles d'une espèce",
+          "Une sélection portant sur la fécondité et non sur l'accès aux partenaires"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi un caractère coûteux en survie peut-il être sélectionné ?",
+      "verso": "Parce que la sélection ne maximise pas la survie mais le nombre de descendants, un caractère handicapant pouvant être retenu s'il augmente suffisamment le succès reproducteur",
+      "explanation": "C'est le principe du handicap : un signal coûteux est difficile à falsifier, ce qui en fait une indication honnête de la qualité de son porteur.",
+      "tags": [
+        "sélection",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que la nature fait parfois des erreurs",
+          "Parce que les animaux aiment les caractères voyants",
+          "Parce que ce caractère finira par disparaître"
+        ],
+        "medium": [
+          "Parce que ce caractère améliore aussi discrètement la survie",
+          "Parce que la dérive génétique fixe les caractères au hasard",
+          "Parce que les prédateurs évitent les individus les plus voyants"
+        ],
+        "hard": [
+          "Parce que la sélection maximise la survie à long terme malgré le coût immédiat",
+          "Parce que le caractère coûteux réduit la concurrence entre mâles",
+          "Parce que la sélection sexuelle agit indépendamment de la sélection naturelle"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que la coévolution ?",
+      "verso": "L'évolution réciproque de deux espèces en interaction, chacune exerçant sur l'autre une pression de sélection qui modifie ses caractères",
+      "explanation": "Elle produit des ajustements remarquables entre plantes et pollinisateurs, ou des courses aux armements entre prédateurs et proies, hôtes et parasites.",
+      "tags": [
+        "coévolution",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "L'évolution simultanée de tous les êtres vivants d'une région",
+          "L'évolution de deux individus d'une même espèce",
+          "Le fait que deux espèces vivent au même endroit"
+        ],
+        "medium": [
+          "L'évolution d'une espèce sous l'effet du climat",
+          "La convergence de deux espèces vers une même forme",
+          "L'évolution parallèle de deux espèces sans interaction entre elles"
+        ],
+        "hard": [
+          "L'évolution réciproque de deux espèces sans pression de sélection mutuelle",
+          "L'évolution d'une espèce en réponse à une autre, sans réciprocité",
+          "La fusion progressive de deux espèces en interaction étroite"
+        ]
+      }
+    },
+    {
+      "recto": "Donnez un exemple classique de coévolution entre une plante et un animal.",
+      "verso": "L'ajustement entre la longueur du tube floral de certaines fleurs et celle de la trompe de leurs pollinisateurs, chaque partie exerçant une pression sur l'autre",
+      "explanation": "L'interaction est mutuellement bénéfique : la plante gagne un transport de pollen efficace, l'insecte un accès exclusif à une ressource.",
+      "tags": [
+        "coévolution",
+        "exemple"
+      ],
+      "distractors": {
+        "easy": [
+          "Le chien et le chat qui vivent dans la même maison",
+          "L'arbre et le vent qui disperse ses feuilles",
+          "Le poisson et l'eau dans laquelle il nage"
+        ],
+        "medium": [
+          "Le lion et la gazelle qui vivent dans la même savane",
+          "La vache et l'herbe qu'elle broute sans interaction sélective",
+          "Le blé et le sol dans lequel il pousse"
+        ],
+        "hard": [
+          "L'ajustement entre la taille des graines et celle du bec, sans effet réciproque",
+          "La ressemblance entre une plante et une roche qui la protège",
+          "La compétition entre deux plantes pour la même ressource lumineuse"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on une course aux armements évolutive ?",
+      "verso": "Une escalade réciproque entre deux espèces antagonistes, chaque adaptation de l'une exerçant une pression favorisant une contre-adaptation de l'autre",
+      "explanation": "Elle explique que deux espèces puissent évoluer beaucoup sans que leur rapport de force change : chacune doit progresser pour simplement se maintenir.",
+      "tags": [
+        "coévolution",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Une compétition entre pays pour produire des armes",
+          "Une course entre deux animaux de la même espèce",
+          "Un combat entre deux mâles pour un territoire"
+        ],
+        "medium": [
+          "Une adaptation d'une espèce sans réponse de l'autre",
+          "Une compétition entre individus d'une même population",
+          "Une évolution rapide provoquée par un changement climatique"
+        ],
+        "hard": [
+          "Une escalade réciproque qui modifie nécessairement le rapport de force initial",
+          "Une évolution parallèle de deux espèces non antagonistes",
+          "Une succession de contre-adaptations aboutissant à l'extinction d'un des partenaires"
+        ]
+      }
+    },
+    {
+      "recto": "Comment la résistance aux pesticides illustre-t-elle la sélection naturelle ?",
+      "verso": "Le pesticide élimine les individus sensibles et laisse se reproduire ceux qui portaient déjà une résistance, dont la fréquence augmente à chaque traitement",
+      "explanation": "Le mécanisme est identique à celui de l'antibiorésistance. Il implique que le traitement systématique accélère précisément le problème qu'il cherche à résoudre.",
+      "tags": [
+        "sélection",
+        "exemple"
+      ],
+      "distractors": {
+        "easy": [
+          "Les insectes apprennent à éviter les zones traitées",
+          "Le pesticide devient moins efficace en vieillissant",
+          "Les plantes développent une immunité au pesticide"
+        ],
+        "medium": [
+          "Le pesticide provoque des mutations de résistance chez les insectes",
+          "Les insectes transmettent la résistance en se touchant",
+          "La résistance apparaît spontanément quand le besoin s'en fait sentir"
+        ],
+        "hard": [
+          "Le pesticide sélectionne les résistants tout en induisant de nouvelles mutations dirigées",
+          "La résistance résulte de la dérive génétique accélérée par le traitement",
+          "La résistance se développe individuellement au cours de la vie de l'insecte"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle conséquence pratique tire-t-on du caractère évolutif de la résistance ?",
+      "verso": "Qu'il faut limiter et diversifier les traitements, car un usage systématique d'une même molécule sélectionne rapidement les formes résistantes",
+      "explanation": "La compréhension du mécanisme évolutif oriente donc directement la pratique médicale et agricole : c'est un cas où la théorie a des conséquences opérationnelles immédiates.",
+      "tags": [
+        "sélection",
+        "application"
+      ],
+      "distractors": {
+        "easy": [
+          "Qu'il faut augmenter les doses jusqu'à éliminer tous les individus",
+          "Qu'il faut abandonner définitivement tout traitement",
+          "Qu'il faut traiter plus souvent pour prendre de l'avance"
+        ],
+        "medium": [
+          "Qu'il faut utiliser une seule molécule très puissante en continu",
+          "Qu'il faut traiter uniquement les individus déjà résistants",
+          "Qu'il faut attendre que la résistance disparaisse d'elle-même"
+        ],
+        "hard": [
+          "Qu'il faut alterner les molécules mais maintenir un traitement permanent",
+          "Qu'il faut traiter par doses infra-létales pour éviter la sélection",
+          "Qu'il faut éliminer les individus résistants par croisement avec des sensibles"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : qu'est-ce qui distingue la sélection naturelle, la sélection sexuelle et la sélection artificielle ?",
+      "verso": "La sélection naturelle résulte des contraintes du milieu, la sélection sexuelle du choix des partenaires ou de la compétition pour l'accès à la reproduction, la sélection artificielle d'un tri opéré par l'être humain",
+      "explanation": "Les trois obéissent au même mécanisme, un tri différentiel de la reproduction, mais l'agent du tri diffère. C'est cette unité de mécanisme qui rend l'élevage démonstratif.",
+      "tags": [
+        "sélection",
+        "comparaison"
+      ],
+      "distractors": {
+        "easy": [
+          "La première concerne les plantes, la deuxième les animaux, la troisième les humains",
+          "Elles désignent trois périodes successives de l'histoire de la vie",
+          "La première est lente, la deuxième rapide, la troisième instantanée"
+        ],
+        "medium": [
+          "La sélection naturelle résulte du choix des partenaires, la sexuelle du milieu",
+          "La sélection artificielle est le seul cas où le tri n'est pas différentiel",
+          "La sélection naturelle agit sur les gènes, la sexuelle sur les comportements"
+        ],
+        "hard": [
+          "La sélection sexuelle résulte des contraintes du milieu, la naturelle du choix des partenaires",
+          "La sélection artificielle obéit à un mécanisme différent des deux autres",
+          "La sélection naturelle et la sélection sexuelle sont deux noms d'un même processus"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que la sélection artificielle ?",
+      "verso": "Le choix par l'être humain des individus autorisés à se reproduire, en fonction de caractères jugés désirables, ce qui modifie rapidement les populations domestiquées",
+      "explanation": "Darwin s'en est servi comme argument central : si l'éleveur obtient de tels résultats en quelques générations, le tri naturel peut en obtenir bien davantage sur des millions d'années.",
+      "tags": [
+        "domestication",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La création d'animaux en laboratoire à partir de rien",
+          "Le classement des animaux dans les concours agricoles",
+          "La protection des espèces menacées par l'être humain"
+        ],
+        "medium": [
+          "La modification directe des gènes par manipulation génétique",
+          "L'entraînement des animaux à acquérir de nouveaux comportements",
+          "L'introduction d'espèces nouvelles dans un milieu"
+        ],
+        "hard": [
+          "Le choix par l'être humain des individus reproducteurs, sans effet sur les fréquences alléliques",
+          "La sélection opérée par le milieu dans les espaces agricoles",
+          "Le croisement d'espèces différentes pour obtenir des hybrides féconds"
+        ]
+      }
+    },
+    {
+      "recto": "Quel rôle la sélection artificielle a-t-elle joué dans l'argumentation de Darwin ?",
+      "verso": "Elle lui a servi de preuve accessible que le tri des variations héréditaires suffit à transformer profondément une population en peu de générations",
+      "explanation": "L'analogie est méthodologiquement remarquable : elle rend observable, sur une échelle humaine, un processus qui opère normalement sur des durées inaccessibles.",
+      "tags": [
+        "histoire des sciences",
+        "domestication"
+      ],
+      "distractors": {
+        "easy": [
+          "Aucun, Darwin ignorait l'existence de l'élevage",
+          "Elle lui a servi à démontrer que les espèces sont fixes",
+          "Elle lui a permis de créer de nouvelles espèces en laboratoire"
+        ],
+        "medium": [
+          "Elle lui a fourni la preuve de l'hérédité des caractères acquis",
+          "Elle lui a permis d'identifier le support matériel de l'hérédité",
+          "Elle lui a servi à démontrer l'existence des mutations"
+        ],
+        "hard": [
+          "Elle lui a servi à prouver que la sélection naturelle est plus rapide que l'artificielle",
+          "Elle lui a permis de démontrer que la variation est toujours orientée par le besoin",
+          "Elle lui a fourni un contre-exemple qu'il devait réfuter pour établir sa théorie"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la diversité génétique des espèces domestiquées est-elle souvent faible ?",
+      "verso": "Parce que la sélection artificielle intensive concentre la reproduction sur un petit nombre d'individus jugés performants, ce qui appauvrit le patrimoine génétique",
+      "explanation": "Cet appauvrissement rend les populations vulnérables aux maladies et aux changements de conditions, ce qui justifie la conservation des races et variétés anciennes.",
+      "tags": [
+        "domestication",
+        "conséquences"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les animaux domestiques vivent en captivité",
+          "Parce qu'ils sont nourris de la même façon",
+          "Parce qu'ils ne subissent plus de prédation"
+        ],
+        "medium": [
+          "Parce que les mutations n'apparaissent plus chez les espèces domestiques",
+          "Parce que la sélection naturelle ne s'exerce plus du tout sur elles",
+          "Parce que les croisements entre races sont interdits"
+        ],
+        "hard": [
+          "Parce que la sélection artificielle augmente le nombre d'allèles mais réduit leur fréquence",
+          "Parce que les espèces domestiques ont un temps de génération plus long",
+          "Parce que la dérive génétique est supprimée dans les populations d'élevage"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un agrosystème du point de vue évolutif ?",
+      "verso": "Un écosystème simplifié et piloté par l'être humain, où les pressions de sélection sont largement fixées par les pratiques agricoles",
+      "explanation": "Les espèces qui s'y trouvent, cultivées ou indésirables, évoluent en réponse à ces pressions : le désherbant sélectionne les adventices résistantes comme l'antibiotique les bactéries.",
+      "tags": [
+        "agrosystème",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Un système de vente de produits agricoles",
+          "Une machine agricole moderne",
+          "Un ensemble de règles encadrant l'agriculture"
+        ],
+        "medium": [
+          "Un écosystème naturel exploité sans modification",
+          "Un milieu où la sélection naturelle ne s'exerce plus",
+          "Un espace protégé où la biodiversité est maximale"
+        ],
+        "hard": [
+          "Un écosystème simplifié où les pressions de sélection restent entièrement naturelles",
+          "Un écosystème dont la diversité génétique dépasse celle des milieux naturels",
+          "Un milieu où les espèces cultivées évoluent mais pas les espèces indésirables"
+        ]
+      }
+    },
+    {
+      "recto": "Comment le raisonnement évolutif éclaire-t-il l'usage des vaccins et des traitements ?",
+      "verso": "Il montre que les agents pathogènes évoluent sous la pression des traitements et de l'immunité, ce qui impose de surveiller les variants et d'adapter les stratégies",
+      "explanation": "L'évolution des virus n'est donc pas une anomalie mais un comportement attendu, ce qui permet d'anticiper plutôt que de subir.",
+      "tags": [
+        "santé",
+        "application"
+      ],
+      "distractors": {
+        "easy": [
+          "Il montre que les maladies disparaissent naturellement avec le temps",
+          "Il prouve que les vaccins sont inutiles à long terme",
+          "Il indique que les virus ne changent jamais"
+        ],
+        "medium": [
+          "Il montre que les pathogènes deviennent toujours moins dangereux avec le temps",
+          "Il prouve que l'immunité acquise est définitivement transmissible",
+          "Il indique que les traitements doivent être administrés à vie"
+        ],
+        "hard": [
+          "Il montre que les pathogènes évoluent uniquement en l'absence de traitement",
+          "Il établit que les variants apparaissent en réponse dirigée à la vaccination",
+          "Il démontre que la pression de sélection ralentit nécessairement l'évolution virale"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on évolution culturelle ?",
+      "verso": "La transformation des idées, des techniques et des pratiques transmises par apprentissage, qui obéit à des mécanismes de variation et de tri distincts de l'hérédité biologique",
+      "explanation": "L'analogie avec l'évolution biologique est éclairante mais limitée : la transmission culturelle est horizontale, rapide et permet l'acquisition volontaire, contrairement à l'hérédité génétique.",
+      "tags": [
+        "culture",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le changement des modes vestimentaires chaque année",
+          "L'apprentissage scolaire des élèves",
+          "L'évolution du nombre de musées dans un pays"
+        ],
+        "medium": [
+          "La transmission des caractères acquis par les gènes",
+          "L'évolution biologique du cerveau humain au fil des générations",
+          "L'adaptation génétique d'une population à sa culture"
+        ],
+        "hard": [
+          "La transformation des pratiques transmises par hérédité génétique",
+          "Une évolution obéissant exactement aux mêmes mécanismes que l'évolution biologique",
+          "La transmission verticale exclusive des savoirs d'une génération à la suivante"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi la transmission culturelle diffère-t-elle de la transmission génétique ?",
+      "verso": "Elle est horizontale autant que verticale, beaucoup plus rapide, et permet d'acquérir un trait sans le tenir de ses parents",
+      "explanation": "Ces différences expliquent pourquoi les changements culturels s'observent en quelques années alors que les changements génétiques exigent des générations.",
+      "tags": [
+        "culture",
+        "transmission"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle se fait uniquement à l'école, contrairement à la génétique",
+          "Elle ne concerne que les êtres humains adultes",
+          "Elle est plus lente que la transmission génétique"
+        ],
+        "medium": [
+          "Elle se transmet exclusivement des parents aux enfants, comme les gènes",
+          "Elle modifie directement le patrimoine génétique des individus",
+          "Elle obéit aux mêmes lois statistiques que l'hérédité mendélienne"
+        ],
+        "hard": [
+          "Elle est verticale et lente mais permet l'acquisition volontaire de traits",
+          "Elle est horizontale mais ne permet aucune acquisition en dehors de la famille",
+          "Elle est rapide mais ne subit aucun tri comparable à la sélection"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la théorie de l'évolution est-elle qualifiée de théorie scientifique et non d'hypothèse ?",
+      "verso": "Parce qu'elle constitue un cadre explicatif cohérent, appuyé sur des faits convergents issus de disciplines multiples, et qui produit des prédictions vérifiables",
+      "explanation": "Le mot théorie n'a pas ici le sens courant de supposition : il désigne l'état le plus élaboré d'une explication scientifique, comme pour la théorie de la gravitation.",
+      "tags": [
+        "épistémologie",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que beaucoup de scientifiques y croient",
+          "Parce qu'elle est enseignée dans les écoles",
+          "Parce qu'elle est très ancienne"
+        ],
+        "medium": [
+          "Parce qu'elle n'a jamais été remise en question depuis Darwin",
+          "Parce qu'elle est démontrée mathématiquement comme un théorème",
+          "Parce qu'elle repose sur une seule expérience décisive"
+        ],
+        "hard": [
+          "Parce qu'elle est vérifiée dans tous les cas et donc définitivement prouvée",
+          "Parce qu'elle ne produit aucune prédiction, ce qui la rend irréfutable",
+          "Parce qu'elle relève de l'interprétation historique plutôt que de l'expérimentation"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles disciplines apportent des faits convergents en faveur de l'évolution ?",
+      "verso": "La paléontologie, l'anatomie comparée, l'embryologie, la biogéographie et surtout la génétique moléculaire comparée",
+      "explanation": "La convergence de disciplines indépendantes constitue l'argument le plus fort : chacune aurait pu contredire les autres, aucune ne l'a fait.",
+      "tags": [
+        "épistémologie",
+        "preuves"
+      ],
+      "distractors": {
+        "easy": [
+          "La géologie, la chimie et la physique nucléaire",
+          "L'astronomie, la météorologie et la climatologie",
+          "L'histoire, la sociologie et l'économie"
+        ],
+        "medium": [
+          "La paléontologie seule, les autres disciplines étant muettes",
+          "La génétique et l'informatique exclusivement",
+          "La médecine et la pharmacologie principalement"
+        ],
+        "hard": [
+          "La paléontologie, l'anatomie comparée et la physiologie des populations actuelles seules",
+          "La génétique moléculaire, qui suffit à elle seule sans les autres disciplines",
+          "L'embryologie et la biogéographie, la paléontologie restant trop lacunaire"
+        ]
+      }
+    },
+    {
+      "recto": "Que montre la comparaison des séquences moléculaires entre espèces ?",
+      "verso": "Que le degré de ressemblance des molécules homologues reflète la proximité de parenté, ce qui permet de reconstituer les liens évolutifs entre espèces",
+      "explanation": "Cette méthode confirme indépendamment les arbres établis par l'anatomie comparée, ce qui constitue une vérification croisée particulièrement robuste.",
+      "tags": [
+        "preuves",
+        "génétique"
+      ],
+      "distractors": {
+        "easy": [
+          "Que toutes les espèces ont exactement les mêmes molécules",
+          "Que chaque espèce possède des molécules uniques sans point commun",
+          "Que les molécules sont identiques chez les animaux et différentes chez les plantes"
+        ],
+        "medium": [
+          "Que les espèces les plus anciennes ont les molécules les plus complexes",
+          "Que la ressemblance moléculaire dépend de la taille des organismes",
+          "Que les espèces vivant dans le même milieu ont les mêmes séquences"
+        ],
+        "hard": [
+          "Que la ressemblance moléculaire reflète la similitude des modes de vie plutôt que la parenté",
+          "Que les séquences divergent proportionnellement au nombre d'espèces intermédiaires",
+          "Que la comparaison moléculaire contredit systématiquement l'anatomie comparée"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un caractère homologue ?",
+      "verso": "Un caractère partagé par plusieurs espèces parce qu'il était présent chez leur ancêtre commun, indépendamment de sa fonction actuelle",
+      "explanation": "Le membre antérieur de l'humain, de la chauve-souris et de la baleine est homologue malgré des fonctions très différentes : c'est le plan d'organisation qui compte.",
+      "tags": [
+        "preuves",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Un caractère identique chez tous les individus d'une espèce",
+          "Un caractère qui remplit la même fonction chez deux espèces",
+          "Un caractère visible à l'œil nu"
+        ],
+        "medium": [
+          "Un caractère apparu indépendamment chez deux espèces éloignées",
+          "Un caractère hérité de l'environnement plutôt que des parents",
+          "Un caractère qui n'apparaît que chez les espèces proches géographiquement"
+        ],
+        "hard": [
+          "Un caractère partagé en raison d'une fonction similaire dans un même milieu",
+          "Un caractère présent chez l'ancêtre commun mais nécessairement conservé dans sa fonction",
+          "Un caractère dont la ressemblance résulte d'une convergence évolutive"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une convergence évolutive ?",
+      "verso": "La ressemblance de caractères apparus indépendamment chez des espèces éloignées, sous l'effet de pressions de sélection similaires",
+      "explanation": "La forme hydrodynamique du dauphin et celle du requin en sont l'exemple type : ressemblance de fonction sans parenté proche, à ne pas confondre avec l'homologie.",
+      "tags": [
+        "preuves",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le fait que deux espèces vivent au même endroit",
+          "La rencontre de deux espèces au cours d'une migration",
+          "Le croisement entre deux espèces voisines"
+        ],
+        "medium": [
+          "La ressemblance de caractères hérités d'un ancêtre commun proche",
+          "L'évolution de deux espèces vers un même ancêtre",
+          "La fusion progressive de deux lignées évolutives"
+        ],
+        "hard": [
+          "La ressemblance de caractères homologues sous des pressions différentes",
+          "L'apparition indépendante de caractères identiques sans pression de sélection",
+          "La convergence des séquences moléculaires chez des espèces éloignées"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi ne peut-on pas dire qu'une espèce est plus évoluée qu'une autre ?",
+      "verso": "Parce que toutes les espèces actuelles ont derrière elles la même durée d'évolution depuis leur ancêtre commun, et qu'aucune n'est le but d'un processus orienté",
+      "explanation": "L'évolution n'a pas de direction ni de finalité. L'image de l'échelle des êtres, encore courante, est une représentation fausse remplacée par celle de l'arbre buissonnant.",
+      "tags": [
+        "épistémologie",
+        "mécanisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que toutes les espèces sont apparues en même temps",
+          "Parce que les scientifiques n'ont pas encore tranché la question",
+          "Parce qu'il est impoli de comparer les espèces entre elles"
+        ],
+        "medium": [
+          "Parce que l'être humain est la seule espèce réellement évoluée",
+          "Parce que les espèces les plus récentes sont les plus simples",
+          "Parce que la complexité augmente nécessairement au cours de l'évolution"
+        ],
+        "hard": [
+          "Parce que la durée d'évolution diffère mais la complexité finale est identique",
+          "Parce que l'évolution est orientée mais sa direction reste inconnue",
+          "Parce que les espèces les plus anciennes ont cessé d'évoluer depuis leur apparition"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi l'arbre du vivant est-il représenté comme buissonnant plutôt que linéaire ?",
+      "verso": "Parce que l'évolution procède par ramifications successives sans direction privilégiée, chaque espèce actuelle occupant l'extrémité d'un rameau parmi d'autres",
+      "explanation": "La représentation linéaire suggère à tort une progression vers l'être humain, alors que l'immense majorité des rameaux mènent à des espèces éteintes ou très différentes.",
+      "tags": [
+        "épistémologie",
+        "représentation"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les arbres réels ont des branches",
+          "Parce que cela occupe moins de place sur une page",
+          "Parce que les scientifiques aiment les schémas compliqués"
+        ],
+        "medium": [
+          "Parce que toutes les branches convergent vers l'être humain",
+          "Parce que les espèces s'organisent naturellement en niveaux hiérarchiques",
+          "Parce que chaque branche correspond à une ère géologique"
+        ],
+        "hard": [
+          "Parce que l'évolution procède par ramifications suivant une direction privilégiée",
+          "Parce que les rameaux se rejoignent régulièrement par hybridation",
+          "Parce que le nombre de branches augmente régulièrement sans extinction"
+        ]
+      }
+    },
+    {
+      "recto": "Que retenir de l'évolution comme grille de lecture ?",
+      "verso": "Qu'elle permet d'expliquer une grande diversité de phénomènes actuels, du soin médical à l'agriculture, à condition de ne pas la transformer en justification de normes sociales",
+      "explanation": "Sa puissance explicative tient à son caractère mécaniste et testable, non à une quelconque leçon morale qu'on pourrait en tirer.",
+      "tags": [
+        "synthèse",
+        "épistémologie"
+      ],
+      "distractors": {
+        "easy": [
+          "Qu'elle explique tout, y compris les choix individuels",
+          "Qu'elle ne sert qu'à comprendre les fossiles",
+          "Qu'elle n'a aucune application pratique"
+        ],
+        "medium": [
+          "Qu'elle permet de prédire l'avenir des espèces avec certitude",
+          "Qu'elle fournit une hiérarchie objective entre les êtres vivants",
+          "Qu'elle démontre que la nature tend vers un optimum"
+        ],
+        "hard": [
+          "Qu'elle explique de nombreux phénomènes et fonde en outre des normes sociales légitimes",
+          "Qu'elle s'applique aux espèces mais non aux populations humaines",
+          "Qu'elle se limite aux phénomènes observables sur de longues durées géologiques"
+        ]
+      }
+    }
+  ]
+}

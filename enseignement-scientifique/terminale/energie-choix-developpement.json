@@ -1,0 +1,640 @@
+{
+  "id": "enseignement-scientifique-terminale-energie-choix-developpement",
+  "title": "Énergie, choix de développement et futur climatique",
+  "emoji": "⚖️",
+  "subject": "science",
+  "country": "fr",
+  "courseDescription": "Consommation d'énergie, empreinte carbone et ordres de grandeur : relier les choix de développement au futur climatique.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Énergie, choix de développement et futur climatique</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale · enseignement scientifique<br>\n  <b>Thème 1&nbsp;:</b> Science, climat et société<br>\n  <b>Chapitre 1.4</b> · environ 5 heures\n</div>\n\n<blockquote><p><b>Problématique.</b> Comment passer d'un raisonnement climatique global à des choix qui engagent réellement&nbsp;?</p></blockquote>\n\n<p>Les trois chapitres précédents ont établi un mécanisme&nbsp;: les émissions cumulées déterminent le réchauffement. Reste à relier ce mécanisme aux <em>usages</em>. Ce chapitre est le seul du thème où l'outil principal n'est pas un modèle mais un <strong>ordre de grandeur</strong>. Sans quantification, des actions d'effets très inégaux paraissent équivalentes — et l'on finit par débattre des veilles d'appareils pendant que l'essentiel se joue ailleurs.</p>\n\n<h2>1 · Énergie et puissance</h2>\n\n<p>La distinction est élémentaire et pourtant constamment brouillée&nbsp;:</p>\n\n<ul>\n  <li>La <strong>puissance</strong> est un <em>débit</em> d'énergie, en watts.</li>\n  <li>L'<strong>énergie</strong> est une <em>quantité</em>, en joules ou en kilowattheures&nbsp;: c'est le produit de la puissance par la durée.</li>\n</ul>\n\n<p>Un appareil de 2000&nbsp;W allumé une minute consomme moins qu'une ampoule de 10&nbsp;W laissée allumée une journée. Sans cette distinction, aucune comparaison énergétique ne tient debout. Conversion à connaître&nbsp;: <strong>1 kWh = 3,6 millions de joules</strong>, soit 1000&nbsp;W multipliés par 3600&nbsp;s.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Énergie primaire et finale</strong><br>\n  L'énergie <strong>primaire</strong> est celle contenue dans la ressource brute prélevée dans la nature&nbsp;; l'énergie <strong>finale</strong> est celle réellement livrée au consommateur, après transformations et pertes. Comparer un chiffre de l'une à un chiffre de l'autre fausse le résultat d'un facteur deux ou trois.\n</div>\n\n<h2>2 · Des ordres de grandeur qui parlent</h2>\n\n<p>Un être humain fournit durablement une puissance mécanique d'environ <strong>100&nbsp;W</strong>. Un habitant d'un pays développé consomme, tous usages confondus, de l'ordre de <strong>5&nbsp;kW en continu</strong> — l'équivalent d'une cinquantaine d'<em>esclaves énergétiques</em> travaillant en permanence pour lui. C'est cette disproportion qui rend la transition difficile, et non un manque de bonne volonté.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 176\" role=\"img\" aria-label=\"Comparaison entre la puissance mécanique qu'un être humain peut fournir durablement, environ 100 watts, et la puissance énergétique moyenne dont dispose un habitant d'un pays développé, environ 5000 watts en continu, soit un rapport d'environ cinquante fois qui correspond à la notion d'esclaves énergétiques\">\n    <text x=\"8\" y=\"18\" font-size=\"9\" fill=\"currentColor\">Puissance qu'un humain peut fournir</text>\n    <rect x=\"8\" y=\"26\" width=\"6\" height=\"18\" rx=\"2\" fill=\"var(--accent)\" fill-opacity=\".30\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"22\" y=\"39\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">100 W</text>\n    <text x=\"8\" y=\"66\" font-size=\"9\" fill=\"currentColor\">Puissance dont il dispose en France</text>\n    <rect x=\"8\" y=\"74\" width=\"300\" height=\"18\" rx=\"5\" fill=\"var(--accent)\" fill-opacity=\".45\" stroke=\"var(--accent)\" stroke-opacity=\".7\"/>\n    <text x=\"8\" y=\"106\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">environ 5000 W en continu</text>\n    <line x1=\"8\" y1=\"122\" x2=\"332\" y2=\"122\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"142\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Un facteur 50</text>\n    <text x=\"8\" y=\"158\" font-size=\"9\" fill=\"currentColor\">C'est la notion d'esclave énergétique : ce que le confort</text>\n    <text x=\"8\" y=\"172\" font-size=\"9\" fill=\"currentColor\">moderne mobilise, invisible et permanent.</text>\n  </svg>\n  <figcaption>Le rapport entre les deux barres dit à lui seul l'ampleur du problème.</figcaption>\n</figure>\n\n<h2>3 · Compter les émissions</h2>\n\n<p>Deux indicateurs coexistent, également légitimes mais répondant à des questions différentes&nbsp;:</p>\n\n<ul>\n  <li>Les <strong>émissions territoriales</strong>&nbsp;: ce qui est émis à l'intérieur des frontières.</li>\n  <li>L'<strong>empreinte carbone</strong>&nbsp;: ce qu'implique la consommation nationale, importations comprises et exportations retirées.</li>\n</ul>\n\n<p>La différence n'est pas académique&nbsp;: un pays qui délocalise son industrie voit ses émissions territoriales baisser sans que son empreinte diminue. Pour la France, l'empreinte dépasse nettement les émissions territoriales.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Différence entre émissions territoriales et empreinte carbone : les émissions territoriales comptent ce qui est émis à l'intérieur des frontières, tandis que l'empreinte carbone part de ces émissions, retire celles liées aux exportations et ajoute celles liées aux biens importés ; pour la France l'empreinte carbone dépasse nettement les émissions territoriales, si bien qu'une délocalisation industrielle fait baisser les émissions territoriales sans réduire l'empreinte\">\n    <rect x=\"12\" y=\"12\" width=\"316\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"170\" y=\"31\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">ÉMISSIONS TERRITORIALES</text>\n    <line x1=\"90\" y1=\"46\" x2=\"90\" y2=\"64\" stroke=\"var(--accent)\" stroke-opacity=\".6\" stroke-width=\"1.5\" marker-end=\"url(#ar-tes14)\"/>\n    <line x1=\"250\" y1=\"46\" x2=\"250\" y2=\"64\" stroke=\"var(--accent)\" stroke-opacity=\".6\" stroke-width=\"1.5\" marker-end=\"url(#ar-tes14)\"/>\n    <rect x=\"12\" y=\"68\" width=\"150\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"87\" y=\"82\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">on retire</text>\n    <text x=\"87\" y=\"95\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">les exportations</text>\n    <rect x=\"178\" y=\"68\" width=\"150\" height=\"34\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"253\" y=\"82\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">on ajoute</text>\n    <text x=\"253\" y=\"95\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">les importations</text>\n    <line x1=\"170\" y1=\"106\" x2=\"170\" y2=\"120\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"1.6\" marker-end=\"url(#ar-tes14)\"/>\n    <rect x=\"12\" y=\"124\" width=\"316\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".40\" stroke=\"var(--accent)\" stroke-opacity=\".7\"/>\n    <text x=\"170\" y=\"143\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">EMPREINTE CARBONE</text>\n    <text x=\"8\" y=\"172\" font-size=\"9\" fill=\"currentColor\">Délocaliser une usine fait baisser les émissions territoriales</text>\n    <text x=\"8\" y=\"186\" font-size=\"9\" class=\"s-muted\">sans rien changer à l'empreinte. D'où l'importance du choix d'indicateur.</text>\n    <defs>\n      <marker id=\"ar-tes14\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n  </svg>\n  <figcaption>Deux comptages du même pays&nbsp;— et deux jugements opposés sur une même politique.</figcaption>\n</figure>\n\n<p>Les émissions se comptent en <strong>tonnes équivalent CO<sub>2</sub></strong>&nbsp;: chaque gaz est pondéré par son pouvoir de réchauffement global, généralement sur cent ans, ce qui ramène méthane et protoxyde d'azote à une échelle commune.</p>\n\n<p>Repère à retenir&nbsp;: l'empreinte moyenne d'un Français est d'environ <strong>9 à 10 tonnes</strong> par an, pour une cible compatible avec les objectifs climatiques située autour de <strong>2 tonnes</strong>. Les postes dominants sont les <em>transports</em>, le <em>logement</em> avec son chauffage, l'<em>alimentation</em> et l'<em>achat de biens et services</em>.</p>\n\n<h2>4 · Comparer les sources d'énergie</h2>\n\n<p>L'<strong>intensité carbone</strong> d'une source — grammes équivalent CO<sub>2</sub> par kilowattheure — permet de les comparer sur une base commune. Le <strong>charbon</strong> domine largement le classement des émetteurs, suivi du <strong>gaz</strong>&nbsp;; le nucléaire, l'éolien, l'hydraulique et le solaire présentent des intensités très faibles.</p>\n\n<p>Très faibles ne veut pas dire nulles&nbsp;: la construction des installations et la fabrication des équipements émettent. C'est précisément ce que mesure l'<strong>analyse de cycle de vie</strong>, qui évalue les impacts de l'extraction des matières premières jusqu'à la fin de vie. Sans elle, une voiture électrique paraîtrait sans émissions.</p>\n\n<p>Enfin, l'inertie du système est considérable&nbsp;: les énergies fossiles représentent encore environ <strong>80&nbsp;%</strong> de la consommation mondiale d'énergie primaire. Il ne s'agit pas d'ajouter des sources nouvelles, mais de remplacer un socle immense.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 178\" role=\"img\" aria-label=\"Classement indicatif des sources d'électricité selon leur intensité carbone exprimée en grammes équivalent dioxyde de carbone par kilowattheure : le charbon est de très loin le plus émetteur, le gaz se situe environ à la moitié de cette valeur, tandis que le solaire photovoltaïque, l'éolien, l'hydraulique et le nucléaire présentent des intensités très faibles mais non nulles, puisque la construction des installations et la fabrication des équipements émettent\">\n    <text x=\"8\" y=\"16\" font-size=\"9\" fill=\"currentColor\">Charbon</text>\n    <rect x=\"86\" y=\"6\" width=\"242\" height=\"14\" rx=\"4\" fill=\"var(--accent)\" fill-opacity=\".50\" stroke=\"var(--accent)\" stroke-opacity=\".7\"/>\n    <text x=\"8\" y=\"40\" font-size=\"9\" fill=\"currentColor\">Gaz</text>\n    <rect x=\"86\" y=\"30\" width=\"118\" height=\"14\" rx=\"4\" fill=\"var(--accent)\" fill-opacity=\".38\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"8\" y=\"64\" font-size=\"9\" fill=\"currentColor\">Solaire</text>\n    <rect x=\"86\" y=\"54\" width=\"20\" height=\"14\" rx=\"4\" fill=\"var(--accent)\" fill-opacity=\".22\" stroke=\"var(--accent)\" stroke-opacity=\".45\"/>\n    <text x=\"8\" y=\"88\" font-size=\"9\" fill=\"currentColor\">Éolien</text>\n    <rect x=\"86\" y=\"78\" width=\"9\" height=\"14\" rx=\"3\" fill=\"var(--accent)\" fill-opacity=\".22\" stroke=\"var(--accent)\" stroke-opacity=\".45\"/>\n    <text x=\"8\" y=\"112\" font-size=\"9\" fill=\"currentColor\">Hydraulique</text>\n    <rect x=\"86\" y=\"102\" width=\"7\" height=\"14\" rx=\"3\" fill=\"var(--accent)\" fill-opacity=\".22\" stroke=\"var(--accent)\" stroke-opacity=\".45\"/>\n    <text x=\"8\" y=\"136\" font-size=\"9\" fill=\"currentColor\">Nucléaire</text>\n    <rect x=\"86\" y=\"126\" width=\"6\" height=\"14\" rx=\"3\" fill=\"var(--accent)\" fill-opacity=\".22\" stroke=\"var(--accent)\" stroke-opacity=\".45\"/>\n    <line x1=\"8\" y1=\"150\" x2=\"332\" y2=\"150\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"166\" font-size=\"9\" fill=\"currentColor\">Grammes équivalent CO2 par kWh, sur le cycle de vie complet.</text>\n    <text x=\"8\" y=\"176\" font-size=\"9\" class=\"s-muted\">Très faible ne veut pas dire nul : construire émet aussi.</text>\n  </svg>\n  <figcaption>Ordres de grandeur indicatifs&nbsp;: c'est l'écart entre les deux premières barres et les suivantes qui compte.</figcaption>\n</figure>\n\n<h2>5 · Agir&nbsp;: efficacité, sobriété, justice</h2>\n\n<p>Deux leviers distincts et complémentaires&nbsp;:</p>\n\n<ul>\n  <li>L'<strong>efficacité énergétique</strong>&nbsp;: obtenir le même service avec moins d'énergie.</li>\n  <li>La <strong>sobriété</strong>&nbsp;: réduire la quantité de services énergétiques demandés.</li>\n</ul>\n\n<p>L'efficacité seule se heurte à l'<strong>effet rebond</strong>&nbsp;: un moteur plus sobre incite à rouler davantage, et le gain unitaire se dissout dans la hausse des usages. C'est la raison pour laquelle les progrès techniques n'ont jamais suffi, à eux seuls, à faire baisser la consommation totale.</p>\n\n<p>Côté absorption, les <strong>puits de carbone</strong> — océans, forêts en croissance — absorbent aujourd'hui environ <strong>la moitié</strong> des émissions humaines. Leur capacité n'est ni illimitée ni garantie&nbsp;: elle peut décroître avec le réchauffement.</p>\n\n<p>Reste la dimension de <strong>justice</strong>&nbsp;: les pays historiquement les plus émetteurs ont bâti leur développement sur les fossiles, tandis que les pays qui s'y engagent aujourd'hui subissent le plus les effets du réchauffement. De cette tension découle le principe de <strong>responsabilités communes mais différenciées</strong>&nbsp;: tous doivent agir, avec des obligations proportionnées à leur responsabilité historique et à leurs moyens.</p>\n\n<p>Un dernier point de méthode&nbsp;: la science établit ce que les données permettent d'affirmer et éclaire les conséquences de chaque option&nbsp;; elle ne désigne pas la trajectoire à suivre. Confondre les deux registres affaiblit à la fois la science et le débat démocratique.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Ordres de grandeur</h3>\n\n<table>\n  <tr><th>Grandeur</th><th>Valeur</th></tr>\n  <tr><td>1 kilowattheure</td><td>3,6 millions de joules</td></tr>\n  <tr><td>Puissance humaine durable</td><td>environ 100 W</td></tr>\n  <tr><td>Puissance consommée par Français</td><td>environ 5 kW en continu</td></tr>\n  <tr><td>Empreinte carbone d'un Français</td><td>environ 9 à 10 t CO<sub>2</sub>e / an</td></tr>\n  <tr><td>Cible compatible avec le climat</td><td>environ 2 t CO<sub>2</sub>e / an</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition en une ligne</th></tr>\n  <tr><td>Énergie primaire</td><td>Contenue dans la ressource brute prélevée</td></tr>\n  <tr><td>Empreinte carbone</td><td>Émissions liées à la consommation, importations comprises</td></tr>\n  <tr><td>Intensité carbone</td><td>Émissions par kilowattheure produit</td></tr>\n  <tr><td>Analyse de cycle de vie</td><td>Impacts de l'extraction à la fin de vie</td></tr>\n  <tr><td>Effet rebond</td><td>Hausse des usages annulant un gain d'efficacité</td></tr>\n</table>\n\n<h3>Leviers d'action</h3>\n\n<table>\n  <tr><th>Levier</th><th>Ce qu'il change</th></tr>\n  <tr><td>Efficacité</td><td>Même service, moins d'énergie</td></tr>\n  <tr><td>Sobriété</td><td>Moins de services énergétiques demandés</td></tr>\n  <tr><td>Décarbonation</td><td>Même énergie, moins d'émissions par kWh</td></tr>\n  <tr><td>Puits de carbone</td><td>Absorption d'une part des émissions</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Confondre l'<strong>énergie</strong> et la <strong>puissance</strong>. La puissance est un <em>débit</em>, en watts&nbsp;; l'énergie une <em>quantité</em>, produit de la puissance par la durée. Un appareil de 2000&nbsp;W allumé une minute consomme moins qu'une ampoule de 10&nbsp;W allumée un jour entier. Piège voisin&nbsp;: comparer un chiffre d'énergie <em>primaire</em> à un chiffre d'énergie <em>finale</em>, ce qui fausse le résultat d'un facteur deux ou trois.\n</div>\n\n<blockquote><p>Le débat énergétique n'est pas d'abord une affaire d'opinions&nbsp;: c'est une affaire d'ordres de grandeur. Les opinions viennent après — et elles nous appartiennent.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Science, climat et société",
+  "cards": [
+    {
+      "recto": "Piège classique : ne pas confondre l'énergie et la puissance. Qu'est-ce qui les distingue ?",
+      "verso": "La puissance est un débit d'énergie exprimé en watts, tandis que l'énergie est une quantité exprimée en joules ou en kilowattheures, égale à la puissance multipliée par la durée",
+      "explanation": "Un appareil de 2000 watts allumé une minute consomme moins qu'une ampoule de 10 watts allumée une journée. Confondre les deux rend impossible toute comparaison énergétique sérieuse.",
+      "tags": [
+        "énergie",
+        "piege"
+      ],
+      "distractors": {
+        "easy": [
+          "Ce sont deux mots pour la même grandeur physique",
+          "L'énergie se mesure en watts, la puissance en joules",
+          "La puissance concerne l'électricité, l'énergie la chaleur"
+        ],
+        "medium": [
+          "L'énergie est un débit, la puissance une quantité accumulée",
+          "La puissance est l'énergie divisée par la masse",
+          "L'énergie est instantanée, la puissance est moyennée sur une année"
+        ],
+        "hard": [
+          "La puissance est mesurée en kilowattheures, l'énergie en watts",
+          "L'énergie est la puissance multipliée par le rendement",
+          "La puissance est l'énergie utile, l'énergie la quantité totale consommée"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la relation entre énergie, puissance et durée ?",
+      "verso": "L'énergie consommée est égale au produit de la puissance par la durée d'utilisation",
+      "explanation": "C'est la relation la plus utilisée du chapitre : elle permet de passer d'une étiquette d'appareil à une consommation annuelle, donc à une empreinte carbone.",
+      "tags": [
+        "énergie",
+        "formule"
+      ],
+      "distractors": {
+        "easy": [
+          "L'énergie est égale à la puissance divisée par la durée",
+          "L'énergie est égale à la puissance additionnée à la durée",
+          "L'énergie est égale à la durée divisée par la puissance"
+        ],
+        "medium": [
+          "La puissance est égale à l'énergie multipliée par la durée",
+          "L'énergie est égale au carré de la puissance",
+          "L'énergie est égale à la puissance multipliée par le rendement"
+        ],
+        "hard": [
+          "L'énergie est égale à la puissance multipliée par la durée puis divisée par le rendement",
+          "L'énergie est égale à la puissance multipliée par la durée exprimée en secondes uniquement",
+          "L'énergie est égale à la puissance moyenne multipliée par la puissance crête"
+        ]
+      }
+    },
+    {
+      "recto": "À combien de joules correspond un kilowattheure ?",
+      "verso": "Un kilowattheure vaut 3,6 millions de joules, soit 3,6 mégajoules",
+      "explanation": "Le calcul vient de 1000 watts multipliés par 3600 secondes. Le kilowattheure est l'unité des factures, le joule celle de la physique : savoir passer de l'une à l'autre est indispensable.",
+      "tags": [
+        "unités",
+        "chiffres"
+      ],
+      "distractors": {
+        "easy": [
+          "1000 joules",
+          "1 joule",
+          "100 joules"
+        ],
+        "medium": [
+          "3600 joules",
+          "60 000 joules",
+          "1 million de joules"
+        ],
+        "hard": [
+          "3,6 milliards de joules",
+          "36 millions de joules",
+          "3600 mégajoules"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la différence entre une énergie primaire et une énergie finale ?",
+      "verso": "L'énergie primaire est celle contenue dans la ressource brute prélevée dans la nature, l'énergie finale celle effectivement livrée au consommateur après transformations et pertes",
+      "explanation": "L'écart entre les deux mesure les pertes du système énergétique. Comparer un chiffre d'énergie primaire à un chiffre d'énergie finale conduit à des erreurs d'un facteur deux ou trois.",
+      "tags": [
+        "énergie",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "L'énergie primaire est la première consommée dans la journée",
+          "L'énergie finale est celle qui reste à la fin de l'année",
+          "L'énergie primaire est électrique, l'énergie finale thermique"
+        ],
+        "medium": [
+          "L'énergie primaire est celle livrée au consommateur, l'énergie finale celle prélevée dans la nature",
+          "L'énergie primaire est renouvelable, l'énergie finale fossile",
+          "L'énergie primaire concerne l'industrie, l'énergie finale les ménages"
+        ],
+        "hard": [
+          "L'énergie primaire est l'énergie utile, l'énergie finale l'énergie perdue",
+          "L'énergie primaire exclut les pertes de transformation, l'énergie finale les inclut",
+          "L'énergie finale est l'énergie primaire multipliée par le rendement de l'appareil"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que l'empreinte carbone d'un pays ?",
+      "verso": "L'ensemble des émissions de gaz à effet de serre liées à sa consommation, y compris celles des biens importés, contrairement aux émissions territoriales",
+      "explanation": "Un pays qui délocalise son industrie voit ses émissions territoriales baisser sans que son empreinte diminue. La distinction est essentielle pour juger d'une politique climatique.",
+      "tags": [
+        "empreinte",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La surface de forêt nécessaire pour absorber ses émissions",
+          "Le nombre de voitures immatriculées dans le pays",
+          "La quantité de charbon extraite de son sous-sol"
+        ],
+        "medium": [
+          "Les émissions produites sur son territoire uniquement",
+          "Les émissions de ses seules centrales électriques",
+          "Les émissions produites par ses exportations"
+        ],
+        "hard": [
+          "Les émissions liées à sa production, importations exclues",
+          "Les émissions territoriales augmentées de celles de ses exportations",
+          "Les émissions cumulées depuis le début de l'ère industrielle"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : qu'est-ce qui distingue les émissions territoriales et l'empreinte carbone ?",
+      "verso": "Les émissions territoriales comptent ce qui est émis à l'intérieur des frontières, l'empreinte carbone compte ce qu'implique la consommation nationale en ajoutant les importations et en retirant les exportations",
+      "explanation": "Pour la France, l'empreinte dépasse nettement les émissions territoriales, du fait des importations. Les deux indicateurs sont légitimes mais ne répondent pas à la même question.",
+      "tags": [
+        "empreinte",
+        "comparaison"
+      ],
+      "distractors": {
+        "easy": [
+          "Les premières concernent l'air, la seconde les sols",
+          "Les premières sont annuelles, la seconde mensuelle",
+          "Les premières sont mesurées, la seconde estimée au hasard"
+        ],
+        "medium": [
+          "Les émissions territoriales incluent les importations, l'empreinte les exclut",
+          "Les émissions territoriales concernent l'industrie, l'empreinte les ménages",
+          "L'empreinte carbone ne compte que le dioxyde de carbone, les émissions territoriales tous les gaz"
+        ],
+        "hard": [
+          "Les émissions territoriales retirent les exportations, l'empreinte les ajoute",
+          "L'empreinte carbone est toujours inférieure aux émissions territoriales",
+          "Les émissions territoriales sont cumulées, l'empreinte est annuelle"
+        ]
+      }
+    },
+    {
+      "recto": "Quel est l'ordre de grandeur de l'empreinte carbone moyenne d'un Français ?",
+      "verso": "Environ 9 à 10 tonnes équivalent dioxyde de carbone par personne et par an",
+      "explanation": "La cible compatible avec les objectifs climatiques se situe autour de 2 tonnes par personne, ce qui donne la mesure de l'effort à accomplir.",
+      "tags": [
+        "empreinte",
+        "chiffres"
+      ],
+      "distractors": {
+        "easy": [
+          "Environ 10 kilogrammes par an",
+          "Environ 1000 tonnes par an",
+          "Environ 100 grammes par an"
+        ],
+        "medium": [
+          "Environ 2 tonnes par an",
+          "Environ 50 tonnes par an",
+          "Environ 1 tonne par an"
+        ],
+        "hard": [
+          "Environ 9 tonnes par foyer et par an",
+          "Environ 20 tonnes par personne et par an",
+          "Environ 9 tonnes par personne et par décennie"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi l'unité tonne équivalent dioxyde de carbone est-elle utilisée ?",
+      "verso": "Parce qu'elle ramène tous les gaz à effet de serre à une même échelle, en pondérant chacun par son pouvoir de réchauffement global sur une durée donnée",
+      "explanation": "Une tonne de méthane compte ainsi pour bien plus qu'une tonne de dioxyde de carbone. Cette conversion dépend de l'horizon choisi, en général cent ans.",
+      "tags": [
+        "empreinte",
+        "unités"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que le dioxyde de carbone est le seul gaz mesurable",
+          "Parce que la tonne est plus pratique que le kilogramme",
+          "Parce que tous les gaz ont exactement le même effet"
+        ],
+        "medium": [
+          "Parce qu'elle mesure la masse totale de gaz émis, tous gaz confondus",
+          "Parce qu'elle convertit les émissions en coût financier",
+          "Parce qu'elle exprime la quantité de carbone pur contenue dans les gaz"
+        ],
+        "hard": [
+          "Parce qu'elle pondère chaque gaz par sa concentration atmosphérique",
+          "Parce qu'elle pondère chaque gaz par sa durée de séjour uniquement",
+          "Parce qu'elle ramène les émissions à la surface de forêt nécessaire pour les absorber"
+        ]
+      }
+    },
+    {
+      "recto": "Quels sont les principaux postes de l'empreinte carbone d'un habitant d'un pays développé ?",
+      "verso": "Les transports, le logement avec son chauffage, l'alimentation et l'achat de biens et de services",
+      "explanation": "Leur poids relatif varie selon les modes de vie, mais l'ordre de grandeur est stable. Agir suppose de hiérarchiser : les petits gestes ne pèsent pas comme les postes majeurs.",
+      "tags": [
+        "empreinte",
+        "postes"
+      ],
+      "distractors": {
+        "easy": [
+          "L'éclairage, la télévision et la radio",
+          "Les vacances, les loisirs et le sport",
+          "Le papier, les stylos et les fournitures"
+        ],
+        "medium": [
+          "L'éclairage domestique, les appareils en veille et la recharge des téléphones",
+          "L'agriculture, l'industrie et les services publics uniquement",
+          "Le chauffage seul, les autres postes étant négligeables"
+        ],
+        "hard": [
+          "Les transports, le numérique, l'éclairage et les appareils électroménagers",
+          "Le logement, l'alimentation et la production d'électricité nucléaire",
+          "Les transports aériens seuls, qui représentent la majorité de l'empreinte"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la consommation d'énergie par habitant est-elle très inégale dans le monde ?",
+      "verso": "Parce qu'elle reflète le niveau de développement économique, l'accès aux infrastructures et les modes de vie, avec des écarts d'un facteur dix ou plus entre pays",
+      "explanation": "Cette inégalité est au cœur des négociations climatiques : les pays les moins émetteurs sont souvent les plus exposés aux conséquences du réchauffement.",
+      "tags": [
+        "développement",
+        "inégalités"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que certains pays sont plus ensoleillés que d'autres",
+          "Parce que les habitants n'ont pas les mêmes besoins physiologiques",
+          "Parce que les prix de l'énergie varient légèrement"
+        ],
+        "medium": [
+          "Parce que les ressources naturelles sont réparties inégalement",
+          "Parce que les climats imposent des besoins de chauffage différents",
+          "Parce que la population n'est pas répartie uniformément"
+        ],
+        "hard": [
+          "Parce que le rendement des appareils diffère fortement d'un pays à l'autre",
+          "Parce que les statistiques ne mesurent que l'énergie finale dans certains pays",
+          "Parce que les pays exportateurs consomment mécaniquement davantage"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on l'intensité carbone d'une source d'énergie ?",
+      "verso": "La quantité de gaz à effet de serre émise par unité d'énergie produite, exprimée en grammes équivalent dioxyde de carbone par kilowattheure",
+      "explanation": "Elle permet de comparer des sources sur une base commune, en tenant compte du cycle de vie complet et non de la seule phase de production.",
+      "tags": [
+        "énergie",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La quantité de carbone contenue dans le combustible",
+          "La couleur de la fumée émise par une centrale",
+          "Le coût financier d'un kilowattheure"
+        ],
+        "medium": [
+          "La quantité d'énergie produite par tonne de combustible",
+          "La proportion de carbone dans la molécule utilisée",
+          "Le rendement de conversion de la centrale"
+        ],
+        "hard": [
+          "La quantité de gaz émise par unité de puissance installée",
+          "La quantité de dioxyde de carbone émise sur la seule phase de combustion",
+          "La quantité d'énergie nécessaire pour capter une tonne de dioxyde de carbone"
+        ]
+      }
+    },
+    {
+      "recto": "Comment se classent les principales sources d'électricité selon leur intensité carbone ?",
+      "verso": "Le charbon est de loin le plus émetteur, suivi du gaz, tandis que le nucléaire, l'éolien, l'hydraulique et le solaire présentent des intensités très faibles",
+      "explanation": "Les faibles émissions du nucléaire et des renouvelables ne signifient pas des émissions nulles : la construction et la fabrication des équipements en produisent.",
+      "tags": [
+        "énergie",
+        "sources"
+      ],
+      "distractors": {
+        "easy": [
+          "Toutes les sources émettent exactement la même quantité",
+          "Le solaire est le plus émetteur, le charbon le moins",
+          "Seul le nucléaire émet des gaz à effet de serre"
+        ],
+        "medium": [
+          "Le gaz est plus émetteur que le charbon, le nucléaire est neutre",
+          "L'éolien est plus émetteur que le gaz mais moins que le charbon",
+          "Le nucléaire n'émet rigoureusement aucun gaz sur son cycle de vie"
+        ],
+        "hard": [
+          "Le charbon est le plus émetteur, suivi du nucléaire puis du gaz",
+          "Le charbon et le gaz sont équivalents, les renouvelables sont nulles",
+          "Le solaire est plus émetteur que le gaz sur l'ensemble du cycle de vie"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une analyse de cycle de vie ?",
+      "verso": "Une méthode qui évalue les impacts d'un produit ou d'une technologie de l'extraction des matières premières jusqu'à la fin de vie, et non sur sa seule phase d'usage",
+      "explanation": "Sans elle, une voiture électrique paraîtrait sans émissions. C'est l'outil qui permet de comparer honnêtement des technologies dont les impacts sont répartis différemment dans le temps.",
+      "tags": [
+        "méthode",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "L'étude de la durée de vie moyenne d'un appareil",
+          "Le calcul du coût d'achat et de revente d'un produit",
+          "L'analyse du cycle des saisons sur la consommation"
+        ],
+        "medium": [
+          "L'évaluation des impacts pendant la seule phase d'utilisation",
+          "L'estimation du temps de retour sur investissement financier",
+          "L'analyse du recyclage d'un produit en fin de vie uniquement"
+        ],
+        "hard": [
+          "Une méthode qui évalue les impacts de la fabrication jusqu'à la vente",
+          "Une méthode qui compare les émissions annuelles de deux technologies équivalentes",
+          "Une méthode qui mesure l'énergie consommée sur la seule phase de production"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la part des énergies fossiles dans la consommation mondiale d'énergie primaire ?",
+      "verso": "Environ 80 pour cent, le pétrole, le charbon et le gaz restant très largement dominants malgré la croissance des renouvelables",
+      "explanation": "Cette inertie du système énergétique explique la difficulté de la transition : il ne s'agit pas d'ajouter des sources nouvelles mais de remplacer un socle immense.",
+      "tags": [
+        "énergie",
+        "chiffres"
+      ],
+      "distractors": {
+        "easy": [
+          "Environ 10 pour cent",
+          "Environ 1 pour cent",
+          "Zéro, les fossiles ayant été abandonnés"
+        ],
+        "medium": [
+          "Environ 50 pour cent",
+          "Environ 30 pour cent",
+          "Environ 95 pour cent"
+        ],
+        "hard": [
+          "Environ 80 pour cent de la consommation d'électricité mondiale",
+          "Environ 65 pour cent de la consommation d'énergie primaire",
+          "Environ 80 pour cent de la consommation d'énergie finale des ménages"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on un puits de carbone ?",
+      "verso": "Un réservoir qui absorbe plus de carbone qu'il n'en émet, comme les océans ou les forêts en croissance",
+      "explanation": "Les puits naturels absorbent aujourd'hui environ la moitié des émissions humaines. Leur capacité n'est pas illimitée et peut décroître avec le réchauffement.",
+      "tags": [
+        "carbone",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Un trou creusé pour enfouir des déchets",
+          "Une mine de charbon désaffectée",
+          "Un réservoir d'eau utilisé pour refroidir une centrale"
+        ],
+        "medium": [
+          "Un réservoir qui émet plus de carbone qu'il n'en absorbe",
+          "Une installation industrielle de capture du dioxyde de carbone uniquement",
+          "Une zone où la concentration atmosphérique en carbone est plus faible"
+        ],
+        "hard": [
+          "Un réservoir dont les échanges de carbone sont exactement équilibrés",
+          "Une forêt mature dont la biomasse ne varie plus",
+          "Un gisement de combustibles fossiles non encore exploité"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle part des émissions humaines de dioxyde de carbone les puits naturels absorbent-ils ?",
+      "verso": "Environ la moitié, le reste s'accumulant dans l'atmosphère et provoquant la hausse de sa concentration",
+      "explanation": "C'est pourquoi la concentration atmosphérique augmente moins vite que les émissions : sans ces puits, le réchauffement serait bien plus rapide.",
+      "tags": [
+        "carbone",
+        "chiffres"
+      ],
+      "distractors": {
+        "easy": [
+          "La totalité, ce qui explique la stabilité du climat",
+          "Aucune, tout reste dans l'atmosphère",
+          "Environ 1 pour cent"
+        ],
+        "medium": [
+          "Environ 10 pour cent",
+          "Environ 90 pour cent",
+          "Environ un quart"
+        ],
+        "hard": [
+          "Environ la moitié, mais uniquement grâce aux forêts",
+          "Environ les trois quarts, dont l'essentiel par les océans",
+          "Environ la moitié des émissions cumulées depuis 1850"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la sobriété et l'efficacité énergétique ne sont-elles pas la même chose ?",
+      "verso": "L'efficacité consiste à obtenir le même service avec moins d'énergie, la sobriété à réduire la quantité de services énergétiques demandés",
+      "explanation": "L'efficacité seule peut être annulée par l'effet rebond, la baisse de consommation unitaire entraînant une hausse des usages. Les deux leviers sont complémentaires.",
+      "tags": [
+        "action",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La sobriété concerne l'alcool, l'efficacité l'énergie",
+          "L'efficacité est individuelle, la sobriété collective",
+          "Ce sont deux mots pour la même politique"
+        ],
+        "medium": [
+          "La sobriété consiste à améliorer le rendement des appareils, l'efficacité à moins les utiliser",
+          "L'efficacité concerne l'électricité, la sobriété le chauffage",
+          "La sobriété est une contrainte réglementaire, l'efficacité un choix technique"
+        ],
+        "hard": [
+          "L'efficacité réduit la demande de services, la sobriété améliore le rendement",
+          "La sobriété vise le remplacement des énergies fossiles, l'efficacité leur réduction",
+          "L'efficacité concerne la production, la sobriété la distribution"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que l'effet rebond ?",
+      "verso": "L'augmentation des usages provoquée par un gain d'efficacité, qui annule partiellement ou totalement l'économie d'énergie attendue",
+      "explanation": "Un moteur plus sobre peut inciter à rouler davantage. Ce mécanisme explique pourquoi les seuls progrès techniques n'ont jamais suffi à faire baisser la consommation totale.",
+      "tags": [
+        "action",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le retour de la chaleur vers l'intérieur d'un logement",
+          "La réflexion du rayonnement solaire par les surfaces claires",
+          "Le renchérissement du prix de l'énergie après une crise"
+        ],
+        "medium": [
+          "La diminution des usages provoquée par la hausse des prix",
+          "Le retour des émissions après une période de baisse temporaire",
+          "La reprise de la consommation après une crise économique"
+        ],
+        "hard": [
+          "L'augmentation de l'efficacité provoquée par la hausse des usages",
+          "Le report de la consommation d'une source d'énergie vers une autre",
+          "L'annulation d'un gain d'efficacité par le vieillissement des équipements"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle est la puissance moyenne consommée par un Français, tous usages confondus ?",
+      "verso": "De l'ordre de 5 kilowatts en continu, soit l'équivalent d'une cinquantaine d'esclaves énergétiques travaillant en permanence",
+      "explanation": "Cet ordre de grandeur rend concrète la dépendance énergétique des sociétés développées et remet en perspective l'ampleur de la réduction envisagée.",
+      "tags": [
+        "ordres de grandeur",
+        "énergie"
+      ],
+      "distractors": {
+        "easy": [
+          "Environ 1 watt",
+          "Environ 100 watts",
+          "Environ 5 mégawatts"
+        ],
+        "medium": [
+          "Environ 500 watts",
+          "Environ 50 kilowatts",
+          "Environ 1 kilowatt"
+        ],
+        "hard": [
+          "Environ 5 kilowattheures en continu",
+          "Environ 5 kilowatts pendant les seules heures de la journée",
+          "Environ 5 kilowatts par foyer et non par personne"
+        ]
+      }
+    },
+    {
+      "recto": "Quel est l'ordre de grandeur de la puissance mécanique qu'un être humain peut fournir durablement ?",
+      "verso": "Environ 100 watts, soit une infime fraction de la puissance énergétique dont dispose un habitant d'un pays développé",
+      "explanation": "La comparaison entre ces 100 watts et les kilowatts consommés donne la notion d'esclave énergétique et éclaire d'un jour cru le confort moderne.",
+      "tags": [
+        "ordres de grandeur",
+        "énergie"
+      ],
+      "distractors": {
+        "easy": [
+          "Environ 10 kilowatts",
+          "Environ 1 mégawatt",
+          "Environ 1 watt"
+        ],
+        "medium": [
+          "Environ 1000 watts",
+          "Environ 10 watts",
+          "Environ 500 watts"
+        ],
+        "hard": [
+          "Environ 100 watts sur quelques secondes seulement",
+          "Environ 300 watts en régime durable",
+          "Environ 100 kilowattheures par jour"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi un développement fondé sur les énergies fossiles pose-t-il un problème de justice ?",
+      "verso": "Parce que les pays historiquement les plus émetteurs ont bâti leur développement sur elles, tandis que les pays qui s'y engagent aujourd'hui se le voient reproché alors qu'ils subissent le plus les effets",
+      "explanation": "Cette tension traverse toutes les négociations climatiques et explique le principe de responsabilités communes mais différenciées.",
+      "tags": [
+        "développement",
+        "justice"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les énergies fossiles sont plus chères dans les pays pauvres",
+          "Parce que tous les pays ont exactement les mêmes ressources",
+          "Parce que la pollution ne franchit pas les frontières"
+        ],
+        "medium": [
+          "Parce que les pays pauvres émettent aujourd'hui plus que les pays riches",
+          "Parce que les énergies fossiles sont réservées aux pays producteurs",
+          "Parce que les émissions passées n'ont plus aucun effet"
+        ],
+        "hard": [
+          "Parce que les pays les plus exposés sont aussi les plus gros émetteurs actuels",
+          "Parce que les émissions cumulées sont réparties également entre les pays",
+          "Parce que le principe de responsabilité commune interdit toute différenciation"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que le principe de responsabilités communes mais différenciées ?",
+      "verso": "Le principe selon lequel tous les pays doivent agir face au changement climatique, mais avec des obligations proportionnées à leur responsabilité historique et à leurs moyens",
+      "explanation": "Il structure les accords internationaux depuis 1992. Il explique que les engagements chiffrés diffèrent d'un pays à l'autre sans que le principe d'action soit remis en cause.",
+      "tags": [
+        "politique",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le principe selon lequel chaque pays fait ce qu'il veut",
+          "Le principe d'égalité stricte des efforts entre tous les pays",
+          "Le principe selon lequel seuls les pays riches doivent agir"
+        ],
+        "medium": [
+          "Le principe selon lequel chaque pays réduit ses émissions du même pourcentage",
+          "Le principe selon lequel les pays pauvres sont exemptés de toute obligation",
+          "Le principe qui attribue les émissions au pays consommateur et non producteur"
+        ],
+        "hard": [
+          "Le principe selon lequel les responsabilités sont proportionnées aux émissions actuelles seules",
+          "Le principe qui réserve l'effort d'adaptation aux pays vulnérables",
+          "Le principe selon lequel les obligations dépendent uniquement de la richesse par habitant"
+        ]
+      }
+    },
+    {
+      "recto": "Comment un scientifique doit-il distinguer les faits et les choix dans le débat climatique ?",
+      "verso": "En établissant ce que les données et les modèles permettent d'affirmer, tout en reconnaissant que le choix des trajectoires relève d'arbitrages politiques et éthiques",
+      "explanation": "La science éclaire les conséquences de chaque option sans dicter laquelle retenir. Confondre les deux registres affaiblit à la fois la science et le débat démocratique.",
+      "tags": [
+        "science",
+        "société"
+      ],
+      "distractors": {
+        "easy": [
+          "En refusant de participer à tout débat public",
+          "En affirmant que la science décide de tout",
+          "En laissant les citoyens choisir les faits qui leur conviennent"
+        ],
+        "medium": [
+          "En imposant les solutions techniques que ses travaux privilégient",
+          "En s'abstenant de communiquer tant que subsiste une incertitude",
+          "En présentant toutes les opinions comme équivalentes"
+        ],
+        "hard": [
+          "En établissant les faits puis en désignant la trajectoire scientifiquement optimale",
+          "En considérant que les arbitrages politiques relèvent aussi de la démonstration scientifique",
+          "En réservant l'expression publique aux seules conclusions consensuelles"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi comparer des ordres de grandeur est-il indispensable dans le débat énergétique ?",
+      "verso": "Parce que sans cette comparaison, des actions d'effets très inégaux paraissent équivalentes, ce qui conduit à mal hiérarchiser les efforts",
+      "explanation": "Éteindre une veille et renoncer à un vol long-courrier ne se situent pas dans le même ordre de grandeur. Le raisonnement quantitatif est ici une exigence intellectuelle, pas un détail.",
+      "tags": [
+        "méthode",
+        "synthèse"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les chiffres impressionnent davantage que les mots",
+          "Parce que les calculs sont obligatoires au baccalauréat",
+          "Parce que la physique impose toujours des calculs exacts"
+        ],
+        "medium": [
+          "Parce que les mesures précises sont impossibles en climatologie",
+          "Parce que les ordres de grandeur remplacent les données réelles",
+          "Parce que seule la précision au chiffre près permet de décider"
+        ],
+        "hard": [
+          "Parce que les effets d'échelle rendent les petites actions plus efficaces que les grandes",
+          "Parce que la comparaison des ordres de grandeur suffit à trancher les choix politiques",
+          "Parce que les incertitudes climatiques interdisent toute estimation chiffrée fiable"
+        ]
+      }
+    }
+  ]
+}

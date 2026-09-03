@@ -1,0 +1,640 @@
+{
+  "id": "philosophie-terminale-science",
+  "title": "La science",
+  "emoji": "🔬",
+  "subject": "philosophy",
+  "country": "fr",
+  "courseDescription": "Philosophie · Terminale — la science : méthode expérimentale, problème de l'induction, falsifiabilité, obstacles et révolutions, sciences humaines et responsabilité.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>La science</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Terminale (voie générale et technologique)<br>\n  <b>Thème&nbsp;:</b> Philosophie — La raison et le réel<br>\n  <b>Notion</b> · environ 4 semaines\n</div>\n\n<blockquote><p><b>Problématique.</b> Qu'est-ce qui donne à la science son autorité, si ses théories peuvent être révisées&nbsp;?</p></blockquote>\n\n<p>La science jouit d'un crédit qu'aucun autre discours n'obtient. Or elle ne promet pas l'infaillibilité&nbsp;: ses théories changent, ses lois sont corrigées, certaines de ses évidences d'hier sont devenues des erreurs. Le paradoxe n'est qu'apparent — et le résoudre est tout l'objet du chapitre. La force de la science ne vient pas de ce qu'elle serait à l'abri de l'erreur, mais de ce qu'elle s'y <strong>expose méthodiquement</strong>. C'est ce qui la sépare à la fois du dogme, qui refuse le démenti, et de l'opinion, qui ne s'y soumet jamais.</p>\n\n<h2>1 · Rompre avec l'opinion</h2>\n\n<p>On imagine volontiers la science comme un prolongement affiné du sens commun. <strong>Bachelard</strong> soutient l'inverse&nbsp;: la science se construit <em>contre</em> l'opinion, qui «&nbsp;pense mal&nbsp;» parce qu'elle traduit des besoins en connaissances. L'opinion ne se corrige pas en la précisant&nbsp;: il faut la détruire.</p>\n\n<p>D'où la notion d'<strong>obstacle épistémologique</strong>&nbsp;: une habitude de pensée déjà installée qui empêche de comprendre un phénomène nouveau. Ce n'est pas l'ignorance qui gêne le plus, mais ce que l'on croit déjà savoir — images familières, analogies séduisantes, expérience première non critiquée. Connaître, c'est d'abord se défaire de ce qui bloque.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Fait scientifique</strong><br>\n  Un fait scientifique n'est pas donné, il est <em>construit</em>&nbsp;: il suppose un découpage, des instruments, et une théorie qui rend certaines variations significatives. Il n'y a pas d'observation neutre — il faut déjà une idée de ce que l'on cherche pour savoir ce qu'il faut regarder.\n</div>\n\n<h2>2 · La méthode expérimentale</h2>\n\n<p><strong>Claude Bernard</strong> en fixe les trois temps&nbsp;: l'<strong>observation</strong>, l'<strong>hypothèse</strong>, puis l'<strong>expérience</strong> destinée à contrôler cette hypothèse. L'ordre est essentiel&nbsp;: l'expérience ne précède pas l'idée, <em>elle la juge</em>. Un chercheur qui expérimenterait sans hypothèse ne saurait ni quoi observer, ni ce qui compte comme résultat.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Schéma de la démarche expérimentale : l'observation d'un problème conduit à formuler une hypothèse, dont on déduit des conséquences observables, que l'expérience met à l'épreuve ; si le résultat contredit la prévision, on revient à l'hypothèse pour la modifier ou l'abandonner\">\n    <defs>\n      <marker id=\"ar-phsc1\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n    <rect x=\"52\" y=\"8\" width=\"200\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"152\" y=\"28\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Observation d'un problème</text>\n    <path d=\"M152,38 L152,54\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-phsc1)\"/>\n    <rect x=\"52\" y=\"58\" width=\"200\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"152\" y=\"78\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Hypothèse</text>\n    <path d=\"M152,88 L152,104\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-phsc1)\"/>\n    <rect x=\"52\" y=\"108\" width=\"200\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"152\" y=\"128\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Conséquence prévisible</text>\n    <path d=\"M152,138 L152,154\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-phsc1)\"/>\n    <rect x=\"52\" y=\"158\" width=\"200\" height=\"30\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"152\" y=\"178\" text-anchor=\"middle\" font-size=\"10\" fill=\"currentColor\">Expérience de contrôle</text>\n    <path d=\"M256,173 L296,173 L296,73 L256,73\" stroke=\"var(--accent)\" stroke-width=\"1.4\" fill=\"none\" stroke-opacity=\".8\" marker-end=\"url(#ar-phsc1)\"/>\n    <text x=\"316\" y=\"123\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\" transform=\"rotate(90 316 123)\">si le résultat dément</text>\n    <text x=\"24\" y=\"123\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\" transform=\"rotate(-90 24 123)\">l'idée guide l'observation</text>\n  </svg>\n  <figcaption>L'expérience ne fournit pas l'hypothèse&nbsp;: elle la juge. Sans idée directrice, il n'y a rien à observer.</figcaption>\n</figure>\n\n<h3>Le problème de l'induction</h3>\n\n<p>Comment passer d'un nombre fini d'observations à une loi universelle&nbsp;? <strong>Hume</strong> montre qu'aucune quantité d'observations passées ne prouve <em>logiquement</em> que le phénomène se répétera. Le passage repose sur une croyance en la régularité de la nature — croyance que l'expérience ne peut pas fonder sans se présupposer elle-même. L'induction est efficace&nbsp;; elle n'est pas une démonstration.</p>\n\n<h3>La réponse de Popper&nbsp;: l'asymétrie</h3>\n\n<p>Popper contourne l'obstacle par une remarque de logique. Des milliers de cygnes blancs ne démontrent pas que <em>tous</em> les cygnes le sont&nbsp;; un seul cygne noir tranche définitivement. <strong>Aucun nombre d'observations favorables ne prouve une loi universelle, mais un seul contre-exemple suffit à la réfuter.</strong></p>\n\n<p>La science ne prouve donc pas ses théories&nbsp;: elle les <strong>expose au démenti</strong> et conserve celles qui y résistent. D'où son critère de démarcation, la <strong>falsifiabilité</strong>&nbsp;: une théorie est scientifique si l'on peut préciser ce qui, observé, la contredirait. Une théorie qui explique tout, quoi qu'il arrive, ne dit rien du monde.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 165\" role=\"img\" aria-label=\"Schéma de l'asymétrie logique entre vérification et réfutation : des milliers d'observations favorables laissent la loi universelle non démontrée, tandis qu'un seul contre-exemple suffit à l'établir comme fausse\">\n    <defs>\n      <marker id=\"ar-phsc2\" markerUnits=\"userSpaceOnUse\" markerWidth=\"11\" markerHeight=\"11\" refX=\"8\" refY=\"5\" orient=\"auto\">\n        <path d=\"M0,0 L10,5 L0,10 Z\" fill=\"var(--accent)\"/>\n      </marker>\n    </defs>\n    <text x=\"170\" y=\"14\" text-anchor=\"middle\" font-size=\"10\" class=\"s-muted\">« tous les cygnes sont blancs »</text>\n    <rect x=\"6\" y=\"26\" width=\"130\" height=\"46\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"71\" y=\"46\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">1 000 cygnes blancs</text>\n    <text x=\"71\" y=\"62\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">observés</text>\n    <path d=\"M140,49 L182,49\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-phsc2)\"/>\n    <rect x=\"188\" y=\"26\" width=\"146\" height=\"46\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".10\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-dasharray=\"4 3\"/>\n    <text x=\"261\" y=\"46\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">toujours pas démontré</text>\n    <text x=\"261\" y=\"62\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">le 1 001 peut être noir</text>\n    <line x1=\"8\" y1=\"88\" x2=\"332\" y2=\"88\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <rect x=\"6\" y=\"100\" width=\"130\" height=\"46\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"71\" y=\"120\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">1 cygne noir</text>\n    <text x=\"71\" y=\"136\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">observé</text>\n    <path d=\"M140,123 L182,123\" stroke=\"var(--accent)\" stroke-width=\"1.5\" fill=\"none\" marker-end=\"url(#ar-phsc2)\"/>\n    <rect x=\"188\" y=\"100\" width=\"146\" height=\"46\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"261\" y=\"120\" text-anchor=\"middle\" font-size=\"9\" fill=\"currentColor\">réfuté définitivement</text>\n    <text x=\"261\" y=\"136\" text-anchor=\"middle\" font-size=\"9\" class=\"s-muted\">un seul suffit</text>\n  </svg>\n  <figcaption>La logique est asymétrique&nbsp;: elle ne permet pas d'établir une loi universelle, mais elle permet de la détruire.</figcaption>\n</figure>\n\n<h3>Corrélation n'est pas causalité</h3>\n\n<p>C'est l'erreur la plus répandue dans l'usage courant des chiffres. Deux phénomènes peuvent varier ensemble sans que l'un cause l'autre&nbsp;: les ventes de glaces et les noyades augmentent conjointement parce que la <em>chaleur</em> agit sur les deux. Établir une causalité exige davantage&nbsp;: un mécanisme plausible, une antériorité, et l'élimination des explications concurrentes — le plus souvent par une <strong>expérience contrôlée</strong>, où l'on fait varier un seul facteur.</p>\n\n<h2>3 · Lois, théories, modèles</h2>\n\n<p>La <strong>mathématisation</strong> inaugurée par <strong>Galilée</strong> constitue le tournant décisif&nbsp;: les phénomènes obéissent à des rapports mesurables, exprimables en langage mathématique. On cesse de demander <em>pourquoi</em> un corps tombe — question des causes finales — pour décrire <em>comment</em> il tombe.</p>\n\n<p>Trois niveaux se distinguent alors.</p>\n\n<ul>\n  <li>La <strong>loi</strong> énonce une régularité constante entre phénomènes&nbsp;: elle décrit ce qui se produit.</li>\n  <li>La <strong>théorie</strong> propose un ensemble cohérent qui explique plusieurs lois&nbsp;: elle dit pourquoi. Qu'une même théorie rende compte de lois découvertes séparément est un argument puissant en sa faveur.</li>\n  <li>Le <strong>modèle</strong> représente un phénomène de façon simplifiée pour le calculer et le prévoir. Il est jugé à sa <em>fécondité</em>, non à sa ressemblance&nbsp;: c'est pourquoi plusieurs modèles incompatibles peuvent coexister pour un même objet.</li>\n</ul>\n\n<h2>4 · Comment la science change</h2>\n\n<p><strong>Kuhn</strong> conteste l'image d'un progrès purement cumulatif. Une communauté scientifique travaille à l'intérieur d'un <strong>paradigme</strong>&nbsp;: un cadre de problèmes, de méthodes et de solutions exemplaires partagé à une époque donnée. Le paradigme fixe ce qui compte comme question légitime et comme bonne réponse&nbsp;— c'est ce qui rend la recherche courante possible, et ce qui rend difficile d'en sortir.</p>\n\n<p>Quand les <strong>anomalies</strong> s'accumulent sans se résoudre, une <strong>révolution scientifique</strong> fait basculer la communauté vers un cadre nouveau. Certaines questions ne sont alors pas résolues&nbsp;: elles <em>disparaissent</em>. L'objection classique à Kuhn est que l'incommensurabilité des paradigmes, prise à la lettre, rendrait incompréhensible qu'on puisse les comparer — et donc parler de progrès.</p>\n\n<p>Cela éclaire un fait souvent mal interprété&nbsp;: <strong>une théorie réfutée n'est pas abandonnée immédiatement</strong>. On peut modifier une hypothèse auxiliaire pour absorber le démenti, tant qu'aucune théorie de rechange n'existe. Ce n'est pas nécessairement de la mauvaise foi&nbsp;: abandonner un cadre sans successeur laisserait les chercheurs sans instrument. La difficulté est de distinguer un ajustement fécond d'un sauvetage qui rend la théorie irréfutable.</p>\n\n<p>Enfin, une remarque qui déjoue le mythe de la méthode toute-puissante&nbsp;: <strong>aucune règle ne produit mécaniquement une hypothèse nouvelle</strong>. La méthode gouverne la mise à l'épreuve, non la découverte — d'où la distinction entre le <em>contexte de la découverte</em>, où l'audace est nécessaire, et le <em>contexte de la justification</em>, où seule la rigueur compte.</p>\n\n<h2>5 · Les sciences humaines, et les limites</h2>\n\n<p>Les sciences de l'homme rencontrent des difficultés propres&nbsp;: leur objet est <strong>doué de sens et de liberté</strong>, il <strong>réagit à l'étude</strong> dont il fait l'objet, et l'expérimentation y est souvent impossible ou moralement interdite. Ces difficultés n'interdisent pas la scientificité&nbsp;: elles imposent d'autres méthodes — comparaison, statistique, modèles compréhensifs — et obligent à expliciter des catégories qui ne sont jamais neutres.</p>\n\n<p>D'où la distinction entre <strong>expliquer</strong> — rapporter un phénomène à des causes — et <strong>comprendre</strong> — saisir le sens qu'il a pour ceux qui le vivent. Les deux ne s'excluent pas&nbsp;: une bonne sociologie explique des régularités tout en restituant le sens des conduites.</p>\n\n<p>Reste la question de l'<strong>objectivité</strong>. Elle ne se confond pas avec la neutralité personnelle du chercheur&nbsp;: aucun chercheur n'est vierge d'intérêts. Ce qui rend un résultat objectif, c'est qu'il peut être <em>reproduit, critiqué et corrigé</em> par d'autres. L'objectivité est une propriété <strong>collective</strong>, produite par des procédures publiques.</p>\n\n<h3>Ce que la science ne peut pas faire</h3>\n\n<p>Connaître les effets d'une technologie ne dit pas s'il faut la déployer. La science décrit <strong>ce qui est</strong>&nbsp;; le passage à <strong>ce qui doit être</strong> exige un jugement de valeur qu'elle ne fournit pas. Confondre les deux revient à faire trancher par les experts des questions qui relèvent de la délibération collective.</p>\n\n<p>C'est ce que vise la critique du <strong>scientisme</strong>&nbsp;: la croyance que la science peut répondre à toutes les questions humaines. Les questions du sens, du juste et du beau ne se résolvent pas par des mesures. Critiquer le scientisme n'est pas contester la science&nbsp;— c'est refuser de lui attribuer une compétence qu'elle ne revendique pas.</p>\n\n<h2>L'essentiel</h2>\n\n<h3>Le fil du problème</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Frise du parcours du chapitre : la rupture avec l'opinion selon Bachelard, puis la méthode expérimentale et le problème de l'induction, puis la falsifiabilité de Popper, puis les paradigmes et révolutions de Kuhn, enfin les sciences humaines et les limites de la science\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"186\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Rompre</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Bachelard, l'obstacle</text>\n    <circle cx=\"26\" cy=\"62\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"59\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Éprouver</text>\n    <text x=\"44\" y=\"72\" font-size=\"10\" fill=\"currentColor\">Claude Bernard, Hume</text>\n    <circle cx=\"26\" cy=\"104\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"101\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Démarquer</text>\n    <text x=\"44\" y=\"114\" font-size=\"10\" fill=\"currentColor\">Popper, la falsifiabilité</text>\n    <circle cx=\"26\" cy=\"146\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"143\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Changer</text>\n    <text x=\"44\" y=\"156\" font-size=\"10\" fill=\"currentColor\">Kuhn, paradigmes et révolutions</text>\n    <circle cx=\"26\" cy=\"184\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"181\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Limiter</text>\n    <text x=\"44\" y=\"194\" font-size=\"10\" fill=\"currentColor\">Ce que la science ne tranche pas</text>\n  </svg>\n  <figcaption>Le chapitre déplace la question de la certitude des résultats vers la rigueur des procédures.</figcaption>\n</figure>\n\n<h3>Distinctions à tenir</h3>\n\n<table>\n  <tr><th>Distinction</th><th>Ce qui se joue</th></tr>\n  <tr><td>Opinion / science</td><td>Une rupture, non un prolongement</td></tr>\n  <tr><td>Vérifier / réfuter</td><td>Asymétrie logique&nbsp;: un contre-exemple suffit</td></tr>\n  <tr><td>Corrélation / causalité</td><td>Varier ensemble n'est pas produire</td></tr>\n  <tr><td>Loi / théorie</td><td>Décrire une régularité, ou l'expliquer</td></tr>\n  <tr><td>Expliquer / comprendre</td><td>Rapporter à des causes, ou saisir un sens</td></tr>\n  <tr><td>Fait / valeur</td><td>Ce qui est ne dicte pas ce qui doit être</td></tr>\n  <tr><td>Découverte / justification</td><td>L'audace d'inventer, la rigueur de contrôler</td></tr>\n</table>\n\n<h3>Notions clés</h3>\n\n<table>\n  <tr><th>Notion</th><th>Définition</th></tr>\n  <tr><td>Obstacle épistémologique</td><td>Habitude de pensée qui empêche de comprendre du nouveau</td></tr>\n  <tr><td>Fait construit</td><td>Fait découpé par une théorie et des instruments</td></tr>\n  <tr><td>Induction</td><td>Passage du particulier au général, efficace mais non démonstratif</td></tr>\n  <tr><td>Falsifiabilité</td><td>Possibilité de préciser ce qui contredirait une théorie</td></tr>\n  <tr><td>Expérience contrôlée</td><td>Dispositif où l'on fait varier un seul facteur</td></tr>\n  <tr><td>Modèle</td><td>Représentation simplifiée, jugée à sa fécondité</td></tr>\n  <tr><td>Paradigme</td><td>Cadre partagé de problèmes, méthodes et solutions exemplaires</td></tr>\n  <tr><td>Révolution scientifique</td><td>Basculement d'un paradigme à un autre</td></tr>\n  <tr><td>Objectivité</td><td>Propriété collective produite par des procédures de contrôle</td></tr>\n  <tr><td>Scientisme</td><td>Croyance que la science répond à toutes les questions humaines</td></tr>\n</table>\n\n<h3>Les auteurs</h3>\n\n<table>\n  <tr><th>Auteur</th><th>Thèse à retenir</th></tr>\n  <tr><td>Galilée</td><td>La nature s'écrit en langage mathématique</td></tr>\n  <tr><td>Hume</td><td>L'induction ne se démontre pas&nbsp;; elle repose sur une croyance</td></tr>\n  <tr><td>Claude Bernard</td><td>Observation, hypothèse, expérience&nbsp;: l'expérience juge l'idée</td></tr>\n  <tr><td>Bachelard</td><td>La science se construit contre l'opinion&nbsp;; l'obstacle est ce qu'on croit savoir</td></tr>\n  <tr><td>Popper</td><td>Est scientifique ce qui est falsifiable&nbsp;; on réfute, on ne prouve pas</td></tr>\n  <tr><td>Kuhn</td><td>La science progresse aussi par révolutions de paradigme</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Conclure d'une <em>corrélation</em> à une <em>causalité</em>. Deux phénomènes peuvent varier ensemble à cause d'un troisième facteur, par hasard, ou dans le sens inverse de celui qu'on suppose. Deux autres erreurs à écarter&nbsp;: croire qu'une accumulation d'observations favorables <em>démontre</em> une loi universelle — la logique ne le permet pas —, et croire que le caractère révisable des théories signifie qu'elles se valent toutes. Le provisoire est la condition du progrès, pas un aveu de faiblesse.\n</div>\n\n<blockquote><p>La science n'a donc pas autorité parce qu'elle aurait raison une fois pour toutes, mais parce qu'elle organise les conditions dans lesquelles avoir tort peut être découvert. C'est une confiance qui se mérite à chaque contrôle&nbsp;— et qui ne s'étend pas aux fins que nous nous donnons.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Terminale",
+  "theme": "Philosophie — La raison et le réel",
+  "cards": [
+    {
+      "recto": "Quelle rupture sépare la connaissance scientifique de l'opinion selon Bachelard ?",
+      "verso": "La science se construit contre l'opinion, qui pense mal parce qu'elle traduit des besoins en connaissances",
+      "explanation": "L'opinion ne se corrige pas en la précisant : il faut la détruire. C'est pourquoi Bachelard parle de rupture et non de prolongement du sens commun, contrairement à l'idée d'une science qui affinerait l'expérience quotidienne.",
+      "tags": [
+        "auteur",
+        "Bachelard"
+      ],
+      "distractors": {
+        "easy": [
+          "La science utilise des instruments plus coûteux",
+          "La science est enseignée à l'université",
+          "La science est plus récente"
+        ],
+        "medium": [
+          "La science prolonge et précise l'opinion commune",
+          "La science se distingue par le nombre de ses observations",
+          "La science est écrite dans un langage plus technique"
+        ],
+        "hard": [
+          "La science part de l'expérience immédiate qu'elle systématise",
+          "La science se distingue par la certitude définitive de ses résultats",
+          "La science remplace le raisonnement par la seule mesure"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on un obstacle épistémologique ?",
+      "verso": "Une habitude de pensée déjà installée qui empêche de comprendre un phénomène nouveau",
+      "explanation": "Ce n'est pas l'ignorance qui gêne le plus mais ce que l'on croit déjà savoir : images familières, analogies séduisantes, expérience première non critiquée. Connaître, c'est d'abord se défaire de ce qui bloque.",
+      "tags": [
+        "notion",
+        "Bachelard"
+      ],
+      "distractors": {
+        "easy": [
+          "Un manque de matériel de laboratoire",
+          "Une difficulté mathématique",
+          "Un manque de financement"
+        ],
+        "medium": [
+          "Une erreur de mesure dans une expérience",
+          "Une théorie concurrente mieux établie",
+          "Un interdit religieux imposé de l'extérieur"
+        ],
+        "hard": [
+          "Une hypothèse falsifiable qui résiste aux tests",
+          "Une lacune dans les données disponibles",
+          "Un désaccord entre chercheurs sur l'interprétation"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles sont les trois étapes de la méthode expérimentale selon Claude Bernard ?",
+      "verso": "L'observation, l'hypothèse et l'expérience destinée à contrôler cette hypothèse",
+      "explanation": "L'ordre est essentiel : l'expérience ne précède pas l'idée, elle la juge. Un chercheur qui expérimenterait sans hypothèse ne saurait pas ce qu'il doit observer ni ce qui compte comme résultat.",
+      "tags": [
+        "méthode",
+        "Claude Bernard"
+      ],
+      "distractors": {
+        "easy": [
+          "La lecture, la réflexion et l'écriture",
+          "Le doute, la certitude et la preuve",
+          "La mesure, le calcul et la publication"
+        ],
+        "medium": [
+          "L'hypothèse, la démonstration et la conclusion",
+          "L'expérience, l'observation et la déduction",
+          "La théorie, le modèle et la simulation"
+        ],
+        "hard": [
+          "L'observation, la généralisation inductive et la vérification définitive",
+          "L'intuition, la déduction et l'application technique",
+          "L'expérience cruciale, l'axiomatisation et la formalisation"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi n'y a-t-il pas d'observation purement neutre en science ?",
+      "verso": "Parce qu'il faut déjà une idée de ce que l'on cherche pour savoir ce qu'il faut regarder et ce qui compte comme un fait",
+      "explanation": "Un fait scientifique n'est pas donné mais construit : il suppose un découpage, des instruments et une théorie qui rend certaines variations significatives. C'est pourquoi on parle de fait construit et non de fait brut.",
+      "tags": [
+        "méthode",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les savants sont partiaux",
+          "Parce que les instruments sont imprécis",
+          "Parce qu'on ne peut pas tout observer"
+        ],
+        "medium": [
+          "Parce que les faits changent avec le temps",
+          "Parce que l'observation dépend de la culture du chercheur",
+          "Parce que chaque chercheur observe ce qui l'intéresse"
+        ],
+        "hard": [
+          "Parce que le fait brut précède nécessairement la théorie qui l'explique",
+          "Parce que les théories se déduisent directement des observations",
+          "Parce que l'observation est toujours mensongère"
+        ]
+      }
+    },
+    {
+      "recto": "En quoi consiste le problème de l'induction posé par Hume ?",
+      "verso": "Aucun nombre fini d'observations passées ne prouve logiquement qu'un phénomène se répétera à l'avenir",
+      "explanation": "Le passage du particulier au général repose sur une croyance en la régularité de la nature, que l'expérience ne peut pas fonder sans se présupposer elle-même. L'induction est efficace, mais elle n'est pas une démonstration.",
+      "tags": [
+        "problème",
+        "Hume"
+      ],
+      "distractors": {
+        "easy": [
+          "Les savants font trop peu d'expériences",
+          "Les instruments de mesure sont imparfaits",
+          "Les lois de la nature changent souvent"
+        ],
+        "medium": [
+          "Les généralisations sont toujours fausses",
+          "L'induction contredit la logique déductive",
+          "Les observations sont trop coûteuses à multiplier"
+        ],
+        "hard": [
+          "L'induction est valide mais seulement pour les sciences humaines",
+          "La répétition d'un phénomène en démontre la nécessité",
+          "L'induction se ramène entièrement à une déduction cachée"
+        ]
+      }
+    },
+    {
+      "recto": "Ne pas confondre : quelle asymétrie Popper établit-il entre vérifier et réfuter une théorie ?",
+      "verso": "Aucun nombre d'observations favorables ne prouve une loi universelle, alors qu'un seul contre-exemple suffit à la réfuter",
+      "explanation": "Des milliers de cygnes blancs ne démontrent pas que tous les cygnes le sont ; un seul cygne noir tranche. La science ne prouve donc pas ses théories : elle les expose au démenti et conserve celles qui y résistent.",
+      "tags": [
+        "comparaison",
+        "Popper"
+      ],
+      "distractors": {
+        "easy": [
+          "Vérifier est plus long que réfuter",
+          "Réfuter est réservé aux mathématiques",
+          "Les deux opérations sont équivalentes"
+        ],
+        "medium": [
+          "Un contre-exemple ne suffit jamais à écarter une théorie",
+          "Une théorie vérifiée mille fois est démontrée",
+          "La réfutation exige l'accord de la communauté scientifique"
+        ],
+        "hard": [
+          "La vérification établit la théorie, la réfutation la rend seulement douteuse",
+          "L'accumulation d'observations favorables augmente la certitude logique",
+          "Une théorie réfutée peut être sauvée par des hypothèses ajoutées sans coût"
+        ]
+      }
+    },
+    {
+      "recto": "Quel critère Popper propose-t-il pour distinguer une théorie scientifique d'une théorie qui ne l'est pas ?",
+      "verso": "La falsifiabilité : une théorie est scientifique si l'on peut préciser ce qui, observé, la contredirait",
+      "explanation": "Une théorie qui explique tout, quoi qu'il arrive, ne dit rien du monde : elle est irréfutable au mauvais sens du terme. Le critère porte sur la forme de la théorie, non sur sa vérité.",
+      "tags": [
+        "critère",
+        "Popper"
+      ],
+      "distractors": {
+        "easy": [
+          "Le nombre de savants qui l'acceptent",
+          "La longueur de ses démonstrations",
+          "Son utilité pratique immédiate"
+        ],
+        "medium": [
+          "Sa capacité à tout expliquer sans exception",
+          "Sa conformité aux théories déjà admises",
+          "Sa formulation en langage mathématique"
+        ],
+        "hard": [
+          "Sa vérification complète par l'expérience",
+          "Sa cohérence interne indépendamment de toute observation",
+          "Le caractère probable de ses conclusions"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : une corrélation statistique entre deux phénomènes prouve-t-elle que l'un cause l'autre ?",
+      "verso": "Non : la liaison peut venir d'un troisième facteur, d'un hasard, ou d'une causalité inverse",
+      "explanation": "C'est l'erreur la plus répandue dans l'usage des chiffres. Ventes de glaces et noyades augmentent ensemble parce que la chaleur agit sur les deux. Établir une causalité exige un mécanisme, une antériorité et l'élimination des explications concurrentes — souvent par une expérience contrôlée.",
+      "tags": [
+        "piege",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, si la corrélation est forte",
+          "Oui, c'est le principe même des statistiques",
+          "Non, car les statistiques sont toujours fausses"
+        ],
+        "medium": [
+          "Oui, si l'échantillon est assez grand",
+          "Oui, si la corrélation se répète dans plusieurs pays",
+          "Non, car la causalité ne peut jamais être établie"
+        ],
+        "hard": [
+          "Oui, dès lors que l'antériorité temporelle est vérifiée",
+          "Oui, car une corrélation constante équivaut à une loi",
+          "Non, car seule la déduction mathématique établit une cause"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'apporte la mathématisation de la nature inaugurée par Galilée ?",
+      "verso": "L'idée que les phénomènes obéissent à des rapports mesurables, exprimables en langage mathématique",
+      "explanation": "Elle substitue à la question aristotélicienne des causes finales celle des relations quantitatives entre grandeurs. On cesse de demander pourquoi un corps tombe pour décrire comment il tombe.",
+      "tags": [
+        "histoire",
+        "Galilée"
+      ],
+      "distractors": {
+        "easy": [
+          "L'invention du télescope",
+          "La création des universités",
+          "L'abandon de toute expérience"
+        ],
+        "medium": [
+          "La preuve que la nature poursuit des fins",
+          "Le remplacement de l'observation par le calcul pur",
+          "L'idée que seules les mathématiques sont vraies"
+        ],
+        "hard": [
+          "La démonstration que les qualités sensibles sont les propriétés fondamentales des corps",
+          "L'affirmation que l'expérience seule suffit sans formalisation",
+          "Le retour à l'explication par les causes finales"
+        ]
+      }
+    },
+    {
+      "recto": "Que distingue-t-on entre une loi et une théorie scientifique ?",
+      "verso": "La loi énonce une régularité constante entre phénomènes, la théorie propose un ensemble cohérent qui explique plusieurs lois",
+      "explanation": "La loi décrit ce qui se produit, la théorie dit pourquoi. Une même théorie peut ainsi rendre compte de lois découvertes séparément, ce qui constitue un puissant argument en sa faveur.",
+      "tags": [
+        "distinction",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "La loi est écrite, la théorie est orale",
+          "La loi est ancienne, la théorie récente",
+          "La loi est vraie, la théorie est douteuse"
+        ],
+        "medium": [
+          "La théorie énonce une régularité, la loi l'explique",
+          "La loi concerne la physique, la théorie la biologie",
+          "La théorie est une loi non encore vérifiée"
+        ],
+        "hard": [
+          "La loi est un cas particulier de modèle mathématique sans portée générale",
+          "La théorie se déduit mécaniquement des lois observées",
+          "La loi explique les causes, la théorie se contente de décrire"
+        ]
+      }
+    },
+    {
+      "recto": "À quoi sert un modèle en science ?",
+      "verso": "À représenter un phénomène de façon simplifiée pour le calculer et le prévoir, en acceptant de ne pas tout reproduire",
+      "explanation": "Un modèle est jugé à sa fécondité, non à sa ressemblance : il isole délibérément certaines variables. C'est pourquoi plusieurs modèles incompatibles peuvent coexister pour un même objet.",
+      "tags": [
+        "notion",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "À reproduire fidèlement toute la réalité",
+          "À rendre les cours plus faciles",
+          "À illustrer une théorie déjà démontrée"
+        ],
+        "medium": [
+          "À remplacer définitivement l'expérience",
+          "À prouver la vérité d'une théorie",
+          "À décrire un phénomène sans aucune simplification"
+        ],
+        "hard": [
+          "À fournir une image exacte du mécanisme réel sous-jacent",
+          "À unifier toutes les théories en une seule représentation",
+          "À éviter toute hypothèse sur le phénomène étudié"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on un paradigme chez Kuhn ?",
+      "verso": "Un cadre de problèmes, de méthodes et de solutions exemplaires qu'une communauté scientifique partage à une époque donnée",
+      "explanation": "Le paradigme n'est pas seulement une théorie : il fixe ce qui compte comme question légitime et comme bonne réponse. C'est ce qui rend possible la recherche courante, et ce qui rend difficile d'en sortir.",
+      "tags": [
+        "notion",
+        "Kuhn"
+      ],
+      "distractors": {
+        "easy": [
+          "Un exemple donné dans un manuel",
+          "Une expérience célèbre",
+          "Une unité de mesure internationale"
+        ],
+        "medium": [
+          "Une loi universelle admise par tous",
+          "Une méthode de calcul particulière",
+          "Un instrument de mesure de référence"
+        ],
+        "hard": [
+          "Une théorie falsifiable soumise à un test décisif",
+          "Un ensemble d'observations neutres partagées par tous",
+          "Une hypothèse individuelle en attente de confirmation"
+        ]
+      }
+    },
+    {
+      "recto": "Comment Kuhn décrit-il le passage d'un paradigme à un autre ?",
+      "verso": "Par une révolution scientifique : l'accumulation d'anomalies fait basculer la communauté vers un cadre nouveau, incommensurable avec l'ancien",
+      "explanation": "Le progrès n'est donc pas seulement cumulatif : certaines questions disparaissent au lieu d'être résolues. L'objection classique est que cette incommensurabilité, prise à la lettre, rendrait incompréhensible que l'on puisse comparer les deux cadres.",
+      "tags": [
+        "histoire",
+        "Kuhn"
+      ],
+      "distractors": {
+        "easy": [
+          "Par un vote des académies scientifiques",
+          "Par la mort naturelle des théories anciennes",
+          "Par une décision politique"
+        ],
+        "medium": [
+          "Par l'accumulation continue et régulière des connaissances",
+          "Par une expérience unique acceptée par tous immédiatement",
+          "Par la traduction exacte de l'ancienne théorie dans la nouvelle"
+        ],
+        "hard": [
+          "Par une réfutation logique qui laisse le reste du savoir intact",
+          "Par une déduction à partir des lois déjà établies",
+          "Par la vérification progressive d'une hypothèse concurrente"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi une théorie réfutée n'est-elle pas toujours abandonnée immédiatement ?",
+      "verso": "Parce qu'on peut modifier une hypothèse auxiliaire pour absorber le démenti, tant qu'aucune théorie de rechange n'existe",
+      "explanation": "Ce n'est pas nécessairement de la mauvaise foi : abandonner un cadre sans successeur laisserait les chercheurs sans instrument de travail. Le problème est de distinguer un ajustement fécond d'un sauvetage qui rend la théorie irréfutable.",
+      "tags": [
+        "méthode",
+        "épistémologie"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les savants sont têtus",
+          "Parce que les manuels mettent du temps à changer",
+          "Parce que la réfutation est toujours douteuse"
+        ],
+        "medium": [
+          "Parce qu'une réfutation n'a aucune valeur logique",
+          "Parce que les théories sont protégées par les institutions",
+          "Parce que les expériences ne sont jamais reproductibles"
+        ],
+        "hard": [
+          "Parce qu'une théorie falsifiée devient automatiquement invérifiable",
+          "Parce que toute hypothèse auxiliaire renforce la falsifiabilité",
+          "Parce que la communauté attend une démonstration mathématique complète"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles difficultés propres rencontrent les sciences humaines ?",
+      "verso": "Leur objet est doué de sens et de liberté, il réagit à l'étude dont il fait l'objet, et l'expérimentation y est souvent impossible",
+      "explanation": "Ces difficultés n'interdisent pas la scientificité : elles imposent d'autres méthodes — comparaison, statistique, modèles compréhensifs. Elles obligent surtout à expliciter les catégories employées, qui ne sont jamais neutres.",
+      "tags": [
+        "sciences humaines",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Elles manquent de laboratoires",
+          "Elles sont trop récentes",
+          "Elles ne sont pas enseignées partout"
+        ],
+        "medium": [
+          "Elles ne peuvent utiliser aucune statistique",
+          "Elles ne portent que sur le passé",
+          "Elles refusent toute formalisation mathématique"
+        ],
+        "hard": [
+          "Leur objet est inerte et ne réagit pas à l'observation",
+          "Elles disposent d'un accès direct aux intentions des acteurs",
+          "Elles peuvent expérimenter aussi librement que la physique"
+        ]
+      }
+    },
+    {
+      "recto": "Que distingue-t-on entre expliquer et comprendre dans les sciences de l'homme ?",
+      "verso": "Expliquer, c'est rapporter un phénomène à des causes ; comprendre, c'est saisir le sens qu'il a pour ceux qui le vivent",
+      "explanation": "La distinction, formulée par Dilthey puis reprise par Weber, ne sépare pas deux camps étanches : une bonne sociologie explique des régularités tout en restituant le sens des conduites qu'elle étudie.",
+      "tags": [
+        "distinction",
+        "sciences humaines"
+      ],
+      "distractors": {
+        "easy": [
+          "Expliquer est difficile, comprendre est facile",
+          "Expliquer concerne les chiffres, comprendre les mots",
+          "Ce sont deux mots pour la même chose"
+        ],
+        "medium": [
+          "Comprendre, c'est rapporter à des causes ; expliquer, c'est saisir le sens",
+          "Expliquer concerne le passé, comprendre le présent",
+          "Comprendre est réservé à la psychologie"
+        ],
+        "hard": [
+          "Les deux démarches s'excluent nécessairement dans une même science",
+          "Expliquer suppose de renoncer à toute causalité",
+          "Comprendre consiste à deviner les intentions sans méthode"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi l'objectivité scientifique ne se confond-elle pas avec la neutralité personnelle du chercheur ?",
+      "verso": "Parce qu'elle est produite par des procédures publiques de contrôle, et non par l'absence de convictions chez celui qui cherche",
+      "explanation": "Aucun chercheur n'est vierge d'intérêts ni de présupposés. Ce qui rend un résultat objectif, c'est qu'il peut être reproduit, critiqué et corrigé par d'autres : l'objectivité est une propriété collective.",
+      "tags": [
+        "objectivité",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les chercheurs sont payés",
+          "Parce que la neutralité est interdite",
+          "Parce que l'objectivité est impossible"
+        ],
+        "medium": [
+          "Parce que la neutralité s'obtient par un serment professionnel",
+          "Parce que les convictions du chercheur n'influencent jamais ses résultats",
+          "Parce que l'objectivité dépend du prestige de l'institution"
+        ],
+        "hard": [
+          "Parce que l'objectivité résulte de l'absence de tout présupposé théorique",
+          "Parce que la reproductibilité est indifférente à l'objectivité",
+          "Parce que l'objectivité se mesure à l'accord unanime des chercheurs"
+        ]
+      }
+    },
+    {
+      "recto": "Que signifie le caractère provisoire des théories scientifiques ?",
+      "verso": "Qu'elles sont les meilleures disponibles en l'état des tests, sans être garanties définitivement contre une révision",
+      "explanation": "Ce provisoire n'est pas une faiblesse mais la condition du progrès : une théorie invulnérable à la révision cesserait d'être scientifique. Il ne signifie pas non plus que toutes les théories se valent.",
+      "tags": [
+        "notion",
+        "épistémologie"
+      ],
+      "distractors": {
+        "easy": [
+          "Que les savants changent d'avis sans raison",
+          "Que la science ne sert à rien",
+          "Que toutes les théories se valent"
+        ],
+        "medium": [
+          "Que les théories sont fausses par définition",
+          "Que la science ne progresse jamais réellement",
+          "Que chaque génération recommence tout à zéro"
+        ],
+        "hard": [
+          "Qu'une théorie provisoire équivaut à une opinion non fondée",
+          "Que la révision d'une théorie prouve qu'aucune n'était meilleure",
+          "Qu'une théorie définitivement vérifiée est le but atteignable de la science"
+        ]
+      }
+    },
+    {
+      "recto": "Ce que la science établit suffit-il à dicter ce qu'il faut faire ?",
+      "verso": "Non : la science décrit ce qui est, mais le passage à ce qui doit être exige un jugement de valeur qu'elle ne fournit pas",
+      "explanation": "Connaître les effets d'une technologie ne dit pas s'il faut la déployer. Confondre les deux revient à faire trancher par les experts des questions qui relèvent de la délibération collective.",
+      "tags": [
+        "éthique",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Oui, la science dit toujours ce qu'il faut faire",
+          "Oui, les savants décident pour la société",
+          "Non, car la science ne sert à rien pour l'action"
+        ],
+        "medium": [
+          "Oui, car ce qui est efficace est nécessairement souhaitable",
+          "Non, car les faits scientifiques sont incertains",
+          "Oui, à condition que les experts soient unanimes"
+        ],
+        "hard": [
+          "Oui, car une description complète des effets détermine la décision",
+          "Non, car les valeurs se déduisent des lois de la nature",
+          "Oui, car la neutralité axiologique interdit toute délibération"
+        ]
+      }
+    },
+    {
+      "recto": "Comment distinguer la science de la technique sans les séparer ?",
+      "verso": "La science vise à connaître, la technique à produire des effets, mais chacune fournit à l'autre ses instruments et ses problèmes",
+      "explanation": "Les instruments techniques rendent possibles des observations nouvelles, et les problèmes techniques suscitent des recherches. La distinction porte sur la fin poursuivie, non sur une frontière étanche entre deux mondes.",
+      "tags": [
+        "distinction",
+        "technique"
+      ],
+      "distractors": {
+        "easy": [
+          "La science est théorique, la technique est manuelle",
+          "La science est noble, la technique est vulgaire",
+          "La technique précède toujours la science"
+        ],
+        "medium": [
+          "La technique vise à connaître, la science à produire des effets",
+          "La science est ancienne, la technique moderne",
+          "La technique est une simple application de la science"
+        ],
+        "hard": [
+          "La science se définit par ses instruments, la technique par ses théories",
+          "La technique est indépendante de tout savoir scientifique",
+          "La science et la technique poursuivent exactement la même fin"
+        ]
+      }
+    },
+    {
+      "recto": "Que désigne le scientisme et pourquoi est-il critiqué ?",
+      "verso": "La croyance que la science peut répondre à toutes les questions humaines, critiquée parce qu'elle confond savoir et sagesse",
+      "explanation": "Les questions du sens, du juste et du beau ne se résolvent pas par des mesures. Critiquer le scientisme n'est pas contester la science : c'est refuser de lui attribuer une compétence qu'elle ne revendique pas.",
+      "tags": [
+        "critique",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Le refus de la science, critiqué comme obscurantiste",
+          "L'étude de la science, critiquée comme inutile",
+          "La science des scientifiques uniquement"
+        ],
+        "medium": [
+          "La croyance que la science est toujours fausse",
+          "L'idée que la science doit être financée par l'État",
+          "La position selon laquelle la science est un savoir provisoire"
+        ],
+        "hard": [
+          "La thèse selon laquelle les théories scientifiques sont irréfutables par principe",
+          "L'idée que la science doit renoncer à toute prétention explicative",
+          "La doctrine selon laquelle les valeurs précèdent les faits"
+        ]
+      }
+    },
+    {
+      "recto": "Quel repère du programme éclaire le statut des énoncés scientifiques ?",
+      "verso": "L'opposition entre l'hypothèse et la conséquence, autrement dit entre le principe posé et ce qui en découle",
+      "explanation": "Une hypothèse n'est pas une conjecture gratuite : elle est posée pour être éprouvée par ses conséquences observables. Confondre l'hypothèse avec ce qu'elle permet de prévoir revient à tenir pour acquis ce qui est en cours de test.",
+      "tags": [
+        "repère",
+        "méthode"
+      ],
+      "distractors": {
+        "easy": [
+          "Le repère genre / espèce / individu",
+          "Le repère croire / savoir uniquement",
+          "Le repère idéal / réel"
+        ],
+        "medium": [
+          "Le repère ressemblance / analogie",
+          "Le repère acte / puissance",
+          "Le repère légal / légitime"
+        ],
+        "hard": [
+          "Le repère transcendant / immanent",
+          "Le repère obligation / contrainte",
+          "Le repère persuader / convaincre"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi la science ne peut-elle pas se passer d'imagination ?",
+      "verso": "Parce qu'aucune règle ne produit mécaniquement une hypothèse nouvelle : l'invention précède le contrôle",
+      "explanation": "La méthode gouverne la mise à l'épreuve, non la découverte. C'est pourquoi on distingue le contexte de la découverte, où l'audace est nécessaire, et le contexte de la justification, où la rigueur seule compte.",
+      "tags": [
+        "méthode",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les savants s'ennuient",
+          "Parce que l'imagination remplace les preuves",
+          "Parce que la science est un art"
+        ],
+        "medium": [
+          "Parce que les hypothèses se déduisent des observations",
+          "Parce que l'imagination garantit la vérité des théories",
+          "Parce que la méthode suffit à produire les découvertes"
+        ],
+        "hard": [
+          "Parce que le contexte de la justification exige l'audace plutôt que la rigueur",
+          "Parce que l'invention et le contrôle relèvent de la même opération",
+          "Parce que l'induction produit mécaniquement des hypothèses nouvelles"
+        ]
+      }
+    },
+    {
+      "recto": "Quel bilan peut-on dresser sur la science ?",
+      "verso": "Elle ne détient pas des certitudes définitives, mais des savoirs contrôlés dont la force vient de leur exposition permanente à la critique",
+      "explanation": "Sa valeur ne tient donc pas à l'infaillibilité de ses résultats mais à la rigueur de ses procédures. C'est ce qui la distingue à la fois du dogme et de l'opinion, sans lui donner autorité sur les fins que nous poursuivons.",
+      "tags": [
+        "synthèse",
+        "bilan"
+      ],
+      "distractors": {
+        "easy": [
+          "Elle détient la vérité définitive sur le monde",
+          "Elle n'est qu'une opinion parmi d'autres",
+          "Elle se réduit à ses applications techniques"
+        ],
+        "medium": [
+          "Elle progresse par simple accumulation de faits",
+          "Elle est neutre parce que ses chercheurs le sont",
+          "Elle peut trancher les questions morales et politiques"
+        ],
+        "hard": [
+          "Sa valeur tient à l'infaillibilité de ses résultats",
+          "Elle atteint des certitudes soustraites à toute révision",
+          "Elle établit ses théories par vérification complète"
+        ]
+      }
+    }
+  ]
+}

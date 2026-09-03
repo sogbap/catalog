@@ -1,0 +1,796 @@
+{
+  "id": "francais-premiere-poesie",
+  "title": "La poésie du XIX au XXI siècle",
+  "emoji": "🌹",
+  "subject": "literature",
+  "country": "fr",
+  "courseDescription": "Français · Première — versification, rimes et strophes, formes fixes, vers libre et poème en prose, romantisme, symbolisme et surréalisme.",
+  "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>La poésie du XIX<sup>e</sup> au XXI<sup>e</sup> siècle</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> Première · français<br>\n  <b>Objet d'étude&nbsp;:</b> la poésie du XIX<sup>e</sup> au XXI<sup>e</sup> siècle<br>\n  <b>Épreuve&nbsp;:</b> écrit et oral du bac de français (épreuve anticipée)\n</div>\n\n<blockquote><p><b>Problématique.</b> Qu'est-ce qui fait qu'un texte est un poème, si ce n'est ni le vers ni la rime&nbsp;?</p></blockquote>\n\n<p>Le siècle qui va de Baudelaire à nos jours est celui où la poésie abandonne, une à une, les marques qui la rendaient reconnaissable&nbsp;: d'abord la forme fixe, puis la rime, puis le vers lui-même. Et pourtant elle demeure. Ce chapitre suit ce mouvement de démantèlement. Il faut d'abord maîtriser la <strong>technique du vers</strong> — non pour la réciter, mais pour décrire précisément ce que les poètes en font — puis comprendre ce qui subsiste quand elle disparaît&nbsp;: le travail de l'<em>image</em>, du <em>rythme</em> et de la <em>densité</em>.</p>\n\n<h2>1 · La mécanique du vers</h2>\n\n<p>Un vers se définit par un <strong>nombre de syllabes</strong>. Encore faut-il savoir les compter&nbsp;: c'est là que se joue la première difficulté, et la première erreur.</p>\n\n<div class=\"callout\">\n  <strong>Notion · Le e muet</strong><br>\n  Le <em>e</em> final d'un mot <strong>compte</strong> s'il est suivi d'une consonne&nbsp;; il <strong>ne compte pas</strong> devant une voyelle, ni en fin de vers.\n</div>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Décompte syllabique d'un alexandrin de Verlaine : le vers Je fais souvent ce rêve étrange et pénétrant compte douze syllabes, le e de rêve ne comptant pas car il précède une voyelle, et le vers se partage en deux hémistiches de six syllabes séparés par la césure centrale\">\n    <text x=\"8\" y=\"16\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Compter un alexandrin</text>\n    <text x=\"8\" y=\"40\" font-size=\"11\" fill=\"currentColor\">Je fais sou-vent ce rê-v(e) é-tran-g(e) et pé-né-trant</text>\n    <text x=\"8\" y=\"58\" font-size=\"9\" class=\"s-muted\">1  2   3   4    5   6      7   8       9  10 11  12</text>\n    <line x1=\"152\" y1=\"28\" x2=\"152\" y2=\"66\" stroke=\"var(--accent)\" stroke-opacity=\".7\" stroke-width=\"2\"/>\n    <text x=\"156\" y=\"78\" font-size=\"9\" fill=\"var(--accent)\" font-weight=\"bold\">césure</text>\n    <rect x=\"8\" y=\"88\" width=\"140\" height=\"26\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"78\" y=\"105\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">1er hémistiche — 6</text>\n    <rect x=\"158\" y=\"88\" width=\"140\" height=\"26\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"228\" y=\"105\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">2e hémistiche — 6</text>\n    <line x1=\"8\" y1=\"128\" x2=\"332\" y2=\"128\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"148\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Les deux e barrés ne comptent pas</text>\n    <text x=\"8\" y=\"164\" font-size=\"9\" fill=\"currentColor\">rê-v(e) est suivi de é-trange : voyelle, donc élision.</text>\n    <text x=\"8\" y=\"178\" font-size=\"9\" fill=\"currentColor\">tran-g(e) est suivi de et : même règle.</text>\n    <text x=\"8\" y=\"196\" font-size=\"9\" class=\"s-muted\">Sans cette règle, on compterait quatorze syllabes et on conclurait à tort.</text>\n  </svg>\n  <figcaption>Le décompte n'est pas un exercice gratuit&nbsp;: il conditionne tout ce qu'on dira du rythme.</figcaption>\n</figure>\n\n<p>Les <strong>mètres</strong> les plus courants&nbsp;: l'<em>alexandrin</em> (12 syllabes), le <em>décasyllabe</em> (10), l'<em>octosyllabe</em> (8). La <strong>césure</strong> coupe l'alexandrin classique après la sixième syllabe, délimitant deux <strong>hémistiches</strong>.</p>\n\n<p>Deux opérations modifient le décompte&nbsp;: la <strong>diérèse</strong> disjoint un groupe de voyelles en deux syllabes (<em>vi-o-lon</em> en trois temps), la <strong>synérèse</strong> les fond en une seule.</p>\n\n<p>Enfin, l'<strong>enjambement</strong> fait déborder la phrase au-delà du vers, créant un décalage entre la syntaxe et le mètre. C'est l'un des effets les plus productifs à analyser, parce qu'il oppose deux systèmes.</p>\n\n<h2>2 · Rimes et strophes</h2>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 185\" role=\"img\" aria-label=\"Les trois dispositions de rimes : les rimes plates suivent le schéma A A B B, les rimes croisées le schéma A B A B, et les rimes embrassées le schéma A B B A où un couple de rimes en enferme un autre\">\n    <text x=\"56\" y=\"18\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">plates</text>\n    <text x=\"56\" y=\"30\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">ou suivies</text>\n    <rect x=\"20\" y=\"38\" width=\"72\" height=\"16\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".45\"/>\n    <text x=\"56\" y=\"50\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">A</text>\n    <rect x=\"20\" y=\"58\" width=\"72\" height=\"16\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".45\"/>\n    <text x=\"56\" y=\"70\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">A</text>\n    <rect x=\"20\" y=\"78\" width=\"72\" height=\"16\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".18\"/>\n    <text x=\"56\" y=\"90\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">B</text>\n    <rect x=\"20\" y=\"98\" width=\"72\" height=\"16\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".18\"/>\n    <text x=\"56\" y=\"110\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">B</text>\n    <text x=\"170\" y=\"18\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">croisées</text>\n    <text x=\"170\" y=\"30\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">alternées</text>\n    <rect x=\"134\" y=\"38\" width=\"72\" height=\"16\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".45\"/>\n    <text x=\"170\" y=\"50\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">A</text>\n    <rect x=\"134\" y=\"58\" width=\"72\" height=\"16\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".18\"/>\n    <text x=\"170\" y=\"70\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">B</text>\n    <rect x=\"134\" y=\"78\" width=\"72\" height=\"16\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".45\"/>\n    <text x=\"170\" y=\"90\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">A</text>\n    <rect x=\"134\" y=\"98\" width=\"72\" height=\"16\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".18\"/>\n    <text x=\"170\" y=\"110\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">B</text>\n    <text x=\"284\" y=\"18\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">embrassées</text>\n    <text x=\"284\" y=\"30\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">l'une enferme l'autre</text>\n    <rect x=\"248\" y=\"38\" width=\"72\" height=\"16\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".45\"/>\n    <text x=\"284\" y=\"50\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">A</text>\n    <rect x=\"248\" y=\"58\" width=\"72\" height=\"16\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".18\"/>\n    <text x=\"284\" y=\"70\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">B</text>\n    <rect x=\"248\" y=\"78\" width=\"72\" height=\"16\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".18\"/>\n    <text x=\"284\" y=\"90\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">B</text>\n    <rect x=\"248\" y=\"98\" width=\"72\" height=\"16\" rx=\"8\" fill=\"var(--accent)\" fill-opacity=\".45\"/>\n    <text x=\"284\" y=\"110\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">A</text>\n    <line x1=\"8\" y1=\"128\" x2=\"332\" y2=\"128\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"148\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">La richesse d'une rime se compte en SONS, pas en lettres</text>\n    <text x=\"8\" y=\"164\" font-size=\"9\" fill=\"currentColor\">1 son commun : pauvre · 2 sons : suffisante · 3 sons ou plus : riche</text>\n    <text x=\"8\" y=\"180\" font-size=\"9\" class=\"s-muted\">Une rime riche n'est pas meilleure : elle est plus sonore.</text>\n  </svg>\n  <figcaption>Trois schémas à reconnaître d'un coup d'œil&nbsp;— et à ne jamais confondre.</figcaption>\n</figure>\n\n<p>Les <strong>strophes</strong> se nomment sur le nombre de vers&nbsp;: <em>distique</em> (2), <em>tercet</em> (3), <em>quatrain</em> (4), <em>sizain</em> (6), <em>huitain</em> (8).</p>\n\n<p>La forme fixe la plus travaillée reste le <strong>sonnet</strong>&nbsp;: quatorze vers, deux quatrains puis deux tercets. Venu d'Italie, il s'impose en France au XVI<sup>e</sup> siècle avec la Pléiade. Son dernier vers, souvent frappant, porte le nom de <strong>chute</strong>.</p>\n\n<h2>3 · L'émancipation des formes</h2>\n\n<p>Deux ruptures majeures traversent la période, et toutes deux ont la même conséquence&nbsp;: elles obligent à définir la poésie autrement que par sa forme.</p>\n\n<ul>\n  <li>Le <strong>vers libre</strong> s'affranchit du mètre <em>et</em> de la rime&nbsp;: son rythme repose sur la longueur variable, les reprises, la disposition. À ne pas confondre avec le <em>vers blanc</em>, qui garde un mètre régulier mais renonce à la rime.</li>\n  <li>Le <strong>poème en prose</strong> abandonne le vers lui-même. Baudelaire en fait une forme majeure avec <em>Le Spleen de Paris</em>, après les tentatives d'Aloysius Bertrand. Sa poéticité tient aux images, au rythme de la phrase et à la densité du langage.</li>\n</ul>\n\n<h2>4 · Les mouvements, de Baudelaire à nos jours</h2>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 200\" role=\"img\" aria-label=\"Frise des mouvements poétiques : le romantisme au début du dix-neuvième siècle avec Hugo et Lamartine exprime le moi, le Parnasse réagit vers 1860 en prônant l'impersonnalité et l'art pour l'art, le symbolisme à la fin du siècle avec Verlaine Rimbaud et Mallarmé cherche à suggérer, le surréalisme en 1924 avec Breton explore l'inconscient, et la poésie contemporaine avec Ponge prend le parti des choses\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"182\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Romantisme</text>\n    <text x=\"44\" y=\"30\" font-size=\"9\" fill=\"currentColor\">Hugo, Lamartine — le moi, la nature</text>\n    <circle cx=\"26\" cy=\"58\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"55\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Parnasse</text>\n    <text x=\"44\" y=\"68\" font-size=\"9\" fill=\"currentColor\">l'impersonnalité, l'art pour l'art</text>\n    <circle cx=\"26\" cy=\"96\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"93\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Symbolisme</text>\n    <text x=\"44\" y=\"106\" font-size=\"9\" fill=\"currentColor\">Verlaine, Rimbaud, Mallarmé — suggérer</text>\n    <circle cx=\"26\" cy=\"134\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"131\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Surréalisme — 1924</text>\n    <text x=\"44\" y=\"144\" font-size=\"9\" fill=\"currentColor\">Breton, Éluard, Aragon — l'inconscient</text>\n    <circle cx=\"26\" cy=\"172\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"169\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Contemporains</text>\n    <text x=\"44\" y=\"182\" font-size=\"9\" fill=\"currentColor\">Ponge — le parti pris des choses</text>\n    <text x=\"44\" y=\"196\" font-size=\"9\" class=\"s-muted\">Baudelaire, inclassable, ouvre la période et annonce le symbolisme.</text>\n  </svg>\n  <figcaption>Chaque mouvement se définit largement <em>contre</em> le précédent&nbsp;: c'est le fil à suivre.</figcaption>\n</figure>\n\n<p>Deux notions baudelairiennes reviennent constamment aux épreuves&nbsp;:</p>\n\n<div class=\"callout\">\n  <strong>Notion · Les correspondances</strong><br>\n  Le monde sensible est un réseau de signes qui se répondent, et les sensations de différents sens s'échangent entre elles — c'est la <em>synesthésie</em>. Le poète devient un déchiffreur du monde.\n</div>\n\n<div class=\"callout\">\n  <strong>Notion · L'alchimie poétique</strong><br>\n  Le pouvoir du poème de transformer le laid, le trivial ou le douloureux en beauté. Baudelaire écrit avoir pétri de la boue pour en faire de l'or&nbsp;: la beauté se déplace du <em>sujet</em> vers le <em>travail</em> du poète.\n</div>\n\n<h2>5 · Ce que fait la poésie</h2>\n\n<p>Quatre grandes fonctions, qui ne s'excluent jamais&nbsp;— un plan de dissertation gagne à les articuler plutôt qu'à les juxtaposer&nbsp;:</p>\n\n<ul>\n  <li><strong>Exprimer une intériorité</strong>&nbsp;: c'est le <em>lyrisme</em>, qui doit son nom à la lyre antique. Attention&nbsp;: tout emploi du «&nbsp;je&nbsp;» n'est pas lyrique.</li>\n  <li><strong>Célébrer ou déplorer</strong>&nbsp;: le registre <em>élégiaque</em> dit la plainte, le regret, la mélancolie — la sienne propre, là où le <em>pathétique</em> émeut sur le malheur d'autrui.</li>\n  <li><strong>Dénoncer et engager</strong>&nbsp;: <em>Les Châtiments</em> de Hugo contre Napoléon III, la poésie de la Résistance chez Éluard et Aragon. La contrainte formelle y sert la mémorisation et la circulation clandestine.</li>\n  <li><strong>Explorer le langage</strong>&nbsp;: chez Mallarmé, chez Ponge, le poème interroge ses propres moyens.</li>\n</ul>\n\n<h2>L'essentiel</h2>\n\n<h3>La méthode d'analyse</h3>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Frise méthodique de l'analyse d'un poème : observer d'abord la forme et l'énonciation pour situer le texte, compter les syllabes et repérer les coupes, relever les images et les sonorités, relier chaque procédé à un effet de sens, puis construire une interprétation d'ensemble\">\n    <line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"176\" stroke=\"var(--accent)\" stroke-opacity=\".4\" stroke-width=\"2\"/>\n    <circle cx=\"26\" cy=\"20\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"17\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">1. Situer</text>\n    <text x=\"44\" y=\"30\" font-size=\"10\" fill=\"currentColor\">Forme, lexique, énonciation</text>\n    <circle cx=\"26\" cy=\"60\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"57\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">2. Compter</text>\n    <text x=\"44\" y=\"70\" font-size=\"10\" fill=\"currentColor\">Syllabes, coupes, enjambements</text>\n    <circle cx=\"26\" cy=\"100\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"97\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">3. Relever</text>\n    <text x=\"44\" y=\"110\" font-size=\"10\" fill=\"currentColor\">Images, sonorités, répétitions</text>\n    <circle cx=\"26\" cy=\"140\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"137\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">4. Relier au sens</text>\n    <text x=\"44\" y=\"150\" font-size=\"10\" fill=\"currentColor\">Chaque procédé, un effet — jamais l'inverse</text>\n    <circle cx=\"26\" cy=\"176\" r=\"5\" fill=\"var(--accent)\"/>\n    <text x=\"44\" y=\"173\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">5. Interpréter</text>\n    <text x=\"44\" y=\"186\" font-size=\"10\" fill=\"currentColor\">Une lecture d'ensemble, pas une liste</text>\n  </svg>\n  <figcaption>L'étape 4 sépare le relevé de l'analyse&nbsp;— c'est elle qui fait la note.</figcaption>\n</figure>\n\n<h3>Le vocabulaire technique</h3>\n\n<table>\n  <tr><th>Terme</th><th>Définition en une ligne</th></tr>\n  <tr><td>Alexandrin</td><td>Vers de 12 syllabes, césure après la 6<sup>e</sup></td></tr>\n  <tr><td>Hémistiche</td><td>Chacune des deux moitiés du vers césuré</td></tr>\n  <tr><td>Enjambement</td><td>La phrase déborde sur le vers suivant</td></tr>\n  <tr><td>Diérèse</td><td>Un groupe de voyelles compté en deux syllabes</td></tr>\n  <tr><td>Anaphore</td><td>Même mot répété en tête de vers successifs</td></tr>\n  <tr><td>Allitération / assonance</td><td>Répétition d'une consonne / d'une voyelle</td></tr>\n</table>\n\n<h3>Les mouvements et leur mot d'ordre</h3>\n\n<table>\n  <tr><th>Mouvement</th><th>Ce qu'il cherche</th></tr>\n  <tr><td>Romantisme</td><td>Dire le moi, la nature, le sentiment</td></tr>\n  <tr><td>Parnasse</td><td>L'impersonnalité, la perfection formelle</td></tr>\n  <tr><td>Symbolisme</td><td>Suggérer plutôt que nommer</td></tr>\n  <tr><td>Surréalisme</td><td>Libérer l'écriture du contrôle de la raison</td></tr>\n  <tr><td>Contemporains</td><td>Le parti pris des choses, l'attention au concret</td></tr>\n</table>\n\n<h3>Les formes, du plus contraint au plus libre</h3>\n\n<table>\n  <tr><th>Forme</th><th>Ce qu'elle impose</th></tr>\n  <tr><td>Sonnet</td><td>14 vers, 2 quatrains + 2 tercets, chute finale</td></tr>\n  <tr><td>Vers régulier rimé</td><td>Mètre fixe et rimes</td></tr>\n  <tr><td>Vers blanc</td><td>Mètre fixe, pas de rime</td></tr>\n  <tr><td>Vers libre</td><td>Ni mètre ni rime</td></tr>\n  <tr><td>Poème en prose</td><td>Plus de vers du tout</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Se tromper dans le <strong>décompte des syllabes</strong> en oubliant la règle du <em>e</em> muet&nbsp;: il compte devant une consonne, jamais devant une voyelle ni en fin de vers. Un alexandrin mal compté fait écrire n'importe quoi sur le rythme. Deux erreurs voisines&nbsp;: se contenter de <em>relever</em> un procédé sans dire l'effet qu'il produit — une allitération signalée mais non interprétée ne vaut aucun point&nbsp;; et prêter à un son un sens fixe, alors qu'un même sifflement peut évoquer le serpent ou le silence selon le contexte.\n</div>\n\n<blockquote><p>La poésie a perdu le vers, la rime et la strophe sans cesser d'exister. C'est peut-être la meilleure définition qu'on puisse en donner&nbsp;: ce qui reste quand on a tout enlevé.</p></blockquote>\n",
+  "questionLang": "fr",
+  "answerLang": "fr",
+  "version": 1,
+  "level": "Première",
+  "theme": "Français — objet d'étude : la poésie",
+  "cards": [
+    {
+      "recto": "Qu'appelle-t-on la versification ?",
+      "verso": "L'ensemble des règles qui organisent le vers : compte des syllabes, rimes, strophes et rythme",
+      "explanation": "Elle constitue la technique propre à la poésie versifiée, mais elle n'épuise pas le genre : le poème en prose et le vers libre s'en affranchissent. La connaître sert à décrire un effet, jamais à le remplacer.",
+      "tags": [
+        "versification",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "L'art de réciter un poème à voix haute",
+          "La mise en page d'un recueil de poèmes",
+          "Le classement des poètes par époque"
+        ],
+        "medium": [
+          "L'ensemble des figures de style employées dans un poème",
+          "L'étude des thèmes récurrents de la poésie",
+          "La transformation d'un texte en prose en texte versifié"
+        ],
+        "hard": [
+          "L'ensemble des règles du vers, applicables à toute forme poétique sans exception",
+          "L'ensemble des règles du vers, à l'exclusion de la disposition des rimes",
+          "L'ensemble des règles du rythme, la rime relevant d'une discipline distincte"
+        ]
+      }
+    },
+    {
+      "recto": "Piège classique : comment compte-t-on les syllabes d'un vers lorsqu'un mot se termine par un e muet ?",
+      "verso": "Le e muet compte s'il est suivi d'une consonne, mais ne compte pas devant une voyelle ni en fin de vers",
+      "explanation": "Dans « Je fais souvent ce rêve étrange et pénétrant », le e de rêve ne compte pas car étrange commence par une voyelle. Oublier cette règle est la première cause d'erreur dans le décompte d'un alexandrin.",
+      "tags": [
+        "piege",
+        "versification"
+      ],
+      "distractors": {
+        "easy": [
+          "Le e muet ne compte jamais",
+          "Le e muet compte toujours",
+          "On ne compte que les voyelles accentuées"
+        ],
+        "medium": [
+          "Le e muet compte uniquement en fin de vers",
+          "Le e muet compte devant une voyelle et non devant une consonne",
+          "Le e muet compte pour une demi-syllabe"
+        ],
+        "hard": [
+          "Le e muet compte devant une consonne et en fin de vers, mais pas devant une voyelle",
+          "Le e muet ne compte que dans les vers pairs",
+          "Le e muet compte devant une consonne, sauf lorsqu'il suit une autre voyelle"
+        ]
+      }
+    },
+    {
+      "recto": "Combien de syllabes compte un alexandrin ?",
+      "verso": "Douze syllabes",
+      "explanation": "C'est le vers le plus employé de la poésie française classique, notamment au théâtre. Son nom vient d'un roman médiéval consacré à Alexandre le Grand, écrit dans ce mètre.",
+      "tags": [
+        "versification",
+        "mètres"
+      ],
+      "distractors": {
+        "easy": [
+          "Huit syllabes",
+          "Vingt syllabes",
+          "Six syllabes"
+        ],
+        "medium": [
+          "Dix syllabes",
+          "Onze syllabes",
+          "Quatorze syllabes"
+        ],
+        "hard": [
+          "Douze pieds, terme équivalent à syllabe en français",
+          "Douze syllabes, en comptant toujours le e muet final",
+          "Treize syllabes lorsque la rime est féminine"
+        ]
+      }
+    },
+    {
+      "recto": "Comment nomme-t-on un vers de dix syllabes et un vers de huit syllabes ?",
+      "verso": "Le décasyllabe compte dix syllabes, l'octosyllabe en compte huit",
+      "explanation": "Le décasyllabe domine la poésie médiévale avant d'être supplanté par l'alexandrin. L'octosyllabe, plus rapide, convient au récit et à la chanson.",
+      "tags": [
+        "versification",
+        "mètres"
+      ],
+      "distractors": {
+        "easy": [
+          "L'alexandrin compte dix syllabes, le sonnet en compte huit",
+          "Le quatrain compte dix syllabes, le tercet en compte huit",
+          "Le distique compte dix syllabes, la strophe en compte huit"
+        ],
+        "medium": [
+          "Le décasyllabe en compte huit, l'octosyllabe en compte dix",
+          "Le décasyllabe en compte dix, l'heptasyllabe en compte huit",
+          "L'ennéasyllabe en compte dix, l'octosyllabe en compte huit"
+        ],
+        "hard": [
+          "Le décasyllabe compte dix syllabes, l'octosyllabe huit, tous deux étant des vers impairs",
+          "Le décasyllabe compte dix syllabes et domine la poésie du XIX siècle",
+          "Le décasyllabe compte dix syllabes, l'octosyllabe huit, ce dernier étant réservé à la tragédie"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on la césure et l'hémistiche dans un alexandrin ?",
+      "verso": "La césure est la coupe centrale du vers, et chacune des deux moitiés qu'elle délimite est un hémistiche",
+      "explanation": "Dans l'alexandrin classique, la césure tombe après la sixième syllabe. Les romantiques la déplaceront pour assouplir le rythme, ce qu'on appelle le trimètre romantique.",
+      "tags": [
+        "versification",
+        "rythme"
+      ],
+      "distractors": {
+        "easy": [
+          "La césure est la dernière syllabe, l'hémistiche la première",
+          "La césure est le titre du poème, l'hémistiche son sous-titre",
+          "La césure est une rime, l'hémistiche une strophe"
+        ],
+        "medium": [
+          "La césure est la coupe centrale, l'hémistiche le vers entier",
+          "La césure sépare deux strophes, l'hémistiche deux vers",
+          "La césure est un silence entre deux poèmes, l'hémistiche une pause interne"
+        ],
+        "hard": [
+          "La césure est la coupe centrale du vers, placée après la huitième syllabe de l'alexandrin",
+          "La césure délimite deux hémistiches, découpage que les romantiques ont figé",
+          "La césure est la coupe centrale, et l'hémistiche désigne l'ensemble des deux moitiés"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un enjambement ?",
+      "verso": "Le débordement de la phrase au-delà de la fin du vers, la suite se poursuivant sur le vers suivant",
+      "explanation": "Il crée un décalage entre la syntaxe et le mètre, souvent mis au service d'un effet de sens. Le rejet et le contre-rejet en sont deux formes particulières, selon la longueur de l'élément déplacé.",
+      "tags": [
+        "versification",
+        "rythme"
+      ],
+      "distractors": {
+        "easy": [
+          "La répétition d'un vers en fin de strophe",
+          "L'ajout d'une syllabe supplémentaire au vers",
+          "La suppression d'un vers dans une strophe"
+        ],
+        "medium": [
+          "La coupe centrale du vers",
+          "La reprise du dernier mot d'un vers au début du suivant",
+          "L'alternance des rimes masculines et féminines"
+        ],
+        "hard": [
+          "Le débordement de la phrase sur le vers suivant, effet dont le rejet est un synonyme exact",
+          "Le débordement de la phrase sur le vers suivant, qui suppose une rupture de la rime",
+          "Le retour à la ligne imposé par la longueur de la strophe"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une diérèse en versification ?",
+      "verso": "La prononciation en deux syllabes d'un groupe de voyelles habituellement prononcé en une seule",
+      "explanation": "Dans « vi-o-lon » compté en trois syllabes, le groupe io est disjoint pour atteindre le compte du vers. La synérèse est l'opération inverse, qui fond deux voyelles en une seule syllabe.",
+      "tags": [
+        "versification",
+        "prononciation"
+      ],
+      "distractors": {
+        "easy": [
+          "La répétition d'un son voyelle dans un vers",
+          "La suppression d'une voyelle en fin de mot",
+          "L'accentuation d'une syllabe finale"
+        ],
+        "medium": [
+          "La fusion de deux voyelles en une seule syllabe",
+          "L'élision du e muet devant une voyelle",
+          "La liaison entre deux mots dans un vers"
+        ],
+        "hard": [
+          "La prononciation en deux syllabes d'un groupe de voyelles, opération identique à la synérèse",
+          "La prononciation en deux syllabes d'un groupe de voyelles, procédé réservé au vers impair",
+          "La prononciation en une seule syllabe de deux voyelles contiguës"
+        ]
+      }
+    },
+    {
+      "recto": "Comment distingue-t-on une rime pauvre, une rime suffisante et une rime riche ?",
+      "verso": "Par le nombre de sons communs : un pour la rime pauvre, deux pour la suffisante, trois ou plus pour la riche",
+      "explanation": "On compte les sons, pas les lettres : la graphie peut différer sans que la rime en soit affectée. Une rime riche n'est pas nécessairement meilleure, elle est simplement plus sonore.",
+      "tags": [
+        "rimes",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Par la longueur des vers concernés",
+          "Par le nombre de vers qui riment ensemble",
+          "Par la place de la rime dans la strophe"
+        ],
+        "medium": [
+          "Par le nombre de lettres communes en fin de vers",
+          "Par la fréquence d'emploi de la rime dans la langue",
+          "Par le caractère masculin ou féminin de la rime"
+        ],
+        "hard": [
+          "Par le nombre de sons communs : deux pour la pauvre, trois pour la suffisante, quatre pour la riche",
+          "Par le nombre de sons communs, une rime riche étant toujours préférable en poésie classique",
+          "Par le nombre de sons communs comptés en lettres et non en phonèmes"
+        ]
+      }
+    },
+    {
+      "recto": "Dans l'ordre : à quels schémas correspondent les rimes plates, croisées et embrassées ?",
+      "verso": "Les rimes plates suivent le schéma AABB, les croisées ABAB, les embrassées ABBA",
+      "explanation": "Les rimes plates, aussi dites suivies, donnent un rythme régulier propre au récit et au théâtre classique. Les embrassées enferment un couple de rimes dans un autre, d'où leur nom.",
+      "tags": [
+        "comparaison",
+        "rimes"
+      ],
+      "distractors": {
+        "easy": [
+          "Les trois dispositions donnent le même schéma",
+          "Les plates riment avec le titre, les croisées entre elles, les embrassées avec la strophe suivante",
+          "Il n'existe qu'une seule disposition possible en poésie française"
+        ],
+        "medium": [
+          "Les plates suivent ABAB, les croisées AABB, les embrassées ABBA",
+          "Les plates suivent AABB, les croisées ABBA, les embrassées ABAB",
+          "Les plates suivent ABBA, les croisées ABAB, les embrassées AABB"
+        ],
+        "hard": [
+          "Les plates suivent AABB, les croisées ABAB, les embrassées ABBA, ces dernières étant aussi dites suivies",
+          "Les plates suivent AABB, les croisées ABAB, les embrassées AABBA",
+          "Les plates suivent AABB et les croisées ABAB, les embrassées désignant l'absence de rime"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'une strophe, et comment nomme-t-on celles de quatre et de trois vers ?",
+      "verso": "Une strophe est un groupe de vers séparé des autres par un blanc typographique ; celle de quatre vers est un quatrain, celle de trois vers un tercet",
+      "explanation": "Le distique en compte deux, le sizain six, le huitain huit. Ces noms se forment sur le nombre de vers, ce qui les rend faciles à retrouver.",
+      "tags": [
+        "strophes",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Une strophe est un vers isolé ; celle de quatre vers est un sonnet",
+          "Une strophe est une rime ; celle de quatre vers est une ballade",
+          "Une strophe est un poème entier ; celle de trois vers est une ode"
+        ],
+        "medium": [
+          "La strophe de quatre vers est un tercet, celle de trois vers un quatrain",
+          "La strophe de quatre vers est un distique, celle de trois vers un sizain",
+          "La strophe de quatre vers est un huitain, celle de trois vers un tercet"
+        ],
+        "hard": [
+          "Un groupe de vers séparé par un blanc ; le quatrain en compte quatre et le tercet trois, le distique en comptant six",
+          "Un groupe de vers de longueur identique ; le quatrain en compte quatre, le tercet trois",
+          "Un groupe de vers partageant la même rime ; le quatrain en compte quatre, le tercet trois"
+        ]
+      }
+    },
+    {
+      "recto": "De quoi se compose un sonnet ?",
+      "verso": "De quatorze vers répartis en deux quatrains suivis de deux tercets",
+      "explanation": "Cette forme fixe, venue d'Italie, s'impose en France au XVI siècle avec la Pléiade. Le dernier vers, souvent frappant, porte le nom de chute.",
+      "tags": [
+        "formes fixes",
+        "sonnet"
+      ],
+      "distractors": {
+        "easy": [
+          "De douze vers libres",
+          "D'une seule strophe de dix vers",
+          "De vingt vers en rimes plates"
+        ],
+        "medium": [
+          "De quatorze vers en quatre quatrains",
+          "De quinze vers en trois quintils",
+          "De douze vers en trois quatrains"
+        ],
+        "hard": [
+          "De quatorze vers répartis en deux tercets suivis de deux quatrains",
+          "De quatorze vers, forme fixe apparue en France au XIX siècle",
+          "De quatorze vers dont le premier, appelé chute, porte l'effet final"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que le vers libre ?",
+      "verso": "Un vers affranchi des contraintes de mètre et de rime, dont le rythme repose sur d'autres moyens",
+      "explanation": "Il apparaît à la fin du XIX siècle et devient dominant au XX. Ne pas le confondre avec le vers blanc, qui garde un mètre régulier mais renonce à la rime.",
+      "tags": [
+        "formes",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Un vers écrit sans ponctuation",
+          "Un vers publié sans nom d'auteur",
+          "Un vers que le lecteur peut modifier"
+        ],
+        "medium": [
+          "Un vers régulier mais dépourvu de rime",
+          "Un vers dont la longueur varie selon la strophe mais reste rimé",
+          "Un vers de douze syllabes sans césure fixe"
+        ],
+        "hard": [
+          "Un vers affranchi du mètre et de la rime, apparu au début du XVII siècle",
+          "Un vers affranchi de la rime mais conservant un mètre régulier",
+          "Un vers affranchi du mètre et de la rime, forme identique au poème en prose"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce qu'un poème en prose ?",
+      "verso": "Un texte poétique écrit sans vers, dont la poéticité tient aux images, au rythme et à la densité du langage",
+      "explanation": "Baudelaire en fait une forme majeure avec Le Spleen de Paris, poursuivant l'exploration menée avant lui par Aloysius Bertrand. Il montre que la poésie ne se définit pas par le vers.",
+      "tags": [
+        "formes",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Un roman qui contient quelques poèmes",
+          "Un poème imprimé sans marges",
+          "La traduction en prose d'un poème étranger"
+        ],
+        "medium": [
+          "Un poème en vers libres sans ponctuation",
+          "Un texte narratif divisé en strophes",
+          "Un résumé en prose d'un long poème"
+        ],
+        "hard": [
+          "Un texte poétique sans vers, forme inventée au XX siècle par les surréalistes",
+          "Un texte poétique sans vers, dont la poéticité tient uniquement au sujet traité",
+          "Un texte poétique sans vers ni images, reposant sur le seul rythme de la phrase"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on le lyrisme en poésie ?",
+      "verso": "L'expression de sentiments personnels intenses, souvent portée par la première personne et un rythme travaillé",
+      "explanation": "Le mot vient de la lyre, instrument qui accompagnait le chant antique. Il ne se confond pas avec le simple usage du je, qui peut servir un tout autre propos.",
+      "tags": [
+        "registres",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "L'emploi exclusif de vers courts",
+          "La description précise d'un paysage",
+          "L'usage de mots rares et savants"
+        ],
+        "medium": [
+          "L'expression d'une critique politique en vers",
+          "Le récit d'événements historiques en poésie",
+          "L'emploi systématique de la première personne du pluriel"
+        ],
+        "hard": [
+          "L'expression de sentiments personnels, qui se confond avec tout emploi de la première personne",
+          "L'expression de sentiments personnels, registre apparu avec le romantisme au XIX siècle",
+          "L'expression de sentiments collectifs au nom d'un groupe ou d'une nation"
+        ]
+      }
+    },
+    {
+      "recto": "Que caractérise le registre élégiaque ?",
+      "verso": "L'expression de la plainte, du regret et de la mélancolie, souvent liée à la perte ou à l'amour malheureux",
+      "explanation": "Il s'appuie sur un lexique de la douleur, des interrogations et des exclamations. Le registre pathétique cherche à émouvoir sur un malheur extérieur, tandis que l'élégiaque parle d'abord de soi.",
+      "tags": [
+        "registres",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "Le rire et la moquerie",
+          "La terreur et l'effroi",
+          "L'exposé d'un raisonnement"
+        ],
+        "medium": [
+          "L'exaltation de la grandeur et de l'héroïsme",
+          "L'ironie mordante contre les puissants",
+          "La description objective du monde"
+        ],
+        "hard": [
+          "L'expression de la plainte et du regret, registre identique au pathétique",
+          "L'expression de la mélancolie, réservée aux poèmes de forme fixe",
+          "L'expression de la plainte devant le malheur d'autrui plutôt que le sien"
+        ]
+      }
+    },
+    {
+      "recto": "Quels traits caractérisent la poésie romantique du XIX siècle ?",
+      "verso": "L'expression du moi, la place donnée à la nature et au sentiment, et l'assouplissement des règles classiques",
+      "explanation": "Lamartine, Hugo, Musset et Vigny en sont les principales voix françaises. Hugo revendique d'avoir mis un bonnet rouge au vieux dictionnaire, formule qui résume cette libération de la langue poétique.",
+      "tags": [
+        "mouvements",
+        "romantisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Le refus de toute émotion dans le poème",
+          "L'imitation stricte des poètes latins",
+          "L'usage exclusif de la prose"
+        ],
+        "medium": [
+          "La recherche de l'impersonnalité et de la perfection formelle",
+          "L'écriture automatique dictée par l'inconscient",
+          "La description scientifique du monde matériel"
+        ],
+        "hard": [
+          "L'expression du moi et le retour à des règles classiques plus strictes",
+          "L'expression du moi et le culte de la nature, mouvement dominant au XVIII siècle",
+          "L'expression du moi, dont Baudelaire est la figure fondatrice"
+        ]
+      }
+    },
+    {
+      "recto": "Que revendique le mouvement du Parnasse, en réaction au romantisme ?",
+      "verso": "L'impersonnalité du poète et le culte de la perfection formelle, résumés par la formule de l'art pour l'art",
+      "explanation": "Leconte de Lisle et Théodore de Banville en sont les figures principales. Le poète y devient un artisan du vers plutôt qu'une âme qui s'épanche.",
+      "tags": [
+        "mouvements",
+        "Parnasse"
+      ],
+      "distractors": {
+        "easy": [
+          "L'engagement politique du poète",
+          "L'abandon de toute forme fixe",
+          "Le retour au poème en prose"
+        ],
+        "medium": [
+          "L'expression exaltée des sentiments personnels",
+          "L'exploration du rêve et de l'inconscient",
+          "La dénonciation des injustices sociales en vers"
+        ],
+        "hard": [
+          "L'impersonnalité du poète et la perfection formelle, principes portés par Victor Hugo",
+          "L'impersonnalité du poète, doctrine qui conduit à l'abandon des formes fixes",
+          "L'art pour l'art, formule qui subordonne la forme au message moral"
+        ]
+      }
+    },
+    {
+      "recto": "Que cherchent les poètes symbolistes de la fin du XIX siècle ?",
+      "verso": "À suggérer plutôt qu'à nommer, en explorant les correspondances entre le monde sensible et un au-delà du langage",
+      "explanation": "Baudelaire en est le précurseur, Verlaine, Rimbaud et Mallarmé les figures majeures. Verlaine résume le programme par la formule de la musique avant toute chose.",
+      "tags": [
+        "mouvements",
+        "symbolisme"
+      ],
+      "distractors": {
+        "easy": [
+          "À décrire le monde avec la plus grande exactitude",
+          "À raconter des histoires en vers",
+          "À défendre une cause politique"
+        ],
+        "medium": [
+          "À atteindre l'impersonnalité et la perfection du vers",
+          "À libérer l'écriture du contrôle de la raison",
+          "À exalter les sentiments personnels du poète"
+        ],
+        "hard": [
+          "À suggérer plutôt qu'à nommer, programme dont Mallarmé est le précurseur",
+          "À suggérer plutôt qu'à nommer, en refusant toute forme de musicalité",
+          "À explorer les correspondances, démarche qui exclut le recours au vers libre"
+        ]
+      }
+    },
+    {
+      "recto": "Que désigne la théorie des correspondances chez Baudelaire ?",
+      "verso": "L'idée que le monde sensible est un réseau de signes qui se répondent, les sensations de différents sens s'échangeant entre elles",
+      "explanation": "Le poème Correspondances évoque des parfums, des couleurs et des sons qui se répondent : c'est la synesthésie. Le poète devient alors un déchiffreur du monde plutôt qu'un simple observateur.",
+      "tags": [
+        "Baudelaire",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "L'échange de lettres entre poètes",
+          "La ressemblance entre deux poèmes d'un même recueil",
+          "La traduction d'un poème d'une langue à l'autre"
+        ],
+        "medium": [
+          "L'accord entre le rythme du vers et le sens des mots",
+          "La correspondance entre les rimes de deux strophes",
+          "L'harmonie entre le poème et son illustration"
+        ],
+        "hard": [
+          "L'idée que les sensations s'échangent, théorie que Baudelaire nomme lui-même le lyrisme",
+          "L'idée d'un réseau de signes, propre au Parnasse dont Baudelaire est issu",
+          "L'idée que chaque mot correspond à une seule chose du monde sensible"
+        ]
+      }
+    },
+    {
+      "recto": "Que désigne l'alchimie poétique, souvent associée aux Fleurs du mal ?",
+      "verso": "Le pouvoir du poème de transformer le laid, le trivial ou le douloureux en beauté",
+      "explanation": "Baudelaire écrit avoir pétri de la boue pour en faire de l'or. Le mot alchimie renvoie à cette transmutation, qui déplace la beauté du sujet vers le travail du poète.",
+      "tags": [
+        "Baudelaire",
+        "notion"
+      ],
+      "distractors": {
+        "easy": [
+          "L'emploi d'un vocabulaire scientifique en poésie",
+          "La transformation d'un poème en chanson",
+          "La recherche de la pierre philosophale par les poètes"
+        ],
+        "medium": [
+          "La capacité du poème à convaincre un lecteur",
+          "Le mélange de plusieurs formes fixes dans un même recueil",
+          "La transformation d'un texte en prose en poème versifié"
+        ],
+        "hard": [
+          "Le pouvoir de transformer le laid en beauté, qui suppose que seuls les beaux sujets soient poétiques",
+          "Le pouvoir de transformer la matière du poème, notion forgée par les surréalistes",
+          "Le pouvoir du poème de restituer fidèlement la laideur du monde sans la transformer"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'est-ce que l'écriture automatique, pratiquée par les surréalistes ?",
+      "verso": "Une écriture rapide et sans contrôle de la raison, destinée à laisser affleurer l'inconscient",
+      "explanation": "André Breton la définit dans le Manifeste du surréalisme de 1924, en s'inspirant des travaux de Freud. Elle vise moins un beau texte qu'une exploration de ce que la conscience censure.",
+      "tags": [
+        "mouvements",
+        "surréalisme"
+      ],
+      "distractors": {
+        "easy": [
+          "L'écriture d'un poème par une machine",
+          "La copie d'un texte sans le comprendre",
+          "La dictée d'un poème à un secrétaire"
+        ],
+        "medium": [
+          "L'écriture soumise à des contraintes formelles strictes",
+          "L'écriture collective à plusieurs auteurs",
+          "L'improvisation orale d'un poème devant un public"
+        ],
+        "hard": [
+          "Une écriture sans contrôle de la raison, théorisée par Breton en 1934",
+          "Une écriture sans contrôle de la raison, qui vise avant tout la perfection formelle",
+          "Une écriture rapide destinée à restituer fidèlement les souvenirs conscients"
+        ]
+      }
+    },
+    {
+      "recto": "Quels poètes comptent parmi les figures majeures du surréalisme français ?",
+      "verso": "André Breton, Paul Éluard, Louis Aragon et Robert Desnos",
+      "explanation": "Le mouvement naît après la Première Guerre mondiale, dans le prolongement de Dada. Plusieurs de ses membres s'engageront politiquement, ce qui provoquera des ruptures durables au sein du groupe.",
+      "tags": [
+        "mouvements",
+        "surréalisme"
+      ],
+      "distractors": {
+        "easy": [
+          "Victor Hugo et Alphonse de Lamartine",
+          "Pierre de Ronsard et Joachim du Bellay",
+          "Jean Racine et Pierre Corneille"
+        ],
+        "medium": [
+          "Charles Baudelaire et Paul Verlaine",
+          "Arthur Rimbaud et Stéphane Mallarmé",
+          "Leconte de Lisle et Théodore de Banville"
+        ],
+        "hard": [
+          "Breton, Éluard et Aragon, mouvement né avant la Première Guerre mondiale",
+          "Breton, Éluard et Aragon, groupe issu du symbolisme et non de Dada",
+          "Breton, Éluard et Aragon, dont l'unité politique ne fut jamais rompue"
+        ]
+      }
+    },
+    {
+      "recto": "Comment la poésie peut-elle être un instrument d'engagement ?",
+      "verso": "En dénonçant l'injustice, en célébrant la résistance ou en donnant voix aux opprimés, la forme poétique amplifiant la portée du message",
+      "explanation": "Les Châtiments de Hugo contre Napoléon III et la poésie de la Résistance chez Éluard et Aragon en sont des exemples majeurs. La contrainte formelle y sert la mémorisation et la circulation clandestine.",
+      "tags": [
+        "fonctions",
+        "engagement"
+      ],
+      "distractors": {
+        "easy": [
+          "La poésie ne peut jamais être engagée",
+          "En publiant des poèmes dans les journaux officiels",
+          "En décrivant des paysages politiques"
+        ],
+        "medium": [
+          "En abandonnant toute contrainte formelle pour gagner en clarté",
+          "En se limitant à l'expression de sentiments personnels",
+          "En traduisant des textes de loi en vers"
+        ],
+        "hard": [
+          "En dénonçant l'injustice, la forme poétique nuisant toutefois à la portée du message",
+          "En donnant voix aux opprimés, fonction apparue seulement au XX siècle",
+          "En célébrant la résistance, la contrainte formelle empêchant la circulation clandestine"
+        ]
+      }
+    },
+    {
+      "recto": "Quelle démarche caractérise la poésie de Francis Ponge ?",
+      "verso": "Prendre le parti des choses, en décrivant minutieusement des objets banals pour en renouveler la perception",
+      "explanation": "Le cageot, l'huître ou le savon deviennent des sujets de poème à part entière. Cette attention au concret rompt avec l'effusion lyrique tout en restant une entreprise poétique.",
+      "tags": [
+        "mouvements",
+        "contemporain"
+      ],
+      "distractors": {
+        "easy": [
+          "Chanter l'amour courtois",
+          "Raconter des batailles en vers",
+          "Traduire les poètes antiques"
+        ],
+        "medium": [
+          "Explorer le rêve par l'écriture automatique",
+          "Exprimer la mélancolie du poète face au temps",
+          "Rechercher la perfection formelle du sonnet"
+        ],
+        "hard": [
+          "Prendre le parti des choses, démarche qui prolonge l'effusion lyrique romantique",
+          "Décrire minutieusement des objets, en renonçant à toute dimension poétique",
+          "Prendre le parti des choses, en se limitant aux objets de la nature"
+        ]
+      }
+    },
+    {
+      "recto": "Comment repère-t-on un effet de rythme dans un poème ?",
+      "verso": "En observant les coupes, les enjambements, les répétitions et l'alternance des syllabes accentuées, puis en reliant ces observations au sens",
+      "explanation": "Le rythme n'a pas de signification en lui-même : un vers heurté peut traduire la colère comme l'hésitation. C'est le rapprochement avec le contenu qui donne son sens à l'observation formelle.",
+      "tags": [
+        "méthode",
+        "analyse"
+      ],
+      "distractors": {
+        "easy": [
+          "En comptant le nombre de mots du poème",
+          "En repérant la date de publication",
+          "En cherchant la biographie de l'auteur"
+        ],
+        "medium": [
+          "En relevant uniquement le nombre de syllabes des vers",
+          "En identifiant le mouvement littéraire du poète",
+          "En comparant le poème à un autre du même recueil"
+        ],
+        "hard": [
+          "En observant les coupes et les répétitions, dont le sens est fixé indépendamment du contenu",
+          "En observant le rythme, un vers heurté traduisant toujours la colère",
+          "En observant les enjambements uniquement, les répétitions relevant du lexique"
+        ]
+      }
+    },
+    {
+      "recto": "Pourquoi ne faut-il pas se contenter de relever des procédés dans un commentaire de poème ?",
+      "verso": "Parce qu'un procédé n'a de valeur que par l'effet qu'il produit et par le sens qu'il sert, qu'il faut expliciter",
+      "explanation": "Écrire qu'un vers contient une allitération n'apprend rien tant que l'on n'a pas dit ce qu'elle fait entendre. Le relevé est le point de départ de l'analyse, jamais son aboutissement.",
+      "tags": [
+        "méthode",
+        "commentaire"
+      ],
+      "distractors": {
+        "easy": [
+          "Parce que les procédés sont trop difficiles à repérer",
+          "Parce qu'il vaut mieux résumer le poème",
+          "Parce que les correcteurs interdisent les relevés"
+        ],
+        "medium": [
+          "Parce qu'un poème ne contient jamais de procédés identifiables",
+          "Parce qu'il faut d'abord donner son avis personnel sur le texte",
+          "Parce que le relevé suffit à démontrer la compréhension du poème"
+        ],
+        "hard": [
+          "Parce qu'un procédé n'a de valeur que par son effet, effet toujours identique d'un texte à l'autre",
+          "Parce que le relevé constitue l'aboutissement de l'analyse et non son point de départ",
+          "Parce qu'un procédé ne prend sens qu'en référence à la biographie de l'auteur"
+        ]
+      }
+    },
+    {
+      "recto": "Quelles grandes fonctions la poésie peut-elle remplir ?",
+      "verso": "Exprimer une intériorité, célébrer ou déplorer, dénoncer et engager, et explorer les pouvoirs du langage lui-même",
+      "explanation": "Ces fonctions ne s'excluent pas : un même poème peut à la fois dire une douleur et interroger la langue. Un plan de dissertation gagne à les articuler plutôt qu'à les juxtaposer.",
+      "tags": [
+        "fonctions",
+        "synthèse"
+      ],
+      "distractors": {
+        "easy": [
+          "Uniquement divertir le lecteur",
+          "Uniquement transmettre des informations",
+          "Uniquement enseigner la grammaire"
+        ],
+        "medium": [
+          "Uniquement exprimer les sentiments du poète",
+          "Uniquement dénoncer les injustices sociales",
+          "Uniquement rechercher la beauté formelle"
+        ],
+        "hard": [
+          "Exprimer, célébrer, dénoncer et explorer le langage, fonctions qui s'excluent mutuellement",
+          "Exprimer et dénoncer, l'exploration du langage relevant de la prose et non de la poésie",
+          "Exprimer une intériorité, fonction qui prime nécessairement sur toutes les autres"
+        ]
+      }
+    },
+    {
+      "recto": "Qu'appelle-t-on une anaphore, procédé fréquent en poésie ?",
+      "verso": "La répétition d'un même mot ou groupe de mots en tête de plusieurs vers ou phrases successifs",
+      "explanation": "Elle crée un effet d'insistance et de scansion, souvent employé dans la poésie engagée. Éluard construit ainsi son poème Liberté sur une anaphore continue.",
+      "tags": [
+        "procédés",
+        "définition"
+      ],
+      "distractors": {
+        "easy": [
+          "La répétition d'un son voyelle",
+          "L'inversion de l'ordre des mots",
+          "La suppression d'un mot attendu"
+        ],
+        "medium": [
+          "La répétition d'un mot en fin de vers successifs",
+          "La reprise du dernier mot d'un vers au début du suivant",
+          "L'emploi d'un mot dans deux sens différents"
+        ],
+        "hard": [
+          "La répétition d'un mot en tête de vers, procédé réservé à la poésie lyrique",
+          "La répétition d'un groupe de mots à l'intérieur du vers, quelle que soit sa position",
+          "La répétition d'une structure syntaxique sans reprise des mêmes mots"
+        ]
+      }
+    },
+    {
+      "recto": "Que désignent l'allitération et l'assonance ?",
+      "verso": "L'allitération est la répétition d'un son consonne, l'assonance celle d'un son voyelle",
+      "explanation": "Les deux produisent une harmonie sonore dont l'effet dépend entièrement du contexte : un même son sifflant peut évoquer le serpent ou le silence. Il faut donc toujours justifier l'effet allégué par le sens du passage.",
+      "tags": [
+        "procédés",
+        "sonorités"
+      ],
+      "distractors": {
+        "easy": [
+          "L'allitération est une strophe, l'assonance une rime",
+          "L'allitération est un vers long, l'assonance un vers court",
+          "Les deux désignent la même chose"
+        ],
+        "medium": [
+          "L'allitération répète une voyelle, l'assonance une consonne",
+          "L'allitération est une rime pauvre, l'assonance une rime riche",
+          "L'allitération concerne les fins de vers, l'assonance les débuts"
+        ],
+        "hard": [
+          "L'allitération répète une consonne et l'assonance une voyelle, leurs effets étant fixés une fois pour toutes",
+          "L'allitération répète une consonne en fin de vers uniquement",
+          "L'allitération répète un son consonne, l'assonance un groupe de deux voyelles"
+        ]
+      }
+    },
+    {
+      "recto": "Comment aborder un poème dont on ignore l'auteur et la date ?",
+      "verso": "En observant d'abord la forme, le lexique dominant et l'énonciation, ces indices permettant de situer le texte et d'orienter l'analyse",
+      "explanation": "Une forme fixe régulière et un lexique noble orientent vers l'âge classique, le vers libre vers le XX siècle. Ces repères restent des hypothèses de travail, à confirmer par le texte lui-même.",
+      "tags": [
+        "méthode",
+        "analyse"
+      ],
+      "distractors": {
+        "easy": [
+          "En cherchant le poème sur internet avant de l'analyser",
+          "En refusant d'analyser un texte non identifié",
+          "En résumant le poème en une phrase"
+        ],
+        "medium": [
+          "En devinant l'auteur à partir du thème traité",
+          "En commençant par relever toutes les figures de style",
+          "En comparant le poème à ceux étudiés en classe"
+        ],
+        "hard": [
+          "En observant la forme et le lexique, indices qui donnent une certitude sur la datation",
+          "En observant l'énonciation seule, la forme ne renseignant pas sur l'époque",
+          "En observant la forme, un vers libre orientant vers la poésie classique"
+        ]
+      }
+    }
+  ]
+}
