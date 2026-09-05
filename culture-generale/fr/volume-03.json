@@ -8,7 +8,7 @@
   "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Culture générale — Volume 3</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> tous niveaux<br>\n  <b>Format&nbsp;:</b> questionnaire varié, 50 questions<br>\n  <b>Domaines&nbsp;:</b> histoire, géographie, sciences, arts, lettres, musique, cinéma, mythologie, langue, sport, inventions\n</div>\n\n<blockquote><p><b>Le principe.</b> Beaucoup de réponses fausses sont des réponses <em>presque</em> justes&nbsp;: le bon nom, la mauvaise date&nbsp;; le bon fait, le mauvais auteur.</p></blockquote>\n\n<p>Ce troisième volume travaille l'erreur de <strong>voisinage</strong>. Magellan a lancé le premier tour du monde mais ne l'a pas achevé&nbsp;; Pasteur a mis au point le vaccin contre la rage mais n'a pas inventé la vaccination&nbsp;; Flaubert et Baudelaire ont été poursuivis la même année, mais un seul a été condamné. Dans chaque cas, la connaissance approximative suffit à répondre — et suffit aussi à se tromper.</p>\n\n<h2>1 · Le mérite et le voisin de mérite</h2>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Quatre cas où le mérite d'une découverte est attribué à la mauvaise personne : Magellan a lancé le premier tour du monde mais c'est Elcano qui l'a achevé, Pasteur a créé le vaccin contre la rage mais Jenner avait établi le principe de la vaccination, Volta a inventé la pile après les travaux de Galvani, et Darwin a publié la sélection naturelle en même temps que Wallace y parvenait indépendamment\">\n    <text x=\"8\" y=\"18\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Qui a fait quoi, exactement</text>\n    <rect x=\"8\" y=\"28\" width=\"150\" height=\"34\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".28\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"83\" y=\"49\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Magellan lance</text>\n    <rect x=\"182\" y=\"28\" width=\"150\" height=\"34\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".14\" stroke=\"var(--accent)\" stroke-opacity=\".45\"/>\n    <text x=\"257\" y=\"49\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Elcano achève</text>\n    <rect x=\"8\" y=\"70\" width=\"150\" height=\"34\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".28\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"83\" y=\"91\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Jenner : le principe</text>\n    <rect x=\"182\" y=\"70\" width=\"150\" height=\"34\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".14\" stroke=\"var(--accent)\" stroke-opacity=\".45\"/>\n    <text x=\"257\" y=\"91\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Pasteur : la rage</text>\n    <rect x=\"8\" y=\"112\" width=\"150\" height=\"34\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".28\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"83\" y=\"133\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Galvani ouvre la voie</text>\n    <rect x=\"182\" y=\"112\" width=\"150\" height=\"34\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".14\" stroke=\"var(--accent)\" stroke-opacity=\".45\"/>\n    <text x=\"257\" y=\"133\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Volta invente la pile</text>\n    <text x=\"170\" y=\"170\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Une découverte a rarement un seul auteur — et jamais un seul moment.</text>\n    <text x=\"170\" y=\"185\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">Darwin publie en 1859 ; Wallace y parvenait au même moment.</text>\n  </svg>\n  <figcaption>Attribuer correctement suppose de distinguer le principe, la première réalisation et l'achèvement.</figcaption>\n</figure>\n\n<h2>2 · Histoire</h2>\n\n<p>Sept questions, de l'écriture cunéiforme à l'élection de Mandela. Trois nuances valent d'être retenues&nbsp;:</p>\n\n<ul>\n  <li>La chute de l'Empire romain <strong>d'Occident</strong> est datée de 476 par convention&nbsp;; l'Empire <strong>d'Orient</strong> se maintient à Constantinople jusqu'en 1453, soit près de mille ans de plus.</li>\n  <li>Le <strong>4 juillet 1776</strong> est la date de la <em>déclaration</em> d'indépendance américaine&nbsp;: la reconnaissance britannique n'intervient qu'en 1783, la Constitution en 1787.</li>\n  <li><strong>Mandela</strong> est libéré en 1990 et élu en 1994, après vingt-sept ans de prison. Libération, prix Nobel et élection sont trois dates distinctes.</li>\n</ul>\n\n<h2>3 · Géographie et sciences</h2>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 185\" role=\"img\" aria-label=\"Records et repères du volume : la fosse des Mariannes atteint environ onze kilomètres de profondeur soit plus que la hauteur de l'Everest, le Canada possède le plus long littoral, la Chine et la Russie comptent quatorze voisins chacune, et l'Afrique regroupe cinquante-quatre pays\">\n    <text x=\"8\" y=\"18\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">La fosse des Mariannes, en perspective</text>\n    <line x1=\"20\" y1=\"30\" x2=\"320\" y2=\"30\" stroke=\"currentColor\" stroke-opacity=\".3\"/>\n    <text x=\"326\" y=\"33\" font-size=\"8\" class=\"s-muted\">0</text>\n    <rect x=\"60\" y=\"30\" width=\"36\" height=\"66\" fill=\"var(--accent)\" fill-opacity=\".35\"/>\n    <text x=\"78\" y=\"110\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Everest</text>\n    <text x=\"78\" y=\"122\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">8,8 km</text>\n    <rect x=\"180\" y=\"30\" width=\"36\" height=\"82\" fill=\"var(--accent)\" fill-opacity=\".55\"/>\n    <text x=\"198\" y=\"126\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Mariannes</text>\n    <text x=\"198\" y=\"138\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">environ 11 km</text>\n    <text x=\"240\" y=\"70\" font-size=\"9\" fill=\"currentColor\">L'Everest y tiendrait,</text>\n    <text x=\"240\" y=\"84\" font-size=\"9\" fill=\"currentColor\">avec 2 km d'eau</text>\n    <text x=\"240\" y=\"98\" font-size=\"9\" fill=\"currentColor\">au-dessus du sommet.</text>\n    <line x1=\"8\" y1=\"150\" x2=\"332\" y2=\"150\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"168\" font-size=\"9\" fill=\"currentColor\">Plus long littoral : le Canada · Le plus de voisins : Chine et Russie, 14 chacune</text>\n    <text x=\"8\" y=\"181\" font-size=\"9\" fill=\"currentColor\">Le plus de pays : l'Afrique, 54 · Limite Europe-Asie : l'Oural, par convention</text>\n  </svg>\n  <figcaption>Les records géographiques se retiennent mieux comparés les uns aux autres qu'appris isolément.</figcaption>\n</figure>\n\n<p>Côté sciences, quelques ancrages&nbsp;:</p>\n\n<ul>\n  <li>Le système solaire compte <strong>huit</strong> planètes depuis 2006, Pluton ayant été reclassée en planète naine faute d'avoir nettoyé le voisinage de son orbite.</li>\n  <li>L'<strong>hydrogène</strong> est l'élément le plus abondant de l'univers&nbsp;; sur Terre, l'oxygène et le silicium dominent la croûte.</li>\n  <li>La lumière du Soleil met environ <strong>huit minutes</strong> à nous parvenir&nbsp;: nous le voyons toujours avec ce retard.</li>\n  <li>Le <strong>pH</strong> mesure l'acidité sur une échelle logarithmique où 7 est la neutralité.</li>\n  <li>La <strong>peau</strong> est le plus grand organe du corps&nbsp;; le foie, le plus gros organe <em>interne</em>.</li>\n</ul>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 180\" role=\"img\" aria-label=\"L'année 1857 en littérature française : Madame Bovary de Flaubert et Les Fleurs du mal de Baudelaire sont tous deux poursuivis pour outrage aux bonnes mœurs, Flaubert est acquitté tandis que Baudelaire est condamné, condamnation qui ne sera annulée qu'en 1949\">\n    <text x=\"170\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">1857 : deux procès, deux issues</text>\n    <rect x=\"8\" y=\"32\" width=\"150\" height=\"76\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".28\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"83\" y=\"52\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">Madame Bovary</text>\n    <text x=\"83\" y=\"67\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">Gustave Flaubert</text>\n    <line x1=\"30\" y1=\"78\" x2=\"136\" y2=\"78\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"83\" y=\"97\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">acquitté</text>\n    <rect x=\"182\" y=\"32\" width=\"150\" height=\"76\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".28\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"257\" y=\"52\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">Les Fleurs du mal</text>\n    <text x=\"257\" y=\"67\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">Charles Baudelaire</text>\n    <line x1=\"204\" y1=\"78\" x2=\"310\" y2=\"78\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"257\" y=\"97\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">condamné</text>\n    <text x=\"257\" y=\"124\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">six pièces retirées du recueil</text>\n    <text x=\"257\" y=\"138\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">condamnation annulée en 1949</text>\n    <text x=\"170\" y=\"168\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Même année, même chef d'accusation, deux verdicts opposés.</text>\n  </svg>\n  <figcaption>Une date qui porte deux œuvres&nbsp;: la retenir évite d'attribuer l'une à l'autre.</figcaption>\n</figure>\n\n<h2>4 · Arts, lettres et langue</h2>\n\n<ul>\n  <li><strong>1857</strong> est une année double&nbsp;: Madame Bovary de Flaubert et Les Fleurs du mal de Baudelaire y sont tous deux poursuivis. Flaubert est acquitté, Baudelaire condamné — la condamnation ne sera levée qu'en 1949.</li>\n  <li><strong>Vermeer</strong> n'a laissé qu'une quarantaine d'œuvres et fut oublié deux siècles durant avant sa redécouverte.</li>\n  <li>Le <strong>surréalisme</strong> est fondé par Breton en 1924, dans un manifeste, en s'appuyant sur le rêve et l'inconscient.</li>\n  <li>Un <strong>acronyme</strong> se prononce comme un mot (laser, radar)&nbsp;; un <strong>sigle</strong> s'épelle. Tout acronyme est un sigle, l'inverse est faux.</li>\n  <li><strong>Salaire</strong> vient de <em>sal</em>, le sel, denrée longtemps précieuse — même racine que salade, saumure, salaison.</li>\n</ul>\n\n<h2>L'essentiel</h2>\n\n<h3>Les réflexes à corriger</h3>\n\n<table>\n  <tr><th>On répond spontanément</th><th>La bonne réponse</th></tr>\n  <tr><td>Magellan a fait le tour du monde</td><td>Il l'a lancé&nbsp;; Elcano l'a achevé</td></tr>\n  <tr><td>La Grande Muraille se voit depuis la Lune</td><td>Non&nbsp;: elle est bien trop étroite</td></tr>\n  <tr><td>Istanbul, capitale de la Turquie</td><td>Ankara, depuis 1923</td></tr>\n  <tr><td>Neuf planètes dans le système solaire</td><td>Huit, depuis 2006</td></tr>\n  <tr><td>Pasteur a inventé la vaccination</td><td>Jenner en a posé le principe&nbsp;; Pasteur l'a généralisé</td></tr>\n  <tr><td>Le foie, plus grand organe du corps</td><td>La peau&nbsp;; le foie est le plus gros organe interne</td></tr>\n</table>\n\n<h3>Dates clés du volume</h3>\n\n<table>\n  <tr><th>Date</th><th>Événement</th></tr>\n  <tr><td>79</td><td>Éruption du Vésuve, Pompéi ensevelie</td></tr>\n  <tr><td>476</td><td>Fin conventionnelle de l'Empire romain d'Occident</td></tr>\n  <tr><td>1088</td><td>Fondation de l'université de Bologne</td></tr>\n  <tr><td>1519-1522</td><td>Premier tour du monde par la mer</td></tr>\n  <tr><td>1776</td><td>Déclaration d'indépendance américaine</td></tr>\n  <tr><td>1859</td><td>Darwin publie sa théorie de la sélection naturelle</td></tr>\n  <tr><td>1896</td><td>Premiers Jeux olympiques modernes, à Athènes</td></tr>\n</table>\n\n<h3>Chiffres à retenir</h3>\n\n<table>\n  <tr><th>Quantité</th><th>Valeur</th></tr>\n  <tr><td>Planètes du système solaire</td><td>8</td></tr>\n  <tr><td>Lumière du Soleil jusqu'à la Terre</td><td>Environ 8 minutes</td></tr>\n  <tr><td>Profondeur de la fosse des Mariannes</td><td>Environ 11 km</td></tr>\n  <tr><td>Pays du continent africain</td><td>54</td></tr>\n  <tr><td>Distance d'un marathon</td><td>42,195 km</td></tr>\n  <tr><td>Muses de la mythologie grecque</td><td>9</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Croire que la <strong>Grande Muraille de Chine</strong> est visible à l'œil nu depuis la <strong>Lune</strong>. C'est sa <em>largeur</em>, de quelques mètres, qui détermine la visibilité — jamais sa longueur&nbsp;: elle n'est même pas distinguable à l'œil nu depuis l'orbite terrestre basse, comme les astronautes l'ont eux-mêmes démenti. Deux réflexes voisins&nbsp;: attribuer une réalisation à celui qui l'a lancée plutôt qu'à celui qui l'a achevée, comme pour le premier tour du monde&nbsp;; et confondre la <em>déclaration</em> d'un événement avec sa <em>reconnaissance</em>, comme pour l'indépendance américaine.\n</div>\n\n<blockquote><p>Le pire ennemi d'une bonne réponse n'est pas l'ignorance&nbsp;: c'est le souvenir approximatif, qui a toute la confiance du savoir sans en avoir la précision.</p></blockquote>\n",
   "questionLang": "fr",
   "answerLang": "fr",
-  "version": 3,
+  "version": 4,
   "level": "Tous niveaux",
   "theme": "Culture générale — questionnaire varié",
   "cards": [
@@ -33,8 +33,8 @@
         ],
         "hard": [
           "Magellan, qui acheva lui-même le voyage en 1522",
-          "Elcano, qui commandait l'expédition dès son départ",
-          "Antonio Pigafetta, chroniqueur et commandant du dernier navire"
+          "Antonio Pigafetta, chroniqueur de l'expédition",
+          "Gonzalo Gómez de Espinosa, commandant du Trinidad"
         ]
       }
     },
@@ -188,9 +188,9 @@
           "Jules Rimet, fondateur de la Coupe du monde"
         ],
         "hard": [
-          "Coubertin, les premiers Jeux modernes se tenant à Paris en 1900",
-          "Coubertin, dont les premiers Jeux modernes furent ouverts aux femmes",
-          "Coubertin, qui rénova les Jeux interrompus au XV siècle"
+          "Demetrios Vikelas, premier président du Comité international",
+          "Thomas Arnold, pédagogue britannique dont il s'inspira",
+          "Evángelos Záppas, organisateur des Jeux d'Athènes de 1859"
         ]
       }
     },
@@ -474,9 +474,9 @@
           "Georges Cuvier"
         ],
         "hard": [
-          "Darwin, dans un ouvrage publié en 1809",
           "Alfred Russel Wallace, dont Darwin reprit les travaux",
-          "Darwin, dont la théorie explique l'apparition des variations elles-mêmes"
+          "Jean-Baptiste de Lamarck, auteur d'une théorie transformiste antérieure",
+          "Patrick Matthew, qui énonça le principe dès 1831"
         ]
       }
     },
@@ -500,9 +500,9 @@
           "Environ une année"
         ],
         "hard": [
-          "Environ huit secondes",
-          "Environ huit heures",
-          "Environ une minute"
+          "Environ une minute",
+          "Environ vingt minutes",
+          "Environ trois heures"
         ]
       }
     },
@@ -604,9 +604,9 @@
           "Gustav Klimt"
         ],
         "hard": [
-          "Munch, dans une œuvre unique jamais reproduite par lui-même",
-          "Munch, peintre suédois du début du XX siècle",
-          "James Ensor, peintre belge de la même génération"
+          "James Ensor, peintre belge de la même génération",
+          "Egon Schiele, expressionniste autrichien",
+          "Christian Krohg, peintre norvégien et maître de Munch"
         ]
       }
     },
@@ -630,9 +630,9 @@
           "H. G. Wells"
         ],
         "hard": [
-          "Orwell, dans un livre publié en 1984",
           "Aldous Huxley, auteur également de La Ferme des animaux",
-          "Orwell, romancier américain du milieu du XX siècle"
+          "Evgueni Zamiatine, auteur de Nous autres",
+          "Arthur Koestler, auteur du Zéro et l'Infini"
         ]
       }
     },
@@ -656,9 +656,9 @@
           "Stendhal"
         ],
         "hard": [
-          "Flaubert, dans un roman publié en 1757",
-          "Flaubert, dont le roman fut condamné lors de son procès",
-          "Maupassant, élève de Flaubert et auteur de romans normands"
+          "Maupassant, élève de Flaubert et auteur de romans normands",
+          "Louise Colet, femme de lettres et correspondante de Flaubert",
+          "Ernest Feydeau, auteur de Fanny, succès de la même année"
         ]
       }
     },
@@ -708,9 +708,9 @@
           "Francis Scott Fitzgerald"
         ],
         "hard": [
-          "Hemingway, dans un récit publié en 1962",
           "Herman Melville, auteur également de Moby Dick",
-          "Hemingway, dont ce récit lui valut le prix Pulitzer et non le Nobel"
+          "John Steinbeck, prix Nobel de la même décennie",
+          "Joseph Conrad, romancier de la mer et du large"
         ]
       }
     },
@@ -734,9 +734,9 @@
           "Padoue"
         ],
         "hard": [
-          "Bologne, fondée en 1388",
           "Oxford, dont l'enseignement est attesté avant celui de Bologne",
-          "Bologne, plus ancienne université du monde toutes régions confondues"
+          "Salamanque, première à porter officiellement le titre d'université",
+          "Paris, dont les écoles cathédrales précèdent Bologne"
         ]
       }
     },
@@ -760,9 +760,9 @@
           "Stéphane Mallarmé"
         ],
         "hard": [
-          "Baudelaire, dans un recueil publié en 1867",
-          "Baudelaire, dont le recueil fut acquitté lors de son procès",
-          "Verlaine, contemporain et ami de Baudelaire"
+          "Verlaine, contemporain et ami de Baudelaire",
+          "Théophile Gautier, dédicataire du recueil",
+          "Pétrus Borel, poète du romantisme noir"
         ]
       }
     },
@@ -786,9 +786,9 @@
           "Pieter Bruegel"
         ],
         "hard": [
-          "Vermeer, peintre prolifique aux centaines d'œuvres recensées",
-          "Rembrandt, contemporain et maître de Vermeer",
-          "Vermeer, peintre flamand du XVI siècle"
+          "Rembrandt, contemporain et maître présumé de Vermeer",
+          "Carel Fabritius, élève de Rembrandt établi à Delft",
+          "Pieter de Hooch, peintre d'intérieurs de Delft"
         ]
       }
     },
@@ -812,9 +812,9 @@
           "Brahms"
         ],
         "hard": [
-          "Mozart, dont le Requiem fut achevé de son vivant",
-          "Mozart, mort en 1891 en laissant son Requiem inachevé",
-          "Schubert, dont la Symphonie inachevée est restée célèbre"
+          "Schubert, dont la Symphonie inachevée est restée célèbre",
+          "Franz Xaver Süssmayr, qui acheva la partition",
+          "Gabriel Fauré, auteur d'un Requiem tardif"
         ]
       }
     },
@@ -839,8 +839,8 @@
         ],
         "hard": [
           "Douze, correspondant aux demi-tons de l'octave",
-          "Sept, y compris la reprise de la première note à l'octave",
-          "Huit, le mot octave désignant le nombre de notes de la gamme"
+          "Huit, le mot octave désignant le nombre de notes de la gamme",
+          "Cinq, comme dans les gammes pentatoniques"
         ]
       }
     },
@@ -864,9 +864,9 @@
           "Universal"
         ],
         "hard": [
-          "Disney, dans le premier long métrage d'animation muet",
-          "Disney, en 1957, vingt ans après ses premiers courts métrages",
-          "Les studios Fleischer, auteurs du premier long métrage animé en couleur"
+          "Les studios Fleischer, auteurs du premier long métrage animé en couleur",
+          "Metro-Goldwyn-Mayer, distributeur de dessins animés à l'époque",
+          "Les studios Iwerks, fondés par le créateur graphique de Mickey"
         ]
       }
     },
@@ -968,9 +968,9 @@
           "Six"
         ],
         "hard": [
-          "Neuf, toutes associées exclusivement aux arts et jamais aux sciences",
           "Douze, comme les dieux de l'Olympe",
-          "Neuf, dont le nom a donné le mot mythe"
+          "Trois, selon la tradition béotienne la plus ancienne",
+          "Quatre, selon une tradition rapportée par Cicéron"
         ]
       }
     },
@@ -994,9 +994,9 @@
           "Le nouvel an juif"
         ],
         "hard": [
-          "La fête des lumières, célébrée principalement dans le bouddhisme",
-          "La fête des lumières, observée exclusivement par les hindous",
-          "La fête des lumières, qui commémore une victoire militaire historique"
+          "La fête du printemps et des couleurs, marquée par les poudres",
+          "La fête de la moisson du riz dans le sud de l'Inde",
+          "La fête de la naissance de Krishna, célébrée à la fin de l'été"
         ]
       }
     },
@@ -1254,9 +1254,9 @@
           "Michael Faraday"
         ],
         "hard": [
-          "Volta, dont le nom a donné l'unité d'intensité électrique",
           "Luigi Galvani, dont les travaux sur les grenouilles aboutirent à la pile",
-          "Volta, physicien français du début du XIX siècle"
+          "André-Marie Ampère, dont le nom désigne l'unité d'intensité",
+          "Michael Faraday, auteur des lois de l'électrolyse"
         ]
       }
     },

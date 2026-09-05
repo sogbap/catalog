@@ -8,7 +8,7 @@
   "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Culture générale — Volume 2</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> tous niveaux<br>\n  <b>Format&nbsp;:</b> questionnaire varié, 50 questions<br>\n  <b>Domaines&nbsp;:</b> histoire, géographie, sciences, arts, lettres, musique, cinéma, mythologie, langue, sport, techniques\n</div>\n\n<blockquote><p><b>Le principe.</b> Beaucoup de fausses évidences viennent d'un <em>mot mal compris</em>, pas d'une ignorance.</p></blockquote>\n\n<p>Ce deuxième volume insiste sur un type d'erreur précis&nbsp;: celle que produit le <strong>vocabulaire</strong>. Une année-lumière n'est pas une durée, la mer Morte n'est pas une mer, la guerre de Cent Ans n'a pas duré cent ans, et le nombre de continents n'a pas de réponse universelle. Dans chacun de ces cas, l'erreur ne vient pas d'un manque de connaissances mais d'un nom qui induit en erreur. Savoir lire un mot est ici la moitié du travail.</p>\n\n<h2>1 · Quand le nom trompe</h2>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 195\" role=\"img\" aria-label=\"Quatre expressions dont le nom induit en erreur : une année-lumière désigne une distance et non une durée, la mer Morte est en réalité un lac salé fermé, la guerre de Cent Ans a duré cent seize ans, et le nombre de continents relève d'une convention variable selon les pays\">\n    <rect x=\"8\" y=\"14\" width=\"324\" height=\"38\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".25\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"18\" y=\"30\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">année-lumière</text>\n    <text x=\"18\" y=\"45\" font-size=\"9\" fill=\"currentColor\">une distance, pas une durée : environ 9 500 milliards de km</text>\n    <rect x=\"8\" y=\"58\" width=\"324\" height=\"38\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"18\" y=\"74\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">mer Morte</text>\n    <text x=\"18\" y=\"89\" font-size=\"9\" fill=\"currentColor\">un lac salé fermé, et le point émergé le plus bas du globe</text>\n    <rect x=\"8\" y=\"102\" width=\"324\" height=\"38\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"18\" y=\"118\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">guerre de Cent Ans</text>\n    <text x=\"18\" y=\"133\" font-size=\"9\" fill=\"currentColor\">cent seize ans, et une série de guerres, pas un conflit continu</text>\n    <rect x=\"8\" y=\"146\" width=\"324\" height=\"38\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".18\" stroke=\"var(--accent)\" stroke-opacity=\".5\"/>\n    <text x=\"18\" y=\"162\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">nombre de continents</text>\n    <text x=\"18\" y=\"177\" font-size=\"9\" fill=\"currentColor\">une convention : cinq, six ou sept selon les pays</text>\n  </svg>\n  <figcaption>Dans les quatre cas, l'erreur est dans le mot&nbsp;— pas dans la mémoire.</figcaption>\n</figure>\n\n<h2>2 · Histoire et géographie</h2>\n\n<p>Sept questions d'histoire, du couronnement de Charlemagne en 800 au premier pas sur la Lune en 1969. Trois points à retenir&nbsp;:</p>\n\n<ul>\n  <li><strong>Marie Curie</strong> reste la seule personne distinguée par un Nobel dans <em>deux disciplines scientifiques différentes</em> — physique en 1903, chimie en 1911.</li>\n  <li>L'<strong>Empire mongol</strong> fondé par Gengis Khan devint le plus grand empire <em>continu</em> de l'histoire, de la Corée à l'Europe orientale.</li>\n  <li><strong>Élisabeth II</strong> a dépassé le règne de Victoria&nbsp;: plus de soixante-dix ans contre près de soixante-quatre.</li>\n</ul>\n\n<p>Côté géographie, deux capitales piègent régulièrement — <strong>Ottawa</strong> pour le Canada, jamais Toronto ni Montréal — et deux records se retiennent ensemble&nbsp;: la <strong>Russie</strong> est le pays le plus vaste, l'<strong>Inde</strong> le plus peuplé depuis 2023, le <strong>Vatican</strong> le plus petit.</p>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Trois superlatifs géographiques du volume : la Russie est le pays le plus vaste du monde, l'Inde est le pays le plus peuplé depuis 2023 après avoir dépassé la Chine, et le Vatican est le plus petit État souverain avec moins d'un demi-kilomètre carré\">\n    <rect x=\"8\" y=\"20\" width=\"102\" height=\"90\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".28\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"59\" y=\"42\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">le plus vaste</text>\n    <text x=\"59\" y=\"66\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">la Russie</text>\n    <text x=\"59\" y=\"88\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">plus d'un neuvième</text>\n    <text x=\"59\" y=\"100\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">des terres émergées</text>\n    <rect x=\"118\" y=\"20\" width=\"102\" height=\"90\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".28\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"169\" y=\"42\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">le plus peuplé</text>\n    <text x=\"169\" y=\"66\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">l'Inde</text>\n    <text x=\"169\" y=\"88\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">a dépassé la Chine</text>\n    <text x=\"169\" y=\"100\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">en 2023</text>\n    <rect x=\"228\" y=\"20\" width=\"104\" height=\"90\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".28\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"280\" y=\"42\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">le plus petit</text>\n    <text x=\"280\" y=\"66\" font-size=\"11\" text-anchor=\"middle\" fill=\"currentColor\">le Vatican</text>\n    <text x=\"280\" y=\"88\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">moins d'un demi-</text>\n    <text x=\"280\" y=\"100\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">kilomètre carré</text>\n    <text x=\"170\" y=\"140\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">La Volga est le plus long fleuve d'Europe ; le Danube, celui qui traverse le plus de pays.</text>\n    <text x=\"170\" y=\"162\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">Ottawa, et non Toronto, est la capitale du Canada.</text>\n  </svg>\n  <figcaption>Trois superlatifs, trois pays différents&nbsp;— ils ne se déduisent pas les uns des autres.</figcaption>\n</figure>\n\n<h2>3 · Sciences</h2>\n\n<p>Huit questions, dont plusieurs reposent sur une distinction fine plutôt que sur un chiffre&nbsp;:</p>\n\n<ul>\n  <li>Deux <strong>isotopes</strong> partagent le nombre de protons mais diffèrent par les neutrons&nbsp;: mêmes propriétés chimiques, masses différentes. C'est le principe de la datation au carbone 14.</li>\n  <li>Le gaz le plus abondant de l'atmosphère est le <strong>diazote</strong> (environ 78&nbsp;%), pas l'oxygène (environ 21&nbsp;%).</li>\n  <li>Le <strong>mercure</strong> est le seul métal liquide dans les conditions ordinaires. Son symbole Hg vient du latin <em>hydrargyrum</em>, argent liquide.</li>\n  <li>Les <strong>reins</strong> filtrent le sang et produisent l'urine&nbsp;; le foie, souvent confondu avec eux, transforme les substances sans produire d'urine.</li>\n  <li><strong>Newton</strong> unifie ciel et Terre sous une même loi&nbsp;; Einstein en donnera plus tard une réinterprétation géométrique.</li>\n</ul>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 175\" role=\"img\" aria-label=\"Composition de l'atmosphère terrestre : le diazote en représente environ soixante-dix-huit pour cent, l'oxygène environ vingt et un pour cent, et les autres gaz dont l'argon et le dioxyde de carbone environ un pour cent, ce dernier n'étant présent qu'à l'état de traces malgré son rôle climatique majeur\">\n    <text x=\"8\" y=\"18\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">L'atmosphère terrestre, en volume</text>\n    <rect x=\"8\" y=\"30\" width=\"252\" height=\"34\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".45\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"134\" y=\"52\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">diazote — environ 78 %</text>\n    <rect x=\"264\" y=\"30\" width=\"60\" height=\"34\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".2\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"294\" y=\"47\" font-size=\"8\" text-anchor=\"middle\" fill=\"currentColor\">oxygène</text>\n    <text x=\"294\" y=\"58\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">21 %</text>\n    <rect x=\"328\" y=\"30\" width=\"4\" height=\"34\" rx=\"2\" fill=\"var(--accent)\" fill-opacity=\".7\"/>\n    <text x=\"8\" y=\"90\" font-size=\"9\" fill=\"currentColor\">Le reste — argon, dioxyde de carbone, vapeur d'eau — tient dans la fine bande de droite.</text>\n    <line x1=\"8\" y1=\"104\" x2=\"332\" y2=\"104\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"124\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Le paradoxe du dioxyde de carbone</text>\n    <text x=\"8\" y=\"142\" font-size=\"9\" fill=\"currentColor\">Présent à l'état de traces, il joue pourtant un rôle climatique majeur :</text>\n    <text x=\"8\" y=\"156\" font-size=\"9\" fill=\"currentColor\">l'abondance d'un gaz ne dit rien de son effet.</text>\n    <text x=\"8\" y=\"172\" font-size=\"9\" class=\"s-muted\">Répondre « oxygène » est le réflexe le plus courant — et il est faux.</text>\n  </svg>\n  <figcaption>Le gaz que l'on respire n'est pas le gaz le plus abondant autour de nous.</figcaption>\n</figure>\n\n<h2>4 · Arts, lettres et le reste</h2>\n\n<ul>\n  <li><strong>Michel-Ange</strong> a sculpté le David dans un bloc de marbre <em>déjà entamé par d'autres</em>, à une vingtaine d'années.</li>\n  <li><strong>Dostoïevski</strong> a écrit Crime et Châtiment&nbsp;; <strong>Tolstoï</strong>, son contemporain, Guerre et Paix. Les confondre est l'erreur la plus fréquente sur le roman russe.</li>\n  <li>Les peintures de <strong>Lascaux</strong> datent du Paléolithique supérieur, il y a environ dix-sept mille ans. La grotte est fermée au public depuis 1963.</li>\n  <li>Le <strong>web</strong> n'est pas internet&nbsp;: c'est un service qui fonctionne sur ce réseau, lequel existait avant lui.</li>\n  <li>Un <strong>algorithme</strong> n'a rien d'informatique par nature&nbsp;: une recette de cuisine en est un.</li>\n</ul>\n\n<h2>L'essentiel</h2>\n\n<h3>Les réflexes à corriger</h3>\n\n<table>\n  <tr><th>On répond spontanément</th><th>La bonne réponse</th></tr>\n  <tr><td>Une année-lumière, une durée</td><td>Une distance</td></tr>\n  <tr><td>Toronto, capitale du Canada</td><td>Ottawa</td></tr>\n  <tr><td>La Chine, pays le plus peuplé</td><td>L'Inde, depuis 2023</td></tr>\n  <tr><td>L'oxygène, gaz le plus abondant</td><td>Le diazote, environ 78&nbsp;%</td></tr>\n  <tr><td>Thor, roi des dieux nordiques</td><td>Odin, son père</td></tr>\n  <tr><td>Le web et internet, une même chose</td><td>Le web est un service porté par internet</td></tr>\n</table>\n\n<h3>Dates clés du volume</h3>\n\n<table>\n  <tr><th>Date</th><th>Événement</th></tr>\n  <tr><td>800</td><td>Couronnement impérial de Charlemagne</td></tr>\n  <tr><td>1337-1453</td><td>Guerre de Cent Ans, soit cent seize ans</td></tr>\n  <tr><td>1861-1865</td><td>Guerre de Sécession américaine</td></tr>\n  <tr><td>1903 et 1911</td><td>Les deux prix Nobel de Marie Curie</td></tr>\n  <tr><td>1969</td><td>Premiers pas sur la Lune, mission Apollo 11</td></tr>\n  <tr><td>2023</td><td>L'Inde dépasse la Chine en population</td></tr>\n</table>\n\n<h3>Chiffres à retenir</h3>\n\n<table>\n  <tr><th>Quantité</th><th>Valeur</th></tr>\n  <tr><td>Chromosomes d'une cellule humaine</td><td>46, soit 23 paires</td></tr>\n  <tr><td>Vitesse du son dans l'air</td><td>Environ 340 m/s</td></tr>\n  <tr><td>Diazote dans l'atmosphère</td><td>Environ 78&nbsp;%</td></tr>\n  <tr><td>Trous d'un parcours de golf</td><td>18</td></tr>\n  <tr><td>Joueurs au rugby à quinze</td><td>15, soit 8 avants et 7 arrières</td></tr>\n  <tr><td>Piliers de l'islam</td><td>5</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Prendre l'<strong>année-lumière</strong> pour une <strong>durée</strong>. C'est une <em>distance</em>&nbsp;: celle que parcourt la lumière en un an, soit environ neuf mille cinq cents milliards de kilomètres. Le mot «&nbsp;année&nbsp;» y désigne le temps de parcours servant à définir la longueur, pas la grandeur mesurée. Deux réflexes voisins&nbsp;: croire que la <em>mer</em> Morte est une mer, alors que c'est un lac salé fermé&nbsp;; et supposer que la guerre de <em>Cent</em> Ans a duré cent ans, alors qu'elle en a duré cent seize, en plusieurs conflits séparés par de longues trêves.\n</div>\n\n<blockquote><p>Un nom n'est pas une définition. Beaucoup de ce qu'on appelle culture générale consiste simplement à se méfier des étiquettes.</p></blockquote>\n",
   "questionLang": "fr",
   "answerLang": "fr",
-  "version": 3,
+  "version": 4,
   "level": "Tous niveaux",
   "theme": "Culture générale — questionnaire varié",
   "cards": [
@@ -474,9 +474,9 @@
           "Nicolas Copernic"
         ],
         "hard": [
-          "Newton, au début du XIX siècle",
-          "Kepler, dont les lois décrivent la gravitation universelle",
-          "Galilée, qui formula la loi avant Newton sans la publier"
+          "Johannes Kepler, dont les lois décrivent le mouvement des planètes",
+          "Robert Hooke, qui revendiqua la loi en carré inverse contre Newton",
+          "Edmond Halley, qui finança la publication des Principia"
         ]
       }
     },
@@ -604,9 +604,9 @@
           "Federico García Lorca"
         ],
         "hard": [
-          "Cervantès, au début du XVI siècle",
-          "Cervantès, dans un roman publié d'un seul tenant",
-          "Alonso Fernández de Avellaneda, auteur de la suite apocryphe"
+          "Alonso Fernández de Avellaneda, auteur de la suite apocryphe",
+          "Lope de Vega, principal rival de Cervantès au Siècle d'or",
+          "Mateo Alemán, auteur du Guzmán d'Alfarache"
         ]
       }
     },
@@ -656,9 +656,9 @@
           "Albert Camus"
         ],
         "hard": [
-          "Saint-Exupéry, dans un livre paru d'abord en France en 1943",
-          "Saint-Exupéry, qui disparut en mer avant la parution du livre",
-          "Jean de Brunhoff, auteur de livres illustrés contemporains"
+          "Jean de Brunhoff, auteur de livres illustrés contemporains",
+          "Joseph Kessel, aviateur et romancier de la même génération",
+          "Romain Gary, aviateur des Forces françaises libres et romancier"
         ]
       }
     },
@@ -682,9 +682,9 @@
           "Camille Pissarro"
         ],
         "hard": [
-          "Monet, dans son jardin de Barbizon",
           "Édouard Manet, dont le nom est proche et l'œuvre contemporaine",
-          "Monet, dans une série achevée avant ses trente ans"
+          "Gustave Caillebotte, peintre de jardins et mécène des impressionnistes",
+          "Pierre Bonnard, connu pour ses jardins et ses bassins tardifs"
         ]
       }
     },
@@ -709,8 +709,8 @@
         ],
         "hard": [
           "Tolstoï, auteur également de Guerre et Paix",
-          "Dostoïevski, romancier polonais du XIX siècle",
-          "Ivan Tourgueniev, contemporain et rival de Dostoïevski"
+          "Ivan Tourgueniev, contemporain et rival de Dostoïevski",
+          "Nicolas Leskov, romancier russe de la même décennie"
         ]
       }
     },
@@ -734,9 +734,9 @@
           "Frank Gehry"
         ],
         "hard": [
-          "Gaudí, dont le chantier fut achevé de son vivant",
-          "Gaudí, qui conçut la basilique à Madrid avant son transfert",
-          "Josep Maria Jujol, principal collaborateur de Gaudí"
+          "Josep Maria Jujol, principal collaborateur de Gaudí",
+          "Francisco de Paula del Villar, premier architecte du chantier",
+          "Lluís Domènech i Montaner, auteur du Palais de la musique catalane"
         ]
       }
     },
@@ -864,9 +864,9 @@
           "Howard Hawks"
         ],
         "hard": [
-          "Welles, qui en fut le réalisateur sans y tenir de rôle",
-          "Welles, dans un film sorti en 1951",
-          "Herman Mankiewicz, seul auteur du scénario et du film"
+          "Herman Mankiewicz, seul auteur du scénario et du film",
+          "Gregg Toland, chef opérateur crédité sur le même carton que le réalisateur",
+          "John Houseman, producteur de la troupe du Mercury Theatre"
         ]
       }
     },
@@ -890,9 +890,9 @@
           "La tonalité dans laquelle un morceau est écrit"
         ],
         "hard": [
-          "La vitesse d'exécution, notée uniquement en pulsations par minute",
           "Le rythme, c'est-à-dire l'organisation des durées",
-          "La vitesse d'exécution, qui doit rester constante dans une œuvre"
+          "La mesure, c'est-à-dire le regroupement régulier des temps",
+          "La nuance, c'est-à-dire l'intensité voulue par le compositeur"
         ]
       }
     },
@@ -916,9 +916,9 @@
           "Corelli"
         ],
         "hard": [
-          "Vivaldi, dans une œuvre composée de quatre symphonies",
-          "Vivaldi, compositeur napolitain de l'époque classique",
-          "Haydn, auteur de l'oratorio Les Saisons"
+          "Haydn, auteur de l'oratorio Les Saisons",
+          "Arcangelo Corelli, maître du concerto grosso romain",
+          "Tomaso Albinoni, compositeur vénitien contemporain"
         ]
       }
     },
@@ -994,9 +994,9 @@
           "Sept"
         ],
         "hard": [
-          "Cinq, dont le jeûne du ramadan et la construction de mosquées",
           "Six, en incluant le combat spirituel",
-          "Cinq, dont le pèlerinage à Jérusalem"
+          "Quatre, la profession de foi n'étant pas comptée comme un pilier",
+          "Sept, selon le dénombrement des ismaéliens"
         ]
       }
     },
@@ -1202,9 +1202,9 @@
           "Seize"
         ],
         "hard": [
-          "Quinze, dont sept avants et huit arrières",
-          "Quinze, remplaçants compris",
-          "Treize, effectif du rugby à quinze après une réforme"
+          "Treize, effectif du rugby à quinze après une réforme",
+          "Vingt-trois, remplaçants compris",
+          "Huit, effectif du seul pack d'avants"
         ]
       }
     },
@@ -1228,9 +1228,9 @@
           "Guglielmo Marconi"
         ],
         "hard": [
-          "Bell, dont l'antériorité n'a jamais été discutée",
           "Elisha Gray, qui déposa le même jour que Bell",
-          "Meucci, premier déposant reconnu du brevet en 1876"
+          "Antonio Meucci, dont le caveat de 1871 précéda le brevet",
+          "Philipp Reis, auteur du premier appareil nommé téléphone"
         ]
       }
     },
