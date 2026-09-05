@@ -8,7 +8,7 @@
   "lesson": "<style>\n  .svgfig { width:100%; height:auto; display:block; margin:0.3em auto; }\n  .svgfig text { font-family: -apple-system, system-ui, \"SF Pro Text\", sans-serif; }\n  .s-muted { fill: currentColor; opacity: 0.5; }\n</style>\n\n<h1>Culture générale — Volume 3</h1>\n\n<div class=\"callout\">\n  <strong>Repères</strong><br>\n  <b>Niveau&nbsp;:</b> tous niveaux<br>\n  <b>Format&nbsp;:</b> questionnaire varié, 50 questions<br>\n  <b>Domaines&nbsp;:</b> histoire, géographie, sciences, arts, lettres, musique, cinéma, mythologie, langue, sport, inventions\n</div>\n\n<blockquote><p><b>Le principe.</b> Beaucoup de réponses fausses sont des réponses <em>presque</em> justes&nbsp;: le bon nom, la mauvaise date&nbsp;; le bon fait, le mauvais auteur.</p></blockquote>\n\n<p>Ce troisième volume travaille l'erreur de <strong>voisinage</strong>. Magellan a lancé le premier tour du monde mais ne l'a pas achevé&nbsp;; Pasteur a mis au point le vaccin contre la rage mais n'a pas inventé la vaccination&nbsp;; Flaubert et Baudelaire ont été poursuivis la même année, mais un seul a été condamné. Dans chaque cas, la connaissance approximative suffit à répondre — et suffit aussi à se tromper.</p>\n\n<h2>1 · Le mérite et le voisin de mérite</h2>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 190\" role=\"img\" aria-label=\"Quatre cas où le mérite d'une découverte est attribué à la mauvaise personne : Magellan a lancé le premier tour du monde mais c'est Elcano qui l'a achevé, Pasteur a créé le vaccin contre la rage mais Jenner avait établi le principe de la vaccination, Volta a inventé la pile après les travaux de Galvani, et Darwin a publié la sélection naturelle en même temps que Wallace y parvenait indépendamment\">\n    <text x=\"8\" y=\"18\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">Qui a fait quoi, exactement</text>\n    <rect x=\"8\" y=\"28\" width=\"150\" height=\"34\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".28\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"83\" y=\"49\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Magellan lance</text>\n    <rect x=\"182\" y=\"28\" width=\"150\" height=\"34\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".14\" stroke=\"var(--accent)\" stroke-opacity=\".45\"/>\n    <text x=\"257\" y=\"49\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Elcano achève</text>\n    <rect x=\"8\" y=\"70\" width=\"150\" height=\"34\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".28\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"83\" y=\"91\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Jenner : le principe</text>\n    <rect x=\"182\" y=\"70\" width=\"150\" height=\"34\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".14\" stroke=\"var(--accent)\" stroke-opacity=\".45\"/>\n    <text x=\"257\" y=\"91\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Pasteur : la rage</text>\n    <rect x=\"8\" y=\"112\" width=\"150\" height=\"34\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".28\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"83\" y=\"133\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Galvani ouvre la voie</text>\n    <rect x=\"182\" y=\"112\" width=\"150\" height=\"34\" rx=\"10\" fill=\"var(--accent)\" fill-opacity=\".14\" stroke=\"var(--accent)\" stroke-opacity=\".45\"/>\n    <text x=\"257\" y=\"133\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Volta invente la pile</text>\n    <text x=\"170\" y=\"170\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Une découverte a rarement un seul auteur — et jamais un seul moment.</text>\n    <text x=\"170\" y=\"185\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">Darwin publie en 1859 ; Wallace y parvenait au même moment.</text>\n  </svg>\n  <figcaption>Attribuer correctement suppose de distinguer le principe, la première réalisation et l'achèvement.</figcaption>\n</figure>\n\n<h2>2 · Histoire</h2>\n\n<p>Sept questions, de l'écriture cunéiforme à l'élection de Mandela. Trois nuances valent d'être retenues&nbsp;:</p>\n\n<ul>\n  <li>La chute de l'Empire romain <strong>d'Occident</strong> est datée de 476 par convention&nbsp;; l'Empire <strong>d'Orient</strong> se maintient à Constantinople jusqu'en 1453, soit près de mille ans de plus.</li>\n  <li>Le <strong>4 juillet 1776</strong> est la date de la <em>déclaration</em> d'indépendance américaine&nbsp;: la reconnaissance britannique n'intervient qu'en 1783, la Constitution en 1787.</li>\n  <li><strong>Mandela</strong> est libéré en 1990 et élu en 1994, après vingt-sept ans de prison. Libération, prix Nobel et élection sont trois dates distinctes.</li>\n</ul>\n\n<h2>3 · Géographie et sciences</h2>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 185\" role=\"img\" aria-label=\"Records et repères du volume : la fosse des Mariannes atteint environ onze kilomètres de profondeur soit plus que la hauteur de l'Everest, le Canada possède le plus long littoral, la Chine et la Russie comptent quatorze voisins chacune, et l'Afrique regroupe cinquante-quatre pays\">\n    <text x=\"8\" y=\"18\" font-size=\"10\" fill=\"var(--accent)\" font-weight=\"bold\">La fosse des Mariannes, en perspective</text>\n    <line x1=\"20\" y1=\"30\" x2=\"320\" y2=\"30\" stroke=\"currentColor\" stroke-opacity=\".3\"/>\n    <text x=\"326\" y=\"33\" font-size=\"8\" class=\"s-muted\">0</text>\n    <rect x=\"60\" y=\"30\" width=\"36\" height=\"66\" fill=\"var(--accent)\" fill-opacity=\".35\"/>\n    <text x=\"78\" y=\"110\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Everest</text>\n    <text x=\"78\" y=\"122\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">8,8 km</text>\n    <rect x=\"180\" y=\"30\" width=\"36\" height=\"82\" fill=\"var(--accent)\" fill-opacity=\".55\"/>\n    <text x=\"198\" y=\"126\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Mariannes</text>\n    <text x=\"198\" y=\"138\" font-size=\"8\" text-anchor=\"middle\" class=\"s-muted\">environ 11 km</text>\n    <text x=\"240\" y=\"70\" font-size=\"9\" fill=\"currentColor\">L'Everest y tiendrait,</text>\n    <text x=\"240\" y=\"84\" font-size=\"9\" fill=\"currentColor\">avec 2 km d'eau</text>\n    <text x=\"240\" y=\"98\" font-size=\"9\" fill=\"currentColor\">au-dessus du sommet.</text>\n    <line x1=\"8\" y1=\"150\" x2=\"332\" y2=\"150\" stroke=\"currentColor\" stroke-opacity=\".2\"/>\n    <text x=\"8\" y=\"168\" font-size=\"9\" fill=\"currentColor\">Plus long littoral : le Canada · Le plus de voisins : Chine et Russie, 14 chacune</text>\n    <text x=\"8\" y=\"181\" font-size=\"9\" fill=\"currentColor\">Le plus de pays : l'Afrique, 54 · Limite Europe-Asie : l'Oural, par convention</text>\n  </svg>\n  <figcaption>Les records géographiques se retiennent mieux comparés les uns aux autres qu'appris isolément.</figcaption>\n</figure>\n\n<p>Côté sciences, quelques ancrages&nbsp;:</p>\n\n<ul>\n  <li>Le système solaire compte <strong>huit</strong> planètes depuis 2006, Pluton ayant été reclassée en planète naine faute d'avoir nettoyé le voisinage de son orbite.</li>\n  <li>L'<strong>hydrogène</strong> est l'élément le plus abondant de l'univers&nbsp;; sur Terre, l'oxygène et le silicium dominent la croûte.</li>\n  <li>La lumière du Soleil met environ <strong>huit minutes</strong> à nous parvenir&nbsp;: nous le voyons toujours avec ce retard.</li>\n  <li>Le <strong>pH</strong> mesure l'acidité sur une échelle logarithmique où 7 est la neutralité.</li>\n  <li>La <strong>peau</strong> est le plus grand organe du corps&nbsp;; le foie, le plus gros organe <em>interne</em>.</li>\n</ul>\n\n<figure>\n  <svg class=\"svgfig\" viewBox=\"0 0 340 180\" role=\"img\" aria-label=\"L'année 1857 en littérature française : Madame Bovary de Flaubert et Les Fleurs du mal de Baudelaire sont tous deux poursuivis pour outrage aux bonnes mœurs, Flaubert est acquitté tandis que Baudelaire est condamné, condamnation qui ne sera annulée qu'en 1949\">\n    <text x=\"170\" y=\"20\" font-size=\"11\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">1857 : deux procès, deux issues</text>\n    <rect x=\"8\" y=\"32\" width=\"150\" height=\"76\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".28\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"83\" y=\"52\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">Madame Bovary</text>\n    <text x=\"83\" y=\"67\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">Gustave Flaubert</text>\n    <line x1=\"30\" y1=\"78\" x2=\"136\" y2=\"78\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"83\" y=\"97\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">acquitté</text>\n    <rect x=\"182\" y=\"32\" width=\"150\" height=\"76\" rx=\"12\" fill=\"var(--accent)\" fill-opacity=\".28\" stroke=\"var(--accent)\" stroke-opacity=\".6\"/>\n    <text x=\"257\" y=\"52\" font-size=\"10\" text-anchor=\"middle\" fill=\"currentColor\">Les Fleurs du mal</text>\n    <text x=\"257\" y=\"67\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">Charles Baudelaire</text>\n    <line x1=\"204\" y1=\"78\" x2=\"310\" y2=\"78\" stroke=\"var(--accent)\" stroke-opacity=\".4\"/>\n    <text x=\"257\" y=\"97\" font-size=\"10\" text-anchor=\"middle\" fill=\"var(--accent)\" font-weight=\"bold\">condamné</text>\n    <text x=\"257\" y=\"124\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">six pièces retirées du recueil</text>\n    <text x=\"257\" y=\"138\" font-size=\"9\" text-anchor=\"middle\" class=\"s-muted\">condamnation annulée en 1949</text>\n    <text x=\"170\" y=\"168\" font-size=\"9\" text-anchor=\"middle\" fill=\"currentColor\">Même année, même chef d'accusation, deux verdicts opposés.</text>\n  </svg>\n  <figcaption>Une date qui porte deux œuvres&nbsp;: la retenir évite d'attribuer l'une à l'autre.</figcaption>\n</figure>\n\n<h2>4 · Arts, lettres et langue</h2>\n\n<ul>\n  <li><strong>1857</strong> est une année double&nbsp;: Madame Bovary de Flaubert et Les Fleurs du mal de Baudelaire y sont tous deux poursuivis. Flaubert est acquitté, Baudelaire condamné — la condamnation ne sera levée qu'en 1949.</li>\n  <li><strong>Vermeer</strong> n'a laissé qu'une quarantaine d'œuvres et fut oublié deux siècles durant avant sa redécouverte.</li>\n  <li>Le <strong>surréalisme</strong> est fondé par Breton en 1924, dans un manifeste, en s'appuyant sur le rêve et l'inconscient.</li>\n  <li>Un <strong>acronyme</strong> se prononce comme un mot (laser, radar)&nbsp;; un <strong>sigle</strong> s'épelle. Tout acronyme est un sigle, l'inverse est faux.</li>\n  <li><strong>Salaire</strong> vient de <em>sal</em>, le sel, denrée longtemps précieuse — même racine que salade, saumure, salaison.</li>\n</ul>\n\n<h2>L'essentiel</h2>\n\n<h3>Les réflexes à corriger</h3>\n\n<table>\n  <tr><th>On répond spontanément</th><th>La bonne réponse</th></tr>\n  <tr><td>Magellan a fait le tour du monde</td><td>Il l'a lancé&nbsp;; Elcano l'a achevé</td></tr>\n  <tr><td>La Grande Muraille se voit depuis la Lune</td><td>Non&nbsp;: elle est bien trop étroite</td></tr>\n  <tr><td>Istanbul, capitale de la Turquie</td><td>Ankara, depuis 1923</td></tr>\n  <tr><td>Neuf planètes dans le système solaire</td><td>Huit, depuis 2006</td></tr>\n  <tr><td>Pasteur a inventé la vaccination</td><td>Jenner en a posé le principe&nbsp;; Pasteur l'a généralisé</td></tr>\n  <tr><td>Le foie, plus grand organe du corps</td><td>La peau&nbsp;; le foie est le plus gros organe interne</td></tr>\n</table>\n\n<h3>Dates clés du volume</h3>\n\n<table>\n  <tr><th>Date</th><th>Événement</th></tr>\n  <tr><td>79</td><td>Éruption du Vésuve, Pompéi ensevelie</td></tr>\n  <tr><td>476</td><td>Fin conventionnelle de l'Empire romain d'Occident</td></tr>\n  <tr><td>1088</td><td>Fondation de l'université de Bologne</td></tr>\n  <tr><td>1519-1522</td><td>Premier tour du monde par la mer</td></tr>\n  <tr><td>1776</td><td>Déclaration d'indépendance américaine</td></tr>\n  <tr><td>1859</td><td>Darwin publie sa théorie de la sélection naturelle</td></tr>\n  <tr><td>1896</td><td>Premiers Jeux olympiques modernes, à Athènes</td></tr>\n</table>\n\n<h3>Chiffres à retenir</h3>\n\n<table>\n  <tr><th>Quantité</th><th>Valeur</th></tr>\n  <tr><td>Planètes du système solaire</td><td>8</td></tr>\n  <tr><td>Lumière du Soleil jusqu'à la Terre</td><td>Environ 8 minutes</td></tr>\n  <tr><td>Profondeur de la fosse des Mariannes</td><td>Environ 11 km</td></tr>\n  <tr><td>Pays du continent africain</td><td>54</td></tr>\n  <tr><td>Distance d'un marathon</td><td>42,195 km</td></tr>\n  <tr><td>Muses de la mythologie grecque</td><td>9</td></tr>\n</table>\n\n<div class=\"callout\">\n  <strong>Le piège à éviter</strong><br>\n  Croire que la <strong>Grande Muraille de Chine</strong> est visible à l'œil nu depuis la <strong>Lune</strong>. C'est sa <em>largeur</em>, de quelques mètres, qui détermine la visibilité — jamais sa longueur&nbsp;: elle n'est même pas distinguable à l'œil nu depuis l'orbite terrestre basse, comme les astronautes l'ont eux-mêmes démenti. Deux réflexes voisins&nbsp;: attribuer une réalisation à celui qui l'a lancée plutôt qu'à celui qui l'a achevée, comme pour le premier tour du monde&nbsp;; et confondre la <em>déclaration</em> d'un événement avec sa <em>reconnaissance</em>, comme pour l'indépendance américaine.\n</div>\n\n<blockquote><p>Le pire ennemi d'une bonne réponse n'est pas l'ignorance&nbsp;: c'est le souvenir approximatif, qui a toute la confiance du savoir sans en avoir la précision.</p></blockquote>\n",
   "questionLang": "fr",
   "answerLang": "fr",
-  "version": 1,
+  "version": 2,
   "level": "Tous niveaux",
   "theme": "Culture générale — questionnaire varié",
   "cards": [
@@ -308,19 +308,19 @@
       ],
       "distractors": {
         "easy": [
+          "L'Oural, frontière physique naturelle entre deux continents distincts",
+          "Le Caucase, seule limite reconnue entre Europe et Asie",
+          "L'Altaï, chaîne située à la limite orientale de l'Europe"
+        ],
+        "medium": [
           "Les Alpes",
           "Les Pyrénées",
           "L'Himalaya"
         ],
-        "medium": [
-          "Le Caucase",
-          "Les Carpates",
-          "Les Balkans"
-        ],
         "hard": [
-          "L'Oural, frontière physique naturelle entre deux continents distincts",
-          "Le Caucase, seule limite reconnue entre Europe et Asie",
-          "L'Altaï, chaîne située à la limite orientale de l'Europe"
+          "Le Caucase, entre mer Noire et Caspienne",
+          "Les Carpates, en Europe centrale",
+          "L'Altaï, en Asie centrale"
         ]
       }
     },
@@ -490,19 +490,19 @@
       ],
       "distractors": {
         "easy": [
+          "Environ huit minutes, délai identique pour toutes les étoiles",
+          "Environ huit minutes en été et davantage en hiver, du fait de l'orbite",
+          "Environ quatre minutes, la lumière accélérant en approchant de la Terre"
+        ],
+        "medium": [
           "Instantanément",
           "Environ un jour",
           "Environ une année"
         ],
-        "medium": [
-          "Environ huit secondes",
-          "Environ une heure",
-          "Environ huit heures"
-        ],
         "hard": [
-          "Environ huit minutes, délai identique pour toutes les étoiles",
-          "Environ huit minutes en été et davantage en hiver, du fait de l'orbite",
-          "Environ quatre minutes, la lumière accélérant en approchant de la Terre"
+          "Environ huit secondes",
+          "Environ huit heures",
+          "Environ une minute"
         ]
       }
     },
@@ -1010,19 +1010,19 @@
       ],
       "distractors": {
         "easy": [
+          "Gilgamesh, héros du récit biblique du Déluge",
+          "Noé, dont le récit n'a aucun équivalent connu antérieur",
+          "Utnapishtim, personnage du livre de la Genèse"
+        ],
+        "medium": [
           "Moïse",
           "Abraham",
           "David"
         ],
-        "medium": [
-          "Jonas",
-          "Job",
-          "Salomon"
-        ],
         "hard": [
-          "Gilgamesh, héros du récit biblique du Déluge",
-          "Noé, dont le récit n'a aucun équivalent connu antérieur",
-          "Utnapishtim, personnage du livre de la Genèse"
+          "Utnapishtim",
+          "Deucalion",
+          "Gilgamesh"
         ]
       }
     },
@@ -1114,19 +1114,19 @@
       ],
       "distractors": {
         "easy": [
+          "Le kilooctet, le mégaoctet puis le gigaoctet, chaque échelon valant environ dix fois le précédent",
+          "Le kilooctet, le mégaoctet puis le gigaoctet, ordre inverse de celui des préfixes métriques",
+          "Le kilooctet, le mégaoctet puis le téraoctet, le gigaoctet étant plus petit que le mégaoctet"
+        ],
+        "medium": [
           "Le gigaoctet, puis le kilooctet, puis le mégaoctet",
           "Le mégaoctet, puis le gigaoctet, puis le kilooctet",
           "Les trois unités désignent la même quantité"
         ],
-        "medium": [
-          "Le kilooctet, puis le gigaoctet, puis le mégaoctet",
-          "Le gigaoctet, puis le mégaoctet, puis le kilooctet",
-          "Le mégaoctet, puis le kilooctet, puis le gigaoctet"
-        ],
         "hard": [
-          "Le kilooctet, le mégaoctet puis le gigaoctet, chaque échelon valant environ dix fois le précédent",
-          "Le kilooctet, le mégaoctet puis le gigaoctet, ordre inverse de celui des préfixes métriques",
-          "Le kilooctet, le mégaoctet puis le téraoctet, le gigaoctet étant plus petit que le mégaoctet"
+          "Le mégaoctet, puis le kilooctet, puis le gigaoctet",
+          "Le kilooctet, puis le gigaoctet, puis le mégaoctet",
+          "Le gigaoctet, puis le mégaoctet, puis le kilooctet"
         ]
       }
     },
@@ -1192,19 +1192,19 @@
       ],
       "distractors": {
         "easy": [
+          "Au baseball, où le strike désigne la chute de toutes les quilles",
+          "Au bowling, où il faut deux lancers pour réaliser un strike",
+          "Au curling, où le terme désigne un tir parfait"
+        ],
+        "medium": [
           "Au football",
           "Au tennis",
           "Au basket-ball"
         ],
-        "medium": [
-          "Au baseball",
-          "Au cricket",
-          "À la pétanque"
-        ],
         "hard": [
-          "Au baseball, où le strike désigne la chute de toutes les quilles",
-          "Au bowling, où il faut deux lancers pour réaliser un strike",
-          "Au curling, où le terme désigne un tir parfait"
+          "Au baseball",
+          "Au curling",
+          "Aux fléchettes"
         ]
       }
     },
@@ -1218,19 +1218,19 @@
       ],
       "distractors": {
         "easy": [
-          "Alexander Fleming",
-          "Albert Einstein",
-          "Marie Curie"
-        ],
-        "medium": [
-          "Edward Jenner",
-          "Robert Koch",
-          "Claude Bernard"
-        ],
-        "hard": [
           "Pasteur, également inventeur du principe de la vaccination",
           "Edward Jenner, auteur du vaccin contre la rage en 1885",
           "Pasteur, dont le vaccin fut administré pour la première fois en 1785"
+        ],
+        "medium": [
+          "Albert Einstein",
+          "Marie Curie",
+          "Claude Bernard"
+        ],
+        "hard": [
+          "Edward Jenner",
+          "Robert Koch",
+          "Alexander Fleming"
         ]
       }
     },
